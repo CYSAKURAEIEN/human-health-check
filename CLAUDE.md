@@ -4,12 +4,12 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this repository is
 
-A Chinese-language Markdown handbook (《人类紧急求生与健康指南》) covering first aid, disaster response, wilderness survival, farming/husbandry, metallurgy, improvised pharmaceuticals, and everyday living skills (food preservation, nutrition, sanitation, soap, long-term housing, lighting and energy, textiles and tanning, household electrical safety, woodworking and tool maintenance). There is no code, build system, linter, or test suite — all work is writing and editing Markdown that renders on GitHub. Write all content in Simplified Chinese, matching the existing tone.
+A Chinese-language Markdown handbook (《人类紧急求生与健康指南》) covering first aid, disaster response, wilderness survival, farming/husbandry, metallurgy, improvised pharmaceuticals, and everyday living skills (food preservation, nutrition, sanitation, soap, long-term housing, lighting and energy, textiles and tanning, household electrical safety, woodworking and tool maintenance), and a reference of foundational mathematics, physics and chemistry for rebuilding technology. There is no code, build system, linter, or test suite — all work is writing and editing Markdown that renders on GitHub. Write all content in Simplified Chinese, matching the existing tone.
 
 ## Structure
 
-- `README.md` — top-level entry point: table of contents for the seven parts, a quick-lookup table (`快速索引`) of deep links into chapters, recommended reading order, disclaimer, and emergency phone numbers.
-- `docs/NN-<主题>/` — one directory per part (`01-日常疾病和伤害` … `07-日常生活技能`). Each contains a `README.md` that indexes its chapters, plus chapter files named `NN-<标题>.md`. Some parts start at `00-基础…` for foundational material; others start at `01-`.
+- `README.md` — top-level entry point: table of contents for the eight parts, a quick-lookup table (`快速索引`) of deep links into chapters, recommended reading order, disclaimer, and emergency phone numbers.
+- `docs/NN-<主题>/` — one directory per part (`01-日常疾病和伤害` … `08-基础科学知识`). Each contains a `README.md` that indexes its chapters, plus chapter files named `NN-<标题>.md`. Some parts start at `00-基础…` for foundational material; others start at `01-`.
 - Part 01's display name is 《急救与家庭健康》; its directory keeps the original name `01-日常疾病和伤害` so existing links don't break. Use the display name in link text and headings, the directory name only in paths.
 
 Adding or renaming a chapter means updating three places: the chapter file itself, its part's `README.md`, and the part's bullet list in the root `README.md` (and the quick-lookup table if relevant).
@@ -43,7 +43,7 @@ When changing a specific value or a short piece of advice, grep the whole repo f
 The style differs by when a part was written; follow the conventions of the part you are editing:
 
 - Parts 01–02 (and `03-野外生存/00-基础生存技能.md`) open with a `## 目录` of in-page anchor links and use numbered step lists under `##`/`###` headings.
-- Parts 05–06 open with a `>` tagline and a prominent `⚠️` warning section, use numbered `## 一、…` / `### 1.1 …` headings, fenced code blocks for step-by-step procedures, checklists (`- [ ]`), difficulty/risk tables with ⭐/☠️ ratings, and end with a `## 相关章节` section of ⏮️/⏭️/🔗 cross-links followed by a bolded closing line.
+- Parts 05–06 (and part 08) open with a `>` tagline and a prominent `⚠️` warning section, use numbered `## 一、…` / `### 1.1 …` headings, fenced code blocks for step-by-step procedures, checklists (`- [ ]`), difficulty/risk tables with ⭐/☠️ ratings, and end with a `## 相关章节` section of ⏮️/⏭️/🔗 cross-links followed by a bolded closing line.
 - Safety framing is a deliberate part of the content: medical chapters direct readers to professional care, and the pharmaceutical/metallurgy parts stress that procedures are for civilization-collapse scenarios only. Preserve these warnings when editing, and keep dangerous-procedure content at the educational level of the existing chapters.
 
 ## Contributing workflow
