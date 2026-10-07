@@ -10,6 +10,7 @@ A Chinese-language Markdown handbook (《人类紧急求生与健康指南》) c
 
 - `README.md` — top-level entry point: table of contents for the seven parts, a quick-lookup table (`快速索引`) of deep links into chapters, recommended reading order, disclaimer, and emergency phone numbers.
 - `docs/NN-<主题>/` — one directory per part (`01-日常疾病和伤害` … `07-日常生活技能`). Each contains a `README.md` that indexes its chapters, plus chapter files named `NN-<标题>.md`. Some parts start at `00-基础…` for foundational material; others start at `01-`.
+- Part 01's display name is 《急救与家庭健康》; its directory keeps the original name `01-日常疾病和伤害` so existing links don't break. Use the display name in link text and headings, the directory name only in paths.
 
 Adding or renaming a chapter means updating three places: the chapter file itself, its part's `README.md`, and the part's bullet list in the root `README.md` (and the quick-lookup table if relevant).
 
