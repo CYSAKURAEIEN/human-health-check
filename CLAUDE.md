@@ -13,6 +13,8 @@ A Chinese-language Markdown handbook (《人类紧急求生与健康指南》) c
 
 Adding or renaming a chapter means updating three places: the chapter file itself, its part's `README.md`, and the part's bullet list in the root `README.md` (and the quick-lookup table if relevant).
 
+Parts 01 and 03 group their chapters into themed subsections (01: 急救 / 常见病与长期健康 / 特殊人群; 03: 基础 / 户外安全 / 极端环境 / 长期生存), both in the part `README.md` and in the root `README.md`. File numbers follow the order chapters were written, not these groups, so place a new chapter under the right group in both places. The part 03 README is an index plus short summaries; put substantive content in chapters rather than duplicating it there.
+
 ## Keeping READMEs in sync with content
 
 The READMEs do more than index files — they summarize what each chapter teaches, assign difficulty/risk ratings, and lay out learning paths. So **changing a chapter's conclusions silently invalidates its READMEs**, and the result is worse than a stale description: the entry point tells readers to do something the chapter now says not to.
