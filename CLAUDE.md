@@ -33,6 +33,10 @@ The same number or instruction often appears in several places, and the copies d
 
 When changing a specific value or a short piece of advice, grep the whole repo for that value (not just the topic) and update every copy, or the handbook will contradict itself.
 
+## Units
+
+Numeric values use SI unit symbols with a space between number and symbol (`1.5 m`, `500 g`, `220 V`, `kWh`, `mL`), not Chinese unit names. Exceptions: time in running prose stays Chinese (`冲洗15分钟`, `等待3天`) but uses symbols inside formulas, data and compound units (`m/s`, `km/h`); `°C` and `%` attach without a space. 市制/英制 units (斤, 亩, 里, 英寸, 磅…) are converted to SI (per-亩 rates become per-ha, ×15); they appear only in the conversion tables in `08-基础科学知识/00-度量衡与科学方法.md`. Angles use `°`, liquor strength uses `%vol`. The symbol glossary is the `📏 单位符号说明` section of the root `README.md` — add any new symbol there.
+
 ## Linking conventions
 
 - Links use relative paths with the literal Chinese file/directory names (e.g. `../04-动植物培育/04-药用植物.md`).
