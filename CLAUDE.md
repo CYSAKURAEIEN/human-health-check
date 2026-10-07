@@ -13,6 +13,23 @@ A Chinese-language Markdown handbook (《人类紧急求生与健康指南》) c
 
 Adding or renaming a chapter means updating three places: the chapter file itself, its part's `README.md`, and the part's bullet list in the root `README.md` (and the quick-lookup table if relevant).
 
+## Keeping READMEs in sync with content
+
+The READMEs do more than index files — they summarize what each chapter teaches, assign difficulty/risk ratings, and lay out learning paths. So **changing a chapter's conclusions silently invalidates its READMEs**, and the result is worse than a stale description: the entry point tells readers to do something the chapter now says not to.
+
+After changing what a chapter concludes or recommends, grep both the root `README.md` and the part's `README.md` for the topic and reconcile:
+
+- Chapter descriptions and bullet lists (e.g. a bullet promising "阿司匹林的制备" after the chapter established it can't be made).
+- `学习路线` / `推荐阅读顺序` steps (e.g. a learning path still budgeting "1-3个月" for a procedure that was deleted).
+- `难度`/`风险`/成功率 ratings and tables, which are easy to leave pointing at content that no longer dominates the chapter.
+- The `最后更新时间` line at the bottom of the root `README.md` and `docs/06-制药技术/README.md`.
+
+## Facts are duplicated across files
+
+The same number or instruction often appears in several places, and the copies drift apart. Examples: rewarming water temperature in both `02-外伤处理.md` and `04-雪地极地求生.md`; the lightning crouch in both `02-气象灾害.md` and `05-山地求生.md`; burn-ointment advice in two part READMEs; emergency phone numbers in the root `README.md`, `docs/01-.../README.md` and `docs/02-.../README.md`; fever thresholds in a chapter and its README.
+
+When changing a specific value or a short piece of advice, grep the whole repo for that value (not just the topic) and update every copy, or the handbook will contradict itself.
+
 ## Linking conventions
 
 - Links use relative paths with the literal Chinese file/directory names (e.g. `../04-动植物培育/04-药用植物.md`).
