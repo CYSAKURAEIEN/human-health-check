@@ -35,7 +35,7 @@ When changing a specific value or a short piece of advice, grep the whole repo f
 
 ## Units
 
-Numeric values use SI unit symbols with a space between number and symbol (`1.5 m`, `500 g`, `220 V`, `kWh`, `mL`), not Chinese unit names. Exceptions: time in running prose stays Chinese (`冲洗15分钟`, `等待3天`) but uses symbols inside formulas, data and compound units (`m/s`, `km/h`); `°C` and `%` attach without a space. 市制/英制 units (斤, 亩, 里, 英寸, 磅…) are converted to SI (per-亩 rates become per-ha, ×15); they appear only in the conversion tables in `08-基础科学知识/00-度量衡与科学方法.md`. Angles use `°`, liquor strength uses `%vol`. The symbol glossary is the `📏 单位符号说明` section of the root `README.md` — add any new symbol there.
+Numeric values use SI unit symbols with a space between number and symbol (`1.5 m`, `500 g`, `220 V`, `kWh`, `mL`), not Chinese unit names. Exceptions: time in running prose stays Chinese (`冲洗15分钟`, `等待3天`) but uses symbols inside formulas, data and compound units (`m/s`, `km/h`); `°C` and `%` attach without a space. 市制/英制 units (斤, 亩, 里, 英寸, 磅…) are converted to SI (per-亩 rates become per-ha, ×15); they appear only in the conversion tables in `08-基础科学知识/00-度量衡与科学方法.md` and the historical-units section of `08-基础科学知识/09-计量基准的重建.md`. Angles use `°`, liquor strength uses `%vol`. The symbol glossary is the `📏 单位符号说明` section of the root `README.md` — add any new symbol there (its last column links to how each unit is reconstructed in `09-计量基准的重建.md`).
 
 ## Linking conventions
 
