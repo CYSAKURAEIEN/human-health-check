@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this repository is
 
-A Chinese-language Markdown handbook (《人类紧急求生与健康指南》) covering first aid, disaster response, wilderness survival, farming/husbandry, metallurgy, improvised pharmaceuticals, and everyday living skills (food preservation, nutrition, sanitation, soap, long-term housing, lighting and energy, textiles and tanning, household electrical safety, woodworking and tool maintenance), and a reference of foundational mathematics, physics, chemistry, biology and medicine for rebuilding technology, plus a more advanced part on engineering and a technology-rebuilding roadmap. There is no code, build system, linter, or test suite — all work is writing and editing Markdown that renders on GitHub. Write all content in Simplified Chinese, matching the existing tone.
+A Chinese-language Markdown handbook (《人类紧急求生与健康指南》) covering first aid, disaster response, wilderness survival, farming/husbandry, metallurgy, improvised pharmaceuticals, and everyday living skills (food preservation, nutrition, sanitation, soap, long-term housing, lighting and energy, textiles and tanning, household electrical safety, woodworking and tool maintenance, water supply, pottery/glass/papermaking, teaching and knowledge preservation, record-keeping and community organisation), and a reference of foundational mathematics, physics, chemistry, biology and medicine for rebuilding technology, plus a more advanced part on engineering and a technology-rebuilding roadmap. There is no code, build system, linter, or test suite — all work is writing and editing Markdown that renders on GitHub. Write all content in Simplified Chinese, matching the existing tone.
 
 ## Structure
 
