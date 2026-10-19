@@ -1,0 +1,47 @@
+# 每次 main 分支的内容更新后,生成离线版(单文件 HTML 和 PDF),
+# 发布到 Releases 里的 offline-latest。
+name: 生成离线版
+
+on:
+  push:
+    branches: [main]
+    paths: ['**.md', 'tools/build_offline.py', '.github/workflows/offline.yml']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: offline-build
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 安装 pandoc 和中文字体
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc fonts-noto-cjk
+
+      - name: 生成 HTML
+        run: python3 tools/build_offline.py dist/human-health-guide.html
+
+      - name: 生成 PDF
+        run: |
+          google-chrome --headless=new --no-sandbox --disable-gpu --no-pdf-header-footer \
+            --print-to-pdf="$PWD/dist/human-health-guide.pdf" "file://$PWD/dist/human-health-guide.html"
+
+      - name: 发布到 offline-latest
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          notes="由 main 分支 ${GITHUB_SHA::7} 自动生成。HTML 用浏览器打开即可离线阅读;PDF 适合打印或存在手机上。"
+          gh release view offline-latest >/dev/null 2>&1 || \
+            gh release create offline-latest --title "离线版(自动生成)" --notes "$notes" --target "$GITHUB_SHA"
+          gh release edit offline-latest --notes "$notes"
+          gh release upload offline-latest --clobber \
+            "dist/human-health-guide.html#人类紧急求生与健康指南(离线版).html" \
+            "dist/human-health-guide.pdf#人类紧急求生与健康指南(离线版).pdf"
