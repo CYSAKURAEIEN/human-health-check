@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 700" width="680" height="700" role="img" aria-label="简易沙炭过滤器剖面: 剪掉瓶底的塑料瓶倒挂,从下到上依次是小石子、粗沙、细沙、木炭、布料,瓶口塞布或草;过滤后仍需煮沸或消毒">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>简易沙炭过滤器剖面</title>
+<defs>
+<pattern id="cloth" width="12" height="6" patternUnits="userSpaceOnUse"><rect width="12" height="6" fill="#cfe0f0"/><path d="M0 3 Q3 0 6 3 T12 3" fill="none" stroke="#7d9cbc" stroke-width="1"/></pattern>
+<pattern id="charcoal" width="22" height="16" patternUnits="userSpaceOnUse"><rect width="22" height="16" fill="#666"/><path d="M2 3 L7 1 L9 6 L4 8 Z M12 9 L18 7 L20 13 L14 14 Z M3 11 L7 10 L8 15 L2 15 Z M14 1 L19 2 L17 5 Z" fill="#2a2a2a"/></pattern>
+<pattern id="fine" width="8" height="8" patternUnits="userSpaceOnUse"><rect width="8" height="8" fill="#f3e6bf"/><circle cx="2" cy="2" r="0.8" fill="#b89a5a"/><circle cx="6" cy="5" r="0.8" fill="#b89a5a"/><circle cx="3" cy="7" r="0.6" fill="#b89a5a"/></pattern>
+<pattern id="coarse" width="14" height="12" patternUnits="userSpaceOnUse"><rect width="14" height="12" fill="#e2c78e"/><circle cx="3" cy="3" r="1.8" fill="#9c7c40"/><circle cx="10" cy="6" r="2" fill="#9c7c40"/><circle cx="5" cy="10" r="1.6" fill="#9c7c40"/></pattern>
+<pattern id="pebble" width="30" height="22" patternUnits="userSpaceOnUse"><rect width="30" height="22" fill="#e6e6e6"/><g fill="#bdbdbd" stroke="#777" stroke-width="1"><ellipse cx="7" cy="6" rx="6" ry="4.5"/><ellipse cx="21" cy="8" rx="7" ry="5"/><ellipse cx="12" cy="17" rx="6.5" ry="4.5"/><ellipse cx="27" cy="19" rx="4" ry="3"/></g></pattern>
+<pattern id="plug" width="10" height="10" patternUnits="userSpaceOnUse"><rect width="10" height="10" fill="#e8d9a6"/><path d="M0 10 L10 0 M-2 2 L2 -2 M8 12 L12 8" stroke="#a88f4a" stroke-width="1.2"/></pattern>
+<clipPath id="inside"><path d="M172 108 L172 392 Q172 434 225 452 L225 492 L275 492 L275 452 Q328 434 328 392 L328 108 Z"/></clipPath>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+</defs>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" fill="#222">
+<text x="340" y="30" font-size="18" font-weight="bold" text-anchor="middle">简易沙炭过滤器剖面(塑料瓶,也可用竹筒)</text>
+
+<!-- hanging stick and strings -->
+<line x1="140" y1="56" x2="360" y2="56" stroke="#8b6b3e" stroke-width="6" stroke-linecap="round"/>
+<line x1="186" y1="58" x2="180" y2="118" stroke="#666" stroke-width="1.5"/>
+<line x1="314" y1="58" x2="320" y2="118" stroke="#666" stroke-width="1.5"/>
+
+<!-- pouring water -->
+<path d="M250 64 Q244 84 250 104 T250 140" fill="none" stroke="#0b5cad" stroke-width="2.5" marker-end="url(#arB)"/>
+<text x="170" y="92" font-size="16" text-anchor="end">水从上倒入</text>
+
+<!-- layers -->
+<g clip-path="url(#inside)">
+<rect x="160" y="150" width="180" height="48" fill="#d8ebf7"/>
+<rect x="160" y="198" width="180" height="14" fill="url(#cloth)"/>
+<rect x="160" y="212" width="180" height="46" fill="url(#charcoal)"/>
+<rect x="160" y="258" width="180" height="82" fill="url(#fine)"/>
+<rect x="160" y="340" width="180" height="50" fill="url(#coarse)"/>
+<rect x="160" y="390" width="180" height="62" fill="url(#pebble)"/>
+<rect x="160" y="452" width="180" height="40" fill="url(#plug)"/>
+<g stroke="#888" stroke-width="0.8"><line x1="160" y1="198" x2="340" y2="198"/><line x1="160" y1="212" x2="340" y2="212"/><line x1="160" y1="258" x2="340" y2="258"/><line x1="160" y1="340" x2="340" y2="340"/><line x1="160" y1="390" x2="340" y2="390"/><line x1="160" y1="452" x2="340" y2="452"/></g>
+</g>
+
+<!-- bottle outline (open at cut base, top) -->
+<path d="M170 108 L170 392 Q170 436 223 454 L223 494 M330 108 L330 392 Q330 436 277 454 L277 494" fill="none" stroke="#333" stroke-width="3"/>
+<path d="M219 470 L281 470 M219 478 L281 478" stroke="#333" stroke-width="2"/>
+<circle cx="180" cy="120" r="3" fill="#fff" stroke="#333" stroke-width="1.5"/>
+<circle cx="320" cy="120" r="3" fill="#fff" stroke="#333" stroke-width="1.5"/>
+
+<!-- drops and cup -->
+<path d="M250 502 q-5 8 0 12 q5 -4 0 -12 Z M250 524 q-5 8 0 12 q5 -4 0 -12 Z" fill="#0b5cad"/>
+<path d="M200 548 L210 616 L290 616 L300 548" fill="none" stroke="#333" stroke-width="3"/>
+<path d="M205 588 L209 614 L291 614 L295 588 Z" fill="#d8ebf7"/>
+<text x="312" y="590" font-size="16">下方收集</text>
+<text x="190" y="570" font-size="15" text-anchor="end">刚流出的水</text>
+<text x="190" y="590" font-size="15" text-anchor="end">先倒掉一些</text>
+
+<!-- left notes -->
+<text x="160" y="160" font-size="15" text-anchor="end">塑料瓶剪掉瓶底</text>
+<text x="160" y="180" font-size="15" text-anchor="end">倒过来挂起</text>
+<path d="M156 342 L150 342 L150 388 L156 388" fill="none" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="144" y="360" font-size="15" text-anchor="end" fill="#0b5cad">每层厚约</text>
+<text x="144" y="380" font-size="15" text-anchor="end" fill="#0b5cad">5-10 cm</text>
+
+<!-- right labels: 从下到上 -->
+<text x="384" y="168" font-size="16" font-weight="bold" fill="#0b5cad">层次(从下到上)</text>
+<g stroke="#0b5cad" stroke-width="1" fill="none">
+<polyline points="300,205 378,205"/>
+<polyline points="300,235 378,235"/>
+<polyline points="300,300 378,300"/>
+<polyline points="300,365 378,365"/>
+<polyline points="300,420 378,420"/>
+<polyline points="262,472 378,472"/>
+</g>
+<g fill="#0b5cad"><circle cx="300" cy="205" r="2.5"/><circle cx="300" cy="235" r="2.5"/><circle cx="300" cy="300" r="2.5"/><circle cx="300" cy="365" r="2.5"/><circle cx="300" cy="420" r="2.5"/><circle cx="262" cy="472" r="2.5"/></g>
+<text x="384" y="210" font-size="16">⑤ 布料</text>
+<text x="384" y="240" font-size="16">④ 木炭(烧过的,碾碎)</text>
+<text x="404" y="260" font-size="14" fill="#555">去掉一部分异味和颜色,不能杀菌</text>
+<text x="384" y="305" font-size="16">③ 细沙</text>
+<text x="404" y="325" font-size="14" fill="#555">细沙层越厚效果越好</text>
+<text x="384" y="370" font-size="16">② 粗沙</text>
+<text x="384" y="425" font-size="16">① 小石子</text>
+<text x="384" y="477" font-size="16">瓶口塞一团布或草</text>
+<text x="404" y="497" font-size="14" fill="#555">防止沙子漏出</text>
+<text x="384" y="530" font-size="14" fill="#555">沙子、木炭先用清水冲洗,</text>
+<text x="384" y="548" font-size="14" fill="#555">冲到流出的水比较清</text>
+
+<!-- warning -->
+<rect x="20" y="636" width="640" height="54" rx="6" fill="#fdecec" stroke="#c33" stroke-width="2"/>
+<text x="340" y="658" font-size="16" font-weight="bold" fill="#c33" text-anchor="middle">⚠ 只能去除颗粒和部分杂质,不能杀灭病菌</text>
+<text x="340" y="680" font-size="16" font-weight="bold" fill="#c33" text-anchor="middle">过滤后的水仍需煮沸(或化学消毒)才能喝</text>
+</g>
+</svg>

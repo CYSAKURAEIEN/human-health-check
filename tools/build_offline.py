@@ -7,7 +7,7 @@
 正文最前面加一页"版本信息"(仓库地址、源文件提交、生成时间),
 同样的信息也写进 meta 标签、HTML 注释和一行看不见的白色小字,供日后查证。
 """
-import datetime, html, os, re, subprocess, sys, urllib.parse
+import base64, datetime, html, mimetypes, os, re, subprocess, sys, urllib.parse
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = sys.argv[1] if len(sys.argv) > 1 else os.path.join(ROOT, 'dist', '人类紧急求生与健康指南.html')
@@ -77,7 +77,7 @@ def files_in_order():
     yield 'README.md'
     for part in sorted(os.listdir(os.path.join(ROOT, 'docs'))):
         d = os.path.join('docs', part)
-        if not os.path.isdir(os.path.join(ROOT, d)):
+        if not os.path.isfile(os.path.join(ROOT, d, 'README.md')):  # 跳过 docs/images 等非章节目录
             continue
         yield os.path.join(d, 'README.md')
         for f in sorted(os.listdir(os.path.join(ROOT, d))):
@@ -117,6 +117,19 @@ def render(path, ids):
         return f'href="{html.escape(new)}"'
 
     body = re.sub(r'href="([^"]*)"', fix, body)
+    # 仓库里的图片(docs/images/*.svg 等)直接嵌进 HTML,单个文件也能显示
+    def inline_img(m):
+        src = html.unescape(m.group(1))
+        if re.match(r'^[a-z]+:', src):
+            return m.group(0)
+        p = os.path.normpath(os.path.join(ROOT, os.path.dirname(path), urllib.parse.unquote(src)))
+        if not os.path.isfile(p):
+            return m.group(0)
+        mime = mimetypes.guess_type(p)[0] or 'application/octet-stream'
+        data = base64.b64encode(open(p, 'rb').read()).decode()
+        return f'src="data:{mime};base64,{data}"'
+
+    body = re.sub(r'(?<=<img )src="([^"]*)"', inline_img, body)
     # 离线时外部图片(如许可证徽章)加载不出来,换成替代文字
     body = re.sub(r'<img\s[^>]*src="https?://[^"]*"[^>]*alt="([^"]*)"[^>]*/?>', r'\1', body)
     return f'<section class="doc" id="{fid}">\n<div class="src">{html.escape(path)}</div>\n{body}\n</section>\n'
@@ -135,13 +148,14 @@ code{font-family:"Noto Sans Mono CJK SC",Consolas,monospace;font-size:.92em}
 blockquote{border-left:4px solid #c33;margin:.8em 0;padding:.2em 1em;color:#555;background:#fafafa}
 a{color:#0b5cad}
 .src{font-size:.8em;color:#999;margin-top:2em}
+img{max-width:100%;height:auto;display:block;margin:.8em auto}
 .colophon td,.colophon th{text-align:left}
 .colophon th{white-space:nowrap}
 .colophon code{word-break:break-all}
 .hidden-mark{color:#fff;font-size:1px;line-height:1px;margin:0;user-select:all}
 .doc{border-top:3px double #bbb;margin-top:2em}
 #top{position:fixed;right:1em;bottom:1em;background:#c33;color:#fff;padding:.4em .7em;border-radius:4px;text-decoration:none}
-@media print{#top{display:none}.doc{page-break-before:always}pre,table,blockquote{page-break-inside:avoid}
+@media print{#top{display:none}.doc{page-break-before:always}pre,table,blockquote,img{page-break-inside:avoid}
   a{color:#222;text-decoration:none}body{max-width:none;padding:0}
   .colophon{page-break-after:always}
 }
