@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 830" width="720" height="830" role="img" aria-label="烧伤面积估算(中国新九分法,成人):头颈9%(头发区、面部、颈部各3%);双上肢18%(双上臂7%、双前臂6%、双手5%);躯干27%(前面13%、后面13%、会阴1%);双下肢46%(双臀5%、双大腿21%、双小腿13%、双足7%)。12岁以下儿童:头颈=9%+(12-年龄)%,双下肢=46%-(12-年龄)%。手掌法:伤者自己的手掌连手指约等于1%体表面积" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>烧伤面积估算: 九分法与手掌法</title>
+<text x="360" y="28" font-size="17" fill="#222" text-anchor="middle" font-weight="bold">烧伤面积估算: 中国新九分法(成人)</text>
+<rect x="8" y="42" width="704" height="514" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<path d="M 146 290 L 189 290 L 186 302 L 178 392 L 150 392 Z" fill="#e4daf0" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 234 290 L 191 290 L 194 302 L 202 392 L 230 392 Z" fill="#e4daf0" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 150 392 L 178 392 L 173 474 L 157 474 Z" fill="#d0c0ea" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 230 392 L 202 392 L 207 474 L 223 474 Z" fill="#d0c0ea" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 157 474 L 173 474 L 175 490 L 146 490 Q 144 480 157 474 Z" fill="#f0ebf8" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 223 474 L 207 474 L 205 490 L 234 490 Q 236 480 223 474 Z" fill="#f0ebf8" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 150 134 L 230 134 Q 240 136 238 150 L 230 230 L 234 292 L 146 292 L 150 230 L 142 150 Q 140 136 150 134 Z" fill="#cfe0f0" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 178 290 L 202 290 L 190 306 Z" fill="#8fb3d9" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 148 138 Q 130 132 126 150 L 116 222 L 136 222 L 146 160 Z" fill="#cfe6c4" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 232 138 Q 250 132 254 150 L 264 222 L 244 222 L 234 160 Z" fill="#cfe6c4" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 116 222 L 136 222 L 128 294 L 110 294 Z" fill="#b2d8a2" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 264 222 L 244 222 L 252 294 L 270 294 Z" fill="#b2d8a2" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 110 294 L 128 294 Q 133 312 127 328 Q 119 337 111 328 Q 104 312 110 294 Z" fill="#e6f2df" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 270 294 L 252 294 Q 247 312 253 328 Q 261 337 269 328 Q 276 312 270 294 Z" fill="#e6f2df" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<rect x="181" y="114" width="18" height="22" fill="#f2d394" stroke="#333" stroke-width="2"/>
+<circle cx="190" cy="96" r="24" fill="#fae6bf" stroke="#333" stroke-width="2"/>
+<path d="M 166 94 A24 24 0 0 1 214 94 Q 190 82 166 94 Z" fill="#e8c37c" stroke="#333" stroke-width="2"/>
+<circle cx="182" cy="100" r="2" fill="#333"/><circle cx="198" cy="100" r="2" fill="#333"/>
+<path d="M 184 110 Q 190 114 196 110" fill="none" stroke="#333" stroke-width="1.5"/>
+<path d="M 446 290 L 489 290 L 486 302 L 478 392 L 450 392 Z" fill="#e4daf0" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 534 290 L 491 290 L 494 302 L 502 392 L 530 392 Z" fill="#e4daf0" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 450 392 L 478 392 L 473 474 L 457 474 Z" fill="#d0c0ea" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 530 392 L 502 392 L 507 474 L 523 474 Z" fill="#d0c0ea" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 457 474 L 473 474 L 475 490 L 446 490 Q 444 480 457 474 Z" fill="#f0ebf8" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 523 474 L 507 474 L 505 490 L 534 490 Q 536 480 523 474 Z" fill="#f0ebf8" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 450 134 L 530 134 Q 540 136 538 150 L 530 230 L 534 292 L 446 292 L 450 230 L 442 150 Q 440 136 450 134 Z" fill="#cfe0f0" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 488 250 Q 450 248 445 276 L 446 292 L 450 300 Q 470 308 489 300 Z" fill="#c4b0de" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 492 250 Q 530 248 535 276 L 534 292 L 530 300 Q 510 308 491 300 Z" fill="#c4b0de" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 448 138 Q 430 132 426 150 L 416 222 L 436 222 L 446 160 Z" fill="#cfe6c4" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 532 138 Q 550 132 554 150 L 564 222 L 544 222 L 534 160 Z" fill="#cfe6c4" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 416 222 L 436 222 L 428 294 L 410 294 Z" fill="#b2d8a2" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 564 222 L 544 222 L 552 294 L 570 294 Z" fill="#b2d8a2" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 410 294 L 428 294 Q 433 312 427 328 Q 419 337 411 328 Q 404 312 410 294 Z" fill="#e6f2df" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 570 294 L 552 294 Q 547 312 553 328 Q 561 337 569 328 Q 576 312 570 294 Z" fill="#e6f2df" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<rect x="481" y="114" width="18" height="22" fill="#f2d394" stroke="#333" stroke-width="2"/>
+<circle cx="490" cy="96" r="24" fill="#e8c37c" stroke="#333" stroke-width="2"/>
+<text x="190" y="214" font-size="14" fill="#222" text-anchor="middle">前躯干</text>
+<text x="190" y="232" font-size="15" text-anchor="middle"><tspan fill="#c33" font-weight="bold">13%</tspan></text>
+<text x="490" y="200" font-size="14" fill="#222" text-anchor="middle">后躯干</text>
+<text x="490" y="218" font-size="15" text-anchor="middle"><tspan fill="#c33" font-weight="bold">13%</tspan></text>
+<text x="20" y="106" font-size="14" fill="#222" text-anchor="start">面部 <tspan fill="#c33" font-weight="bold">3%</tspan></text>
+<line x1="72" y1="101" x2="180" y2="106" stroke="#0b5cad" stroke-width="1.3"/><circle cx="180" cy="106" r="2.6" fill="#0b5cad"/>
+<text x="20" y="184" font-size="14" fill="#222" text-anchor="start">双上臂 共<tspan fill="#c33" font-weight="bold">7%</tspan></text>
+<line x1="100" y1="179" x2="130" y2="184" stroke="#0b5cad" stroke-width="1.3"/><circle cx="130" cy="184" r="2.6" fill="#0b5cad"/>
+<text x="20" y="262" font-size="14" fill="#222" text-anchor="start">双前臂 共<tspan fill="#c33" font-weight="bold">6%</tspan></text>
+<line x1="100" y1="257" x2="122" y2="262" stroke="#0b5cad" stroke-width="1.3"/><circle cx="122" cy="262" r="2.6" fill="#0b5cad"/>
+<text x="20" y="330" font-size="14" fill="#222" text-anchor="start">双手 共<tspan fill="#c33" font-weight="bold">5%</tspan></text>
+<line x1="86" y1="325" x2="118" y2="318" stroke="#0b5cad" stroke-width="1.3"/><circle cx="118" cy="318" r="2.6" fill="#0b5cad"/>
+<text x="270" y="140" font-size="14" fill="#222" text-anchor="start">颈部 <tspan fill="#c33" font-weight="bold">3%</tspan></text>
+<line x1="266" y1="135" x2="196" y2="126" stroke="#0b5cad" stroke-width="1.3"/><circle cx="196" cy="126" r="2.6" fill="#0b5cad"/>
+<text x="270" y="312" font-size="14" fill="#222" text-anchor="start">会阴 <tspan fill="#c33" font-weight="bold">1%</tspan></text>
+<line x1="266" y1="307" x2="190" y2="296" stroke="#0b5cad" stroke-width="1.3"/><circle cx="190" cy="296" r="2.6" fill="#0b5cad"/>
+<text x="270" y="360" font-size="14" fill="#222" text-anchor="start">双大腿 共<tspan fill="#c33" font-weight="bold">21%</tspan></text>
+<line x1="266" y1="355" x2="214" y2="350" stroke="#0b5cad" stroke-width="1.3"/><circle cx="214" cy="350" r="2.6" fill="#0b5cad"/>
+<text x="270" y="436" font-size="14" fill="#222" text-anchor="start">双小腿 共<tspan fill="#c33" font-weight="bold">13%</tspan></text>
+<line x1="266" y1="431" x2="216" y2="434" stroke="#0b5cad" stroke-width="1.3"/><circle cx="216" cy="434" r="2.6" fill="#0b5cad"/>
+<text x="270" y="500" font-size="14" fill="#222" text-anchor="start">双足 共<tspan fill="#c33" font-weight="bold">7%</tspan></text>
+<line x1="266" y1="495" x2="222" y2="484" stroke="#0b5cad" stroke-width="1.3"/><circle cx="222" cy="484" r="2.6" fill="#0b5cad"/>
+<text x="596" y="76" font-size="14" fill="#222" text-anchor="start">头发区 <tspan fill="#c33" font-weight="bold">3%</tspan></text>
+<line x1="592" y1="71" x2="504" y2="84" stroke="#0b5cad" stroke-width="1.3"/><circle cx="504" cy="84" r="2.6" fill="#0b5cad"/>
+<text x="596" y="392" font-size="14" fill="#222" text-anchor="start">双臀 共<tspan fill="#c33" font-weight="bold">5%</tspan></text>
+<line x1="592" y1="387" x2="512" y2="282" stroke="#0b5cad" stroke-width="1.3"/><circle cx="512" cy="282" r="2.6" fill="#0b5cad"/>
+<text x="190" y="532" font-size="15" fill="#222" text-anchor="middle" font-weight="bold">正面</text>
+<text x="490" y="532" font-size="15" fill="#222" text-anchor="middle" font-weight="bold">背面</text>
+<text x="596" y="460" font-size="13" fill="#666">四肢、颈部的数字</text>
+<text x="596" y="477" font-size="13" fill="#666">含前后两面,</text>
+<text x="596" y="494" font-size="13" fill="#666">只标一次</text>
+<rect x="8" y="566" width="372" height="226" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="22" y="590" font-size="16" fill="#222" font-weight="bold">按部位合计(成人)</text>
+<rect x="24" y="603" width="16" height="16" rx="3" fill="#fae6bf" stroke="#333" stroke-width="1.5"/>
+<text x="50" y="616" font-size="15" fill="#222">头颈</text>
+<text x="160" y="616" font-size="15" text-anchor="end"><tspan fill="#c33" font-weight="bold">9%</tspan></text>
+<text x="168" y="616" font-size="14" fill="#666"></text>
+<rect x="24" y="627" width="16" height="16" rx="3" fill="#cfe6c4" stroke="#333" stroke-width="1.5"/>
+<text x="50" y="640" font-size="15" fill="#222">双上肢</text>
+<text x="160" y="640" font-size="15" text-anchor="end"><tspan fill="#c33" font-weight="bold">18%</tspan></text>
+<text x="168" y="640" font-size="14" fill="#666">(2个9%)</text>
+<rect x="24" y="651" width="16" height="16" rx="3" fill="#cfe0f0" stroke="#333" stroke-width="1.5"/>
+<text x="50" y="664" font-size="15" fill="#222">躯干</text>
+<text x="160" y="664" font-size="15" text-anchor="end"><tspan fill="#c33" font-weight="bold">27%</tspan></text>
+<text x="168" y="664" font-size="14" fill="#666">(3个9%)</text>
+<rect x="24" y="675" width="16" height="16" rx="3" fill="#e4daf0" stroke="#333" stroke-width="1.5"/>
+<text x="50" y="688" font-size="15" fill="#222">双下肢</text>
+<text x="160" y="688" font-size="15" text-anchor="end"><tspan fill="#c33" font-weight="bold">46%</tspan></text>
+<text x="168" y="688" font-size="14" fill="#666">(5个9%加1%)</text>
+<line x1="22" y1="702" x2="366" y2="702" stroke="#ddd" stroke-width="1.5"/>
+<text x="22" y="724" font-size="14" fill="#222" font-weight="bold">儿童(12岁以下)头大腿短,要修正:</text>
+<text x="22" y="744" font-size="14" fill="#222">头颈 = 9% + (12 - 年龄)%</text>
+<text x="22" y="763" font-size="14" fill="#222">双下肢 = 46% - (12 - 年龄)%</text>
+<text x="22" y="782" font-size="14" fill="#0b5cad">例: 2岁儿童,头颈约19%,双下肢约36%</text>
+<rect x="390" y="566" width="322" height="226" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="404" y="590" font-size="16" fill="#222" font-weight="bold">零散或小面积: 手掌法</text>
+<path d="M 446 632 Q 446 612 454 612 L 490 612 Q 498 612 498 632 L 498 730 Q 498 762 472 764 Q 446 762 446 730 Z" fill="#f3e3d3" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+<line x1="459" y1="614" x2="459" y2="672" stroke="#333" stroke-width="1.5"/>
+<line x1="472" y1="614" x2="472" y2="672" stroke="#333" stroke-width="1.5"/>
+<line x1="485" y1="614" x2="485" y2="672" stroke="#333" stroke-width="1.5"/>
+<path d="M 446 704 Q 432 692 424 674 Q 420 664 430 666 Q 440 682 446 688" fill="#f3e3d3" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+<rect x="416" y="604" width="90" height="170" rx="14" fill="none" stroke="#c33" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="520" y="624" font-size="14" fill="#222"><tspan font-weight="bold">伤者自己的</tspan>手掌</text>
+<text x="520" y="644" font-size="14" fill="#222">(包括手指)≈ <tspan fill="#c33" font-weight="bold">1%</tspan></text>
+<text x="520" y="668" font-size="14" fill="#222">五指并拢,整个手掌</text>
+<text x="520" y="688" font-size="14" fill="#222">加手指</text>
+<text x="520" y="712" font-size="14" fill="#c33">用伤者的手,</text>
+<text x="520" y="732" font-size="14" fill="#c33">不是救助者的手</text>
+<text x="520" y="756" font-size="14" fill="#666">一度烧伤(只发红)</text>
+<text x="520" y="776" font-size="14" fill="#666">不计入面积</text>
+<text x="360" y="816" font-size="15" fill="#c33" text-anchor="middle" font-weight="bold">二度烧伤成人&gt;10%、儿童&gt;5%,或任何三度烧伤 → 立即就医</text>
+</svg>
