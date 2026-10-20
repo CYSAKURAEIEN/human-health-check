@@ -1,0 +1,199 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 716" width="720" height="716" role="img" aria-label="生火材料和火堆结构: 材料从细到粗,火绒、引火材(火柴粗、铅笔粗、拇指粗)、燃料(手指粗到手腕粗),从小到大逐渐添加;锥形火快速生火,迎风一侧留小口点火;木屋式井字交叉堆叠,适合做饭;星形火几根粗木头一头朝向中心,烧短了往中心推,省柴;平台式在湿地雪地上先铺一层木头平台">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>生火材料与火堆结构</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<g id="nest"><ellipse cx="0" cy="0" rx="22" ry="9" fill="#e8cf8f" stroke="#8f6d2e" stroke-width="1.5"/><path d="M-16,-2 Q-6,-8 4,-3 M-10,3 Q2,-4 14,1 M-4,-5 Q8,-9 16,-3" fill="none" stroke="#8f6d2e" stroke-width="1.2"/></g>
+<g id="flame"><path d="M-14,0 Q-18,-18 -6,-30 Q-6,-18 0,-16 Q2,-32 10,-42 Q12,-22 18,-14 Q20,-4 14,0 Z" fill="#f08a24" stroke="#c33" stroke-width="2"/><path d="M-6,-1 Q-8,-12 0,-18 Q2,-10 6,-6 Q8,-2 6,-1 Z" fill="#ffd34d"/></g>
+</defs>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="14" fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">生火材料与火堆结构</text>
+<g transform="translate(10,42)">
+<rect x="0" y="0" width="700" height="200" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="26" font-size="16" font-weight="bold">先备齐三种材料,从细到粗</text>
+<text x="232" y="26" font-size="14" fill="#555">每种一大把,数量是你以为够的两倍</text>
+<use href="#nest" transform="translate(70,82) scale(1.5)"/>
+<text x="70" y="128" font-size="15" font-weight="bold" text-anchor="middle">火绒</text>
+<text x="70" y="148" font-size="13" text-anchor="middle" fill="#555">揉松成鸟窝状,</text>
+<text x="70" y="165" font-size="13" text-anchor="middle" fill="#555">约一拳大</text>
+<line x1="170" y1="68" x2="240" y2="65" stroke="#333" stroke-width="4" stroke-linecap="round"/>
+<line x1="170" y1="68" x2="240" y2="65" stroke="#a07c4a" stroke-width="2" stroke-linecap="round"/>
+<line x1="170" y1="75" x2="240" y2="72" stroke="#333" stroke-width="4" stroke-linecap="round"/>
+<line x1="170" y1="75" x2="240" y2="72" stroke="#a07c4a" stroke-width="2" stroke-linecap="round"/>
+<line x1="170" y1="82" x2="240" y2="79" stroke="#333" stroke-width="4" stroke-linecap="round"/>
+<line x1="170" y1="82" x2="240" y2="79" stroke="#a07c4a" stroke-width="2" stroke-linecap="round"/>
+<text x="205" y="128" font-size="14" text-anchor="middle">火柴粗</text>
+<line x1="270" y1="68" x2="340" y2="65" stroke="#333" stroke-width="6" stroke-linecap="round"/>
+<line x1="270" y1="68" x2="340" y2="65" stroke="#a07c4a" stroke-width="4" stroke-linecap="round"/>
+<line x1="270" y1="77" x2="340" y2="74" stroke="#333" stroke-width="6" stroke-linecap="round"/>
+<line x1="270" y1="77" x2="340" y2="74" stroke="#a07c4a" stroke-width="4" stroke-linecap="round"/>
+<line x1="270" y1="86" x2="340" y2="83" stroke="#333" stroke-width="6" stroke-linecap="round"/>
+<line x1="270" y1="86" x2="340" y2="83" stroke="#a07c4a" stroke-width="4" stroke-linecap="round"/>
+<text x="305" y="128" font-size="14" text-anchor="middle">铅笔粗</text>
+<line x1="370" y1="68" x2="440" y2="65" stroke="#333" stroke-width="10" stroke-linecap="round"/>
+<line x1="370" y1="68" x2="440" y2="65" stroke="#a07c4a" stroke-width="8" stroke-linecap="round"/>
+<line x1="370" y1="81" x2="440" y2="78" stroke="#333" stroke-width="10" stroke-linecap="round"/>
+<line x1="370" y1="81" x2="440" y2="78" stroke="#a07c4a" stroke-width="8" stroke-linecap="round"/>
+<line x1="370" y1="94" x2="440" y2="91" stroke="#333" stroke-width="10" stroke-linecap="round"/>
+<line x1="370" y1="94" x2="440" y2="91" stroke="#a07c4a" stroke-width="8" stroke-linecap="round"/>
+<text x="405" y="128" font-size="14" text-anchor="middle">拇指粗</text>
+<path d="M168,140 L442,140" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="305" y="162" font-size="15" font-weight="bold" text-anchor="middle">引火材</text>
+<line x1="480" y1="62" x2="630" y2="59" stroke="#333" stroke-width="15" stroke-linecap="round"/>
+<line x1="480" y1="62" x2="630" y2="59" stroke="#8b6b3e" stroke-width="13" stroke-linecap="round"/>
+<line x1="480" y1="92" x2="630" y2="89" stroke="#333" stroke-width="24" stroke-linecap="round"/>
+<line x1="480" y1="92" x2="630" y2="89" stroke="#7a5a30" stroke-width="22" stroke-linecap="round"/>
+<text x="555" y="128" font-size="14" text-anchor="middle">手指粗-手腕粗</text>
+<path d="M478,140 L636,140" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="555" y="162" font-size="15" font-weight="bold" text-anchor="middle">燃料</text>
+<path d="M126,82 L152,82" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<path d="M450,82 L476,82" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<text x="350" y="190" font-size="14" fill="#c33" text-anchor="middle">从小到大逐渐添加: 火苗刚起时只加火柴粗细的,不要急着加粗柴</text>
+</g>
+<g transform="translate(10,252)">
+<rect x="0" y="0" width="345" height="222" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="14" y="26" font-size="16" font-weight="bold">锥形(快速生火)</text>
+<line x1="14" y1="150" x2="331" y2="150" stroke="#999" stroke-width="3"/>
+<use href="#nest" transform="translate(180,144)"/>
+<line x1="130" y1="150" x2="186" y2="50" stroke="#333" stroke-width="5" stroke-linecap="round"/>
+<line x1="130" y1="150" x2="186" y2="50" stroke="#8a6a3e" stroke-width="3" stroke-linecap="round"/>
+<line x1="158" y1="150" x2="182.6" y2="50" stroke="#333" stroke-width="5" stroke-linecap="round"/>
+<line x1="158" y1="150" x2="182.6" y2="50" stroke="#8a6a3e" stroke-width="3" stroke-linecap="round"/>
+<line x1="204" y1="150" x2="177.1" y2="50" stroke="#333" stroke-width="5" stroke-linecap="round"/>
+<line x1="204" y1="150" x2="177.1" y2="50" stroke="#8a6a3e" stroke-width="3" stroke-linecap="round"/>
+<line x1="232" y1="150" x2="173.8" y2="50" stroke="#333" stroke-width="5" stroke-linecap="round"/>
+<line x1="232" y1="150" x2="173.8" y2="50" stroke="#8a6a3e" stroke-width="3" stroke-linecap="round"/>
+<line x1="112" y1="150" x2="190.2" y2="48" stroke="#333" stroke-width="6" stroke-linecap="round"/>
+<line x1="112" y1="150" x2="190.2" y2="48" stroke="#a07c4a" stroke-width="4" stroke-linecap="round"/>
+<line x1="214" y1="150" x2="174.9" y2="48" stroke="#333" stroke-width="6" stroke-linecap="round"/>
+<line x1="214" y1="150" x2="174.9" y2="48" stroke="#a07c4a" stroke-width="4" stroke-linecap="round"/>
+<line x1="246" y1="150" x2="170.1" y2="48" stroke="#333" stroke-width="6" stroke-linecap="round"/>
+<line x1="246" y1="150" x2="170.1" y2="48" stroke="#a07c4a" stroke-width="4" stroke-linecap="round"/>
+<line x1="186" y1="150" x2="182" y2="50" stroke="#333" stroke-width="6" stroke-linecap="round"/>
+<line x1="186" y1="150" x2="182" y2="50" stroke="#a07c4a" stroke-width="4" stroke-linecap="round"/>
+<path d="M126,148 L140,116 L166,116 L176,148" fill="none" stroke="#c33" stroke-width="1.5" stroke-dasharray="4 3"/>
+<path d="M40,132 L120,132" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<text x="40" y="124" font-size="14" fill="#c33">风</text>
+<line x1="252" y1="70" x2="184" y2="58" stroke="#0b5cad" stroke-width="1"/>
+<text x="254" y="74" font-size="13" fill="#0b5cad">顶部留通气口</text>
+<text x="14" y="58" font-size="13" fill="#0b5cad">迎风一侧留小口,</text>
+<text x="14" y="74" font-size="13" fill="#0b5cad">从这里点火</text>
+<line x1="60" y1="80" x2="138" y2="116" stroke="#0b5cad" stroke-width="1"/>
+<line x1="252" y1="128" x2="196" y2="144" stroke="#0b5cad" stroke-width="1"/>
+<text x="254" y="132" font-size="13" fill="#0b5cad">火绒在中央</text>
+<text x="14" y="178" font-size="14">引火材围成锥形;适合烧水、快速取暖,</text>
+<text x="14" y="197" font-size="14">烧得快,费柴</text>
+</g>
+<g transform="translate(365,252)">
+<rect x="0" y="0" width="345" height="222" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="14" y="26" font-size="16" font-weight="bold">木屋式(持久燃烧)</text>
+<line x1="14" y1="150" x2="331" y2="150" stroke="#999" stroke-width="3"/>
+<line x1="98" y1="96" x2="122.2" y2="60" stroke="#333" stroke-width="5" stroke-linecap="round"/>
+<line x1="98" y1="96" x2="122.2" y2="60" stroke="#a07c4a" stroke-width="3" stroke-linecap="round"/>
+<line x1="112" y1="96" x2="120.8" y2="60" stroke="#333" stroke-width="5" stroke-linecap="round"/>
+<line x1="112" y1="96" x2="120.8" y2="60" stroke="#a07c4a" stroke-width="3" stroke-linecap="round"/>
+<line x1="128" y1="96" x2="119.2" y2="60" stroke="#333" stroke-width="5" stroke-linecap="round"/>
+<line x1="128" y1="96" x2="119.2" y2="60" stroke="#a07c4a" stroke-width="3" stroke-linecap="round"/>
+<line x1="142" y1="96" x2="117.8" y2="60" stroke="#333" stroke-width="5" stroke-linecap="round"/>
+<line x1="142" y1="96" x2="117.8" y2="60" stroke="#a07c4a" stroke-width="3" stroke-linecap="round"/>
+<circle cx="62" cy="141" r="9" fill="#b08a58" stroke="#333" stroke-width="2"/><circle cx="62" cy="141" r="3.5" fill="none" stroke="#5a3d1e" stroke-width="1"/>
+<circle cx="178" cy="141" r="9" fill="#b08a58" stroke="#333" stroke-width="2"/><circle cx="178" cy="141" r="3.5" fill="none" stroke="#5a3d1e" stroke-width="1"/>
+<rect x="48" y="114" width="144" height="18" rx="8" fill="#a07c4a" stroke="#333" stroke-width="2"/>
+<circle cx="62" cy="105" r="9" fill="#b08a58" stroke="#333" stroke-width="2"/><circle cx="62" cy="105" r="3.5" fill="none" stroke="#5a3d1e" stroke-width="1"/>
+<circle cx="178" cy="105" r="9" fill="#b08a58" stroke="#333" stroke-width="2"/><circle cx="178" cy="105" r="3.5" fill="none" stroke="#5a3d1e" stroke-width="1"/>
+<rect x="48" y="78" width="144" height="18" rx="8" fill="#a07c4a" stroke="#333" stroke-width="2"/>
+<text x="120" y="44" font-size="13" text-anchor="middle" fill="#0b5cad">中心放火绒和引火材</text>
+<text x="268" y="44" font-size="13" text-anchor="middle" fill="#555">俯视: 井字</text>
+<rect x="224" y="64" width="88" height="12" rx="5" fill="#a07c4a" stroke="#333" stroke-width="1.8"/>
+<rect x="224" y="116" width="88" height="12" rx="5" fill="#a07c4a" stroke="#333" stroke-width="1.8"/>
+<rect x="236" y="52" width="12" height="88" rx="5" fill="#8b6b3e" stroke="#333" stroke-width="1.8"/>
+<rect x="288" y="52" width="12" height="88" rx="5" fill="#8b6b3e" stroke="#333" stroke-width="1.8"/>
+<use href="#nest" transform="translate(268,96) scale(0.7)"/>
+<text x="14" y="178" font-size="14">井字交叉堆叠,通风好,燃烧旺;会塌成</text>
+<text x="14" y="197" font-size="14">一层均匀的炭火,适合做饭、烤东西</text>
+</g>
+<g transform="translate(10,484)">
+<rect x="0" y="0" width="345" height="222" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="14" y="26" font-size="16" font-weight="bold">星形火(省柴)</text>
+<text x="14" y="50" font-size="13" fill="#555">俯视</text>
+<line x1="198" y1="44.1" x2="176.9" y2="79.8" stroke="#333" stroke-width="15" stroke-linecap="round"/>
+<line x1="198" y1="44.1" x2="176.9" y2="79.8" stroke="#8b6b3e" stroke-width="13" stroke-linecap="round"/>
+<path d="M206.6,28.1 L200.4,39.5" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<line x1="256" y1="92" x2="188" y2="92" stroke="#333" stroke-width="15" stroke-linecap="round"/>
+<line x1="256" y1="92" x2="188" y2="92" stroke="#8b6b3e" stroke-width="13" stroke-linecap="round"/>
+<path d="M284,92 L264,92" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<line x1="198" y1="139.9" x2="176.9" y2="104.2" stroke="#333" stroke-width="15" stroke-linecap="round"/>
+<line x1="198" y1="139.9" x2="176.9" y2="104.2" stroke="#8b6b3e" stroke-width="13" stroke-linecap="round"/>
+<path d="M206.6,155.9 L200.4,144.5" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<line x1="104" y1="121.6" x2="159.1" y2="99.5" stroke="#333" stroke-width="15" stroke-linecap="round"/>
+<line x1="104" y1="121.6" x2="159.1" y2="99.5" stroke="#8b6b3e" stroke-width="13" stroke-linecap="round"/>
+<path d="M81.4,131.5 L97.6,124.4" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<line x1="104" y1="62.4" x2="159.1" y2="84.5" stroke="#333" stroke-width="15" stroke-linecap="round"/>
+<line x1="104" y1="62.4" x2="159.1" y2="84.5" stroke="#8b6b3e" stroke-width="13" stroke-linecap="round"/>
+<path d="M81.4,52.5 L97.6,59.6" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<use href="#flame" transform="translate(172,100) scale(0.7)"/>
+<text x="250" y="52" font-size="13" fill="#c33">烧短了就把</text>
+<text x="250" y="68" font-size="13" fill="#c33">木头往中心推</text>
+<text x="14" y="178" font-size="14">几根粗木头像车轮辐条,一头朝向中心;</text>
+<text x="14" y="197" font-size="14">火小而持久,适合一个人整夜维持</text>
+</g>
+<g transform="translate(365,484)">
+<rect x="0" y="0" width="345" height="222" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="14" y="26" font-size="16" font-weight="bold">平台式(湿地、雪地)</text>
+<rect x="14" y="150" width="317" height="18" fill="#eef5fb"/>
+<path d="M14,150 L331,150" stroke="#7aa6cc" stroke-width="2"/>
+<circle cx="24" cy="159" r="1.6" fill="#7aa6cc"/>
+<circle cx="40" cy="163" r="1.6" fill="#7aa6cc"/>
+<circle cx="56" cy="159" r="1.6" fill="#7aa6cc"/>
+<circle cx="72" cy="163" r="1.6" fill="#7aa6cc"/>
+<circle cx="88" cy="159" r="1.6" fill="#7aa6cc"/>
+<circle cx="104" cy="163" r="1.6" fill="#7aa6cc"/>
+<circle cx="120" cy="159" r="1.6" fill="#7aa6cc"/>
+<circle cx="136" cy="163" r="1.6" fill="#7aa6cc"/>
+<circle cx="152" cy="159" r="1.6" fill="#7aa6cc"/>
+<circle cx="168" cy="163" r="1.6" fill="#7aa6cc"/>
+<circle cx="184" cy="159" r="1.6" fill="#7aa6cc"/>
+<circle cx="200" cy="163" r="1.6" fill="#7aa6cc"/>
+<circle cx="216" cy="159" r="1.6" fill="#7aa6cc"/>
+<circle cx="232" cy="163" r="1.6" fill="#7aa6cc"/>
+<circle cx="248" cy="159" r="1.6" fill="#7aa6cc"/>
+<circle cx="264" cy="163" r="1.6" fill="#7aa6cc"/>
+<circle cx="280" cy="159" r="1.6" fill="#7aa6cc"/>
+<circle cx="296" cy="163" r="1.6" fill="#7aa6cc"/>
+<circle cx="312" cy="159" r="1.6" fill="#7aa6cc"/>
+<circle cx="328" cy="163" r="1.6" fill="#7aa6cc"/>
+<circle cx="58" cy="140" r="10" fill="#b08a58" stroke="#333" stroke-width="2"/>
+<circle cx="77" cy="140" r="10" fill="#b08a58" stroke="#333" stroke-width="2"/>
+<circle cx="96" cy="140" r="10" fill="#b08a58" stroke="#333" stroke-width="2"/>
+<circle cx="115" cy="140" r="10" fill="#b08a58" stroke="#333" stroke-width="2"/>
+<circle cx="134" cy="140" r="10" fill="#b08a58" stroke="#333" stroke-width="2"/>
+<circle cx="153" cy="140" r="10" fill="#b08a58" stroke="#333" stroke-width="2"/>
+<circle cx="172" cy="140" r="10" fill="#b08a58" stroke="#333" stroke-width="2"/>
+<circle cx="191" cy="140" r="10" fill="#b08a58" stroke="#333" stroke-width="2"/>
+<circle cx="210" cy="140" r="10" fill="#b08a58" stroke="#333" stroke-width="2"/>
+<circle cx="229" cy="140" r="10" fill="#b08a58" stroke="#333" stroke-width="2"/>
+<circle cx="248" cy="140" r="10" fill="#b08a58" stroke="#333" stroke-width="2"/>
+<circle cx="267" cy="140" r="10" fill="#b08a58" stroke="#333" stroke-width="2"/>
+<circle cx="286" cy="140" r="10" fill="#b08a58" stroke="#333" stroke-width="2"/>
+<use href="#nest" transform="translate(172,125) scale(0.8)"/>
+<line x1="138" y1="130" x2="176.1" y2="64" stroke="#333" stroke-width="5" stroke-linecap="round"/>
+<line x1="138" y1="130" x2="176.1" y2="64" stroke="#a07c4a" stroke-width="3" stroke-linecap="round"/>
+<line x1="158" y1="130" x2="173.7" y2="64" stroke="#333" stroke-width="5" stroke-linecap="round"/>
+<line x1="158" y1="130" x2="173.7" y2="64" stroke="#a07c4a" stroke-width="3" stroke-linecap="round"/>
+<line x1="186" y1="130" x2="170.3" y2="64" stroke="#333" stroke-width="5" stroke-linecap="round"/>
+<line x1="186" y1="130" x2="170.3" y2="64" stroke="#a07c4a" stroke-width="3" stroke-linecap="round"/>
+<line x1="206" y1="130" x2="167.9" y2="64" stroke="#333" stroke-width="5" stroke-linecap="round"/>
+<line x1="206" y1="130" x2="167.9" y2="64" stroke="#a07c4a" stroke-width="3" stroke-linecap="round"/>
+<use href="#flame" transform="translate(172,126) scale(0.55)"/>
+<text x="14" y="58" font-size="13" fill="#0b5cad">上面正常生火</text>
+<line x1="60" y1="64" x2="148" y2="100" stroke="#0b5cad" stroke-width="1"/>
+<line x1="250" y1="84" x2="232" y2="136" stroke="#0b5cad" stroke-width="1"/>
+<text x="214" y="58" font-size="13" fill="#0b5cad">手腕粗以上的</text>
+<text x="214" y="74" font-size="13" fill="#0b5cad">木头紧密排列</text>
+<text x="290" y="165" font-size="13" fill="#555">雪/湿地</text>
+<text x="14" y="186" font-size="14">底部先铺一层粗木头平台,隔离湿气;</text>
+<text x="14" y="205" font-size="14">雪地上木头不够粗、不够密会陷进雪里熄灭</text>
+</g>
+</g>
+</svg>

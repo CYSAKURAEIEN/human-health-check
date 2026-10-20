@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 590" width="720" height="590" role="img" aria-label="地震时室内避震示意图: 1 伏地,双手双膝着地; 2 遮挡,钻到坚固的桌子下,用手护住头颈,脸朝下; 3 抓牢,抓牢桌腿,桌子被晃走时跟着挪,保持到震动停止; 4 没有桌子时靠内墙角蹲下,双手护头,远离窗户、镜子、吊灯; 不要跳楼、乘电梯,不要在晃动时往楼下跑,不要专门跑去门框下,不要站到阳台和外墙边">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>地震时室内避震: 伏地、遮挡、手抓牢</title>
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<g id="table">
+<rect x="22" y="92" width="186" height="9" fill="#c8a46e" stroke="#333" stroke-width="2"/>
+<rect x="30" y="101" width="9" height="81" fill="#c8a46e" stroke="#333" stroke-width="2"/>
+<rect x="191" y="101" width="9" height="81" fill="#c8a46e" stroke="#333" stroke-width="2"/>
+</g>
+<!-- 跪伏护头的身体(头朝左) -->
+<g id="crouch">
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M152,150 L114,170 L160,174" stroke="#333" stroke-width="19"/><path d="M152,150 L114,170 L160,174" stroke="#cfe0f0" stroke-width="14"/>
+<path d="M150,146 L104,152" stroke="#333" stroke-width="30"/><path d="M150,146 L104,152" stroke="#cfe0f0" stroke-width="25"/>
+</g>
+<circle cx="80" cy="161" r="15" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M70,149 Q86,142 95,156 Q90,151 70,149 Z" fill="#555"/>
+</g>
+</defs>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="14" fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">地震时室内避震: 伏地、遮挡、手抓牢</text>
+
+<!-- ① 伏地 -->
+<g transform="translate(10,42)">
+<rect x="0" y="0" width="226" height="255" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<line x1="12" y1="183" x2="214" y2="183" stroke="#999" stroke-width="3"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M142,138 L142,173 L190,174" stroke="#333" stroke-width="19"/><path d="M142,138 L142,173 L190,174" stroke="#cfe0f0" stroke-width="14"/>
+<path d="M144,134 L84,130" stroke="#333" stroke-width="30"/><path d="M144,134 L84,130" stroke="#cfe0f0" stroke-width="25"/>
+<path d="M84,134 L80,174" stroke="#333" stroke-width="14"/><path d="M84,134 L80,174" stroke="#f3e3d3" stroke-width="9"/>
+</g>
+<ellipse cx="74" cy="177" rx="10" ry="5" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<circle cx="58" cy="118" r="16" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M50,103 Q68,98 74,114 Q66,106 50,103 Z" fill="#555"/>
+<path d="M115,30 L115,82" stroke="#c33" stroke-width="4" marker-end="url(#ar)"/>
+<text x="126" y="52" font-size="14" fill="#c33">立即趴下</text>
+<text x="20" y="64" font-size="13" fill="#0b5cad">双手双膝着地</text>
+<line x1="60" y1="70" x2="78" y2="166" stroke="#0b5cad" stroke-width="1"/>
+<text x="12" y="212"><tspan font-weight="bold">①</tspan> 伏地: 双手双膝着地,</text>
+<text x="30" y="232">降低重心,避免被晃倒;</text>
+<text x="30" y="250" font-size="13" fill="#555">这个姿势还能随时爬动换位置</text>
+</g>
+
+<!-- ② 遮挡 -->
+<g transform="translate(247,42)">
+<rect x="0" y="0" width="226" height="255" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<line x1="12" y1="183" x2="214" y2="183" stroke="#999" stroke-width="3"/>
+<use href="#table"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M104,158 L100,177 L66,177" stroke="#333" stroke-width="14"/><path d="M104,158 L100,177 L66,177" stroke="#f3e3d3" stroke-width="9"/>
+</g>
+<use href="#crouch"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M106,144 L84,128 L68,146" stroke="#333" stroke-width="14"/><path d="M106,144 L84,128 L68,146" stroke="#f3e3d3" stroke-width="9"/>
+</g>
+<ellipse cx="66" cy="150" rx="6" ry="9" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<text x="64" y="84" font-size="13" fill="#0b5cad">坚固的桌子</text>
+<text x="108" y="120" font-size="13" fill="#0b5cad">用手护住头颈</text>
+<line x1="106" y1="116" x2="90" y2="128" stroke="#0b5cad" stroke-width="1"/>
+<line x1="50" y1="196" x2="76" y2="174" stroke="#0b5cad" stroke-width="1"/>
+<text x="18" y="200" font-size="13" fill="#0b5cad">脸朝下</text>
+<text x="12" y="222"><tspan font-weight="bold">②</tspan> 遮挡: 钻到坚固的桌子或家具下,</text>
+<text x="30" y="242">用手护住头颈,脸朝下</text>
+</g>
+
+<!-- ③ 抓牢 -->
+<g transform="translate(484,42)">
+<rect x="0" y="0" width="226" height="255" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<line x1="12" y1="183" x2="214" y2="183" stroke="#999" stroke-width="3"/>
+<use href="#table"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M100,150 L88,142" stroke="#333" stroke-width="14"/><path d="M100,150 L88,142" stroke="#e8c9b0" stroke-width="9"/>
+</g>
+<use href="#crouch"/>
+<ellipse cx="88" cy="143" rx="7" ry="5" fill="#e8c9b0" stroke="#333" stroke-width="2"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M108,144 L74,120 L44,128" stroke="#333" stroke-width="14"/><path d="M108,144 L74,120 L44,128" stroke="#f3e3d3" stroke-width="9"/>
+</g>
+<ellipse cx="38" cy="128" rx="8" ry="7" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<text x="10" y="84" font-size="13" fill="#0b5cad">抓牢桌腿</text>
+<line x1="30" y1="88" x2="36" y2="120" stroke="#0b5cad" stroke-width="1"/>
+<text x="120" y="84" font-size="13" fill="#0b5cad">另一手护头颈</text>
+<line x1="140" y1="88" x2="94" y2="140" stroke="#0b5cad" stroke-width="1"/>
+<path d="M60,198 L170,198" stroke="#c33" stroke-width="3" marker-start="url(#ar)" marker-end="url(#ar)"/>
+<text x="12" y="222"><tspan font-weight="bold">③</tspan> 抓牢: 桌子被晃走时跟着挪,</text>
+<text x="30" y="242">保持姿势直到震动停止</text>
+</g>
+
+<!-- ④ 没有桌子时 -->
+<g transform="translate(10,307)">
+<rect x="0" y="0" width="350" height="230" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<line x1="12" y1="160" x2="338" y2="160" stroke="#999" stroke-width="3"/>
+<rect x="18" y="16" width="14" height="144" fill="#e6e6e6" stroke="#999" stroke-width="2"/>
+<text x="38" y="30" font-size="13" fill="#0b5cad">内墙角</text>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M52,140 L92,116 L88,152 L100,152" stroke="#333" stroke-width="19"/><path d="M52,140 L92,116 L88,152 L100,152" stroke="#cfe0f0" stroke-width="14"/>
+<path d="M50,136 L66,94" stroke="#333" stroke-width="30"/><path d="M50,136 L66,94" stroke="#cfe0f0" stroke-width="25"/>
+</g>
+<circle cx="88" cy="86" r="15" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M74,80 Q80,66 96,72 Q84,72 74,80 Z" fill="#555"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M66,92 L72,64 L90,68" stroke="#333" stroke-width="14"/><path d="M66,92 L72,64 L90,68" stroke="#f3e3d3" stroke-width="9"/>
+</g>
+<ellipse cx="92" cy="70" rx="8" ry="6" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<text x="112" y="62" font-size="13" fill="#0b5cad">蹲下,双手护头</text>
+<line x1="110" y1="58" x2="96" y2="68" stroke="#0b5cad" stroke-width="1"/>
+<!-- 窗户 -->
+<rect x="210" y="40" width="44" height="58" fill="#eaf3fb" stroke="#333" stroke-width="2"/>
+<line x1="232" y1="40" x2="232" y2="98" stroke="#333" stroke-width="1.5"/>
+<line x1="210" y1="69" x2="254" y2="69" stroke="#333" stroke-width="1.5"/>
+<path d="M214,46 L250,92 M250,46 L214,92" stroke="#c33" stroke-width="3"/>
+<text x="232" y="116" font-size="13" text-anchor="middle" fill="#c33">窗户</text>
+<!-- 吊灯 -->
+<line x1="300" y1="2" x2="300" y2="36" stroke="#333" stroke-width="1.5"/>
+<path d="M284,52 L290,36 L310,36 L316,52 Z" fill="#f7e9b5" stroke="#333" stroke-width="2"/>
+<path d="M286,40 L314,62 M314,40 L286,62" stroke="#c33" stroke-width="3"/>
+<text x="300" y="80" font-size="13" text-anchor="middle" fill="#c33">吊灯</text>
+<!-- 镜子 -->
+<rect x="282" y="94" width="34" height="50" rx="4" fill="#eef" stroke="#333" stroke-width="2"/>
+<path d="M286,98 L312,140 M312,98 L286,140" stroke="#c33" stroke-width="3"/>
+<text x="299" y="156" font-size="13" text-anchor="middle" fill="#c33">镜子</text>
+<path d="M196,140 L128,140" stroke="#c33" stroke-width="3" marker-end="url(#ar)"/>
+<text x="140" y="132" font-size="13" fill="#c33">远离</text>
+<text x="12" y="186"><tspan font-weight="bold">④</tspan> 没有桌子时: 靠内墙角蹲下,双手护头,</text>
+<text x="30" y="206">远离窗户、镜子、吊灯;可以顺手拿枕头、</text>
+<text x="30" y="224">坐垫、书包顶在头上</text>
+</g>
+
+<!-- ✗ 不要 -->
+<g transform="translate(370,307)">
+<rect x="0" y="0" width="340" height="230" rx="8" fill="#fdecec" stroke="#c33" stroke-width="2"/>
+<text x="16" y="30" font-size="16" font-weight="bold" fill="#c33">晃动时不要做</text>
+<text x="16" y="60" font-size="15">✗ 不要跳楼,不要乘电梯</text>
+<text x="16" y="88" font-size="15">✗ 不要在晃动时往楼下跑、往楼里跑</text>
+<text x="16" y="116" font-size="15">✗ 不要专门跑去门框下</text>
+<text x="34" y="136" font-size="13" fill="#555">现代楼房的门框并不比别处结实</text>
+<text x="16" y="164" font-size="15">✗ 不要站到阳台上、外墙边</text>
+<text x="16" y="192" font-size="15">✗ 不要靠近窗户、镜子、高大柜子</text>
+<text x="16" y="218" font-size="15">✗ 不要为了拿财物、找手机耽误躲避</text>
+</g>
+
+<text x="360" y="566" font-size="15" text-anchor="middle">强烈晃动一般只有几十秒到一两分钟: 就近躲避,保持到震动停止,震后再撤离</text>
+</g>
+</svg>
