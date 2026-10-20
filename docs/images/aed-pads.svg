@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" width="720" height="480" role="img" aria-label="AED电极片位置示意图: 成人前-侧位,一片贴右锁骨下方、胸骨右侧,一片贴左乳头外侧、腋下下方约一掌宽处;儿童两片在胸前会相互接触时改为前-后位,一片贴胸前正中,一片贴背部两肩胛骨之间">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>AED电极片贴法: 成人前-侧位与儿童前-后位</title>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="15" fill="#222">
+
+<!-- ① 成人 前-侧位 -->
+<rect x="10" y="10" width="330" height="400" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="22" y="36" font-size="16" font-weight="bold">成人: 前-侧位</text>
+<g stroke="#333">
+<line x1="104" y1="136" x2="34" y2="64" stroke-width="30" stroke-linecap="round"/>
+<line x1="104" y1="136" x2="34" y2="64" stroke="#f3e3d3" stroke-width="25" stroke-linecap="round"/>
+<line x1="236" y1="136" x2="306" y2="64" stroke-width="30" stroke-linecap="round"/>
+<line x1="236" y1="136" x2="306" y2="64" stroke="#f3e3d3" stroke-width="25" stroke-linecap="round"/>
+<path d="M112,330 L104,170 Q100,124 130,118 L210,118 Q240,124 236,170 L228,330 Z" fill="#f3e3d3" stroke-width="2.5"/>
+<rect x="160" y="96" width="20" height="24" fill="#f3e3d3" stroke-width="2"/>
+<circle cx="170" cy="76" r="28" fill="#f3e3d3" stroke-width="2.5"/>
+<path d="M164,126 Q140,118 116,124 M176,126 Q200,118 224,124" fill="none" stroke="#999" stroke-width="1.5"/>
+<line x1="170" y1="128" x2="170" y2="214" stroke="#999" stroke-width="1.5"/>
+<circle cx="140" cy="196" r="3.5" fill="#c9a08a" stroke-width="1"/>
+<circle cx="200" cy="196" r="3.5" fill="#c9a08a" stroke-width="1"/>
+</g>
+<!-- 电极片和导线 -->
+<path d="M140,176 Q146,250 166,300 L170,318 M228,262 Q206,292 176,306 L170,318" fill="none" stroke="#666" stroke-width="2"/>
+<rect x="160" y="316" width="20" height="14" rx="3" fill="#666"/>
+<rect x="116" y="132" width="46" height="44" rx="7" fill="#fff" stroke="#c33" stroke-width="3"/>
+<text x="139" y="160" font-size="16" font-weight="bold" fill="#c33" text-anchor="middle">1</text>
+<rect x="210" y="204" width="40" height="58" rx="7" fill="#fff" stroke="#c33" stroke-width="3" transform="rotate(-8 230 233)"/>
+<text x="230" y="240" font-size="16" font-weight="bold" fill="#c33" text-anchor="middle">2</text>
+<!-- 一掌宽 -->
+<line x1="262" y1="152" x2="262" y2="200" stroke="#0b5cad" stroke-width="1.5"/>
+<line x1="256" y1="152" x2="268" y2="152" stroke="#0b5cad" stroke-width="1.5"/>
+<line x1="256" y1="200" x2="268" y2="200" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="272" y="168" font-size="13" fill="#0b5cad">腋下</text>
+<text x="272" y="184" font-size="13" fill="#0b5cad">约一</text>
+<text x="272" y="200" font-size="13" fill="#0b5cad">掌宽</text>
+<text x="30" y="350" font-size="14" fill="#0b5cad">← 伤员右侧</text>
+<text x="320" y="350" font-size="14" fill="#0b5cad" text-anchor="end">伤员左侧 →</text>
+<text x="22" y="376" font-size="14"><tspan fill="#c33" font-weight="bold">1</tspan> 右胸上方: 右锁骨下方、胸骨右侧</text>
+<text x="22" y="398" font-size="14"><tspan fill="#c33" font-weight="bold">2</tspan> 左胸侧下方: 左乳头外侧、腋下下方约一掌宽</text>
+
+<!-- ② 儿童 前-后位 -->
+<rect x="350" y="10" width="360" height="400" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="362" y="36" font-size="16" font-weight="bold">儿童: 前-后位</text>
+<text x="362" y="58" font-size="14">(两片在胸前会相互接触时)</text>
+<!-- 胸前 -->
+<g stroke="#333">
+<line x1="402" y1="150" x2="384" y2="280" stroke-width="24" stroke-linecap="round"/>
+<line x1="402" y1="150" x2="384" y2="280" stroke="#f3e3d3" stroke-width="19" stroke-linecap="round"/>
+<line x1="476" y1="150" x2="494" y2="280" stroke-width="24" stroke-linecap="round"/>
+<line x1="476" y1="150" x2="494" y2="280" stroke="#f3e3d3" stroke-width="19" stroke-linecap="round"/>
+<path d="M410,300 L404,170 Q402,140 424,138 L454,138 Q476,140 474,170 L468,300 Z" fill="#f3e3d3" stroke-width="2.5"/>
+<rect x="431" y="118" width="16" height="22" fill="#f3e3d3" stroke-width="2"/>
+<circle cx="439" cy="100" r="25" fill="#f3e3d3" stroke-width="2.5"/>
+<circle cx="422" cy="192" r="3" fill="#c9a08a" stroke-width="1"/>
+<circle cx="456" cy="192" r="3" fill="#c9a08a" stroke-width="1"/>
+</g>
+<rect x="420" y="166" width="38" height="46" rx="6" fill="#fff" stroke="#c33" stroke-width="3"/>
+<text x="439" y="194" font-size="15" font-weight="bold" fill="#c33" text-anchor="middle">1</text>
+<text x="439" y="330" font-size="15" text-anchor="middle" font-weight="bold">胸前</text>
+<!-- 背部 -->
+<g stroke="#333">
+<line x1="582" y1="150" x2="564" y2="280" stroke-width="24" stroke-linecap="round"/>
+<line x1="582" y1="150" x2="564" y2="280" stroke="#f3e3d3" stroke-width="19" stroke-linecap="round"/>
+<line x1="656" y1="150" x2="674" y2="280" stroke-width="24" stroke-linecap="round"/>
+<line x1="656" y1="150" x2="674" y2="280" stroke="#f3e3d3" stroke-width="19" stroke-linecap="round"/>
+<path d="M590,300 L584,170 Q582,140 604,138 L634,138 Q656,140 654,170 L648,300 Z" fill="#f3e3d3" stroke-width="2.5"/>
+<rect x="611" y="118" width="16" height="22" fill="#f3e3d3" stroke-width="2"/>
+<circle cx="619" cy="100" r="25" fill="#f3e3d3" stroke-width="2.5"/>
+<path d="M594,100 Q596,74 619,75 Q642,74 644,100 Q632,92 619,92 Q606,92 594,100 Z" fill="#555" stroke="none"/>
+<path d="M590,150 Q602,144 613,150 L603,204 Z M648,150 Q636,144 625,150 L635,204 Z" fill="none" stroke="#999" stroke-width="1.8"/>
+<line x1="619" y1="140" x2="619" y2="296" stroke="#999" stroke-width="1.5" stroke-dasharray="3 4"/>
+</g>
+<rect x="603" y="152" width="32" height="44" rx="6" fill="#fff" stroke="#c33" stroke-width="3"/>
+<text x="619" y="180" font-size="15" font-weight="bold" fill="#c33" text-anchor="middle">2</text>
+<text x="619" y="330" font-size="15" text-anchor="middle" font-weight="bold">背部</text>
+<text x="362" y="376" font-size="14"><tspan fill="#c33" font-weight="bold">1</tspan> 一片贴胸前正中</text>
+<text x="362" y="398" font-size="14"><tspan fill="#c33" font-weight="bold">2</tspan> 一片贴背部两肩胛骨之间</text>
+
+<!-- 底部说明 -->
+<text x="16" y="436" font-size="14">8岁以下或体重不到25 kg: 有儿童电极片或儿童模式时使用;没有时<tspan font-weight="bold">可以用成人电极片</tspan></text>
+<text x="16" y="460" font-size="14">贴片前擦干胸部;避开药物贴片和锁骨下鼓起的起搏器;电极片上都有图示,按图贴</text>
+</g>
+</svg>

@@ -35,8 +35,7 @@
 <line x1="252" y1="400" x2="276" y2="270" stroke="#b9cde0" stroke-width="33" stroke-linecap="round"/>
 <line x1="168" y1="168" x2="146" y2="146" stroke="#333" stroke-width="20" stroke-linecap="round"/>
 <line x1="168" y1="168" x2="146" y2="146" stroke="#f3e3d3" stroke-width="15" stroke-linecap="round"/>
-<line x1="276" y1="266" x2="182" y2="180" stroke="#333" stroke-width="56" stroke-linecap="round"/>
-<line x1="276" y1="266" x2="182" y2="180" stroke="#cfe0f0" stroke-width="51" stroke-linecap="round"/>
+<path d="M258,286 L160,206 Q148,186 158,168 Q174,148 204,156 Q252,196 294,246 Q302,272 284,288 Q270,294 258,286 Z" fill="#cfe0f0" stroke="#333" stroke-width="2.5"/>
 <circle cx="134" cy="132" r="28" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
 <path d="M140,104 Q166,106 162,138 Q150,124 136,122 Q122,120 110,118 Q116,102 140,104 Z" fill="#555"/>
 <circle cx="146" cy="134" r="4" fill="none" stroke="#333" stroke-width="1.5"/>

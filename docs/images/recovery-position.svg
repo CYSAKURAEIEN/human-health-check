@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 570" width="720" height="570" role="img" aria-label="复苏体位(侧卧位)步骤示意图,俯视: 1 靠近你的手臂摆成直角、手心朝上; 2 远侧手臂拉过胸前,手背贴在靠近你这侧的脸颊上,远侧膝盖拉起、脚掌踩地; 3 拉住膝盖把伤员朝你这侧翻成侧卧; 4 上面那条腿的髋和膝都弯成直角,头稍后仰,嘴朝下">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>复苏体位(侧卧位)的摆法</title>
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<!-- 仰卧(俯视,头朝左,救护者在下方) -->
+<path id="legF" d="M185,84 L312,80"/>
+<path id="legN" d="M185,106 L312,110"/>
+<path id="armF" d="M92,62 L172,56"/>
+<path id="armN90" d="M90,128 L90,170 L50,170"/>
+<path id="armX" d="M90,66 L130,110 L62,116"/>
+<path id="kneeUp" d="M185,84 L232,80 L246,90"/>
+<g id="trunk" stroke="#333">
+<rect x="74" y="66" width="114" height="58" rx="16" fill="#cfe0f0" stroke-width="2.5"/>
+<line x1="160" y1="66" x2="160" y2="124" stroke="#999" stroke-width="1.5"/>
+</g>
+<g id="head" stroke="#333">
+<circle cx="52" cy="95" r="21" fill="#f3e3d3" stroke-width="2.5"/>
+<path d="M38,77 Q28,95 38,113 Q34,95 38,77 Z" fill="#555" stroke="none"/>
+<path d="M47,84 Q50,88 47,92 M47,98 Q50,102 47,106 M62,91 Q65,95 62,99" fill="none" stroke-width="1.8"/>
+</g>
+</defs>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="14" fill="#222">
+
+<!-- ① -->
+<g transform="translate(10,10)">
+<rect x="0" y="0" width="345" height="262" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<use href="#legF" stroke="#333" stroke-width="22"/><use href="#legF" stroke="#cfe0f0" stroke-width="17"/>
+<use href="#legN" stroke="#333" stroke-width="22"/><use href="#legN" stroke="#cfe0f0" stroke-width="17"/>
+</g>
+<use href="#trunk"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<use href="#armF" stroke="#333" stroke-width="16"/><use href="#armF" stroke="#f3e3d3" stroke-width="11"/>
+<use href="#armN90" stroke="#333" stroke-width="16"/><use href="#armN90" stroke="#f3e3d3" stroke-width="11"/>
+</g>
+<ellipse cx="44" cy="170" rx="10" ry="7" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<ellipse cx="45" cy="170" rx="5" ry="3.5" fill="#e8c9b0"/>
+<path d="M90,128 L102,128 L102,140" fill="none" stroke="#0b5cad" stroke-width="1.5"/>
+<use href="#head"/>
+<text x="112" y="158" font-size="13" fill="#0b5cad">直角</text>
+<text x="10" y="200" font-size="13" fill="#0b5cad">手心朝上</text>
+<text x="200" y="200" font-size="13" fill="#0b5cad">▲ 你跪在这一侧</text>
+<text x="12" y="228"><tspan font-weight="bold">①</tspan> 把靠近你的手臂向上摆成直角,</text>
+<text x="30" y="248">手心朝上</text>
+</g>
+
+<!-- ② -->
+<g transform="translate(365,10)">
+<rect x="0" y="0" width="345" height="262" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<use href="#legN" stroke="#333" stroke-width="22"/><use href="#legN" stroke="#cfe0f0" stroke-width="17"/>
+<use href="#kneeUp" stroke="#333" stroke-width="22"/><use href="#kneeUp" stroke="#cfe0f0" stroke-width="17"/>
+</g>
+<path d="M240,96 L262,96 L262,82 Q262,74 254,76 L242,84 Z" fill="#888" stroke="#333" stroke-width="1.5"/>
+<use href="#trunk"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<use href="#armN90" stroke="#333" stroke-width="16"/><use href="#armN90" stroke="#f3e3d3" stroke-width="11"/>
+</g>
+<use href="#head"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<use href="#armX" stroke="#333" stroke-width="16"/><use href="#armX" stroke="#f3e3d3" stroke-width="11"/>
+</g>
+<ellipse cx="57" cy="117" rx="10" ry="7" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<line x1="232" y1="62" x2="232" y2="74" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="232" cy="80" r="5" fill="#fff" stroke="#333" stroke-width="1.5"/>
+<text x="196" y="40" font-size="13" fill="#0b5cad">远侧膝盖拉起,</text>
+<text x="196" y="56" font-size="13" fill="#0b5cad">脚掌踩地</text>
+<line x1="30" y1="138" x2="50" y2="123" stroke="#0b5cad" stroke-width="1"/>
+<text x="8" y="152" font-size="13" fill="#0b5cad">手背贴脸颊</text>
+<text x="12" y="210"><tspan font-weight="bold">②</tspan> 远侧手臂拉过胸前,手背贴在靠近你</text>
+<text x="30" y="229">这侧的脸颊上,用手按住;抓住远侧腿</text>
+<text x="30" y="248">膝盖下方,把膝盖拉起,脚掌踩地</text>
+</g>
+
+<!-- ③ -->
+<g transform="translate(10,282)">
+<rect x="0" y="0" width="345" height="250" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<use href="#legN" stroke="#333" stroke-width="22"/><use href="#legN" stroke="#cfe0f0" stroke-width="17"/>
+<use href="#kneeUp" stroke="#333" stroke-width="22"/><use href="#kneeUp" stroke="#cfe0f0" stroke-width="17"/>
+</g>
+<path d="M240,96 L262,96 L262,82 Q262,74 254,76 L242,84 Z" fill="#888" stroke="#333" stroke-width="1.5"/>
+<use href="#trunk"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<use href="#armN90" stroke="#333" stroke-width="16"/><use href="#armN90" stroke="#f3e3d3" stroke-width="11"/>
+</g>
+<use href="#head"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<use href="#armX" stroke="#333" stroke-width="16"/><use href="#armX" stroke="#f3e3d3" stroke-width="11"/>
+</g>
+<ellipse cx="57" cy="117" rx="10" ry="7" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M240,70 Q290,100 248,168" fill="none" stroke="#c33" stroke-width="4" marker-end="url(#ar)"/>
+<path d="M140,52 Q206,120 150,170" fill="none" stroke="#c33" stroke-width="4" stroke-dasharray="8 5" marker-end="url(#ar)"/>
+<text x="262" y="160" font-size="13" fill="#c33">拉膝盖</text>
+<text x="160" y="190" font-size="13" fill="#c33">整个人朝你这侧翻</text>
+<text x="12" y="222"><tspan font-weight="bold">③</tspan> 拉住膝盖,把伤员朝你这侧翻过来,</text>
+<text x="30" y="241">成侧卧</text>
+</g>
+
+<!-- ④ -->
+<g transform="translate(365,282)">
+<rect x="0" y="0" width="345" height="250" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M185,100 L312,106" stroke="#333" stroke-width="22"/><path d="M185,100 L312,106" stroke="#cfe0f0" stroke-width="17"/>
+<path d="M90,104 L90,150 L48,150" stroke="#333" stroke-width="16"/><path d="M90,104 L90,150 L48,150" stroke="#f3e3d3" stroke-width="11"/>
+</g>
+<ellipse cx="42" cy="150" rx="10" ry="7" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<ellipse cx="43" cy="150" rx="5" ry="3.5" fill="#e8c9b0"/>
+<rect x="74" y="80" width="114" height="34" rx="14" fill="#cfe0f0" stroke="#333" stroke-width="2.5"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M180,98 L184,160 L250,162" stroke="#333" stroke-width="22"/><path d="M180,98 L184,160 L250,162" stroke="#cfe0f0" stroke-width="17"/>
+</g>
+<!-- 侧着的头: 后脑朝上方,脸朝你这侧,稍后仰 -->
+<path d="M58,92 L80,94" stroke="#333" stroke-width="16" stroke-linecap="round"/>
+<path d="M58,92 L80,94" stroke="#f3e3d3" stroke-width="11" stroke-linecap="round"/>
+<circle cx="50" cy="90" r="21" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M34,76 Q50,62 68,78 Q72,88 68,96 Q60,80 34,76 Z" fill="#555"/>
+<path d="M30,98 Q24,104 32,110" fill="none" stroke="#333" stroke-width="2"/>
+<path d="M42,108 Q46,110 50,108" fill="none" stroke="#333" stroke-width="1.8"/>
+<circle cx="56" cy="90" r="4" fill="none" stroke="#333" stroke-width="1.5"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M94,88 L114,132 L62,120" stroke="#333" stroke-width="16"/><path d="M94,88 L114,132 L62,120" stroke="#f3e3d3" stroke-width="11"/>
+</g>
+<ellipse cx="54" cy="118" rx="10" ry="7" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<line x1="34" y1="44" x2="40" y2="72" stroke="#0b5cad" stroke-width="1"/>
+<text x="10" y="38" font-size="13" fill="#0b5cad">头稍后仰,嘴朝下</text>
+<line x1="210" y1="134" x2="194" y2="150" stroke="#0b5cad" stroke-width="1"/>
+<text x="212" y="136" font-size="13" fill="#0b5cad">髋、膝都成直角</text>
+<text x="12" y="203"><tspan font-weight="bold">④</tspan> 上面那条腿的髋和膝都弯成直角,</text>
+<text x="30" y="222">防止翻成趴着;头稍后仰,嘴朝下,</text>
+<text x="30" y="241">让呕吐物和口水能流出来</text>
+</g>
+
+<text x="16" y="556" font-size="15">盖上衣物保暖,每分钟检查一次呼吸;呼吸变得不正常或停止 → 立即翻回仰卧,开始CPR</text>
+</g>
+</svg>

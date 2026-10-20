@@ -31,14 +31,14 @@
 <!-- ① 两拇指环抱 -->
 <rect x="10" y="42" width="250" height="330" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
 <text x="22" y="66" font-size="16" font-weight="bold">① 首选: 双手环抱、两拇指按压</text>
-<g transform="translate(135,0)">
+<g transform="translate(135,36) scale(0.8)">
 <use href="#baby"/>
 <line x1="-40" y1="150" x2="40" y2="150" stroke="#0b5cad" stroke-width="1.2" stroke-dasharray="4 3"/>
 <!-- 救护者前臂(从婴儿脚的方向伸过来) -->
-<line x1="-46" y1="208" x2="-92" y2="330" stroke="#333" stroke-width="30" stroke-linecap="round"/>
-<line x1="-46" y1="208" x2="-92" y2="330" stroke="#f3e3d3" stroke-width="25" stroke-linecap="round"/>
-<line x1="46" y1="208" x2="92" y2="330" stroke="#333" stroke-width="30" stroke-linecap="round"/>
-<line x1="46" y1="208" x2="92" y2="330" stroke="#f3e3d3" stroke-width="25" stroke-linecap="round"/>
+<line x1="-46" y1="208" x2="-84" y2="290" stroke="#333" stroke-width="30" stroke-linecap="round"/>
+<line x1="-46" y1="208" x2="-84" y2="290" stroke="#f3e3d3" stroke-width="25" stroke-linecap="round"/>
+<line x1="46" y1="208" x2="84" y2="290" stroke="#333" stroke-width="30" stroke-linecap="round"/>
+<line x1="46" y1="208" x2="84" y2="290" stroke="#f3e3d3" stroke-width="25" stroke-linecap="round"/>
 <!-- 手掌贴在胸廓两侧,手指绕到背后 -->
 <path d="M-34,150 Q-48,148 -52,166 L-56,206 Q-50,222 -32,214 L-10,196 L-12,180 L-30,184 Z" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
 <path d="M34,150 Q48,148 52,166 L56,206 Q50,222 32,214 L10,196 L12,180 L30,184 Z" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
@@ -57,7 +57,7 @@
 <!-- ② 单手掌根 -->
 <rect x="268" y="42" width="214" height="330" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
 <text x="280" y="66" font-size="16" font-weight="bold">② 也可以: 单手掌根</text>
-<g transform="translate(375,0)">
+<g transform="translate(375,36) scale(0.8)">
 <use href="#baby"/>
 <line x1="-40" y1="150" x2="40" y2="150" stroke="#0b5cad" stroke-width="1.2" stroke-dasharray="4 3"/>
 <line x1="20" y1="168" x2="98" y2="226" stroke="#333" stroke-width="30" stroke-linecap="round"/>
@@ -81,8 +81,8 @@
 <text x="502" y="66" font-size="16" font-weight="bold">③ 按压深度(侧面)</text>
 <line x1="500" y1="240" x2="700" y2="240" stroke="#999" stroke-width="3"/>
 <text x="506" y="262" font-size="13" fill="#666">硬的平面(桌面、地面)</text>
-<polyline points="632,226 668,214 690,232" fill="none" stroke="#333" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
-<polyline points="632,226 668,214 690,232" fill="none" stroke="#f3e3d3" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="636,228 660,214 674,234" fill="none" stroke="#333" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="636,228 660,214 674,234" fill="none" stroke="#f3e3d3" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
 <rect x="556" y="178" width="92" height="62" rx="24" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
 <circle cx="536" cy="208" r="31" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
 <path d="M528,180 Q536,174 544,180" fill="none" stroke="#333" stroke-width="1.5"/>
@@ -90,13 +90,12 @@
 <line x1="590" y1="120" x2="590" y2="172" stroke="#c33" stroke-width="4" marker-end="url(#ar)"/>
 <text x="560" y="112" font-size="14" fill="#c33">向下按压</text>
 <!-- 尺寸 -->
-<line x1="652" y1="178" x2="700" y2="178" stroke="#0b5cad" stroke-width="1" stroke-dasharray="3 3"/>
-<line x1="644" y1="199" x2="700" y2="199" stroke="#0b5cad" stroke-width="1" stroke-dasharray="3 3"/>
-<line x1="694" y1="181" x2="694" y2="196" stroke="#c33" stroke-width="1.8" marker-start="url(#ar)" marker-end="url(#ar)"/>
-<line x1="510" y1="140" x2="510" y2="140" stroke="none"/>
+<line x1="652" y1="178" x2="708" y2="178" stroke="#0b5cad" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="644" y1="199" x2="708" y2="199" stroke="#0b5cad" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="688" y1="181" x2="688" y2="196" stroke="#c33" stroke-width="1.8" marker-start="url(#ar)" marker-end="url(#ar)"/>
 <text x="504" y="300" font-size="14"><tspan fill="#c33">红色</tspan>: 下压约4 cm,</text>
 <text x="504" y="319" font-size="14">即胸廓前后厚度的1/3</text>
-<line x1="676" y1="178" x2="676" y2="237" stroke="#0b5cad" stroke-width="1.2" marker-start="url(#ab)" marker-end="url(#ab)"/>
+<line x1="702" y1="181" x2="702" y2="237" stroke="#0b5cad" stroke-width="1.2" marker-start="url(#ab)" marker-end="url(#ab)"/>
 <text x="504" y="345" font-size="14"><tspan fill="#0b5cad">蓝色</tspan>: 胸廓厚度</text>
 
 <!-- 底部: 注意事项 -->
