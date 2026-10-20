@@ -5,7 +5,7 @@ name: 生成离线版
 on:
   push:
     branches: [main]
-    paths: ['**.md', 'tools/build_offline.py', '.github/workflows/offline.yml']
+    paths: ['**.md', 'tools/build_offline.py', 'tools/build_pdf.py', '.github/workflows/offline.yml']
   workflow_dispatch:
 
 permissions:
@@ -29,16 +29,24 @@ jobs:
       - name: 生成 HTML
         run: python3 tools/build_offline.py dist/human-health-guide.html
 
-      - name: 生成 PDF
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 安装 Playwright 和 pypdf
         run: |
-          google-chrome --headless=new --no-sandbox --disable-gpu --no-pdf-header-footer \
-            --print-to-pdf="$PWD/dist/human-health-guide.pdf" "file://$PWD/dist/human-health-guide.html"
+          pip install playwright pypdf
+          python3 -m playwright install --with-deps chromium
+
+      - name: 生成 PDF(每页页脚印版本号,写入隐藏标记和文档属性)
+        run: python3 tools/build_pdf.py dist/human-health-guide.html dist/human-health-guide.pdf
 
       - name: 发布到 offline-latest
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          notes="由 main 分支 ${GITHUB_SHA::7} 自动生成。HTML 用浏览器打开即可离线阅读;PDF 适合打印或存在手机上。"
+          version=$(grep -o '<meta name="build-version" content="[^"]*"' dist/human-health-guide.html | cut -d'"' -f4)
+          notes="版本 ${version},由 main 分支提交 ${GITHUB_SHA} 自动生成。HTML 用浏览器打开即可离线阅读;PDF 适合打印或存在手机上。文件开头的“版本信息”页和 PDF 每页页脚都印有版本号,可据此在仓库中查到对应的原文。"
           gh release view offline-latest >/dev/null 2>&1 || \
             gh release create offline-latest --title "离线版(自动生成)" --notes "$notes" --target "$GITHUB_SHA"
           gh release edit offline-latest --notes "$notes"

@@ -2,13 +2,74 @@
 """把全书合并成一个可离线阅读、可打印的 HTML 文件。
 
 用法(在仓库根目录): python3 tools/build_offline.py [输出文件]
-依赖: pandoc(2.x 或以上)。生成的文件用浏览器打开即可阅读,
-浏览器"打印 → 另存为 PDF"即可得到 PDF。
+依赖: pandoc(2.x 或以上)。生成的文件用浏览器打开即可阅读;
+用 tools/build_pdf.py 打印成带版本页脚的 PDF。
+正文最前面加一页"版本信息"(仓库地址、源文件提交、生成时间),
+同样的信息也写进 meta 标签、HTML 注释和一行看不见的白色小字,供日后查证。
 """
-import html, os, re, subprocess, sys, urllib.parse
+import datetime, html, os, re, subprocess, sys, urllib.parse
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = sys.argv[1] if len(sys.argv) > 1 else os.path.join(ROOT, 'dist', '人类紧急求生与健康指南.html')
+DEFAULT_REPO = 'https://github.com/CYSAKURAEIEN/human-health-check'
+CST = datetime.timezone(datetime.timedelta(hours=8))
+
+
+def git(*args):
+    try:
+        return subprocess.run(['git', '-C', ROOT, *args], check=True, capture_output=True, text=True).stdout.strip()
+    except (OSError, subprocess.CalledProcessError):
+        return ''
+
+
+def build_info():
+    """版本信息: 仓库地址、源文件提交、生成时间。写进正文、页脚、隐藏文字和 meta 标签,供日后查证。"""
+    server, repo = os.environ.get('GITHUB_SERVER_URL'), os.environ.get('GITHUB_REPOSITORY')
+    url = f'{server}/{repo}' if server and repo else DEFAULT_REPO
+    sha = git('rev-parse', 'HEAD') or 'unknown'
+    commit_time = git('log', '-1', '--format=%cI')
+    dirty = bool(git('status', '--porcelain'))
+    now = datetime.datetime.now(datetime.timezone.utc).replace(microsecond=0)
+    local = now.astimezone(CST)
+    commit_local = (datetime.datetime.fromisoformat(commit_time).astimezone(CST).strftime('%Y-%m-%d %H:%M')
+                    if commit_time else '未知')
+    return {
+        'url': url,
+        'sha': sha,
+        'short': sha[:7],
+        'dirty': dirty,
+        'version': f'{local:%Y.%m.%d}-{sha[:7]}' + ('-dirty' if dirty else ''),
+        'built': f'{local:%Y-%m-%d %H:%M} (UTC+8)',
+        'built_utc': now.isoformat().replace('+00:00', 'Z'),
+        'commit_time': f'{commit_local} (UTC+8)',
+    }
+
+
+def colophon(info):
+    """正文最前面的版本页。"""
+    e = html.escape
+    dirty = '<br><strong>注意: 生成时仓库有未提交的修改,内容可能与该提交不完全一致。</strong>' if info['dirty'] else ''
+    return f'''<section class="colophon" id="版本信息">
+<h1>版本信息</h1>
+<table>
+<tr><th>书名</th><td>人类紧急求生与健康指南(离线版)</td></tr>
+<tr><th>版本号</th><td><code>{e(info['version'])}</code></td></tr>
+<tr><th>生成时间</th><td>{e(info['built'])} / {e(info['built_utc'])}</td></tr>
+<tr><th>源文件提交</th><td><code>{e(info['sha'])}</code>(提交于 {e(info['commit_time'])})</td></tr>
+<tr><th>仓库地址</th><td><a href="{e(info['url'])}">{e(info['url'])}</a></td></tr>
+<tr><th>该版本原文</th><td><a href="{e(info['url'])}/tree/{e(info['sha'])}">{e(info['url'])}/tree/{e(info['sha'])}</a></td></tr>
+</table>
+<p>查证方法: 在仓库里打开"该版本原文"链接,或运行 <code>git show {e(info['short'])}</code>,
+可以看到生成本文件时所用的全部原文和提交时间。每页页脚都印有版本号;
+手册内容会不断修订,使用前请尽量对照仓库里的最新版本。{dirty}</p>
+<p class="hidden-mark">{e(stamp_text(info))}</p>
+</section>
+'''
+
+
+def stamp_text(info):
+    return f"人类紧急求生与健康指南 | {info['url']} | commit {info['sha']} | built {info['built_utc']} | version {info['version']}"
+
 
 
 def files_in_order():
@@ -74,10 +135,16 @@ code{font-family:"Noto Sans Mono CJK SC",Consolas,monospace;font-size:.92em}
 blockquote{border-left:4px solid #c33;margin:.8em 0;padding:.2em 1em;color:#555;background:#fafafa}
 a{color:#0b5cad}
 .src{font-size:.8em;color:#999;margin-top:2em}
+.colophon td,.colophon th{text-align:left}
+.colophon th{white-space:nowrap}
+.colophon code{word-break:break-all}
+.hidden-mark{color:#fff;font-size:1px;line-height:1px;margin:0;user-select:all}
 .doc{border-top:3px double #bbb;margin-top:2em}
 #top{position:fixed;right:1em;bottom:1em;background:#c33;color:#fff;padding:.4em .7em;border-radius:4px;text-decoration:none}
 @media print{#top{display:none}.doc{page-break-before:always}pre,table,blockquote{page-break-inside:avoid}
-  a{color:#222;text-decoration:none}body{max-width:none}}
+  a{color:#222;text-decoration:none}body{max-width:none;padding:0}
+  .colophon{page-break-after:always}
+}
 """
 
 
@@ -85,15 +152,25 @@ def main():
     order = list(files_in_order())
     ids = {p: file_id(p) for p in order}
     parts = [render(p, ids) for p in order]
+    info = build_info()
+    e = html.escape
     os.makedirs(os.path.dirname(os.path.abspath(OUT)), exist_ok=True)
     with open(OUT, 'w', encoding='utf-8') as f:
         f.write('<!DOCTYPE html>\n<html lang="zh-CN">\n<head>\n<meta charset="utf-8">\n'
                 '<meta name="viewport" content="width=device-width, initial-scale=1">\n'
-                f'<title>人类紧急求生与健康指南(离线版)</title>\n<style>{CSS}</style>\n</head>\n<body>\n'
-                f'<a id="top" href="#{ids["README.md"]}">目录</a>\n')
+                f'<title>人类紧急求生与健康指南(离线版) {e(info["version"])}</title>\n'
+                f'<meta name="author" content="{e(info["url"])}">\n'
+                f'<meta name="build-version" content="{e(info["version"])}">\n'
+                f'<meta name="build-time" content="{e(info["built_utc"])}">\n'
+                f'<meta name="source-commit" content="{e(info["sha"])}">\n'
+                f'<meta name="source-repository" content="{e(info["url"])}">\n'
+                f'<!-- {e(stamp_text(info))} -->\n'
+                f'<style>{CSS}</style>\n</head>\n<body>\n'
+                f'<a id="top" href="#{ids["README.md"]}">目录</a>\n'
+                + colophon(info))
         f.writelines(parts)
         f.write('</body>\n</html>\n')
-    print(f'{len(order)} 个文件 → {OUT} ({os.path.getsize(OUT) // 1024} KB)')
+    print(f'{len(order)} 个文件 → {OUT} ({os.path.getsize(OUT) // 1024} KB), 版本 {info["version"]}')
 
 
 if __name__ == '__main__':
