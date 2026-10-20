@@ -199,7 +199,8 @@
 - 到本仓库 [Releases](https://github.com/CYSAKURAEIEN/human-health-check/releases/tag/offline-latest) 下载 `offline-latest` 里的文件:
   - **HTML**(约4 MB): 用手机或电脑的浏览器打开即可离线阅读,目录和章节间的链接都能点
   - **PDF**(约2000页、40 MB): 适合打印,或存在没有浏览器的设备上
-- 每次内容更新后自动重新生成;也可以在本地运行 `python3 tools/build_offline.py`(需要安装 pandoc)自己生成
+- 每次内容更新后自动重新生成;也可以在本地运行 `python3 tools/build_offline.py`(需要 pandoc)和 `python3 tools/build_pdf.py`(需要 playwright、pypdf)自己生成
+- **怎样查证版本**: 文件开头有一页"版本信息",写明版本号(生成日期加提交编号)、生成时间、仓库地址和对应的提交;PDF 每页页脚也印有版本号。按提交编号在仓库里就能找到生成时所用的原文。手册会不断修订,拿到旧版本时请对照最新版
 - 打印时建议优先打印: 基础急救知识、外伤处理、中毒、净水、有毒植物对照
 
 ## 📏 单位符号说明
