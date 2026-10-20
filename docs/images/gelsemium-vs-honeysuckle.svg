@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 880" width="720" height="880" role="img" aria-label="钩吻与金银花对照示意: 钩吻多朵黄花聚成聚伞花序,花冠漏斗状整齐5裂,叶光滑无毛;金银花两朵花并生在一个花梗上,花冠唇形,雄蕊伸出,初开白色后变黄,叶有柔毛;两者花期重叠">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>钩吻与金银花对照</title>
+<defs>
+<!-- 钩吻: 漏斗状花冠,顶端整齐5裂(侧面看到3片) -->
+<g id="fG">
+<path d="M-2.5 3 L0 -3 L2.5 3 Z" fill="#7a9a4a"/>
+<path d="M-3 0 L-3 -16 Q-6 -26 -13 -31 Q-15 -39 -6 -36 Q0 -42 6 -36 Q15 -39 13 -31 Q6 -26 3 -16 L3 0 Z" fill="#f5c518" stroke="#333" stroke-width="1.2" vector-effect="non-scaling-stroke"/>
+</g>
+<g id="fGfront">
+<g fill="#f5c518" stroke="#333" stroke-width="1.2">
+<ellipse cx="0" cy="-13" rx="9" ry="13" vector-effect="non-scaling-stroke"/>
+<ellipse cx="0" cy="-13" rx="9" ry="13" transform="rotate(72)" vector-effect="non-scaling-stroke"/>
+<ellipse cx="0" cy="-13" rx="9" ry="13" transform="rotate(144)" vector-effect="non-scaling-stroke"/>
+<ellipse cx="0" cy="-13" rx="9" ry="13" transform="rotate(216)" vector-effect="non-scaling-stroke"/>
+<ellipse cx="0" cy="-13" rx="9" ry="13" transform="rotate(288)" vector-effect="non-scaling-stroke"/>
+</g>
+<circle r="5" fill="#c99700" stroke="#333" stroke-width="1" vector-effect="non-scaling-stroke"/>
+</g>
+<!-- 金银花: 细长花冠筒,唇形(上唇4浅裂、下唇1片),雄蕊伸出;颜色由 use 的 fill 决定 -->
+<g id="fL">
+<path d="M-2 0 L-3.5 -44 L3.5 -44 L2 0 Z" stroke="#333" stroke-width="1.2" vector-effect="non-scaling-stroke"/>
+<g transform="translate(0 -8)">
+<path d="M-3 -36 C-14 -42 -26 -40 -32 -28 C-35 -20 -30 -18 -28 -24 C-24 -34 -14 -34 -3 -31 Z" stroke="#333" stroke-width="1.2" vector-effect="non-scaling-stroke"/>
+<path d="M3 -36 C6 -50 12 -62 18 -74 Q21 -80 25 -75 Q29 -81 32 -74 Q37 -78 37 -71 Q43 -72 40 -64 C34 -50 20 -40 3 -32 Z" stroke="#333" stroke-width="1.2" vector-effect="non-scaling-stroke"/>
+<path d="M0 -36 L-8 -78 M0 -36 L-2 -82 M0 -36 L4 -83 M0 -36 L10 -82 M0 -36 L15 -79 M0 -36 L4 -92" stroke="#555" stroke-width="1" vector-effect="non-scaling-stroke" fill="none"/>
+<g fill="#c9a227"><ellipse cx="-8" cy="-79" rx="1.6" ry="2.6"/><ellipse cx="-2" cy="-83" rx="1.6" ry="2.6"/><ellipse cx="4" cy="-84" rx="1.6" ry="2.6"/><ellipse cx="10" cy="-83" rx="1.6" ry="2.6"/><ellipse cx="15" cy="-80" rx="1.6" ry="2.6"/></g>
+<circle cx="4" cy="-93" r="2.2" fill="#7a9a4a"/>
+</g>
+</g>
+<!-- 一个花梗上并生两朵花 -->
+<g id="pairL">
+<path d="M0 0 L10 -14" stroke="#4d6b2a" stroke-width="2" fill="none"/>
+<path d="M10 -14 l-6 -2 l3 -3 Z M10 -14 l6 -1 l-2 -4 Z" fill="#7a9a4a"/>
+<use href="#fL" transform="translate(10 -14) rotate(-14)"/>
+<use href="#fL" transform="translate(10 -14) rotate(20)"/>
+</g>
+<!-- 叶: 钩吻卵状披针形、光滑;金银花卵形、有柔毛 -->
+<g id="gL"><path d="M0 0 C6 -18 30 -16 78 0 C30 16 6 18 0 0 Z" fill="#cfe3b0" stroke="#333" stroke-width="1.5"/><path d="M0 0 L72 0" stroke="#6a8a3a" stroke-width="1"/></g>
+<g id="hL"><path d="M0 0 C2 -22 30 -24 58 0 C30 24 2 22 0 0 Z" fill="none" stroke="#6a8a3a" stroke-width="7" stroke-dasharray="1 3"/><path d="M0 0 C2 -22 30 -24 58 0 C30 24 2 22 0 0 Z" fill="#cfe3b0" stroke="#333" stroke-width="1.5"/><path d="M0 0 L54 0" stroke="#6a8a3a" stroke-width="1"/><path d="M12 -8 l2 -3 M20 -11 l2 -3 M30 -9 l2 -3 M40 -6 l2 -3 M14 7 l2 -3 M24 10 l2 -3 M34 8 l2 -3 M44 5 l2 -3" stroke="#6a8a3a" stroke-width="1"/></g>
+</defs>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" fill="#222">
+<text x="360" y="30" font-size="18" font-weight="bold" text-anchor="middle">钩吻 vs 金银花 识别要点(示意图)</text>
+<rect x="10" y="44" width="345" height="706" rx="8" fill="none" stroke="#c33" stroke-width="2"/>
+<rect x="365" y="44" width="345" height="706" rx="8" fill="none" stroke="#999" stroke-width="1.5"/>
+
+<!-- ===== 钩吻 ===== -->
+<text x="26" y="72" font-size="18" font-weight="bold" fill="#c33">钩吻(断肠草)</text>
+<text x="26" y="92" font-size="14" font-style="italic" fill="#555">Gelsemium elegans</text>
+<rect x="252" y="54" width="92" height="30" rx="5" fill="#c33"/>
+<text x="298" y="75" font-size="17" font-weight="bold" fill="#fff" text-anchor="middle">☠️ 剧毒</text>
+<text x="344" y="102" font-size="14" fill="#c33" text-anchor="end">吃几片嫩叶就可能致死</text>
+
+<path d="M100 515 C97 440 103 360 100 300 C97 240 102 200 100 172" fill="none" stroke="#4d6b2a" stroke-width="3"/>
+<use href="#gL" transform="translate(102 430) rotate(-15)"/>
+<use href="#gL" transform="translate(98 430) scale(-1 1) rotate(-15)"/>
+<use href="#gL" transform="translate(101 312) rotate(10) scale(0.85)"/>
+<use href="#gL" transform="translate(99 312) scale(-1 1) rotate(-15) scale(0.85)"/>
+<!-- terminal cyme -->
+<path d="M100 174 L100 150 M100 174 L86 158 M86 158 L76 168 M100 174 L114 158 M114 158 L124 168" stroke="#4d6b2a" stroke-width="1.6" fill="none"/>
+<use href="#fG" transform="translate(100 150)"/>
+<use href="#fG" transform="translate(86 158) rotate(-28)"/>
+<use href="#fG" transform="translate(76 168) rotate(-62)"/>
+<use href="#fG" transform="translate(114 158) rotate(28)"/>
+<use href="#fG" transform="translate(124 168) rotate(62)"/>
+<!-- axillary cyme -->
+<path d="M102 306 L122 286 M122 286 L120 270 M122 286 L136 280" stroke="#4d6b2a" stroke-width="1.6" fill="none"/>
+<use href="#fG" transform="translate(120 270) rotate(-5) scale(0.85)"/>
+<use href="#fG" transform="translate(136 280) rotate(45) scale(0.85)"/>
+
+<g stroke="#0b5cad" stroke-width="1" fill="none"><path d="M132 150 L194 156"/><path d="M152 266 L194 176"/><path d="M152 418 L194 404"/><path d="M103 480 L194 480"/></g>
+<g fill="#0b5cad"><circle cx="132" cy="150" r="2.5"/><circle cx="152" cy="266" r="2.5"/><circle cx="152" cy="418" r="2.5"/><circle cx="103" cy="480" r="2.5"/></g>
+<text x="198" y="150" font-size="15">多朵花聚成</text>
+<text x="198" y="170" font-size="15" font-weight="bold">聚伞花序</text>
+<text x="198" y="190" font-size="14" fill="#555">(顶生或腋生)</text>
+<text x="198" y="222" font-size="15">花<tspan font-weight="bold">只有黄色</tspan></text>
+<text x="198" y="400" font-size="15"><tspan font-weight="bold">叶对生</tspan>,卵状披针形</text>
+<text x="198" y="420" font-size="15"><tspan font-weight="bold">光滑无毛</tspan>,较薄</text>
+<text x="198" y="485" font-size="15">茎光滑无毛</text>
+
+<line x1="22" y1="540" x2="343" y2="540" stroke="#ccc" stroke-dasharray="4 3"/>
+<text x="26" y="564" font-size="15" fill="#0b5cad">花的放大</text>
+<use href="#fG" transform="translate(72 722) scale(2.6)"/>
+<use href="#fGfront" transform="translate(165 668) scale(1.6)"/>
+<text x="72" y="742" font-size="14" fill="#555" text-anchor="middle">侧面</text>
+<text x="165" y="742" font-size="14" fill="#555" text-anchor="middle">正面</text>
+<text x="226" y="616" font-size="15" font-weight="bold">漏斗状</text>
+<text x="226" y="638" font-size="15" font-weight="bold">顶端整齐5裂</text>
+<text x="226" y="660" font-size="15">像小喇叭</text>
+<text x="226" y="694" font-size="15">雄蕊藏在花冠内</text>
+
+<!-- ===== 金银花 ===== -->
+<text x="381" y="72" font-size="18" font-weight="bold">金银花(忍冬)</text>
+<text x="381" y="92" font-size="14" font-style="italic" fill="#555">Lonicera japonica</text>
+
+<path d="M440 520 C436 450 446 390 440 330 C436 270 444 230 440 170" fill="none" stroke="#7a9a4a" stroke-width="7" stroke-dasharray="1 3"/>
+<path d="M440 520 C436 450 446 390 440 330 C436 270 444 230 440 170" fill="none" stroke="#4d6b2a" stroke-width="3"/>
+<use href="#hL" transform="translate(442 450) rotate(10) scale(1.2)"/>
+<use href="#hL" transform="translate(438 450) scale(-1 1) rotate(10) scale(1.2)"/>
+<use href="#hL" transform="translate(442 330) rotate(20) scale(1.05)"/>
+<use href="#hL" transform="translate(438 330) scale(-1 1) rotate(5) scale(1.05)"/>
+<use href="#hL" transform="translate(442 200) rotate(15) scale(0.8)"/>
+<use href="#hL" transform="translate(438 200) scale(-1 1) rotate(-10) scale(0.8)"/>
+<use href="#pairL" transform="translate(442 326) rotate(28) scale(0.85)" fill="#f5c518"/>
+<use href="#pairL" transform="translate(442 196) rotate(22) scale(0.85)" fill="#fff"/>
+
+<g stroke="#0b5cad" stroke-width="1" fill="none"><path d="M453 189 L544 186"/><path d="M497 150 L544 252"/><path d="M500 290 L544 266"/><path d="M505 462 L544 452"/><path d="M443 508 L544 508"/></g>
+<g fill="#0b5cad"><circle cx="453" cy="189" r="2.5"/><circle cx="497" cy="150" r="2.5"/><circle cx="500" cy="290" r="2.5"/><circle cx="505" cy="462" r="2.5"/><circle cx="443" cy="508" r="2.5"/></g>
+<text x="548" y="170" font-size="15"><tspan font-weight="bold">两朵花并生</tspan>在</text>
+<text x="548" y="190" font-size="15">一个花梗上</text>
+<text x="548" y="210" font-size="15">生于叶腋</text>
+<text x="548" y="256" font-size="15">初开<tspan font-weight="bold">白色</tspan>、后变<tspan font-weight="bold">黄色</tspan></text>
+<text x="548" y="276" font-size="15">同一株上常黄白并存</text>
+<text x="548" y="448" font-size="15"><tspan font-weight="bold">叶对生</tspan>,卵形</text>
+<text x="548" y="468" font-size="15">两面常<tspan font-weight="bold">有柔毛</tspan></text>
+<text x="548" y="513" font-size="15">幼枝常有柔毛</text>
+
+<line x1="377" y1="540" x2="698" y2="540" stroke="#ccc" stroke-dasharray="4 3"/>
+<text x="381" y="564" font-size="15" fill="#0b5cad">花的放大</text>
+<use href="#fL" transform="translate(455 738) scale(1.6)" fill="#fff"/>
+<g stroke="#0b5cad" stroke-width="1" fill="none"><path d="M472 594 L540 598"/><path d="M521 625 L540 650"/></g>
+<g fill="#0b5cad"><circle cx="472" cy="594" r="2.5"/><circle cx="521" cy="625" r="2.5"/></g>
+<text x="544" y="596" font-size="15" font-weight="bold">雄蕊明显</text>
+<text x="544" y="616" font-size="15" font-weight="bold">伸出花冠外</text>
+<text x="544" y="655" font-size="15">上唇4浅裂</text>
+<text x="544" y="696" font-size="15" font-weight="bold">唇形</text>
+<text x="544" y="716" font-size="15">像张开的嘴</text>
+<text x="404" y="728" font-size="15" text-anchor="middle">下唇1片</text>
+
+<!-- key takeaway -->
+<rect x="10" y="762" width="700" height="106" rx="8" fill="#fdecec" stroke="#c33" stroke-width="2"/>
+<text x="360" y="790" font-size="17" font-weight="bold" fill="#c33" text-anchor="middle">两者花期重叠,不能靠花期区分</text>
+<text x="360" y="818" font-size="16" text-anchor="middle">要同时看花形、花序和叶片有没有毛</text>
+<text x="360" y="850" font-size="17" font-weight="bold" fill="#c33" text-anchor="middle">不确定是不是金银花的藤,不采花、不采叶</text>
+</g>
+</svg>

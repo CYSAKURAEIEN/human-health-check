@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 500" width="720" height="500" role="img" aria-label="成人胸外按压示意图: 救护者跪在伤员身旁,肩膀在伤员胸部正上方,手臂伸直垂直向下按压;按压深度5-6 cm,频率100-120次/分钟;双手掌根叠放在胸骨中下1/3、两乳头连线中点,手指交叉翘起">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>成人胸外按压: 姿势与手的位置</title>
+<defs>
+<clipPath id="inset"><rect x="451" y="46" width="253" height="252"/></clipPath>
+<marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="ab" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+</defs>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="15" fill="#222">
+
+<!-- 关键数字 -->
+<text x="20" y="32" font-size="17">按压深度 <tspan fill="#c33" font-weight="bold">5-6 cm</tspan></text>
+<text x="20" y="56" font-size="17">频率 <tspan fill="#c33" font-weight="bold">100-120次/分钟</tspan><tspan font-size="14">(约每秒2次)</tspan></text>
+
+<!-- 地面 -->
+<line x1="20" y1="420" x2="430" y2="420" stroke="#999" stroke-width="3"/>
+
+<!-- 伤员胸部截面 -->
+<circle cx="98" cy="410" r="10" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M112,420 C108,378 138,354 170,354 C202,354 232,378 228,420 Z" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<rect x="161" y="357" width="18" height="7" rx="3" fill="#fff" stroke="#333" stroke-width="1.5"/>
+<circle cx="170" cy="408" r="7" fill="#fff" stroke="#333" stroke-width="1.5"/>
+<path d="M112,420 C108,388 140,371 170,371 C200,371 232,388 228,420" fill="none" stroke="#c33" stroke-width="1.5" stroke-dasharray="5 4"/>
+<!-- 深度标注 -->
+<line x1="40" y1="354" x2="132" y2="354" stroke="#0b5cad" stroke-width="1.2" stroke-dasharray="4 3"/>
+<line x1="40" y1="371" x2="126" y2="371" stroke="#0b5cad" stroke-width="1.2" stroke-dasharray="4 3"/>
+<line x1="52" y1="357" x2="52" y2="368" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#ab)" marker-end="url(#ab)"/>
+<text x="20" y="344" font-size="14" fill="#0b5cad">下压 5-6 cm</text>
+
+<!-- 救护者: 小腿、大腿、躯干、头、手臂 -->
+<line x1="252" y1="404" x2="372" y2="408" stroke="#333" stroke-width="28" stroke-linecap="round"/>
+<line x1="252" y1="404" x2="372" y2="408" stroke="#b9cde0" stroke-width="23" stroke-linecap="round"/>
+<path d="M372,394 L398,397 Q404,410 398,419 L372,419 Z" fill="#888" stroke="#333" stroke-width="2"/>
+<line x1="252" y1="400" x2="276" y2="270" stroke="#333" stroke-width="38" stroke-linecap="round"/>
+<line x1="252" y1="400" x2="276" y2="270" stroke="#b9cde0" stroke-width="33" stroke-linecap="round"/>
+<line x1="168" y1="168" x2="146" y2="146" stroke="#333" stroke-width="20" stroke-linecap="round"/>
+<line x1="168" y1="168" x2="146" y2="146" stroke="#f3e3d3" stroke-width="15" stroke-linecap="round"/>
+<line x1="276" y1="266" x2="182" y2="180" stroke="#333" stroke-width="56" stroke-linecap="round"/>
+<line x1="276" y1="266" x2="182" y2="180" stroke="#cfe0f0" stroke-width="51" stroke-linecap="round"/>
+<circle cx="134" cy="132" r="28" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M140,104 Q166,106 162,138 Q150,124 136,122 Q122,120 110,118 Q116,102 140,104 Z" fill="#555"/>
+<circle cx="146" cy="134" r="4" fill="none" stroke="#333" stroke-width="1.5"/>
+<path d="M110,138 Q104,144 110,148" fill="none" stroke="#333" stroke-width="2"/>
+<!-- 手臂(两臂重叠,伸直) -->
+<line x1="170" y1="182" x2="170" y2="330" stroke="#333" stroke-width="22" stroke-linecap="round"/>
+<line x1="170" y1="182" x2="170" y2="330" stroke="#f3e3d3" stroke-width="17" stroke-linecap="round"/>
+<line x1="170" y1="182" x2="170" y2="222" stroke="#333" stroke-width="30" stroke-linecap="round"/>
+<line x1="170" y1="182" x2="170" y2="222" stroke="#cfe0f0" stroke-width="25" stroke-linecap="round"/>
+<!-- 叠放的双手: 掌根着力,手指翘起 -->
+<path d="M181,333 L181,349 Q179,355 172,355 L154,352 Q140,348 130,339 Q128,333 135,333 L152,338 Q160,334 166,332 Z" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M181,326 L181,340 Q176,345 166,343 L150,339 Q138,334 133,326 Q134,321 140,322 L156,328 Q164,325 170,324 Z" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<circle cx="172" cy="354" r="3.5" fill="#c33"/>
+
+<!-- 标注 -->
+<line x1="170" y1="92" x2="170" y2="352" stroke="#0b5cad" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="180" y="96" font-size="15" fill="#0b5cad">肩膀在伤员胸部正上方</text>
+<line x1="136" y1="228" x2="136" y2="300" stroke="#c33" stroke-width="4" marker-end="url(#ar)"/>
+<text x="20" y="258">手臂伸直,</text>
+<text x="20" y="278">垂直向下压</text>
+<circle cx="276" cy="268" r="6" fill="none" stroke="#0b5cad" stroke-width="2"/>
+<line x1="283" y1="266" x2="304" y2="262" stroke="#0b5cad" stroke-width="1"/>
+<text x="306" y="258" font-size="14">以髋关节为轴,</text>
+<text x="306" y="277" font-size="14">用上半身的重量</text>
+<text x="306" y="296" font-size="14">往下压</text>
+<text x="170" y="444" font-size="14" text-anchor="middle">伤员仰卧(胸部截面)</text>
+<text x="370" y="444" font-size="14" text-anchor="middle">硬的平面(地面)</text>
+
+<!-- 右侧: 手的位置(俯视) -->
+<rect x="450" y="12" width="255" height="462" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="462" y="36" font-size="16" font-weight="bold">手的位置(俯视)</text>
+<g clip-path="url(#inset)">
+<circle cx="577" cy="76" r="22" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<rect x="568" y="94" width="18" height="14" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<line x1="500" y1="120" x2="498" y2="320" stroke="#333" stroke-width="24" stroke-linecap="round"/>
+<line x1="500" y1="120" x2="498" y2="320" stroke="#f3e3d3" stroke-width="19" stroke-linecap="round"/>
+<line x1="654" y1="120" x2="656" y2="320" stroke="#333" stroke-width="24" stroke-linecap="round"/>
+<line x1="654" y1="120" x2="656" y2="320" stroke="#f3e3d3" stroke-width="19" stroke-linecap="round"/>
+<path d="M516,330 L512,140 Q510,106 540,104 L614,104 Q644,106 642,140 L638,330 Z" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M570,112 Q550,106 528,112 M584,112 Q604,106 626,112" fill="none" stroke="#999" stroke-width="1.5"/>
+<path d="M572,212 Q545,232 520,262 M582,212 Q609,232 634,262" fill="none" stroke="#999" stroke-width="1.5"/>
+<rect x="570" y="110" width="14" height="94" rx="6" fill="#fff" stroke="#333" stroke-width="1.5"/>
+<path d="M572,203 L577,213 L582,203" fill="#fff" stroke="#333" stroke-width="1.5"/>
+<line x1="516" y1="172" x2="640" y2="172" stroke="#0b5cad" stroke-width="1.2" stroke-dasharray="4 3"/>
+<circle cx="543" cy="172" r="4" fill="#c9a08a" stroke="#333" stroke-width="1"/>
+<circle cx="611" cy="172" r="4" fill="#c9a08a" stroke="#333" stroke-width="1"/>
+<!-- 双手(半透明,能看到下面的胸骨) -->
+<g fill="#f3e3d3" fill-opacity="0.75" stroke="#333" stroke-width="1.5">
+<path d="M566,158 Q564,172 568,186 Q580,192 606,188 L612,180 L612,162 Q600,154 580,154 Z"/>
+<rect x="608" y="155" width="30" height="7" rx="3.5"/>
+<rect x="610" y="164" width="32" height="7" rx="3.5"/>
+<rect x="610" y="173" width="30" height="7" rx="3.5"/>
+<rect x="606" y="182" width="26" height="7" rx="3.5"/>
+<path d="M590,156 Q598,142 610,138 Q614,142 606,150 L600,158"/>
+</g>
+<circle cx="577" cy="172" r="5" fill="#c33"/>
+</g>
+<text x="462" y="318" font-size="14"><tspan fill="#c33">●</tspan> 掌根放在胸骨中下1/3,</text>
+<text x="478" y="337" font-size="14">两乳头连线中点</text>
+<text x="462" y="358" font-size="14" fill="#0b5cad">不要偏到肋骨或肚子上</text>
+
+<!-- 右下: 双手侧面 -->
+<line x1="466" y1="448" x2="690" y2="448" stroke="#999" stroke-width="2.5"/>
+<text x="470" y="466" font-size="13" fill="#666">胸部皮肤</text>
+<line x1="530" y1="378" x2="532" y2="420" stroke="#333" stroke-width="20" stroke-linecap="round"/>
+<line x1="530" y1="378" x2="532" y2="420" stroke="#f3e3d3" stroke-width="15" stroke-linecap="round"/>
+<path d="M520,428 Q520,446 532,447 Q545,447 560,438 L598,416 Q606,410 600,404 L560,418 Q548,418 542,414 Z" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M522,418 Q524,432 540,430 L580,410 L600,396 Q604,388 596,388 L572,398 Q556,404 544,404 Q528,404 522,418 Z" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<circle cx="532" cy="447" r="4" fill="#c33"/>
+<text x="550" y="466" font-size="14" fill="#c33">只用掌根着力</text>
+<text x="612" y="398" font-size="14">手指交叉</text>
+<text x="612" y="416" font-size="14">翘起</text>
+</g>
+</svg>
