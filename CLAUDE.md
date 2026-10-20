@@ -7,7 +7,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 A Chinese-language Markdown handbook (《人类紧急求生与健康指南》) covering first aid, disaster response, wilderness survival, farming/husbandry (including seed saving and woodland/firewood management), metallurgy, improvised pharmaceuticals, and everyday living skills (food preservation, nutrition, sanitation, soap, long-term housing, lighting and energy, textiles and tanning, household electrical safety, woodworking and tool maintenance, water supply, pottery/glass/papermaking, teaching and knowledge preservation, record-keeping and community organisation, grain and oil processing, salt making, lime and building materials, rope and knots, vehicles/boats/roads), and a reference of foundational mathematics, physics, chemistry, biology and medicine for rebuilding technology, plus a more advanced part on engineering and a technology-rebuilding roadmap, and a part on identifying and collecting Chinese medicinal herbs (`10-中药材识别与采集`). There is no linter or test suite — almost all work is writing and editing Markdown that renders on GitHub. Two small generator scripts live in `tools/`:
 
 - `tools/build_herb_index.py` regenerates `docs/10-中药材识别与采集/10-药名索引.md` from part 10's `### N.N 药名` headings and `- **正名(别名)**:` lines (needs `pypinyin`). Never hand-edit the index; rerun the script after adding, removing or renaming herbs or aliases in part 10.
-- `tools/build_offline.py` merges every Markdown file into one offline HTML (needs `pandoc`); `.github/workflows/offline.yml` runs it on each push to `main`, prints a PDF with headless Chrome, and uploads both to the `offline-latest` release. Output goes to `dist/` (git-ignored). Write all content in Simplified Chinese, matching the existing tone.
+- `tools/build_offline.py` merges every Markdown file into one offline HTML (needs `pandoc`); `.github/workflows/offline.yml` runs it on each push to `main`, prints a PDF with headless Chrome, and uploads both to the `offline-latest` release. Output goes to `dist/` (git-ignored).
+
+Write all content in Simplified Chinese, matching the existing tone.
 
 ## Structure
 
