@@ -1,0 +1,19 @@
+# 每个 PR 和每次推送到 main 时检查: 断链、锚点、代码块、单位写法、药名索引是否最新。
+name: 文档检查
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install pypinyin
+      - name: 检查文档
+        run: python3 tools/check_docs.py

@@ -348,7 +348,7 @@
 4. 推送到分支 (`git push origin feature/AmazingFeature`)
 5. 开启一个 Pull Request
 
-修改了第十部分的药名或别名后,运行 `python3 tools/build_herb_index.py` 重新生成[药名索引](docs/10-中药材识别与采集/10-药名索引.md)。
+提交前请运行 `python3 tools/check_docs.py`,检查断链、锚点、代码块和单位写法(PR 上也会自动检查)。修改了第十部分的药名或别名后,运行 `python3 tools/build_herb_index.py` 重新生成[药名索引](docs/10-中药材识别与采集/10-药名索引.md)。
 
 ## ⚠️ 免责声明
 
