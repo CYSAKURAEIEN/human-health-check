@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 820" width="720" height="820" role="img" aria-label="旱厕剖面和选址:坑宽约1 m、深1.5-2 m,坑口用木头、石块或砖围边加固,上铺蹲板留蹲口,蹲口要有盖子;可选的通风管从坑内通出顶棚,管口罩纱网;旁边放一桶草木灰或干土和勺子,便后撒一勺;坑底至少高于地下水位1.5 m;坑满到距地面约50 cm时用土填满压实,另挖新坑。旱厕距离水井、泉水、溪流、池塘至少30 m,并位于水源的下坡方向" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>旱厕剖面与选址</title>
+<defs>
+<pattern id="soil" width="16" height="16" patternUnits="userSpaceOnUse"><rect width="16" height="16" fill="#efe4cf"/><circle cx="4" cy="5" r="1.1" fill="#bba57a"/><circle cx="12" cy="12" r="1.1" fill="#bba57a"/><circle cx="11" cy="3" r="0.8" fill="#bba57a"/></pattern>
+<pattern id="screen" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="#fff"/><path d="M0 0 L4 4 M4 0 L0 4" stroke="#666" stroke-width="0.7"/></pattern>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<marker id="arB0" viewBox="0 0 10 10" refX="2" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M10 0 L0 5 L10 10 Z" fill="#0b5cad"/></marker>
+<marker id="arG" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#888"/></marker>
+</defs>
+<g fill="#222">
+<text x="360" y="30" font-size="18" font-weight="bold" text-anchor="middle">旱厕剖面(长期使用)</text>
+<rect x="20" y="250" width="400" height="290" fill="url(#soil)"/>
+<rect x="150" y="250" width="80" height="140" fill="#fff"/>
+<path d="M150 364 L230 364 L230 390 L150 390 Z" fill="#a98a5a"/>
+<path d="M150 364 Q170 358 190 363 T230 364" fill="#a98a5a"/>
+<path d="M150 250 L150 390 L230 390 L230 250" fill="none" stroke="#333" stroke-width="2.5"/>
+<rect x="20" y="510" width="400" height="30" fill="#d8ebf7"/>
+<path d="M20 510 L420 510" stroke="#0b5cad" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="30" y="531" font-size="14" fill="#0b5cad">地下水位</text>
+<rect x="128" y="250" width="19" height="11" rx="2" fill="#c9c9c9" stroke="#555" stroke-width="1.2"/>
+<rect x="131" y="262" width="19" height="11" rx="2" fill="#c9c9c9" stroke="#555" stroke-width="1.2"/>
+<rect x="128" y="274" width="19" height="11" rx="2" fill="#c9c9c9" stroke="#555" stroke-width="1.2"/>
+<rect x="230" y="250" width="19" height="11" rx="2" fill="#c9c9c9" stroke="#555" stroke-width="1.2"/>
+<rect x="233" y="262" width="19" height="11" rx="2" fill="#c9c9c9" stroke="#555" stroke-width="1.2"/>
+<rect x="230" y="274" width="19" height="11" rx="2" fill="#c9c9c9" stroke="#555" stroke-width="1.2"/>
+<path d="M20 250 L128 250 M252 250 L420 250" stroke="#999" stroke-width="3"/>
+<rect x="120" y="240" width="140" height="10" fill="#dcc39a" stroke="#333" stroke-width="2"/>
+<rect x="180" y="239" width="24" height="12" fill="#fff"/>
+<rect x="174" y="233" width="36" height="6" rx="1" fill="#b98c4f" stroke="#333" stroke-width="1.6"/>
+<rect x="187.0" y="228" width="10" height="5" rx="1" fill="#b98c4f" stroke="#333" stroke-width="1.3"/>
+<path d="M120 240 L120 80 M260 240 L260 90" stroke="#777" stroke-width="5"/>
+<path d="M104 84 L276 96" stroke="#777" stroke-width="6" stroke-linecap="round"/>
+<rect x="212" y="50" width="12" height="260" fill="#555"/>
+<rect x="214" y="52" width="8" height="256" fill="#bbb"/>
+<rect x="209" y="38" width="18" height="12" fill="url(#screen)" stroke="#333" stroke-width="1.5"/>
+<path d="M218 34 L218 14" stroke="#888" stroke-width="2" marker-end="url(#arG)"/>
+<path d="M112 204 L116 240 L146 240 L150 204 Z" fill="#cfe0f0" stroke="#333" stroke-width="2"/>
+<path d="M112 204 Q132 186 150 204" fill="none" stroke="#333" stroke-width="1.5"/>
+<rect x="114" y="204" width="34" height="5" fill="#9a9a9a"/>
+<path d="M136 206 L154 176" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+<ellipse cx="134" cy="208" rx="5" ry="3" fill="#777"/>
+<path d="M150 290 L230 290" stroke="#c33" stroke-width="2" stroke-dasharray="6 4"/>
+<path d="M150 402 L230 402" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<text x="190.0" y="422" font-size="14" text-anchor="middle" fill="#0b5cad">宽约1 m</text>
+<path d="M100 252 L100 388" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<text x="92" y="322" font-size="14" text-anchor="end" fill="#0b5cad">深</text>
+<text x="92" y="340" font-size="14" text-anchor="end" fill="#0b5cad">1.5-2 m</text>
+<path d="M200 392 L200 508" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<text x="210" y="452" font-size="14" fill="#0b5cad">坑底至少高于</text>
+<text x="210" y="470" font-size="14" fill="#0b5cad">地下水位1.5 m</text>
+<text x="440" y="56" font-size="15" fill="#222">通风管(可选),管口罩纱网</text>
+<text x="440" y="74" font-size="13" fill="#555">臭气从管子排出;苍蝇被管口亮光</text>
+<text x="440" y="92" font-size="13" fill="#555">吸引后被纱网困住</text>
+<line x1="436" y1="51" x2="227" y2="44" stroke="#0b5cad" stroke-width="1.3"/><circle cx="227" cy="44" r="2.6" fill="#0b5cad"/>
+<text x="440" y="126" font-size="15" fill="#222">四周和顶棚遮挡</text>
+<text x="440" y="144" font-size="13" fill="#555">保证隐私和防雨</text>
+<line x1="436" y1="121" x2="263" y2="130" stroke="#0b5cad" stroke-width="1.3"/><circle cx="263" cy="130" r="2.6" fill="#0b5cad"/>
+<text x="440" y="184" font-size="15" fill="#222">蹲口要有盖子(防蝇的关键)</text>
+<text x="440" y="202" font-size="13" fill="#555">便后盖好</text>
+<line x1="436" y1="179" x2="204.0" y2="235" stroke="#0b5cad" stroke-width="1.3"/><circle cx="204.0" cy="235" r="2.6" fill="#0b5cad"/>
+<text x="440" y="234" font-size="15" fill="#222">蹲板: 结实的木板或水泥板</text>
+<text x="440" y="252" font-size="13" fill="#555">留蹲口</text>
+<line x1="436" y1="229" x2="250" y2="244" stroke="#0b5cad" stroke-width="1.3"/><circle cx="250" cy="244" r="2.6" fill="#0b5cad"/>
+<text x="440" y="286" font-size="15" fill="#222">坑口加固: 木头、石块或砖围边</text>
+<text x="440" y="304" font-size="13" fill="#555">防止塌方</text>
+<line x1="436" y1="281" x2="248" y2="268" stroke="#0b5cad" stroke-width="1.3"/><circle cx="248" cy="268" r="2.6" fill="#0b5cad"/>
+<text x="440" y="338" font-size="15" fill="#c33">坑满到距地面约50 cm时:</text>
+<text x="440" y="356" font-size="13" fill="#555">用土填满压实,另挖新坑;</text>
+<text x="440" y="374" font-size="13" fill="#555">填满的旧坑做好标记,至少1-2年内不要挖开</text>
+<line x1="436" y1="333" x2="226" y2="290" stroke="#0b5cad" stroke-width="1.3"/><circle cx="226" cy="290" r="2.6" fill="#0b5cad"/>
+<text x="24" y="118" font-size="15">一桶草木灰或</text>
+<text x="24" y="137" font-size="15">干土和一把勺子</text>
+<text x="24" y="156" font-size="13" fill="#555">便后撒一勺</text>
+<line x1="70" y1="162" x2="120" y2="210" stroke="#0b5cad" stroke-width="1.3"/><circle cx="120" cy="210" r="2.6" fill="#0b5cad"/>
+<line x1="20" y1="552" x2="700" y2="552" stroke="#ddd" stroke-width="1.5"/>
+<text x="360" y="578" font-size="17" font-weight="bold" text-anchor="middle">选址(最关键,示意,不按比例)</text>
+<path d="M20 686 L700 741 L700 756 L20 756 Z" fill="url(#soil)"/>
+<path d="M20 686 L700 741" stroke="#999" stroke-width="3"/>
+<rect x="88" y="667.2794117647059" width="44" height="26" fill="#c9c9c9" stroke="#333" stroke-width="2"/>
+<path d="M84 635.2794117647059 L136 635.2794117647059 M92 635.2794117647059 L92 667.2794117647059 M128 635.2794117647059 L128 667.2794117647059" stroke="#8b6b3e" stroke-width="3"/>
+<rect x="98" y="693.2794117647059" width="24" height="44" fill="#d8ebf7" stroke="#333" stroke-width="1.5"/>
+<text x="30" y="607.2794117647059" font-size="14">水源: 水井、泉水、</text>
+<text x="30" y="625.2794117647059" font-size="14">溪流、池塘</text>
+<path d="M536 729.6764705882352 L536 675.6764705882352 M584 679.6764705882352 L584 729.6764705882352" fill="none" stroke="#777" stroke-width="4"/>
+<path d="M528 671.6764705882352 L592 677.6764705882352" stroke="#777" stroke-width="5" stroke-linecap="round"/>
+<rect x="548" y="731.6764705882352" width="24" height="18" fill="#fff" stroke="#333" stroke-width="1.5"/>
+<text x="560" y="661.6764705882352" font-size="14" text-anchor="middle">旱厕</text>
+<path d="M140 659.2794117647059 L526 695.6764705882352" stroke="#0b5cad" stroke-width="2" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<text x="335.0" y="645.4779411764705" font-size="17" font-weight="bold" text-anchor="middle" fill="#0b5cad">至少30 m</text>
+<text x="335.0" y="665.4779411764705" font-size="14" text-anchor="middle">旱厕在水源的下坡方向(地势较低处)</text>
+<text x="360" y="782" font-size="14" text-anchor="middle" fill="#c33">岩石裂隙多、砂砾土的地区,污染会走得更远,应加大距离</text>
+<text x="360" y="804" font-size="14" text-anchor="middle">避开会积水、被洪水淹没的低洼地;距住所和厨房有一定距离,但不要远到夜间不敢去</text>
+</g></svg>

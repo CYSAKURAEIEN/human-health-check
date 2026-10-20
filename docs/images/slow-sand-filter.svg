@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 652" width="720" height="652" role="img" aria-label="慢砂过滤池剖面:从上到下是约5-10 cm深的水层、厚约40-60 cm的细砂层(表面自然形成生物膜)、约5-10 cm的粗砂层、约5-10 cm的砾石层,底部集水管引出后向上弯、出水口高于砂层表面,使砂层始终被水淹着;进水要慢而持续;出水仍要煮沸或加氯消毒" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>慢砂过滤池剖面</title>
+<defs>
+<pattern id="fine" width="8" height="8" patternUnits="userSpaceOnUse"><rect width="8" height="8" fill="#f3e6bf"/><circle cx="2" cy="2" r="0.8" fill="#b89a5a"/><circle cx="6" cy="5" r="0.8" fill="#b89a5a"/><circle cx="3" cy="7" r="0.6" fill="#b89a5a"/></pattern>
+<pattern id="coarse" width="14" height="12" patternUnits="userSpaceOnUse"><rect width="14" height="12" fill="#e2c78e"/><circle cx="3" cy="3" r="1.8" fill="#9c7c40"/><circle cx="10" cy="6" r="2" fill="#9c7c40"/><circle cx="5" cy="10" r="1.6" fill="#9c7c40"/></pattern>
+<pattern id="pebble" width="30" height="22" patternUnits="userSpaceOnUse"><rect width="30" height="22" fill="#e6e6e6"/><g fill="#bdbdbd" stroke="#777" stroke-width="1"><ellipse cx="7" cy="6" rx="6" ry="4.5"/><ellipse cx="21" cy="8" rx="7" ry="5"/><ellipse cx="12" cy="17" rx="6.5" ry="4.5"/><ellipse cx="27" cy="19" rx="4" ry="3"/></g></pattern>
+<pattern id="wall" width="10" height="10" patternUnits="userSpaceOnUse"><rect width="10" height="10" fill="#d9d9d9"/><path d="M0 10 L10 0" stroke="#999" stroke-width="1"/></pattern>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+</defs>
+<g fill="#222">
+<text x="360" y="30" font-size="18" font-weight="bold" text-anchor="middle">慢砂过滤池剖面(大水缸、大桶、砖砌或混凝土池)</text>
+<path d="M134 80 L134 418 L426 418 L426 80 L410 80 L410 402 L150 402 L150 80 Z" fill="url(#wall)" stroke="#333" stroke-width="2.5"/>
+<rect x="150" y="112" width="260" height="30" fill="#d8ebf7"/>
+<rect x="150" y="142" width="260" height="200" fill="url(#fine)"/>
+<rect x="150" y="342" width="260" height="30" fill="url(#coarse)"/>
+<rect x="150" y="372" width="260" height="30" fill="url(#pebble)"/>
+<path d="M150 112 L410 112" stroke="#0b5cad" stroke-width="1.5"/>
+<path d="M158 120 q10 -4 20 0 M240 126 q10 -4 20 0 M330 121 q10 -4 20 0" fill="none" stroke="#7fa9cf" stroke-width="1.3"/>
+<path d="M150 142 Q180 140 210 142 T270 142 T330 142 T390 142 L410 142 L410 147 L150 147 Z" fill="#5f8f3a"/>
+<g stroke="#888" stroke-width="0.8"><line x1="150" y1="342" x2="410" y2="342"/><line x1="150" y1="372" x2="410" y2="372"/></g>
+<rect x="156" y="384" width="248" height="12" fill="#fff" stroke="#333" stroke-width="2"/>
+<circle cx="174" cy="390" r="2.2" fill="#333"/>
+<circle cx="202" cy="390" r="2.2" fill="#333"/>
+<circle cx="230" cy="390" r="2.2" fill="#333"/>
+<circle cx="258" cy="390" r="2.2" fill="#333"/>
+<circle cx="286" cy="390" r="2.2" fill="#333"/>
+<circle cx="314" cy="390" r="2.2" fill="#333"/>
+<circle cx="342" cy="390" r="2.2" fill="#333"/>
+<circle cx="370" cy="390" r="2.2" fill="#333"/>
+<circle cx="398" cy="390" r="2.2" fill="#333"/>
+<path d="M108 396 L108 116 L90 116 M120 384 L120 128 L90 128" fill="#fff" stroke="none"/>
+<path d="M156 384 L120 384 L120 128 L90 128 M156 396 L108 396 L108 116 L90 116" fill="none" stroke="#333" stroke-width="2.5"/>
+<path d="M90 128 L90 116" stroke="#d8ebf7" stroke-width="2"/>
+<path d="M88 132 L88 446" stroke="#0b5cad" stroke-width="2" stroke-dasharray="2 9"/>
+<path d="M54 458 L62 518 L122 518 L130 458" fill="none" stroke="#333" stroke-width="3"/>
+<path d="M58 490 L61 516 L123 516 L126 490 Z" fill="#d8ebf7"/>
+<path d="M470 56 L350 56 L350 76 M470 66 L362 66 L362 76" fill="none" stroke="#333" stroke-width="2.5"/>
+<path d="M356 82 L356 108" stroke="#0b5cad" stroke-width="2.5" stroke-dasharray="3 5" marker-end="url(#arB)"/>
+<text x="476" y="54" font-size="15">进水: 慢而持续,</text>
+<text x="476" y="73" font-size="15">不要冲坏砂层表面</text>
+<path d="M434 113 L440 113 L440 141 L434 141" fill="none" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="448" y="133" font-size="15">水层: 保持约5-10 cm深</text>
+<text x="448" y="152" font-size="13" fill="#555">(不能让砂层干掉)</text>
+<path d="M434 143 L440 143 L440 341 L434 341" fill="none" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="448" y="242" font-size="15">细砂层: 厚约40-60 cm</text>
+<text x="448" y="261" font-size="13" fill="#555">(洗净的细河沙)</text>
+<path d="M434 343 L440 343 L440 371 L434 371" fill="none" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="448" y="363" font-size="15">粗砂层: 约5-10 cm</text>
+<path d="M434 373 L440 373 L440 401 L434 401" fill="none" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="448" y="393" font-size="15">砾石层: 约5-10 cm</text>
+<text x="448" y="428" font-size="15">底部集水管,引出后向上弯</text>
+<line x1="446" y1="423" x2="370" y2="390" stroke="#0b5cad" stroke-width="1.3"/><circle cx="370" cy="390" r="2.6" fill="#0b5cad"/>
+<text x="448" y="188" font-size="15" fill="#3d6b1f" font-weight="bold">生物膜(砂层表面自然形成)</text>
+<text x="448" y="207" font-size="13" fill="#555">截留和分解大部分病菌</text>
+<line x1="446" y1="183" x2="380" y2="145" stroke="#0b5cad" stroke-width="1.3"/><circle cx="380" cy="145" r="2.6" fill="#0b5cad"/>
+<text x="78" y="206" font-size="13" text-anchor="end">出水变慢:</text>
+<text x="78" y="223" font-size="13" text-anchor="end">刮掉表面</text>
+<text x="78" y="240" font-size="13" text-anchor="end">1-2 cm砂</text>
+<text x="78" y="257" font-size="13" text-anchor="end">(生物膜</text>
+<text x="78" y="274" font-size="13" text-anchor="end">和淤泥),</text>
+<text x="78" y="291" font-size="13" text-anchor="end">洗净再用</text>
+<line x1="80" y1="201" x2="170" y2="146" stroke="#0b5cad" stroke-width="1.3"/><circle cx="170" cy="146" r="2.6" fill="#0b5cad"/>
+<text x="4" y="64" font-size="13" fill="#c33">出水口高于砂层表面,</text>
+<text x="4" y="81" font-size="13" fill="#c33">池水才不会流干,</text>
+<text x="4" y="98" font-size="13" fill="#c33">砂层始终淹在水里</text>
+<path d="M270 172 L270 382" stroke="#0b5cad" stroke-width="2.5" stroke-dasharray="7 6" marker-end="url(#arB)"/>
+<text x="282" y="252" font-size="14" fill="#0b5cad">水缓慢</text>
+<text x="282" y="270" font-size="14" fill="#0b5cad">向下渗</text>
+<text x="92" y="538" font-size="14" text-anchor="middle">收集出水</text>
+<rect x="210" y="450" width="490" height="84" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="226" y="475" font-size="15">新池要连续使用约2-3周,表面的生物膜才会长好,</text>
+<text x="226" y="498" font-size="15">这段时间出水必须消毒后才能喝;</text>
+<text x="226" y="521" font-size="15">刮过之后又要等一段时间才能恢复效果</text>
+<rect x="20" y="572" width="680" height="62" rx="6" fill="#fdecec" stroke="#c33" stroke-width="2"/>
+<text x="360" y="597" font-size="16" font-weight="bold" fill="#c33" text-anchor="middle">⚠ 能去除大部分细菌和寄生虫卵,但不能保证完全去除病毒</text>
+<text x="360" y="621" font-size="16" font-weight="bold" fill="#c33" text-anchor="middle">出水仍要煮沸或加氯消毒后再饮用</text>
+</g></svg>
