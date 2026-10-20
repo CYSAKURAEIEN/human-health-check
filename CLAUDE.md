@@ -49,6 +49,10 @@ Numeric values use SI unit symbols with a space between number and symbol (`1.5 
 - Links use relative paths with the literal Chinese file/directory names (e.g. `../04-动植物培育/04-药用植物.md`).
 - Anchor links rely on GitHub's heading slugs, so the fragment must match the full heading text exactly (e.g. `## 烫伤与烧伤` → `#烫伤与烧伤`). When renaming a heading, grep for links targeting it.
 
+## Diagrams
+
+Diagrams are hand-written SVG line drawings in `docs/images/` (lowercase English file names), embedded after the relevant text and outside code fences as `![中文说明](../images/xxx.svg)` plus an italic `*图: …*` caption. Each SVG starts with a white background `<rect>` (for GitHub dark mode) and a `<title>`, uses Chinese labels, and contains no scripts or external references (`tools/check_docs.py` enforces this; `tools/build_offline.py` inlines the images). Every label and number in a diagram must match the chapter text — when the text changes, update the diagram too. Render to PNG with headless Chromium and look at it before committing.
+
 ## Chapter style
 
 The style differs by when a part was written; follow the conventions of the part you are editing:

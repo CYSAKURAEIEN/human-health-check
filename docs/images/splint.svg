@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 576" width="720" height="576" role="img" aria-label="用就地取材的夹板固定骨折:①前臂骨折,夹板放在掌侧从肘部到手掌,中间垫衬垫,在骨折处上下各绑一道,结打在夹板一侧,手心握一卷绷带,指尖露出;②小腿骨折,内外两侧各放一块夹板,上端到大腿中部、下端超过脚跟,膝、踝两侧垫软物,骨折处不绑,露出脚趾检查血运" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>就地取材做夹板</title>
+<text x="360" y="28" font-size="17" fill="#222" text-anchor="middle" font-weight="bold">就地取材做夹板</text>
+<rect x="8" y="42" width="704" height="222" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<rect x="8" y="274" width="704" height="240" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<path d="M96 62 L104 154" fill="none" stroke="#333" stroke-width="35" stroke-linecap="round" stroke-linejoin="round"/><path d="M96 62 L104 154" fill="none" stroke="#cfe0f0" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M96 178 Q110 173 124 178 T152 178 T180 178 T208 178 T236 178 T264 178 T292 178 T320 178 T348 178 T376 178 T404 178 L430 192 L96 192 Z" fill="#f6f0e2" stroke="#333" stroke-width="1.8"/>
+<rect x="90" y="192" width="344" height="12" rx="3" fill="#dcc39a" stroke="#333" stroke-width="2.5"/>
+<path d="M104 156 L372 158" fill="none" stroke="#333" stroke-width="39" stroke-linecap="round" stroke-linejoin="round"/><path d="M104 156 L372 158" fill="none" stroke="#f3e3d3" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M372 158 L410 160" fill="none" stroke="#333" stroke-width="35" stroke-linecap="round" stroke-linejoin="round"/><path d="M372 158 L410 160" fill="none" stroke="#f3e3d3" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="420" cy="180" r="11" fill="#fff" stroke="#333" stroke-width="2"/>
+<path d="M420 180 m-5 0 a5 5 0 1 1 5 5" fill="none" stroke="#333" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M410 150 L432 156 L440 174 L432 190" fill="none" stroke="#333" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/><path d="M410 150 L432 156 L440 174 L432 190" fill="none" stroke="#f3e3d3" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M239 140 L251 149 L239 158 L251 167 L239 176" fill="none" stroke="#c33" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="151" y="134" width="18" height="75" rx="3" fill="#f2e6c9" stroke="#333" stroke-width="2"/><ellipse cx="154" cy="211" rx="6" ry="3.5" fill="#f2e6c9" stroke="#333" stroke-width="2"/><ellipse cx="166" cy="211" rx="6" ry="3.5" fill="#f2e6c9" stroke="#333" stroke-width="2"/><circle cx="160" cy="211" r="3.5" fill="#f2e6c9" stroke="#333" stroke-width="2"/>
+<rect x="321" y="134" width="18" height="75" rx="3" fill="#f2e6c9" stroke="#333" stroke-width="2"/><ellipse cx="324" cy="211" rx="6" ry="3.5" fill="#f2e6c9" stroke="#333" stroke-width="2"/><ellipse cx="336" cy="211" rx="6" ry="3.5" fill="#f2e6c9" stroke="#333" stroke-width="2"/><circle cx="330" cy="211" r="3.5" fill="#f2e6c9" stroke="#333" stroke-width="2"/>
+<text x="240" y="124" font-size="15" fill="#c33" text-anchor="middle">骨折处不绑</text>
+<text x="352" y="108" font-size="14" fill="#222" text-anchor="middle">绑带宽 3-5 cm</text>
+<line x1="340" y1="113" x2="332" y2="134" stroke="#0b5cad" stroke-width="1.3"/><circle cx="332" cy="134" r="2.6" fill="#0b5cad"/>
+<text x="28" y="196" font-size="15" fill="#222">衬垫</text>
+<line x1="60" y1="191" x2="98" y2="187" stroke="#0b5cad" stroke-width="1.3"/><circle cx="98" cy="187" r="2.6" fill="#0b5cad"/>
+<path d="M90 220 L90 230 M90 225 L434 225 M434 220 L434 230" fill="none" stroke="#0b5cad" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="262" y="248" font-size="14" fill="#222" text-anchor="middle">夹板放在掌侧(手心一侧),从肘部到手掌</text>
+<text x="462" y="72" font-size="16" fill="#222" font-weight="bold">① 前臂或手腕骨折</text>
+<text x="462" y="96" font-size="14" fill="#222">固定后再用三角巾悬吊</text>
+<text x="474" y="140" font-size="14" fill="#222">手心握一卷绷带,</text>
+<text x="474" y="157" font-size="14" fill="#222">手指自然弯曲,</text>
+<text x="474" y="174" font-size="14" fill="#222">指尖露在外面</text>
+<line x1="472" y1="168" x2="436" y2="188" stroke="#0b5cad" stroke-width="1.3"/><circle cx="436" cy="188" r="2.6" fill="#0b5cad"/>
+<text x="474" y="214" font-size="14" fill="#222">结打在夹板一侧,</text>
+<text x="474" y="231" font-size="14" fill="#222">不打在伤处</text>
+<line x1="472" y1="219" x2="342" y2="212" stroke="#0b5cad" stroke-width="1.3"/><circle cx="342" cy="212" r="2.6" fill="#0b5cad"/>
+<rect x="100" y="344" width="446" height="14" rx="3" fill="#dcc39a" stroke="#333" stroke-width="2.5"/>
+<rect x="100" y="442" width="446" height="14" rx="3" fill="#dcc39a" stroke="#333" stroke-width="2.5"/>
+<rect x="206" y="358" width="56" height="12" rx="6" fill="#f6f0e2" stroke="#333" stroke-width="1.8"/>
+<rect x="206" y="430" width="56" height="12" rx="6" fill="#f6f0e2" stroke="#333" stroke-width="1.8"/>
+<rect x="440" y="358" width="60" height="12" rx="6" fill="#f6f0e2" stroke="#333" stroke-width="1.8"/>
+<rect x="440" y="430" width="60" height="12" rx="6" fill="#f6f0e2" stroke="#333" stroke-width="1.8"/>
+<path d="M18 368 L214 374 Q236 369 258 374 L470 386 L470 414 L258 426 Q236 431 214 426 L18 432" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M466 386 Q492 374 512 378 Q526 400 512 422 Q492 426 466 414" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<circle cx="514" cy="384" r="4.2" fill="#f3e3d3" stroke="#333" stroke-width="1.6"/>
+<circle cx="516" cy="392" r="3.6" fill="#f3e3d3" stroke="#333" stroke-width="1.6"/>
+<circle cx="518" cy="400" r="3.6" fill="#f3e3d3" stroke="#333" stroke-width="1.6"/>
+<circle cx="516" cy="408" r="3.6" fill="#f3e3d3" stroke="#333" stroke-width="1.6"/>
+<circle cx="514" cy="416" r="3.6" fill="#f3e3d3" stroke="#333" stroke-width="1.6"/>
+<path d="M226 392 Q236 400 226 408" fill="none" stroke="#333" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M346 378 L358 387 L346 396 L358 405 L346 414" fill="none" stroke="#c33" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="121" y="338" width="18" height="124" rx="3" fill="#f2e6c9" stroke="#333" stroke-width="2"/><ellipse cx="124" cy="334" rx="6" ry="3.5" fill="#f2e6c9" stroke="#333" stroke-width="2"/><ellipse cx="136" cy="334" rx="6" ry="3.5" fill="#f2e6c9" stroke="#333" stroke-width="2"/><circle cx="130" cy="334" r="3.5" fill="#f2e6c9" stroke="#333" stroke-width="2"/>
+<rect x="273" y="338" width="18" height="124" rx="3" fill="#f2e6c9" stroke="#333" stroke-width="2"/><ellipse cx="276" cy="334" rx="6" ry="3.5" fill="#f2e6c9" stroke="#333" stroke-width="2"/><ellipse cx="288" cy="334" rx="6" ry="3.5" fill="#f2e6c9" stroke="#333" stroke-width="2"/><circle cx="282" cy="334" r="3.5" fill="#f2e6c9" stroke="#333" stroke-width="2"/>
+<rect x="405" y="338" width="18" height="124" rx="3" fill="#f2e6c9" stroke="#333" stroke-width="2"/><ellipse cx="408" cy="334" rx="6" ry="3.5" fill="#f2e6c9" stroke="#333" stroke-width="2"/><ellipse cx="420" cy="334" rx="6" ry="3.5" fill="#f2e6c9" stroke="#333" stroke-width="2"/><circle cx="414" cy="334" r="3.5" fill="#f2e6c9" stroke="#333" stroke-width="2"/>
+<rect x="461" y="338" width="18" height="124" rx="3" fill="#f2e6c9" stroke="#333" stroke-width="2"/><ellipse cx="464" cy="334" rx="6" ry="3.5" fill="#f2e6c9" stroke="#333" stroke-width="2"/><ellipse cx="476" cy="334" rx="6" ry="3.5" fill="#f2e6c9" stroke="#333" stroke-width="2"/><circle cx="470" cy="334" r="3.5" fill="#f2e6c9" stroke="#333" stroke-width="2"/>
+<text x="24" y="298" font-size="16" fill="#222" font-weight="bold">② 小腿骨折(伤者平躺,从上往下看)</text>
+<text x="352" y="328" font-size="15" fill="#c33" text-anchor="middle">骨折处不绑</text>
+<text x="24" y="326" font-size="14" fill="#222">上端到大腿中部</text>
+<line x1="70" y1="331" x2="104" y2="346" stroke="#0b5cad" stroke-width="1.3"/><circle cx="104" cy="346" r="2.6" fill="#0b5cad"/>
+<text x="560" y="330" font-size="14" fill="#222">下端超过脚跟</text>
+<line x1="586" y1="335" x2="542" y2="346" stroke="#0b5cad" stroke-width="1.3"/><circle cx="542" cy="346" r="2.6" fill="#0b5cad"/>
+<text x="560" y="388" font-size="14" fill="#222">露出脚趾,检查</text>
+<text x="560" y="405" font-size="14" fill="#222">颜色、温度、感觉</text>
+<line x1="558" y1="394" x2="524" y2="398" stroke="#0b5cad" stroke-width="1.3"/><circle cx="524" cy="398" r="2.6" fill="#0b5cad"/>
+<text x="24" y="490" font-size="14" fill="#222">内外两侧各放一块夹板</text>
+<line x1="90" y1="478" x2="120" y2="456" stroke="#0b5cad" stroke-width="1.3"/><circle cx="120" cy="456" r="2.6" fill="#0b5cad"/>
+<text x="234" y="490" font-size="14" fill="#222">膝、踝两侧垫软物</text>
+<line x1="262" y1="478" x2="238" y2="444" stroke="#0b5cad" stroke-width="1.3"/><circle cx="238" cy="444" r="2.6" fill="#0b5cad"/>
+<line x1="320" y1="480" x2="456" y2="444" stroke="#0b5cad" stroke-width="1.3"/><circle cx="456" cy="444" r="2.6" fill="#0b5cad"/>
+<text x="560" y="470" font-size="14" fill="#222">固定膝关节和</text>
+<text x="560" y="487" font-size="14" fill="#222">踝关节</text>
+<text x="560" y="296" font-size="14" fill="#222">结打在夹板一侧</text>
+<line x1="558" y1="300" x2="476" y2="333" stroke="#0b5cad" stroke-width="1.3"/><circle cx="476" cy="333" r="2.6" fill="#0b5cad"/>
+<text x="360" y="538" font-size="15" fill="#222" text-anchor="middle">绑带宽 3-5 cm,下面能伸进一根手指;不用细绳、铁丝;原位固定,不要把伤肢掰直</text>
+<text x="360" y="560" font-size="15" fill="#c33" text-anchor="middle">固定前后都检查手指或脚趾的颜色、温度、感觉、活动;变白、变紫、发凉、麻木 → 先松开重绑</text>
+</svg>

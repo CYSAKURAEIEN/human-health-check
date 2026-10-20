@@ -87,7 +87,7 @@ def check_links_and_code(files, errors):
         if sum(1 for line in text.split('\n') if line.startswith('```')) % 2:
             errors.append(f'{f}: 代码块 ``` 没有成对闭合')
         for i, line, code in lines_outside_code(text):
-            for m in re.finditer(r'\]\(([^)\s]+)\)', line):
+            for m in re.finditer(r'\]\(([^)\s]+)\)', re.sub(r'`[^`]*`', '', line)):  # 行内代码里的示例不算
                 target = m.group(1)
                 if code:
                     if not line.startswith('```'):
