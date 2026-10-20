@@ -6,16 +6,16 @@
 <!-- 侧面蹲姿,脚底在 y=0,头朝左 -->
 <g id="cr">
 <g fill="none" stroke-linecap="round" stroke-linejoin="round">
-<path d="M48,-30 L12,-58 L30,-12" stroke="#333" stroke-width="19"/><path d="M48,-30 L12,-58 L30,-12" stroke="#cfe0f0" stroke-width="14"/>
-<path d="M50,-36 L32,-88" stroke="#333" stroke-width="30"/><path d="M50,-36 L32,-88" stroke="#cfe0f0" stroke-width="25"/>
+<path d="M50,-28 L34,-74" stroke="#333" stroke-width="28"/><path d="M50,-28 L34,-74" stroke="#cfe0f0" stroke-width="23"/>
+<path d="M48,-22 L6,-54 L28,-12" stroke="#333" stroke-width="19"/><path d="M48,-22 L6,-54 L28,-12" stroke="#cfe0f0" stroke-width="14"/>
 </g>
 <path d="M12,0 Q12,-12 22,-12 L40,-12 Q44,-12 44,-6 L44,0 Z" fill="#555" stroke="#333" stroke-width="1.5"/>
-<circle cx="12" cy="-86" r="16" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
-<path d="M4,-101 Q26,-104 26,-80 Q20,-96 4,-101 Z" fill="#555"/>
+<circle cx="10" cy="-78" r="16" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M2,-93 Q24,-96 24,-72 Q18,-88 2,-93 Z" fill="#555"/>
 <g fill="none" stroke-linecap="round" stroke-linejoin="round">
-<path d="M30,-86 L0,-54 L26,-42" stroke="#333" stroke-width="14"/><path d="M30,-86 L0,-54 L26,-42" stroke="#f3e3d3" stroke-width="9"/>
+<path d="M34,-70 L-8,-44 L18,-32" stroke="#333" stroke-width="14"/><path d="M34,-70 L-8,-44 L18,-32" stroke="#f3e3d3" stroke-width="9"/>
 </g>
-<ellipse cx="30" cy="-42" rx="7" ry="6" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<ellipse cx="22" cy="-32" rx="7" ry="6" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
 </g>
 </defs>
 <g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="14" fill="#222">
@@ -47,11 +47,11 @@
 </g>
 <!-- 标注 -->
 <text x="14" y="104" font-size="15" fill="#0b5cad">头低下</text>
-<line x1="62" y1="108" x2="120" y2="116" stroke="#0b5cad" stroke-width="1"/>
+<line x1="62" y1="108" x2="120" y2="126" stroke="#0b5cad" stroke-width="1"/>
 <text x="14" y="166" font-size="15" fill="#0b5cad">双手抱膝</text>
-<line x1="78" y1="168" x2="126" y2="172" stroke="#0b5cad" stroke-width="1"/>
+<line x1="78" y1="168" x2="118" y2="180" stroke="#0b5cad" stroke-width="1"/>
 <text x="206" y="150" font-size="15" fill="#0b5cad">蹲下</text>
-<line x1="210" y1="156" x2="180" y2="190" stroke="#0b5cad" stroke-width="1"/>
+<line x1="210" y1="156" x2="172" y2="186" stroke="#0b5cad" stroke-width="1"/>
 <text x="384" y="176" font-size="15" fill="#0b5cad">双脚</text>
 <text x="384" y="194" font-size="15" fill="#0b5cad">完全</text>
 <text x="384" y="212" font-size="15" fill="#0b5cad">并拢</text>
@@ -85,7 +85,8 @@
 <use href="#cr" transform="translate(110,116) scale(0.55)"/>
 <use href="#cr" transform="translate(345,116) scale(0.55)"/>
 <use href="#cr" transform="translate(580,116) scale(0.55)"/>
-<path d="M140,96 L328,96 M375,96 L563,96" stroke="#0b5cad" stroke-width="2" marker-start="url(#ar)" marker-end="url(#ar)"/>
+<path d="M140,96 L328,96" stroke="#0b5cad" stroke-width="2" marker-start="url(#ar)" marker-end="url(#ar)"/>
+<path d="M375,96 L563,96" stroke="#0b5cad" stroke-width="2" marker-start="url(#ar)" marker-end="url(#ar)"/>
 <text x="234" y="88" font-size="15" fill="#0b5cad" text-anchor="middle">至少15 m</text>
 <text x="469" y="88" font-size="15" fill="#0b5cad" text-anchor="middle">至少15 m</text>
 <text x="16" y="146" font-size="15">相互间隔至少15 m,不要手拉手;这样即使有人被击中,其他人也能马上施救</text>
