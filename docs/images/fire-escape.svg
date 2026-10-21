@@ -1,0 +1,200 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1100" width="720" height="1100" role="img" aria-label="火场逃生: 1 开门前用手背摸门把手,也摸门板上方和门缝,烫或门缝有烟就不要开门;2 开门时身体躲在门后侧,用脚抵住门,慢慢打开一条缝,热气浓烟涌进来马上关上;3 浓烟中低姿前进,烟不太浓时弯腰快步走,烟很浓时手膝着地爬行,用湿毛巾捂住口鼻,一只手摸着墙走,关闭身后的门;4 首选楼梯往下跑,跟着绿色安全出口标志走;绝不乘电梯、往上跑、返回取物;出不去时关门固守,用湿毛巾塞住门缝,往门上泼水,打119,在窗口挥舞鲜艳衣物求救,不要躲在床下衣柜里,不要跳楼">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>火场逃生: 先摸门,再低姿撤离;出不去就关门固守</title>
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+</defs>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="14" fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">火场逃生: 先摸门,再低姿撤离;出不去就关门固守</text>
+
+<!-- ① 摸门 -->
+<g transform="translate(10,42)">
+<rect x="0" y="0" width="345" height="256" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<rect x="34" y="24" width="112" height="162" fill="none" stroke="#333" stroke-width="2"/>
+<rect x="40" y="30" width="100" height="156" fill="#dcc39a" stroke="#333" stroke-width="2"/>
+<rect x="52" y="44" width="76" height="52" fill="none" stroke="#b08a58" stroke-width="1.5"/>
+<rect x="52" y="112" width="76" height="60" fill="none" stroke="#b08a58" stroke-width="1.5"/>
+<rect x="46" y="34" width="88" height="22" fill="none" stroke="#0b5cad" stroke-width="1.5" stroke-dasharray="4 3"/>
+<path d="M143,32 L143,184" stroke="#0b5cad" stroke-width="2" stroke-dasharray="4 3"/>
+<circle cx="118" cy="104" r="5" fill="#bbb" stroke="#333" stroke-width="1.5"/>
+<rect x="100" y="101" width="22" height="6" rx="3" fill="#bbb" stroke="#333" stroke-width="1.5"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M170,190 L124,116" stroke="#333" stroke-width="15"/><path d="M170,190 L124,116" stroke="#f3e3d3" stroke-width="10"/>
+</g>
+<ellipse cx="116" cy="104" rx="11" ry="9" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M108,98 Q116,94 124,98" fill="none" stroke="#333" stroke-width="1.2"/>
+<text x="176" y="44" font-size="13" fill="#0b5cad">也摸门板上方</text>
+<text x="176" y="60" font-size="13" fill="#0b5cad">和门缝</text>
+<line x1="174" y1="40" x2="136" y2="42" stroke="#0b5cad" stroke-width="1"/>
+<line x1="174" y1="56" x2="146" y2="70" stroke="#0b5cad" stroke-width="1"/>
+<text x="176" y="92" font-size="13" fill="#0b5cad">用手背摸门把手</text>
+<line x1="174" y1="88" x2="128" y2="100" stroke="#0b5cad" stroke-width="1"/>
+<rect x="176" y="114" width="157" height="28" rx="4" fill="#fdecec" stroke="#c33" stroke-width="1.5"/>
+<text x="183" y="133" font-size="12" fill="#c33">烫?门缝有烟?不要开门!</text>
+<rect x="176" y="150" width="157" height="28" rx="4" fill="#eef5fb" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="183" y="169" font-size="12" fill="#0b5cad">不烫、无烟: 小心开一条缝</text>
+<text x="12" y="210"><tspan font-weight="bold">①</tspan> 开门前: 用手背摸门把手,</text>
+<text x="30" y="230">也摸门板上方和门缝(热烟先积在上面)</text>
+<text x="30" y="248" font-size="13" fill="#555">手背对热更敏感,被烫伤也不影响手掌抓握</text>
+</g>
+
+<!-- ② 开门 -->
+<g transform="translate(365,42)">
+<rect x="0" y="0" width="345" height="256" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<line x1="12" y1="186" x2="333" y2="186" stroke="#999" stroke-width="3"/>
+<rect x="150" y="26" width="84" height="160" fill="#555" stroke="#333" stroke-width="2"/>
+<g fill="#aaa" fill-opacity="0.8" stroke="#888" stroke-width="1">
+<circle cx="236" cy="52" r="10"/><circle cx="252" cy="42" r="12"/><circle cx="270" cy="52" r="11"/><circle cx="248" cy="64" r="9"/><circle cx="286" cy="40" r="9"/>
+</g>
+<path d="M150,26 L214,36 L214,178 L150,186 Z" fill="#dcc39a" stroke="#333" stroke-width="2"/>
+<circle cx="204" cy="108" r="4" fill="#bbb" stroke="#333" stroke-width="1.5"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M98,130 L72,182 M100,130 L166,180" stroke="#333" stroke-width="19"/><path d="M98,130 L72,182 M100,130 L166,180" stroke="#cfe0f0" stroke-width="14"/>
+<path d="M100,130 L114,84" stroke="#333" stroke-width="30"/><path d="M100,130 L114,84" stroke="#cfe0f0" stroke-width="25"/>
+<path d="M116,88 L156,102 L196,108" stroke="#333" stroke-width="14"/><path d="M116,88 L156,102 L196,108" stroke="#f3e3d3" stroke-width="9"/>
+</g>
+<ellipse cx="200" cy="108" rx="7" ry="6" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<ellipse cx="174" cy="181" rx="12" ry="6" fill="#555" stroke="#333" stroke-width="1.5"/>
+<circle cx="120" cy="62" r="15" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M106,58 Q110,44 126,47 Q114,50 106,58 Z" fill="#555"/>
+<text x="14" y="40" font-size="13" fill="#0b5cad">身体躲在门后侧</text>
+<line x1="60" y1="46" x2="100" y2="100" stroke="#0b5cad" stroke-width="1"/>
+<text x="246" y="110" font-size="13" fill="#0b5cad">只开</text>
+<text x="246" y="126" font-size="13" fill="#0b5cad">一条缝</text>
+<line x1="244" y1="112" x2="224" y2="112" stroke="#0b5cad" stroke-width="1"/>
+<text x="246" y="170" font-size="13" fill="#0b5cad">用脚抵住门</text>
+<line x1="244" y1="166" x2="186" y2="178" stroke="#0b5cad" stroke-width="1"/>
+<text x="12" y="210"><tspan font-weight="bold">②</tspan> 开门: 身体躲在门后侧,用脚抵住门,</text>
+<text x="30" y="230">慢慢打开一条缝</text>
+<text x="30" y="248" fill="#c33">热气、浓烟涌进来 → 马上用力关上</text>
+</g>
+
+<!-- ③ 低姿前进 -->
+<g transform="translate(10,308)">
+<rect x="0" y="0" width="700" height="266" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<line x1="12" y1="190" x2="688" y2="190" stroke="#999" stroke-width="3"/>
+<!-- 身后的门(已关) -->
+<rect x="24" y="74" width="54" height="116" fill="#dcc39a" stroke="#333" stroke-width="2"/>
+<circle cx="70" cy="134" r="3.5" fill="#bbb" stroke="#333" stroke-width="1.5"/>
+<!-- 安全出口 -->
+<rect x="606" y="80" width="62" height="110" fill="#dcc39a" stroke="#333" stroke-width="2"/>
+<rect x="598" y="58" width="78" height="20" rx="3" fill="#2e8b57" stroke="#333" stroke-width="1.5"/>
+<text x="637" y="73" font-size="13" fill="#fff" text-anchor="middle">安全出口</text>
+<!-- 烟层 -->
+<path d="M2,8 L698,8 L698,74 Q672,88 646,76 Q620,64 594,78 Q566,92 540,78 Q512,64 486,80 Q458,94 432,80 Q404,66 378,80 Q350,94 322,80 Q294,66 268,80 Q240,94 214,80 Q186,66 160,80 Q132,94 106,80 Q78,66 52,80 Q28,92 2,78 Z" fill="#9a9a9a" fill-opacity="0.45"/>
+<text x="350" y="40" font-size="15" fill="#333" text-anchor="middle">热烟往上走: 离地面越近,空气越凉、烟越少、能见度越好</text>
+<text x="86" y="110" font-size="13" fill="#0b5cad">关上身后的门</text>
+<text x="86" y="126" font-size="13" fill="#0b5cad">(防烟扩散)</text>
+<!-- 弯腰快步走 -->
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M216,140 L196,186 M220,140 L244,186" stroke="#333" stroke-width="19"/><path d="M216,140 L196,186 M220,140 L244,186" stroke="#cfe0f0" stroke-width="14"/>
+<path d="M254,118 L270,150" stroke="#333" stroke-width="14"/><path d="M254,118 L270,150" stroke="#f3e3d3" stroke-width="9"/>
+<path d="M218,140 L254,112" stroke="#333" stroke-width="30"/><path d="M218,140 L254,112" stroke="#cfe0f0" stroke-width="25"/>
+</g>
+<circle cx="274" cy="98" r="14" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M262,90 Q270,80 284,86 Q272,86 262,90 Z" fill="#555"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M258,116 L276,122 L284,108" stroke="#333" stroke-width="14"/><path d="M258,116 L276,122 L284,108" stroke="#f3e3d3" stroke-width="9"/>
+</g>
+<rect x="279" y="98" width="12" height="18" rx="3" fill="#9fc5e8" stroke="#333" stroke-width="1.5"/>
+<text x="300" y="104" font-size="13" fill="#0b5cad">湿毛巾捂住口鼻</text>
+<line x1="298" y1="100" x2="290" y2="104" stroke="#0b5cad" stroke-width="1"/>
+<text x="124" y="154" font-size="13" fill="#0b5cad">烟不太浓:</text>
+<text x="124" y="170" font-size="13" fill="#0b5cad">弯腰快步走</text>
+<!-- 手膝爬行 -->
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M440,158 L428,186 L398,186" stroke="#333" stroke-width="19"/><path d="M440,158 L428,186 L398,186" stroke="#cfe0f0" stroke-width="14"/>
+<path d="M490,160 L494,186" stroke="#333" stroke-width="14"/><path d="M490,160 L494,186" stroke="#f3e3d3" stroke-width="9"/>
+<path d="M440,158 L492,154" stroke="#333" stroke-width="30"/><path d="M440,158 L492,154" stroke="#cfe0f0" stroke-width="25"/>
+</g>
+<ellipse cx="498" cy="186" rx="8" ry="4" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<circle cx="514" cy="162" r="14" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M502,154 Q510,144 524,150 Q512,150 502,154 Z" fill="#555"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M494,152 L514,176 L526,170" stroke="#333" stroke-width="13"/><path d="M494,152 L514,176 L526,170" stroke="#f3e3d3" stroke-width="8"/>
+</g>
+<rect x="519" y="160" width="12" height="18" rx="3" fill="#9fc5e8" stroke="#333" stroke-width="1.5"/>
+<text x="436" y="120" font-size="13" fill="#0b5cad">烟很浓、看不清:</text>
+<text x="436" y="136" font-size="13" fill="#0b5cad">手膝着地爬行,头不要抬高</text>
+<path d="M546,178 L596,178" stroke="#c33" stroke-width="3" marker-end="url(#ar)"/>
+<text x="12" y="214"><tspan font-weight="bold">③</tspan> 低姿前进: 烟不太浓时弯腰快步走;烟很浓、看不清时手膝着地爬行,头不要抬高</text>
+<text x="30" y="236">用湿毛巾捂住口鼻(没有水时干毛巾、衣服捂住也比不捂好);一只手摸着墙走;关闭身后的门</text>
+<text x="30" y="256" font-size="13" fill="#c33">✗ 浓烟中不要大口喘气、不要大声喊叫;湿毛巾挡不住一氧化碳,真正保命的是低姿 + 快速离开烟区</text>
+</g>
+
+<!-- ④ 楼梯往下 -->
+<g transform="translate(10,584)">
+<rect x="0" y="0" width="345" height="206" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<path d="M20,44 L56,44 L56,64 L84,64 L84,84 L112,84 L112,104 L140,104 L140,124 L196,124 L196,128 L20,128 Z" fill="#e6e6e6" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M54,30 L150,90" stroke="#c33" stroke-width="4" marker-end="url(#ar)"/>
+<text x="112" y="44" font-size="15" fill="#c33">往下</text>
+<rect x="222" y="52" width="100" height="24" rx="3" fill="#2e8b57" stroke="#333" stroke-width="1.5"/>
+<text x="272" y="69" font-size="14" fill="#fff" text-anchor="middle">安全出口 →</text>
+<text x="12" y="156"><tspan font-weight="bold">④</tspan> 首选楼梯,往下跑(除非下方是火源);</text>
+<text x="30" y="176">关闭经过的防火门;</text>
+<text x="30" y="196">跟着绿色的"安全出口"和疏散指示标志走</text>
+</g>
+
+<!-- ✗ 绝不 -->
+<g transform="translate(365,584)">
+<rect x="0" y="0" width="345" height="206" rx="8" fill="#fdecec" stroke="#c33" stroke-width="2"/>
+<text x="16" y="28" font-size="16" font-weight="bold" fill="#c33">绝不</text>
+<rect x="282" y="20" width="46" height="62" fill="#e6e6e6" stroke="#333" stroke-width="2"/>
+<line x1="305" y1="24" x2="305" y2="82" stroke="#333" stroke-width="1.5"/>
+<path d="M292,10 L298,4 L304,10 M306,4 L312,10 L318,4" fill="none" stroke="#333" stroke-width="1.5"/>
+<path d="M280,18 L330,84 M330,18 L280,84" stroke="#c33" stroke-width="4"/>
+<text x="16" y="58" font-size="15">✗ 乘电梯</text>
+<text x="34" y="78" font-size="13" fill="#555">断电会被困住;电梯井像烟囱,烟上升极快</text>
+<text x="16" y="110" font-size="15">✗ 往上跑(除非顶楼有出口)</text>
+<text x="16" y="142" font-size="15">✗ 返回取物、回去找人</text>
+<text x="34" y="162" font-size="13" fill="#555">有人没出来 → 立即告诉消防员他可能在</text>
+<text x="34" y="180" font-size="13" fill="#555">哪个房间,让专业人员去救</text>
+</g>
+
+<!-- 出不去时 -->
+<g transform="translate(10,800)">
+<rect x="0" y="0" width="700" height="290" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="16" font-weight="bold">出不去时: 关门固守,等待救援</text>
+<text x="16" y="50" font-size="13" fill="#555">门把手烫、门缝冒烟、楼道已经满是浓烟时,留在房间里——一扇关着的门后面,往往比满是浓烟的楼道安全得多</text>
+<line x1="12" y1="236" x2="360" y2="236" stroke="#999" stroke-width="3"/>
+<!-- 门 -->
+<rect x="30" y="96" width="70" height="140" fill="#dcc39a" stroke="#333" stroke-width="2"/>
+<circle cx="90" cy="166" r="3.5" fill="#bbb" stroke="#333" stroke-width="1.5"/>
+<rect x="99" y="98" width="9" height="132" rx="3" fill="#9fc5e8" stroke="#333" stroke-width="1.5"/>
+<rect x="22" y="226" width="90" height="14" rx="6" fill="#9fc5e8" stroke="#333" stroke-width="1.5"/>
+<!-- 泼水 -->
+<path d="M168,150 Q142,118 112,126 M170,164 Q140,146 112,156 M166,136 Q146,104 114,100" fill="none" stroke="#0b5cad" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M120,138 l-3,6 a3.5,3.5 0 1,0 6,0 Z M128,112 l-3,6 a3.5,3.5 0 1,0 6,0 Z M118,176 l-3,6 a3.5,3.5 0 1,0 6,0 Z" fill="#7aa6cc"/>
+<text x="124" y="88" font-size="13" fill="#0b5cad">往门上泼水</text>
+<!-- 窗 -->
+<rect x="240" y="80" width="96" height="88" fill="#eaf3fb" stroke="#333" stroke-width="2"/>
+<line x1="288" y1="80" x2="288" y2="168" stroke="#333" stroke-width="1.5"/>
+<!-- 人在窗口挥衣服 -->
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M210,190 L202,232 M216,190 L226,232" stroke="#333" stroke-width="19"/><path d="M210,190 L202,232 M216,190 L226,232" stroke="#cfe0f0" stroke-width="14"/>
+<path d="M212,150 L212,190" stroke="#333" stroke-width="30"/><path d="M212,150 L212,190" stroke="#cfe0f0" stroke-width="25"/>
+<path d="M216,150 L246,132 L268,108" stroke="#333" stroke-width="14"/><path d="M216,150 L246,132 L268,108" stroke="#f3e3d3" stroke-width="9"/>
+</g>
+<circle cx="214" cy="128" r="15" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M200,124 Q204,110 220,113 Q208,116 200,124 Z" fill="#555"/>
+<path d="M268,106 L304,92 L310,118 L274,126 Z" fill="#f08a3c" stroke="#333" stroke-width="2"/>
+<ellipse cx="269" cy="107" rx="6" ry="6" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M316,90 Q324,104 316,118 M324,84 Q334,104 324,124" fill="none" stroke="#c33" stroke-width="2" stroke-linecap="round"/>
+<text x="232" y="70" font-size="13" fill="#0b5cad">窗口挥舞鲜艳衣物</text>
+<text x="20" y="260" font-size="13" fill="#0b5cad">湿毛巾、湿床单塞住门下缝、门边缝</text>
+<line x1="60" y1="248" x2="64" y2="240" stroke="#0b5cad" stroke-width="1"/>
+<!-- 清单 -->
+<g transform="translate(378,0)">
+<text x="0" y="84" font-size="14">• 选有窗、最好有水的房间,关上所有门</text>
+<text x="0" y="110" font-size="14">• 湿毛巾、湿床单、湿衣服塞住门缝,</text>
+<text x="12" y="130" font-size="14">通风口、空调口也堵上</text>
+<text x="0" y="156" font-size="14">• 不断往门上泼水</text>
+<text x="0" y="182" font-size="14">• 打119: 几楼几室、哪个房间、几个人</text>
+<text x="0" y="208" font-size="14">• 白天挥舞鲜艳衣物、床单;</text>
+<text x="12" y="228" font-size="14">夜里用手电、手机灯光朝外晃</text>
+<text x="0" y="254" font-size="14" fill="#c33">✗ 不要躲在床下、衣柜里、角落里</text>
+<text x="0" y="278" font-size="14" fill="#c33">✗ 不要冒险开门看情况;不要跳楼</text>
+</g>
+</g>
+</g>
+</svg>

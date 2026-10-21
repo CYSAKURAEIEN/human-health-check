@@ -1,0 +1,172 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 806" width="720" height="806" role="img" aria-label="手提式灭火器使用方法: 提、拔、握、压——1 提起灭火器,干粉灭火器先上下颠倒摇几下;2 拔掉保险销;3 握住喷管;4 压下手柄;5 对准火焰根部,不是火苗顶部;6 由近及远左右扫射;7 距离3-5 m,站在上风处;一具灭火器只能连续喷十几秒,灭火后盯住几分钟防止复燃;喷完火还没灭、烟越来越浓、火烧到天花板或窗帘时立即撤离,随手关门">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>灭火器使用: 提、拔、握、压</title>
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="ab" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<!-- 灭火器本体,原点在底部中央 -->
+<g id="ext">
+<rect x="-22" y="-120" width="44" height="120" rx="12" fill="#d9534f" stroke="#333" stroke-width="2"/>
+<rect x="-15" y="-92" width="30" height="40" rx="2" fill="#fff" stroke="#333" stroke-width="1"/>
+<path d="M-9,-82 L9,-82 M-9,-74 L9,-74 M-9,-66 L5,-66" stroke="#999" stroke-width="2"/>
+<rect x="-7" y="-130" width="14" height="12" fill="#999" stroke="#333" stroke-width="1.5"/>
+<rect x="-12" y="-142" width="24" height="14" rx="3" fill="#999" stroke="#333" stroke-width="1.5"/>
+<rect x="-46" y="-138" width="38" height="6" rx="2" fill="#555" stroke="#333" stroke-width="1.5"/>
+</g>
+<path id="lever" d="M-4,-146 L-48,-162 L-48,-156 L-4,-140 Z" fill="#555" stroke="#333" stroke-width="1.5"/>
+<path id="lever-down" d="M-4,-146 L-48,-146 L-48,-140 L-4,-140 Z" fill="#555" stroke="#333" stroke-width="1.5"/>
+<g id="hose-clip">
+<path d="M7,-124 C28,-124 32,-112 32,-100 L32,-50" fill="none" stroke="#333" stroke-width="5"/>
+<rect x="27" y="-52" width="10" height="22" rx="2" fill="#555" stroke="#333" stroke-width="1.5"/>
+</g>
+<g id="pin">
+<path d="M-12,-135 L14,-135" stroke="#d4a017" stroke-width="3"/>
+<circle cx="20" cy="-135" r="5.5" fill="none" stroke="#d4a017" stroke-width="2.5"/>
+</g>
+</defs>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="14" fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">灭火器使用: 提、拔、握、压</text>
+<text x="360" y="50" font-size="14" fill="#555" text-anchor="middle">只扑救小火: 火焰没有超过人的高度、有逃生退路、已报警、烟不浓</text>
+
+<!-- ① 提 -->
+<g transform="translate(10,62)">
+<rect x="0" y="0" width="169" height="256" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<g transform="translate(96,192) scale(0.85)"><use href="#ext"/><use href="#lever"/><use href="#hose-clip"/><use href="#pin"/></g>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M34,22 L64,62" stroke="#333" stroke-width="15"/><path d="M34,22 L64,62" stroke="#f3e3d3" stroke-width="10"/>
+</g>
+<ellipse cx="68" cy="70" rx="12" ry="10" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M148,140 L148,84" stroke="#c33" stroke-width="4" marker-end="url(#ar)"/>
+<text x="12" y="216"><tspan font-weight="bold">① 提:</tspan> 提起灭火器</text>
+<text x="12" y="236" font-size="12" fill="#555">干粉的先上下颠倒摇几下</text>
+</g>
+
+<!-- ② 拔 -->
+<g transform="translate(187,62)">
+<rect x="0" y="0" width="169" height="256" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<g transform="translate(70,192) scale(0.85)"><use href="#ext"/><use href="#lever"/><use href="#hose-clip"/></g>
+<path d="M84,77 L104,77" stroke="#d4a017" stroke-width="3"/>
+<circle cx="110" cy="77" r="5" fill="none" stroke="#d4a017" stroke-width="2.5"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M156,118 L122,84" stroke="#333" stroke-width="15"/><path d="M156,118 L122,84" stroke="#f3e3d3" stroke-width="10"/>
+</g>
+<ellipse cx="117" cy="78" rx="9" ry="8" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M88,46 L148,46" stroke="#c33" stroke-width="4" marker-end="url(#ar)"/>
+<text x="102" y="148" font-size="13" fill="#0b5cad">保险销</text>
+<line x1="114" y1="136" x2="108" y2="84" stroke="#0b5cad" stroke-width="1"/>
+<text x="12" y="216"><tspan font-weight="bold">② 拔:</tspan> 拔掉保险销</text>
+</g>
+
+<!-- ③ 握 -->
+<g transform="translate(364,62)">
+<rect x="0" y="0" width="169" height="256" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<g transform="translate(56,192) scale(0.85)"><use href="#ext"/><use href="#lever"/></g>
+<path d="M62,87 C96,87 102,118 116,122" fill="none" stroke="#333" stroke-width="5"/>
+<rect x="124" y="117" width="28" height="10" rx="2" fill="#555" stroke="#333" stroke-width="1.5"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M150,190 L124,132" stroke="#333" stroke-width="15"/><path d="M150,190 L124,132" stroke="#f3e3d3" stroke-width="10"/>
+</g>
+<ellipse cx="122" cy="122" rx="10" ry="9" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<text x="130" y="98" font-size="13" fill="#0b5cad">喷管</text>
+<line x1="140" y1="102" x2="140" y2="116" stroke="#0b5cad" stroke-width="1"/>
+<text x="12" y="216"><tspan font-weight="bold">③ 握:</tspan> 握住喷管</text>
+<text x="12" y="236" font-size="12" fill="#555">CO₂灭火器不要握喷筒</text>
+<text x="12" y="252" font-size="12" fill="#555">(会冻伤)</text>
+</g>
+
+<!-- ④ 压 -->
+<g transform="translate(541,62)">
+<rect x="0" y="0" width="169" height="256" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<g transform="translate(96,192) scale(0.85)"><use href="#ext"/><use href="#lever-down"/><use href="#hose-clip"/></g>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M28,24 L62,56" stroke="#333" stroke-width="15"/><path d="M28,24 L62,56" stroke="#f3e3d3" stroke-width="10"/>
+</g>
+<ellipse cx="68" cy="62" rx="13" ry="8" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M118,22 L118,56" stroke="#c33" stroke-width="4" marker-end="url(#ar)"/>
+<text x="12" y="216"><tspan font-weight="bold">④ 压:</tspan> 压下手柄</text>
+<text x="12" y="236" font-size="12" fill="#555">一手握喷管,</text>
+<text x="12" y="252" font-size="12" fill="#555">一手用力压下手柄</text>
+</g>
+
+<!-- ⑤⑥⑦ 现场 -->
+<g transform="translate(10,328)">
+<rect x="0" y="0" width="700" height="300" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<line x1="12" y1="200" x2="688" y2="200" stroke="#999" stroke-width="3"/>
+<!-- 风 -->
+<g stroke="#0b5cad" stroke-width="2.5" fill="none" marker-end="url(#ab)">
+<path d="M20,34 Q40,26 60,34 Q80,42 100,34"/>
+<path d="M20,58 Q40,50 60,58 Q80,66 100,58"/>
+</g>
+<text x="108" y="40" font-size="13" fill="#0b5cad">风向</text>
+<text x="20" y="90" font-size="15" font-weight="bold" fill="#0b5cad">站在上风处</text>
+<!-- 喷射 -->
+<path d="M246,135 L400,164 L470,200 L246,141 Z" fill="#e4e4e4"/>
+<g fill="#aaa"><circle cx="290" cy="148" r="2"/><circle cx="320" cy="160" r="2.5"/><circle cx="348" cy="162" r="2"/><circle cx="372" cy="176" r="2.5"/><circle cx="398" cy="182" r="2"/><circle cx="420" cy="190" r="2.5"/><circle cx="306" cy="154" r="1.5"/><circle cx="386" cy="174" r="1.5"/></g>
+<!-- 火 -->
+<path d="M396,200 Q398,162 416,150 Q414,172 428,168 Q426,128 450,108 Q446,150 464,148 Q468,126 484,120 Q480,160 504,200 Z" fill="#f08a3c" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M416,200 Q420,178 434,172 Q440,186 452,160 Q458,184 470,176 Q478,190 484,200 Z" fill="#f5c518"/>
+<ellipse cx="450" cy="197" rx="56" ry="9" fill="none" stroke="#c33" stroke-width="2.5" stroke-dasharray="6 4"/>
+<!-- 人 -->
+<g transform="translate(50,0)">
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M116,150 L104,196 M122,150 L142,196" stroke="#333" stroke-width="19"/><path d="M116,150 L104,196 M122,150 L142,196" stroke="#cfe0f0" stroke-width="14"/>
+<path d="M118,150 L124,106" stroke="#333" stroke-width="30"/><path d="M118,150 L124,106" stroke="#cfe0f0" stroke-width="25"/>
+</g>
+<circle cx="130" cy="86" r="15" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M116,82 Q120,68 136,71 Q124,74 116,82 Z" fill="#555"/>
+<g transform="translate(152,198) scale(0.5)"><use href="#ext"/><use href="#lever-down"/></g>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M122,110 L120,132 L134,124" stroke="#333" stroke-width="13"/><path d="M122,110 L120,132 L134,124" stroke="#f3e3d3" stroke-width="8"/>
+</g>
+<ellipse cx="136" cy="124" rx="6" ry="5" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M156,134 C164,148 168,140 172,132" fill="none" stroke="#333" stroke-width="3"/>
+<path d="M174,130 L196,138" stroke="#555" stroke-width="6" stroke-linecap="round"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M126,110 L150,124 L170,130" stroke="#333" stroke-width="13"/><path d="M126,110 L150,124 L170,130" stroke="#f3e3d3" stroke-width="8"/>
+</g>
+<ellipse cx="173" cy="131" rx="6" ry="5" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+</g>
+<!-- 距离 -->
+<path d="M196,220 L392,220" stroke="#0b5cad" stroke-width="2" marker-start="url(#ab)" marker-end="url(#ab)"/>
+<path d="M194,208 L194,230 M396,208 L396,230" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="295" y="240" font-size="15" font-weight="bold" fill="#0b5cad" text-anchor="middle">⑦ 距离3-5 m</text>
+<!-- 标注 -->
+<text x="512" y="166" font-size="15" font-weight="bold" fill="#c33">⑤ 对准火焰根部</text>
+<text x="530" y="186" font-size="13" fill="#c33">(不是火苗顶部)</text>
+<line x1="510" y1="170" x2="496" y2="190" stroke="#c33" stroke-width="1"/>
+<!-- 俯视小图 -->
+<g transform="translate(516,10)">
+<rect x="0" y="0" width="172" height="120" rx="6" fill="#fff" stroke="#bbb" stroke-width="1"/>
+<text x="8" y="16" font-size="12" fill="#555">俯视</text>
+<ellipse cx="86" cy="42" rx="50" ry="20" fill="#f08a3c" fill-opacity="0.85" stroke="#333" stroke-width="1.5"/>
+<path d="M86,100 L56,62 M86,100 L116,62" stroke="#999" stroke-width="1.5" stroke-dasharray="3 3"/>
+<path d="M50,66 Q86,80 122,66" fill="none" stroke="#c33" stroke-width="2.5" marker-start="url(#ar)" marker-end="url(#ar)"/>
+<circle cx="86" cy="106" r="7" fill="#cfe0f0" stroke="#333" stroke-width="1.5"/>
+<path d="M156,96 L156,36" stroke="#0b5cad" stroke-width="2" marker-end="url(#ab)"/>
+<text x="8" y="98" font-size="12" fill="#c33">⑥ 左右扫射</text>
+<text x="104" y="114" font-size="12" fill="#0b5cad">由近及远</text>
+</g>
+<text x="12" y="268"><tspan font-weight="bold">⑤</tspan> 一手握喷管对准火焰根部,一手用力压下手柄 <tspan font-weight="bold">⑥</tspan> 由近及远左右扫射,把火逐渐推灭</text>
+<text x="12" y="290"><tspan font-weight="bold">⑦</tspan> 提着灭火器走到距火3-5 m处,站在上风处;背对出口灭火,火在前、门在后</text>
+</g>
+
+<!-- 要点 -->
+<g transform="translate(10,638)">
+<rect x="0" y="0" width="345" height="156" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="16" font-weight="bold">要点</text>
+<text x="16" y="56" font-size="14">• 一具手提式家用灭火器只能连续喷十几秒,</text>
+<text x="28" y="76" font-size="14">所以要对准了再压</text>
+<text x="16" y="102" font-size="14">• 直到火完全熄灭;灭火后不要马上离开,</text>
+<text x="28" y="122" font-size="14">盯住几分钟防止复燃</text>
+<text x="16" y="146" font-size="13" fill="#555">CO₂灭火器在密闭小房间里大量使用会让人缺氧</text>
+</g>
+<g transform="translate(365,638)">
+<rect x="0" y="0" width="345" height="156" rx="8" fill="#fdecec" stroke="#c33" stroke-width="2"/>
+<text x="16" y="28" font-size="16" font-weight="bold" fill="#c33">什么时候立即撤离</text>
+<text x="16" y="56" font-size="14">一具灭火器喷完火还没灭、烟越来越浓、</text>
+<text x="16" y="76" font-size="14">火烧到了天花板或窗帘</text>
+<text x="16" y="102" font-size="14" font-weight="bold">→ 立即撤离,出去时随手关门,然后报警</text>
+<text x="16" y="132" font-size="14" fill="#c33">✗ 不要一边灭火一边让火挡住自己的出口</text>
+</g>
+</g>
+</svg>
