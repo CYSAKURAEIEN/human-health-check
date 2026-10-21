@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 660" width="720" height="660" role="img" aria-label="地窖剖面: 选址地势高、不积水、背阴;深度2 m左右,冬季地下温度稳定在0-10°C;留通气孔,保持空气流通;湿度较高,防蔬菜失水萎缩。窖内储存: 土豆2-4°C,必须避光;白菜0-2°C,码放并定期翻倒;萝卜、胡萝卜0-3°C,埋在湿沙中保湿。下窖前: 蔬菜呼吸会使地窖内二氧化碳积聚,进入密闭地窖前先打开通风,或用点燃的蜡烛试探,蜡烛熄灭说明缺氧,不能下去;每年都有下窖窒息死亡的事故" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>地窖剖面</title>
+<defs>
+<pattern id="soil" width="16" height="16" patternUnits="userSpaceOnUse"><rect width="16" height="16" fill="#efe4cf"/><circle cx="4" cy="5" r="1.1" fill="#bba57a"/><circle cx="12" cy="12" r="1.1" fill="#bba57a"/><circle cx="11" cy="3" r="0.8" fill="#bba57a"/></pattern>
+<pattern id="sand" width="8" height="8" patternUnits="userSpaceOnUse"><rect width="8" height="8" fill="#e9d9a8"/><circle cx="2" cy="2" r="0.9" fill="#a8925a"/><circle cx="6" cy="6" r="0.9" fill="#a8925a"/></pattern>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<marker id="arB0" viewBox="0 0 10 10" refX="2" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M10 0 L0 5 L10 10 Z" fill="#0b5cad"/></marker>
+<marker id="arR2" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker>
+<marker id="arG" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#888"/></marker>
+<g id="pot"><ellipse rx="9" ry="6.5" fill="#c9a26a" stroke="#333" stroke-width="1.3"/><circle cx="-3" cy="-1" r="0.9" fill="#6b5236"/><circle cx="3" cy="2" r="0.9" fill="#6b5236"/></g>
+<g id="cab"><ellipse rx="17" ry="12" fill="#cfe3b0" stroke="#333" stroke-width="1.5"/><path d="M-10 -4 Q0 6 10 -4 M0 -11 V10" fill="none" stroke="#7a9a5a" stroke-width="1.2"/></g>
+<g id="car"><path d="M-13 -2 L-19 -6 M-13 0 L-20 0 M-13 2 L-19 6" stroke="#5f8a3a" stroke-width="1.6" fill="none"/><path d="M-13 -4 Q-5 -5 13 0 Q-5 5 -13 4 Z" fill="#e8873a" stroke="#333" stroke-width="1.2"/></g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">地窖剖面(示意,不按比例)</text>
+<text x="24" y="64" font-size="15" font-weight="bold">选址: 地势高、不积水、背阴</text>
+
+<!-- 土层 -->
+<rect x="10" y="150" width="700" height="276" fill="url(#soil)"/>
+<path d="M10 150 L710 150" stroke="#999" stroke-width="3"/>
+<!-- 窖室和窖口 -->
+<rect x="190" y="210" width="400" height="180" fill="#fff" stroke="#333" stroke-width="2.5"/>
+<rect x="212" y="150" width="50" height="62" fill="#fff"/>
+<path d="M212 150 V210 M262 150 V210" stroke="#333" stroke-width="2.5"/>
+<path d="M190 390 H590" stroke="#999" stroke-width="3"/>
+<!-- 梯子 -->
+<path d="M222 140 V390 M252 140 V390" stroke="#8b6b3e" stroke-width="4"/>
+<path d="M222 160 H252 M222 190 H252 M222 220 H252 M222 250 H252 M222 280 H252 M222 310 H252 M222 340 H252 M222 370 H252" stroke="#8b6b3e" stroke-width="3"/>
+<!-- 打开的窖口盖 -->
+<path d="M150 150 L208 136" stroke="#333" stroke-width="1"/>
+<rect x="148" y="139" width="62" height="9" fill="#b98c4f" stroke="#333" stroke-width="1.8" transform="rotate(-14 179 143)"/>
+<!-- 通气孔 -->
+<rect x="508" y="100" width="14" height="111" fill="#bbb" stroke="#333" stroke-width="2"/>
+<path d="M500 100 L515 88 L530 100 Z" fill="#999" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M515 200 V108" stroke="#888" stroke-width="2" stroke-dasharray="5 3"/>
+<path d="M530 96 L550 91" stroke="#888" stroke-width="2" marker-end="url(#arG)"/>
+<path d="M237 196 V120" stroke="#888" stroke-width="2" stroke-dasharray="5 3" marker-end="url(#arG)"/>
+
+<!-- 窖内条件 -->
+<text x="390" y="236" font-size="15" text-anchor="middle" fill="#0b5cad" font-weight="bold">冬季地下温度稳定在0-10°C</text>
+<text x="390" y="256" font-size="14" text-anchor="middle" fill="#0b5cad">湿度较高(防蔬菜失水萎缩)</text>
+
+<!-- 土豆 -->
+<use href="#pot" x="290" y="382"/><use href="#pot" x="308" y="382"/><use href="#pot" x="326" y="382"/><use href="#pot" x="344" y="382"/>
+<use href="#pot" x="299" y="371"/><use href="#pot" x="317" y="371"/><use href="#pot" x="335" y="371"/>
+<use href="#pot" x="308" y="360"/><use href="#pot" x="326" y="360"/><use href="#pot" x="317" y="350"/>
+<text x="317" y="304" font-size="14" text-anchor="middle" font-weight="bold">土豆 2-4°C</text>
+<text x="317" y="322" font-size="13" text-anchor="middle" fill="#c33">必须避光</text>
+<!-- 白菜 -->
+<use href="#cab" x="390" y="377"/><use href="#cab" x="426" y="377"/><use href="#cab" x="408" y="354"/>
+<text x="408" y="304" font-size="14" text-anchor="middle" font-weight="bold">白菜 0-2°C</text>
+<text x="408" y="322" font-size="13" text-anchor="middle">码放,定期翻倒</text>
+<!-- 湿沙埋萝卜 -->
+<path d="M470 390 V346 M578 390 V346" stroke="#8b6b3e" stroke-width="3"/>
+<rect x="471.5" y="352" width="105" height="36.5" fill="url(#sand)"/>
+<use href="#car" x="504" y="364"/><use href="#car" x="550" y="364"/><use href="#car" x="514" y="378"/><use href="#car" x="558" y="378"/>
+<rect x="471.5" y="352" width="105" height="36.5" fill="#e9d9a8" fill-opacity="0.45"/>
+<text x="526" y="304" font-size="14" text-anchor="middle" font-weight="bold">萝卜、胡萝卜 0-3°C</text>
+<text x="526" y="322" font-size="13" text-anchor="middle">埋在湿沙中保湿</text>
+
+<!-- 尺寸 -->
+<path d="M620 152 L620 388" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<path d="M596 390 H632" stroke="#0b5cad" stroke-width="1"/>
+<text x="630" y="264" font-size="15" fill="#0b5cad" font-weight="bold">深度</text>
+<text x="630" y="284" font-size="15" fill="#0b5cad" font-weight="bold">2 m左右</text>
+
+<!-- 标注 -->
+<text x="560" y="76" font-size="15">通气孔</text>
+<text x="560" y="94" font-size="13" fill="#555">保持空气流通</text>
+<text x="24" y="100" font-size="15">窖口</text>
+<text x="24" y="118" font-size="13" fill="#555">下窖前先打开通风</text>
+<line x1="70" y1="112" x2="160" y2="140" stroke="#0b5cad" stroke-width="1.3"/><circle cx="160" cy="140" r="2.6" fill="#0b5cad"/>
+
+<!-- 下窖前 -->
+<rect x="10" y="440" width="700" height="210" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="2"/>
+<text x="24" y="468" font-size="16" font-weight="bold" fill="#c33">下窖前: 每年都有下窖窒息死亡的事故</text>
+<text x="24" y="494" font-size="14">蔬菜呼吸会使地窖内二氧化碳积聚。进入密闭地窖前先打开通风,或用点燃的蜡烛试探:</text>
+<!-- 蜡烛试探 -->
+<path d="M110 520 H160 M210 520 H260" stroke="#999" stroke-width="3"/>
+<rect x="110" y="523" width="50" height="113" fill="url(#soil)"/>
+<rect x="210" y="523" width="50" height="113" fill="url(#soil)"/>
+<path d="M160 520 V636 M210 520 V636" stroke="#333" stroke-width="2"/>
+<path d="M185 506 V586" stroke="#555" stroke-width="1.5"/>
+<path d="M160 506 L185 506" stroke="#8b6b3e" stroke-width="4" stroke-linecap="round"/>
+<rect x="179" y="586" width="12" height="4" fill="#777"/>
+<rect x="181" y="590" width="8" height="22" fill="#f6f1d8" stroke="#333" stroke-width="1.3"/>
+<path d="M185 589 V584" stroke="#333" stroke-width="1"/>
+<path d="M185 572 Q179 581 185 586 Q191 581 185 572 Z" fill="#f2a33a" stroke="#c33" stroke-width="1"/>
+<text x="24" y="552" font-size="14">用绳子吊下</text>
+<text x="24" y="572" font-size="14">点燃的蜡烛</text>
+<line x1="100" y1="566" x2="176" y2="590" stroke="#0b5cad" stroke-width="1.3"/><circle cx="176" cy="590" r="2.6" fill="#0b5cad"/>
+<path d="M330 590 H380" stroke="#c33" stroke-width="2.5" marker-end="url(#arR2)"/>
+<text x="282" y="584" font-size="13" fill="#555">如果</text>
+<text x="282" y="600" font-size="13" fill="#555">熄灭</text>
+<!-- 熄灭的蜡烛 -->
+<rect x="400" y="586" width="12" height="4" fill="#777"/>
+<rect x="402" y="590" width="8" height="22" fill="#f6f1d8" stroke="#333" stroke-width="1.3"/>
+<path d="M406 589 V584" stroke="#333" stroke-width="1.2"/>
+<path d="M406 582 Q400 572 406 564 Q412 556 406 548" fill="none" stroke="#888" stroke-width="1.5"/>
+<text x="430" y="584" font-size="16" font-weight="bold" fill="#c33">蜡烛熄灭说明缺氧,</text>
+<text x="430" y="606" font-size="16" font-weight="bold" fill="#c33">不能下去</text>
+</g>
+</svg>
