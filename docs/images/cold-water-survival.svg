@@ -1,0 +1,174 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 910" width="720" height="910" role="img" aria-label="落入冷水后怎么做: 水温低于约15°C时,第1分钟的冷水休克最危险,会不由自主地大口喘气而呛水;落水瞬间尽量闭嘴、双手捂住口鼻;先不要挣扎、不要急着游,仰面漂浮,双臂双腿张开,口鼻高出水面;控制呼吸,大约1分钟到1分半钟后急促喘气慢慢平复,再决定下一步;等待救援时,一个人穿着救生衣用HELP姿势,双腿并拢膝盖蜷到胸前,双臂抱在胸前夹紧腋下,头颈露出水面;几个人时面对面抱团,孩子和体弱者在中间;没有救生衣时仰面漂浮并抓住漂浮物;不要脱掉衣服和鞋子,尽量爬到漂浮物上,不要喝海水">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>落入冷水: 熬过第1分钟的冷水休克,再保住体温</title>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="14" fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">落入冷水: 先熬过第1分钟,再保住体温</text>
+<text x="360" y="50" font-size="14" fill="#555" text-anchor="middle">水温低于约 15°C 时,落水后第1分钟最危险——不是冻死,而是呛水</text>
+
+<!-- A 第1分钟 -->
+<g transform="translate(10,62)">
+<rect x="0" y="0" width="700" height="300" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="16" font-weight="bold">第1分钟: 冷水休克</text>
+<text x="164" y="28" font-size="13" fill="#555">冷水刺激 → 不由自主地大口喘气 → 头在水下就会吸进大量的水</text>
+<path d="M233,44 L233,250 M466,44 L466,250" stroke="#ccc" stroke-width="1.5" stroke-dasharray="5 4"/>
+
+<!-- ① 捂住口鼻 -->
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M106,172 L102,192 M126,172 L130,192" stroke="#333" stroke-width="17"/><path d="M106,172 L102,192 M126,172 L130,192" stroke="#cfe0f0" stroke-width="12"/>
+<path d="M116,116 L116,170" stroke="#333" stroke-width="36"/><path d="M116,116 L116,170" stroke="#cfe0f0" stroke-width="31"/>
+</g>
+<circle cx="116" cy="88" r="17" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M99,84 Q100,66 116,67 Q132,66 133,84 Q126,74 116,74 Q106,74 99,84 Z" fill="#555"/>
+<circle cx="110" cy="85" r="1.8" fill="#333"/><circle cx="122" cy="85" r="1.8" fill="#333"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M101,108 L88,118 L109,99 M131,108 L144,118 L123,99" stroke="#333" stroke-width="13"/><path d="M101,108 L88,118 L109,99 M131,108 L144,118 L123,99" stroke="#f3e3d3" stroke-width="8"/>
+</g>
+<ellipse cx="110" cy="97" rx="7" ry="6" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<ellipse cx="122" cy="97" rx="7" ry="6" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<rect x="12" y="130" width="210" height="64" fill="#d8ebf7" fill-opacity="0.75"/>
+<path d="M12,130 L222,130" stroke="#7aa6cc" stroke-width="2"/>
+<path d="M74,126 L64,114 M80,122 L76,108 M158,126 L168,114 M152,122 L156,108" stroke="#7aa6cc" stroke-width="2.5" stroke-linecap="round"/>
+<text x="140" y="62" font-size="13" fill="#0b5cad">捂住口鼻</text>
+<line x1="150" y1="66" x2="126" y2="94" stroke="#0b5cad" stroke-width="1"/>
+<text x="12" y="216"><tspan font-weight="bold">①</tspan> 落水瞬间尽量闭嘴,</text>
+<text x="30" y="236">双手捂住口鼻</text>
+<text x="30" y="254" font-size="13" fill="#555">(如果来得及)</text>
+
+<!-- ② 仰面漂浮(俯视) -->
+<g transform="translate(233,0)">
+<rect x="10" y="44" width="213" height="150" fill="#d8ebf7"/>
+<text x="18" y="62" font-size="12" fill="#555">俯视</text>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M108,96 L66,80 M124,96 L166,80" stroke="#333" stroke-width="14"/><path d="M108,96 L66,80 M124,96 L166,80" stroke="#f3e3d3" stroke-width="9"/>
+<path d="M110,128 L86,176 M122,128 L146,176" stroke="#333" stroke-width="19"/><path d="M110,128 L86,176 M122,128 L146,176" stroke="#cfe0f0" stroke-width="14"/>
+<path d="M116,94 L116,128" stroke="#333" stroke-width="32"/><path d="M116,94 L116,128" stroke="#cfe0f0" stroke-width="27"/>
+</g>
+<circle cx="116" cy="72" r="15" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M101,70 Q102,56 116,57 Q130,56 131,70 Q124,62 116,62 Q108,62 101,70 Z" fill="#555"/>
+<circle cx="111" cy="72" r="1.8" fill="#333"/><circle cx="121" cy="72" r="1.8" fill="#333"/>
+<path d="M112,79 Q116,82 120,79" fill="none" stroke="#333" stroke-width="1.5"/>
+<text x="140" y="60" font-size="13" fill="#0b5cad">口鼻朝上</text>
+<line x1="138" y1="58" x2="124" y2="70" stroke="#0b5cad" stroke-width="1"/>
+<text x="156" y="136" font-size="13" fill="#0b5cad">双臂双腿</text>
+<text x="156" y="152" font-size="13" fill="#0b5cad">张开</text>
+<text x="12" y="216"><tspan font-weight="bold">②</tspan> 先不要挣扎、不要急着游;</text>
+<text x="30" y="236">仰面漂浮,双臂双腿张开,</text>
+<text x="30" y="254">尽量让口鼻高出水面</text>
+</g>
+
+<!-- ③ 控制呼吸 -->
+<g transform="translate(466,0)">
+<path d="M20,170 L220,170" stroke="#999" stroke-width="2"/>
+<path d="M24,166 L24,174 M134,166 L134,174" stroke="#999" stroke-width="2"/>
+<path d="M24,120 L30,80 L36,160 L42,78 L48,160 L54,82 L60,156 L66,86 L72,152 L78,92 L84,146 L90,98 L96,140 L104,104 L112,134 L122,110 L134,128 Q146,112 160,121 Q174,130 188,120 Q202,110 216,120" fill="none" stroke="#c33" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="26" y="66" font-size="13" fill="#c33">急促喘气</text>
+<text x="146" y="100" font-size="13" fill="#0b5cad">慢慢平复</text>
+<text x="24" y="188" font-size="12" fill="#555" text-anchor="middle">落水</text>
+<text x="134" y="188" font-size="12" fill="#555" text-anchor="middle">约1分钟到1分半钟</text>
+<text x="12" y="216"><tspan font-weight="bold">③</tspan> 控制呼吸,</text>
+<text x="30" y="236">大约1分钟到1分半钟后,</text>
+<text x="30" y="254">急促喘气会慢慢平复</text>
+</g>
+<text x="16" y="276"><tspan font-weight="bold">④</tspan> 平复以后再决定: 爬上漂浮物、游向近处的船或岸边、还是原地等待救援</text>
+<text x="16" y="294" font-size="13" fill="#0b5cad">穿着救生衣时,冷水休克的风险大大降低——这也是一定要穿救生衣的原因</text>
+</g>
+
+<!-- B1 HELP 姿势 -->
+<g transform="translate(10,372)">
+<rect x="0" y="0" width="345" height="260" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="16" font-weight="bold">一个人、穿着救生衣: HELP 姿势</text>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M146,98 L140,148" stroke="#333" stroke-width="30"/><path d="M146,98 L140,148" stroke="#cfe0f0" stroke-width="25"/>
+</g>
+<path d="M126,92 L170,92 Q178,92 176,102 L170,146 Q168,154 160,154 L132,154 Q122,154 122,144 Z" fill="#f08a3c" stroke="#333" stroke-width="2"/>
+<circle cx="152" cy="72" r="17" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M135,70 Q136,52 156,55 Q166,57 168,66 Q156,58 146,62 Q138,66 135,70 Z" fill="#555"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M148,100 L164,126 L144,112" stroke="#333" stroke-width="14"/><path d="M148,100 L164,126 L144,112" stroke="#f3e3d3" stroke-width="9"/>
+<path d="M140,150 L182,118 L180,170" stroke="#333" stroke-width="19"/><path d="M140,150 L182,118 L180,170" stroke="#cfe0f0" stroke-width="14"/>
+</g>
+<ellipse cx="186" cy="172" rx="10" ry="5" fill="#555" stroke="#333" stroke-width="1.5"/>
+<rect x="12" y="96" width="321" height="100" fill="#d8ebf7" fill-opacity="0.7"/>
+<path d="M12,96 L333,96" stroke="#7aa6cc" stroke-width="2"/>
+<text x="196" y="58" font-size="13" fill="#0b5cad">头颈露出水面</text>
+<line x1="194" y1="56" x2="168" y2="74" stroke="#0b5cad" stroke-width="1"/>
+<text x="20" y="114" font-size="13" fill="#0b5cad">双臂抱在胸前,</text>
+<text x="20" y="130" font-size="13" fill="#0b5cad">夹紧腋下</text>
+<line x1="78" y1="124" x2="150" y2="116" stroke="#0b5cad" stroke-width="1"/>
+<text x="36" y="176" font-size="13" fill="#0b5cad">救生衣</text>
+<line x1="78" y1="172" x2="126" y2="148" stroke="#0b5cad" stroke-width="1"/>
+<text x="212" y="140" font-size="13" fill="#0b5cad">双腿并拢,</text>
+<text x="212" y="156" font-size="13" fill="#0b5cad">膝盖蜷到胸前</text>
+<line x1="210" y1="138" x2="188" y2="122" stroke="#0b5cad" stroke-width="1"/>
+<text x="16" y="224" font-size="14">保护散热最多的腋下、胸部、腹股沟</text>
+<text x="16" y="246" font-size="13" fill="#555">没有救生衣时不要用(HELP 姿势会让人下沉)</text>
+</g>
+
+<!-- B2 抱团(俯视) -->
+<g transform="translate(365,372)">
+<rect x="0" y="0" width="345" height="260" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="16" font-weight="bold">几个人时: 抱团</text>
+<rect x="12" y="40" width="321" height="156" fill="#d8ebf7"/>
+<text x="20" y="58" font-size="12" fill="#555">俯视</text>
+<circle cx="160" cy="120" r="50" fill="none" stroke="#333" stroke-width="13"/>
+<circle cx="160" cy="120" r="50" fill="none" stroke="#f3e3d3" stroke-width="8"/>
+<g stroke="#333" stroke-width="2">
+<ellipse cx="160" cy="70" rx="26" ry="13" fill="#f08a3c"/>
+<circle cx="160" cy="68" r="11" fill="#555"/>
+<g transform="rotate(120 203 145)"><ellipse cx="203" cy="145" rx="26" ry="13" fill="#f08a3c"/></g>
+<circle cx="205" cy="146" r="11" fill="#555"/>
+<g transform="rotate(60 117 145)"><ellipse cx="117" cy="145" rx="26" ry="13" fill="#f08a3c"/></g>
+<circle cx="115" cy="146" r="11" fill="#555"/>
+<ellipse cx="160" cy="122" rx="16" ry="10" fill="#f08a3c"/>
+<circle cx="160" cy="121" r="8" fill="#555"/>
+</g>
+<text x="232" y="100" font-size="13" fill="#0b5cad">手臂互相</text>
+<text x="232" y="116" font-size="13" fill="#0b5cad">搂住</text>
+<line x1="230" y1="104" x2="208" y2="112" stroke="#0b5cad" stroke-width="1"/>
+<text x="232" y="170" font-size="13" fill="#0b5cad">孩子在中间</text>
+<line x1="230" y1="166" x2="170" y2="126" stroke="#0b5cad" stroke-width="1"/>
+<text x="16" y="224" font-size="14">面对面围成一圈,胸贴胸,手臂互相搂住</text>
+<text x="16" y="246" font-size="13" fill="#555">孩子、受伤的人、体弱的人围在中间;也更容易被发现</text>
+</g>
+
+<!-- C1 没有救生衣 -->
+<g transform="translate(10,642)">
+<rect x="0" y="0" width="345" height="222" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="16" font-weight="bold">没有救生衣时</text>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M196,112 L262,118" stroke="#333" stroke-width="19"/><path d="M196,112 L262,118" stroke="#cfe0f0" stroke-width="14"/>
+<path d="M130,106 L198,110" stroke="#333" stroke-width="28"/><path d="M130,106 L198,110" stroke="#cfe0f0" stroke-width="23"/>
+</g>
+<circle cx="106" cy="98" r="15" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M92,102 Q88,88 98,84 Q94,94 96,104 Z" fill="#555"/>
+<rect x="12" y="104" width="321" height="40" fill="#d8ebf7" fill-opacity="0.7"/>
+<path d="M12,104 L333,104" stroke="#7aa6cc" stroke-width="2"/>
+<rect x="150" y="94" width="140" height="16" rx="7" fill="#b08a58" stroke="#333" stroke-width="2"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M136,104 L160,82 L178,96" stroke="#333" stroke-width="14"/><path d="M136,104 L160,82 L178,96" stroke="#f3e3d3" stroke-width="9"/>
+</g>
+<ellipse cx="180" cy="96" rx="7" ry="6" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<text x="24" y="64" font-size="13" fill="#0b5cad">仰面漂浮</text>
+<line x1="60" y1="68" x2="96" y2="88" stroke="#0b5cad" stroke-width="1"/>
+<text x="210" y="64" font-size="13" fill="#0b5cad">抓住任何漂浮物</text>
+<line x1="236" y1="68" x2="228" y2="94" stroke="#0b5cad" stroke-width="1"/>
+<text x="16" y="168" font-size="14">HELP 姿势会让人下沉,改为仰面漂浮,</text>
+<text x="16" y="190" font-size="14">抓住任何漂浮物;只在离岸边、船很近且</text>
+<text x="16" y="212" font-size="14">能确定游得到时才游(在冷水里游泳体温降得更快)</text>
+</g>
+
+<!-- C2 通用 -->
+<g transform="translate(365,642)">
+<rect x="0" y="0" width="345" height="222" rx="8" fill="#fdecec" stroke="#c33" stroke-width="2"/>
+<text x="16" y="28" font-size="16" font-weight="bold" fill="#c33">不管有没有救生衣</text>
+<text x="16" y="62" font-size="15">✓ 不要脱掉衣服和鞋子</text>
+<text x="34" y="84" font-size="13" fill="#555">衣服里的水层能保温,有些衣服还能帮助漂浮</text>
+<text x="16" y="118" font-size="15">✓ 尽量把身体爬到漂浮物上,少泡在水里</text>
+<text x="16" y="152" font-size="15">✗ 不要喝海水</text>
+<text x="16" y="186" font-size="15">✓ 和同伴、船、漂浮物待在一起,</text>
+<text x="34" y="208" font-size="15">让自己被看见;吹哨子比喊叫省力</text>
+</g>
+
+<text x="360" y="894" font-size="15" text-anchor="middle">被救上来后按失温处理;在冷水中泡过较长时间的人,尽量平着抬上岸、上船</text>
+</g>
+</svg>

@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 520" width="720" height="520" role="img" aria-label="用3-4-5绳画直角: 一根绳子上等距打13个结,分成12段;拉成三角形,三边分别是3段、4段、5段;3段和4段之间的角就是直角(90°);原理是勾股定理3²+4²=5²" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>3-4-5绳画直角</title>
+<defs>
+<g id="knot"><circle r="6.5" fill="#8f6d2e" stroke="#333" stroke-width="1.5"/></g>
+<g id="stake"><circle r="12" fill="#d9c29a" stroke="#333" stroke-width="2"/><circle r="5" fill="none" stroke="#8f6d2e" stroke-width="1.2"/></g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">3-4-5绳画直角</text>
+
+<text x="20" y="64" font-size="16" font-weight="bold">① 一根绳子上等距打13个结,分成12段</text>
+<path d="M60,100 L660,100" stroke="#333" stroke-width="7" stroke-linecap="round"/>
+<path d="M60,100 L660,100" stroke="#c8a165" stroke-width="4" stroke-linecap="round"/>
+<use href="#knot" x="60" y="100"/><use href="#knot" x="110" y="100"/><use href="#knot" x="160" y="100"/><use href="#knot" x="210" y="100"/><use href="#knot" x="260" y="100"/><use href="#knot" x="310" y="100"/><use href="#knot" x="360" y="100"/><use href="#knot" x="410" y="100"/><use href="#knot" x="460" y="100"/><use href="#knot" x="510" y="100"/><use href="#knot" x="560" y="100"/><use href="#knot" x="610" y="100"/><use href="#knot" x="660" y="100"/>
+<g font-size="12" fill="#555" text-anchor="middle">
+<text x="60" y="88">1</text><text x="110" y="88">2</text><text x="160" y="88">3</text><text x="210" y="88">4</text><text x="260" y="88">5</text><text x="310" y="88">6</text><text x="360" y="88">7</text><text x="410" y="88">8</text><text x="460" y="88">9</text><text x="510" y="88">10</text><text x="560" y="88">11</text><text x="610" y="88">12</text><text x="660" y="88">13</text>
+</g>
+<path d="M62,116 L62,124 L208,124 L208,116 M212,116 L212,124 L408,124 L408,116 M412,116 L412,124 L658,124 L658,116" fill="none" stroke="#0b5cad" stroke-width="1.5"/>
+<g font-size="15" fill="#0b5cad" text-anchor="middle" font-weight="bold">
+<text x="135" y="144">3段</text><text x="310" y="144">4段</text><text x="535" y="144">5段</text>
+</g>
+<text x="690" y="104" font-size="13" fill="#555" text-anchor="middle">结</text>
+
+<text x="20" y="190" font-size="16" font-weight="bold">② 拉成三角形,三边分别是3段、4段、5段</text>
+
+<g transform="translate(0,-36)">
+<!-- 三角形(俯视) -->
+<path d="M200,290 L200,470 L440,470 Z" fill="#f6f1e6" stroke="none"/>
+<path d="M200,290 L200,470 L440,470 L200,290" fill="none" stroke="#333" stroke-width="7" stroke-linejoin="round"/>
+<path d="M200,290 L200,470 L440,470 L200,290" fill="none" stroke="#c8a165" stroke-width="4" stroke-linejoin="round"/>
+<path d="M200,446 L224,446 L224,470" fill="none" stroke="#c33" stroke-width="2.5"/>
+<text x="232" y="440" font-size="18" font-weight="bold" fill="#c33">90°</text>
+<use href="#stake" x="200" y="290"/><use href="#stake" x="200" y="470"/><use href="#stake" x="440" y="470"/>
+<use href="#knot" x="200" y="290"/><use href="#knot" x="200" y="470"/><use href="#knot" x="440" y="470"/>
+<use href="#knot" x="200" y="350"/><use href="#knot" x="200" y="410"/>
+<use href="#knot" x="260" y="470"/><use href="#knot" x="320" y="470"/><use href="#knot" x="380" y="470"/>
+<use href="#knot" x="392" y="434"/><use href="#knot" x="344" y="398"/><use href="#knot" x="296" y="362"/><use href="#knot" x="248" y="326"/>
+<g font-size="17" font-weight="bold" fill="#0b5cad">
+<text x="180" y="381" text-anchor="end">3段</text>
+<text x="320" y="504" text-anchor="middle">4段</text>
+<text x="334" y="360">5段</text>
+</g>
+<g font-size="13" fill="#555">
+<text x="200" y="268" text-anchor="middle">第1个和第13个结(绳头和绳尾)</text>
+<text x="186" y="498" text-anchor="middle">第4个结</text>
+<text x="454" y="498" text-anchor="middle">第8个结</text>
+</g>
+<text x="470" y="458" font-size="13" fill="#555">木桩</text>
+<line x1="468" y1="454" x2="451" y2="466" stroke="#555" stroke-width="1"/>
+</g>
+
+<text x="20" y="500" font-size="16" font-weight="bold">③ 3段和4段之间的角就是直角(90°)</text>
+
+<rect x="490" y="214" width="215" height="150" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="504" y="240" font-size="15" font-weight="bold">原理: 勾股定理</text>
+<text x="504" y="266" font-size="16">3² + 4² = 5²</text>
+<text x="504" y="286" font-size="13" fill="#555">(9 + 16 = 25)</text>
+<text x="504" y="316" font-size="15">用途: 盖房子放线、</text>
+<text x="504" y="338" font-size="15">开垦方正的田地</text>
+</g>
+</svg>

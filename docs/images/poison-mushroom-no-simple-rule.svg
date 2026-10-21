@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 740" width="720" height="740" role="img" aria-label="毒蘑菇没有简单的鉴别方法: 本图不是辨认指南。最致命的鹅膏菌很多是白色、灰色、灰褐色的,外表朴素,常被误认为可食用的菌子,是我国毒蘑菇中毒死亡的主要原因。颜色、银针银器大蒜、煮熟加辣椒、虫咬动物吃过、长在松树下草地上、乳汁变色、手机拍照识别、村里老人一直这么吃,这些经验全部不可靠。不采、不买、不卖、不吃不认识的野生蘑菇" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>毒蘑菇: 没有简单的鉴别方法</title>
+<text x="360" y="28" font-size="18" fill="#222" text-anchor="middle" font-weight="bold">毒蘑菇: 没有简单的鉴别方法</text>
+<rect x="8" y="40" width="704" height="50" rx="8" fill="#c33"/>
+<text x="360" y="61" font-size="16" fill="#fff" text-anchor="middle" font-weight="bold">目前没有任何简单的方法能分辨蘑菇有没有毒,鉴别要靠专业人员和设备</text>
+<text x="360" y="81" font-size="14" fill="#fff" text-anchor="middle">⚠️ 本图不是辨认指南,不要根据图上的样子去"辨认"蘑菇</text>
+
+<!-- 鹅膏菌: 外表朴素 -->
+<rect x="8" y="100" width="704" height="228" rx="10" fill="none" stroke="#c33" stroke-width="2"/>
+<text x="22" y="126" font-size="16" fill="#c33" font-weight="bold">致命的鹅膏菌往往"看起来不像有毒"</text>
+<line x1="24" y1="292" x2="256" y2="292" stroke="#999" stroke-width="2"/>
+<path d="M36 292 l4 -14 M44 292 l-2 -12 M232 292 l4 -12 M240 292 l-2 -16 M246 292 l5 -10 M150 292 l-3 -10 M156 292 l3 -12" stroke="#6a8a3a" stroke-width="2" stroke-linecap="round"/>
+<!-- 白色 -->
+<path d="M91 222 Q88 258 86 292 L114 292 Q112 258 109 222 Z" fill="#fafafa" stroke="#333" stroke-width="2.2" stroke-linejoin="round"/>
+<path d="M52 224 Q56 172 100 168 Q144 172 148 224 Q100 230 52 224 Z" fill="#fafafa" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+<!-- 灰褐色 -->
+<path d="M194 246 Q192 270 191 292 L209 292 Q208 270 206 246 Z" fill="#eeeae6" stroke="#333" stroke-width="2.2" stroke-linejoin="round"/>
+<path d="M166 248 Q170 210 200 207 Q230 210 234 248 Q200 253 166 248 Z" fill="#b9b0a6" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="100" y="154" font-size="13" fill="#222" text-anchor="middle">白色</text>
+<text x="200" y="196" font-size="13" fill="#222" text-anchor="middle">灰色、灰褐色</text>
+<text x="140" y="316" font-size="13" fill="#c33" text-anchor="middle">示意: 外表朴素,不能靠外形辨认</text>
+<g font-size="14" fill="#222">
+<text x="280" y="156">● 俗称"白毒伞""致命白毒伞""灰花纹鹅膏"等</text>
+<text x="280" y="181">● 很多是白色、灰色、灰褐色的,外表很朴素,</text>
+<text x="294" y="200">常被误认为可食用的菌子</text>
+<text x="280" y="225" fill="#c33" font-weight="bold">● 我国毒蘑菇中毒死亡的主要原因</text>
+<text x="280" y="250">● 毒素(鹅膏毒肽)非常稳定,高温煮不坏</text>
+<text x="280" y="275">● 中毒后要经过一段"假愈期",然后肝脏衰竭</text>
+<text x="280" y="300">● 城市公园、小区草坪里长出的蘑菇也一样有毒</text>
+</g>
+
+<!-- 不可靠的经验 -->
+<text x="14" y="354" font-size="16" fill="#c33" font-weight="bold">以下"经验"全部不可靠</text>
+<g font-size="13" fill="#222" text-anchor="middle">
+<!-- 1 颜色 -->
+<rect x="8" y="364" width="172" height="116" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<circle cx="58" cy="400" r="11" fill="#d33" stroke="#333" stroke-width="1.5"/><circle cx="84" cy="400" r="11" fill="#f5c518" stroke="#333" stroke-width="1.5"/><circle cx="110" cy="400" r="11" fill="#fff" stroke="#333" stroke-width="1.5"/><circle cx="136" cy="400" r="11" fill="#aaa" stroke="#333" stroke-width="1.5"/>
+<text x="94" y="446">颜色鲜艳的有毒,</text>
+<text x="94" y="463">颜色朴素的没毒</text>
+<!-- 2 银针大蒜 -->
+<rect x="185" y="364" width="172" height="116" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<line x1="226" y1="418" x2="262" y2="384" stroke="#999" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="259" cy="387" rx="2.5" ry="1.4" fill="#fff" stroke="#666" transform="rotate(-43 259 387)"/>
+<path d="M300 380 Q296 392 282 400 Q282 418 300 418 Q318 418 318 400 Q304 392 300 380 Z" fill="#f5f0e6" stroke="#333" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M300 386 L300 416 M292 398 Q292 410 296 416 M308 398 Q308 410 304 416" fill="none" stroke="#999" stroke-width="1.2"/>
+<text x="271" y="446">银针、银器、大蒜</text>
+<text x="271" y="463">一起煮,变黑就有毒</text>
+<!-- 3 煮 -->
+<rect x="362" y="364" width="172" height="116" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<path d="M412 396 h58 v18 q0 8 -8 8 h-42 q-8 0 -8 -8 Z" fill="#bbb" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<line x1="406" y1="396" x2="476" y2="396" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M428 391 q-4 -4 0 -8 t0 -8 M441 391 q-4 -4 0 -8 t0 -8 M454 391 q-4 -4 0 -8 t0 -8" fill="none" stroke="#999" stroke-width="1.6"/>
+<path d="M486 386 Q500 392 504 412 Q494 400 482 394 Z" fill="#d33" stroke="#333" stroke-width="1.3"/>
+<path d="M483 390 l-4 -6" stroke="#4d6b2a" stroke-width="2.5" stroke-linecap="round"/>
+<text x="448" y="446">煮熟、煮久、加辣椒</text>
+<text x="448" y="463">就能去毒</text>
+<!-- 4 虫咬 -->
+<rect x="539" y="364" width="172" height="116" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<path d="M620 402 Q618 414 617 424 L631 424 Q630 414 628 402 Z" fill="#fafafa" stroke="#333" stroke-width="1.8"/>
+<path d="M596 404 Q600 378 624 376 Q636 377 642 384 Q634 386 638 392 Q646 392 650 404 Q624 408 596 404 Z" fill="#fafafa" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<ellipse cx="664" cy="410" rx="7" ry="4.5" fill="#555"/>
+<path d="M660 406 l-3 -5 M664 405 l0 -6 M668 406 l3 -5 M660 414 l-3 5 M664 415 l0 6 M668 414 l3 5" stroke="#555" stroke-width="1.2"/>
+<text x="625" y="446">有虫咬过、动物吃过</text>
+<text x="625" y="463">的没毒</text>
+<!-- 5 松树草地 -->
+<rect x="8" y="486" width="172" height="116" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<path d="M70 498 L54 520 L62 520 L48 540 L92 540 L78 520 L86 520 Z" fill="#9cbf6e" stroke="#333" stroke-width="1.6" stroke-linejoin="round"/>
+<rect x="67" y="540" width="6" height="8" fill="#8a6a3a"/>
+<line x1="40" y1="548" x2="148" y2="548" stroke="#999" stroke-width="1.5"/>
+<path d="M108 548 l-3 -10 M114 548 l1 -12 M120 548 l4 -10 M132 548 l-3 -9 M138 548 l2 -11" stroke="#6a8a3a" stroke-width="2" stroke-linecap="round"/>
+<text x="94" y="568">长在松树下、草地上的</text>
+<text x="94" y="585">没毒</text>
+<!-- 6 乳汁、变色 -->
+<rect x="185" y="486" width="172" height="116" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<path d="M271 500 Q258 520 258 530 A13 13 0 0 0 284 530 Q284 520 271 500 Z" fill="#fbf8ee" stroke="#333" stroke-width="1.8"/>
+<text x="271" y="568">撕开后有乳汁、</text>
+<text x="271" y="585">变色的才有毒</text>
+<!-- 7 手机 -->
+<rect x="362" y="486" width="172" height="116" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<rect x="433" y="496" width="30" height="52" rx="5" fill="#fff" stroke="#333" stroke-width="2"/>
+<rect x="437" y="502" width="22" height="36" fill="#eef4fa"/>
+<path d="M441 524 Q442 514 448 514 Q454 514 455 524 Z M446 524 L446 532 L450 532 L450 524" fill="#fafafa" stroke="#333" stroke-width="1"/>
+<text x="448" y="568">用手机拍照识别</text>
+<text x="448" y="585" font-size="12" fill="#666">准确率不高,不能用来判断</text>
+<!-- 8 老人 -->
+<rect x="539" y="486" width="172" height="116" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<path d="M600 522 L625 502 L650 522 Z" fill="#cfe0f0" stroke="#333" stroke-width="1.8" stroke-linejoin="round"/>
+<rect x="606" y="522" width="38" height="24" fill="#fff" stroke="#333" stroke-width="1.8"/>
+<rect x="620" y="532" width="10" height="14" fill="#c9a26b" stroke="#333" stroke-width="1.2"/>
+<text x="625" y="568">村里老人一直这么吃</text>
+<text x="625" y="585" font-size="12" fill="#666">中毒者里很多是常年采菌的人</text>
+<!-- 红叉 -->
+<g font-size="20" fill="#c33" font-weight="bold" text-anchor="start">
+<text x="20" y="390">✗</text><text x="197" y="390">✗</text><text x="374" y="390">✗</text><text x="551" y="390">✗</text>
+<text x="20" y="512">✗</text><text x="197" y="512">✗</text><text x="374" y="512">✗</text><text x="551" y="512">✗</text>
+</g>
+</g>
+
+<!-- 结论 -->
+<rect x="8" y="614" width="704" height="116" rx="10" fill="#eef4fa" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="24" y="640" font-size="16" fill="#0b5cad" font-weight="bold">✓ 不采、不买、不卖、不吃不认识的野生蘑菇</text>
+<text x="24" y="664" font-size="14" fill="#222">"认识"必须是100%确定,"看起来像""以前吃过类似的"都不算;野外求生时蘑菇热量很低,不值得冒险</text>
+<text x="24" y="690" font-size="14" fill="#c33" font-weight="bold">吃了野生蘑菇后不舒服: 立即拨打120或尽快去医院,所有吃过的人都去</text>
+<text x="24" y="712" font-size="14" fill="#c33">吃完6小时以后才出现症状的反而更危险;不能因为"吐完、拉完就好了"而不去医院</text>
+</svg>

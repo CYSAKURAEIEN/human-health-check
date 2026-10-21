@@ -1,0 +1,213 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 840" width="720" height="840" role="img" aria-label="水中救援的优先顺序: 先喊,大声呼救、让旁人拨打110/120;1 伸,趴在岸上或蹲低,重心放低,另一只手抓住固定物,用竹竿、树枝、衣服结成的长条、皮带递过去,对方抓住后慢慢往回拉,感到被往水里拽时立即松手;2 抛,抛救生圈等能漂浮的东西,最好系上绳子,抛到对方前方、顺水流的一侧;3 划,用船靠近;4 游,最后选择,需受过训练;不会游泳者不要下水,不要手拉手结成人链下水">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>水中救援: 先喊,再伸、抛、划,最后才游</title>
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="ab" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+</defs>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="14" fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">水中救援: 先在岸上想办法,最后才下水</text>
+
+<!-- 优先顺序 -->
+<g text-anchor="middle">
+<rect x="10" y="42" width="120" height="50" rx="8" fill="#eef5fb" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="70" y="64" font-size="17" font-weight="bold">先喊</text>
+<text x="70" y="84" font-size="13" fill="#555">呼救、报警</text>
+<rect x="155" y="42" width="120" height="50" rx="8" fill="#eef5fb" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="215" y="64" font-size="17" font-weight="bold">① 伸</text>
+<text x="215" y="84" font-size="13" fill="#555">杆子递过去</text>
+<rect x="300" y="42" width="120" height="50" rx="8" fill="#eef5fb" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="360" y="64" font-size="17" font-weight="bold">② 抛</text>
+<text x="360" y="84" font-size="13" fill="#555">抛漂浮物</text>
+<rect x="445" y="42" width="120" height="50" rx="8" fill="#eef5fb" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="505" y="64" font-size="17" font-weight="bold">③ 划</text>
+<text x="505" y="84" font-size="13" fill="#555">用船靠近</text>
+<rect x="590" y="42" width="120" height="50" rx="8" fill="#fdecec" stroke="#c33" stroke-width="1.5"/>
+<text x="650" y="64" font-size="17" font-weight="bold" fill="#c33">④ 游</text>
+<text x="650" y="84" font-size="13" fill="#c33">最后选择,需训练</text>
+</g>
+<g stroke="#0b5cad" stroke-width="2.5" marker-end="url(#ab)">
+<path d="M133,67 L152,67"/><path d="M278,67 L297,67"/><path d="M423,67 L442,67"/><path d="M568,67 L587,67"/>
+</g>
+
+<!-- 先喊 -->
+<g transform="translate(10,102)">
+<rect x="0" y="0" width="226" height="250" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<rect x="120" y="140" width="94" height="42" fill="#d8ebf7"/>
+<circle cx="182" cy="132" r="11" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M172,127 Q182,116 192,127 Q182,122 172,127 Z" fill="#555"/>
+<rect x="120" y="141" width="94" height="41" fill="#d8ebf7"/>
+<path d="M120,140 L214,140" stroke="#7aa6cc" stroke-width="2"/>
+<path d="M166,146 Q172,142 178,146 M186,146 Q192,142 198,146" fill="none" stroke="#7aa6cc" stroke-width="1.5"/>
+<path d="M12,130 L116,130 L126,182" fill="none" stroke="#999" stroke-width="3" stroke-linejoin="round"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M56,60 L48,90" stroke="#333" stroke-width="14"/><path d="M56,60 L48,90" stroke="#f3e3d3" stroke-width="9"/>
+<path d="M56,92 L50,126 M62,92 L70,126" stroke="#333" stroke-width="19"/><path d="M56,92 L50,126 M62,92 L70,126" stroke="#cfe0f0" stroke-width="14"/>
+<path d="M58,58 L58,92" stroke="#333" stroke-width="30"/><path d="M58,58 L58,92" stroke="#cfe0f0" stroke-width="25"/>
+</g>
+<circle cx="60" cy="36" r="15" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M46,32 Q50,18 66,21 Q54,24 46,32 Z" fill="#555"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M60,62 L82,64 L80,44" stroke="#333" stroke-width="14"/><path d="M60,62 L82,64 L80,44" stroke="#f3e3d3" stroke-width="9"/>
+</g>
+<ellipse cx="79" cy="40" rx="6" ry="7" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M92,28 Q98,38 92,48 M100,22 Q109,38 100,54" fill="none" stroke="#c33" stroke-width="2.5" stroke-linecap="round"/>
+<text x="114" y="42" font-size="14" fill="#c33">大声呼救</text>
+<path d="M168,166 L136,166" stroke="#0b5cad" stroke-width="2" marker-end="url(#ab)"/>
+<text x="12" y="204"><tspan font-weight="bold">先喊:</tspan> 大声呼救,</text>
+<text x="30" y="224">让旁人拨打110/120,</text>
+<text x="30" y="244">让溺水者朝你的方向漂</text>
+</g>
+
+<!-- ① 伸 -->
+<g transform="translate(246,102)">
+<rect x="0" y="0" width="464" height="250" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<rect x="232" y="140" width="220" height="42" fill="#d8ebf7"/>
+<path d="M232,140 L452,140" stroke="#7aa6cc" stroke-width="2"/>
+<path d="M12,130 L228,130 L238,182" fill="none" stroke="#999" stroke-width="3" stroke-linejoin="round"/>
+<!-- 固定物 -->
+<rect x="62" y="44" width="14" height="86" fill="#b08a58" stroke="#333" stroke-width="2"/>
+<!-- 溺水者 -->
+<circle cx="360" cy="132" r="12" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M349,127 Q360,115 371,127 Q360,122 349,127 Z" fill="#555"/>
+<rect x="340" y="141" width="40" height="40" fill="#d8ebf7"/>
+<path d="M340,140 L380,140" stroke="#7aa6cc" stroke-width="2"/>
+<path d="M350,139 L343,133" stroke="#333" stroke-width="12" stroke-linecap="round"/><path d="M350,139 L343,133" stroke="#f3e3d3" stroke-width="7" stroke-linecap="round"/>
+<rect x="338" y="141" width="24" height="12" fill="#d8ebf7"/>
+<path d="M336,140 L364,140" stroke="#7aa6cc" stroke-width="2"/>
+<!-- 杆子 -->
+<path d="M146,86 L344,132" stroke="#333" stroke-width="7" stroke-linecap="round"/>
+<path d="M146,86 L344,132" stroke="#c8a46e" stroke-width="4" stroke-linecap="round"/>
+<ellipse cx="341" cy="131" rx="6" ry="6" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<!-- 施救者: 单膝跪地,身体后仰 -->
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M118,104 L104,126 L80,126" stroke="#333" stroke-width="19"/><path d="M118,104 L104,126 L80,126" stroke="#cfe0f0" stroke-width="14"/>
+<path d="M118,104 L148,98 L152,124" stroke="#333" stroke-width="19"/><path d="M118,104 L148,98 L152,124" stroke="#cfe0f0" stroke-width="14"/>
+<path d="M118,102 L110,70" stroke="#333" stroke-width="30"/><path d="M118,102 L110,70" stroke="#cfe0f0" stroke-width="25"/>
+<path d="M108,72 L90,84 L72,82" stroke="#333" stroke-width="14"/><path d="M108,72 L90,84 L72,82" stroke="#f3e3d3" stroke-width="9"/>
+</g>
+<circle cx="112" cy="48" r="15" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M98,44 Q102,30 118,33 Q106,36 98,44 Z" fill="#555"/>
+<ellipse cx="70" cy="82" rx="7" ry="7" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M112,74 L134,90 L146,86" stroke="#333" stroke-width="14"/><path d="M112,74 L134,90 L146,86" stroke="#f3e3d3" stroke-width="9"/>
+</g>
+<ellipse cx="148" cy="86" rx="7" ry="6" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<!-- 往回拉 -->
+<path d="M326,110 L244,91" stroke="#c33" stroke-width="3" marker-end="url(#ar)"/>
+<text x="250" y="80" font-size="14" fill="#c33">慢慢往回拉</text>
+<!-- 标注 -->
+<text x="12" y="26" font-size="13" fill="#0b5cad">另一只手抓住固定物</text>
+<line x1="40" y1="31" x2="66" y2="78" stroke="#0b5cad" stroke-width="1"/>
+<text x="250" y="28" font-size="13" fill="#0b5cad">竹竿、树枝、衣服结成的长条、</text>
+<text x="250" y="46" font-size="13" fill="#0b5cad">皮带都可以</text>
+<line x1="420" y1="50" x2="334" y2="126" stroke="#0b5cad" stroke-width="1"/>
+<text x="40" y="154" font-size="13" fill="#0b5cad">趴下或蹲低,重心放低</text>
+<line x1="110" y1="142" x2="116" y2="128" stroke="#0b5cad" stroke-width="1"/>
+<text x="12" y="204"><tspan font-weight="bold">① 伸:</tspan> 趴在岸上或蹲低,另一只手抓住固定物,</text>
+<text x="30" y="224">把长条递过去,对方抓住后慢慢往回拉;</text>
+<text x="30" y="244" fill="#c33">感到自己被往水里拽时,立即松手</text>
+</g>
+
+<!-- ② 抛 -->
+<g transform="translate(10,362)">
+<rect x="0" y="0" width="464" height="250" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<rect x="152" y="140" width="300" height="42" fill="#d8ebf7"/>
+<path d="M152,140 L452,140" stroke="#7aa6cc" stroke-width="2"/>
+<path d="M12,130 L148,130 L158,182" fill="none" stroke="#999" stroke-width="3" stroke-linejoin="round"/>
+<!-- 施救者 -->
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M76,92 L62,126 M80,92 L98,126" stroke="#333" stroke-width="19"/><path d="M76,92 L62,126 M80,92 L98,126" stroke="#cfe0f0" stroke-width="14"/>
+<path d="M76,58 L84,82 L94,98" stroke="#333" stroke-width="14"/><path d="M76,58 L84,82 L94,98" stroke="#f3e3d3" stroke-width="9"/>
+<path d="M78,92 L80,56" stroke="#333" stroke-width="30"/><path d="M78,92 L80,56" stroke="#cfe0f0" stroke-width="25"/>
+<path d="M82,58 L104,52 L120,40" stroke="#333" stroke-width="14"/><path d="M82,58 L104,52 L120,40" stroke="#f3e3d3" stroke-width="9"/>
+</g>
+<circle cx="84" cy="34" r="15" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M70,30 Q74,16 90,19 Q78,22 70,30 Z" fill="#555"/>
+<ellipse cx="122" cy="38" rx="6" ry="6" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<!-- 绳子 -->
+<path d="M96,100 C130,124 160,140 200,141 L224,141" fill="none" stroke="#8a6a3a" stroke-width="2.5"/>
+<ellipse cx="95" cy="100" rx="6" ry="6" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<!-- 抛出轨迹 -->
+<path d="M128,36 Q190,-6 232,124" fill="none" stroke="#c33" stroke-width="2.5" stroke-dasharray="6 5" marker-end="url(#ar)"/>
+<!-- 救生圈 -->
+<ellipse cx="240" cy="141" rx="20" ry="7" fill="none" stroke="#333" stroke-width="10"/>
+<ellipse cx="240" cy="141" rx="20" ry="7" fill="none" stroke="#f08a3c" stroke-width="6"/>
+<path d="M226,136 L230,146 M250,136 L254,146" stroke="#fff" stroke-width="4"/>
+<!-- 溺水者 -->
+<circle cx="282" cy="132" r="12" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M271,127 Q282,115 293,127 Q282,122 271,127 Z" fill="#555"/>
+<rect x="266" y="141" width="32" height="40" fill="#d8ebf7"/>
+<path d="M264,140 L300,140" stroke="#7aa6cc" stroke-width="2"/>
+<text x="168" y="172" font-size="13" fill="#0b5cad">最好系上绳子</text>
+<line x1="192" y1="160" x2="190" y2="142" stroke="#0b5cad" stroke-width="1"/>
+<!-- 俯视小图 -->
+<g transform="translate(312,14)">
+<rect x="0" y="0" width="140" height="104" rx="6" fill="#fff" stroke="#bbb" stroke-width="1"/>
+<text x="8" y="17" font-size="12" fill="#555">俯视</text>
+<rect x="1" y="24" width="138" height="52" fill="#d8ebf7"/>
+<path d="M1,76 L139,76" stroke="#999" stroke-width="2"/>
+<path d="M14,36 L58,36" stroke="#0b5cad" stroke-width="2" marker-end="url(#ab)"/>
+<text x="64" y="40" font-size="12" fill="#0b5cad">水流</text>
+<circle cx="72" cy="58" r="6" fill="#f3e3d3" stroke="#333" stroke-width="1.5"/>
+<circle cx="102" cy="58" r="7" fill="none" stroke="#f08a3c" stroke-width="4"/>
+<circle cx="40" cy="88" r="7" fill="#cfe0f0" stroke="#333" stroke-width="1.5"/>
+<path d="M45,84 L95,61" stroke="#c33" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="54" y="99" font-size="12" fill="#222">你在岸上</text>
+<text x="112" y="62" font-size="12" fill="#c33">落点</text>
+</g>
+<text x="12" y="204"><tspan font-weight="bold">② 抛:</tspan> 能漂浮的东西都可以——救生圈、装了少量水的</text>
+<text x="30" y="224">空塑料桶(抛得更准)、空饮料瓶、篮球、泡沫板、背包;</text>
+<text x="30" y="244">最好系上绳子,抛到对方前方、顺水流的一侧</text>
+</g>
+
+<!-- ③ 划 -->
+<g transform="translate(484,362)">
+<rect x="0" y="0" width="226" height="250" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<rect x="12" y="140" width="202" height="42" fill="#d8ebf7"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M72,122 L70,96" stroke="#333" stroke-width="28"/><path d="M72,122 L70,96" stroke="#cfe0f0" stroke-width="23"/>
+</g>
+<circle cx="72" cy="76" r="14" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M59,72 Q62,59 78,62 Q66,64 59,72 Z" fill="#555"/>
+<path d="M46,96 L30,176" stroke="#333" stroke-width="5" stroke-linecap="round"/>
+<path d="M46,96 L30,176" stroke="#c8a46e" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M24,166 L30,184 L38,168 Z" fill="#c8a46e" stroke="#333" stroke-width="1.5"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M70,96 L56,110 L42,104" stroke="#333" stroke-width="13"/><path d="M70,96 L56,110 L42,104" stroke="#f3e3d3" stroke-width="8"/>
+</g>
+<path d="M22,124 L150,124 L138,152 L36,152 Z" fill="#b08a58" stroke="#333" stroke-width="2"/>
+<path d="M12,140 L22,140 M144,140 L214,140" stroke="#7aa6cc" stroke-width="2"/>
+<circle cx="190" cy="132" r="11" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M180,127 Q190,116 200,127 Q190,122 180,127 Z" fill="#555"/>
+<rect x="176" y="141" width="28" height="40" fill="#d8ebf7"/>
+<path d="M174,140 L206,140" stroke="#7aa6cc" stroke-width="2"/>
+<path d="M146,108 L178,118" stroke="#c33" stroke-width="3" marker-end="url(#ar)"/>
+<text x="12" y="204"><tspan font-weight="bold">③ 划:</tspan> 用船靠近</text>
+</g>
+
+<!-- ④ 游 -->
+<g transform="translate(10,622)">
+<rect x="0" y="0" width="350" height="172" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="30" font-size="16" font-weight="bold">④ 游: 最后选择(需训练)</text>
+<text x="16" y="58" font-size="14" fill="#555">必须游过去时(受过训练、无法用其他办法):</text>
+<text x="16" y="84" font-size="15">• 带上漂浮物,在几 m 外停下</text>
+<text x="16" y="110" font-size="15">• 先把漂浮物推给对方,从背后接近</text>
+<text x="16" y="136" font-size="15">• 被对方抱住时,深吸一口气往水下沉,</text>
+<text x="30" y="158" font-size="15">对方会本能地松手</text>
+</g>
+
+<!-- ✗ 不要 -->
+<g transform="translate(370,622)">
+<rect x="0" y="0" width="340" height="172" rx="8" fill="#fdecec" stroke="#c33" stroke-width="2"/>
+<text x="16" y="30" font-size="16" font-weight="bold" fill="#c33">⚠ 安全第一</text>
+<text x="16" y="58" font-size="15">✗ 不会游泳者不要下水,溺水者可能拉你下水</text>
+<text x="16" y="84" font-size="15">✗ 不要手拉手结成"人链"下水</text>
+<text x="16" y="110" font-size="15">✗ 不要多人一起下水</text>
+<text x="16" y="136" font-size="15">✗ 冰面落水: 不要直接走上冰面,</text>
+<text x="34" y="158" font-size="15">趴着用长杆、梯子、绳子施救</text>
+</g>
+
+<text x="360" y="822" font-size="15" text-anchor="middle">溺水的人往往没有呼喊、没有挥手,几十秒内就会沉下去</text>
+</g>
+</svg>
