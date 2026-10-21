@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 600" width="720" height="600" role="img" aria-label="用秒摆定米: 秒摆从一边摆到另一边正好1 s,完整周期2 s;摆动幅度要小,偏离竖直不超过约5°;摆长量悬挂点到摆锤中心的距离,秒摆的摆长L等于g除以π²,随纬度略有不同:北纬20°为0.9916 m,30°为0.9923 m,40°为0.9931 m,50°为0.9940 m;以北纬40°为例,标出0.9931 m的位置,再按比例加长到1 m,1除以0.9931约等于1.0069,即再加长约6.9 mm,刻在金属尺或硬木尺上作为标准米" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>用秒摆定米</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="dimB" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,1 L10,5 L0,9 Z" fill="#0b5cad"/></marker>
+<pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="8" height="8" fill="#e6e6e6"/><line x1="0" y1="0" x2="0" y2="8" stroke="#999" stroke-width="2"/></pattern>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">用秒摆定米</text>
+
+<!-- 左: 秒摆 -->
+<rect x="10" y="44" width="350" height="544" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<rect x="100" y="64" width="190" height="14" fill="url(#hatch)" stroke="#999" stroke-width="1"/>
+<!-- 两端位置(虚线) -->
+<g stroke="#999" stroke-width="1.5" stroke-dasharray="5 4" fill="none">
+<line x1="190" y1="82" x2="155.1" y2="480.5"/>
+<line x1="190" y1="82" x2="224.9" y2="480.5"/>
+<circle cx="155.1" cy="480.5" r="14"/>
+<circle cx="224.9" cy="480.5" r="14"/>
+</g>
+<!-- 静止位置 -->
+<line x1="190" y1="82" x2="190" y2="468" stroke="#333" stroke-width="1.5"/>
+<circle cx="190" cy="82" r="4" fill="#333"/>
+<path d="M184,78 L196,78 L190,84 Z" fill="#333"/>
+<circle cx="190" cy="482" r="14" fill="#9aa4ad" stroke="#333" stroke-width="2"/>
+<path d="M182,482 H198 M190,474 V490" stroke="#fff" stroke-width="1.5"/>
+<!-- 摆角 -->
+<path d="M190,232 A150,150 0 0 0 203.1,231.4" fill="none" stroke="#c33" stroke-width="2.5"/>
+<line x1="200" y1="226" x2="214" y2="214" stroke="#c33" stroke-width="1"/>
+<text x="216" y="208" font-size="14" font-weight="bold" fill="#c33">偏离竖直</text>
+<text x="216" y="226" font-size="14" font-weight="bold" fill="#c33">不超过约5°</text>
+<!-- 摆动弧线 -->
+<path d="M152.9,506.4 A426,426 0 0 0 227.1,506.4" fill="none" stroke="#c33" stroke-width="2.5" marker-start="url(#arR)" marker-end="url(#arR)"/>
+<text x="190" y="538" font-size="15" font-weight="bold" fill="#c33" text-anchor="middle">从一边摆到另一边 = 1 s</text>
+<text x="190" y="558" font-size="13" fill="#555" text-anchor="middle">(来回一次的完整周期 2 s)</text>
+<!-- 摆长 -->
+<path d="M184,82 H90 M176,482 H90" stroke="#0b5cad" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="98" y1="84" x2="98" y2="480" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#dimB)" marker-end="url(#dimB)"/>
+<g font-size="14" fill="#0b5cad">
+<text x="22" y="250" font-weight="bold">摆长 L</text>
+<text x="22" y="272" font-size="13">悬挂点到</text>
+<text x="22" y="290" font-size="13">摆锤中心</text>
+<text x="22" y="320" font-size="13">北纬40°:</text>
+<text x="22" y="338" font-weight="bold">0.9931 m</text>
+</g>
+<text x="214" y="104" font-size="13" fill="#555">悬挂点</text>
+<line x1="212" y1="100" x2="195" y2="85" stroke="#555" stroke-width="1"/>
+<text x="210" y="300" font-size="13" fill="#555">悬线细而不易伸长</text>
+<line x1="208" y1="296" x2="191" y2="290" stroke="#555" stroke-width="1"/>
+<text x="246" y="458" font-size="13" fill="#555">摆锤: 小而重</text>
+<text x="246" y="474" font-size="13" fill="#555">的金属球</text>
+<text x="246" y="500" font-size="12" fill="#555">中心不容易找准,</text>
+<text x="246" y="515" font-size="12" fill="#555">误差主要来自这里</text>
+<line x1="244" y1="496" x2="199" y2="485" stroke="#555" stroke-width="1"/>
+
+<!-- 右上: 摆长表 -->
+<rect x="372" y="44" width="338" height="196" rx="8" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="386" y="72" font-size="16" font-weight="bold">秒摆的摆长 L = g ÷ π²</text>
+<text x="386" y="94" font-size="13" fill="#555">g 随纬度略有不同,摆长也略有不同</text>
+<g font-size="14">
+<text x="390" y="122" font-weight="bold">纬度</text><text x="450" y="122" font-weight="bold">秒摆长度</text><text x="560" y="122" font-weight="bold">我国大致地区</text>
+<line x1="384" y1="130" x2="698" y2="130" stroke="#0b5cad" stroke-width="1"/>
+<text x="390" y="150">20°</text><text x="450" y="150">0.9916 m</text><text x="560" y="150">海南、广东南部</text>
+<text x="390" y="174">30°</text><text x="450" y="174">0.9923 m</text><text x="560" y="174">长江流域</text>
+<rect x="384" y="182" width="314" height="24" rx="3" fill="#fde8d8"/>
+<text x="390" y="199" font-weight="bold">40°</text><text x="450" y="199" font-weight="bold">0.9931 m</text><text x="560" y="199" font-weight="bold">华北</text>
+<text x="390" y="226">50°</text><text x="450" y="226">0.9940 m</text><text x="560" y="226">东北北部</text>
+</g>
+
+<!-- 右中: 加长到1 m -->
+<rect x="372" y="252" width="338" height="186" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="386" y="278" font-size="15" font-weight="bold">按比例加长到 1 m(北纬40°为例)</text>
+<rect x="390" y="294" width="300" height="18" fill="#e7d3a8" stroke="#333" stroke-width="1.5"/>
+<path d="M420,294 v8 M450,294 v8 M480,294 v8 M510,294 v8 M540,294 v12 M570,294 v8 M600,294 v8 M630,294 v8 M660,294 v8" stroke="#333" stroke-width="1"/>
+<text x="390" y="328" font-size="12" fill="#555" text-anchor="middle">0</text>
+<path d="M688,288 V316" stroke="#c33" stroke-width="2"/>
+<rect x="666" y="286" width="30" height="34" fill="none" stroke="#555" stroke-width="1" stroke-dasharray="3 2"/>
+<path d="M666,320 L500,346 M696,320 L700,346" stroke="#555" stroke-width="1" stroke-dasharray="3 2"/>
+<rect x="500" y="346" width="200" height="56" fill="#fffdf6" stroke="#555" stroke-width="1"/>
+<rect x="500" y="352" width="164" height="16" fill="#e7d3a8"/>
+<path d="M548,346 V376" stroke="#c33" stroke-width="2.5"/>
+<path d="M664,346 V376" stroke="#333" stroke-width="2.5"/>
+<line x1="551" y1="384" x2="661" y2="384" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#dimB)" marker-end="url(#dimB)"/>
+<text x="606" y="398" font-size="12" fill="#0b5cad" text-anchor="middle" font-weight="bold">再加长约 6.9 mm</text>
+<text x="494" y="364" font-size="13" fill="#c33" text-anchor="end">0.9931 m</text>
+<text x="494" y="380" font-size="12" fill="#555" text-anchor="end">(摆长)</text>
+<text x="672" y="342" font-size="13" font-weight="bold" text-anchor="middle">1 m</text>
+<text x="386" y="424" font-size="14">1 ÷ 0.9931 ≈ 1.0069</text>
+
+<!-- 右下: 做法 -->
+<rect x="372" y="450" width="338" height="138" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="386" y="474" font-size="15" font-weight="bold">做法</text>
+<g font-size="13">
+<text x="386" y="496">1. 用校准好的秒把一个摆调成秒摆</text>
+<text x="386" y="516">2. 量出悬挂点到摆锤中心的距离</text>
+<text x="386" y="536">3. 按纬度查表,标出这段长度,再加长到 1 m</text>
+<text x="386" y="556">4. 刻在金属尺或硬木尺上,作为"标准米"</text>
+<text x="386" y="578" fill="#555">精度约千分之一(1 mm左右)</text>
+</g>
+</g>
+</svg>

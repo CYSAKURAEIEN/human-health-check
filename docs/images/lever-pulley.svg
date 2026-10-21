@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 724" width="720" height="724" role="img" aria-label="杠杆和滑轮: 杠杆原理是动力乘动力臂等于阻力乘阻力臂,F1×L1=F2×L2;例如用2 m长的撬棍,支点离重物0.2 m,手离支点1.8 m,手上用力等于重物乘0.2除以1.8,约为重物的1/9。定滑轮不省力,改变用力方向,向下拉把东西吊上去;动滑轮省一半力,绳子要拉两倍长;滑轮组的拉力约等于重物重量除以承重的绳子段数,图中4段,还要加上摩擦和滑轮自身的重量" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>杠杆和滑轮</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="dimB" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,1 L10,5 L0,9 Z" fill="#0b5cad"/></marker>
+<pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="8" height="8" fill="#e6e6e6"/><line x1="0" y1="0" x2="0" y2="8" stroke="#999" stroke-width="2"/></pattern>
+<g id="seg"><circle r="8" fill="#fff" stroke="#0b5cad" stroke-width="1.5"/></g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">杠杆和滑轮: 省力就要费距离</text>
+
+<!-- ① 杠杆 -->
+<rect x="10" y="44" width="700" height="284" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="70" font-size="16" font-weight="bold">① 杠杆(撬棍)</text>
+<rect x="180" y="84" width="310" height="92" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="335" y="110" font-size="16" font-weight="bold" text-anchor="middle">动力 × 动力臂 = 阻力 × 阻力臂</text>
+<text x="335" y="134" font-size="16" text-anchor="middle">F₁ × L₁ = F₂ × L₂</text>
+<text x="335" y="162" font-size="14" text-anchor="middle">例: 手上用力 = 重物 × 0.2 ÷ 1.8 ≈ 重物的1/9</text>
+<path d="M30,240 H690" stroke="#999" stroke-width="3"/>
+<path d="M144,204 L122,240 L166,240 Z" fill="#d9c29a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<text x="172" y="234" font-size="14" fill="#555">支点</text>
+<path d="M44,196 Q36,160 62,142 Q92,124 120,140 Q140,156 136,196 Z" fill="#cfcfcf" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="88" y="176" font-size="14" text-anchor="middle">重物</text>
+<rect x="88" y="196" width="544" height="8" rx="4" fill="#8f8f8f" stroke="#333" stroke-width="1.5"/>
+<path d="M90,94 L90,130" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<text x="98" y="104" font-size="14" font-weight="bold" fill="#c33">阻力 F₂</text>
+<path d="M628,118 L628,190" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<text x="620" y="112" font-size="14" font-weight="bold" fill="#c33" text-anchor="end">动力 F₁(手往下压)</text>
+<path d="M90,206 V276 M144,244 V272 M630,206 V276" stroke="#0b5cad" stroke-width="1" stroke-dasharray="3 3"/>
+<g stroke="#0b5cad" stroke-width="1.5">
+<line x1="92" y1="266" x2="142" y2="266" marker-start="url(#dimB)" marker-end="url(#dimB)"/>
+<line x1="146" y1="266" x2="628" y2="266" marker-start="url(#dimB)" marker-end="url(#dimB)"/>
+<line x1="92" y1="300" x2="628" y2="300" marker-start="url(#dimB)" marker-end="url(#dimB)"/>
+</g>
+<path d="M90,280 V308 M630,280 V308" stroke="#0b5cad" stroke-width="1"/>
+<g font-size="14" fill="#0b5cad">
+<text x="36" y="292">阻力臂 L₂ = 0.2 m</text>
+<text x="400" y="258" text-anchor="middle">动力臂 L₁ = 1.8 m</text>
+<text x="400" y="320" text-anchor="middle">撬棍长 2 m</text>
+</g>
+
+<!-- ② 滑轮 -->
+<rect x="10" y="340" width="700" height="372" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="366" font-size="16" font-weight="bold">② 滑轮</text>
+<line x1="242" y1="380" x2="242" y2="700" stroke="#ddd" stroke-width="1.5"/>
+<line x1="478" y1="380" x2="478" y2="700" stroke="#ddd" stroke-width="1.5"/>
+
+<!-- 定滑轮 -->
+<rect x="70" y="390" width="110" height="12" fill="url(#hatch)" stroke="#999" stroke-width="1"/>
+<line x1="125" y1="402" x2="125" y2="450" stroke="#333" stroke-width="3"/>
+<path d="M103,556 V450 A22,22 0 0 1 147,450 V572" fill="none" stroke="#8f6d2e" stroke-width="2.5"/>
+<circle cx="125" cy="450" r="22" fill="#e8eef5" stroke="#333" stroke-width="2"/>
+<path d="M103,450 A22,22 0 0 1 147,450" fill="none" stroke="#8f6d2e" stroke-width="2.5"/>
+<circle cx="125" cy="450" r="3.5" fill="#333"/>
+<rect x="80" y="556" width="46" height="40" rx="3" fill="#cfcfcf" stroke="#333" stroke-width="2"/>
+<text x="103" y="581" font-size="13" text-anchor="middle">重物</text>
+<path d="M147,574 L147,616" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<text x="156" y="604" font-size="14" font-weight="bold" fill="#c33">拉力</text>
+<text x="126" y="652" font-size="15" font-weight="bold" text-anchor="middle">定滑轮: 不省力</text>
+<text x="126" y="674" font-size="13" text-anchor="middle">改变用力方向</text>
+<text x="126" y="694" font-size="13" text-anchor="middle" fill="#555">(向下拉把东西吊上去)</text>
+
+<!-- 动滑轮 -->
+<rect x="290" y="390" width="80" height="12" fill="url(#hatch)" stroke="#999" stroke-width="1"/>
+<path d="M338,402 V520 A22,22 0 0 0 382,520 V440" fill="none" stroke="#8f6d2e" stroke-width="2.5"/>
+<line x1="360" y1="520" x2="360" y2="558" stroke="#333" stroke-width="3"/>
+<circle cx="360" cy="520" r="22" fill="#e8eef5" stroke="#333" stroke-width="2"/>
+<path d="M338,520 A22,22 0 0 0 382,520" fill="none" stroke="#8f6d2e" stroke-width="2.5"/>
+<circle cx="360" cy="520" r="3.5" fill="#333"/>
+<rect x="337" y="556" width="46" height="40" rx="3" fill="#cfcfcf" stroke="#333" stroke-width="2"/>
+<text x="360" y="581" font-size="13" text-anchor="middle">重物</text>
+<path d="M382,442 L382,400" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<text x="392" y="416" font-size="14" font-weight="bold" fill="#c33">拉力</text>
+<use href="#seg" x="338" y="470"/><use href="#seg" x="382" y="480"/>
+<g font-size="12" fill="#0b5cad" font-weight="bold" text-anchor="middle"><text x="338" y="474">1</text><text x="382" y="484">2</text></g>
+<text x="276" y="476" font-size="12" fill="#0b5cad" text-anchor="middle">承重</text>
+<text x="276" y="492" font-size="12" fill="#0b5cad" text-anchor="middle">2段</text>
+<text x="360" y="652" font-size="15" font-weight="bold" text-anchor="middle">动滑轮: 省一半力</text>
+<text x="360" y="674" font-size="13" text-anchor="middle">绳子要拉两倍长</text>
+
+<!-- 滑轮组 -->
+<rect x="540" y="390" width="110" height="12" fill="url(#hatch)" stroke="#999" stroke-width="1"/>
+<line x1="595" y1="402" x2="595" y2="412" stroke="#333" stroke-width="3"/>
+<rect x="533" y="412" width="122" height="6" fill="#666" stroke="#333" stroke-width="1"/>
+<line x1="581" y1="418" x2="581" y2="446" stroke="#333" stroke-width="2.5"/>
+<line x1="637" y1="418" x2="637" y2="446" stroke="#333" stroke-width="2.5"/>
+<circle cx="581" cy="446" r="14" fill="#e8eef5" stroke="#333" stroke-width="2"/>
+<circle cx="637" cy="446" r="14" fill="#e8eef5" stroke="#333" stroke-width="2"/>
+<line x1="553" y1="540" x2="553" y2="560" stroke="#333" stroke-width="2.5"/>
+<line x1="609" y1="540" x2="609" y2="560" stroke="#333" stroke-width="2.5"/>
+<rect x="545" y="560" width="72" height="6" fill="#666" stroke="#333" stroke-width="1"/>
+<line x1="581" y1="566" x2="581" y2="580" stroke="#333" stroke-width="2.5"/>
+<circle cx="553" cy="540" r="14" fill="#e8eef5" stroke="#333" stroke-width="2"/>
+<circle cx="609" cy="540" r="14" fill="#e8eef5" stroke="#333" stroke-width="2"/>
+<path d="M539,418 V540 A14,14 0 0 0 567,540 V446 A14,14 0 0 1 595,446 V540 A14,14 0 0 0 623,540 V446 A14,14 0 0 1 651,446 V576" fill="none" stroke="#8f6d2e" stroke-width="2.5"/>
+<g fill="#333"><circle cx="581" cy="446" r="3"/><circle cx="637" cy="446" r="3"/><circle cx="553" cy="540" r="3"/><circle cx="609" cy="540" r="3"/></g>
+<rect x="556" y="580" width="50" height="38" rx="3" fill="#cfcfcf" stroke="#333" stroke-width="2"/>
+<text x="581" y="604" font-size="13" text-anchor="middle">重物</text>
+<path d="M651,578 L651,618" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<text x="660" y="606" font-size="14" font-weight="bold" fill="#c33">拉力</text>
+<use href="#seg" x="539" y="492"/><use href="#seg" x="567" y="502"/><use href="#seg" x="595" y="492"/><use href="#seg" x="623" y="502"/>
+<g font-size="12" fill="#0b5cad" font-weight="bold" text-anchor="middle"><text x="539" y="496">1</text><text x="567" y="506">2</text><text x="595" y="496">3</text><text x="623" y="506">4</text></g>
+<text x="508" y="490" font-size="12" fill="#0b5cad" text-anchor="middle">承重</text>
+<text x="508" y="506" font-size="12" fill="#0b5cad" text-anchor="middle">4段</text>
+<text x="594" y="652" font-size="15" font-weight="bold" text-anchor="middle">滑轮组: 拉力 ≈ 重物重量</text>
+<text x="594" y="674" font-size="13" text-anchor="middle">÷ 承重的绳子段数(图中4段)</text>
+<text x="594" y="694" font-size="12" text-anchor="middle" fill="#555">(还要加上摩擦和滑轮自身的重量)</text>
+</g>
+</svg>

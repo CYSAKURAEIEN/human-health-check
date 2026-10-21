@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 692" width="720" height="692" role="img" aria-label="热堆肥(2-3个月): 长、宽、高都至少约1 m,太小保不住热;绿料(菜叶、青草、新鲜畜粪)和棕料(干叶、秸秆、碎木屑)按体积约1:2-3分层堆;湿度像拧干的海绵,用力捏有水渗出但不成流;3-5天内中心温度升到55-65°C,铁棍插入中心拔出来烫手;温度开始下降时翻堆,把外层翻到中间,共翻3-5次;腐熟的标志是深褐色、有泥土气味、看不出原来的材料、翻开不再发热。冷堆半年到一年,不翻,省力但杀不死草籽和病菌。不要放发病的植株、已结籽的杂草、肉骨油脂、猫狗粪、人粪">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>热堆肥的堆法</title>
+<defs>
+<pattern id="brown" width="16" height="10" patternUnits="userSpaceOnUse"><rect width="16" height="10" fill="#dcbf86"/><path d="M1,3 L9,1 M8,8 L15,6 M3,9 L6,6" stroke="#9c7a40" stroke-width="1.2"/></pattern>
+<pattern id="green" width="14" height="12" patternUnits="userSpaceOnUse"><rect width="14" height="12" fill="#9ccc6e"/><path d="M2,6 q3,-4 6,0 q-3,3 -6,0 M8,10 q3,-3 5,0" fill="none" stroke="#4f8a2e" stroke-width="1.1"/></pattern>
+<pattern id="humus" width="12" height="10" patternUnits="userSpaceOnUse"><rect width="12" height="10" fill="#5e4026"/><circle cx="3" cy="3" r="1.2" fill="#3e2a18"/><circle cx="9" cy="7" r="1.4" fill="#3e2a18"/><circle cx="8" cy="2" r="0.8" fill="#7a5a3a"/></pattern>
+<clipPath id="pileA"><path d="M100,262 L114,80 Q116,66 130,66 L310,66 Q324,66 326,80 L340,262 Z"/></clipPath>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<path id="mini" d="M0,80 L8,10 Q9,0 18,0 L62,0 Q71,0 72,10 L80,80 Z"/>
+</defs>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="14" fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">热堆肥的堆法</text>
+
+<g transform="translate(10,42)">
+<rect x="0" y="0" width="700" height="310" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="26" font-size="16" font-weight="bold">热堆(2-3个月)</text>
+<text x="132" y="26" fill="#555">剖面</text>
+<line x1="20" y1="262" x2="364" y2="262" stroke="#999" stroke-width="3"/>
+<g clip-path="url(#pileA)">
+<rect x="90" y="232" width="260" height="30" fill="url(#brown)"/>
+<rect x="90" y="220" width="260" height="12" fill="url(#green)"/>
+<rect x="90" y="190" width="260" height="30" fill="url(#brown)"/>
+<rect x="90" y="178" width="260" height="12" fill="url(#green)"/>
+<rect x="90" y="148" width="260" height="30" fill="url(#brown)"/>
+<rect x="90" y="136" width="260" height="12" fill="url(#green)"/>
+<rect x="90" y="106" width="260" height="30" fill="url(#brown)"/>
+<rect x="90" y="94" width="260" height="12" fill="url(#green)"/>
+<rect x="90" y="60" width="260" height="34" fill="url(#brown)"/>
+</g>
+<path d="M100,262 L114,80 Q116,66 130,66 L310,66 Q324,66 326,80 L340,262 Z" fill="none" stroke="#333" stroke-width="2.5"/>
+<path d="M90,66 H84 V262 H90" fill="none" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="78" y="158" font-size="13" fill="#0b5cad" text-anchor="end">至少</text>
+<text x="78" y="176" font-size="13" fill="#0b5cad" text-anchor="end">约1 m</text>
+<path d="M100,270 V276 H340 V270" fill="none" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="220" y="296" fill="#0b5cad" text-anchor="middle">长、宽、高都至少约1 m,太小保不住热</text>
+<rect x="384" y="50" width="24" height="16" fill="url(#green)" stroke="#333" stroke-width="1"/>
+<text x="416" y="63"><tspan font-weight="bold">绿料</tspan>: 菜叶、青草、新鲜畜粪</text>
+<rect x="384" y="84" width="24" height="16" fill="url(#brown)" stroke="#333" stroke-width="1"/>
+<text x="416" y="97"><tspan font-weight="bold">棕料</tspan>: 干叶、秸秆、碎木屑</text>
+<line x1="382" y1="58" x2="320" y2="100" stroke="#0b5cad" stroke-width="1"/>
+<line x1="382" y1="92" x2="322" y2="122" stroke="#0b5cad" stroke-width="1"/>
+<text x="384" y="142" font-size="16" font-weight="bold" fill="#c33">绿料 : 棕料 ≈ 1 : 2-3</text>
+<text x="384" y="164">按体积算,一层绿料一层棕料分层堆</text>
+<path d="M386,212 Q384,200 396,200 Q402,206 408,200 Q420,200 418,212 Q420,224 408,224 Q402,218 396,224 Q384,224 386,212 Z" fill="#f3dc7a" stroke="#b8962e" stroke-width="1.5"/>
+<path d="M398,232 q-4,6 0,8 q4,-2 0,-8 Z M408,240 q-4,6 0,8 q4,-2 0,-8 Z" fill="#7aa6cc"/>
+<text x="430" y="212" font-size="15" font-weight="bold">湿度像拧干的海绵</text>
+<text x="430" y="234">用力捏有水渗出,但不成流</text>
+</g>
+
+<g transform="translate(10,362)">
+<rect x="0" y="0" width="228" height="228" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">① 升温</text>
+<line x1="12" y1="160" x2="216" y2="160" stroke="#999" stroke-width="3"/>
+<use href="#mini" transform="translate(34,64) scale(1.6,1.2)" fill="url(#brown)" stroke="#333" stroke-width="1.6"/>
+<ellipse cx="98" cy="118" rx="40" ry="24" fill="#c33" fill-opacity="0.18" stroke="#c33" stroke-width="1.5" stroke-dasharray="4 3"/>
+<line x1="190" y1="44" x2="110" y2="114" stroke="#555" stroke-width="5" stroke-linecap="round"/>
+<line x1="182" y1="36" x2="198" y2="52" stroke="#555" stroke-width="5" stroke-linecap="round"/>
+<text x="88" y="124" font-size="15" font-weight="bold" fill="#c33" text-anchor="middle" stroke="#fff" stroke-width="4" paint-order="stroke">55-65°C</text>
+<text x="12" y="188">3-5天内中心温度升到55-65°C</text>
+<text x="12" y="210">铁棍插入中心,拔出来烫手</text>
+</g>
+
+<g transform="translate(246,362)">
+<rect x="0" y="0" width="228" height="228" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">② 温度开始下降时翻堆</text>
+<line x1="12" y1="160" x2="216" y2="160" stroke="#999" stroke-width="3"/>
+<use href="#mini" transform="translate(14,80)" fill="#e9d6a6" stroke="#333" stroke-width="2"/>
+<ellipse cx="54" cy="126" rx="20" ry="16" fill="#a8783e"/>
+<use href="#mini" transform="translate(134,80)" fill="#a8783e" stroke="#333" stroke-width="2"/>
+<ellipse cx="174" cy="126" rx="20" ry="16" fill="#e9d6a6"/>
+<path d="M100,120 H128" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<text x="114" y="110" font-size="13" fill="#c33" text-anchor="middle">翻</text>
+<text x="20" y="62" font-size="13" fill="#0b5cad">外层</text>
+<line x1="34" y1="66" x2="30" y2="90" stroke="#0b5cad" stroke-width="1"/>
+<text x="156" y="62" font-size="13" fill="#0b5cad">翻到中间</text>
+<line x1="174" y1="66" x2="174" y2="112" stroke="#0b5cad" stroke-width="1"/>
+<text x="12" y="188">把外层翻到中间</text>
+<text x="12" y="210">共翻3-5次</text>
+</g>
+
+<g transform="translate(482,362)">
+<rect x="0" y="0" width="228" height="228" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">③ 腐熟的标志</text>
+<line x1="12" y1="104" x2="216" y2="104" stroke="#999" stroke-width="3"/>
+<path d="M54,104 Q60,56 114,52 Q168,56 174,104 Z" fill="url(#humus)" stroke="#333" stroke-width="2"/>
+<text x="12" y="130">✓ 深褐色</text>
+<text x="12" y="152">✓ 有泥土气味</text>
+<text x="12" y="174">✓ 看不出原来的材料</text>
+<text x="12" y="196">✓ 翻开不再发热</text>
+</g>
+
+<g transform="translate(10,600)">
+<rect x="0" y="0" width="700" height="82" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="24"><tspan font-weight="bold">冷堆(半年到一年)</tspan>: 不翻,慢慢腐熟,省力但杀不死草籽和病菌</text>
+<text x="16" y="48"><tspan font-weight="bold" fill="#c33">✗ 不要放</tspan>: 发病的植株(尤其晚疫病、枯萎病)、已结籽的杂草、肉骨油脂、猫狗粪、人粪</text>
+<text x="104" y="70" fill="#555">(人粪必须单独按卫生要求处理)</text>
+</g>
+</g>
+</svg>

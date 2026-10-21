@@ -1,0 +1,276 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 956" width="720" height="956" role="img" aria-label="嫁接: 成败关键是接穗和砧木的形成层(树皮和木质部之间那层青绿色的薄层)对齐贴紧。劈接在春季发芽前后、砧木较粗时: 接穗留2-3个芽,下端两侧各削一刀成约3 cm长的楔形、外侧略厚;离地约5-10 cm锯断砧木,断面中间向下劈约3-4 cm深;插入接穗让外侧形成层与砧木一侧对齐,粗砧木两边各插一根;塑料条从下往上绑紧,断面和接穗顶端用蜡或泥封住。T形芽接在夏末到初秋: 砧木离地约5-10 cm处切T形口;从芽下约1-1.5 cm处向上削到芽上约1 cm处取下芽片,剪掉叶片保留叶柄;芽片从上往下插入,上端与横切口对齐;塑料条从下往上绑紧,露出芽和叶柄;约10-15天后叶柄一碰就掉、芽片新鲜为成活;第二年春天发芽前在接芽上方约1 cm处剪掉砧木">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>嫁接: 劈接与T形芽接</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<g id="budL"><path d="M0,0 q-8,-2 -8,-11 q7,2 8,11 z" fill="#6b8a3a" stroke="#333" stroke-width="1"/></g>
+<g id="budR"><path d="M0,0 q8,-2 8,-11 q-7,2 -8,11 z" fill="#6b8a3a" stroke="#333" stroke-width="1"/></g>
+<g id="tape"><path d="M0,6 L44,-2 L44,4 L0,12 Z" fill="#cfe3f3" stroke="#5d8fbf" stroke-width="1"/></g>
+</defs>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="14" fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">嫁接: 劈接与T形芽接</text>
+
+<g transform="translate(10,42)">
+<rect x="0" y="0" width="700" height="132" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<circle cx="64" cy="66" r="50" fill="#a07c4a" stroke="#333" stroke-width="2"/>
+<circle cx="64" cy="66" r="41" fill="#4a9a3a"/>
+<circle cx="64" cy="66" r="37" fill="#f2e6c8"/>
+<circle cx="64" cy="66" r="27" fill="none" stroke="#d6c08e" stroke-width="1"/>
+<circle cx="64" cy="66" r="16" fill="none" stroke="#d6c08e" stroke-width="1"/>
+<circle cx="64" cy="66" r="4" fill="#c8a868"/>
+<g stroke="#0b5cad" stroke-width="1">
+<line x1="98" y1="32" x2="126" y2="24"/>
+<line x1="103" y1="66" x2="126" y2="62"/>
+<line x1="84" y1="84" x2="126" y2="98"/>
+</g>
+<g font-size="13" fill="#0b5cad">
+<text x="130" y="28">树皮</text>
+<text x="130" y="66">形成层</text>
+<text x="130" y="102">木质部</text>
+</g>
+<text x="200" y="28" font-size="16" font-weight="bold" fill="#c33">成败的关键: 接穗和砧木的形成层对齐贴紧</text>
+<text x="200" y="52">接穗: 要接上去的品种的枝或芽;砧木: 另一株有根的植物</text>
+<text x="200" y="74">形成层: 树皮和木质部之间那层青绿色的薄层</text>
+<text x="200" y="96">亲缘相近才能接活(如苹果接海棠、梨接杜梨),不同科的基本接不活</text>
+<text x="200" y="118">刀要锋利干净,切面一刀削平;动作快,切面不碰手、不沾土、不晾干</text>
+</g>
+
+<text x="14" y="198" font-size="17" font-weight="bold">劈接</text>
+<text x="54" y="198" fill="#555">(春季发芽前后,砧木较粗时)</text>
+
+<g transform="translate(10,208)">
+<rect x="0" y="0" width="172" height="262" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="22" font-size="15" font-weight="bold">① 削接穗</text>
+<rect x="56" y="36" width="14" height="82" rx="2" fill="#a07c4a" stroke="#333" stroke-width="1.5"/>
+<use href="#budR" transform="translate(70,58)"/>
+<use href="#budR" transform="translate(70,82)"/>
+<use href="#budR" transform="translate(70,106)"/>
+<path d="M56,118 L70,118 L65,154 L61,154 Z" fill="#f2e6c8" stroke="#333" stroke-width="1.5"/>
+<path d="M44,118 H38 V154 H44" fill="none" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="34" y="132" font-size="13" fill="#0b5cad" text-anchor="end">约</text>
+<text x="34" y="148" font-size="13" fill="#0b5cad" text-anchor="end">3 cm</text>
+<text x="98" y="50" font-size="13" fill="#555">横截面</text>
+<path d="M104,62 L104,84 L158,75 L158,71 Z" fill="#f2e6c8" stroke="#333" stroke-width="1.5"/>
+<line x1="104" y1="62" x2="104" y2="84" stroke="#a07c4a" stroke-width="4"/>
+<line x1="107" y1="63" x2="107" y2="83" stroke="#4a9a3a" stroke-width="2"/>
+<text x="98" y="104" font-size="13" fill="#0b5cad">外侧略厚</text>
+<line x1="104" y1="92" x2="104" y2="86" stroke="#0b5cad" stroke-width="1"/>
+<text x="12" y="184">冬季剪健壮的一年生枝,</text>
+<text x="12" y="202">埋湿沙中低温保存;</text>
+<text x="12" y="220">留2-3个芽,下端两侧</text>
+<text x="12" y="238">各削一刀,成约3 cm长</text>
+<text x="12" y="256">的楔形,外侧略厚</text>
+</g>
+
+<g transform="translate(186,208)">
+<rect x="0" y="0" width="172" height="262" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="22" font-size="15" font-weight="bold">② 锯断砧木、劈口</text>
+<line x1="8" y1="150" x2="164" y2="150" stroke="#999" stroke-width="3"/>
+<rect x="82" y="38" width="36" height="36" fill="none" stroke="#999" stroke-width="1.5" stroke-dasharray="4 3"/>
+<rect x="82" y="80" width="36" height="70" fill="#a07c4a" stroke="#333" stroke-width="2"/>
+<ellipse cx="100" cy="80" rx="18" ry="5" fill="#f2e6c8" stroke="#333" stroke-width="1.5"/>
+<line x1="74" y1="76" x2="126" y2="76" stroke="#c33" stroke-width="2" stroke-dasharray="5 3"/>
+<line x1="100" y1="80" x2="100" y2="110" stroke="#c33" stroke-width="3"/>
+<text x="12" y="48" font-size="13" fill="#c33">锯断、削平</text>
+<line x1="56" y1="54" x2="76" y2="74" stroke="#c33" stroke-width="1"/>
+<path d="M78,80 H72 V150 H78" fill="none" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="68" y="112" font-size="13" fill="#0b5cad" text-anchor="end">约5-10 cm</text>
+<path d="M122,82 H128 V110 H122" fill="none" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="164" y="128" font-size="13" fill="#0b5cad" text-anchor="end">约3-4 cm</text>
+<text x="12" y="184">离地约5-10 cm处锯断</text>
+<text x="12" y="202">砧木,削平断面;</text>
+<text x="12" y="220">在断面中间向下劈</text>
+<text x="12" y="238">一道约3-4 cm深的口</text>
+</g>
+
+<g transform="translate(362,208)">
+<rect x="0" y="0" width="172" height="262" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="22" font-size="15" font-weight="bold">③ 插入、对齐(剖面)</text>
+<line x1="8" y1="160" x2="164" y2="160" stroke="#999" stroke-width="3"/>
+<rect x="40" y="104" width="92" height="56" fill="#a07c4a"/>
+<rect x="47" y="104" width="78" height="56" fill="#4a9a3a"/>
+<rect x="50" y="104" width="72" height="56" fill="#f2e6c8"/>
+<rect x="40" y="104" width="92" height="56" fill="none" stroke="#333" stroke-width="2"/>
+<rect x="44" y="40" width="3" height="98" fill="#a07c4a"/>
+<rect x="47" y="40" width="3" height="98" fill="#4a9a3a"/>
+<rect x="50" y="40" width="6" height="64" fill="#f2e6c8"/>
+<rect x="56" y="40" width="3" height="64" fill="#4a9a3a"/>
+<rect x="59" y="40" width="3" height="64" fill="#a07c4a"/>
+<path d="M50,104 L62,104 L50,138 Z" fill="#f2e6c8"/>
+<path d="M44,40 H62 V104 L50,138 H44 Z" fill="none" stroke="#333" stroke-width="1.5"/>
+<rect x="125" y="40" width="3" height="98" fill="#a07c4a"/>
+<rect x="122" y="40" width="3" height="98" fill="#4a9a3a"/>
+<rect x="116" y="40" width="6" height="64" fill="#f2e6c8"/>
+<rect x="113" y="40" width="3" height="64" fill="#4a9a3a"/>
+<rect x="110" y="40" width="3" height="64" fill="#a07c4a"/>
+<path d="M122,104 L110,104 L122,138 Z" fill="#f2e6c8"/>
+<path d="M128,40 H110 V104 L122,138 H128 Z" fill="none" stroke="#333" stroke-width="1.5"/>
+<use href="#budL" transform="translate(44,62)"/>
+<use href="#budL" transform="translate(44,88)"/>
+<use href="#budR" transform="translate(128,62)"/>
+<use href="#budR" transform="translate(128,88)"/>
+<circle cx="48.5" cy="104" r="11" fill="none" stroke="#c33" stroke-width="2"/>
+<circle cx="123.5" cy="104" r="11" fill="none" stroke="#c33" stroke-width="2"/>
+<text x="86" y="62" font-size="13" font-weight="bold" fill="#c33" text-anchor="middle">形成层</text>
+<text x="86" y="78" font-size="13" font-weight="bold" fill="#c33" text-anchor="middle">对齐</text>
+<line x1="74" y1="84" x2="58" y2="96" stroke="#c33" stroke-width="1"/>
+<line x1="98" y1="84" x2="114" y2="96" stroke="#c33" stroke-width="1"/>
+<text x="12" y="184">撬开劈口插入接穗,</text>
+<text x="12" y="202">接穗外侧的形成层与</text>
+<text x="12" y="220">砧木一侧的形成层对齐;</text>
+<text x="12" y="238">砧木粗时两边各插一根</text>
+</g>
+
+<g transform="translate(538,208)">
+<rect x="0" y="0" width="172" height="262" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="22" font-size="15" font-weight="bold">④ 绑扎、封口</text>
+<line x1="8" y1="160" x2="164" y2="160" stroke="#999" stroke-width="3"/>
+<rect x="40" y="104" width="92" height="56" fill="#a07c4a" stroke="#333" stroke-width="2"/>
+<rect x="44" y="40" width="18" height="64" fill="#a07c4a" stroke="#333" stroke-width="1.5"/>
+<rect x="110" y="40" width="18" height="64" fill="#a07c4a" stroke="#333" stroke-width="1.5"/>
+<use href="#budL" transform="translate(44,62)"/>
+<use href="#budL" transform="translate(44,88)"/>
+<use href="#budR" transform="translate(128,62)"/>
+<use href="#budR" transform="translate(128,88)"/>
+<path d="M40,110 Q40,98 52,98 L120,98 Q132,98 132,110 Z" fill="#f3dc7a" stroke="#b8962e" stroke-width="1.5"/>
+<rect x="42" y="35" width="22" height="8" rx="3" fill="#f3dc7a" stroke="#b8962e" stroke-width="1.5"/>
+<rect x="108" y="35" width="22" height="8" rx="3" fill="#f3dc7a" stroke="#b8962e" stroke-width="1.5"/>
+<use href="#tape" transform="translate(38,110) scale(2.18,1)"/>
+<use href="#tape" transform="translate(38,121) scale(2.18,1)"/>
+<use href="#tape" transform="translate(38,132) scale(2.18,1)"/>
+<use href="#tape" transform="translate(38,143) scale(2.18,1)"/>
+<path d="M150,154 V114" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="86" y="70" font-size="13" fill="#0b5cad" text-anchor="middle">蜡或泥</text>
+<line x1="86" y1="75" x2="86" y2="96" stroke="#0b5cad" stroke-width="1"/>
+<text x="12" y="184">塑料条从下往上绑紧,</text>
+<text x="12" y="202">断面和接穗顶端用蜡或</text>
+<text x="12" y="220">泥封住;砧木冒出的芽</text>
+<text x="12" y="238">及时抹掉;接穗长出</text>
+<text x="12" y="256">新梢后适时松绑</text>
+</g>
+
+<text x="14" y="496" font-size="17" font-weight="bold">T形芽接</text>
+<text x="88" y="496" fill="#555">(夏末到初秋,树皮容易剥开时)</text>
+
+<g transform="translate(10,506)">
+<rect x="0" y="0" width="172" height="262" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="22" font-size="15" font-weight="bold">① 在砧木上切T形口</text>
+<line x1="8" y1="160" x2="164" y2="160" stroke="#999" stroke-width="3"/>
+<rect x="40" y="32" width="40" height="128" fill="#a07c4a"/>
+<path d="M40,32 V160 M80,32 V160" stroke="#333" stroke-width="2"/>
+<line x1="49" y1="88" x2="71" y2="88" stroke="#c33" stroke-width="3"/>
+<line x1="60" y1="88" x2="60" y2="126" stroke="#c33" stroke-width="3"/>
+<path d="M84,88 H90 V160 H84" fill="none" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="94" y="128" font-size="13" fill="#0b5cad">约5-10 cm</text>
+<text x="12" y="184">砧木离地约5-10 cm、</text>
+<text x="12" y="202">光滑的一面,横切一刀,</text>
+<text x="12" y="220">再从中间向下竖切一刀,</text>
+<text x="12" y="238">成T形,深到木质部</text>
+</g>
+
+<g transform="translate(186,506)">
+<rect x="0" y="0" width="172" height="262" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="22" font-size="15" font-weight="bold">② 从接穗上削芽片</text>
+<rect x="48" y="32" width="48" height="128" rx="6" fill="#a07c4a" stroke="#333" stroke-width="2"/>
+<path d="M58,56 H86 M58,56 Q56,100 72,137 Q88,100 86,56" fill="none" stroke="#c33" stroke-width="2" stroke-dasharray="5 3"/>
+<ellipse cx="72" cy="90" rx="5" ry="7" fill="#6b8a3a" stroke="#333" stroke-width="1"/>
+<line x1="75" y1="96" x2="84" y2="106" stroke="#6b8a3a" stroke-width="3" stroke-linecap="round"/>
+<path d="M100,56 H106 V90 H100 M100,92 H106 V137 H100" fill="none" stroke="#0b5cad" stroke-width="1.2"/>
+<g font-size="13" fill="#0b5cad">
+<text x="110" y="70">芽上</text>
+<text x="110" y="86">约1 cm</text>
+<text x="110" y="112">芽下约</text>
+<text x="110" y="128">1-1.5 cm</text>
+</g>
+<text x="12" y="184">芽下约1-1.5 cm处向上</text>
+<text x="12" y="202">削,带一薄层木质,到芽</text>
+<text x="12" y="220">上约1 cm处横切一刀取</text>
+<text x="12" y="238">下;剪掉叶片、保留叶柄</text>
+</g>
+
+<g transform="translate(362,506)">
+<rect x="0" y="0" width="172" height="262" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="22" font-size="15" font-weight="bold">③ 插入芽片</text>
+<line x1="8" y1="160" x2="164" y2="160" stroke="#999" stroke-width="3"/>
+<rect x="40" y="32" width="40" height="128" fill="#a07c4a"/>
+<path d="M40,32 V160 M80,32 V160" stroke="#333" stroke-width="2"/>
+<path d="M50,70 H70 Q71,100 60,120 Q49,100 50,70 Z" fill="#c4a874" stroke="#333" stroke-width="1.2"/>
+<path d="M49,72 Q48,102 57,122 M71,72 Q72,102 63,122" fill="none" stroke="#5a3d1e" stroke-width="2"/>
+<ellipse cx="60" cy="88" rx="4.5" ry="6" fill="#6b8a3a" stroke="#333" stroke-width="1"/>
+<line x1="62" y1="93" x2="69" y2="100" stroke="#6b8a3a" stroke-width="3" stroke-linecap="round"/>
+<line x1="44" y1="70" x2="96" y2="70" stroke="#c33" stroke-width="1.5" stroke-dasharray="4 3"/>
+<path d="M60,34 V60" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="100" y="62" font-size="13" fill="#c33">上端与</text>
+<text x="100" y="78" font-size="13" fill="#c33">横切口对齐</text>
+<text x="12" y="184">轻轻撬开T形口的树皮,</text>
+<text x="12" y="202">把芽片从上往下插进去,</text>
+<text x="12" y="220">上端与横切口对齐</text>
+</g>
+
+<g transform="translate(538,506)">
+<rect x="0" y="0" width="172" height="262" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="22" font-size="15" font-weight="bold">④ 绑扎</text>
+<line x1="8" y1="160" x2="164" y2="160" stroke="#999" stroke-width="3"/>
+<rect x="40" y="32" width="40" height="128" fill="#a07c4a"/>
+<path d="M40,32 V160 M80,32 V160" stroke="#333" stroke-width="2"/>
+<path d="M50,70 H70 Q71,100 60,120 Q49,100 50,70 Z" fill="#c4a874" stroke="#333" stroke-width="1.2"/>
+<ellipse cx="60" cy="88" rx="4.5" ry="6" fill="#6b8a3a" stroke="#333" stroke-width="1"/>
+<line x1="62" y1="93" x2="68" y2="99" stroke="#6b8a3a" stroke-width="3" stroke-linecap="round"/>
+<use href="#tape" transform="translate(38,52) scale(1,1)"/>
+<use href="#tape" transform="translate(38,64) scale(1,1)"/>
+<use href="#tape" transform="translate(38,104) scale(1,1)"/>
+<use href="#tape" transform="translate(38,116) scale(1,1)"/>
+<use href="#tape" transform="translate(38,128) scale(1,1)"/>
+<use href="#tape" transform="translate(38,140) scale(1,1)"/>
+<path d="M96,148 V56" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="104" y="136" font-size="13" fill="#c33">从下往上</text>
+<text x="104" y="80" font-size="13" fill="#0b5cad">露出芽</text>
+<text x="104" y="96" font-size="13" fill="#0b5cad">和叶柄</text>
+<line x1="102" y1="88" x2="72" y2="92" stroke="#0b5cad" stroke-width="1"/>
+<text x="12" y="184">用塑料条从下往上绑紧,</text>
+<text x="12" y="202">露出芽和叶柄</text>
+</g>
+
+<g transform="translate(10,778)">
+<rect x="0" y="0" width="349" height="168" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="22" font-size="15" font-weight="bold">⑤ 约10-15天后检查</text>
+<rect x="24" y="36" width="32" height="118" fill="#a07c4a"/>
+<path d="M24,36 V154 M56,36 V154" stroke="#333" stroke-width="2"/>
+<path d="M32,64 H48 Q49,90 40,106 Q31,90 32,64 Z" fill="#c4a874" stroke="#333" stroke-width="1.2"/>
+<ellipse cx="40" cy="80" rx="4" ry="5.5" fill="#6b8a3a" stroke="#333" stroke-width="1"/>
+<line x1="66" y1="100" x2="72" y2="108" stroke="#6b8a3a" stroke-width="3" stroke-linecap="round"/>
+<path d="M45,86 Q60,84 64,96" fill="none" stroke="#c33" stroke-width="1.5" stroke-dasharray="3 2" marker-end="url(#arR)"/>
+<text x="86" y="62" font-size="15" font-weight="bold">✓ 成活</text>
+<text x="86" y="84">碰一下叶柄</text>
+<text x="86" y="102">就脱落,芽片</text>
+<text x="86" y="120">仍然新鲜</text>
+<rect x="188" y="36" width="32" height="118" fill="#a07c4a"/>
+<path d="M188,36 V154 M220,36 V154" stroke="#333" stroke-width="2"/>
+<path d="M196,64 H212 Q213,90 204,106 Q195,90 196,64 Z" fill="#3a3a3a" stroke="#333" stroke-width="1.2"/>
+<ellipse cx="204" cy="80" rx="4" ry="5.5" fill="#222"/>
+<line x1="206" y1="85" x2="214" y2="94" stroke="#8b6b3e" stroke-width="3" stroke-linecap="round"/>
+<text x="236" y="62" font-size="15" font-weight="bold">✗ 失败</text>
+<text x="236" y="84">叶柄干枯不掉,</text>
+<text x="236" y="102">芽片发黑;</text>
+<text x="236" y="120">可在旁边重接</text>
+</g>
+
+<g transform="translate(361,778)">
+<rect x="0" y="0" width="349" height="168" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="22" font-size="15" font-weight="bold">⑥ 第二年春天剪砧</text>
+<line x1="8" y1="154" x2="130" y2="154" stroke="#999" stroke-width="3"/>
+<rect x="40" y="40" width="32" height="44" fill="none" stroke="#999" stroke-width="1.5" stroke-dasharray="4 3"/>
+<rect x="40" y="84" width="32" height="70" fill="#a07c4a"/>
+<path d="M40,84 V154 M72,84 V154 M40,84 H72" stroke="#333" stroke-width="2"/>
+<ellipse cx="56" cy="98" rx="4.5" ry="6" fill="#6b8a3a" stroke="#333" stroke-width="1"/>
+<line x1="30" y1="84" x2="82" y2="84" stroke="#c33" stroke-width="2.5"/>
+<text x="20" y="80" font-size="13" fill="#c33" text-anchor="middle">剪</text>
+<path d="M78,84 H84 V98 H78" fill="none" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="88" y="96" font-size="13" fill="#0b5cad">约1 cm</text>
+<text x="146" y="62">成活的芽当年不剪砧;</text>
+<text x="146" y="84">第二年春天发芽前,</text>
+<text x="146" y="106">在接芽上方约1 cm处</text>
+<text x="146" y="128">剪掉砧木</text>
+</g>
+</g>
+</svg>
