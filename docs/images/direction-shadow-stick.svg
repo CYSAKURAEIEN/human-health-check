@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 470" width="720" height="470" role="img" aria-label="影子法辨方向: 在平地上插一根约1 m长的木棍,尽量垂直,标出影子顶端A点;等待15-20分钟,再标出影子顶端B点;连线A-B指向东,先标的A点在西、后标的B点在东;垂直线指向北,左脚踩A、右脚踩B,面对的就是北" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>影子法辨方向</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<g id="ground"><ellipse cx="113" cy="165" rx="102" ry="44" fill="#f2ede1" stroke="#999" stroke-width="2"/></g>
+<g id="sun"><circle r="11" fill="#ffd34d" stroke="#e08a00" stroke-width="2"/><path d="M0,-16 V-20 M0,16 V20 M-16,0 H-20 M16,0 H20 M-11.3,-11.3 L-14.1,-14.1 M11.3,11.3 L14.1,14.1 M-11.3,11.3 L-14.1,14.1 M11.3,-11.3 L14.1,-14.1" stroke="#e08a00" stroke-width="2" stroke-linecap="round"/></g>
+<g id="stick"><line x1="150" y1="182" x2="150" y2="82" stroke="#333" stroke-width="6" stroke-linecap="round"/><line x1="150" y1="182" x2="150" y2="82" stroke="#a07c4a" stroke-width="3.5" stroke-linecap="round"/></g>
+<g id="mark"><circle r="4.5" fill="#c33" stroke="#fff" stroke-width="1.2"/></g>
+<g id="foot"><ellipse cx="0" cy="2" rx="6" ry="11" fill="#cfe0f0" stroke="#333" stroke-width="1.5"/><circle cx="-3" cy="-11" r="1.6" fill="#333"/><circle cx="0.5" cy="-12" r="1.6" fill="#333"/><circle cx="4" cy="-10.5" r="1.4" fill="#333"/></g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">影子法(立竿见影)辨方向</text>
+
+<g transform="translate(10,44)">
+<rect x="0" y="0" width="226" height="300" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="16" font-weight="bold">① 插棍,标A</text>
+<use href="#ground"/>
+<path d="M150,182 L45,146" stroke="#777" stroke-width="5" stroke-linecap="round"/>
+<use href="#stick"/>
+<use href="#sun" transform="translate(196,50)"/>
+<path d="M184,61 L150,82" stroke="#e08a00" stroke-width="1.2" stroke-dasharray="4 3"/>
+<use href="#mark" transform="translate(45,146)"/>
+<text x="38" y="138" font-size="16" font-weight="bold" fill="#c33">A</text>
+<text x="140" y="96" font-size="13" fill="#0b5cad" text-anchor="end">木棍约1 m,</text>
+<text x="140" y="112" font-size="13" fill="#0b5cad" text-anchor="end">尽量垂直</text>
+<text x="40" y="196" font-size="13" fill="#555">影子</text>
+<line x1="62" y1="186" x2="88" y2="162" stroke="#555" stroke-width="1"/>
+<text x="12" y="244" font-size="14">在平地上插一根木棍,</text>
+<text x="12" y="263" font-size="14">标出影子顶端,</text>
+<text x="12" y="282" font-size="14">记为A点</text>
+</g>
+
+<g transform="translate(247,44)">
+<rect x="0" y="0" width="226" height="300" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="16" font-weight="bold">② 等15-20分钟,标B</text>
+<use href="#ground"/>
+<path d="M150,182 L45,146" stroke="#bbb" stroke-width="4" stroke-linecap="round" stroke-dasharray="6 5"/>
+<path d="M150,182 L95,146" stroke="#777" stroke-width="5" stroke-linecap="round"/>
+<use href="#stick"/>
+<use href="#sun" transform="translate(184,44)"/>
+<path d="M176,54 L150,82" stroke="#e08a00" stroke-width="1.2" stroke-dasharray="4 3"/>
+<use href="#mark" transform="translate(45,146)"/>
+<use href="#mark" transform="translate(95,146)"/>
+<text x="38" y="138" font-size="16" font-weight="bold" fill="#c33">A</text>
+<text x="91" y="138" font-size="16" font-weight="bold" fill="#c33">B</text>
+<path d="M54,128 Q70,118 86,128" fill="none" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<text x="14" y="104" font-size="13" fill="#555">影子顶端移到B</text>
+<text x="12" y="244" font-size="14">太阳在移动,影子朝</text>
+<text x="12" y="263" font-size="14">相反方向移动;在新的</text>
+<text x="12" y="282" font-size="14">影子顶端再标B点</text>
+</g>
+
+<g transform="translate(484,44)">
+<rect x="0" y="0" width="226" height="300" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="16" font-weight="bold">③ 连线A→B指东</text>
+<use href="#ground"/>
+<path d="M150,182 L45,146 M150,182 L95,146" stroke="#ccc" stroke-width="4" stroke-linecap="round"/>
+<use href="#stick" opacity="0.45"/>
+<path d="M26,146 L196,146" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<path d="M70,196 L70,74" stroke="#0b5cad" stroke-width="2.5" marker-end="url(#arB)"/>
+<text x="70" y="66" font-size="17" font-weight="bold" fill="#0b5cad" text-anchor="middle">北</text>
+<text x="70" y="214" font-size="15" fill="#0b5cad" text-anchor="middle">南</text>
+<text x="202" y="138" font-size="17" font-weight="bold" fill="#c33" text-anchor="middle">东</text>
+<text x="16" y="138" font-size="15" fill="#c33" text-anchor="middle">西</text>
+<use href="#foot" transform="translate(45,150)"/>
+<use href="#foot" transform="translate(95,150)"/>
+<use href="#mark" transform="translate(45,146)"/>
+<use href="#mark" transform="translate(95,146)"/>
+<text x="45" y="180" font-size="15" font-weight="bold" fill="#c33" text-anchor="middle">A</text>
+<text x="95" y="180" font-size="15" font-weight="bold" fill="#c33" text-anchor="middle">B</text>
+<text x="12" y="244" font-size="14">先标的A在西,后标的B</text>
+<text x="12" y="263" font-size="14">在东;左脚踩A、右脚踩B,</text>
+<text x="12" y="282" font-size="14">面对的就是北</text>
+</g>
+
+<rect x="10" y="358" width="700" height="96" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="26" y="383" font-size="15">原理: 太阳东升西落,影子朝相反方向移动</text>
+<text x="26" y="407" font-size="15">✓ 在上午或下午用比正午附近更好(正午前后影子移动慢,看不清)</text>
+<text x="26" y="431" font-size="15">✓ 等得越久越准</text>
+<text x="200" y="431" font-size="15" fill="#c33">✗ 阴天影子模糊时不能用</text>
+<text x="700" y="446" font-size="12" fill="#888" text-anchor="end">示意图,影子移动的距离已放大</text>
+</g>
+</svg>

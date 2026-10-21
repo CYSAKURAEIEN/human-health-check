@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 640" width="720" height="640" role="img" aria-label="用北极星找正北(北半球): 找到勺子形的北斗七星,把勺口的两颗星连线,向勺口方向延长约5倍,就是北极星;北极星方向就是正北,它离地平线的高度角约等于当地纬度;北斗七星被挡住时可以找W形的仙后座,它和北斗七星隔着北极星相对,W开口一侧大致朝向北极星;北斗七星整夜绕北极星转动,勺口两颗星始终指向北极星" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>用北极星找正北</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">用北极星找正北(北半球,晴夜)</text>
+<rect x="10" y="44" width="700" height="440" rx="8" fill="#eef2f8" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="70" font-size="13" fill="#555">面向北方看到的星空(示意)</text>
+
+<!-- 北斗七星 -->
+<path d="M247.9,226.6 L218.5,219.8 L221.2,173.1 L246.7,167.2 Z M246.7,167.2 L261.7,138.8 L276.3,117.4 L275.5,79.2" fill="none" stroke="#7a8aa6" stroke-width="1.5"/>
+<!-- 指极线 -->
+<path d="M218.5,219.8 L247.9,228.5" stroke="#c33" stroke-width="3"/>
+<path d="M247.9,228.5 L390.5,270.6" stroke="#c33" stroke-width="2" stroke-dasharray="6 4"/>
+<g stroke="#c33" stroke-width="1.8">
+<path d="M278.1,231.1 L274.7,242.6 M307.0,239.7 L303.6,251.2 M336.0,248.2 L332.6,259.7 M364.9,256.7 L361.5,268.2"/>
+</g>
+<g font-size="13" fill="#c33" text-anchor="middle">
+<text x="281" y="226">1</text><text x="310" y="234">2</text><text x="339" y="243">3</text><text x="368" y="251">4</text><text x="394" y="257">5</text>
+</g>
+<g fill="#333">
+<circle cx="247.9" cy="226.6" r="5.5"/><circle cx="218.5" cy="219.8" r="5"/><circle cx="221.2" cy="173.1" r="5"/><circle cx="246.7" cy="167.2" r="3.5"/><circle cx="261.7" cy="138.8" r="5.5"/><circle cx="276.3" cy="117.4" r="5"/><circle cx="275.5" cy="79.2" r="5.5"/>
+</g>
+<text x="292" y="104" font-size="15" font-weight="bold">北斗七星(勺子形)</text>
+<text x="96" y="266" font-size="14" fill="#0b5cad">勺口的两颗星</text>
+<line x1="150" y1="252" x2="213" y2="224" stroke="#0b5cad" stroke-width="1"/>
+<line x1="170" y1="252" x2="242" y2="231" stroke="#0b5cad" stroke-width="1"/>
+<text x="205" y="304" font-size="14" fill="#c33">连线,向勺口方向延长约5倍</text>
+
+<!-- 北极星 -->
+<circle cx="401.6" cy="273.8" r="11" fill="none" stroke="#c33" stroke-width="2"/>
+<circle cx="401.6" cy="273.8" r="5.5" fill="#333"/>
+<text x="420" y="279" font-size="17" font-weight="bold" fill="#c33">北极星</text>
+<text x="420" y="298" font-size="13" fill="#555">不是很亮,但周围</text>
+<text x="420" y="314" font-size="13" fill="#555">没有更亮的星</text>
+
+<!-- 转动 -->
+<path d="M467.6,249.8 A70,70 0 0 0 389.6,203.8" fill="none" stroke="#0b5cad" stroke-width="2" marker-end="url(#arB)"/>
+<text x="478" y="200" font-size="13" fill="#0b5cad">北斗七星整夜绕北极星转动,</text>
+<text x="478" y="217" font-size="13" fill="#0b5cad">勺口的两颗星始终指向北极星</text>
+
+<!-- 仙后座 -->
+<path d="M546,362.3 L543.3,390.8 L517.6,384.3 L503.9,400.3 L476.8,395.9" fill="none" stroke="#7a8aa6" stroke-width="1.5"/>
+<g fill="#333">
+<circle cx="546" cy="362.3" r="4.5"/><circle cx="543.3" cy="390.8" r="5"/><circle cx="517.6" cy="384.3" r="4.5"/><circle cx="503.9" cy="400.3" r="4"/><circle cx="476.8" cy="395.9" r="4"/>
+</g>
+<text x="566" y="370" font-size="15" font-weight="bold">仙后座(W形)</text>
+<text x="566" y="390" font-size="13" fill="#555">和北斗七星隔着</text>
+<text x="566" y="406" font-size="13" fill="#555">北极星相对;W开口</text>
+<text x="566" y="422" font-size="13" fill="#555">一侧大致朝向北极星</text>
+
+<!-- 正北 -->
+<path d="M401.6,287 L401.6,476" stroke="#0b5cad" stroke-width="2" stroke-dasharray="5 5"/>
+<text x="390" y="400" font-size="13" fill="#0b5cad" text-anchor="end">北极星离地平线的高度角</text>
+<text x="390" y="417" font-size="13" fill="#0b5cad" text-anchor="end">≈ 当地纬度(我国约20°-50°)</text>
+
+<!-- 地平线 -->
+<path d="M10,476 L60,466 L110,472 L170,458 L230,470 L300,462 L360,474 L440,468 L500,456 L560,468 L640,460 L710,470 L710,484 L10,484 Z" fill="#c9c9c9" stroke="#999" stroke-width="1.5"/>
+<text x="24" y="456" font-size="13" fill="#555">地平线</text>
+<text x="401.6" y="510" font-size="20" font-weight="bold" fill="#c33" text-anchor="middle">正北</text>
+<path d="M401.6,488 L401.6,490" stroke="#c33" stroke-width="2"/>
+
+<rect x="10" y="526" width="700" height="100" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="26" y="551" font-size="15">① 找到北斗七星(勺子形) → ② 勺口两颗星连线 → ③ 延长约5倍 → ④ 就是北极星</text>
+<text x="26" y="575" font-size="15">北极星方向 = 正北(偏离正北不到1°)</text>
+<text x="26" y="599" font-size="15">北斗七星被山或地平线挡住时: 找仙后座(W形)</text>
+<text x="700" y="618" font-size="12" fill="#888" text-anchor="end">星的位置按实际星图缩绘</text>
+</g>
+</svg>

@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" width="720" height="420" role="img" aria-label="伤口包扎要点: 小伤口用创可贴,每天更换;大伤口用无菌纱布覆盖、医用胶带固定,每1-2天更换。①敷料要比伤口每边大出约2 cm,容易粘纱布时先薄涂凡士林或抗菌软膏,或用油纱、凡士林纱布。②绷带缠在四肢上,松紧以能塞进一根手指为准。③包完检查手指脚趾,发白、发紫、发凉、麻木说明太紧,松开重包" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>伤口包扎要点</title>
+<defs>
+<marker id="ab" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<!-- 手(手背朝外,手指朝下),手臂上缠着绷带 -->
+<g id="arm">
+<rect x="-16" y="112" width="32" height="70" fill="#f3e3d3"/>
+<line x1="-16" y1="112" x2="-16" y2="182" stroke="#333" stroke-width="2.5"/>
+<line x1="16" y1="112" x2="16" y2="182" stroke="#333" stroke-width="2.5"/>
+<line x1="-16" y1="112" x2="16" y2="112" stroke="#999" stroke-width="2" stroke-dasharray="4 3"/>
+<g fill="#cfe0f0" stroke="#333" stroke-width="1.5" stroke-linejoin="round">
+<path d="M-19 122 L19 116 L19 134 L-19 140 Z"/>
+<path d="M-19 136 L19 130 L19 148 L-19 154 Z"/>
+<path d="M-19 150 L19 144 L19 162 L-19 168 Z"/>
+<path d="M-19 162 L19 156 L19 174 L-19 178 Z"/>
+</g>
+</g>
+</defs>
+<text x="360" y="28" font-size="17" fill="#222" text-anchor="middle" font-weight="bold">伤口包扎要点</text>
+<text x="360" y="50" font-size="14" fill="#222" text-anchor="middle">小伤口: 创可贴(每天更换),保持干燥</text>
+<text x="360" y="68" font-size="14" fill="#222" text-anchor="middle">大伤口: 无菌纱布覆盖 → 医用胶带固定 → 每1-2天更换,观察感染迹象</text>
+
+<!-- ① 敷料大小 -->
+<rect x="8" y="80" width="228" height="270" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="22" y="104" font-size="16" fill="#222" font-weight="bold">① 敷料要比伤口大</text>
+<rect x="24" y="122" width="196" height="122" rx="16" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M99 183 L107 177 L115 189 L123 177 L131 189 L139 177 L149 183" fill="none" stroke="#c33" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="71" y="149" width="106" height="68" rx="3" fill="#fff" fill-opacity="0.72" stroke="#333" stroke-width="1.8"/>
+<g stroke="#bbb" stroke-width="1">
+<line x1="71" y1="166" x2="177" y2="166"/><line x1="71" y1="183" x2="177" y2="183"/><line x1="71" y1="200" x2="177" y2="200"/>
+<line x1="92" y1="149" x2="92" y2="217"/><line x1="113" y1="149" x2="113" y2="217"/><line x1="134" y1="149" x2="134" y2="217"/><line x1="155" y1="149" x2="155" y2="217"/>
+</g>
+<path d="M99 183 L107 177 L115 189 L123 177 L131 189 L139 177 L149 183" fill="none" stroke="#c33" stroke-width="2" stroke-dasharray="4 3" stroke-linejoin="round"/>
+<!-- 标注 -->
+<text x="186" y="146" font-size="14" fill="#222">纱布</text>
+<line x1="190" y1="150" x2="172" y2="160" stroke="#0b5cad" stroke-width="1.3"/><circle cx="172" cy="160" r="2.6" fill="#0b5cad"/>
+<text x="34" y="231" font-size="14" fill="#c33">伤口</text>
+<line x1="58" y1="226" x2="98" y2="186" stroke="#c33" stroke-width="1.3"/><circle cx="98" cy="186" r="2.6" fill="#c33"/>
+<!-- 约 2 cm -->
+<line x1="149" y1="190" x2="149" y2="264" stroke="#0b5cad" stroke-width="1.2" stroke-dasharray="3 2"/>
+<line x1="177" y1="217" x2="177" y2="264" stroke="#0b5cad" stroke-width="1.2" stroke-dasharray="3 2"/>
+<line x1="151" y1="259" x2="175" y2="259" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#ab)" marker-end="url(#ab)"/>
+<text x="163" y="280" font-size="15" fill="#0b5cad" text-anchor="middle" font-weight="bold">约 2 cm</text>
+<text x="20" y="304" font-size="14" fill="#222">每边大出约 2 cm</text>
+<text x="20" y="324" font-size="13" fill="#222">容易粘纱布时: 先薄涂凡士林或</text>
+<text x="20" y="341" font-size="13" fill="#222">抗菌软膏,或用油纱、凡士林纱布</text>
+
+<!-- ② 松紧 -->
+<rect x="246" y="80" width="228" height="270" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="260" y="104" font-size="16" fill="#222" font-weight="bold">② 松紧: 能塞进一根手指</text>
+<!-- 一段前臂 -->
+<rect x="258" y="172" width="204" height="52" fill="#f3e3d3"/>
+<line x1="258" y1="172" x2="462" y2="172" stroke="#333" stroke-width="2.5"/>
+<line x1="258" y1="224" x2="462" y2="224" stroke="#333" stroke-width="2.5"/>
+<line x1="258" y1="172" x2="258" y2="224" stroke="#999" stroke-width="2" stroke-dasharray="4 3"/>
+<line x1="462" y1="172" x2="462" y2="224" stroke="#999" stroke-width="2" stroke-dasharray="4 3"/>
+<!-- 手指(指尖塞在绷带下) -->
+<rect x="-12" y="-78" width="24" height="88" rx="12" fill="#f3e3d3" stroke="#333" stroke-width="2.2" transform="translate(372 196) rotate(-28)"/>
+<path d="M-7 -70 Q0 -76 7 -70" fill="none" stroke="#333" stroke-width="1.3" transform="translate(372 196) rotate(-28)"/>
+<!-- 绷带: 一圈压一圈 -->
+<g fill="#cfe0f0" stroke="#333" stroke-width="1.6" stroke-linejoin="round">
+<path d="M300 168 L326 168 L314 228 L288 228 Z"/>
+<path d="M318 168 L344 168 L332 228 L306 228 Z"/>
+<path d="M336 168 L362 168 L350 228 L324 228 Z"/>
+<path d="M354 168 L380 168 L368 228 L342 228 Z"/>
+<path d="M372 168 L398 168 L386 228 L360 228 Z"/>
+<path d="M390 168 L416 168 L404 228 L378 228 Z"/>
+<path d="M408 168 L434 168 L422 228 L396 228 Z"/>
+</g>
+<text x="404" y="140" font-size="14" fill="#222">一根手指</text>
+<line x1="402" y1="138" x2="362" y2="146" stroke="#0b5cad" stroke-width="1.3"/><circle cx="362" cy="146" r="2.6" fill="#0b5cad"/>
+<text x="266" y="252" font-size="14" fill="#222">绷带</text>
+<line x1="286" y1="244" x2="300" y2="226" stroke="#0b5cad" stroke-width="1.3"/><circle cx="300" cy="226" r="2.6" fill="#0b5cad"/>
+<text x="260" y="300" font-size="14" fill="#222">绷带缠在四肢上,</text>
+<text x="260" y="320" font-size="14" fill="#222">松紧以能塞进一根手指为准</text>
+
+<!-- ③ 检查 -->
+<rect x="484" y="80" width="228" height="270" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="498" y="104" font-size="16" fill="#222" font-weight="bold">③ 包完检查手指脚趾</text>
+<!-- 正常 -->
+<g transform="translate(544 16)">
+<use href="#arm"/>
+<path d="M-16 180 L16 180 Q22 196 21 214 L-21 214 Q-24 196 -16 180 Z" fill="#f3e3d3" stroke="#333" stroke-width="2.2" stroke-linejoin="round"/>
+<g fill="#f3e3d3" stroke="#333" stroke-width="2">
+<rect x="-21" y="206" width="9" height="34" rx="4.5"/><rect x="-10.5" y="206" width="9" height="38" rx="4.5"/><rect x="0" y="206" width="9" height="37" rx="4.5"/><rect x="10.5" y="206" width="9" height="30" rx="4.5"/>
+<rect x="-6" y="-4" width="10" height="28" rx="5" transform="translate(-22 196) rotate(28)"/>
+</g>
+</g>
+<!-- 太紧 -->
+<g transform="translate(652 16)">
+<use href="#arm"/>
+<path d="M-16 180 L16 180 Q22 196 21 214 L-21 214 Q-24 196 -16 180 Z" fill="#ece6ea" stroke="#333" stroke-width="2.2" stroke-linejoin="round"/>
+<g fill="#c4b3dc" stroke="#333" stroke-width="2">
+<rect x="-21" y="206" width="9" height="34" rx="4.5"/><rect x="-10.5" y="206" width="9" height="38" rx="4.5"/><rect x="0" y="206" width="9" height="37" rx="4.5"/><rect x="10.5" y="206" width="9" height="30" rx="4.5"/>
+<rect x="-6" y="-4" width="10" height="28" rx="5" transform="translate(-22 196) rotate(28)"/>
+</g>
+</g>
+<text x="544" y="284" font-size="18" fill="#0b5cad" text-anchor="middle" font-weight="bold">✓</text>
+<text x="544" y="303" font-size="13" fill="#222" text-anchor="middle">温暖、颜色正常</text>
+<text x="652" y="284" font-size="18" fill="#c33" text-anchor="middle" font-weight="bold">✗</text>
+<text x="652" y="303" font-size="13" fill="#c33" text-anchor="middle">发白、发紫、</text>
+<text x="652" y="320" font-size="13" fill="#c33" text-anchor="middle">发凉、麻木</text>
+<text x="598" y="341" font-size="15" fill="#c33" text-anchor="middle" font-weight="bold">→ 太紧,松开重包</text>
+
+<!-- 底部 -->
+<text x="22" y="378" font-size="14" fill="#222">● 创可贴不要一贴好几天: 闷湿的皮肤发白起皱,反而容易感染</text>
+<text x="22" y="402" font-size="14" fill="#222">● 胶带不够时,用布条或绷带绕肢体一圈固定</text>
+</svg>
