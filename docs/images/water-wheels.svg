@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 690" width="720" height="690" role="img" aria-label="水车: 上射式水车,水从上方的水渠落进水斗,效率约60%,需要一定落差;下射式水车,水从下面冲过叶板,效率只有约20-30%,适合流速快、落差小的地方。水力功率(kW)约等于9.8乘流量(m³/s)乘落差(m)乘效率;例: 小溪每秒流过0.1 m³水,落差3 m,理论功率9.8乘0.1乘3约2.9 kW,按50%估算约1.5 kW,相当于十几个人持续劳动。提高功率: 加大落差(修水渠、筑堰引水),增加流量" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>水车: 上射式和下射式</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<marker id="dimB" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,1 L10,5 L0,9 Z" fill="#0b5cad"/></marker>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">水车: 上射式和下射式(示意,不按比例)</text>
+
+<!-- ① 两种水车 -->
+<rect x="10" y="44" width="700" height="376" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="70" font-size="16" font-weight="bold">① 水打在哪里,效率差别很大</text>
+<line x1="360" y1="84" x2="360" y2="408" stroke="#ddd" stroke-width="1.5"/>
+
+<!-- 上射式 -->
+<path d="M12,326 H90 M290,326 H358" stroke="#999" stroke-width="3"/>
+<rect x="90" y="326" width="200" height="16" fill="#d6e8f5"/>
+<path d="M90,326 H290" stroke="#7fb6e0" stroke-width="2"/>
+<path d="M90,326 V342 H290 V326" fill="none" stroke="#999" stroke-width="2"/>
+<line x1="50" y1="150" x2="50" y2="326" stroke="#8f6d2e" stroke-width="5"/>
+<rect x="20" y="136" width="176" height="12" fill="#d6e8f5"/>
+<path d="M20,136 H196" stroke="#7fb6e0" stroke-width="2"/>
+<path d="M20,130 V150 H196 V130" fill="none" stroke="#8f6d2e" stroke-width="3"/>
+<path d="M196,140 Q206,144 204,170" fill="none" stroke="#7fb6e0" stroke-width="6" stroke-linecap="round"/>
+<text x="70" y="124" font-size="14">水渠</text>
+<path d="M195.7,158.7 A80,80 0 0 1 195.7,313.3 L190.5,294 A60,60 0 0 0 190.5,178 Z" fill="#9cc8ea"/>
+<circle cx="175" cy="236" r="80" fill="none" stroke="#333" stroke-width="2.5"/>
+<circle cx="175" cy="236" r="60" fill="none" stroke="#333" stroke-width="2"/>
+<path d="M175.0,176.0 L188.9,157.2 M205.0,184.0 L226.4,174.7 M227.0,206.0 L250.2,208.6 M235.0,236.0 L253.8,249.9 M227.0,266.0 L236.3,287.4 M205.0,288.0 L202.4,311.2 M175.0,296.0 L161.1,314.8 M145.0,288.0 L123.6,297.3 M123.0,266.0 L99.8,263.4 M115.0,236.0 L96.2,222.1 M123.0,206.0 L113.7,184.6 M145.0,184.0 L147.6,160.8" stroke="#333" stroke-width="2"/>
+<path d="M175,176 V296 M115,236 H235 M132.6,193.6 L217.4,278.4 M217.4,193.6 L132.6,278.4" stroke="#8f6d2e" stroke-width="2.5"/>
+<circle cx="175" cy="236" r="8" fill="#ddd" stroke="#333" stroke-width="2"/>
+<path d="M259.9,187 A98,98 0 0 1 259.9,285" fill="none" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<path d="M236,154 L215,179" stroke="#555" stroke-width="1"/><text x="230" y="150" font-size="13" fill="#555">水斗</text>
+<path d="M310,138 V324" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#dimB)" marker-end="url(#dimB)"/>
+<path d="M200,136 H318 M294,326 H318" stroke="#0b5cad" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="318" y="236" font-size="15" font-weight="bold" fill="#0b5cad">落差</text>
+<text x="185" y="364" font-size="16" font-weight="bold" text-anchor="middle">上射式: 水从上方落进水斗</text>
+<text x="185" y="386" font-size="15" text-anchor="middle">效率约60%以上</text>
+<text x="185" y="406" font-size="13" text-anchor="middle" fill="#555">(需要一定落差)</text>
+
+<!-- 下射式 -->
+<path d="M362,290 H380 V322 H700 V290 H708" fill="none" stroke="#999" stroke-width="3"/>
+<rect x="380" y="290" width="320" height="32" fill="#d6e8f5"/>
+<path d="M380,290 H700" stroke="#7fb6e0" stroke-width="2"/>
+<circle cx="540" cy="220" r="64" fill="none" stroke="#333" stroke-width="2.5"/>
+<path d="M540.0,212.0 L540.0,156.0 M545.7,214.3 L585.3,174.7 M548.0,220.0 L604.0,220.0 M545.7,225.7 L585.3,265.3 M540.0,228.0 L540.0,284.0 M534.3,225.7 L494.7,265.3 M532.0,220.0 L476.0,220.0 M534.3,214.3 L494.7,174.7" stroke="#8f6d2e" stroke-width="2.5"/>
+<path d="M540.0,156.0 L540.0,130.0 M572.0,164.6 L585.0,142.1 M595.4,188.0 L617.9,175.0 M604.0,220.0 L630.0,220.0 M595.4,252.0 L617.9,265.0 M572.0,275.4 L585.0,297.9 M540.0,284.0 L540.0,310.0 M508.0,275.4 L495.0,297.9 M484.6,252.0 L462.1,265.0 M476.0,220.0 L450.0,220.0 M484.6,188.0 L462.1,175.0 M508.0,164.6 L495.0,142.1" stroke="#333" stroke-width="6"/>
+<circle cx="540" cy="220" r="8" fill="#ddd" stroke="#333" stroke-width="2"/>
+<path d="M455.1,171 A98,98 0 0 0 455.1,269" fill="none" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<path d="M640,152 L614,172" stroke="#555" stroke-width="1"/><text x="642" y="150" font-size="13" fill="#555">叶板</text>
+<g stroke="#0b5cad" stroke-width="2.5" marker-end="url(#arB)"><path d="M392,306 H436"/><path d="M644,306 H688"/></g>
+<text x="398" y="282" font-size="14" fill="#0b5cad">水流</text>
+<text x="535" y="364" font-size="16" font-weight="bold" text-anchor="middle">下射式: 水从下面冲过</text>
+<text x="535" y="386" font-size="15" text-anchor="middle">效率只有约20-30%</text>
+<text x="535" y="406" font-size="13" text-anchor="middle" fill="#555">(适合流速快、落差小的地方)</text>
+
+<!-- ② 估算功率 -->
+<rect x="10" y="432" width="700" height="246" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="458" font-size="16" font-weight="bold">② 估算水力功率</text>
+<rect x="90" y="472" width="540" height="40" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="360" y="498" font-size="16" font-weight="bold" text-anchor="middle">水力功率(kW)≈ 9.8 × 流量(m³/s)× 落差(m)× 效率</text>
+<text x="360" y="540" font-size="15" text-anchor="middle">例: 一条小溪每秒流过0.1 m³水,落差3 m</text>
+<g stroke="#333" stroke-width="1.5">
+<rect x="40" y="556" width="210" height="44" rx="6" fill="#fff"/>
+<rect x="290" y="556" width="160" height="44" rx="6" fill="#fff"/>
+<rect x="490" y="556" width="190" height="44" rx="6" fill="#fdf0f0" stroke="#c33"/>
+</g>
+<text x="145" y="583" font-size="15" text-anchor="middle">理论 9.8 × 0.1 × 3</text>
+<text x="370" y="583" font-size="15" text-anchor="middle">≈ 2.9 kW</text>
+<text x="585" y="583" font-size="15" font-weight="bold" fill="#c33" text-anchor="middle">按50%估算 ≈ 1.5 kW</text>
+<g stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"><path d="M252,578 H284"/><path d="M452,578 H484"/></g>
+<text x="585" y="620" font-size="14" text-anchor="middle">相当于十几个人持续劳动</text>
+<text x="360" y="660" font-size="15" text-anchor="middle">提高功率: 加大落差(修水渠、筑堰引水),增加流量</text>
+</g>
+</svg>

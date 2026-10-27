@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 812" width="720" height="812" role="img" aria-label="三角形和桁架: 三角形是唯一一种只要边长不变、形状就不会改变的多边形;四边形的框架一推就会变成平行四边形;加一根斜撑,分成两个三角形,就稳定了。桁架是由许多三角形组成的结构(屋架、桥架、塔架),杆件只受拉或只受压,不受弯,能用细杆件跨越很大的跨度,节点要连接牢固;最简单的三角形屋架顶上受压时,两根斜杆受压,底下的横杆受拉,把两脚拉住不让屋架向外张开。木结构房屋的墙架、屋架都要加斜撑;门框、木箱的角上加三角形木块" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>三角形和桁架</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<marker id="arK" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#333"/></marker>
+<pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="8" height="8" fill="#e6e6e6"/><line x1="0" y1="0" x2="0" y2="8" stroke="#999" stroke-width="2"/></pattern>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">三角形和桁架: 三角形保持形状</text>
+
+<!-- ① 四边形和三角形 -->
+<rect x="10" y="44" width="700" height="268" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="70" font-size="16" font-weight="bold">① 三角形是唯一一种只要边长不变、形状就不会改变的多边形</text>
+<line x1="243" y1="86" x2="243" y2="300" stroke="#ddd" stroke-width="1.5"/>
+<line x1="477" y1="86" x2="477" y2="300" stroke="#ddd" stroke-width="1.5"/>
+<g fill="url(#hatch)" stroke="#999" stroke-width="1"><rect x="50" y="240" width="160" height="10"/><rect x="284" y="240" width="152" height="10"/><rect x="518" y="240" width="152" height="10"/></g>
+<!-- 四边形 -->
+<path d="M66,240 V120 H186 V240" fill="none" stroke="#999" stroke-width="2" stroke-dasharray="5 4"/>
+<path d="M66,240 L107,127 H227 L186,240" fill="none" stroke="#8f6d2e" stroke-width="5" stroke-linejoin="round"/>
+<g fill="#fff" stroke="#333" stroke-width="2"><circle cx="66" cy="240" r="5"/><circle cx="186" cy="240" r="5"/><circle cx="107" cy="127" r="5"/><circle cx="227" cy="127" r="5"/></g>
+<path d="M28,110 H90" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<text x="28" y="100" font-size="14" font-weight="bold" fill="#c33">推</text>
+<text x="126" y="274" font-size="15" font-weight="bold" text-anchor="middle" fill="#c33">✗ 四边形框架</text>
+<text x="126" y="294" font-size="14" text-anchor="middle">一推就变成平行四边形</text>
+<!-- 三角形 -->
+<path d="M300,240 L360,136 L420,240 Z" fill="none" stroke="#8f6d2e" stroke-width="5" stroke-linejoin="round"/>
+<g fill="#fff" stroke="#333" stroke-width="2"><circle cx="300" cy="240" r="5"/><circle cx="420" cy="240" r="5"/><circle cx="360" cy="136" r="5"/></g>
+<path d="M290,124 H346" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<text x="290" y="114" font-size="14" font-weight="bold" fill="#c33">推</text>
+<text x="360" y="274" font-size="15" font-weight="bold" text-anchor="middle" fill="#2a7a2a">✓ 三角形</text>
+<text x="360" y="294" font-size="14" text-anchor="middle">边长不变,形状就不变</text>
+<!-- 加斜撑 -->
+<path d="M534,240 V120 H654 V240 Z" fill="none" stroke="#8f6d2e" stroke-width="5" stroke-linejoin="round"/>
+<path d="M534,240 L654,120" stroke="#c33" stroke-width="5"/>
+<g fill="#fff" stroke="#333" stroke-width="2"><circle cx="534" cy="240" r="5"/><circle cx="654" cy="240" r="5"/><circle cx="534" cy="120" r="5"/><circle cx="654" cy="120" r="5"/></g>
+<path d="M484,104 H528" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<text x="484" y="96" font-size="14" font-weight="bold" fill="#c33">推</text>
+<text x="604" y="198" font-size="14" font-weight="bold" fill="#c33">斜撑</text>
+<text x="594" y="274" font-size="15" font-weight="bold" text-anchor="middle" fill="#2a7a2a">✓ 加一根斜撑</text>
+<text x="594" y="294" font-size="14" text-anchor="middle">分成两个三角形,就稳定了</text>
+
+<!-- ② 桁架 -->
+<rect x="10" y="324" width="700" height="290" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="350" font-size="16" font-weight="bold">② 桁架: 由许多三角形组成的结构(屋架、桥架、塔架)</text>
+<line x1="360" y1="366" x2="360" y2="560" stroke="#ddd" stroke-width="1.5"/>
+<!-- 屋架 -->
+<g fill="#ddd" stroke="#333" stroke-width="1.5"><path d="M60,524 L48,546 H72 Z"/><path d="M320,524 L308,546 H332 Z"/></g>
+<path d="M60,520 L190,420 L320,520" fill="none" stroke="#c33" stroke-width="6" stroke-linejoin="round"/>
+<path d="M60,520 H320" stroke="#0b5cad" stroke-width="6"/>
+<g fill="#fff" stroke="#333" stroke-width="2"><circle cx="60" cy="520" r="5"/><circle cx="320" cy="520" r="5"/><circle cx="190" cy="420" r="5"/></g>
+<path d="M190,370 V410" stroke="#333" stroke-width="3" marker-end="url(#arK)"/>
+<text x="200" y="384" font-size="14" font-weight="bold">荷载</text>
+<g stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"><path d="M68.4,493.3 L102.2,467.3"/><path d="M162.0,421.3 L128.2,447.3"/><path d="M218.0,421.3 L251.8,447.3"/><path d="M311.6,493.3 L277.8,467.3"/></g>
+<g stroke="#0b5cad" stroke-width="2.5" marker-end="url(#arB)"><path d="M170,504 H104"/><path d="M210,504 H276"/></g>
+<text x="70" y="448" font-size="14" font-weight="bold" fill="#c33" text-anchor="end">斜杆</text>
+<text x="70" y="466" font-size="14" font-weight="bold" fill="#c33" text-anchor="end">受压</text>
+<text x="310" y="448" font-size="14" font-weight="bold" fill="#c33">斜杆</text>
+<text x="310" y="466" font-size="14" font-weight="bold" fill="#c33">受压</text>
+<text x="190" y="572" font-size="14" font-weight="bold" fill="#0b5cad" text-anchor="middle">底下的横杆受拉</text>
+<text x="190" y="592" font-size="13" text-anchor="middle" fill="#555">(把两脚拉住,不让屋架向外张开)</text>
+<!-- 桥架 -->
+<g fill="#ddd" stroke="#333" stroke-width="1.5"><path d="M400,524 L388,546 H412 Z"/><path d="M690,524 L678,546 H702 Z"/></g>
+<path d="M400,520 H690 M436,440 H654 M400,520 L436,440 L472.5,520 L508.75,440 L545,520 L581.25,440 L617.5,520 L653.75,440 L690,520" fill="none" stroke="#8f6d2e" stroke-width="4" stroke-linejoin="round"/>
+<g fill="#fff" stroke="#333" stroke-width="2"><circle cx="400" cy="520" r="4.5"/><circle cx="472.5" cy="520" r="4.5"/><circle cx="545" cy="520" r="4.5"/><circle cx="617.5" cy="520" r="4.5"/><circle cx="690" cy="520" r="4.5"/><circle cx="436" cy="440" r="4.5"/><circle cx="508.75" cy="440" r="4.5"/><circle cx="581.25" cy="440" r="4.5"/><circle cx="653.75" cy="440" r="4.5"/></g>
+<text x="545" y="394" font-size="14" text-anchor="middle">桥架: 许多三角形连在一起</text>
+<path d="M600,414 L585,436" stroke="#555" stroke-width="1"/>
+<text x="602" y="414" font-size="14">节点要连接牢固</text>
+<text x="545" y="572" font-size="14" text-anchor="middle">杆件只受拉或只受压,不受弯</text>
+<text x="545" y="592" font-size="14" text-anchor="middle">→ 能用细杆件跨越很大的跨度</text>
+
+<!-- ③ 实际做法 -->
+<rect x="10" y="626" width="700" height="176" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="652" font-size="16" font-weight="bold">③ 实际做法</text>
+<path d="M50,760 H330" stroke="#999" stroke-width="3"/>
+<g fill="#d9c29a" stroke="#333" stroke-width="2">
+<rect x="60" y="672" width="260" height="10"/><rect x="60" y="746" width="260" height="10"/>
+<rect x="60" y="682" width="10" height="64"/><rect x="185" y="682" width="10" height="64"/><rect x="310" y="682" width="10" height="64"/>
+</g>
+<path d="M72,744 L183,684 M308,744 L197,684" stroke="#c33" stroke-width="6"/>
+<text x="190" y="786" font-size="14" text-anchor="middle">木结构房屋的墙架、屋架都要加斜撑</text>
+<g fill="#d9c29a" stroke="#333" stroke-width="2">
+<rect x="450" y="672" width="180" height="12"/><rect x="450" y="684" width="12" height="76"/><rect x="618" y="684" width="12" height="76"/>
+<path d="M462,684 H500 L462,722 Z" fill="#e9b8b8"/><path d="M618,684 H580 L618,722 Z" fill="#e9b8b8"/>
+</g>
+<text x="540" y="786" font-size="14" text-anchor="middle">门框、木箱的角上加三角形木块</text>
+</g>
+</svg>

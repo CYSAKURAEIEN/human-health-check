@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1120" width="720" height="1120" role="img" aria-label="发电机: 磁生电。线圈中的磁通量发生变化,线圈两端就产生电压。①交流发电机: 磁铁和线圈相对转动,输出交流电,电流方向按正弦规律来回变化。②直流发电机: 用换向器(电刷加分段的铜环)把交流变成方向不变的电流,也可以用交流发电机加整流二极管。③输出电压取决于转速、线圈匝数、磁场强弱;交流频率f等于磁极对数乘每分钟转数除以60,一对磁极要输出50 Hz需要每分钟3000转,水车风车转得慢,要用齿轮、皮带增速或做成多磁极的发电机。④现实可行的小型发电: 永磁直流电动机反转发电,用皮带增速,加一个二极管防止蓄电池电流倒流;汽车交流发电机内置整流和稳压,输出约14 V直流,正好给12 V蓄电池充电;自制用钕磁铁和漆包线做转盘式发电机。接入家庭线路一定要断开与外部电网的连接" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>发电机原理</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">发电机: 磁生电(示意)</text>
+<text x="360" y="52" font-size="15" text-anchor="middle">线圈中的磁通量发生变化,线圈两端就产生电压</text>
+
+<!-- ① 交流 -->
+<rect x="10" y="64" width="700" height="262" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="90" font-size="16" font-weight="bold">① 交流发电机: 磁铁和线圈相对转动,输出交流电</text>
+<line x1="405" y1="104" x2="405" y2="314" stroke="#ddd" stroke-width="1.5"/>
+<g transform="rotate(-30 140 200)">
+<rect x="80" y="183" width="60" height="34" fill="#f2c6c6" stroke="#333" stroke-width="2"/>
+<rect x="140" y="183" width="60" height="34" fill="#c9daf0" stroke="#333" stroke-width="2"/>
+<text x="102" y="206" font-size="16" font-weight="bold">N</text>
+<text x="168" y="206" font-size="16" font-weight="bold">S</text>
+</g>
+<circle cx="140" cy="200" r="6" fill="#666" stroke="#333" stroke-width="1.5"/>
+<path d="M72.5,161 A78,78 0 0 1 126.5,123.2" fill="none" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<text x="40" y="132" font-size="14" font-weight="bold" fill="#c33">外力转动</text>
+<text x="140" y="270" font-size="14" text-anchor="middle">转动的磁铁</text>
+<rect x="234" y="186" width="104" height="28" fill="#ccc" stroke="#333" stroke-width="2"/>
+<g fill="none" stroke="#b0702a" stroke-width="2.5">
+<ellipse cx="252" cy="200" rx="4" ry="20"/><ellipse cx="264" cy="200" rx="4" ry="20"/><ellipse cx="276" cy="200" rx="4" ry="20"/><ellipse cx="288" cy="200" rx="4" ry="20"/><ellipse cx="300" cy="200" rx="4" ry="20"/><ellipse cx="312" cy="200" rx="4" ry="20"/><ellipse cx="324" cy="200" rx="4" ry="20"/>
+<path d="M252,220 V256 H382 M324,220 V242 H382"/>
+</g>
+<circle cx="384" cy="242" r="4" fill="#fff" stroke="#333" stroke-width="1.5"/>
+<circle cx="384" cy="256" r="4" fill="#fff" stroke="#333" stroke-width="1.5"/>
+<text x="288" y="168" font-size="14" text-anchor="middle">线圈(绕在铁芯上)</text>
+<text x="330" y="284" font-size="14" text-anchor="middle">输出</text>
+<text x="208" y="306" font-size="13" text-anchor="middle" fill="#555">也可以磁铁不动、线圈转;磁铁也可以是电磁铁</text>
+<!-- 正弦波 -->
+<path d="M430,120 V264" stroke="#333" stroke-width="1.5"/>
+<path d="M430,192 H690" stroke="#333" stroke-width="1.5" marker-end="url(#arB)"/>
+<path d="M430,192 q31.25,-100 62.5,0 t62.5,0 t62.5,0 t62.5,0" fill="none" stroke="#c33" stroke-width="3"/>
+<text x="438" y="120" font-size="13" fill="#555">电流</text>
+<text x="686" y="212" font-size="13" fill="#555" text-anchor="end">时间</text>
+<text x="461" y="132" font-size="16" font-weight="bold" fill="#0b5cad" text-anchor="middle">+</text>
+<text x="524" y="262" font-size="16" font-weight="bold" fill="#0b5cad" text-anchor="middle">−</text>
+<text x="555" y="292" font-size="15" text-anchor="middle">方向按正弦规律来回变化</text>
+
+<!-- ② 直流 -->
+<rect x="10" y="338" width="700" height="290" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="364" font-size="16" font-weight="bold">② 直流发电机: 换向器把交流变成方向不变的电流</text>
+<line x1="405" y1="378" x2="405" y2="616" stroke="#ddd" stroke-width="1.5"/>
+<rect x="100" y="380" width="160" height="34" fill="#f2c6c6" stroke="#333" stroke-width="2"/>
+<text x="180" y="403" font-size="16" font-weight="bold" text-anchor="middle">N</text>
+<rect x="100" y="526" width="160" height="34" fill="#c9daf0" stroke="#333" stroke-width="2"/>
+<text x="180" y="549" font-size="16" font-weight="bold" text-anchor="middle">S</text>
+<line x1="106" y1="470" x2="330" y2="470" stroke="#666" stroke-width="4"/>
+<path d="M282,463 H236 V430 H130 V510 H236 V477 H282" fill="none" stroke="#b0702a" stroke-width="3" stroke-linejoin="round"/>
+<path d="M112,450 A10,20 0 1 0 124,451" fill="none" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<rect x="282" y="455" width="30" height="13" fill="#d9a066" stroke="#333" stroke-width="1.5"/>
+<rect x="282" y="472" width="30" height="13" fill="#d9a066" stroke="#333" stroke-width="1.5"/>
+<rect x="290" y="437" width="14" height="17" fill="#555" stroke="#333" stroke-width="1.5"/>
+<rect x="290" y="486" width="14" height="17" fill="#555" stroke="#333" stroke-width="1.5"/>
+<path d="M297,437 V424 H382 M297,503 V516 H382" fill="none" stroke="#333" stroke-width="2"/>
+<circle cx="384" cy="424" r="4" fill="#fff" stroke="#333" stroke-width="1.5"/>
+<circle cx="384" cy="516" r="4" fill="#fff" stroke="#333" stroke-width="1.5"/>
+<text x="384" y="474" font-size="14" text-anchor="middle">输出</text>
+<g stroke="#555" stroke-width="1"><path d="M60,498 L130,498"/><path d="M340,446 L306,446"/><path d="M322,582 L312,482"/><path d="M82,442 L106,452"/></g>
+<text x="24" y="494" font-size="14">线圈</text>
+<text x="342" y="451" font-size="14">电刷</text>
+<text x="24" y="446" font-size="14" font-weight="bold" fill="#c33">外力转动</text>
+<text x="250" y="598" font-size="14">换向器(分段的铜环)</text>
+<!-- 整流后的波形 -->
+<path d="M430,414 V528" stroke="#333" stroke-width="1.5"/>
+<path d="M430,500 H690" stroke="#333" stroke-width="1.5" marker-end="url(#arB)"/>
+<path d="M430,500 q31.25,-100 62.5,0 q31.25,-100 62.5,0 q31.25,-100 62.5,0 q31.25,-100 62.5,0" fill="none" stroke="#c33" stroke-width="3"/>
+<text x="438" y="414" font-size="13" fill="#555">电流</text>
+<text x="686" y="520" font-size="13" fill="#555" text-anchor="end">时间</text>
+<text x="555" y="548" font-size="15" text-anchor="middle">方向不变(直流)</text>
+<text x="555" y="586" font-size="14" text-anchor="middle">也可以: 交流发电机 + 整流二极管</text>
+<text x="555" y="606" font-size="13" text-anchor="middle" fill="#555">(桥式整流用4个二极管,再加电容滤波)</text>
+
+<!-- ③ 转速、频率和电压 -->
+<rect x="10" y="640" width="700" height="168" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="666" font-size="16" font-weight="bold">③ 转速、频率和电压</text>
+<text x="40" y="694" font-size="15">输出电压的大小取决于: <tspan font-weight="bold">转速、线圈匝数、磁场强弱</tspan></text>
+<rect x="36" y="706" width="420" height="34" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="246" y="729" font-size="15" font-weight="bold" text-anchor="middle">交流频率 f = 磁极对数 × 每分钟转数 ÷ 60</text>
+<text x="40" y="764" font-size="15">一对磁极(2极)要输出50 Hz,需要每分钟3000转;磁极越多,需要的转速越低</text>
+<text x="40" y="792" font-size="15">水车、风车转得很慢 → 用齿轮、皮带增速,或做成多磁极的发电机</text>
+
+<!-- ④ 现实可行的小型发电 -->
+<rect x="10" y="820" width="700" height="290" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="846" font-size="16" font-weight="bold">④ 现实可行: 永磁直流电动机反转发电</text>
+<circle cx="100" cy="930" r="48" fill="#f3ead8" stroke="#333" stroke-width="2.5"/>
+<circle cx="100" cy="930" r="5" fill="#333"/>
+<circle cx="270" cy="930" r="16" fill="#f3ead8" stroke="#333" stroke-width="2.5"/>
+<circle cx="270" cy="930" r="4" fill="#333"/>
+<path d="M97,882 L268,914 M97,978 L268,946" stroke="#555" stroke-width="2.5"/>
+<path d="M54,894 A50,50 0 0 1 84,882" fill="none" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<line x1="270" y1="930" x2="300" y2="930" stroke="#333" stroke-width="4"/>
+<rect x="300" y="900" width="92" height="60" rx="8" fill="#e6e6e6" stroke="#333" stroke-width="2"/>
+<text x="346" y="935" font-size="14" text-anchor="middle">电动机</text>
+<path d="M392,914 H440 M460,914 H540 M392,946 H540" fill="none" stroke="#333" stroke-width="2"/>
+<path d="M440,903 V925 L460,914 Z" fill="#c33" stroke="#c33" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M461,903 V925" stroke="#c33" stroke-width="3"/>
+<rect x="540" y="898" width="90" height="64" rx="4" fill="#cfe0f0" stroke="#333" stroke-width="2"/>
+<text x="585" y="935" font-size="14" text-anchor="middle">蓄电池</text>
+<text x="530" y="910" font-size="15" font-weight="bold" text-anchor="end">+</text>
+<text x="530" y="962" font-size="15" font-weight="bold" text-anchor="end">−</text>
+<text x="100" y="870" font-size="13" text-anchor="middle">水车、风车或自行车</text>
+<text x="190" y="996" font-size="13" text-anchor="middle" fill="#555">皮带增速(大轮带小轮)</text>
+<text x="346" y="980" font-size="13" text-anchor="middle">(当发电机用)</text>
+<text x="450" y="892" font-size="13" text-anchor="middle" fill="#c33">二极管</text>
+<text x="470" y="980" font-size="13" text-anchor="middle" fill="#c33">防止蓄电池电流倒流</text>
+<text x="470" y="996" font-size="13" text-anchor="middle" fill="#c33">让电动机转起来</text>
+<text x="346" y="996" font-size="13" text-anchor="middle" fill="#555">转得越快,电压越高</text>
+<text x="24" y="1026" font-size="14"><tspan font-weight="bold">汽车交流发电机:</tspan> 内置整流和稳压,输出约14 V直流,正好给12 V蓄电池充电;</text>
+<text x="40" y="1046" font-size="14">转速要高,通常用皮带轮增速;励磁要蓄电池先提供一点电流</text>
+<text x="24" y="1070" font-size="14"><tspan font-weight="bold">自制:</tspan> 回收的钕磁铁 + 漆包线线圈,做成转盘式;要耐心调整磁铁和线圈的间隙</text>
+<text x="24" y="1096" font-size="14" font-weight="bold" fill="#c33">⚠ 接入家庭线路一定要断开与外部电网的连接(防止反送电伤及他人)</text>
+</g>
+</svg>

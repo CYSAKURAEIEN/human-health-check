@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 742" width="720" height="742" role="img" aria-label="看云识天气: 按高度排列的主要的云。很高: 卷云,白色细丝、羽毛、钩子状,卷云增多变厚天气可能在一两天内转坏;卷层云,白色薄幕,日月周围出现晕,常是下雨的前兆。中: 荚状云,像豆荚、透镜,静止不动,高空风很大,山区要警惕大风;高层云,灰白色幕,太阳像隔着毛玻璃,云继续加厚变低不久会下雨;高积云,一排排小云块像鱼鳞,天气可能变化,常有风。低: 层云,很低,像高处的雾,毛毛雨或阴天;雨层云,灰暗厚而低,连续性的雨或雪;积云,白色棉花团底部平,晴天里的淡积云是好天气,下午越长越高要警惕。从低到很高: 积雨云,高耸像山或铁砧,底部乌黑,雷雨、大风、冰雹,有时伴有龙卷风。暖锋来临依次出现卷云、卷层云、高层云、雨层云;冷锋过境前出现积雨云" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>看云识天气</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="arG" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#555"/></marker>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">看云识天气: 主要的云和它们预示的天气</text>
+
+<!-- 天空和地面 -->
+<rect x="10" y="44" width="700" height="508" rx="8" fill="#eef2f8" stroke="#bbb" stroke-width="1.5"/>
+<path d="M11,546 H709 V552 H11 Z" fill="#c9c9c9"/>
+<path d="M11,546 H709" stroke="#999" stroke-width="2"/>
+<path d="M66,210 H534 M66,372 H534" stroke="#9aa5b5" stroke-width="1.2" stroke-dasharray="6 4"/>
+
+<!-- 高度轴 -->
+<path d="M24,540 V64" stroke="#555" stroke-width="1.5" marker-end="url(#arG)"/>
+<text x="32" y="64" font-size="12" fill="#555">高</text>
+<text x="46" y="135" font-size="15" font-weight="bold" text-anchor="middle">很高</text>
+<text x="46" y="296" font-size="15" font-weight="bold" text-anchor="middle">中</text>
+<text x="46" y="440" font-size="15" font-weight="bold" text-anchor="middle">低</text>
+<text x="46" y="524" font-size="13" font-weight="bold" text-anchor="middle">很低</text>
+
+<!-- ===== 很高 ===== -->
+<!-- 卷云 -->
+<g fill="none" stroke="#7d8aa0" stroke-width="2" stroke-linecap="round">
+<path d="M96,100 Q130,92 160,72 Q168,66 166,60"/>
+<path d="M112,108 Q150,100 186,80 Q194,74 190,68"/>
+<path d="M104,88 Q126,82 142,68"/>
+<path d="M140,104 Q170,98 196,92"/>
+</g>
+<text x="145" y="128" font-size="16" font-weight="bold" text-anchor="middle">卷云</text>
+<text x="145" y="146" font-size="12" fill="#555" text-anchor="middle">白色细丝、羽毛、钩子状</text>
+<text x="145" y="182" font-size="13" fill="#c33" text-anchor="middle">卷云增多、变厚,天气</text>
+<text x="145" y="198" font-size="13" fill="#c33" text-anchor="middle">可能在一两天内转坏</text>
+
+<!-- 卷层云 -->
+<rect x="236" y="62" width="130" height="44" rx="20" fill="#fff" fill-opacity="0.75" stroke="#c8d0dc" stroke-width="1"/>
+<circle cx="301" cy="84" r="7" fill="#f2d16b" stroke="#c9a227" stroke-width="1"/>
+<circle cx="301" cy="84" r="19" fill="none" stroke="#c33" stroke-width="1.5"/>
+<text x="327" y="70" font-size="11" fill="#c33">晕</text>
+<text x="301" y="128" font-size="16" font-weight="bold" text-anchor="middle">卷层云</text>
+<text x="301" y="146" font-size="12" fill="#555" text-anchor="middle">白色薄幕,太阳、月亮周围</text>
+<text x="301" y="161" font-size="12" fill="#555" text-anchor="middle">出现"晕"(光圈)</text>
+<text x="301" y="182" font-size="13" fill="#c33" text-anchor="middle">常是下雨的前兆</text>
+
+<!-- 说明 -->
+<text x="457" y="90" font-size="12" fill="#555" text-anchor="middle">高度只按大致的</text>
+<text x="457" y="106" font-size="12" fill="#555" text-anchor="middle">相对高低排列</text>
+<circle cx="408" cy="146" r="9" fill="#c33"/><text x="408" y="150.5" font-size="12" fill="#fff" text-anchor="middle">1</text>
+<text x="422" y="151" font-size="12" fill="#555">-</text>
+<circle cx="438" cy="146" r="9" fill="#c33"/><text x="438" y="150.5" font-size="12" fill="#fff" text-anchor="middle">4</text>
+<text x="452" y="151" font-size="12" fill="#555">暖锋来临时</text>
+<text x="398" y="170" font-size="12" fill="#555">依次出现的云(见下方)</text>
+
+<!-- ===== 中 ===== -->
+<!-- 荚状云 -->
+<g fill="#fff" stroke="#7d8aa0" stroke-width="1.5">
+<ellipse cx="145" cy="262" rx="58" ry="9"/>
+<ellipse cx="145" cy="248" rx="48" ry="8"/>
+<ellipse cx="145" cy="235" rx="36" ry="7"/>
+</g>
+<text x="145" y="290" font-size="16" font-weight="bold" text-anchor="middle">荚状云</text>
+<text x="145" y="308" font-size="12" fill="#555" text-anchor="middle">像豆荚、透镜,静止不动</text>
+<text x="145" y="344" font-size="13" fill="#c33" text-anchor="middle">高空风很大;</text>
+<text x="145" y="360" font-size="13" fill="#c33" text-anchor="middle">山区要警惕大风</text>
+
+<!-- 高层云 -->
+<rect x="236" y="224" width="130" height="46" rx="10" fill="#c9ced6" stroke="#9aa3b0" stroke-width="1"/>
+<circle cx="301" cy="245" r="11" fill="#e9e3cf"/>
+<circle cx="301" cy="245" r="7" fill="#f1ead2"/>
+<text x="301" y="290" font-size="16" font-weight="bold" text-anchor="middle">高层云</text>
+<text x="301" y="308" font-size="12" fill="#555" text-anchor="middle">灰白色幕,太阳像</text>
+<text x="301" y="323" font-size="12" fill="#555" text-anchor="middle">隔着毛玻璃</text>
+<text x="301" y="344" font-size="13" fill="#c33" text-anchor="middle">云继续加厚变低,</text>
+<text x="301" y="360" font-size="13" fill="#c33" text-anchor="middle">不久会下雨</text>
+
+<!-- 高积云 -->
+<g fill="#fff" stroke="#7d8aa0" stroke-width="1.2">
+<ellipse cx="410" cy="232" rx="10" ry="6"/><ellipse cx="432" cy="231" rx="10" ry="6"/><ellipse cx="454" cy="232" rx="10" ry="6"/><ellipse cx="476" cy="231" rx="10" ry="6"/><ellipse cx="498" cy="232" rx="10" ry="6"/>
+<ellipse cx="420" cy="248" rx="10" ry="6"/><ellipse cx="442" cy="247" rx="10" ry="6"/><ellipse cx="464" cy="248" rx="10" ry="6"/><ellipse cx="486" cy="247" rx="10" ry="6"/>
+<ellipse cx="408" cy="264" rx="10" ry="6"/><ellipse cx="430" cy="263" rx="10" ry="6"/><ellipse cx="452" cy="264" rx="10" ry="6"/><ellipse cx="474" cy="263" rx="10" ry="6"/><ellipse cx="496" cy="264" rx="10" ry="6"/>
+</g>
+<text x="457" y="290" font-size="16" font-weight="bold" text-anchor="middle">高积云</text>
+<text x="457" y="308" font-size="12" fill="#555" text-anchor="middle">一排排小云块,像鱼鳞</text>
+<text x="457" y="344" font-size="13" fill="#c33" text-anchor="middle">天气可能变化,常有风</text>
+
+<!-- ===== 低 ===== -->
+<!-- 层云(很低) -->
+<text x="145" y="398" font-size="16" font-weight="bold" text-anchor="middle">层云</text>
+<text x="145" y="416" font-size="12" fill="#555" text-anchor="middle">灰色低云,像高处的雾</text>
+<text x="145" y="440" font-size="13" fill="#c33" text-anchor="middle">毛毛雨或阴天</text>
+<rect x="76" y="496" width="138" height="24" rx="10" fill="#d3d7de" stroke="#a3aab5" stroke-width="1"/>
+<g fill="#0b5cad"><circle cx="96" cy="530" r="1.5"/><circle cx="118" cy="536" r="1.5"/><circle cx="140" cy="529" r="1.5"/><circle cx="162" cy="535" r="1.5"/><circle cx="186" cy="530" r="1.5"/><circle cx="106" cy="540" r="1.5"/><circle cx="174" cy="541" r="1.5"/></g>
+
+<!-- 雨层云 -->
+<rect x="236" y="382" width="130" height="38" rx="8" fill="#8f96a0" stroke="#6b7280" stroke-width="1"/>
+<g stroke="#0b5cad" stroke-width="1.5"><path d="M250,424 l-4,12 M266,424 l-4,12 M282,424 l-4,12 M298,424 l-4,12 M314,424 l-4,12 M330,424 l-4,12 M346,424 l-4,12"/></g>
+<text x="301" y="458" font-size="16" font-weight="bold" text-anchor="middle">雨层云</text>
+<text x="301" y="476" font-size="12" fill="#555" text-anchor="middle">灰暗、厚而低、看不到太阳</text>
+<text x="301" y="500" font-size="13" fill="#c33" text-anchor="middle">连续性的雨或雪</text>
+
+<!-- 积云 -->
+<path d="M420,434 Q404,434 408,420 Q404,404 422,404 Q424,388 442,390 Q452,376 470,386 Q490,384 490,402 Q504,408 496,424 Q500,434 486,434 Z" fill="#fff" stroke="#7d8aa0" stroke-width="1.5"/>
+<path d="M420,434 H486" stroke="#7d8aa0" stroke-width="1.5"/>
+<text x="457" y="458" font-size="16" font-weight="bold" text-anchor="middle">积云</text>
+<text x="457" y="476" font-size="12" fill="#555" text-anchor="middle">一朵朵白色棉花团,底部平</text>
+<text x="457" y="500" font-size="13" fill="#c33" text-anchor="middle">晴天里的"淡积云"</text>
+<text x="457" y="516" font-size="13" fill="#c33" text-anchor="middle">是好天气;下午</text>
+<text x="457" y="532" font-size="13" fill="#c33" text-anchor="middle">越长越高要警惕</text>
+<path d="M500,416 Q526,410 552,398" fill="none" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<text x="500" y="392" font-size="11" fill="#c33">越长越高</text>
+
+<!-- ===== 从低到很高: 积雨云 ===== -->
+<path d="M548,72 L704,66 Q700,84 668,96 Q654,104 654,118 Q676,130 672,160 Q690,180 680,210 Q698,240 684,270 Q700,300 686,330 Q700,360 686,390 L686,440 L560,440 L560,390 Q546,360 560,330 Q546,300 562,270 Q548,240 566,210 Q556,180 574,160 Q570,130 592,118 Q592,104 578,96 Q556,86 548,72 Z" fill="#fff" stroke="#7d8aa0" stroke-width="1.5"/>
+<path d="M560,412 L686,412 L686,440 L560,440 Z" fill="#5f6672"/>
+<g stroke="#0b5cad" stroke-width="1.5"><path d="M570,446 l-6,20 M584,446 l-6,20 M640,446 l-6,20 M654,446 l-6,20 M668,446 l-6,20 M682,446 l-6,20 M576,476 l-6,20 M646,476 l-6,20 M662,476 l-6,20 M676,476 l-6,20 M570,506 l-6,20 M590,506 l-6,20 M650,506 l-6,20 M668,506 l-6,20"/></g>
+<path d="M612,444 L598,482 L610,482 L600,520 L626,474 L613,474 L622,444 Z" fill="#c33"/>
+<text x="623" y="232" font-size="17" font-weight="bold" text-anchor="middle">积雨云</text>
+<text x="623" y="250" font-size="13" text-anchor="middle">(从低到很高)</text>
+<text x="623" y="274" font-size="12" fill="#555" text-anchor="middle">高耸像山或铁砧,</text>
+<text x="623" y="290" font-size="12" fill="#555" text-anchor="middle">底部乌黑</text>
+<text x="623" y="316" font-size="13" fill="#c33" font-weight="bold" text-anchor="middle">雷雨、大风、冰雹,</text>
+<text x="623" y="333" font-size="13" fill="#c33" font-weight="bold" text-anchor="middle">有时伴有龙卷风</text>
+
+<!-- 暖锋顺序标记 -->
+<circle cx="84" cy="66" r="9" fill="#c33"/><text x="84" y="70.5" font-size="12" fill="#fff" text-anchor="middle">1</text>
+<circle cx="240" cy="66" r="9" fill="#c33"/><text x="240" y="70.5" font-size="12" fill="#fff" text-anchor="middle">2</text>
+<circle cx="240" cy="226" r="9" fill="#c33"/><text x="240" y="230.5" font-size="12" fill="#fff" text-anchor="middle">3</text>
+<circle cx="240" cy="384" r="9" fill="#c33"/><text x="240" y="388.5" font-size="12" fill="#fff" text-anchor="middle">4</text>
+
+<!-- 变天顺序 -->
+<rect x="10" y="562" width="700" height="168" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="24" y="586" font-size="14"><tspan font-weight="bold">暖锋来临(天气逐渐转坏):</tspan> ①卷云出现 → ②卷层云,日月有晕 → ③高层云,</text>
+<text x="24" y="606" font-size="14">太阳像隔毛玻璃 → ④雨层云,开始下连续的雨(往往持续较久);</text>
+<text x="24" y="626" font-size="14">从看到卷云增多到下雨,常在半天到一两天之间</text>
+<text x="24" y="652" font-size="14"><tspan font-weight="bold">冷锋过境(天气急变):</tspan> 西边或北边出现高耸的积雨云 → 风突然增大、转向,</text>
+<text x="24" y="672" font-size="14">气温骤降 → 短时间的阵雨、雷雨,有时冰雹 → 雨后迅速转晴,天空特别透亮</text>
+<text x="24" y="698" font-size="14" fill="#c33"><tspan font-weight="bold">雷暴征兆:</tspan> 上午就出现积云而且越长越高、顶部像花椰菜一样翻腾;午后天空迅速变暗、</text>
+<text x="24" y="718" font-size="14" fill="#c33">远处有雷声;风突然变凉、变大 → 立即离开山顶、水边、开阔地,远离孤立的大树</text>
+</g>
+</svg>

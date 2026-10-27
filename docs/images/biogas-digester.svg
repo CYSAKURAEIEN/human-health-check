@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 904" width="720" height="904" role="img" aria-label="沼气池剖面与危险: 人畜粪便、秸秆从进料口进入密闭的发酵间发酵,产生的沼气(主要是甲烷)聚在池顶,经导气管和开关通到沼气灶;发酵后的沼渣沼液从出料口、水压间取出,是好肥料;进料口、出料口、水压间要加盖盖严。绝对不要下池: 池内几乎没有氧气,还有剧毒的硫化氢,人下到池内几分钟就会昏倒、死亡;最惨痛的情况是一人下池昏倒,家人接连下去救,接连遇难。甲烷在空气中浓度约5%-15%时遇明火会爆炸,池口、出料口、导气管附近不点火、不吸烟,不用明火试气。出料清渣用池外的抽渣器、长柄工具;确需进池维修必须由专业人员按规程操作: 打开所有盖口长时间通风、用仪器检测气体、系安全绳、池外有人监护。有人在池内昏倒: 不要直接下去救,立即拨打120、119,打开所有盖口用鼓风机、风扇往池内吹新鲜空气,只有系好安全绳、有专业防护(呼吸器)、有人在上面拉绳,才能下池救人" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>沼气池剖面与危险</title>
+<defs>
+<pattern id="soil" width="16" height="16" patternUnits="userSpaceOnUse"><rect width="16" height="16" fill="#efe4cf"/><circle cx="4" cy="5" r="1.1" fill="#bba57a"/><circle cx="12" cy="12" r="1.1" fill="#bba57a"/><circle cx="11" cy="3" r="0.8" fill="#bba57a"/></pattern>
+<pattern id="slurry" width="14" height="10" patternUnits="userSpaceOnUse"><rect width="14" height="10" fill="#8a6a3a"/><circle cx="3" cy="3" r="1.2" fill="#6e5228"/><circle cx="10" cy="7" r="1.2" fill="#a2824e"/></pattern>
+<clipPath id="below"><rect x="0" y="220" width="720" height="240"/></clipPath>
+<clipPath id="pit"><path d="M190 312 Q190 256 320 252 Q450 256 450 312 V400 Q320 434 190 400 Z"/></clipPath>
+<marker id="arG" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#555"/></marker>
+<g id="noFire"><circle r="12" fill="#fff" stroke="#c33" stroke-width="2.5"/><path d="M0 7 Q-6 5 -5 -1 Q-4 -5 0 -9 Q1 -4 4 -2 Q6 3 0 7 Z" fill="#f2a33a" stroke="#c33" stroke-width="1"/><path d="M-8.5 -8.5 L8.5 8.5" stroke="#c33" stroke-width="2.5"/></g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">沼气池(剖面示意,不按比例)</text>
+<rect x="10" y="40" width="700" height="36" rx="6" fill="#c33"/>
+<text x="360" y="64" font-size="17" font-weight="bold" fill="#fff" text-anchor="middle">⚠ 绝对不要下池!人下到池内几分钟就会昏倒、死亡</text>
+
+<!-- 图例: 禁止明火 -->
+<use href="#noFire" x="30" y="100"/>
+<text x="50" y="105" font-size="13">= 池口、出料口、导气管附近不点火、不吸烟;不用明火试气</text>
+
+<!-- 土层 -->
+<rect x="10" y="220" width="700" height="232" fill="url(#soil)"/>
+<path d="M10 220 H710" stroke="#999" stroke-width="3"/>
+
+<!-- 进料管(外壁) -->
+<g clip-path="url(#below)"><path d="M70 190 L212 378" stroke="#333" stroke-width="30"/>
+<path d="M70 190 L123.6 261" stroke="#fff" stroke-width="24"/></g>
+
+<!-- 发酵间 -->
+<path d="M190 312 Q190 256 320 252 Q450 256 450 312 V400 Q320 434 190 400 Z" fill="url(#slurry)"/>
+<rect x="180" y="240" width="280" height="60" fill="#fff4c8" clip-path="url(#pit)"/>
+<path d="M190 300 Q210 296 230 300 T270 300 T310 300 T350 300 T390 300 T430 300 T470 300" fill="none" stroke="#6e5228" stroke-width="1.5" clip-path="url(#pit)"/>
+<path d="M190 312 Q190 256 320 252 Q450 256 450 312 V400 Q320 434 190 400 Z" fill="none" stroke="#333" stroke-width="3.5"/>
+<!-- 进料管(内) -->
+<path d="M123.6 261 L215.8 383" stroke="#8a6a3a" stroke-width="24"/>
+<path d="M109 261 H138" stroke="#6e5228" stroke-width="1.5"/>
+<rect x="60" y="213" width="52" height="7" fill="#999" stroke="#333" stroke-width="1.5"/>
+
+<!-- 出料间/水压间 -->
+<rect x="444" y="352" width="46" height="30" fill="#8a6a3a"/>
+<rect x="488" y="262" width="78" height="120" fill="#8a6a3a"/>
+<path d="M450 352 H488 V220 M450 382 H488 M488 382 H566 V220" fill="none" stroke="#333" stroke-width="3.5"/>
+<path d="M489 262 H565" stroke="#6e5228" stroke-width="1.5"/>
+<rect x="482" y="213" width="90" height="7" fill="#999" stroke="#333" stroke-width="1.5"/>
+
+<!-- 导气管 -->
+<path d="M320 252 V160 H616 V192 H636" fill="none" stroke="#666" stroke-width="5" stroke-linejoin="round"/>
+<path d="M534 152 L546 160 L534 168 Z M558 152 L546 160 L558 168 Z" fill="#c9a640" stroke="#333" stroke-width="1.3"/>
+<path d="M546 160 V146 M540 146 H552" stroke="#333" stroke-width="2"/>
+
+<!-- 房间和灶具 -->
+<path d="M596 150 L655 114 L714 150" fill="none" stroke="#333" stroke-width="3" stroke-linejoin="round"/>
+<rect x="604" y="146" width="102" height="74" fill="none" stroke="#333" stroke-width="2.5"/>
+<rect x="682" y="158" width="18" height="24" fill="#e3eef8" stroke="#333" stroke-width="1.5"/>
+<path d="M684 170 H708" stroke="#0b5cad" stroke-width="1.5" marker-end="url(#arG)"/>
+<rect x="626" y="196" width="48" height="5" fill="#8b6b3e"/>
+<path d="M630 201 V220 M670 201 V220" stroke="#8b6b3e" stroke-width="3"/>
+<rect x="636" y="188" width="24" height="8" fill="#555"/>
+<path d="M642 188 Q644 180 648 176 Q652 180 654 188 Z" fill="#6aa8e8" stroke="#0b5cad" stroke-width="1"/>
+
+<!-- 禁止下池标志 -->
+<g transform="translate(76,372)">
+<circle r="34" fill="#fff" stroke="#c33" stroke-width="5"/>
+<path d="M-10 -24 V24 M10 -24 V24 M-10 -14 H10 M-10 -2 H10 M-10 10 H10" stroke="#8b6b3e" stroke-width="2.5"/>
+<circle cx="0" cy="-18" r="5" fill="#333"/>
+<path d="M0 -13 V3 M0 3 L-6 14 M0 3 L6 12 M0 -9 L-8 -2 M0 -9 L8 -4" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+<path d="M-24 -24 L24 24" stroke="#c33" stroke-width="5"/>
+</g>
+<text x="76" y="428" font-size="15" font-weight="bold" fill="#c33" text-anchor="middle">绝对不要下池</text>
+
+<!-- 禁火标志位置 -->
+<use href="#noFire" x="30" y="190"/>
+<use href="#noFire" x="592" y="248"/>
+<use href="#noFire" x="300" y="190"/>
+
+<!-- 标注 -->
+<text x="20" y="146" font-size="13">人畜粪便、秸秆</text>
+<path d="M66 152 L80 204" stroke="#555" stroke-width="2" marker-end="url(#arG)"/>
+<text x="118" y="206" font-size="14" font-weight="bold">进料口</text>
+<text x="166" y="206" font-size="13" fill="#555">(加盖盖严)</text>
+<text x="328" y="148" font-size="14" font-weight="bold">导气管</text>
+<text x="340" y="190" font-size="13" fill="#555">定期用肥皂水查漏</text>
+<text x="532" y="140" font-size="13" text-anchor="end">开关</text>
+<text x="604" y="104" font-size="13" fill="#555">用气房间要通风</text>
+<text x="676" y="214" font-size="12">灶具</text>
+<text x="472" y="190" font-size="14" font-weight="bold">出料口、水压间</text>
+<text x="488" y="206" font-size="13" fill="#555">(加盖盖严)</text>
+<text x="320" y="282" font-size="14" font-weight="bold" text-anchor="middle">沼气(主要是甲烷)聚在池顶</text>
+<text x="320" y="330" font-size="15" font-weight="bold" fill="#fff" text-anchor="middle">发酵间(密闭)</text>
+<text x="320" y="350" font-size="13" fill="#fff" text-anchor="middle">人畜粪便、秸秆在池内发酵</text>
+<rect x="198" y="366" width="244" height="24" rx="4" fill="#c33"/>
+<text x="320" y="383" font-size="13" font-weight="bold" fill="#fff" text-anchor="middle">几乎没有氧气,还有剧毒的硫化氢</text>
+<text x="610" y="290" font-size="13">沼渣沼液</text>
+<text x="610" y="308" font-size="13">是好肥料</text>
+<line x1="606" y1="296" x2="562" y2="300" stroke="#0b5cad" stroke-width="1.3"/><circle cx="562" cy="300" r="2.6" fill="#0b5cad"/>
+<text x="584" y="350" font-size="12" fill="#555">出料、清渣用池外的</text>
+<text x="584" y="366" font-size="12" fill="#555">抽渣器、长柄工具</text>
+
+<!-- 危险面板 -->
+<rect x="10" y="466" width="700" height="372" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="3"/>
+<path d="M10 474 Q10 466 18 466 H702 Q710 466 710 474 V502 H10 Z" fill="#c33"/>
+<text x="360" y="491" font-size="17" font-weight="bold" fill="#fff" text-anchor="middle">⚠ 沼气池的危险: 每年都有人因此死亡</text>
+<path d="M242 512 V828 M478 512 V828" stroke="#e8b4b4" stroke-width="1.5"/>
+<g font-size="13">
+<!-- 第1列 -->
+<text x="24" y="530" font-size="15" font-weight="bold" fill="#c33">1. 窒息和中毒</text>
+<text x="24" y="552">池内几乎没有氧气,</text>
+<text x="24" y="571">还有剧毒的硫化氢</text>
+<text x="24" y="590">人下到池内几分钟就会</text>
+<text x="24" y="609">昏倒、死亡</text>
+<text x="24" y="634" font-weight="bold">最惨痛的情况:</text>
+<text x="24" y="653" font-weight="bold">一人下池昏倒,家人接连</text>
+<text x="24" y="672" font-weight="bold">下去救,接连遇难</text>
+<text x="24" y="706" font-size="15" font-weight="bold" fill="#c33">2. 爆炸</text>
+<text x="24" y="728">甲烷在空气中浓度达到约</text>
+<text x="24" y="747">5%-15%时,遇明火会爆炸</text>
+<text x="24" y="766">沼气池周围、出料口、</text>
+<text x="24" y="785">密闭的厨房都可能达到</text>
+<text x="24" y="804">这个浓度</text>
+<!-- 第2列 -->
+<text x="256" y="530" font-size="15" font-weight="bold" fill="#c33">✗ 绝对不要下池!</text>
+<text x="256" y="552">出料、清渣使用池外的</text>
+<text x="256" y="571">抽渣器、长柄工具</text>
+<text x="256" y="596" font-weight="bold">确需进池维修,必须由</text>
+<text x="256" y="615" font-weight="bold">专业人员按规程操作:</text>
+<text x="264" y="634">· 打开所有盖口长时间通风</text>
+<text x="264" y="653">· 用仪器检测气体</text>
+<text x="264" y="672">· 系安全绳</text>
+<text x="264" y="691">· 池外有人监护</text>
+<text x="256" y="716" font-weight="bold" fill="#c33">✗ 池口、出料口、导气管</text>
+<text x="256" y="735" font-weight="bold" fill="#c33">附近不点火、不吸烟</text>
+<text x="256" y="754">不用明火“试一试有没有气”</text>
+<text x="256" y="773">(只在灶具处点火)</text>
+<text x="256" y="798">✓ 定期用肥皂水查导气管、</text>
+<text x="256" y="817">开关、接口是否漏气</text>
+<!-- 第3列 -->
+<text x="492" y="530" font-size="15" font-weight="bold" fill="#c33">有人在池内昏倒</text>
+<text x="492" y="554" font-size="15" font-weight="bold" fill="#c33">1. ✗ 不要直接下去救!</text>
+<text x="492" y="576">2. 立即拨打120、119</text>
+<text x="492" y="598">3. 打开所有盖口,用鼓风机、</text>
+<text x="508" y="617">风扇往池内吹新鲜空气</text>
+<text x="492" y="639">4. 只有系好安全绳、有专业</text>
+<text x="508" y="658">防护(呼吸器)、有人在上面</text>
+<text x="508" y="677">拉绳的情况下,才能下池救人</text>
+<text x="492" y="708" font-weight="bold">闻到沼气味(臭鸡蛋味):</text>
+<text x="492" y="727">关闭开关,开窗通风,</text>
+<text x="492" y="746">不要开关电器、不要点火</text>
+<text x="492" y="776">✓ 进料口、出料口、水压间</text>
+<text x="492" y="795">加盖盖严,防止儿童、牲畜</text>
+<text x="492" y="814">掉入</text>
+</g>
+<text x="360" y="864" font-size="13" text-anchor="middle">沼气池的建造需要专业设计和施工(池体密封、压力、防渗),</text>
+<text x="360" y="884" font-size="13" text-anchor="middle">请有资质的施工队按当地农村能源部门的标准建造,不要自行挖坑凑合</text>
+</g>
+</svg>
