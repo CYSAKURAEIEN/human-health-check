@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 544" width="720" height="544" role="img" aria-label="太阳能蒸馏器剖面: 挖一个直径约1 m、深50 cm的坑,坑底中央放容器,坑内可放植物增加水分,坑上铺塑料布,边缘用土压实,中央放小石子使塑料布下凹,凝结水滴入容器;实测通常每天只有几十到几百 mL,挖坑时出的汗往往比收集到的水还多,只作最后手段">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>太阳能蒸馏器(最后手段)</title>
+<defs>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<marker id="arW" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#5b8fc0"/></marker>
+<pattern id="soil" width="14" height="14" patternUnits="userSpaceOnUse"><rect width="14" height="14" fill="#eadfc6"/><circle cx="3" cy="4" r="1.2" fill="#b59d70"/><circle cx="10" cy="10" r="1" fill="#b59d70"/></pattern>
+<g id="plant"><path d="M0,0 L0,-30" stroke="#5f7330" stroke-width="2"/><path d="M0,-8 Q-12,-14 -16,-24 Q-4,-20 0,-12 Z M0,-14 Q12,-20 15,-30 Q4,-26 0,-18 Z M0,-24 Q-8,-30 -8,-38 Q0,-34 0,-28 Z" fill="#8fb357" stroke="#5f7330" stroke-width="1.2"/></g>
+<g id="drop"><path d="M0,0 Q3.5,5 0,8 Q-3.5,5 0,0 Z" fill="#6aa6d6" stroke="#3d78ad" stroke-width="0.8"/></g>
+</defs>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="14" fill="#222">
+<text x="360" y="30" font-size="18" font-weight="bold" text-anchor="middle">太阳能蒸馏器: 最后手段,产水很少</text>
+
+<g transform="translate(10,44)">
+<rect x="0" y="0" width="700" height="324" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<g transform="translate(40,0)">
+<!-- 土和坑 -->
+<rect x="-24" y="120" width="464" height="160" fill="url(#soil)"/>
+<path d="M60,120 C60,210 100,270 210,270 C320,270 360,210 360,120 Z" fill="#fbfaf6" stroke="#8a7350" stroke-width="2.5"/>
+<line x1="-24" y1="120" x2="60" y2="120" stroke="#999" stroke-width="3"/>
+<line x1="360" y1="120" x2="440" y2="120" stroke="#999" stroke-width="3"/>
+<!-- 太阳 -->
+<g transform="translate(300,46)"><circle r="14" fill="#ffd34d" stroke="#e08a00" stroke-width="2"/><path d="M0,-19 V-25 M0,19 V25 M-19,0 H-25 M19,0 H25 M-13.4,-13.4 L-17.7,-17.7 M13.4,13.4 L17.7,17.7 M-13.4,13.4 L-17.7,17.7 M13.4,-13.4 L17.7,-17.7" stroke="#e08a00" stroke-width="2" stroke-linecap="round"/></g>
+<path d="M286,64 L252,187 M300,72 L290,163 M314,64 L330,138" stroke="#e08a00" stroke-width="1.2" stroke-dasharray="4 3"/>
+<!-- 植物 -->
+<use href="#plant" transform="translate(140,259)"/>
+<use href="#plant" transform="translate(280,259) scale(-1,1)"/>
+<!-- 蒸发 -->
+<path d="M100,236 q-6,-10 0,-20 q6,-10 0,-20 q-6,-10 0,-20" fill="none" stroke="#0b5cad" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arB)"/>
+<path d="M322,236 q-6,-10 0,-20 q6,-10 0,-20 q-6,-10 0,-20" fill="none" stroke="#0b5cad" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arB)"/>
+<text x="110" y="212" font-size="13" fill="#0b5cad">水分蒸发</text>
+<!-- 容器 -->
+<path d="M186,232 L190,268 L230,268 L234,232" fill="#f4f8fc" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="188.7,256 190,268 230,268 231.3,256" fill="#9cc3e6"/>
+<!-- 塑料布 -->
+<polyline points="-14,118 60,119 210,214 360,119 434,118" fill="none" stroke="#5b8fc0" stroke-width="3" stroke-linejoin="round"/>
+<!-- 水珠 -->
+<use href="#drop" transform="translate(110,151)"/>
+<use href="#drop" transform="translate(150,177)"/>
+<use href="#drop" transform="translate(185,199)"/>
+<use href="#drop" transform="translate(235,199)"/>
+<use href="#drop" transform="translate(270,177)"/>
+<use href="#drop" transform="translate(310,151)"/>
+<path d="M124,166 L140,176" stroke="#5b8fc0" stroke-width="1.5" marker-end="url(#arW)"/>
+<path d="M296,166 L280,176" stroke="#5b8fc0" stroke-width="1.5" marker-end="url(#arW)"/>
+<use href="#drop" transform="translate(210,217)"/>
+<use href="#drop" transform="translate(210,226) scale(0.8)"/>
+<!-- 石子 -->
+<ellipse cx="210" cy="206" rx="12" ry="8" fill="#9a9a9a" stroke="#333" stroke-width="2"/>
+<!-- 压边的土 -->
+<path d="M-18,121 Q20,94 58,121 Z" fill="#c9b38a" stroke="#8a7350" stroke-width="2"/>
+<path d="M362,121 Q400,94 438,121 Z" fill="#c9b38a" stroke="#8a7350" stroke-width="2"/>
+<!-- 尺寸 -->
+<line x1="60" y1="124" x2="60" y2="302" stroke="#0b5cad" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="360" y1="124" x2="360" y2="302" stroke="#0b5cad" stroke-width="1" stroke-dasharray="3 3"/>
+<path d="M62,294 L358,294" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB)" marker-end="url(#arB)"/>
+<text x="210" y="314" font-size="14" fill="#0b5cad" text-anchor="middle">直径约1 m</text>
+<line x1="34" y1="270" x2="188" y2="270" stroke="#0b5cad" stroke-width="1" stroke-dasharray="3 3"/>
+<path d="M40,122 L40,268" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB)" marker-end="url(#arB)"/>
+<text x="34" y="190" font-size="14" fill="#0b5cad" text-anchor="end">深</text>
+<text x="34" y="208" font-size="14" fill="#0b5cad" text-anchor="end">50 cm</text>
+<!-- 标注 -->
+<line x1="330" y1="138" x2="448" y2="55" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="330" cy="138" r="2.5" fill="#0b5cad"/>
+<text x="452" y="60" fill="#0b5cad">坑上铺塑料布</text>
+<line x1="410" y1="108" x2="448" y2="91" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="410" cy="108" r="2.5" fill="#0b5cad"/>
+<text x="452" y="96" fill="#0b5cad">边缘用土压实</text>
+<line x1="220" y1="202" x2="448" y2="127" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="220" cy="202" r="2.5" fill="#0b5cad"/>
+<text x="452" y="132" fill="#0b5cad">中央放小石子</text>
+<text x="452" y="150" fill="#0b5cad">(使塑料布下凹)</text>
+<line x1="215" y1="226" x2="448" y2="181" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="215" cy="226" r="2.5" fill="#0b5cad"/>
+<text x="452" y="186" fill="#0b5cad">凝结水滴入容器</text>
+<line x1="233" y1="248" x2="448" y2="215" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="233" cy="248" r="2.5" fill="#0b5cad"/>
+<text x="452" y="220" fill="#0b5cad">坑底中央放容器</text>
+<line x1="292" y1="238" x2="448" y2="249" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="292" cy="238" r="2.5" fill="#0b5cad"/>
+<text x="452" y="254" fill="#0b5cad">坑内可放植物</text>
+<text x="452" y="272" fill="#0b5cad">(增加水分)</text>
+</g>
+</g>
+
+<rect x="10" y="380" width="700" height="152" rx="6" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<text x="26" y="405" font-size="15" fill="#c33" font-weight="bold">✗ 实测效果很差: 通常每天只有几十到几百 mL(取决于土壤湿度和日照)</text>
+<text x="26" y="429" font-size="15" fill="#c33">✗ 挖坑时出的汗往往比收集到的水还多</text>
+<text x="26" y="453" font-size="15">只在有现成塑料布、不需大量挖掘、其他水源都不可得时考虑;</text>
+<text x="26" y="475" font-size="15">优先选几乎不耗体力的方法: 收集雨水、塑料布集水、植物蒸腾袋</text>
+<text x="26" y="499" font-size="15">✓ 可以往坑里倒尿、脏水、海水增加水分(收集到的是蒸馏水)</text>
+<text x="26" y="521" font-size="15">✓ 不要在白天最热时挖,在清晨或傍晚动手</text>
+</g>
+</svg>
