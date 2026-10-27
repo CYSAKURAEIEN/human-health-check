@@ -1,0 +1,165 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 712" width="720" height="712" role="img" aria-label="造纸的步骤。原料: 构树皮(剥下内层白色韧皮)、桑树皮、青檀皮;麻、旧麻布、旧棉布;竹子(嫩竹)、稻草、麦秆;废纸回收最简单。① 浸泡: 切成小段,在水里泡几天;② 蒸煮: 加石灰水或草木灰水(碱水)煮几个小时到一天,直到纤维变软、能用手指搓开;③ 洗涤: 清水反复冲洗,去掉碱和杂质;④ 漂白(可选): 阳光下摊晒、反复浇水;⑤ 打浆: 木槌在石板上反复捶打,直到纤维分散成细绒;⑥ 配浆: 大水槽加水搅成很稀的浆,可加纸药;⑦ 抄纸: 纸帘斜着插入、平着抬起,轻轻摇晃,水从网眼滤走;⑧ 压榨: 湿纸叠起,压木板和重物挤出水分;⑨ 干燥: 半干的纸揭下,刷在墙面或木板上晒干;⑩ 施胶(可选): 刷稀淀粉浆或骨胶水。碱水烧皮肤和眼睛,戴手套和护目镜。简易版: 废纸撕碎用热水泡一夜,捣成纸浆,倒进水里搅匀,用纱窗网木框捞起一层,翻扣在布上压去水晾干">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>造纸的步骤</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<pattern id="pulp" width="12" height="10" patternUnits="userSpaceOnUse"><rect width="12" height="10" fill="#d6ebf8"/><path d="M1 3 q3 -2 5 0 M6 8 q3 -2 5 0" fill="none" stroke="#b9a77e" stroke-width="1"/></pattern>
+<pattern id="mesh" width="5" height="5" patternUnits="userSpaceOnUse"><rect width="5" height="5" fill="#fff"/><path d="M0 0.5 H5 M0.5 0 V5" stroke="#999" stroke-width="0.8"/></pattern>
+<g id="sun"><circle r="9" fill="#f6d36b" stroke="#c9962e" stroke-width="1.5"/><path d="M0 -13 V-17 M0 13 V17 M-13 0 H-17 M13 0 H17 M-9 -9 L-12 -12 M9 9 L12 12 M-9 9 L-12 12 M9 -9 L12 -12" stroke="#c9962e" stroke-width="1.5"/></g>
+<g id="vat"><path d="M10 70 V118 H124 V70" fill="url(#pulp)" stroke="#8b6b3e" stroke-width="3"/></g>
+</defs>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="13" fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">造纸的步骤</text>
+<rect x="10" y="42" width="700" height="58" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="22" y="65" font-size="14"><tspan font-weight="bold">原料</tspan>: 构树皮(剥下内层的白色韧皮)、桑树皮、青檀皮;麻、旧麻布、旧棉布(最容易);</text>
+<text x="66" y="88" font-size="14">竹子(嫩竹)、稻草、麦秆(纤维短,纸较粗);废纸回收(最简单)</text>
+
+<!-- ① 浸泡 -->
+<g transform="translate(10,110)">
+<rect width="134" height="212" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="22" font-size="15" font-weight="bold">① 浸泡</text>
+<path d="M24.1 90 L30 118 H104 L109.9 90 Z" fill="#d6ebf8"/>
+<g fill="#b98c4f" stroke="#333" stroke-width="1"><rect x="38" y="96" width="22" height="5" rx="2" transform="rotate(-12 49 98)"/><rect x="66" y="104" width="22" height="5" rx="2" transform="rotate(10 77 106)"/><rect x="50" y="108" width="20" height="5" rx="2"/><rect x="80" y="94" width="20" height="5" rx="2" transform="rotate(-6 90 96)"/></g>
+<path d="M22 80 L30 118 H104 L112 80" fill="none" stroke="#333" stroke-width="2.5"/>
+<text x="10" y="146">切成小段,</text>
+<text x="10" y="164">在水里泡几天</text>
+</g>
+<!-- ② 蒸煮 -->
+<g transform="translate(151.5,110)">
+<rect width="134" height="212" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="22" font-size="15" font-weight="bold">② 蒸煮</text>
+<path d="M50 52 q-6 -6 0 -12 q6 -6 0 -12 M67 52 q-6 -6 0 -12 q6 -6 0 -12 M84 52 q-6 -6 0 -12 q6 -6 0 -12" fill="none" stroke="#888" stroke-width="1.5"/>
+<path d="M28 60 H106 V90 Q106 104 92 104 H42 Q28 104 28 90 Z" fill="#bbb" stroke="#333" stroke-width="2.5"/>
+<path d="M30 68 H104" stroke="#8a7a5a" stroke-width="2"/>
+<text x="67" y="90" font-size="14" font-weight="bold" text-anchor="middle">碱水</text>
+<path d="M40 118 Q44 104 50 112 Q56 100 64 112 Q70 102 78 112 Q84 104 92 118 Z" fill="#f2a33a" stroke="#c33" stroke-width="1"/>
+<path d="M24 120 H110" stroke="#999" stroke-width="3"/>
+<text x="10" y="140">加石灰水或</text>
+<text x="10" y="157">草木灰水(碱水)</text>
+<text x="10" y="174">煮几个小时到一天,</text>
+<text x="10" y="191">至纤维能用手指搓开</text>
+</g>
+<!-- ③ 洗涤 -->
+<g transform="translate(293,110)">
+<rect width="134" height="212" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="22" font-size="15" font-weight="bold">③ 洗涤</text>
+<path d="M8 84 H126 V118 H8 Z" fill="#d6ebf8"/>
+<path d="M8 84 H126 M8 118 H126" stroke="#999" stroke-width="2"/>
+<path d="M14 96 H36 M14 108 H32 M98 100 H120" stroke="#0b5cad" stroke-width="1.5" marker-end="url(#arB)"/>
+<path d="M48 54 L62 62 M62 62 L58 44" stroke="#8b6b3e" stroke-width="3"/>
+<path d="M60 66 Q46 70 46 92 Q46 112 66 112 Q88 112 88 92 Q88 70 72 66 Z" fill="#e8dcc0" stroke="#333" stroke-width="2"/>
+<path d="M58 66 H74" stroke="#333" stroke-width="3"/>
+<text x="10" y="146">清水反复冲洗,</text>
+<text x="10" y="164">去掉碱和杂质</text>
+<text x="10" y="182" fill="#555">(可装在布袋里,</text>
+<text x="10" y="199" fill="#555">放在流水中漂洗)</text>
+</g>
+<!-- ④ 漂白 -->
+<g transform="translate(434.5,110)">
+<rect width="134" height="212" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="22" font-size="15" font-weight="bold">④ 漂白(可选)</text>
+<use href="#sun" x="104" y="52"/>
+<path d="M14 114 H120" stroke="#999" stroke-width="3"/>
+<path d="M20 110 H114" stroke="#c9a26a" stroke-width="6"/>
+<path d="M24 104 q20 -6 40 0 t44 0 M28 98 q18 -5 36 0 t36 0" fill="none" stroke="#e4d7b4" stroke-width="3"/>
+<path d="M34 70 q-3 6 0 8 q3 -2 0 -8 Z M50 78 q-3 6 0 8 q3 -2 0 -8 Z M66 68 q-3 6 0 8 q3 -2 0 -8 Z" fill="#7aa6cc"/>
+<text x="10" y="146">阳光下摊晒、</text>
+<text x="10" y="164">反复浇水,</text>
+<text x="10" y="182">纤维逐渐变白</text>
+</g>
+<!-- ⑤ 打浆 -->
+<g transform="translate(576,110)">
+<rect width="134" height="212" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="22" font-size="15" font-weight="bold">⑤ 打浆</text>
+<rect x="18" y="100" width="98" height="18" rx="3" fill="#bbb" stroke="#333" stroke-width="2"/>
+<path d="M38 100 Q42 90 56 92 Q70 86 84 92 Q96 92 98 100 Z" fill="#f3ecd8" stroke="#333" stroke-width="1.5"/>
+<path d="M108 40 L76 70" stroke="#8b6b3e" stroke-width="5" stroke-linecap="round"/>
+<rect x="56" y="62" width="34" height="18" rx="4" fill="#b98c4f" stroke="#333" stroke-width="2" transform="rotate(-42 73 71)"/>
+<path d="M44 58 Q40 74 50 84" fill="none" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<text x="10" y="140">木槌在石板上</text>
+<text x="10" y="157">反复捶打,直到</text>
+<text x="10" y="174">纤维分散成细绒</text>
+<text x="10" y="191" fill="#555">打浆越充分纸越细密</text>
+</g>
+
+<!-- ⑥ 配浆 -->
+<g transform="translate(10,330)">
+<rect width="134" height="212" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="22" font-size="15" font-weight="bold">⑥ 配浆</text>
+<use href="#vat"/>
+<path d="M96 40 L64 108" stroke="#8b6b3e" stroke-width="4" stroke-linecap="round"/>
+<path d="M40 84 q10 -6 20 0 q10 6 20 0" fill="none" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="10" y="140">大水槽加水,</text>
+<text x="10" y="157">搅成很稀的浆</text>
+<text x="10" y="174">(像稀米汤);</text>
+<text x="10" y="191">可加"纸药"</text>
+</g>
+<!-- ⑦ 抄纸 -->
+<g transform="translate(151.5,330)">
+<rect width="134" height="212" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="22" font-size="15" font-weight="bold">⑦ 抄纸</text>
+<use href="#vat"/>
+<rect x="30" y="44" width="74" height="8" fill="url(#mesh)" stroke="#8b6b3e" stroke-width="2.5"/>
+<path d="M33 48 H101" stroke="#f3ecd8" stroke-width="3"/>
+<path d="M44 58 v6 M60 60 v6 M76 58 v6 M92 60 v6" stroke="#7aa6cc" stroke-width="2"/>
+<path d="M20 40 Q16 70 30 90 Q44 100 56 74" fill="none" stroke="#c33" stroke-width="2" stroke-dasharray="4 3" marker-end="url(#arR)"/>
+<text x="112" y="40" font-size="12" fill="#0b5cad" text-anchor="end">纸帘</text>
+<text x="10" y="140">纸帘斜着插入、</text>
+<text x="10" y="157">平着抬起,轻摇</text>
+<text x="10" y="174">让纤维均匀分布,</text>
+<text x="10" y="191">水从网眼滤走</text>
+</g>
+<!-- ⑧ 压榨 -->
+<g transform="translate(293,330)">
+<rect width="134" height="212" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="22" font-size="15" font-weight="bold">⑧ 压榨</text>
+<path d="M14 118 H120" stroke="#999" stroke-width="3"/>
+<g fill="#f3ecd8" stroke="#333" stroke-width="1"><rect x="30" y="110" width="74" height="6"/><rect x="30" y="104" width="74" height="6"/><rect x="30" y="98" width="74" height="6"/><rect x="30" y="92" width="74" height="6"/></g>
+<rect x="24" y="82" width="86" height="10" fill="#b98c4f" stroke="#333" stroke-width="2"/>
+<path d="M44 82 Q40 58 64 56 Q92 56 90 82 Z" fill="#aaa" stroke="#333" stroke-width="2"/>
+<path d="M16 50 V74 M118 50 V74" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<path d="M26 104 q-3 6 0 8 q3 -2 0 -8 Z M108 104 q-3 6 0 8 q3 -2 0 -8 Z" fill="#7aa6cc"/>
+<text x="10" y="140">湿纸一张张叠起</text>
+<text x="10" y="157">(中间可以垫布),</text>
+<text x="10" y="174">压木板和重物,</text>
+<text x="10" y="191">挤出水分</text>
+</g>
+<!-- ⑨ 干燥 -->
+<g transform="translate(434.5,330)">
+<rect width="134" height="212" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="22" font-size="15" font-weight="bold">⑨ 干燥</text>
+<use href="#sun" x="108" y="50"/>
+<rect x="14" y="36" width="72" height="82" fill="#e4d2b4" stroke="#333" stroke-width="2"/>
+<rect x="22" y="46" width="26" height="34" fill="#fff" stroke="#333" stroke-width="1.2"/>
+<rect x="54" y="46" width="26" height="34" fill="#fff" stroke="#333" stroke-width="1.2"/>
+<rect x="22" y="84" width="26" height="30" fill="#fff" stroke="#333" stroke-width="1.2"/>
+<path d="M14 118 H124" stroke="#999" stroke-width="3"/>
+<text x="10" y="140">半干的纸揭下,</text>
+<text x="10" y="157">刷在平整的墙面</text>
+<text x="10" y="174">或木板上晒干</text>
+</g>
+<!-- ⑩ 施胶 -->
+<g transform="translate(576,330)">
+<rect width="134" height="212" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="22" font-size="15" font-weight="bold">⑩ 施胶(可选)</text>
+<path d="M20 112 L36 72 H116 L104 112 Z" fill="#fff" stroke="#333" stroke-width="2"/>
+<path d="M38 104 L48 80 H72 L62 104 Z" fill="#f4ecd0"/>
+<path d="M98 44 L74 84" stroke="#8b6b3e" stroke-width="4" stroke-linecap="round"/>
+<path d="M70 82 L80 88 L72 98 L62 94 Z" fill="#c9a26a" stroke="#333" stroke-width="1.2"/>
+<text x="10" y="140">刷一层稀淀粉浆</text>
+<text x="10" y="157">或骨胶水,干后</text>
+<text x="10" y="174">墨水不容易洇开</text>
+</g>
+
+<!-- 安全 -->
+<rect x="10" y="554" width="700" height="62" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="2"/>
+<text x="22" y="578" font-size="15" font-weight="bold" fill="#c33">⚠️ 碱水(石灰水、草木灰水)烧皮肤和眼睛: 戴手套和护目镜,见制皂一章的安全须知</text>
+<text x="22" y="602" font-size="14" fill="#555">碱的作用: 溶解植物中把纤维粘在一起的胶质和木质素</text>
+<!-- 简易版 -->
+<rect x="10" y="626" width="700" height="76" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="22" y="650" font-size="15" font-weight="bold">简易版(废纸回收)</text>
+<text x="22" y="672" font-size="14">废纸撕碎,热水泡一夜 → 捣成纸浆(没有工具可以用手揉搓) → 倒进一盆水里搅匀 →</text>
+<text x="22" y="692" font-size="14">纱窗网绷在木框上做纸帘,捞起一层纸浆 → 翻扣在布上,压去水,晾干</text>
+</g>
+</svg>

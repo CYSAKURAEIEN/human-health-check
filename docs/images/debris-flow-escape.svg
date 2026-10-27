@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 620" width="720" height="620" role="img" aria-label="泥石流逃生示意图: 与沟谷走向垂直,往两侧山坡的高处跑,不要顺沟往下游跑,不要往沟里跑;沟谷底部不要逗留;前兆: 沟水突然断流或变小、沟水突然变浑变稠夹带草木泡沫、上游传来像火车的轰鸣和地面震动、两侧山坡滚石坍塌和山体裂缝、动物异常惊恐,出现任何一个立即离开沟谷;不要上树,不要躲在凹坡、陡坡下、土坎下、大石头背后,不要停在桥上、沟边、弯道外侧,撤到高处后不要下来看、不要回去抢东西">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>泥石流逃生: 与沟谷垂直,往两侧山坡高处跑</title>
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="ag" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#888"/></marker>
+<marker id="am" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#6b4a2a"/></marker>
+<!-- 简化人形(正面),脚底在 y=0 -->
+<g id="p">
+<g stroke-linecap="round"><path d="M-3,-12 L-5,0 M3,-12 L5,0" stroke="#333" stroke-width="3.5"/></g>
+<rect x="-7" y="-31" width="14" height="20" rx="4" fill="#cfe0f0" stroke="#333" stroke-width="2"/>
+<circle cx="0" cy="-38" r="7" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+</g>
+</defs>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="14" fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">泥石流逃生: 与沟谷走向垂直,往两侧山坡高处跑</text>
+
+<!-- A 俯视 -->
+<g transform="translate(10,42)">
+<rect x="0" y="0" width="440" height="310" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="24" font-size="14" fill="#555">俯视</text>
+<!-- 等高线 -->
+<g fill="none" stroke="#aaa" stroke-width="1.2">
+<path d="M12,98 C120,84 230,114 428,94"/>
+<path d="M12,68 C120,54 230,84 428,64"/>
+<path d="M12,38 C120,24 230,54 428,34"/>
+<path d="M12,204 C120,190 230,220 428,200"/>
+<path d="M12,234 C120,220 230,250 428,230"/>
+<path d="M12,264 C120,250 230,280 428,260"/>
+</g>
+<!-- 沟谷 -->
+<path d="M12,128 C120,114 230,144 428,124 L428,170 C230,190 120,160 12,174 Z" fill="#c9a77c" stroke="#333" stroke-width="2"/>
+<g stroke="#6b4a2a" stroke-width="3">
+<path d="M70,148 L118,146" marker-end="url(#am)"/>
+<path d="M150,152 L198,154" marker-end="url(#am)"/>
+<path d="M330,152 L378,150" marker-end="url(#am)"/>
+</g>
+<g font-size="13" fill="#222">
+<text x="18" y="155">上游</text>
+<text x="390" y="153">下游</text>
+<text x="232" y="160" fill="#4a3018">泥石流</text>
+</g>
+<!-- 上侧: 往高处跑 -->
+<use href="#p" transform="translate(150,120)"/>
+<path d="M150,72 L150,20" stroke="#c33" stroke-width="4" marker-end="url(#ar)"/>
+<!-- 下侧: 往高处跑 -->
+<use href="#p" transform="translate(270,222)"/>
+<path d="M270,228 L270,282" stroke="#c33" stroke-width="4" marker-end="url(#ar)"/>
+<!-- 顺沟往下游: 错误 -->
+<path d="M290,196 L410,196" stroke="#888" stroke-width="3" stroke-dasharray="7,5" marker-end="url(#ag)"/>
+<path d="M340,184 L362,208 M362,184 L340,208" stroke="#c33" stroke-width="3.5" stroke-linecap="round"/>
+<g paint-order="stroke" stroke="#fff" stroke-width="5" stroke-linejoin="round">
+<text x="164" y="44" font-size="15" fill="#c33">✓ 往山坡高处跑</text>
+<text x="284" y="262" font-size="15" fill="#c33">✓ 往山坡高处跑</text>
+<text x="296" y="226" font-size="14" fill="#c33">✗ 不要顺沟往下游跑</text>
+<text x="250" y="22" font-size="13" fill="#0b5cad">细线: 等高线,越往外越高</text>
+</g>
+<text x="14" y="300" font-size="14">方向与沟谷走向垂直;顺沟往下游跑,人跑不过泥石流</text>
+</g>
+
+<!-- B 横断面 -->
+<g transform="translate(460,42)">
+<rect x="0" y="0" width="250" height="310" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="24" font-size="14" fill="#555">横断面</text>
+<path d="M12,50 L100,230 L150,230 L238,50 L238,250 L12,250 Z" fill="#eee"/>
+<path d="M12,50 L100,230 L150,230 L238,50" fill="none" stroke="#999" stroke-width="3"/>
+<path d="M88,205 L100,230 L150,230 L162,205 Z" fill="#c9a77c" stroke="#333" stroke-width="2"/>
+<g fill="#888" stroke="#333" stroke-width="1"><circle cx="108" cy="219" r="5"/><circle cx="127" cy="223" r="4"/><circle cx="144" cy="215" r="6"/><circle cx="118" cy="210" r="3"/></g>
+<path d="M95,190 L67,133" stroke="#c33" stroke-width="4" marker-end="url(#ar)"/>
+<path d="M155,190 L183,133" stroke="#c33" stroke-width="4" marker-end="url(#ar)"/>
+<use href="#p" transform="translate(50,126)"/>
+<use href="#p" transform="translate(200,126)"/>
+<text x="125" y="58" font-size="15" fill="#c33" text-anchor="middle">✓ 往两侧高处</text>
+<line x1="125" y1="240" x2="125" y2="226" stroke="#0b5cad" stroke-width="1"/>
+<text x="125" y="268" font-size="14" fill="#0b5cad" text-anchor="middle">沟谷底部: 不要逗留</text>
+<text x="125" y="292" font-size="13" fill="#555" text-anchor="middle">跑得越高越好、越远越好</text>
+</g>
+
+<!-- C 前兆 -->
+<g transform="translate(10,362)">
+<rect x="0" y="0" width="350" height="216" rx="8" fill="#fff8e6" stroke="#d9a400" stroke-width="2"/>
+<text x="16" y="28" font-size="16" font-weight="bold">前兆: 出现任何一个,立即离开沟谷</text>
+<text x="16" y="56" font-size="14">● 沟水突然断流、突然变小</text>
+<text x="32" y="75" font-size="13" fill="#c33">上游可能被堵住,随时会一起冲下来,不是"雨停了"</text>
+<text x="16" y="101" font-size="14">● 沟水突然变得很浑、很稠,夹带草木、泡沫</text>
+<text x="16" y="127" font-size="14">● 上游传来像火车、打雷一样的轰鸣,地面震动</text>
+<text x="16" y="153" font-size="14">● 两侧山坡有滚石、坍塌,山体裂缝</text>
+<text x="16" y="179" font-size="14">● 动物异常惊恐</text>
+<text x="16" y="204" font-size="13" fill="#555">往两侧高处撤,不要等着看</text>
+</g>
+
+<!-- D 不要 -->
+<g transform="translate(370,362)">
+<rect x="0" y="0" width="340" height="216" rx="8" fill="#fdecec" stroke="#c33" stroke-width="2"/>
+<text x="16" y="28" font-size="16" font-weight="bold" fill="#c33">不要</text>
+<text x="16" y="56" font-size="14">✗ 不要顺沟往下游跑,不要往沟里跑</text>
+<text x="16" y="82" font-size="14">✗ 不要上树(可能被冲倒)</text>
+<text x="16" y="108" font-size="14">✗ 不要躲在凹坡、陡坡下、土坎下、</text>
+<text x="32" y="127" font-size="14">大石头背后</text>
+<text x="16" y="153" font-size="14">✗ 不要停在桥上、沟边、弯道外侧</text>
+<text x="32" y="172" font-size="13" fill="#555">泥石流在弯道处会冲高、漫出</text>
+<text x="16" y="198" font-size="14">✗ 撤到高处后不要下来看、回去抢东西</text>
+</g>
+
+<text x="360" y="604" font-size="15" text-anchor="middle">泥石流往往一阵一阵地来,第一波过后会有更大的一波;等当地通知后再返回</text>
+</g>
+</svg>

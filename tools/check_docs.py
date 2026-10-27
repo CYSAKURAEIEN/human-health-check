@@ -115,6 +115,8 @@ def check_units(files, errors):
             for rx, u in cn:
                 for m in rx.finditer(plain):
                     errors.append(f'{f}:{i}: 单位用符号,不写"{m.group(0)}"')
+            for m in re.finditer(r'(?<![A-Za-z])ml\b', plain):
+                errors.append(f'{f}:{i}: 毫升写作 mL,不写 ml')
             for m in tight.finditer(plain):
                 errors.append(f'{f}:{i}: 数字和单位符号之间要空格: "{m.group(0)}"')
 
