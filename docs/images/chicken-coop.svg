@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 820" width="720" height="820" role="img" aria-label="鸡舍布局剖面: 坐北朝南,北墙少开窗;鸡舍高2-2.5 m;屋脊或屋檐下留排气口,进风口在下方,鸡身高度不能有穿堂风;窗和通风口钉孔径约1-1.5 cm的金属网;栖杆同一高度,直径4-5 cm,间距30-35 cm,离地30-60 cm,下设接粪板每周清理;产蛋箱30×30×30 cm,前挡板约10 cm,箱底离地40-60 cm,放在暗处,比栖架低;地面硬化并铺垫料;墙基向下埋网30-45 cm,或墙外地面平铺50 cm宽的网再盖土;运动场面积为鸡舍2-3倍,网高约1.8-2 m,有遮阴和沙浴坑。按鸡数算: 舍内轻型蛋鸡6-8只/m²,土鸡、兼用鸡4-6只/m²;栖架每只15-20 cm(大体型20-25 cm);产蛋箱每4-5只一个;料槽每只约8-10 cm;饮水每只每天约0.2-0.3 L,热天加倍;窗和通风口总面积约占地面1/10以上" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 820" width="720" height="820" role="img" aria-label="鸡舍布局剖面: 坐北朝南,北墙少开窗;鸡舍高2-2.5 m;屋脊或屋檐下留排气口,进风口在下方,鸡身高度不能有穿堂风;窗和通风口钉孔径约1-1.5 cm的金属网;栖杆同一高度,直径4-5 cm,间距30-35 cm,离地约50-60 cm,下设接粪板每周清理;产蛋箱30×30×30 cm,前挡板约10 cm,箱底离地约30-40 cm,放在暗处,比栖架低;地面硬化并铺垫料;墙基向下埋网30-45 cm,或墙外地面平铺50 cm宽的网再盖土;运动场面积为鸡舍2-3倍,网高约1.8-2 m,有遮阴和沙浴坑。按鸡数算: 舍内轻型蛋鸡6-8只/m²,土鸡、兼用鸡4-6只/m²;栖架每只15-20 cm(大体型20-25 cm);产蛋箱每4-5只一个;料槽每只约8-10 cm;饮水每只每天约0.2-0.3 L,热天加倍;窗和通风口总面积约占地面1/10以上" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
 <rect width="100%" height="100%" fill="#fff"/>
 <title>鸡舍布局</title>
 <defs>
@@ -88,7 +88,7 @@
 <path d="M374 333 V418" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB0)" marker-end="url(#arB)"/>
 <path d="M336 330 H380" stroke="#0b5cad" stroke-width="1" stroke-dasharray="3 2"/>
 <text x="380" y="372" font-size="13" fill="#0b5cad">离地</text>
-<text x="380" y="388" font-size="13" fill="#0b5cad">30-60 cm</text>
+<text x="380" y="388" font-size="13" fill="#0b5cad">50-60 cm</text>
 
 <!-- 高度 -->
 <path d="M84 228 V426" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB0)" marker-end="url(#arB)"/>
@@ -133,7 +133,7 @@
 <text x="16" y="474" font-size="13" fill="#c33">埋网</text>
 <text x="16" y="490" font-size="13" fill="#c33">30-45 cm</text>
 <text x="134" y="460" font-size="13">产蛋箱30×30×30 cm,前挡板约10 cm;</text>
-<text x="134" y="477" font-size="13">箱底离地40-60 cm,放在暗处,比栖架低</text>
+<text x="134" y="477" font-size="13">箱底离地约30-40 cm,放在暗处,比栖杆低</text>
 <text x="134" y="502" font-size="13">地面硬化(水泥、三合土),铺垫料(稻草、木屑)</text>
 <line x1="150" y1="448" x2="150" y2="404" stroke="#0b5cad" stroke-width="1.3"/><circle cx="150" cy="404" r="2.6" fill="#0b5cad"/>
 <text x="476" y="462" font-size="13" fill="#c33">或: 墙外地面平铺50 cm</text>
