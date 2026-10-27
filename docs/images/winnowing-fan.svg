@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 924" width="720" height="924" role="img" aria-label="扬场与风选: ①风车(扇车),粮食从上方漏斗匀速落下,漏斗下口有可调节的闸板控制落料速度,穿过手摇风扇吹出的侧向风,重粒几乎直落到靠近风扇的出口,轻的瘪粒被吹偏一点落到稍远的出口,壳和尘土从木箱另一端的开口吹出;摇得快风大好粒也可能被吹走,摇得慢壳吹不干净,落料要细而匀;摇柄会卷住衣袖头发。②借风扬场,等稳定的微风,人侧对风站,用木锨把粮食斜向上抛成弧线,饱满籽粒落在近处,瘪粒碎壳落在稍远处,尘土碎叶被吹走。③簸箕,双手端住两侧上下颠动并稍向前送,籽粒向里面集中,谷壳被颠到前沿抖出去" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>扬场与风选: 风车、扬场和簸箕</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="arR2" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<g id="gh"><ellipse rx="4.5" ry="3" fill="#d9a520" stroke="#6b4f10" stroke-width="1"/></g>
+<g id="gl"><ellipse rx="4" ry="2.5" fill="#f6eecb" stroke="#a08a50" stroke-width="1"/></g>
+<g id="ch"><path d="M-4,1 L4,-1" stroke="#999" stroke-width="1.5"/></g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">扬场与风选: 借风把轻的吹走</text>
+
+<!-- ① 风车 -->
+<rect x="10" y="44" width="700" height="496" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="70" font-size="16" font-weight="bold">① 风车(扇车): 没有风的日子,用手摇风车自己造风(剖面)</text>
+<path d="M11.5,368 H708.5" stroke="#999" stroke-width="3"/>
+<path d="M150,294 V368 M588,294 V368" stroke="#8f6d2e" stroke-width="5"/>
+<!-- 木箱 + 圆形风道 -->
+<path d="M110,178 H600 V294 H110 A58,58 0 0 1 110,178 Z" fill="#fbf6ec"/>
+<path d="M600,178 H110 A58,58 0 0 0 110,294 H246 M306,294 H360 M430,294 H600" fill="none" stroke="#8f6d2e" stroke-width="4"/>
+<!-- 出口 -->
+<path d="M246,294 L262,334 M306,294 L290,334 M360,294 L378,334 M430,294 L412,334" stroke="#8f6d2e" stroke-width="3"/>
+<path d="M248,338 H304 L300,366 H252 Z" fill="#e8dcc0" stroke="#333" stroke-width="1.5"/>
+<path d="M366,338 H424 L420,366 H370 Z" fill="#e8dcc0" stroke="#333" stroke-width="1.5"/>
+<use href="#gh" x="268" y="336"/><use href="#gh" x="280" y="334"/><use href="#gh" x="274" y="340"/><use href="#gh" x="286" y="340"/>
+<use href="#gl" x="388" y="336"/><use href="#gl" x="400" y="339"/><use href="#gl" x="394" y="333"/>
+<!-- 风扇 -->
+<g fill="#d9c29a" stroke="#333" stroke-width="1.5">
+<rect x="110" y="231" width="48" height="10" transform="rotate(20,110,236)"/>
+<rect x="110" y="231" width="48" height="10" transform="rotate(110,110,236)"/>
+<rect x="110" y="231" width="48" height="10" transform="rotate(200,110,236)"/>
+<rect x="110" y="231" width="48" height="10" transform="rotate(290,110,236)"/>
+</g>
+<circle cx="110" cy="236" r="6" fill="#333"/>
+<path d="M110,236 L68,290" stroke="#555" stroke-width="5" stroke-linecap="round"/>
+<circle cx="68" cy="290" r="7" fill="#8f6d2e" stroke="#333" stroke-width="1.5"/>
+<!-- 漏斗 + 闸板 -->
+<path d="M212,96 H328 L282,166 H258 Z" fill="#fbf6ec" stroke="#8f6d2e" stroke-width="3" stroke-linejoin="round"/>
+<path d="M232,126 H308 L282,166 H258 Z" fill="#e3c46a"/>
+<path d="M258,166 V178 M282,166 V178" stroke="#8f6d2e" stroke-width="3"/>
+<rect x="236" y="164" width="32" height="5" fill="#555" stroke="#333" stroke-width="1"/>
+<!-- 风 -->
+<path d="M176,212 H232 M176,238 H232 M176,264 H232" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<path d="M470,246 H560" stroke="#c33" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#arR)"/>
+<text x="188" y="204" font-size="14" font-weight="bold" fill="#c33">风</text>
+<!-- 颗粒轨迹 -->
+<path d="M270,182 Q276,240 276,292" fill="none" stroke="#d9a520" stroke-width="1" stroke-dasharray="3 3"/>
+<path d="M272,182 Q300,210 394,292" fill="none" stroke="#a08a50" stroke-width="1" stroke-dasharray="3 3"/>
+<use href="#gh" x="271" y="196"/><use href="#gh" x="273" y="218"/><use href="#gh" x="275" y="242"/><use href="#gh" x="276" y="266"/><use href="#gh" x="276" y="286"/>
+<use href="#gl" x="290" y="204"/><use href="#gl" x="314" y="222"/><use href="#gl" x="340" y="243"/><use href="#gl" x="364" y="264"/><use href="#gl" x="384" y="284"/>
+<use href="#ch" x="300" y="196"/><use href="#ch" x="340" y="204"/><use href="#ch" x="386" y="208"/><use href="#ch" x="430" y="214"/><use href="#ch" x="480" y="218"/><use href="#ch" x="530" y="222"/><use href="#ch" x="580" y="224"/><use href="#ch" x="622" y="226"/><use href="#ch" x="656" y="232"/><use href="#ch" x="688" y="238"/>
+<g fill="#999"><circle cx="320" cy="200" r="1.5"/><circle cx="410" cy="206" r="1.5"/><circle cx="505" cy="212" r="1.5"/><circle cx="600" cy="216" r="1.5"/><circle cx="640" cy="220" r="1.5"/><circle cx="672" cy="214" r="1.5"/></g>
+<!-- 标注 -->
+<g stroke="#555" stroke-width="1"><path d="M174,152 L238,164"/><path d="M336,118 L314,124"/><path d="M40,127 L72,214"/></g>
+<g font-size="13">
+<text x="24" y="104">手摇风扇: 4-6片木叶片</text>
+<text x="24" y="122">装在轴上,外面有圆形风道</text>
+<text x="80" y="156">可调节的闸板:</text>
+<text x="80" y="172">控制落料速度</text>
+<text x="340" y="114">漏斗: 粮食从上方匀速落下</text>
+<text x="24" y="318">摇柄</text>
+<text x="560" y="286" fill="#555">木箱</text>
+<text x="654" y="282" text-anchor="middle">箱的另一端</text>
+<text x="654" y="300" text-anchor="middle">开口: 壳和</text>
+<text x="654" y="318" text-anchor="middle">尘土吹出去</text>
+<text x="300" y="166" fill="#6b4f10">重粒几乎直落</text>
+<text x="394" y="262" fill="#7a6838">轻粒被吹偏一点</text>
+</g>
+<g font-size="14" font-weight="bold" text-anchor="middle">
+<text x="276" y="390">出口1: 饱满粮食</text>
+<text x="395" y="390" text-anchor="start">出口2: 瘪粒(稍远)</text>
+</g>
+<text x="276" y="408" font-size="13" text-anchor="middle" fill="#555">(靠近风扇)</text>
+<path d="M24,424 H696" stroke="#ddd" stroke-width="1.5"/>
+<g font-size="14">
+<text x="24" y="448" font-weight="bold">调节:</text>
+<text x="24" y="470">• 摇得快 → 风大,好粒也可能被吹走</text>
+<text x="24" y="492">• 摇得慢 → 风小,壳吹不干净</text>
+<text x="24" y="514">• 落料要细而匀,一下倒太多就吹不透</text>
+</g>
+<rect x="372" y="436" width="326" height="92" rx="6" fill="#fbeaea" stroke="#c33" stroke-width="1.5"/>
+<g font-size="14" fill="#c33">
+<text x="384" y="460" font-weight="bold">⚠ 风车摇柄会卷住衣袖、头发、围巾</text>
+<text x="384" y="484">→ 扎紧袖口,长发盘起,不戴围巾和长挂件</text>
+<text x="384" y="508">⚠ 调整、清理前先让它完全停下来</text>
+</g>
+
+<!-- ② 借风扬场 -->
+<rect x="10" y="552" width="700" height="360" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<line x1="360" y1="566" x2="360" y2="898" stroke="#ddd" stroke-width="1.5"/>
+<text x="24" y="578" font-size="16" font-weight="bold">② 借风扬场</text>
+<path d="M11.5,700 H352 V740 H11.5 Z" fill="#e8e8e8"/>
+<path d="M11.5,700 H352" stroke="#999" stroke-width="3"/>
+<path d="M24,596 H92 M272,596 H340" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<text x="100" y="601" font-size="14" font-weight="bold" fill="#c33">风</text>
+<!-- 人(正面) -->
+<path d="M63,680 L58,700 M77,680 L82,700" stroke="#333" stroke-width="4" stroke-linecap="round"/>
+<rect x="55" y="634" width="30" height="48" rx="10" fill="#cfe0f0" stroke="#333" stroke-width="2"/>
+<circle cx="70" cy="620" r="12" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M84,664 L130,606" stroke="#8f6d2e" stroke-width="4" stroke-linecap="round"/>
+<path d="M124,602 L142,586 L150,596 L134,612 Z" fill="#d9c29a" stroke="#333" stroke-width="1.5"/>
+<path d="M58,642 L92,654 M82,640 L110,628" fill="none" stroke="#333" stroke-width="3.5" stroke-linecap="round"/>
+<text x="104" y="666" font-size="13">木锨</text>
+<!-- 抛出的弧线和落点 -->
+<path d="M146,590 Q168,560 182,580" fill="none" stroke="#aaa" stroke-width="1" stroke-dasharray="3 3"/>
+<use href="#gh" x="156" y="576"/><use href="#gh" x="168" y="570"/><use href="#gl" x="176" y="574"/>
+<use href="#gh" x="186" y="604"/><use href="#gh" x="192" y="632"/><use href="#gh" x="196" y="660"/><use href="#gh" x="199" y="684"/>
+<use href="#gl" x="200" y="606"/><use href="#gl" x="220" y="634"/><use href="#gl" x="240" y="660"/><use href="#gl" x="256" y="684"/>
+<use href="#ch" x="212" y="588"/><use href="#ch" x="252" y="596"/><use href="#ch" x="292" y="616"/><use href="#ch" x="330" y="622"/>
+<g fill="#999"><circle cx="232" cy="584" r="1.5"/><circle cx="272" cy="606" r="1.5"/><circle cx="312" cy="612" r="1.5"/></g>
+<path d="M178,700 A22,10 0 0 1 222,700 Z" fill="#d9a520" stroke="#6b4f10" stroke-width="1.5"/>
+<path d="M248,700 A18,7 0 0 1 284,700 Z" fill="#f6eecb" stroke="#a08a50" stroke-width="1.5"/>
+<g font-size="13" text-anchor="middle">
+<text x="200" y="718" font-weight="bold">饱满籽粒</text><text x="200" y="734">(近处)</text>
+<text x="272" y="718" font-weight="bold">瘪粒、碎壳</text><text x="272" y="734">(稍远处)</text>
+<text x="346" y="640" text-anchor="end" fill="#555">尘土和碎叶</text><text x="346" y="656" text-anchor="end" fill="#555">被吹走</text>
+</g>
+<g font-size="13">
+<text x="24" y="762">1. 等有稳定的微风(树叶不停摇动、细枝</text>
+<text x="42" y="780">轻摆的程度);风太大会把好粒也吹走</text>
+<text x="24" y="800">2. 人侧对风站,用木锨铲起粮食,斜向上</text>
+<text x="42" y="818">抛成一道弧线</text>
+<text x="24" y="838">3. 重的饱满籽粒落在近处,轻的瘪粒和碎</text>
+<text x="42" y="856">壳落在稍远处,尘土和碎叶被吹走</text>
+<text x="24" y="876">4. 扫帚轻扫籽粒堆表面的碎壳(掠场)</text>
+<text x="24" y="896">5. 一般扬两三遍才干净</text>
+</g>
+
+<!-- ③ 簸箕 -->
+<text x="374" y="578" font-size="16" font-weight="bold">③ 簸箕(少量粮食)</text>
+<path d="M404,620 V674" stroke="#c33" stroke-width="3" marker-start="url(#arR2)" marker-end="url(#arR2)"/>
+<text x="404" y="698" font-size="13" text-anchor="middle" fill="#c33" font-weight="bold">上下颠动</text>
+<path d="M540,706 H612" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<text x="576" y="726" font-size="13" text-anchor="middle" fill="#c33" font-weight="bold">稍向前送</text>
+<path d="M440,612 Q434,678 470,682 L650,676" fill="none" stroke="#8f6d2e" stroke-width="5" stroke-linecap="round"/>
+<use href="#gh" x="454" y="672"/><use href="#gh" x="464" y="676"/><use href="#gh" x="474" y="676"/><use href="#gh" x="484" y="676"/><use href="#gh" x="494" y="676"/><use href="#gh" x="459" y="666"/><use href="#gh" x="469" y="670"/><use href="#gh" x="479" y="670"/><use href="#gh" x="489" y="670"/><use href="#gh" x="472" y="664"/><use href="#gh" x="504" y="676"/>
+<use href="#ch" x="604" y="672"/><use href="#ch" x="620" y="671"/><use href="#ch" x="636" y="670"/><use href="#ch" x="664" y="662"/><use href="#ch" x="682" y="654"/><use href="#ch" x="696" y="664"/>
+<g font-size="13">
+<text x="452" y="652">籽粒向里面集中</text>
+<text x="702" y="616" text-anchor="end">谷壳和碎屑被颠到前沿,</text>
+<text x="702" y="634" text-anchor="end">轻轻一抖就出去了</text>
+</g>
+<g font-size="13">
+<text x="374" y="762">双手端住两侧,上下颠动并稍向前送</text>
+<text x="374" y="782">→ 籽粒向簸箕里面集中,谷壳和碎屑</text>
+<text x="392" y="800">被颠到前沿,轻轻一抖就出去了</text>
+<text x="374" y="828">✓ 碾米、舂米后去糠也用这个办法</text>
+</g>
+</g>
+</svg>

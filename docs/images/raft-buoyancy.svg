@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 880" width="720" height="880" role="img" aria-label="筏: 用浮力算载重。原理: 排开1 m³的水,能托起约1 t(淡水约1000 kg);筏能载的货等于浸入水中的体积乘1000 kg/m³,减去筏自身的重量。例1木筏: 10根松木,每根长3 m、直径25 cm,每根体积约3.14×0.125²×3≈0.15 m³,共约1.5 m³;干松木约500 kg/m³,自重约750 kg;全部压入水中的浮力约1500 kg,最多约750 kg;实际只按一半用,约350 kg;木头泡久了会吸水变重。例2浮筒筏: 200 L空油桶约200 kg浮力,减去桶重约20 kg;20 L塑料桶约20 kg浮力;4个200 L油桶上面绑木框、铺木板,最多约700 kg,安全载重约300 kg。竹筏: 粗竹每根净浮力约20-30 kg,竹节不能破,两端削尖翘起,用横木和藤、绳绑成一排,多层叠放" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>筏: 用浮力算载重</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="dimB" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,1 L10,5 L0,9 Z" fill="#0b5cad"/></marker>
+<pattern id="lash" x="50" y="316" width="104" height="18" patternUnits="userSpaceOnUse"><path d="M2,5 l8,8 m0,-8 l-8,8" stroke="#5a4320" stroke-width="1.5"/></pattern>
+<pattern id="plank" x="40" y="606" width="12" height="10" patternUnits="userSpaceOnUse"><rect width="10" height="10" fill="#b8955a"/></pattern>
+<g id="drum"><circle r="26" fill="#9fb4c8" stroke="#333" stroke-width="2"/><circle r="18" fill="none" stroke="#333" stroke-width="1.2"/><circle cx="8" cy="-8" r="3" fill="#333"/></g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">筏: 用浮力算载重</text>
+
+<!-- ① 原理 -->
+<rect x="10" y="44" width="700" height="192" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="70" font-size="16" font-weight="bold">① 原理</text>
+<g fill="#d9c29a" stroke="#333" stroke-width="2">
+<circle cx="80" cy="160" r="20"/><circle cx="120" cy="160" r="20"/><circle cx="160" cy="160" r="20"/><circle cx="200" cy="160" r="20"/><circle cx="240" cy="160" r="20"/>
+</g>
+<rect x="114" y="106" width="92" height="34" rx="3" fill="#cfcfcf" stroke="#333" stroke-width="2"/>
+<text x="160" y="128" font-size="14" text-anchor="middle">货</text>
+<rect x="11.5" y="170" width="308" height="64.5" fill="#7fb6e0" fill-opacity="0.35"/>
+<path d="M11.5,170 H320" stroke="#3d86c6" stroke-width="2"/>
+<path d="M160,78 V102" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<text x="168" y="92" font-size="13" fill="#c33">货 + 筏的重量</text>
+<path d="M100,226 V188 M220,226 V188" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<text x="160" y="214" font-size="13" fill="#c33" font-weight="bold" text-anchor="middle">浮力</text>
+<path d="M262,176 L284,192" stroke="#0b5cad" stroke-width="1"/>
+<text x="254" y="208" font-size="13" fill="#0b5cad">浸入水中</text>
+<text x="254" y="224" font-size="13" fill="#0b5cad">的体积</text>
+<rect x="336" y="84" width="362" height="138" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="517" y="110" font-size="16" font-weight="bold" text-anchor="middle">排开1 m³的水,能托起约1 t</text>
+<text x="517" y="130" font-size="14" text-anchor="middle" fill="#555">(淡水约1000 kg)</text>
+<text x="517" y="162" font-size="15" font-weight="bold" text-anchor="middle">筏能载的货 =</text>
+<text x="517" y="184" font-size="15" text-anchor="middle">浸入水中的体积 × 1000 kg/m³</text>
+<text x="517" y="206" font-size="15" text-anchor="middle">− 筏自身的重量</text>
+
+<!-- ② 例1 木筏 -->
+<rect x="10" y="248" width="700" height="288" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="274" font-size="16" font-weight="bold">② 例1: 木筏(俯视)</text>
+<g fill="#d9c29a" stroke="#333" stroke-width="1.5">
+<rect x="40" y="316" width="240" height="18" rx="9"/><rect x="40" y="334" width="240" height="18" rx="9"/><rect x="40" y="352" width="240" height="18" rx="9"/><rect x="40" y="370" width="240" height="18" rx="9"/><rect x="40" y="388" width="240" height="18" rx="9"/>
+<rect x="40" y="406" width="240" height="18" rx="9"/><rect x="40" y="424" width="240" height="18" rx="9"/><rect x="40" y="442" width="240" height="18" rx="9"/><rect x="40" y="460" width="240" height="18" rx="9"/><rect x="40" y="478" width="240" height="18" rx="9"/>
+</g>
+<g fill="#b08a55" stroke="#333" stroke-width="1.5">
+<rect x="50" y="310" width="12" height="192"/><rect x="154" y="310" width="12" height="192"/><rect x="258" y="310" width="12" height="192"/>
+</g>
+<rect x="50" y="316" width="220" height="180" fill="url(#lash)"/>
+<rect x="50" y="316" width="220" height="180" fill="none"/>
+<path d="M40,302 V312 M280,302 V312" stroke="#0b5cad" stroke-width="1"/>
+<line x1="42" y1="304" x2="278" y2="304" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#dimB)" marker-end="url(#dimB)"/>
+<text x="110" y="298" font-size="14" fill="#0b5cad" font-weight="bold" text-anchor="middle">长3 m</text>
+<text x="160" y="522" font-size="13" text-anchor="middle">10根松木并排,每根直径25 cm</text>
+<text x="208" y="298" font-size="13" fill="#555">横木 + 绳绑牢</text>
+<path d="M232,300 L262,312" stroke="#555" stroke-width="1"/>
+<g font-size="14">
+<text x="300" y="306">每根体积 ≈ 3.14 × 0.125² × 3 ≈ 0.15 m³</text>
+<text x="300" y="328">10根共约1.5 m³</text>
+<text x="300" y="356">干松木约500 kg/m³: 自重约750 kg</text>
+<text x="300" y="384">全部压入水中的浮力: 约1500 kg</text>
+<text x="300" y="406" font-weight="bold">→ 最多约750 kg(1500 − 750)</text>
+<text x="300" y="436" font-weight="bold" fill="#c33">实际只按一半用: 约350 kg</text>
+<text x="300" y="456" fill="#555">(要留出筏面高出水面的余量)</text>
+<text x="300" y="490" fill="#c33">⚠ 木头泡久了会吸水变重,浮力越来越小</text>
+</g>
+
+<!-- ③ 浮筒筏 -->
+<rect x="10" y="548" width="700" height="320" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<line x1="360" y1="562" x2="360" y2="854" stroke="#ddd" stroke-width="1.5"/>
+<text x="24" y="574" font-size="16" font-weight="bold">③ 例2: 浮筒筏(端视)</text>
+<rect x="40" y="606" width="240" height="10" fill="url(#plank)"/>
+<rect x="40" y="616" width="240" height="8" fill="#b08a55" stroke="#333" stroke-width="1.5"/>
+<use href="#drum" x="70" y="650"/><use href="#drum" x="130" y="650"/><use href="#drum" x="190" y="650"/><use href="#drum" x="250" y="650"/>
+<path d="M50,624 L43,650 A27,27 0 0 0 97,650 L90,624 M110,624 L103,650 A27,27 0 0 0 157,650 L150,624 M170,624 L163,650 A27,27 0 0 0 217,650 L210,624 M230,624 L223,650 A27,27 0 0 0 277,650 L270,624" fill="none" stroke="#8f6d2e" stroke-width="1.8"/>
+<rect x="11.5" y="652" width="340" height="44" fill="#7fb6e0" fill-opacity="0.35"/>
+<path d="M11.5,652 H352" stroke="#3d86c6" stroke-width="2"/>
+<g font-size="13">
+<text x="292" y="612">木板</text><text x="292" y="628">木框</text>
+<text x="290" y="676" fill="#333">200 L</text><text x="290" y="692" fill="#333">油桶 ×4</text>
+</g>
+<g font-size="14">
+<text x="24" y="722">• 200 L空油桶: 约200 kg浮力,</text>
+<text x="38" y="741">减去桶重约20 kg</text>
+<text x="24" y="762">• 20 L塑料桶: 约20 kg浮力</text>
+<text x="24" y="783">• 4个200 L油桶上面绑木框、铺木板:</text>
+<text x="38" y="802" font-weight="bold">最多约700 kg,安全载重约300 kg</text>
+<text x="24" y="828">✓ 桶口拧紧密封;桶之间、桶和木框</text>
+<text x="38" y="847">之间绑牢</text>
+</g>
+
+<!-- ④ 竹筏 -->
+<text x="374" y="574" font-size="16" font-weight="bold">④ 竹筏(侧视)</text>
+<g transform="translate(0,10)">
+<g fill="#cfe0b0" stroke="#333" stroke-width="1.5">
+<path d="M410,634 H650 Q668,632 684,614 Q668,646 650,648 H410 Q392,646 376,614 Q392,632 410,634 Z"/>
+<path d="M414,620 H646 Q662,618 676,602 Q662,632 646,634 H414 Q398,632 384,602 Q398,618 414,620 Z"/>
+</g>
+<path d="M468,620 V648 M471,620 V648 M568,620 V648 M571,620 V648 M618,620 V648 M621,620 V648 M418,620 V648 M421,620 V648" stroke="#5f7a3a" stroke-width="1.2"/>
+<path d="M518,620 V648 M521,620 V648" stroke="#c33" stroke-width="2"/>
+<path d="M431,605 L449,649 M449,605 L431,649 M531,605 L549,649 M549,605 L531,649 M631,605 L649,649 M649,605 L631,649" stroke="#8f6d2e" stroke-width="1.5"/>
+<g fill="#b08a55" stroke="#333" stroke-width="1.5"><circle cx="440" cy="613" r="7"/><circle cx="540" cy="613" r="7"/><circle cx="640" cy="613" r="7"/></g>
+</g>
+<rect x="365.5" y="650" width="343" height="46" fill="#7fb6e0" fill-opacity="0.35"/>
+<path d="M365.5,650 H708.5" stroke="#3d86c6" stroke-width="2"/>
+<g stroke="#555" stroke-width="1"><path d="M500,678 L516,656"/><path d="M690,598 L685,622"/><path d="M448,601 L442,614"/></g>
+<g font-size="13">
+<text x="452" y="600">横木</text>
+<text x="702" y="594" text-anchor="end">两端削尖翘起,水阻小</text>
+<text x="380" y="690" fill="#c33" font-weight="bold">竹节不能破(破了会进水)</text>
+</g>
+<g font-size="14">
+<text x="374" y="722">• 粗竹(如毛竹)中空、轻:</text>
+<text x="388" y="741" font-weight="bold">每根净浮力约20-30 kg</text>
+<text x="388" y="760" fill="#555">(经验值,随竹子粗细长短变化很大)</text>
+<text x="374" y="783">• 用横木和藤、绳把竹子绑成一排</text>
+<text x="374" y="804">• 多层叠放增加浮力(图中两层)</text>
+<text x="374" y="828">✓ 竹节不能破,破了会进水</text>
+<text x="374" y="849">✓ 两端削尖翘起,水阻小</text>
+</g>
+</g>
+</svg>
