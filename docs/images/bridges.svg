@@ -1,0 +1,214 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1450" width="720" height="1450" role="img" aria-label="桥: ①简支梁木桥,两岸各做一个桥台,桥台用石块砌或木框里填石头,深埋到坚实的土层,上面搁木梁,梁上铺横板,板间留缝,两侧加护栏,梁的两端搁在石头上不要埋进土里;跨度加倍弯矩加倍,均匀荷载时变成4倍;木梁立着放比平放结实;直径约30 cm的松木梁两根并排、跨度约5 m,过一辆装满货的板车有余量;跨度超过约6-8 m中间加桥墩或改用桁架。②石拱桥,先建厚重的桥台,搭木拱架,从两边同时往上砌楔形石块,最后放拱顶石,两肩填石填土,灰浆硬化后慢慢拆拱架;拱会向两侧推。③索桥,主缆两端锚在大树根部、巨石或深埋的横木上,垂度约为跨度的1/10,两侧加扶手缆并连成网。④检验: 先目测,再在桥中间堆重物试验,先空车再半载再满载,一次只过一辆车;洪水期不要过桥" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>桥: 梁桥、拱桥、索桥和检验</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="dimB" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,1 L10,5 L0,9 Z" fill="#0b5cad"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<pattern id="plank" x="180" y="166" width="10" height="6" patternUnits="userSpaceOnUse"><rect width="7" height="6" fill="#b8955a"/></pattern>
+<g id="abut"><rect width="40" height="80" fill="#d8d8d8" stroke="#333" stroke-width="2"/><path d="M0,20 H40 M0,40 H40 M0,60 H40 M20,0 V20 M10,20 V40 M30,20 V40 M20,40 V60 M10,60 V80 M30,60 V80" stroke="#888" stroke-width="1"/></g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">桥: 梁桥、拱桥、索桥和检验(示意,不按比例)</text>
+
+<!-- ① 简支梁木桥 -->
+<rect x="10" y="44" width="700" height="404" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="70" font-size="16" font-weight="bold">① 简支梁木桥: 两岸各做一个桥台,上面搁木梁,梁上铺横板</text>
+<path d="M11.5,210 L216,210 L252,286 L468,286 L504,210 L708.5,210 V300 H11.5 Z" fill="#e8e8e8"/>
+<path d="M11.5,210 L216,210 L252,286 L468,286 L504,210 L708.5,210" fill="none" stroke="#999" stroke-width="3"/>
+<path d="M233,246 L487,246 L468,286 L252,286 Z" fill="#d6e8f5"/>
+<path d="M233,246 H487" stroke="#7fb6e0" stroke-width="2"/>
+<use href="#abut" x="176" y="192"/><use href="#abut" x="504" y="192"/>
+<rect x="182" y="184" width="28" height="8" fill="#aaa" stroke="#333" stroke-width="1.5"/>
+<rect x="510" y="184" width="28" height="8" fill="#aaa" stroke="#333" stroke-width="1.5"/>
+<rect x="180" y="172" width="360" height="12" rx="6" fill="#d9c29a" stroke="#333" stroke-width="2"/>
+<rect x="180" y="166" width="360" height="6" fill="url(#plank)"/>
+<path d="M190,134 V166 M260,134 V166 M330,134 V166 M400,134 V166 M470,134 V166 M530,134 V166 M186,134 H534 M186,150 H534" stroke="#8f6d2e" stroke-width="3"/>
+<line x1="218" y1="228" x2="502" y2="228" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#dimB)" marker-end="url(#dimB)"/>
+<text x="360" y="222" font-size="14" font-weight="bold" fill="#0b5cad" text-anchor="middle">跨度</text>
+<text x="360" y="202" font-size="13" text-anchor="middle">木梁</text>
+<g stroke="#555" stroke-width="1"><path d="M98,142 H186"/><path d="M140,236 H176"/><path d="M558,120 L522,167"/><path d="M554,228 L538,191"/></g>
+<text x="24" y="147" font-size="14">两侧加护栏</text>
+<g font-size="13"><text x="20" y="228">桥台: 石块砌或</text><text x="20" y="245">木框里填石头,</text><text x="20" y="262">深埋到坚实的土层,</text><text x="20" y="279">防止被洪水掏空</text>
+<text x="560" y="106">桥面横板之间留缝,</text><text x="560" y="124">让雨水漏下去</text>
+<text x="556" y="232">梁两端搁在石头上,</text><text x="556" y="249">不要直接埋进土里</text><text x="556" y="266" fill="#555">(两端最先腐烂)</text></g>
+<!-- 横断面 -->
+<path d="M54,316 V343 M170,316 V343" stroke="#8f6d2e" stroke-width="3"/>
+<rect x="50" y="343" width="124" height="6" fill="#b8955a"/>
+<circle cx="78" cy="366" r="17" fill="#d9c29a" stroke="#333" stroke-width="2"/>
+<circle cx="146" cy="366" r="17" fill="#d9c29a" stroke="#333" stroke-width="2"/>
+<circle cx="78" cy="366" r="6" fill="none" stroke="#8f6d2e" stroke-width="1"/><circle cx="146" cy="366" r="6" fill="none" stroke="#8f6d2e" stroke-width="1"/>
+<line x1="62" y1="394" x2="94" y2="394" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#dimB)" marker-end="url(#dimB)"/>
+<path d="M61,370 V398 M95,370 V398" stroke="#0b5cad" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="104" y="399" font-size="13" fill="#0b5cad">直径约30 cm</text>
+<text x="112" y="424" font-size="13" text-anchor="middle">横断面: 两根圆木梁并排</text>
+<!-- 立放/平放 -->
+<path d="M222,370 H336" stroke="#999" stroke-width="2"/>
+<rect x="234" y="334" width="18" height="36" fill="#d9c29a" stroke="#333" stroke-width="2"/>
+<rect x="290" y="352" width="36" height="18" fill="#d9c29a" stroke="#333" stroke-width="2"/>
+<text x="243" y="390" font-size="13" text-anchor="middle" font-weight="bold">立着放 ✓</text>
+<text x="308" y="390" font-size="13" text-anchor="middle" fill="#555">平放</text>
+<text x="278" y="410" font-size="13" text-anchor="middle">高大于宽: 立着放</text>
+<text x="278" y="426" font-size="13" text-anchor="middle">比平放结实得多</text>
+<g font-size="14">
+<text x="356" y="326">• 跨度越大,梁要越粗: 同样的荷载,跨度加倍,</text>
+<text x="370" y="345">中间受的弯矩加倍(均匀荷载时变成4倍)</text>
+<text x="356" y="370">• 例: 直径约30 cm的松木梁两根并排,跨度约5 m,</text>
+<text x="370" y="389">过一辆装满货的板车有余量(木头会腐朽、</text>
+<text x="370" y="408">有节疤,实际要留足余量)</text>
+<text x="356" y="433" font-weight="bold">• 跨度超过约6-8 m: 中间加桥墩,或改用桁架</text>
+</g>
+
+<!-- ② 石拱桥 -->
+<g transform="translate(0,16)">
+<rect x="10" y="444" width="700" height="332" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="470" font-size="16" font-weight="bold">② 石拱桥: 拱把重量变成压力传到两端</text>
+<rect x="11.5" y="508" width="28.5" height="192" fill="#e8e8e8"/><rect x="424" y="508" width="16" height="192" fill="#e8e8e8"/>
+<rect x="11.5" y="700" width="428.5" height="22" fill="#e2ddd3"/>
+<path d="M11.5,700 H440" stroke="#999" stroke-width="2"/>
+<text x="232" y="716" font-size="13" fill="#555" text-anchor="middle">坚实的地基或岩石</text>
+<path d="M40,508 H424 V640 H360 A128,128 0 0 0 104,640 H40 Z" fill="#f1ead9" stroke="#333" stroke-width="2"/>
+<rect x="11.5" y="500" width="428.5" height="8" fill="#cfcfcf" stroke="#333" stroke-width="1.5"/>
+<rect x="40" y="640" width="92" height="60" fill="#d8d8d8" stroke="#333" stroke-width="2"/>
+<rect x="332" y="640" width="92" height="60" fill="#d8d8d8" stroke="#333" stroke-width="2"/>
+<path d="M132,672 H332 V700 H132 Z" fill="#d6e8f5"/>
+<path d="M132,672 H332" stroke="#7fb6e0" stroke-width="2"/>
+<g fill="#e3e0da" stroke="#333" stroke-width="1.5">
+<path d="M104.0,640.0 A128,128 0 0 1 109.2,603.9 L136.1,611.8 A100,100 0 0 0 132.0,640.0 Z"/>
+<path d="M109.2,603.9 A128,128 0 0 1 124.3,570.8 L147.9,585.9 A100,100 0 0 0 136.1,611.8 Z"/>
+<path d="M124.3,570.8 A128,128 0 0 1 148.2,543.3 L166.5,564.4 A100,100 0 0 0 147.9,585.9 Z"/>
+<path d="M148.2,543.3 A128,128 0 0 1 178.8,523.6 L190.5,549.0 A100,100 0 0 0 166.5,564.4 Z"/>
+<path d="M178.8,523.6 A128,128 0 0 1 213.8,513.3 L217.8,541.0 A100,100 0 0 0 190.5,549.0 Z"/>
+<path d="M250.2,513.3 A128,128 0 0 1 285.2,523.6 L273.5,549.0 A100,100 0 0 0 246.2,541.0 Z"/>
+<path d="M285.2,523.6 A128,128 0 0 1 315.8,543.3 L297.5,564.4 A100,100 0 0 0 273.5,549.0 Z"/>
+<path d="M315.8,543.3 A128,128 0 0 1 339.7,570.8 L316.1,585.9 A100,100 0 0 0 297.5,564.4 Z"/>
+<path d="M339.7,570.8 A128,128 0 0 1 354.8,603.9 L327.9,611.8 A100,100 0 0 0 316.1,585.9 Z"/>
+<path d="M354.8,603.9 A128,128 0 0 1 360.0,640.0 L332.0,640.0 A100,100 0 0 0 327.9,611.8 Z"/>
+</g>
+<path d="M213.8,513.3 A128,128 0 0 1 250.2,513.3 L246.2,541.0 A100,100 0 0 0 217.8,541.0 Z" fill="#f3d0d0" stroke="#c33" stroke-width="2.5"/>
+<!-- 木拱架 -->
+<g stroke="#8f6d2e" stroke-width="3" fill="none">
+<path d="M134,640 A98,98 0 0 1 330,640" stroke-width="4"/>
+<path d="M134,640 H330 M182,640 V556 M232,640 V542 M282,640 V556 M232,640 L160,574 M232,640 L304,574 M160,640 V700 M304,640 V700"/>
+</g>
+<path d="M150,476 V496" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<text x="158" y="490" font-size="13" fill="#c33">桥上的重量</text>
+<path d="M258,487 L236,526" stroke="#555" stroke-width="1"/>
+<text x="262" y="490" font-size="13" font-weight="bold" fill="#c33">拱顶石: 最后放进,把拱锁住</text>
+<path d="M100,576 L130,583" stroke="#555" stroke-width="1"/>
+<text x="46" y="581" font-size="13">楔形石块</text>
+<text x="322" y="530" font-size="13">两肩填石填土</text>
+<path d="M98,616 A136,136 0 0 1 154,529" fill="none" stroke="#0b5cad" stroke-width="2" marker-end="url(#arB)"/>
+<path d="M366,616 A136,136 0 0 0 310,529" fill="none" stroke="#0b5cad" stroke-width="2" marker-end="url(#arB)"/>
+<text x="232" y="684" font-size="13" text-anchor="middle" fill="#8f6d2e" font-weight="bold">木拱架(拱胎)</text>
+<text x="86" y="656" font-size="13" text-anchor="middle">桥台(拱脚)</text>
+<text x="378" y="656" font-size="13" text-anchor="middle">桥台(拱脚)</text>
+<path d="M120,670 H58" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<path d="M344,670 H406" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<text x="86" y="692" font-size="13" text-anchor="middle" fill="#c33" font-weight="bold">向外推</text>
+<text x="378" y="692" font-size="13" text-anchor="middle" fill="#c33" font-weight="bold">向外推</text>
+<text x="46" y="530" font-size="12" fill="#0b5cad">两边同时往上砌</text>
+<g font-size="14">
+<text x="452" y="498" font-weight="bold">建法(原理):</text>
+<text x="452" y="520">1. 先建两边厚重的桥台(拱脚),</text>
+<text x="470" y="538">坐在坚实的地基或岩石上</text>
+<text x="452" y="560">2. 搭木拱架(拱胎),形状就是</text>
+<text x="470" y="578">拱的内弧</text>
+<text x="452" y="600">3. 从两边拱脚同时往上砌楔形</text>
+<text x="470" y="618">石块,两边一样高,保持对称</text>
+<text x="452" y="640">4. 最后放进中间的拱顶石</text>
+<text x="452" y="662">5. 拱上的两肩填石填土,铺桥面</text>
+<text x="452" y="684">6. 等灰浆硬化后,再慢慢、均匀</text>
+<text x="470" y="702">地拆掉拱架</text>
+</g>
+<g font-size="14" fill="#c33" font-weight="bold">
+<text x="24" y="746">⚠ 拱会向两侧推: 桥台不够厚重,拱脚会向外滑开,整座桥塌掉</text>
+<text x="24" y="766">⚠ 没有经验时只建小跨度(几 m)的拱桥;拆拱架时人不要站在拱下</text>
+</g>
+</g>
+
+<!-- ③ 索桥 -->
+<g transform="translate(0,804)">
+<rect x="10" y="0" width="700" height="292" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="26" font-size="16" font-weight="bold">③ 索桥: 绳缆只受拉,两端锚固,中间下垂</text>
+<path d="M11.5,122 L92,122 L124,212 L324,212 L356,122 L440,122 V240 H11.5 Z" fill="#e8e8e8"/>
+<path d="M115,186 L333,186 L324,212 L124,212 Z" fill="#d6e8f5"/>
+<path d="M115,186 H333" stroke="#7fb6e0" stroke-width="2"/>
+<path d="M11.5,122 L92,122 L124,212 L324,212 L356,122 L440,122" fill="none" stroke="#999" stroke-width="3"/>
+<rect x="44" y="70" width="14" height="52" fill="#b08a55" stroke="#333" stroke-width="2"/>
+<circle cx="51" cy="58" r="20" fill="#cfe3c4" stroke="#333" stroke-width="2"/>
+<circle cx="414" cy="180" r="8" fill="#d9c29a" stroke="#333" stroke-width="2"/>
+<g fill="none" stroke-linejoin="round">
+<path d="M58,123 Q224,189 390,123" stroke="#b8955a" stroke-width="7" stroke-dasharray="5 3"/>
+<path d="M58,90 L71.8,127.3 L85.7,100.1 L99.5,136.4 L113.3,108.3 L127.2,143.8 L141,114.8 L154.8,149.3 L168.7,119.3 L182.5,152.9 L196.3,122.1 L210.2,154.8 L224,123 L237.8,154.8 L251.7,122.1 L265.5,152.9 L279.3,119.3 L293.2,149.3 L307,114.8 L320.8,143.8 L334.7,108.3 L348.5,136.4 L362.3,100.1 L376.2,127.3 L390,90" stroke="#a88a5a" stroke-width="1"/>
+<path d="M58,120 Q224,186 390,120 L412,174" stroke="#8f6d2e" stroke-width="3"/>
+<path d="M58,90 Q224,156 390,90 L410,174" stroke="#8f6d2e" stroke-width="2.5"/>
+</g>
+<path d="M58,120 H390" stroke="#0b5cad" stroke-width="1" stroke-dasharray="5 4"/>
+<line x1="224" y1="122" x2="224" y2="151" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#dimB)" marker-end="url(#dimB)"/>
+<text x="232" y="176" font-size="13" fill="#0b5cad" font-weight="bold">垂度约为跨度的1/10</text>
+<path d="M58,124 V236 M390,124 V236" stroke="#0b5cad" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="60" y1="230" x2="388" y2="230" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#dimB)" marker-end="url(#dimB)"/>
+<text x="224" y="226" font-size="13" fill="#0b5cad" font-weight="bold" text-anchor="middle">跨度</text>
+<g stroke="#555" stroke-width="1"><path d="M290,100 V114"/><path d="M168,62 L168,128"/><path d="M150,164 V148"/></g>
+<g font-size="13">
+<text x="290" y="96" text-anchor="middle">扶手缆</text>
+<text x="176" y="64">绳网</text>
+<text x="104" y="178">主缆(上铺桥面)</text>
+<text x="16" y="150">锚在大树根部</text>
+<text x="372" y="208">深埋的横木</text>
+</g>
+<g font-size="14">
+<text x="452" y="56">• 主缆: 两根以上的粗绳、</text>
+<text x="466" y="74">钢丝绳(回收)</text>
+<text x="452" y="96" font-weight="bold">• 垂度约为跨度的1/10:</text>
+<text x="466" y="114">拉得越平,缆上的拉力越大</text>
+<text x="452" y="136">• 锚固: 大树根部、巨石或深</text>
+<text x="466" y="154">埋的横木,要承受缆的全部拉力</text>
+<text x="452" y="176">• 两侧加扶手缆,和桥面之间</text>
+<text x="466" y="194">用绳子连成网,防止人掉下去</text>
+<text x="452" y="216">✓ 人走在上面会晃: 一次限过</text>
+<text x="466" y="234">几个人,不要齐步走</text>
+<text x="452" y="256">✓ 植物纤维绳会腐烂、被虫咬:</text>
+<text x="466" y="274">定期检查,磨损、发霉就换</text>
+</g>
+</g>
+
+<!-- ④ 检验 -->
+<g transform="translate(0,1108)">
+<rect x="10" y="0" width="700" height="330" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="26" font-size="16" font-weight="bold">④ 桥的检验和使用(新桥、久未使用的桥、洪水后的桥)</text>
+<path d="M11.5,132 H300 V162 H11.5 Z" fill="#e8e8e8"/>
+<path d="M11.5,132 H300" stroke="#999" stroke-width="2"/>
+<rect x="40" y="104" width="24" height="46" fill="#d8d8d8" stroke="#333" stroke-width="2"/>
+<rect x="260" y="104" width="24" height="46" fill="#d8d8d8" stroke="#333" stroke-width="2"/>
+<rect x="44" y="92" width="236" height="12" rx="6" fill="#d9c29a" stroke="#333" stroke-width="2"/>
+<g fill="#e6dcc0" stroke="#333" stroke-width="1.5">
+<rect x="136" y="78" width="26" height="14" rx="5"/><rect x="162" y="78" width="26" height="14" rx="5"/><rect x="149" y="64" width="26" height="14" rx="5"/>
+</g>
+<path d="M64,106 Q162,130 260,106" fill="none" stroke="#c33" stroke-width="2" stroke-dasharray="5 4"/>
+<text x="162" y="54" font-size="13" text-anchor="middle">比计划过桥更重的石头或沙袋</text>
+<text x="162" y="182" font-size="13" text-anchor="middle" fill="#c33" font-weight="bold">梁往下弯了多少? 有没有响声?</text>
+<text x="162" y="200" font-size="13" text-anchor="middle" fill="#c33" font-weight="bold">卸掉后能不能弹回去?</text>
+<text x="162" y="226" font-size="14" text-anchor="middle" font-weight="bold">空车 → 半载 → 满载</text>
+<g font-size="14">
+<text x="316" y="56">1. 先目测: 桥台有没有被掏空、倾斜;</text>
+<text x="334" y="74">梁有没有裂缝、腐烂(用刀扎,能轻易</text>
+<text x="334" y="92">扎进去就是烂了)</text>
+<text x="316" y="114">2. 慢慢加载试验: 在桥中间堆放比计划过</text>
+<text x="334" y="132">桥的重量更重的石头或沙袋,观察梁往下</text>
+<text x="334" y="150">弯了多少、有没有响声,卸掉后能不能弹回去</text>
+<text x="316" y="172">3. 先空车过,再半载,再满载</text>
+<text x="316" y="194">4. 一次只过一辆车、一头牲畜;</text>
+<text x="334" y="212">人和牲畜不要挤在桥上</text>
+<text x="316" y="234">✓ 在桥头立牌子,写明限重</text>
+<text x="316" y="256">✓ 每年检查一次,洪水后立即检查</text>
+</g>
+<rect x="20" y="270" width="680" height="50" rx="6" fill="#fbeaea" stroke="#c33" stroke-width="1.5"/>
+<g font-size="14" fill="#c33" font-weight="bold">
+<text x="32" y="291">☠ 洪水期不要过桥: 桥墩、桥台可能已经被掏空,表面看不出来;</text>
+<text x="50" y="311">漂下来的树木会撞断桥。宁可等水退</text>
+</g>
+</g>
+</g>
+</svg>

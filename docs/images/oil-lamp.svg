@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 782" width="720" height="782" role="img" aria-label="碟子油灯。材料: 不易燃的浅容器(瓷碟、小碗、罐头盒);灯油用食用植物油(菜籽油、花生油、用过的炸油)或动物油(猪油、牛油,化开后用);灯芯用纯棉线、棉布条(搓成条)、棉绳。做法: 容器中倒入约1-2 cm深的油;灯芯一端浸在油中,另一端露出油面约0.5 cm,可用一小片铁皮(罐头盖)卷一个小管或折一个支架把灯芯立住;点燃露出的一端;火苗太大、冒黑烟就把灯芯往下拉短一点。一碟油可以点几个小时,亮度相当于一支小蜡烛。绝对不要用作灯油: 汽油、酒精、柴油、机油、来历不明的工业用油和废油;煤油只能用于专门设计的煤油灯,并且只在通风处使用。明火安全: 放在稳固、不易燃的底座上,远离窗帘被褥纸张衣物,远离儿童和宠物,人离开房间、睡觉前必须熄灭;停电时优先用电池灯">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>碟子油灯</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+</defs>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="13" fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">碟子油灯</text>
+<text x="360" y="50" font-size="14" text-anchor="middle" fill="#555">最简单的照明方法,所需材料几乎家家都有</text>
+
+<!-- 剖面图 -->
+<g transform="translate(10,62)">
+<rect width="430" height="350" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">剖面示意</text>
+<g transform="translate(-40,-46) scale(1.2)">
+<!-- 油 -->
+<path d="M79 205 L102 242 H258 L281 205 Z" fill="#f3d27a"/>
+<path d="M79 205 H281" stroke="#c9962e" stroke-width="1.5"/>
+<!-- 灯芯 (浸在油里的一段) -->
+<path d="M190 240 Q170 241 150 239 T112 238" fill="none" stroke="#777" stroke-width="7" stroke-linecap="round"/>
+<path d="M190 240 Q170 241 150 239 T112 238" fill="none" stroke="#f5f0e6" stroke-width="4.5" stroke-linecap="round"/>
+<!-- 铁皮小管支架 -->
+<path d="M176 242 H204" stroke="#888" stroke-width="3"/>
+<rect x="185" y="207" width="10" height="34" fill="#c8c8c8" stroke="#555" stroke-width="1.5"/>
+<!-- 灯芯 (立在管里、露出油面) -->
+<path d="M190 236 V193" stroke="#777" stroke-width="7"/>
+<path d="M190 236 V194" stroke="#f5f0e6" stroke-width="4.5"/>
+<rect x="186.5" y="190" width="7" height="5" rx="1.5" fill="#444"/>
+<!-- 碟子 -->
+<path d="M50 174 L94 250 H266 L310 174 H300 L258 242 H102 L60 174 Z" fill="#eef2f5" stroke="#333" stroke-width="2.2" stroke-linejoin="round"/>
+<path d="M40 252 H345" stroke="#999" stroke-width="2.5"/>
+<!-- 火焰 -->
+<path d="M190 192 Q174 176 181 156 Q186 144 190 128 Q194 144 199 156 Q206 176 190 192 Z" fill="#f6d36b" stroke="#f2a33a" stroke-width="1.8"/>
+<path d="M190 188 Q183 180 186 170 Q188 164 190 158 Q192 164 194 170 Q197 180 190 188 Z" fill="#fff6d6"/>
+</g>
+<!-- 尺寸: 露出油面 -->
+<path d="M198 185.6 H212 M198 200 H212 M205 185.6 V200" stroke="#c33" stroke-width="1.2"/>
+<line x1="212" y1="192" x2="226" y2="158" stroke="#c33" stroke-width="1"/>
+<text x="222" y="154" fill="#c33" font-weight="bold">露出油面约0.5 cm</text>
+<!-- 尺寸: 油深 -->
+<path d="M300 200 H362 M271 244.4 H362" stroke="#0b5cad" stroke-width="1" stroke-dasharray="3 3"/>
+<path d="M356 200 V244.4 M351 200 H361 M351 244.4 H361" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="364" y="218" fill="#0b5cad">油深</text>
+<text x="364" y="236" fill="#0b5cad">约1-2 cm</text>
+<text x="232" y="231" font-size="12">灯油</text>
+<!-- 引线标注 -->
+<g stroke="#0b5cad" stroke-width="1"><line x1="104" y1="80" x2="185" y2="220"/><line x1="64" y1="110" x2="116" y2="238"/><line x1="362" y1="136" x2="334" y2="165"/></g>
+<text x="16" y="58" fill="#0b5cad">铁皮(罐头盖)卷的小管</text>
+<text x="16" y="74" fill="#0b5cad">或折的支架,把灯芯立住</text>
+<text x="16" y="104" fill="#0b5cad">灯芯一端浸在油中</text>
+<text x="420" y="130" text-anchor="end" fill="#0b5cad">不易燃的浅容器</text>
+<!-- 做法 -->
+<text x="12" y="282"><tspan font-weight="bold">1.</tspan> 容器中倒入约1-2 cm深的油</text>
+<text x="12" y="300"><tspan font-weight="bold">2.</tspan> 灯芯一端浸在油中,另一端露出油面约0.5 cm</text>
+<text x="12" y="318"><tspan font-weight="bold">3.</tspan> 点燃露出的一端</text>
+<text x="12" y="336" fill="#555">一碟油可以点几个小时,亮度相当于一支小蜡烛</text>
+</g>
+
+<!-- 材料 -->
+<g transform="translate(450,62)">
+<rect width="260" height="350" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">材料</text>
+<text x="12" y="52" font-weight="bold">容器</text>
+<text x="12" y="72">不易燃的浅容器:</text>
+<text x="12" y="90">瓷碟、小碗、罐头盒</text>
+<text x="12" y="122" font-weight="bold">灯油</text>
+<text x="12" y="142">食用植物油: 菜籽油、花生油、</text>
+<text x="12" y="160">用过的炸油</text>
+<text x="12" y="180">动物油: 猪油、牛油(化开后用)</text>
+<text x="12" y="212" font-weight="bold">灯芯</text>
+<text x="12" y="232">纯棉线、棉布条(搓成条)、棉绳</text>
+<text x="12" y="264" font-weight="bold">立灯芯(可选)</text>
+<text x="12" y="284">一小片铁皮(罐头盖)</text>
+<text x="12" y="302">卷一个小管或折一个支架</text>
+</g>
+
+<!-- 火苗太大 -->
+<g transform="translate(10,422)">
+<rect width="345" height="190" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">火苗太大、冒黑烟</text>
+<!-- 太长 -->
+<path d="M70 94 Q60 80 66 68 Q60 58 68 50 Q66 44 72 38" fill="none" stroke="#555" stroke-width="2.5" stroke-dasharray="1 4" stroke-linecap="round"/>
+<path d="M78 128 Q54 104 64 78 Q70 62 78 44 Q86 62 92 78 Q102 104 78 128 Z" fill="#f6d36b" stroke="#f2a33a" stroke-width="2"/>
+<path d="M30 150 H126" stroke="#c9962e" stroke-width="2"/>
+<path d="M78 150 V126" stroke="#777" stroke-width="7"/>
+<path d="M78 150 V127" stroke="#f5f0e6" stroke-width="4.5"/>
+<rect x="74.5" y="124" width="7" height="6" rx="1.5" fill="#444"/>
+<text x="78" y="172" text-anchor="middle" fill="#c33">灯芯露出太长</text>
+<path d="M146 100 H196" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="171" y="88" text-anchor="middle" font-size="12" fill="#c33">往下拉短</text>
+<!-- 正常 -->
+<path d="M268 142 Q256 130 261 116 Q265 106 268 96 Q271 106 275 116 Q280 130 268 142 Z" fill="#f6d36b" stroke="#f2a33a" stroke-width="2"/>
+<path d="M220 150 H316" stroke="#c9962e" stroke-width="2"/>
+<path d="M268 150 V142" stroke="#777" stroke-width="7"/>
+<rect x="264.5" y="140" width="7" height="5" rx="1.5" fill="#444"/>
+<text x="268" y="172" text-anchor="middle" fill="#0b5cad">拉短之后</text>
+</g>
+
+<!-- 不要用作灯油 -->
+<g transform="translate(365,422)">
+<rect width="345" height="190" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="2"/>
+<text x="12" y="24" font-size="15" font-weight="bold" fill="#c33">❌ 绝对不要用作灯油</text>
+<text x="12" y="50"><tspan font-weight="bold">汽油</tspan>: 挥发出的油气遇火会爆燃</text>
+<text x="12" y="70"><tspan font-weight="bold">酒精</tspan>: 火焰在白天几乎看不见,易被误碰;</text>
+<text x="48" y="88">容易泼洒蔓延</text>
+<text x="12" y="108"><tspan font-weight="bold">柴油、机油</tspan>: 燃烧冒浓烟、有毒</text>
+<text x="12" y="128"><tspan font-weight="bold">来历不明</tspan>的工业用油、废油</text>
+<text x="12" y="156"><tspan font-weight="bold">煤油</tspan>: 只能用于专门设计的煤油灯,</text>
+<text x="48" y="174">并且只在通风处使用</text>
+</g>
+
+<!-- 明火安全 -->
+<g transform="translate(10,622)">
+<rect width="700" height="150" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">使用明火照明的安全规则</text>
+<text x="20" y="50">✓ 放在稳固、不易燃的底座上(盘子、铁盒),</text>
+<text x="36" y="68">四周留出空间</text>
+<text x="20" y="88">✓ 远离窗帘、被褥、纸张、衣物</text>
+<text x="20" y="108">✓ 远离儿童和宠物能碰到的地方</text>
+<text x="20" y="128">✓ <tspan font-weight="bold" fill="#c33">人离开房间、睡觉前必须熄灭</tspan></text>
+<text x="366" y="50">✓ 不要拿着蜡烛找东西(尤其是翻柜子、床底)</text>
+<text x="366" y="70">✓ 不要用明火检查燃气泄漏、查看油箱</text>
+<text x="366" y="90">✓ 房间里有燃气味时,绝不点火</text>
+<text x="366" y="118" font-weight="bold" fill="#0b5cad">停电照明优先用电池灯</text>
+<text x="366" y="136" font-size="12" fill="#555">(LED手电筒、头灯、营地灯),其次才是油灯、蜡烛</text>
+</g>
+</g>
+</svg>

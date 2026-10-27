@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 870" width="720" height="870" role="img" aria-label="晒盐的盐田。从海边向内: ① 纳潮: 涨潮时打开木板闸门,把海水引进储水池,潮退前关闸;② 蒸发池分成几级,卤水从一级流到下一级,越往后越浓,每级池子浅(水深约5-15 cm)、面积大,前几级池底沉积泥沙和石膏,定期清理;③ 结晶池: 卤水浓到约26%(1 L约重1.20 kg)才放进来,卤水深约3-5 cm,几天后池底出现白色结晶;④ 收盐: 用木耙耙成堆,堆在高处沥干卤水,再挑到仓库;⑤ 放苦卤: 剩下发黏、发苦的母液及时放掉,另存。卤水浓度: 海水约3.5%,1 L约1.02-1.03 kg;约13%时石膏、泥沙先沉淀,1 L约1.10 kg;约26%饱和,氯化钠大量结晶,1 L约1.20 kg;继续浓缩,镁、钾等盐析出,盐变苦。浮蛋法: 新鲜生鸡蛋在海水中下沉,约10-15%时开始浮起,露出约一枚硬币大小时比重约1.10-1.13,接近饱和(比重约1.20)时露出得更多。下雨前把浓卤水放进有盖的卤池或深坑">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>晒盐的盐田</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<pattern id="silt" width="8" height="6" patternUnits="userSpaceOnUse"><rect width="8" height="6" fill="#e2dccd"/><circle cx="2" cy="2" r="0.9" fill="#8a7a5a"/><circle cx="6" cy="4.5" r="0.9" fill="#fff"/></pattern>
+<linearGradient id="conc" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#7fb2df"/><stop offset="0.8" stop-color="#eef3f6"/><stop offset="1" stop-color="#e8dcb8"/></linearGradient>
+<g id="egg"><ellipse rx="10" ry="13" fill="#f6ecd8" stroke="#333" stroke-width="1.5"/></g>
+<path id="jar" d="M-28 0 V64 Q-28 72 -20 72 H20 Q28 72 28 64 V0"/>
+<path id="liq" d="M-26 14 V64 Q-26 70 -20 70 H20 Q26 70 26 64 V14 Z"/>
+</defs>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="13" fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">晒盐: 盐田</text>
+<text x="360" y="50" font-size="14" text-anchor="middle" fill="#555">几乎不用燃料,产量最大,但对地点和天气要求高</text>
+
+<!-- 盐田剖面 -->
+<rect x="10" y="62" width="700" height="318" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="22" y="86" font-size="15" font-weight="bold">盐田的构成(从海边向内)</text>
+<!-- 地面 -->
+<path d="M96 170 H100 V204 H180 V170 H192 V186 H270 V170 H280 V186 H358 V170 H368 V186 H446 V170 H462 V182 H562 V170 H586 L600 146 H700 V218 H96 Z" fill="#d9c7a5"/>
+<path d="M96 170 H100 V204 H180 V170 H192 V186 H270 V170 H280 V186 H358 V170 H368 V186 H446 V170 H462 V182 H562 V170 H586 L600 146 H700" fill="none" stroke="#8b6b3e" stroke-width="2"/>
+<!-- 海 -->
+<path d="M20 160 H92 V218 H20 Z" fill="#7fb2df"/>
+<path d="M20 160 q6 -5 12 0 t12 0 t12 0 t12 0 t12 0 t12 0" fill="none" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="50" y="196" text-anchor="middle" font-size="15" font-weight="bold" fill="#fff">海</text>
+<rect x="90" y="188" width="10" height="30" fill="#d9c7a5"/>
+<!-- 闸门 -->
+<rect x="91" y="132" width="8" height="60" fill="#b98c4f" stroke="#333" stroke-width="1.5"/>
+<!-- 储水池 -->
+<rect x="100" y="174" width="80" height="30" fill="#7fb2df"/>
+<!-- 蒸发池 -->
+<rect x="192" y="176" width="78" height="10" fill="#a3c7e6"/>
+<rect x="280" y="176" width="78" height="10" fill="#c3d9ec"/>
+<rect x="368" y="176" width="78" height="10" fill="#dce7f0"/>
+<rect x="192" y="182" width="78" height="4" fill="url(#silt)"/>
+<rect x="280" y="183" width="78" height="3" fill="url(#silt)"/>
+<g font-size="12" fill="#555" text-anchor="middle"><text x="231" y="168">1级</text><text x="319" y="168">2级</text><text x="407" y="168">3级 …</text></g>
+<!-- 结晶池 -->
+<rect x="462" y="177" width="100" height="5" fill="#eef3f6"/>
+<g fill="#fff" stroke="#888" stroke-width="0.8"><rect x="468" y="178" width="4" height="4"/><rect x="476" y="179" width="4" height="3"/><rect x="485" y="178" width="4" height="4"/><rect x="494" y="179" width="4" height="3"/><rect x="503" y="178" width="4" height="4"/><rect x="512" y="179" width="4" height="3"/><rect x="521" y="178" width="4" height="4"/><rect x="530" y="179" width="4" height="3"/><rect x="539" y="178" width="4" height="4"/><rect x="548" y="179" width="4" height="3"/></g>
+<path d="M462 182 H562" stroke="#6b5236" stroke-width="3"/>
+<!-- 盐堆 -->
+<path d="M612 146 L640 108 L668 146 Z" fill="#fff" stroke="#333" stroke-width="2"/>
+<g fill="#bbb"><circle cx="634" cy="132" r="1.2"/><circle cx="644" cy="124" r="1.2"/><circle cx="650" cy="138" r="1.2"/><circle cx="628" cy="140" r="1.2"/><circle cx="640" cy="116" r="1.2"/></g>
+<path d="M696 92 L682 142" stroke="#8b6b3e" stroke-width="3" stroke-linecap="round"/><path d="M672 142 H692 M674 142 V146 M680 142 V146 M686 142 V146 M692 142 V146" stroke="#6b5236" stroke-width="2"/>
+<!-- 流向 -->
+<g fill="none" stroke="#0b5cad" stroke-width="2" marker-end="url(#arB)">
+<path d="M70 152 Q95 112 122 166"/>
+<path d="M170 168 Q186 148 202 170"/>
+<path d="M260 168 Q275 150 290 170"/>
+<path d="M348 168 Q363 150 378 170"/>
+<path d="M436 168 Q454 148 472 172"/>
+</g>
+<path d="M556 168 Q586 120 614 128" fill="none" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<!-- 上方标注 -->
+<text x="95" y="122" text-anchor="middle" font-size="12">闸门(木板闸)</text>
+<text x="140" y="194" text-anchor="middle" font-size="12" fill="#08427a">海水约3.5%</text>
+<text x="319" y="138" text-anchor="middle" font-size="12" fill="#0b5cad">卤水从一级流到下一级,越往后越浓 →</text>
+<text x="512" y="152" text-anchor="middle" font-size="12" fill="#0b5cad">约26%</text>
+<!-- 下方说明 -->
+<g font-size="12">
+<text x="140" y="238" text-anchor="middle" font-size="13" font-weight="bold">① 纳潮</text>
+<text x="140" y="256" text-anchor="middle">储水池</text>
+<text x="140" y="272" text-anchor="middle">涨潮时开闸</text>
+<text x="140" y="288" text-anchor="middle">引进海水,</text>
+<text x="140" y="304" text-anchor="middle">潮退前关闸</text>
+<text x="319" y="238" text-anchor="middle" font-size="13" font-weight="bold">② 蒸发池(分成几级)</text>
+<text x="319" y="256" text-anchor="middle">每级池子浅(水深约5-15 cm),</text>
+<text x="319" y="272" text-anchor="middle">面积大,蒸发快</text>
+<text x="319" y="288" text-anchor="middle">前几级池底沉积泥沙和石膏,</text>
+<text x="319" y="304" text-anchor="middle">定期清理</text>
+<text x="512" y="238" text-anchor="middle" font-size="13" font-weight="bold">③ 结晶池</text>
+<text x="512" y="256" text-anchor="middle">卤水浓到约26%</text>
+<text x="512" y="272" text-anchor="middle">(1 L约重1.20 kg)</text>
+<text x="512" y="288" text-anchor="middle">才放进来;</text>
+<text x="512" y="304" text-anchor="middle">卤水深约3-5 cm,</text>
+<text x="512" y="320" text-anchor="middle">几天后池底</text>
+<text x="512" y="336" text-anchor="middle">出现白色结晶</text>
+<text x="650" y="238" text-anchor="middle" font-size="13" font-weight="bold">④ 收盐</text>
+<text x="650" y="256" text-anchor="middle">用木耙耙成堆,</text>
+<text x="650" y="272" text-anchor="middle">堆在高处</text>
+<text x="650" y="288" text-anchor="middle">沥干卤水,</text>
+<text x="650" y="304" text-anchor="middle">再挑到仓库</text>
+</g>
+<text x="22" y="364" font-size="12" fill="#555">结晶池池底要平整、夯实压光,最好铺一层压实的黏土或碎陶片、砖块</text>
+
+<!-- 浓度 -->
+<rect x="10" y="390" width="700" height="306" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="22" y="414" font-size="15" font-weight="bold">卤水越晒越浓: 称1 L卤水的重量(减去容器)</text>
+<rect x="50" y="468" width="620" height="14" rx="3" fill="url(#conc)" stroke="#999" stroke-width="1"/>
+<path d="M670 475 H690" stroke="#999" stroke-width="2" marker-end="url(#arB)"/>
+<g stroke="#333" stroke-width="2"><path d="M120 462 V488"/><path d="M310 462 V488"/><path d="M570 462 V488"/></g>
+<g text-anchor="middle">
+<text x="120" y="440" font-weight="bold">海水 约3.5%</text>
+<text x="120" y="456" font-size="12">(储水池)</text>
+<text x="120" y="506" fill="#0b5cad">1 L约1.02-1.03 kg</text>
+<text x="310" y="440" font-weight="bold">约13%</text>
+<text x="310" y="456" font-size="12">石膏、泥沙先沉淀</text>
+<text x="310" y="506" fill="#0b5cad">1 L约1.10 kg</text>
+<text x="570" y="440" font-weight="bold">约26%,饱和</text>
+<text x="570" y="456" font-size="12">氯化钠大量结晶 ← 收这一段</text>
+<text x="570" y="506" fill="#0b5cad">1 L约1.20 kg</text>
+</g>
+<text x="702" y="440" text-anchor="end" font-weight="bold" fill="#c33">继续浓缩</text>
+<text x="702" y="506" text-anchor="end" font-size="12" fill="#c33">盐变苦</text>
+
+<text x="22" y="538" font-size="15" font-weight="bold">浮蛋法(最简单): 放一个新鲜生鸡蛋</text>
+<g transform="translate(120,552)"><use href="#liq" fill="#a3c7e6"/><use href="#egg" y="56"/><use href="#jar" fill="none" stroke="#333" stroke-width="2.5"/></g>
+<g transform="translate(280,552)"><use href="#liq" fill="#c3d9ec"/><use href="#egg" y="26"/><use href="#jar" fill="none" stroke="#333" stroke-width="2.5"/></g>
+<g transform="translate(430,552)"><use href="#liq" fill="#dce7f0"/><use href="#egg" y="18"/><path d="M-26 14 H-9 M9 14 H26" stroke="#7aa6cc" stroke-width="1.5"/><use href="#jar" fill="none" stroke="#333" stroke-width="2.5"/></g>
+<g transform="translate(570,552)"><use href="#liq" fill="#eef3f6"/><use href="#egg" y="10"/><path d="M-26 14 H-10 M10 14 H26" stroke="#7aa6cc" stroke-width="1.5"/><use href="#jar" fill="none" stroke="#333" stroke-width="2.5"/></g>
+<g text-anchor="middle">
+<text x="120" y="644" font-weight="bold">海水: 下沉</text>
+<text x="280" y="644" font-weight="bold">约10-15%: 开始浮起</text>
+<text x="280" y="662" font-size="12">(海水的3-4倍)</text>
+<text x="430" y="644" font-weight="bold">露出约一枚硬币大小</text>
+<text x="430" y="662" font-size="12">比重约1.10-1.13</text>
+<text x="570" y="644" font-weight="bold">露出得更多</text>
+<text x="570" y="662" font-size="12">接近饱和(比重约1.20)</text>
+</g>
+<text x="22" y="684" font-size="12" fill="#555">用同一个鸡蛋反复测,结果更好比较(不同的蛋密度略有差别)</text>
+
+<!-- 注意 -->
+<rect x="10" y="706" width="700" height="154" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="22" y="730" font-size="15" font-weight="bold">⑤ 放苦卤 · 下雨前 · 选址</text>
+<text x="22" y="754"><tspan font-weight="bold" fill="#c33">放苦卤</tspan>: 结晶池里剩下发黏、发苦的母液(苦卤)要及时放掉,</text>
+<text x="74" y="772">不然它的盐也会析出,盐就变苦;苦卤另存</text>
+<text x="22" y="796"><tspan font-weight="bold">下雨前</tspan>: 把浓卤水放进有盖的卤池或深坑(上面盖草帘、木板),雨后再放回去</text>
+<text x="22" y="820"><tspan font-weight="bold">选址</tspan>: 平坦低洼、不渗水的黏土或淤泥滩涂(沙滩渗水太快,不行);远离河口;</text>
+<text x="74" y="838">蒸发量大、降雨少、晴天多、风多 —— 多雨地区、雨季不适合</text>
+</g>
+</svg>

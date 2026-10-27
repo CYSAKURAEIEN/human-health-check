@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 668" width="720" height="668" role="img" aria-label="国际求救信号: SOS是短短短-长长长-短短短,哨子、手电、敲击发SOS时短约1秒、长约3秒;三规则是三声哨声、三堆火、三次反光,间隔相等,每组发完停约1分钟再发;三堆火排成三角形或一条直线,相距约20-30 m;地面对空信号V需要援助、X需要医疗援助、↑正朝这个方向前进、Y是/同意、N否/拒绝,线条宽约0.5-1 m,SOS、HELP等地面标记尽可能大,至少3 m">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>国际求救信号和地面对空信号</title>
+<defs>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<g id="fire"><path d="M-14,0 L14,-3 M-14,-3 L14,0" stroke="#5a3d1e" stroke-width="4" stroke-linecap="round"/><path d="M-9,-3 Q-12,-15 -4,-23 Q-4,-15 0,-13 Q1,-24 7,-31 Q8,-17 12,-12 Q13,-5 9,-3 Z" fill="#f08a24" stroke="#c33" stroke-width="1.5"/><path d="M-4,-4 Q-5,-11 0,-15 Q1,-9 4,-7 Q5,-4 4,-4 Z" fill="#ffd34d"/></g>
+<g id="bar"><rect x="0" y="0" width="12" height="18" rx="2" fill="#c33"/></g>
+</defs>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="14" fill="#222">
+<text x="360" y="30" font-size="18" font-weight="bold" text-anchor="middle">国际求救信号: SOS和"三"</text>
+
+<!-- ① SOS -->
+<g transform="translate(10,44)">
+<rect x="0" y="0" width="345" height="240" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="16" font-weight="bold"><tspan>①</tspan><tspan> 求救信号SOS: 短短短-长长长-短短短</tspan></text>
+<text x="172" y="66" font-size="24" font-weight="bold" text-anchor="middle" letter-spacing="2">... --- ...</text>
+<g fill="#c33">
+<rect x="16" y="88" width="14" height="18" rx="2"/><rect x="40" y="88" width="14" height="18" rx="2"/><rect x="64" y="88" width="14" height="18" rx="2"/>
+<rect x="100" y="88" width="42" height="18" rx="2"/><rect x="152" y="88" width="42" height="18" rx="2"/><rect x="204" y="88" width="42" height="18" rx="2"/>
+<rect x="268" y="88" width="14" height="18" rx="2"/><rect x="292" y="88" width="14" height="18" rx="2"/><rect x="316" y="88" width="14" height="18" rx="2"/>
+</g>
+<text x="47" y="128" font-size="15" font-weight="bold" text-anchor="middle">S</text>
+<text x="173" y="128" font-size="15" font-weight="bold" text-anchor="middle">O</text>
+<text x="299" y="128" font-size="15" font-weight="bold" text-anchor="middle">S</text>
+<line x1="23" y1="108" x2="36" y2="146" stroke="#0b5cad" stroke-width="1"/>
+<text x="16" y="162" font-size="14" fill="#0b5cad">短: 约1秒</text>
+<line x1="121" y1="108" x2="140" y2="146" stroke="#0b5cad" stroke-width="1"/>
+<text x="124" y="162" font-size="14" fill="#0b5cad">长: 约3秒</text>
+<text x="12" y="198" font-size="14">哨子、手电、敲击都可以发SOS</text>
+<text x="12" y="222" font-size="14">夜间手电、手机闪光灯朝天空照</text>
+</g>
+
+<!-- ② 三规则 -->
+<g transform="translate(365,44)">
+<rect x="0" y="0" width="345" height="240" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="16" font-weight="bold">② "三"规则: 间隔相等,重复发出</text>
+<!-- 哨子 -->
+<g transform="translate(58,72)">
+<path d="M-22,-10 L4,-10 A12,12 0 1 1 4,14 L-6,14 A12,12 0 0 1 -18,2 L-22,2 Z" fill="#cfe0f0" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="6" cy="2" r="4" fill="#333"/>
+<path d="M24,-14 q6,6 0,12 M30,-20 q10,12 0,24 M36,-26 q14,18 0,36" fill="none" stroke="#c33" stroke-width="2" stroke-linecap="round"/>
+</g>
+<text x="58" y="122" font-size="14" text-anchor="middle">三声哨声</text>
+<!-- 三堆火 -->
+<use href="#fire" transform="translate(150,90) scale(0.8)"/>
+<use href="#fire" transform="translate(174,90) scale(0.8)"/>
+<use href="#fire" transform="translate(198,90) scale(0.8)"/>
+<text x="174" y="122" font-size="14" text-anchor="middle">三堆火</text>
+<!-- 三次反光 -->
+<g transform="translate(278,76)">
+<rect x="-14" y="-10" width="22" height="28" rx="3" fill="#dfe9f3" stroke="#333" stroke-width="2" transform="rotate(-20)"/>
+<path d="M8,-6 L30,-22 M10,2 L36,-4 M8,10 L30,18" stroke="#e08a00" stroke-width="2.5" stroke-linecap="round"/>
+</g>
+<text x="284" y="122" font-size="14" text-anchor="middle">三次反光</text>
+<!-- 节奏 -->
+<use href="#bar" transform="translate(16,146)"/><use href="#bar" transform="translate(40,146)"/><use href="#bar" transform="translate(64,146)"/>
+<path d="M84,155 L224,155" stroke="#0b5cad" stroke-width="1.5" stroke-dasharray="5 4" marker-start="url(#arB)" marker-end="url(#arB)"/>
+<text x="154" y="148" font-size="13" fill="#0b5cad" text-anchor="middle">停约1分钟</text>
+<use href="#bar" transform="translate(232,146)"/><use href="#bar" transform="translate(256,146)"/><use href="#bar" transform="translate(280,146)"/>
+<text x="302" y="162" font-size="16">…</text>
+<text x="12" y="192" font-size="13">每组三声发完,停约1分钟再发,让人有时间判断方向;</text>
+<text x="12" y="211" font-size="13">听到回应(也是三声)后,继续发信号,</text>
+<text x="12" y="230" font-size="13">引导对方找到你</text>
+</g>
+
+<!-- ③ 三堆火 -->
+<g transform="translate(10,296)">
+<rect x="0" y="0" width="345" height="276" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="16" font-weight="bold">③ 三堆火: 三角形或一条直线</text>
+<rect x="12" y="38" width="321" height="150" rx="4" fill="#f2ede1"/>
+<path d="M90,72 L40,158 L140,158 Z" fill="none" stroke="#0b5cad" stroke-width="1.5" stroke-dasharray="5 4"/>
+<use href="#fire" transform="translate(90,80)"/>
+<use href="#fire" transform="translate(40,166)"/>
+<use href="#fire" transform="translate(140,166)"/>
+<text x="90" y="182" font-size="13" fill="#0b5cad" text-anchor="middle">约20-30 m</text>
+<text x="128" y="104" font-size="13" fill="#0b5cad">约20-30 m</text>
+<text x="178" y="124" font-size="15" text-anchor="middle">或</text>
+<use href="#fire" transform="translate(206,128)"/>
+<use href="#fire" transform="translate(260,128)"/>
+<use href="#fire" transform="translate(314,128)"/>
+<path d="M210,140 L256,140" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB)" marker-end="url(#arB)"/>
+<path d="M264,140 L310,140" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB)" marker-end="url(#arB)"/>
+<text x="260" y="162" font-size="13" fill="#0b5cad" text-anchor="middle">相距约20-30 m</text>
+<text x="12" y="212" font-size="13">提前搭好信号火堆,听到飞机声立即点燃;</text>
+<text x="12" y="231" font-size="13">搭在开阔地或高处,注意防止引发林火</text>
+<text x="333" y="266" font-size="11" fill="#888" text-anchor="end">俯视示意,距离未按比例</text>
+</g>
+
+<!-- ④ 地面对空信号 -->
+<g transform="translate(365,296)">
+<rect x="0" y="0" width="345" height="276" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="16" font-weight="bold">④ 地面对空信号(摆在开阔地)</text>
+<g stroke="#4a3a28" stroke-width="7" stroke-linecap="square" stroke-linejoin="miter" fill="none">
+<rect x="22" y="38" width="90" height="56" rx="4" fill="#eadfc6" stroke="none"/>
+<path d="M53,48 L67,84 L81,48"/>
+<rect x="128" y="38" width="90" height="56" rx="4" fill="#eadfc6" stroke="none"/>
+<path d="M159,48 L187,84 M187,48 L159,84"/>
+<rect x="234" y="38" width="90" height="56" rx="4" fill="#eadfc6" stroke="none"/>
+<path d="M279,86 L279,52 M266,63 L279,48 L292,63"/>
+<rect x="22" y="142" width="90" height="56" rx="4" fill="#eadfc6" stroke="none"/>
+<path d="M53,152 L67,170 L81,152 M67,170 L67,188"/>
+<rect x="128" y="142" width="90" height="56" rx="4" fill="#eadfc6" stroke="none"/>
+<path d="M161,188 L161,152 L185,188 L185,152"/>
+</g>
+<text x="67" y="112" font-size="13" text-anchor="middle">V 需要援助</text>
+<text x="173" y="112" font-size="12" text-anchor="middle">X 需要医疗援助</text>
+<text x="279" y="112" font-size="13" text-anchor="middle">↑ 正朝这个</text>
+<text x="279" y="128" font-size="13" text-anchor="middle">方向前进</text>
+<text x="67" y="216" font-size="13" text-anchor="middle">Y 是/同意</text>
+<text x="173" y="216" font-size="13" text-anchor="middle">N 否/拒绝</text>
+<line x1="189" y1="176" x2="246" y2="162" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="189" cy="176" r="2.5" fill="#0b5cad"/>
+<text x="250" y="160" font-size="13" fill="#0b5cad">线条宽</text>
+<text x="250" y="177" font-size="13" fill="#0b5cad">约0.5-1 m</text>
+<text x="12" y="244" font-size="13">每个符号尽量大;SOS、HELP至少3 m,</text>
+<text x="12" y="263" font-size="13">颜色与周围对比明显</text>
+</g>
+
+<rect x="10" y="584" width="700" height="72" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="26" y="608" font-size="14">最有效的求救在出事之前: 出发前留下行程单;有手机信号就先报警</text>
+<text x="26" y="632" font-size="14">用石头、树枝、鲜艳衣物、挖出的沟摆符号;直线和直角在自然界很少见,更容易被认出</text>
+</g>
+</svg>

@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 896" width="720" height="896" role="img" aria-label="雪洞和Quinzhee雪屋剖面: 雪洞挖在至少约2 m深的雪堆里,入口小、约60 cm宽、低于睡眠平台,内部圆顶,顶部至少30 cm厚,洞内做低于平台的冷槽,冷空气下沉、暖空气上升,平台上方的顶部斜着捅一个约拳头粗的通气孔并插一根棍子,入口外插标记;Quinzhee雪屋先堆直径约3 m、高约2 m的雪堆,等1-2小时,插一圈约30 cm长的小棍,从一侧挖空,挖到棍子末端就停,壁厚20-30 cm;雪洞雪屋里不烧炭取暖、不点着炉子睡觉">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>雪洞和Quinzhee雪屋剖面</title>
+<defs>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<g id="mound"><line x1="10" y1="160" x2="216" y2="160" stroke="#999" stroke-width="3"/><path d="M38,160 A75,100 0 0 1 188,160 Z" fill="#eef4fa" stroke="#8aa9c4" stroke-width="2"/></g>
+<g id="sticks" stroke="#8b6b3e" stroke-width="3" stroke-linecap="round"><line x1="185.4" y1="134.1" x2="171" y2="138"/><line x1="172.1" y1="98.4" x2="160.3" y2="107.7"/><line x1="148.2" y1="71.7" x2="141.2" y2="84.9"/><line x1="77.8" y1="71.7" x2="84.8" y2="84.9"/><line x1="53.9" y1="98.4" x2="65.7" y2="107.7"/><line x1="45" y1="117.7" x2="58.6" y2="124"/></g>
+</defs>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="14" fill="#222">
+<text x="360" y="30" font-size="18" font-weight="bold" text-anchor="middle">雪洞和雪屋(剖面): 入口低、平台高,一定要通气</text>
+
+<!-- ① 雪洞 -->
+<g transform="translate(10,44)">
+<rect x="0" y="0" width="700" height="420" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">雪洞: 在深雪堆或积雪坡里挖(背风坡的积雪堆最好)</text>
+<line x1="8" y1="340" x2="692" y2="340" stroke="#999" stroke-width="3"/>
+<path d="M14,340 C60,339 98,326 106,300 L110,262 C122,180 190,100 320,90 L690,88 L690,340 Z" fill="#eef4fa" stroke="#8aa9c4" stroke-width="2"/>
+<!-- 洞内空间 -->
+<path d="M98,310 L330,310 L330,250 L505,250 C512,190 470,140 400,138 C330,136 268,175 262,255 L110,255 Z" fill="#fff"/>
+<path d="M102,310 L330,310 L330,250 L505,250 C512,190 470,140 400,138 C330,136 268,175 262,255 L110,255" fill="none" stroke="#6d8fb0" stroke-width="2.5" stroke-linejoin="round"/>
+<!-- 通气孔和棍子 -->
+<line x1="432" y1="150" x2="401" y2="86" stroke="#6d8fb0" stroke-width="13"/>
+<line x1="433" y1="152" x2="400" y2="84" stroke="#fff" stroke-width="9"/>
+<line x1="432.8" y1="151.7" x2="390.8" y2="66.2" stroke="#8b6b3e" stroke-width="3.5" stroke-linecap="round"/>
+<!-- 平台、隔垫、人 -->
+<rect x="345" y="244" width="150" height="6" fill="#c9a36b" stroke="#8a6d3e" stroke-width="1"/>
+<rect x="352" y="226" width="118" height="18" rx="9" fill="#cfe0f0" stroke="#333" stroke-width="2"/>
+<circle cx="480" cy="234" r="9" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<!-- 雪块堵部分入口 -->
+<rect x="116" y="284" width="26" height="26" fill="#dfe9f3" stroke="#6d8fb0" stroke-width="1.5"/>
+<!-- 入口标记 -->
+<line x1="50" y1="340" x2="50" y2="262" stroke="#8b6b3e" stroke-width="4" stroke-linecap="round"/>
+<path d="M51,264 L76,271 L51,280 Z" fill="#c33"/>
+<!-- 空气流动 -->
+<path d="M300,226 L300,290" stroke="#0b5cad" stroke-width="2.5" marker-end="url(#arB)"/>
+<path d="M282,296 L172,296" stroke="#0b5cad" stroke-width="2.5" marker-end="url(#arB)"/>
+<path d="M452,222 Q464,196 450,168" fill="none" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<path d="M392,222 Q380,196 394,170" fill="none" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<!-- 尺寸: 雪深 -->
+<path d="M664,92 L664,338" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB)" marker-end="url(#arB)"/>
+<text x="656" y="292" fill="#0b5cad" text-anchor="end">雪至少</text>
+<text x="656" y="310" fill="#0b5cad" text-anchor="end">约2 m深</text>
+<!-- 尺寸: 顶厚 -->
+<path d="M350,93 L350,141" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB)" marker-end="url(#arB)"/>
+<text x="342" y="114" fill="#0b5cad" text-anchor="end">顶部至少</text>
+<text x="342" y="132" fill="#0b5cad" text-anchor="end">30 cm厚</text>
+<!-- 标注 -->
+<line x1="404" y1="92" x2="444" y2="52" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="404" cy="92" r="2.5" fill="#0b5cad"/>
+<text x="448" y="40" font-size="13" fill="#0b5cad">通气孔: 平台上方的顶部斜着捅,</text>
+<text x="448" y="57" font-size="13" fill="#0b5cad">约拳头粗;孔里插一根棍子,</text>
+<text x="448" y="74" font-size="13" fill="#0b5cad">每隔一两个小时转动一下,防堵</text>
+<line x1="54" y1="268" x2="40" y2="208" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="54" cy="268" r="2.5" fill="#0b5cad"/>
+<text x="16" y="164" font-size="13" fill="#0b5cad">入口外插树枝、</text>
+<text x="16" y="181" font-size="13" fill="#0b5cad">滑雪杖或鲜艳物品</text>
+<text x="16" y="198" font-size="13" fill="#0b5cad">做标记(防埋)</text>
+<line x1="494" y1="186" x2="528" y2="146" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="494" cy="186" r="2.5" fill="#0b5cad"/>
+<text x="532" y="122" font-size="13" fill="#0b5cad">圆顶状(结构稳定);</text>
+<text x="532" y="139" font-size="13" fill="#0b5cad">顶面抹光滑,融水顺着</text>
+<text x="532" y="156" font-size="13" fill="#0b5cad">弧顶流下,不滴在身上</text>
+<line x1="495" y1="247" x2="528" y2="214" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="495" cy="247" r="2.5" fill="#0b5cad"/>
+<text x="532" y="204" font-size="13" fill="#0b5cad">睡眠平台高于入口,</text>
+<text x="532" y="221" font-size="13" fill="#0b5cad">上面铺垫隔离雪地</text>
+<text x="418" y="196" font-size="13" fill="#c33" text-anchor="middle">暖</text>
+<line x1="186" y1="282" x2="150" y2="352" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="186" cy="282" r="2.5" fill="#0b5cad"/>
+<text x="16" y="368" font-size="13" fill="#0b5cad">入口小,刚好能爬进去(约60 cm宽),</text>
+<text x="16" y="385" font-size="13" fill="#0b5cad">低于睡眠平台;</text>
+<text x="16" y="402" font-size="13" fill="#0b5cad">可用雪块或背包部分堵住</text>
+<line x1="312" y1="304" x2="322" y2="352" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="312" cy="304" r="2.5" fill="#0b5cad"/>
+<text x="286" y="368" font-size="13" fill="#0b5cad">冷槽: 低于平台,</text>
+<text x="286" y="385" font-size="13" fill="#0b5cad">冷空气流到这里</text>
+<path d="M470,364 L506,364" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="514" y="369" font-size="13" fill="#c33">暖空气上升,聚在上部</text>
+<path d="M470,388 L506,388" stroke="#0b5cad" stroke-width="2.5" marker-end="url(#arB)"/>
+<text x="514" y="393" font-size="13" fill="#0b5cad">冷空气下沉,从入口流出</text>
+</g>
+
+<!-- ② Quinzhee -->
+<text x="16" y="490" font-size="17" font-weight="bold">Quinzhee雪屋: 雪不够深、挖不了雪洞,但雪量还够堆起来时</text>
+
+<g transform="translate(10,500)">
+<rect x="0" y="0" width="226" height="240" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="16" font-weight="bold">① 堆大雪堆</text>
+<use href="#mound"/>
+<line x1="113" y1="60" x2="208" y2="60" stroke="#0b5cad" stroke-width="1" stroke-dasharray="3 3"/>
+<path d="M202,62 L202,158" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB)" marker-end="url(#arB)"/>
+<text x="160" y="52" font-size="13" fill="#0b5cad" text-anchor="middle">高约2 m</text>
+<path d="M41,148 L185,148" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB)" marker-end="url(#arB)"/>
+<text x="113" y="140" font-size="13" fill="#0b5cad" text-anchor="middle">直径约3 m</text>
+<text x="12" y="186" font-size="13">两个人用的大小;</text>
+<text x="12" y="205" font-size="13">一边堆一边把不同层的雪</text>
+<text x="12" y="224" font-size="13">搅匀,结实得更快</text>
+</g>
+
+<g transform="translate(247,500)">
+<rect x="0" y="0" width="226" height="240" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="16" font-weight="bold">② 等雪固化,插小棍</text>
+<use href="#mound"/>
+<use href="#sticks"/>
+<line x1="113" y1="60" x2="113" y2="75" stroke="#8b6b3e" stroke-width="3" stroke-linecap="round"/>
+<g transform="translate(188,52)"><circle r="13" fill="#fff" stroke="#333" stroke-width="2"/><path d="M0,0 L0,-8 M0,0 L6,3" stroke="#333" stroke-width="2" stroke-linecap="round"/></g>
+<text x="12" y="186" font-size="13">等1-2小时(粉状干雪、气温</text>
+<text x="12" y="205" font-size="13">很低时约3小时);从外面插</text>
+<text x="12" y="224" font-size="13">一圈约30 cm长的小棍</text>
+</g>
+
+<g transform="translate(484,500)">
+<rect x="0" y="0" width="226" height="240" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="16" font-weight="bold">③ 挖空,碰到棍子就停</text>
+<use href="#mound"/>
+<path d="M36,158 L80,158 L80,140 L171.3,140 A60,85 0 0 0 55.9,134 L36,134 Z" fill="#fff"/>
+<path d="M38,158 L80,158 L80,140 L171.3,140 A60,85 0 0 0 55.9,134 L40,134" fill="none" stroke="#6d8fb0" stroke-width="2" stroke-linejoin="round"/>
+<line x1="113" y1="58" x2="113" y2="77" stroke="#6d8fb0" stroke-width="9"/>
+<line x1="113" y1="56" x2="113" y2="79" stroke="#fff" stroke-width="5"/>
+<use href="#sticks"/>
+<rect x="88" y="136" width="76" height="4" fill="#c9a36b"/>
+<text x="124" y="126" font-size="12" fill="#0b5cad" text-anchor="middle">睡眠平台</text>
+<text x="12" y="126" font-size="12" fill="#0b5cad">入口</text>
+<line x1="113" y1="66" x2="70" y2="46" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="113" cy="66" r="2" fill="#0b5cad"/>
+<text x="20" y="46" font-size="13" fill="#0b5cad">通气孔</text>
+<line x1="180" y1="112" x2="196" y2="72" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="180" cy="112" r="2" fill="#0b5cad"/>
+<text x="214" y="60" font-size="13" fill="#0b5cad" text-anchor="end">壁厚20-30 cm</text>
+<text x="12" y="186" font-size="13">从一侧挖空,向上挖出睡眠</text>
+<text x="12" y="205" font-size="13">平台;从里面挖到棍子末端</text>
+<text x="12" y="224" font-size="13">就停,墙厚均匀;留通气孔</text>
+</g>
+
+<rect x="10" y="754" width="700" height="130" rx="6" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<text x="26" y="778" font-size="14" fill="#c33" font-weight="bold">✗ 绝不在雪洞、雪屋里烧炭取暖,也不要点着炉子睡觉(一氧化碳无色无味,致命)</text>
+<text x="26" y="800" font-size="14">尽量在外面或入口处做饭;必须在里面用炉子时,打开入口和通气孔,用完马上熄灭</text>
+<text x="26" y="822" font-size="14">✓ 通气孔一直保持通畅,入口不要完全封死;夜里下雪时起来检查一次</text>
+<text x="26" y="844" font-size="14">✓ 挖一个雪洞要2-3小时,天黑前提前开始;带一把铲子(或锅)进洞,万一塌了能自救</text>
+<text x="26" y="866" font-size="14">✓ 内温可达0°C(外面零下,相对温暖);挖洞时只穿内层+防风层,挖慢一点,别出汗</text>
+</g>
+</svg>
