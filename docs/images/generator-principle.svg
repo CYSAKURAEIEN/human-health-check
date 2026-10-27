@@ -62,11 +62,10 @@
 <circle cx="384" cy="424" r="4" fill="#fff" stroke="#333" stroke-width="1.5"/>
 <circle cx="384" cy="516" r="4" fill="#fff" stroke="#333" stroke-width="1.5"/>
 <text x="384" y="474" font-size="14" text-anchor="middle">输出</text>
-<g stroke="#555" stroke-width="1"><path d="M60,498 L130,498"/><path d="M340,446 L306,446"/><path d="M322,582 L298,487"/></g>
+<g stroke="#555" stroke-width="1"><path d="M60,498 L130,498"/><path d="M340,446 L306,446"/><path d="M322,582 L312,482"/><path d="M82,442 L106,452"/></g>
 <text x="24" y="494" font-size="14">线圈</text>
 <text x="342" y="451" font-size="14">电刷</text>
-<text x="34" y="586" font-size="14">转动线圈</text>
-<path d="M90,580 L112,500" stroke="#c33" stroke-width="1" fill="none"/>
+<text x="24" y="446" font-size="14" font-weight="bold" fill="#c33">外力转动</text>
 <text x="250" y="598" font-size="14">换向器(分段的铜环)</text>
 <!-- 整流后的波形 -->
 <path d="M430,414 V528" stroke="#333" stroke-width="1.5"/>
@@ -112,10 +111,9 @@
 <text x="450" y="892" font-size="13" text-anchor="middle" fill="#c33">二极管</text>
 <text x="470" y="980" font-size="13" text-anchor="middle" fill="#c33">防止蓄电池电流倒流</text>
 <text x="470" y="996" font-size="13" text-anchor="middle" fill="#c33">让电动机转起来</text>
-<text x="660" y="935" font-size="13" text-anchor="middle" fill="#555">转得越快</text>
-<text x="660" y="953" font-size="13" text-anchor="middle" fill="#555">电压越高</text>
+<text x="346" y="996" font-size="13" text-anchor="middle" fill="#555">转得越快,电压越高</text>
 <text x="24" y="1026" font-size="14"><tspan font-weight="bold">汽车交流发电机:</tspan> 内置整流和稳压,输出约14 V直流,正好给12 V蓄电池充电;</text>
-<text x="24" y="1046" font-size="14">  转速要高,通常用皮带轮增速;励磁要蓄电池先提供一点电流</text>
+<text x="40" y="1046" font-size="14">转速要高,通常用皮带轮增速;励磁要蓄电池先提供一点电流</text>
 <text x="24" y="1070" font-size="14"><tspan font-weight="bold">自制:</tspan> 回收的钕磁铁 + 漆包线线圈,做成转盘式;要耐心调整磁铁和线圈的间隙</text>
 <text x="24" y="1096" font-size="14" font-weight="bold" fill="#c33">⚠ 接入家庭线路一定要断开与外部电网的连接(防止反送电伤及他人)</text>
 </g>
