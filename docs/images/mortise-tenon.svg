@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 684" width="720" height="684" role="img" aria-label="直角榫(用于桌椅腿和横档的连接): 在横档的一端做出榫头,榫头厚度约为木料厚度的1/3,锯掉两侧多余的部分;在腿上对应位置做出卯眼,用钻头先钻掉大部分,再用凿子修方;先试插,紧了就修榫头,不要用锤子硬砸,会把卯眼撑裂;抹胶后敲入,用夹具夹紧,干透后再受力" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>直角榫</title>
+<defs><marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker><marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker><marker id="arB0" viewBox="0 0 10 10" refX="2" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M10 0 L0 5 L10 10 Z" fill="#0b5cad"/></marker><pattern id="cut" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#fbe9e9"/><path d="M0 0 V6" stroke="#c33" stroke-width="1.2"/></pattern></defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" text-anchor="middle" font-weight="bold">直角榫: 桌椅腿和横档的连接</text>
+<rect x="10" y="42" width="300" height="330" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<rect x="318" y="42" width="196" height="330" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<rect x="522" y="42" width="188" height="330" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="24" y="66" font-size="16" font-weight="bold">分解图</text>
+<text x="332" y="66" font-size="16" font-weight="bold">装好后</text>
+<text x="536" y="66" font-size="16" font-weight="bold">榫头厚度(端面)</text>
+<path d="M22.0 272.6 L73.6 272.6 L73.6 126.4 L22.0 126.4 Z" fill="#e3c491" stroke="#333" stroke-width="2.2" stroke-linejoin="round"/>
+<path d="M22.0 126.4 L73.6 126.4 L114.9 85.1 L63.3 85.1 Z" fill="#f3dcb4" stroke="#333" stroke-width="2.2" stroke-linejoin="round"/>
+<path d="M73.6 272.6 L114.9 231.3 L114.9 85.1 L73.6 126.4 Z" fill="#cfa76c" stroke="#333" stroke-width="2.2" stroke-linejoin="round"/>
+<path d="M88.0 206.6 L100.4 194.2 L100.4 134.0 L88.0 146.4 Z" fill="#5e4630" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M131.0 206.6 L184.4 206.6 L184.4 146.4 L131.0 146.4 Z" fill="#efbf86" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M131.0 146.4 L184.4 146.4 L196.8 134.0 L143.4 134.0 Z" fill="#f8d9b0" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M184.4 206.6 L196.8 194.2 L196.8 134.0 L184.4 146.4 Z" fill="#dca063" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M172.0 218.9 L253.7 218.9 L253.7 158.7 L172.0 158.7 Z" fill="#ecd3a8" stroke="#333" stroke-width="2.2" stroke-linejoin="round"/>
+<path d="M172.0 158.7 L253.7 158.7 L290.8 121.6 L209.1 121.6 Z" fill="#f6e6c8" stroke="#333" stroke-width="2.2" stroke-linejoin="round"/>
+<path d="M253.7 218.9 L290.8 181.8 L290.8 121.6 L253.7 158.7 Z" fill="#d9b680" stroke="#333" stroke-width="2.2" stroke-linejoin="round"/>
+<path d="M132.1 117.8 L99.4 117.8" stroke="#c33" stroke-width="2.2" marker-end="url(#arR)"/>
+<text x="47.8" y="203.8" font-size="16" text-anchor="middle" font-weight="bold">腿</text>
+<text x="211.3" y="257.7" font-size="15" font-weight="bold">横档</text>
+<line x1="225.3" y1="241.7" x2="219.3" y2="201.7" stroke="#0b5cad" stroke-width="1.3"/><circle cx="219.3" cy="201.7" r="2.6" fill="#0b5cad"/>
+<text x="127.69999999999999" y="256.8" font-size="15" font-weight="bold">榫头</text>
+<text x="127.69999999999999" y="274.8" font-size="13" fill="#555">(厚度约1/3)</text>
+<line x1="143.7" y1="240.8" x2="157.7" y2="180.8" stroke="#0b5cad" stroke-width="1.3"/><circle cx="157.7" cy="180.8" r="2.6" fill="#0b5cad"/>
+<text x="90.2" y="330" font-size="15" text-anchor="middle" font-weight="bold">卯眼</text>
+<line x1="92.2" y1="314" x2="94.2" y2="196.9" stroke="#0b5cad" stroke-width="1.3"/><circle cx="94.2" cy="196.9" r="2.6" fill="#0b5cad"/>
+<path d="M336.0 258.0 L372.0 258.0 L372.0 156.0 L336.0 156.0 Z" fill="#e3c491" stroke="#333" stroke-width="2.2" stroke-linejoin="round"/>
+<path d="M336.0 156.0 L372.0 156.0 L400.8 127.2 L364.8 127.2 Z" fill="#f3dcb4" stroke="#333" stroke-width="2.2" stroke-linejoin="round"/>
+<path d="M372.0 258.0 L400.8 229.2 L400.8 127.2 L372.0 156.0 Z" fill="#cfa76c" stroke="#333" stroke-width="2.2" stroke-linejoin="round"/>
+<path d="M373.4 220.6 L466.4 220.6 L466.4 178.6 L373.4 178.6 Z" fill="#ecd3a8" stroke="#333" stroke-width="2.2" stroke-linejoin="round"/>
+<path d="M373.4 178.6 L466.4 178.6 L492.4 152.6 L399.4 152.6 Z" fill="#f6e6c8" stroke="#333" stroke-width="2.2" stroke-linejoin="round"/>
+<path d="M466.4 220.6 L492.4 194.6 L492.4 152.6 L466.4 178.6 Z" fill="#d9b680" stroke="#333" stroke-width="2.2" stroke-linejoin="round"/>
+<path d="M382.1 211.9 L344.9 211.9 L344.9 169.9 L382.1 169.9" fill="none" stroke="#c33" stroke-width="1.8" stroke-dasharray="4 3"/>
+<text x="334" y="334" font-size="13" fill="#c33">榫头藏在卯眼里</text>
+<text x="334" y="352" font-size="13" fill="#c33">(虚线)</text>
+<line x1="372" y1="320" x2="363.5" y2="212.9" stroke="#0b5cad" stroke-width="1.3"/><circle cx="363.5" cy="212.9" r="2.6" fill="#0b5cad"/>
+<rect x="576" y="120" width="90" height="150" fill="url(#cut)" stroke="#c33" stroke-width="1.5" stroke-dasharray="5 3"/>
+<rect x="606.0" y="120" width="30.0" height="150" fill="#f1dcb5" stroke="#333" stroke-width="2.2"/>
+<path d="M576 106 L666 106" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<path d="M576 100 V116 M666 100 V116 M606.0 274 V292 M636.0 274 V292" stroke="#0b5cad" stroke-width="1"/>
+<text x="621.0" y="96" font-size="14" fill="#0b5cad" text-anchor="middle" font-weight="bold">木料厚度</text>
+<path d="M606.0 284 L636.0 284" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<text x="621.0" y="308" font-size="14" fill="#0b5cad" text-anchor="middle" font-weight="bold">榫头厚度约为</text>
+<text x="621.0" y="326" font-size="14" fill="#0b5cad" text-anchor="middle" font-weight="bold">木料厚度的1/3</text>
+<text x="570" y="191.0" font-size="13" fill="#c33" text-anchor="end">锯掉</text>
+<text x="570" y="208.0" font-size="13" fill="#c33" text-anchor="end">两侧</text>
+<text x="672" y="191.0" font-size="13" fill="#c33">锯掉</text>
+<text x="672" y="208.0" font-size="13" fill="#c33">两侧</text>
+<text x="621.0" y="200.0" font-size="14" text-anchor="middle" font-weight="bold">榫头</text>
+<rect x="10" y="386" width="135" height="288" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<rect x="151" y="386" width="135" height="288" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<rect x="292" y="386" width="135" height="288" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<rect x="433" y="386" width="135" height="288" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<rect x="574" y="386" width="135" height="288" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="20" y="410" font-size="15" font-weight="bold">① 画线</text>
+<text x="20" y="598" font-size="13.5">在横档的一端</text>
+<text x="20" y="617" font-size="13.5">画出榫头(厚度约</text>
+<text x="20" y="636" font-size="13.5">为木料厚度的1/3)</text>
+<text x="161" y="410" font-size="15" font-weight="bold">② 锯</text>
+<text x="161" y="598" font-size="13.5">锯掉两侧多余</text>
+<text x="161" y="617" font-size="13.5">的部分,做成榫头</text>
+<text x="302" y="410" font-size="15" font-weight="bold">③ 打卯眼</text>
+<text x="302" y="598" font-size="13.5">在腿上对应位置</text>
+<text x="302" y="617" font-size="13.5">画出卯眼,用钻头</text>
+<text x="302" y="636" font-size="13.5">先钻掉大部分,</text>
+<text x="302" y="655" font-size="13.5">再用凿子修方</text>
+<text x="443" y="410" font-size="15" font-weight="bold">④ 试插</text>
+<text x="443" y="598" font-size="13.5">紧了就修榫头,</text>
+<text x="443" y="617" font-size="13.5" fill="#c33">不要用锤子硬砸</text>
+<text x="443" y="636" font-size="13.5" fill="#c33">(会把卯眼撑裂)</text>
+<text x="584" y="410" font-size="15" font-weight="bold">⑤ 胶合</text>
+<text x="584" y="598" font-size="13.5">抹胶后敲入,</text>
+<text x="584" y="617" font-size="13.5">用夹具夹紧,</text>
+<text x="584" y="636" font-size="13.5">干透后再受力</text>
+<text x="77" y="446" font-size="13" fill="#555" text-anchor="middle">横档(俯视)</text>
+<rect x="22" y="470" width="110" height="36" fill="#f1dcb5" stroke="#333" stroke-width="2"/>
+<path d="M92 470 V506 M92 482 H132 M92 494 H132" stroke="#c33" stroke-width="1.6" stroke-dasharray="4 3"/>
+<path d="M136 470 V506 M133 482 H139 M133 494 H139 M133 470 H139 M133 506 H139" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="112" y="532" font-size="13" fill="#0b5cad" text-anchor="middle" font-weight="bold">1/3</text>
+<line x1="120" y1="520" x2="134" y2="488" stroke="#0b5cad" stroke-width="1.3"/><circle cx="134" cy="488" r="2.6" fill="#0b5cad"/>
+<text x="218" y="446" font-size="13" fill="#555" text-anchor="middle">横档(俯视)</text>
+<rect x="163" y="470" width="70" height="36" fill="#f1dcb5" stroke="#333" stroke-width="2"/>
+<rect x="233" y="470" width="40" height="12" fill="url(#cut)" stroke="#c33" stroke-width="1.3" stroke-dasharray="4 3"/>
+<rect x="233" y="494" width="40" height="12" fill="url(#cut)" stroke="#c33" stroke-width="1.3" stroke-dasharray="4 3"/>
+<path d="M233 470 V482 H273 V494 H233 V506" fill="none" stroke="#333" stroke-width="2"/>
+<path d="M233 482 H273 V494 H233 Z" fill="#f1dcb5" stroke="#333" stroke-width="2"/>
+<text x="253" y="462" font-size="13" fill="#c33" text-anchor="middle">锯掉</text>
+<text x="253" y="524" font-size="13" fill="#c33" text-anchor="middle">锯掉</text>
+<text x="191" y="546" font-size="13" text-anchor="middle" font-weight="bold">榫头</text>
+<line x1="207" y1="540" x2="251" y2="494" stroke="#0b5cad" stroke-width="1.3"/><circle cx="251" cy="494" r="2.6" fill="#0b5cad"/>
+<text x="322" y="446" font-size="13" fill="#555" text-anchor="middle">腿</text>
+<rect x="337" y="430" width="44" height="140" fill="#ecd3a8" stroke="#333" stroke-width="2"/>
+<rect x="352" y="470" width="14" height="62" fill="#fff" stroke="#333" stroke-width="1.6"/>
+<circle cx="359" cy="477" r="6" fill="#6b5236" stroke="#333" stroke-width="1"/>
+<circle cx="359" cy="489" r="6" fill="#6b5236" stroke="#333" stroke-width="1"/>
+<circle cx="359" cy="501" r="6" fill="#6b5236" stroke="#333" stroke-width="1"/>
+<circle cx="359" cy="513" r="6" fill="#6b5236" stroke="#333" stroke-width="1"/>
+<circle cx="359" cy="525" r="6" fill="#6b5236" stroke="#333" stroke-width="1"/>
+<path d="M368 476 L394 446" stroke="#888" stroke-width="5" stroke-linecap="square"/><path d="M394 446 L414 424" stroke="#8b6b3e" stroke-width="9" stroke-linecap="round"/>
+<text x="396" y="474" font-size="13" fill="#555">凿子</text>
+<text x="302" y="500" font-size="13" fill="#555">钻孔</text>
+<line x1="330" y1="496" x2="354" y2="500" stroke="#0b5cad" stroke-width="1.3"/><circle cx="354" cy="500" r="2.6" fill="#0b5cad"/>
+<rect x="445" y="470" width="40" height="40" fill="#ecd3a8" stroke="#333" stroke-width="2"/>
+<path d="M459 484 H485 M459 496 H485 M459 484 V496" fill="none" stroke="#333" stroke-width="1.3" stroke-dasharray="3 2"/>
+<rect x="477" y="484" width="32" height="12" fill="#f1dcb5" stroke="#333" stroke-width="2"/>
+<rect x="509" y="472" width="52" height="36" fill="#f1dcb5" stroke="#333" stroke-width="2"/>
+<path d="M553 460 H523" stroke="#c33" stroke-width="2.2" marker-end="url(#arR)"/>
+<text x="465" y="462" font-size="13" fill="#555" text-anchor="middle">腿</text>
+<text x="535" y="524" font-size="13" fill="#555" text-anchor="middle">横档</text>
+<path d="M489 568 L517 540" stroke="#8b6b3e" stroke-width="5" stroke-linecap="round"/><path d="M507 536 L525 554" stroke="#555" stroke-width="11" stroke-linecap="butt"/>
+<circle cx="509" cy="550" r="25" fill="none" stroke="#c33" stroke-width="3"/><path d="M491 532 L527 568" stroke="#c33" stroke-width="3"/>
+<rect x="586" y="476" width="40" height="40" fill="#ecd3a8" stroke="#333" stroke-width="2"/>
+<rect x="626" y="478" width="72" height="36" fill="#f1dcb5" stroke="#333" stroke-width="2"/>
+<path d="M626 480 V512" stroke="#e0b400" stroke-width="3" stroke-dasharray="3 3"/>
+<path d="M578 452 H704 M582 452 V494 M702 452 V494" fill="none" stroke="#555" stroke-width="4"/>
+<rect x="579" y="486" width="7" height="18" fill="#555" stroke="#333" stroke-width="1"/>
+<rect x="698" y="486" width="7" height="18" fill="#555" stroke="#333" stroke-width="1"/>
+<path d="M702 470 L702 482" stroke="#555" stroke-width="4"/>
+<text x="641" y="444" font-size="13" fill="#555" text-anchor="middle">夹具</text>
+<text x="626" y="540" font-size="13" fill="#555" text-anchor="middle">胶</text>
+<line x1="626" y1="528" x2="626" y2="506" stroke="#0b5cad" stroke-width="1.3"/><circle cx="626" cy="506" r="2.6" fill="#0b5cad"/>
+</g>
+</svg>

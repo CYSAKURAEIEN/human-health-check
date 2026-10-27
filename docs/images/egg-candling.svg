@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 572" width="720" height="572" role="img" aria-label="照蛋与鸡蛋孵化箱参数: 在暗处用手电从蛋的大头往里照;第7天左右能看到蛛网状血管和黑点(胚胎)是受精正常,清亮无物是无精蛋,有血环是死胚,都要取出;第18天左右蛋内大部分黑暗、气室边缘清楚是正常。鸡蛋孵化期21天,有风扇时温度37.5-37.8°C,无风扇测蛋顶高度38.3-38.9°C;相对湿度孵化期50-55%,出雏前3天65-75%;翻蛋每天至少3次(最好5次),每次约180°,第18天停止翻蛋">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>照蛋与孵化要点(鸡蛋)</title>
+<defs>
+<radialGradient id="glow" cx="50%" cy="65%" r="60%"><stop offset="0" stop-color="#ffe9b0"/><stop offset="1" stop-color="#e8963a"/></radialGradient>
+<path id="egg" d="M0,-60 C27,-60 45,-28 45,6 C45,38 26,58 0,58 C-26,58 -45,38 -45,6 C-45,-28 -27,-60 0,-60 Z"/>
+<clipPath id="eggClip"><use href="#egg"/></clipPath>
+<g id="lamp"><ellipse cx="0" cy="56" rx="26" ry="7" fill="#ffe08a" fill-opacity="0.55"/></g>
+<g id="torch" transform="translate(0,58) rotate(28)"><path d="M-20,0 L20,0 L13,18 L-13,18 Z" fill="#777" stroke="#aaa" stroke-width="1.5"/><rect x="-11" y="18" width="22" height="50" rx="3" fill="#555" stroke="#aaa" stroke-width="1.5"/><rect x="-4" y="30" width="8" height="10" rx="2" fill="#888"/></g>
+<g id="cell"><path d="M-50,40 Q0,26 50,40 L50,70 L-50,70 Z" fill="#fff4d6" clip-path="url(#eggClip)"/><path d="M-50,40 Q0,26 50,40" fill="none" stroke="#c9852e" stroke-width="1.2" clip-path="url(#eggClip)"/></g>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+</defs>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="14" fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">照蛋与孵化要点(鸡蛋)</text>
+
+<g transform="translate(10,42)">
+<rect x="0" y="0" width="230" height="262" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="14" y="24" font-size="16" font-weight="bold">怎么照蛋</text>
+<rect x="12" y="34" width="206" height="170" rx="6" fill="#2b2b2b"/>
+<g transform="translate(130,88) scale(0.8)">
+<use href="#lamp"/>
+<use href="#torch"/>
+<use href="#egg" fill="url(#glow)" stroke="#c9852e" stroke-width="2"/>
+<use href="#cell"/>
+</g>
+<g font-size="13" fill="#9cc8f0">
+<text x="24" y="70">蛋的大头</text>
+<text x="24" y="86">朝向手电</text>
+<line x1="70" y1="92" x2="104" y2="126" stroke="#9cc8f0" stroke-width="1"/>
+<text x="24" y="160">气室</text>
+<line x1="52" y1="156" x2="114" y2="124" stroke="#9cc8f0" stroke-width="1"/>
+<text x="24" y="190">手电</text>
+<line x1="54" y1="186" x2="118" y2="178" stroke="#9cc8f0" stroke-width="1"/>
+</g>
+<text x="14" y="228">在暗处,用手电从蛋的</text>
+<text x="14" y="248">大头往里照</text>
+</g>
+
+<g transform="translate(250,42)">
+<rect x="0" y="0" width="460" height="262" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="14" y="24" font-size="16" font-weight="bold">孵化箱参数(鸡,孵化期21天)</text>
+<g stroke="#999" stroke-width="1" stroke-dasharray="3 3">
+<line x1="173" y1="52" x2="173" y2="164"/>
+<line x1="367" y1="52" x2="367" y2="164"/>
+<line x1="420" y1="52" x2="420" y2="164"/>
+</g>
+<g font-size="13" fill="#c33" text-anchor="middle">
+<text x="173" y="48">照蛋</text>
+<text x="367" y="48">照蛋</text>
+<text x="420" y="48">出壳</text>
+</g>
+<text x="14" y="81" font-weight="bold">温度</text>
+<rect x="50" y="64" width="370" height="24" fill="#f8dccb" stroke="#999" stroke-width="1"/>
+<text x="235" y="81" text-anchor="middle">37.5-37.8°C(有风扇,箱内温度均匀)</text>
+<text x="14" y="113" font-weight="bold">湿度</text>
+<rect x="50" y="96" width="317" height="24" fill="#e3eef8" stroke="#999" stroke-width="1"/>
+<rect x="367" y="96" width="53" height="24" fill="#b9d3ec" stroke="#999" stroke-width="1"/>
+<text x="208" y="113" text-anchor="middle">相对湿度50-55%</text>
+<text x="393.5" y="113" font-size="12" text-anchor="middle">65-75%</text>
+<text x="14" y="145" font-weight="bold">翻蛋</text>
+<rect x="50" y="128" width="317" height="24" fill="#efe6c9" stroke="#999" stroke-width="1"/>
+<rect x="367" y="128" width="53" height="24" fill="#fff" stroke="#999" stroke-width="1"/>
+<text x="208" y="145" text-anchor="middle">每天至少3次(最好5次),每次约180°</text>
+<text x="393.5" y="145" font-size="12" text-anchor="middle" fill="#c33">停止</text>
+<line x1="50" y1="164" x2="420" y2="164" stroke="#333" stroke-width="2"/>
+<g stroke="#333" stroke-width="2">
+<line x1="50" y1="158" x2="50" y2="170"/>
+<line x1="173" y1="158" x2="173" y2="170"/>
+<line x1="367" y1="158" x2="367" y2="170"/>
+<line x1="420" y1="158" x2="420" y2="170"/>
+</g>
+<g font-size="13" text-anchor="middle">
+<text x="50" y="186">放蛋</text>
+<text x="173" y="186">第7天</text>
+<text x="363" y="186">第18天</text>
+<text x="424" y="186">第21天</text>
+</g>
+<text x="14" y="210">无风扇时: 38.3-38.9°C(温度计测蛋顶高度)</text>
+<text x="14" y="230">出雏前3天提高湿度,出雏期间尽量不开箱</text>
+<text x="14" y="250">蛋上一面画“×”一面画“○”,翻后检查是否都翻到</text>
+</g>
+
+<g transform="translate(10,314)">
+<rect x="0" y="0" width="172" height="248" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="22" font-size="15" font-weight="bold">第7天左右</text>
+<rect x="6" y="32" width="160" height="144" rx="6" fill="#2b2b2b"/>
+<g transform="translate(86,96) scale(0.85)">
+<use href="#lamp"/>
+<use href="#egg" fill="url(#glow)" stroke="#c9852e" stroke-width="2"/>
+<use href="#cell"/>
+<g fill="none" stroke="#b0281e" stroke-width="1.8" stroke-linecap="round" clip-path="url(#eggClip)">
+<path d="M6,-6 Q-8,-16 -22,-12 Q-30,-10 -34,-20"/>
+<path d="M-22,-12 Q-28,-2 -38,0"/>
+<path d="M6,-6 Q14,-22 26,-24 Q34,-26 36,-36"/>
+<path d="M26,-24 Q34,-16 40,-12"/>
+<path d="M6,-6 Q22,2 30,14 Q34,20 42,20"/>
+<path d="M30,14 Q24,22 26,30"/>
+<path d="M6,-6 Q-4,10 -18,16 Q-26,20 -30,30"/>
+<path d="M-18,16 Q-30,10 -40,14"/>
+<path d="M6,-6 Q2,-26 -6,-38 Q-10,-46 -4,-52"/>
+<path d="M-6,-38 Q-16,-40 -22,-46"/>
+</g>
+<circle cx="6" cy="-6" r="6" fill="#2a1a10"/>
+</g>
+<text x="12" y="198" font-size="15" font-weight="bold">✓ 受精正常</text>
+<text x="12" y="218">能看到蛛网状血管和</text>
+<text x="12" y="236">黑点(胚胎)</text>
+</g>
+
+<g transform="translate(186,314)">
+<rect x="0" y="0" width="172" height="248" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="22" font-size="15" font-weight="bold">第7天左右</text>
+<rect x="6" y="32" width="160" height="144" rx="6" fill="#2b2b2b"/>
+<g transform="translate(86,96) scale(0.85)">
+<use href="#lamp"/>
+<use href="#egg" fill="url(#glow)" stroke="#c9852e" stroke-width="2"/>
+<use href="#cell"/>
+</g>
+<text x="12" y="198" font-size="15" font-weight="bold" fill="#c33">✗ 无精蛋</text>
+<text x="12" y="218">清亮无物 → 取出</text>
+</g>
+
+<g transform="translate(362,314)">
+<rect x="0" y="0" width="172" height="248" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="22" font-size="15" font-weight="bold">第7天左右</text>
+<rect x="6" y="32" width="160" height="144" rx="6" fill="#2b2b2b"/>
+<g transform="translate(86,96) scale(0.85)">
+<use href="#lamp"/>
+<use href="#egg" fill="url(#glow)" stroke="#c9852e" stroke-width="2"/>
+<use href="#cell"/>
+<path d="M2,-30 Q26,-28 26,-4 Q27,20 0,22 Q-24,21 -25,-4 Q-24,-31 2,-30 Z" fill="none" stroke="#b0281e" stroke-width="3.5"/>
+</g>
+<text x="12" y="198" font-size="15" font-weight="bold" fill="#c33">✗ 死胚</text>
+<text x="12" y="218">有血环 → 取出</text>
+<text x="12" y="236" font-size="13">(放着会腐败甚至爆裂)</text>
+</g>
+
+<g transform="translate(538,314)">
+<rect x="0" y="0" width="172" height="248" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="22" font-size="15" font-weight="bold">第18天左右</text>
+<rect x="6" y="32" width="160" height="144" rx="6" fill="#2b2b2b"/>
+<g transform="translate(86,96) scale(0.85)">
+<use href="#lamp"/>
+<use href="#egg" fill="url(#glow)" stroke="#c9852e" stroke-width="2"/>
+<path d="M-50,-70 L50,-70 L50,40 Q0,26 -50,40 Z" fill="#3b2616" clip-path="url(#eggClip)"/>
+<use href="#egg" fill="none" stroke="#c9852e" stroke-width="2"/>
+<use href="#cell"/>
+</g>
+<text x="136" y="140" font-size="13" fill="#9cc8f0">气室</text>
+<line x1="134" y1="136" x2="114" y2="126" stroke="#9cc8f0" stroke-width="1"/>
+<text x="12" y="198" font-size="15" font-weight="bold">✓ 正常</text>
+<text x="12" y="218">蛋内大部分黑暗,</text>
+<text x="12" y="236">气室边缘清楚</text>
+</g>
+</g>
+</svg>
