@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 690" width="720" height="690" role="img" aria-label="轮轴和螺旋: 轮轴的规律是力乘轮半径等于阻力乘轴半径;辘轳的摇把就是轮,绕绳的木轴就是轴,手在大圆上摇,绳子在小轴上收,省力但手要走更长的路;应用: 辘轳(井上打水)、绞盘、门把手、方向盘。螺旋是绕在圆柱上的斜面,把一个三角形的斜面绕到圆柱上,斜边就成了螺纹;应用: 螺丝、千斤顶、榨油机、压榨机" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>轮轴和螺旋</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="arG" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#555"/></marker>
+<marker id="dimB" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,1 L10,5 L0,9 Z" fill="#0b5cad"/></marker>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">轮轴和螺旋: 省力就要费距离</text>
+
+<!-- ① 轮轴 -->
+<rect x="10" y="44" width="700" height="372" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="70" font-size="16" font-weight="bold">① 轮轴(辘轳)</text>
+<rect x="190" y="82" width="340" height="40" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="360" y="108" font-size="16" font-weight="bold" text-anchor="middle">力 × 轮半径 = 阻力 × 轴半径</text>
+<line x1="330" y1="136" x2="330" y2="370" stroke="#ddd" stroke-width="1.5"/>
+
+<!-- 侧视: 井上的辘轳 -->
+<text x="40" y="154" font-size="14" fill="#555">侧面看</text>
+<path d="M20,330 H316" stroke="#999" stroke-width="3"/>
+<g transform="translate(16,0)">
+<rect x="70" y="298" width="170" height="32" fill="#d8d8d8" stroke="#333" stroke-width="2"/>
+<path d="M70,314 H240 M100,298 V314 M140,298 V314 M180,298 V314 M220,298 V314 M85,314 V330 M120,314 V330 M160,314 V330 M200,314 V330" stroke="#888" stroke-width="1"/>
+<rect x="84" y="170" width="12" height="128" fill="#b8955a" stroke="#333" stroke-width="2"/>
+<rect x="214" y="170" width="12" height="128" fill="#b8955a" stroke="#333" stroke-width="2"/>
+<line x1="226" y1="200" x2="262" y2="200" stroke="#333" stroke-width="5"/>
+<rect x="96" y="186" width="118" height="28" rx="3" fill="#d9c29a" stroke="#333" stroke-width="2"/>
+<path d="M112,186 L104,214 M124,186 L116,214 M136,186 L128,214 M148,186 L140,214 M160,186 L152,214" stroke="#8f6d2e" stroke-width="2.5"/>
+<line x1="258" y1="200" x2="258" y2="260" stroke="#8f6d2e" stroke-width="7" stroke-linecap="round"/>
+<line x1="258" y1="260" x2="286" y2="260" stroke="#333" stroke-width="7" stroke-linecap="round"/>
+<path d="M150,214 V246" stroke="#8f6d2e" stroke-width="2.5"/>
+<path d="M132,246 H168 L163,282 H137 Z" fill="#cfe0f0" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M138,246 Q150,236 162,246" fill="none" stroke="#333" stroke-width="1.5"/>
+<g stroke="#555" stroke-width="1"><path d="M286,232 L268,246"/><path d="M190,262 L166,262"/></g>
+<text x="155" y="180" font-size="14" text-anchor="middle">绕绳的木轴</text>
+<text x="290" y="228" font-size="14" text-anchor="end">摇把</text>
+<text x="194" y="267" font-size="14">水桶</text>
+</g>
+<text x="170" y="360" font-size="14" text-anchor="middle" fill="#555">摇把转的圈大(轮),木轴细(轴)</text>
+
+<!-- 端视: 原理 -->
+<text x="350" y="154" font-size="14" fill="#555">从轴的一端看</text>
+<g transform="translate(20,12)">
+<circle cx="540" cy="220" r="95" fill="none" stroke="#999" stroke-width="1.5" stroke-dasharray="5 5"/>
+<line x1="540" y1="220" x2="445" y2="220" stroke="#8f6d2e" stroke-width="8" stroke-linecap="round"/>
+<circle cx="445" cy="220" r="7" fill="#333"/>
+<circle cx="540" cy="220" r="22" fill="#d9c29a" stroke="#333" stroke-width="2"/>
+<circle cx="540" cy="220" r="4" fill="#333"/>
+<path d="M562,220 V300" stroke="#8f6d2e" stroke-width="2.5"/>
+<path d="M544,300 H580 L575,334 H549 Z" fill="#cfe0f0" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M445,230 V284" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<text x="436" y="268" font-size="14" font-weight="bold" fill="#c33" text-anchor="end">力</text>
+<text x="436" y="286" font-size="13" fill="#c33" text-anchor="end">(手摇)</text>
+<path d="M562,338 V364" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<text x="574" y="358" font-size="14" font-weight="bold" fill="#c33">阻力(水桶)</text>
+<path d="M479.2,133.2 A106,106 0 0 0 435.6,201.6" fill="none" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<path d="M447,196 V212 M540,196 V212" stroke="#0b5cad" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="447" y1="202" x2="538" y2="202" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#dimB)" marker-end="url(#dimB)"/>
+<text x="492" y="194" font-size="14" font-weight="bold" fill="#0b5cad" text-anchor="middle">轮半径</text>
+<path d="M540,244 V262 M562,244 V262" stroke="#0b5cad" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="541" y1="256" x2="561" y2="256" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#dimB)" marker-end="url(#dimB)"/>
+<text x="534" y="284" font-size="14" font-weight="bold" fill="#0b5cad" text-anchor="end">轴半径</text>
+</g>
+<text x="520" y="398" font-size="14" text-anchor="middle" fill="#555">手走大圈,绳子在细轴上收: 省力,但手要走更长的路</text>
+
+<!-- ② 螺旋 -->
+<rect x="10" y="428" width="700" height="250" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="454" font-size="16" font-weight="bold">② 螺旋: 绕在圆柱上的斜面</text>
+<path d="M50,610 H290 V490 Z" fill="#f3ead8" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M50,610 L290,490" stroke="#c33" stroke-width="3.5"/>
+<text x="150" y="534" font-size="14" fill="#c33" font-weight="bold" text-anchor="middle">斜边</text>
+<text x="210" y="600" font-size="14" text-anchor="middle">斜面</text>
+<path d="M314,550 H378" stroke="#555" stroke-width="2.5" marker-end="url(#arG)"/>
+<text x="346" y="540" font-size="13" text-anchor="middle" fill="#555">绕到圆柱上</text>
+<rect x="420" y="476" width="60" height="140" fill="#eee" stroke="none"/>
+<path d="M420,476 V616 A30,8 0 0 0 480,616 V476" fill="none" stroke="#333" stroke-width="2"/>
+<ellipse cx="450" cy="476" rx="30" ry="8" fill="#f7f7f7" stroke="#333" stroke-width="2"/>
+<path d="M480,590 L420,570 M480,550 L420,530 M480,510 L420,490" stroke="#c33" stroke-width="1.5" stroke-dasharray="4 3" opacity="0.6"/>
+<path d="M420,610 L480,590 M420,570 L480,550 M420,530 L480,510 M420,490 L452,479" stroke="#c33" stroke-width="3.5"/>
+<text x="450" y="642" font-size="14" text-anchor="middle">斜边变成螺纹</text>
+<!-- 螺丝 -->
+<path d="M580,470 H640 L634,482 H586 Z" fill="#cfcfcf" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M596,482 L590,494 L600,500 L590,512 L600,518 L590,530 L600,536 L590,548 L600,554 L590,566 L600,572 L610,604 L620,572 L630,566 L620,554 L630,548 L620,536 L630,530 L620,518 L630,512 L620,500 L630,494 L624,482 Z" fill="#e6e6e6" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<text x="610" y="626" font-size="14" text-anchor="middle">螺丝</text>
+<text x="360" y="666" font-size="14" text-anchor="middle">应用: 螺丝、千斤顶、榨油机、压榨机</text>
+</g>
+</svg>

@@ -1,0 +1,176 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 820" width="720" height="820" role="img" aria-label="鸡舍布局剖面: 坐北朝南,北墙少开窗;鸡舍高2-2.5 m;屋脊或屋檐下留排气口,进风口在下方,鸡身高度不能有穿堂风;窗和通风口钉孔径约1-1.5 cm的金属网;栖杆同一高度,直径4-5 cm,间距30-35 cm,离地30-60 cm,下设接粪板每周清理;产蛋箱30×30×30 cm,前挡板约10 cm,箱底离地40-60 cm,放在暗处,比栖架低;地面硬化并铺垫料;墙基向下埋网30-45 cm,或墙外地面平铺50 cm宽的网再盖土;运动场面积为鸡舍2-3倍,网高约1.8-2 m,有遮阴和沙浴坑。按鸡数算: 舍内轻型蛋鸡6-8只/m²,土鸡、兼用鸡4-6只/m²;栖架每只15-20 cm(大体型20-25 cm);产蛋箱每4-5只一个;料槽每只约8-10 cm;饮水每只每天约0.2-0.3 L,热天加倍;窗和通风口总面积约占地面1/10以上" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>鸡舍布局</title>
+<defs>
+<pattern id="soil" width="16" height="16" patternUnits="userSpaceOnUse"><rect width="16" height="16" fill="#efe4cf"/><circle cx="4" cy="5" r="1.1" fill="#bba57a"/><circle cx="12" cy="12" r="1.1" fill="#bba57a"/><circle cx="11" cy="3" r="0.8" fill="#bba57a"/></pattern>
+<pattern id="mesh" width="6" height="6" patternUnits="userSpaceOnUse"><rect width="6" height="6" fill="#fff"/><path d="M0 0 H6 M0 0 V6" stroke="#777" stroke-width="1"/></pattern>
+<pattern id="straw" width="10" height="8" patternUnits="userSpaceOnUse"><rect width="10" height="8" fill="#f1dc9a"/><path d="M0 6 L6 2 M5 7 L10 4" stroke="#c9a94e" stroke-width="1"/></pattern>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<marker id="arB0" viewBox="0 0 10 10" refX="2" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M10 0 L0 5 L10 10 Z" fill="#0b5cad"/></marker>
+<g id="hen"><path d="M-14 -4 L-20 -16 L-9 -9 Z" fill="#a8652e" stroke="#333" stroke-width="1.2" stroke-linejoin="round"/><ellipse cx="0" cy="0" rx="14" ry="9" fill="#d89a5a" stroke="#333" stroke-width="1.5"/><path d="M-6 -1 Q0 5 7 0" fill="none" stroke="#a8652e" stroke-width="1.2"/><circle cx="11" cy="-10" r="5" fill="#d89a5a" stroke="#333" stroke-width="1.5"/><path d="M8 -15 Q10 -20 12 -15 Q14 -20 15 -14 Z" fill="#c33"/><path d="M16 -11 L20 -9 L16 -8 Z" fill="#e8a33a" stroke="#333" stroke-width="0.8"/><circle cx="12" cy="-11" r="0.9" fill="#222"/></g>
+<g id="henLeg"><use href="#hen"/><path d="M-2 8 V16 M4 8 V16 M-5 16 H1 M1 16 H7" stroke="#c9852e" stroke-width="1.6"/></g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">鸡舍布局(剖面示意,不按比例)</text>
+<!-- 朝向 -->
+<path d="M70 58 H24" stroke="#0b5cad" stroke-width="2" marker-end="url(#arB)"/>
+<text x="76" y="63" font-size="15" font-weight="bold" fill="#0b5cad">北</text>
+<path d="M650 58 H696" stroke="#0b5cad" stroke-width="2" marker-end="url(#arB)"/>
+<text x="628" y="63" font-size="15" font-weight="bold" fill="#0b5cad">南</text>
+<text x="360" y="63" font-size="15" text-anchor="middle">坐北朝南,冬季背风(北方北墙少开窗)</text>
+<circle cx="672" cy="104" r="15" fill="#ffd866" stroke="#e0a020" stroke-width="2"/>
+<path d="M672 80 V84 M672 124 V128 M648 104 H652 M692 104 H696 M655 87 L658 90 M686 118 L689 121 M689 87 L686 90 M658 118 L655 121" stroke="#e0a020" stroke-width="2"/>
+
+<!-- 地下 -->
+<rect x="10" y="430" width="700" height="90" fill="url(#soil)"/>
+<path d="M10 430 H710" stroke="#999" stroke-width="3"/>
+
+<!-- 墙、屋顶 -->
+<rect x="110" y="200" width="12" height="230" fill="#d9c7a8" stroke="#333" stroke-width="2"/>
+<rect x="110" y="430" width="12" height="40" fill="#bfae90" stroke="#333" stroke-width="2"/>
+<rect x="438" y="200" width="12" height="230" fill="#d9c7a8" stroke="#333" stroke-width="2"/>
+<rect x="438" y="430" width="12" height="20" fill="#bfae90" stroke="#333" stroke-width="2"/>
+<path d="M88 214 L266 122 M294 122 L472 214" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+<path d="M258 116 L280 100 L302 116" fill="none" stroke="#333" stroke-width="3" stroke-linejoin="round"/>
+<path d="M266 122 V116 M294 122 V116" stroke="#333" stroke-width="2"/>
+<!-- 檐下排气口(北、南) -->
+<rect x="110" y="208" width="12" height="22" fill="url(#mesh)" stroke="#333" stroke-width="1.5"/>
+<rect x="438" y="208" width="12" height="22" fill="url(#mesh)" stroke="#333" stroke-width="1.5"/>
+<!-- 南墙下方进风窗 -->
+<rect x="438" y="296" width="12" height="48" fill="url(#mesh)" stroke="#333" stroke-width="1.5"/>
+<!-- 鸡出入的小门 -->
+<rect x="438" y="390" width="12" height="40" fill="#fff" stroke="#333" stroke-width="1.5"/>
+<rect x="452" y="390" width="6" height="40" fill="#b98c4f" stroke="#333" stroke-width="1.5"/>
+<rect x="452" y="404" width="10" height="4" fill="#555"/>
+
+<!-- 地面: 硬化 + 垫料 -->
+<rect x="122" y="430" width="316" height="10" fill="#c8c8c8" stroke="#333" stroke-width="1.5"/>
+<rect x="122" y="421" width="316" height="9" fill="url(#straw)"/>
+
+<!-- 防打洞的网 -->
+<path d="M106 430 V472" stroke="#c33" stroke-width="2.5" stroke-dasharray="5 3"/>
+<path d="M454 434 H504" stroke="#c33" stroke-width="2.5" stroke-dasharray="5 3"/>
+
+<!-- 通风气流 -->
+<path d="M492 320 H456" stroke="#0b5cad" stroke-width="2" marker-end="url(#arB)"/>
+<path d="M432 316 C 380 300, 330 240, 284 132" fill="none" stroke="#0b5cad" stroke-width="1.8" stroke-dasharray="6 4" marker-end="url(#arB)"/>
+<path d="M280 98 V76" stroke="#0b5cad" stroke-width="2" marker-end="url(#arB)"/>
+<path d="M108 219 H94" stroke="#0b5cad" stroke-width="2" marker-end="url(#arB)"/>
+
+<!-- 产蛋箱(北墙边,暗处) -->
+<rect x="124" y="364" width="52" height="38" fill="#e6d2b0" stroke="#333" stroke-width="2"/>
+<rect x="128" y="388" width="44" height="14" fill="url(#straw)"/>
+<rect x="172" y="390" width="4" height="12" fill="#8b6b3e"/>
+<path d="M130 402 V421 M170 402 V421" stroke="#8b6b3e" stroke-width="3"/>
+<use href="#hen" transform="translate(148,384) scale(0.85)"/>
+<rect x="166" y="380" width="10" height="22" fill="#b98c4f" stroke="#333" stroke-width="1.5"/>
+
+<!-- 栖架 -->
+<path d="M230 421 V336 M350 421 V336" stroke="#8b6b3e" stroke-width="4"/>
+<path d="M226 336 H354" stroke="#8b6b3e" stroke-width="4"/>
+<circle cx="250" cy="330" r="5" fill="#b98c4f" stroke="#333" stroke-width="1.5"/>
+<circle cx="290" cy="330" r="5" fill="#b98c4f" stroke="#333" stroke-width="1.5"/>
+<circle cx="330" cy="330" r="5" fill="#b98c4f" stroke="#333" stroke-width="1.5"/>
+<use href="#hen" transform="translate(250,317) scale(0.85)"/>
+<use href="#hen" transform="translate(290,317) scale(0.85)"/>
+<use href="#hen" transform="translate(330,317) scale(0.85)"/>
+<!-- 接粪板 -->
+<rect x="226" y="368" width="128" height="6" fill="#999" stroke="#333" stroke-width="1.5"/>
+<text x="290" y="394" font-size="13" text-anchor="middle">接粪板,每周清理</text>
+
+<!-- 栖架标注 -->
+<text x="134" y="252" font-size="14" font-weight="bold">栖架</text>
+<text x="134" y="270" font-size="13">栖杆同一高度</text>
+<text x="134" y="287" font-size="13">直径4-5 cm</text>
+<line x1="208" y1="283" x2="244" y2="326" stroke="#0b5cad" stroke-width="1.3"/><circle cx="244" cy="326" r="2.6" fill="#0b5cad"/>
+<path d="M254 344 H286" stroke="#0b5cad" stroke-width="1.3" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<text x="290" y="360" font-size="13" fill="#0b5cad" text-anchor="middle">间距30-35 cm</text>
+<path d="M374 333 V418" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<path d="M336 330 H380" stroke="#0b5cad" stroke-width="1" stroke-dasharray="3 2"/>
+<text x="380" y="372" font-size="13" fill="#0b5cad">离地</text>
+<text x="380" y="388" font-size="13" fill="#0b5cad">30-60 cm</text>
+
+<!-- 高度 -->
+<path d="M84 228 V426" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<text x="20" y="320" font-size="14" font-weight="bold" fill="#0b5cad">高</text>
+<text x="20" y="338" font-size="14" font-weight="bold" fill="#0b5cad">2-2.5 m</text>
+
+<!-- 通风标注 -->
+<text x="308" y="92" font-size="14" font-weight="bold">排气口</text>
+<text x="308" y="110" font-size="13" fill="#555">(屋脊或屋檐下)</text>
+<text x="472" y="160" font-size="13">窗、通风口钉孔径约</text>
+<text x="472" y="177" font-size="13">1-1.5 cm的金属网</text>
+<line x1="486" y1="182" x2="452" y2="222" stroke="#0b5cad" stroke-width="1.3"/><circle cx="452" cy="222" r="2.6" fill="#0b5cad"/>
+<text x="500" y="314" font-size="14" font-weight="bold">进风口在下方</text>
+<text x="500" y="332" font-size="13" fill="#555">鸡身高度不能有穿堂风</text>
+
+<!-- 运动场 -->
+<text x="490" y="246" font-size="15" font-weight="bold">运动场</text>
+<text x="490" y="265" font-size="13">面积为鸡舍2-3倍</text>
+<text x="490" y="282" font-size="13">分2-3块轮换使用</text>
+<path d="M694 246 V430" stroke="#555" stroke-width="3"/>
+<rect x="688" y="250" width="12" height="180" fill="url(#mesh)" fill-opacity="0.8"/>
+<path d="M694 246 V430" stroke="#555" stroke-width="3"/>
+<path d="M676 250 V426" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<text x="624" y="250" font-size="13" fill="#0b5cad">网高约</text>
+<text x="614" y="267" font-size="13" fill="#0b5cad">1.8-2 m</text>
+<!-- 遮阴棚 -->
+<path d="M590 356 L668 344" stroke="#8b6b3e" stroke-width="5" stroke-linecap="round"/>
+<path d="M598 356 V430 M660 346 V430" stroke="#8b6b3e" stroke-width="3"/>
+<text x="610" y="380" font-size="13">遮阴棚</text>
+<use href="#henLeg" transform="translate(624,412)"/>
+<!-- 沙浴坑 -->
+<path d="M516 431 Q542 446 568 431 Z" fill="#cfcfcf" stroke="#333" stroke-width="1.5"/>
+<text x="524" y="422" font-size="13">沙浴坑</text>
+<!-- 门 -->
+<text x="468" y="358" font-size="13" font-weight="bold">门(防兽)</text>
+<text x="468" y="374" font-size="13">天黑前点数、</text>
+<text x="468" y="390" font-size="13">关门、上插销</text>
+<line x1="474" y1="395" x2="460" y2="406" stroke="#0b5cad" stroke-width="1.3"/><circle cx="460" cy="406" r="2.6" fill="#0b5cad"/>
+
+<!-- 地下标注 -->
+<text x="16" y="458" font-size="13" fill="#c33">墙基向下</text>
+<text x="16" y="474" font-size="13" fill="#c33">埋网</text>
+<text x="16" y="490" font-size="13" fill="#c33">30-45 cm</text>
+<text x="134" y="460" font-size="13">产蛋箱30×30×30 cm,前挡板约10 cm;</text>
+<text x="134" y="477" font-size="13">箱底离地40-60 cm,放在暗处,比栖架低</text>
+<text x="134" y="502" font-size="13">地面硬化(水泥、三合土),铺垫料(稻草、木屑)</text>
+<line x1="150" y1="448" x2="150" y2="404" stroke="#0b5cad" stroke-width="1.3"/><circle cx="150" cy="404" r="2.6" fill="#0b5cad"/>
+<text x="476" y="462" font-size="13" fill="#c33">或: 墙外地面平铺50 cm</text>
+<text x="476" y="478" font-size="13" fill="#c33">宽的网再盖土</text>
+<line x1="490" y1="449" x2="482" y2="437" stroke="#c33" stroke-width="1.3"/>
+
+<!-- 下方: 数量与要点 -->
+<g transform="translate(10,534)">
+<rect x="0" y="0" width="420" height="276" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="14" y="24" font-size="16" font-weight="bold">按鸡数算</text>
+<g font-size="13">
+<text x="14" y="52" font-weight="bold">舍内面积</text><text x="96" y="52">轻型蛋鸡6-8只/m²;土鸡、兼用鸡4-6只/m²</text>
+<text x="96" y="70" fill="#555">白天能出运动场按上限,整天关在舍内取下限</text>
+<text x="14" y="96" font-weight="bold">栖架长度</text><text x="96" y="96">每只15-20 cm(大体型20-25 cm)</text>
+<text x="14" y="122" font-weight="bold">产蛋箱</text><text x="96" y="122">每4-5只一个</text>
+<text x="14" y="148" font-weight="bold">料槽长度</text><text x="96" y="148">每只约8-10 cm(两面采食时按一半)</text>
+<text x="14" y="174" font-weight="bold">饮水</text><text x="96" y="174">每只每天约0.2-0.3 L,热天加倍</text>
+<text x="14" y="200" font-weight="bold">通风面积</text><text x="96" y="200">窗户和通风口总面积约占地面1/10以上</text>
+<text x="14" y="226" font-weight="bold">运动场</text><text x="96" y="226">鸡舍面积的2-3倍</text>
+</g>
+</g>
+<g transform="translate(440,534)">
+<rect x="0" y="0" width="270" height="276" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="2"/>
+<text x="14" y="24" font-size="16" font-weight="bold" fill="#c33">防兽、通风</text>
+<g font-size="13">
+<text x="14" y="50">夜间必须关进封闭的鸡舍</text>
+<text x="14" y="72">黄鼠狼能钻过约3-4 cm的缝隙,</text>
+<text x="14" y="90">一夜可能咬死多只鸡</text>
+<text x="14" y="112">普通六角铁丝网只能防鸡外逃,</text>
+<text x="14" y="130">防不住黄鼠狼和老鼠</text>
+<text x="14" y="152">饲料存放在有盖的铁桶、缸里</text>
+<text x="14" y="178">冬天关下面的窗,只留上面的排气口</text>
+<text x="14" y="200">闻到明显氨臭、眼睛发辣:</text>
+<text x="14" y="218">加强通风、换垫料</text>
+<text x="14" y="240">离水井、水源至少30 m,</text>
+<text x="14" y="258">并在水源的下坡方向</text>
+</g>
+</g>
+</g>
+</svg>

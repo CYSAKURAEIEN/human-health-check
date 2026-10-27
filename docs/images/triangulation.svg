@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 916" width="720" height="916" role="img" aria-label="三角测量: 在平坦的地方精确量出一条基线AB,在A点测出目标C与基线的夹角∠A,在B点测出∠B,∠C等于180°减∠A减∠B,再用正弦定理算出AC和BC。例: AB等于100 m,∠A等于60°,∠B等于70°,则∠C等于50°,AC约122.7 m,BC约113.1 m,C到基线的垂直距离约106.2 m。特例测河宽: 沿河量基线AB,在B点使∠ABC等于90°,在A点测∠A,河宽BC等于AB乘tan∠A,例如AB等于50 m、∠A等于40°,BC约42 m" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>三角测量</title>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">三角测量: 量一条基线,测两个角,算出远处的点</text>
+
+<!-- ① 一般三角测量 -->
+<rect x="10" y="44" width="700" height="552" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="70" font-size="16" font-weight="bold">① 三角测量(俯视,按比例画)</text>
+
+<!-- 计算出的边 -->
+<path d="M60,420 L244,101.3 L360,420" fill="none" stroke="#0b5cad" stroke-width="2.5" stroke-linejoin="round"/>
+<!-- 垂直距离 -->
+<path d="M244,140 L244,420" stroke="#555" stroke-width="1.5" stroke-dasharray="6 4"/>
+<path d="M244,410 L234,410 L234,420" fill="none" stroke="#555" stroke-width="1.2"/>
+<!-- 基线 -->
+<path d="M60,420 L360,420" stroke="#c33" stroke-width="4"/>
+<!-- 角 -->
+<path d="M100,420 A40,40 0 0 0 80,385.36" fill="none" stroke="#c33" stroke-width="2"/>
+<path d="M320,420 A40,40 0 0 1 346.32,382.41" fill="none" stroke="#c33" stroke-width="2"/>
+<path d="M227,130.74 A34,34 0 0 0 255.63,133.25" fill="none" stroke="#0b5cad" stroke-width="2"/>
+<!-- 点 -->
+<circle cx="60" cy="420" r="6" fill="#fff" stroke="#333" stroke-width="2.5"/>
+<circle cx="360" cy="420" r="6" fill="#fff" stroke="#333" stroke-width="2.5"/>
+<circle cx="244" cy="101.3" r="9" fill="none" stroke="#c33" stroke-width="2"/>
+<circle cx="244" cy="101.3" r="4" fill="#c33"/>
+<text x="42" y="426" font-size="18" font-weight="bold" text-anchor="end">A</text>
+<text x="374" y="426" font-size="18" font-weight="bold">B</text>
+<text x="260" y="98" font-size="16" font-weight="bold">目标C(远处的点)</text>
+<text x="266" y="134" font-size="14" fill="#0b5cad">∠C = 50°(算出)</text>
+
+<text x="106" y="410" font-size="14" fill="#c33" font-weight="bold">∠A = 60°</text>
+<text x="252" y="410" font-size="14" fill="#c33" font-weight="bold">∠B = 70°</text>
+<text x="210" y="446" font-size="14" fill="#c33" font-weight="bold" text-anchor="middle">基线 AB = 100 m(精确量出)</text>
+
+<text x="140" y="262" font-size="15" fill="#0b5cad" font-weight="bold" text-anchor="end">AC ≈ 122.7 m</text>
+<text x="314" y="262" font-size="15" fill="#0b5cad" font-weight="bold">BC ≈ 113.1 m</text>
+<text x="236" y="318" font-size="13" fill="#555" text-anchor="end">C到基线的</text>
+<text x="236" y="334" font-size="13" fill="#555" text-anchor="end">垂直距离</text>
+<text x="236" y="350" font-size="13" fill="#555" text-anchor="end">≈ 106.2 m</text>
+
+<!-- 步骤 -->
+<text x="440" y="164" font-size="15" font-weight="bold">步骤</text>
+<text x="440" y="188" font-size="14">1. 选一条基线AB,精确量出</text>
+<text x="459" y="207" font-size="14">长度(往返量几次取平均)</text>
+<text x="440" y="231" font-size="14">2. 在A点测∠A,在B点测∠B</text>
+<text x="440" y="255" font-size="14">3. ∠C = 180° − ∠A − ∠B</text>
+<text x="440" y="279" font-size="14">4. 用正弦定理算出AC和BC:</text>
+<text x="452" y="301" font-size="14">a / sin A = b / sin B = c / sin C</text>
+<text x="452" y="320" font-size="13" fill="#555">(a = BC,b = AC,c = AB)</text>
+<text x="440" y="352" font-size="13" fill="#555">测角比量长距离容易得多,</text>
+<text x="440" y="369" font-size="13" fill="#555">也准得多: 只精确量一条基线</text>
+<path d="M440,396 H470" stroke="#c33" stroke-width="4"/>
+<text x="478" y="401" font-size="13" fill="#555">实地量出、测出的</text>
+<path d="M440,420 H470" stroke="#0b5cad" stroke-width="2.5"/>
+<text x="478" y="425" font-size="13" fill="#555">算出来的</text>
+
+<!-- 计算 -->
+<rect x="20" y="464" width="680" height="120" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="32" y="486" font-size="15" font-weight="bold">例: AB = 100 m,∠A = 60°,∠B = 70°</text>
+<text x="32" y="507" font-size="14">∠C = 180° − 60° − 70° = 50°</text>
+<text x="32" y="527" font-size="14">AC = AB × sin B ÷ sin C = 100 × 0.940 ÷ 0.766 ≈ 122.7 m</text>
+<text x="32" y="547" font-size="14">BC = AB × sin A ÷ sin C = 100 × 0.866 ÷ 0.766 ≈ 113.1 m</text>
+<text x="32" y="567" font-size="14">C到基线的垂直距离 = AC × sin A ≈ 122.67 × 0.866 ≈ 106.2 m</text>
+<text x="694" y="507" font-size="13" fill="#c33" text-anchor="end">三角形最好接近等边:</text>
+<text x="694" y="524" font-size="13" fill="#c33" text-anchor="end">某个角小于约20°,</text>
+<text x="694" y="541" font-size="13" fill="#c33" text-anchor="end">一点测角误差就会</text>
+<text x="694" y="558" font-size="13" fill="#c33" text-anchor="end">让结果差很多</text>
+
+<!-- ② 测河宽 -->
+<rect x="10" y="608" width="700" height="296" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="634" font-size="16" font-weight="bold">② 特例: 测河宽(∠B = 90°,见上文2.1)</text>
+<path d="M11.5,650 L708.5,650 L708.5,703.2 L11.5,703.2 Z" fill="#e8e8e8"/>
+<path d="M11.5,703.2 L708.5,703.2 L708.5,850 L11.5,850 Z" fill="#dcecf8"/>
+<path d="M11.5,850 L708.5,850 L708.5,896 Q708.5,902.5 702,902.5 L18,902.5 Q11.5,902.5 11.5,896 Z" fill="#e8e8e8"/>
+<path d="M11.5,703.2 H708.5 M11.5,850 H708.5" stroke="#999" stroke-width="2.5"/>
+<text x="600" y="696" font-size="13" fill="#555">对岸</text>
+<text x="600" y="870" font-size="13" fill="#555">这一岸</text>
+<text x="40" y="780" font-size="14" fill="#0b5cad">河</text>
+
+<path d="M90,850 L265,703.2 L265,850" fill="none" stroke="#0b5cad" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M90,850 L265,850" stroke="#c33" stroke-width="4"/>
+<path d="M135,850 A45,45 0 0 0 124.47,821.07" fill="none" stroke="#c33" stroke-width="2"/>
+<path d="M251,850 L251,836 L265,836" fill="none" stroke="#c33" stroke-width="2"/>
+<circle cx="90" cy="850" r="6" fill="#fff" stroke="#333" stroke-width="2.5"/>
+<circle cx="265" cy="850" r="6" fill="#fff" stroke="#333" stroke-width="2.5"/>
+<circle cx="265" cy="703.2" r="9" fill="none" stroke="#c33" stroke-width="2"/>
+<circle cx="265" cy="703.2" r="4" fill="#c33"/>
+<text x="72" y="856" font-size="18" font-weight="bold" text-anchor="end">A</text>
+<text x="276" y="872" font-size="18" font-weight="bold">B</text>
+<text x="281" y="690" font-size="15" font-weight="bold">对岸目标C</text>
+<text x="142" y="840" font-size="14" fill="#c33" font-weight="bold">∠A = 40°</text>
+<text x="244" y="830" font-size="13" fill="#c33" text-anchor="end">90°</text>
+<text x="178" y="890" font-size="14" fill="#c33" font-weight="bold" text-anchor="middle">基线 AB = 50 m(沿河岸)</text>
+<text x="276" y="782" font-size="15" fill="#0b5cad" font-weight="bold">河宽 BC</text>
+
+<text x="380" y="736" font-size="14">站在正对C的位置定B点,使∠ABC = 90°;</text>
+<text x="380" y="756" font-size="14">在A点用测角仪测出∠A</text>
+<text x="380" y="784" font-size="15" font-weight="bold">河宽 BC = AB × tan(∠A)</text>
+<text x="380" y="808" font-size="14">例: AB = 50 m,∠A = 40°,tan 40° ≈ 0.839</text>
+<text x="380" y="830" font-size="15" font-weight="bold" fill="#0b5cad">→ BC ≈ 42 m</text>
+</g>
+</svg>
