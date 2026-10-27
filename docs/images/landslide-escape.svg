@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 660" width="720" height="660" role="img" aria-label="山体滑坡逃生示意图: 向两侧撤离,垂直于滑坡方向,往稳定区跑;不要顺滑坡往下跑,也不要逆着滑坡方向往坡上跑,上方土体也在动;前兆: 坡顶弧形裂缝越来越宽越来越长,树木东倒西歪(醉汉林),树干下部弯曲上部直立(马刀树),坡脚地面鼓起或冒出浑水,房屋墙壁开裂、门窗变形,坡上有土石不断滚落;避开滑坡体、陡坡下、坡脚和坡顶边缘,车不要停在陡坡下等待;跑不掉时抱紧根深的大树或蹲在结实障碍物后抱头护住头颈;撤离后不要立即返回">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>山体滑坡逃生: 向两侧撤到稳定区</title>
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="ag" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#888"/></marker>
+<marker id="am" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#6b4a2a"/></marker>
+<g id="p">
+<g stroke-linecap="round"><path d="M-3,-12 L-5,0 M3,-12 L5,0" stroke="#333" stroke-width="3.5"/></g>
+<rect x="-7" y="-31" width="14" height="20" rx="4" fill="#cfe0f0" stroke="#333" stroke-width="2"/>
+<circle cx="0" cy="-38" r="7" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+</g>
+<!-- 树: 树根在 0,0,向上 -->
+<g id="t">
+<line x1="0" y1="0" x2="0" y2="-30" stroke="#6b4a2a" stroke-width="3"/>
+<circle cx="0" cy="-38" r="11" fill="#b9d6a8" stroke="#333" stroke-width="1.5"/>
+</g>
+</defs>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="14" fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">山体滑坡逃生: 向两侧撤,不要顺着或逆着滑坡跑</text>
+
+<!-- A 俯视: 逃生方向 -->
+<g transform="translate(10,42)">
+<rect x="0" y="0" width="350" height="330" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="24" font-size="14" fill="#555">俯视</text>
+<text x="175" y="24" font-size="14" text-anchor="middle">坡顶(高)</text>
+<text x="175" y="272" font-size="14" text-anchor="middle">坡脚(低)</text>
+<!-- 等高线 -->
+<g fill="none" stroke="#bbb" stroke-width="1.2">
+<path d="M12,60 Q90,52 175,58 T338,56"/>
+<path d="M12,110 Q90,102 175,108 T338,106"/>
+<path d="M12,160 Q90,152 175,158 T338,156"/>
+<path d="M12,210 Q90,202 175,208 T338,206"/>
+</g>
+<!-- 滑坡体 -->
+<path d="M95,74 Q175,36 255,74 L268,214 Q175,250 82,214 Z" fill="#e8d6b8" stroke="#6b4a2a" stroke-width="2" stroke-dasharray="6,4"/>
+<path d="M95,74 L108,64 L118,70 L132,56 L144,62 L160,50 L175,56 L190,48 L204,58 L218,54 L230,64 L244,62 L255,74" fill="none" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+<g stroke="#6b4a2a" stroke-width="3">
+<path d="M120,90 L120,128" marker-end="url(#am)"/>
+<path d="M230,90 L230,128" marker-end="url(#am)"/>
+<path d="M120,168 L120,206" marker-end="url(#am)"/>
+<path d="M230,168 L230,206" marker-end="url(#am)"/>
+</g>
+<text x="14" y="252" font-size="13" fill="#4a3018">滑坡体(整体往下滑)</text>
+<line x1="70" y1="240" x2="92" y2="214" stroke="#4a3018" stroke-width="1"/>
+<!-- 人和方向 -->
+<use href="#p" transform="translate(175,166)"/>
+<path d="M162,148 L28,148" stroke="#c33" stroke-width="4" marker-end="url(#ar)"/>
+<path d="M188,148 L322,148" stroke="#c33" stroke-width="4" marker-end="url(#ar)"/>
+<path d="M175,118 L175,80" stroke="#888" stroke-width="3" stroke-dasharray="6,4" marker-end="url(#ag)"/>
+<path d="M175,172 L175,222" stroke="#888" stroke-width="3" stroke-dasharray="6,4" marker-end="url(#ag)"/>
+<path d="M165,88 L185,108 M185,88 L165,108" stroke="#c33" stroke-width="3.5" stroke-linecap="round"/>
+<path d="M165,186 L185,206 M185,186 L165,206" stroke="#c33" stroke-width="3.5" stroke-linecap="round"/>
+<g paint-order="stroke" stroke="#fff" stroke-width="5" stroke-linejoin="round">
+<text x="12" y="178" font-size="14" fill="#c33" font-weight="bold">✓稳定区</text>
+<text x="276" y="178" font-size="14" fill="#c33" font-weight="bold">✓稳定区</text>
+<text x="198" y="42" font-size="13" fill="#0b5cad">弧形裂缝</text>
+</g>
+<line x1="208" y1="46" x2="196" y2="52" stroke="#0b5cad" stroke-width="1"/>
+<text x="14" y="296" font-size="14">向两侧撤离,垂直于滑坡方向,往稳定区跑;</text>
+<text x="14" y="318" font-size="14" fill="#c33">✗ 不要顺滑坡往下跑,也不要往坡上跑</text>
+</g>
+
+<!-- B 侧面: 前兆 -->
+<g transform="translate(370,42)">
+<rect x="0" y="0" width="340" height="330" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="24" font-size="16" font-weight="bold">前兆(侧面)</text>
+<path d="M12,80 L70,80 L76,94 L84,82 L268,238 Q290,218 312,250 L328,252 L328,300 L12,300 Z" fill="#eee"/>
+<path d="M12,80 L70,80 L76,94 L84,82 L268,238 Q290,218 312,250 L328,252" fill="none" stroke="#999" stroke-width="3" stroke-linejoin="round"/>
+<!-- 醉汉林 -->
+<use href="#t" transform="translate(128,119) rotate(-22)"/>
+<use href="#t" transform="translate(162,148) rotate(18)"/>
+<use href="#t" transform="translate(196,177) rotate(-12)"/>
+<!-- 马刀树 -->
+<path d="M234,209 Q252,204 250,186 L250,154" fill="none" stroke="#6b4a2a" stroke-width="3"/>
+<circle cx="250" cy="146" r="11" fill="#b9d6a8" stroke="#333" stroke-width="1.5"/>
+<!-- 坡脚浑水 -->
+<g fill="#a08060" stroke="#333" stroke-width="1"><ellipse cx="300" cy="222" rx="3" ry="5"/><ellipse cx="310" cy="230" rx="3" ry="5"/><ellipse cx="292" cy="214" rx="2.5" ry="4"/></g>
+<!-- 滚落的土石 -->
+<g fill="#888" stroke="#333" stroke-width="1"><circle cx="110" cy="100" r="4"/><circle cx="226" cy="194" r="3.5"/></g>
+<path d="M118,104 L132,114" stroke="#c33" stroke-width="2" marker-end="url(#ar)"/>
+<!-- 标注 -->
+<g font-size="13" fill="#0b5cad">
+<text x="96" y="52">坡顶弧形裂缝,越来越宽、越来越长</text>
+<line x1="100" y1="56" x2="78" y2="86" stroke="#0b5cad" stroke-width="1"/>
+<text x="186" y="86">树木东倒西歪("醉汉林")</text>
+<line x1="200" y1="90" x2="178" y2="102" stroke="#0b5cad" stroke-width="1"/>
+<text x="266" y="122">"马刀树":</text>
+<text x="266" y="138">下弯上直</text>
+<line x1="270" y1="142" x2="261" y2="148" stroke="#0b5cad" stroke-width="1"/>
+<text x="140" y="262">坡脚鼓起、被挤出,</text>
+<text x="140" y="278">突然冒出浑水</text>
+<line x1="256" y1="258" x2="288" y2="234" stroke="#0b5cad" stroke-width="1"/>
+<text x="20" y="148">土石不断滚落</text>
+<line x1="60" y1="134" x2="106" y2="104" stroke="#0b5cad" stroke-width="1"/>
+</g>
+<text x="16" y="300" font-size="13">还有: 房屋墙壁开裂、门窗变形打不开、地坪下沉;</text>
+<text x="16" y="320" font-size="13">泉水、井水突然干涸或浑浊;电线杆、围墙歪斜</text>
+</g>
+
+<!-- C 避开的位置 -->
+<g transform="translate(10,382)">
+<rect x="0" y="0" width="350" height="226" rx="8" fill="#fdecec" stroke="#c33" stroke-width="2"/>
+<text x="16" y="28" font-size="16" font-weight="bold" fill="#c33">避开这些位置</text>
+<text x="16" y="56" font-size="14">✗ 滑坡体上(不要在上面建房、围观)</text>
+<text x="16" y="82" font-size="14">✗ 陡坡下、切坡建的房子</text>
+<text x="16" y="108" font-size="14">✗ 坡脚和坡顶边缘(房屋要离开一段距离)</text>
+<text x="16" y="134" font-size="14">✗ 开车时不要把车停在陡坡下等待</text>
+<text x="16" y="160" font-size="14">✗ 撤离后不要去滑坡体上和坡脚挖取财物</text>
+<text x="16" y="186" font-size="14">✗ 滑坡堵断河道时,下游要防堰塞湖溃决,</text>
+<text x="32" y="206" font-size="14">往高处撤</text>
+</g>
+
+<!-- D 发生时 -->
+<g transform="translate(370,382)">
+<rect x="0" y="0" width="340" height="226" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="16" font-weight="bold">发生时</text>
+<text x="16" y="56" font-size="14">● 在家: 听到异响立即撤离,不要收拾财物</text>
+<text x="16" y="82" font-size="14">● 在车里: 前方路面有落石、塌方,立即</text>
+<text x="32" y="101" font-size="14">停车或倒车离开,不要强行冲过去</text>
+<text x="16" y="127" font-size="14">● 跑不掉时: 抱紧根深的大树(不是最佳</text>
+<text x="32" y="146" font-size="14">选择),或蹲在结实的障碍物后,抱头护住头颈</text>
+<text x="16" y="172" font-size="14">● 撤离后: 不要立即返回,注意次生滑坡;</text>
+<text x="32" y="191" font-size="14">等当地政府和专业人员确认安全后再回家</text>
+</g>
+
+<rect x="10" y="618" width="700" height="32" rx="6" fill="#fdecec" stroke="#c33" stroke-width="2"/>
+<text x="360" y="640" font-size="15" font-weight="bold" fill="#c33" text-anchor="middle">⚠ 裂缝一天比一天宽、掉土石越来越多: 滑坡可能很快发生,立即撤离</text>
+</g>
+</svg>

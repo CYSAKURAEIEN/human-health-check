@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 946" width="720" height="946" role="img" aria-label="双作用活塞风箱剖面: 长方形木箱长约60-100 cm,内截面约25 × 30 cm;活塞是一块和内截面一样大的木板,四周钉软皮、毛毡或鸡毛,羽毛向外;拉杆穿过箱体一端的孔连在活塞中心,孔上加皮套。箱体两端的端板上各有一个进气阀,皮瓣钉在孔的内侧、只能向里摆;侧面或底部的风道两端通到箱体两端,中间的出口装能左右摆动的出气阀,接风嘴。推拉杆时活塞左边的空气被压缩,左边进气阀被压紧,空气经风道把出气阀推向右侧,从风嘴吹出,右边进气阀被吸开吸入新鲜空气;拉回来时正好相反。每个行程都出风,风是连续的" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>双作用活塞风箱</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<marker id="dimB" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,1 L10,5 L0,9 Z" fill="#0b5cad"/></marker>
+</defs>
+<g fill="#222">
+<text x="360" y="26" font-size="18" font-weight="bold" text-anchor="middle">双作用活塞风箱: 推和拉都出风(剖面示意)</text>
+<rect x="160" y="38" width="16" height="12" fill="#f8d7d7" stroke="#c33" stroke-width="1"/>
+<text x="182" y="49" font-size="13">被压缩、要吹出去的空气</text>
+<rect x="400" y="38" width="16" height="12" fill="#dbe8f6" stroke="#0b5cad" stroke-width="1"/>
+<text x="422" y="49" font-size="13">吸进来的新鲜空气</text>
+
+<!-- ① 推 -->
+<g transform="translate(0,58)">
+<rect x="10" y="0" width="700" height="330" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="26" font-size="16" font-weight="bold">① 推拉杆: 活塞向左</text>
+<rect x="130" y="66" width="320" height="154" fill="#e2cfa6" stroke="#333" stroke-width="2.5"/>
+<rect x="270" y="220" width="40" height="34" fill="#e2cfa6" stroke="#333" stroke-width="2"/>
+<rect x="140" y="76" width="80" height="100" fill="#f8d7d7"/>
+<rect x="232" y="76" width="208" height="100" fill="#dbe8f6"/>
+<rect x="140" y="186" width="150" height="24" fill="#f8d7d7"/>
+<rect x="290" y="186" width="150" height="24" fill="#dbe8f6"/>
+<rect x="142" y="175" width="28" height="12" fill="#f8d7d7"/>
+<rect x="410" y="175" width="28" height="12" fill="#dbe8f6"/>
+<rect x="278" y="208" width="24" height="47" fill="#f8d7d7"/>
+<rect x="129" y="84" width="12" height="24" fill="#fff"/>
+<rect x="439" y="84" width="12" height="24" fill="#fff"/>
+<path d="M142,176 H140 V76 H440 V176 H438 M410,176 H170 M142,186 H140 V210 H278 V255 M302,255 V210 H440 V186 H438 M410,186 H170" fill="none" stroke="#333" stroke-width="1.5"/>
+<!-- 活塞、拉杆 -->
+<rect x="232" y="123" width="364" height="6" fill="#9a9a9a" stroke="#333" stroke-width="1"/>
+<rect x="220" y="82" width="12" height="88" fill="#b98b56" stroke="#333" stroke-width="1.5"/>
+<rect x="217" y="76" width="18" height="6" fill="#7a5230"/><rect x="217" y="170" width="18" height="6" fill="#7a5230"/>
+<rect x="450" y="117" width="14" height="18" rx="2" fill="#a0522d" stroke="#333" stroke-width="1"/>
+<rect x="596" y="104" width="12" height="44" rx="4" fill="#b98b56" stroke="#333" stroke-width="1.5"/>
+<!-- 阀门 -->
+<g stroke="#6b3e1e" stroke-width="4" stroke-linecap="round">
+<path d="M142,83 V109"/><path d="M438,83 L420,104"/><path d="M290,187 L301,209"/>
+</g>
+<g fill="#333"><circle cx="142" cy="83" r="2.5"/><circle cx="438" cy="83" r="2.5"/><circle cx="290" cy="187" r="2.5"/></g>
+<!-- 气流 -->
+<g fill="none" stroke-width="2.5">
+<path d="M212,140 H168 Q156,140 156,152 V188 Q156,198 166,198 H264" stroke="#c33" marker-end="url(#arR)"/>
+<path d="M290,226 V286" stroke="#c33" marker-end="url(#arR)"/>
+<path d="M476,102 H452 Q436,102 426,116" stroke="#0b5cad" marker-end="url(#arB)"/>
+<path d="M590,162 H504" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+</g>
+<text x="618" y="168" font-size="16" font-weight="bold" fill="#c33">推</text>
+<!-- 标注 -->
+<text x="226" y="56" font-size="14" text-anchor="middle">活塞(四周密封,见下方)</text>
+<line x1="226" y1="60" x2="226" y2="75" stroke="#555" stroke-width="1"/>
+<text x="124" y="94" font-size="14" text-anchor="end">进气阀</text>
+<text x="124" y="112" font-size="14" text-anchor="end" font-weight="bold" fill="#c33">关(被压紧)</text>
+<text x="486" y="94" font-size="14">进气阀</text>
+<text x="486" y="112" font-size="14" font-weight="bold" fill="#0b5cad">开(被吸开)</text>
+<text x="180" y="102" font-size="14" font-weight="bold" fill="#c33" text-anchor="middle">压缩</text>
+<text x="336" y="162" font-size="14" fill="#0b5cad" text-anchor="middle">吸入新鲜空气</text>
+<text x="24" y="248" font-size="14">风道: 沿箱体侧面(或底部),</text>
+<text x="24" y="266" font-size="14">两端通到箱体两端的内部</text>
+<line x1="210" y1="236" x2="210" y2="205" stroke="#555" stroke-width="1"/>
+<text x="282" y="292" font-size="14" text-anchor="end" fill="#c33">出风 → 风嘴</text>
+<text x="324" y="248" font-size="14" font-weight="bold">出气阀: 能左右摆动的小板</text>
+<text x="324" y="266" font-size="13" fill="#555">(也可用两个单向皮瓣)</text>
+<text x="324" y="284" font-size="14">左边来风 → 板被推向右侧,挡住回流</text>
+<line x1="322" y1="243" x2="299" y2="202" stroke="#555" stroke-width="1"/>
+<text x="360" y="318" font-size="15" text-anchor="middle">推: 活塞左边的空气被压缩,经风道从风嘴吹出;右边吸入新鲜空气</text>
+</g>
+
+<!-- ② 拉 -->
+<g transform="translate(0,398)">
+<rect x="10" y="0" width="700" height="330" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="26" font-size="16" font-weight="bold">② 拉回来: 活塞向右</text>
+<path d="M130,44 V62 M450,44 V62" stroke="#0b5cad" stroke-width="1"/>
+<line x1="132" y1="53" x2="448" y2="53" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#dimB)" marker-end="url(#dimB)"/>
+<rect x="226" y="36" width="128" height="20" fill="#fff"/>
+<text x="290" y="51" font-size="14" fill="#0b5cad" text-anchor="middle">箱体长约 <tspan font-weight="bold">60-100 cm</tspan></text>
+<rect x="130" y="66" width="320" height="154" fill="#e2cfa6" stroke="#333" stroke-width="2.5"/>
+<rect x="270" y="220" width="40" height="34" fill="#e2cfa6" stroke="#333" stroke-width="2"/>
+<rect x="140" y="76" width="208" height="100" fill="#dbe8f6"/>
+<rect x="360" y="76" width="80" height="100" fill="#f8d7d7"/>
+<rect x="140" y="186" width="150" height="24" fill="#dbe8f6"/>
+<rect x="290" y="186" width="150" height="24" fill="#f8d7d7"/>
+<rect x="142" y="175" width="28" height="12" fill="#dbe8f6"/>
+<rect x="410" y="175" width="28" height="12" fill="#f8d7d7"/>
+<rect x="278" y="208" width="24" height="47" fill="#f8d7d7"/>
+<rect x="129" y="84" width="12" height="24" fill="#fff"/>
+<rect x="439" y="84" width="12" height="24" fill="#fff"/>
+<path d="M142,176 H140 V76 H440 V176 H438 M410,176 H170 M142,186 H140 V210 H278 V255 M302,255 V210 H440 V186 H438 M410,186 H170" fill="none" stroke="#333" stroke-width="1.5"/>
+<rect x="360" y="123" width="236" height="6" fill="#9a9a9a" stroke="#333" stroke-width="1"/>
+<rect x="348" y="82" width="12" height="88" fill="#b98b56" stroke="#333" stroke-width="1.5"/>
+<rect x="345" y="76" width="18" height="6" fill="#7a5230"/><rect x="345" y="170" width="18" height="6" fill="#7a5230"/>
+<rect x="450" y="117" width="14" height="18" rx="2" fill="#a0522d" stroke="#333" stroke-width="1"/>
+<rect x="596" y="104" width="12" height="44" rx="4" fill="#b98b56" stroke="#333" stroke-width="1.5"/>
+<g stroke="#6b3e1e" stroke-width="4" stroke-linecap="round">
+<path d="M142,83 L160,104"/><path d="M438,83 V109"/><path d="M290,187 L279,209"/>
+</g>
+<g fill="#333"><circle cx="142" cy="83" r="2.5"/><circle cx="438" cy="83" r="2.5"/><circle cx="290" cy="187" r="2.5"/></g>
+<g fill="none" stroke-width="2.5">
+<path d="M368,140 H412 Q424,140 424,152 V188 Q424,198 414,198 H316" stroke="#c33" marker-end="url(#arR)"/>
+<path d="M290,226 V286" stroke="#c33" marker-end="url(#arR)"/>
+<path d="M84,102 H126 Q142,102 152,116" stroke="#0b5cad" marker-end="url(#arB)"/>
+<path d="M504,162 H590" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+</g>
+<text x="618" y="168" font-size="16" font-weight="bold" fill="#c33">拉</text>
+<text x="618" y="131" font-size="14">拉杆</text>
+<text x="124" y="150" font-size="14" text-anchor="end">进气阀</text>
+<text x="124" y="168" font-size="14" text-anchor="end" font-weight="bold" fill="#0b5cad">开(被吸开)</text>
+<line x1="104" y1="136" x2="131" y2="109" stroke="#555" stroke-width="1"/>
+<text x="486" y="94" font-size="14">进气阀</text>
+<text x="486" y="112" font-size="14" font-weight="bold" fill="#c33">关(被压紧)</text>
+<line x1="482" y1="96" x2="453" y2="96" stroke="#555" stroke-width="1"/>
+<text x="400" y="102" font-size="14" font-weight="bold" fill="#c33" text-anchor="middle">压缩</text>
+<text x="244" y="152" font-size="14" fill="#0b5cad" text-anchor="middle">吸入新鲜空气</text>
+<text x="474" y="206" font-size="14">皮套(减少漏气)</text>
+<line x1="480" y1="192" x2="459" y2="137" stroke="#555" stroke-width="1"/>
+<text x="282" y="292" font-size="14" text-anchor="end" fill="#c33">出风 → 风嘴</text>
+<text x="324" y="252" font-size="14" font-weight="bold">出气阀: 右边来风 →</text>
+<text x="324" y="270" font-size="14">板被推向左侧,挡住回流</text>
+<line x1="322" y1="246" x2="282" y2="202" stroke="#555" stroke-width="1"/>
+<text x="360" y="318" font-size="15" text-anchor="middle">拉: 反过来,活塞右边的空气被压缩,经风道从风嘴吹出;左边吸入新鲜空气</text>
+</g>
+
+<text x="360" y="758" font-size="17" font-weight="bold" fill="#c33" text-anchor="middle">→ 推和拉每个行程都出风,风是连续的</text>
+
+<!-- 活塞正面与要点 -->
+<rect x="10" y="772" width="700" height="164" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<rect x="34" y="790" width="90" height="108" fill="#e2cfa6" stroke="#333" stroke-width="2"/>
+<rect x="42" y="798" width="74" height="92" fill="#fff" stroke="#333" stroke-width="1"/>
+<rect x="47" y="803" width="64" height="82" fill="#b98b56" stroke="#7a5230" stroke-width="8" stroke-dasharray="2 2"/>
+<circle cx="79" cy="844" r="5" fill="#9a9a9a" stroke="#333" stroke-width="1"/>
+<text x="79" y="920" font-size="13" text-anchor="middle" fill="#555">活塞正面</text>
+<text x="150" y="800" font-size="15" font-weight="bold">活塞: 一块和箱体内截面一样大的木板(内截面约 25 × 30 cm)</text>
+<text x="150" y="822" font-size="14">四周钉一圈软皮、毛毡或鸡毛(羽毛向外),既能滑动又不漏气;拉杆连在中心</text>
+<text x="150" y="852" font-size="15" font-weight="bold">要点</text>
+<text x="150" y="874" font-size="14">✓ 活塞四周的密封最关键: 太紧推不动,太松漏风</text>
+<text x="150" y="896" font-size="14">✓ 箱体和风道不能漏气: 接缝处用胶或泥封严;箱体内壁刨平刨光</text>
+<text x="150" y="918" font-size="14">✓ 拉杆处的孔加一个皮套减少漏气</text>
+</g>
+</svg>

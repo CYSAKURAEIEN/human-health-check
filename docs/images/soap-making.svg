@@ -1,0 +1,205 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1176" width="720" height="1176" role="img" aria-label="草木灰碱水制皂。原理: 油脂 + 碱 → 肥皂 + 甘油(皂化反应)。安全须知(先读): 碱水是强腐蚀性液体;戴护目镜(碱水溅入眼睛可致失明),戴手套、穿长袖,在室外或通风处操作,儿童、宠物远离,旁边准备一大桶清水;用不锈钢、搪瓷、陶瓷、木质或耐热塑料容器,不要用铝锅(会与碱反应产生氢气并腐蚀穿孔);沾到皮肤立即用大量流水冲洗,不要用醋中和;入眼立即翻开眼皮用流水持续冲洗,然后就医;误饮不要催吐,立即拨打120。① 制碱水: 底部有小孔的桶,桶底铺碎石、再铺稻草,装入硬木的白色或浅灰色细灰,慢慢浇入雨水或煮沸放凉的软水,滴出的褐色液体就是碱水,再浇回灰上反复几次浓度提高;不要用烧过油漆木料、塑料、垃圾、煤的灰。② 浓度检验: 放入新鲜鸡蛋或一块土豆,沉底太稀,小火熬浓;浮起露出约硬币大小浓度合适;浮得太高太浓,加一点水。③ 准备油脂: 油脂加等量的水一起煮,冷却后取上层凝固的干净油脂。④ 熬制: 油脂小火化开,慢慢加入碱水边加边搅拌,先加约与油等量的碱水,小火保持微微冒泡,持续搅拌几个小时,逐渐变稠像稀粥或蜂蜜。⑤ 判断熬好: 滴在冷盘子上能凝成软块,放入清水搅动能溶开且没有浮油;有浮油说明碱不够,再加碱水继续熬;得到棕色软膏状的软皂。⑥ 可选加盐变硬: 趁热加一大把食盐,皂块浮到上面,舀出倒入模具,冷却后切块。⑦ 熟化: 通风干燥处2-6周。⑧ 检验(必须做): pH 9-10合适,高于11碱过量;手背测试无刺痛无发红才可洗手;不要用舌头尝">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>草木灰碱水制皂</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<pattern id="ash" width="8" height="8" patternUnits="userSpaceOnUse"><rect width="8" height="8" fill="#ddd"/><circle cx="2" cy="2" r="0.9" fill="#999"/><circle cx="6" cy="6" r="0.9" fill="#999"/></pattern>
+<g id="egg"><ellipse rx="12" ry="15" fill="#f6ecd8" stroke="#333" stroke-width="1.5"/></g>
+<path id="jar" d="M-34 0 V82 Q-34 92 -24 92 H24 Q34 92 34 82 V0"/>
+<path id="liq" d="M-32 16 V82 Q-32 90 -24 90 H24 Q32 90 32 82 V16 Z"/>
+<g id="fire"><path d="M-22 0 Q-18 -14 -10 -6 Q-4 -18 2 -6 Q8 -16 14 -6 Q20 -12 22 0 Z" fill="#f2a33a" stroke="#c33" stroke-width="1"/></g>
+</defs>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="13" fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">草木灰碱水制皂</text>
+<text x="360" y="50" font-size="14" text-anchor="middle" fill="#555">油脂 + 碱 → 肥皂 + 甘油(皂化反应)</text>
+
+<!-- 安全须知 -->
+<rect x="10" y="62" width="700" height="156" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="2"/>
+<text x="22" y="86" font-size="16" font-weight="bold" fill="#c33">⚠️ 安全须知(先读): 碱水是强腐蚀性液体</text>
+<text x="22" y="110" font-size="14" font-weight="bold">防护</text>
+<text x="22" y="130">✓ 戴护目镜(碱水溅入眼睛可致失明)</text>
+<text x="22" y="148">✓ 戴手套、穿长袖</text>
+<text x="22" y="166">✓ 在室外或通风处操作</text>
+<text x="22" y="184">✓ 儿童、宠物远离操作区域</text>
+<text x="22" y="202">✓ 旁边准备一大桶清水</text>
+<text x="268" y="110" font-size="14" font-weight="bold">容器</text>
+<text x="268" y="130">✓ 不锈钢、搪瓷、陶瓷、</text>
+<text x="268" y="148">   木质或耐热塑料容器</text>
+<text x="268" y="166" fill="#c33" font-weight="bold">❌ 不要用铝锅</text>
+<text x="268" y="184">   会与碱反应产生氢气</text>
+<text x="268" y="202">   并腐蚀穿孔</text>
+<text x="462" y="110" font-size="14" font-weight="bold">万一沾到</text>
+<text x="462" y="130">皮肤: 立即用大量流水冲洗,</text>
+<text x="462" y="148">   不要用醋中和</text>
+<text x="462" y="166">眼睛: 立即翻开眼皮用流水</text>
+<text x="462" y="184">   持续冲洗,然后就医</text>
+<text x="462" y="202">误饮: 不要催吐,立即拨打120</text>
+
+<!-- ① 制碱水 -->
+<g transform="translate(10,228)">
+<rect width="226" height="296" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">① 制碱水</text>
+<path d="M98 36 q-3 6 0 8 q3 -2 0 -8 Z M112 42 q-3 6 0 8 q3 -2 0 -8 Z M126 36 q-3 6 0 8 q3 -2 0 -8 Z" fill="#7aa6cc"/>
+<path d="M67.2 58 L71.8 102 H152.2 L156.8 58 Z" fill="url(#ash)"/>
+<path d="M71.8 102 L72.8 112 H151.2 L152.2 102 Z" fill="#e8cf6a"/>
+<path d="M72.8 112 L74 124 H150 L151.2 112 Z" fill="#aaa"/>
+<path d="M90 102 l8 -4 M104 106 l10 -5 M124 104 l8 4 M138 108 l8 -5" stroke="#b8962e" stroke-width="1.2"/>
+<path d="M66 44 L74 124 H150 L158 44" fill="none" stroke="#333" stroke-width="2.5"/>
+<path d="M98 130 q-3 6 0 8 q3 -2 0 -8 Z M124 136 q-3 6 0 8 q3 -2 0 -8 Z" fill="#a0723e"/>
+<path d="M82 148 H142 Q140 168 112 168 Q84 168 82 148 Z" fill="#fff" stroke="#333" stroke-width="2"/>
+<path d="M84 154 H140 Q136 166 112 166 Q88 166 84 154 Z" fill="#c8995a"/>
+<g stroke="#0b5cad" stroke-width="1"><line x1="160" y1="74" x2="140" y2="78"/><line x1="160" y1="98" x2="146" y2="107"/><line x1="160" y1="122" x2="146" y2="118"/><line x1="160" y1="158" x2="138" y2="158"/></g>
+<g font-size="12" fill="#0b5cad"><text x="164" y="78">草木灰</text><text x="164" y="100">稻草</text><text x="164" y="124">碎石</text><text x="164" y="162">碱水</text><text x="20" y="96">底部</text><text x="20" y="112">有小孔</text></g>
+<line x1="58" y1="110" x2="80" y2="124" stroke="#0b5cad" stroke-width="1"/>
+<text x="12" y="192">用硬木的白色或浅灰色细灰;</text>
+<text x="12" y="210">慢慢浇入雨水或煮沸放凉的软水,</text>
+<text x="12" y="228">下方滴出的褐色液体就是碱水;</text>
+<text x="12" y="246">再浇回灰上反复几次,浓度会提高</text>
+<text x="12" y="268" fill="#c33">❌ 不用烧过油漆木料、塑料、</text>
+<text x="12" y="286" fill="#c33">    垃圾、煤的灰(含有害物质)</text>
+</g>
+
+<!-- ② 浓度检验 -->
+<g transform="translate(247,228)">
+<rect width="463" height="296" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">② 浓度检验(传统方法)</text>
+<text x="12" y="46" font-size="14" fill="#555">放入一个新鲜鸡蛋或一块土豆:</text>
+<g transform="translate(80,74)">
+<use href="#liq" fill="#e3c79a"/><use href="#egg" x="0" y="74"/><use href="#jar" fill="none" stroke="#333" stroke-width="2.5"/>
+</g>
+<g transform="translate(231,74)">
+<use href="#liq" fill="#e3c79a"/><use href="#egg" x="0" y="24"/><path d="M-32 16 H32" stroke="#a0723e" stroke-width="1.5"/><use href="#jar" fill="none" stroke="#333" stroke-width="2.5"/>
+<line x1="12" y1="12" x2="46" y2="-8" stroke="#0b5cad" stroke-width="1"/><circle cx="8" cy="13" r="2.4" fill="#0b5cad"/>
+</g>
+<g transform="translate(382,74)">
+<use href="#liq" fill="#e3c79a"/><use href="#egg" x="0" y="10"/><path d="M-32 16 H-11 M11 16 H32" stroke="#a0723e" stroke-width="1.5"/><use href="#jar" fill="none" stroke="#333" stroke-width="2.5"/>
+</g>
+<text x="80" y="196" text-anchor="middle" font-size="14" font-weight="bold">沉底</text>
+<text x="80" y="216" text-anchor="middle">太稀,</text>
+<text x="80" y="234" text-anchor="middle">小火熬浓一些</text>
+<text x="231" y="196" text-anchor="middle" font-size="14" font-weight="bold" fill="#0b5cad">✓ 浓度合适</text>
+<text x="231" y="216" text-anchor="middle">能浮起来、露出一小块</text>
+<text x="231" y="234" text-anchor="middle">(约硬币大小)</text>
+<text x="382" y="196" text-anchor="middle" font-size="14" font-weight="bold">浮得太高</text>
+<text x="382" y="216" text-anchor="middle">太浓,</text>
+<text x="382" y="234" text-anchor="middle">加一点水</text>
+<text x="290" y="64" font-size="12" fill="#0b5cad">约硬币大小</text>
+</g>
+
+<!-- ③ 准备油脂 -->
+<g transform="translate(10,534)">
+<rect width="226" height="296" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">③ 准备油脂</text>
+<path d="M30 50 V128 Q30 140 42 140 H98 Q110 140 110 128 V50" fill="#d6ebf8"/>
+<rect x="30" y="56" width="80" height="20" fill="#f3e6b0"/>
+<g fill="#6b5236"><circle cx="46" cy="134" r="2"/><circle cx="62" cy="136" r="1.6"/><circle cx="80" cy="133" r="2"/><circle cx="96" cy="136" r="1.6"/><circle cx="70" cy="131" r="1.4"/></g>
+<path d="M30 46 V128 Q30 140 42 140 H98 Q110 140 110 128 V46" fill="none" stroke="#333" stroke-width="2.5"/>
+<g stroke="#0b5cad" stroke-width="1"><line x1="122" y1="64" x2="100" y2="66"/><line x1="122" y1="132" x2="98" y2="134"/></g>
+<g font-size="12" fill="#0b5cad"><text x="126" y="62">干净油脂浮在</text><text x="126" y="78">上层凝固</text><text x="126" y="130">杂质沉入水中</text></g>
+<text x="12" y="168">可用: 猪油、牛羊油、鸡油、</text>
+<text x="12" y="186">菜籽油、花生油、用过的炸油</text>
+<text x="12" y="204" fill="#555">动物油皂更硬,植物油皂更软;</text>
+<text x="12" y="222" fill="#555">用过的油先过滤掉残渣</text>
+<text x="12" y="246" font-weight="bold">净化: 油脂加等量的水一起煮,</text>
+<text x="12" y="264" font-weight="bold">冷却后取出上层油脂备用</text>
+</g>
+
+<!-- ④ 熬制 -->
+<g transform="translate(247,534)">
+<rect width="226" height="296" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">④ 熬制</text>
+<rect x="30" y="40" width="26" height="18" rx="2" fill="#fff" stroke="#333" stroke-width="2" transform="rotate(35 43 49)"/>
+<path d="M52 58 Q62 66 64 84" fill="none" stroke="#a0723e" stroke-width="3"/>
+<path d="M44 76 H184 V112 Q184 128 168 128 H60 Q44 128 44 112 Z" fill="#bbb" stroke="#333" stroke-width="2.5"/>
+<path d="M47 86 H181 V112 Q181 125 168 125 H60 Q47 125 47 112 Z" fill="#e6c98f"/>
+<g fill="none" stroke="#a0723e" stroke-width="1"><circle cx="80" cy="84" r="3"/><circle cx="104" cy="83" r="2.5"/><circle cx="150" cy="84" r="3"/></g>
+<path d="M170 38 L128 104" stroke="#8b6b3e" stroke-width="4" stroke-linecap="round"/>
+<path d="M176 56 Q190 72 172 84" fill="none" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<use href="#fire" x="114" y="142"/>
+<path d="M60 144 H168" stroke="#999" stroke-width="3"/>
+<g font-size="12" fill="#0b5cad"><text x="18" y="40" dx="62">碱水</text><text x="140" y="140" dx="0">小火</text></g>
+<text x="12" y="168">油脂小火化开,慢慢加入碱水,</text>
+<text x="12" y="186">边加边搅拌</text>
+<text x="12" y="204" font-weight="bold">先加约与油等量的碱水</text>
+<text x="12" y="222">小火保持微微冒泡,持续搅拌,</text>
+<text x="12" y="240">需要几个小时</text>
+<text x="12" y="258">逐渐变稠,像稀粥或蜂蜜</text>
+</g>
+
+<!-- ⑤ 判断是否熬好 -->
+<g transform="translate(484,534)">
+<rect width="226" height="296" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">⑤ 判断是否熬好</text>
+<ellipse cx="58" cy="104" rx="44" ry="12" fill="#eee" stroke="#333" stroke-width="2"/>
+<path d="M44 104 Q46 88 58 88 Q70 88 72 104 Z" fill="#c8995a" stroke="#333" stroke-width="1.2"/>
+<text x="58" y="136" text-anchor="middle" font-size="12" fill="#0b5cad">冷盘子: 凝成软块</text>
+<path d="M140 62 V116 Q140 122 146 122 H190 Q196 122 196 116 V62" fill="none" stroke="#333" stroke-width="2"/>
+<path d="M142 74 V116 Q142 120 146 120 H190 Q194 120 194 116 V74 Z" fill="#e3edf3"/>
+<path d="M142 74 H194" stroke="#7aa6cc" stroke-width="1.5"/>
+<path d="M178 46 L160 112" stroke="#8b6b3e" stroke-width="3" stroke-linecap="round"/>
+<text x="168" y="136" text-anchor="middle" font-size="12" fill="#0b5cad">清水: 无浮油</text>
+<text x="12" y="168">滴一滴在冷盘子上,能凝成软块;</text>
+<text x="12" y="186">取少许放入清水搅动,</text>
+<text x="12" y="204">能溶开且水面没有浮油</text>
+<text x="12" y="222" fill="#c33">有浮油 → 碱不够,</text>
+<text x="12" y="240" fill="#c33">再加碱水继续熬</text>
+<text x="12" y="264" font-weight="bold">→ 得到棕色软膏状的"软皂"</text>
+</g>
+
+<!-- ⑥ 可选: 加盐变硬 -->
+<g transform="translate(10,840)">
+<rect width="226" height="296" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">⑥ 可选: 加盐变硬</text>
+<g fill="#fff" stroke="#888" stroke-width="1"><circle cx="64" cy="44" r="2.2"/><circle cx="74" cy="52" r="2.2"/><circle cx="60" cy="58" r="2.2"/><circle cx="70" cy="64" r="2.2"/></g>
+<text x="84" y="54" font-size="12" fill="#0b5cad">食盐</text>
+<path d="M20 76 H130 V112 Q130 128 114 128 H36 Q20 128 20 112 Z" fill="#bbb" stroke="#333" stroke-width="2.5"/>
+<path d="M23 96 H127 V112 Q127 125 114 125 H36 Q23 125 23 112 Z" fill="#dfe8ec"/>
+<path d="M23 96 V86 Q30 80 40 86 Q50 78 62 86 Q74 80 86 86 Q98 78 110 86 Q120 80 127 86 V96 Z" fill="#ead7a2" stroke="#a0723e" stroke-width="1"/>
+<path d="M138 102 H162" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<rect x="168" y="92" width="44" height="30" fill="#ead7a2" stroke="#8b6b3e" stroke-width="3"/>
+<path d="M182 92 V122 M196 92 V122" stroke="#a0723e" stroke-width="1" stroke-dasharray="3 2"/>
+<text x="190" y="140" font-size="12" fill="#0b5cad" text-anchor="middle">木盒或模具</text>
+<text x="12" y="168">软皂熬好后,趁热加入一大把</text>
+<text x="12" y="186">食盐,搅拌</text>
+<text x="12" y="204">肥皂凝成块浮到上面,下面是</text>
+<text x="12" y="222">含杂质和甘油的盐水</text>
+<text x="12" y="240">舀出上层皂块,倒入木盒或</text>
+<text x="12" y="258">模具,冷却后切块</text>
+</g>
+
+<!-- ⑦ 熟化 -->
+<g transform="translate(247,840)">
+<rect width="226" height="296" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">⑦ 熟化</text>
+<path d="M50 70 H176 M50 112 H176 M54 70 V134 M172 70 V134" stroke="#8b6b3e" stroke-width="3"/>
+<g fill="#ead7a2" stroke="#333" stroke-width="1.3"><rect x="62" y="56" width="28" height="14"/><rect x="98" y="56" width="28" height="14"/><rect x="134" y="56" width="28" height="14"/><rect x="62" y="98" width="28" height="14"/><rect x="98" y="98" width="28" height="14"/><rect x="134" y="98" width="28" height="14"/></g>
+<g stroke="#0b5cad" stroke-width="1.5" marker-end="url(#arB)"><path d="M18 84 H46"/><path d="M18 124 H46"/><path d="M180 84 H208"/><path d="M180 124 H208"/></g>
+<text x="113" y="150" font-size="18" font-weight="bold" fill="#c33" text-anchor="middle">2-6周</text>
+<text x="12" y="186">放在通风干燥处2-6周</text>
+<text x="12" y="204">这期间残余的碱会继续反应,</text>
+<text x="12" y="222">肥皂变得更温和</text>
+</g>
+
+<!-- ⑧ 检验 -->
+<g transform="translate(484,840)">
+<rect width="226" height="296" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">⑧ 检验(必须做)</text>
+<path d="M36 70 V122 Q36 128 42 128 H86 Q92 128 92 122 V70" fill="none" stroke="#333" stroke-width="2"/>
+<path d="M38 82 V122 Q38 126 42 126 H86 Q90 126 90 122 V82 Z" fill="#eef0e4"/>
+<rect x="66" y="42" width="10" height="70" fill="#fff" stroke="#333" stroke-width="1.3" transform="rotate(10 71 77)"/>
+<rect x="66" y="94" width="10" height="18" fill="#4f7fb8" transform="rotate(10 71 77)"/>
+<text x="112" y="70" font-size="14" font-weight="bold">pH 9-10</text>
+<text x="176" y="70" font-size="14" font-weight="bold" fill="#0b5cad">合适</text>
+<text x="112" y="96" font-size="14" font-weight="bold">高于11</text>
+<text x="166" y="96" font-size="14" font-weight="bold" fill="#c33">碱过量</text>
+<text x="12" y="168" font-weight="bold">手背测试: 少量在手背洗一次</text>
+<text x="12" y="186">无刺痛、无发红 → 可以洗手</text>
+<text x="12" y="204">刺痛、发红、发滑发涩 → 碱过量,</text>
+<text x="12" y="222">只用于洗衣服、擦地,</text>
+<text x="12" y="240">不要接触皮肤</text>
+<text x="12" y="264" fill="#c33" font-weight="bold">❌ 不要用舌头去"尝"碱味</text>
+</g>
+<text x="20" y="1160" font-size="13" fill="#555">草木灰碱水主要成分是碳酸钾和氢氧化钾,做出的是软皂(膏状),不像商店里的肥皂那样硬,用法完全一样</text>
+</g>
+</svg>
