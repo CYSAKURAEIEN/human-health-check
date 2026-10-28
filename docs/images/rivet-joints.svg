@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 794" width="720" height="794" role="img" aria-label="铆接与铁皮咬口。尺寸经验: 铆钉直径d薄板约为板厚的1.5-2倍,铆钉中心距至少3d,铆钉到板边至少2d,铆钉长度为两层板的总厚度加约1.5d(用来打成另一个铆钉头)。冷铆: ①两块板夹紧,一起钻孔,孔径比铆钉稍大一点;②插入铆钉,钉头一侧垫在砧子或铁块上;③用锤子先把露出的钉杆打粗(镦粗);④再打成圆头,两块板之间紧密贴合,不晃动。热铆: 把铆钉加热到亮红色,迅速插入孔中,背面顶住,正面锤打成头,铆钉冷却收缩把两块板拉得非常紧,比冷铆结实得多,适合受力大的地方。铁皮咬口: 把两块铁皮的边折弯互相钩住再压平,不用铆钉、不用焊接,做铁皮桶、烟囱管、水槽,再用锡焊封缝即可防漏" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 794" width="720" height="794" role="img" aria-label="铆接与铁皮咬口。尺寸经验: 铆钉直径d薄板约为板厚的1.5-2倍,铆钉中心距至少3d,铆钉到板边至少2d,铆钉长度为两层板的总厚度加约1.5d(用来打成另一个铆钉头)。冷铆: ①两块板夹紧,一起钻孔,孔径比铆钉稍大一点;②插入铆钉,钉头一侧垫在砧子或铁块上;③用锤子先把露出的钉杆打粗(镦粗);④再打成圆头,两块板之间紧密贴合,不晃动。热铆: 把铆钉加热到鲜红色,迅速插入孔中,背面顶住,正面锤打成头,铆钉冷却收缩把两块板拉得非常紧,比冷铆结实得多,适合受力大的地方。铁皮咬口: 把两块铁皮的边折弯互相钩住再压平,不用铆钉、不用焊接,做铁皮桶、烟囱管、水槽,再用锡焊封缝即可防漏" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
 <rect width="100%" height="100%" fill="#fff"/>
 <title>铆接与铁皮咬口</title>
 <defs>
@@ -150,7 +150,7 @@
 <rect x="138" y="32" width="64" height="24" rx="3" fill="#888" stroke="#333" stroke-width="1.8"/>
 <rect x="202" y="38" width="56" height="11" rx="3" fill="#c8a06a" stroke="#333" stroke-width="1.5"/>
 <path d="M170,58 V66" stroke="#c33" stroke-width="2.5"/>
-<text x="230" y="80" font-size="12.5" fill="#c33" font-weight="bold">铆钉烧到亮红色</text>
+<text x="230" y="80" font-size="12.5" fill="#c33" font-weight="bold">铆钉烧到鲜红色</text>
 <line x1="228" y1="78" x2="182" y2="86" stroke="#0b5cad" stroke-width="1.2"/>
 <text x="196" y="160" font-size="12.5" fill="#555">背面顶住</text>
 <text x="264" y="56" font-size="12.5" fill="#555">正面锤打</text>
@@ -158,7 +158,7 @@
 <path d="M90,150 V131" stroke="#0b5cad" stroke-width="2" marker-end="url(#arB)"/>
 <text x="20" y="72" font-size="12.5" fill="#0b5cad">冷却收缩,拉紧</text>
 <g font-size="13">
-<text x="10" y="210">把铆钉加热到亮红色,迅速插入孔中,背面顶住,</text>
+<text x="10" y="210">把铆钉加热到鲜红色,迅速插入孔中,背面顶住,</text>
 <text x="10" y="228">正面锤打成头;冷却收缩,把两块板拉得非常紧</text>
 <text x="10" y="246">→ 比冷铆结实得多,适合受力大的地方</text>
 </g>

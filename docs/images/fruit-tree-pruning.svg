@@ -1,0 +1,258 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1242" width="720" height="1242" role="img" aria-label="果树整形修剪。基本方法: 短截是剪短枝条,促发新枝;疏枝是从基部剪除,减少枝量;回缩是剪去多年生枝的一部分,更新复壮;缓放是不剪,促进结果。短截的剪口剪在一个芽的上方约0.5-1 cm处,斜面向芽的背面;剪口芽朝外,新枝才会向外长、树冠开张;留桩太长会枯死成干橛子,病菌从这里侵入;贴芽太近芽会干死。疏枝的剪口贴着枝条基部的领圈剪平,不留桩,也不要削进主干;直径约2 cm以上的剪口、锯口削平后涂蜡、油漆或泥。直径约5 cm以上的大枝用三锯法: 先在要锯处外侧约20-30 cm从下往上锯约1/3深,再在它外侧几 cm处从上往下锯断,最后贴领圈锯掉短桩。常见树形: 自然开心形干高约40-60 cm,没有中心干,3个主枝彼此约120°,上下错开约10-20 cm,与地面夹角约40-60°,每个主枝2-3个侧枝,树高约2.5-3 m,用于桃、李、杏等;疏散分层形有中心干,主枝分2-3层共5-7个,第一层3个、第二层2个、第三层1-2个,层间约80-100 cm,树高约4-5 m,成形需4-6年,用于苹果乔化树、梨、柿、核桃、板栗;纺锤形一根直立的中心干上螺旋状分布10-20个较小的枝,枝条拉成约70-90°甚至下垂,下长上短,树高约2.5-3.5 m,用于矮化密植苹果、梨。">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>果树整形修剪: 剪法与常见树形</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="arG" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#6b8a3a"/></marker>
+<path id="budR" d="M0,0 q7,-2 8,-10 q-7,2 -8,10 z" fill="#6b8a3a" stroke="#333" stroke-width="0.8"/>
+<path id="budL" d="M0,0 q-7,-2 -8,-10 q7,2 8,10 z" fill="#6b8a3a" stroke="#333" stroke-width="0.8"/>
+</defs>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="14" fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">果树整形修剪: 剪法与常见树形</text>
+<text x="360" y="50" text-anchor="middle" fill="#555">冬剪(落叶后到春季发芽前)以疏枝、短截、回缩为主,决定第二年树形和产量</text>
+<text x="14" y="80" font-size="17" font-weight="bold">基本方法</text>
+<g transform="translate(10,90)">
+<rect width="172" height="196" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="22" font-size="15" font-weight="bold">① 短截</text>
+<line x1="16" y1="150" x2="156" y2="150" stroke="#8a5a2b" stroke-width="9" stroke-linecap="round"/>
+<line x1="86" y1="150" x2="86" y2="96" stroke="#8a5a2b" stroke-width="5" stroke-linecap="round"/>
+<line x1="86" y1="92" x2="86" y2="40" stroke="#b9b9b9" stroke-width="4" stroke-linecap="round" stroke-dasharray="5 3"/>
+<use href="#budR" x="88" y="140"/>
+<use href="#budL" x="84" y="122"/>
+<use href="#budR" x="88" y="104"/>
+<use href="#budL" x="84" y="74"/>
+<use href="#budR" x="88" y="56"/>
+<path d="M74,98 L98,90" stroke="#c33" stroke-width="2.5"/>
+<path d="M90,104 Q110,90 118,62" fill="none" stroke="#6b8a3a" stroke-width="2.5" marker-end="url(#arG)"/>
+<path d="M84,122 Q60,106 52,80" fill="none" stroke="#6b8a3a" stroke-width="2.5" marker-end="url(#arG)"/>
+<text x="102" y="98" font-size="13" fill="#c33">剪</text>
+<text x="12" y="174">剪短枝条,</text>
+<text x="12" y="192">促发新枝</text>
+</g>
+<g transform="translate(186,90)">
+<rect width="172" height="196" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="22" font-size="15" font-weight="bold">② 疏枝</text>
+<line x1="16" y1="150" x2="156" y2="150" stroke="#8a5a2b" stroke-width="9" stroke-linecap="round"/>
+<line x1="46" y1="146" x2="40" y2="50" stroke="#8a5a2b" stroke-width="4" stroke-linecap="round"/>
+<line x1="86" y1="146" x2="86" y2="44" stroke="#b9b9b9" stroke-width="4" stroke-linecap="round" stroke-dasharray="5 3"/>
+<line x1="126" y1="146" x2="132" y2="50" stroke="#8a5a2b" stroke-width="4" stroke-linecap="round"/>
+<path d="M74,142 H98" stroke="#c33" stroke-width="2.5"/>
+<text x="102" y="136" font-size="13" fill="#c33">从基部剪</text>
+<text x="12" y="174">从基部剪除,</text>
+<text x="12" y="192">减少枝量</text>
+</g>
+<g transform="translate(362,90)">
+<rect width="172" height="196" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="22" font-size="15" font-weight="bold">③ 回缩</text>
+<line x1="24" y1="160" x2="84" y2="98" stroke="#8a5a2b" stroke-width="9" stroke-linecap="round"/>
+<line x1="84" y1="98" x2="140" y2="40" stroke="#b9b9b9" stroke-width="7" stroke-linecap="round" stroke-dasharray="6 3"/>
+<line x1="56" y1="127" x2="40" y2="70" stroke="#8a5a2b" stroke-width="4" stroke-linecap="round"/>
+<line x1="84" y1="98" x2="120" y2="92" stroke="#8a5a2b" stroke-width="4" stroke-linecap="round"/>
+<line x1="110" y1="70" x2="96" y2="46" stroke="#b9b9b9" stroke-width="3" stroke-linecap="round" stroke-dasharray="5 3"/>
+<path d="M80,88 L94,104" stroke="#c33" stroke-width="2.5"/>
+<text x="12" y="174">剪去多年生枝的一部分,</text>
+<text x="12" y="192">更新复壮</text>
+<text x="100" y="120" font-size="12" fill="#c33">剪到侧枝处</text>
+<text x="12" y="52" font-size="12" fill="#0b5cad">多年生枝</text>
+</g>
+<g transform="translate(538,90)">
+<rect width="172" height="196" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="22" font-size="15" font-weight="bold">④ 缓放</text>
+<line x1="16" y1="150" x2="156" y2="150" stroke="#8a5a2b" stroke-width="9" stroke-linecap="round"/>
+<line x1="86" y1="150" x2="86" y2="40" stroke="#8a5a2b" stroke-width="4" stroke-linecap="round"/>
+<use href="#budR" x="88" y="140"/>
+<use href="#budL" x="84" y="122"/>
+<use href="#budR" x="88" y="104"/>
+<use href="#budL" x="84" y="86"/>
+<use href="#budR" x="88" y="68"/>
+<use href="#budL" x="84" y="50"/>
+<text x="104" y="96" fill="#0b5cad" font-weight="bold">不剪</text>
+<text x="12" y="174">不剪,</text>
+<text x="12" y="192">促进结果</text>
+</g>
+<text x="14" y="316" font-size="17" font-weight="bold">怎样下剪</text>
+<text x="92" y="316" font-size="13" fill="#555">先大后小、先上后下、先里后外;疏掉枯枝、病虫枝、交叉枝、重叠枝、向内长的枝、徒长枝</text>
+<g transform="translate(10,326)">
+<rect width="700" height="210" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="22" font-size="15" font-weight="bold">⑤ 短截的剪口</text>
+<path d="M80,176 V112 L92,98 V176 Z" fill="#8a5a2b" stroke="#333" stroke-width="1.5"/>
+<path d="M92,118 q9,-2 10,-13 q-9,2 -10,13 z" fill="#6b8a3a" stroke="#333" stroke-width="1"/>
+<path d="M80,112 V60 H92 V98" fill="none" stroke="#b9b9b9" stroke-width="1.5" stroke-dasharray="4 3"/>
+<path d="M106,98 H112 V105 H106" fill="none" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="116" y="98" font-size="12" fill="#0b5cad">约</text>
+<text x="116" y="112" font-size="12" fill="#0b5cad">0.5-1 cm</text>
+<text x="20" y="48" font-size="13" font-weight="bold">✓ 芽上方约0.5-1 cm,</text>
+<text x="20" y="66" font-size="13" font-weight="bold">  斜面向芽的背面</text>
+<path d="M252,176 V118 H264 V176 Z" fill="#8a5a2b" stroke="#333" stroke-width="1.5"/>
+<path d="M252,118 V78 L264,72 V118" fill="#9a8a78" stroke="#333" stroke-width="1.5"/>
+<path d="M264,140 q9,-2 10,-13 q-9,2 -10,13 z" fill="#6b8a3a" stroke="#333" stroke-width="1"/>
+<path d="M248,118 H268" stroke="#555" stroke-width="1" stroke-dasharray="2 2"/>
+<text x="192" y="48" font-size="13" fill="#c33" font-weight="bold">✗ 留桩太长</text>
+<text x="274" y="90" font-size="12" fill="#c33">枯死成</text>
+<text x="274" y="104" font-size="12" fill="#c33">"干橛子",</text>
+<text x="274" y="118" font-size="12" fill="#c33">病菌侵入</text>
+<path d="M424,176 V112 L436,108 V176 Z" fill="#8a5a2b" stroke="#333" stroke-width="1.5"/>
+<path d="M436,118 q9,-2 10,-13 q-9,2 -10,13 z" fill="#8b6b3e" stroke="#333" stroke-width="1"/>
+<text x="364" y="48" font-size="13" fill="#c33" font-weight="bold">✗ 贴芽太近</text>
+<text x="452" y="106" font-size="12" fill="#c33">芽会干死</text>
+<path d="M556,180 V76" stroke="#999" stroke-width="1" stroke-dasharray="4 3"/>
+<text x="560" y="70" font-size="11" fill="#777">树冠中心</text>
+<path d="M562,176 L610,116" stroke="#8a5a2b" stroke-width="6" stroke-linecap="round"/>
+<path d="M610,116 L628,94" stroke="#b9b9b9" stroke-width="5" stroke-dasharray="4 3"/>
+<path d="M604,112 L618,122" stroke="#c33" stroke-width="2.5"/>
+<path d="M606,124 Q646,118 676,96" fill="none" stroke="#6b8a3a" stroke-width="3" marker-end="url(#arG)"/>
+<text x="536" y="48" font-size="13" font-weight="bold">✓ 剪口芽朝外</text>
+<text x="632" y="140" font-size="12" fill="#0b5cad">新枝向外长,</text>
+<text x="632" y="154" font-size="12" fill="#0b5cad">树冠开张</text>
+<line x1="10" y1="186" x2="690" y2="186" stroke="#eee"/>
+<text x="14" y="203" font-size="13" fill="#555">伤口: 直径约2 cm以上的剪口、锯口削平后,涂蜡、油漆或黄泥加少量牛粪调的泥,防止干裂和病菌侵入</text>
+</g>
+<g transform="translate(10,546)">
+<rect width="346" height="238" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="22" font-size="15" font-weight="bold">⑥ 疏枝的剪口: 贴领圈剪平</text>
+<rect x="20" y="60" width="26" height="120" fill="#8a5a2b" stroke="#333" stroke-width="1.5"/>
+<path d="M46,104 Q54,104 56,96 V122 Q54,128 46,128 Z" fill="#a8764a" stroke="#333" stroke-width="1.2"/>
+<path d="M56,96 L100,60 L110,72 L56,122" fill="none" stroke="#b9b9b9" stroke-width="1.5" stroke-dasharray="4 3"/>
+<path d="M58,90 V128" stroke="#c33" stroke-width="2.5"/>
+<rect x="130" y="60" width="26" height="120" fill="#8a5a2b" stroke="#333" stroke-width="1.5"/>
+<path d="M156,104 Q164,104 166,96 L186,80 L196,92 L166,122 Q164,128 156,128 Z" fill="#8a5a2b" stroke="#333" stroke-width="1.2"/>
+<path d="M186,80 L196,92" stroke="#c33" stroke-width="2.5"/>
+<path d="M240,60 H266 V96 Q258,112 266,130 V180 H240 Z" fill="#8a5a2b" stroke="#333" stroke-width="1.5"/>
+<path d="M266,96 Q258,112 266,130" fill="none" stroke="#c33" stroke-width="2.5"/>
+<path d="M260,113 q4,8 0,16" fill="none" stroke="#f0dcb4" stroke-width="3"/>
+<text x="20" y="48" font-size="13" font-weight="bold">✓ 贴领圈剪平</text>
+<text x="130" y="48" font-size="13" fill="#c33" font-weight="bold">✗ 留桩</text>
+<text x="240" y="48" font-size="13" fill="#c33" font-weight="bold">✗ 削进主干</text>
+<text x="66" y="146" font-size="12" fill="#0b5cad">领圈</text>
+<line x1="70" y1="136" x2="58" y2="124" stroke="#0b5cad" stroke-width="1"/>
+<text x="14" y="204" font-size="13">领圈: 枝条基部微微隆起的一圈;</text>
+<text x="14" y="222" font-size="13">贴着它剪平,不留桩,也不要削进主干</text>
+</g>
+<g transform="translate(364,546)">
+<rect width="346" height="238" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="22" font-size="15" font-weight="bold">⑦ 大枝(直径约5 cm以上): 三锯法</text>
+<rect x="20" y="40" width="30" height="130" fill="#8a5a2b" stroke="#333" stroke-width="1.5"/>
+<path d="M50,82 Q58,84 60,90 H330 V118 H60 Q58,124 50,126 Z" fill="#8a5a2b" stroke="#333" stroke-width="1.5"/>
+<path d="M170,118 V108" stroke="#c33" stroke-width="3"/>
+<path d="M170,146 V124" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<text x="170" y="162" font-size="15" fill="#c33" text-anchor="middle" font-weight="bold">①</text>
+<path d="M196,90 V118" stroke="#c33" stroke-width="2.5" stroke-dasharray="5 3"/>
+<path d="M196,58 V84" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<text x="196" y="52" font-size="15" fill="#c33" text-anchor="middle" font-weight="bold">②</text>
+<path d="M62,84 V124" stroke="#c33" stroke-width="2.5" stroke-dasharray="5 3"/>
+<text x="70" y="76" font-size="15" fill="#c33" text-anchor="middle" font-weight="bold">③</text>
+<path d="M62,134 V140 H170 V134" fill="none" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="116" y="156" font-size="12" fill="#0b5cad" text-anchor="middle">约20-30 cm</text>
+<text x="222" y="112" font-size="12" fill="#c33">1/3深</text>
+<line x1="220" y1="108" x2="174" y2="112" stroke="#c33" stroke-width="1"/>
+<text x="14" y="186" font-size="13">① 在要锯处外侧约20-30 cm,从下往上锯约1/3深</text>
+<text x="14" y="204" font-size="13">② 在①的外侧几 cm处从上往下锯断,枝条掉下</text>
+<text x="14" y="222" font-size="13">③ 最后贴领圈锯掉剩下的短桩(防止树皮撕裂)</text>
+</g>
+<text x="14" y="812" font-size="17" font-weight="bold">常见树形</text>
+<text x="92" y="812" font-size="13" fill="#555">(侧视,同一比例;冬季落叶后的骨架)</text>
+<g transform="translate(10,822)">
+<rect width="214" height="410" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="22" font-size="15" font-weight="bold">自然开心形</text>
+<line x1="10" y1="300" x2="204" y2="300" stroke="#999" stroke-width="3"/>
+<line x1="110" y1="300" x2="110" y2="259.5" stroke="#8a5a2b" stroke-width="9" stroke-linecap="round"/>
+<line x1="110" y1="277.5" x2="31.2" y2="176.6" stroke="#8a5a2b" stroke-width="6" stroke-linecap="round"/>
+<line x1="74.5" y1="232.1" x2="43.2" y2="225.5" stroke="#8a5a2b" stroke-width="3" stroke-linecap="round"/>
+<line x1="54.8" y1="206.9" x2="56.0" y2="174.9" stroke="#8a5a2b" stroke-width="3" stroke-linecap="round"/>
+<line x1="110" y1="269.5" x2="188.8" y2="168.6" stroke="#8a5a2b" stroke-width="6" stroke-linecap="round"/>
+<line x1="145.5" y1="224.1" x2="144.3" y2="192.1" stroke="#8a5a2b" stroke-width="3" stroke-linecap="round"/>
+<line x1="165.2" y1="198.9" x2="196.5" y2="192.2" stroke="#8a5a2b" stroke-width="3" stroke-linecap="round"/>
+<line x1="110" y1="261.5" x2="61.5" y2="233.5" stroke="#a06c3a" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="88.2" y1="248.9" x2="72.4" y2="251.7" stroke="#8a5a2b" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="76.1" y1="241.9" x2="70.6" y2="226.9" stroke="#8a5a2b" stroke-width="2.2" stroke-linecap="round"/>
+<text x="52" y="271.5" font-size="11" fill="#777" text-anchor="end">第3个主枝</text>
+<text x="52" y="285.5" font-size="11" fill="#777" text-anchor="end">(朝前)</text>
+<line x1="58" y1="277.5" x2="110" y2="277.5" stroke="#c33" stroke-width="1" stroke-dasharray="3 2"/>
+<path d="M70.0,277.5 A40,40 0 0,1 85.4,246.0" fill="none" stroke="#c33" stroke-width="1.5"/>
+<text x="36" y="243.5" font-size="12" fill="#c33">40-60°</text>
+<path d="M100,300 H94 V277.5 H100" fill="none" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="90" y="286" font-size="12" fill="#0b5cad" text-anchor="end">干高约</text>
+<text x="90" y="298" font-size="12" fill="#0b5cad" text-anchor="end">40-60 cm</text>
+<path d="M120,277.5 H126 V261.5 H120" fill="none" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="130" y="279.5" font-size="12" fill="#0b5cad">主枝上下错开</text>
+<text x="130" y="293.5" font-size="12" fill="#0b5cad">约10-20 cm</text>
+<text x="114" y="214" font-size="13" fill="#c33" text-anchor="middle" font-weight="bold">中心空</text>
+<path d="M16,300 V176 M12,176 H20" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="12" y="170.25" font-size="12" fill="#0b5cad">树高约2.5-3 m</text>
+<g transform="translate(170,72)">
+<circle r="26" fill="none" stroke="#999" stroke-dasharray="3 2"/>
+<line x1="0" y1="0" x2="0.0" y2="-24.0" stroke="#8a5a2b" stroke-width="4" stroke-linecap="round"/>
+<line x1="0" y1="0" x2="-20.8" y2="12.0" stroke="#8a5a2b" stroke-width="4" stroke-linecap="round"/>
+<line x1="0" y1="0" x2="20.8" y2="12.0" stroke="#8a5a2b" stroke-width="4" stroke-linecap="round"/>
+<circle r="4" fill="#8a5a2b"/>
+<text x="0" y="-32" font-size="12" fill="#555" text-anchor="middle">俯视</text>
+<text x="0" y="42" font-size="12" fill="#c33" text-anchor="middle">彼此约120°</text>
+</g>
+<text x="12" y="322" font-size="13">桃、李、杏(也可用于苹果、</text>
+<text x="12" y="340" font-size="13">梨、柿)</text>
+<text x="12" y="358" font-size="13">没有中心干;3个主枝分别朝</text>
+<text x="12" y="376" font-size="13">三个方向,各培养2-3个侧枝</text>
+<text x="12" y="394" font-size="13">第二、三年剪掉中央直立枝</text>
+</g>
+<g transform="translate(230,822)">
+<rect width="260" height="410" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="22" font-size="15" font-weight="bold">疏散分层形(有中心干)</text>
+<line x1="10" y1="300" x2="250" y2="300" stroke="#999" stroke-width="3"/>
+<line x1="118" y1="300" x2="118" y2="97.5" stroke="#8a5a2b" stroke-width="9" stroke-linecap="round"/>
+<line x1="118" y1="210" x2="118" y2="97.5" stroke="#8a5a2b" stroke-width="6" stroke-linecap="round"/>
+<line x1="118" y1="259.5" x2="32.8" y2="199.8" stroke="#8a5a2b" stroke-width="5" stroke-linecap="round"/>
+<line x1="66.9" y1="223.7" x2="35.7" y2="223.7" stroke="#8a5a2b" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="118" y1="259.5" x2="171.7" y2="179.9" stroke="#8a5a2b" stroke-width="5" stroke-linecap="round"/>
+<line x1="150.2" y1="211.7" x2="177.1" y2="201.4" stroke="#8a5a2b" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="118" y1="259.5" x2="94.3" y2="208.7" stroke="#a06c3a" stroke-width="4" stroke-linecap="round"/>
+<line x1="103.8" y1="229.0" x2="89.3" y2="220.6" stroke="#8a5a2b" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="118" y1="219.0" x2="55.0" y2="169.7" stroke="#8a5a2b" stroke-width="5" stroke-linecap="round"/>
+<line x1="80.2" y1="189.4" x2="56.2" y2="188.2" stroke="#8a5a2b" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="118" y1="219.0" x2="155.1" y2="159.6" stroke="#8a5a2b" stroke-width="5" stroke-linecap="round"/>
+<line x1="140.3" y1="183.4" x2="159.6" y2="175.2" stroke="#8a5a2b" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="118" y1="178.5" x2="85.9" y2="140.2" stroke="#8a5a2b" stroke-width="4" stroke-linecap="round"/>
+<line x1="98.7" y1="155.5" x2="84.2" y2="151.6" stroke="#8a5a2b" stroke-width="2.5" stroke-linecap="round"/>
+<text x="252" y="263.5" font-size="12" fill="#0b5cad" text-anchor="end">第一层3个</text>
+<text x="252" y="223.0" font-size="12" fill="#0b5cad" text-anchor="end">第二层2个</text>
+<text x="252" y="182.5" font-size="12" fill="#0b5cad" text-anchor="end">第三层1-2个</text>
+<path d="M124,260 H130 M124,219 H130 M127,260 V219" stroke="#c33" stroke-width="1.2"/>
+<text x="252" y="243.25" font-size="11" fill="#c33" text-anchor="end">层间约80-100 cm</text>
+<path d="M16,300 V98 M12,98 H20" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="22" y="101.5" font-size="12" fill="#0b5cad">树高约4-5 m</text>
+<text x="12" y="322" font-size="13">苹果乔化树、梨、柿、核桃、板栗</text>
+<text x="12" y="340" font-size="13">主枝分2-3层,共5-7个;层与层</text>
+<text x="12" y="358" font-size="13">之间留空,让光线透进内膛</text>
+<text x="12" y="376" font-size="13">成形需4-6年,适合株行距大、</text>
+<text x="12" y="394" font-size="13">寿命长的大树</text>
+</g>
+<g transform="translate(496,822)">
+<rect width="214" height="410" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="22" font-size="15" font-weight="bold">纺锤形(细长主干形)</text>
+<line x1="10" y1="300" x2="204" y2="300" stroke="#999" stroke-width="3"/>
+<line x1="126" y1="300" x2="126" y2="185" stroke="#aaa" stroke-width="3"/>
+<line x1="118" y1="300" x2="118" y2="165" stroke="#8a5a2b" stroke-width="7" stroke-linecap="round"/>
+<path d="M118,266.0 Q76.0,263.0 48.0,276.2" fill="none" stroke="#8a5a2b" stroke-width="3" stroke-linecap="round"/>
+<path d="M118,256.5 Q157.4,253.5 183.6,266.4" fill="none" stroke="#8a5a2b" stroke-width="3" stroke-linecap="round"/>
+<path d="M118,247.0 Q97.8,244.0 84.3,255.0" fill="none" stroke="#a06c3a" stroke-width="3" stroke-linecap="round"/>
+<path d="M118,237.5 Q152.1,234.5 174.8,246.9" fill="none" stroke="#8a5a2b" stroke-width="3" stroke-linecap="round"/>
+<path d="M118,228.0 Q86.6,225.0 65.6,237.1" fill="none" stroke="#8a5a2b" stroke-width="3" stroke-linecap="round"/>
+<path d="M118,218.5 Q133.8,215.5 144.4,226.1" fill="none" stroke="#a06c3a" stroke-width="3" stroke-linecap="round"/>
+<path d="M118,209.0 Q91.8,206.0 74.4,217.6" fill="none" stroke="#8a5a2b" stroke-width="2.4" stroke-linecap="round"/>
+<path d="M118,199.5 Q141.5,196.5 157.2,207.9" fill="none" stroke="#8a5a2b" stroke-width="2.4" stroke-linecap="round"/>
+<path d="M118,190.0 Q106.5,187.0 98.9,197.1" fill="none" stroke="#a06c3a" stroke-width="2.4" stroke-linecap="round"/>
+<path d="M118,180.5 Q136.2,177.5 148.4,188.3" fill="none" stroke="#8a5a2b" stroke-width="2.4" stroke-linecap="round"/>
+<path d="M118,171.0 Q102.4,168.0 92.0,178.6" fill="none" stroke="#8a5a2b" stroke-width="2.4" stroke-linecap="round"/>
+<path d="M118,161.5 Q125.1,158.5 129.9,168.2" fill="none" stroke="#a06c3a" stroke-width="2.4" stroke-linecap="round"/>
+<path d="M118,234.5 A22,22 0 0,1 140,257.5" fill="none" stroke="#c33" stroke-width="1.5"/>
+<text x="144" y="232.5" font-size="12" fill="#c33">约70-90°</text>
+<path d="M16,300 V165 M12,165 H20" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="12" y="159" font-size="12" fill="#0b5cad">树高约2.5-3.5 m</text>
+<text x="130" y="175" font-size="12" fill="#777">支柱</text>
+<text x="12" y="322" font-size="13">矮化密植苹果、梨</text>
+<text x="12" y="340" font-size="13">中心干上螺旋状分布10-20个</text>
+<text x="12" y="358" font-size="13">较小的枝,下部稍长、上部短;</text>
+<text x="12" y="376" font-size="13">某个枝条超过中心干的一半</text>
+<text x="12" y="394" font-size="13">粗,就从基部疏掉换新的</text>
+</g>
+</g>
+</svg>
