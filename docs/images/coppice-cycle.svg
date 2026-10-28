@@ -1,0 +1,213 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 948" width="720" height="948" role="img" aria-label="萌生林的砍法和分块轮流砍。很多阔叶树砍断后,树桩会冒出一丛新枝,几年后又长成可以砍的柴。冬季到早春发芽前的休眠期砍;不要在春末到夏季的生长季砍,夏末秋初砍的新萌条冬天容易冻死。留桩离地约5-15 cm,低一点萌条从根颈发出,更结实;切口平整、干净,向一侧斜,让雨水流走,不在桩顶积水腐烂;用锋利的斧头或锯从外侧斜着砍,不要把树桩劈裂、撕破树皮。有牲畜啃食风险的地方,也有人留到1-2 m高(头木作业)。砍后第一、二年选留3-5根健壮、分布均匀的萌条,其余剪掉。把林地分成和轮伐周期年数相同的块数,例如周期8年分8块,每年砍1块,第9年回到第1块;记下每块的位置、面积、砍伐年份和产量;边界用石堆、刻痕或界桩标清楚;刚砍过的块头两三年禁止放牧;每块可留几棵大树不砍。柳类轮伐周期约2-5年,桉树3-6年,杨树和刺槐4-8年,榆、槐、枫杨、桤木5-12年,栎类和板栗8-15年;大多数针叶树(松、杉、柏)砍断后树桩不会再发芽。">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>萌生林: 怎么砍、怎么分块轮流砍</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<path id="drop" d="M0,0 Q-4,7 0,10 Q4,7 0,0 Z" fill="#7aaad6"/>
+<path id="stub" d="M-7,0 V-5 L7,-9 V0 Z" fill="#a07c4a" stroke="#333" stroke-width="1"/>
+<g id="s0"><use href="#stub"/></g>
+<g id="s1"><path d="M-4,-5 Q-8,-10 -11,-16 M0,-7 V-18 M4,-8 Q8,-13 11,-19" fill="none" stroke="#7a5a30" stroke-width="1.3" stroke-linecap="round"/><use href="#stub"/></g>
+<g id="s2"><path d="M-4,-5 Q-8,-14 -11,-23 M0,-7 V-25 M4,-8 Q8,-17 11,-26" fill="none" stroke="#7a5a30" stroke-width="1.6" stroke-linecap="round"/><use href="#stub"/></g>
+<g id="s3"><path d="M-4,-5 Q-8,-17 -11,-30 M0,-7 V-32 M4,-8 Q8,-20 11,-33" fill="none" stroke="#7a5a30" stroke-width="1.9" stroke-linecap="round"/><use href="#stub"/></g>
+<g id="s4"><path d="M-4,-5 Q-8,-21 -11,-37 M0,-7 V-39 M4,-8 Q8,-24 11,-40" fill="none" stroke="#7a5a30" stroke-width="2.2" stroke-linecap="round"/><use href="#stub"/></g>
+<g id="s5"><path d="M-4,-5 Q-8,-24 -11,-44 M0,-7 V-46 M4,-8 Q8,-27 11,-47" fill="none" stroke="#7a5a30" stroke-width="2.5" stroke-linecap="round"/><use href="#stub"/></g>
+<g id="s6"><path d="M-4,-5 Q-8,-28 -11,-51 M0,-7 V-53 M4,-8 Q8,-31 11,-54" fill="none" stroke="#7a5a30" stroke-width="2.8" stroke-linecap="round"/><use href="#stub"/></g>
+<g id="s7"><path d="M-4,-5 Q-8,-31 -11,-58 M0,-7 V-60 M4,-8 Q8,-34 11,-61" fill="none" stroke="#7a5a30" stroke-width="3.1" stroke-linecap="round"/><use href="#stub"/></g>
+<g id="big"><rect x="-3" y="-30" width="6" height="30" fill="#8a5a2b" stroke="#333" stroke-width="1"/><circle cy="-42" r="15" fill="#8fbf6a" stroke="#333" stroke-width="1.2"/></g>
+<g id="stone"><circle cx="-4" cy="0" r="3.5"/><circle cx="4" cy="0" r="3.5"/><circle cx="0" cy="-5" r="3.5"/></g>
+</defs>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="14" fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">萌生林: 怎么砍、怎么分块轮流砍</text>
+<text x="360" y="50" text-anchor="middle" fill="#555">很多阔叶树砍断后,树桩会冒出一丛新枝,几年后又长成可以砍的柴;树根还活着,不用重新种</text>
+<g transform="translate(10,62)">
+<rect width="700" height="54" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="14" y="22"><tspan font-weight="bold">✓ 冬季到早春发芽前的休眠期砍:</tspan> 养分存在根里,来年萌条多而壮;木材含水少,农闲有人手</text>
+<text x="14" y="44" fill="#c33"><tspan font-weight="bold">✗ 不在春末到夏季的生长季砍:</tspan> 萌条少,甚至死掉;夏末秋初砍,新萌条冬天容易冻死</text>
+</g>
+<g transform="translate(10,126)">
+<rect width="346" height="282" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="22" font-size="15" font-weight="bold">① 留桩和切口</text>
+<text x="22" y="48" font-weight="bold">✓ 低桩、斜切口</text>
+<text x="186" y="48" font-weight="bold" fill="#c33">✗ 平口积水、劈裂</text>
+<line x1="10" y1="190" x2="336" y2="190" stroke="#999" stroke-width="3"/>
+<line x1="174" y1="40" x2="174" y2="196" stroke="#ddd" stroke-width="1"/>
+<g transform="translate(70,0)">
+<path d="M-12,190 Q-22,200 -34,204 M12,190 Q24,198 36,202 M0,190 V206" fill="none" stroke="#7a5a30" stroke-width="3" stroke-linecap="round"/>
+<path d="M-22,190 V158 L22,146 V190 Z" fill="#a07c4a" stroke="#333" stroke-width="2"/>
+<ellipse cx="0" cy="152" rx="23" ry="5" transform="rotate(-15 0 152)" fill="#f2e6c8" stroke="#333" stroke-width="1.2"/>
+<use href="#drop" x="2" y="116"/><use href="#drop" x="14" y="106"/><use href="#drop" x="-10" y="122"/>
+<path d="M10,148 L-20,157 Q-30,162 -32,178" fill="none" stroke="#0b5cad" stroke-width="1.8" marker-end="url(#arB)"/>
+<path d="M26,146 H32 V190 H26" fill="none" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="36" y="166" font-size="13" fill="#0b5cad">约</text>
+<text x="36" y="182" font-size="13" fill="#0b5cad">5-15 cm</text>
+</g>
+<text x="14" y="78" font-size="13" fill="#0b5cad">切口斜向一侧,</text>
+<text x="14" y="94" font-size="13" fill="#0b5cad">雨水顺斜面流走</text>
+<g transform="translate(230,0)">
+<path d="M-12,190 Q-22,200 -34,204 M12,190 Q24,198 36,202 M0,190 V206" fill="none" stroke="#7a5a30" stroke-width="3" stroke-linecap="round"/>
+<path d="M-22,190 V140 L-14,146 L-6,138 L0,148 L8,139 L14,147 L22,140 V190 Z" fill="#a07c4a" stroke="#333" stroke-width="2"/>
+<path d="M-17,143 Q0,150 17,143 Q0,139 -17,143 Z" fill="#7aaad6"/>
+<path d="M0,148 L-4,158 L2,166 L-3,178" fill="none" stroke="#333" stroke-width="1.5"/>
+<path d="M22,150 Q34,156 38,174 L32,174 Q28,160 22,160 Z" fill="#a07c4a" stroke="#333" stroke-width="1.2"/>
+<use href="#drop" x="-6" y="112"/><use href="#drop" x="8" y="120"/>
+</g>
+<g font-size="13" fill="#c33">
+<text x="268" y="78">桩顶积水</text><text x="268" y="94">→ 腐烂</text>
+<line x1="266" y1="98" x2="244" y2="140" stroke="#c33" stroke-width="1"/>
+<text x="186" y="118">劈裂</text>
+<line x1="204" y1="122" x2="228" y2="162" stroke="#c33" stroke-width="1"/>
+<text x="276" y="140">撕破</text><text x="276" y="156">树皮</text>
+</g>
+<text x="12" y="230">留桩离地约5-15 cm,低一点萌条从根颈发出,</text>
+<text x="12" y="248">更结实;切口平整、干净,向一侧斜</text>
+<text x="12" y="266">用锋利的斧头或锯,从外侧斜着砍</text>
+</g>
+<g transform="translate(362,126)">
+<rect width="171" height="282" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="22" font-size="15" font-weight="bold">② 头木作业</text>
+<line x1="8" y1="190" x2="163" y2="190" stroke="#999" stroke-width="3"/>
+<path d="M40,72 Q30,52 22,38 M44,70 Q40,50 38,34 M50,70 Q54,50 58,34 M54,72 Q64,52 72,40 M47,70 V30" fill="none" stroke="#7a5a30" stroke-width="2" stroke-linecap="round"/>
+<path d="M38,190 V80 Q38,70 48,70 Q58,70 58,80 V190 Z" fill="#a07c4a" stroke="#333" stroke-width="2"/>
+<path d="M64,72 H70 V190 H64" fill="none" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="74" y="126" font-size="13" fill="#0b5cad">约1-2 m</text>
+<g transform="translate(118,0)">
+<ellipse cx="0" cy="166" rx="22" ry="12" fill="#f4f1ea" stroke="#333" stroke-width="1.5"/>
+<path d="M-14,176 V190 M-6,177 V190 M8,177 V190 M16,176 V190" stroke="#333" stroke-width="2"/>
+<ellipse cx="-24" cy="154" rx="8" ry="6" fill="#f4f1ea" stroke="#333" stroke-width="1.5"/>
+<path d="M-22,149 l4,-4" stroke="#333" stroke-width="1.5"/>
+</g>
+<text x="98" y="146" font-size="13" fill="#c33">够不着</text>
+<text x="12" y="230">有牲畜啃食风险的地方,</text>
+<text x="12" y="248">也有人留到1-2 m高,</text>
+<text x="12" y="266">新枝长在牲畜够不着处</text>
+</g>
+<g transform="translate(539,126)">
+<rect width="171" height="282" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="22" font-size="15" font-weight="bold">③ 选留萌条</text>
+<line x1="8" y1="190" x2="163" y2="190" stroke="#999" stroke-width="3"/>
+<path d="M74,168 Q60,120 44,72 M82,166 Q80,110 78,60 M92,166 Q100,110 108,62 M100,168 Q118,126 132,84" fill="none" stroke="#6b8a3a" stroke-width="3.5" stroke-linecap="round"/>
+<path d="M70,170 Q56,154 42,140 M78,166 Q72,140 66,116 M88,166 Q92,140 96,120 M104,170 Q118,158 136,146" fill="none" stroke="#9ab27a" stroke-width="1.5" stroke-dasharray="4 2"/>
+<g stroke="#c33" stroke-width="2"><path d="M60,158 l8,-6 M72,152 l8,-4 M86,152 l8,2 M108,162 l6,-8"/></g>
+<path d="M64,190 V172 L112,162 V190 Z" fill="#a07c4a" stroke="#333" stroke-width="2"/>
+<text x="14" y="54" font-size="13" fill="#0b5cad">留3-5根健壮、</text>
+<text x="14" y="70" font-size="13" fill="#0b5cad">分布均匀的</text>
+<text x="118" y="140" font-size="13" fill="#c33">其余</text>
+<text x="118" y="156" font-size="13" fill="#c33">剪掉</text>
+<text x="12" y="212">砍后第一、二年,一个桩</text>
+<text x="12" y="230">上会冒出很多萌条: 选留</text>
+<text x="12" y="248">3-5根健壮、分布均匀的,</text>
+<text x="12" y="266">其余剪掉,让养分集中</text>
+</g>
+<g transform="translate(10,418)">
+<rect width="700" height="340" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">④ 分块轮流砍: 林地分成和轮伐周期年数相同的块数</text>
+<text x="12" y="46" fill="#555">例: 周期8年 → 分8块,每年砍1块,第9年回到第1块。下图是第8年砍完时各块的样子</text>
+<g transform="translate(96,60)">
+<text x="8" y="20" font-size="13" font-weight="bold">第1块</text>
+<text x="50" y="20" font-size="13" fill="#555">第1年砍</text>
+<use href="#s7" x="26" y="88"/>
+<use href="#s7" x="70" y="88"/>
+<use href="#s7" x="114" y="88"/>
+</g>
+<g transform="translate(236,60)">
+<text x="8" y="20" font-size="13" font-weight="bold">第2块</text>
+<text x="50" y="20" font-size="13" fill="#555">第2年砍</text>
+<use href="#s6" x="26" y="88"/>
+<use href="#s6" x="70" y="88"/>
+<use href="#s6" x="114" y="88"/>
+</g>
+<g transform="translate(376,60)">
+<text x="8" y="20" font-size="13" font-weight="bold">第3块</text>
+<text x="50" y="20" font-size="13" fill="#555">第3年砍</text>
+<use href="#big" x="106" y="88"/>
+<use href="#s5" x="22" y="88"/>
+<use href="#s5" x="56" y="88"/>
+</g>
+<g transform="translate(516,60)">
+<text x="8" y="20" font-size="13" font-weight="bold">第4块</text>
+<text x="50" y="20" font-size="13" fill="#555">第4年砍</text>
+<use href="#s4" x="26" y="88"/>
+<use href="#s4" x="70" y="88"/>
+<use href="#s4" x="114" y="88"/>
+</g>
+<g transform="translate(96,160)">
+<rect x="3" y="3" width="134" height="94" fill="#fbecec" stroke="#c33" stroke-width="1.2" stroke-dasharray="5 3"/>
+<text x="8" y="20" font-size="13" font-weight="bold">第8块</text>
+<text x="50" y="20" font-size="13" fill="#c33">今年(第8年)砍</text>
+<use href="#big" x="106" y="88"/>
+<use href="#s0" x="22" y="88"/>
+<use href="#s0" x="56" y="88"/>
+</g>
+<g transform="translate(236,160)">
+<rect x="3" y="3" width="134" height="94" fill="#fbecec" stroke="#c33" stroke-width="1.2" stroke-dasharray="5 3"/>
+<text x="8" y="20" font-size="13" font-weight="bold">第7块</text>
+<text x="50" y="20" font-size="13" fill="#555">第7年砍</text>
+<use href="#s1" x="26" y="88"/>
+<use href="#s1" x="70" y="88"/>
+<use href="#s1" x="114" y="88"/>
+</g>
+<g transform="translate(376,160)">
+<rect x="3" y="3" width="134" height="94" fill="#fbecec" stroke="#c33" stroke-width="1.2" stroke-dasharray="5 3"/>
+<text x="8" y="20" font-size="13" font-weight="bold">第6块</text>
+<text x="50" y="20" font-size="13" fill="#555">第6年砍</text>
+<use href="#s2" x="26" y="88"/>
+<use href="#s2" x="70" y="88"/>
+<use href="#s2" x="114" y="88"/>
+</g>
+<g transform="translate(516,160)">
+<text x="8" y="20" font-size="13" font-weight="bold">第5块</text>
+<text x="50" y="20" font-size="13" fill="#555">第5年砍</text>
+<use href="#s3" x="26" y="88"/>
+<use href="#s3" x="70" y="88"/>
+<use href="#s3" x="114" y="88"/>
+</g>
+<rect x="96" y="60" width="560" height="200" fill="none" stroke="#999" stroke-width="2"/>
+<path d="M236,60 V260 M376,60 V260 M516,60 V260 M96,160 H656" stroke="#999" stroke-width="1.5" stroke-dasharray="6 4"/>
+<g fill="#9a9a9a" stroke="#555" stroke-width="0.8">
+<use href="#stone" x="96" y="63"/>
+<use href="#stone" x="236" y="63"/>
+<use href="#stone" x="376" y="63"/>
+<use href="#stone" x="516" y="63"/>
+<use href="#stone" x="656" y="63"/>
+<use href="#stone" x="96" y="163"/>
+<use href="#stone" x="236" y="163"/>
+<use href="#stone" x="376" y="163"/>
+<use href="#stone" x="516" y="163"/>
+<use href="#stone" x="656" y="163"/>
+<use href="#stone" x="96" y="263"/>
+<use href="#stone" x="236" y="263"/>
+<use href="#stone" x="376" y="263"/>
+<use href="#stone" x="516" y="263"/>
+<use href="#stone" x="656" y="263"/>
+</g>
+<path d="M92,210 H66 V110 H88" fill="none" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="30" y="152" font-size="13" fill="#c33">第9年</text>
+<text x="30" y="168" font-size="13" fill="#c33">回到</text>
+<text x="30" y="184" font-size="13" fill="#c33">第1块</text>
+<g transform="translate(96,260)">
+<use href="#stone" x="6" y="22" fill="#9a9a9a" stroke="#555" stroke-width="0.8"/>
+<text x="18" y="24" font-size="13" fill="#0b5cad">边界: 石堆、刻痕或界桩</text>
+<use href="#big" x="190" y="30" transform="translate(190,30) scale(0.4) translate(-190,-30)"/>
+<text x="200" y="24" font-size="13" fill="#0b5cad">每块可留几棵大树不砍</text>
+<rect x="356" y="12" width="16" height="14" fill="#fbecec" stroke="#c33" stroke-width="1.2" stroke-dasharray="4 2"/>
+<text x="378" y="24" font-size="13" fill="#c33">刚砍过两三年内: 禁止放牧</text>
+</g>
+<text x="12" y="306">✓ 在地图或本子上记下每一块的位置、面积、砍伐年份和产量</text>
+<text x="12" y="326" fill="#c33">✗ 刚砍过的块,头两三年禁止放牧: 牲畜会啃光萌条</text>
+</g>
+<g transform="translate(10,768)">
+<rect width="700" height="170" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">能萌生的树和大致轮伐周期</text>
+<text x="206" y="24" font-size="13" fill="#555">(经验值,仅供参考,随气候、立地和想要的柴的粗细变化很大)</text>
+<text x="12" y="52">柳、旱柳、杞柳 <tspan font-weight="bold">2-5年</tspan></text>
+<text x="236" y="52">桉树 <tspan font-weight="bold">3-6年</tspan></text>
+<text x="440" y="52">杨树、刺槐 <tspan font-weight="bold">4-8年</tspan></text>
+<text x="12" y="76">榆、槐、枫杨、桤木 <tspan font-weight="bold">5-12年</tspan></text>
+<text x="236" y="76">栎类、板栗 <tspan font-weight="bold">8-15年</tspan></text>
+<text x="12" y="102">周期短: 柴细,砍和搬省力,每次的量少;周期长: 柴粗,可以兼做小木料、烧炭</text>
+<text x="12" y="126" fill="#c33">✗ 大多数针叶树(松、杉、柏)砍断后树桩不会再发芽,只能重新种</text>
+<text x="12" y="150">管理好的萌生林每公顷每年约长3-8 t干材: 只砍新长出来的那一部分,林子就能一直用下去</text>
+</g>
+</g>
+</svg>
