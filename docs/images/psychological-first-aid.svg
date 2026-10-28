@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 900" width="720" height="900" role="img" aria-label="心理急救: 看、听、联结。不需要是心理医生,任何人都可以提供心理急救。看: 现场是否安全,先离开危险环境;有没有人受伤需要急救;谁最需要帮助(惊慌失措、呆坐不动、不说话的人,儿童、老人、孕妇、残障人士,与家人失散的人);满足基本需要: 水、食物、保暖、休息的地方。听: 介绍自己,问对方是否需要帮助;陪在旁边,保持冷静;让对方按自己的意愿说;认可对方的感受;给出准确的信息,不知道的就说不知道;帮对方解决眼前的具体问题。联结: 帮助联系家人、朋友;告诉对方哪里可以获得帮助(救助点、医疗点、12356热线);鼓励对方恢复日常作息、和身边的人在一起。不要做: 不要强迫对方讲述经历的细节;不要说我完全理解你的感受、至少你还活着、别哭了要坚强、一切都会好起来的;不要评判对方;不要替对方做决定;不要做自己做不到的承诺。自杀风险警示信号: 说想死、想消失、活着没意思;说自己是别人的负担;把心爱的东西送人、交代后事;打听或准备伤害自己的方法;长期抑郁后突然变得平静。怎样应对: 直接问;认真听,不评判,不要答应替对方保密;有明确计划或已准备好方法时不要让他独处,移走可能用来伤害自己的东西;情况紧急拨打120或110,否则陪对方拨打12356心理援助热线(全国统一,24小时),或陪同去医院精神科、心理科;之后持续关心">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>心理急救: 看、听、联结</title>
+<defs>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker>
+<g id="p">
+<path d="M-3 -12 L-5 0 M3 -12 L5 0" stroke="#333" stroke-width="3.5" stroke-linecap="round"/>
+<rect x="-7" y="-31" width="14" height="20" rx="4" fill="#cfe0f0" stroke="#333" stroke-width="2"/>
+<circle cx="0" cy="-38" r="7" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+</g>
+<g id="sit">
+<path d="M-2 -10 H13 V1" fill="none" stroke="#333" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="-7" y="-30" width="14" height="21" rx="4" fill="#e6e6e6" stroke="#333" stroke-width="2"/>
+<circle cx="2" cy="-36" r="7" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+</g>
+<g id="sitB">
+<path d="M2 -10 H-13 V1" fill="none" stroke="#333" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="-7" y="-30" width="14" height="21" rx="4" fill="#cfe0f0" stroke="#333" stroke-width="2"/>
+<circle cx="-1" cy="-37" r="7" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+</g>
+</defs>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="13" fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">心理急救: 看、听、联结</text>
+<text x="360" y="50" font-size="14" text-anchor="middle" fill="#555">不需要是心理医生,任何人都可以提供心理急救(世界卫生组织推荐)</text>
+
+<!-- 看 -->
+<g transform="translate(10,64)">
+<rect width="222" height="336" rx="8" fill="#f5f9fd" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="12" y="28" font-size="17" font-weight="bold" fill="#0b5cad">① 看</text>
+<text x="60" y="28" font-size="13" fill="#555">安全和基本需要</text>
+<path d="M20 112 H202" stroke="#999" stroke-width="2"/>
+<use href="#p" x="62" y="110"/>
+<use href="#sit" x="140" y="110"/>
+<rect x="170" y="88" width="10" height="22" rx="2" fill="#d6e9f8" stroke="#333" stroke-width="1.5"/>
+<path d="M118 76 Q136 66 158 70" fill="none" stroke="#999" stroke-width="1.5" stroke-dasharray="2 3"/>
+<text x="12" y="140">✓ 现场是否安全?</text>
+<text x="28" y="158">先离开危险环境</text>
+<text x="12" y="180">✓ 有没有人受伤需要急救?</text>
+<text x="12" y="202">✓ 谁最需要帮助?</text>
+<text x="28" y="220" font-size="12" fill="#555">惊慌失措、呆坐不动、</text>
+<text x="28" y="236" font-size="12" fill="#555">不说话的人;儿童、老人、孕妇、</text>
+<text x="28" y="252" font-size="12" fill="#555">残障人士;与家人失散的人</text>
+<text x="12" y="276">✓ 满足基本需要:</text>
+<text x="28" y="294">水、食物、保暖、</text>
+<text x="28" y="312">休息的地方</text>
+</g>
+<path d="M233 90 H247" stroke="#0b5cad" stroke-width="2.5" marker-end="url(#arB)"/>
+
+<!-- 听 -->
+<g transform="translate(249,64)">
+<rect width="222" height="336" rx="8" fill="#f5f9fd" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="12" y="28" font-size="17" font-weight="bold" fill="#0b5cad">② 听</text>
+<text x="60" y="28" font-size="13" fill="#555">陪伴和倾听</text>
+<path d="M20 112 H202" stroke="#999" stroke-width="2"/>
+<use href="#sit" x="84" y="110"/>
+<use href="#sitB" x="138" y="110"/>
+<path d="M40 44 H96 Q102 44 102 50 V62 Q102 68 96 68 H80 L74 76 L72 68 H40 Q34 68 34 62 V50 Q34 44 40 44 Z" fill="#fff" stroke="#888" stroke-width="1.5"/>
+<g fill="#888"><circle cx="56" cy="56" r="2.5"/><circle cx="68" cy="56" r="2.5"/><circle cx="80" cy="56" r="2.5"/></g>
+<text x="12" y="140">✓ 介绍自己,问对方</text>
+<text x="28" y="158">是否需要帮助</text>
+<text x="12" y="180">✓ 陪在旁边,保持冷静</text>
+<text x="12" y="202">✓ 让对方按自己的意愿说,</text>
+<text x="28" y="220">愿意说多少就听多少</text>
+<text x="12" y="242">✓ 认可对方的感受</text>
+<text x="12" y="264">✓ 给出准确的信息</text>
+<text x="28" y="282" font-size="12" fill="#555">(不知道的就说不知道)</text>
+<text x="12" y="304">✓ 帮对方解决眼前的</text>
+<text x="28" y="322">具体问题</text>
+</g>
+<path d="M472 90 H486" stroke="#0b5cad" stroke-width="2.5" marker-end="url(#arB)"/>
+
+<!-- 联结 -->
+<g transform="translate(488,64)">
+<rect width="222" height="336" rx="8" fill="#f5f9fd" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="12" y="28" font-size="17" font-weight="bold" fill="#0b5cad">③ 联结</text>
+<text x="76" y="28" font-size="13" fill="#555">和支持资源连起来</text>
+<use href="#p" x="111" y="110"/>
+<g stroke="#0b5cad" stroke-width="1.5" stroke-dasharray="4 3"><line x1="100" y1="82" x2="54" y2="66"/><line x1="122" y1="82" x2="162" y2="66"/><line x1="111" y1="110" x2="111" y2="118"/></g>
+<rect x="14" y="44" width="74" height="22" rx="11" fill="#fff" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="51" y="60" text-anchor="middle" font-size="12">家人、朋友</text>
+<rect x="120" y="44" width="92" height="22" rx="11" fill="#fff" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="166" y="60" text-anchor="middle" font-size="12">救助点、医疗点</text>
+<rect x="66" y="118" width="90" height="22" rx="11" fill="#fff" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="111" y="134" text-anchor="middle" font-size="12" font-weight="bold">12356 热线</text>
+<text x="12" y="166">✓ 帮助联系家人、朋友</text>
+<text x="12" y="188">✓ 告诉对方哪里可以获得</text>
+<text x="28" y="206">帮助(救助点、医疗点、</text>
+<text x="28" y="224">12356热线)</text>
+<text x="12" y="246">✓ 鼓励对方恢复日常作息、</text>
+<text x="28" y="264">和身边的人在一起</text>
+<path d="M12 282 H210" stroke="#ccc" stroke-width="1"/>
+<text x="12" y="302" font-size="12" fill="#555">反应持续超过1个月、或严重到</text>
+<text x="12" y="320" font-size="12" fill="#555">无法正常生活 → 寻求专业帮助</text>
+</g>
+
+<!-- 不要做 -->
+<g transform="translate(10,410)">
+<rect width="700" height="162" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<text x="12" y="26" font-size="15" font-weight="bold" fill="#c33">❌ 不要做</text>
+<text x="12" y="52">❌ 不要强迫对方讲述经历的细节</text>
+<text x="32" y="70" font-size="12" fill="#555">不要让人反复回忆当时的情景,它不能帮助恢复,有时反而有害</text>
+<text x="12" y="94">❌ 不要评判对方的反应或做法</text>
+<text x="12" y="116">❌ 不要替对方做决定</text>
+<text x="12" y="138">❌ 不要做自己做不到的承诺</text>
+<text x="420" y="52">❌ 不要说这些话:</text>
+<text x="440" y="74">"我完全理解你的感受"</text>
+<text x="440" y="96">"至少你还活着""还好不是更糟"</text>
+<text x="440" y="118">"别哭了""要坚强""想开点"</text>
+<text x="440" y="140">"一切都会好起来的"</text>
+</g>
+
+<!-- 自杀风险 -->
+<g transform="translate(10,582)">
+<rect width="700" height="308" rx="8" fill="none" stroke="#c33" stroke-width="2"/>
+<text x="12" y="26" font-size="15" font-weight="bold" fill="#c33">⚠️ 发现自杀风险</text>
+<text x="12" y="52" font-weight="bold">警示信号</text>
+<text x="12" y="74">· 说想死、想消失、"活着没意思"</text>
+<text x="12" y="94">· 说自己是别人的负担、感到绝望</text>
+<text x="12" y="114">· 把心爱的东西送人、交代后事</text>
+<text x="12" y="134">· 打听或准备伤害自己的方法</text>
+<text x="12" y="154">· 长期抑郁后突然变得平静("想通了")</text>
+<text x="20" y="172" font-size="12" fill="#c33">可能已经下定决心,需高度警惕</text>
+<path d="M290 104 H322" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="340" y="52" font-weight="bold">怎样应对</text>
+<text x="340" y="74"><tspan font-weight="bold">1. 直接问</tspan>: "你有没有想过要伤害自己?"</text>
+<text x="356" y="92" font-size="12" fill="#555">直接询问不会让人产生这个念头</text>
+<text x="340" y="114"><tspan font-weight="bold">2. 认真听,不评判</tspan>;不要答应替对方保密</text>
+<text x="340" y="136"><tspan font-weight="bold">3. 保证安全</tspan>: 有明确计划或已准备好方法</text>
+<text x="356" y="154">→ 不要让他独处;移走或锁好可能用来</text>
+<text x="356" y="172">伤害自己的东西(大量药物、农药等)</text>
+<text x="340" y="194"><tspan font-weight="bold">4. 持续关心</tspan>: 之后的几天、几周继续联系</text>
+<!-- 电话 -->
+<rect x="12" y="210" width="330" height="86" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<text x="24" y="236" fill="#c33" font-weight="bold">情况紧急(正在或即将伤害自己)</text>
+<text x="24" y="270" font-size="22" font-weight="bold" fill="#c33">拨打 120 / 110</text>
+<rect x="358" y="210" width="330" height="86" rx="8" fill="#f5f9fd" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="370" y="236" fill="#0b5cad" font-weight="bold">否则: 陪对方拨打心理援助热线</text>
+<text x="370" y="266" font-size="22" font-weight="bold" fill="#0b5cad">12356</text>
+<text x="446" y="264" font-size="12" fill="#555">全国统一,24小时</text>
+<text x="370" y="286" font-size="12">或陪同去医院精神科、心理科</text>
+</g>
+</g>
+</svg>

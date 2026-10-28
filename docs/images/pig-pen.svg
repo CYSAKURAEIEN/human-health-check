@@ -1,0 +1,176 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 910" width="720" height="910" role="img" aria-label="猪舍建设示意: 圈内分睡卧区、喂食区和排粪区,猪会在离食槽和睡处最远的角落排粪,排粪区设在低处、靠门、靠排水沟一侧,每天清理;地面坡度约2%-3%(每米降2-3 cm),坡向排粪区和排水沟;睡卧区比排粪区略高,铺干草或木板;围栏高约1 m,下沿埋入地下或用石块压住;圈门向外开;屋顶或高处留通风口。产栏约2 m × 2.5 m,沿墙离地约20-25 cm、离墙约20-25 cm装一圈护仔栏杆,一角隔出只有仔猪能钻进的保温区;母猪约18-22°C,初生仔猪约30-34°C。面积: 育肥猪1.5-2 m²/头,母猪3-4 m²/头;远离居住区200 m以上,离水井、水源至少30 m并在下坡方向。氨味刺眼是通风不够;气温超过约28-30°C会热应激,要遮阳、泥水坑、洒凉水、饮水充足" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>猪舍建设</title>
+<defs>
+<pattern id="soil" width="16" height="16" patternUnits="userSpaceOnUse"><rect width="16" height="16" fill="#efe4cf"/><circle cx="4" cy="5" r="1.1" fill="#bba57a"/><circle cx="12" cy="12" r="1.1" fill="#bba57a"/><circle cx="11" cy="3" r="0.8" fill="#bba57a"/></pattern>
+<pattern id="mesh" width="6" height="6" patternUnits="userSpaceOnUse"><rect width="6" height="6" fill="#fff"/><path d="M0 0 H6 M0 0 V6" stroke="#777" stroke-width="1"/></pattern>
+<pattern id="straw" width="10" height="8" patternUnits="userSpaceOnUse"><rect width="10" height="8" fill="#f1dc9a"/><path d="M0 6 L6 2 M5 7 L10 4" stroke="#c9a94e" stroke-width="1"/></pattern>
+<pattern id="dung" width="14" height="12" patternUnits="userSpaceOnUse"><rect width="14" height="12" fill="#ece2cf"/><circle cx="4" cy="4" r="1.3" fill="#b89a6e"/><circle cx="10" cy="9" r="1.1" fill="#b89a6e"/></pattern>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<marker id="arB0" viewBox="0 0 10 10" refX="2" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M10 0 L0 5 L10 10 Z" fill="#0b5cad"/></marker>
+<g id="pigS"><path d="M-30 -4 q-8 -4 -5 -9 q4 -3 4 2" fill="none" stroke="#333" stroke-width="1.5"/><ellipse cx="0" cy="0" rx="30" ry="15" fill="#f6cfc6" stroke="#333" stroke-width="1.8"/><circle cx="30" cy="-3" r="10" fill="#f6cfc6" stroke="#333" stroke-width="1.8"/><rect x="38" y="-8" width="6" height="9" rx="2" fill="#eeb3a8" stroke="#333" stroke-width="1.2"/><path d="M23 -10 L28 -20 L33 -11 Z" fill="#eeb3a8" stroke="#333" stroke-width="1.2" stroke-linejoin="round"/><circle cx="34" cy="-6" r="1.2" fill="#222"/></g>
+<g id="pigT"><path d="M-22 0 q-7 -3 -6 3 q1 4 4 1" fill="none" stroke="#333" stroke-width="1.3"/><ellipse cx="0" cy="0" rx="22" ry="12" fill="#f6cfc6" stroke="#333" stroke-width="1.6"/><ellipse cx="18" cy="-8" rx="5" ry="3" fill="#eeb3a8" stroke="#333" stroke-width="1"/><ellipse cx="18" cy="8" rx="5" ry="3" fill="#eeb3a8" stroke="#333" stroke-width="1"/><ellipse cx="25" cy="0" rx="8" ry="7" fill="#f6cfc6" stroke="#333" stroke-width="1.6"/><ellipse cx="33" cy="0" rx="2.5" ry="4" fill="#eeb3a8" stroke="#333" stroke-width="1"/></g>
+<g id="lamp"><path d="M0 -14 V-4" stroke="#555" stroke-width="1.5"/><path d="M-7 -4 H7 L4 4 H-4 Z" fill="#555"/><circle cx="0" cy="7" r="4" fill="#ffd866" stroke="#e0a020" stroke-width="1.5"/></g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">猪舍建设(示意,不按比例)</text>
+
+<!-- ① 平面: 分区 -->
+<rect x="10" y="44" width="350" height="400" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="68" font-size="16" font-weight="bold">① 平面: 分区</text>
+<rect x="40" y="90" width="280" height="230" fill="#e9e9e9"/>
+<rect x="43" y="93" width="150" height="97" fill="url(#straw)"/>
+<rect x="232" y="246" width="85" height="71" fill="url(#dung)"/>
+<path d="M262 320 H40 V90 H320 V320 H306" fill="none" stroke="#555" stroke-width="6" stroke-linejoin="round"/>
+<!-- 门向外开 -->
+<path d="M262 320 V364" stroke="#8b6b3e" stroke-width="4"/>
+<path d="M306 320 A44 44 0 0 1 262 364" fill="none" stroke="#0b5cad" stroke-width="1.3" stroke-dasharray="4 3"/>
+<text x="178" y="352" font-size="13" fill="#0b5cad">圈门向外开</text>
+<!-- 排水沟 -->
+<rect x="326" y="210" width="12" height="118" fill="#cfe0f0" stroke="#333" stroke-width="1.5"/>
+<text x="312" y="348" font-size="13">排水沟</text>
+<!-- 猪 -->
+<use href="#pigT" transform="translate(88,124) rotate(-10)"/>
+<use href="#pigT" transform="translate(136,162) rotate(170)"/>
+<!-- 食槽、饮水器 -->
+<rect x="43" y="232" width="16" height="70" fill="#bbb" stroke="#333" stroke-width="1.5"/>
+<circle cx="51" cy="214" r="5" fill="#cfe0f0" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="64" y="219" font-size="13">饮水器</text>
+<text x="64" y="256" font-size="13">食槽</text>
+<text x="64" y="282" font-size="14" font-weight="bold">喂食区</text>
+<text x="200" y="112" font-size="14" font-weight="bold">睡卧区</text>
+<text x="200" y="130" font-size="13">略高、干燥,</text>
+<text x="200" y="147" font-size="13">铺干草或木板</text>
+<text x="274" y="274" font-size="14" font-weight="bold" text-anchor="middle">排粪区</text>
+<text x="274" y="292" font-size="13" text-anchor="middle">低处、靠门</text>
+<text x="274" y="308" font-size="13" text-anchor="middle">每天清理</text>
+<!-- 坡向 -->
+<path d="M176 200 L228 244" stroke="#0b5cad" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#arB)"/>
+<path d="M118 236 L226 290" stroke="#0b5cad" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#arB)"/>
+<text x="24" y="390" font-size="13">地面坡度约2%-3%(每米降2-3 cm),</text>
+<text x="24" y="408" font-size="13">坡向排粪区和排水沟</text>
+<text x="24" y="430" font-size="13" fill="#555">猪会在离食槽和睡处最远的角落排粪</text>
+
+<!-- ② 剖面 -->
+<rect x="370" y="44" width="340" height="400" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="384" y="68" font-size="16" font-weight="bold">② 剖面: 地面和通风</text>
+<rect x="372" y="330" width="336" height="20" fill="url(#soil)"/>
+<path d="M372 330 H640 M668 330 H708" stroke="#999" stroke-width="3"/>
+<!-- 排水沟 -->
+<path d="M640 330 V346 H668 V330" fill="#cfe0f0" stroke="#333" stroke-width="1.5"/>
+<!-- 后墙、屋顶 -->
+<rect x="392" y="130" width="12" height="200" fill="#d9c7a8" stroke="#333" stroke-width="2"/>
+<rect x="392" y="136" width="12" height="24" fill="url(#mesh)" stroke="#333" stroke-width="1.5"/>
+<path d="M382 126 L704 186" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+<path d="M694 184 V330" stroke="#8b6b3e" stroke-width="4"/>
+<!-- 地面: 从睡卧区坡向排粪区 -->
+<path d="M404 312 L620 326 V330 H404 Z" fill="#c8c8c8" stroke="#333" stroke-width="1.5"/>
+<path d="M404 303 L500 309 L500 318 L404 312 Z" fill="url(#straw)" stroke="#c9a94e" stroke-width="1"/>
+<use href="#pigS" transform="translate(452,292) scale(0.85)"/>
+<ellipse cx="588" cy="322" rx="5" ry="3" fill="#8b6b3e"/><ellipse cx="602" cy="323" rx="4" ry="2.5" fill="#8b6b3e"/>
+<!-- 围栏 1 m -->
+<path d="M620 262 V330" stroke="#8b6b3e" stroke-width="4"/>
+<path d="M620 330 V346" stroke="#c33" stroke-width="3" stroke-dasharray="4 3"/>
+<path d="M614 264 H626 M614 288 H626 M614 312 H626" stroke="#8b6b3e" stroke-width="3"/>
+<path d="M632 264 V326" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<text x="640" y="290" font-size="13" fill="#0b5cad">高约</text>
+<text x="640" y="306" font-size="13" fill="#0b5cad">1 m</text>
+<!-- 坡度 -->
+<text x="500" y="250" font-size="13" fill="#0b5cad">坡度约2%-3%</text>
+<text x="500" y="267" font-size="13" fill="#0b5cad">(每米降2-3 cm)</text>
+<path d="M506 292 L608 300" stroke="#0b5cad" stroke-width="2" marker-end="url(#arB)"/>
+<!-- 通风 -->
+<path d="M436 282 C 418 240, 412 190, 408 162" fill="none" stroke="#0b5cad" stroke-width="1.6" stroke-dasharray="5 4"/>
+<path d="M398 148 H378" stroke="#0b5cad" stroke-width="2" marker-end="url(#arB)"/>
+<text x="420" y="96" font-size="14" font-weight="bold">高处留通风口</text>
+<text x="420" y="114" font-size="13" fill="#555">潮气、臭气从上面散出</text>
+<line x1="424" y1="118" x2="404" y2="140" stroke="#0b5cad" stroke-width="1.3"/>
+<text x="428" y="196" font-size="13">冬天关窗保温,</text>
+<text x="428" y="213" font-size="13">通风口开在高处,</text>
+<text x="428" y="230" font-size="13">冷风不直吹猪身(防贼风)</text>
+<text x="384" y="370" font-size="13">睡卧区比排粪区略高,铺干草或木板,</text>
+<text x="384" y="388" font-size="13">不要让猪睡在湿水泥地上</text>
+<text x="384" y="410" font-size="13" fill="#c33">围栏下沿埋入地下或用石块压住</text>
+<text x="384" y="428" font-size="13" fill="#c33">(猪会拱、会撞)</text>
+<text x="636" y="366" font-size="13">排水沟</text>
+
+<!-- ③ 产栏 -->
+<rect x="10" y="456" width="440" height="290" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="480" font-size="16" font-weight="bold">③ 产栏和护仔栏杆(防压死仔猪)</text>
+<rect x="48" y="506" width="175" height="140" fill="#eee" stroke="#555" stroke-width="5"/>
+<rect x="58" y="516" width="155" height="120" fill="none" stroke="#8b6b3e" stroke-width="2.5" stroke-dasharray="7 4"/>
+<rect x="51" y="509" width="46" height="46" fill="url(#straw)"/>
+<path d="M51 555 H97 V509" fill="none" stroke="#8b6b3e" stroke-width="3"/>
+<use href="#lamp" transform="translate(74,526)"/>
+<use href="#pigT" transform="translate(150,584) scale(1.5)"/>
+<use href="#pigT" transform="translate(70,546) scale(0.38)"/>
+<use href="#pigT" transform="translate(84,580) scale(0.38) rotate(30)"/>
+<use href="#pigT" transform="translate(106,620) scale(0.38) rotate(-20)"/>
+<path d="M50 662 H221" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<text x="136" y="680" font-size="13" fill="#0b5cad" text-anchor="middle">产栏约2 m × 2.5 m</text>
+<text x="24" y="704" font-size="13">一角隔出仔猪保温区(只有仔猪能钻进),</text>
+<text x="24" y="722" font-size="13">铺干草,吊保温灯或放保温箱</text>
+<text x="106" y="536" font-size="12">保温区</text>
+<!-- 横断面: 护仔栏杆 -->
+<text x="262" y="508" font-size="13" font-weight="bold">靠墙处横断面</text>
+<path d="M260 640 H420" stroke="#999" stroke-width="3"/>
+<rect x="420" y="530" width="14" height="112" fill="#d9c7a8" stroke="#333" stroke-width="2"/>
+<ellipse cx="342" cy="613" rx="42" ry="27" fill="#f6cfc6" stroke="#333" stroke-width="1.8"/>
+<text x="328" y="632" font-size="12" text-anchor="middle">母猪</text>
+<circle cx="390" cy="606" r="6" fill="#b98c4f" stroke="#333" stroke-width="1.5"/>
+<path d="M390 614 V638" stroke="#0b5cad" stroke-width="1.3" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<use href="#pigT" transform="translate(406,630) scale(0.32) rotate(-90)"/>
+<text x="404" y="600" font-size="11" text-anchor="middle">仔猪</text>
+<path d="M392 576 H418" stroke="#0b5cad" stroke-width="1.3" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<path d="M390 600 V576" stroke="#0b5cad" stroke-width="1" stroke-dasharray="3 2"/>
+<text x="318" y="548" font-size="12" fill="#0b5cad">离墙约20-25 cm</text>
+<line x1="390" y1="552" x2="404" y2="574" stroke="#0b5cad" stroke-width="1"/>
+<text x="262" y="566" font-size="12" fill="#0b5cad">离地约</text>
+<text x="262" y="581" font-size="12" fill="#0b5cad">20-25 cm</text>
+<line x1="300" y1="585" x2="386" y2="628" stroke="#0b5cad" stroke-width="1"/>
+<text x="262" y="664" font-size="13">护仔栏杆(圆木或钢管):</text>
+<text x="262" y="682" font-size="13">母猪躺下靠墙时,仔猪</text>
+<text x="262" y="700" font-size="13">从栏杆下躲开,不被压死</text>
+<text x="262" y="722" font-size="13" fill="#c33">母猪约18-22°C</text>
+<text x="262" y="738" font-size="13" fill="#c33">初生仔猪约30-34°C</text>
+
+<!-- ④ 面积与选址 -->
+<g transform="translate(460,456)">
+<rect x="0" y="0" width="250" height="290" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="14" y="24" font-size="16" font-weight="bold">④ 面积、选址、设施</text>
+<g font-size="13">
+<text x="14" y="50" font-weight="bold">面积</text>
+<text x="14" y="68">育肥猪 1.5-2 m²/头</text>
+<text x="14" y="86">母猪 3-4 m²/头</text>
+<text x="14" y="112" font-weight="bold">选址</text>
+<text x="14" y="130">地势高燥、向阳背风、排水良好</text>
+<text x="14" y="148">远离居住区200 m以上</text>
+<text x="14" y="166">离水井、水源至少30 m,</text>
+<text x="14" y="184">并在水源的下坡方向</text>
+<text x="14" y="202">在夏季主导风向的下游</text>
+<text x="14" y="228" font-weight="bold">设施</text>
+<text x="14" y="246">食槽(水泥或铁制)</text>
+<text x="14" y="264">水槽或自动饮水器</text>
+<text x="14" y="282">漏缝地板,或有坡度的水泥地面</text>
+</g>
+</g>
+
+<!-- ⑤ 通风与防暑 -->
+<g transform="translate(10,758)">
+<rect x="0" y="0" width="700" height="142" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="2"/>
+<text x="14" y="24" font-size="16" font-weight="bold" fill="#c33">⑤ 通风与防暑</text>
+<g font-size="13">
+<text x="14" y="50">进圈眼睛刺痛、氨味很冲 = 通风不够,</text>
+<text x="14" y="68">呼吸道病会多</text>
+<text x="14" y="90">墙上挂水珠、垫草发潮发霉 = 太湿,</text>
+<text x="14" y="108">要加大通风、勤换垫草</text>
+<text x="14" y="130">冬天关窗保温,但高处要留通风口</text>
+<text x="360" y="50">猪几乎不会出汗,气温超过约28-30°C</text>
+<text x="360" y="68">就会热应激(张口喘、趴着不动、不吃)</text>
+<text x="360" y="90">→ 遮阳棚;圈里或运动场设泥水坑让猪打滚</text>
+<text x="360" y="108">→ 往地面和猪身上洒凉水</text>
+<text x="360" y="130">→ 夏天饮水一定要充足</text>
+</g>
+</g>
+</g>
+</svg>

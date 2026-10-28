@@ -1,0 +1,186 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 868" width="720" height="868" role="img" aria-label="猪、羊接产示意: 羊的正产是先露出水泡,接着是两只前蹄(蹄底朝下)和搭在前腿上的鼻子,像跳水的姿势,正产不要插手;只露出一只前蹄、只露头不见前蹄、先露出尾巴或后蹄是胎位不正,要请有经验的人或兽医。猪妊娠约114天,每隔约10-30分钟产一头,整窝约2-5小时;羊妊娠约150天,破水后一般约30分钟到1小时内产出。出生后: 清除口鼻黏液,不呼吸时倒提后腿轻拍胸部;擦干保暖;仔猪脐带在离肚皮约4 cm处扎线、线外侧剪断、涂碘酒,羔羊脐带一般自己扯断、涂碘酒,太长时在约4-5 cm处扎线后剪断;尽早吃初乳,羔羊最好1小时内、最迟不超过2小时。努责超过约30-60分钟不见仔畜、产出几头后停了超过约1小时、阴门流恶臭发黑液体、胎衣超过约12小时不下等要请兽医;不要硬拉,接产要戴手套" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>猪、羊接产要点</title>
+<defs>
+<pattern id="straw" width="10" height="8" patternUnits="userSpaceOnUse"><rect width="10" height="8" fill="#f1dc9a"/><path d="M0 6 L6 2 M5 7 L10 4" stroke="#c9a94e" stroke-width="1"/></pattern>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<marker id="arB0" viewBox="0 0 10 10" refX="2" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M10 0 L0 5 L10 10 Z" fill="#0b5cad"/></marker>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker>
+<!-- 羔羊各部分(朝右) -->
+<g id="lBody"><path d="M-28 10 Q-14 22 -2 16" fill="none" stroke="#333" stroke-width="5" stroke-linecap="round"/><path d="M-28 10 Q-14 22 -2 16" fill="none" stroke="#f3ece0" stroke-width="2.5" stroke-linecap="round"/><ellipse cx="0" cy="0" rx="38" ry="18" fill="#f3ece0" stroke="#333" stroke-width="1.8"/><path d="M-38 -2 q-6 2 -4 8" fill="none" stroke="#333" stroke-width="1.8"/></g>
+<g id="lHead"><ellipse cx="46" cy="0" rx="15" ry="10" fill="#f3ece0" stroke="#333" stroke-width="1.8"/><ellipse cx="38" cy="-9" rx="7" ry="3.5" transform="rotate(-20 38 -9)" fill="#e6dccb" stroke="#333" stroke-width="1.2"/><path d="M45 -3 q3 2 6 0" fill="none" stroke="#333" stroke-width="1.2"/></g>
+<g id="legOut"><path d="M24 10 L84 12" stroke="#333" stroke-width="6" stroke-linecap="round"/><path d="M24 10 L84 12" stroke="#f3ece0" stroke-width="3" stroke-linecap="round"/><path d="M84 8 L92 9 L92 16 L84 16 Z" fill="#555"/></g>
+<g id="legBack"><path d="M22 10 Q30 22 12 22" fill="none" stroke="#333" stroke-width="6" stroke-linecap="round"/><path d="M22 10 Q30 22 12 22" fill="none" stroke="#f3ece0" stroke-width="3" stroke-linecap="round"/></g>
+<g id="pigS"><path d="M-30 -4 q-8 -4 -5 -9 q4 -3 4 2" fill="none" stroke="#333" stroke-width="1.5"/><ellipse cx="0" cy="0" rx="30" ry="15" fill="#f6cfc6" stroke="#333" stroke-width="1.8"/><circle cx="30" cy="-3" r="10" fill="#f6cfc6" stroke="#333" stroke-width="1.8"/><rect x="38" y="-8" width="6" height="9" rx="2" fill="#eeb3a8" stroke="#333" stroke-width="1.2"/><path d="M23 -10 L28 -20 L33 -11 Z" fill="#eeb3a8" stroke="#333" stroke-width="1.2" stroke-linejoin="round"/><circle cx="34" cy="-6" r="1.2" fill="#222"/></g>
+<g id="lamp"><path d="M0 -14 V-4" stroke="#555" stroke-width="1.5"/><path d="M-7 -4 H7 L4 4 H-4 Z" fill="#555"/><circle cx="0" cy="7" r="4" fill="#ffd866" stroke="#e0a020" stroke-width="1.5"/></g>
+<g id="xMark"><circle r="10" fill="#fdf3f3" stroke="#c33" stroke-width="2"/><path d="M-5 -5 L5 5 M5 -5 L-5 5" stroke="#c33" stroke-width="2.5"/></g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">猪、羊接产要点(示意)</text>
+
+<!-- 羊的正产与胎位不正 -->
+<rect x="10" y="44" width="440" height="250" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="68" font-size="16" font-weight="bold">羊的正产和胎位不正</text>
+<g transform="translate(74,116)">
+<use href="#lBody"/><use href="#legOut"/><use href="#legOut" transform="translate(-2,6)"/><use href="#lHead"/>
+</g>
+<path d="M40 160 H200" stroke="#0b5cad" stroke-width="2" marker-end="url(#arB)"/>
+<text x="120" y="178" font-size="13" fill="#0b5cad" text-anchor="middle">产出方向</text>
+<text x="128" y="94" font-size="12" fill="#0b5cad">鼻子搭在前腿上</text>
+<line x1="150" y1="98" x2="128" y2="110" stroke="#0b5cad" stroke-width="1"/>
+<text x="176" y="146" font-size="12" fill="#0b5cad">蹄底朝下</text>
+<line x1="186" y1="134" x2="168" y2="130" stroke="#0b5cad" stroke-width="1"/>
+<text x="250" y="92" font-size="14" font-weight="bold" fill="#0b5cad">✓ 正产(像跳水)</text>
+<g font-size="13">
+<text x="250" y="114">先露出水泡,</text>
+<text x="250" y="132">接着是两只前蹄(蹄底朝下)</text>
+<text x="250" y="150">和搭在前腿上的鼻子</text>
+<text x="250" y="172" font-weight="bold">正产就不要插手,</text>
+<text x="250" y="190" font-weight="bold">让母羊自己生</text>
+</g>
+<path d="M20 202 H440" stroke="#ddd" stroke-width="1"/>
+<text x="24" y="222" font-size="13" font-weight="bold" fill="#c33">胎位不正 → 请有经验的人或兽医</text>
+<g transform="translate(66,250) scale(0.55)">
+<use href="#lBody"/><use href="#legOut"/><use href="#legBack" transform="translate(-4,4)"/><use href="#lHead"/>
+</g>
+<use href="#xMark" transform="translate(30,236)"/>
+<g transform="translate(206,250) scale(0.55)">
+<use href="#lBody"/><use href="#legBack"/><use href="#legBack" transform="translate(-4,4)"/><use href="#lHead"/>
+</g>
+<use href="#xMark" transform="translate(170,236)"/>
+<g transform="translate(366,250) scale(-0.55,0.55)">
+<use href="#lBody"/><use href="#legBack"/><use href="#lHead"/>
+</g>
+<g transform="translate(366,250) scale(0.55)">
+<path d="M22 12 L70 14" stroke="#333" stroke-width="6" stroke-linecap="round"/><path d="M22 12 L70 14" stroke="#f3ece0" stroke-width="3" stroke-linecap="round"/><path d="M70 10 L78 11 L78 18 L70 18 Z" fill="#555"/>
+</g>
+<use href="#xMark" transform="translate(310,236)"/>
+<g font-size="12" text-anchor="middle">
+<text x="86" y="284">只露出一只前蹄</text>
+<text x="222" y="284">只露头不见前蹄</text>
+<text x="366" y="284">先露出尾巴或后蹄</text>
+</g>
+
+<!-- 产程 -->
+<g transform="translate(460,44)">
+<rect x="0" y="0" width="250" height="250" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="14" y="24" font-size="16" font-weight="bold">产程(参考)</text>
+<g font-size="13">
+<text x="14" y="50" font-weight="bold">猪 妊娠约114天</text>
+<text x="14" y="68">母猪一般侧卧分娩</text>
+<text x="14" y="86">每隔约10-30分钟产一头,</text>
+<text x="14" y="104">整窝约2-5小时</text>
+<text x="14" y="122">最后一头产出后数小时内排胎衣</text>
+<text x="14" y="148" font-weight="bold">羊 妊娠约150天</text>
+<text x="14" y="166">破水后一般约30分钟到1小时</text>
+<text x="14" y="184">内产出;双羔的第二只常在</text>
+<text x="14" y="202">约10-30分钟后</text>
+<text x="14" y="220">胎衣产后几个小时内排出</text>
+<text x="14" y="240" fill="#555">胎衣拿走深埋,不要让母猪吃</text>
+</g>
+</g>
+
+<!-- 出生后四步 -->
+<rect x="10" y="304" width="700" height="356" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="328" font-size="16" font-weight="bold">出生后马上做(仔猪、羔羊)</text>
+<path d="M218 340 V650 M382 340 V650 M546 340 V650" stroke="#ddd" stroke-width="1"/>
+<path d="M20 458 H700 M20 554 H700" stroke="#ddd" stroke-width="1"/>
+<!-- ① -->
+<use href="#pigS" transform="translate(116,400) scale(0.9)"/>
+<path d="M162 380 Q176 374 184 386 Q180 400 166 398 Q158 390 162 380 Z" fill="#cfe0f0" stroke="#333" stroke-width="1.5"/>
+<path d="M190 372 Q196 388 188 404" fill="none" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<!-- ② -->
+<rect x="236" y="414" width="130" height="12" fill="url(#straw)"/>
+<use href="#pigS" transform="translate(296,400) scale(0.9)"/>
+<path d="M268 392 Q292 376 318 390 L314 404 Q292 392 272 404 Z" fill="#cfe0f0" stroke="#333" stroke-width="1.5"/>
+<use href="#lamp" transform="translate(350,358)"/>
+<!-- ③ -->
+<use href="#pigS" transform="translate(450,382) scale(0.9)"/>
+<path d="M446 395 Q444 414 448 438" fill="none" stroke="#d98b8b" stroke-width="4" stroke-linecap="round"/>
+<path d="M437 416 H455" stroke="#c33" stroke-width="3"/>
+<path d="M434 423 H460" stroke="#333" stroke-width="1.5" stroke-dasharray="3 2"/>
+<path d="M468 397 V414" stroke="#0b5cad" stroke-width="1.3" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<text x="476" y="410" font-size="12" fill="#0b5cad">猪约4 cm</text>
+<text x="476" y="426" font-size="12" fill="#0b5cad">羊约4-5 cm</text>
+<text x="402" y="418" font-size="12" fill="#c33">扎线</text>
+<text x="402" y="434" font-size="12">剪断</text>
+<text x="396" y="452" font-size="12" fill="#555">剪刀、细线都煮过</text>
+<!-- ④ -->
+<path d="M558 350 Q620 336 674 350 Q682 362 674 372 Q620 384 560 372 Q550 360 558 350 Z" fill="#f6cfc6" stroke="#333" stroke-width="1.8"/>
+<g fill="#eeb3a8" stroke="#333" stroke-width="1"><circle cx="578" cy="376" r="3"/><circle cx="600" cy="378" r="3"/><circle cx="622" cy="379" r="3"/><circle cx="644" cy="378" r="3"/><circle cx="666" cy="376" r="3"/></g>
+<circle cx="684" cy="356" r="11" fill="#f6cfc6" stroke="#333" stroke-width="1.8"/><rect x="693" y="351" width="5" height="9" rx="2" fill="#eeb3a8" stroke="#333" stroke-width="1.2"/><path d="M676 348 L680 338 L686 346 Z" fill="#eeb3a8" stroke="#333" stroke-width="1.2" stroke-linejoin="round"/><circle cx="688" cy="352" r="1.2" fill="#222"/>
+<use href="#pigS" transform="translate(632,412) rotate(-50) scale(0.6)"/>
+<use href="#pigS" transform="translate(588,412) rotate(-50) scale(0.6)"/>
+<text x="560" y="450" font-size="12" fill="#0b5cad">弱小的放前面奶头(奶多)</text>
+<path d="M680 444 L668 384" stroke="#0b5cad" stroke-width="1"/>
+<!-- 步骤标题 -->
+<g font-size="14" font-weight="bold">
+<text x="24" y="476">① 清口鼻</text>
+<text x="232" y="476">② 擦干、保暖</text>
+<text x="396" y="476">③ 脐带</text>
+<text x="560" y="476">④ 尽早吃初乳</text>
+</g>
+<!-- 猪 -->
+<g font-size="13">
+<text x="24" y="496" font-weight="bold" fill="#0b5cad">猪</text>
+<text x="44" y="496">立即用干净布擦净</text>
+<text x="24" y="514">口鼻黏液;不呼吸但心</text>
+<text x="24" y="532">还在跳: 倒提后腿轻拍</text>
+<text x="24" y="550">胸部,或做屈伸运动</text>
+<text x="232" y="496" font-weight="bold" fill="#0b5cad">猪</text>
+<text x="252" y="496">再擦干全身</text>
+<text x="232" y="514">(冬天尤其重要)</text>
+<text x="232" y="532">第1周保温约30-34°C</text>
+<text x="396" y="496" font-weight="bold" fill="#0b5cad">猪</text>
+<text x="416" y="496">离肚皮约4 cm处</text>
+<text x="396" y="514">用线扎紧,在线外侧</text>
+<text x="396" y="532">剪断,断端涂碘酒</text>
+<text x="396" y="550" fill="#555">(自断不出血的只涂碘酒)</text>
+<text x="560" y="496" font-weight="bold" fill="#0b5cad">猪</text>
+<text x="580" y="496">擦干后马上放到</text>
+<text x="560" y="514">母猪奶头上吃初乳;</text>
+<text x="560" y="532">最初几个小时最重要</text>
+<!-- 羊 -->
+<text x="24" y="574" font-weight="bold" fill="#0b5cad">羊</text>
+<text x="44" y="574">立即清除口鼻黏液;</text>
+<text x="24" y="592">不呼吸: 倒提后腿轻拍</text>
+<text x="24" y="610">胸部,或用干草秆轻捅</text>
+<text x="24" y="628">鼻孔刺激打喷嚏</text>
+<text x="232" y="574" font-weight="bold" fill="#0b5cad">羊</text>
+<text x="252" y="574">让母羊舔干</text>
+<text x="232" y="592">(有利于母子相认);</text>
+<text x="232" y="610">天冷时人用干草或布</text>
+<text x="232" y="628">帮着擦干</text>
+<text x="396" y="574" font-weight="bold" fill="#0b5cad">羊</text>
+<text x="416" y="574">一般自己扯断,</text>
+<text x="396" y="592">断端涂碘酒;太长时</text>
+<text x="396" y="610">在离肚皮约4-5 cm处</text>
+<text x="396" y="628">扎线后剪断</text>
+<text x="560" y="574" font-weight="bold" fill="#0b5cad">羊</text>
+<text x="580" y="574">最好1小时内,</text>
+<text x="560" y="592">最迟不超过2小时;</text>
+<text x="560" y="610">第一天总量约为羔羊</text>
+<text x="560" y="628">体重的10%-20%,分多次</text>
+</g>
+
+<!-- 请人帮忙 -->
+<g transform="translate(10,672)">
+<rect x="0" y="0" width="700" height="186" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="2"/>
+<text x="14" y="24" font-size="16" font-weight="bold" fill="#c33">出现这些情况,请有经验的人或兽医</text>
+<g font-size="13">
+<text x="14" y="50" font-weight="bold">猪</text>
+<text x="14" y="70">• 用力努责超过约30-60分钟仍不见仔猪产出</text>
+<text x="14" y="90">• 产出几头后停了很久(超过约1小时),</text>
+<text x="26" y="108">且母猪还在用力或已经无力</text>
+<text x="14" y="128">• 阴门流出恶臭、发黑的液体,</text>
+<text x="26" y="146">或母猪高热、不吃不喝</text>
+<text x="360" y="50" font-weight="bold">羊</text>
+<text x="360" y="70">• 用力努责超过约30-60分钟不见羔羊</text>
+<text x="360" y="90">• 胎位不正(见上图)</text>
+<text x="360" y="110">• 羔羊卡住、母羊已无力</text>
+<text x="360" y="130">• 胎衣超过约12小时不下</text>
+<text x="14" y="172" fill="#c33">× 不要硬拉、不要用不干净的手和器械掏(会撕裂产道、感染)   × 接产戴手套: 羊的胎衣、羊水可能带布鲁氏菌</text>
+</g>
+</g>
+</g>
+</svg>

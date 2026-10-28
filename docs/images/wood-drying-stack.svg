@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 766" width="720" height="766" role="img" aria-label="木材自然干燥(晾干)。刚砍下的湿木头不能直接用来做家具和工具柄,干燥过程中会收缩、开裂、变形。步骤: 去掉树皮(防虫);锯成板材或木段,两端涂上油漆、蜡或泥(防止端头开裂);放在通风、遮雨、不直晒的地方;每层木料之间垫上小木条,让空气流通;一般每2.5 cm厚度需要约一年。急用时可以先用干透的旧木料(拆旧家具、旧门窗);新砍的木头可以先劈成小块当柴火晾干">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>木材自然干燥</title>
+<defs>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker>
+<!-- 板材端面(已封端) -->
+<rect id="bd" width="52" height="18" fill="#c98b5a" stroke="#333" stroke-width="1.5"/>
+<!-- 垫条 -->
+<rect id="st" width="300" height="12" fill="#e9d3a8" stroke="#a88a5a" stroke-width="1" stroke-dasharray="3 2"/>
+<path id="drop" d="M0 0 Q-4 7 0 10 Q4 7 0 0 Z" fill="#7aaad6"/>
+</defs>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="13" fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">木材自然干燥(晾干)</text>
+<text x="360" y="50" font-size="14" text-anchor="middle" fill="#555">刚砍下的湿木头不能直接做家具和工具柄: 干燥过程中会收缩、开裂、变形</text>
+
+<!-- ① 去树皮 -->
+<g transform="translate(10,64)">
+<rect width="226" height="150" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">① 去掉树皮(防虫)</text>
+<path d="M30 56 H120 L124 62 L118 70 L125 80 L119 90 L124 98 L120 104 H30 Q20 80 30 56 Z" fill="#8a5a2b" stroke="#333" stroke-width="2"/>
+<g stroke="#5e3b1a" stroke-width="1.5"><path d="M40 64 H70 M52 74 H98 M36 86 H80 M60 96 H110"/></g>
+<path d="M120 56 H190 M120 104 H190" stroke="#333" stroke-width="2"/>
+<path d="M124 62 L118 70 L125 80 L119 90 L124 98 L120 104 H190 V56 H120 Z" fill="#f0dcb4"/>
+<path d="M120 56 H190 M120 104 H190" stroke="#333" stroke-width="2"/>
+<ellipse cx="190" cy="80" rx="10" ry="24" fill="#f0dcb4" stroke="#333" stroke-width="2"/>
+<ellipse cx="190" cy="80" rx="5" ry="12" fill="none" stroke="#c9a46a" stroke-width="1.2"/>
+<text x="113" y="132" text-anchor="middle" font-size="12" fill="#555">左: 带树皮  右: 去皮后</text>
+</g>
+
+<!-- ② 锯成板材 -->
+<g transform="translate(247,64)">
+<rect width="226" height="150" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">② 锯成板材或木段</text>
+<circle cx="66" cy="82" r="40" fill="#f0dcb4" stroke="#333" stroke-width="2"/>
+<circle cx="66" cy="82" r="26" fill="none" stroke="#c9a46a" stroke-width="1.2"/>
+<circle cx="66" cy="82" r="12" fill="none" stroke="#c9a46a" stroke-width="1.2"/>
+<g stroke="#c33" stroke-width="1.5" stroke-dasharray="4 3"><path d="M30 66 H102 M26 82 H106 M30 98 H102"/></g>
+<path d="M114 82 H144" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<g fill="#f0dcb4" stroke="#333" stroke-width="1.5"><rect x="152" y="58" width="60" height="14"/><rect x="152" y="76" width="60" height="14"/><rect x="152" y="94" width="60" height="14"/></g>
+<text x="113" y="140" text-anchor="middle" font-size="12" fill="#555">(端面示意)</text>
+</g>
+
+<!-- ③ 封端 -->
+<g transform="translate(484,64)">
+<rect width="226" height="150" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">③ 两端涂上油漆、蜡或泥</text>
+<path d="M24 76 L44 62 H184 L164 76 Z" fill="#f5e6c8" stroke="#333" stroke-width="1.5"/>
+<rect x="24" y="76" width="140" height="20" fill="#f0dcb4" stroke="#333" stroke-width="1.5"/>
+<path d="M164 76 L184 62 V82 L164 96 Z" fill="#c98b5a" stroke="#333" stroke-width="1.5"/>
+<path d="M24 76 V96" stroke="#c98b5a" stroke-width="5"/>
+<path d="M204 44 L184 66" stroke="#8a5a2b" stroke-width="4" stroke-linecap="round"/>
+<path d="M186 60 L178 70 L184 76 L192 66 Z" fill="#c98b5a" stroke="#333" stroke-width="1.2"/>
+<text x="113" y="122" text-anchor="middle">防止端头开裂</text>
+<text x="113" y="140" text-anchor="middle" font-size="12" fill="#555">(两头都要涂)</text>
+</g>
+
+<!-- ④ 堆放晾干(端头视图) -->
+<g transform="translate(10,224)">
+<rect width="700" height="392" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">④ 放在通风、遮雨、不直晒的地方,每层之间垫小木条</text>
+<text x="12" y="44" font-size="12" fill="#555">(从木料端头看过去)</text>
+<!-- 太阳和雨 -->
+<g transform="translate(636,66)">
+<circle r="16" fill="#f6d36b" stroke="#f2a33a" stroke-width="2"/>
+<g stroke="#f2a33a" stroke-width="2" stroke-linecap="round"><path d="M0 -24 V-30 M0 24 V30 M-24 0 H-30 M24 0 H30 M-17 -17 L-21 -21 M17 17 L21 21 M17 -17 L21 -21 M-17 17 L-21 21"/></g>
+</g>
+<use href="#drop" x="140" y="60"/><use href="#drop" x="180" y="74"/><use href="#drop" x="220" y="58"/><use href="#drop" x="260" y="72"/><use href="#drop" x="300" y="60"/>
+<!-- 棚顶和立柱 -->
+<path d="M110 340 V112 M530 340 V136" stroke="#8a5a2b" stroke-width="6"/>
+<path d="M84 108 L556 138" stroke="#666" stroke-width="10" stroke-linecap="round"/>
+<!-- 地面 -->
+<path d="M40 340 H600" stroke="#999" stroke-width="3"/>
+<!-- 木垛: 5层,每层5块,垫条在每层之间 -->
+<g transform="translate(170,0)">
+<use href="#st" y="328"/>
+<g transform="translate(0,310)"><use href="#bd"/><use href="#bd" x="62"/><use href="#bd" x="124"/><use href="#bd" x="186"/><use href="#bd" x="248"/></g>
+<use href="#st" y="298"/>
+<g transform="translate(0,280)"><use href="#bd"/><use href="#bd" x="62"/><use href="#bd" x="124"/><use href="#bd" x="186"/><use href="#bd" x="248"/></g>
+<use href="#st" y="268"/>
+<g transform="translate(0,250)"><use href="#bd"/><use href="#bd" x="62"/><use href="#bd" x="124"/><use href="#bd" x="186"/><use href="#bd" x="248"/></g>
+<use href="#st" y="238"/>
+<g transform="translate(0,220)"><use href="#bd"/><use href="#bd" x="62"/><use href="#bd" x="124"/><use href="#bd" x="186"/><use href="#bd" x="248"/></g>
+<use href="#st" y="208"/>
+<g transform="translate(0,190)"><use href="#bd"/><use href="#bd" x="62"/><use href="#bd" x="124"/><use href="#bd" x="186"/><use href="#bd" x="248"/></g>
+</g>
+<!-- 空气流通 -->
+<g stroke="#0b5cad" stroke-width="2" marker-end="url(#arB)">
+<path d="M126 214 H162"/><path d="M126 244 H162"/><path d="M126 274 H162"/><path d="M126 304 H162"/>
+<path d="M476 214 H514"/><path d="M476 244 H514"/><path d="M476 274 H514"/><path d="M476 304 H514"/>
+</g>
+<!-- 标注 -->
+<g stroke="#0b5cad" stroke-width="1">
+<line x1="420" y1="125" x2="470" y2="96"/>
+<line x1="514" y1="244" x2="560" y2="244"/>
+<line x1="440" y1="274" x2="560" y2="282"/>
+<line x1="408" y1="196" x2="560" y2="184"/>
+</g>
+<text x="474" y="100" fill="#0b5cad">遮雨、不直晒</text>
+<text x="564" y="238" fill="#0b5cad">通风: 空气从</text>
+<text x="564" y="256" fill="#0b5cad">每层之间流过</text>
+<text x="564" y="278" fill="#0b5cad">每层木料之间</text>
+<text x="564" y="296" fill="#0b5cad">垫上小木条</text>
+<text x="564" y="180" fill="#0b5cad">端头已涂油漆、</text>
+<text x="564" y="198" fill="#0b5cad">蜡或泥</text>
+<text x="350" y="370" text-anchor="middle">每层木料之间垫上小木条,让空气流通</text>
+</g>
+
+<!-- 时间 -->
+<g transform="translate(10,626)">
+<rect width="330" height="130" rx="8" fill="none" stroke="#c33" stroke-width="2"/>
+<text x="12" y="24" font-size="15" font-weight="bold">⑤ 要晾多久</text>
+<rect x="24" y="52" width="110" height="30" fill="#f0dcb4" stroke="#333" stroke-width="1.5"/>
+<path d="M144 52 H156 M144 82 H156 M150 52 V82" stroke="#c33" stroke-width="1.5"/>
+<text x="162" y="72" fill="#c33" font-weight="bold">2.5 cm 厚</text>
+<path d="M232 67 H256" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<text x="262" y="72" fill="#c33" font-weight="bold">约一年</text>
+<text x="12" y="112">一般每2.5 cm厚度需要约一年</text>
+</g>
+
+<!-- 急用 -->
+<g transform="translate(350,626)">
+<rect width="360" height="130" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">等不及时</text>
+<text x="12" y="52">✓ 急用时,可以先用干透的旧木料</text>
+<text x="28" y="70">(拆旧家具、旧门窗)</text>
+<text x="12" y="96">✓ 新砍的木头可以先劈成小块</text>
+<text x="28" y="114">当柴火晾干</text>
+</g>
+</g>
+</svg>
