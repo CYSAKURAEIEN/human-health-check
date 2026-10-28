@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 856" width="720" height="856" role="img" aria-label="漏电保护器和空气开关: 家里配电箱里通常有两种开关,作用不同。空气开关(断路器)在电流过大(过载、短路)时跳闸,防电气火灾,是普通的开关;漏电保护器在有电流漏到人体或地面时迅速跳闸,防触电,带一个T或试验按钮;插座回路、卫生间、厨房必须有漏电保护器,家用一般选额定漏电动作电流30 mA的,老房子没有的请电工加装。每月按一次试验按钮: 按下后应该立即跳闸,然后重新合上;按了不跳说明漏电保护器已经失效,请电工更换。跳闸后: 先拔掉刚才在用的电器,再合闸;合闸后又跳说明线路或某个电器有问题,不要反复强行合闸,请电工检查;绝不能因为老跳闸就把漏电保护器拆掉、短接,或换成更大的开关。改动线路、更换配电箱里的开关要找有资质的电工" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>漏电保护器和空气开关</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<marker id="arK" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#555"/></marker>
+<!-- 空气开关 -->
+<g id="mcb">
+<rect x="-28" y="-60" width="56" height="120" rx="5" fill="#f2f2f2" stroke="#333" stroke-width="2.5"/>
+<rect x="-16" y="-55" width="32" height="12" rx="2" fill="#c9c9c9" stroke="#555"/>
+<rect x="-16" y="43" width="32" height="12" rx="2" fill="#c9c9c9" stroke="#555"/>
+<rect x="-10" y="-26" width="20" height="52" rx="3" fill="#ddd" stroke="#333" stroke-width="1.5"/>
+</g>
+<!-- 漏电保护器 -->
+<g id="rcd">
+<rect x="-46" y="-60" width="92" height="120" rx="5" fill="#f2f2f2" stroke="#333" stroke-width="2.5"/>
+<rect x="-38" y="-55" width="76" height="12" rx="2" fill="#c9c9c9" stroke="#555"/>
+<rect x="-38" y="43" width="76" height="12" rx="2" fill="#c9c9c9" stroke="#555"/>
+<rect x="-28" y="-26" width="20" height="52" rx="3" fill="#ddd" stroke="#333" stroke-width="1.5"/>
+<circle cx="22" cy="0" r="11" fill="#f2c14e" stroke="#333" stroke-width="2"/>
+<text x="22" y="5" font-size="14" font-weight="bold" text-anchor="middle" fill="#222">T</text>
+</g>
+<rect id="lvUp" x="-8" y="-24" width="16" height="22" rx="2" fill="#333"/>
+<rect id="lvDn" x="-8" y="2" width="16" height="22" rx="2" fill="#333"/>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">漏电保护器和空气开关: 配电箱里的两种开关,作用不同</text>
+
+<!-- ① 空气开关 -->
+<rect x="10" y="44" width="345" height="366" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="72" font-size="16" font-weight="bold">空气开关(断路器)</text>
+<use href="#mcb" x="80" y="170"/><use href="#lvUp" x="80" y="170"/>
+<text x="80" y="250" font-size="13" fill="#555" text-anchor="middle">普通的开关</text>
+<!-- 过载起火图标 -->
+<rect x="150" y="196" width="120" height="22" rx="5" fill="#fff" stroke="#333" stroke-width="2"/>
+<g fill="#333"><rect x="160" y="182" width="14" height="14" rx="2"/><rect x="184" y="182" width="14" height="14" rx="2"/><rect x="208" y="182" width="14" height="14" rx="2"/><rect x="232" y="182" width="14" height="14" rx="2"/><rect x="256" y="182" width="10" height="14" rx="2"/></g>
+<path d="M167 182 Q160 150 150 140 M191 182 Q190 150 182 136 M215 182 Q220 150 216 134 M239 182 Q248 152 252 136" fill="none" stroke="#333" stroke-width="2"/>
+<path d="M270 207 H330" stroke="#333" stroke-width="3"/>
+<path d="M290 206 Q284 186 294 176 Q296 188 302 182 Q300 168 312 160 Q312 178 320 186 Q324 198 314 206 Z" fill="#f2a33a" stroke="#c33" stroke-width="1.5"/>
+<text x="160" y="124" font-size="13" fill="#c33">电流过大(过载、短路)</text>
+<text x="24" y="292" font-size="14">作用: 电流过大(过载、短路)时跳闸</text>
+<text x="24" y="322" font-size="17" font-weight="bold" fill="#c33">→ 防电气火灾</text>
+
+<!-- ① 漏电保护器 -->
+<rect x="365" y="44" width="345" height="366" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="379" y="72" font-size="16" font-weight="bold">漏电保护器</text>
+<use href="#rcd" x="440" y="170"/><use href="#lvUp" x="422" y="170"/>
+<text x="440" y="250" font-size="13" fill="#555" text-anchor="middle">带"T"或"试验"按钮</text>
+<line x1="500" y1="110" x2="465" y2="160" stroke="#0b5cad" stroke-width="1.2"/><circle cx="465" cy="160" r="2.6" fill="#0b5cad"/>
+<text x="476" y="104" font-size="13" fill="#0b5cad">试验按钮</text>
+<!-- 漏电触电图标 -->
+<path d="M520 150 H700" stroke="#333" stroke-width="3"/>
+<path d="M596 145 H612 V155 H596 Z" fill="#c33" stroke="#333" stroke-width="1"/>
+<circle cx="640" cy="176" r="8" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<rect x="632" y="186" width="16" height="30" rx="4" fill="#cfe0f0" stroke="#333" stroke-width="2"/>
+<path d="M634 192 L606 152" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+<path d="M636 216 L634 242 M644 216 L646 242" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+<path d="M600 242 H690" stroke="#999" stroke-width="3"/>
+<path d="M610 160 L630 194 L640 214 L640 236" fill="none" stroke="#c33" stroke-width="2" stroke-dasharray="4 3" marker-end="url(#arR)"/>
+<text x="530" y="182" font-size="13" fill="#c33">漏到人体</text>
+<text x="530" y="200" font-size="13" fill="#c33">或地面</text>
+<text x="379" y="292" font-size="14">作用: 有电流漏到人体或地面时迅速跳闸</text>
+<text x="379" y="322" font-size="17" font-weight="bold" fill="#c33">→ 防触电</text>
+<text x="379" y="350" font-size="14">✓ 插座回路、卫生间、厨房必须有</text>
+<text x="379" y="372" font-size="14">✓ 家用一般选额定漏电动作电流<tspan font-weight="bold">30 mA</tspan>的</text>
+<text x="379" y="394" font-size="14">✓ 老房子没有的,请电工加装</text>
+
+<!-- ② 每月试验 -->
+<rect x="10" y="422" width="700" height="220" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="448" font-size="16" font-weight="bold">每月按一次"试验"按钮</text>
+<g transform="translate(86,530) scale(0.75)"><use href="#rcd"/><use href="#lvUp" x="-18"/></g>
+<path d="M136 470 L108 522" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="140" y="476" font-size="13" fill="#c33" font-weight="bold">按</text>
+<path d="M150 530 H186" stroke="#555" stroke-width="2" marker-end="url(#arK)"/>
+<g transform="translate(250,530) scale(0.75)"><use href="#rcd"/><use href="#lvDn" x="-18"/></g>
+<path d="M216 500 V552" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<path d="M314 530 H350" stroke="#555" stroke-width="2" marker-end="url(#arK)"/>
+<g transform="translate(414,530) scale(0.75)"><use href="#rcd"/><use href="#lvUp" x="-18"/></g>
+<path d="M380 558 V506" stroke="#0b5cad" stroke-width="2.5" marker-end="url(#arB)"/>
+<text x="86" y="602" font-size="14" font-weight="bold" text-anchor="middle">① 按下"试验"按钮</text>
+<text x="250" y="602" font-size="14" font-weight="bold" text-anchor="middle">② 应该立即跳闸</text>
+<text x="414" y="602" font-size="14" font-weight="bold" text-anchor="middle">③ 然后重新合上</text>
+<rect x="500" y="478" width="196" height="110" rx="6" fill="#fdf3f3" stroke="#c33" stroke-width="2"/>
+<text x="514" y="504" font-size="15" font-weight="bold" fill="#c33">✗ 按了不跳</text>
+<text x="514" y="530" font-size="14">漏电保护器已经失效</text>
+<text x="514" y="556" font-size="14" font-weight="bold">→ 请电工更换</text>
+
+<!-- ③ 跳闸后 -->
+<rect x="10" y="654" width="700" height="186" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="680" font-size="16" font-weight="bold">跳闸后</text>
+<g font-size="14">
+<rect x="24" y="696" width="150" height="62" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="99" y="722" text-anchor="middle" font-weight="bold">① 先拔掉</text>
+<text x="99" y="743" text-anchor="middle">刚才在用的电器</text>
+<path d="M176 727 H196" stroke="#555" stroke-width="2" marker-end="url(#arK)"/>
+<rect x="200" y="696" width="120" height="62" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="260" y="732" text-anchor="middle" font-weight="bold">② 再合闸</text>
+<path d="M322 727 H342" stroke="#555" stroke-width="2" marker-end="url(#arK)"/>
+<rect x="346" y="696" width="120" height="62" rx="6" fill="#fff" stroke="#555" stroke-width="1.5" stroke-dasharray="5 3"/>
+<text x="406" y="732" text-anchor="middle" font-weight="bold">合闸后又跳?</text>
+<path d="M468 727 H488" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<rect x="492" y="696" width="204" height="62" rx="6" fill="#fdf3f3" stroke="#c33" stroke-width="2"/>
+<text x="502" y="720" font-size="13">线路或某个电器有问题:</text>
+<text x="502" y="742" font-size="13" font-weight="bold" fill="#c33">不要反复强行合闸,请电工检查</text>
+</g>
+<text x="24" y="790" font-size="14" font-weight="bold" fill="#c33">✗ 绝不能因为"老跳闸"就把漏电保护器拆掉、短接,或换成更大的开关</text>
+<text x="24" y="820" font-size="14" fill="#555">配电箱里的开关要更换、线路要改动 → 找有资质的电工,不要自己做</text>
+</g>
+</svg>

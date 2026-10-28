@@ -1,0 +1,158 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1150" width="720" height="1150" role="img" aria-label="车轮与车轴: 拖着东西在地上走要克服滑动摩擦,在土地上拖拉力约为重量的30%-60%;放在轮子上只要克服滚动阻力和轴上的摩擦,车轮在碎石路约2%-5%。路面越硬越平轮子的优势越大: 连车带货500 kg的板车,硬路面约需500×0.02≈10 kg的重量(约100 N),一个人轻松拉;烂泥地约需500×0.2=100 kg的重量(约1000 N),几个人也很吃力。实心轮用2-3块约5-8 cm厚的硬木板拼起来,两面各钉一根横档,横档木纹和木板垂直,中心开轴孔,孔周围加厚或包铁皮,缺点是重、容易沿木纹裂开。辐条轮由轮毂、辐条、轮辋和铁箍组成,铁箍烧热胀大后套上,浇水冷却收缩把轮子箍紧。轮子直径越大越省力、过坑越容易,畜力车常用约1-1.5 m。轴套: 轮毂孔里镶铁管或铁环,车轴相应部位包铁皮;车轴两端加销子或挡圈防止轮子脱出;勤加油" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>车轮与车轴</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<clipPath id="disc"><circle cx="150" cy="650" r="85"/></clipPath>
+<!-- 板车侧视: 轮心 (0,0) -->
+<g id="cart">
+<path d="M70,-38 L170,-30" stroke="#8f6d2e" stroke-width="6" stroke-linecap="round"/>
+<rect x="-72" y="-102" width="130" height="60" rx="3" fill="#b5a58a" stroke="#333" stroke-width="2"/>
+<rect x="-84" y="-44" width="158" height="10" fill="#b8955a" stroke="#333" stroke-width="2"/>
+<circle r="30" fill="#e8eef5" stroke="#333" stroke-width="3"/>
+<path d="M0,-30 V30 M-30,0 H30 M-21,-21 L21,21 M-21,21 L21,-21" stroke="#999" stroke-width="1.5"/>
+<circle r="5" fill="#333"/>
+</g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">车轮与车轴: 为什么轮子省力,木轮怎么做</text>
+
+<!-- ① 拖 vs 轮子 -->
+<rect x="10" y="44" width="700" height="210" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="70" font-size="16" font-weight="bold">① 拖着走 vs 放在轮子上(拉动需要的力,约为重量的)</text>
+<line x1="360" y1="84" x2="360" y2="244" stroke="#ddd" stroke-width="1.5"/>
+<path d="M24,190 H346 M374,190 H696" stroke="#999" stroke-width="3"/>
+<rect x="70" y="124" width="110" height="66" rx="3" fill="#b5a58a" stroke="#333" stroke-width="2"/>
+<path d="M70,190 H180" stroke="#c33" stroke-width="5"/>
+<path d="M180,150 L262,134" stroke="#5a4320" stroke-width="2.5"/>
+<path d="M262,134 L340,119" stroke="#c33" stroke-width="5" marker-end="url(#arR)"/>
+<text x="125" y="212" font-size="14" font-weight="bold" fill="#c33" text-anchor="middle">滑动摩擦</text>
+<text x="185" y="236" font-size="14" text-anchor="middle">在土地上拖: <tspan font-weight="bold">30%-60%</tspan>,只适合短距离</text>
+<rect x="420" y="108" width="110" height="56" rx="3" fill="#b5a58a" stroke="#333" stroke-width="2"/>
+<rect x="408" y="164" width="134" height="8" fill="#b8955a" stroke="#333" stroke-width="2"/>
+<circle cx="430" cy="178" r="12" fill="#e8eef5" stroke="#333" stroke-width="2.5"/>
+<circle cx="520" cy="178" r="12" fill="#e8eef5" stroke="#333" stroke-width="2.5"/>
+<g fill="#333"><circle cx="430" cy="178" r="3"/><circle cx="520" cy="178" r="3"/></g>
+<path d="M542,168 L600,156" stroke="#5a4320" stroke-width="2.5"/>
+<path d="M600,156 L626,151" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<text x="600" y="120" font-size="14" font-weight="bold" fill="#0b5cad" text-anchor="middle">滚动阻力</text>
+<text x="600" y="138" font-size="14" font-weight="bold" fill="#0b5cad" text-anchor="middle">+ 轴上的摩擦</text>
+<text x="535" y="212" font-size="14" font-weight="bold" fill="#0b5cad" text-anchor="middle">小得多</text>
+<text x="535" y="236" font-size="14" text-anchor="middle">车轮在碎石路: <tspan font-weight="bold">2%-5%</tspan></text>
+
+<!-- ② 路面 -->
+<rect x="10" y="266" width="700" height="246" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="292" font-size="16" font-weight="bold">② 路面越硬越平,轮子的优势越大(例: 连车带货500 kg的板车)</text>
+<line x1="360" y1="306" x2="360" y2="502" stroke="#ddd" stroke-width="1.5"/>
+<path d="M24,426 H346" stroke="#999" stroke-width="3"/>
+<use href="#cart" transform="translate(110,403.5) scale(0.75)"/>
+<path d="M240,381 L262,382" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<text x="185" y="452" font-size="14" font-weight="bold" text-anchor="middle">硬路面: 500 × 0.02 ≈ 10 kg 的重量</text>
+<text x="185" y="472" font-size="14" text-anchor="middle">(约100 N),一个人轻松拉</text>
+<path d="M374,416 Q420,412 460,418 Q520,426 580,416 Q640,410 696,416 V438 H374 Z" fill="#8a7357" opacity="0.45"/>
+<use href="#cart" transform="translate(470,418) scale(0.75)"/>
+<path d="M374,416 Q420,412 460,418 Q520,426 580,416 Q640,410 696,416 V438 H374 Z" fill="#8a7357" opacity="0.6"/>
+<path d="M374,416 Q420,412 460,418 Q520,426 580,416 Q640,410 696,416" fill="none" stroke="#5a4320" stroke-width="2.5"/>
+<path d="M600,396 L692,398" stroke="#c33" stroke-width="5" marker-end="url(#arR)"/>
+<text x="535" y="456" font-size="14" font-weight="bold" text-anchor="middle">烂泥地: 500 × 0.2 = 100 kg 的重量</text>
+<text x="535" y="476" font-size="14" text-anchor="middle">(约1000 N),几个人也很吃力</text>
+<text x="535" y="498" font-size="13" fill="#555" text-anchor="middle">轮子陷下去,优势就大打折扣</text>
+<text x="185" y="498" font-size="13" fill="#555" text-anchor="middle">→ 修好路,等于多养了几头牲畜</text>
+<g transform="translate(0,20)">
+<!-- ③ 实心轮 -->
+<rect x="10" y="504" width="345" height="316" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="530" font-size="16" font-weight="bold">③ 实心轮(最简单)</text>
+<g clip-path="url(#disc)">
+<rect x="60" y="560" width="62" height="180" fill="#e2c995" stroke="#333" stroke-width="2"/>
+<rect x="122" y="560" width="56" height="180" fill="#d9bd85" stroke="#333" stroke-width="2"/>
+<rect x="178" y="560" width="62" height="180" fill="#e2c995" stroke="#333" stroke-width="2"/>
+<path d="M82,560 V740 M100,560 V740 M140,560 V740 M160,560 V740 M198,560 V740 M220,560 V740" stroke="#b08d4e" stroke-width="1"/>
+<rect x="60" y="676" width="180" height="18" fill="none" stroke="#333" stroke-width="1.5" stroke-dasharray="5 4"/>
+</g>
+<circle cx="150" cy="650" r="85" fill="none" stroke="#333" stroke-width="3"/>
+<rect x="76" y="598" width="148" height="20" rx="2" fill="#a8844a" stroke="#333" stroke-width="2"/>
+<path d="M80,608 H220" stroke="#7a5a28" stroke-width="1"/>
+<g fill="#333"><circle cx="91" cy="608" r="2.5"/><circle cx="150" cy="608" r="2.5"/><circle cx="209" cy="608" r="2.5"/></g>
+<circle cx="150" cy="650" r="19" fill="#bbb" stroke="#333" stroke-width="2"/>
+<circle cx="150" cy="650" r="9" fill="#fff" stroke="#333" stroke-width="2"/>
+<text x="150" y="552" font-size="14" text-anchor="middle">2-3块厚木板并排(约5-8 cm厚的硬木)</text>
+<path d="M226,606 L248,596" stroke="#555" stroke-width="1"/>
+<text x="250" y="594" font-size="14" font-weight="bold">横档</text>
+<text x="250" y="612" font-size="13">两面各一根,</text>
+<text x="250" y="629" font-size="13">木纹和木板垂直</text>
+<path d="M222,690 L248,704" stroke="#555" stroke-width="1"/>
+<text x="250" y="710" font-size="13" fill="#555">背面的横档</text>
+<path d="M166,660 L190,754" stroke="#555" stroke-width="1"/>
+<text x="182" y="770" font-size="14" text-anchor="middle">中心开轴孔,周围加厚或包铁皮</text>
+<text x="182" y="800" font-size="14" font-weight="bold" fill="#c33" text-anchor="middle">缺点: 重,容易沿木纹裂开</text>
+
+<!-- ④ 辐条轮 -->
+<rect x="365" y="504" width="345" height="316" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="379" y="530" font-size="16" font-weight="bold">④ 辐条轮(轻而结实,费工)</text>
+<g stroke="#333" stroke-width="2">
+<circle cx="476" cy="650" r="80" fill="#d9c29a"/>
+<circle cx="476" cy="650" r="64" fill="#fff"/>
+<g stroke="#8f6d2e" stroke-width="7" stroke-linecap="butt">
+<path d="M476,630 V587 M476,670 V713 M456,650 H413 M496,650 H539 M462,636 L431,605 M490,664 L521,695 M462,664 L431,695 M490,636 L521,605"/>
+</g>
+<circle cx="476" cy="650" r="20" fill="#b8955a"/>
+<circle cx="476" cy="650" r="7" fill="#fff"/>
+<path d="M476,570 V586 M545,610 L531,618 M545,690 L531,682 M476,730 V714 M407,690 L421,682 M407,610 L421,618" stroke-width="1.5"/>
+<circle cx="476" cy="650" r="83" fill="none" stroke="#555" stroke-width="6"/>
+</g>
+<g stroke="#555" stroke-width="1">
+<path d="M555,630 L590,616 M545,656 L590,650 M528,684 L590,690 M490,658 L590,724"/>
+</g>
+<text x="594" y="620" font-size="14" font-weight="bold">铁箍</text>
+<text x="594" y="652" font-size="14" font-weight="bold">轮辋</text>
+<text x="594" y="669" font-size="12" fill="#555">几段弧形木块</text>
+<text x="594" y="694" font-size="14" font-weight="bold">辐条</text>
+<text x="594" y="711" font-size="12" fill="#555">直纹硬木</text>
+<text x="594" y="728" font-size="14" font-weight="bold">轮毂</text>
+<text x="379" y="758" font-size="13">轮毂: 粗硬木(榆、槐、橡等),开轴孔和辐条榫眼</text>
+<text x="379" y="780" font-size="13">铁箍: 烧热胀大后套上,浇水冷却收缩,把轮子箍紧</text>
+<text x="379" y="802" font-size="13" fill="#555">木轮干燥后会松: 旧时把车泡在水里让木头胀紧</text>
+
+<!-- ⑤ 轮子大小 -->
+<rect x="10" y="832" width="345" height="284" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="858" font-size="16" font-weight="bold">⑤ 轮子越大,越容易过石块和坑</text>
+<path d="M24,1020 H342" stroke="#999" stroke-width="3"/>
+<circle cx="70" cy="998" r="22" fill="#e8eef5" stroke="#333" stroke-width="3"/>
+<circle cx="70" cy="998" r="4" fill="#333"/>
+<path d="M96,1020 Q94,1004 104,1001 Q114,998 120,1006 L122,1020 Z" fill="#aaa" stroke="#333" stroke-width="2"/>
+<circle cx="236" cy="955" r="65" fill="#e8eef5" stroke="#333" stroke-width="3"/>
+<path d="M236,890 V1020 M171,955 H301 M190,909 L282,1001 M190,1001 L282,909" stroke="#999" stroke-width="1.5"/>
+<circle cx="236" cy="955" r="5" fill="#333"/>
+<path d="M306,1020 Q304,1004 314,1001 Q324,998 330,1006 L332,1020 Z" fill="#aaa" stroke="#333" stroke-width="2"/>
+<text x="70" y="1046" font-size="14" text-anchor="middle">小轮子</text>
+<text x="236" y="1046" font-size="14" text-anchor="middle">大轮子</text>
+<text x="98" y="976" font-size="12" fill="#555">同样的石块</text>
+<text x="182" y="1076" font-size="14" text-anchor="middle">轮子直径越大越省力,过坑越容易</text>
+<text x="182" y="1100" font-size="14" text-anchor="middle" font-weight="bold">畜力车常用约1-1.5 m</text>
+
+<!-- ⑥ 轴和轴套 -->
+<rect x="365" y="832" width="345" height="284" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="379" y="858" font-size="16" font-weight="bold">⑥ 轴和轴套(剖面示意)</text>
+<path d="M512,876 V912 M532,876 V912 M512,988 V1018 M532,988 V1018" stroke="#8f6d2e" stroke-width="5"/>
+<rect x="472" y="912" width="100" height="76" fill="#d9c29a" stroke="#333" stroke-width="2"/>
+<path d="M482,912 L472,922 M502,912 L472,942 M522,912 L492,942 M542,912 L512,942 M562,912 L532,942 M572,922 L552,942 M482,988 L472,978 M502,988 L478,964 M522,988 L498,964 M542,988 L518,964 M562,988 L538,964 M572,998 L548,964" stroke="#b08d4e" stroke-width="1"/>
+<rect x="472" y="936" width="100" height="6" fill="#888" stroke="#333" stroke-width="1"/>
+<rect x="472" y="958" width="100" height="6" fill="#888" stroke="#333" stroke-width="1"/>
+<rect x="384" y="942" width="214" height="16" fill="#d9c29a" stroke="#333" stroke-width="2"/>
+<rect x="466" y="942" width="112" height="16" fill="#bbb" stroke="#333" stroke-width="1.5"/>
+<rect x="586" y="930" width="7" height="40" rx="2" fill="#555" stroke="#333" stroke-width="1.5"/>
+<g stroke="#555" stroke-width="1">
+<path d="M478,926 L440,900 M406,950 L406,982 M520,962 L480,1010 M590,930 L618,904"/>
+</g>
+<text x="386" y="898" font-size="14" font-weight="bold">轮毂</text>
+<text x="380" y="996" font-size="13">车轴</text>
+<text x="474" y="1024" font-size="13">轴套: 铁管或铁环</text>
+<text x="474" y="1040" font-size="12" fill="#555">车轴相应部位包铁皮</text>
+<text x="596" y="900" font-size="13">销子: 防止</text>
+<text x="596" y="916" font-size="13">轮子脱出</text>
+<text x="379" y="1066" font-size="13">润滑: 动物油(牛羊油最耐用)、植物油、废机油</text>
+<text x="379" y="1084" font-size="13">混进石墨粉,耐压、不容易挤出去</text>
+<text x="379" y="1104" font-size="13" font-weight="bold" fill="#c33">出车前检查: 轴头发烫、吱吱响 → 缺油</text>
+</g>
+</g>
+</svg>

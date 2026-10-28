@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 910" width="720" height="910" role="img" aria-label="双轮板车的平衡: 两轮车的车轴是支点,货物的重心要在车轴上或稍微靠前,车把上有一点向下的压力,人或牲畜容易控制,车不乱晃,装好货先抬一下车把试试,手上只有约5-15 kg的压力为宜。重心太靠前: 拉车的人或牲畜要额外扛着很大的重量,很快就累。重心在车轴后面: 车把会向上翘,上坡时可能整车向后翻,套在牲畜身上的挽具会把牲畜往上吊。上坡时货往前挪一点,下坡时往后挪一点;货物绑牢,防止路上移动改变重心" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>双轮板车的平衡</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<!-- 板车侧视: 车轴在 (0,0),车把在右端 (262,-41) -->
+<g id="cart">
+<path d="M100,-41 L262,-41" stroke="#8f6d2e" stroke-width="7" stroke-linecap="round"/>
+<line x1="244" y1="-41" x2="268" y2="-41" stroke="#333" stroke-width="11" stroke-linecap="round"/>
+<rect x="-112" y="-48" width="224" height="12" fill="#b8955a" stroke="#333" stroke-width="2"/>
+<circle r="34" fill="#e8eef5" stroke="#333" stroke-width="3"/>
+<path d="M0,-34 V34 M-34,0 H34 M-24,-24 L24,24 M-24,24 L24,-24" stroke="#999" stroke-width="1.5"/>
+<circle r="6" fill="#0b5cad" stroke="#333" stroke-width="1.5"/>
+</g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">双轮板车的平衡: 车轴是支点</text>
+
+<!-- ① 正确 -->
+<rect x="10" y="44" width="700" height="268" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="70" font-size="16" font-weight="bold">① ✓ 货物的重心在车轴上或稍微靠前</text>
+<path d="M30,270 H520" stroke="#999" stroke-width="3"/>
+<g transform="translate(180,236)">
+<rect x="-40" y="-128" width="104" height="80" rx="3" fill="#b5a58a" stroke="#333" stroke-width="2"/>
+<use href="#cart"/>
+<circle cx="12" cy="-88" r="6" fill="#c33"/>
+<path d="M12,-82 V40" stroke="#c33" stroke-width="2" stroke-dasharray="6 4"/>
+<path d="M0,6 V40" stroke="#0b5cad" stroke-width="2" stroke-dasharray="3 3"/>
+<path d="M265,-74 V-50" stroke="#c33" stroke-width="3.5" marker-end="url(#arR)"/>
+</g>
+<text x="190" y="294" font-size="13" fill="#c33">重心</text>
+<text x="176" y="294" font-size="13" fill="#0b5cad" text-anchor="end">车轴(支点)</text>
+<text x="456" y="112" font-size="14" font-weight="bold" fill="#c33" text-anchor="middle">一点向下的压力</text>
+<text x="456" y="130" font-size="13" fill="#c33" text-anchor="middle">手上约5-15 kg为宜</text>
+<rect x="540" y="90" width="160" height="150" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="552" y="114" font-size="14">车把(车辕)上有</text>
+<text x="552" y="133" font-size="14">一点向下的压力:</text>
+<text x="552" y="152" font-size="14">人或牲畜容易控制,</text>
+<text x="552" y="171" font-size="14">车不乱晃</text>
+<text x="552" y="204" font-size="14" font-weight="bold" fill="#0b5cad">装好货先抬一下</text>
+<text x="552" y="223" font-size="14" font-weight="bold" fill="#0b5cad">车把试试</text>
+
+<!-- ② 太靠前 -->
+<rect x="10" y="324" width="345" height="250" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="350" font-size="16" font-weight="bold" fill="#c33">② ✗ 重心太靠前</text>
+<path d="M24,486 H342" stroke="#999" stroke-width="3"/>
+<g transform="translate(80,462) scale(0.7)">
+<rect x="18" y="-128" width="104" height="80" rx="3" fill="#b5a58a" stroke="#333" stroke-width="2"/>
+<use href="#cart"/>
+<circle cx="70" cy="-88" r="8" fill="#c33"/>
+<path d="M70,-80 V34" stroke="#c33" stroke-width="2.5" stroke-dasharray="7 5"/>
+<path d="M0,8 V34" stroke="#0b5cad" stroke-width="2.5" stroke-dasharray="4 4"/>
+<path d="M265,-140 V-56" stroke="#c33" stroke-width="5" marker-end="url(#arR)"/>
+</g>
+<text x="300" y="380" font-size="13" fill="#c33" text-anchor="end">车把上压力很大</text>
+<text x="182" y="516" font-size="14" text-anchor="middle">拉车的人或牲畜要额外扛着</text>
+<text x="182" y="536" font-size="14" text-anchor="middle">很大的重量,很快就累</text>
+
+<!-- ③ 在车轴后面 -->
+<rect x="365" y="324" width="345" height="250" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="379" y="350" font-size="16" font-weight="bold" fill="#c33">③ ✗ 重心在车轴后面</text>
+<path d="M379,486 H697" stroke="#999" stroke-width="3"/>
+<g transform="translate(450,462) rotate(-10) scale(0.7)">
+<rect x="-110" y="-128" width="104" height="80" rx="3" fill="#b5a58a" stroke="#333" stroke-width="2"/>
+<use href="#cart"/>
+<circle cx="-58" cy="-88" r="8" fill="#c33"/>
+<path d="M265,-20 V-80" stroke="#c33" stroke-width="5" marker-end="url(#arR)" transform="rotate(10 265 -41)"/>
+</g>
+<path d="M420,412 V484" stroke="#c33" stroke-width="2" stroke-dasharray="5 4"/>
+<path d="M450,468 V484" stroke="#0b5cad" stroke-width="2" stroke-dasharray="3 3"/>
+<text x="680" y="384" font-size="13" fill="#c33" text-anchor="end">车把向上翘</text>
+<text x="537" y="512" font-size="14" text-anchor="middle">上坡时可能整车向后翻;</text>
+<text x="537" y="532" font-size="14" text-anchor="middle">套在牲畜身上的挽具</text>
+<text x="537" y="552" font-size="14" text-anchor="middle">会把牲畜往上吊</text>
+
+<!-- ④ 上坡下坡 -->
+<rect x="10" y="586" width="700" height="310" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="612" font-size="16" font-weight="bold">④ 上坡、下坡时挪一下货</text>
+<line x1="360" y1="626" x2="360" y2="856" stroke="#ddd" stroke-width="1.5"/>
+<!-- 上坡: 往右上走 -->
+<path d="M24,820 L346,715 V820 Z" fill="#eee"/>
+<path d="M24,820 L346,715" stroke="#999" stroke-width="3"/>
+<g transform="translate(100,771) rotate(-18) scale(0.7)">
+<rect x="10" y="-128" width="100" height="80" rx="3" fill="#b5a58a" stroke="#333" stroke-width="2"/>
+<rect x="-104" y="-128" width="100" height="80" rx="3" fill="none" stroke="#999" stroke-width="2" stroke-dasharray="6 5"/>
+<use href="#cart"/>
+<path d="M-40,-150 H76" stroke="#c33" stroke-width="5" marker-end="url(#arR)"/>
+</g>
+<path d="M262,682 L300,670" stroke="#0b5cad" stroke-width="3" marker-end="url(#arB)"/>
+<text x="250" y="664" font-size="13" fill="#0b5cad" text-anchor="end">往上坡走</text>
+<text x="182" y="846" font-size="15" font-weight="bold" text-anchor="middle">上坡: 货往前挪一点</text>
+<!-- 下坡: 往右下走 -->
+<path d="M374,715 L696,820 H374 Z" fill="#eee"/>
+<path d="M374,715 L696,820" stroke="#999" stroke-width="3"/>
+<g transform="translate(470,721.5) rotate(18) scale(0.7)">
+<rect x="-104" y="-128" width="100" height="80" rx="3" fill="#b5a58a" stroke="#333" stroke-width="2"/>
+<rect x="10" y="-128" width="100" height="80" rx="3" fill="none" stroke="#999" stroke-width="2" stroke-dasharray="6 5"/>
+<use href="#cart"/>
+<path d="M76,-150 H-40" stroke="#c33" stroke-width="5" marker-end="url(#arR)"/>
+</g>
+<path d="M640,770 L676,782" stroke="#0b5cad" stroke-width="3" marker-end="url(#arB)"/>
+<text x="650" y="756" font-size="13" fill="#0b5cad" text-anchor="middle">往下坡走</text>
+<text x="537" y="846" font-size="15" font-weight="bold" text-anchor="middle">下坡: 货往后挪一点</text>
+<text x="360" y="882" font-size="14" text-anchor="middle">✓ 货物绑牢,防止路上移动改变重心</text>
+</g>
+</svg>

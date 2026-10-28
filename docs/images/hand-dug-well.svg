@@ -1,0 +1,206 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1290" width="720" height="1290" role="img" aria-label="手挖井剖面与安全:井直径约1-1.5 m,边挖边支护,每挖约1 m砌一段井圈;井口上部1-2 m井壁用砂浆或黏土封严;挖到旱季最低地下水位以下再挖1-2 m,含水层的井壁用不加砂浆的砖石或带孔井圈让水渗进来;井底铺粗砂和砾石;井口高出地面,周围做不渗水、向外倾斜的井台,井口加盖;厕所、粪坑、畜圈、垃圾坑离水井至少30 m,在井的下坡方向。挖井的危险:塌方、缺氧和有毒气体、落物、坠落;下井前用绳子吊点燃的油灯或蜡烛到井底,火焰变弱或熄灭就是缺氧,绝不能下去;鼓风换气;下井的人系安全绳,井上至少两人看守,戴头盔;有人昏倒不要直接下去救。井水消毒:按每1000 L水加有效氯约50-100 g(84消毒液约1-2 L),浸泡至少12小时,再提水直到闻不到明显氯味" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>手挖井剖面与安全</title>
+<defs>
+<pattern id="soil" width="16" height="16" patternUnits="userSpaceOnUse"><rect width="16" height="16" fill="#f3ead8"/><circle cx="4" cy="5" r="1" fill="#c9b48a"/><circle cx="12" cy="12" r="1" fill="#c9b48a"/></pattern>
+<pattern id="wet" width="16" height="16" patternUnits="userSpaceOnUse"><rect width="16" height="16" fill="#e3eef5"/><circle cx="4" cy="5" r="1" fill="#9db8c9"/><circle cx="12" cy="12" r="1" fill="#9db8c9"/></pattern>
+<pattern id="brick" width="12" height="10" patternUnits="userSpaceOnUse"><rect width="12" height="10" fill="#c98b6b"/><path d="M0 9.5 L12 9.5 M6 0 L6 5" stroke="#eee" stroke-width="1"/></pattern>
+<pattern id="dry" width="12" height="12" patternUnits="userSpaceOnUse"><rect width="12" height="12" fill="#d8ebf7"/><rect x="0" y="0" width="12" height="7" fill="#c98b6b" stroke="#333" stroke-width="0.6"/></pattern>
+<pattern id="seal" width="6" height="6" patternUnits="userSpaceOnUse"><rect width="6" height="6" fill="#b8b8b8"/><circle cx="3" cy="3" r="0.8" fill="#777"/></pattern>
+<pattern id="gravel" width="12" height="8" patternUnits="userSpaceOnUse"><rect width="12" height="8" fill="#d8ebf7"/><g fill="#bdbdbd" stroke="#666" stroke-width="0.7"><ellipse cx="3" cy="4" rx="3" ry="2.2"/><ellipse cx="9" cy="5" rx="2.6" ry="2"/></g></pattern>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<marker id="arB0" viewBox="0 0 10 10" refX="2" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M10 0 L0 5 L10 10 Z" fill="#0b5cad"/></marker>
+</defs>
+<g fill="#222">
+<text x="360" y="30" font-size="18" font-weight="bold" text-anchor="middle">手挖井剖面(示意,不按比例)</text>
+
+<!-- ground and soil -->
+<path d="M20 200 L440 200 L540 250 L700 250 L700 440 L20 440 Z" fill="url(#soil)"/>
+<rect x="20" y="440" width="680" height="120" fill="url(#wet)"/>
+<path d="M20 200 L440 200 L540 250 L700 250" fill="none" stroke="#999" stroke-width="2.5"/>
+<path d="M20 440 L700 440" stroke="#0b5cad" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="695" y="432" font-size="14" fill="#0b5cad" text-anchor="end">旱季最低地下水位</text>
+
+<!-- shaft -->
+<rect x="215" y="200" width="70" height="330" fill="#fff"/>
+<rect x="215" y="440" width="70" height="74" fill="#d8ebf7"/>
+<path d="M215 440 L285 440" stroke="#0b5cad" stroke-width="1.5"/>
+<rect x="215" y="514" width="70" height="16" fill="url(#gravel)"/>
+<!-- lining: sealed top + curb, mortared rings, dry-laid bottom -->
+<rect x="203" y="160" width="12" height="110" fill="url(#seal)"/>
+<rect x="285" y="160" width="12" height="110" fill="url(#seal)"/>
+<rect x="203" y="270" width="12" height="170" fill="url(#brick)"/>
+<rect x="285" y="270" width="12" height="170" fill="url(#brick)"/>
+<rect x="203" y="440" width="12" height="90" fill="url(#dry)"/>
+<rect x="285" y="440" width="12" height="90" fill="url(#dry)"/>
+<path d="M203 160 L203 530 L297 530 L297 160 M215 160 L215 530 M285 160 L285 530" fill="none" stroke="#333" stroke-width="2"/>
+<g stroke="#333" stroke-width="2"><path d="M203 320 L215 320 M285 320 L297 320 M203 370 L215 370 M285 370 L297 370 M203 420 L215 420 M285 420 L297 420"/></g>
+<!-- apron -->
+<path d="M203 186 L118 197 L118 202 L203 202 Z" fill="#a8a8a8" stroke="#333" stroke-width="1.5"/>
+<path d="M297 186 L382 197 L382 202 L297 202 Z" fill="#a8a8a8" stroke="#333" stroke-width="1.5"/>
+<path d="M190 182 L140 188" stroke="#0b5cad" stroke-width="1.5" marker-end="url(#arB)"/>
+<path d="M310 182 L360 188" stroke="#0b5cad" stroke-width="1.5" marker-end="url(#arB)"/>
+<!-- cover -->
+<rect x="196" y="149" width="108" height="11" fill="#c8a46e" stroke="#333" stroke-width="2"/>
+<path d="M240 149 L240 142 L260 142 L260 149" fill="none" stroke="#333" stroke-width="2"/>
+<!-- seepage arrows -->
+<g stroke="#0b5cad" stroke-width="1.6" fill="none"><path d="M318 470 L292 470" marker-end="url(#arB)"/><path d="M318 500 L292 500" marker-end="url(#arB)"/></g>
+<!-- diameter -->
+<path d="M219 300 L281 300" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<text x="310" y="296" font-size="15">直径约1-1.5 m</text>
+<text x="310" y="315" font-size="13" fill="#555">(能容一人在下面操作)</text>
+
+<!-- latrine downhill -->
+<rect x="605" y="196" width="60" height="54" fill="#fff" stroke="#333" stroke-width="2"/>
+<path d="M598 198 L635 176 L672 198 Z" fill="#cfcfcf" stroke="#333" stroke-width="2"/>
+<rect x="626" y="214" width="18" height="36" fill="#e6e6e6" stroke="#333" stroke-width="1.5"/>
+<rect x="615" y="250" width="40" height="44" fill="#fff" stroke="#333" stroke-width="2"/>
+<rect x="616" y="276" width="38" height="17" fill="#a98a5a"/>
+<text x="635" y="318" font-size="14" text-anchor="middle">厕所</text>
+<!-- 30 m dimension -->
+<path d="M250 140 L250 104 M635 170 L635 104" stroke="#0b5cad" stroke-width="1" stroke-dasharray="3 3"/>
+<path d="M254 110 L631 110" stroke="#c33" stroke-width="2" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<text x="442" y="100" font-size="15" fill="#c33" font-weight="bold" text-anchor="middle">离厕所、粪坑、畜圈、垃圾坑至少30 m</text>
+<text x="442" y="130" font-size="14" fill="#c33" text-anchor="middle">井在上坡,厕所在井的下坡方向</text>
+<path d="M470 222 L520 247" stroke="#888" stroke-width="1.5" marker-end="url(#arB)"/>
+<text x="512" y="224" font-size="13" fill="#555">下坡</text>
+
+<!-- left labels -->
+<text x="20" y="64" font-size="15">井口加盖: 不让人、牲畜、</text>
+<text x="20" y="83" font-size="15">垃圾、雨水直接进入</text>
+<line x1="150" y1="90" x2="212" y2="150" stroke="#0b5cad" stroke-width="1.3"/><circle cx="212" cy="152" r="2.6" fill="#0b5cad"/>
+<text x="20" y="152" font-size="15">井口高出地面</text>
+<line x1="118" y1="157" x2="203" y2="172" stroke="#0b5cad" stroke-width="1.3"/><circle cx="203" cy="172" r="2.6" fill="#0b5cad"/>
+
+<path d="M196 204 L190 204 L190 268 L196 268" fill="none" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="182" y="222" font-size="14" text-anchor="end">井口上部1-2 m</text>
+<text x="182" y="240" font-size="14" text-anchor="end">井壁封严(砂浆</text>
+<text x="182" y="258" font-size="14" text-anchor="end">或黏土),防地表</text>
+<text x="182" y="276" font-size="14" text-anchor="end">脏水沿井壁渗入</text>
+
+<path d="M196 284 L190 284 L190 436 L196 436" fill="none" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="182" y="318" font-size="14" text-anchor="end">边挖边支护:</text>
+<text x="182" y="336" font-size="14" text-anchor="end">每挖约1 m砌一段</text>
+<text x="182" y="354" font-size="14" text-anchor="end">井圈(砖、石块、</text>
+<text x="182" y="372" font-size="14" text-anchor="end">混凝土井圈);</text>
+<text x="182" y="390" font-size="14" text-anchor="end">土质松软的地方</text>
+<text x="182" y="408" font-size="14" text-anchor="end">支护更要及时</text>
+
+<text x="182" y="468" font-size="14" text-anchor="end">含水层的井壁:</text>
+<text x="182" y="486" font-size="14" text-anchor="end">用不加砂浆的砖石</text>
+<text x="182" y="504" font-size="14" text-anchor="end">或带孔的井圈,</text>
+<text x="182" y="522" font-size="14" text-anchor="end">让水渗进来</text>
+
+<!-- right labels -->
+<path d="M304 444 L310 444 L310 528 L304 528" fill="none" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="330" y="466" font-size="14">挖到地下水面以下,</text>
+<text x="330" y="485" font-size="14">再往下挖1-2 m,</text>
+<text x="330" y="504" font-size="14">保证全年有水</text>
+<text x="330" y="552" font-size="14">井底铺一层粗砂和砾石,减少取水时搅起泥沙</text>
+<line x1="326" y1="546" x2="272" y2="524" stroke="#0b5cad" stroke-width="1.3"/><circle cx="272" cy="523" r="2.6" fill="#0b5cad"/>
+<text x="324" y="164" font-size="14">井台: 不渗水(水泥、石板、夯实的黏土),</text>
+<text x="324" y="182" font-size="14">向外倾斜,洒出的水和雨水流走</text>
+<line x1="330" y1="186" x2="350" y2="192" stroke="#0b5cad" stroke-width="1.3"/><circle cx="352" cy="193" r="2.6" fill="#0b5cad"/>
+
+<rect x="20" y="568" width="680" height="30" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="360" y="589" font-size="14" text-anchor="middle">最后做井台、井盖,装辘轳或手压泵;新井投入使用前清洗并消毒(见下方)</text>
+
+<!-- danger panel -->
+<rect x="20" y="612" width="680" height="410" rx="6" fill="#fff8f8" stroke="#c33" stroke-width="2"/>
+<text x="360" y="638" font-size="17" font-weight="bold" fill="#c33" text-anchor="middle">⚠ 挖井的危险: 塌方、缺氧和有毒气体、落物、坠落</text>
+<text x="360" y="662" font-size="14" text-anchor="middle">井底可能积聚二氧化碳(比空气重)、硫化氢,人下去几分钟就会昏迷死亡</text>
+<line x1="360" y1="676" x2="360" y2="984" stroke="#e5b5b5" stroke-width="1"/>
+<line x1="30" y1="830" x2="690" y2="830" stroke="#e5b5b5" stroke-width="1"/>
+
+<!-- cell 1: flame test -->
+<path d="M36 700 L150 700" stroke="#999" stroke-width="2"/>
+<path d="M50 700 L50 800 L82 800 L82 700 M104 700 L104 800 L136 800 L136 700" fill="none" stroke="#333" stroke-width="2"/>
+<rect x="105" y="782" width="30" height="17" fill="#ddd"/>
+<path d="M66 686 L66 774 M120 686 L120 774" stroke="#8a6a3a" stroke-width="1.3"/>
+<rect x="62" y="774" width="8" height="18" fill="#f5f0dc" stroke="#333" stroke-width="1.2"/>
+<path d="M66 772 Q60 764 66 754 Q72 764 66 772 Z" fill="#f0a030" stroke="#c33" stroke-width="1"/>
+<rect x="116" y="774" width="8" height="18" fill="#f5f0dc" stroke="#333" stroke-width="1.2"/>
+<path d="M120 772 Q118 769 120 766 Q122 769 120 772 Z" fill="#f0a030"/>
+<path d="M120 764 q-4 -6 0 -12 q4 -6 0 -12" fill="none" stroke="#999" stroke-width="1.2"/>
+<text x="66" y="818" font-size="13" fill="#555" text-anchor="middle">正常</text>
+<text x="120" y="818" font-size="13" fill="#c33" text-anchor="middle">变弱/熄灭</text>
+<text x="160" y="696" font-size="15" font-weight="bold">① 下井前先试火</text>
+<text x="160" y="716" font-size="14">用绳子吊一盏点燃的油灯</text>
+<text x="160" y="734" font-size="14">或蜡烛,放到井底:</text>
+<text x="160" y="754" font-size="14" fill="#c33" font-weight="bold">火焰变弱或熄灭 → 缺氧,</text>
+<text x="160" y="772" font-size="14" fill="#c33" font-weight="bold">绝不能下去</text>
+<text x="160" y="792" font-size="13" fill="#555">火焰正常也不能完全保证</text>
+<text x="160" y="809" font-size="13" fill="#555">安全,有条件时用气体检测仪</text>
+
+<!-- cell 2: ventilation -->
+<path d="M368 712 L478 712" stroke="#999" stroke-width="2"/>
+<path d="M402 712 L402 812 L442 812 L442 712" fill="none" stroke="#333" stroke-width="2"/>
+<path d="M376 680 L404 690 L404 698 L376 708 Z" fill="#e8d3b0" stroke="#333" stroke-width="1.5"/>
+<path d="M382 682 L386 694 L382 706 M390 685 L394 694 L390 703 M397 688 L400 694 L397 700" fill="none" stroke="#8a6a3a" stroke-width="1.2"/>
+<path d="M370 676 L404 688 M370 712 L404 700" stroke="#333" stroke-width="3"/>
+<path d="M404 694 L414 694 L420 708" fill="none" stroke="#333" stroke-width="3"/>
+<text x="385" y="730" font-size="13" fill="#555" text-anchor="middle">风箱</text>
+<g stroke="#0b5cad" stroke-width="2" fill="none" stroke-dasharray="5 4"><path d="M418 712 L418 796" marker-end="url(#arB)"/><path d="M432 800 L432 722" marker-end="url(#arB)"/></g>
+<text x="492" y="696" font-size="15" font-weight="bold">② 下井前鼓风换气</text>
+<text x="492" y="716" font-size="14">用风扇、风箱,或来回提放</text>
+<text x="492" y="734" font-size="14">大块布料,向井里鼓风换气</text>
+<text x="492" y="762" font-size="14" fill="#c33" font-weight="bold">绝不在井里或井边使用</text>
+<text x="492" y="780" font-size="14" fill="#c33" font-weight="bold">汽油机、发电机</text>
+<text x="492" y="798" font-size="14" fill="#c33">(一氧化碳)</text>
+
+<!-- cell 3: rope + two watchers + helmet -->
+<path d="M36 868 L76 868 M116 868 L152 868" stroke="#999" stroke-width="2"/>
+<path d="M76 868 L76 978 M116 868 L116 978" stroke="#333" stroke-width="2"/>
+<g stroke="#333" stroke-width="1.8" fill="#cfe0f0">
+<circle cx="48" cy="836" r="6" fill="#f3e3d3"/><rect x="42" y="843" width="12" height="15" rx="4"/><path d="M45 858 L43 868 M51 858 L53 868" fill="none"/>
+<circle cx="140" cy="836" r="6" fill="#f3e3d3"/><rect x="134" y="843" width="12" height="15" rx="4"/><path d="M137 858 L135 868 M143 858 L145 868" fill="none"/>
+</g>
+<path d="M54 850 L78 866 L96 934 M134 850 L114 866" fill="none" stroke="#8a6a3a" stroke-width="1.5"/>
+<g stroke="#333" stroke-width="1.8">
+<circle cx="96" cy="928" r="6" fill="#f3e3d3"/><path d="M89 926 A7 7 0 0 1 103 926 Z" fill="#e0a020"/><rect x="90" y="935" width="12" height="16" rx="4" fill="#cfe0f0"/><path d="M93 951 L91 962 M99 951 L101 962" fill="none"/>
+</g>
+<path d="M90 941 L102 941" stroke="#8a6a3a" stroke-width="2"/>
+<text x="160" y="852" font-size="15" font-weight="bold">③ 系安全绳、有人看守</text>
+<text x="160" y="872" font-size="14">下井的人系安全绳,井上</text>
+<text x="160" y="890" font-size="14">至少两人看守,随时能拉上来</text>
+<text x="160" y="910" font-size="14">井下的人戴头盔;</text>
+<text x="160" y="928" font-size="14">井口周围不放工具和</text>
+<text x="160" y="946" font-size="14">松动的石块(防落物)</text>
+
+<!-- cell 4: collapsed person -->
+<path d="M368 868 L400 868 M450 868 L478 868" stroke="#999" stroke-width="2"/>
+<path d="M400 868 L400 978 L450 978 L450 868" fill="none" stroke="#333" stroke-width="2"/>
+<g stroke="#333" stroke-width="1.8"><circle cx="410" cy="970" r="5.5" fill="#f3e3d3"/><rect x="417" y="965" width="26" height="11" rx="4" fill="#cfe0f0"/></g>
+<path d="M432 852 L432 950" stroke="#8a6a3a" stroke-width="1.5"/>
+<path d="M432 950 L432 958 Q432 964 426 963" fill="none" stroke="#333" stroke-width="2"/>
+<text x="492" y="852" font-size="15" font-weight="bold" fill="#c33">④ 有人在井下昏倒</text>
+<text x="492" y="872" font-size="14" fill="#c33" font-weight="bold">不要直接下去救!</text>
+<text x="492" y="892" font-size="14">先鼓风,系好安全绳再下,</text>
+<text x="492" y="910" font-size="14">或用绳钩拉上来</text>
+<text x="492" y="932" font-size="13" fill="#555">下去救人的人也常常</text>
+<text x="492" y="949" font-size="13" fill="#555">接连遇难</text>
+
+<text x="360" y="1008" font-size="14" text-anchor="middle">防塌方: 边挖边做井壁支护,土质松软的地方支护更要及时</text>
+
+<!-- disinfection panel -->
+<rect x="20" y="1036" width="680" height="238" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="360" y="1062" font-size="17" font-weight="bold" text-anchor="middle">井水消毒(新井、被洪水淹过的井、怀疑被污染的井)</text>
+<path d="M60 1100 L60 1200 A45 10 0 0 0 150 1200 L150 1100" fill="#fff" stroke="#333" stroke-width="2"/>
+<path d="M60 1130 A45 10 0 0 0 150 1130 L150 1200 A45 10 0 0 1 60 1200 Z" fill="#d8ebf7"/>
+<ellipse cx="105" cy="1130" rx="45" ry="10" fill="#c4def0" stroke="#0b5cad" stroke-width="1.2"/>
+<path d="M60 1100 L60 1200 A45 10 0 0 0 150 1200 L150 1100" fill="none" stroke="#333" stroke-width="2"/>
+<ellipse cx="105" cy="1100" rx="45" ry="10" fill="none" stroke="#333" stroke-width="2"/>
+<path d="M105 1130 L148 1130" stroke="#c33" stroke-width="1.8"/>
+<circle cx="105" cy="1130" r="2.5" fill="#c33"/>
+<text x="126" y="1150" font-size="13" fill="#c33" text-anchor="middle">半径</text>
+<path d="M48 1132 L48 1208" stroke="#c33" stroke-width="1.5" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<text x="44" y="1176" font-size="13" fill="#c33" text-anchor="end">水深</text>
+<text x="166" y="1092" font-size="15">1. 估算水量: 水量(L)≈ 3.14 × 半径²(m²)× 水深(m)× 1000</text>
+<text x="166" y="1112" font-size="14" fill="#555">例: 半径0.6 m、水深2 m → 约 3.14 × 0.36 × 2 × 1000 ≈ 2260 L</text>
+<text x="166" y="1138" font-size="15">2. 每1000 L水加有效氯约50-100 g</text>
+<text x="166" y="1158" font-size="14" fill="#555">(如84消毒液有效氯约5%: 约1-2 L)</text>
+<text x="166" y="1178" font-size="14" fill="#555">先在桶里用水稀释,再倒入井中,搅动井水</text>
+<text x="166" y="1204" font-size="15">3. 浸泡至少12小时,<tspan fill="#c33" font-weight="bold">期间不要取水</tspan></text>
+<text x="166" y="1230" font-size="15">4. 之后抽水或提水,直到闻不到明显的氯味,再使用</text>
+<text x="166" y="1256" font-size="15">5. 之后的饮用水仍建议煮沸或按常规量消毒</text>
+</g></svg>
