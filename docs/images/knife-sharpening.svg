@@ -14,16 +14,16 @@
 <text x="260" y="88" font-size="13" fill="#555">(侧面)</text>
 <text x="496" y="88" font-size="13" fill="#555">(斧头截面,刃口朝下)</text>
 <rect x="24" y="212" width="202" height="18" rx="3" fill="#bdb6a8" stroke="#333" stroke-width="2"/>
-<polygon points="50,212 70,212 213.1,166.9 209.4,155.4 66.4,200.6" fill="#d6dde4" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
-<path d="M50 212 H70" stroke="#c33" stroke-width="3.5"/>
-<path d="M128 212 A58 58 0 0 0 125.3 194.6" fill="none" stroke="#0b5cad" stroke-width="1.8"/>
-<text x="136" y="210" font-size="15" fill="#0b5cad" font-weight="bold">约15-20°</text>
+<polygon points="51.1,212 76,212 219.1,166.9 214.5,152.6 71.5,197.7" fill="#d6dde4" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M51.1 212 H76" stroke="#c33" stroke-width="3.5"/>
+<path d="M134 212 A58 58 0 0 0 131.3 194.6" fill="none" stroke="#0b5cad" stroke-width="1.8"/>
+<text x="142" y="210" font-size="15" fill="#0b5cad" font-weight="bold">约15-20°</text>
 <text x="24" y="254" font-size="14" font-weight="bold">刃口斜面与刀面</text>
 <text x="24" y="272" font-size="14" font-weight="bold" fill="#0b5cad">约15-20°</text>
 <text x="124" y="124" font-size="13" fill="#555">刀面</text>
 <line x1="140" y1="128" x2="150" y2="182" stroke="#0b5cad" stroke-width="1.3"/><circle cx="150" cy="182" r="2.6" fill="#0b5cad"/>
 <text x="28" y="176" font-size="13" fill="#c33">斜面平贴</text>
-<line x1="46" y1="182" x2="58" y2="211" stroke="#0b5cad" stroke-width="1.3"/><circle cx="58" cy="211" r="2.6" fill="#0b5cad"/>
+<line x1="46" y1="182" x2="60" y2="211" stroke="#0b5cad" stroke-width="1.3"/><circle cx="60" cy="211" r="2.6" fill="#0b5cad"/>
 <rect x="260" y="212" width="202" height="18" rx="3" fill="#bdb6a8" stroke="#333" stroke-width="2"/>
 <polygon points="286.5,212 306,212 387.6,169.5 383.4,161.5" fill="#d6dde4" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
 <polygon points="389.7,173.5 381.4,157.5 443.5,125.2 451.8,141.2" fill="#c8a06a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>

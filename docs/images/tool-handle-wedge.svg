@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 742" width="720" height="742" role="img" aria-label="换工具柄(斧、锤、锄): 1. 拆掉旧柄,把断柄锯掉,剩下的部分从楔子一侧钻孔、敲出;2. 选干透的硬木,木纹顺着柄的长度方向,不能有疤节、裂纹;3. 先粗削,再一边试一边削,让柄头刚好能紧紧敲进工具的孔里;4. 把柄头敲进孔,露出孔外一点,在柄头顶端顺着锯一道口(深约孔深的2/3),往锯口里敲进一个硬木楔子(可以抹点胶)把柄头撑紧,锯平露出的部分;5. 甩一甩、敲一敲,不能有任何松动。斧头、锤头松动时立即停用修理,飞出去会伤人;不要把干燥的工具柄泡在水里让它胀紧,干了以后会更松" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
 <rect width="100%" height="100%" fill="#fff"/>
 <title>换工具柄</title>
-<defs><marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker><marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker><marker id="arB0" viewBox="0 0 10 10" refX="2" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M10 0 L0 5 L10 10 Z" fill="#0b5cad"/></marker><pattern id="hat" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#b8c2cc"/><path d="M0 0 V6" stroke="#7d8894" stroke-width="1"/></pattern><pattern id="cut" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#fbe9e9"/><path d="M0 0 V6" stroke="#c33" stroke-width="1.2"/></pattern></defs>
+<defs><marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker><marker id="arS" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker><marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker><marker id="arB0" viewBox="0 0 10 10" refX="2" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M10 0 L0 5 L10 10 Z" fill="#0b5cad"/></marker><pattern id="hat" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#b8c2cc"/><path d="M0 0 V6" stroke="#7d8894" stroke-width="1"/></pattern><pattern id="cut" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#fbe9e9"/><path d="M0 0 V6" stroke="#c33" stroke-width="1.2"/></pattern></defs>
 <g fill="#222">
 <text x="360" y="28" font-size="18" text-anchor="middle" font-weight="bold">换工具柄(斧、锤、锄): 柄头敲进孔,打入木楔撑紧</text>
 <rect x="10" y="44" width="172" height="300" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
@@ -40,20 +40,25 @@
 <text x="548" y="376" font-size="15" font-weight="bold">⑧ 检查</text>
 <text x="548" y="588" font-size="13.5">甩一甩、敲一敲,</text>
 <text x="548" y="607" font-size="13.5">不能有任何松动</text>
-<path d="M83.0 140 H59.0 V204 H83.0 Z M109.0 140 H133.0 V204 H109.0 Z" fill="url(#hat)" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
-<rect x="83.0" y="140" width="26" height="64" fill="#e3c491" stroke="#333" stroke-width="2"/>
-<polygon points="91,140 101,140 96,180" fill="#a8773f" stroke="#333" stroke-width="1.5"/>
-<text x="136" y="106" font-size="12" fill="#555">旧楔子</text>
-<line x1="136" y1="110" x2="98" y2="146" stroke="#0b5cad" stroke-width="1.3"/><circle cx="98" cy="146" r="2.6" fill="#0b5cad"/>
-<path d="M89 142 V202" stroke="#c33" stroke-width="1.6" stroke-dasharray="4 3"/>
-<path d="M103 142 V202" stroke="#c33" stroke-width="1.6" stroke-dasharray="4 3"/>
-<text x="22" y="106" font-size="12" fill="#c33">钻孔</text>
-<line x1="40" y1="110" x2="89" y2="150" stroke="#0b5cad" stroke-width="1.3"/><circle cx="89" cy="150" r="2.6" fill="#0b5cad"/>
-<path d="M77.0 207 H115.0" stroke="#c33" stroke-width="2" stroke-dasharray="5 3"/>
-<path d="M83.0 220 H109.0 V258 l-6 8 l-5 -6 l-6 9 l-4 -7 l-5 5 Z" fill="#e3c491" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
-<text x="118" y="212" font-size="12" fill="#c33">锯掉</text>
-<text x="118" y="248" font-size="12" fill="#555">断柄</text>
-<text x="20" y="94" font-size="12" fill="#555">(剖面)</text>
+<text x="172" y="68" font-size="12" fill="#555" text-anchor="end">(剖面)</text>
+<text x="524" y="68" font-size="12" fill="#555" text-anchor="end">(剖面)</text>
+<text x="700" y="68" font-size="12" fill="#555" text-anchor="end">(剖面)</text>
+<text x="172" y="376" font-size="12" fill="#555" text-anchor="end">(剖面)</text>
+<text x="348" y="376" font-size="12" fill="#555" text-anchor="end">(剖面)</text>
+<text x="524" y="376" font-size="12" fill="#555" text-anchor="end">(剖面)</text>
+<path d="M83.0 128 H59.0 V192 H83.0 Z M109.0 128 H133.0 V192 H109.0 Z" fill="url(#hat)" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<rect x="83.0" y="128" width="26" height="64" fill="#e3c491" stroke="#333" stroke-width="2"/>
+<polygon points="91,128 101,128 96,168" fill="#a8773f" stroke="#333" stroke-width="1.5"/>
+<text x="136" y="94" font-size="12" fill="#555">旧楔子</text>
+<line x1="136" y1="98" x2="98" y2="134" stroke="#0b5cad" stroke-width="1.3"/><circle cx="98" cy="134" r="2.6" fill="#0b5cad"/>
+<path d="M89 130 V190" stroke="#c33" stroke-width="1.6" stroke-dasharray="4 3"/>
+<path d="M103 130 V190" stroke="#c33" stroke-width="1.6" stroke-dasharray="4 3"/>
+<text x="22" y="94" font-size="12" fill="#c33">钻孔</text>
+<line x1="40" y1="98" x2="89" y2="138" stroke="#0b5cad" stroke-width="1.3"/><circle cx="89" cy="138" r="2.6" fill="#0b5cad"/>
+<path d="M77.0 195 H115.0" stroke="#c33" stroke-width="2" stroke-dasharray="5 3"/>
+<path d="M83.0 206 H109.0 V236 l-6 8 l-5 -6 l-6 9 l-4 -7 l-5 5 Z" fill="#e3c491" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<text x="118" y="200" font-size="12" fill="#c33">锯掉</text>
+<text x="118" y="228" font-size="12" fill="#555">断柄</text>
 <rect x="230" y="94" width="28" height="150" rx="4" fill="#e3c491" stroke="#333" stroke-width="2"/>
 <path d="M237 100 V238 M244 100 V238 M251 100 V238" stroke="#b08c4a" stroke-width="1.2"/>
 <path d="M244 142 l-6 8 l4 0 l0 30 l4 0 l0 -30 l4 0 z" fill="#0b5cad"/>
@@ -66,71 +71,67 @@
 <text x="327" y="140" font-size="12" fill="#c33">疤节</text>
 <text x="327" y="212" font-size="12" fill="#c33">裂纹</text>
 <path d="M292 80 l14 14 M306 80 l-14 14" stroke="#c33" stroke-width="3"/>
-<path d="M437.0 108 H413.0 V172 H437.0 Z M463.0 108 H487.0 V172 H463.0 Z" fill="url(#hat)" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
-<path d="M434 202 L437 276 H463 L466 202 Z" fill="#e3c491" stroke="#333" stroke-width="2"/>
-<path d="M432 274 L430 322 M468 274 L470 322" stroke="#333" stroke-width="2"/>
-<path d="M437 276 H432 M463 276 H468" stroke="#333" stroke-width="2"/>
-<path d="M438 212 l6 8 M454 216 l6 8" stroke="#b08c4a" stroke-width="1.3"/>
-<path d="M438 228 l6 8 M454 232 l6 8" stroke="#b08c4a" stroke-width="1.3"/>
-<path d="M438 244 l6 8 M454 248 l6 8" stroke="#b08c4a" stroke-width="1.3"/>
-<path d="M438 260 l6 8 M454 264 l6 8" stroke="#b08c4a" stroke-width="1.3"/>
-<path d="M494 232 V180" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
-<text x="500" y="212" font-size="13" fill="#c33">试</text>
-<text x="374" y="250" font-size="13" fill="#555">削</text>
-<text x="372" y="94" font-size="12" fill="#555">(剖面)</text>
+<path d="M435.0 100 H411.0 V164 H435.0 Z M461.0 100 H485.0 V164 H461.0 Z" fill="url(#hat)" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M432 188 L435 248 H461 L464 188 Z" fill="#e3c491" stroke="#333" stroke-width="2"/>
+<path d="M430 248 L429 268 M466 248 L467 268" stroke="#333" stroke-width="2"/>
+<path d="M435 248 H430 M461 248 H466" stroke="#333" stroke-width="2"/>
+<path d="M436 198 l6 8 M452 202 l6 8" stroke="#b08c4a" stroke-width="1.3"/>
+<path d="M436 214 l6 8 M452 218 l6 8" stroke="#b08c4a" stroke-width="1.3"/>
+<path d="M436 230 l6 8 M452 234 l6 8" stroke="#b08c4a" stroke-width="1.3"/>
+<path d="M492 220 V172" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="498" y="202" font-size="13" fill="#c33">试</text>
+<text x="398" y="224" font-size="13" fill="#555">削</text>
+<line x1="414" y1="220" x2="434" y2="216" stroke="#0b5cad" stroke-width="1.3"/><circle cx="434" cy="216" r="2.6" fill="#0b5cad"/>
 <path d="M611.0 134 H587.0 V198 H611.0 Z M637.0 134 H661.0 V198 H637.0 Z" fill="url(#hat)" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
-<rect x="611.0" y="120" width="26" height="162" fill="#e3c491" stroke="#333" stroke-width="2"/>
-<path d="M617.5 124 V278 M630.5 124 V278" stroke="#b08c4a" stroke-width="1.2"/>
+<rect x="611.0" y="120" width="26" height="128" fill="#e3c491" stroke="#333" stroke-width="2"/>
+<path d="M617.5 124 V244 M630.5 124 V244" stroke="#b08c4a" stroke-width="1.2"/>
 <path d="M669.0 120 H639.0" stroke="#0b5cad" stroke-width="1.3"/>
 <text x="650" y="102" font-size="12" fill="#0b5cad">露出一点</text>
-<path d="M624 334 V294" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
-<text x="632" y="326" font-size="13" fill="#c33">敲进</text>
-<text x="548" y="94" font-size="12" fill="#555">(剖面)</text>
+<path d="M594 248 V208" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="552" y="234" font-size="13" fill="#c33">敲进</text>
+<path d="M83.0 442 H59.0 V506 H83.0 Z M109.0 442 H133.0 V506 H109.0 Z" fill="url(#hat)" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<rect x="83.0" y="428" width="26" height="128" fill="#e3c491" stroke="#333" stroke-width="2"/>
+<path d="M89.5 432 V552 M102.5 432 V552" stroke="#b08c4a" stroke-width="1.2"/>
+<path d="M96 428 V485" stroke="#333" stroke-width="2.4"/>
+<path d="M139.0 442 H151.0 M139.0 506 H151.0" stroke="#0b5cad" stroke-width="1"/>
+<path d="M145.0 443 V505" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<text x="151.0" y="479.0" font-size="12" fill="#0b5cad">孔深</text>
+<path d="M41.0 442 H53.0 M41.0 485 H53.0" stroke="#c33" stroke-width="1"/>
+<path d="M47.0 443 V484" stroke="#c33" stroke-width="1.5" marker-start="url(#arR)" marker-end="url(#arR)"/>
+<path d="M53.0 485 H94" stroke="#c33" stroke-width="1" stroke-dasharray="3 2"/>
+<text x="20" y="459.5" font-size="12" fill="#c33">约</text>
+<text x="20" y="475.5" font-size="12" fill="#c33" font-weight="bold">2/3</text>
+<text x="104" y="412" font-size="12" fill="#555">锯口</text>
+<line x1="104" y1="416" x2="97" y2="436" stroke="#0b5cad" stroke-width="1.3"/><circle cx="97" cy="436" r="2.6" fill="#0b5cad"/>
 <path d="M259.0 442 H235.0 V506 H259.0 Z M285.0 442 H309.0 V506 H285.0 Z" fill="url(#hat)" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
-<rect x="259.0" y="428" width="26" height="162" fill="#e3c491" stroke="#333" stroke-width="2"/>
-<path d="M265.5 432 V586 M278.5 432 V586" stroke="#b08c4a" stroke-width="1.2"/>
-<path d="M272 428 V485" stroke="#333" stroke-width="2.4"/>
-<path d="M315.0 442 H327.0 M315.0 506 H327.0" stroke="#0b5cad" stroke-width="1"/>
-<path d="M321.0 443 V505" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB0)" marker-end="url(#arB)"/>
-<text x="327.0" y="479.0" font-size="12" fill="#0b5cad">孔深</text>
-<path d="M217.0 442 H229.0 M217.0 485 H229.0" stroke="#c33" stroke-width="1"/>
-<path d="M223.0 443 V484" stroke="#c33" stroke-width="1.5" marker-start="url(#arR)" marker-end="url(#arR)"/>
-<path d="M229.0 485 H270" stroke="#c33" stroke-width="1" stroke-dasharray="3 2"/>
-<text x="196" y="459.5" font-size="12" fill="#c33">约</text>
-<text x="196" y="475.5" font-size="12" fill="#c33" font-weight="bold">2/3</text>
-<text x="280" y="412" font-size="12" fill="#555">锯口</text>
-<line x1="280" y1="416" x2="273" y2="436" stroke="#0b5cad" stroke-width="1.3"/><circle cx="273" cy="436" r="2.6" fill="#0b5cad"/>
-<text x="196" y="402" font-size="12" fill="#555">(剖面)</text>
+<path d="M259.0 556 V442 L256.0 428 H288.0 L285.0 442 V556 Z" fill="#e3c491" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M265 512 V552 M279 512 V552" stroke="#b08c4a" stroke-width="1.2"/>
+<polygon points="266,418 278,418 272,485" fill="#a8773f" stroke="#333" stroke-width="1.6" stroke-linejoin="round"/>
+<path d="M272 384 V412" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<path d="M269 468 H259" stroke="#c33" stroke-width="2" marker-end="url(#arS)"/>
+<path d="M269 482 H259" stroke="#c33" stroke-width="2" marker-end="url(#arS)"/>
+<path d="M275 468 H285" stroke="#c33" stroke-width="2" marker-end="url(#arS)"/>
+<path d="M275 482 H285" stroke="#c33" stroke-width="2" marker-end="url(#arS)"/>
+<text x="290" y="396" font-size="12" fill="#555">硬木楔子</text>
+<line x1="296" y1="400" x2="275" y2="424" stroke="#0b5cad" stroke-width="1.3"/><circle cx="275" cy="424" r="2.6" fill="#0b5cad"/>
+<text x="198" y="412" font-size="13" fill="#c33" font-weight="bold">撑紧</text>
+<line x1="216" y1="417" x2="261" y2="468" stroke="#0b5cad" stroke-width="1.3"/><circle cx="261" cy="468" r="2.6" fill="#0b5cad"/>
 <path d="M435.0 442 H411.0 V506 H435.0 Z M461.0 442 H485.0 V506 H461.0 Z" fill="url(#hat)" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
-<path d="M435.0 590 V442 L432.0 428 H464.0 L461.0 442 V590 Z" fill="#e3c491" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
-<path d="M441 512 V586 M455 512 V586" stroke="#b08c4a" stroke-width="1.2"/>
-<polygon points="442,418 454,418 448,485" fill="#a8773f" stroke="#333" stroke-width="1.6" stroke-linejoin="round"/>
-<path d="M448 384 V412" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
-<path d="M444 456 H437" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
-<path d="M452 456 H459" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
-<text x="462" y="402" font-size="12" fill="#555">硬木楔子</text>
-<line x1="468" y1="406" x2="451" y2="424" stroke="#0b5cad" stroke-width="1.3"/><circle cx="451" cy="424" r="2.6" fill="#0b5cad"/>
-<text x="364" y="394" font-size="13" fill="#c33" font-weight="bold">撑紧</text>
-<line x1="388" y1="398" x2="439" y2="456" stroke="#0b5cad" stroke-width="1.3"/><circle cx="439" cy="456" r="2.6" fill="#0b5cad"/>
-<text x="372" y="402" font-size="12" fill="#555">(剖面)</text>
-<path d="M611.0 442 H587.0 V506 H611.0 Z M637.0 442 H661.0 V506 H637.0 Z" fill="url(#hat)" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
-<rect x="611.0" y="442" width="26" height="148" fill="#e3c491" stroke="#333" stroke-width="2"/>
-<path d="M617.5 446 V586 M630.5 446 V586" stroke="#b08c4a" stroke-width="1.2"/>
-<rect x="608.0" y="428" width="32" height="14" fill="url(#cut)" stroke="#c33" stroke-width="1.3" stroke-dasharray="4 3"/>
-<polygon points="619,442 629,442 624,485" fill="#a8773f" stroke="#333" stroke-width="1.5"/>
-<path d="M564 442 H684" stroke="#c33" stroke-width="1.6" stroke-dasharray="6 3"/>
-<text x="646" y="420" font-size="13" fill="#c33" font-weight="bold">锯平</text>
-<text x="548" y="402" font-size="12" fill="#555">(剖面)</text>
-<g transform="translate(100 500) rotate(-20)">
+<rect x="435.0" y="442" width="26" height="114" fill="#e3c491" stroke="#333" stroke-width="2"/>
+<path d="M441.5 446 V552 M454.5 446 V552" stroke="#b08c4a" stroke-width="1.2"/>
+<rect x="432.0" y="428" width="32" height="14" fill="url(#cut)" stroke="#c33" stroke-width="1.3" stroke-dasharray="4 3"/>
+<polygon points="443,442 453,442 448,485" fill="#a8773f" stroke="#333" stroke-width="1.5"/>
+<path d="M388 442 H508" stroke="#c33" stroke-width="1.6" stroke-dasharray="6 3"/>
+<text x="470" y="420" font-size="13" fill="#c33" font-weight="bold">锯平</text>
+<g transform="translate(640 470) rotate(-20)">
 <rect x="-9" y="-80" width="18" height="170" rx="6" fill="#e3c491" stroke="#333" stroke-width="2"/>
 <path d="M-9 -80 H9 V-48 H-9 Z M-9 -76 L-56 -92 L-56 -36 L-9 -52 Z M9 -76 H24 V-52 H9 Z" fill="#9aa5b0" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
 </g>
-<path d="M48 430 A120 120 0 0 1 118 400" fill="none" stroke="#c33" stroke-width="2.2" marker-end="url(#arR)"/>
-<path d="M40 446 A140 140 0 0 1 60 424" fill="none" stroke="#c33" stroke-width="2.2"/>
-<text x="130" y="412" font-size="13" fill="#c33">甩</text>
-<path d="M150 470 l10 -6 M150 480 h12 M150 490 l10 6" stroke="#c33" stroke-width="2"/>
-<text x="146" y="516" font-size="13" fill="#c33">敲</text>
-<text x="122" y="556" font-size="12" fill="#c33" font-weight="bold" text-anchor="middle">不能有任何松动</text>
+<path d="M588 404 A120 120 0 0 1 658 374" fill="none" stroke="#c33" stroke-width="2.2" marker-end="url(#arR)"/>
+<path d="M580 420 A140 140 0 0 1 600 398" fill="none" stroke="#c33" stroke-width="2.2"/>
+<text x="666" y="386" font-size="13" fill="#c33">甩</text>
+<path d="M692 540 l8 -6 M694 551 h10 M692 562 l8 6" stroke="#c33" stroke-width="2"/>
+<text x="684" y="528" font-size="13" fill="#c33">敲</text>
 <rect x="10" y="664" width="700" height="70" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
 <path d="M24 676 l12 20 h-24 z" fill="#c33"/><text x="24" y="693" font-size="13" fill="#fff" text-anchor="middle" font-weight="bold">!</text>
 <text x="44" y="692" font-size="14.5" font-weight="bold" fill="#c33">斧头、锤头松动时立即停用修理,飞出去会伤人</text>

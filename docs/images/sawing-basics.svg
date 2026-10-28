@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 796" width="720" height="796" role="img" aria-label="锯木头: 量两次,锯一次;用角尺画直角线,用墨斗或粉线弹长直线;在线的废料一侧锯,因为锯缝本身有宽度。1. 用拇指靠住锯片,轻轻往回拉几下,锯出一条小口;2. 拉开锯口后,用较长的行程、均匀的力往复锯;3. 不要用力往下压,让锯齿自己切削;4. 快锯断时放慢,托住要断的一端,防止木料撕裂。安全: 工件用夹具或台钳夹牢;锯保持锋利,钝的工具要用更大力气,更容易打滑伤人;锯木时戴口罩,有条件时开窗或在室外;不要穿宽松的袖子、戴手套操作电锯等旋转工具;锯片涂油,挂起来防止弯曲" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>锯木头</title>
+<defs><marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker><marker id="arR0" viewBox="0 0 10 10" refX="2" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M10 0 L0 5 L10 10 Z" fill="#c33"/></marker><marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker><marker id="arB0" viewBox="0 0 10 10" refX="2" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M10 0 L0 5 L10 10 Z" fill="#0b5cad"/></marker><pattern id="cut" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#fbe9e9"/><path d="M0 0 V6" stroke="#c33" stroke-width="1.2"/></pattern></defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" text-anchor="middle" font-weight="bold">锯木头: 在线的废料一侧锯,让锯齿自己切削</text>
+<rect x="10" y="44" width="344" height="212" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<rect x="366" y="44" width="344" height="212" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="24" y="70" font-size="16" font-weight="bold">量和画线(俯视)</text>
+<text x="380" y="70" font-size="16" font-weight="bold">在线的废料一侧锯(俯视)</text>
+<rect x="40" y="116" width="280" height="70" fill="#f1dcb5" stroke="#333" stroke-width="2"/>
+<path d="M46 140 H314 M46 164 H314" stroke="#c9a66b" stroke-width="1"/>
+<path d="M120 186 H178 V200 H120 Z" fill="#8b6b3e" stroke="#333" stroke-width="1.8"/>
+<path d="M170 186 V102 H178 V186 Z" fill="#c0c8d0" stroke="#333" stroke-width="1.8"/>
+<path d="M182 116 V186" stroke="#333" stroke-width="2"/>
+<path d="M200 98 L186 122" stroke="#555" stroke-width="5" stroke-linecap="round"/>
+<text x="206" y="106" font-size="12" fill="#555">铅笔</text>
+<text x="56" y="98" font-size="13" fill="#555">角尺</text>
+<line x1="84" y1="94" x2="172" y2="108" stroke="#0b5cad" stroke-width="1.3"/><circle cx="172" cy="108" r="2.6" fill="#0b5cad"/>
+<text x="24" y="220" font-size="14">用角尺画直角线,</text>
+<text x="24" y="240" font-size="14">用墨斗或粉线弹长直线</text>
+<rect x="214" y="206" width="130" height="40" rx="6" fill="#fff4d6" stroke="#e0b400" stroke-width="1.5"/>
+<text x="279" y="232" font-size="14" font-weight="bold" text-anchor="middle">量两次,锯一次</text>
+<rect x="390" y="108" width="150" height="70" fill="#f1dcb5" stroke="#333" stroke-width="2"/>
+<rect x="540" y="108" width="150" height="70" fill="url(#cut)" stroke="#333" stroke-width="2"/>
+<rect x="541" y="102" width="9" height="82" fill="#666" stroke="#333" stroke-width="1"/>
+<path d="M540 96 V190" stroke="#222" stroke-width="2"/>
+<text x="465" y="148" font-size="14" text-anchor="middle" font-weight="bold">要的部分</text>
+<text x="640" y="148" font-size="14" text-anchor="middle" font-weight="bold" fill="#c33">废料</text>
+<text x="534" y="90" font-size="12" fill="#555" text-anchor="end">画的线</text>
+<line x1="530" y1="86" x2="539" y2="98" stroke="#0b5cad" stroke-width="1.3"/><circle cx="539" cy="98" r="2.6" fill="#0b5cad"/>
+<text x="562" y="90" font-size="12" fill="#0b5cad">锯缝</text>
+<line x1="562" y1="86" x2="547" y2="104" stroke="#0b5cad" stroke-width="1.3"/><circle cx="547" cy="104" r="2.6" fill="#0b5cad"/>
+<path d="M526 200 H540" stroke="#0b5cad" stroke-width="1.5" marker-end="url(#arB)"/>
+<path d="M564 200 H550" stroke="#0b5cad" stroke-width="1.5" marker-end="url(#arB)"/>
+<text x="380" y="220" font-size="14">锯缝本身有宽度,</text>
+<text x="380" y="240" font-size="14">所以要锯在线的废料一侧</text>
+<rect x="10" y="268" width="172" height="300" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<rect x="186" y="268" width="172" height="300" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<rect x="362" y="268" width="172" height="300" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<rect x="538" y="268" width="172" height="300" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="20" y="292" font-size="15" font-weight="bold">① 起锯</text>
+<text x="20" y="514" font-size="13.5">用拇指靠住锯片,</text>
+<text x="20" y="533" font-size="13.5">轻轻往回拉几下,</text>
+<text x="20" y="552" font-size="13.5">锯出一条小口</text>
+<text x="196" y="292" font-size="15" font-weight="bold">② 往复锯</text>
+<text x="196" y="514" font-size="13.5">拉开锯口后,用较长</text>
+<text x="196" y="533" font-size="13.5">的行程、均匀的力</text>
+<text x="196" y="552" font-size="13.5">往复锯</text>
+<text x="372" y="292" font-size="15" font-weight="bold">③ 不要往下压</text>
+<text x="372" y="514" font-size="13.5">不要用力往下压,</text>
+<text x="372" y="533" font-size="13.5">让锯齿自己切削</text>
+<text x="548" y="292" font-size="15" font-weight="bold">④ 快锯断时</text>
+<text x="548" y="514" font-size="13.5">放慢,托住要断的</text>
+<text x="548" y="533" font-size="13.5">一端,防止木料撕裂</text>
+<text x="172" y="292" font-size="12" fill="#555" text-anchor="end">(俯视)</text>
+<rect x="30" y="318" width="132" height="80" fill="#f1dcb5" stroke="#333" stroke-width="2"/>
+<path d="M36 344 H156 M36 372 H156" stroke="#c9a66b" stroke-width="1"/>
+<rect x="96" y="318" width="66" height="80" fill="url(#cut)" stroke="#333" stroke-width="2"/>
+<text x="129" y="350" font-size="12" fill="#c33" text-anchor="middle" font-weight="bold">废料</text>
+<path d="M96 318 V398" stroke="#222" stroke-width="2"/>
+<rect x="98" y="364" width="5" height="80" fill="#888" stroke="#333" stroke-width="1"/>
+<rect x="94" y="440" width="13" height="24" rx="3" fill="#c8a06a" stroke="#333" stroke-width="1.8"/>
+<path d="M50 426 C56 400 88 390 96 400 C100 408 94 420 82 426 Z" fill="#f3e3d3" stroke="#333" stroke-width="1.8"/>
+<path d="M84 400 q-2 7 4 10" fill="none" stroke="#333" stroke-width="1.2"/>
+<path d="M120 408 V464" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="126" y="440" font-size="12" fill="#c33">轻轻</text>
+<text x="126" y="456" font-size="12" fill="#c33">往回拉</text>
+<text x="24" y="454" font-size="12" fill="#555">拇指</text>
+<line x1="40" y1="442" x2="66" y2="416" stroke="#0b5cad" stroke-width="1.3"/><circle cx="66" cy="416" r="2.6" fill="#0b5cad"/>
+<text x="126" y="312" font-size="12" fill="#555">线</text>
+<line x1="124" y1="308" x2="97" y2="326" stroke="#0b5cad" stroke-width="1.3"/><circle cx="97" cy="326" r="2.6" fill="#0b5cad"/>
+<text x="44" y="480" font-size="12" fill="#555">锯片</text>
+<line x1="70" y1="475" x2="98" y2="436" stroke="#0b5cad" stroke-width="1.3"/><circle cx="98" cy="436" r="2.6" fill="#0b5cad"/>
+<rect x="200" y="422" width="144" height="12" fill="#bbb" stroke="#333" stroke-width="1.8"/>
+<path d="M208 434 V462 M336 434 V462" stroke="#333" stroke-width="5"/>
+<polygon points="259,418 321.8,378.8 309,358.4 252.6,407.8" fill="#d6dde4" stroke="#333" stroke-width="1.8" stroke-linejoin="round"/>
+<polyline points="259,418 263.1,419 264.1,414.8 268.2,415.8 269.2,411.6 273.3,412.6 274.3,408.5 278.4,409.4 279.4,405.3 283.5,406.2 284.4,402.1 288.6,403.1 289.5,398.9 293.7,399.9 294.6,395.7 298.8,396.7 299.7,392.6 303.8,393.5 304.8,389.4 308.9,390.3 309.9,386.2 314,387.2 315,383 319.1,384" fill="none" stroke="#333" stroke-width="1.2"/>
+<polygon points="320.5,384.3 352.7,364.2 337.7,328.8 302,351" fill="#c8a06a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="326.4,371.2 341.7,361.6 333.6,343.1 317.5,353.1" fill="#fff" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="198" y="406" width="150" height="16" fill="#f1dcb5" stroke="#333" stroke-width="2"/>
+<path d="M202 411.0 H344 M202 417.0 H344" stroke="#c9a66b" stroke-width="1"/>
+<rect x="276" y="406" width="4" height="7" fill="#555"/>
+<path d="M216 398 V442" stroke="#555" stroke-width="4"/>
+<path d="M216 398 H234 M216 442 H234" stroke="#555" stroke-width="4"/>
+<rect x="228" y="402" width="10" height="5" fill="#555"/>
+<text x="348" y="292" font-size="12" fill="#555" text-anchor="end">(侧面)</text>
+<path d="M242 366 L313.2 321.5" stroke="#c33" stroke-width="2.5" marker-start="url(#arR0)" marker-end="url(#arR)"/>
+<text x="198" y="318" font-size="13" fill="#c33">行程长、用力均匀</text>
+<text x="226" y="490" font-size="12" fill="#0b5cad">工件夹牢</text>
+<line x1="232" y1="478" x2="220" y2="442" stroke="#0b5cad" stroke-width="1.3"/><circle cx="220" cy="442" r="2.6" fill="#0b5cad"/>
+<rect x="376" y="422" width="144" height="12" fill="#bbb" stroke="#333" stroke-width="1.8"/>
+<path d="M384 434 V462 M512 434 V462" stroke="#333" stroke-width="5"/>
+<polygon points="435,418 497.8,378.8 485,358.4 428.6,407.8" fill="#d6dde4" stroke="#333" stroke-width="1.8" stroke-linejoin="round"/>
+<polyline points="435,418 439.1,419 440.1,414.8 444.2,415.8 445.2,411.6 449.3,412.6 450.3,408.5 454.4,409.4 455.4,405.3 459.5,406.2 460.4,402.1 464.6,403.1 465.5,398.9 469.7,399.9 470.6,395.7 474.8,396.7 475.7,392.6 479.8,393.5 480.8,389.4 484.9,390.3 485.9,386.2 490,387.2 491,383 495.1,384" fill="none" stroke="#333" stroke-width="1.2"/>
+<polygon points="496.5,384.3 528.7,364.2 513.7,328.8 478,351" fill="#c8a06a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="502.4,371.2 517.7,361.6 509.6,343.1 493.5,353.1" fill="#fff" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="374" y="406" width="150" height="16" fill="#f1dcb5" stroke="#333" stroke-width="2"/>
+<path d="M378 411.0 H520 M378 417.0 H520" stroke="#c9a66b" stroke-width="1"/>
+<rect x="452" y="406" width="4" height="7" fill="#555"/>
+<path d="M392 398 V442" stroke="#555" stroke-width="4"/>
+<path d="M392 398 H410 M392 442 H410" stroke="#555" stroke-width="4"/>
+<rect x="404" y="402" width="10" height="5" fill="#555"/>
+<text x="524" y="292" font-size="12" fill="#555" text-anchor="end">(侧面)</text>
+<path d="M402 334 V374" stroke="#c33" stroke-width="5" marker-end="url(#arR)"/>
+<circle cx="402" cy="354" r="22" fill="none" stroke="#c33" stroke-width="2.5"/><path d="M387 339 L417 369" stroke="#c33" stroke-width="2.5"/>
+<text x="374" y="318" font-size="13" fill="#c33" font-weight="bold">不要用力往下压</text>
+<text x="426" y="490" font-size="12" fill="#0b5cad">锯齿自己切削</text>
+<line x1="458" y1="478" x2="452" y2="410" stroke="#0b5cad" stroke-width="1.3"/><circle cx="452" cy="410" r="2.6" fill="#0b5cad"/>
+<text x="700" y="292" font-size="12" fill="#555" text-anchor="end">(侧面)</text>
+<rect x="552" y="422" width="74" height="12" fill="#bbb" stroke="#333" stroke-width="1.8"/>
+<path d="M560 434 V462 M618 434 V462" stroke="#333" stroke-width="5"/>
+<polygon points="611,418 673.8,378.8 661,358.4 604.6,407.8" fill="#d6dde4" stroke="#333" stroke-width="1.8" stroke-linejoin="round"/>
+<polyline points="611,418 615.1,419 616.1,414.8 620.2,415.8 621.2,411.6 625.3,412.6 626.3,408.5 630.4,409.4 631.4,405.3 635.5,406.2 636.4,402.1 640.6,403.1 641.5,398.9 645.7,399.9 646.6,395.7 650.8,396.7 651.7,392.6 655.8,393.5 656.8,389.4 660.9,390.3 661.9,386.2 666,387.2 667,383 671.1,384" fill="none" stroke="#333" stroke-width="1.2"/>
+<polygon points="672.5,384.3 704.7,364.2 689.7,328.8 654,351" fill="#c8a06a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="678.4,371.2 693.7,361.6 685.6,343.1 669.5,353.1" fill="#fff" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="550" y="406" width="150" height="16" fill="#f1dcb5" stroke="#333" stroke-width="2"/>
+<path d="M554 411.0 H696 M554 417.0 H696" stroke="#c9a66b" stroke-width="1"/>
+<rect x="628" y="406" width="4" height="7" fill="#555"/>
+<path d="M568 398 V442" stroke="#555" stroke-width="4"/>
+<path d="M568 398 H586 M568 442 H586" stroke="#555" stroke-width="4"/>
+<rect x="580" y="402" width="10" height="5" fill="#555"/>
+<rect x="628" y="406" width="4" height="13" fill="#555"/>
+<path d="M648 423 h36 q6 0 6 6 v18 q0 12 -12 14 h-26 q-10 -2 -10 -14 v-18 q0 -6 6 -6 z" fill="#f3e3d3" stroke="#333" stroke-width="1.8"/>
+<path d="M658 423 v10 M668 423 v10 M678 423 v10" stroke="#333" stroke-width="1.2"/>
+<path d="M662 461 l-5 18 M680 461 l5 18" stroke="#333" stroke-width="2"/>
+<path d="M700 472 V426" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="662" y="490" font-size="13" fill="#c33" font-weight="bold">托住</text>
+<text x="550" y="318" font-size="13" fill="#c33" font-weight="bold">放慢</text>
+<rect x="10" y="580" width="700" height="206" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="24" y="606" font-size="16" font-weight="bold">安全</text>
+<path d="M26 632 l6 7 l11 -13" fill="none" stroke="#2a8a3a" stroke-width="3"/>
+<text x="52" y="638" font-size="14.5">工件用夹具或台钳夹牢</text>
+<path d="M26 666 l6 7 l11 -13" fill="none" stroke="#2a8a3a" stroke-width="3"/>
+<text x="52" y="672" font-size="14.5">锯保持锋利: 钝的工具要用更大力气,更容易打滑伤人</text>
+<path d="M26 700 l6 7 l11 -13" fill="none" stroke="#2a8a3a" stroke-width="3"/>
+<text x="52" y="706" font-size="14.5">锯木时戴口罩(木屑粉尘),有条件时开窗或在室外</text>
+<path d="M26 727 l14 14 M40 727 l-14 14" stroke="#c33" stroke-width="3"/>
+<text x="52" y="740" font-size="14.5" fill="#c33">不要穿宽松的袖子、戴手套操作电锯等旋转工具(容易被卷进去)</text>
+<path d="M26 768 l6 7 l11 -13" fill="none" stroke="#2a8a3a" stroke-width="3"/>
+<text x="52" y="774" font-size="14.5">锯片涂油,挂起来防止弯曲</text>
+</g>
+</svg>
