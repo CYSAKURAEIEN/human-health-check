@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 724" width="720" height="724" role="img" aria-label="化学品泄漏时怎么躲: 1 室外,先判断风向,正处在下风的烟雾带里时先横着(与风向垂直)走出烟雾带,再转向上风方向远离,不要顺着风跑;2 往高处,有些气体比空气重会沉到低处,避开地下通道、地下室、沟渠、桥洞等低洼处,用湿布捂住口鼻快速撤离;3 来不及走就在室内就地避难: 关闭门窗,关空调、排风扇、抽油烟机、新风系统,湿毛巾堵门缝,胶带和塑料布封窗缝和通风口,往上层移动、选窗户最少的房间,收听官方指示,政府通知撤离就撤离;沾上了就脱掉污染衣物,清水冲洗至少15分钟并就医;不要冲进烟雾区救人">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>化学品泄漏: 往上风或侧风方向离开,来不及走就关门窗避难</title>
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="ab" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<g id="man">
+<circle cx="0" cy="-30" r="7" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M0,-22 L0,-6 M0,-6 L-6,8 M0,-6 L6,8 M0,-18 L-7,-8 M0,-18 L7,-8" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+</g>
+</defs>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="14" fill="#222">
+<text x="360" y="30" font-size="18" font-weight="bold" text-anchor="middle">化学品泄漏: 往上风或侧风方向离开,来不及走就关门窗避难</text>
+
+<!-- ① 室外 -->
+<g transform="translate(10,44)">
+<rect x="0" y="0" width="700" height="300" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">① 室外(俯视): 先横着走出烟雾带,再往上风方向远离</text>
+<!-- 风 -->
+<g stroke="#0b5cad" stroke-width="2.5" marker-end="url(#ab)">
+<path d="M30,62 L110,62"/><path d="M30,112 L110,112"/><path d="M30,162 L110,162"/>
+</g>
+<text x="30" y="52" font-size="14" fill="#0b5cad" font-weight="bold">风向 →</text>
+<text x="30" y="200" font-size="13" fill="#0b5cad">上风</text>
+<text x="640" y="236" font-size="13" fill="#0b5cad">下风</text>
+<!-- 烟雾带 -->
+<path d="M160,104 Q300,62 680,50 L680,206 Q300,170 160,126 Z" fill="#e6e0a0" fill-opacity="0.7" stroke="#a89a3a" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="520" y="118" font-size="14" fill="#6b6020">毒气烟雾带</text>
+<text x="520" y="136" font-size="13" fill="#6b6020">(顺着风飘向下风)</text>
+<!-- 泄漏源 -->
+<circle cx="150" cy="115" r="22" fill="#e8e8e8" stroke="#333" stroke-width="2.5"/>
+<circle cx="150" cy="115" r="12" fill="none" stroke="#333" stroke-width="1.5"/>
+<text x="150" y="160" font-size="13" text-anchor="middle">泄漏源</text>
+<!-- 人 -->
+<use href="#man" transform="translate(340,130)"/>
+<path d="M356,124 L440,124" stroke="#c33" stroke-width="2.5" stroke-dasharray="6 4" marker-end="url(#ar)"/>
+<path d="M392,112 l12,12 m0,-12 l-12,12" stroke="#c33" stroke-width="3" stroke-linecap="round"/>
+<text x="378" y="104" font-size="13" fill="#c33">不要顺着风跑</text>
+<path d="M340,146 L340,212" stroke="#c33" stroke-width="4" marker-end="url(#ar)"/>
+<path d="M332,226 Q290,250 222,252" fill="none" stroke="#c33" stroke-width="4" marker-end="url(#ar)"/>
+<text x="352" y="196" font-size="13" fill="#c33">❶ 横着(与风向垂直)</text>
+<text x="352" y="214" font-size="13" fill="#c33">走出烟雾带</text>
+<text x="352" y="246" font-size="13" fill="#c33">❷ 再转向上风方向远离</text>
+<text x="16" y="276" font-size="13"><tspan font-weight="bold">判断风向:</tspan> 看烟雾、旗帜、树叶、晾晒的衣物、烟囱冒的烟往哪边飘;</text>
+<text x="84" y="294" font-size="13">弄湿手指举起,感觉凉的一侧是风吹来的方向</text>
+</g>
+
+<!-- ② 往高处 -->
+<g transform="translate(10,354)">
+<rect x="0" y="0" width="345" height="290" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">② 往高处,避开低洼处</text>
+<!-- 毒气沉在低处 -->
+<path d="M16,184 L40,184 L52,226 L118,226 L130,184 L210,184 Q218,184 222,176 L226,168 Q200,166 180,170 L130,170 Q90,164 40,170 L16,172 Z" fill="#e6e0a0" fill-opacity="0.8"/>
+<!-- 地面 -->
+<path d="M16,184 L40,184 L52,226 L118,226 L130,184 L210,184 Q240,180 268,112 Q276,96 300,94 L329,94" fill="none" stroke="#999" stroke-width="3" stroke-linejoin="round"/>
+<g stroke="#6b6020" stroke-width="1.8" fill="none" stroke-linecap="round">
+<path d="M60,140 l0,18 m-6,-7 l6,7 l6,-7"/><path d="M100,140 l0,18 m-6,-7 l6,7 l6,-7"/><path d="M140,140 l0,18 m-6,-7 l6,7 l6,-7"/>
+</g>
+<text x="24" y="110" font-size="13" fill="#6b6020">有些气体比空气重(如氯气),</text>
+<text x="24" y="128" font-size="13" fill="#6b6020">会沉到低处</text>
+<line x1="70" y1="244" x2="80" y2="214" stroke="#c33" stroke-width="1"/>
+<text x="24" y="258" font-size="13" fill="#c33">✗ 避开地下通道、地下室、沟渠、桥洞</text>
+<use href="#man" transform="translate(286,90)"/>
+<path d="M222,170 Q244,140 262,104" fill="none" stroke="#c33" stroke-width="3.5" marker-end="url(#ar)"/>
+<text x="150" y="70" font-size="13" fill="#0b5cad">往高处撤离</text>
+<line x1="210" y1="74" x2="250" y2="112" stroke="#0b5cad" stroke-width="1"/>
+<text x="24" y="278" font-size="13">用湿布捂住口鼻,快速撤离,不要停留</text>
+</g>
+
+<!-- ③ 就地避难 -->
+<g transform="translate(365,354)">
+<rect x="0" y="0" width="345" height="290" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">③ 来不及走: 关门窗就地避难</text>
+<!-- 毒气 -->
+<path d="M10,238 L10,204 Q28,196 40,200 L40,238 Z" fill="#e6e0a0" fill-opacity="0.8"/>
+<text x="12" y="192" font-size="12" fill="#6b6020">毒气</text>
+<!-- 房子剖面 -->
+<path d="M30,90 L105,46 L180,90" fill="none" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+<rect x="40" y="90" width="130" height="148" fill="#fafafa" stroke="#333" stroke-width="2.5"/>
+<line x1="40" y1="162" x2="170" y2="162" stroke="#333" stroke-width="3"/>
+<line x1="10" y1="238" x2="190" y2="238" stroke="#999" stroke-width="3"/>
+<!-- 楼梯 -->
+<path d="M120,238 L120,226 L132,226 L132,214 L144,214 L144,202 L156,202 L156,190 L168,190" fill="none" stroke="#999" stroke-width="2"/>
+<!-- 一楼窗 -->
+<rect x="40" y="186" width="8" height="34" fill="#d8ebf7" stroke="#333" stroke-width="1.5"/>
+<!-- 二楼窗,胶带封 -->
+<rect x="40" y="106" width="8" height="34" fill="#d8ebf7" stroke="#333" stroke-width="1.5"/>
+<rect x="38" y="104" width="12" height="38" fill="none" stroke="#0b5cad" stroke-width="2.5" stroke-dasharray="5 2"/>
+<!-- 空调 -->
+<rect x="120" y="98" width="40" height="14" rx="3" fill="#fff" stroke="#333" stroke-width="1.8"/>
+<path d="M135,100 l10,10 m0,-10 l-10,10" stroke="#c33" stroke-width="2.2" stroke-linecap="round"/>
+<!-- 门 + 湿毛巾 -->
+<rect x="146" y="124" width="20" height="38" fill="#c8a46e" stroke="#333" stroke-width="1.5"/>
+<rect x="138" y="156" width="30" height="6" rx="2" fill="#7aa6cc" stroke="#333" stroke-width="1"/>
+<!-- 人 -->
+<use href="#man" transform="translate(96,154)"/>
+<path d="M112,220 Q76,206 86,174" fill="none" stroke="#c33" stroke-width="3" marker-end="url(#ar)"/>
+<text x="56" y="232" font-size="12" fill="#c33">往上层</text>
+<g font-size="13">
+<text x="190" y="62"><tspan fill="#0b5cad" font-weight="bold">✓</tspan> 关闭门窗</text>
+<text x="190" y="86"><tspan fill="#0b5cad" font-weight="bold">✓</tspan> 关空调、排风扇、</text>
+<text x="204" y="104">抽油烟机、新风系统</text>
+<text x="190" y="128"><tspan fill="#0b5cad" font-weight="bold">✓</tspan> 湿毛巾堵门缝</text>
+<text x="190" y="152"><tspan fill="#0b5cad" font-weight="bold">✓</tspan> 胶带、塑料布封住</text>
+<text x="204" y="170">窗缝、通风口</text>
+<text x="190" y="194"><tspan fill="#0b5cad" font-weight="bold">✓</tspan> 往上层移动,选</text>
+<text x="204" y="212">窗户最少的房间</text>
+<text x="190" y="236"><tspan fill="#0b5cad" font-weight="bold">✓</tspan> 收听官方指示</text>
+</g>
+<text x="16" y="262" font-size="13">政府通知撤离就撤离,往上风方向走</text>
+<text x="16" y="280" font-size="12" fill="#555">注意: 和核辐射相反(核事故去地下室或楼房中部)</text>
+</g>
+
+<!-- 沾上了 -->
+<g transform="translate(10,654)">
+<rect x="0" y="0" width="700" height="60" rx="8" fill="#fdecec" stroke="#c33" stroke-width="2"/>
+<text x="16" y="25" font-size="14"><tspan fill="#c33" font-weight="bold">沾上了:</tspan> 脱掉污染衣物(不要从头部脱),清水冲洗至少15分钟,就医;拨打119/120报告</text>
+<text x="16" y="48" font-size="14"><tspan fill="#c33" font-weight="bold">✗</tspan> 很多人同时流泪、咳嗽、倒地时,不要靠近去救人,先撤离再报警</text>
+</g>
+</g>
+</svg>

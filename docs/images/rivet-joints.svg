@@ -1,0 +1,190 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 794" width="720" height="794" role="img" aria-label="铆接与铁皮咬口。尺寸经验: 铆钉直径d薄板约为板厚的1.5-2倍,铆钉中心距至少3d,铆钉到板边至少2d,铆钉长度为两层板的总厚度加约1.5d(用来打成另一个铆钉头)。冷铆: ①两块板夹紧,一起钻孔,孔径比铆钉稍大一点;②插入铆钉,钉头一侧垫在砧子或铁块上;③用锤子先把露出的钉杆打粗(镦粗);④再打成圆头,两块板之间紧密贴合,不晃动。热铆: 把铆钉加热到鲜红色,迅速插入孔中,背面顶住,正面锤打成头,铆钉冷却收缩把两块板拉得非常紧,比冷铆结实得多,适合受力大的地方。铁皮咬口: 把两块铁皮的边折弯互相钩住再压平,不用铆钉、不用焊接,做铁皮桶、烟囱管、水槽,再用锡焊封缝即可防漏" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>铆接与铁皮咬口</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<marker id="tkB" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M5 0 V10" stroke="#0b5cad" stroke-width="1.5"/></marker>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" text-anchor="middle" font-weight="bold">铆接: 两板一起钻孔,垫住钉头,镦粗后打成圆头</text>
+
+<!-- 尺寸经验 -->
+<rect x="10" y="44" width="700" height="230" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="20" y="68" font-size="15" font-weight="bold">尺寸经验(d = 铆钉直径)</text>
+<text x="330" y="68" font-size="12" fill="#555" text-anchor="end">(俯视)</text>
+<rect x="30" y="76" width="300" height="86" fill="#d6dde4" stroke="none"/>
+<rect x="30" y="162" width="300" height="34" fill="#b8c2cc" stroke="none"/>
+<path d="M30,98 H330" stroke="#333" stroke-width="1.5" stroke-dasharray="5 3"/>
+<path d="M30,162 H330" stroke="#333" stroke-width="2"/>
+<text x="36" y="92" font-size="12" fill="#555">上板</text>
+<text x="324" y="188" font-size="12" fill="#555" text-anchor="end">下板</text>
+<g fill="#eef1f4" stroke="#333" stroke-width="2">
+<circle cx="110" cy="130" r="8"/><circle cx="158" cy="130" r="8"/><circle cx="206" cy="130" r="8"/><circle cx="254" cy="130" r="8"/><circle cx="302" cy="130" r="8"/>
+</g>
+<path d="M206,142 V180 M254,142 V180" stroke="#0b5cad" stroke-width="1" stroke-dasharray="2 2"/>
+<path d="M206,176 H254" stroke="#0b5cad" stroke-width="1.3" marker-start="url(#tkB)" marker-end="url(#tkB)"/>
+<text x="230" y="192" font-size="12.5" fill="#0b5cad" text-anchor="middle">中心距: 至少3d</text>
+<path d="M74,130 H102" stroke="#0b5cad" stroke-width="1" stroke-dasharray="2 2"/>
+<path d="M80,130 V162" stroke="#0b5cad" stroke-width="1.3" marker-start="url(#tkB)" marker-end="url(#tkB)"/>
+<text x="66" y="182" font-size="12.5" fill="#0b5cad">到板边: 至少2d</text>
+<text x="660" y="68" font-size="12" fill="#555" text-anchor="end">(剖面)</text>
+<rect x="400" y="140" width="260" height="10" fill="#c0c8d0" stroke="#333" stroke-width="1.8"/>
+<rect x="380" y="150" width="240" height="10" fill="#9aa3ad" stroke="#333" stroke-width="1.8"/>
+<rect x="500" y="139" width="20" height="22" fill="#fff"/>
+<path d="M500,140 V160 M520,140 V160" stroke="#333" stroke-width="1.5"/>
+<rect x="502" y="116" width="16" height="45" fill="#e6e9ec" stroke="#333" stroke-width="1.8"/>
+<path d="M492,160 A18,11 0 0 0 528,160 Z" fill="#e6e9ec" stroke="#333" stroke-width="1.8"/>
+<path d="M502,108 H518" stroke="#0b5cad" stroke-width="1.3" marker-start="url(#tkB)" marker-end="url(#tkB)"/>
+<text x="494" y="112" font-size="13" fill="#0b5cad" text-anchor="end" font-weight="bold">d</text>
+<path d="M530,116 V140" stroke="#0b5cad" stroke-width="1.3" marker-start="url(#tkB)" marker-end="url(#tkB)"/>
+<text x="538" y="116" font-size="12.5" fill="#0b5cad">露出约1.5d,用来</text>
+<text x="538" y="133" font-size="12.5" fill="#0b5cad">打成另一个铆钉头</text>
+<path d="M470,140 V160" stroke="#0b5cad" stroke-width="1.3" marker-start="url(#tkB)" marker-end="url(#tkB)"/>
+<text x="380" y="196" font-size="12.5" fill="#0b5cad">两层板总厚度</text>
+<line x1="440" y1="184" x2="469" y2="157" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="560" y="196" font-size="12.5" fill="#555">孔径比铆钉稍大一点</text>
+<line x1="576" y1="184" x2="520" y2="156" stroke="#0b5cad" stroke-width="1.2"/><circle cx="520" cy="156" r="2.2" fill="#0b5cad"/>
+<text x="512" y="190" font-size="12" fill="#555" text-anchor="middle">钉头</text>
+<g font-size="13.5">
+<text x="20" y="228">铆钉直径 d: 薄板约为板厚的1.5-2倍;铆钉中心距至少3d;铆钉到板边至少2d</text>
+<text x="20" y="250">铆钉长度 = 两层板的总厚度 + 约1.5d(用来打成另一个铆钉头)</text>
+</g>
+
+<!-- 冷铆 4 步 -->
+<g transform="translate(10,284)">
+<rect width="172" height="230" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="10" y="24" font-size="15" font-weight="bold">① 夹紧,一起钻孔</text>
+<rect x="30" y="110" width="128" height="10" fill="#c0c8d0" stroke="#333" stroke-width="1.8"/>
+<rect x="30" y="120" width="128" height="10" fill="#9aa3ad" stroke="#333" stroke-width="1.8"/>
+<path d="M52,94 H18 V146 H52" fill="none" stroke="#555" stroke-width="5" stroke-linejoin="round"/>
+<path d="M44,86 V108" stroke="#555" stroke-width="4"/>
+<rect x="37" y="104" width="14" height="6" fill="#555"/>
+<rect x="37" y="130" width="14" height="6" fill="#555"/>
+<rect x="76" y="34" width="20" height="18" rx="2" fill="#888" stroke="#333" stroke-width="1.5"/>
+<path d="M79,52 H93 V102 L86,110 L79,102 Z" fill="#d6dde4" stroke="#333" stroke-width="1.5"/>
+<path d="M79,60 L93,68 M79,72 L93,80 M79,84 L93,92 M79,96 L93,104" stroke="#555" stroke-width="1.2"/>
+<path d="M114,48 V92" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="120" y="68" font-size="12" fill="#555">钻头</text>
+<text x="58" y="150" font-size="12" fill="#555">夹紧</text>
+<g font-size="13">
+<text x="10" y="186">两块板夹紧,一起钻孔</text>
+<text x="10" y="204">(孔径比铆钉稍大一点)</text>
+</g>
+</g>
+
+<g transform="translate(186,284)">
+<rect width="172" height="230" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="10" y="24" font-size="15" font-weight="bold">② 插入,垫住钉头</text>
+<rect x="14" y="110" width="144" height="10" fill="#c0c8d0" stroke="#333" stroke-width="1.8"/>
+<rect x="14" y="120" width="144" height="10" fill="#9aa3ad" stroke="#333" stroke-width="1.8"/>
+<rect x="76" y="109" width="20" height="22" fill="#fff"/>
+<path d="M76,110 V130 M96,110 V130" stroke="#333" stroke-width="1.5"/>
+<rect x="78" y="86" width="16" height="45" fill="#e6e9ec" stroke="#333" stroke-width="1.8"/>
+<path d="M68,130 A18,10 0 0 0 104,130 Z" fill="#e6e9ec" stroke="#333" stroke-width="1.8"/>
+<rect x="40" y="140" width="92" height="22" fill="#666" stroke="#333" stroke-width="1.8"/>
+<path d="M86,48 V78" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="138" y="156" font-size="12" fill="#555">砧子</text>
+<text x="112" y="80" font-size="12" fill="#555">钉杆</text>
+<line x1="110" y1="76" x2="95" y2="92" stroke="#0b5cad" stroke-width="1.2"/>
+<g font-size="13">
+<text x="10" y="186">插入铆钉,钉头一侧</text>
+<text x="10" y="204">垫在砧子或铁块上</text>
+</g>
+</g>
+
+<g transform="translate(362,284)">
+<rect width="172" height="230" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="10" y="24" font-size="15" font-weight="bold">③ 先镦粗</text>
+<rect x="14" y="110" width="144" height="10" fill="#c0c8d0" stroke="#333" stroke-width="1.8"/>
+<rect x="14" y="120" width="144" height="10" fill="#9aa3ad" stroke="#333" stroke-width="1.8"/>
+<rect x="76" y="109" width="20" height="22" fill="#e6e9ec"/>
+<path d="M76,110 V130 M96,110 V130" stroke="#333" stroke-width="1.5"/>
+<path d="M76,110 Q70,104 72,96 H100 Q102,104 96,110 Z" fill="#e6e9ec" stroke="#333" stroke-width="1.8"/>
+<path d="M68,130 A18,10 0 0 0 104,130 Z" fill="#e6e9ec" stroke="#333" stroke-width="1.8"/>
+<rect x="40" y="140" width="92" height="22" fill="#666" stroke="#333" stroke-width="1.8"/>
+<rect x="56" y="66" width="60" height="26" rx="3" fill="#888" stroke="#333" stroke-width="1.8"/>
+<rect x="116" y="73" width="50" height="11" rx="3" fill="#c8a06a" stroke="#333" stroke-width="1.5"/>
+<path d="M86,34 V60" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="20" y="100" font-size="12" fill="#c33" font-weight="bold">打粗</text>
+<line x1="46" y1="98" x2="70" y2="102" stroke="#c33" stroke-width="1.2"/>
+<g font-size="13">
+<text x="10" y="186">用锤子先把露出的</text>
+<text x="10" y="204">钉杆打粗(镦粗)</text>
+</g>
+</g>
+
+<g transform="translate(538,284)">
+<rect width="172" height="230" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="10" y="24" font-size="15" font-weight="bold">④ 再打成圆头</text>
+<rect x="14" y="110" width="144" height="10" fill="#c0c8d0" stroke="#333" stroke-width="1.8"/>
+<rect x="14" y="120" width="144" height="10" fill="#9aa3ad" stroke="#333" stroke-width="1.8"/>
+<rect x="76" y="109" width="20" height="22" fill="#e6e9ec"/>
+<path d="M76,110 V130 M96,110 V130" stroke="#333" stroke-width="1.5"/>
+<path d="M68,110 A18,12 0 0 1 104,110 Z" fill="#e6e9ec" stroke="#333" stroke-width="1.8"/>
+<path d="M68,130 A18,10 0 0 0 104,130 Z" fill="#e6e9ec" stroke="#333" stroke-width="1.8"/>
+<rect x="40" y="140" width="92" height="22" fill="#666" stroke="#333" stroke-width="1.8"/>
+<path d="M44,62 L66,94" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<path d="M128,62 L106,94" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<path d="M86,46 V84" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<path d="M18,104 l5,6 l9,-11" fill="none" stroke="#2a8a3a" stroke-width="2.5"/>
+<text x="10" y="150" font-size="12" fill="#2a8a3a">贴紧</text>
+<g font-size="13">
+<text x="10" y="186">再打成圆头;两块板</text>
+<text x="10" y="204">紧密贴合,不晃动</text>
+</g>
+</g>
+
+<!-- 热铆 -->
+<g transform="translate(10,524)">
+<rect width="344" height="260" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="10" y="24" font-size="15" font-weight="bold">热铆(大铆钉、钢结构)</text>
+<rect x="40" y="100" width="260" height="14" fill="#c0c8d0" stroke="#333" stroke-width="1.8"/>
+<rect x="40" y="114" width="260" height="14" fill="#9aa3ad" stroke="#333" stroke-width="1.8"/>
+<rect x="159" y="99" width="22" height="30" fill="#d4372a"/>
+<path d="M159,100 V128 M181,100 V128" stroke="#333" stroke-width="1.5"/>
+<rect x="160" y="70" width="20" height="58" fill="#d4372a" stroke="#333" stroke-width="1.8"/>
+<path d="M148,128 A22,13 0 0 0 192,128 Z" fill="#d4372a" stroke="#333" stroke-width="1.8"/>
+<rect x="152" y="141" width="36" height="28" fill="#666" stroke="#333" stroke-width="1.8"/>
+<path d="M170,192 V174" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<rect x="138" y="32" width="64" height="24" rx="3" fill="#888" stroke="#333" stroke-width="1.8"/>
+<rect x="202" y="38" width="56" height="11" rx="3" fill="#c8a06a" stroke="#333" stroke-width="1.5"/>
+<path d="M170,58 V66" stroke="#c33" stroke-width="2.5"/>
+<text x="230" y="80" font-size="12.5" fill="#c33" font-weight="bold">铆钉烧到鲜红色</text>
+<line x1="228" y1="78" x2="182" y2="86" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="196" y="160" font-size="12.5" fill="#555">背面顶住</text>
+<text x="264" y="56" font-size="12.5" fill="#555">正面锤打</text>
+<path d="M90,78 V97" stroke="#0b5cad" stroke-width="2" marker-end="url(#arB)"/>
+<path d="M90,150 V131" stroke="#0b5cad" stroke-width="2" marker-end="url(#arB)"/>
+<text x="20" y="72" font-size="12.5" fill="#0b5cad">冷却收缩,拉紧</text>
+<g font-size="13">
+<text x="10" y="210">把铆钉加热到鲜红色,迅速插入孔中,背面顶住,</text>
+<text x="10" y="228">正面锤打成头;冷却收缩,把两块板拉得非常紧</text>
+<text x="10" y="246">→ 比冷铆结实得多,适合受力大的地方</text>
+</g>
+</g>
+
+<!-- 咬口 -->
+<g transform="translate(366,524)">
+<rect width="344" height="260" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="10" y="24" font-size="15" font-weight="bold">铁皮的咬口(剖面)</text>
+<g fill="none" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M20,70 H96 A4,4 0 0 0 96,62 H72"/>
+<path d="M224,58 H124 A4,4 0 0 0 124,66 H148"/>
+<path d="M20,120 H96 A4,4 0 0 0 96,112 H80"/>
+<path d="M200,108 H76 A4,4 0 0 0 76,116 H92"/>
+<path d="M20,172 H96 A2,2 0 0 0 96,168 H80"/>
+<path d="M200,162 H76 A2,2 0 0 0 76,166 H92"/>
+</g>
+<path d="M86,138 V156" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="236" y="68" font-size="13">① 边缘折弯</text>
+<text x="236" y="118" font-size="13">② 互相钩住</text>
+<text x="236" y="170" font-size="13">③ 锤平压紧</text>
+<g font-size="13">
+<text x="10" y="210">把两块铁皮的边折弯互相钩住再压平,不用铆钉、</text>
+<text x="10" y="228">不用焊接;做铁皮桶、烟囱管、水槽的常用方法,</text>
+<text x="10" y="246">再用锡焊封缝即可防漏</text>
+</g>
+</g>
+</g>
+</svg>

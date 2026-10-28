@@ -1,0 +1,165 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 846" width="720" height="846" role="img" aria-label="伐树: ①在要倒的一侧砍出缺口(楔形口),深约树干直径的1/4-1/3;从对侧、比缺口底部稍高处锯或砍,向缺口推进;中间留一条不砍断的铰链木,让树按预定方向倒下,不要把铰链砍断,否则树会失去控制。②俯视: 在预定倒向的斜后方约45°,两侧各清出一条退路,不要往正后方退(树干落地时根部可能向后弹跳);其他人站在离树至少两倍树高以外;倒下的方向上没有人、房屋、电线,不会挂在别的树上;清掉树周围的灌木、藤蔓。③伐前看树往哪边歪、哪边枝叶重,有没有枯枝挂在上面(寡妇枝),树干有没有腐朽空心。④树开始倾倒时喊一声提醒,立刻沿退路离开,边退边看树冠。⑤树倒下挂在别的树上(搭挂树)最危险: 不要爬上去、不要砍支撑它的那棵树、不要在它下面走动,用绳子、杠杆从侧面远处把它拉下来,或请有经验的人处理。伐树只适合有经验的人带着做,直径超过约20 cm的树新手不要单独伐;大风、下雨、下雪、天黑时不伐树" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>伐树: 缺口、铰链木和退路</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker>
+<marker id="arG" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#2a8a3a"/></marker>
+<marker id="tkB" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M5 0 V10" stroke="#0b5cad" stroke-width="1.5"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<pattern id="hinge" width="5" height="5" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="5" height="5" fill="#ffe08a"/><path d="M0 0 V5" stroke="#c33" stroke-width="1.4"/></pattern>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" text-anchor="middle" font-weight="bold">伐树: 先定倒向和退路,缺口开在倒向一侧,留铰链木</text>
+
+<!-- ① 缺口与后切 -->
+<rect x="10" y="44" width="290" height="370" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="20" y="68" font-size="15" font-weight="bold">① 缺口和后切(侧面)</text>
+<path d="M100,330 V92 q12.5,-8 25,0 t25,0 t25,0 t25,0 V226 L170,264 H200 V330 Z" fill="#f1dcb5" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M118,96 V244 M186,96 V220 M118,272 V326 M186,272 V326" stroke="#c9a66b" stroke-width="1"/>
+<path d="M20,330 H290" stroke="#999" stroke-width="2.5"/>
+<rect x="158" y="250" width="12" height="14" fill="url(#hinge)" stroke="#c33" stroke-width="1"/>
+<path d="M100,250 H158" stroke="#333" stroke-width="3"/>
+<path d="M24,250 H86" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="18" y="222" font-size="14" font-weight="bold">后切</text>
+<text x="18" y="240" font-size="13">从对侧锯或砍</text>
+<path d="M86,264 H170" stroke="#0b5cad" stroke-width="1.2" stroke-dasharray="4 3"/>
+<path d="M94,250 V264" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#tkB)" marker-end="url(#tkB)"/>
+<text x="18" y="284" font-size="13" fill="#0b5cad">比缺口底部</text>
+<text x="18" y="300" font-size="13" fill="#0b5cad">稍高</text>
+<text x="108" y="176" font-size="14" font-weight="bold" fill="#c33">铰链木</text>
+<text x="108" y="193" font-size="12.5" fill="#c33">不要砍断</text>
+<line x1="140" y1="199" x2="163" y2="248" stroke="#0b5cad" stroke-width="1.3"/><circle cx="163" cy="248" r="2.4" fill="#0b5cad"/>
+<text x="206" y="206" font-size="14" font-weight="bold" fill="#c33">缺口</text>
+<text x="206" y="222" font-size="12.5">(楔形口)</text>
+<path d="M172,276 H198" stroke="#0b5cad" stroke-width="1.3" marker-start="url(#arB)" marker-end="url(#arB)"/>
+<text x="206" y="282" font-size="12.5" fill="#0b5cad">深约直径的</text>
+<text x="206" y="298" font-size="12.5" fill="#0b5cad">1/4-1/3</text>
+<path d="M100,318 H200" stroke="#0b5cad" stroke-width="1.3" marker-start="url(#tkB)" marker-end="url(#tkB)"/>
+<text x="150" y="312" font-size="12.5" fill="#0b5cad" text-anchor="middle">树干直径</text>
+<path d="M210,118 Q262,124 274,180" fill="none" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<text x="232" y="110" font-size="15" font-weight="bold" fill="#c33">倒向</text>
+<g font-size="13">
+<text x="20" y="364">缺口开在要倒的一侧,深约直径的1/4-1/3</text>
+<text x="20" y="382">后切从对侧、比缺口底部稍高处推进</text>
+<text x="20" y="400" fill="#c33">✗ 不要把铰链砍断,否则树会失去控制</text>
+</g>
+
+<!-- ② 俯视 -->
+<rect x="310" y="44" width="400" height="370" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="320" y="68" font-size="15" font-weight="bold">② 倒向、退路和危险区(俯视)</text>
+<circle cx="510" cy="210" r="120" fill="#fdf0f0" stroke="#c33" stroke-width="2" stroke-dasharray="7 4"/>
+<text x="592" y="92" font-size="13" fill="#c33" font-weight="bold">其他人站在</text>
+<text x="592" y="109" font-size="13" fill="#c33" font-weight="bold">两倍树高以外</text>
+<path d="M510,202 V176" stroke="#8b6b3e" stroke-width="7" stroke-dasharray="5 3"/>
+<ellipse cx="510" cy="163" rx="17" ry="13" fill="#e4eedb" stroke="#555" stroke-width="1.5" stroke-dasharray="4 3"/>
+<circle cx="510" cy="210" r="8" fill="#c8a06a" stroke="#333" stroke-width="2"/>
+<path d="M486,198 V150" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<text x="452" y="178" font-size="14" font-weight="bold" fill="#c33">倒向</text>
+<path d="M534,210 V150" stroke="#0b5cad" stroke-width="1.3" marker-start="url(#tkB)" marker-end="url(#tkB)"/>
+<text x="540" y="174" font-size="12.5" fill="#0b5cad">树高</text>
+<path d="M518,210 H630" stroke="#0b5cad" stroke-width="1.3" marker-end="url(#tkB)"/>
+<text x="580" y="228" font-size="12.5" fill="#0b5cad" text-anchor="middle">2倍树高</text>
+<path d="M510,220 V306" stroke="#999" stroke-width="1.5" stroke-dasharray="4 3"/>
+<path d="M500,300 L520,320 M520,300 L500,320" stroke="#c33" stroke-width="3"/>
+<path d="M510,250 A40,40 0 0,1 481.7,238.3" fill="none" stroke="#0b5cad" stroke-width="1.3"/>
+<text x="490" y="270" font-size="12" fill="#0b5cad" text-anchor="middle">45°</text>
+<path d="M503,217 L428,292" stroke="#2a8a3a" stroke-width="3.5" marker-end="url(#arG)"/>
+<path d="M517,217 L592,292" stroke="#2a8a3a" stroke-width="3.5" marker-end="url(#arG)"/>
+<text x="330" y="294" font-size="14" font-weight="bold" fill="#2a8a3a">退路</text>
+<text x="330" y="311" font-size="12.5" fill="#2a8a3a">斜后方约45°</text>
+<text x="608" y="294" font-size="14" font-weight="bold" fill="#2a8a3a">退路</text>
+<text x="608" y="311" font-size="12.5" fill="#2a8a3a">两侧各一条</text>
+<text x="510" y="348" font-size="13" fill="#c33" text-anchor="middle">✗ 不往正后方退: 根部可能向后弹跳</text>
+<g font-size="13">
+<text x="320" y="382">倒向上没有人、房屋、电线,不会挂在别的树上;</text>
+<text x="320" y="400">清掉树周围的灌木、藤蔓,两侧各清出一条退路</text>
+</g>
+
+<!-- ③ 伐前看树 -->
+<g transform="translate(10,424)">
+<rect x="0" y="0" width="228" height="290" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="10" y="24" font-size="15" font-weight="bold">③ 伐前看树</text>
+<path d="M10,180 H218" stroke="#999" stroke-width="2.5"/>
+<path d="M106,180 V60" stroke="#0b5cad" stroke-width="1.2" stroke-dasharray="4 3"/>
+<path d="M98,180 L126,180 L142,82 L128,80 Z" fill="#c8a06a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<ellipse cx="152" cy="72" rx="58" ry="36" fill="#dbe8cf" stroke="#333" stroke-width="2"/>
+<ellipse cx="114" cy="150" rx="5" ry="16" fill="#5a4630" stroke="#333" stroke-width="1" stroke-dasharray="3 2"/>
+<path d="M102,74 L98,82 L104,86 L96,94 L82,130" fill="none" stroke="#777" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M92,104 L78,106 M88,114 L96,124" stroke="#777" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M160,54 L200,40" stroke="#0b5cad" stroke-width="1.3" marker-end="url(#arB)"/>
+<text x="196" y="30" font-size="12" fill="#0b5cad" text-anchor="end">往哪边歪</text>
+<text x="14" y="124" font-size="13" font-weight="bold" fill="#c33">寡妇枝</text>
+<line x1="64" y1="122" x2="84" y2="120" stroke="#0b5cad" stroke-width="1.3"/><circle cx="84" cy="120" r="2.4" fill="#0b5cad"/>
+<text x="148" y="148" font-size="12.5" fill="#555">腐朽空心?</text>
+<line x1="146" y1="144" x2="118" y2="150" stroke="#0b5cad" stroke-width="1.3"/><circle cx="118" cy="150" r="2.4" fill="#0b5cad"/>
+<g font-size="13">
+<text x="10" y="206">往哪边歪、哪边枝叶重;</text>
+<text x="10" y="224">有没有枯枝挂在上面(寡妇枝);</text>
+<text x="10" y="242">树干有没有腐朽空心</text>
+<text x="10" y="264" fill="#c33">倾斜、枯死、挂着断枝的树,</text>
+<text x="10" y="281" fill="#c33">请有经验的人判断</text>
+</g>
+</g>
+
+<!-- ④ 开始倾倒 -->
+<g transform="translate(246,424)">
+<rect x="0" y="0" width="228" height="290" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="10" y="24" font-size="15" font-weight="bold">④ 树开始倾倒</text>
+<path d="M10,180 H218" stroke="#999" stroke-width="2.5"/>
+<path d="M120,180 L136,180 L172,104 L160,98 Z" fill="#c8a06a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<ellipse cx="174" cy="80" rx="16" ry="30" transform="rotate(28 174 80)" fill="#dbe8cf" stroke="#333" stroke-width="2"/>
+<path d="M192,38 Q220,62 214,120" fill="none" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<circle cx="74" cy="104" r="10" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<circle cx="79" cy="102" r="1.6" fill="#333"/>
+<path d="M72,114 L66,148 M66,148 L54,178 M66,148 L80,176 M70,124 L52,140 M70,124 L86,136" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+<path d="M84,100 L162,74" stroke="#0b5cad" stroke-width="1.2" stroke-dasharray="3 3"/>
+<text x="100" y="68" font-size="12" fill="#0b5cad">看树冠</text>
+<path d="M44,164 H14" stroke="#2a8a3a" stroke-width="3.5" marker-end="url(#arG)"/>
+<text x="14" y="158" font-size="12" fill="#2a8a3a" font-weight="bold">退路</text>
+<rect x="18" y="44" width="72" height="26" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<path d="M58,70 L66,88 L68,70" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<path d="M59,69.5 H67" stroke="#fdf3f3" stroke-width="2"/>
+<text x="54" y="62" font-size="13" font-weight="bold" fill="#c33" text-anchor="middle">喊一声!</text>
+<g font-size="13">
+<text x="10" y="206">树开始倾倒时,喊一声提醒,</text>
+<text x="10" y="224">立刻沿退路离开,</text>
+<text x="10" y="242">边退边看树冠</text>
+</g>
+</g>
+
+<!-- ⑤ 搭挂树 -->
+<g transform="translate(482,424)">
+<rect x="0" y="0" width="228" height="290" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="10" y="24" font-size="15" font-weight="bold">⑤ 搭挂树(最危险)</text>
+<path d="M10,180 H218" stroke="#999" stroke-width="2.5"/>
+<path d="M170,180 V70" stroke="#333" stroke-width="18"/>
+<path d="M170,180 V70" stroke="#c8a06a" stroke-width="14"/>
+<ellipse cx="172" cy="62" rx="44" ry="28" fill="#dbe8cf" stroke="#333" stroke-width="2"/>
+<path d="M30,176 L40,182 L160,82 L152,74 Z" fill="#c8a06a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<ellipse cx="160" cy="70" rx="20" ry="13" transform="rotate(-40 160 70)" fill="#c9dbb8" stroke="#333" stroke-width="1.5"/>
+<path d="M162,140 L178,156 M178,140 L162,156" stroke="#c33" stroke-width="3"/>
+<text x="186" y="152" font-size="12" fill="#c33" font-weight="bold">不砍</text>
+<circle cx="98" cy="146" r="7" fill="#f3e3d3" stroke="#333" stroke-width="1.8"/>
+<path d="M98,153 V166 M98,166 L92,180 M98,166 L104,180 M98,158 L90,166 M98,158 L106,166" fill="none" stroke="#333" stroke-width="2.4" stroke-linecap="round"/>
+<circle cx="98" cy="160" r="20" fill="none" stroke="#c33" stroke-width="2.5"/>
+<path d="M84,146 L112,174" stroke="#c33" stroke-width="2.5"/>
+<g font-size="13">
+<text x="10" y="206" fill="#c33">✗ 不要爬上去</text>
+<text x="10" y="224" fill="#c33">✗ 不要砍支撑它的那棵树</text>
+<text x="10" y="242" fill="#c33">✗ 不要在它下面走动</text>
+<text x="10" y="264" fill="#2a8a3a">✓ 用绳子、杠杆从侧面远处</text>
+<text x="10" y="281" fill="#2a8a3a">拉下来,或请有经验的人处理</text>
+</g>
+</g>
+
+<!-- 安全 -->
+<rect x="10" y="724" width="700" height="112" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="24" y="750" font-size="16" font-weight="bold">安全</text>
+<path d="M26,764 l14,14 M40,764 l-14,14" stroke="#c33" stroke-width="3"/>
+<text x="52" y="777" font-size="14.5"><tspan font-weight="bold">伐树只适合有经验的人带着做</tspan>;直径超过约20 cm的树,新手不要单独伐</text>
+<path d="M26,790 l14,14 M40,790 l-14,14" stroke="#c33" stroke-width="3"/>
+<text x="52" y="803" font-size="14.5">大风、下雨、下雪、天黑时不伐树</text>
+<path d="M26,818 l6,7 l11,-13" fill="none" stroke="#2a8a3a" stroke-width="3"/>
+<text x="52" y="827" font-size="14.5">结伴作业,进林子带上急救包</text>
+</g>
+</svg>
