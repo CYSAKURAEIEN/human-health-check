@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 760" width="720" height="760" role="img" aria-label="收集雨水:屋顶用瓦、铁皮等干净材料(茅草、沥青屋顶的水只用于浇灌和清洁,铅皮屋顶、含铅涂料的屋顶雨水不能饮用);屋檐装檐沟,经落水管先流进弃流小桶,每场雨开始前几分钟的脏水先装进桶里,桶满后干净的水才溢流进储水池;进水口装滤网,储水池加盖,防止蚊子产卵、树叶和小动物掉进去;用水龙头或专用长柄勺取水。1 mm降水落在1 m²屋顶上是1 L水,可收集水量约等于屋顶面积乘降水量乘0.8,例如50 m²屋顶下20 mm雨约800 L。雨水饮用前仍要煮沸或消毒" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>屋顶雨水收集</title>
+<defs>
+<pattern id="screen" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="#fff"/><path d="M0 0 L4 4 M4 0 L0 4" stroke="#555" stroke-width="0.7"/></pattern>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+</defs>
+<g fill="#222">
+<text x="360" y="30" font-size="18" font-weight="bold" text-anchor="middle">收集雨水: 屋顶 → 檐沟 → 弃流桶 → 储水池</text>
+
+<!-- roof labels -->
+<text x="20" y="62" font-size="15" font-weight="bold">屋顶: 用瓦、铁皮等干净材料</text>
+<text x="20" y="82" font-size="14" fill="#555">茅草、沥青屋顶的水只用于浇灌和清洁</text>
+<text x="20" y="102" font-size="14" fill="#c33" font-weight="bold">⚠ 铅皮屋顶、含铅涂料的屋顶,雨水不能饮用</text>
+<line x1="300" y1="108" x2="290" y2="201" stroke="#0b5cad" stroke-width="1.3"/><circle cx="290" cy="203" r="2.6" fill="#0b5cad"/>
+
+<!-- rain -->
+<g stroke="#0b5cad" stroke-width="1.5" opacity="0.7"><path d="M70 118 L64 140 M100 126 L94 148 M130 118 L124 140 M160 132 L154 154 M190 122 L184 144 M300 126 L294 148 M330 138 L324 160 M100 150 L96 162 M170 160 L166 172 M310 166 L306 180"/></g>
+
+<!-- house -->
+<path d="M60 169 L320 220 L320 470 L60 470 Z" fill="#fff" stroke="#333" stroke-width="2.5"/>
+<path d="M30 152 L354 216 L354 227 L30 163 Z" fill="#c9a07a" stroke="#333" stroke-width="2.5"/>
+<g stroke="#8a6a3a" stroke-width="1"><path d="M80 162 L80 173 M130 172 L130 183 M180 182 L180 193 M230 192 L230 203 M280 202 L280 213 M330 212 L330 222"/></g>
+<rect x="110" y="380" width="50" height="90" fill="#e6e6e6" stroke="#333" stroke-width="2"/>
+<rect x="210" y="290" width="60" height="48" fill="#d8ebf7" stroke="#333" stroke-width="2"/>
+<path d="M240 290 L240 338 M210 314 L270 314" stroke="#333" stroke-width="1.5"/>
+
+<!-- gutter + downpipe -->
+<path d="M338 222 L338 236 Q350 246 362 236 L362 222" fill="#d8ebf7" stroke="#333" stroke-width="2.5"/>
+<path d="M350 243 L350 300" stroke="#333" stroke-width="10"/>
+<path d="M350 243 L350 300" stroke="#e6e6e6" stroke-width="6"/>
+<path d="M350 250 L350 290" stroke="#0b5cad" stroke-width="1.6" marker-end="url(#arB)"/>
+
+<!-- first-flush bucket -->
+<path d="M326 300 L330 390 L370 390 L374 300" fill="#fff" stroke="#333" stroke-width="2.5"/>
+<path d="M327 322 L330 388 L370 388 L373 322 Z" fill="#d9c9a3"/>
+<g fill="#8a6a3a"><circle cx="340" cy="350" r="1.5"/><circle cx="356" cy="364" r="1.5"/><circle cx="346" cy="378" r="1.5"/><circle cx="362" cy="340" r="1.5"/></g>
+<path d="M334 390 L330 470 M366 390 L370 470 M332 430 L368 430" stroke="#333" stroke-width="2"/>
+<!-- overflow pipe to tank -->
+<path d="M374 308 L512 308 L512 324" fill="none" stroke="#333" stroke-width="10"/>
+<path d="M374 308 L512 308 L512 324" fill="none" stroke="#e6e6e6" stroke-width="6"/>
+<path d="M384 308 L470 308" stroke="#0b5cad" stroke-width="1.6" marker-end="url(#arB)"/>
+<text x="386" y="296" font-size="13" fill="#0b5cad">桶满后溢流</text>
+
+<!-- tank -->
+<path d="M460 336 L460 470 L650 470 L650 336" fill="#fff" stroke="#333" stroke-width="2.5"/>
+<rect x="462" y="372" width="186" height="96" fill="#d8ebf7"/>
+<path d="M462 372 L648 372" stroke="#0b5cad" stroke-width="1.5"/>
+<rect x="452" y="326" width="206" height="10" fill="#c8a46e" stroke="#333" stroke-width="2"/>
+<rect x="498" y="326" width="28" height="10" fill="url(#screen)" stroke="#333" stroke-width="1.5"/>
+<text x="555" y="428" font-size="16" text-anchor="middle">水缸 / 水窖</text>
+<path d="M650 448 L670 448 L670 458" fill="none" stroke="#333" stroke-width="5"/>
+<rect x="656" y="438" width="10" height="6" fill="#333"/>
+<path d="M670 464 L670 468" stroke="#0b5cad" stroke-width="2"/>
+
+<path d="M20 470 L700 470" stroke="#999" stroke-width="2.5"/>
+
+<!-- right labels -->
+<text x="400" y="206" font-size="15">檐沟: 屋檐装檐沟,</text>
+<text x="400" y="225" font-size="15">引到水缸、水窖</text>
+<line x1="396" y1="214" x2="364" y2="228" stroke="#0b5cad" stroke-width="1.3"/><circle cx="363" cy="229" r="2.6" fill="#0b5cad"/>
+<text x="530" y="256" font-size="15" font-weight="bold">进水口装滤网,</text>
+<text x="530" y="275" font-size="15" font-weight="bold">储水池加盖:</text>
+<text x="530" y="294" font-size="14">防止蚊子产卵、树叶</text>
+<text x="530" y="312" font-size="14">和小动物掉进去</text>
+<line x1="528" y1="252" x2="516" y2="327" stroke="#0b5cad" stroke-width="1.3"/><circle cx="516" cy="329" r="2.6" fill="#0b5cad"/>
+<line x1="640" y1="316" x2="626" y2="328" stroke="#0b5cad" stroke-width="1.3"/><circle cx="625" cy="330" r="2.6" fill="#0b5cad"/>
+
+<!-- bottom labels -->
+<text x="20" y="500" font-size="15" font-weight="bold">弃流: 每场雨开始的前几分钟水最脏</text>
+<text x="20" y="520" font-size="14">(冲刷屋顶的灰尘、鸟粪),先流进小桶;</text>
+<text x="20" y="539" font-size="14">桶装满以后,干净的水才进入储水池</text>
+<line x1="276" y1="492" x2="332" y2="400" stroke="#0b5cad" stroke-width="1.3"/><circle cx="333" cy="398" r="2.6" fill="#0b5cad"/>
+<text x="430" y="500" font-size="15">用水龙头或专用长柄勺取水,</text>
+<text x="430" y="520" font-size="14" fill="#555">不要把手和碗伸进去舀</text>
+<line x1="636" y1="490" x2="664" y2="462" stroke="#0b5cad" stroke-width="1.3"/><circle cx="665" cy="461" r="2.6" fill="#0b5cad"/>
+
+<!-- estimate -->
+<rect x="20" y="566" width="680" height="110" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="36" y="594" font-size="16" font-weight="bold">收集量的估算: 1 mm降水落在1 m²的屋顶上 = 1 L水</text>
+<text x="36" y="622" font-size="15">可收集水量(L)≈ 屋顶面积(m²)× 降水量(mm)× 约0.8(损失)</text>
+<text x="36" y="650" font-size="15">例: 50 m²的屋顶,一场20 mm的雨 → 约 50 × 20 × 0.8 = 800 L</text>
+<text x="684" y="666" font-size="13" fill="#555" text-anchor="end">(1 m² × 0.001 m = 0.001 m³ = 1 L)</text>
+
+<rect x="20" y="690" width="680" height="48" rx="6" fill="#fdecec" stroke="#c33" stroke-width="2"/>
+<text x="360" y="720" font-size="17" font-weight="bold" fill="#c33" text-anchor="middle">⚠ 雨水饮用前仍要煮沸或消毒</text>
+</g></svg>

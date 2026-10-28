@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 950" width="720" height="950" role="img" aria-label="为什么独轮车省力: 独轮车是一个杠杆,轮子是支点,货物在中间,人在把手端用力;动力乘动力臂等于阻力乘阻力臂,货物越靠近轮子,人承担的重量越少。常见的建筑推车轮子在前端,人要抬起相当一部分重量,装货时把重的放在靠轮子一侧。中国传统独轮车大轮子在车子正中,货物分放两侧,重心几乎就在轮子正上方,人几乎只用扶着保持平衡、往前推,一个人能推100 kg以上,在窄小的田埂、山路上也能走。轮子越大,越容易越过石块和坑;加一根肩带挂在两个把手之间,用肩膀分担手的力量" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>为什么独轮车省力</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="dimB" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,1 L10,5 L0,9 Z" fill="#0b5cad"/></marker>
+<!-- 建筑推车: 轮心在 (0,0),把手端在 (390,-56) -->
+<g id="barrow">
+<path d="M0,0 L390,-56" stroke="#8f6d2e" stroke-width="7" stroke-linecap="round"/>
+<path d="M60,-50 L60,-9 M190,-50 L190,-27" stroke="#333" stroke-width="3"/>
+<path d="M215,-31 L222,22 M214,22 H230" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+<path d="M-8,-100 L246,-100 L210,-50 L44,-50 Z" fill="#ececec" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+<line x1="366" y1="-52.5" x2="398" y2="-57" stroke="#333" stroke-width="11" stroke-linecap="round"/>
+<circle r="34" fill="#e8eef5" stroke="#333" stroke-width="3"/>
+<circle r="22" fill="none" stroke="#999" stroke-width="1.5"/>
+<circle r="5" fill="#333"/>
+</g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">为什么独轮车省力: 独轮车是一个杠杆</text>
+
+<!-- ① 杠杆 -->
+<rect x="10" y="44" width="700" height="322" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="70" font-size="16" font-weight="bold">① 轮子是支点,货物在中间,人在把手端用力</text>
+<path d="M20,286 H480" stroke="#999" stroke-width="3"/>
+<g transform="translate(78,252)">
+<use href="#barrow"/>
+<path d="M2,-100 Q20,-136 60,-138 Q100,-150 140,-136 Q180,-130 200,-112 L214,-100 Z" fill="#b5a58a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="100" cy="-118" r="6" fill="#c33"/>
+<path d="M100,-110 V-30" stroke="#c33" stroke-width="3.5" marker-end="url(#arR)"/>
+<path d="M390,-6 V-46" stroke="#c33" stroke-width="3.5" marker-end="url(#arR)"/>
+</g>
+<text x="186" y="193" font-size="13" font-weight="bold" fill="#c33">货物重量(阻力)</text>
+<text x="458" y="236" font-size="14" font-weight="bold" fill="#c33" text-anchor="end">人用力</text>
+<text x="458" y="254" font-size="13" fill="#c33" text-anchor="end">(抬把手)</text>
+<path d="M78,252 L40,186" stroke="#555" stroke-width="1"/>
+<text x="20" y="180" font-size="14" font-weight="bold" fill="#0b5cad">支点(轮子)</text>
+<!-- 力臂 -->
+<path d="M78,262 V342 M178,140 V314 M468,214 V342" stroke="#0b5cad" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="79" y1="304" x2="177" y2="304" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#dimB)" marker-end="url(#dimB)"/>
+<text x="128" y="298" font-size="14" font-weight="bold" fill="#0b5cad" text-anchor="middle">阻力臂</text>
+<line x1="79" y1="334" x2="467" y2="334" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#dimB)" marker-end="url(#dimB)"/>
+<text x="273" y="354" font-size="14" font-weight="bold" fill="#0b5cad" text-anchor="middle">动力臂</text>
+<!-- 右侧说明 -->
+<rect x="500" y="92" width="196" height="62" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="598" y="118" font-size="15" font-weight="bold" text-anchor="middle">动力 × 动力臂</text>
+<text x="598" y="142" font-size="15" font-weight="bold" text-anchor="middle">= 阻力 × 阻力臂</text>
+<text x="500" y="186" font-size="14">动力臂(轮子到把手)</text>
+<text x="500" y="206" font-size="14">比阻力臂(轮子到货物)长</text>
+<text x="500" y="226" font-size="14">→ 手上用的力比货物轻</text>
+<text x="500" y="262" font-size="14" font-weight="bold" fill="#c33">货物越靠近轮子,</text>
+<text x="500" y="282" font-size="14" font-weight="bold" fill="#c33">人承担的重量越少</text>
+
+<!-- ② 装货 -->
+<rect x="10" y="378" width="700" height="226" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="404" font-size="16" font-weight="bold">② 建筑推车(轮子在前端): 装货时把重的放在靠轮子一侧</text>
+<path d="M30,542 H340 M380,542 H690" stroke="#999" stroke-width="3"/>
+<g transform="translate(64,521) scale(0.62)">
+<use href="#barrow"/>
+<rect x="6" y="-146" width="90" height="46" rx="4" fill="#9a9a9a" stroke="#333" stroke-width="3"/>
+<circle cx="51" cy="-123" r="8" fill="#c33"/>
+<path d="M390,-6 V-36" stroke="#c33" stroke-width="5" marker-end="url(#arR)"/>
+</g>
+<g transform="translate(414,521) scale(0.62)">
+<use href="#barrow"/>
+<rect x="140" y="-146" width="90" height="46" rx="4" fill="#9a9a9a" stroke="#333" stroke-width="3"/>
+<circle cx="185" cy="-123" r="8" fill="#c33"/>
+<path d="M390,34 V-46" stroke="#c33" stroke-width="5" marker-end="url(#arR)"/>
+</g>
+<text x="185" y="570" font-size="14" font-weight="bold" fill="#0b5cad" text-anchor="middle">✓ 重的靠轮子: 手上轻</text>
+<text x="535" y="570" font-size="14" font-weight="bold" fill="#c33" text-anchor="middle">✗ 重的靠把手: 手上重</text>
+<text x="360" y="594" font-size="14" text-anchor="middle" fill="#555">这种车人要抬起相当一部分重量</text>
+
+<!-- ③ 中国传统独轮车 -->
+<rect x="10" y="616" width="700" height="322" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="642" font-size="16" font-weight="bold">③ 中国传统独轮车: 大轮子在车子正中,货物分放两侧</text>
+<text x="40" y="668" font-size="14" fill="#555">侧面看</text>
+<path d="M20,840 H450" stroke="#999" stroke-width="3"/>
+<!-- 车架 -->
+<path d="M96,768 L362,752" stroke="#8f6d2e" stroke-width="7" stroke-linecap="round"/>
+<path d="M300,756 L306,830 M298,830 H314" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+<path d="M118,768 V712 H222 V768" fill="none" stroke="#8f6d2e" stroke-width="5" stroke-linejoin="round"/>
+<circle cx="170" cy="782" r="58" fill="#e8eef5" stroke="#333" stroke-width="3"/>
+<circle cx="170" cy="782" r="44" fill="none" stroke="#999" stroke-width="1.5"/>
+<path d="M170,738 V826 M126,782 H214 M139,751 L201,813 M139,813 L201,751" stroke="#999" stroke-width="1.5"/>
+<circle cx="170" cy="782" r="6" fill="#333"/>
+<!-- 货物(近侧的一袋) -->
+<path d="M120,770 Q114,736 132,724 Q170,714 208,724 Q226,736 220,770 Z" fill="#e2cf9f" fill-opacity="0.92" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="170" cy="746" r="6" fill="#c33"/>
+<path d="M170,754 V832" stroke="#c33" stroke-width="3" stroke-dasharray="6 4"/>
+<text x="24" y="694" font-size="14" font-weight="bold" fill="#c33">重心几乎就在</text>
+<text x="24" y="712" font-size="14" font-weight="bold" fill="#c33">轮子正上方</text>
+<path d="M98,716 L163,743" stroke="#c33" stroke-width="1"/>
+<!-- 推车的人 -->
+<path d="M404,704 L394,744 L364,752" fill="none" stroke="#333" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M360,752 Q372,712 398,694 Q408,690 416,696" fill="none" stroke="#8f6d2e" stroke-width="3.5" stroke-linecap="round"/>
+<g transform="rotate(-18 418 734)"><rect x="405" y="696" width="26" height="76" rx="11" fill="#cfe0f0" stroke="#333" stroke-width="2.5"/></g>
+<circle cx="404" cy="680" r="14" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M428,764 L400,838 M430,766 L446,838" stroke="#333" stroke-width="6" stroke-linecap="round"/>
+<path d="M372,716 L348,700" stroke="#555" stroke-width="1"/>
+<text x="344" y="700" font-size="14" font-weight="bold" text-anchor="end">肩带</text>
+<!-- 从后面看 -->
+<line x1="464" y1="660" x2="464" y2="856" stroke="#ddd" stroke-width="1.5"/>
+<text x="484" y="668" font-size="14" fill="#555">从后面看</text>
+<path d="M480,840 H700" stroke="#999" stroke-width="3"/>
+<rect x="582" y="724" width="16" height="116" rx="7" fill="#e8eef5" stroke="#333" stroke-width="2.5"/>
+<path d="M566,770 V712 H614 V770" fill="none" stroke="#8f6d2e" stroke-width="5" stroke-linejoin="round"/>
+<path d="M500,770 H680" stroke="#8f6d2e" stroke-width="6" stroke-linecap="round"/>
+<path d="M506,768 Q500,730 518,722 Q536,716 554,722 Q566,730 560,768 Z" fill="#e2cf9f" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M620,768 Q614,730 632,722 Q650,716 668,722 Q680,730 674,768 Z" fill="#e2cf9f" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M534,772 L528,830 M646,772 L652,830" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+<text x="590" y="700" font-size="14" font-weight="bold" text-anchor="middle">货物分放两侧</text>
+<text x="230" y="866" font-size="14" text-anchor="middle">人几乎只用扶着保持平衡、往前推</text>
+<text x="590" y="866" font-size="14" text-anchor="middle" font-weight="bold">一个人能推100 kg以上</text>
+<text x="590" y="884" font-size="13" text-anchor="middle" fill="#555">窄小的田埂、山路上也能走</text>
+<text x="360" y="914" font-size="14" text-anchor="middle" fill="#555">✓ 轮子越大,越容易越过石块和坑  ✓ 肩带挂在两个把手之间,用肩膀分担手的力量</text>
+</g>
+</svg>

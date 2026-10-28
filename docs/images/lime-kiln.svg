@@ -1,0 +1,207 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1236" width="720" height="1236" role="img" aria-label="石灰窑与生石灰熟化示意图: 简易立窑(土窑)依山坡挖成,从坡上装料、从坡下出灰;窑膛圆筒形或蛋形,内径约1.5-2.5 m,高约2-4 m,土坡就是保温层,内壁用耐火石块或砖砌一圈,缝用黏土泥抹严;窑底一侧是火门/出灰口,加燃料、通风,烧完从这里扒出石灰;窑底用石块架空成炉箅,让空气从下面进入;窑顶开口装料、排烟。混烧: 底部铺引火柴,然后一层燃料(煤、焦炭、木炭)、一层石灰石交替往上装。分烧: 窑底用大块石灰石干砌成拱,拱下是火膛,在火门持续烧柴,火焰穿过石块向上走。烧制: 头一天小火慢烘;逐渐加大火力,保持窑内亮橙色约900-1000°C,暗红色说明温度不够,柴窑大火持续烧2-4天,中间不能断火;烧好后封住火门,慢慢冷却1-2天再出窑,不要往热窑里泼水;用长柄耙子从出灰口扒灰,人不要进窑、不要站在窑顶;窑顶和下风处有一氧化碳。熟化: 生石灰加水变成熟石灰并放出大量热;先放水,再分批放入生石灰块,水量约为生石灰重量的3-4倍,用长柄木耙搅动,人站远、偏开脸;不要往一大堆灰上浇少量水,会局部沸腾飞溅;不要用塑料桶、塑料盆,温度可接近100°C;滤去石渣流进储灰池,浆面保持一层水,陈伏: 砌筑用至少2周,抹灰、刷墙用至少1个月。安全: 戴护目镜、手套,穿长袖,身边备一桶清水;溅入眼睛擦去眼周颗粒,马上翻开眼皮用大量清水持续冲洗,尽快就医;溅到皮肤先刷去干粉,再用大量清水冲洗" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>石灰窑与生石灰熟化</title>
+<defs>
+<pattern id="brick" width="14" height="12" patternUnits="userSpaceOnUse"><rect width="14" height="12" fill="#d9a07a"/><path d="M0 0.5 H14 M0 6.5 H14 M4 0.5 V6.5 M11 6.5 V12" stroke="#a0623e" stroke-width="1"/></pattern>
+<pattern id="soil" width="16" height="16" patternUnits="userSpaceOnUse"><rect width="16" height="16" fill="#efe4cf"/><circle cx="4" cy="5" r="1.1" fill="#bba57a"/><circle cx="12" cy="12" r="1.1" fill="#bba57a"/><circle cx="11" cy="3" r="0.8" fill="#bba57a"/></pattern>
+<pattern id="ls" width="26" height="15" patternUnits="userSpaceOnUse"><rect width="26" height="15" fill="#efefe9"/><ellipse cx="13" cy="7.5" rx="11.5" ry="6.4" fill="#d3d3ca" stroke="#666" stroke-width="1"/></pattern>
+<pattern id="coal" width="10" height="12" patternUnits="userSpaceOnUse"><rect width="10" height="12" fill="#3a3a3a"/><circle cx="3" cy="4" r="1.6" fill="#6a6a6a"/><circle cx="8" cy="9" r="1.3" fill="#6a6a6a"/></pattern>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<marker id="arB0" viewBox="0 0 10 10" refX="2" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M10 0 L0 5 L10 10 Z" fill="#0b5cad"/></marker>
+<marker id="arG" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#888"/></marker>
+<g id="log"><rect x="-14" y="-4" width="28" height="8" rx="3" fill="#8b6b3e" stroke="#333" stroke-width="1"/><ellipse cx="14" cy="0" rx="2.5" ry="4" fill="#c9a26a" stroke="#333" stroke-width="0.8"/></g>
+<path id="lump" d="M-8 2 L-6 -5 L1 -7 L7 -3 L8 4 L1 7 L-6 6 Z"/>
+<rect id="lb" x="-3" y="-11" width="6" height="16" rx="2" fill="#fff" stroke="none"/>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">石灰窑与生石灰熟化(示意,不按比例)</text>
+
+<!-- ① 立窑剖面 -->
+<rect x="10" y="44" width="700" height="424" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="70" font-size="16" font-weight="bold">① 简易立窑(土窑)剖面: 依山坡挖成,从坡上装料、从坡下出灰</text>
+<path d="M11.5 130 H330 Q342 270 360 400 H11.5 Z" fill="url(#soil)"/>
+<rect x="11.5" y="400" width="697" height="54" fill="url(#soil)"/>
+<!-- 窑膛 -->
+<rect x="170" y="130" width="130" height="270" fill="#fff"/>
+<rect x="300" y="360" width="60" height="40" fill="#fff"/>
+<rect x="156" y="130" width="14" height="270" fill="url(#brick)" stroke="#333" stroke-width="1.5"/>
+<rect x="300" y="130" width="14" height="230" fill="url(#brick)" stroke="#333" stroke-width="1.5"/>
+<path d="M300 360 H354" stroke="#333" stroke-width="2"/>
+<!-- 混烧装料: 一层燃料、一层石灰石 -->
+<g transform="translate(170,150)"><rect width="130" height="30" fill="url(#ls)"/></g>
+<g transform="translate(170,180)"><rect width="130" height="12" fill="url(#coal)"/></g>
+<g transform="translate(170,192)"><rect width="130" height="30" fill="url(#ls)"/></g>
+<g transform="translate(170,222)"><rect width="130" height="12" fill="url(#coal)"/></g>
+<g transform="translate(170,234)"><rect width="130" height="30" fill="url(#ls)"/></g>
+<g transform="translate(170,264)"><rect width="130" height="12" fill="url(#coal)"/></g>
+<g transform="translate(170,276)"><rect width="130" height="30" fill="url(#ls)"/></g>
+<g transform="translate(170,306)"><rect width="130" height="12" fill="url(#coal)"/></g>
+<g transform="translate(170,318)"><rect width="130" height="30" fill="url(#ls)"/></g>
+<g transform="translate(170,348)"><rect width="130" height="12" fill="url(#coal)"/></g>
+<use href="#log" x="190" y="368"/><use href="#log" x="222" y="366"/><use href="#log" x="254" y="368"/><use href="#log" x="282" y="366"/>
+<!-- 燃烧区 -->
+<rect x="170" y="276" width="130" height="98" fill="#f08a24" fill-opacity="0.4"/>
+<path d="M176 362 Q182 340 190 352 Q196 330 206 350 Q214 336 222 356 M240 356 Q248 334 258 350 Q266 330 274 352 Q282 342 292 362" fill="none" stroke="#c33" stroke-width="1.6"/>
+<!-- 炉箅 -->
+<g fill="#b9b9b0" stroke="#333" stroke-width="1.2">
+<rect x="172" y="386" width="10" height="14"/><rect x="230" y="386" width="10" height="14"/><rect x="288" y="386" width="10" height="14"/>
+<rect x="172" y="374" width="22" height="12" rx="4"/><rect x="199" y="374" width="22" height="12" rx="4"/><rect x="226" y="374" width="22" height="12" rx="4"/><rect x="253" y="374" width="22" height="12" rx="4"/><rect x="278" y="374" width="20" height="12" rx="4"/>
+</g>
+<path d="M11.5 130 H330 Q342 270 360 400 H708.5" fill="none" stroke="#999" stroke-width="3"/>
+<!-- 空气、烟、装料 -->
+<path d="M384 393 H186" fill="none" stroke="#0b5cad" stroke-width="2.2" marker-end="url(#arB)"/>
+<path d="M210 393 V380 M260 393 V380" fill="none" stroke="#0b5cad" stroke-width="2" marker-end="url(#arB)"/>
+<path d="M218 140 Q210 126 218 114 T216 88" fill="none" stroke="#888" stroke-width="2.2" marker-end="url(#arG)"/>
+<path d="M254 140 Q262 126 254 114 T256 88" fill="none" stroke="#888" stroke-width="2.2" marker-end="url(#arG)"/>
+<path d="M112 102 Q150 100 178 142" fill="none" stroke="#c33" stroke-width="2.4" marker-end="url(#arR)"/>
+<text x="30" y="106" font-size="14" fill="#c33" font-weight="bold">坡上装料</text>
+
+<!-- 左侧标注(土坡上) -->
+<g fill="#fff" fill-opacity="0.85"><rect x="20" y="182" width="126" height="44" rx="3"/><rect x="34" y="256" width="82" height="24" rx="3"/><rect x="20" y="320" width="126" height="44" rx="3"/><rect x="128" y="424" width="214" height="24" rx="3"/></g>
+<text x="26" y="200" font-size="14" font-weight="bold">土坡就是保温层</text>
+<text x="26" y="218" font-size="13" fill="#555">依山挖进土坡最省事</text>
+<path d="M140 134 V396" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<text x="40" y="273" font-size="14" fill="#0b5cad" font-weight="bold">高约2-4 m</text>
+<text x="26" y="338" font-size="14" font-weight="bold">炉箅: 石块架空,</text>
+<text x="26" y="356" font-size="13">空气从下面进入</text>
+<line x1="146" y1="352" x2="190" y2="380" stroke="#0b5cad" stroke-width="1.2"/><circle cx="190" cy="380" r="2.6" fill="#0b5cad"/>
+<path d="M174 414 H296" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<text x="235" y="441" font-size="14" fill="#0b5cad" font-weight="bold" text-anchor="middle">窑膛内径约1.5-2.5 m</text>
+<text x="350" y="441" font-size="13" fill="#555">窑膛: 圆筒形或蛋形</text>
+
+<!-- 右侧标注 -->
+<g stroke="#0b5cad" stroke-width="1.2">
+<line x1="396" y1="96" x2="292" y2="132"/><line x1="396" y1="156" x2="308" y2="150"/><line x1="396" y1="210" x2="284" y2="186"/><line x1="396" y1="248" x2="284" y2="250"/><line x1="396" y1="296" x2="284" y2="300"/><line x1="396" y1="342" x2="282" y2="366"/><line x1="396" y1="372" x2="344" y2="378"/>
+</g>
+<g fill="#0b5cad"><circle cx="292" cy="132" r="2.6"/><circle cx="308" cy="150" r="2.6"/><circle cx="284" cy="186" r="2.6"/><circle cx="284" cy="250" r="2.6"/><circle cx="284" cy="300" r="2.6"/><circle cx="282" cy="366" r="2.6"/><circle cx="344" cy="378" r="2.6"/></g>
+<text x="402" y="100" font-size="15" font-weight="bold">窑顶开口</text>
+<text x="474" y="100" font-size="14">装料、排烟</text>
+<text x="402" y="160" font-size="15" font-weight="bold">内壁</text>
+<text x="440" y="160" font-size="14">耐火石块或砖砌一圈,</text>
+<text x="440" y="178" font-size="14">缝用黏土泥抹严</text>
+<text x="402" y="214" font-size="15" font-weight="bold">燃料</text>
+<text x="440" y="214" font-size="14">煤、焦炭、木炭</text>
+<text x="402" y="252" font-size="15" font-weight="bold">石灰石</text>
+<text x="456" y="252" font-size="14">敲成约拳头到10-20 cm大小</text>
+<text x="402" y="300" font-size="15" font-weight="bold" fill="#c33">燃烧区</text>
+<text x="456" y="300" font-size="14" fill="#c33">保持亮橙色,约900-1000°C</text>
+<text x="402" y="346" font-size="15" font-weight="bold">引火柴</text>
+<text x="456" y="346" font-size="14">铺在底部</text>
+<text x="402" y="376" font-size="15" font-weight="bold">火门/出灰口(坡下)</text>
+<text x="402" y="394" font-size="13">加燃料、通风;烧完从这里扒出石灰</text>
+<text x="560" y="122" font-size="13" fill="#555">混烧: 一层燃料、一层</text>
+<text x="560" y="139" font-size="13" fill="#555">石灰石交替往上装</text>
+
+<!-- ② 分烧 -->
+<rect x="10" y="480" width="250" height="316" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="506" font-size="15" font-weight="bold">② 分烧(单独火膛,适合烧柴)</text>
+<rect x="70" y="530" width="130" height="160" fill="#fff"/>
+<rect x="58" y="530" width="12" height="122" fill="url(#brick)" stroke="#333" stroke-width="1.5"/>
+<rect x="200" y="530" width="12" height="160" fill="url(#brick)" stroke="#333" stroke-width="1.5"/>
+<path d="M50 652 H70" stroke="#333" stroke-width="1.5"/>
+<g fill="#d3d3ca" stroke="#555" stroke-width="1">
+<circle cx="78" cy="561" r="7"/><circle cx="93" cy="561" r="7"/><circle cx="108" cy="561" r="7"/><circle cx="123" cy="561" r="7"/><circle cx="138" cy="561" r="7"/><circle cx="153" cy="561" r="7"/><circle cx="168" cy="561" r="7"/><circle cx="183" cy="561" r="7"/><circle cx="195" cy="561" r="5"/>
+<circle cx="80" cy="580" r="9"/><circle cx="99" cy="580" r="9"/><circle cx="118" cy="580" r="9"/><circle cx="137" cy="580" r="9"/><circle cx="156" cy="580" r="9"/><circle cx="175" cy="580" r="9"/><circle cx="192" cy="580" r="8"/>
+<circle cx="82" cy="604" r="12"/><circle cx="107" cy="604" r="12"/><circle cx="132" cy="604" r="12"/><circle cx="157" cy="604" r="12"/><circle cx="182" cy="604" r="12"/>
+</g>
+<g fill="#c4c4ba" stroke="#333" stroke-width="1.6">
+<circle cx="81" cy="675.5" r="13"/><circle cx="95.4" cy="650.4" r="13"/><circle cx="120.5" cy="635.9" r="13"/><circle cx="149.5" cy="635.9" r="13"/><circle cx="174.6" cy="650.4" r="13"/><circle cx="189" cy="675.5" r="13"/>
+</g>
+<path d="M98 688 Q104 662 114 674 Q120 650 132 670 Q142 652 150 674 Q160 662 168 688 Z" fill="#f2a33a" stroke="#c33" stroke-width="1.3"/>
+<use href="#log" x="40" y="682"/><use href="#log" x="66" y="684"/><use href="#log" x="120" y="684"/><use href="#log" x="150" y="684"/>
+<path d="M30 690 H240" stroke="#999" stroke-width="3"/>
+<g fill="none" stroke="#c33" stroke-width="2" marker-end="url(#arR)">
+<path d="M108 662 Q100 636 108 620 V540"/><path d="M135 656 V616 Q130 590 135 540"/><path d="M162 662 Q170 636 162 620 V540"/>
+</g>
+<text x="135" y="524" font-size="12" fill="#555" text-anchor="middle">上面装满石灰石(大块在下)</text>
+<text x="24" y="714" font-size="13">大块石灰石干砌成拱,拱下是火膛;</text>
+<text x="24" y="733" font-size="13">在火门持续烧柴,火焰穿过石块</text>
+<text x="24" y="752" font-size="13">向上走</text>
+<text x="24" y="778" font-size="13" fill="#555">石灰不混燃料灰,比较干净</text>
+<text x="36" y="646" font-size="12" fill="#0b5cad" text-anchor="middle">火门</text>
+
+<!-- ③ 烧制过程 -->
+<rect x="270" y="480" width="440" height="316" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="284" y="506" font-size="15" font-weight="bold">③ 烧制过程</text>
+<g font-size="14">
+<text x="284" y="534" font-weight="bold">1. 头一天小火慢烘</text>
+<text x="304" y="553" font-size="13">赶走石块和窑壁里的水分;急火会把石头和窑壁崩裂</text>
+<text x="284" y="582" font-weight="bold">2. 逐渐加大火力,保持窑内亮橙色</text>
+<rect x="304" y="592" width="26" height="16" fill="#8b1a1a" stroke="#333"/>
+<text x="336" y="605" font-size="13">暗红色: 温度不够</text>
+<path d="M452 600 H476" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<rect x="484" y="592" width="26" height="16" fill="#f7941d" stroke="#333"/>
+<text x="516" y="605" font-size="13" fill="#c33" font-weight="bold">亮橙色: 约900-1000°C</text>
+<text x="304" y="628" font-size="13">柴窑大火持续烧2-4天(看窑和石块大小),中间不能断火</text>
+<text x="284" y="658" font-weight="bold">3. 烧好后封住火门,慢慢冷却1-2天再出窑</text>
+<text x="304" y="677" font-size="13" fill="#c33">✗ 不要往热窑里泼水</text>
+<text x="284" y="706" font-weight="bold">4. 用长柄耙子从出灰口扒灰</text>
+<text x="304" y="725" font-size="13" fill="#c33">✗ 人不要进窑、不要站在窑顶</text>
+</g>
+<rect x="282" y="738" width="416" height="48" rx="5" fill="#fdf3f3"/>
+<text x="292" y="757" font-size="13" fill="#c33" font-weight="bold">⚠️ 一氧化碳: 窑顶和下风处、低洼地不要久留</text>
+<text x="292" y="776" font-size="13" fill="#c33">料会"悬空"(下面烧酥、上面结拱): 只用长杆在外面捅</text>
+
+<!-- ④ 熟化 -->
+<rect x="10" y="808" width="700" height="290" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="834" font-size="16" font-weight="bold">④ 熟化: 生石灰 + 水 → 熟石灰 + 大量热</text>
+<text x="370" y="834" font-size="14" fill="#555">CaO + H₂O → Ca(OH)₂</text>
+
+<g transform="translate(20,846)">
+<rect width="220" height="196" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="10" y="22" font-size="14" font-weight="bold" fill="#0b5cad">✓ 先放水,再分批放入生石灰块</text>
+<path d="M28 60 L36 128 H128 L136 60" fill="#a9a9a9" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M32 74 L38 124 H126 L132 74 Z" fill="#d8ebf7"/>
+<path d="M32 74 H132" stroke="#0b5cad" stroke-width="1.5"/>
+<g fill="#d3d3ca" stroke="#333" stroke-width="1.2"><use href="#lump" x="72" y="44"/><use href="#lump" x="94" y="34"/></g>
+<path d="M82 52 V68" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<path d="M52 70 Q46 60 52 52 T50 38 M112 70 Q118 60 112 52 T114 38" fill="none" stroke="#888" stroke-width="1.6"/>
+<path d="M206 38 L120 112" stroke="#8b6b3e" stroke-width="4" stroke-linecap="round"/>
+<path d="M112 106 L128 120 M110 112 L122 122" stroke="#8b6b3e" stroke-width="3" stroke-linecap="round"/>
+<text x="150" y="70" font-size="12" fill="#555">长柄木耙</text>
+<text x="10" y="150" font-size="13">水量约为生石灰重量的3-4倍</text>
+<text x="10" y="168" font-size="13">用长柄木耙搅动,人站远、偏开脸</text>
+<text x="10" y="186" font-size="13" fill="#555">会冒热汽、沸腾、溅浆</text>
+</g>
+
+<g transform="translate(250,846)">
+<rect width="220" height="196" rx="6" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<text x="10" y="22" font-size="14" font-weight="bold" fill="#c33">✗ 往一大堆灰上浇少量水</text>
+<path d="M50 126 Q110 52 170 126 Z" fill="#e2e2da" stroke="#333" stroke-width="2"/>
+<g fill="#d3d3ca" stroke="#555" stroke-width="1"><use href="#lump" x="86" y="112"/><use href="#lump" x="110" y="104"/><use href="#lump" x="134" y="114"/><use href="#lump" x="98" y="94"/><use href="#lump" x="122" y="92"/></g>
+<path d="M30 44 L52 36 L58 52 L38 60 Z" fill="#cfe0f0" stroke="#333" stroke-width="1.5"/>
+<path d="M56 46 Q84 46 104 78" fill="none" stroke="#7aa6cc" stroke-width="3"/>
+<g stroke="#c33" stroke-width="2" stroke-linecap="round"><path d="M112 74 L118 58 M124 78 L140 66 M100 72 L94 56 M130 88 L150 86"/></g>
+<g fill="#c33"><circle cx="122" cy="50" r="2.6"/><circle cx="146" cy="58" r="2.6"/><circle cx="90" cy="48" r="2.2"/><circle cx="158" cy="78" r="2.2"/></g>
+<path d="M170 64 Q164 54 170 46 T168 32" fill="none" stroke="#888" stroke-width="1.6"/>
+<text x="10" y="150" font-size="13" fill="#c33" font-weight="bold">会局部沸腾飞溅</text>
+<text x="10" y="168" font-size="13">(大量消石灰粉的做法见正文:</text>
+<text x="10" y="186" font-size="13">薄层摊开,边翻边少量洒水)</text>
+</g>
+
+<g transform="translate(480,846)">
+<rect width="220" height="196" rx="6" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<text x="10" y="22" font-size="14" font-weight="bold" fill="#c33">✗ 用塑料桶、塑料盆</text>
+<path d="M60 56 Q56 80 64 96 Q58 112 66 128 H130 Q138 110 132 96 Q142 78 136 56 Z" fill="#7aa6cc" stroke="#333" stroke-width="2"/>
+<path d="M54 56 H142" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+<path d="M84 128 L88 116 L84 108 M116 56 L112 70 L118 78" fill="none" stroke="#333" stroke-width="1.6"/>
+<path d="M84 50 Q78 42 84 34 T82 22 M112 50 Q118 42 112 34 T114 22" fill="none" stroke="#888" stroke-width="1.6"/>
+<text x="150" y="88" font-size="13" fill="#c33" font-weight="bold">变软</text>
+<text x="150" y="120" font-size="13" fill="#c33" font-weight="bold">开裂</text>
+<text x="10" y="150" font-size="13">温度可接近100°C</text>
+<text x="10" y="168" font-size="13">→ 用砖石砌的池、铁桶、</text>
+<text x="10" y="186" font-size="13">旧铁锅</text>
+</g>
+
+<text x="24" y="1066" font-size="14">滤去没化开的石渣 → 流进储灰池,浆面保持一层水 → <tspan font-weight="bold">陈伏</tspan></text>
+<text x="24" y="1088" font-size="14">陈伏: 砌筑用至少2周,抹灰、刷墙用至少1个月(让过烧颗粒在池里化完,免得上墙"爆灰")</text>
+
+<!-- 安全 -->
+<rect x="10" y="1110" width="700" height="116" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="2"/>
+<text x="24" y="1136" font-size="15" font-weight="bold" fill="#c33">⚠️ 生石灰遇水剧烈放热,能把水烧开;粉尘或灰浆溅入眼睛可以致盲</text>
+<text x="24" y="1160" font-size="14">✓ 处理生石灰、熟化、拌灰浆时戴护目镜、手套,穿长袖,身边备一桶清水</text>
+<text x="24" y="1184" font-size="14"><tspan font-weight="bold" fill="#c33">溅入眼睛:</tspan> 擦去眼周可见的颗粒,马上翻开眼皮用大量清水持续冲洗,尽快就医</text>
+<text x="24" y="1208" font-size="14"><tspan font-weight="bold" fill="#c33">溅到皮肤:</tspan> 先刷去(擦去)干粉,再用大量清水冲洗,不要先泼少量水</text>
+</g>
+</svg>
