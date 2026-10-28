@@ -126,30 +126,31 @@
 <path d="M306,1020 Q304,1004 314,1001 Q324,998 330,1006 L332,1020 Z" fill="#aaa" stroke="#333" stroke-width="2"/>
 <text x="70" y="1046" font-size="14" text-anchor="middle">小轮子</text>
 <text x="236" y="1046" font-size="14" text-anchor="middle">大轮子</text>
-<text x="98" y="976" font-size="12" fill="#555">同样的石块</text>
+<text x="109" y="992" font-size="12" fill="#555" text-anchor="middle">石块</text>
+<text x="319" y="992" font-size="12" fill="#555" text-anchor="middle">石块</text>
 <text x="182" y="1076" font-size="14" text-anchor="middle">轮子直径越大越省力,过坑越容易</text>
 <text x="182" y="1100" font-size="14" text-anchor="middle" font-weight="bold">畜力车常用约1-1.5 m</text>
 
 <!-- ⑥ 轴和轴套 -->
 <rect x="365" y="832" width="345" height="284" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
 <text x="379" y="858" font-size="16" font-weight="bold">⑥ 轴和轴套(剖面示意)</text>
-<path d="M512,876 V912 M532,876 V912 M512,988 V1018 M532,988 V1018" stroke="#8f6d2e" stroke-width="5"/>
+<path d="M512,876 V912 M532,876 V912 M512,988 V1004 M532,988 V1004" stroke="#8f6d2e" stroke-width="5"/>
 <rect x="472" y="912" width="100" height="76" fill="#d9c29a" stroke="#333" stroke-width="2"/>
-<path d="M482,912 L472,922 M502,912 L472,942 M522,912 L492,942 M542,912 L512,942 M562,912 L532,942 M572,922 L552,942 M482,988 L472,978 M502,988 L478,964 M522,988 L498,964 M542,988 L518,964 M562,988 L538,964 M572,998 L548,964" stroke="#b08d4e" stroke-width="1"/>
+<path d="M482,912 L472,922 M502,912 L472,942 M522,912 L492,942 M542,912 L512,942 M562,912 L532,942 M572,922 L552,942 M482,988 L472,978 M502,988 L478,964 M522,988 L498,964 M542,988 L518,964 M562,988 L538,964 M572,988 L548,964" stroke="#b08d4e" stroke-width="1"/>
 <rect x="472" y="936" width="100" height="6" fill="#888" stroke="#333" stroke-width="1"/>
 <rect x="472" y="958" width="100" height="6" fill="#888" stroke="#333" stroke-width="1"/>
 <rect x="384" y="942" width="214" height="16" fill="#d9c29a" stroke="#333" stroke-width="2"/>
 <rect x="466" y="942" width="112" height="16" fill="#bbb" stroke="#333" stroke-width="1.5"/>
 <rect x="586" y="930" width="7" height="40" rx="2" fill="#555" stroke="#333" stroke-width="1.5"/>
 <g stroke="#555" stroke-width="1">
-<path d="M478,926 L440,900 M406,950 L406,982 M520,962 L480,1010 M590,930 L618,904"/>
+<path d="M478,926 L440,900 M406,950 L406,982 M520,962 L480,1010"/>
 </g>
 <text x="386" y="898" font-size="14" font-weight="bold">轮毂</text>
 <text x="380" y="996" font-size="13">车轴</text>
 <text x="474" y="1024" font-size="13">轴套: 铁管或铁环</text>
 <text x="474" y="1040" font-size="12" fill="#555">车轴相应部位包铁皮</text>
-<text x="596" y="900" font-size="13">销子: 防止</text>
-<text x="596" y="916" font-size="13">轮子脱出</text>
+<text x="604" y="946" font-size="13">销子: 防止</text>
+<text x="604" y="962" font-size="13">轮子脱出</text>
 <text x="379" y="1066" font-size="13">润滑: 动物油(牛羊油最耐用)、植物油、废机油</text>
 <text x="379" y="1084" font-size="13">混进石墨粉,耐压、不容易挤出去</text>
 <text x="379" y="1104" font-size="13" font-weight="bold" fill="#c33">出车前检查: 轴头发烫、吱吱响 → 缺油</text>
