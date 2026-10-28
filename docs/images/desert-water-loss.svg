@@ -1,0 +1,171 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 960" width="720" height="960" role="img" aria-label="沙漠里省的是汗,不是水: 高温下在阴凉处静坐休息每天也会失去好几 L 水,在烈日下走路、干活每小时出汗可达约1 L甚至更多;穿长袖长裤、遮住头和颈后,衣服挡住阳光,汗在衣服里慢慢蒸发降温,脱光衣服反而失水更快还会晒伤;白天躲阴不动,用鼻子呼吸少说话,水不够时少吃或不吃,不喝酒;不要配给,渴了就喝,小口慢饮,每小时一般不超过约1-1.5 L,看尿的颜色;尿液、冷却液、玻璃水、海水和苦咸水、酒都不能喝">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>沙漠里怎样减少失水</title>
+<defs>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<pattern id="sand" width="14" height="14" patternUnits="userSpaceOnUse"><rect width="14" height="14" fill="#f1e2bd"/><circle cx="3" cy="4" r="1.1" fill="#c9a865"/><circle cx="10" cy="10" r="0.9" fill="#c9a865"/></pattern>
+<g id="sun"><circle r="14" fill="#ffd34d" stroke="#e08a00" stroke-width="2"/><path d="M0,-19 V-25 M0,19 V25 M-19,0 H-25 M19,0 H25 M-13.4,-13.4 L-17.7,-17.7 M13.4,13.4 L17.7,17.7 M-13.4,13.4 L-17.7,17.7 M13.4,-13.4 L17.7,-17.7" stroke="#e08a00" stroke-width="2" stroke-linecap="round"/></g>
+<g id="drop"><path d="M0,0 Q4,6 0,9 Q-4,6 0,0 Z" fill="#6aa6d6" stroke="#3d78ad" stroke-width="0.8"/></g>
+</defs>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="14" fill="#222">
+<text x="360" y="30" font-size="18" font-weight="bold" text-anchor="middle">沙漠里省的是汗,不是水</text>
+
+<!-- ① 出汗有多快 -->
+<g transform="translate(10,44)">
+<rect x="0" y="0" width="700" height="258" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">① 出汗有多快</text>
+<text x="132" y="28" font-size="13" fill="#555">(高温下的大致估计,个人差异很大)</text>
+<!-- 左: 阴凉处静坐 -->
+<rect x="24" y="170" width="300" height="8" fill="url(#sand)"/>
+<line x1="24" y1="170" x2="324" y2="170" stroke="#999" stroke-width="3"/>
+<polygon points="80,170 236,170 228,178 86,178" fill="#cbbf9f"/>
+<line x1="70" y1="170" x2="70" y2="84" stroke="#7a5a30" stroke-width="5" stroke-linecap="round"/>
+<line x1="246" y1="170" x2="246" y2="84" stroke="#7a5a30" stroke-width="5" stroke-linecap="round"/>
+<path d="M60,82 Q158,94 256,82" fill="none" stroke="#333" stroke-width="6" stroke-linecap="round"/>
+<path d="M60,82 Q158,94 256,82" fill="none" stroke="#f1d27a" stroke-width="3" stroke-linecap="round"/>
+<use href="#sun" transform="translate(296,62)"/>
+<path d="M280,74 L250,80" stroke="#e08a00" stroke-width="1.5" stroke-dasharray="4 3"/>
+<g transform="translate(150,168)">
+<rect x="-22" y="-3" width="56" height="5" fill="#b9a27a" stroke="#333" stroke-width="1"/>
+<path d="M0,-8 L24,-16 L30,-2" fill="none" stroke="#333" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M0,-8 L24,-16 L30,-2" fill="none" stroke="#cfe0f0" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="-9" y="-44" width="17" height="38" rx="7" fill="#cfe0f0" stroke="#333" stroke-width="2"/>
+<path d="M2,-38 L20,-20" stroke="#333" stroke-width="8" stroke-linecap="round"/>
+<path d="M2,-38 L20,-20" stroke="#cfe0f0" stroke-width="4.5" stroke-linecap="round"/>
+<circle cx="2" cy="-55" r="9" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M11,-57 Q11,-67 1,-67 Q-10,-67 -11,-56 L-13,-40 L-5,-42 L-6,-52 Q-2,-60 11,-57 Z" fill="#fbfaf4" stroke="#333" stroke-width="1.5"/>
+<use href="#drop" transform="translate(16,-60)"/>
+</g>
+<text x="174" y="200" font-size="15" font-weight="bold" text-anchor="middle">在阴凉处静坐休息</text>
+<text x="174" y="220" font-size="14" text-anchor="middle">每天也会失去好几 L 水,气温越高越多</text>
+<!-- 右: 烈日下走路 -->
+<rect x="376" y="170" width="300" height="8" fill="url(#sand)"/>
+<line x1="376" y1="170" x2="676" y2="170" stroke="#999" stroke-width="3"/>
+<use href="#sun" transform="translate(410,62) scale(1.3)"/>
+<path d="M426,78 L452,98 M434,66 L464,72" stroke="#e08a00" stroke-width="1.5" stroke-dasharray="4 3"/>
+<g transform="translate(500,168)">
+<path d="M0,-62 L-16,-2 M0,-62 L18,-4" fill="none" stroke="#333" stroke-width="12" stroke-linecap="round"/>
+<path d="M0,-62 L-16,-2 M0,-62 L18,-4" fill="none" stroke="#cfe0f0" stroke-width="8" stroke-linecap="round"/>
+<path d="M-18,-2 L-8,-2 M16,-4 L26,-4" stroke="#333" stroke-width="5" stroke-linecap="round"/>
+<rect x="-9" y="-112" width="19" height="54" rx="8" fill="#cfe0f0" stroke="#333" stroke-width="2" transform="rotate(6 0 -85)"/>
+<path d="M2,-102 L-14,-76 M2,-102 L18,-78" fill="none" stroke="#333" stroke-width="8" stroke-linecap="round"/>
+<path d="M2,-102 L-14,-76 M2,-102 L18,-78" fill="none" stroke="#cfe0f0" stroke-width="4.5" stroke-linecap="round"/>
+<circle cx="6" cy="-124" r="11" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<use href="#drop" transform="translate(-14,-134)"/>
+<use href="#drop" transform="translate(22,-126)"/>
+<use href="#drop" transform="translate(-20,-110)"/>
+<use href="#drop" transform="translate(24,-104)"/>
+<use href="#drop" transform="translate(-22,-86)"/>
+<use href="#drop" transform="translate(28,-84)"/>
+</g>
+<!-- 1 L 水瓶 -->
+<path d="M592,84 L604,84 L604,94 Q614,100 614,112 L614,160 Q614,166 608,166 L588,166 Q582,166 582,160 L582,112 Q582,100 592,94 Z" fill="#e8f1fa" stroke="#333" stroke-width="2"/>
+<path d="M583,112 L613,112 L613,160 Q613,165 608,165 L588,165 Q583,165 583,160 Z" fill="#9cc3e6"/>
+<text x="598" y="144" font-size="14" font-weight="bold" text-anchor="middle">1 L</text>
+<path d="M540,124 L574,124" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="630" y="122" font-size="14" fill="#c33">每小时</text>
+<text x="630" y="140" font-size="14" fill="#c33">约1 L</text>
+<text x="526" y="200" font-size="15" font-weight="bold" fill="#c33" text-anchor="middle">在烈日下走路、干活</text>
+<text x="526" y="220" font-size="14" fill="#c33" text-anchor="middle">每小时出汗可达约1 L,甚至更多</text>
+<line x1="350" y1="56" x2="350" y2="226" stroke="#ddd" stroke-width="1.5"/>
+<text x="16" y="246" font-size="14">同样走一段路,白天顶着太阳走比夜里走多出好几倍的汗;在烈日下走一个下午,可能就把一整天的水用光</text>
+</g>
+
+<!-- ② 怎样减少出汗 -->
+<g transform="translate(10,312)">
+<rect x="0" y="0" width="700" height="306" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">② 怎样减少出汗</text>
+<use href="#sun" transform="translate(176,62)"/>
+<line x1="16" y1="200" x2="340" y2="200" stroke="#999" stroke-width="3"/>
+<!-- ✓ 穿衣 -->
+<g transform="translate(90,198)">
+<rect x="-14" y="-72" width="13" height="70" rx="5" fill="#e6eef6" stroke="#333" stroke-width="2"/>
+<rect x="1" y="-72" width="13" height="70" rx="5" fill="#e6eef6" stroke="#333" stroke-width="2"/>
+<rect x="-31" y="-122" width="11" height="54" rx="5" fill="#f4efe2" stroke="#333" stroke-width="2"/>
+<rect x="20" y="-122" width="11" height="54" rx="5" fill="#f4efe2" stroke="#333" stroke-width="2"/>
+<rect x="-21" y="-126" width="42" height="62" rx="9" fill="#f4efe2" stroke="#333" stroke-width="2"/>
+<circle cx="-26" cy="-64" r="5" fill="#f3e3d3" stroke="#333" stroke-width="1.5"/>
+<circle cx="26" cy="-64" r="5" fill="#f3e3d3" stroke="#333" stroke-width="1.5"/>
+<path d="M-17,-136 Q-17,-160 0,-160 Q17,-160 17,-136 L20,-118 L-20,-118 Z" fill="#fbfaf4" stroke="#333" stroke-width="2"/>
+<ellipse cx="0" cy="-138" rx="9" ry="11" fill="#f3e3d3" stroke="#333" stroke-width="1.5"/>
+<path d="M-4,-130 L4,-130" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M-16,0 L-1,0 M1,0 L16,0" stroke="#333" stroke-width="5" stroke-linecap="round"/>
+</g>
+<path d="M160,80 L116,46" stroke="#e08a00" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="90" y="226" font-size="15" font-weight="bold" fill="#0b5cad" text-anchor="middle">✓ 穿着衣服</text>
+<!-- ✗ 脱光 -->
+<g transform="translate(262,198)">
+<rect x="-14" y="-72" width="13" height="70" rx="5" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<rect x="1" y="-72" width="13" height="70" rx="5" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M-16,-72 L16,-72 L16,-50 L-16,-50 Z" fill="#cfe0f0" stroke="#333" stroke-width="2"/>
+<rect x="-31" y="-122" width="11" height="54" rx="5" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<rect x="20" y="-122" width="11" height="54" rx="5" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<rect x="-21" y="-126" width="42" height="58" rx="9" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<circle cx="0" cy="-140" r="13" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M-12,-145 Q0,-158 12,-145" fill="none" stroke="#333" stroke-width="3"/>
+<path d="M-16,0 L-1,0 M1,0 L16,0" stroke="#333" stroke-width="5" stroke-linecap="round"/>
+<use href="#drop" transform="translate(-8,-112)"/>
+<use href="#drop" transform="translate(8,-96)"/>
+<use href="#drop" transform="translate(-4,-80)"/>
+<path d="M30,-110 q10,-6 20,0 q10,6 20,0" fill="none" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<path d="M30,-90 q10,-6 20,0 q10,6 20,0" fill="none" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+</g>
+<path d="M192,80 L236,112" stroke="#e08a00" stroke-width="1.5" stroke-dasharray="4 3"/>
+<path d="M190,70 L248,70" stroke="#e08a00" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="268" y="226" font-size="15" font-weight="bold" fill="#c33" text-anchor="middle">✗ 脱光衣服</text>
+<text x="16" y="252" font-size="14" fill="#0b5cad">✓ 衣服挡住阳光,汗留在衣服里慢慢蒸发降温</text>
+<text x="16" y="274" font-size="14" fill="#c33">✗ 阳光直晒皮肤,汗刚出来就被热风吹干,</text>
+<text x="32" y="294" font-size="14" fill="#c33">只能出更多汗,失水更快,还会严重晒伤</text>
+<line x1="350" y1="44" x2="350" y2="290" stroke="#ddd" stroke-width="1.5"/>
+<g font-size="14">
+<text x="364" y="56"><tspan fill="#0b5cad" font-weight="bold">✓ 白天躲阴:</tspan> 大约10点以后到傍晚,</text>
+<text x="380" y="74">待在阴凉处不动</text>
+<text x="364" y="100"><tspan fill="#0b5cad" font-weight="bold">✓</tspan> 必须走的路放在傍晚、夜里和清晨</text>
+<text x="364" y="126"><tspan fill="#0b5cad" font-weight="bold">✓</tspan> 长袖长裤,浅色、宽松、透气;</text>
+<text x="380" y="144">头和颈后一定要遮住</text>
+<text x="364" y="170"><tspan fill="#0b5cad" font-weight="bold">✓</tspan> 用鼻子呼吸,少说话、少张嘴</text>
+<text x="364" y="196"><tspan fill="#0b5cad" font-weight="bold">✓</tspan> 挖坑、搬东西、找食物放在凉快时</text>
+<text x="364" y="222"><tspan fill="#0b5cad" font-weight="bold">✓</tspan> 水不够时少吃或不吃(消化要用水)</text>
+<text x="364" y="248"><tspan fill="#0b5cad" font-weight="bold">✓</tspan> 保持冷静(焦虑增加失水)</text>
+<text x="364" y="274"><tspan fill="#c33" font-weight="bold">✗</tspan> 不喝酒(利尿,加快脱水)、不吸烟</text>
+</g>
+</g>
+
+<!-- ③ 喝水 -->
+<g transform="translate(10,628)">
+<rect x="0" y="0" width="700" height="166" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">③ 有水就喝,不要配给</text>
+<text x="16" y="56" font-size="14">水存在水壶里不能帮你降温,存在身体里才能</text>
+<text x="16" y="80" font-size="14">✓ 渴了就喝,最好在口渴之前就喝</text>
+<text x="16" y="104" font-size="14">✓ 小口慢饮,每小时一般不超过约1-1.5 L</text>
+<text x="16" y="128" font-size="14">✓ 长时间大量出汗: 有条件喝口服补液盐、</text>
+<text x="32" y="146" font-size="14">运动饮料或淡盐水,或配着吃点咸的</text>
+<line x1="350" y1="44" x2="350" y2="152" stroke="#ddd" stroke-width="1.5"/>
+<text x="364" y="56" font-size="14" font-weight="bold">看尿判断:</text>
+<rect x="364" y="68" width="36" height="22" rx="4" fill="#fbf3b4" stroke="#333" stroke-width="1.5"/>
+<text x="410" y="84" font-size="14">淡黄色 → 水够</text>
+<rect x="364" y="98" width="36" height="22" rx="4" fill="#d99a1e" stroke="#333" stroke-width="1.5"/>
+<text x="410" y="114" font-size="14">深黄、尿量很少 → 已经缺水</text>
+<rect x="364" y="128" width="36" height="22" rx="4" fill="#fff" stroke="#c33" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="382" y="144" font-size="13" fill="#c33" text-anchor="middle">无</text>
+<text x="410" y="144" font-size="14" fill="#c33">大半天不排尿 → 危险信号</text>
+</g>
+
+<!-- ④ 不能喝的 -->
+<g transform="translate(10,804)">
+<rect x="0" y="0" width="700" height="146" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="#c33">④ 不能喝的"水"</text>
+<g font-size="14">
+<text x="16" y="56"><tspan fill="#c33" font-weight="bold">✗ 尿液:</tspan> 越脱水尿越浓,喝了只会更渴</text>
+<text x="30" y="76" fill="#555" font-size="13">(可以倒进蒸馏器坑里,或用来打湿衣服帮助降温)</text>
+<text x="16" y="102"><tspan fill="#c33" font-weight="bold">✗ 冷却液、防冻液:</tspan> 有毒,少量就可能致命</text>
+<text x="16" y="128"><tspan fill="#c33" font-weight="bold">✗ 玻璃水(雨刷液):</tspan> 常含甲醇,有毒</text>
+<text x="380" y="56"><tspan fill="#c33" font-weight="bold">✗ 海水、盐湖水、苦咸水:</tspan></text>
+<text x="394" y="76">越喝越渴,加重脱水</text>
+<text x="380" y="102"><tspan fill="#c33" font-weight="bold">✗ 酒</tspan></text>
+<text x="380" y="128" font-weight="bold">不确定能不能喝的水,宁可不喝</text>
+</g>
+</g>
+</g>
+</svg>

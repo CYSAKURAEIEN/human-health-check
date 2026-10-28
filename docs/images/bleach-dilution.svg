@@ -1,0 +1,160 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 850" width="720" height="850" role="img" aria-label="84消毒液的配制: 按有效氯约5%的84消毒液计算,不同品牌浓度不同,先看瓶子上标的有效氯含量,浓度不同时按比例调整。①日常物体表面、餐具、衣物: 10 mL原液加1 L水,84消毒液比水1比100,有效氯约500 mg/L。②病人用过的物品、有污染的地面、马桶: 20 mL原液加1 L水,1比50,约1000 mg/L。③呕吐物、粪便等污染物: 约110-250 mL原液加1 L水,约1比9到1比4,5000-10000 mg/L。使用方法: 用凉水或常温水稀释,热水会让有效成分分解;现配现用,稀释液当天用完;擦拭或浸泡后作用约30分钟,再用清水擦净或冲净;戴手套,开窗通风。处理呕吐物、粪便: 戴手套口罩,用吸水材料蘸高浓度消毒液完全覆盖,作用30分钟后清除、装袋扎紧,再用1比50的消毒液擦拭地面和周围,摘手套洗手。绝不能和洁厕灵等酸性清洁剂混用,会产生氯气;不要用于皮肤、伤口;不要用饮料瓶装稀释液,贴上标签,放在儿童拿不到的地方;对金属有腐蚀性,对衣物有漂白作用" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>84消毒液的配制</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker>
+<marker id="arK" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#555"/></marker>
+<!-- 量杯(原点在杯底中心,刻度 0.4 px/mL,满刻度 200 mL = 80 px) -->
+<g id="cup" fill="none" stroke="#333">
+<path d="M-27 -88 L-22 -84 L-22 -4 Q-22 0 -18 0 L18 0 Q22 0 22 -4 L22 -86" stroke-width="2.5"/>
+<path d="M22 -20 H12 M22 -40 H8 M22 -60 H12 M22 -80 H8" stroke-width="1.2"/>
+</g>
+<!-- 桶(原点在桶底中心) -->
+<g id="pail">
+<path d="M-33.4 -48 L-27 0 L27 0 L33.4 -48 Z" fill="#dbe8f5"/>
+<path d="M-35 -60 L-27 0 L27 0 L35 -60" fill="none" stroke="#333" stroke-width="2.5"/>
+<ellipse cx="0" cy="-60" rx="35" ry="5" fill="none" stroke="#333" stroke-width="2"/>
+<path d="M-35 -60 Q0 -100 35 -60" fill="none" stroke="#555" stroke-width="2"/>
+</g>
+<!-- 瓶子 -->
+<g id="bottle">
+<rect x="-6" y="-78" width="12" height="10" rx="2" fill="#555"/>
+<path d="M-6 -68 L-6 -62 Q-20 -56 -20 -44 L-20 -4 Q-20 0 -16 0 L16 0 Q20 0 20 -4 L20 -44 Q20 -56 6 -62 L6 -68 Z" stroke="#333" stroke-width="2.5"/>
+</g>
+</defs>
+<g fill="#222">
+<text x="360" y="30" font-size="18" font-weight="bold" text-anchor="middle">84消毒液的配制(按有效氯约5%计算)</text>
+<text x="360" y="54" font-size="14" text-anchor="middle" fill="#555">不同品牌浓度不同: 先看瓶子上标的有效氯含量,浓度不同时按比例调整</text>
+
+<!-- ① 日常 -->
+<rect x="10" y="68" width="228" height="284" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="124" y="94" font-size="15" font-weight="bold" text-anchor="middle">① 日常物体表面</text>
+<text x="124" y="114" font-size="15" font-weight="bold" text-anchor="middle">餐具、衣物</text>
+<rect x="47" y="222" width="44" height="4" fill="#e8d36a"/>
+<use href="#cup" x="69" y="226"/>
+<text x="114" y="200" font-size="22" font-weight="bold" text-anchor="middle">+</text>
+<use href="#pail" x="170" y="226"/>
+<text x="170" y="210" font-size="13" text-anchor="middle" fill="#0b5cad">1 L 水</text>
+<text x="124" y="256" font-size="15" font-weight="bold" text-anchor="middle"><tspan fill="#c33">10 mL 原液</tspan> + 1 L 水</text>
+<text x="124" y="280" font-size="13" text-anchor="middle" fill="#555">84消毒液 : 水</text>
+<text x="124" y="301" font-size="16" font-weight="bold" text-anchor="middle">1 : 100</text>
+<text x="124" y="326" font-size="14" text-anchor="middle">有效氯</text>
+<text x="124" y="344" font-size="17" font-weight="bold" text-anchor="middle" fill="#c33">约500 mg/L</text>
+
+<!-- ② 污染 -->
+<rect x="246" y="68" width="228" height="284" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="360" y="94" font-size="15" font-weight="bold" text-anchor="middle">② 病人用过的物品</text>
+<text x="360" y="114" font-size="15" font-weight="bold" text-anchor="middle">有污染的地面、马桶</text>
+<rect x="283" y="218" width="44" height="8" fill="#e8d36a"/>
+<use href="#cup" x="305" y="226"/>
+<text x="350" y="200" font-size="22" font-weight="bold" text-anchor="middle">+</text>
+<use href="#pail" x="406" y="226"/>
+<text x="406" y="210" font-size="13" text-anchor="middle" fill="#0b5cad">1 L 水</text>
+<text x="360" y="256" font-size="15" font-weight="bold" text-anchor="middle"><tspan fill="#c33">20 mL 原液</tspan> + 1 L 水</text>
+<text x="360" y="280" font-size="13" text-anchor="middle" fill="#555">84消毒液 : 水</text>
+<text x="360" y="301" font-size="16" font-weight="bold" text-anchor="middle">1 : 50</text>
+<text x="360" y="326" font-size="14" text-anchor="middle">有效氯</text>
+<text x="360" y="344" font-size="17" font-weight="bold" text-anchor="middle" fill="#c33">约1000 mg/L</text>
+
+<!-- ③ 呕吐物粪便 -->
+<rect x="482" y="68" width="228" height="284" rx="8" fill="none" stroke="#c33" stroke-width="1.5"/>
+<text x="596" y="94" font-size="15" font-weight="bold" text-anchor="middle">③ 呕吐物、粪便</text>
+<text x="596" y="114" font-size="15" font-weight="bold" text-anchor="middle">等污染物</text>
+<rect x="519" y="146" width="44" height="40" fill="#f3e9b4"/>
+<rect x="519" y="186" width="44" height="40" fill="#e8d36a"/>
+<path d="M519 186 H563" stroke="#555" stroke-width="1" stroke-dasharray="3 2"/>
+<use href="#cup" x="541" y="226"/>
+<text x="586" y="200" font-size="22" font-weight="bold" text-anchor="middle">+</text>
+<use href="#pail" x="642" y="226"/>
+<text x="642" y="210" font-size="13" text-anchor="middle" fill="#0b5cad">1 L 水</text>
+<text x="596" y="256" font-size="15" font-weight="bold" text-anchor="middle"><tspan fill="#c33">约110-250 mL 原液</tspan> + 1 L 水</text>
+<text x="596" y="280" font-size="13" text-anchor="middle" fill="#555">84消毒液 : 水</text>
+<text x="596" y="301" font-size="16" font-weight="bold" text-anchor="middle">约1 : 9 到 1 : 4</text>
+<text x="596" y="326" font-size="14" text-anchor="middle">有效氯</text>
+<text x="596" y="344" font-size="17" font-weight="bold" text-anchor="middle" fill="#c33">5000-10000 mg/L</text>
+
+<!-- 使用方法 -->
+<rect x="10" y="364" width="700" height="144" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="390" font-size="16" font-weight="bold">使用方法</text>
+<g font-size="14" text-anchor="middle">
+<!-- 凉水 -->
+<path d="M70 404 V440 M70 404 H100 V416" fill="none" stroke="#333" stroke-width="5" stroke-linecap="round"/>
+<path d="M100 424 Q94 434 100 440 Q106 434 100 424 Z" fill="#0b5cad"/>
+<g stroke="#0b5cad" stroke-width="2" fill="none"><path d="M128 404 V440 M112 413 L144 431 M112 431 L144 413"/></g>
+<text x="104" y="466" font-weight="bold">用凉水或常温水稀释</text>
+<text x="104" y="486" font-size="13" fill="#555">热水会让有效成分分解</text>
+<!-- 现配现用 -->
+<rect x="250" y="402" width="50" height="42" rx="3" fill="#fff" stroke="#333" stroke-width="2"/>
+<rect x="250" y="402" width="50" height="12" rx="3" fill="#c33"/>
+<text x="275" y="438" font-size="14" font-weight="bold">当天</text>
+<text x="275" y="466" font-weight="bold">现配现用</text>
+<text x="275" y="486" font-size="13" fill="#555">稀释液当天用完</text>
+<!-- 30分钟 -->
+<circle cx="446" cy="423" r="21" fill="#fff" stroke="#333" stroke-width="2"/>
+<path d="M446 423 V407 A16 16 0 0 1 446 439 Z" fill="#f3e9b4"/>
+<path d="M446 423 V407 M446 423 V439" stroke="#333" stroke-width="2"/>
+<text x="446" y="466" font-weight="bold">作用约30分钟</text>
+<text x="446" y="486" font-size="13" fill="#555">再用清水擦净或冲净</text>
+<!-- 手套、通风 -->
+<path d="M586 444 V420 Q586 414 590 414 V404 Q590 400 594 400 Q598 400 598 404 V414 V400 Q598 396 602 396 Q606 396 606 400 V414 V402 Q606 398 610 398 Q614 398 614 402 V420 L620 412 Q624 408 627 412 L618 434 Q614 444 606 444 Z" fill="#f2c14e" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<rect x="638" y="402" width="40" height="42" fill="#fff" stroke="#333" stroke-width="2"/>
+<path d="M658 402 V444" stroke="#333" stroke-width="1.5"/>
+<path d="M664 414 Q674 420 690 412" fill="none" stroke="#0b5cad" stroke-width="2" marker-end="url(#arK)"/>
+<path d="M664 430 Q674 436 690 428" fill="none" stroke="#0b5cad" stroke-width="2" marker-end="url(#arK)"/>
+<text x="628" y="466" font-weight="bold">戴手套</text>
+<text x="628" y="486" font-size="13" fill="#555">开窗通风</text>
+</g>
+
+<!-- 处理呕吐物、粪便 -->
+<rect x="10" y="520" width="700" height="112" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="546" font-size="16" font-weight="bold">处理呕吐物、粪便</text>
+<g font-size="13" text-anchor="middle">
+<rect x="24" y="556" width="122" height="68" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="85" y="586" font-weight="bold">① 戴手套</text>
+<text x="85" y="606" font-weight="bold">口罩</text>
+<path d="M147 590 H159" stroke="#555" stroke-width="2" marker-end="url(#arK)"/>
+<rect x="161" y="556" width="122" height="68" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="222" y="579">② 吸水材料蘸</text>
+<text x="222" y="598"><tspan font-weight="bold">高浓度</tspan>消毒液</text>
+<text x="222" y="616" font-size="12">完全覆盖污染物</text>
+<path d="M284 590 H296" stroke="#555" stroke-width="2" marker-end="url(#arK)"/>
+<rect x="298" y="556" width="122" height="68" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="359" y="586">③ 作用<tspan font-weight="bold">30分钟</tspan>后</text>
+<text x="359" y="606">清除,装袋扎紧</text>
+<path d="M421 590 H433" stroke="#555" stroke-width="2" marker-end="url(#arK)"/>
+<rect x="435" y="556" width="122" height="68" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="496" y="586">④ 再用<tspan font-weight="bold">1:50</tspan>消毒液</text>
+<text x="496" y="606">擦拭地面和周围</text>
+<path d="M558 590 H570" stroke="#555" stroke-width="2" marker-end="url(#arK)"/>
+<rect x="572" y="556" width="124" height="68" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="634" y="586" font-weight="bold">⑤ 摘手套</text>
+<text x="634" y="606" font-weight="bold">洗手</text>
+</g>
+
+<!-- 安全 -->
+<rect x="10" y="644" width="700" height="196" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="2"/>
+<text x="24" y="672" font-size="16" font-weight="bold" fill="#c33">✗ 绝不能和洁厕灵等酸性清洁剂混用 → 产生氯气</text>
+<use href="#bottle" x="56" y="790" fill="#f3e9b4"/>
+<text x="56" y="760" font-size="14" font-weight="bold" text-anchor="middle">84</text>
+<text x="56" y="812" font-size="13" text-anchor="middle">84消毒液</text>
+<text x="104" y="760" font-size="22" font-weight="bold" text-anchor="middle">+</text>
+<circle cx="104" cy="752" r="17" fill="none" stroke="#c33" stroke-width="3.5"/>
+<path d="M92 764 L116 740" stroke="#c33" stroke-width="3.5"/>
+<use href="#bottle" x="152" y="790" fill="#cfe0f0"/>
+<text x="152" y="760" font-size="12" font-weight="bold" text-anchor="middle">酸性</text>
+<text x="152" y="812" font-size="13" text-anchor="middle">洁厕灵</text>
+<path d="M186 752 H218" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<path d="M232 768 Q222 768 222 756 Q222 742 236 742 Q238 726 256 726 Q270 722 278 734 Q296 732 298 748 Q308 754 302 766 Q298 774 286 772 Z" fill="#e6ecb0" stroke="#8a9a2a" stroke-width="2"/>
+<text x="262" y="756" font-size="15" font-weight="bold" text-anchor="middle" fill="#5d6b12">氯气</text>
+<text x="262" y="796" font-size="13" text-anchor="middle" fill="#c33">刺激眼睛和呼吸道</text>
+<text x="262" y="814" font-size="13" text-anchor="middle" fill="#c33">严重时可致命</text>
+<line x1="330" y1="690" x2="330" y2="826" stroke="#e3b5b5" stroke-width="1.5"/>
+<g font-size="14">
+<text x="346" y="706"><tspan fill="#c33" font-weight="bold">✗</tspan> 不要用于皮肤、伤口</text>
+<text x="346" y="734"><tspan fill="#c33" font-weight="bold">✗</tspan> 不要用饮料瓶装稀释液;</text>
+<text x="364" y="754">贴上标签,放在儿童拿不到的地方</text>
+<text x="346" y="784"><tspan fill="#c33" font-weight="bold">!</tspan> 对金属有腐蚀性</text>
+<text x="346" y="812"><tspan fill="#c33" font-weight="bold">!</tspan> 对衣物有漂白作用(深色衣物会褪色)</text>
+</g>
+</g>
+</svg>

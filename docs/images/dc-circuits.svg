@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 824" width="720" height="824" role="img" aria-label="直流电路: ①欧姆定律 U = I × R,电压等于电流乘电阻;电压像水压,电流像水流量,电阻像水管的阻力;电功率 P = U × I,例: 220 V、1100 W的电热水壶,电流 = 1100 ÷ 220 = 5 A。②串联(一条路): 电流处处相等,总电阻 = R₁ + R₂ + …;按基尔霍夫电压定律,电源升高的电压等于各电阻降低的电压之和,U = U₁ + U₂;一个灯坏了全都不亮。③并联(多条路): 每条支路电压相等,1/R总 = 1/R₁ + 1/R₂ + …;按基尔霍夫电流定律,流进节点的电流等于流出的电流,I = I₁ + I₂;家里的电器都是并联的,互不影响;并联的电器越多,总电流越大,插线板会超负荷发热。④电源内阻: 实际的电池都有内阻 r,端电压 = 电动势 − 电流 × r,输出电流越大端电压下降越多,电池快没电时内阻变大。铅酸蓄电池每格约2 V,6格串联 = 12 V" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>直流电路: 欧姆定律、串联和并联</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<!-- 电池符号(竖直导线上,原点在中心;长线为正极) -->
+<g id="cell">
+<rect x="-18" y="-10" width="36" height="20" fill="#fff"/>
+<path d="M-16 -6 H16" stroke="#333" stroke-width="2.5"/>
+<path d="M-8 6 H8" stroke="#333" stroke-width="5"/>
+</g>
+<!-- 电阻(横放) -->
+<rect id="resH" x="-26" y="-9" width="52" height="18" fill="#f2f2f2" stroke="#333" stroke-width="2"/>
+<!-- 电阻(竖放) -->
+<rect id="resV" x="-9" y="-26" width="18" height="52" fill="#f2f2f2" stroke="#333" stroke-width="2"/>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">直流电路: 欧姆定律、串联和并联</text>
+
+<!-- ① 欧姆定律 -->
+<rect x="10" y="42" width="700" height="188" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="68" font-size="16" font-weight="bold">① 欧姆定律</text>
+<path d="M60 96 H200 V196 H60 Z" fill="none" stroke="#333" stroke-width="2.5"/>
+<use href="#cell" x="60" y="146"/>
+<text x="84" y="132" font-size="14" font-weight="bold">+</text>
+<text x="84" y="168" font-size="16" font-weight="bold">−</text>
+<text x="40" y="152" font-size="17" font-weight="bold" fill="#0b5cad" text-anchor="middle">U</text>
+<use href="#resV" x="200" y="146"/>
+<text x="220" y="152" font-size="17" font-weight="bold">R</text>
+<path d="M104 112 H156" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="130" y="134" font-size="17" font-weight="bold" fill="#c33" text-anchor="middle">I</text>
+<text x="370" y="104" font-size="26" font-weight="bold" text-anchor="middle">U = I × R</text>
+<text x="370" y="128" font-size="14" text-anchor="middle">电压 = 电流 × 电阻</text>
+<g font-size="14">
+<text x="282" y="160"><tspan fill="#0b5cad" font-weight="bold">电压 U</tspan>(V) ≈ 水压</text>
+<text x="282" y="182"><tspan fill="#c33" font-weight="bold">电流 I</tspan>(A) ≈ 水流量</text>
+<text x="282" y="204"><tspan font-weight="bold">电阻 R</tspan>(Ω) ≈ 水管的阻力</text>
+</g>
+<line x1="482" y1="80" x2="482" y2="214" stroke="#ddd" stroke-width="1.5"/>
+<text x="498" y="96" font-size="15" font-weight="bold">电功率: P = U × I</text>
+<rect x="498" y="110" width="198" height="104" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<g font-size="14">
+<text x="510" y="134">例: 220 V、1100 W的</text>
+<text x="510" y="156">电热水壶</text>
+<text x="510" y="190">电流 = 1100 ÷ 220 = <tspan font-size="16" font-weight="bold" fill="#c33">5 A</tspan></text>
+</g>
+
+<!-- ② 串联 -->
+<rect x="10" y="242" width="350" height="354" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="268" font-size="16" font-weight="bold">② 串联(一条路)</text>
+<path d="M60 316 H320 V416 H60 Z" fill="none" stroke="#333" stroke-width="2.5"/>
+<use href="#cell" x="60" y="366"/>
+<text x="84" y="352" font-size="14" font-weight="bold">+</text>
+<text x="84" y="388" font-size="16" font-weight="bold">−</text>
+<text x="40" y="372" font-size="17" font-weight="bold" fill="#0b5cad" text-anchor="middle">U</text>
+<use href="#resH" x="150" y="316"/>
+<use href="#resH" x="250" y="316"/>
+<text x="150" y="344" font-size="15" font-weight="bold" text-anchor="middle">R₁</text>
+<text x="250" y="344" font-size="15" font-weight="bold" text-anchor="middle">R₂</text>
+<path d="M124 292 V300 H176 V292 M224 292 V300 H276 V292" fill="none" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="150" y="290" font-size="15" font-weight="bold" fill="#0b5cad" text-anchor="middle">U₁</text>
+<text x="250" y="290" font-size="15" font-weight="bold" fill="#0b5cad" text-anchor="middle">U₂</text>
+<path d="M80 306 H112" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="96" y="300" font-size="15" font-weight="bold" fill="#c33" text-anchor="middle">I</text>
+<path d="M332 346 V386" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="342" y="372" font-size="15" font-weight="bold" fill="#c33">I</text>
+<path d="M210 428 H170" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="190" y="446" font-size="15" font-weight="bold" fill="#c33" text-anchor="middle">I</text>
+<g font-size="14">
+<text x="24" y="476">✓ 电流处处相等(都是 <tspan fill="#c33" font-weight="bold">I</tspan>)</text>
+<text x="24" y="500">✓ 总电阻 = <tspan font-weight="bold">R₁ + R₂ + …</tspan></text>
+<text x="24" y="524">✓ 电压定律: <tspan fill="#0b5cad" font-weight="bold">U = U₁ + U₂</tspan></text>
+<text x="40" y="542" font-size="12" fill="#555">(电源升高的电压 = 各电阻降低的电压之和)</text>
+</g>
+<text x="24" y="570" font-size="14" fill="#c33" font-weight="bold">✗ 一个灯坏了全都不亮</text>
+
+<!-- ③ 并联 -->
+<rect x="370" y="242" width="340" height="354" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="384" y="268" font-size="16" font-weight="bold">③ 并联(多条路)</text>
+<path d="M410 306 H670 V426 H410 Z M560 306 V426" fill="none" stroke="#333" stroke-width="2.5"/>
+<circle cx="560" cy="306" r="4.5" fill="#333"/>
+<circle cx="560" cy="426" r="4.5" fill="#333"/>
+<use href="#cell" x="410" y="366"/>
+<text x="434" y="352" font-size="14" font-weight="bold">+</text>
+<text x="434" y="388" font-size="16" font-weight="bold">−</text>
+<text x="390" y="372" font-size="17" font-weight="bold" fill="#0b5cad" text-anchor="middle">U</text>
+<use href="#resV" x="560" y="366"/>
+<use href="#resV" x="670" y="366"/>
+<text x="574" y="372" font-size="15" font-weight="bold">R₁</text>
+<text x="684" y="372" font-size="15" font-weight="bold">R₂</text>
+<text x="536" y="372" font-size="15" font-weight="bold" fill="#0b5cad" text-anchor="middle">U</text>
+<text x="646" y="372" font-size="15" font-weight="bold" fill="#0b5cad" text-anchor="middle">U</text>
+<path d="M466 296 H512" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="489" y="290" font-size="15" font-weight="bold" fill="#c33" text-anchor="middle">I</text>
+<path d="M590 296 H636" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="613" y="290" font-size="15" font-weight="bold" fill="#c33" text-anchor="middle">I₂</text>
+<path d="M548 316 V334" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="536" y="330" font-size="15" font-weight="bold" fill="#c33" text-anchor="middle">I₁</text>
+<text x="560" y="294" font-size="12" fill="#555" text-anchor="middle">节点</text>
+<g font-size="14">
+<text x="384" y="452">✓ 每条支路电压相等(都是 <tspan fill="#0b5cad" font-weight="bold">U</tspan>)</text>
+<text x="384" y="476">✓ <tspan font-weight="bold">1/R总 = 1/R₁ + 1/R₂ + …</tspan></text>
+<text x="384" y="500">✓ 电流定律: <tspan fill="#c33" font-weight="bold">I = I₁ + I₂</tspan></text>
+<text x="400" y="518" font-size="12" fill="#555">(流进节点的电流 = 流出的电流)</text>
+<text x="384" y="540" font-size="13">家里的电器都是并联的,互不影响</text>
+<text x="384" y="560" font-size="13" fill="#c33" font-weight="bold">⚠ 并联的电器越多,总电流越大</text>
+<text x="400" y="578" font-size="13" fill="#c33" font-weight="bold">→ 插线板超负荷发热</text>
+</g>
+
+<!-- ④ 内阻和电池 -->
+<g transform="translate(0,34)">
+<rect x="10" y="574" width="700" height="206" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="600" font-size="16" font-weight="bold">④ 实际的电池: 有内阻,可以串联</text>
+<rect x="34" y="620" width="74" height="132" rx="6" fill="#fafafa" stroke="#555" stroke-width="1.5" stroke-dasharray="5 3"/>
+<text x="71" y="770" font-size="12" fill="#555" text-anchor="middle">实际的电池</text>
+<path d="M70 632 H170 V740 H70 Z" fill="none" stroke="#333" stroke-width="2.5"/>
+<use href="#cell" x="70" y="660"/>
+<use href="#resV" x="70" y="708" transform="translate(70 708) scale(0.7) translate(-70 -708)"/>
+<text x="88" y="714" font-size="15" font-weight="bold">r</text>
+<circle cx="108" cy="632" r="4" fill="#fff" stroke="#333" stroke-width="2"/>
+<circle cx="108" cy="740" r="4" fill="#fff" stroke="#333" stroke-width="2"/>
+<use href="#resV" x="170" y="686"/>
+<text x="186" y="692" font-size="13" font-weight="bold">负载</text>
+<path d="M120 646 H154" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="136" y="666" font-size="14" font-weight="bold" fill="#c33" text-anchor="middle">I</text>
+<g font-size="14">
+<text x="232" y="638" font-weight="bold">端电压 = 电动势 − 电流 × r</text>
+<text x="232" y="664">→ 输出电流越大,</text>
+<text x="246" y="684">端电压下降越多</text>
+<text x="232" y="710">→ 电池快没电时内阻变大,</text>
+<text x="246" y="730">一接负载电压就掉下去</text>
+</g>
+<line x1="440" y1="612" x2="440" y2="766" stroke="#ddd" stroke-width="1.5"/>
+<text x="456" y="626" font-size="14" font-weight="bold">铅酸蓄电池(汽车电瓶)</text>
+<rect x="470" y="666" width="216" height="58" rx="4" fill="#f2f2f2" stroke="#333" stroke-width="2.5"/>
+<rect x="482" y="652" width="20" height="14" fill="#c33" stroke="#333" stroke-width="1.5"/>
+<rect x="654" y="652" width="20" height="14" fill="#555" stroke="#333" stroke-width="1.5"/>
+<text x="492" y="646" font-size="15" font-weight="bold" text-anchor="middle" fill="#c33">+</text>
+<text x="664" y="646" font-size="17" font-weight="bold" text-anchor="middle">−</text>
+<path d="M506 666 V724 M542 666 V724 M578 666 V724 M614 666 V724 M650 666 V724" stroke="#555" stroke-width="1.5"/>
+<g font-size="13" text-anchor="middle">
+<text x="488" y="700">2 V</text><text x="524" y="700">2 V</text><text x="560" y="700">2 V</text><text x="596" y="700">2 V</text><text x="632" y="700">2 V</text><text x="668" y="700">2 V</text>
+</g>
+<text x="578" y="750" font-size="14" text-anchor="middle">每格约2 V,<tspan font-weight="bold">6格串联 = 12 V</tspan></text>
+<text x="578" y="770" font-size="13" fill="#555" text-anchor="middle">串联: 电压相加</text>
+</g>
+</g>
+</svg>
