@@ -1,0 +1,186 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1074" width="720" height="1074" role="img" aria-label="海岛取水: 海水含盐约3.5%,1 L海水约有35 g盐,肾脏排出的尿最咸也比海水淡,要排出比1 L更多的尿才能把盐排掉,越喝越渴,镁盐还会引起腹泻;雨水最佳最安全,1 mm 雨落在1 m²上就是1 L,2 m × 3 m 塑料布接一场10 mm阵雨理论约60 L,实际约一半;青椰子一个通常几百 mL,每天喝几个就够;在第一道沙丘后面的低洼处挖坑,雨水渗进沙子浮在海水上面形成淡水透镜,挖到渗水就停,挖深了可能挖到咸水;露水和太阳能蒸馏器产水很少,只能当补充">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>海岛取水</title>
+<defs>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<marker id="arG" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#555"/></marker>
+<marker id="arW" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#5b8fc0"/></marker>
+<pattern id="sand" width="14" height="14" patternUnits="userSpaceOnUse"><rect width="14" height="14" fill="#f1e2bd"/><circle cx="3" cy="4" r="1.1" fill="#c9a865"/><circle cx="10" cy="10" r="0.9" fill="#c9a865"/></pattern>
+<pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="3" cy="4" r="1.1" fill="#8a7350" fill-opacity="0.45"/><circle cx="10" cy="10" r="0.9" fill="#8a7350" fill-opacity="0.45"/></pattern>
+<g id="bottle"><path d="M-6,-34 L6,-34 L6,-26 Q14,-21 14,-12 L14,22 Q14,26 10,26 L-10,26 Q-14,26 -14,22 L-14,-12 Q-14,-21 -6,-26 Z" stroke="#333" stroke-width="2"/></g>
+<g id="rain"><path d="M0,0 l-4,10 M14,-6 l-4,10 M28,2 l-4,10 M42,-4 l-4,10" stroke="#5b8fc0" stroke-width="1.6" stroke-linecap="round"/></g>
+</defs>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="14" fill="#222">
+<text x="360" y="30" font-size="18" font-weight="bold" text-anchor="middle">海岛找淡水: 不喝海水,先接雨水</text>
+
+<!-- ① 为什么不能喝海水 -->
+<g transform="translate(10,44)">
+<rect x="0" y="0" width="700" height="204" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">① 为什么不能喝海水</text>
+<rect x="16" y="40" width="146" height="114" rx="6" fill="#eef5fb" stroke="#0b5cad" stroke-width="1.5"/>
+<use href="#bottle" transform="translate(52,84)" fill="#8fbcd8"/>
+<text x="74" y="72" font-size="15" font-weight="bold">1 L 海水</text>
+<text x="74" y="94" font-size="13">含盐约3.5%</text>
+<text x="89" y="130" font-size="14" text-anchor="middle">约有35 g 盐</text>
+<path d="M164,97 L186,97" stroke="#555" stroke-width="2" marker-end="url(#arG)"/>
+<rect x="190" y="40" width="146" height="114" rx="6" fill="#f7f7f7" stroke="#555" stroke-width="1.5"/>
+<path d="M263,52 C240,48 226,64 228,84 C230,104 246,112 262,104 C268,100 264,92 258,90 C250,86 252,74 262,72 C270,70 280,66 278,58 C276,52 270,52 263,52 Z" fill="#d98c7a" stroke="#333" stroke-width="2"/>
+<text x="263" y="130" font-size="14" text-anchor="middle">肾脏排出的尿,</text>
+<text x="263" y="148" font-size="14" text-anchor="middle">最咸也比海水淡</text>
+<path d="M338,97 L360,97" stroke="#555" stroke-width="2" marker-end="url(#arG)"/>
+<rect x="364" y="40" width="146" height="114" rx="6" fill="#fdf8e4" stroke="#b08a1a" stroke-width="1.5"/>
+<use href="#bottle" transform="translate(410,84)" fill="#f2d65a"/>
+<use href="#bottle" transform="translate(446,84) scale(0.75)" fill="#f2d65a"/>
+<text x="474" y="84" font-size="18" font-weight="bold" fill="#b08a1a">&gt;1 L</text>
+<text x="437" y="130" font-size="14" text-anchor="middle">要排出比1 L更多的尿</text>
+<text x="437" y="148" font-size="14" text-anchor="middle">才能把这些盐排掉</text>
+<path d="M512,97 L534,97" stroke="#555" stroke-width="2" marker-end="url(#arG)"/>
+<rect x="538" y="40" width="146" height="114" rx="6" fill="#fdf3f3" stroke="#c33" stroke-width="2"/>
+<text x="611" y="72" font-size="17" font-weight="bold" fill="#c33" text-anchor="middle">越喝越渴</text>
+<text x="611" y="96" font-size="14" fill="#c33" text-anchor="middle">身体里的水反而更少</text>
+<text x="611" y="124" font-size="13" text-anchor="middle">海水里的镁盐还会</text>
+<text x="611" y="142" font-size="13" text-anchor="middle">引起腹泻,进一步丢水</text>
+<text x="16" y="176" font-size="14"><tspan fill="#c33" font-weight="bold">✗</tspan> 不要喝海水,也不要把海水掺进淡水里"省水"   <tspan fill="#c33" font-weight="bold">✗</tspan> 不要喝尿,同样加速脱水</text>
+<text x="16" y="196" font-size="14"><tspan fill="#0b5cad" font-weight="bold">✓</tspan> 海水可以洗东西、打湿衣服降温;皮肤上的盐要用少量淡水或雨水擦掉,否则容易起疹、生疮</text>
+</g>
+
+<!-- ② 雨水 -->
+<g transform="translate(10,258)">
+<rect x="0" y="0" width="345" height="346" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">② 雨水: 最佳、最安全</text>
+<line x1="16" y1="206" x2="329" y2="206" stroke="#999" stroke-width="3"/>
+<!-- 树 -->
+<line x1="44" y1="206" x2="44" y2="66" stroke="#7a5a30" stroke-width="7" stroke-linecap="round"/>
+<line x1="296" y1="206" x2="296" y2="66" stroke="#7a5a30" stroke-width="7" stroke-linecap="round"/>
+<!-- 木桩 -->
+<line x1="70" y1="206" x2="70" y2="130" stroke="#7a5a30" stroke-width="5" stroke-linecap="round"/>
+<line x1="232" y1="206" x2="232" y2="164" stroke="#7a5a30" stroke-width="5" stroke-linecap="round"/>
+<!-- 塑料布 -->
+<polygon points="48,84 292,90 226,156 74,128" fill="#dbe9f5" stroke="#3d78ad" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M48,84 L44,82 M292,90 L296,88 M74,128 L70,130 M226,156 L232,164" stroke="#555" stroke-width="2"/>
+<use href="#rain" transform="translate(84,48)"/>
+<use href="#rain" transform="translate(160,52)"/>
+<use href="#rain" transform="translate(226,54)"/>
+<path d="M180,108 L214,146" stroke="#5b8fc0" stroke-width="1.5" marker-end="url(#arW)"/>
+<!-- 流水和容器 -->
+<path d="M226,158 Q224,166 226,176" stroke="#5b8fc0" stroke-width="3" fill="none"/>
+<path d="M206,178 L210,206 L242,206 L246,178" fill="#f4f8fc" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="208.4,192 210,206 242,206 243.6,192" fill="#9cc3e6"/>
+<text x="110" y="196" font-size="13" fill="#0b5cad">一角放低</text>
+<text x="110" y="180" font-size="13" fill="#0b5cad">四角绑牢,</text>
+<line x1="170" y1="186" x2="222" y2="158" stroke="#0b5cad" stroke-width="1"/>
+<g font-size="14">
+<text x="16" y="230" font-weight="bold">1 mm 雨落在 1 m² 上就是 1 L</text>
+<text x="16" y="252">例: 2 m × 3 m 塑料布(6 m²),</text>
+<text x="16" y="272">一场 10 mm 阵雨理论上能接约 60 L,</text>
+<text x="16" y="292">实际有损耗,能接到一半左右</text>
+<text x="16" y="316" fill="#c33">刚下雨的头几分钟先冲洗布,这部分水不要</text>
+<text x="16" y="336" font-size="13" fill="#555">接好的水加盖放阴凉处,有条件就煮沸再喝</text>
+</g>
+</g>
+
+<!-- ③ 椰子水 -->
+<g transform="translate(365,258)">
+<rect x="0" y="0" width="345" height="346" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">③ 椰子水: 好东西,但有限度</text>
+<ellipse cx="58" cy="90" rx="32" ry="36" fill="#86b84f" stroke="#333" stroke-width="2.5"/>
+<path d="M50,58 Q58,52 66,58" fill="none" stroke="#4f7a26" stroke-width="2"/>
+<path d="M40,80 Q44,100 54,114" fill="none" stroke="#a8d07a" stroke-width="3" stroke-linecap="round"/>
+<text x="102" y="78" font-size="15" font-weight="bold" fill="#3f6a1c">嫩的青椰子</text>
+<text x="102" y="98" font-size="13">壳绿,摇起来水声闷</text>
+<text x="102" y="118" font-size="13">水多,一个通常有几百 mL</text>
+<ellipse cx="58" cy="168" rx="26" ry="24" fill="#8a5a2b" stroke="#333" stroke-width="2.5"/>
+<path d="M42,160 Q52,150 66,156 M44,176 Q56,170 72,176" fill="none" stroke="#5a3a18" stroke-width="1.5"/>
+<text x="102" y="162" font-size="15" font-weight="bold" fill="#6a4318">成熟的褐色椰子</text>
+<text x="102" y="182" font-size="13">水少,椰肉和椰浆油脂多,</text>
+<text x="102" y="200" font-size="13">吃多了容易腹泻</text>
+<g font-size="14">
+<text x="16" y="232"><tspan fill="#0b5cad" font-weight="bold">✓</tspan> 刚打开的椰子水是无菌的,可以直接喝</text>
+<text x="16" y="256"><tspan fill="#c33" font-weight="bold">✗</tspan> 不要只靠椰子水: 每天喝几个就够,</text>
+<text x="32" y="274">喝太多会腹泻,反而丢水</text>
+<text x="16" y="298"><tspan fill="#c33" font-weight="bold">✗</tspan> 含钾多、含钠少,不能代替口服补液盐</text>
+<text x="16" y="322"><tspan fill="#c33" font-weight="bold">✗</tspan> 不要爬高大的椰子树: 捡地上的、用长杆钩</text>
+</g>
+</g>
+
+<!-- ④ 沙滩挖坑 -->
+<g transform="translate(10,614)">
+<rect x="0" y="0" width="700" height="320" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">④ 沙滩挖坑取地下淡水(剖面,高度方向放大)</text>
+<!-- 咸水 -->
+<rect x="16" y="130" width="424" height="110" fill="#9fbfd4"/>
+<!-- 淡水透镜 -->
+<path d="M100,131 L440,124 L440,214 C330,206 190,170 100,131 Z" fill="#d6edf9"/>
+<!-- 地下水位以上的沙 -->
+<path d="M92,134 L130,126 L170,118 C190,96 200,80 215,80 C232,80 250,112 285,120 L330,122 C370,118 400,108 440,104 L440,124 L100,131 Z" fill="url(#sand)"/>
+<!-- 沙粒(整个地下) -->
+<path d="M16,174 L92,134 L130,126 L170,118 C190,96 200,80 215,80 C232,80 250,112 285,120 L330,122 C370,118 400,108 440,104 L440,240 L16,240 Z" fill="url(#dots)"/>
+<path d="M16,174 L92,134 L130,126 L170,118 C190,96 200,80 215,80 C232,80 250,112 285,120 L330,122 C370,118 400,108 440,104" fill="none" stroke="#8a7350" stroke-width="2.5"/>
+<path d="M100,131 C190,170 330,206 440,214" fill="none" stroke="#3d78ad" stroke-width="1.5" stroke-dasharray="5 3"/>
+<path d="M16,130 q10,-5 20,0 q10,5 20,0 q10,-5 20,0 q8,4 16,2" fill="none" stroke="#3d78ad" stroke-width="2"/>
+<text x="24" y="122" font-size="13" fill="#3d78ad">海</text>
+<text x="34" y="226" font-size="13" fill="#1f4a6a">咸水</text>
+<text x="250" y="232" font-size="13" fill="#1f4a6a">咸水(较重,在下面)</text>
+<text x="300" y="170" font-size="13" fill="#1f4a6a">淡水(较轻,浮在上面)</text>
+<!-- 高潮线 -->
+<line x1="130" y1="126" x2="130" y2="104" stroke="#555" stroke-width="1" stroke-dasharray="3 2"/>
+<text x="130" y="100" font-size="12" fill="#555" text-anchor="middle">高潮线</text>
+<text x="215" y="72" font-size="12" fill="#555" text-anchor="middle">第一道沙丘</text>
+<!-- 雨 -->
+<use href="#rain" transform="translate(344,68)"/>
+<use href="#rain" transform="translate(394,62)"/>
+<path d="M372,116 L372,146" stroke="#5b8fc0" stroke-width="1.5" stroke-dasharray="3 3" marker-end="url(#arW)"/>
+<path d="M412,110 L412,146" stroke="#5b8fc0" stroke-width="1.5" stroke-dasharray="3 3" marker-end="url(#arW)"/>
+<!-- 植物 -->
+<path d="M268,116 l-6,-14 M268,116 l0,-16 M268,116 l6,-14 M346,118 l-6,-14 M346,118 l0,-16 M346,118 l6,-14" stroke="#5f7330" stroke-width="2" stroke-linecap="round"/>
+<!-- 坑 -->
+<path d="M296,121 L301,140 Q302,143 305,143 L319,143 Q322,143 323,140 L328,121 Z" fill="#fff" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M299.5,127 L301,140 Q302,143 305,143 L319,143 Q322,143 323,140 L324.6,127 Z" fill="#7fb6e0"/>
+<path d="M296,121 L328,121" stroke="#8a7350" stroke-width="2"/>
+<text x="16" y="44" font-size="13" fill="#555">← 海边</text>
+<text x="436" y="44" font-size="13" fill="#555" text-anchor="end">岛内 →</text>
+<!-- 标注 -->
+<line x1="400" y1="190" x2="452" y2="186" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="400" cy="190" r="2.5" fill="#0b5cad"/>
+<text x="456" y="182" fill="#0b5cad">雨水渗进沙子,比海水轻,</text>
+<text x="456" y="200" fill="#0b5cad">浮在海水上面(淡水透镜)</text>
+<text x="456" y="222" font-size="13" fill="#555">离海越远、岛越大、雨越多越厚;</text>
+<text x="456" y="240" font-size="13" fill="#555">很小很低的岛旱季时可能没有</text>
+<line x1="312" y1="118" x2="452" y2="58" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="312" cy="118" r="2.5" fill="#0b5cad"/>
+<text x="456" y="56" fill="#0b5cad">挖在第一道沙丘后面(靠陆地</text>
+<text x="456" y="74" fill="#0b5cad">一侧)的低洼处,或有绿色植物</text>
+<text x="456" y="92" fill="#0b5cad">生长的地方;离海越远越好</text>
+<line x1="324" y1="136" x2="452" y2="124" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="324" cy="136" r="2.5" fill="#0b5cad"/>
+<text x="456" y="128" fill="#0b5cad">挖到沙子变湿、开始渗水就停</text>
+<text x="456" y="146" fill="#c33">挖得越深,越可能挖到下面的咸水</text>
+<g font-size="14">
+<text x="16" y="286">等水慢慢渗满,从表层轻轻舀,不要搅动、不要一次舀干;先尝一小口,明显发咸就换更靠陆地的地方</text>
+<text x="16" y="308">用布过滤,能煮沸就煮沸再喝;坑壁容易塌,不要挖成人能站进去的深坑,用完盖上</text>
+</g>
+</g>
+
+<!-- ⑤ 露水和蒸馏 -->
+<g transform="translate(10,944)">
+<rect x="0" y="0" width="345" height="120" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">⑤ 露水: 只能当补充</text>
+<g font-size="14">
+<text x="16" y="52">日出前收: 用布擦草叶、塑料布、船体,</text>
+<text x="16" y="70">拧到容器里</text>
+<text x="16" y="92">露水很重时每小时可能几百 mL,多数时候更少</text>
+<text x="16" y="112" fill="#c33">海边草叶、礁石上擦来的可能发咸</text>
+</g>
+</g>
+<g transform="translate(365,944)">
+<rect x="0" y="0" width="345" height="120" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">⑥ 蒸馏海水: 最后手段</text>
+<g font-size="14">
+<text x="16" y="52">太阳能蒸馏器: 每天几十到几百 mL;</text>
+<text x="16" y="70">一个人每天约需4-6 L,要做二三十个以上</text>
+<text x="16" y="92">用火煮海水收集蒸汽: 产水多得多,但</text>
+<text x="16" y="110">每得到1 L淡水往往要烧掉好几 kg 干柴</text>
+</g>
+</g>
+</g>
+</svg>

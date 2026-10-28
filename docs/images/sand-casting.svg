@@ -1,0 +1,206 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1070" width="720" height="1070" role="img" aria-label="砂型铸造(两箱造型)流程: ①做模型,材料用木头、蜡、泡沫、旧零件,按收缩率放大(铝约1.3%),侧面做1-3°拔模斜度,复杂的做成两半;②下箱放在平板上,半个模型平面朝下,撒分型粉,填砂分层捣实,刮平后翻转;③放上另一半模型和上箱,插浇口棒和冒口棒,填砂捣实,用细铁丝扎通气孔(不扎到模型上);④抽棒、分箱取模、开出浇道后合箱: 浇口杯、上粗下细的直浇道和底部小坑、横浇道、内浇口从侧面较低处进入型腔,冒口在铸件最厚处上方,上下箱用定位销对准,上箱压重物,砂型放在干沙地上;⑤连续、快而稳地浇注,浇口杯保持满,浇到冒口出现金属液为止;⑥冷却后打箱,锯掉浇口和冒口,清理打磨。安全: 熔融金属遇水爆炸,型砂不能太湿,工具和料都要预热烘干,绝不在水泥地上浇注,洒出的金属用干沙盖不能用水;穿戴面罩、皮手套、皮围裙、高帮皮鞋,穿棉毛皮革不穿化纤" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>砂型铸造的基本流程</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<pattern id="sand" width="14" height="14" patternUnits="userSpaceOnUse"><rect width="14" height="14" fill="#ecdcb4"/><circle cx="3" cy="4" r="1" fill="#c4a878"/><circle cx="10" cy="9" r="1" fill="#c4a878"/><circle cx="6" cy="12" r="0.8" fill="#c4a878"/></pattern>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">砂型铸造(两箱造型)的基本流程</text>
+
+<!-- ① 做模型 -->
+<rect x="8" y="44" width="228" height="234" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="66" font-size="15" font-weight="bold">① 做模型</text>
+<path d="M62,150 H232" stroke="#0b5cad" stroke-width="1.5" stroke-dasharray="5 3"/>
+<path d="M70,150 L72,136 H176 L178,120 H220 L222,150 L220,180 H178 L176,164 H72 Z" fill="#e2cfa6" stroke="#333" stroke-width="2"/>
+<path d="M70,150 H222" stroke="#0b5cad" stroke-width="1.5" stroke-dasharray="5 3"/>
+<text x="18" y="155" font-size="13" fill="#0b5cad">分模面</text>
+<text x="100" y="112" font-size="13" fill="#555">模型(木头)</text>
+<g font-size="13">
+<text x="18" y="206">材料: 木头、蜡、泡沫、旧零件</text>
+<text x="18" y="224">按收缩率放大一点(铝约1.3%)</text>
+<text x="18" y="242">侧面做1-3°拔模斜度,便于起模</text>
+<text x="18" y="260">复杂的做成两半(分模)</text>
+</g>
+
+<!-- ② 造下箱 -->
+<rect x="244" y="44" width="228" height="234" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="254" y="66" font-size="15" font-weight="bold">② 造下箱</text>
+<rect x="282" y="130" width="156" height="66" fill="url(#sand)"/>
+<path d="M300,196 V187 H387 V177 H421 V196 Z" fill="#e2cfa6" stroke="#333" stroke-width="1.5"/>
+<rect x="272" y="130" width="10" height="66" fill="#c9a27a" stroke="#333" stroke-width="1.5"/>
+<rect x="438" y="130" width="10" height="66" fill="#c9a27a" stroke="#333" stroke-width="1.5"/>
+<rect x="260" y="196" width="200" height="8" fill="#c9a27a" stroke="#333" stroke-width="1.5"/>
+<text x="262" y="218" font-size="12" fill="#555">平板</text>
+<line x1="360" y1="78" x2="360" y2="114" stroke="#8b6b4b" stroke-width="4"/>
+<rect x="346" y="114" width="28" height="9" rx="2" fill="#c9a27a" stroke="#333" stroke-width="1.5"/>
+<path d="M388,84 V114" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="396" y="104" font-size="12" fill="#555">捣实</text>
+<text x="258" y="98" font-size="12" fill="#555">下箱(无底)</text>
+<g font-size="13">
+<text x="254" y="238">下箱放平板上,半个模型平面朝下;</text>
+<text x="254" y="254">撒分型粉,填砂分层捣实,</text>
+<text x="254" y="270">刮平后翻转过来</text>
+</g>
+
+<!-- ③ 做上箱 -->
+<rect x="480" y="44" width="232" height="234" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="490" y="66" font-size="15" font-weight="bold">③ 做上箱</text>
+<rect x="508" y="108" width="176" height="98" fill="url(#sand)"/>
+<path d="M508,156 H684" stroke="#0b5cad" stroke-width="1.5" stroke-dasharray="5 3"/>
+<path d="M548,147 H635 V137 H669 V175 H635 V165 H548 Z" fill="#e2cfa6" stroke="#333" stroke-width="1.5"/>
+<path d="M514,92 H530 L526,156 H518 Z" fill="#c9a27a" stroke="#333" stroke-width="1.5"/>
+<rect x="632" y="92" width="40" height="45" fill="#c9a27a" stroke="#333" stroke-width="1.5"/>
+<path d="M570,108 V140 M594,108 V140 M618,108 V140" stroke="#555" stroke-width="1.5"/>
+<rect x="498" y="108" width="10" height="48" fill="#c9a27a" stroke="#333" stroke-width="1.5"/>
+<rect x="684" y="108" width="10" height="48" fill="#c9a27a" stroke="#333" stroke-width="1.5"/>
+<rect x="498" y="156" width="10" height="50" fill="#c9a27a" stroke="#333" stroke-width="1.5"/>
+<rect x="684" y="156" width="10" height="50" fill="#c9a27a" stroke="#333" stroke-width="1.5"/>
+<rect x="490" y="206" width="212" height="8" fill="#c9a27a" stroke="#333" stroke-width="1.5"/>
+<text x="522" y="86" font-size="12" fill="#555" text-anchor="middle">浇口棒</text>
+<text x="652" y="86" font-size="12" fill="#555" text-anchor="middle">冒口棒</text>
+<text x="594" y="102" font-size="12" fill="#555" text-anchor="middle">通气孔</text>
+<g font-size="13">
+<text x="490" y="230">放上另一半模型和上箱,撒分型粉;</text>
+<text x="490" y="246">插浇口棒、冒口棒,填砂捣实;</text>
+<text x="490" y="262">细铁丝扎通气孔(不扎到模型上)</text>
+</g>
+
+<!-- ④ 合箱剖面 -->
+<rect x="8" y="288" width="704" height="350" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="312" font-size="15" font-weight="bold">④ 抽棒、分箱取模、开出连接浇口和型腔的通道,吹净散砂后合箱(剖面)</text>
+<!-- 地面干沙 -->
+<rect x="10" y="540" width="462" height="14" fill="url(#sand)"/>
+<path d="M10,540 H472" stroke="#999" stroke-width="3"/>
+<text x="480" y="552" font-size="14" font-weight="bold">干沙地(不是水泥地)</text>
+<!-- 型砂 -->
+<rect x="50" y="360" width="380" height="180" fill="url(#sand)"/>
+<path d="M20,450 H472" stroke="#0b5cad" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="480" y="455" font-size="14" fill="#0b5cad" font-weight="bold">分型面</text>
+<!-- 型腔和浇注系统(空的) -->
+<path d="M92,360 L112,378 L118,476 H134 V468 H180 V464 H344 V480 H396 V420 H402 V360 H338 V420 H344 V436 H210 V452 H180 V450 H130 L136,378 L156,360 Z" fill="#fff"/>
+<path d="M92,360 L112,378 L118,476 H134 V468 H180 V464 H344 V480 H396 V420 H402 V360 M338,360 V420 H344 V436 H210 V452 H180 V450 H130 L136,378 L156,360" fill="none" stroke="#333" stroke-width="1.8"/>
+<text x="277" y="455" font-size="13" text-anchor="middle">型腔(铸件)</text>
+<!-- 通气孔 -->
+<path d="M244,360 V426 M276,360 V426 M308,360 V426" stroke="#555" stroke-width="1.5"/>
+<!-- 砂箱框 -->
+<rect x="40" y="360" width="10" height="90" fill="#c9a27a" stroke="#333" stroke-width="1.5"/>
+<rect x="430" y="360" width="10" height="90" fill="#c9a27a" stroke="#333" stroke-width="1.5"/>
+<rect x="40" y="450" width="10" height="90" fill="#c9a27a" stroke="#333" stroke-width="1.5"/>
+<rect x="430" y="450" width="10" height="90" fill="#c9a27a" stroke="#333" stroke-width="1.5"/>
+<rect x="22" y="438" width="18" height="12" fill="#c9a27a" stroke="#333" stroke-width="1.5"/>
+<rect x="22" y="450" width="18" height="12" fill="#c9a27a" stroke="#333" stroke-width="1.5"/>
+<rect x="440" y="438" width="18" height="12" fill="#c9a27a" stroke="#333" stroke-width="1.5"/>
+<rect x="440" y="450" width="18" height="12" fill="#c9a27a" stroke="#333" stroke-width="1.5"/>
+<rect x="28" y="430" width="6" height="40" fill="#777" stroke="#333" stroke-width="1"/>
+<rect x="446" y="430" width="6" height="40" fill="#777" stroke="#333" stroke-width="1"/>
+<!-- 重物 -->
+<rect x="172" y="336" width="52" height="24" fill="#999" stroke="#333" stroke-width="1.5"/>
+<text x="198" y="353" font-size="13" text-anchor="middle" fill="#fff" font-weight="bold">重物</text>
+<!-- 顶部标注 -->
+<text x="124" y="352" font-size="13" text-anchor="middle">浇口杯(漏斗)</text>
+<text x="276" y="352" font-size="13" text-anchor="middle">通气孔</text>
+<text x="370" y="352" font-size="13" text-anchor="middle" font-weight="bold">冒口</text>
+<!-- 左侧和箱内标注 -->
+<g font-size="13">
+<rect x="54" y="370" width="34" height="18" fill="#fff" opacity="0.85"/>
+<text x="57" y="384">上箱</text>
+<rect x="54" y="514" width="34" height="18" fill="#fff" opacity="0.85"/>
+<text x="57" y="528">下箱</text>
+<rect x="54" y="400" width="44" height="18" fill="#fff" opacity="0.85"/>
+<text x="56" y="414">直浇道</text>
+<line x1="98" y1="410" x2="114" y2="410" stroke="#555" stroke-width="1"/>
+<rect x="54" y="476" width="34" height="18" fill="#fff" opacity="0.85"/>
+<text x="57" y="490">小坑</text>
+<line x1="88" y1="484" x2="118" y2="474" stroke="#555" stroke-width="1"/>
+<rect x="136" y="494" width="44" height="18" fill="#fff" opacity="0.85"/>
+<text x="138" y="508">横浇道</text>
+<line x1="158" y1="494" x2="158" y2="468" stroke="#555" stroke-width="1"/>
+<rect x="190" y="494" width="44" height="18" fill="#fff" opacity="0.85"/>
+<text x="192" y="508">内浇口</text>
+<line x1="198" y1="494" x2="196" y2="464" stroke="#555" stroke-width="1"/>
+</g>
+<!-- 右侧说明 -->
+<line x1="478" y1="372" x2="402" y2="384" stroke="#555" stroke-width="1"/>
+<g font-size="14">
+<text x="480" y="376"><tspan font-weight="bold">冒口</tspan>: 比它补缩的部位粗,</text>
+<text x="480" y="394">放在铸件最厚、最后凝固</text>
+<text x="480" y="412">的部位上方;铸件冷却收缩</text>
+<text x="480" y="430">时由冒口补充金属液</text>
+<text x="480" y="490"><tspan font-weight="bold">定位销</tspan>: 对准上下箱,</text>
+<text x="480" y="508">防止错箱</text>
+</g>
+<line x1="478" y1="486" x2="452" y2="466" stroke="#555" stroke-width="1"/>
+<!-- 底部说明 -->
+<g font-size="14">
+<text x="22" y="582">• 直浇道上粗下细,底部做一个小坑缓冲</text>
+<text x="22" y="602">• 内浇口从侧面、较低的位置把金属液平稳引进型腔,不要直冲砂型</text>
+<text x="22" y="622">• 通气孔排出型腔里的空气和型砂产生的气体;上箱压重物或夹紧,防止金属液把上箱顶起来</text>
+</g>
+
+<!-- ⑤ 浇注 -->
+<rect x="8" y="648" width="348" height="238" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="672" font-size="15" font-weight="bold">⑤ 浇注</text>
+<rect x="18" y="816" width="328" height="10" fill="url(#sand)"/>
+<path d="M18,816 H346" stroke="#999" stroke-width="3"/>
+<rect x="150" y="756" width="160" height="60" fill="url(#sand)" stroke="#333" stroke-width="1.5"/>
+<path d="M150,786 H310" stroke="#0b5cad" stroke-width="1.2" stroke-dasharray="5 3"/>
+<rect x="214" y="738" width="36" height="18" fill="#999" stroke="#333" stroke-width="1.2"/>
+<path d="M172,756 L182,768 H190 L200,756 Z" fill="#f08a2a" stroke="#333" stroke-width="1.2"/>
+<path d="M268,756 V770 H292 V756" fill="#f08a2a" stroke="#333" stroke-width="1.2"/>
+<ellipse cx="280" cy="755" rx="13" ry="4" fill="#ffb347" stroke="#c33" stroke-width="1"/>
+<path d="M168,744 Q184,744 186,760" fill="none" stroke="#f08a2a" stroke-width="5" stroke-linecap="round"/>
+<g transform="translate(150,718) rotate(110)">
+<path d="M-18,-25 L18,-25 L14,22 Q0,28 -14,22 Z" fill="#b5835a" stroke="#333" stroke-width="2"/>
+<rect x="-20" y="-3" width="40" height="6" fill="#555"/>
+</g>
+<path d="M132,712 L30,698" stroke="#555" stroke-width="4" stroke-linecap="round"/>
+<text x="30" y="690" font-size="12" fill="#555">坩埚钳</text>
+<text x="96" y="760" font-size="12" fill="#555">坩埚</text>
+<text x="226" y="698" font-size="13" fill="#c33" font-weight="bold">冒口出现金属液</text>
+<text x="226" y="715" font-size="13" fill="#c33" font-weight="bold">就停</text>
+<line x1="262" y1="720" x2="278" y2="750" stroke="#c33" stroke-width="1"/>
+<text x="194" y="802" font-size="12" fill="#555">砂型(上箱压重物)</text>
+<g font-size="13">
+<text x="18" y="844">砂型放在干沙地上;坩埚口尽量靠近浇口杯;</text>
+<text x="18" y="862">连续、快而稳,让浇口杯一直保持满,中途不停;</text>
+<text x="18" y="880">两人配合时事先约定口令和动作</text>
+</g>
+
+<!-- ⑥ 打箱清理 -->
+<rect x="364" y="648" width="348" height="238" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="374" y="672" font-size="15" font-weight="bold">⑥ 打箱、清理</text>
+<rect x="374" y="816" width="328" height="10" fill="url(#sand)"/>
+<path d="M374,816 H702" stroke="#999" stroke-width="3"/>
+<path d="M378,816 L386,802 L398,800 L404,816 Z M660,816 L668,804 L684,806 L690,816 Z" fill="#ecdcb4" stroke="#999" stroke-width="1.2"/>
+<g transform="translate(326.4,431.2) scale(0.8)">
+<path d="M92,360 L112,378 L118,476 H134 V468 H180 V464 H344 V480 H396 V420 H402 V360 H338 V420 H344 V436 H210 V452 H180 V450 H130 L136,378 L156,360 Z" fill="#9a9a9a" stroke="#333" stroke-width="2.2" stroke-linejoin="round"/>
+</g>
+<path d="M490,780 V810" stroke="#c33" stroke-width="2.5" stroke-dasharray="5 3"/>
+<path d="M588,767 H658" stroke="#c33" stroke-width="2.5" stroke-dasharray="5 3"/>
+<text x="458" y="758" font-size="13" fill="#c33" font-weight="bold">锯掉浇口</text>
+<line x1="486" y1="762" x2="490" y2="778" stroke="#c33" stroke-width="1"/>
+<text x="652" y="740" font-size="13" fill="#c33" font-weight="bold">锯掉</text>
+<text x="652" y="756" font-size="13" fill="#c33" font-weight="bold">冒口</text>
+<text x="560" y="804" font-size="12" fill="#555">铸件</text>
+<g font-size="13">
+<text x="374" y="844">冷却后打开砂箱,敲掉型砂;</text>
+<text x="374" y="862">锯掉浇口、冒口,锉、磨去毛刺和粘砂;</text>
+<text x="374" y="880">铸铁件要冷却到暗色后再打箱</text>
+</g>
+
+<!-- 安全 -->
+<rect x="8" y="896" width="704" height="166" rx="6" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<text x="22" y="920" font-size="15" font-weight="bold" fill="#c33">⚠ 铸造最大的危险: 熔融金属遇水爆炸(蒸汽爆炸,金属液四溅)</text>
+<g font-size="14">
+<text x="36" y="942">→ 型砂不能太湿: 捏时粘手、有水渍就是水太多,浇注时易爆</text>
+<text x="36" y="962">→ 坩埚、钳子、撇渣勺和加入的料都要预热烘干;原料干燥,不混入密封件</text>
+<text x="36" y="982">→ 绝不在水泥地面上浇注,在一层厚厚的干沙上操作;洒出的金属液用干沙盖,不能用水</text>
+</g>
+<text x="22" y="1008" font-size="15" font-weight="bold" fill="#c33">⚠ 防护: 面罩、皮手套、皮围裙、高帮皮鞋(裤腿盖住鞋面,不塞进鞋里)</text>
+<g font-size="14">
+<text x="36" y="1030">→ 穿棉、毛、皮革衣服(化纤遇高温会熔化粘在皮肤上)</text>
+<text x="36" y="1050">→ 浇注前检查坩埚有无裂纹、试夹坩埚钳;浇注路线畅通,旁人远离</text>
+</g>
+</g>
+</svg>
