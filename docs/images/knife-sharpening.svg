@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 800" width="720" height="800" role="img" aria-label="磨刀: 先用粗磨石磨出锋口,再用细磨石磨光;磨石使用前泡水(油石用油),磨的过程中保持湿润,下面垫湿布防滑。找准刃口原来的角度,让刃口斜面平贴在磨石上,保持这个角度不变来回推磨(角度忽高忽低会把刃口磨圆);磨到刃口背面摸到一条细小的卷边(毛刺),翻过来把背面平贴磨石轻磨几下去掉卷边,再在细磨石上重复。常见角度(参考): 菜刀、小刀的刃口斜面与刀面约15-20°,凿子、刨刀斜面约25-30°,劈柴的斧头角度大一些(更钝更厚),砍树的斧头角度小一些。磨石用久了中间凹下去,在平整的水泥地上加水和沙子磨平" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>磨刀</title>
+<defs><marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker><marker id="arR0" viewBox="0 0 10 10" refX="2" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M10 0 L0 5 L10 10 Z" fill="#c33"/></marker><marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker></defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" text-anchor="middle" font-weight="bold">磨刀: 斜面平贴磨石,角度保持不变</text>
+<rect x="10" y="44" width="230" height="236" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<rect x="246" y="44" width="230" height="236" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<rect x="482" y="44" width="228" height="236" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="24" y="68" font-size="16" font-weight="bold">菜刀、小刀</text>
+<text x="260" y="68" font-size="16" font-weight="bold">凿子、刨刀</text>
+<text x="496" y="68" font-size="16" font-weight="bold">斧头</text>
+<text x="24" y="88" font-size="13" fill="#555">(刀身截面)</text>
+<text x="260" y="88" font-size="13" fill="#555">(侧面)</text>
+<text x="496" y="88" font-size="13" fill="#555">(斧头截面,刃口朝下)</text>
+<rect x="24" y="212" width="202" height="18" rx="3" fill="#bdb6a8" stroke="#333" stroke-width="2"/>
+<polygon points="50,212 70,212 213.1,166.9 209.4,155.4 66.4,200.6" fill="#d6dde4" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M50 212 H70" stroke="#c33" stroke-width="3.5"/>
+<path d="M128 212 A58 58 0 0 0 125.3 194.6" fill="none" stroke="#0b5cad" stroke-width="1.8"/>
+<text x="136" y="210" font-size="15" fill="#0b5cad" font-weight="bold">约15-20°</text>
+<text x="24" y="254" font-size="14" font-weight="bold">刃口斜面与刀面</text>
+<text x="24" y="272" font-size="14" font-weight="bold" fill="#0b5cad">约15-20°</text>
+<text x="124" y="124" font-size="13" fill="#555">刀面</text>
+<line x1="140" y1="128" x2="150" y2="182" stroke="#0b5cad" stroke-width="1.3"/><circle cx="150" cy="182" r="2.6" fill="#0b5cad"/>
+<text x="28" y="176" font-size="13" fill="#c33">斜面平贴</text>
+<line x1="46" y1="182" x2="58" y2="211" stroke="#0b5cad" stroke-width="1.3"/><circle cx="58" cy="211" r="2.6" fill="#0b5cad"/>
+<rect x="260" y="212" width="202" height="18" rx="3" fill="#bdb6a8" stroke="#333" stroke-width="2"/>
+<polygon points="286.5,212 306,212 387.6,169.5 383.4,161.5" fill="#d6dde4" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="389.7,173.5 381.4,157.5 443.5,125.2 451.8,141.2" fill="#c8a06a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M286.5 212 H306" stroke="#c33" stroke-width="3.5"/>
+<path d="M356 212 A50 50 0 0 0 350.4 188.9" fill="none" stroke="#0b5cad" stroke-width="1.8"/>
+<text x="362" y="206" font-size="15" fill="#0b5cad" font-weight="bold">约25-30°</text>
+<text x="260" y="254" font-size="14" font-weight="bold" fill="#0b5cad">斜面约25-30°</text>
+<text x="270" y="176" font-size="13" fill="#c33">斜面平贴</text>
+<line x1="288" y1="182" x2="296" y2="211" stroke="#0b5cad" stroke-width="1.3"/><circle cx="296" cy="211" r="2.6" fill="#0b5cad"/>
+<polygon points="519,110 573,110 573,166 546,196 519,166" fill="#d6dde4" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M519 166 L546 196 L573 166" fill="none" stroke="#c33" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="633,110 667,110 667,144 650,226 633,144" fill="#d6dde4" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M633 144 L650 226 L667 144" fill="none" stroke="#c33" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="546" y="254" font-size="14" font-weight="bold" text-anchor="middle">劈柴的斧头</text>
+<text x="546" y="272" font-size="13" text-anchor="middle" fill="#0b5cad">角度大(更钝更厚)</text>
+<text x="650" y="254" font-size="14" font-weight="bold" text-anchor="middle">砍树的斧头</text>
+<text x="650" y="272" font-size="13" text-anchor="middle" fill="#0b5cad">角度小一些</text>
+<rect x="10" y="292" width="135" height="268" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<rect x="151" y="292" width="135" height="268" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<rect x="292" y="292" width="135" height="268" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<rect x="433" y="292" width="135" height="268" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<rect x="574" y="292" width="135" height="268" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="20" y="316" font-size="15" font-weight="bold">① 贴平</text>
+<text x="161" y="316" font-size="15" font-weight="bold">② 推磨</text>
+<text x="302" y="316" font-size="15" font-weight="bold">③ 摸卷边</text>
+<text x="443" y="316" font-size="15" font-weight="bold">④ 翻面</text>
+<text x="584" y="316" font-size="15" font-weight="bold">⑤ 细磨石</text>
+<text x="20" y="482" font-size="13.5">找准刃口原来的</text>
+<text x="20" y="501" font-size="13.5">角度,让刃口斜面</text>
+<text x="20" y="520" font-size="13.5">平贴在磨石上</text>
+<text x="161" y="482" font-size="13.5">保持这个角度不变,</text>
+<text x="161" y="501" font-size="13.5">来回推磨</text>
+<text x="161" y="520" font-size="13.5"><tspan fill="#c33">角度忽高忽低会</tspan></text>
+<text x="161" y="539" font-size="13.5"><tspan fill="#c33">把刃口磨圆</tspan></text>
+<text x="302" y="482" font-size="13.5">磨到刃口背面</text>
+<text x="302" y="501" font-size="13.5">摸到一条细小的</text>
+<text x="302" y="520" font-size="13.5">卷边(毛刺)</text>
+<text x="443" y="482" font-size="13.5">翻过来,把背面</text>
+<text x="443" y="501" font-size="13.5">平贴磨石轻磨</text>
+<text x="443" y="520" font-size="13.5">几下,去掉卷边</text>
+<text x="584" y="482" font-size="13.5">在细磨石上重复,</text>
+<text x="584" y="501" font-size="13.5">磨得更光</text>
+<rect x="22" y="422" width="112" height="16" rx="3" fill="#bdb6a8" stroke="#333" stroke-width="2"/>
+<polygon points="40.8,422 56,422 95,401.7 91.8,395.5" fill="#d6dde4" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="96.6,404.8 90.2,392.4 116.8,378.5 123.3,390.9" fill="#c8a06a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M40.8 422 H56" stroke="#c33" stroke-width="3.5"/>
+<text x="20" y="360" font-size="13" fill="#c33">斜面平贴</text>
+<line x1="40" y1="366" x2="46" y2="421" stroke="#0b5cad" stroke-width="1.3"/><circle cx="46" cy="421" r="2.6" fill="#0b5cad"/>
+<rect x="163" y="422" width="112" height="16" rx="3" fill="#bdb6a8" stroke="#333" stroke-width="2"/>
+<polygon points="181.8,422 197,422 236,401.7 232.8,395.5" fill="#d6dde4" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="237.6,404.8 231.2,392.4 257.8,378.5 264.3,390.9" fill="#c8a06a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M181.8 422 H197" stroke="#c33" stroke-width="3.5"/>
+<path d="M231 422 A34 34 0 0 0 227.2 406.3" fill="none" stroke="#0b5cad" stroke-width="1.8"/>
+<text x="236" y="414" font-size="13" fill="#0b5cad" font-weight="bold">不变</text>
+<path d="M172 452 H266" stroke="#c33" stroke-width="2.5" marker-start="url(#arR0)" marker-end="url(#arR)"/>
+<circle cx="362" cy="384" r="50" fill="#f7f7f7" stroke="#0b5cad" stroke-width="1.5"/>
+<polygon points="328,376 408,376 408,406 366,406" fill="#d6dde4" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M328 376 q-6 -4 -4 -12" fill="none" stroke="#c33" stroke-width="3" stroke-linecap="round"/>
+<text x="360" y="362" font-size="13" fill="#c33" font-weight="bold">卷边</text>
+<line x1="358" y1="357" x2="325" y2="366" stroke="#0b5cad" stroke-width="1.3"/><circle cx="325" cy="366" r="2.6" fill="#0b5cad"/>
+<text x="368" y="393" font-size="12" fill="#555">背面</text>
+<text x="346" y="422" font-size="12" fill="#555">斜面</text>
+<text x="362" y="456" font-size="12" fill="#555" text-anchor="middle">(刃口截面放大)</text>
+<rect x="445" y="422" width="112" height="16" rx="3" fill="#bdb6a8" stroke="#333" stroke-width="2"/>
+<polygon points="466,422 528,422 528,413 478,413" fill="#d6dde4" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<rect x="528" y="409" width="22" height="16" fill="#c8a06a" stroke="#333" stroke-width="2"/>
+<path d="M466 422 H528" stroke="#0b5cad" stroke-width="3.5"/>
+<text x="446" y="382" font-size="13" fill="#0b5cad">背面平贴</text>
+<line x1="474" y1="387" x2="496" y2="420" stroke="#0b5cad" stroke-width="1.3"/><circle cx="496" cy="420" r="2.6" fill="#0b5cad"/>
+<path d="M540 346 q-8 22 -24 30" fill="none" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<text x="506" y="340" font-size="13" fill="#c33">翻过来</text>
+<path d="M454 452 H514" stroke="#c33" stroke-width="2" marker-start="url(#arR0)" marker-end="url(#arR)"/>
+<text x="520" y="457" font-size="13" fill="#c33">轻磨</text>
+<rect x="586" y="422" width="112" height="16" rx="3" fill="#e4dfd3" stroke="#333" stroke-width="2"/>
+<polygon points="604.8,422 620,422 659,401.7 655.8,395.5" fill="#d6dde4" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="660.6,404.8 654.2,392.4 680.8,378.5 687.3,390.9" fill="#c8a06a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M604.8 422 H620" stroke="#c33" stroke-width="3.5"/>
+<text x="642" y="456" font-size="13" font-weight="bold" text-anchor="middle">细磨石</text>
+<rect x="10" y="572" width="700" height="218" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="24" y="598" font-size="16" font-weight="bold">磨石</text>
+<rect x="30" y="642" width="96" height="26" rx="3" fill="#a79f8e" stroke="#333" stroke-width="2"/>
+<g fill="#6f6758"><circle cx="38" cy="648" r="1.8"/><circle cx="51" cy="655" r="1.8"/><circle cx="64" cy="662" r="1.8"/><circle cx="77" cy="653" r="1.8"/><circle cx="90" cy="660" r="1.8"/><circle cx="103" cy="651" r="1.8"/><circle cx="116" cy="658" r="1.8"/><circle cx="45" cy="649" r="1.8"/><circle cx="58" cy="656" r="1.8"/><circle cx="71" cy="663" r="1.8"/><circle cx="84" cy="654" r="1.8"/><circle cx="97" cy="661" r="1.8"/><circle cx="110" cy="652" r="1.8"/><circle cx="39" cy="659" r="1.8"/></g>
+<path d="M134 655 H168" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<rect x="176" y="642" width="96" height="26" rx="3" fill="#e4dfd3" stroke="#333" stroke-width="2"/>
+<text x="78" y="692" font-size="14" font-weight="bold" text-anchor="middle">粗磨石</text>
+<text x="78" y="710" font-size="13" text-anchor="middle">先磨出锋口</text>
+<text x="224" y="692" font-size="14" font-weight="bold" text-anchor="middle">细磨石</text>
+<text x="224" y="710" font-size="13" text-anchor="middle">再磨光</text>
+<path d="M318 676 q30 6 60 0 t60 0 l4 12 h-128 z" fill="#cfe0f0" stroke="#333" stroke-width="1.6"/>
+<rect x="334" y="642" width="96" height="30" rx="3" fill="#bdb6a8" stroke="#333" stroke-width="2"/>
+<path d="M352 622 q-5 7 0 10 q5 -3 0 -10 z" fill="#5b8fc7"/>
+<path d="M380 616 q-5 7 0 10 q5 -3 0 -10 z" fill="#5b8fc7"/>
+<path d="M408 624 q-5 7 0 10 q5 -3 0 -10 z" fill="#5b8fc7"/>
+<text x="380" y="712" font-size="13" text-anchor="middle">使用前泡水(油石用油),</text>
+<text x="380" y="730" font-size="13" text-anchor="middle">磨的过程中保持湿润;</text>
+<text x="380" y="748" font-size="13" text-anchor="middle">放稳,下面垫湿布防滑</text>
+<text x="452" y="696" font-size="13" fill="#555">湿布</text>
+<line x1="450" y1="692" x2="432" y2="682" stroke="#0b5cad" stroke-width="1.3"/><circle cx="432" cy="682" r="2.6" fill="#0b5cad"/>
+<path d="M490 642 Q542 658 594 642 V672 H490 Z" fill="#bdb6a8" stroke="#333" stroke-width="2"/>
+<text x="542" y="634" font-size="13" fill="#c33" text-anchor="middle">中间凹下去</text>
+<path d="M604 657 H630" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<rect x="638" y="642" width="60" height="22" rx="2" fill="#bdb6a8" stroke="#333" stroke-width="2"/>
+<rect x="628" y="664" width="78" height="10" fill="#ccc" stroke="#999" stroke-width="1.5"/>
+<g fill="#b08c4a"><circle cx="632" cy="662" r="1.6"/><circle cx="639" cy="662" r="1.6"/><circle cx="646" cy="662" r="1.6"/><circle cx="653" cy="662" r="1.6"/><circle cx="660" cy="662" r="1.6"/><circle cx="667" cy="662" r="1.6"/><circle cx="674" cy="662" r="1.6"/><circle cx="681" cy="662" r="1.6"/><circle cx="688" cy="662" r="1.6"/><circle cx="695" cy="662" r="1.6"/><circle cx="702" cy="662" r="1.6"/></g>
+<text x="588" y="702" font-size="13" text-anchor="middle">用久了中间凹下去:</text>
+<text x="588" y="720" font-size="13" text-anchor="middle">在平整的水泥地上</text>
+<text x="588" y="738" font-size="13" text-anchor="middle">加水和沙子磨平</text>
+<text x="668" y="687" font-size="12" fill="#555" text-anchor="middle">水泥地</text>
+<text x="360" y="778" font-size="15" text-anchor="middle" font-weight="bold" fill="#c33">钝了立即磨,越钝越难磨</text>
+</g>
+</svg>

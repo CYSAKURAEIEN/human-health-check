@@ -1,0 +1,157 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 774" width="720" height="774" role="img" aria-label="自制蜡烛。原料: 蜂蜡(燃烧干净、烟少);动物脂肪(牛油、羊油最好),需要先熬炼提纯;回收的蜡烛头、蜡块;灯芯用纯棉线搓成或编成辫状,用前在融化的蜡里浸一下晾干。一定要隔水加热: 把装蜡的罐子放在热水锅里,不要直接放在火上,蜡和油直接加热温度过高会自燃。浸蘸法(不需要模具): 拿住灯芯一端浸入融化的蜡中,提起稍微冷却;反复浸蘸,一层层加厚到需要的粗细;挂起晾干,剪平底部。模具法: 用竹筒、纸筒、罐头盒做模具;灯芯固定在中央,上端绑在横放的筷子上,下端从底部小孔穿出或压住;倒入融化的蜡,冷却后脱模。安全: 旁边准备一个锅盖;蜡油或油锅起火时绝不能用水浇,关火盖上锅盖,或用湿毛巾、沙土覆盖;儿童远离操作区域。停电照明优先用电池灯,其次才是油灯、蜡烛;人离开房间、睡觉前必须熄灭">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>自制蜡烛</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<g id="fl"><path d="M0 0 Q-8 -8 -4 -18 Q-1 -24 0 -30 Q1 -24 4 -18 Q8 -8 0 0 Z" fill="#f6d36b" stroke="#f2a33a" stroke-width="1.5"/></g>
+<g id="no"><circle r="12" fill="#c33"/><path d="M-5 -5 L5 5 M5 -5 L-5 5" stroke="#fff" stroke-width="3" stroke-linecap="round"/></g>
+<g id="ok"><circle r="12" fill="#0b5cad"/><path d="M-5.5 0 L-2 4.5 L6 -4.5" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+</defs>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="13" fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">自制蜡烛</text>
+<text x="360" y="50" font-size="14" text-anchor="middle" fill="#555">停电照明优先用电池灯;蜡烛是其次的选择,而且要遵守明火安全规则</text>
+
+<!-- 原料 -->
+<g transform="translate(10,64)">
+<rect width="290" height="240" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">原料</text>
+<text x="12" y="50"><tspan font-weight="bold">蜂蜡</tspan>: 燃烧干净、烟少、味道好</text>
+<text x="12" y="76"><tspan font-weight="bold">动物脂肪</tspan>(牛油、羊油最好):</text>
+<text x="28" y="94">需要先熬炼提纯,燃烧时有一些气味</text>
+<text x="12" y="120"><tspan font-weight="bold">回收的</tspan>蜡烛头、蜡块</text>
+<text x="12" y="146" font-weight="bold">灯芯</text>
+<text x="12" y="166">纯棉线搓成或编成辫状;</text>
+<text x="12" y="184">用前在融化的蜡里浸一下晾干</text>
+<!-- 辫状灯芯 -->
+<g transform="translate(40,212)" fill="none" stroke-width="3" stroke-linecap="round">
+<path d="M0 0 q10 -8 20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0" stroke="#777"/>
+<path d="M0 0 q10 8 20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0" stroke="#bbb"/>
+</g>
+<text x="145" y="234" text-anchor="middle" font-size="12" fill="#555">编成辫状的棉线灯芯</text>
+</g>
+
+<!-- 隔水加热 -->
+<g transform="translate(310,64)">
+<rect width="400" height="240" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">融化蜡或脂肪: 一定要隔水加热</text>
+<!-- 正确: 热水锅 -->
+<use href="#ok" x="22" y="56"/>
+<path d="M30 92 H190 M30 92 V172 Q30 186 44 186 H176 Q190 186 190 172 V92" fill="none" stroke="#333" stroke-width="2.5"/>
+<path d="M32 110 H188 V172 Q188 184 176 184 H44 Q32 184 32 172 Z" fill="#d6e9f8"/>
+<path d="M32 110 H188" stroke="#7aaad6" stroke-width="1.5"/>
+<path d="M18 100 H30 M190 100 H202" stroke="#333" stroke-width="4" stroke-linecap="round"/>
+<rect x="86" y="74" width="48" height="104" rx="2" fill="#eef2f5" stroke="#333" stroke-width="2"/>
+<rect x="88" y="104" width="44" height="72" fill="#f3d27a"/>
+<path d="M88 104 H132" stroke="#c9962e" stroke-width="1.5"/>
+<path d="M14 196 H206" stroke="#999" stroke-width="3"/>
+<use href="#fl" x="70" y="220"/><use href="#fl" x="110" y="220"/><use href="#fl" x="150" y="220"/>
+<g stroke="#0b5cad" stroke-width="1"><line x1="136" y1="80" x2="196" y2="58"/><line x1="176" y1="150" x2="222" y2="150"/><line x1="112" y1="140" x2="222" y2="128"/></g>
+<text x="198" y="56" fill="#0b5cad">装蜡的罐子</text>
+<text x="226" y="132" fill="#0b5cad">蜡或脂肪</text>
+<text x="226" y="154" fill="#0b5cad">热水锅</text>
+<!-- 错误: 直接放在火上 -->
+<path d="M282 168 H392" stroke="#ccc" stroke-width="1" stroke-dasharray="3 3"/>
+<use href="#no" x="339" y="110"/>
+<rect x="318" y="128" width="42" height="60" rx="2" fill="#eef2f5" stroke="#333" stroke-width="2"/>
+<rect x="320" y="146" width="38" height="40" fill="#f3d27a"/>
+<path d="M300 196 H380" stroke="#999" stroke-width="3"/>
+<use href="#fl" x="330" y="220"/><use href="#fl" x="350" y="220"/>
+<text x="388" y="62" text-anchor="end" fill="#c33" font-weight="bold">不要直接放在火上</text>
+<text x="388" y="80" text-anchor="end" font-size="12" fill="#c33">直接加热温度过高会自燃</text>
+</g>
+
+<!-- 浸蘸法 -->
+<g transform="translate(10,314)">
+<rect width="420" height="270" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">浸蘸法(不需要模具)</text>
+<text x="70" y="50" text-anchor="middle" font-weight="bold">①</text>
+<text x="210" y="50" text-anchor="middle" font-weight="bold">②</text>
+<text x="350" y="50" text-anchor="middle" font-weight="bold">③</text>
+<path d="M140 40 V250 M280 40 V250" stroke="#e3e3e3" stroke-width="1"/>
+<!-- ① 浸入 -->
+<path d="M70 60 V172" stroke="#777" stroke-width="2.5"/>
+<rect x="64" y="58" width="12" height="10" rx="3" fill="#f3e3d3" stroke="#333" stroke-width="1.5"/>
+<path d="M98 116 V82" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<path d="M104 82 V116" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<rect x="34" y="128" width="72" height="62" rx="2" fill="#eef2f5" stroke="#333" stroke-width="2"/>
+<rect x="36" y="140" width="68" height="48" fill="#f3d27a"/>
+<path d="M36 140 H104" stroke="#c9962e" stroke-width="1.5"/>
+<text x="70" y="214" text-anchor="middle">拿住灯芯一端浸入</text>
+<text x="70" y="232" text-anchor="middle">融化的蜡,提起,</text>
+<text x="70" y="250" text-anchor="middle">稍微冷却</text>
+<!-- ② 一层层加厚 -->
+<g stroke="#777" stroke-width="2"><path d="M170 66 V82"/><path d="M210 66 V82"/><path d="M250 66 V82"/></g>
+<rect x="166" y="82" width="8" height="100" rx="3" fill="#f7e7b0" stroke="#333" stroke-width="1.5"/>
+<rect x="202" y="82" width="16" height="100" rx="5" fill="#f7e7b0" stroke="#333" stroke-width="1.5"/>
+<rect x="238" y="82" width="24" height="100" rx="7" fill="#f7e7b0" stroke="#333" stroke-width="1.5"/>
+<path d="M180 194 H232" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<text x="210" y="214" text-anchor="middle">反复浸蘸,一层层</text>
+<text x="210" y="232" text-anchor="middle">加厚,直到需要的</text>
+<text x="210" y="250" text-anchor="middle">粗细</text>
+<!-- ③ 挂起晾干 -->
+<path d="M296 70 H404" stroke="#8a5a2b" stroke-width="5" stroke-linecap="round"/>
+<g stroke="#777" stroke-width="2"><path d="M326 70 V86"/><path d="M374 70 V86"/></g>
+<path d="M314 86 H338 V182 H314 Z" fill="#f7e7b0" stroke="#333" stroke-width="1.5"/>
+<path d="M362 86 H386 V176 Q380 186 374 182 Q368 188 362 180 Z" fill="#f7e7b0" stroke="#333" stroke-width="1.5"/>
+<path d="M354 182 H394" stroke="#c33" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="350" y="214" text-anchor="middle">挂起晾干,</text>
+<text x="350" y="232" text-anchor="middle">剪平底部</text>
+<text x="326" y="198" text-anchor="middle" font-size="11" fill="#555">剪平后</text>
+<text x="397" y="187" font-size="11" fill="#c33">剪</text>
+</g>
+
+<!-- 模具法 -->
+<g transform="translate(440,314)">
+<rect width="270" height="270" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">模具法</text>
+<!-- 模具 -->
+<path d="M70 70 V172 Q70 180 78 180 H122 Q130 180 130 172 V70" fill="#eef2f5" stroke="#333" stroke-width="2.5"/>
+<path d="M72 112 H128 V172 Q128 178 122 178 H78 Q72 178 72 172 Z" fill="#f3d27a"/>
+<path d="M72 112 H128" stroke="#c9962e" stroke-width="1.5"/>
+<!-- 筷子 -->
+<path d="M50 64 H150" stroke="#8a5a2b" stroke-width="5" stroke-linecap="round"/>
+<!-- 灯芯 -->
+<path d="M100 61 V192" stroke="#777" stroke-width="2.5"/>
+<circle cx="100" cy="64" r="4" fill="none" stroke="#777" stroke-width="2"/>
+<!-- 倒蜡 -->
+<path d="M150 54 Q118 66 116 108" fill="none" stroke="#e7b94a" stroke-width="4" stroke-linecap="round"/>
+<path d="M150 46 L176 34 L186 54 L160 66 Z" fill="#eef2f5" stroke="#333" stroke-width="2"/>
+<g stroke="#0b5cad" stroke-width="1"><line x1="56" y1="64" x2="38" y2="48"/><line x1="130" y1="150" x2="146" y2="150"/><line x1="100" y1="188" x2="146" y2="198"/></g>
+<text x="12" y="44" fill="#0b5cad">横放的筷子</text>
+<text x="190" y="36" fill="#c33">倒入</text>
+<text x="190" y="52" fill="#c33">融化的蜡</text>
+<text x="150" y="146" fill="#0b5cad">竹筒、纸筒、</text>
+<text x="150" y="162" fill="#0b5cad">罐头盒做模具</text>
+<text x="150" y="196" fill="#0b5cad">下端从底部小孔</text>
+<text x="150" y="212" fill="#0b5cad">穿出或压住</text>
+<text x="12" y="234">灯芯固定在中央,上端绑在筷子上</text>
+<text x="12" y="254">冷却后脱模</text>
+</g>
+
+<!-- 安全 -->
+<g transform="translate(10,594)">
+<rect width="360" height="170" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="2"/>
+<text x="12" y="24" font-size="15" font-weight="bold" fill="#c33">⚠️ 熬蜡安全</text>
+<text x="12" y="50">✓ 一定要隔水加热</text>
+<text x="180" y="50">✓ 旁边准备一个锅盖</text>
+<text x="12" y="72">✓ 儿童远离操作区域</text>
+<text x="12" y="100" font-weight="bold" fill="#c33">❌ 蜡油或油锅起火时绝不能用水浇!</text>
+<text x="32" y="118" font-size="12" fill="#c33">(会爆溅,火势急剧扩大)</text>
+<text x="32" y="138">→ 关火,盖上锅盖隔绝空气;</text>
+<text x="48" y="156">或用湿毛巾、沙土覆盖</text>
+</g>
+
+<!-- 照明 -->
+<g transform="translate(380,594)">
+<rect width="330" height="170" rx="8" fill="none" stroke="#0b5cad" stroke-width="2"/>
+<text x="12" y="24" font-size="15" font-weight="bold" fill="#0b5cad">停电照明: 优先用电池灯,而不是蜡烛</text>
+<text x="12" y="50">首选: LED手电筒、头灯、LED营地灯、</text>
+<text x="12" y="68">手摇或太阳能充电的灯</text>
+<text x="12" y="88">其次: 油灯、蜡烛</text>
+<text x="12" y="112" font-size="12" fill="#555">停电期间是蜡烛引发火灾的高发时段</text>
+<text x="12" y="136">✓ 放在稳固、不易燃的底座上</text>
+<text x="12" y="156">✓ <tspan font-weight="bold" fill="#c33">人离开房间、睡觉前必须熄灭</tspan></text>
+</g>
+</g>
+</svg>
