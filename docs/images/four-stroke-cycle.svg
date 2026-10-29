@@ -1,0 +1,173 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 744" width="720" height="744" role="img" aria-label="四冲程循环示意。1. 吸气: 活塞下行,吸入空气(和燃料),进气门开,排气门关;2. 压缩: 活塞上行,压缩混合气,两个气门都关;3. 做功: 点燃(或压燃),燃气膨胀推动活塞下行,两个气门都关;4. 排气: 活塞上行,排出废气,排气门开,进气门关。每个冲程曲轴转半圈,四个冲程曲轴转两圈,完成一个循环。汽油机: 火花塞点火,压缩比约8-12,效率约25-30%;柴油机: 把空气压缩到很高温度,喷入柴油自燃,压缩比约15-22,效率约35-40%以上。内燃机排出的一氧化碳无色无味,在室内使用会致命" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>四冲程循环</title>
+<defs><marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker><marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker><marker id="arG" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#666"/></marker></defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">内燃机的四冲程循环(示意)</text>
+<text x="360" y="52" font-size="15" text-anchor="middle">吸气 → 压缩 → 做功 → 排气,周而复始;只有做功冲程由燃气推动活塞</text>
+<g transform="translate(10,64)">
+<rect x="0" y="0" width="169" height="470" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="26" font-size="16" font-weight="bold">1. 吸气</text>
+<text x="8" y="54" font-size="13">进气门<tspan font-weight="bold" fill="#0b5cad">开</tspan></text>
+<text x="161" y="54" font-size="13" text-anchor="end">排气门<tspan fill="#777">关</tspan></text>
+<rect x="40" y="184" width="90" height="45.3" fill="#dbe9f7"/>
+<rect x="32" y="184" width="8" height="120" fill="#c8cdd2" stroke="#333" stroke-width="1.8"/>
+<rect x="130" y="184" width="8" height="120" fill="#c8cdd2" stroke="#333" stroke-width="1.8"/>
+<path d="M4,102 H70 V184 H46 V122 H4" fill="#dbe9f7" stroke="#333" stroke-width="1.8"/>
+<path d="M165,102 H100 V184 H124 V122 H165" fill="#d6d6d6" stroke="#333" stroke-width="1.8"/>
+<rect x="47" y="123" width="22" height="61" fill="#dbe9f7"/>
+<rect x="101" y="123" width="22" height="61" fill="#d6d6d6"/>
+<rect x="32" y="144" width="14" height="40" fill="#c8cdd2" stroke="#333" stroke-width="1.8"/>
+<rect x="70" y="144" width="30" height="40" fill="#c8cdd2" stroke="#333" stroke-width="1.8"/>
+<rect x="124" y="144" width="14" height="40" fill="#c8cdd2" stroke="#333" stroke-width="1.8"/>
+<path d="M46,194 H70 L65,188 H51 Z" fill="#888" stroke="#333" stroke-width="1.5"/>
+<path d="M58,188 V92" stroke="#555" stroke-width="3"/>
+<path d="M52,92 H64" stroke="#555" stroke-width="3"/>
+<path d="M100,184 H124 L119,178 H105 Z" fill="#888" stroke="#333" stroke-width="1.5"/>
+<path d="M112,178 V92" stroke="#555" stroke-width="3"/>
+<path d="M106,92 H118" stroke="#555" stroke-width="3"/>
+<rect x="80" y="122" width="10" height="22" rx="2" fill="#fff" stroke="#333" stroke-width="1.5"/>
+<path d="M85,114 V122 M85,144 V187" stroke="#333" stroke-width="2"/>
+<path d="M8,112 H50 Q58,112 58,124" fill="none" stroke="#0b5cad" stroke-width="2.5" marker-end="url(#arB)"/>
+<text x="85" y="206" font-size="12" text-anchor="middle">空气</text>
+<text x="85" y="221" font-size="12" text-anchor="middle">(和燃料)</text>
+<rect x="41" y="229.3" width="88" height="40" rx="3" fill="#9aa3ad" stroke="#333" stroke-width="1.8"/>
+<path d="M41,236.3 H129 M41,242.3 H129" stroke="#555" stroke-width="1"/>
+<circle cx="85" cy="346" r="40" fill="#eee" stroke="#333" stroke-width="1.8"/>
+<line x1="85" y1="346" x2="117" y2="346" stroke="#666" stroke-width="10" stroke-linecap="round"/>
+<line x1="85" y1="251.3" x2="117" y2="346" stroke="#777" stroke-width="7" stroke-linecap="round"/>
+<circle cx="85" cy="251.3" r="4" fill="#fff" stroke="#333" stroke-width="1.5"/>
+<circle cx="117" cy="346" r="5" fill="#fff" stroke="#333" stroke-width="1.5"/>
+<circle cx="85" cy="346" r="3.5" fill="#333"/>
+<path d="M94.0,294.8 A52,52 0 0 1 94.0,397.2" fill="none" stroke="#0b5cad" stroke-width="2.5" marker-end="url(#arB)"/>
+<line x1="153" y1="209" x2="153" y2="269" stroke="#c33" stroke-width="3.5" marker-end="url(#arR)"/>
+<text x="84.5" y="426" font-size="14" text-anchor="middle">活塞下行,</text>
+<text x="84.5" y="445" font-size="14" text-anchor="middle">吸入空气(和燃料)</text>
+</g>
+<g transform="translate(187,64)">
+<rect x="0" y="0" width="169" height="470" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="26" font-size="16" font-weight="bold">2. 压缩</text>
+<text x="8" y="54" font-size="13">进气门<tspan fill="#777">关</tspan></text>
+<text x="161" y="54" font-size="13" text-anchor="end">排气门<tspan fill="#777">关</tspan></text>
+<rect x="40" y="184" width="90" height="45.3" fill="#a9c8ea"/>
+<rect x="32" y="184" width="8" height="120" fill="#c8cdd2" stroke="#333" stroke-width="1.8"/>
+<rect x="130" y="184" width="8" height="120" fill="#c8cdd2" stroke="#333" stroke-width="1.8"/>
+<path d="M4,102 H70 V184 H46 V122 H4" fill="#dbe9f7" stroke="#333" stroke-width="1.8"/>
+<path d="M165,102 H100 V184 H124 V122 H165" fill="#d6d6d6" stroke="#333" stroke-width="1.8"/>
+<rect x="47" y="123" width="22" height="61" fill="#dbe9f7"/>
+<rect x="101" y="123" width="22" height="61" fill="#d6d6d6"/>
+<rect x="32" y="144" width="14" height="40" fill="#c8cdd2" stroke="#333" stroke-width="1.8"/>
+<rect x="70" y="144" width="30" height="40" fill="#c8cdd2" stroke="#333" stroke-width="1.8"/>
+<rect x="124" y="144" width="14" height="40" fill="#c8cdd2" stroke="#333" stroke-width="1.8"/>
+<path d="M46,184 H70 L65,178 H51 Z" fill="#888" stroke="#333" stroke-width="1.5"/>
+<path d="M58,178 V92" stroke="#555" stroke-width="3"/>
+<path d="M52,92 H64" stroke="#555" stroke-width="3"/>
+<path d="M100,184 H124 L119,178 H105 Z" fill="#888" stroke="#333" stroke-width="1.5"/>
+<path d="M112,178 V92" stroke="#555" stroke-width="3"/>
+<path d="M106,92 H118" stroke="#555" stroke-width="3"/>
+<rect x="80" y="122" width="10" height="22" rx="2" fill="#fff" stroke="#333" stroke-width="1.5"/>
+<path d="M85,114 V122 M85,144 V187" stroke="#333" stroke-width="2"/>
+<text x="85" y="206" font-size="12" text-anchor="middle">压缩</text>
+<text x="85" y="221" font-size="12" text-anchor="middle">混合气</text>
+<rect x="41" y="229.3" width="88" height="40" rx="3" fill="#9aa3ad" stroke="#333" stroke-width="1.8"/>
+<path d="M41,236.3 H129 M41,242.3 H129" stroke="#555" stroke-width="1"/>
+<circle cx="85" cy="346" r="40" fill="#eee" stroke="#333" stroke-width="1.8"/>
+<line x1="85" y1="346" x2="53" y2="346" stroke="#666" stroke-width="10" stroke-linecap="round"/>
+<line x1="85" y1="251.3" x2="53" y2="346" stroke="#777" stroke-width="7" stroke-linecap="round"/>
+<circle cx="85" cy="251.3" r="4" fill="#fff" stroke="#333" stroke-width="1.5"/>
+<circle cx="53" cy="346" r="5" fill="#fff" stroke="#333" stroke-width="1.5"/>
+<circle cx="85" cy="346" r="3.5" fill="#333"/>
+<path d="M76.0,397.2 A52,52 0 0 1 76.0,294.8" fill="none" stroke="#0b5cad" stroke-width="2.5" marker-end="url(#arB)"/>
+<line x1="153" y1="269" x2="153" y2="209" stroke="#c33" stroke-width="3.5" marker-end="url(#arR)"/>
+<text x="84.5" y="426" font-size="14" text-anchor="middle">活塞上行,</text>
+<text x="84.5" y="445" font-size="14" text-anchor="middle">压缩混合气</text>
+</g>
+<g transform="translate(364,64)">
+<rect x="0" y="0" width="169" height="470" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="26" font-size="16" font-weight="bold">3. 做功</text>
+<text x="8" y="54" font-size="13">进气门<tspan fill="#777">关</tspan></text>
+<text x="161" y="54" font-size="13" text-anchor="end">排气门<tspan fill="#777">关</tspan></text>
+<rect x="40" y="184" width="90" height="45.3" fill="#f7c59f"/>
+<rect x="32" y="184" width="8" height="120" fill="#c8cdd2" stroke="#333" stroke-width="1.8"/>
+<rect x="130" y="184" width="8" height="120" fill="#c8cdd2" stroke="#333" stroke-width="1.8"/>
+<path d="M4,102 H70 V184 H46 V122 H4" fill="#dbe9f7" stroke="#333" stroke-width="1.8"/>
+<path d="M165,102 H100 V184 H124 V122 H165" fill="#d6d6d6" stroke="#333" stroke-width="1.8"/>
+<rect x="47" y="123" width="22" height="61" fill="#dbe9f7"/>
+<rect x="101" y="123" width="22" height="61" fill="#d6d6d6"/>
+<rect x="32" y="144" width="14" height="40" fill="#c8cdd2" stroke="#333" stroke-width="1.8"/>
+<rect x="70" y="144" width="30" height="40" fill="#c8cdd2" stroke="#333" stroke-width="1.8"/>
+<rect x="124" y="144" width="14" height="40" fill="#c8cdd2" stroke="#333" stroke-width="1.8"/>
+<path d="M46,184 H70 L65,178 H51 Z" fill="#888" stroke="#333" stroke-width="1.5"/>
+<path d="M58,178 V92" stroke="#555" stroke-width="3"/>
+<path d="M52,92 H64" stroke="#555" stroke-width="3"/>
+<path d="M100,184 H124 L119,178 H105 Z" fill="#888" stroke="#333" stroke-width="1.5"/>
+<path d="M112,178 V92" stroke="#555" stroke-width="3"/>
+<path d="M106,92 H118" stroke="#555" stroke-width="3"/>
+<rect x="80" y="122" width="10" height="22" rx="2" fill="#fff" stroke="#333" stroke-width="1.5"/>
+<path d="M85,114 V122 M85,144 V187" stroke="#333" stroke-width="2"/>
+<polygon points="98.0,196.0 89.6,197.9 94.2,205.2 86.9,200.6 85.0,209.0 83.1,200.6 75.8,205.2 80.4,197.9 72.0,196.0 80.4,194.1 75.8,186.8 83.1,191.4 85.0,183.0 86.9,191.4 94.2,186.8 89.6,194.1" fill="#c33"/>
+<text x="85" y="84" font-size="12" text-anchor="middle" fill="#c33">火花塞点火</text>
+<path d="M85,89 V112" stroke="#c33" stroke-width="1.2"/>
+<text x="85" y="225" font-size="12" text-anchor="middle">燃气膨胀</text>
+<rect x="41" y="229.3" width="88" height="40" rx="3" fill="#9aa3ad" stroke="#333" stroke-width="1.8"/>
+<path d="M41,236.3 H129 M41,242.3 H129" stroke="#555" stroke-width="1"/>
+<circle cx="85" cy="346" r="40" fill="#eee" stroke="#333" stroke-width="1.8"/>
+<line x1="85" y1="346" x2="117" y2="346" stroke="#666" stroke-width="10" stroke-linecap="round"/>
+<line x1="85" y1="251.3" x2="117" y2="346" stroke="#777" stroke-width="7" stroke-linecap="round"/>
+<circle cx="85" cy="251.3" r="4" fill="#fff" stroke="#333" stroke-width="1.5"/>
+<circle cx="117" cy="346" r="5" fill="#fff" stroke="#333" stroke-width="1.5"/>
+<circle cx="85" cy="346" r="3.5" fill="#333"/>
+<path d="M94.0,294.8 A52,52 0 0 1 94.0,397.2" fill="none" stroke="#0b5cad" stroke-width="2.5" marker-end="url(#arB)"/>
+<line x1="153" y1="209" x2="153" y2="269" stroke="#c33" stroke-width="3.5" marker-end="url(#arR)"/>
+<text x="84.5" y="426" font-size="14" text-anchor="middle">点燃(或压燃),</text>
+<text x="84.5" y="445" font-size="14" text-anchor="middle">燃气膨胀</text>
+<text x="84.5" y="464" font-size="14" text-anchor="middle">推动活塞下行</text>
+</g>
+<g transform="translate(541,64)">
+<rect x="0" y="0" width="169" height="470" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="26" font-size="16" font-weight="bold">4. 排气</text>
+<text x="8" y="54" font-size="13">进气门<tspan fill="#777">关</tspan></text>
+<text x="161" y="54" font-size="13" text-anchor="end">排气门<tspan font-weight="bold" fill="#0b5cad">开</tspan></text>
+<rect x="40" y="184" width="90" height="45.3" fill="#d6d6d6"/>
+<rect x="32" y="184" width="8" height="120" fill="#c8cdd2" stroke="#333" stroke-width="1.8"/>
+<rect x="130" y="184" width="8" height="120" fill="#c8cdd2" stroke="#333" stroke-width="1.8"/>
+<path d="M4,102 H70 V184 H46 V122 H4" fill="#dbe9f7" stroke="#333" stroke-width="1.8"/>
+<path d="M165,102 H100 V184 H124 V122 H165" fill="#d6d6d6" stroke="#333" stroke-width="1.8"/>
+<rect x="47" y="123" width="22" height="61" fill="#dbe9f7"/>
+<rect x="101" y="123" width="22" height="61" fill="#d6d6d6"/>
+<rect x="32" y="144" width="14" height="40" fill="#c8cdd2" stroke="#333" stroke-width="1.8"/>
+<rect x="70" y="144" width="30" height="40" fill="#c8cdd2" stroke="#333" stroke-width="1.8"/>
+<rect x="124" y="144" width="14" height="40" fill="#c8cdd2" stroke="#333" stroke-width="1.8"/>
+<path d="M46,184 H70 L65,178 H51 Z" fill="#888" stroke="#333" stroke-width="1.5"/>
+<path d="M58,178 V92" stroke="#555" stroke-width="3"/>
+<path d="M52,92 H64" stroke="#555" stroke-width="3"/>
+<path d="M100,194 H124 L119,188 H105 Z" fill="#888" stroke="#333" stroke-width="1.5"/>
+<path d="M112,188 V92" stroke="#555" stroke-width="3"/>
+<path d="M106,92 H118" stroke="#555" stroke-width="3"/>
+<rect x="80" y="122" width="10" height="22" rx="2" fill="#fff" stroke="#333" stroke-width="1.5"/>
+<path d="M85,114 V122 M85,144 V187" stroke="#333" stroke-width="2"/>
+<path d="M112,124 Q112,112 122,112 H161" fill="none" stroke="#666" stroke-width="2.5" marker-end="url(#arG)"/>
+<text x="85" y="212" font-size="12" text-anchor="middle">废气</text>
+<rect x="41" y="229.3" width="88" height="40" rx="3" fill="#9aa3ad" stroke="#333" stroke-width="1.8"/>
+<path d="M41,236.3 H129 M41,242.3 H129" stroke="#555" stroke-width="1"/>
+<circle cx="85" cy="346" r="40" fill="#eee" stroke="#333" stroke-width="1.8"/>
+<line x1="85" y1="346" x2="53" y2="346" stroke="#666" stroke-width="10" stroke-linecap="round"/>
+<line x1="85" y1="251.3" x2="53" y2="346" stroke="#777" stroke-width="7" stroke-linecap="round"/>
+<circle cx="85" cy="251.3" r="4" fill="#fff" stroke="#333" stroke-width="1.5"/>
+<circle cx="53" cy="346" r="5" fill="#fff" stroke="#333" stroke-width="1.5"/>
+<circle cx="85" cy="346" r="3.5" fill="#333"/>
+<path d="M76.0,397.2 A52,52 0 0 1 76.0,294.8" fill="none" stroke="#0b5cad" stroke-width="2.5" marker-end="url(#arB)"/>
+<line x1="153" y1="269" x2="153" y2="209" stroke="#c33" stroke-width="3.5" marker-end="url(#arR)"/>
+<text x="84.5" y="426" font-size="14" text-anchor="middle">活塞上行,</text>
+<text x="84.5" y="445" font-size="14" text-anchor="middle">排出废气</text>
+</g>
+<path d="M14,548 V558 H351 V548" fill="none" stroke="#0b5cad" stroke-width="1.8"/>
+<path d="M369,548 V558 H706 V548" fill="none" stroke="#0b5cad" stroke-width="1.8"/>
+<text x="182" y="578" font-size="14" text-anchor="middle" fill="#0b5cad">曲轴转第1圈(每个冲程半圈)</text>
+<text x="538" y="578" font-size="14" text-anchor="middle" fill="#0b5cad">曲轴转第2圈</text>
+<text x="360" y="604" font-size="15" text-anchor="middle" font-weight="bold">四个冲程 = 一个循环 = 曲轴转两圈</text>
+<rect x="10" y="626" width="700" height="66" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="650" font-size="14"><tspan font-weight="bold">汽油机</tspan>: 火花塞点火,压缩比约8-12,效率约25-30%</text>
+<text x="24" y="674" font-size="14"><tspan font-weight="bold">柴油机</tspan>: 把空气压缩到很高温度,喷入柴油自燃(压燃),压缩比约15-22,效率约35-40%以上</text>
+<text x="360" y="722" font-size="15" font-weight="bold" text-anchor="middle" fill="#c33">⚠ 内燃机排出的一氧化碳无色无味,在室内使用会致命</text>
+</g></svg>

@@ -1,0 +1,173 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 790" width="720" height="790" role="img" aria-label="中药材的药用部位与最佳采收期示意: 花在含苞待放或刚开放时采;叶在植物生长旺盛、花将开或盛花期采;果实在成熟或近成熟时采;种子在完全成熟时采;全草即地上部分或带根全株,多在开花期或花前枝叶茂盛时采;根及根茎类包括根、根茎、块茎、球茎、鳞茎,在秋冬地上部分枯萎后或早春萌芽前采;树皮在春夏之交约清明到夏至采,只剥一侧不环剥;根皮多在秋季随挖根时剥取;藤木类包括藤茎、茎枝、心材,在秋冬落叶后或全年采。可持续采集: 每片地只采一部分,一般不超过约三分之一,留下母株和正在开花结籽的植株,留小采大,挖根后回填;例外很多,以后面各章写的为准">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>中药材的药用部位与最佳采收期</title>
+<defs>
+<g id="lf"><path d="M0,0 C6,-16 28,-15 62,0 C28,15 6,16 0,0 Z" fill="#cfe3b0" stroke="#333" stroke-width="1.5"/><path d="M2,0 L58,0" stroke="#6a8a3a" stroke-width="1"/></g>
+<g id="bd"><path d="M0,0 C-6,-6 -6,-16 0,-22 C6,-16 6,-6 0,0 Z" fill="#f5d6e6" stroke="#333" stroke-width="1.5"/><path d="M-4,-2 L0,4 L4,-2" fill="#7a9a4a"/></g>
+<g id="pt"><ellipse cx="0" cy="-14" rx="8" ry="13" fill="#f7d0e2" stroke="#333" stroke-width="1.5"/></g>
+</defs>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="13" fill="#222">
+<text x="360" y="30" font-size="18" font-weight="bold" text-anchor="middle">中药材的药用部位与最佳采收期</text>
+<text x="360" y="52" fill="#555" text-anchor="middle">(示意: 为了说明,把各部位画在同一株植物上;具体品种以后面各章为准)</text>
+
+<!-- 土壤 -->
+<rect x="10" y="440" width="700" height="166" fill="#f3eadb"/>
+<line x1="10" y1="440" x2="710" y2="440" stroke="#999" stroke-width="3"/>
+
+<!-- ===== 草本植物 ===== -->
+<!-- 全草范围 -->
+<rect x="148" y="70" width="190" height="372" rx="10" fill="none" stroke="#0b5cad" stroke-width="1.5" stroke-dasharray="7 4"/>
+<rect x="154" y="420" width="64" height="18" rx="3" fill="#0b5cad"/>
+<text x="186" y="434" fill="#fff" font-weight="bold" text-anchor="middle">全草</text>
+<!-- 茎 -->
+<path d="M230,440 C226,360 234,260 230,112" fill="none" stroke="#4d6b2a" stroke-width="3.5"/>
+<!-- 叶 -->
+<use href="#lf" transform="translate(231,396) rotate(-18)"/>
+<use href="#lf" transform="translate(229,396) scale(-1,1) rotate(-18)"/>
+<use href="#lf" transform="translate(231,342) rotate(-24) scale(0.9)"/>
+<use href="#lf" transform="translate(229,342) scale(-1,1) rotate(-24) scale(0.9)"/>
+<use href="#lf" transform="translate(229,278) scale(-1,1) rotate(-28) scale(0.8)"/>
+<!-- 花蕾枝 -->
+<path d="M230,222 Q206,200 186,176" fill="none" stroke="#4d6b2a" stroke-width="2.5"/>
+<path d="M190,180 L176,170 M200,192 L194,174" stroke="#4d6b2a" stroke-width="2"/>
+<use href="#bd" transform="translate(186,176) rotate(-40)"/>
+<use href="#bd" transform="translate(176,170) rotate(-70)"/>
+<use href="#bd" transform="translate(194,174) rotate(-10)"/>
+<!-- 顶端的花 -->
+<g transform="translate(230,108)">
+<use href="#pt"/><use href="#pt" transform="rotate(72)"/><use href="#pt" transform="rotate(144)"/><use href="#pt" transform="rotate(216)"/><use href="#pt" transform="rotate(288)"/>
+<circle r="6" fill="#f5c518" stroke="#333" stroke-width="1.2"/>
+</g>
+<!-- 果实枝 -->
+<path d="M231,250 Q262,232 290,214" fill="none" stroke="#4d6b2a" stroke-width="2.5"/>
+<path d="M276,222 L278,236 M290,214 L298,226 M290,214 L306,214" stroke="#4d6b2a" stroke-width="1.5"/>
+<circle cx="278" cy="244" r="9" fill="#d9534f" stroke="#333" stroke-width="1.5"/>
+<circle cx="299" cy="234" r="9" fill="#d9534f" stroke="#333" stroke-width="1.5"/>
+<circle cx="314" cy="216" r="9" fill="#e8a33a" stroke="#333" stroke-width="1.5"/>
+<!-- 种子(成熟裂开的果荚) -->
+<path d="M231,306 Q258,298 280,298" fill="none" stroke="#4d6b2a" stroke-width="2.5"/>
+<path d="M280,298 C292,284 314,282 322,290 C312,292 296,298 284,302 Z" fill="#c9a46a" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M280,298 C292,310 314,308 322,300 C312,300 296,300 284,302 Z" fill="#c9a46a" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<g fill="#5a3a1a"><ellipse cx="300" cy="318" rx="3" ry="4"/><ellipse cx="310" cy="330" rx="3" ry="4"/><ellipse cx="296" cy="336" rx="3" ry="4"/></g>
+<!-- 地下: 主根 -->
+<path d="M223,442 Q226,500 230,540 Q234,500 237,442 Z" fill="#e8cfa0" stroke="#333" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M226,470 L208,486 M234,482 L254,496 M228,505 L214,516 M232,516 L246,526" stroke="#8a6a3a" stroke-width="1.2"/>
+<!-- 鳞茎 -->
+<path d="M50,452 C28,468 30,494 50,496 C70,494 72,468 50,452 Z" fill="#f6efd9" stroke="#333" stroke-width="1.8"/>
+<path d="M50,456 C38,468 40,490 50,494 M50,456 C62,468 60,490 50,494" fill="none" stroke="#8a6a3a" stroke-width="1"/>
+<path d="M42,496 L38,510 M50,497 L50,512 M58,496 L62,510" stroke="#8a6a3a" stroke-width="1.2"/>
+<!-- 球茎 -->
+<ellipse cx="108" cy="478" rx="20" ry="14" fill="#e6d2a8" stroke="#333" stroke-width="1.8"/>
+<path d="M90,474 Q108,480 126,474 M92,484 Q108,490 124,484" fill="none" stroke="#8a6a3a" stroke-width="1"/>
+<path d="M108,464 L108,452" stroke="#6a8a3a" stroke-width="3" stroke-linecap="round"/>
+<path d="M100,492 L96,506 M116,492 L120,506" stroke="#8a6a3a" stroke-width="1.2"/>
+<!-- 块茎 -->
+<path d="M150,470 C160,458 186,460 194,472 C202,486 188,500 170,498 C152,498 142,484 150,470 Z" fill="#e0c49a" stroke="#333" stroke-width="1.8"/>
+<g fill="#8a6a3a"><circle cx="164" cy="474" r="1.8"/><circle cx="182" cy="480" r="1.8"/><circle cx="170" cy="490" r="1.8"/></g>
+<!-- 根茎 -->
+<path d="M282,466 L420,462" stroke="#333" stroke-width="15" stroke-linecap="round"/>
+<path d="M282,466 L420,462" stroke="#e8cfa0" stroke-width="11" stroke-linecap="round"/>
+<path d="M312,459 L312,472 M344,458 L344,471 M376,457 L376,470 M406,456 L406,469" stroke="#8a6a3a" stroke-width="1.5"/>
+<path d="M312,472 L306,488 M344,471 L350,488 M376,470 L370,486 M406,469 L412,484" stroke="#8a6a3a" stroke-width="1.2"/>
+<path d="M424,456 Q430,446 426,440" fill="none" stroke="#6a8a3a" stroke-width="3" stroke-linecap="round"/>
+<g text-anchor="middle" font-size="14" font-weight="bold">
+<text x="50" y="532">鳞茎</text>
+<text x="108" y="532">球茎</text>
+<text x="172" y="532">块茎</text>
+<text x="266" y="532">根</text>
+<text x="350" y="512">根茎</text>
+</g>
+<line x1="258" y1="527" x2="238" y2="518" stroke="#0b5cad" stroke-width="1"/>
+<!-- 根及根茎类采收期 -->
+<text x="20" y="568" font-size="15" font-weight="bold">根及根茎类 <tspan font-size="13" font-weight="normal" fill="#555">(根、根茎、块茎、球茎、鳞茎)</tspan></text>
+<text x="20" y="592" font-size="14" fill="#0b5cad" font-weight="bold">秋冬地上部分枯萎后,或早春萌芽前</text>
+<text x="252" y="592" fill="#555">(养分贮藏在地下,含量最高)</text>
+
+<!-- 左侧标注 -->
+<text x="16" y="96" font-size="15" font-weight="bold">花 <tspan font-size="12" font-weight="normal" fill="#555">· 花叶类</tspan></text>
+<text x="16" y="116" fill="#0b5cad">含苞待放或</text>
+<text x="16" y="133" fill="#0b5cad">刚开放时</text>
+<line x1="88" y1="102" x2="208" y2="106" stroke="#0b5cad" stroke-width="1"/>
+<line x1="80" y1="128" x2="172" y2="170" stroke="#0b5cad" stroke-width="1"/>
+<text x="96" y="162" font-size="12" fill="#555">花蕾</text>
+
+<text x="16" y="270" font-size="15" font-weight="bold">叶 <tspan font-size="12" font-weight="normal" fill="#555">· 花叶类</tspan></text>
+<text x="16" y="290" fill="#0b5cad">植物生长旺盛、</text>
+<text x="16" y="307" fill="#0b5cad">花将开或盛花期</text>
+<line x1="112" y1="302" x2="198" y2="330" stroke="#0b5cad" stroke-width="1"/>
+
+<text x="16" y="372" font-size="15" font-weight="bold">全草 <tspan font-size="12" font-weight="normal" fill="#555">· 全草类</tspan></text>
+<text x="16" y="390" fill="#555">地上部分或带根全株</text>
+<text x="16" y="408" fill="#0b5cad">多在开花期或花前</text>
+<text x="16" y="425" fill="#0b5cad">枝叶茂盛时</text>
+
+<!-- 右侧标注 -->
+<text x="346" y="176" font-size="15" font-weight="bold">果实 <tspan font-size="12" font-weight="normal" fill="#555">· 果实种子类</tspan></text>
+<text x="346" y="196" fill="#0b5cad">成熟或近成熟时</text>
+<line x1="372" y1="202" x2="324" y2="222" stroke="#0b5cad" stroke-width="1"/>
+
+<text x="346" y="300" font-size="15" font-weight="bold">种子 <tspan font-size="12" font-weight="normal" fill="#555">· 果实种子类</tspan></text>
+<text x="346" y="320" fill="#0b5cad">完全成熟时</text>
+<line x1="344" y1="315" x2="316" y2="322" stroke="#0b5cad" stroke-width="1"/>
+
+<!-- ===== 树木 ===== -->
+<line x1="486" y1="70" x2="486" y2="430" stroke="#ddd" stroke-width="1.5"/>
+<!-- 树根 -->
+<path d="M548,442 Q536,470 512,492 M560,442 Q562,480 556,520 M570,442 Q590,470 618,486" fill="none" stroke="#8a5a2b" stroke-width="6" stroke-linecap="round"/>
+<path d="M556,470 L556,500" stroke="#f3e3c3" stroke-width="3" stroke-linecap="round"/>
+<!-- 树干 -->
+<path d="M546,442 L548,200 L572,200 L574,442 Z" fill="#8a5a2b" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M552,420 L552,380 M566,360 L566,320 M553,280 L553,240 M568,250 L568,215" stroke="#5a3a1a" stroke-width="1.2"/>
+<!-- 剥皮处: 只剥一侧 -->
+<rect x="556" y="292" width="14" height="70" rx="3" fill="#f3e3c3" stroke="#333" stroke-width="1.5"/>
+<!-- 枝条 -->
+<path d="M572,236 L622,206" stroke="#8a5a2b" stroke-width="7" stroke-linecap="round"/>
+<path d="M548,250 L512,226" stroke="#8a5a2b" stroke-width="6" stroke-linecap="round"/>
+<!-- 树冠 -->
+<path d="M510,180 C490,160 500,112 530,110 C536,82 584,78 592,104 C622,102 632,146 612,168 C622,192 590,210 566,198 C548,214 516,206 510,180 Z" fill="#cfe3b0" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M560,200 L560,160 M560,170 L540,150 M560,176 L584,152" stroke="#8a5a2b" stroke-width="3" stroke-linecap="round" fill="none"/>
+
+<!-- 树皮标注 -->
+<text x="590" y="296" font-size="15" font-weight="bold">树皮 <tspan font-size="12" font-weight="normal" fill="#555">· 皮类</tspan></text>
+<text x="590" y="316" fill="#0b5cad">春夏之交</text>
+<text x="590" y="333" fill="#0b5cad">(约清明到夏至)</text>
+<text x="590" y="352" fill="#c33">只剥一侧,不环剥</text>
+<line x1="588" y1="312" x2="571" y2="318" stroke="#0b5cad" stroke-width="1"/>
+<!-- 藤木标注 -->
+<line x1="628" y1="210" x2="618" y2="208" stroke="#0b5cad" stroke-width="1"/>
+<text x="630" y="214" font-size="15" font-weight="bold">藤木类</text>
+<text x="630" y="232" font-size="12" fill="#555">藤茎、茎枝、</text>
+<text x="630" y="247" font-size="12" fill="#555">心材</text>
+<text x="630" y="264" fill="#0b5cad">秋冬落叶后</text>
+<text x="630" y="281" fill="#0b5cad">或全年</text>
+<!-- 根皮标注 -->
+<text x="590" y="512" font-size="15" font-weight="bold">根皮 <tspan font-size="12" font-weight="normal" fill="#555">· 皮类</tspan></text>
+<text x="590" y="532" fill="#0b5cad">多在秋季,</text>
+<text x="590" y="549" fill="#0b5cad">随挖根时剥取</text>
+<line x1="588" y1="506" x2="560" y2="496" stroke="#0b5cad" stroke-width="1"/>
+
+<!-- ===== 底部 ===== -->
+<g transform="translate(10,616)">
+<rect x="0" y="0" width="345" height="164" rx="8" fill="#eef6ea" stroke="#6a8a3a" stroke-width="1.5"/>
+<text x="16" y="26" font-size="16" font-weight="bold" fill="#4d6b2a">可持续采集: 不要把一片药源挖光</text>
+<g font-size="14">
+<text x="16" y="52">· 每片地只采一部分</text>
+<text x="28" y="72">(一般不超过约三分之一)</text>
+<text x="16" y="96">· 留下母株和正在开花结籽的植株</text>
+<text x="16" y="120">· 挖根留小采大,挖后把土回填</text>
+<text x="16" y="144">· 用地上部分的,割取而不拔根</text>
+</g>
+</g>
+<g transform="translate(365,616)">
+<rect x="0" y="0" width="345" height="164" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<text x="16" y="26" font-size="16" font-weight="bold" fill="#c33">⚠️ 采收注意</text>
+<g font-size="14">
+<text x="16" y="52">· <tspan font-weight="bold">例外很多,以后面各章写的为准</tspan></text>
+<text x="16" y="76">· 不在公路边、工厂矿区附近、</text>
+<text x="28" y="96">刚喷过农药的地方采</text>
+<text x="16" y="120">· 晴天、上午露水干后采</text>
+<text x="16" y="144">· 每次只采一种,分开装、分别贴标签</text>
+</g>
+</g>
+</g>
+</svg>

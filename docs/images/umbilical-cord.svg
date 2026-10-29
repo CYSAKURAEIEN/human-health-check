@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 690" width="720" height="690" role="img" aria-label="脐带的处理。不急着剪: 宝宝正常呼吸时至少等1分钟再夹脐带;救护车很快就到时不需要自己剪,宝宝放在母亲胸前,保持脐带不被拉扯,胎盘娩出后连同胎盘一起包好送医。必须剪断时(宝宝需要人工呼吸,或预计1小时以上得不到专业帮助): 1 等脐带停止搏动,需要人工呼吸时不必等待;2 用煮过或开水烫过的干净布条或鞋带扎两道,第一道离宝宝肚脐约10 cm(约一个手掌宽),第二道再往胎盘方向约5 cm,打结扎紧,不要用细线;3 用消毒过的剪刀或刀片在两道结之间剪断;4 宝宝这一侧断端渗血就在靠近宝宝处再扎一道。剪刀、刀片必须煮沸10分钟以上消毒,不干净的工具断脐是新生儿破伤风的主要原因;断端不要涂抹任何东西">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>脐带的处理: 不急着剪,必须剪时扎两道</title>
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="ab" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<g id="tie">
+<rect x="-5" y="-15" width="10" height="30" rx="3" fill="#b08a5a" stroke="#333" stroke-width="1.5"/>
+<path d="M0,-15 Q-8,-26 -14,-22 M0,-15 Q8,-26 14,-22" fill="none" stroke="#b08a5a" stroke-width="4" stroke-linecap="round"/>
+</g>
+</defs>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="14" fill="#222">
+<text x="360" y="30" font-size="18" font-weight="bold" text-anchor="middle">脐带的处理: 不急着剪,必须剪时扎两道</text>
+
+<!-- 不急着剪 -->
+<g transform="translate(10,44)">
+<rect x="0" y="0" width="700" height="150" rx="8" fill="#eef4fb" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="#0b5cad">✓ 不急着剪</text>
+<!-- 时钟 -->
+<circle cx="44" cy="84" r="24" fill="#fff" stroke="#0b5cad" stroke-width="2.5"/>
+<path d="M44,84 L44,66 M44,84 L58,90" stroke="#0b5cad" stroke-width="2.5" stroke-linecap="round"/>
+<text x="80" y="66" font-weight="bold">宝宝正常呼吸时:</text>
+<text x="80" y="88">至少等1分钟再夹脐带</text>
+<text x="80" y="110" font-size="13" fill="#555">(世界卫生组织的建议)这段时间</text>
+<text x="80" y="128" font-size="13" fill="#555">胎盘里的血会继续流向宝宝</text>
+<line x1="340" y1="44" x2="340" y2="136" stroke="#bbb" stroke-width="1.5"/>
+<text x="360" y="66" font-weight="bold">救护车很快就到时: 不需要自己剪</text>
+<text x="360" y="88">· 宝宝放在母亲胸前,保持脐带不被拉扯</text>
+<text x="360" y="110">· 胎盘娩出后,可以连同胎盘一起包好,</text>
+<text x="372" y="130">和母婴一起送医</text>
+</g>
+
+<!-- 必须剪断时 -->
+<g transform="translate(10,204)">
+<rect x="0" y="0" width="700" height="350" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">必须剪断时</text>
+<text x="112" y="28" font-size="14" fill="#555">(宝宝需要人工呼吸;或预计很长时间,如1小时以上,得不到专业帮助)</text>
+
+<!-- 宝宝(仰卧,俯视) -->
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M58,168 L46,198 L56,212 M86,168 L98,198 L88,212" stroke="#333" stroke-width="15"/>
+<path d="M58,168 L46,198 L56,212 M86,168 L98,198 L88,212" stroke="#f3e3d3" stroke-width="10.5"/>
+<path d="M52,104 L30,128 L34,148 M92,104 L114,128 L110,148" stroke="#333" stroke-width="13"/>
+<path d="M52,104 L30,128 L34,148 M92,104 L114,128 L110,148" stroke="#f3e3d3" stroke-width="8.5"/>
+</g>
+<rect x="44" y="96" width="56" height="80" rx="22" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<circle cx="72" cy="74" r="25" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M56,58 Q72,46 88,58" fill="none" stroke="#555" stroke-width="1.5"/>
+<path d="M62,74 Q65,77 68,74 M76,74 Q79,77 82,74" fill="none" stroke="#333" stroke-width="1.6"/>
+<path d="M68,86 Q72,89 76,86" fill="none" stroke="#333" stroke-width="1.6"/>
+<circle cx="72" cy="146" r="3" fill="#333"/>
+<text x="72" y="240" font-size="13" text-anchor="middle" fill="#555">宝宝</text>
+
+<!-- 脐带: 1 cm ≈ 16 px,肚脐在 x=72 -->
+<path d="M72,146 Q90,146 110,146 L560,146" fill="none" stroke="#333" stroke-width="14" stroke-linecap="round"/>
+<path d="M72,146 Q90,146 110,146 L560,146" fill="none" stroke="#e3ebf3" stroke-width="9.5" stroke-linecap="round"/>
+<path d="M120,146 q10,-4 20,0 t20,0 t20,0 t20,0 t20,0 t20,0 t20,0 t20,0 t20,0 t20,0 t20,0 t20,0 t20,0 t20,0 t20,0 t20,0 t20,0 t20,0 t20,0 t20,0 t20,0 t20,0" fill="none" stroke="#a9bccf" stroke-width="1.5"/>
+<path d="M566,146 L640,146" stroke="#0b5cad" stroke-width="1.5" stroke-dasharray="5 4" marker-end="url(#ab)"/>
+<text x="592" y="134" font-size="13" fill="#0b5cad">通往胎盘</text>
+
+<use href="#tie" x="232" y="146"/>
+<use href="#tie" x="312" y="146"/>
+
+<!-- 尺寸 -->
+<g stroke="#0b5cad" stroke-width="1.2">
+<line x1="72" y1="100" x2="72" y2="126"/><line x1="232" y1="100" x2="232" y2="122"/><line x1="312" y1="100" x2="312" y2="122"/>
+<line x1="76" y1="108" x2="228" y2="108" marker-start="url(#ab)" marker-end="url(#ab)"/>
+<line x1="236" y1="108" x2="308" y2="108" marker-start="url(#ab)" marker-end="url(#ab)"/>
+</g>
+<text x="122" y="80" font-size="13" fill="#0b5cad">离肚脐约10 cm</text>
+<text x="122" y="98" font-size="13" fill="#0b5cad">(约一个手掌宽)</text>
+<text x="272" y="98" font-size="13" fill="#0b5cad" text-anchor="middle">约5 cm</text>
+
+<!-- 剪断位置 -->
+<line x1="272" y1="122" x2="272" y2="172" stroke="#c33" stroke-width="2" stroke-dasharray="4 3"/>
+<g transform="translate(272,200)">
+<circle cx="-9" cy="20" r="7" fill="#fff" stroke="#333" stroke-width="2.5"/>
+<circle cx="9" cy="20" r="7" fill="#fff" stroke="#333" stroke-width="2.5"/>
+<path d="M-6,14 L5,-22 M6,14 L-5,-22" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+</g>
+<text x="232" y="196" font-size="13" fill="#555" text-anchor="end">第一道</text>
+<text x="312" y="196" font-size="13" fill="#555">第二道</text>
+<text x="272" y="248" font-size="13" fill="#c33" text-anchor="middle">两道结之间剪断</text>
+<line x1="420" y1="186" x2="318" y2="160" stroke="#0b5cad" stroke-width="1"/>
+<text x="424" y="184" font-size="13" fill="#0b5cad">干净的布条或鞋带</text>
+<text x="424" y="202" font-size="13" fill="#0b5cad">(煮过或用开水烫过),</text>
+<text x="424" y="220" font-size="13" fill="#0b5cad">每道都打结扎紧</text>
+<text x="424" y="238" font-size="13" fill="#c33">✗ 不要用细线(可能勒断脐带)</text>
+
+<!-- 步骤 -->
+<line x1="16" y1="264" x2="684" y2="264" stroke="#ddd" stroke-width="1"/>
+<text x="16" y="288"><tspan font-weight="bold">1</tspan> 等脐带停止搏动(手指轻捏能感到搏动,停止后脐带变得瘪白);宝宝需要人工呼吸时不必等待</text>
+<text x="16" y="312"><tspan font-weight="bold">2</tspan> 扎两道: 第一道离宝宝肚脐约10 cm,第二道再往胎盘方向约5 cm</text>
+<text x="16" y="336"><tspan font-weight="bold">3</tspan> 用消毒过的剪刀或刀片在两道结之间剪断 <tspan font-weight="bold" dx="10">4</tspan> 宝宝这侧断端渗血 → 靠近宝宝处再扎一道</text>
+</g>
+
+<!-- 警告 -->
+<g transform="translate(10,564)">
+<rect x="0" y="0" width="700" height="116" rx="8" fill="#fdecec" stroke="#c33" stroke-width="2"/>
+<text x="16" y="28" font-size="16" font-weight="bold" fill="#c33">⚠️ 剪刀、刀片必须消毒(煮沸10分钟以上)</text>
+<text x="16" y="50">用不干净的工具断脐,是新生儿破伤风的主要原因,死亡率很高</text>
+<text x="16" y="80" font-weight="bold" fill="#c33">✗ 断端上不要涂抹任何东西:</text>
+<text x="16" y="102">草木灰、泥土、香灰、牛粪、牙膏、各种偏方粉末(都可能导致感染和破伤风)</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,243 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1204" width="720" height="1204" role="img" aria-label="锅炉与双作用蒸汽机示意。①锅炉必须有的安全装置: 安全阀(压力超过设定值时自动打开排汽,必须定期检查,绝不能堵死、压死)、压力表(随时看到压力,读数通常是表压,绝对压力等于表压加约0.1 MPa)、水位计(随时看到水位)、进水装置(能在运行中补水)。②蒸汽机主要部件: 锅炉产生蒸汽;气缸和活塞,蒸汽推动活塞往复运动;配汽阀(滑阀)交替把蒸汽送到活塞两侧;曲柄连杆把往复运动变成旋转运动;飞轮使旋转平稳;调速器(离心飞球)转速太快时自动关小进汽;冷凝器(可选)把排汽冷凝成水,降低背压,提高效率,回收水。③双作用: 滑阀偏右时蒸汽进左侧推活塞向右,右侧排汽;滑阀偏左时蒸汽进右侧推活塞向左,左侧排汽,每转做功2次。④锅炉为什么会爆炸: 锅炉里储存着大量超过100°C的高压热水,一旦破裂压力骤降,热水瞬间沸腾成蒸汽,1 kg水变成100°C、1 atm的蒸汽体积膨胀约1700倍;安全阀绝不能堵死、压死;缺水最危险,炉膛上方的金属干烧过热、强度下降,此时突然补进冷水可能立即爆炸,发现严重缺水时先停火,让锅炉慢慢冷却,不要立即补水;没有专业设计和检验条件时,只使用常压或很低压力的装置" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>锅炉与蒸汽机</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="arG" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#777"/></marker>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">锅炉与双作用蒸汽机(示意)</text>
+<text x="360" y="52" font-size="15" text-anchor="middle">锅炉产生蒸汽 → 滑阀交替送到活塞两侧 → 曲柄连杆把往复运动变成旋转运动</text>
+
+<!-- ① 锅炉 -->
+<rect x="10" y="64" width="700" height="330" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="90" font-size="16" font-weight="bold">① 锅炉: 必须有的安全装置</text>
+<!-- 烟囱 -->
+<rect x="22" y="150" width="22" height="198" fill="#ddd" stroke="#333" stroke-width="2"/>
+<path d="M30,140 q-6,-8 0,-16 q6,-8 0,-16 M38,142 q-6,-8 0,-16" fill="none" stroke="#aaa" stroke-width="2"/>
+<rect x="42" y="282" width="20" height="30" fill="#fff"/>
+<path d="M44,282 H60 M44,312 H60" stroke="#333" stroke-width="2"/>
+<!-- 砖座和地面 -->
+<rect x="84" y="330" width="200" height="18" fill="#d9a77a" stroke="#333" stroke-width="1.5"/>
+<line x1="16" y1="348" x2="390" y2="348" stroke="#999" stroke-width="2"/>
+<!-- 锅筒 -->
+<path d="M82,210 H288 Q310,210 310,232 V308 Q310,330 288,330 H82 Q60,330 60,308 V232 Q60,210 82,210 Z" fill="#f7f7f7"/>
+<path d="M60,246 H310 V308 Q310,330 288,330 H82 Q60,330 60,308 Z" fill="#cfe0f0"/>
+<line x1="60" y1="246" x2="310" y2="246" stroke="#0b5cad" stroke-width="1.5"/>
+<path d="M82,210 H288 Q310,210 310,232 V308 Q310,330 288,330 H82 Q60,330 60,308 V232 Q60,210 82,210 Z" fill="none" stroke="#333" stroke-width="2.5"/>
+<text x="140" y="236" font-size="13" fill="#c33">蒸汽</text>
+<text x="96" y="268" font-size="13" fill="#0b5cad">水</text>
+<!-- 炉膛 -->
+<rect x="60" y="280" width="250" height="34" fill="#fff" stroke="#333" stroke-width="2"/>
+<path d="M240,306 q4,-14 10,-18 q-2,8 4,12 q2,-12 10,-16 q-2,10 4,14 q4,-10 10,-14 q-2,10 4,12 q4,-6 8,-8 q0,10 -6,18 Z" fill="#f6b26b" stroke="#c33" stroke-width="1.5"/>
+<path d="M236,308 H306" stroke="#555" stroke-width="2.5" stroke-dasharray="4 3"/>
+<rect x="308" y="284" width="8" height="26" fill="#555"/>
+<line x1="140" y1="297" x2="74" y2="297" stroke="#777" stroke-width="2" marker-end="url(#arG)"/>
+<text x="180" y="302" font-size="14" text-anchor="middle">炉膛</text>
+<!-- 安全阀 -->
+<rect x="102" y="194" width="16" height="16" fill="#c8cdd2" stroke="#333" stroke-width="1.8"/>
+<path d="M118,200 H128" stroke="#333" stroke-width="3"/>
+<path d="M110,194 l-6,-3 l12,-4 l-12,-4 l12,-4 l-12,-4 l6,-3" fill="none" stroke="#333" stroke-width="1.6"/>
+<rect x="100" y="168" width="20" height="5" fill="#555"/>
+<path d="M132,196 q4,-5 0,-10 q-4,-5 0,-10" fill="none" stroke="#aaa" stroke-width="1.8"/>
+<text x="110" y="156" font-size="14" text-anchor="middle" font-weight="bold">安全阀</text>
+<!-- 压力表 -->
+<path d="M170,210 V198" stroke="#333" stroke-width="3"/>
+<circle cx="170" cy="192" r="5" fill="none" stroke="#333" stroke-width="2"/>
+<circle cx="170" cy="171" r="14" fill="#fff" stroke="#333" stroke-width="2"/>
+<path d="M159,177 L162,174 M170,160 V164 M181,177 L178,174" stroke="#333" stroke-width="1.3"/>
+<line x1="170" y1="171" x2="178" y2="163" stroke="#c33" stroke-width="2"/>
+<text x="170" y="149" font-size="14" text-anchor="middle" font-weight="bold">压力表</text>
+<!-- 蒸汽出口 -->
+<path d="M236,210 V132" stroke="#333" stroke-width="10"/>
+<path d="M236,210 V133" stroke="#f8d4d4" stroke-width="6"/>
+<line x1="220" y1="196" x2="220" y2="146" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="222" y="120" font-size="14">蒸汽 → 去蒸汽机(见②)</text>
+<!-- 进水装置 -->
+<rect x="272" y="166" width="14" height="32" fill="#c8cdd2" stroke="#333" stroke-width="1.8"/>
+<path d="M279,166 V158 M266,162 L300,150" stroke="#333" stroke-width="2.5"/>
+<path d="M279,198 V212" stroke="#333" stroke-width="3"/>
+<path d="M279,212 V262" stroke="#0b5cad" stroke-width="2" stroke-dasharray="4 3"/>
+<path d="M286,190 H330" stroke="#333" stroke-width="2.5"/>
+<text x="334" y="194" font-size="12" fill="#555">补水</text>
+<text x="279" y="146" font-size="14" text-anchor="middle" font-weight="bold">进水装置</text>
+<!-- 水位计 -->
+<path d="M310,232 H324 M310,272 H324" stroke="#333" stroke-width="3"/>
+<rect x="322" y="226" width="9" height="52" rx="2" fill="#fff" stroke="#333" stroke-width="1.6"/>
+<rect x="323.5" y="246" width="6" height="30" fill="#9cc3e8"/>
+<text x="338" y="256" font-size="14" font-weight="bold">水位计</text>
+<!-- 缺水提示 -->
+<line x1="214" y1="362" x2="214" y2="281" stroke="#c33" stroke-width="1.3"/>
+<circle cx="214" cy="281" r="2.5" fill="#c33"/>
+<text x="24" y="378" font-size="14" fill="#c33">水位过低 → 炉膛上方的金属被干烧过热(见④)</text>
+<!-- 右栏 -->
+<g font-size="14">
+<text x="404" y="124" font-size="15" font-weight="bold">✓ 安全阀</text>
+<text x="420" y="145">压力超过设定值时自动打开排汽;</text>
+<text x="420" y="164" fill="#c33">必须定期检查,绝不能堵死、压死</text>
+<text x="404" y="198"><tspan font-size="15" font-weight="bold">✓ 压力表</tspan>: 随时看到压力</text>
+<text x="420" y="219" font-size="13" fill="#555">读数通常是“表压”(比大气压高出多少),</text>
+<text x="420" y="238" font-size="13" fill="#555">绝对压力 = 表压 + 约0.1 MPa</text>
+<text x="404" y="272"><tspan font-size="15" font-weight="bold">✓ 水位计</tspan>: 随时看到水位</text>
+<text x="404" y="306"><tspan font-size="15" font-weight="bold">✓ 进水装置</tspan>: 能在运行中补水</text>
+</g>
+
+<!-- ② 蒸汽机 -->
+<rect x="10" y="406" width="700" height="414" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="432" font-size="16" font-weight="bold">② 双作用蒸汽机: 主要部件(剖面,活塞正向右运动)</text>
+<!-- 进汽管和调速器 -->
+<path d="M18,496 H160 V512" fill="none" stroke="#333" stroke-width="10"/>
+<path d="M18,496 H160 V513" fill="none" stroke="#f8d4d4" stroke-width="6"/>
+<line x1="24" y1="482" x2="60" y2="482" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="22" y="524" font-size="13" fill="#555">来自锅炉</text>
+<circle cx="100" cy="496" r="8" fill="#fff" stroke="#333" stroke-width="2"/>
+<line x1="95" y1="502" x2="105" y2="490" stroke="#333" stroke-width="2"/>
+<path d="M100,488 V456" stroke="#333" stroke-width="2.5"/>
+<path d="M100,458 L84,474 M100,458 L116,474 M84,474 L100,482 M116,474 L100,482" fill="none" stroke="#333" stroke-width="1.8"/>
+<circle cx="84" cy="474" r="6" fill="#888" stroke="#333" stroke-width="1.5"/>
+<circle cx="116" cy="474" r="6" fill="#888" stroke="#333" stroke-width="1.5"/>
+<text x="126" y="466" font-size="14" font-weight="bold">调速器</text>
+<!-- 蒸汽室 -->
+<rect x="88" y="510" width="142" height="50" fill="#f8d4d4" stroke="#333" stroke-width="2.5"/>
+<!-- 缸体 -->
+<rect x="60" y="560" width="190" height="118" fill="#c8cdd2" stroke="#333" stroke-width="2.5"/>
+<rect x="66" y="600" width="88" height="68" fill="#f8d4d4"/>
+<rect x="170" y="600" width="74" height="68" fill="#e4e4e4"/>
+<rect x="66" y="600" width="178" height="68" fill="none" stroke="#333" stroke-width="1.8"/>
+<path d="M116,560 H128 V578 H82 V600 H70 V568 H116 Z" fill="#f8d4d4" stroke="#333" stroke-width="1.5"/>
+<path d="M186,560 H198 V568 H244 V600 H232 V578 H186 Z" fill="#e4e4e4" stroke="#333" stroke-width="1.5"/>
+<rect x="150" y="560" width="14" height="16" fill="#e4e4e4" stroke="#333" stroke-width="1.5"/>
+<circle cx="157" cy="581" r="7" fill="#e4e4e4" stroke="#333" stroke-width="1.5"/>
+<circle cx="157" cy="581" r="2" fill="#333"/>
+<path d="M88,560 H116 M128,560 H150 M164,560 H186 M198,560 H230" stroke="#333" stroke-width="2.5"/>
+<!-- 滑阀(偏右) -->
+<rect x="142" y="548" width="58" height="12" fill="#e4e4e4"/>
+<path d="M124,560 V538 H218 V560 H200 V548 H142 V560 Z" fill="#9aa3ad" stroke="#333" stroke-width="1.8"/>
+<path d="M218,549 H262" stroke="#555" stroke-width="4"/>
+<rect x="228" y="543" width="10" height="12" fill="#777"/>
+<!-- 活塞 -->
+<rect x="154" y="600" width="16" height="68" fill="#9aa3ad" stroke="#333" stroke-width="1.8"/>
+<path d="M158,600 V668 M166,600 V668" stroke="#555" stroke-width="1"/>
+<text x="104" y="632" font-size="13" fill="#c33" text-anchor="middle">蒸汽</text>
+<line x1="80" y1="648" x2="146" y2="648" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="207" y="621" font-size="13" fill="#444" text-anchor="middle">排汽</text>
+<!-- 活塞杆、十字头、导轨 -->
+<rect x="250" y="624" width="12" height="20" fill="#777" stroke="#333" stroke-width="1.5"/>
+<path d="M170,634 H382" stroke="#555" stroke-width="6"/>
+<path d="M290,620 H462 M290,648 H462" stroke="#555" stroke-width="3"/>
+<rect x="370" y="622" width="24" height="24" fill="#c8cdd2" stroke="#333" stroke-width="1.8"/>
+<!-- 飞轮 -->
+<circle cx="580" cy="634" r="86" fill="none" stroke="#555" stroke-width="10"/>
+<circle cx="580" cy="634" r="91" fill="none" stroke="#333" stroke-width="1.5"/>
+<circle cx="580" cy="634" r="81" fill="none" stroke="#333" stroke-width="1.5"/>
+<path d="M580,634 L650,593.5 M580,634 L650,674.5 M580,634 L580,715 M580,634 L510,674.5 M580,634 L510,593.5" stroke="#777" stroke-width="5"/>
+<circle cx="580" cy="634" r="13" fill="#c8cdd2" stroke="#333" stroke-width="2"/>
+<path d="M528,532 A118,118 0 0 1 632,532" fill="none" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<!-- 曲柄、连杆 -->
+<line x1="580" y1="634" x2="580" y2="564" stroke="#666" stroke-width="12" stroke-linecap="round"/>
+<line x1="382" y1="634" x2="580" y2="564" stroke="#888" stroke-width="7" stroke-linecap="round"/>
+<circle cx="382" cy="634" r="5" fill="#fff" stroke="#333" stroke-width="2"/>
+<circle cx="580" cy="564" r="6" fill="#fff" stroke="#333" stroke-width="2"/>
+<circle cx="580" cy="634" r="4" fill="#333"/>
+<line x1="300" y1="604" x2="356" y2="604" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<!-- 标注 -->
+<g font-size="14" font-weight="bold">
+<text x="276" y="530">配汽阀(滑阀)</text>
+<text x="96" y="704" text-anchor="middle">气缸</text>
+<text x="162" y="704" text-anchor="middle">活塞</text>
+<text x="452" y="596">连杆</text>
+<text x="594" y="586">曲柄</text>
+<text x="660" y="742">飞轮</text>
+<text x="266" y="584">排汽</text>
+</g>
+<g stroke="#555" stroke-width="1.2" fill="none">
+<path d="M272,526 L212,544"/>
+<path d="M96,690 V674"/>
+<path d="M162,690 V668"/>
+<path d="M654,730 L640,700"/>
+<path d="M262,580 L165,581"/>
+</g>
+<text x="300" y="584" font-size="13" fill="#555">→ 大气,或进冷凝器(可选)</text>
+<!-- 部件说明 -->
+<g font-size="14">
+<text x="24" y="764"><tspan font-weight="bold">气缸和活塞</tspan> → 蒸汽推动活塞往复运动;<tspan font-weight="bold">配汽阀(滑阀)</tspan> → 交替把蒸汽送到活塞两侧</text>
+<text x="24" y="785"><tspan font-weight="bold">曲柄连杆</tspan> → 把往复运动变成旋转运动;<tspan font-weight="bold">飞轮</tspan> → 使旋转平稳</text>
+<text x="24" y="806"><tspan font-weight="bold">调速器</tspan> → 转速太快时自动关小进汽(离心飞球);<tspan font-weight="bold">冷凝器(可选)</tspan> → 把排汽冷凝成水,降低背压,提高效率,回收水</text>
+</g>
+
+<!-- ③ 双作用 -->
+<rect x="10" y="832" width="700" height="180" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="858" font-size="16" font-weight="bold">③ 双作用: 滑阀来回移动,蒸汽轮流推活塞两侧(每转做功2次)</text>
+<line x1="360" y1="870" x2="360" y2="1000" stroke="#ddd" stroke-width="1.5"/>
+<!-- A: 活塞向右 -->
+<g transform="translate(-5,489.5) scale(0.75)">
+<path d="M160,500 V512" stroke="#333" stroke-width="10"/><path d="M160,500 V513" stroke="#f8d4d4" stroke-width="6"/>
+<rect x="88" y="510" width="142" height="50" fill="#f8d4d4" stroke="#333" stroke-width="2.5"/>
+<rect x="60" y="560" width="190" height="118" fill="#c8cdd2" stroke="#333" stroke-width="2.5"/>
+<rect x="66" y="600" width="98" height="68" fill="#f8d4d4"/>
+<rect x="180" y="600" width="64" height="68" fill="#e4e4e4"/>
+<rect x="66" y="600" width="178" height="68" fill="none" stroke="#333" stroke-width="1.8"/>
+<path d="M116,560 H128 V578 H82 V600 H70 V568 H116 Z" fill="#f8d4d4" stroke="#333" stroke-width="1.5"/>
+<path d="M186,560 H198 V568 H244 V600 H232 V578 H186 Z" fill="#e4e4e4" stroke="#333" stroke-width="1.5"/>
+<rect x="150" y="560" width="14" height="16" fill="#e4e4e4" stroke="#333" stroke-width="1.5"/>
+<circle cx="157" cy="581" r="7" fill="#e4e4e4" stroke="#333" stroke-width="1.5"/>
+<path d="M88,560 H116 M128,560 H150 M164,560 H186 M198,560 H230" stroke="#333" stroke-width="2.5"/>
+<rect x="142" y="548" width="58" height="12" fill="#e4e4e4"/>
+<path d="M124,560 V538 H218 V560 H200 V548 H142 V560 Z" fill="#9aa3ad" stroke="#333" stroke-width="1.8"/>
+<path d="M218,549 H262" stroke="#555" stroke-width="4"/>
+<rect x="164" y="600" width="16" height="68" fill="#9aa3ad" stroke="#333" stroke-width="1.8"/>
+<path d="M180,634 H300" stroke="#555" stroke-width="6"/>
+<rect x="250" y="624" width="12" height="20" fill="#777" stroke="#333" stroke-width="1.5"/>
+<line x1="80" y1="634" x2="156" y2="634" stroke="#c33" stroke-width="3.5" marker-end="url(#arR)"/>
+<line x1="248" y1="528" x2="290" y2="528" stroke="#0b5cad" stroke-width="3"/>
+<path d="M282,520 L292,528 L282,536" fill="none" stroke="#0b5cad" stroke-width="3"/>
+</g>
+<g font-size="14">
+<text x="240" y="904" font-weight="bold" fill="#0b5cad">滑阀偏右:</text>
+<text x="240" y="926">蒸汽进左侧,</text>
+<text x="240" y="948" fill="#c33">推活塞向右;</text>
+<text x="240" y="970">右侧排汽</text>
+</g>
+<!-- B: 活塞向左 -->
+<g transform="translate(350,489.5) scale(0.75)">
+<path d="M160,500 V512" stroke="#333" stroke-width="10"/><path d="M160,500 V513" stroke="#f8d4d4" stroke-width="6"/>
+<rect x="88" y="510" width="142" height="50" fill="#f8d4d4" stroke="#333" stroke-width="2.5"/>
+<rect x="60" y="560" width="190" height="118" fill="#c8cdd2" stroke="#333" stroke-width="2.5"/>
+<rect x="66" y="600" width="78" height="68" fill="#e4e4e4"/>
+<rect x="160" y="600" width="84" height="68" fill="#f8d4d4"/>
+<rect x="66" y="600" width="178" height="68" fill="none" stroke="#333" stroke-width="1.8"/>
+<path d="M116,560 H128 V578 H82 V600 H70 V568 H116 Z" fill="#e4e4e4" stroke="#333" stroke-width="1.5"/>
+<path d="M186,560 H198 V568 H244 V600 H232 V578 H186 Z" fill="#f8d4d4" stroke="#333" stroke-width="1.5"/>
+<rect x="150" y="560" width="14" height="16" fill="#e4e4e4" stroke="#333" stroke-width="1.5"/>
+<circle cx="157" cy="581" r="7" fill="#e4e4e4" stroke="#333" stroke-width="1.5"/>
+<path d="M88,560 H116 M128,560 H150 M164,560 H186 M198,560 H230" stroke="#333" stroke-width="2.5"/>
+<rect x="114" y="548" width="58" height="12" fill="#e4e4e4"/>
+<path d="M96,560 V538 H190 V560 H172 V548 H114 V560 Z" fill="#9aa3ad" stroke="#333" stroke-width="1.8"/>
+<path d="M190,549 H262" stroke="#555" stroke-width="4"/>
+<rect x="144" y="600" width="16" height="68" fill="#9aa3ad" stroke="#333" stroke-width="1.8"/>
+<path d="M160,634 H300" stroke="#555" stroke-width="6"/>
+<rect x="250" y="624" width="12" height="20" fill="#777" stroke="#333" stroke-width="1.5"/>
+<line x1="236" y1="652" x2="170" y2="652" stroke="#c33" stroke-width="3.5" marker-end="url(#arR)"/>
+<line x1="292" y1="528" x2="250" y2="528" stroke="#0b5cad" stroke-width="3"/>
+<path d="M258,520 L248,528 L258,536" fill="none" stroke="#0b5cad" stroke-width="3"/>
+</g>
+<g font-size="14">
+<text x="595" y="904" font-weight="bold" fill="#0b5cad">滑阀偏左:</text>
+<text x="595" y="926">蒸汽进右侧,</text>
+<text x="595" y="948" fill="#c33">推活塞向左;</text>
+<text x="595" y="970">左侧排汽</text>
+</g>
+
+<!-- ④ 警告 -->
+<rect x="10" y="1024" width="700" height="170" rx="8" fill="#fdf0f0" stroke="#c33" stroke-width="2"/>
+<text x="24" y="1050" font-size="16" font-weight="bold" fill="#c33">④ ⚠ 锅炉为什么会爆炸</text>
+<g font-size="14">
+<text x="24" y="1076">• 锅炉里储存着大量超过100°C的高压热水: 一旦破裂,压力骤降,热水瞬间沸腾成蒸汽</text>
+<text x="38" y="1096" fill="#555">(1 kg水变成100°C、1 atm的蒸汽,体积膨胀约1700倍)→ 锅炉越大、压力越高,威力越大</text>
+<text x="24" y="1120">• <tspan font-weight="bold" fill="#c33">安全阀绝不能堵死、压死</tspan>,必须定期检查</text>
+<text x="24" y="1144">• <tspan font-weight="bold" fill="#c33">缺水最危险</tspan>: 炉膛上方的金属干烧过热、强度下降,此时突然补进冷水,可能立即爆炸</text>
+<text x="38" y="1164" font-weight="bold">→ 发现严重缺水时,先停火,让锅炉慢慢冷却,不要立即补水</text>
+<text x="24" y="1186">• 没有专业设计和检验条件时,只使用常压或很低压力的装置</text>
+</g>
+</g>
+</svg>
