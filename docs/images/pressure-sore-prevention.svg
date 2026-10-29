@@ -1,0 +1,231 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 968" width="720" height="968" role="img" aria-label="长期卧床预防压疮: 1 平躺时后脑勺、肩胛骨、骶尾部、脚后跟最容易受压,用枕头、软垫把脚后跟架空;2 侧卧时背后垫枕头,身体倾斜约30°,不要正侧卧压在髋骨上;3 侧卧时耳朵、髋部、脚踝受压,两腿之间夹软枕;4 定时翻身至少每2小时一次,白天黑夜都要翻,平躺、左侧卧、平躺、右侧卧轮换,翻身时抬起身体不要拖拽;每天检查骨突部位,保持皮肤干燥清洁,床单平整无褶皱无碎屑,吃够蛋白质和水,有条件时用防压疮气垫床;皮肤发红按压后不褪色已经是早期压疮,这个部位不要再受压并增加翻身次数,皮肤破溃、发黑、流脓、有臭味要就医,不要按摩已经发红的部位">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>长期卧床预防压疮</title>
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="ab" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<!-- 小图标: 从床尾看的身体横截面,平躺 -->
+<g id="mSup">
+<line x1="-46" y1="20" x2="46" y2="20" stroke="#999" stroke-width="3"/>
+<ellipse cx="0" cy="7" rx="36" ry="13" fill="#cfe0f0" stroke="#333" stroke-width="2"/>
+<circle cx="0" cy="7" r="10" fill="#555"/>
+<circle cx="0" cy="5" r="9" fill="#f3e3d3"/>
+<circle cx="0" cy="7" r="10" fill="none" stroke="#333" stroke-width="1.5"/>
+<path d="M-3,-3 L0,-8 L3,-3" fill="#f3e3d3" stroke="#333" stroke-width="1.2"/>
+</g>
+<!-- 小图标: 侧卧约30°,背后垫枕头 -->
+<g id="mTilt">
+<line x1="-46" y1="20" x2="46" y2="20" stroke="#999" stroke-width="3"/>
+<path d="M4,18 L30,4 Q36,2 38,8 L42,16 Q43,20 38,20 L4,20 Z" fill="#e8e8e8" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<g transform="translate(0,-1) rotate(-30)">
+<ellipse cx="0" cy="0" rx="36" ry="13" fill="#cfe0f0" stroke="#333" stroke-width="2"/>
+<circle cx="0" cy="0" r="10" fill="#555"/>
+<circle cx="0" cy="-2" r="9" fill="#f3e3d3"/>
+<circle cx="0" cy="0" r="10" fill="none" stroke="#333" stroke-width="1.5"/>
+<path d="M-3,-10 L0,-15 L3,-10" fill="#f3e3d3" stroke="#333" stroke-width="1.2"/>
+</g>
+</g>
+</defs>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="14" fill="#222">
+<text x="360" y="30" font-size="18" font-weight="bold" text-anchor="middle">长期卧床预防压疮: 定时翻身,骨突部位不长时间受压</text>
+
+<!-- ① 平躺 -->
+<g transform="translate(10,44)">
+<rect x="0" y="0" width="700" height="240" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">① 平躺时: 这些骨突部位最容易受压</text>
+<!-- 床垫 -->
+<rect x="20" y="160" width="660" height="20" rx="4" fill="#eee" stroke="#999" stroke-width="2"/>
+<!-- 头下枕头 -->
+<ellipse cx="80" cy="150" rx="50" ry="12" fill="#e8e8e8" stroke="#333" stroke-width="2"/>
+<!-- 小腿下软枕 -->
+<ellipse cx="522" cy="146" rx="74" ry="15" fill="#e8e8e8" stroke="#333" stroke-width="2"/>
+<!-- 腿 -->
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M300,146 L440,144 L600,114" stroke="#333" stroke-width="24"/>
+<path d="M300,146 L440,144 L600,114" stroke="#cfe0f0" stroke-width="19"/>
+<path d="M606,114 L614,88" stroke="#333" stroke-width="17"/>
+<path d="M606,114 L614,88" stroke="#f3e3d3" stroke-width="12"/>
+</g>
+<!-- 躯干 -->
+<rect x="106" y="116" width="212" height="44" rx="20" fill="#cfe0f0" stroke="#333" stroke-width="2.5"/>
+<!-- 手臂放在身体旁 -->
+<g fill="none" stroke-linecap="round">
+<path d="M132,126 L276,134" stroke="#333" stroke-width="14"/>
+<path d="M132,126 L276,134" stroke="#cfe0f0" stroke-width="9"/>
+</g>
+<ellipse cx="286" cy="135" rx="9" ry="6" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<!-- 颈和头(脸朝上) -->
+<rect x="98" y="126" width="14" height="16" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<circle cx="82" cy="122" r="22" fill="#555"/>
+<circle cx="86" cy="118" r="19" fill="#f3e3d3"/>
+<circle cx="82" cy="122" r="22" fill="none" stroke="#333" stroke-width="2.5"/>
+<path d="M82,101 L88,92 L94,102" fill="#f3e3d3" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M70,108 Q74,104 78,108" fill="none" stroke="#333" stroke-width="1.8" stroke-linecap="round"/>
+<!-- 受压点 -->
+<g fill="#c33">
+<circle cx="80" cy="144" r="6"/>
+<circle cx="150" cy="160" r="6"/>
+<circle cx="296" cy="160" r="6"/>
+<circle cx="603" cy="126" r="6"/>
+</g>
+<g stroke="#c33" stroke-width="1.2">
+<line x1="80" y1="150" x2="80" y2="196"/>
+<line x1="150" y1="166" x2="150" y2="196"/>
+<line x1="296" y1="166" x2="296" y2="196"/>
+</g>
+<g fill="#c33" font-weight="bold" text-anchor="middle">
+<text x="80" y="214">后脑勺</text>
+<text x="150" y="214">肩胛骨</text>
+<text x="296" y="214">骶尾部</text>
+<text x="296" y="232" font-size="13" font-weight="normal">(屁股后面)</text>
+</g>
+<!-- 脚后跟架空 -->
+<path d="M603,134 L603,158" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#ab)" marker-end="url(#ab)"/>
+<text x="628" y="132" fill="#c33" font-weight="bold">脚后跟</text>
+<text x="620" y="152" font-size="13" fill="#0b5cad">架空</text>
+<line x1="510" y1="74" x2="522" y2="130" stroke="#0b5cad" stroke-width="1"/>
+<text x="400" y="60" font-size="13" fill="#0b5cad">用枕头、软垫垫在小腿下,</text>
+<text x="400" y="76" font-size="13" fill="#0b5cad">把脚后跟架空</text>
+<text x="420" y="214" font-size="13" fill="#555">这些部位每天都要检查皮肤</text>
+</g>
+
+<!-- ② 侧卧约30° -->
+<g transform="translate(10,294)">
+<rect x="0" y="0" width="345" height="276" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">② 侧卧: 身体倾斜约30°</text>
+<text x="16" y="48" font-size="13" fill="#555">(示意: 从床尾看身体横截面)</text>
+<rect x="20" y="200" width="305" height="16" rx="4" fill="#eee" stroke="#999" stroke-width="2"/>
+<!-- 背后枕头 -->
+<path d="M172,200 L176,180 L234,147 Q244,142 250,152 L278,190 Q284,200 272,200 Z" fill="#e8e8e8" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<!-- 躯干横截面 -->
+<g transform="translate(150,151) rotate(-30)">
+<ellipse cx="0" cy="0" rx="80" ry="32" fill="#cfe0f0" stroke="#333" stroke-width="2.5"/>
+<circle cx="0" cy="0" r="24" fill="#555"/>
+<circle cx="0" cy="-4" r="22" fill="#f3e3d3"/>
+<circle cx="0" cy="0" r="24" fill="none" stroke="#333" stroke-width="2"/>
+<path d="M-6,-23 L0,-33 L6,-23" fill="#f3e3d3" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+</g>
+<!-- 30°角 -->
+<line x1="129" y1="200" x2="262" y2="123" stroke="#0b5cad" stroke-width="1.2" stroke-dasharray="5 3"/>
+<path d="M194,200 A65,65 0 0 0 185,168" fill="none" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="198" y="194" font-size="16" font-weight="bold" fill="#0b5cad">30°</text>
+<line x1="292" y1="128" x2="262" y2="172" stroke="#0b5cad" stroke-width="1"/>
+<text x="258" y="104" font-size="13" fill="#0b5cad">背后</text>
+<text x="258" y="120" font-size="13" fill="#0b5cad">垫枕头</text>
+<text x="16" y="242">背后垫枕头,身体倾斜约30°</text>
+<text x="16" y="264" fill="#c33"><tspan font-weight="bold">✗</tspan> 不要正侧卧(压在髋骨上)</text>
+</g>
+
+<!-- ③ 侧卧受压部位 -->
+<g transform="translate(365,294)">
+<rect x="0" y="0" width="345" height="276" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">③ 侧卧时: 受压部位</text>
+<rect x="16" y="176" width="313" height="16" rx="4" fill="#eee" stroke="#999" stroke-width="2"/>
+<ellipse cx="54" cy="166" rx="38" ry="11" fill="#e8e8e8" stroke="#333" stroke-width="2"/>
+<!-- 下面的腿 -->
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M180,164 L250,164 L300,166" stroke="#333" stroke-width="22"/>
+<path d="M180,164 L250,164 L300,166" stroke="#cfe0f0" stroke-width="17"/>
+</g>
+<!-- 两腿之间软枕 -->
+<ellipse cx="252" cy="147" rx="48" ry="9" fill="#e8e8e8" stroke="#333" stroke-width="2"/>
+<!-- 上面的腿 -->
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M180,140 L250,132 L300,140" stroke="#333" stroke-width="22"/>
+<path d="M180,140 L250,132 L300,140" stroke="#cfe0f0" stroke-width="17"/>
+</g>
+<ellipse cx="312" cy="140" rx="9" ry="8" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<ellipse cx="312" cy="166" rx="9" ry="8" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<!-- 躯干 -->
+<rect x="74" y="118" width="122" height="58" rx="22" fill="#cfe0f0" stroke="#333" stroke-width="2.5"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M94,130 L150,142 L176,158" stroke="#333" stroke-width="14"/>
+<path d="M94,130 L150,142 L176,158" stroke="#cfe0f0" stroke-width="9"/>
+</g>
+<ellipse cx="182" cy="160" rx="8" ry="6" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<!-- 头(侧躺,头顶朝左) -->
+<rect x="68" y="139" width="12" height="14" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<circle cx="52" cy="146" r="20" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M33,152 Q28,130 46,126 Q38,140 41,160 Z" fill="#555"/>
+<ellipse cx="52" cy="126" rx="5" ry="4" fill="#f3e3d3" stroke="#333" stroke-width="1.5"/>
+<circle cx="57" cy="140" r="1.8" fill="#333"/>
+<circle cx="57" cy="152" r="1.8" fill="#333"/>
+<path d="M66,143 Q68,146 66,149" fill="none" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
+<!-- 受压点 -->
+<g fill="#c33">
+<circle cx="52" cy="166" r="6"/>
+<circle cx="180" cy="176" r="6"/>
+<circle cx="306" cy="176" r="6"/>
+</g>
+<g stroke="#c33" stroke-width="1.2">
+<line x1="52" y1="172" x2="52" y2="206"/>
+<line x1="180" y1="182" x2="180" y2="206"/>
+<line x1="306" y1="182" x2="306" y2="206"/>
+</g>
+<g fill="#c33" font-weight="bold" text-anchor="middle">
+<text x="52" y="224">耳朵</text>
+<text x="180" y="224">髋部</text>
+<text x="306" y="224">脚踝</text>
+</g>
+<line x1="230" y1="76" x2="246" y2="144" stroke="#0b5cad" stroke-width="1"/>
+<text x="180" y="70" font-size="13" fill="#0b5cad">两腿之间夹软枕</text>
+<text x="16" y="256">侧卧时耳朵、髋部、脚踝受压</text>
+</g>
+
+<!-- ④ 定时翻身 -->
+<g transform="translate(10,580)">
+<rect x="0" y="0" width="700" height="168" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">④ 定时翻身: <tspan fill="#c33">至少每2小时一次</tspan>,白天黑夜都要翻</text>
+<use href="#mSup" transform="translate(90,76)"/>
+<use href="#mTilt" transform="translate(265,76) scale(-1,1)"/>
+<use href="#mSup" transform="translate(440,76)"/>
+<use href="#mTilt" transform="translate(615,76)"/>
+<g text-anchor="middle" font-weight="bold">
+<text x="90" y="122">平躺</text>
+<text x="265" y="122">左侧卧</text>
+<text x="440" y="122">平躺</text>
+<text x="615" y="122">右侧卧</text>
+</g>
+<g stroke="#c33" stroke-width="2.5" fill="none">
+<path d="M144,82 L208,82" marker-end="url(#ar)"/>
+<path d="M319,82 L383,82" marker-end="url(#ar)"/>
+<path d="M494,82 L558,82" marker-end="url(#ar)"/>
+</g>
+<g font-size="13" fill="#c33" text-anchor="middle">
+<text x="176" y="72">2小时</text>
+<text x="351" y="72">2小时</text>
+<text x="526" y="72">2小时</text>
+</g>
+<text x="16" y="154" font-size="14">轮换往复;翻身时<tspan font-weight="bold">抬起身体,不要拖拽</tspan>(摩擦会损伤皮肤)</text>
+<text x="684" y="154" font-size="13" fill="#555" text-anchor="end">(从床尾看)</text>
+</g>
+
+<!-- 每天要做 -->
+<g transform="translate(10,758)">
+<rect x="0" y="0" width="345" height="200" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="#0b5cad">✓ 每天要做</text>
+<text x="16" y="58">· 检查骨突部位的皮肤</text>
+<text x="16" y="84">· 保持皮肤干燥清洁: 大小便后</text>
+<text x="30" y="104">及时清洗擦干</text>
+<text x="16" y="130">· 床单平整,无褶皱、无碎屑</text>
+<text x="16" y="156">· 吃够蛋白质和水</text>
+<text x="16" y="182">· 有条件时用防压疮气垫床</text>
+</g>
+
+<!-- 警示 -->
+<g transform="translate(365,758)">
+<rect x="0" y="0" width="345" height="200" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="#c33">⚠️ 发现这些情况</text>
+<!-- 按压不褪色 -->
+<rect x="250" y="40" width="80" height="54" rx="10" fill="#f3e3d3" stroke="#333" stroke-width="1.5"/>
+<ellipse cx="290" cy="70" rx="22" ry="14" fill="#e57373"/>
+<path d="M300,40 L300,22 Q300,14 308,14 Q316,14 316,22 L316,44 Q316,56 304,58 Z" fill="#f3e3d3" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<text x="16" y="58"><tspan font-weight="bold">皮肤发红,按压后不褪色</tspan></text>
+<text x="16" y="78">→ 已经是早期压疮:</text>
+<text x="16" y="98">这里不要再受压,增加翻身次数</text>
+<text x="16" y="130"><tspan font-weight="bold">破溃、发黑、流脓、有臭味</tspan> → 就医</text>
+<text x="16" y="162"><tspan fill="#c33" font-weight="bold">✗</tspan> 不要按摩已经发红的部位</text>
+<text x="34" y="182" font-size="13" fill="#555">会加重损伤</text>
+</g>
+</g>
+</svg>

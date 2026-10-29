@@ -1,0 +1,216 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 870" width="720" height="870" role="img" aria-label="预防老人跌倒的家里布置: 1 床边: 床的高度适中,坐下时膝盖约成直角,站起来不费力;床边有伸手就能打开的灯,床边装夜灯;2 卫生间: 马桶旁、淋浴处装扶手,用防滑的洗澡椅,卫生间、厨房铺防滑垫,地面有水及时擦干;3 走廊和地面: 去掉门槛或做成斜坡,清除地上的电线、杂物、小地毯,走廊装夜灯;4 楼梯: 两侧装扶手,上下都有开关;5 常用的东西放在不用弯腰、不用踩凳子就能拿到的地方,不用带轮子会滑动的椅子">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>预防老人跌倒: 家里的布置</title>
+<defs>
+<!-- 夜灯 -->
+<g id="nl">
+<g stroke="#e0a800" stroke-width="2" stroke-linecap="round">
+<line x1="-14" y1="-4" x2="-20" y2="-8"/><line x1="14" y1="-4" x2="20" y2="-8"/><line x1="0" y1="-16" x2="0" y2="-23"/><line x1="-10" y1="-13" x2="-15" y2="-19"/><line x1="10" y1="-13" x2="15" y2="-19"/>
+</g>
+<rect x="-8" y="-8" width="16" height="18" rx="4" fill="#fff" stroke="#333" stroke-width="1.8"/>
+<circle cx="0" cy="-1" r="5" fill="#f5c518"/>
+</g>
+<!-- 红叉 -->
+<g id="nx"><path d="M-8,-8 L8,8 M8,-8 L-8,8" stroke="#c33" stroke-width="3.5" stroke-linecap="round"/></g>
+<!-- 开关 -->
+<g id="sw"><rect x="-7" y="-10" width="14" height="20" rx="2" fill="#fff" stroke="#333" stroke-width="1.8"/><rect x="-3" y="-6" width="6" height="7" fill="#999"/></g>
+</defs>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="14" fill="#222">
+<text x="360" y="30" font-size="18" font-weight="bold" text-anchor="middle">预防老人跌倒: 家里的布置</text>
+
+<!-- ① 床边 -->
+<g transform="translate(10,44)">
+<rect x="0" y="0" width="345" height="300" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">① 床边</text>
+<line x1="12" y1="214" x2="333" y2="214" stroke="#999" stroke-width="3"/>
+<!-- 床 -->
+<rect x="16" y="140" width="170" height="20" rx="6" fill="#fff" stroke="#333" stroke-width="2"/>
+<rect x="16" y="160" width="170" height="16" fill="#e8e8e8" stroke="#333" stroke-width="2"/>
+<path d="M24,176 L24,212 M178,176 L178,212" stroke="#333" stroke-width="5" stroke-linecap="round"/>
+<path d="M16,214 L16,96 Q16,88 24,88 L30,88 L30,140" fill="none" stroke="#333" stroke-width="3"/>
+<ellipse cx="62" cy="132" rx="26" ry="9" fill="#e8e8e8" stroke="#333" stroke-width="2"/>
+<!-- 床头柜和台灯 -->
+<rect x="270" y="140" width="56" height="74" rx="3" fill="#f4ead8" stroke="#333" stroke-width="2"/>
+<line x1="270" y1="166" x2="326" y2="166" stroke="#333" stroke-width="1.5"/>
+<rect x="292" y="132" width="14" height="8" fill="#999" stroke="#333" stroke-width="1.5"/>
+<line x1="299" y1="132" x2="299" y2="104" stroke="#333" stroke-width="3"/>
+<path d="M282,104 L316,104 L308,80 L290,80 Z" fill="#fff6c8" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<use href="#nl" transform="translate(298,192)"/>
+<!-- 坐在床边的老人 -->
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M170,124 L226,124 L228,206" stroke="#333" stroke-width="22"/>
+<path d="M170,124 L226,124 L228,206" stroke="#cfe0f0" stroke-width="17"/>
+</g>
+<path d="M222,210 L250,210 Q256,210 256,214 L222,214 Z" fill="#666"/>
+<rect x="152" y="58" width="40" height="80" rx="16" fill="#cfe0f0" stroke="#333" stroke-width="2.5"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M178,74 L222,96 L280,102" stroke="#333" stroke-width="13"/>
+<path d="M178,74 L222,96 L280,102" stroke="#f3e3d3" stroke-width="8"/>
+</g>
+<circle cx="174" cy="40" r="16" fill="#ccc" stroke="#333" stroke-width="2.5"/>
+<circle cx="177" cy="43" r="13" fill="#f3e3d3"/>
+<circle cx="174" cy="40" r="16" fill="none" stroke="#333" stroke-width="2.5"/>
+<!-- 直角标注 -->
+<path d="M200,138 L214,138 L214,152" fill="none" stroke="#0b5cad" stroke-width="2"/>
+<text x="42" y="196" font-size="13" fill="#0b5cad">膝盖约成直角</text>
+<line x1="128" y1="190" x2="206" y2="150" stroke="#0b5cad" stroke-width="1"/>
+<text x="238" y="62" font-size="13" fill="#0b5cad">伸手能开的灯</text>
+<text x="246" y="232" font-size="13" fill="#0b5cad">床边夜灯</text>
+<text x="16" y="256">✓ 床高适中: 坐下时膝盖约成直角,</text>
+<text x="30" y="274">站起来不费力</text>
+<text x="16" y="292">✓ 床边伸手就能开的灯;床边装夜灯</text>
+</g>
+
+<!-- ② 卫生间 -->
+<g transform="translate(365,44)">
+<rect x="0" y="0" width="345" height="300" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">② 卫生间</text>
+<line x1="12" y1="214" x2="333" y2="214" stroke="#999" stroke-width="3"/>
+<!-- 马桶 -->
+<rect x="22" y="104" width="34" height="56" rx="4" fill="#fff" stroke="#333" stroke-width="2"/>
+<path d="M56,150 L104,150 Q110,150 108,158 Q100,180 82,184 L80,212 L58,212 L58,160 Z" fill="#fff" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<line x1="56" y1="146" x2="106" y2="146" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+<!-- 马桶旁扶手 -->
+<path d="M112,128 L112,120 L150,120 L150,128" fill="none" stroke="#0b5cad" stroke-width="2"/>
+<line x1="108" y1="120" x2="154" y2="120" stroke="#333" stroke-width="7" stroke-linecap="round"/>
+<line x1="108" y1="120" x2="154" y2="120" stroke="#bbb" stroke-width="3" stroke-linecap="round"/>
+<!-- 夜灯 -->
+<use href="#nl" transform="translate(146,186)"/>
+<!-- 淋浴区 -->
+<line x1="186" y1="44" x2="186" y2="214" stroke="#999" stroke-width="1.5" stroke-dasharray="5 4"/>
+<path d="M318,214 L318,64 Q318,56 310,56 L292,56 L292,66" fill="none" stroke="#333" stroke-width="3"/>
+<path d="M280,66 L304,66 L298,76 L286,76 Z" fill="#999" stroke="#333" stroke-width="1.5"/>
+<path d="M286,84 L282,96 M292,84 L292,98 M298,84 L302,96" stroke="#0b5cad" stroke-width="1.5" stroke-linecap="round"/>
+<!-- 淋浴扶手 -->
+<line x1="204" y1="96" x2="204" y2="166" stroke="#333" stroke-width="7" stroke-linecap="round"/>
+<line x1="204" y1="96" x2="204" y2="166" stroke="#bbb" stroke-width="3" stroke-linecap="round"/>
+<!-- 洗澡椅 -->
+<rect x="236" y="160" width="62" height="10" rx="4" fill="#fff" stroke="#333" stroke-width="2"/>
+<path d="M244,170 L240,208 M290,170 L294,208" stroke="#333" stroke-width="4" stroke-linecap="round"/>
+<path d="M232,208 L248,208 M286,208 L302,208" stroke="#333" stroke-width="5" stroke-linecap="round"/>
+<!-- 防滑垫 -->
+<rect x="190" y="208" width="136" height="6" fill="#bfe0c8" stroke="#333" stroke-width="1.5"/>
+<g fill="#333"><circle cx="200" cy="211" r="1.2"/><circle cx="212" cy="211" r="1.2"/><circle cx="224" cy="211" r="1.2"/><circle cx="260" cy="211" r="1.2"/><circle cx="272" cy="211" r="1.2"/><circle cx="310" cy="211" r="1.2"/><circle cx="322" cy="211" r="1.2"/></g>
+<!-- 标注 -->
+<line x1="128" y1="70" x2="130" y2="114" stroke="#0b5cad" stroke-width="1"/>
+<text x="96" y="64" font-size="13" fill="#0b5cad">扶手</text>
+<line x1="214" y1="70" x2="206" y2="94" stroke="#0b5cad" stroke-width="1"/>
+<text x="200" y="64" font-size="13" fill="#0b5cad">扶手</text>
+<line x1="266" y1="140" x2="266" y2="158" stroke="#0b5cad" stroke-width="1"/>
+<text x="236" y="134" font-size="13" fill="#0b5cad">防滑洗澡椅</text>
+<line x1="250" y1="226" x2="250" y2="214" stroke="#0b5cad" stroke-width="1"/>
+<text x="226" y="240" font-size="13" fill="#0b5cad">防滑垫</text>
+<text x="124" y="232" font-size="13" fill="#0b5cad">夜灯</text>
+<text x="16" y="256">✓ 马桶旁、淋浴处装扶手</text>
+<text x="16" y="274">✓ 洗澡用防滑的洗澡椅</text>
+<text x="16" y="292">✓ 卫生间、厨房铺防滑垫,地面有水及时擦干</text>
+</g>
+
+<!-- ③ 走廊和地面 -->
+<g transform="translate(10,354)">
+<rect x="0" y="0" width="345" height="300" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">③ 走廊和地面</text>
+<line x1="12" y1="214" x2="333" y2="214" stroke="#999" stroke-width="3"/>
+<!-- 门框和斜坡 -->
+<path d="M34,206 L34,70 L90,70 L90,206" fill="none" stroke="#333" stroke-width="3"/>
+<path d="M16,214 L34,206 L90,206 L108,214 Z" fill="#e8d6b8" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<line x1="70" y1="150" x2="62" y2="202" stroke="#0b5cad" stroke-width="1"/>
+<text x="40" y="128" font-size="13" fill="#0b5cad">门槛</text>
+<text x="40" y="144" font-size="13" fill="#0b5cad">做成斜坡</text>
+<!-- 电线 -->
+<path d="M120,212 Q130,200 140,210 Q150,220 160,206 Q168,196 176,210" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+<use href="#nx" transform="translate(148,176)"/>
+<text x="148" y="160" font-size="13" fill="#c33" text-anchor="middle">电线</text>
+<!-- 小地毯 -->
+<rect x="192" y="208" width="58" height="6" fill="#d9a0a0" stroke="#333" stroke-width="1.5"/>
+<path d="M188,214 L192,210 M188,208 L192,210 M254,214 L250,210 M254,208 L250,210" stroke="#333" stroke-width="1"/>
+<use href="#nx" transform="translate(221,176)"/>
+<text x="221" y="160" font-size="13" fill="#c33" text-anchor="middle">小地毯</text>
+<!-- 杂物 -->
+<rect x="268" y="190" width="26" height="22" fill="#f4ead8" stroke="#333" stroke-width="1.8"/>
+<circle cx="304" cy="206" r="7" fill="#fff" stroke="#333" stroke-width="1.8"/>
+<use href="#nx" transform="translate(290,176)"/>
+<text x="290" y="160" font-size="13" fill="#c33" text-anchor="middle">杂物</text>
+<!-- 走廊夜灯 -->
+<use href="#nl" transform="translate(240,100)"/>
+<text x="262" y="104" font-size="13" fill="#0b5cad">走廊夜灯</text>
+<text x="16" y="256">✓ 去掉门槛或做成斜坡</text>
+<text x="16" y="274">✓ 清除地上的电线、杂物、小地毯</text>
+<text x="16" y="292">✓ 走廊装夜灯</text>
+</g>
+
+<!-- ④ 楼梯 -->
+<g transform="translate(365,354)">
+<rect x="0" y="0" width="345" height="300" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">④ 楼梯</text>
+<line x1="12" y1="214" x2="80" y2="214" stroke="#999" stroke-width="3"/>
+<line x1="270" y1="84" x2="333" y2="84" stroke="#999" stroke-width="3"/>
+<path d="M80,214 L80,188 L118,188 L118,162 L156,162 L156,136 L194,136 L194,110 L232,110 L232,84 L270,84 L270,214 Z" fill="#f4ead8" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<!-- 远侧扶手 -->
+<path d="M66,152 L80,152 L270,32 L284,32" fill="none" stroke="#999" stroke-width="4" stroke-linecap="round" stroke-dasharray="8 4"/>
+<!-- 近侧扶手 -->
+<path d="M90,186 L90,148 M166,160 L166,100 M242,108 L242,52" stroke="#333" stroke-width="2"/>
+<path d="M76,148 L90,148 L280,28 L294,28" fill="none" stroke="#333" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M76,148 L90,148 L280,28 L294,28" fill="none" stroke="#bbb" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- 开关和灯 -->
+<use href="#sw" transform="translate(36,150)"/>
+<use href="#sw" transform="translate(306,58)"/>
+<g stroke="#e0a800" stroke-width="2" stroke-linecap="round">
+<path d="M20,140 L14,134 M52,140 L58,134 M290,48 L284,42 M322,48 L328,42"/>
+</g>
+<text x="16" y="186" font-size="13" fill="#0b5cad">楼下开关</text>
+<text x="290" y="108" font-size="13" fill="#0b5cad">楼上</text>
+<text x="290" y="124" font-size="13" fill="#0b5cad">开关</text>
+<line x1="190" y1="58" x2="200" y2="82" stroke="#0b5cad" stroke-width="1"/>
+<text x="120" y="54" font-size="13" fill="#0b5cad">两侧都装扶手</text>
+<text x="16" y="256">✓ 楼梯两侧装扶手</text>
+<text x="16" y="274">✓ 楼梯上下都有开关</text>
+</g>
+
+<!-- ⑤ 常用物品和椅子 -->
+<g transform="translate(10,664)">
+<rect x="0" y="0" width="700" height="196" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">⑤ 常用物品和椅子</text>
+<g transform="translate(0,18)">
+<line x1="16" y1="150" x2="330" y2="150" stroke="#999" stroke-width="3"/>
+<!-- 柜子 -->
+<rect x="150" y="40" width="80" height="110" fill="#f4ead8" stroke="#333" stroke-width="2"/>
+<line x1="150" y1="70" x2="230" y2="70" stroke="#333" stroke-width="2"/>
+<line x1="150" y1="104" x2="230" y2="104" stroke="#333" stroke-width="2"/>
+<rect x="162" y="86" width="14" height="18" fill="#fff" stroke="#333" stroke-width="1.5"/>
+<rect x="184" y="90" width="22" height="14" fill="#cfe0f0" stroke="#333" stroke-width="1.5"/>
+<rect x="160" y="88" width="62" height="18" rx="4" fill="none" stroke="#0b5cad" stroke-width="1.5" stroke-dasharray="4 3"/>
+<!-- 站立老人伸手 -->
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M92,108 L90,146 M104,108 L108,146" stroke="#333" stroke-width="16"/>
+<path d="M92,108 L90,146 M104,108 L108,146" stroke="#cfe0f0" stroke-width="11"/>
+</g>
+<rect x="80" y="58" width="34" height="56" rx="13" fill="#cfe0f0" stroke="#333" stroke-width="2.5"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M104,70 L130,88 L158,94" stroke="#333" stroke-width="12"/>
+<path d="M104,70 L130,88 L158,94" stroke="#f3e3d3" stroke-width="7"/>
+</g>
+<circle cx="97" cy="42" r="14" fill="#ccc" stroke="#333" stroke-width="2.5"/>
+<circle cx="100" cy="45" r="11" fill="#f3e3d3"/>
+<circle cx="97" cy="42" r="14" fill="none" stroke="#333" stroke-width="2.5"/>
+<text x="240" y="92" font-size="13" fill="#0b5cad">伸手</text>
+<text x="240" y="108" font-size="13" fill="#0b5cad">就能拿到</text>
+<text x="16" y="170" font-size="14">✓ 常用的东西放在不用弯腰、不用踩凳子就能拿到的地方</text>
+<!-- 带轮椅子 -->
+<g transform="translate(480,0)">
+<rect x="16" y="54" width="10" height="46" rx="4" fill="#cfe0f0" stroke="#333" stroke-width="2"/>
+<rect x="16" y="94" width="58" height="10" rx="4" fill="#cfe0f0" stroke="#333" stroke-width="2"/>
+<line x1="45" y1="104" x2="45" y2="126" stroke="#333" stroke-width="4"/>
+<path d="M18,128 L72,128" stroke="#333" stroke-width="4" stroke-linecap="round"/>
+<circle cx="20" cy="140" r="7" fill="#fff" stroke="#333" stroke-width="2"/>
+<circle cx="45" cy="140" r="7" fill="#fff" stroke="#333" stroke-width="2"/>
+<circle cx="70" cy="140" r="7" fill="#fff" stroke="#333" stroke-width="2"/>
+<use href="#nx" transform="translate(45,80) scale(2.4)"/>
+<text x="100" y="80" font-size="14" fill="#c33" font-weight="bold">✗ 不用带轮子</text>
+<text x="100" y="100" font-size="14" fill="#c33" font-weight="bold">会滑动的椅子</text>
+</g>
+<line x1="350" y1="30" x2="350" y2="150" stroke="#ddd" stroke-width="1.5"/>
+</g>
+</g>
+</g>
+</svg>

@@ -1,0 +1,182 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 690" width="720" height="690" role="img" aria-label="老人跌倒后: 先别急着扶起来,先问清楚哪里痛、能不能动、头有没有撞到、跌倒前有没有头晕胸闷心慌或一侧手脚无力;剧烈疼痛尤其髋部腰背颈部、一条腿明显变短脚尖向外歪、不能动或手脚麻木无力、头部受撞或意识不清呕吐、口角歪斜说话不清、胸痛呼吸困难时不要扶起,保持原位,拨打120,等待时用毯子保暖,头下垫软物,不要喂水和食物。没有明显受伤时帮助慢慢起来: 1 先侧身躺,休息一会儿;2 慢慢翻成跪姿,双手双膝着地;3 在一把结实的椅子旁,扶着椅子,先一只脚踩地成半跪;4 借力慢慢站起,转身坐到椅子上;5 坐着休息,观察有无疼痛、头晕;6 救助者在旁边保护,不要硬拉硬拽老人的胳膊。服用抗凝药的老人头部即使轻微碰撞也要就医">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>老人跌倒后: 先检查,再帮助慢慢起来</title>
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<!-- 老人的头(灰发),中心在原点 -->
+<g id="hd">
+<circle r="14" fill="#ccc"/>
+<circle cx="3" cy="3" r="11" fill="#f3e3d3"/>
+<circle r="14" fill="none" stroke="#333" stroke-width="2.5"/>
+</g>
+<!-- 结实的椅子(靠背在左) -->
+<g id="ch">
+<path d="M0,0 L0,-110" stroke="#8a5a2b" stroke-width="6" stroke-linecap="round"/>
+<rect x="-3" y="-60" width="56" height="9" rx="2" fill="#c9955c" stroke="#333" stroke-width="2"/>
+<path d="M50,-51 L50,0 M4,-51 L4,0" stroke="#8a5a2b" stroke-width="6" stroke-linecap="round"/>
+<path d="M0,-108 L0,-66" stroke="#333" stroke-width="1.2" fill="none"/>
+</g>
+</defs>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="14" fill="#222">
+<text x="360" y="30" font-size="18" font-weight="bold" text-anchor="middle">老人跌倒后: 先检查,别急着扶起来</text>
+
+<!-- 先问清楚 -->
+<g transform="translate(10,44)">
+<rect x="0" y="0" width="300" height="250" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="#0b5cad">1. 先问清楚</text>
+<text x="16" y="56">· 哪里痛?能不能动?</text>
+<text x="16" y="78">· 头有没有撞到?</text>
+<text x="16" y="100">· 跌倒前有没有头晕、胸闷、</text>
+<text x="28" y="120">心慌、一侧手脚无力?</text>
+<!-- 小图: 跌倒的老人和蹲下询问的人 -->
+<line x1="16" y1="226" x2="284" y2="226" stroke="#999" stroke-width="3"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M126,212 L156,206 L184,216" stroke="#333" stroke-width="17"/>
+<path d="M126,212 L156,206 L184,216" stroke="#cfe0f0" stroke-width="12"/>
+</g>
+<rect x="64" y="196" width="66" height="28" rx="12" fill="#cfe0f0" stroke="#333" stroke-width="2.5"/>
+<use href="#hd" transform="translate(48,208)"/>
+<!-- 蹲下的救助者 -->
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M244,200 L248,218 L272,218 M236,200 L210,198 L210,216" stroke="#333" stroke-width="16"/>
+<path d="M244,200 L248,218 L272,218 M236,200 L210,198 L210,216" stroke="#e6e6e6" stroke-width="11"/>
+<path d="M226,168 L206,186 L188,198" stroke="#333" stroke-width="12"/>
+<path d="M226,168 L206,186 L188,198" stroke="#f3e3d3" stroke-width="7"/>
+</g>
+<path d="M238,198 L232,160" stroke="#333" stroke-width="30" stroke-linecap="round"/>
+<path d="M238,198 L232,160" stroke="#e6e6e6" stroke-width="25" stroke-linecap="round"/>
+<circle cx="226" cy="132" r="14" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M212,130 Q212,116 226,116 Q240,116 240,130 Q234,122 226,122 Q218,122 212,130 Z" fill="#555"/>
+<path d="M140,136 L196,136 Q204,136 204,144 L204,160 Q204,168 196,168 L162,168 L150,178 L152,168 L140,168 Q132,168 132,160 L132,144 Q132,136 140,136 Z" fill="#fff" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="168" y="158" font-size="13" fill="#0b5cad" text-anchor="middle">哪里痛?</text>
+</g>
+
+<!-- 不要扶起 -->
+<g transform="translate(320,44)">
+<rect x="0" y="0" width="390" height="250" rx="8" fill="#fdecec" stroke="#c33" stroke-width="2"/>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="#c33">2. 有以下情况: 不要扶起,保持原位,拨打120</text>
+<g font-size="14">
+<text x="16" y="56">· 剧烈疼痛,尤其是髋部(大腿根部)、腰背、颈部</text>
+<text x="16" y="78">· 一条腿明显变短、脚尖向外歪(髋部骨折)</text>
+<text x="16" y="100">· 不能动,或手脚麻木无力</text>
+<text x="16" y="122">· 头部受撞,或出现意识不清、呕吐</text>
+<text x="16" y="144">· 口角歪斜、说话不清(可能是中风)</text>
+<text x="16" y="166">· 胸痛、呼吸困难(可能是心脏问题)</text>
+</g>
+<line x1="16" y1="184" x2="374" y2="184" stroke="#e8a0a0" stroke-width="1"/>
+<text x="16" y="208"><tspan font-weight="bold">等待时:</tspan> 用毯子保暖,在头下垫软物,</text>
+<text x="16" y="230">不要喂水和食物</text>
+</g>
+
+<text x="16" y="324" font-size="17" font-weight="bold" fill="#0b5cad">没有明显受伤时: 帮助慢慢起来</text>
+
+<!-- ① 侧身躺 -->
+<g transform="translate(10,336)">
+<rect x="0" y="0" width="167" height="236" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<circle cx="24" cy="24" r="14" fill="#c33"/>
+<text x="24" y="30" font-size="17" font-weight="bold" fill="#fff" text-anchor="middle">1</text>
+<text x="46" y="30" font-size="16" font-weight="bold">侧身躺</text>
+<line x1="8" y1="176" x2="159" y2="176" stroke="#999" stroke-width="3"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M104,162 L128,152 L150,164" stroke="#333" stroke-width="18"/>
+<path d="M104,162 L128,152 L150,164" stroke="#cfe0f0" stroke-width="13"/>
+</g>
+<ellipse cx="155" cy="166" rx="6" ry="8" fill="#666"/>
+<rect x="46" y="142" width="62" height="30" rx="12" fill="#cfe0f0" stroke="#333" stroke-width="2.5"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M56,150 L80,156 L96,150" stroke="#333" stroke-width="12"/>
+<path d="M56,150 L80,156 L96,150" stroke="#cfe0f0" stroke-width="7"/>
+</g>
+<use href="#hd" transform="translate(30,158) rotate(-90)"/>
+<text x="14" y="204" font-size="14">侧身躺,</text>
+<text x="14" y="224" font-size="14">先休息一会儿</text>
+</g>
+
+<!-- ② 跪姿 -->
+<g transform="translate(187,336)">
+<rect x="0" y="0" width="167" height="236" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<circle cx="24" cy="24" r="14" fill="#c33"/>
+<text x="24" y="30" font-size="17" font-weight="bold" fill="#fff" text-anchor="middle">2</text>
+<text x="46" y="30" font-size="16" font-weight="bold">翻成跪姿</text>
+<line x1="8" y1="176" x2="159" y2="176" stroke="#999" stroke-width="3"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M116,130 L118,166 L150,166" stroke="#333" stroke-width="18"/>
+<path d="M116,130 L118,166 L150,166" stroke="#cfe0f0" stroke-width="13"/>
+</g>
+<rect x="56" y="108" width="70" height="30" rx="12" fill="#cfe0f0" stroke="#333" stroke-width="2.5"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M68,126 L66,166" stroke="#333" stroke-width="13"/>
+<path d="M68,126 L66,166" stroke="#f3e3d3" stroke-width="8"/>
+</g>
+<ellipse cx="62" cy="170" rx="8" ry="4" fill="#f3e3d3" stroke="#333" stroke-width="1.8"/>
+<use href="#hd" transform="translate(40,118) rotate(-60)"/>
+<text x="14" y="204" font-size="14">慢慢翻成跪姿</text>
+<text x="14" y="224" font-size="14">(双手双膝着地)</text>
+</g>
+
+<!-- ③ 扶椅半跪 -->
+<g transform="translate(366,336)">
+<rect x="0" y="0" width="167" height="236" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<circle cx="24" cy="24" r="14" fill="#c33"/>
+<text x="24" y="30" font-size="17" font-weight="bold" fill="#fff" text-anchor="middle">3</text>
+<text x="46" y="30" font-size="16" font-weight="bold">扶椅半跪</text>
+<line x1="8" y1="176" x2="159" y2="176" stroke="#999" stroke-width="3"/>
+<use href="#ch" transform="translate(16,174)"/>
+<!-- 后腿: 膝盖着地 -->
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M122,130 L128,166 L154,166" stroke="#333" stroke-width="18"/>
+<path d="M122,130 L128,166 L154,166" stroke="#cfe0f0" stroke-width="13"/>
+</g>
+<!-- 躯干 -->
+<path d="M120,128 L110,94" stroke="#333" stroke-width="32" stroke-linecap="round"/>
+<path d="M120,128 L110,94" stroke="#cfe0f0" stroke-width="27" stroke-linecap="round"/>
+<!-- 前腿: 一只脚踩地 -->
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M120,132 L90,128 L92,166" stroke="#333" stroke-width="18"/>
+<path d="M120,132 L90,128 L92,166" stroke="#cfe0f0" stroke-width="13"/>
+</g>
+<path d="M78,166 L98,166 Q102,166 102,172 L78,172 Q74,172 78,166 Z" fill="#666"/>
+<!-- 手臂扶椅 -->
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M108,94 L86,112 L62,112" stroke="#333" stroke-width="13"/>
+<path d="M108,94 L86,112 L62,112" stroke="#f3e3d3" stroke-width="8"/>
+</g>
+<ellipse cx="58" cy="112" rx="7" ry="5" fill="#f3e3d3" stroke="#333" stroke-width="1.8"/>
+<use href="#hd" transform="translate(100,64) scale(-1,1)"/>
+<text x="14" y="204" font-size="14">扶着结实的椅子,</text>
+<text x="14" y="224" font-size="14">一只脚踩地成半跪</text>
+</g>
+
+<!-- ④ 站起坐下 -->
+<g transform="translate(543,336)">
+<rect x="0" y="0" width="167" height="236" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<circle cx="24" cy="24" r="14" fill="#c33"/>
+<text x="24" y="30" font-size="17" font-weight="bold" fill="#fff" text-anchor="middle">4</text>
+<text x="46" y="30" font-size="16" font-weight="bold">站起坐下</text>
+<line x1="8" y1="176" x2="159" y2="176" stroke="#999" stroke-width="3"/>
+<use href="#ch" transform="translate(30,174)"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M58,106 L100,108 L102,166" stroke="#333" stroke-width="18"/>
+<path d="M58,106 L100,108 L102,166" stroke="#cfe0f0" stroke-width="13"/>
+</g>
+<path d="M98,166 L118,166 Q122,166 122,172 L98,172 Z" fill="#666"/>
+<path d="M58,104 L56,84" stroke="#333" stroke-width="32" stroke-linecap="round"/>
+<path d="M58,104 L56,84" stroke="#cfe0f0" stroke-width="27" stroke-linecap="round"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M60,82 L74,100 L92,102" stroke="#333" stroke-width="13"/>
+<path d="M60,82 L74,100 L92,102" stroke="#f3e3d3" stroke-width="8"/>
+</g>
+<use href="#hd" transform="translate(60,56) scale(-1,1)"/>
+<text x="14" y="204" font-size="14">借力慢慢站起,</text>
+<text x="14" y="224" font-size="14">转身坐到椅子上</text>
+</g>
+
+<!-- 5 6 -->
+<g transform="translate(10,582)">
+<rect x="0" y="0" width="700" height="98" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28"><tspan font-weight="bold">5. 坐着休息</tspan>,观察有无疼痛、头晕</text>
+<text x="16" y="54"><tspan font-weight="bold" fill="#c33">6. 救助者在旁边保护,不要硬拉硬拽老人的胳膊</tspan></text>
+<text x="16" y="82" font-size="14" fill="#c33">⚠️ 服用抗凝药(如华法林)的老人,头部即使轻微碰撞也要就医</text>
+</g>
+</g>
+</svg>

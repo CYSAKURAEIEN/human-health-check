@@ -1,0 +1,189 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 874" width="720" height="874" role="img" aria-label="恒牙被撞掉(完整脱落): 最好15分钟内放回牙槽,牙齿在口外干放超过60分钟保住的希望就很小。1 只捏牙冠(露在嘴里的白色部分),不要碰牙根;2 有泥土时用牛奶或生理盐水轻轻冲几秒钟,不要用自来水冲洗,不要用刷子刷,不要用纸巾擦牙根;3 尽快放回原来的牙槽,和旁边的牙对比确认方向,用手指轻轻按回;4 咬住一块干净纱布或手帕固定;5 立即去看牙医或口腔急诊。无法放回时: 泡在牛奶或生理盐水里带去医院,成人也可以含在脸颊内侧用唾液保存(不要吞下);不要泡在清水里,不要用纸包着干放。乳牙撞掉不要放回去,可能伤到下面正在发育的恒牙牙胚;止血,带孩子看牙医;分不清乳牙还是恒牙时带着牙齿去看牙医">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>恒牙被撞掉: 捏牙冠、放回牙槽或泡牛奶</title>
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="ab" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<!-- 门牙: 牙冠在上(y -44..0),牙根在下(0..54) -->
+<g id="tooth">
+<path d="M-15,0 Q-12,30 -3,52 Q0,56 3,52 Q12,30 15,0 Z" fill="#f2e6c9" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M-15,0 L-17,-34 Q-16,-44 0,-44 Q16,-44 17,-34 L15,0 Q0,4 -15,0 Z" fill="#fff" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+</g>
+<g id="bad"><circle r="11" fill="#c33"/><path d="M-4.5,-4.5 L4.5,4.5 M4.5,-4.5 L-4.5,4.5" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/></g>
+<g id="good"><circle r="11" fill="#0b5cad"/><path d="M-5,0 L-1.5,4 L5,-4" fill="none" stroke="#fff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></g>
+</defs>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="14" fill="#222">
+<text x="360" y="30" font-size="18" font-weight="bold" text-anchor="middle">恒牙被撞掉(完整脱落)</text>
+
+<!-- 时间轴 -->
+<g transform="translate(10,44)">
+<rect x="0" y="0" width="700" height="100" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="26" font-size="16" font-weight="bold">时间是关键</text>
+<rect x="40" y="54" width="140" height="16" fill="#0b5cad"/>
+<rect x="180" y="54" width="380" height="16" fill="#cfe0f0"/>
+<rect x="560" y="54" width="120" height="16" fill="#c33"/>
+<g font-size="13" text-anchor="middle" fill="#555">
+<text x="40" y="88">0</text><text x="180" y="88">15分钟</text><text x="560" y="88">60分钟</text>
+</g>
+<text x="40" y="47" font-size="13" fill="#0b5cad" font-weight="bold">最好15分钟内放回牙槽</text>
+<text x="370" y="88" font-size="13" fill="#555" text-anchor="middle">越早越好</text>
+<text x="680" y="47" font-size="13" fill="#c33" text-anchor="end" font-weight="bold">口外干放超过60分钟: 保住的希望很小</text>
+</g>
+
+<!-- ① 捏牙冠 -->
+<g transform="translate(10,154)">
+<rect x="0" y="0" width="167" height="270" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="26" font-size="16" font-weight="bold">① 只捏牙冠</text>
+<g transform="translate(84,128)">
+<g transform="scale(1.35)"><use href="#tooth"/></g>
+<path d="M-70,-50 L-27,-30" stroke="#333" stroke-width="15" stroke-linecap="round"/>
+<path d="M-70,-50 L-27,-30" stroke="#f3e3d3" stroke-width="10.5" stroke-linecap="round"/>
+<path d="M70,-50 L27,-30" stroke="#333" stroke-width="15" stroke-linecap="round"/>
+<path d="M70,-50 L27,-30" stroke="#f3e3d3" stroke-width="10.5" stroke-linecap="round"/>
+</g>
+<use href="#good" x="22" y="46"/>
+<text x="38" y="51" font-size="13" fill="#0b5cad">牙冠(白色部分)</text>
+<line x1="118" y1="176" x2="96" y2="172" stroke="#c33" stroke-width="1"/>
+<use href="#bad" x="132" y="156"/>
+<text x="120" y="190" font-size="13" fill="#c33">牙根:</text>
+<text x="110" y="206" font-size="13" fill="#c33">不要碰</text>
+<text x="12" y="236">捏露在嘴里的白色部分,</text>
+<text x="12" y="258">不要碰牙根</text>
+</g>
+
+<!-- ② 冲一下 -->
+<g transform="translate(187,154)">
+<rect x="0" y="0" width="167" height="270" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="26" font-size="16" font-weight="bold">② 有泥土: 冲一下</text>
+<!-- 杯子倒出 -->
+<g transform="translate(62,80) rotate(120)">
+<path d="M-20,0 L20,0 L15,44 L-15,44 Z" fill="#fff" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+</g>
+<path d="M68,84 Q84,96 86,140" fill="none" stroke="#e6e0d0" stroke-width="5" stroke-linecap="round"/>
+<text x="92" y="62" font-size="12" fill="#555">牛奶或</text>
+<text x="92" y="77" font-size="12" fill="#555">生理盐水</text>
+<g transform="translate(88,150) rotate(90) scale(0.75)"><use href="#tooth"/></g>
+<path d="M150,132 L120,142" stroke="#333" stroke-width="11" stroke-linecap="round"/>
+<path d="M150,132 L120,142" stroke="#f3e3d3" stroke-width="7" stroke-linecap="round"/>
+<path d="M150,168 L120,158" stroke="#333" stroke-width="11" stroke-linecap="round"/>
+<path d="M150,168 L120,158" stroke="#f3e3d3" stroke-width="7" stroke-linecap="round"/>
+<text x="12" y="196" font-size="13" fill="#0b5cad">轻轻冲一下(几秒钟)</text>
+<text x="12" y="222" font-size="13" fill="#c33">✗ 不要用自来水冲洗</text>
+<text x="12" y="241" font-size="13" fill="#c33">✗ 不要用刷子刷</text>
+<text x="12" y="260" font-size="13" fill="#c33">✗ 不要用纸巾擦牙根</text>
+</g>
+
+<!-- ③ 放回牙槽 -->
+<g transform="translate(364,154)">
+<rect x="0" y="0" width="167" height="270" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="26" font-size="16" font-weight="bold">③ 放回原牙槽</text>
+<!-- 上牙(牙冠朝下) -->
+<g transform="translate(30,78) rotate(180) scale(0.8)"><use href="#tooth"/></g>
+<g transform="translate(138,78) rotate(180) scale(0.8)"><use href="#tooth"/></g>
+<path d="M8,34 L159,34 L159,74 Q140,82 122,74 Q104,82 84,74 Q64,82 46,74 Q28,82 8,74 Z" fill="#f2c4c4" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M74,76 Q84,64 94,76" fill="#c98f8f" stroke="#333" stroke-width="1.5"/>
+<g transform="translate(84,148) rotate(180) scale(0.8)"><use href="#tooth"/></g>
+<path d="M84,184 L84,166" stroke="#333" stroke-width="13" stroke-linecap="round"/>
+<path d="M84,184 L84,166" stroke="#f3e3d3" stroke-width="9" stroke-linecap="round"/>
+<path d="M112,140 L112,100" stroke="#c33" stroke-width="2.5" marker-end="url(#ar)"/>
+<text x="118" y="128" font-size="13" fill="#c33">轻轻</text>
+<text x="118" y="144" font-size="13" fill="#c33">按回</text>
+<text x="12" y="236">和旁边的牙对比,</text>
+<text x="12" y="258">确认方向,用手指按回</text>
+</g>
+
+<!-- ④ 咬纱布 -->
+<g transform="translate(541,154)">
+<rect x="0" y="0" width="169" height="270" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="26" font-size="16" font-weight="bold">④ 咬住纱布</text>
+<g transform="translate(30,78) rotate(180) scale(0.8)"><use href="#tooth"/></g>
+<g transform="translate(86,78) rotate(180) scale(0.8)"><use href="#tooth"/></g>
+<g transform="translate(142,78) rotate(180) scale(0.8)"><use href="#tooth"/></g>
+<path d="M8,34 L161,34 L161,74 Q142,82 124,74 Q106,82 86,74 Q66,82 48,74 Q30,82 8,74 Z" fill="#f2c4c4" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<g transform="translate(30,172) scale(0.75)"><use href="#tooth"/></g>
+<g transform="translate(86,172) scale(0.75)"><use href="#tooth"/></g>
+<g transform="translate(142,172) scale(0.75)"><use href="#tooth"/></g>
+<path d="M8,214 L161,214 L161,172 Q142,164 124,172 Q106,164 86,172 Q66,164 48,172 Q30,164 8,172 Z" fill="#f2c4c4" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<rect x="14" y="114" width="141" height="26" rx="12" fill="#fff" stroke="#333" stroke-width="2"/>
+<path d="M30,118 V136 M46,118 V136 M62,118 V136 M78,118 V136 M94,118 V136 M110,118 V136 M126,118 V136 M142,118 V136" stroke="#ccc" stroke-width="1"/>
+<text x="12" y="236">咬住一块干净纱布</text>
+<text x="12" y="258">或手帕固定</text>
+</g>
+
+<!-- ⑤ 立即看牙医 -->
+<g transform="translate(10,434)">
+<rect x="0" y="0" width="700" height="40" rx="8" fill="#fdecec" stroke="#c33" stroke-width="2"/>
+<text x="350" y="26" text-anchor="middle" font-size="16" font-weight="bold" fill="#c33">⑤ 立即去看牙医或口腔急诊(放回去了也要去)</text>
+</g>
+
+<!-- 无法放回时 -->
+<g transform="translate(10,484)">
+<rect x="0" y="0" width="700" height="190" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="26" font-size="16" font-weight="bold">无法放回时: 泡着带去医院</text>
+<!-- 牛奶 -->
+<g transform="translate(70,0)">
+<use href="#good" x="-40" y="48"/>
+<path d="M-26,56 L26,56 L20,132 L-20,132 Z" fill="#fff" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M-24,72 L24,72 L20,130 L-20,130 Z" fill="#f5efe0"/>
+<g transform="translate(0,104) rotate(-20) scale(0.45)"><use href="#tooth"/></g>
+<text x="0" y="156" text-anchor="middle">牛奶</text>
+</g>
+<!-- 生理盐水 -->
+<g transform="translate(196,0)">
+<use href="#good" x="-40" y="48"/>
+<path d="M-8,46 L8,46 L8,56 L20,64 L20,132 L-20,132 L-20,64 L-8,56 Z" fill="#eef4fb" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<rect x="-16" y="84" width="32" height="26" fill="#fff" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="0" y="102" font-size="11" fill="#0b5cad" text-anchor="middle">盐水</text>
+<text x="0" y="156" text-anchor="middle">生理盐水</text>
+</g>
+<!-- 含在脸颊内侧 -->
+<g transform="translate(334,0)">
+<use href="#good" x="-52" y="48"/>
+<circle cx="0" cy="92" r="36" fill="#f3e3d3" stroke="#333" stroke-width="2.2"/>
+<path d="M-26,66 Q-6,50 22,62" fill="none" stroke="#555" stroke-width="1.5"/>
+<path d="M34,82 L42,92 L34,96" fill="#f3e3d3" stroke="#333" stroke-width="1.8" stroke-linejoin="round"/>
+<circle cx="18" cy="80" r="2" fill="#333"/>
+<path d="M26,110 Q30,108 33,111" fill="none" stroke="#333" stroke-width="1.6"/>
+<ellipse cx="14" cy="108" rx="10" ry="7" fill="none" stroke="#0b5cad" stroke-width="1.5" stroke-dasharray="3 2"/>
+<text x="0" y="148" text-anchor="middle">成人: 含在脸颊内侧</text>
+<text x="0" y="166" text-anchor="middle" font-size="13" fill="#555">用唾液保存,不要吞下</text>
+</g>
+<line x1="456" y1="44" x2="456" y2="170" stroke="#ddd" stroke-width="1.5"/>
+<!-- 清水 -->
+<g transform="translate(530,0)">
+<use href="#bad" x="-40" y="48"/>
+<path d="M-26,56 L26,56 L20,132 L-20,132 Z" fill="#fff" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M-24,72 L24,72 L20,130 L-20,130 Z" fill="#dbeaf7"/>
+<g transform="translate(0,104) rotate(-20) scale(0.45)"><use href="#tooth"/></g>
+<text x="0" y="156" text-anchor="middle" fill="#c33">不泡清水</text>
+</g>
+<!-- 纸包干放 -->
+<g transform="translate(636,0)">
+<use href="#bad" x="-40" y="48"/>
+<path d="M-26,74 L22,64 L28,118 L-22,128 Z" fill="#fafafa" stroke="#333" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M-22,128 Q0,96 28,118" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<g transform="translate(2,96) rotate(70) scale(0.45)"><use href="#tooth"/></g>
+<text x="0" y="156" text-anchor="middle" fill="#c33">不用纸包干放</text>
+</g>
+</g>
+
+<!-- 乳牙 -->
+<g transform="translate(10,684)">
+<rect x="0" y="0" width="700" height="180" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="2"/>
+<text x="16" y="28" font-size="16" font-weight="bold" fill="#c33">⚠️ 乳牙(儿童换牙前的牙)撞掉: 不要放回去</text>
+<!-- 牙龈剖面: 乳牙槽下方的恒牙牙胚 -->
+<rect x="20" y="88" width="160" height="82" rx="6" fill="#f2c4c4" stroke="#333" stroke-width="2"/>
+<path d="M82,88 Q82,110 98,110 Q114,110 114,88" fill="#c98f8f" stroke="#333" stroke-width="1.5"/>
+<g transform="translate(98,146) scale(0.42)"><use href="#tooth"/></g>
+<ellipse cx="98" cy="148" rx="15" ry="22" fill="none" stroke="#0b5cad" stroke-width="1.2" stroke-dasharray="3 2"/>
+<g transform="translate(60,62) rotate(180) scale(0.45)"><use href="#tooth"/></g>
+<path d="M72,62 Q90,60 96,84" fill="none" stroke="#c33" stroke-width="2" stroke-dasharray="4 3" marker-end="url(#ar)"/>
+<use href="#bad" x="130" y="64"/>
+<line x1="150" y1="128" x2="114" y2="144" stroke="#0b5cad" stroke-width="1"/>
+<text x="140" y="122" font-size="12" fill="#0b5cad">恒牙牙胚</text>
+<text x="200" y="66">· 放回去可能伤到下面正在发育的<tspan font-weight="bold">恒牙牙胚</tspan></text>
+<text x="200" y="94">· 止血,带孩子看牙医检查</text>
+<text x="200" y="122">· 判断不了是乳牙还是恒牙时,带着牙齿去看牙医</text>
+</g>
+</g>
+</svg>
