@@ -1,0 +1,146 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 836" width="720" height="836" role="img" aria-label="台钳与锉削。①台钳固定在台边,钳口高度约在操作者的肘部高度,太高太低都会让锉削不平、容易疲劳。②锉刀只在向前推时切削,拉回时轻轻提起或不加压;两手配合,前手压锉尖,后手推锉柄,保持锉刀水平前进;锉削不平的最常见原因是锉刀在推的过程中上下晃动。③交叉锉: 换着方向锉,容易看出哪里高、哪里低。④顺向锉(推锉): 最后修光时,锉刀横握,沿工件长度方向推拉。⑤检查平面: 用角尺或直尺的刃口贴在工件上,对着光看缝隙。夹持已经加工好的表面时钳口垫上铜皮、铝皮或硬木;工件伸出钳口的部分尽量短;锉屑塞住锉齿时用钢丝刷顺着齿纹刷干净;不要在锉刀上抹油,不要用手摸锉过的表面;新锉刀先锉铜、铝等软材料再锉钢,不要锉淬过火的钢;金属切屑和毛刺锋利,不要用手抹切屑,用刷子或钩子清理" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>台钳与锉削</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<marker id="arB0" viewBox="0 0 10 10" refX="2" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M10,0 L0,5 L10,10 Z" fill="#0b5cad"/></marker>
+<pattern id="hA" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(35)"><path d="M0,0 V8" stroke="#0b5cad" stroke-width="1" opacity="0.6"/></pattern>
+<pattern id="hB" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(-35)"><path d="M0,0 V8" stroke="#c33" stroke-width="1" opacity="0.6"/></pattern>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">锉削: 只在向前推时切削,保持锉刀水平前进</text>
+<text x="360" y="52" font-size="15" text-anchor="middle">台钳钳口约在肘部高度;前手压锉尖,后手推锉柄</text>
+
+<!-- ① 台钳高度 -->
+<rect x="10" y="64" width="270" height="406" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="90" font-size="16" font-weight="bold">① 台钳高度</text>
+<line x1="20" y1="400" x2="270" y2="400" stroke="#999" stroke-width="2"/>
+<!-- 钳工台 -->
+<rect x="150" y="253" width="124" height="12" fill="#d9b38c" stroke="#333" stroke-width="1.8"/>
+<rect x="160" y="265" width="10" height="135" fill="#d9b38c" stroke="#333" stroke-width="1.5"/>
+<rect x="254" y="265" width="10" height="135" fill="#d9b38c" stroke="#333" stroke-width="1.5"/>
+<text x="232" y="290" font-size="13" text-anchor="middle" fill="#555">钳工台</text>
+<!-- 台钳 -->
+<rect x="150" y="245" width="48" height="8" fill="#6f7983" stroke="#333" stroke-width="1.5"/>
+<rect x="156" y="220" width="38" height="25" fill="#8a949e" stroke="#333" stroke-width="1.8"/>
+<rect x="156" y="214" width="16" height="8" fill="#8a949e" stroke="#333" stroke-width="1.5"/>
+<rect x="178" y="214" width="16" height="8" fill="#8a949e" stroke="#333" stroke-width="1.5"/>
+<rect x="172" y="207" width="6" height="22" fill="#d6dde4" stroke="#333" stroke-width="1.2"/>
+<path d="M156,236 H134 M134,228 V244" stroke="#555" stroke-width="3"/>
+<text x="226" y="236" font-size="13" fill="#555">台钳</text>
+<line x1="222" y1="232" x2="196" y2="230" stroke="#555" stroke-width="1"/>
+<!-- 人 -->
+<rect x="58" y="262" width="13" height="136" rx="5" fill="#9fb8d0" stroke="#333" stroke-width="2"/>
+<rect x="72" y="262" width="13" height="136" rx="5" fill="#9fb8d0" stroke="#333" stroke-width="2"/>
+<path d="M54,398 H72 M70,398 H92" stroke="#333" stroke-width="5" stroke-linecap="round"/>
+<rect x="54" y="146" width="36" height="122" rx="12" fill="#cfe0f0" stroke="#333" stroke-width="2"/>
+<circle cx="72" cy="124" r="16" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M76,158 L80,214 L156,205" fill="none" stroke="#333" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M76,158 L80,214 L150,206" fill="none" stroke="#cfe0f0" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- 锉刀 -->
+<rect x="146" y="200" width="22" height="7" rx="3" fill="#c9a66b" stroke="#333" stroke-width="1.2"/>
+<path d="M168,201 H226 L234,203 V205 L226,207 H168 Z" fill="#aab2ba" stroke="#333" stroke-width="1.2"/>
+<circle cx="156" cy="204" r="7" fill="#f3e3d3" stroke="#333" stroke-width="1.8"/>
+<!-- 高度线 -->
+<line x1="88" y1="214" x2="196" y2="214" stroke="#0b5cad" stroke-width="1.6" stroke-dasharray="5 3"/>
+<circle cx="80" cy="214" r="3.5" fill="#0b5cad"/>
+<text x="118" y="190" font-size="12" fill="#0b5cad" text-anchor="middle">肘部</text>
+<line x1="108" y1="194" x2="84" y2="210" stroke="#0b5cad" stroke-width="1"/>
+<text x="24" y="428" font-size="14" font-weight="bold" fill="#0b5cad">钳口高度约在操作者的肘部高度</text>
+<text x="24" y="450" font-size="13">太高太低都会让锉削不平、容易疲劳</text>
+
+<!-- ② 推锉 -->
+<rect x="290" y="64" width="420" height="406" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="304" y="90" font-size="16" font-weight="bold">② 锉刀只在向前推时切削</text>
+<text x="480" y="118" font-size="14" font-weight="bold" fill="#c33" text-anchor="middle">向前推: 切削</text>
+<line x1="400" y1="130" x2="560" y2="130" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<line x1="560" y1="154" x2="400" y2="154" stroke="#0b5cad" stroke-width="2.5" stroke-dasharray="7 4" marker-end="url(#arB)"/>
+<text x="480" y="176" font-size="14" fill="#0b5cad" text-anchor="middle">拉回: 轻轻提起或不加压</text>
+<!-- 台钳和工件 -->
+<rect x="430" y="232" width="180" height="70" fill="#8a949e" stroke="#333" stroke-width="2"/>
+<rect x="420" y="302" width="200" height="10" fill="#6f7983" stroke="#333" stroke-width="1.5"/>
+<rect x="444" y="220" width="152" height="40" fill="#d6dde4" stroke="#333" stroke-width="1.8"/>
+<text x="520" y="248" font-size="13" text-anchor="middle" fill="#555">工件(伸出钳口要短)</text>
+<text x="520" y="290" font-size="13" text-anchor="middle" fill="#eee">台钳</text>
+<!-- 锉刀 -->
+<path d="M320,211 Q320,204 328,204 H380 V220 H328 Q320,220 320,213 Z" fill="#c9a66b" stroke="#333" stroke-width="1.8"/>
+<rect x="380" y="205" width="7" height="14" fill="#999" stroke="#333" stroke-width="1.2"/>
+<path d="M387,206 H640 L662,210 V216 L640,220 H387 Z" fill="#aab2ba" stroke="#333" stroke-width="1.8"/>
+<path d="M400,219 l4,-12 M416,219 l4,-12 M432,219 l4,-12 M448,219 l4,-12 M464,219 l4,-12 M480,219 l4,-12 M496,219 l4,-12 M512,219 l4,-12 M528,219 l4,-12 M544,219 l4,-12 M560,219 l4,-12 M576,219 l4,-12 M592,219 l4,-12 M608,219 l4,-12 M624,219 l4,-12" stroke="#777" stroke-width="1"/>
+<!-- 手 -->
+<ellipse cx="350" cy="212" rx="22" ry="15" fill="#f3e3d3" stroke="#333" stroke-width="1.8"/>
+<ellipse cx="638" cy="198" rx="20" ry="9" fill="#f3e3d3" stroke="#333" stroke-width="1.8"/>
+<line x1="638" y1="150" x2="638" y2="184" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<text x="638" y="142" font-size="14" text-anchor="middle" font-weight="bold">前手压锉尖</text>
+<line x1="306" y1="244" x2="352" y2="244" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<text x="338" y="268" font-size="14" text-anchor="middle" font-weight="bold">后手推锉柄</text>
+<text x="520" y="336" font-size="14" text-anchor="middle" fill="#0b5cad" font-weight="bold">两手配合,保持锉刀水平前进</text>
+<!-- 晃动 -->
+<line x1="304" y1="352" x2="696" y2="352" stroke="#ddd" stroke-width="1.5"/>
+<path d="M330,444 V416 Q400,394 470,416 V444 Z" fill="#d6dde4" stroke="#333" stroke-width="1.8"/>
+<g transform="rotate(-9 400 400)"><path d="M318,396 H340 V404 H318 Z" fill="#c9a66b" stroke="#333" stroke-width="1.2"/><path d="M340,397 H470 L480,399 V401 L470,403 H340 Z" fill="#aab2ba" stroke="#333" stroke-width="1.2"/></g>
+<g transform="rotate(9 400 400)" opacity="0.45"><path d="M318,396 H340 V404 H318 Z" fill="#c9a66b" stroke="#333" stroke-width="1.2"/><path d="M340,397 H470 L480,399 V401 L470,403 H340 Z" fill="#aab2ba" stroke="#333" stroke-width="1.2"/></g>
+<path d="M486,368 Q500,400 486,428" fill="none" stroke="#c33" stroke-width="2.5" marker-start="url(#arR)" marker-end="url(#arR)"/>
+<text x="512" y="400" font-size="15" font-weight="bold" fill="#c33">✗ 推的过程中上下晃动</text>
+<text x="512" y="422" font-size="14">→ 锉削不平</text>
+<text x="512" y="442" font-size="13" fill="#555">(最常见的原因)</text>
+
+<!-- ③ 交叉锉 -->
+<g transform="translate(10,482)">
+<rect width="226" height="224" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="26" font-size="16" font-weight="bold">③ 交叉锉</text>
+<text x="214" y="26" font-size="12" fill="#555" text-anchor="end">(俯视)</text>
+<rect x="44" y="52" width="138" height="100" fill="#d6dde4" stroke="#333" stroke-width="1.8"/>
+<rect x="44" y="52" width="138" height="100" fill="url(#hA)"/>
+<rect x="44" y="52" width="138" height="100" fill="url(#hB)"/>
+<line x1="38" y1="146" x2="182" y2="62" stroke="#0b5cad" stroke-width="3" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<line x1="44" y1="62" x2="188" y2="146" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<text x="113" y="184" font-size="14" text-anchor="middle">换着方向锉,</text>
+<text x="113" y="204" font-size="14" text-anchor="middle">容易看出哪里高、哪里低</text>
+</g>
+
+<!-- ④ 顺向锉 -->
+<g transform="translate(247,482)">
+<rect width="226" height="224" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="26" font-size="16" font-weight="bold">④ 顺向锉(推锉)</text>
+<text x="214" y="26" font-size="12" fill="#555" text-anchor="end">(俯视)</text>
+<rect x="18" y="88" width="190" height="28" fill="#d6dde4" stroke="#333" stroke-width="1.8"/>
+<path d="M106,48 H120 V156 L113,160 L106,156 Z" fill="#aab2ba" stroke="#333" stroke-width="1.6"/>
+<path d="M106,60 l14,6 M106,72 l14,6 M106,84 l14,6 M106,96 l14,6 M106,108 l14,6 M106,120 l14,6 M106,132 l14,6 M106,144 l14,6" stroke="#777" stroke-width="1"/>
+<ellipse cx="113" cy="56" rx="16" ry="10" fill="#f3e3d3" stroke="#333" stroke-width="1.6"/>
+<ellipse cx="113" cy="150" rx="16" ry="10" fill="#f3e3d3" stroke="#333" stroke-width="1.6"/>
+<line x1="60" y1="102" x2="96" y2="102" stroke="#0b5cad" stroke-width="3" marker-start="url(#arB0)"/>
+<line x1="130" y1="102" x2="168" y2="102" stroke="#0b5cad" stroke-width="3" marker-end="url(#arB)"/>
+<text x="113" y="184" font-size="14" text-anchor="middle">最后修光时,锉刀横握,</text>
+<text x="113" y="204" font-size="14" text-anchor="middle">沿工件长度方向推拉</text>
+</g>
+
+<!-- ⑤ 检查平面 -->
+<g transform="translate(484,482)">
+<rect width="226" height="224" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="26" font-size="16" font-weight="bold">⑤ 检查平面</text>
+<path d="M200,44 L184,64 M210,58 L188,70 M212,76 L190,78" stroke="#e0a800" stroke-width="2"/>
+<circle cx="206" cy="50" r="0" fill="none"/>
+<text x="206" y="98" font-size="12" fill="#555" text-anchor="end">光</text>
+<path d="M30,116 Q113,134 196,116 V150 H30 Z" fill="#d6dde4" stroke="#333" stroke-width="1.8"/>
+<path d="M30,116 Q113,134 196,116 Z" fill="#ffe28a"/>
+<rect x="22" y="104" width="182" height="12" fill="#c8cdd2" stroke="#333" stroke-width="1.6"/>
+<text x="113" y="98" font-size="12" text-anchor="middle" fill="#555">直尺(刃口朝下)</text>
+<text x="113" y="146" font-size="12" text-anchor="middle" fill="#555">工件</text>
+<line x1="150" y1="160" x2="122" y2="122" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="152" y="172" font-size="12" fill="#0b5cad">缝隙</text>
+<text x="113" y="190" font-size="13" text-anchor="middle">用角尺或直尺的刃口贴在工件上,</text>
+<text x="113" y="208" font-size="13" text-anchor="middle">对着光看缝隙</text>
+</g>
+
+<!-- 注意事项 -->
+<g font-size="14">
+<text x="16" y="734">✓ 夹持已经加工好的表面时,钳口垫上铜皮、铝皮或硬木,防止夹伤</text>
+<text x="16" y="756">✓ 锉屑塞住锉齿时,用钢丝刷(锉刀刷)顺着齿纹刷干净</text>
+<text x="16" y="778">✗ 不要在锉刀上抹油,不要用手摸锉过的表面(都会让锉刀打滑)</text>
+<text x="16" y="800">✗ 新锉刀先锉铜、铝等软材料,再锉钢;不要锉淬过火的钢(会磨损锉刀)</text>
+<text x="16" y="824" font-weight="bold" fill="#c33">⚠ 金属切屑和毛刺锋利: 不要用手抹切屑,用刷子或钩子清理</text>
+</g>
+</g>
+</svg>
