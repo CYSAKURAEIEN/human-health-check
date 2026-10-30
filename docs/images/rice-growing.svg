@@ -182,9 +182,9 @@
 <text x="548" y="244" fill="#c33">最怕缺水,</text><text x="548" y="260" fill="#c33">缺水空瘪粒多</text>
 <text x="644" y="244" fill="#c33" font-weight="bold">收获前7-10天</text><text x="644" y="260" fill="#c33" font-weight="bold">断水</text>
 </g>
-<path d="M24 280 H686" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
-<text x="24" y="274" font-size="12" fill="#c33">移栽</text>
-<text x="676" y="271" font-size="12" fill="#c33" text-anchor="end">收获</text>
+<path d="M50 280 H650" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<text x="20" y="284" font-size="12" fill="#c33">移栽</text>
+<text x="656" y="284" font-size="12" fill="#c33">收获</text>
 <text x="350" y="302" font-size="12" text-anchor="middle" fill="#555">晒田必须在幼穗分化(拔节)以前晒完;晒到田面有细裂缝、踩下去不陷脚</text>
 <text x="350" y="320" font-size="12" text-anchor="middle" fill="#555">裂缝宽到能伸进手指 = 晒过头,立即复水(先灌浅水)</text>
 </g>
