@@ -1,0 +1,157 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 774" width="720" height="774" role="img" aria-label="一日徒步也要按可能要在野外过一夜来准备。穿着: 合脚的登山鞋或运动鞋,不要穿新鞋;速干衣物,不穿棉质衣服,棉衣湿了不保暖,是失温的重要原因;长裤,裤腿扎进袜子,防蜱虫、防划伤;建议带登山杖,过河、下坡时很有用,还有帽子、墨镜、防晒霜。背包里: 保暖层,抓绒衣或轻薄羽绒服,夏天的山上也要带;防雨,雨衣或冲锋衣。其他必带: 手机和充满的充电宝,头灯或手电加备用电池,足够的水一般每人至少1.5-2 L,高能量食物,哨子,急救包,应急保温毯,打火机。建议带离线地图、指南针、驱虫剂。常见的被困原因: 只带了一件T恤,没有保暖和防雨的衣物;只靠手机导航;天黑还在山里">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>一日徒步的穿着和必带装备</title>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="14" fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">一日徒步: 按"可能要在野外过一夜"来准备</text>
+<text x="360" y="50" font-size="14" fill="#555" text-anchor="middle">即使只计划走几个小时,也带上保暖、防雨和照明</text>
+
+<!-- ① 穿着 -->
+<g transform="translate(10,64)">
+<rect x="0" y="0" width="380" height="550" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">① 穿着</text>
+<path d="M20,446 L360,446" stroke="#999" stroke-width="3"/>
+<!-- 背包(从正面只露出两边) -->
+<rect x="150" y="134" width="80" height="108" rx="12" fill="#d6c29a" stroke="#333" stroke-width="2"/>
+<!-- 腿: 长裤 -->
+<g fill="none" stroke-linecap="round">
+<path d="M178,256 L174,404 M202,256 L206,404" stroke="#333" stroke-width="28"/>
+<path d="M178,256 L174,404 M202,256 L206,404" stroke="#8da4bd" stroke-width="23"/>
+</g>
+<!-- 袜子 -->
+<rect x="161" y="398" width="26" height="22" rx="4" fill="#eee" stroke="#333" stroke-width="2"/>
+<rect x="193" y="398" width="26" height="22" rx="4" fill="#eee" stroke="#333" stroke-width="2"/>
+<path d="M164,404 L184,404 M196,404 L216,404" stroke="#999" stroke-width="1.5"/>
+<!-- 鞋 -->
+<path d="M158,420 L188,420 L190,444 L150,444 Q150,432 158,420 Z" fill="#6b5530" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M192,420 L222,420 Q230,432 230,444 L190,444 Z" fill="#6b5530" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<!-- 躯干: 速干上衣 -->
+<rect x="160" y="136" width="60" height="128" rx="18" fill="#cfe0f0" stroke="#333" stroke-width="2.5"/>
+<path d="M176,140 L176,240 M204,140 L204,240" stroke="#6b5530" stroke-width="5" stroke-linecap="round"/>
+<!-- 手臂 -->
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M164,148 L146,206 L140,264" stroke="#333" stroke-width="16"/><path d="M164,148 L146,206 L140,264" stroke="#cfe0f0" stroke-width="11"/>
+<path d="M216,148 L234,206 L240,262" stroke="#333" stroke-width="16"/><path d="M216,148 L234,206 L240,262" stroke="#cfe0f0" stroke-width="11"/>
+</g>
+<!-- 登山杖 -->
+<path d="M134,236 L120,444" stroke="#555" stroke-width="4" stroke-linecap="round"/>
+<path d="M131,236 L139,236" stroke="#333" stroke-width="6" stroke-linecap="round"/>
+<ellipse cx="136" cy="268" rx="7" ry="8" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<ellipse cx="241" cy="266" rx="7" ry="8" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<!-- 头、帽子、墨镜 -->
+<circle cx="190" cy="112" r="21" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<ellipse cx="190" cy="94" rx="34" ry="6" fill="#e0c88a" stroke="#333" stroke-width="2"/>
+<path d="M172,94 Q172,72 190,72 Q208,72 208,94 Z" fill="#e0c88a" stroke="#333" stroke-width="2"/>
+<rect x="175" y="104" width="13" height="8" rx="3" fill="#333"/><rect x="192" y="104" width="13" height="8" rx="3" fill="#333"/>
+<path d="M188,107 L192,107" stroke="#333" stroke-width="2"/>
+<path d="M183,123 Q190,127 197,123" fill="none" stroke="#333" stroke-width="1.5"/>
+<!-- 标注 -->
+<g font-size="13" fill="#0b5cad">
+<text x="250" y="88">帽子、墨镜</text>
+<text x="250" y="104" font-size="12" fill="#555">(建议带,还有防晒霜)</text>
+<line x1="248" y1="92" x2="222" y2="96" stroke="#0b5cad" stroke-width="1"/>
+<text x="16" y="150">速干衣物</text>
+<text x="16" y="168" fill="#c33" font-weight="bold">不穿棉质衣服</text>
+<text x="16" y="186" font-size="12" fill="#555">棉衣湿了不保暖,</text>
+<text x="16" y="202" font-size="12" fill="#555">是失温的重要原因</text>
+<line x1="100" y1="158" x2="164" y2="180" stroke="#0b5cad" stroke-width="1"/>
+<text x="16" y="292">登山杖</text>
+<text x="16" y="308" font-size="12" fill="#555">(建议带,过河、</text>
+<text x="16" y="324" font-size="12" fill="#555">下坡时很有用)</text>
+<line x1="62" y1="288" x2="128" y2="300" stroke="#0b5cad" stroke-width="1"/>
+<text x="250" y="330">长裤</text>
+<line x1="248" y1="326" x2="214" y2="330" stroke="#0b5cad" stroke-width="1"/>
+<text x="250" y="384">裤腿扎进袜子</text>
+<text x="250" y="400" font-size="12" fill="#555">(防蜱虫、防划伤)</text>
+<line x1="248" y1="388" x2="220" y2="406" stroke="#0b5cad" stroke-width="1"/>
+<text x="16" y="400">合脚的登山鞋</text>
+<text x="16" y="416">或运动鞋</text>
+<text x="16" y="432" fill="#c33">不要穿新鞋</text>
+<line x1="90" y1="420" x2="152" y2="434" stroke="#0b5cad" stroke-width="1"/>
+</g>
+<text x="16" y="490" font-size="14">身上: 速干衣物、长裤、合脚的鞋;</text>
+<text x="16" y="514" font-size="14">背包里: 保暖层和防雨衣物,夏天的山上也要带</text>
+</g>
+
+<!-- ② 背包里: 保暖和防雨 -->
+<g transform="translate(400,64)">
+<rect x="0" y="0" width="310" height="170" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">② 背包里: 保暖层和防雨</text>
+<!-- 保暖层 -->
+<g transform="translate(76,86)">
+<path d="M-20,-30 L-8,-34 Q0,-26 8,-34 L20,-30 L36,-2 L26,4 L20,-8 L20,34 L-20,34 L-20,-8 L-26,4 L-36,-2 Z" fill="#f2d0a0" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M-20,-14 L20,-14 M-20,2 L20,2 M-20,18 L20,18 M0,-28 L0,34" stroke="#b08a58" stroke-width="1.5"/>
+</g>
+<text x="76" y="140" font-size="13" text-anchor="middle" font-weight="bold">保暖层</text>
+<text x="76" y="158" font-size="12" text-anchor="middle" fill="#555">抓绒衣或轻薄羽绒服</text>
+<!-- 防雨 -->
+<g transform="translate(228,86)">
+<path d="M-20,-30 L-8,-34 Q0,-26 8,-34 L20,-30 L36,-2 L26,4 L20,-8 L20,34 L-20,34 L-20,-8 L-26,4 L-36,-2 Z" fill="#f08a3c" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M-12,-32 Q-14,-48 0,-48 Q14,-48 12,-32" fill="#f08a3c" stroke="#333" stroke-width="2"/>
+<path d="M0,-28 L0,34" stroke="#333" stroke-width="1.5"/>
+<g fill="#7aa6cc"><path d="M-44,-34 q-4,8 0,10 q4,-2 0,-10 Z"/><path d="M46,-20 q-4,8 0,10 q4,-2 0,-10 Z"/><path d="M40,-46 q-4,8 0,10 q4,-2 0,-10 Z"/></g>
+</g>
+<text x="228" y="140" font-size="13" text-anchor="middle" font-weight="bold">防雨</text>
+<text x="228" y="158" font-size="12" text-anchor="middle" fill="#555">雨衣或冲锋衣</text>
+<text x="152" y="80" font-size="22" text-anchor="middle" fill="#0b5cad">+</text>
+<text x="152" y="104" font-size="12" text-anchor="middle" fill="#c33">夏天的山上</text>
+<text x="152" y="119" font-size="12" text-anchor="middle" fill="#c33">也要带</text>
+</g>
+
+<!-- ③ 其他必带 -->
+<g transform="translate(400,244)">
+<rect x="0" y="0" width="310" height="370" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">③ 其他必带</text>
+<g stroke="#333" stroke-width="2" stroke-linejoin="round">
+<!-- 手机+充电宝 -->
+<rect x="18" y="44" width="14" height="24" rx="3" fill="#cfe0f0"/>
+<rect x="36" y="50" width="12" height="18" rx="2" fill="#9c9"/>
+<!-- 头灯 -->
+<path d="M14,98 Q32,86 52,98" fill="none" stroke="#555" stroke-width="3"/>
+<circle cx="32" cy="94" r="7" fill="#ffe28a"/>
+<path d="M32,84 L32,79 M24,87 L20,83 M40,87 L44,83" stroke="#e0a800"/>
+<!-- 水 -->
+<path d="M27,118 L37,118 L37,123 Q42,126 42,132 L42,148 Q42,151 39,151 L25,151 Q22,151 22,148 L22,132 Q22,126 27,123 Z" fill="#d8ebf7"/>
+<!-- 食物 -->
+<rect x="16" y="165" width="32" height="14" rx="3" fill="#d6a85c"/>
+<path d="M24,165 L24,179 M32,165 L32,179 M40,165 L40,179" stroke-width="1.2"/>
+<!-- 哨子 -->
+<path d="M18,202 L40,202 Q48,202 48,210 Q48,218 40,218 Q34,218 32,212 L18,212 Z" fill="#f08a3c"/>
+<circle cx="40" cy="210" r="3" fill="#fff"/>
+<!-- 急救包 -->
+<rect x="16" y="236" width="32" height="24" rx="4" fill="#fff"/>
+<path d="M32,241 L32,255 M25,248 L39,248" stroke="#c33" stroke-width="4"/>
+<!-- 保温毯 -->
+<rect x="16" y="275" width="32" height="22" rx="2" fill="#ccc"/>
+<path d="M16,286 L48,286 M32,275 L32,297" stroke-width="1"/>
+<!-- 打火机 -->
+<rect x="25" y="316" width="14" height="20" rx="2" fill="#c33"/>
+<path d="M32,315 Q27,308 32,301 Q37,308 32,315 Z" fill="#f5a623" stroke-width="1.5"/>
+</g>
+<g font-size="14">
+<text x="60" y="62">手机 + 充满的充电宝</text>
+<text x="60" y="92">头灯或手电,加备用电池</text>
+<text x="60" y="110" font-size="12" fill="#555">最常见的被困原因之一就是天黑</text>
+<text x="60" y="132">足够的水: 一般每人至少 1.5-2 L</text>
+<text x="60" y="148" font-size="12" fill="#555">天热或路线长时更多</text>
+<text x="60" y="178">高能量食物,比计划多带一些</text>
+<text x="60" y="208">哨子</text>
+<text x="60" y="224" font-size="12" fill="#555">喊叫很快会让嗓子哑,哨声传得更远</text>
+<text x="60" y="246">急救包</text>
+<text x="60" y="262" font-size="12" fill="#555">创可贴、纱布、绷带、弹力绷带、个人常用药</text>
+<text x="60" y="292">应急保温毯(铝箔毯,很轻)</text>
+<text x="60" y="332">打火机</text>
+</g>
+<text x="16" y="358" font-size="12" fill="#555">建议带: 离线地图(出发前下载好)、指南针、驱虫剂</text>
+</g>
+
+<!-- 警告 -->
+<g transform="translate(10,624)">
+<rect x="0" y="0" width="700" height="140" rx="8" fill="#fdecec" stroke="#c33" stroke-width="2"/>
+<text x="16" y="28" font-size="15" font-weight="bold" fill="#c33">常见的被困原因(都可以在出发前避免)</text>
+<text x="16" y="56" font-size="14">✗ 只带了一件T恤,没有保暖和防雨的衣物</text>
+<text x="16" y="80" font-size="14">✗ 只靠手机导航,手机没电或没信号</text>
+<text x="16" y="104" font-size="14">✗ 低估路程,出发晚,天黑还在山里</text>
+<text x="16" y="128" font-size="14">✓ 出发前把行程告诉一个不同行的人,定好"掉头时间",按日落前1-2小时下山</text>
+</g>
+</g>
+</svg>

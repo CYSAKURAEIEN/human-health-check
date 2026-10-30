@@ -1,0 +1,216 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 890" width="720" height="890" role="img" aria-label="家庭煎中药(汤剂)的方法。①选锅: 砂锅、陶罐最佳;不锈钢锅、搪瓷锅可用;铁锅、铝锅、铜锅不用(鞣质、有机酸遇铁药液发黑变涩,酸性药液会溶出铝、铜)。②浸泡: 加冷水没过药材3-5 cm(花叶类约5 cm),一剂一般加水约600-800 mL,浸泡30分钟,种子类1-2小时。③先大火煮沸,沸后转小火慢煎: 解表药15-20分钟,一般药25-30分钟,滋补药40-60分钟。④特殊煎法: 先煎(矿物、贝壳类)提前30分钟下锅;后下(芳香药)最后5-10分钟下锅;包煎(细小种子、花粉类)用纱布包裹;另煎(贵重药)单独煎2-3小时,取汁兑入。⑤二煎: 药渣加水没过2-3 cm再煎20-30分钟,两次药液合并,总量约400-600 mL,分2-3次服用。⑥一般药温服,风寒感冒药热服,清热药(夏季)、止吐药冷服;当天煎当天喝完。⑦煎焦整锅倒掉;补水只补少量开水;发霉不喝;有毒药材不要自己炮制、煎服;服药后不适停药就医。" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>家庭煎中药的方法</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<marker id="arB0" viewBox="0 0 10 10" refX="2" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M10 0 L0 5 L10 10 Z" fill="#0b5cad"/></marker>
+<!-- 砂锅(原点在锅口中心,宽约88) -->
+<g id="claypot">
+<path d="M-40 6 Q-46 44 -24 56 H24 Q46 44 40 6 Z" fill="#c98a5a" stroke="#333" stroke-width="2"/>
+<path d="M40 14 L66 6" stroke="#8b5a34" stroke-width="6" stroke-linecap="round"/>
+<rect x="-44" y="0" width="88" height="8" rx="3" fill="#b77a4c" stroke="#333" stroke-width="2"/>
+<path d="M-36 0 Q0 -22 36 0 Z" fill="#b77a4c" stroke="#333" stroke-width="2"/>
+<circle cx="0" cy="-14" r="4.5" fill="#8b5a34" stroke="#333" stroke-width="1.5"/>
+</g>
+<!-- 药碗 -->
+<g id="bowl"><path d="M-30 0 H30 Q28 26 0 28 Q-28 26 -30 0 Z" fill="#f4f1ea" stroke="#333" stroke-width="2"/><path d="M-27 4 H27 Q24 14 0 15 Q-24 14 -27 4 Z" fill="#7a4a24"/><path d="M-10 28 H10 V32 H-10 Z" fill="#f4f1ea" stroke="#333" stroke-width="1.5"/></g>
+<!-- 火焰 -->
+<path id="flame" d="M0 0 Q-9 -10 -4 -22 Q-2 -14 2 -12 Q0 -24 6 -30 Q6 -18 10 -12 Q12 -6 8 0 Z" fill="#f08a24" stroke="#c33" stroke-width="1.2"/>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">家庭煎中药(汤剂)</text>
+<text x="360" y="52" font-size="13" text-anchor="middle" fill="#c33">方子和剂量按医师处方或药典;有毒药材不要自己炮制、煎服</text>
+
+<!-- ① 选锅 -->
+<g transform="translate(10,64)">
+<rect x="0" y="0" width="230" height="310" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">① 选锅</text>
+<use href="#claypot" x="62" y="70"/>
+<g transform="translate(176,70)">
+<path d="M-34 10 H34 Q32 50 0 50 Q-32 50 -34 10 Z" fill="#555" stroke="#333" stroke-width="2"/>
+<path d="M-40 10 H40" stroke="#333" stroke-width="3"/>
+<path d="M-28 4 L28 56 M28 4 L-28 56" stroke="#c33" stroke-width="4" stroke-linecap="round"/>
+</g>
+<g font-size="13" font-weight="bold" text-anchor="middle">
+<text x="62" y="148" fill="#0b5cad">✓ 砂锅、陶罐</text>
+<text x="176" y="148" fill="#c33">✗ 铁锅</text>
+</g>
+<text x="176" y="164" font-size="12" text-anchor="middle" fill="#c33">铝锅、铜锅也不用</text>
+<g font-size="13">
+<text x="10" y="190">可用: 不锈钢锅、搪瓷锅</text>
+<text x="24" y="207" fill="#555" font-size="12">(搪瓷瓷面无破损)</text>
+<text x="10" y="226">铁: 鞣质、有机酸遇铁发黑变涩</text>
+<text x="10" y="244">铝、铜: 酸性药液会把它溶出</text>
+<text x="10" y="262">新砂锅先用米汤或清水煮一次;</text>
+<text x="10" y="280">不空烧,热锅不放冷湿地面</text>
+<text x="10" y="300" font-size="12" fill="#555">锅最好专用,不和做饭的锅混用</text>
+</g>
+</g>
+
+<!-- ② 浸泡 -->
+<g transform="translate(245,64)">
+<rect x="0" y="0" width="230" height="310" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">② 冷水浸泡</text>
+<!-- 时钟 -->
+<circle cx="206" cy="46" r="15" fill="#fff" stroke="#333" stroke-width="2"/>
+<path d="M206 46 V36 M206 46 L213 50" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+<text x="186" y="52" font-size="13" font-weight="bold" fill="#c33" text-anchor="end">30分钟</text>
+<!-- 锅剖面 -->
+<path d="M53 92 H177 L174 148 Q171 158 158 158 H72 Q59 158 56 148 Z" fill="#cfe5f5"/>
+<path d="M53 92 H177" stroke="#3a7fc0" stroke-width="1.5"/>
+<g stroke="#5e3b1c" stroke-width="1.2">
+<path d="M60 150 Q80 138 100 146 L98 154 Q80 150 62 156 Z" fill="#a87a4a"/>
+<path d="M96 140 L130 132 L134 140 L100 148 Z" fill="#c9a06a"/>
+<ellipse cx="146" cy="146" rx="18" ry="7" fill="#8b5a34" transform="rotate(-10 146 146)"/>
+<path d="M70 132 Q88 124 104 132 Q88 140 70 132 Z" fill="#7d8f4a"/>
+<path d="M120 126 L152 124 L158 132 L124 136 Z" fill="#a87a4a"/>
+<circle cx="88" cy="146" r="4" fill="#d9b77a"/><circle cx="118" cy="150" r="4" fill="#d9b77a"/><circle cx="160" cy="152" r="3.5" fill="#d9b77a"/>
+<path d="M140 120 Q156 114 166 122 Q154 128 140 120 Z" fill="#7d8f4a"/>
+</g>
+<path d="M50 70 L56 148 Q60 162 72 162 H158 Q170 162 174 148 L180 70" fill="none" stroke="#333" stroke-width="3"/>
+<path d="M44 70 H186" stroke="#333" stroke-width="3"/>
+<path d="M178 94 L177 92" stroke="#333"/>
+<!-- 尺寸 -->
+<path d="M154 94 V118" stroke="#0b5cad" stroke-width="1.4" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<path d="M136 120 H170" stroke="#0b5cad" stroke-width="0.8" stroke-dasharray="3 3"/>
+<text x="148" y="112" font-size="13" font-weight="bold" fill="#0b5cad" text-anchor="end">3-5 cm</text>
+<text x="64" y="112" font-size="13" fill="#0b5cad">冷水</text>
+<text x="115" y="180" font-size="12" text-anchor="middle" fill="#555">水面没过药材3-5 cm</text>
+<g font-size="13">
+<text x="10" y="206">花叶类、质地松泡的药材吸水多,</text>
+<text x="10" y="224">水面高一些(约5 cm)</text>
+<text x="10" y="242">一剂一般加水约600-800 mL</text>
+<text x="10" y="260" font-weight="bold">浸泡30分钟,种子类1-2小时</text>
+<text x="10" y="280" fill="#c33">✗ 用开水泡后马上煎:</text>
+<text x="24" y="296" fill="#c33" font-size="12">成分不易煎出</text>
+</g>
+</g>
+
+<!-- ③ 火候 -->
+<g transform="translate(480,64)">
+<rect x="0" y="0" width="230" height="310" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">③ 先大火,后小火</text>
+<!-- 大火 -->
+<g transform="translate(48,84) scale(0.8)"><use href="#claypot"/></g>
+<path d="M36 64 Q32 58 38 50 M50 62 Q46 54 52 46 M64 64 Q60 58 66 50" fill="none" stroke="#999" stroke-width="1.5"/>
+<g transform="translate(48,154)"><use href="#flame" x="-18"/><use href="#flame" x="-4" transform="scale(1,1.15)"/><use href="#flame" x="10"/></g>
+<path d="M12 154 H84" stroke="#555" stroke-width="3"/>
+<!-- 小火 -->
+<g transform="translate(160,84) scale(0.8)"><use href="#claypot"/></g>
+<g transform="translate(160,154) scale(0.5)"><use href="#flame" x="-14"/><use href="#flame" x="8"/></g>
+<path d="M124 154 H196" stroke="#555" stroke-width="3"/>
+<path d="M100 118 H118" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<g font-size="13" font-weight="bold" text-anchor="middle">
+<text x="48" y="176" fill="#c33">大火煮沸</text>
+<text x="160" y="176" fill="#0b5cad">沸后转小火</text>
+</g>
+<text x="10" y="202" font-size="13" font-weight="bold">沸后小火慢煎的时间(头煎):</text>
+<g font-size="13">
+<text x="20" y="224">解表药</text><text x="100" y="224" font-weight="bold">15-20分钟</text>
+<text x="20" y="244">一般药</text><text x="100" y="244" font-weight="bold">25-30分钟</text>
+<text x="20" y="264">滋补药</text><text x="100" y="264" font-weight="bold">40-60分钟</text>
+</g>
+<path d="M14 210 H216 M14 230 H216 M14 250 H216 M14 270 H216" stroke="#ddd" stroke-width="1"/>
+<g font-size="12" fill="#555">
+<text x="10" y="288">解表药久煎会损失挥发油;</text>
+<text x="10" y="304">滋补药要久煎才能充分提取</text>
+</g>
+</g>
+
+<!-- ④ 特殊煎法 -->
+<g transform="translate(10,382)">
+<rect x="0" y="0" width="465" height="260" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">④ 特殊煎法(按方子上的注明)</text>
+<!-- 时间轴 -->
+<path d="M310 50 V176 M430 50 V176" stroke="#999" stroke-width="1" stroke-dasharray="4 3"/>
+<rect x="190" y="62" width="240" height="16" rx="3" fill="#c9a06a" stroke="#333" stroke-width="1.2"/>
+<rect x="310" y="104" width="120" height="16" rx="3" fill="#a87a4a" stroke="#333" stroke-width="1.2"/>
+<rect x="390" y="146" width="20" height="16" fill="#cfe3b8" stroke="#333" stroke-width="1" stroke-dasharray="3 2"/>
+<rect x="410" y="146" width="20" height="16" fill="#7d8f4a" stroke="#333" stroke-width="1.2"/>
+<path d="M192 56 V50 H308 V56" fill="none" stroke="#c33" stroke-width="1.5"/>
+<text x="250" y="45" font-size="13" font-weight="bold" fill="#c33" text-anchor="middle">提前30分钟下锅</text>
+<path d="M392 168 V174 H428 V168" fill="none" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="384" y="159" font-size="12" font-weight="bold" fill="#0b5cad" text-anchor="end">最后5-10分钟下锅</text>
+<g font-size="14" font-weight="bold">
+<text x="12" y="70">先煎</text><text x="12" y="112">其余药</text><text x="12" y="154">后下</text>
+</g>
+<g font-size="12" fill="#555">
+<text x="12" y="88">矿物、贝壳类(石膏、龙骨等)</text><text x="12" y="172">芳香药(薄荷、藿香等)</text>
+</g>
+<path d="M170 190 H452" stroke="#333" stroke-width="1.5" marker-end="url(#arR)"/>
+<g font-size="12" text-anchor="middle">
+<text x="190" y="206">先煎药下锅</text><text x="310" y="206">其余药下锅</text><text x="430" y="206">关火</text>
+</g>
+<!-- 包煎 -->
+<g transform="translate(26,236)">
+<path d="M-12 -2 Q-16 14 0 16 Q16 14 12 -2 Q6 -6 0 -6 Q-6 -6 -12 -2 Z" fill="#f4f1ea" stroke="#333" stroke-width="1.5"/>
+<path d="M-6 -6 L-4 -14 M6 -6 L4 -14 M-4 -14 Q0 -18 4 -14" fill="none" stroke="#333" stroke-width="1.5"/>
+<path d="M-8 2 H8 M-9 8 H9 M-4 -2 V14 M4 -2 V14" stroke="#bbb" stroke-width="0.8"/>
+</g>
+<g font-size="13">
+<text x="46" y="232"><tspan font-weight="bold">包煎:</tspan> 细小种子、花粉类,</text>
+<text x="46" y="250">用纱布包裹煎煮</text>
+</g>
+<!-- 另煎 -->
+<g transform="translate(262,232) scale(0.32)"><use href="#claypot"/></g>
+<g font-size="13">
+<text x="290" y="232"><tspan font-weight="bold">另煎:</tspan> 贵重药(人参等)</text>
+<text x="290" y="250">单独煎2-3小时,取汁兑入</text>
+</g>
+</g>
+
+<!-- ⑤ 二煎、合并 -->
+<g transform="translate(480,382)">
+<rect x="0" y="0" width="230" height="260" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">⑤ 煎两次,合并</text>
+<g transform="translate(58,62) scale(0.62)"><use href="#claypot"/></g>
+<g transform="translate(168,62) scale(0.62)"><use href="#claypot"/></g>
+<g font-size="13" font-weight="bold" text-anchor="middle"><text x="54" y="112">头煎</text><text x="164" y="112">二煎</text></g>
+<g font-size="12" text-anchor="middle" fill="#555">
+<text x="164" y="130">药渣加水</text><text x="164" y="146">没过2-3 cm</text><text x="164" y="162">再煎20-30分钟</text>
+</g>
+<path d="M58 120 Q70 160 98 178" fill="none" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<path d="M134 166 Q130 172 128 178" fill="none" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<use href="#bowl" x="115" y="186"/>
+<g font-size="13" text-anchor="middle">
+<text x="115" y="236" font-weight="bold">两次药液混合,总量约400-600 mL</text>
+<text x="115" y="254">分2-3次服用</text>
+</g>
+</g>
+
+<!-- ⑥ 服用 -->
+<g transform="translate(10,650)">
+<rect x="0" y="0" width="230" height="230" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">⑥ 怎么服</text>
+<use href="#bowl" x="180" y="28"/>
+<path d="M170 22 Q166 16 170 10 M180 20 Q176 14 180 8 M190 22 Q186 16 190 10" fill="none" stroke="#999" stroke-width="1.5"/>
+<g font-size="13">
+<text x="10" y="74" font-weight="bold">一般药: 温服</text>
+<text x="10" y="92">风寒感冒、发汗解表药: 热服</text>
+<text x="10" y="110">清热药(夏季)、止吐药: 冷服</text>
+<text x="10" y="132">饭前: 补益药</text>
+<text x="10" y="150">饭后: 消食药、刺激性药</text>
+<text x="10" y="168">睡前: 安神药</text>
+<text x="10" y="190" font-weight="bold">当天煎、当天喝完</text>
+<text x="10" y="208" font-size="12" fill="#555">暂不喝的放凉加盖冷藏,一般不超过</text>
+<text x="10" y="224" font-size="12" fill="#555">1-2天;没有冰箱当天喝完</text>
+</g>
+</g>
+
+<!-- ⑦ 注意 -->
+<g transform="translate(245,650)">
+<rect x="0" y="0" width="465" height="230" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<text x="12" y="26" font-size="16" font-weight="bold" fill="#c33">⑦ 注意</text>
+<g font-size="14">
+<text x="14" y="56"><tspan fill="#c33" font-weight="bold">✗ 煎焦、煎糊:</tspan> 整锅倒掉,不要加水再煎</text>
+<text x="14" y="84"><tspan fill="#c33" font-weight="bold">✗ 水快煎干:</tspan> 只补少量开水,不要补冷水</text>
+<text x="14" y="112"><tspan fill="#c33" font-weight="bold">✗ 有霉味、异味,药材有霉点:</tspan> 不要喝</text>
+<text x="14" y="140"><tspan fill="#c33" font-weight="bold">✗ 有毒药材:</tspan> 家庭条件下不要自己炮制、煎服</text>
+<text x="14" y="168">先吃2-3剂看效果: 没有好转或加重 → 停药就医</text>
+<text x="14" y="196">服药后皮疹、心慌、头晕、口舌或四肢麻木</text>
+<text x="14" y="216"><tspan fill="#c33" font-weight="bold">→ 停药,情况重的立即就医</tspan></text>
+</g>
+</g>
+</g>
+</svg>

@@ -1,0 +1,192 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 756" width="720" height="756" role="img" aria-label="水稻育苗移栽与水层管理。①秧田: 秧畦宽约1.2-1.5 m,畦间沟宽约25-30 cm;一叶一心以前畦面保持湿润、沟里有水,不要上水淹苗;二叶以后上浅水2-3 cm;籼稻日平均气温稳定在12°C以上、粳稻10°C以上再播;秧田播种量约75-100 g/m²;秧田和大田面积比约1:8-1:10;寒潮夜里灌深水护苗。②壮秧: 4-5叶时移栽(秧龄约25-35天),苗高约15-20 cm,叶色青绿,茎基部扁粗,白根多,带1-2个分蘖。③插秧: 行距20-25 cm,株距15-20 cm,每穴2-3株,约每平方米20-33穴;田里保持约3 cm浅水,浅插2-3 cm。④水层管理: 插秧约3 cm;插后3-5天水层稍深3-5 cm护苗,约一周返青;分蘖期浅水3-5 cm;分蘖末期(移栽后约25-30天)排水晒田5-7天;孕穗期深水5-8 cm;抽穗开花浅水、保持湿润,最怕缺水;成熟期干湿交替,收获前7-10天断水。" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>水稻育苗移栽与水层管理</title>
+<defs>
+<pattern id="mud" width="16" height="16" patternUnits="userSpaceOnUse"><rect width="16" height="16" fill="#b5976e"/><circle cx="4" cy="5" r="1.1" fill="#8f7350"/><circle cx="12" cy="12" r="1.1" fill="#8f7350"/></pattern>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<marker id="arB0" viewBox="0 0 10 10" refX="2" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M10 0 L0 5 L10 10 Z" fill="#0b5cad"/></marker>
+<!-- 稻丛(原点在泥面,高约44) -->
+<g id="tuft" fill="none" stroke="#4f8a2f" stroke-width="2" stroke-linecap="round"><path d="M0 0 Q-4 -20 -14 -38 M0 0 Q-2 -22 -6 -42 M0 0 V-44 M0 0 Q2 -22 6 -42 M0 0 Q4 -20 14 -38" vector-effect="non-scaling-stroke"/></g>
+<!-- 小秧苗(秧田) -->
+<path id="sprout" d="M0 0 V-10 M0 -4 Q-5 -8 -6 -13 M0 -4 Q5 -8 6 -13" fill="none" stroke="#4f8a2f" stroke-width="1.6"/>
+<!-- 一穴秧苗(俯视) -->
+<g id="hill" stroke="#4f8a2f" stroke-width="2" stroke-linecap="round"><path d="M0 0 L-6 -5 M0 0 L7 -3 M0 0 L1 7"/><circle r="2.2" fill="#3f6f24" stroke="none"/></g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">水稻育苗移栽与水层管理</text>
+<text x="360" y="52" font-size="13" text-anchor="middle" fill="#555">育秧约30天 → 4-5叶时移栽 → 按生育期管水(水层是“关键”)</text>
+
+<!-- ① 秧田 -->
+<g transform="translate(10,64)">
+<rect x="0" y="0" width="230" height="340" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">① 秧田育秧</text>
+<!-- (a) 一叶一心前 -->
+<text x="10" y="46" font-size="12" font-weight="bold">一叶一心以前</text>
+<path d="M10 100 V72 H92 L102 88 H128 L138 72 H220 V100 Z" fill="url(#mud)"/>
+<path d="M98.5 82 L102 88 H128 L131.5 82 Z" fill="#cfe5f5"/>
+<path d="M98.5 82 H131.5" stroke="#3a7fc0" stroke-width="1.5"/>
+<path d="M10 72 H92 L102 88 H128 L138 72 H220" fill="none" stroke="#333" stroke-width="2"/>
+<g><use href="#sprout" x="26" y="72"/><use href="#sprout" x="46" y="72"/><use href="#sprout" x="66" y="72"/><use href="#sprout" x="84" y="72"/><use href="#sprout" x="148" y="72"/><use href="#sprout" x="166" y="72"/><use href="#sprout" x="186" y="72"/><use href="#sprout" x="206" y="72"/></g>
+<text x="115" y="116" font-size="12" text-anchor="middle" fill="#0b5cad">畦面湿润,沟里有水;不要上水淹苗</text>
+<!-- (b) 二叶以后 -->
+<text x="10" y="142" font-size="12" font-weight="bold">二叶以后: <tspan fill="#0b5cad">上浅水2-3 cm</tspan></text>
+<path d="M10 196 V168 H92 L102 184 H128 L138 168 H220 V196 Z" fill="url(#mud)"/>
+<path d="M10 168 H92 L102 184 H128 L138 168 H220 V160 H10 Z" fill="#cfe5f5"/>
+<path d="M10 160 H220" stroke="#3a7fc0" stroke-width="1.5"/>
+<path d="M10 168 H92 L102 184 H128 L138 168 H220" fill="none" stroke="#333" stroke-width="2"/>
+<g transform="translate(0,168) scale(1,1.35) translate(0,-168)"><use href="#sprout" x="26" y="168"/><use href="#sprout" x="46" y="168"/><use href="#sprout" x="66" y="168"/><use href="#sprout" x="84" y="168"/><use href="#sprout" x="148" y="168"/><use href="#sprout" x="166" y="168"/><use href="#sprout" x="186" y="168"/><use href="#sprout" x="206" y="168"/></g>
+<!-- 尺寸 -->
+<path d="M12 206 H90" stroke="#0b5cad" stroke-width="1.2" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<path d="M104 206 H126" stroke="#0b5cad" stroke-width="1.2" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<path d="M102 186 V212 M128 186 V212" stroke="#0b5cad" stroke-width="1" stroke-dasharray="2 2"/>
+<g font-size="12" fill="#0b5cad"><text x="10" y="224">畦宽约1.2-1.5 m</text><text x="132" y="224">沟宽约25-30 cm</text></g>
+<g font-size="13">
+<text x="10" y="246">籼稻日均气温稳定在12°C以上、</text>
+<text x="10" y="264">粳稻10°C以上再播</text>
+<text x="10" y="282">播种量约75-100 g/m²,播后压种</text>
+<text x="10" y="300">秧田:大田面积约1:8-1:10</text>
+<text x="10" y="318" fill="#c33">寒潮夜里灌深水护苗,</text>
+<text x="10" y="334" fill="#c33">第二天回暖再排浅</text>
+</g>
+</g>
+
+<!-- ② 壮秧 -->
+<g transform="translate(245,64)">
+<rect x="0" y="0" width="230" height="340" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">② 移栽时的壮秧</text>
+<rect x="20" y="196" width="150" height="34" fill="url(#mud)"/>
+<path d="M20 196 H170" stroke="#999" stroke-width="2.5"/>
+<!-- 白根 -->
+<g fill="none" stroke-linecap="round"><path d="M92 198 Q82 210 74 226 M94 198 Q92 212 88 228 M96 198 Q102 212 108 226 M98 198 Q112 206 120 218 M90 198 Q78 204 68 212" stroke="#555" stroke-width="3.6"/><path d="M92 198 Q82 210 74 226 M94 198 Q92 212 88 228 M96 198 Q102 212 108 226 M98 198 Q112 206 120 218 M90 198 Q78 204 68 212" stroke="#fff" stroke-width="2"/></g>
+<!-- 主茎 -->
+<path d="M95 196 V100" stroke="#4f8a2f" stroke-width="5"/>
+<g fill="none" stroke="#4f8a2f" stroke-width="4" stroke-linecap="round">
+<path d="M95 178 Q120 166 136 150"/>
+<path d="M95 158 Q70 140 60 116"/>
+<path d="M95 136 Q122 112 128 84"/>
+<path d="M95 118 Q78 92 76 66"/>
+<path d="M95 100 Q98 80 104 58"/>
+</g>
+<!-- 分蘖 -->
+<path d="M90 196 Q76 172 62 152" fill="none" stroke="#6fa344" stroke-width="3.5"/>
+<path d="M70 166 Q50 158 40 142 M62 152 Q58 136 52 124" fill="none" stroke="#6fa344" stroke-width="3" stroke-linecap="round"/>
+<!-- 叶序号 -->
+<g font-size="11" fill="#0b5cad" text-anchor="middle"><text x="142" y="150">1</text><text x="54" y="114">2</text><text x="134" y="84">3</text><text x="72" y="62">4</text><text x="108" y="54">5</text></g>
+<!-- 高度 -->
+<path d="M190 194 V60" stroke="#0b5cad" stroke-width="1.2" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<path d="M174 196 H200 M108 56 H200" stroke="#0b5cad" stroke-width="0.8" stroke-dasharray="3 3"/>
+<g font-size="12" fill="#0b5cad"><text x="196" y="118">约</text><text x="196" y="134">15-20</text><text x="196" y="150">cm</text></g>
+<g font-size="12">
+<text x="10" y="50" fill="#0b5cad" font-weight="bold">4-5叶</text>
+<text x="10" y="186">分蘖</text><line x1="36" y1="182" x2="62" y2="170" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="126" y="242">白根多</text><line x1="134" y1="230" x2="114" y2="222" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="110" y="190">茎基部扁粗</text><line x1="108" y1="186" x2="98" y2="188" stroke="#0b5cad" stroke-width="1.2"/>
+</g>
+<g font-size="13">
+<text x="10" y="264" font-weight="bold">秧龄约25-35天,4-5叶移栽</text>
+<text x="10" y="282">✓ 叶色青绿,带1-2个分蘖,无病斑</text>
+<text x="10" y="300" fill="#c33">✗ 细高、发黄、根发黑 → 秧田</text>
+<text x="10" y="318" fill="#c33">  太密、缺肥或长期淹水</text>
+<text x="10" y="334" fill="#555" font-size="12">移栽前3-5天薄施“送嫁肥”</text>
+</g>
+</g>
+
+<!-- ③ 插秧 -->
+<g transform="translate(480,64)">
+<rect x="0" y="0" width="230" height="340" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">③ 插秧(俯视 + 侧视)</text>
+<rect x="14" y="38" width="122" height="104" fill="#dcebf6" stroke="#9bbbd6" stroke-width="1"/>
+<g>
+<use href="#hill" x="32" y="56"/><use href="#hill" x="60" y="56"/><use href="#hill" x="88" y="56"/><use href="#hill" x="116" y="56"/>
+<use href="#hill" x="32" y="90"/><use href="#hill" x="60" y="90"/><use href="#hill" x="88" y="90"/><use href="#hill" x="116" y="90"/>
+<use href="#hill" x="32" y="124"/><use href="#hill" x="60" y="124"/><use href="#hill" x="88" y="124"/><use href="#hill" x="116" y="124"/>
+</g>
+<path d="M146 58 V88" stroke="#0b5cad" stroke-width="1.2" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<path d="M120 56 H150 M120 90 H150" stroke="#0b5cad" stroke-width="0.8" stroke-dasharray="3 3"/>
+<g font-size="12" fill="#0b5cad"><text x="156" y="70">行距</text><text x="156" y="86">20-25 cm</text></g>
+<path d="M34 152 H58" stroke="#0b5cad" stroke-width="1.2" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<path d="M32 128 V156 M60 128 V156" stroke="#0b5cad" stroke-width="0.8" stroke-dasharray="3 3"/>
+<text x="66" y="157" font-size="12" fill="#0b5cad">株距15-20 cm</text>
+<text x="156" y="120" font-size="12" font-weight="bold">每穴</text>
+<text x="156" y="136" font-size="12" font-weight="bold">2-3株</text>
+<line x1="152" y1="122" x2="122" y2="122" stroke="#0b5cad" stroke-width="1.2"/>
+<!-- 侧视 -->
+<rect x="14" y="210" width="200" height="30" fill="url(#mud)"/>
+<rect x="14" y="186" width="200" height="24" fill="#cfe5f5"/>
+<path d="M14 186 H214" stroke="#3a7fc0" stroke-width="1.5"/>
+<path d="M14 210 H214" stroke="#999" stroke-width="2.5"/>
+<g transform="translate(110,210)"><path d="M-2 20 V-36 M2 20 V-36" stroke="#4f8a2f" stroke-width="2"/><path d="M0 -16 Q-12 -26 -18 -38 M0 -20 Q12 -30 18 -40" fill="none" stroke="#4f8a2f" stroke-width="2"/><path d="M-2 20 Q-5 23 -7 27 M2 20 Q5 23 7 27" fill="none" stroke="#555" stroke-width="1.3"/></g>
+<path d="M28 188 V208" stroke="#0b5cad" stroke-width="1.2" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<text x="36" y="203" font-size="12" fill="#0b5cad" font-weight="bold">水约3 cm</text>
+<path d="M124 211 V230 M120 230 H128" stroke="#c33" stroke-width="1.5"/>
+<path d="M106 230 H120" stroke="#c33" stroke-width="0.8" stroke-dasharray="3 3"/>
+<path d="M128 224 H140" stroke="#c33" stroke-width="1"/>
+<rect x="140" y="218" width="66" height="18" rx="3" fill="#fff" fill-opacity="0.85"/>
+<text x="144" y="232" font-size="12" fill="#c33" font-weight="bold">浅插2-3 cm</text>
+<g font-size="13">
+<text x="10" y="258">约每平方米20-33穴</text>
+<text x="10" y="276">秧根直插,不要窝成钩</text>
+<text x="10" y="294">边起秧边栽,当天栽完</text>
+<text x="10" y="312">水太深秧苗漂起;</text>
+<text x="10" y="330">插太深分蘖晚而少</text>
+</g>
+</g>
+
+<!-- ④ 水层管理 -->
+<g transform="translate(10,412)">
+<rect x="0" y="0" width="700" height="334" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">④ 大田水层管理(移栽到收获)</text>
+<!-- 泥 -->
+<rect x="20" y="180" width="672" height="26" fill="url(#mud)"/>
+<!-- 水层: 7 px ≈ 1 cm -->
+<rect x="20" y="159" width="96" height="21" fill="#cfe5f5"/><path d="M20 159 H116" stroke="#3a7fc0" stroke-width="1.5"/>
+<rect x="116" y="152" width="96" height="28" fill="#cfe5f5"/><path d="M116 152 H212" stroke="#3a7fc0" stroke-width="1.5"/>
+<rect x="212" y="152" width="96" height="28" fill="#cfe5f5"/><path d="M212 152 H308" stroke="#3a7fc0" stroke-width="1.5"/>
+<rect x="404" y="134" width="96" height="46" fill="#cfe5f5"/><path d="M404 134 H500" stroke="#3a7fc0" stroke-width="1.5"/>
+<rect x="500" y="162" width="96" height="18" fill="#cfe5f5"/><path d="M500 162 H596" stroke="#3a7fc0" stroke-width="1.5"/>
+<rect x="596" y="170" width="44" height="10" fill="#cfe5f5"/><path d="M596 170 H640" stroke="#3a7fc0" stroke-width="1.5"/>
+<path d="M20 180 H692" stroke="#999" stroke-width="2.5"/>
+<!-- 晒田裂缝 -->
+<g fill="none" stroke="#5e4128" stroke-width="1.6"><path d="M318 180 l4 8 l-3 6 l5 8"/><path d="M344 180 l-3 7 l4 6"/><path d="M372 180 l3 9 l-4 5 l3 7"/><path d="M394 180 l-2 6 l3 5"/></g>
+<g fill="none" stroke="#5e4128" stroke-width="1.6"><path d="M652 180 l3 7 l-3 6"/><path d="M676 180 l-3 8 l4 6"/></g>
+<!-- 分隔 -->
+<path d="M116 40 V206 M212 40 V206 M308 40 V206 M404 40 V206 M500 40 V206 M596 40 V206" stroke="#ccc" stroke-width="1" stroke-dasharray="4 3"/>
+<path d="M640 168 V206" stroke="#ccc" stroke-width="1" stroke-dasharray="2 2"/>
+<!-- 稻株 -->
+<g transform="translate(68,180) scale(1,0.6)"><use href="#tuft"/></g>
+<g transform="translate(164,180) scale(1,0.75)"><use href="#tuft"/></g>
+<g transform="translate(252,180) scale(1,1)"><use href="#tuft"/></g><g transform="translate(270,180) scale(1,0.9)"><use href="#tuft"/></g>
+<g transform="translate(346,180) scale(1,1.2)"><use href="#tuft"/></g><g transform="translate(366,180) scale(1,1.1)"><use href="#tuft"/></g>
+<g transform="translate(442,180) scale(1,1.5)"><use href="#tuft"/></g><g transform="translate(462,180) scale(1,1.45)"><use href="#tuft"/></g>
+<g transform="translate(538,180) scale(1,1.7)"><use href="#tuft"/></g><g transform="translate(558,180) scale(1,1.65)"><use href="#tuft"/></g>
+<g fill="#b9cf6a" stroke="#6f8a2a" stroke-width="1"><ellipse cx="538" cy="99" rx="3" ry="7"/><ellipse cx="558" cy="101" rx="3" ry="7"/><ellipse cx="531" cy="108" rx="2.5" ry="5" transform="rotate(-25 531 108)"/><ellipse cx="565" cy="110" rx="2.5" ry="5" transform="rotate(25 565 110)"/></g>
+<g transform="translate(634,180) scale(1,1.7)"><use href="#tuft"/></g><g transform="translate(654,180) scale(1,1.65)"><use href="#tuft"/></g>
+<g fill="none" stroke="#c9a227" stroke-width="3" stroke-linecap="round"><path d="M634 106 Q644 104 646 118"/><path d="M654 108 Q664 106 666 120"/><path d="M630 112 Q620 112 618 124"/></g>
+<!-- 阶段名 -->
+<g font-size="14" font-weight="bold" text-anchor="middle">
+<text x="68" y="50">插秧</text><text x="164" y="50">返青</text><text x="260" y="50">分蘖期</text><text x="356" y="50">分蘖末期</text><text x="452" y="50">孕穗期</text><text x="548" y="50">抽穗开花</text><text x="644" y="50">成熟期</text>
+</g>
+<g font-size="12" text-anchor="middle" fill="#555">
+<text x="164" y="66">插后约一周</text><text x="356" y="66">移栽后约25-30天</text>
+</g>
+<!-- 水深/做法 -->
+<g font-size="13" font-weight="bold" text-anchor="middle" fill="#0b5cad">
+<text x="68" y="226">浅水约3 cm</text><text x="164" y="226">稍深3-5 cm</text><text x="260" y="226">浅水3-5 cm</text><text x="356" y="226" fill="#c33">排水晒田</text><text x="452" y="226">深水5-8 cm</text><text x="548" y="226">浅水,保持湿润</text><text x="644" y="226">干湿交替</text>
+</g>
+<g font-size="12" text-anchor="middle">
+<text x="68" y="244">太深漂秧,</text><text x="68" y="260">无水伤手</text>
+<text x="164" y="244">插后3-5天</text><text x="164" y="260">护苗防晒蔫</text>
+<text x="260" y="244">浅水升温快、</text><text x="260" y="260">分蘖多</text>
+<text x="356" y="244" fill="#c33" font-weight="bold">5-7天</text><text x="356" y="260">控无效分蘖</text>
+<text x="548" y="244" fill="#c33">最怕缺水,</text><text x="548" y="260" fill="#c33">缺水空瘪粒多</text>
+<text x="644" y="244" fill="#c33" font-weight="bold">收获前7-10天</text><text x="644" y="260" fill="#c33" font-weight="bold">断水</text>
+</g>
+<path d="M24 280 H686" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<text x="24" y="274" font-size="12" fill="#c33">移栽</text>
+<text x="676" y="271" font-size="12" fill="#c33" text-anchor="end">收获</text>
+<text x="350" y="302" font-size="12" text-anchor="middle" fill="#555">晒田必须在幼穗分化(拔节)以前晒完;晒到田面有细裂缝、踩下去不陷脚</text>
+<text x="350" y="320" font-size="12" text-anchor="middle" fill="#555">裂缝宽到能伸进手指 = 晒过头,立即复水(先灌浅水)</text>
+</g>
+</g>
+</svg>
