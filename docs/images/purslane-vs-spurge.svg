@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 816" width="720" height="816" role="img" aria-label="马齿苋与趴地生长的大戟科植物对照示意: 两者都趴地生长、茎常带红色,有的长在同一块地里。马齿苋是肉质草本,茎平卧、多分枝、圆柱形、淡绿色或带紫红色、光滑无毛,叶倒卵形、像马齿或小勺子、肥厚多汁,开黄色小花;掐断流出透明的黏液,没有白色乳汁。斑地锦、地锦草等大戟科植物叶片薄而小、不肉质,折断有白色乳汁,乳汁刺激皮肤和眼睛,误食引起口腔灼痛、剧烈呕吐腹泻;同科的泽漆是直立的,叶在茎顶轮生。有白色乳汁的一律不是马齿苋,不采">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>马齿苋与大戟科植物对照</title>
+<defs>
+<g id="pl"><path d="M0 0 C4 -6 13 -11 21 -10 C29 -9 31 -3 31 0 C31 3 29 9 21 10 C13 11 4 6 0 0 Z" fill="#a8cc6e" stroke="#4d6b2a" stroke-width="1.5"/><path d="M8 -2 C14 -6 22 -6 26 -3" fill="none" stroke="#e4f2cc" stroke-width="2" stroke-linecap="round"/></g>
+<g id="pf"><g fill="#f5c518" stroke="#8a6d00" stroke-width="0.8"><circle cx="0" cy="-4" r="3"/><circle cx="3.8" cy="-1.2" r="3"/><circle cx="2.4" cy="3.2" r="3"/><circle cx="-2.4" cy="3.2" r="3"/><circle cx="-3.8" cy="-1.2" r="3"/></g><circle r="1.6" fill="#c99700"/></g>
+<g id="sl"><path d="M0 0 C2 -4 8 -5 12 -3.5 C14 -2 14 2 12 3.5 C8 5 2 4 0 0 Z" fill="#c5dca6" stroke="#5a7a3a" stroke-width="1"/></g>
+</defs>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" fill="#222">
+<text x="360" y="30" font-size="18" font-weight="bold" text-anchor="middle">马齿苋 vs 趴地的大戟科植物 识别要点(示意图)</text>
+<text x="360" y="52" font-size="14" fill="#555" text-anchor="middle">都趴地生长、茎常带红色,有的长在同一块地里——掐断看汁液</text>
+<rect x="10" y="64" width="345" height="606" rx="8" fill="none" stroke="#999" stroke-width="1.5"/>
+<rect x="365" y="64" width="345" height="606" rx="8" fill="none" stroke="#c33" stroke-width="2"/>
+<text x="26" y="92" font-size="18" font-weight="bold">① 马齿苋</text>
+<text x="26" y="112" font-size="14" font-style="italic" fill="#555">Portulaca oleracea</text>
+<text x="26" y="132" font-size="13" fill="#555">(俯视,平铺在地面上)</text>
+<g transform="translate(27.7 30) scale(0.85)">
+<path d="M118 280Q70 230 40 190" fill="none" stroke="#7a3a3a" stroke-width="7.5" stroke-linecap="round"/>
+<path d="M118 280Q70 230 40 190" fill="none" stroke="#c0787a" stroke-width="5" stroke-linecap="round"/>
+<path d="M118 280Q150 220 178 178" fill="none" stroke="#7a3a3a" stroke-width="7.5" stroke-linecap="round"/>
+<path d="M118 280Q150 220 178 178" fill="none" stroke="#c0787a" stroke-width="5" stroke-linecap="round"/>
+<path d="M118 280Q60 300 30 340" fill="none" stroke="#7a3a3a" stroke-width="7.5" stroke-linecap="round"/>
+<path d="M118 280Q60 300 30 340" fill="none" stroke="#c0787a" stroke-width="5" stroke-linecap="round"/>
+<path d="M118 280Q170 300 210 270" fill="none" stroke="#7a3a3a" stroke-width="7.5" stroke-linecap="round"/>
+<path d="M118 280Q170 300 210 270" fill="none" stroke="#c0787a" stroke-width="5" stroke-linecap="round"/>
+<path d="M118 280Q120 340 150 390" fill="none" stroke="#7a3a3a" stroke-width="7.5" stroke-linecap="round"/>
+<path d="M118 280Q120 340 150 390" fill="none" stroke="#c0787a" stroke-width="5" stroke-linecap="round"/>
+<path d="M118 280Q90 320 70 385" fill="none" stroke="#7a3a3a" stroke-width="7.5" stroke-linecap="round"/>
+<path d="M118 280Q90 320 70 385" fill="none" stroke="#c0787a" stroke-width="5" stroke-linecap="round"/>
+<use href="#pl" transform="translate(86.6 246.2) rotate(-186.9) scale(0.8)"/><use href="#pl" transform="translate(66.9 223.6) rotate(-75.2) scale(0.8)"/><use href="#pl" transform="translate(51.4 204.7) rotate(-183.5) scale(0.8)"/><use href="#pl" transform="translate(40 190) rotate(-166.9) scale(0.85)"/><use href="#pl" transform="translate(40 190) rotate(-126.9) scale(0.85)"/><use href="#pl" transform="translate(40 190) rotate(-86.9) scale(0.85)"/><use href="#pl" transform="translate(139.9 240.2) rotate(-5.3) scale(0.8)"/><use href="#pl" transform="translate(155 214.5) rotate(-114) scale(0.8)"/><use href="#pl" transform="translate(167.8 193.7) rotate(-2.6) scale(0.8)"/><use href="#pl" transform="translate(178 178) rotate(-96.3) scale(0.85)"/><use href="#pl" transform="translate(178 178) rotate(-56.3) scale(0.85)"/><use href="#pl" transform="translate(178 178) rotate(-16.3) scale(0.85)"/><use href="#pl" transform="translate(80.8 296.4) rotate(95.7) scale(0.8)"/><use href="#pl" transform="translate(58.5 311.2) rotate(197.2) scale(0.8)"/><use href="#pl" transform="translate(41.7 326.2) rotate(78.9) scale(0.8)"/><use href="#pl" transform="translate(30 340) rotate(86.9) scale(0.85)"/><use href="#pl" transform="translate(30 340) rotate(126.9) scale(0.85)"/><use href="#pl" transform="translate(30 340) rotate(166.9) scale(0.85)"/><use href="#pl" transform="translate(152.9 287.9) rotate(58) scale(0.8)"/><use href="#pl" transform="translate(176.1 286) rotate(-67.6) scale(0.8)"/><use href="#pl" transform="translate(195.2 279.2) rotate(28.5) scale(0.8)"/><use href="#pl" transform="translate(210 270) rotate(-76.9) scale(0.85)"/><use href="#pl" transform="translate(210 270) rotate(-36.9) scale(0.85)"/><use href="#pl" transform="translate(210 270) rotate(3.1) scale(0.85)"/><use href="#pl" transform="translate(122.8 320.8) rotate(23.2) scale(0.8)"/><use href="#pl" transform="translate(130.5 348.4) rotate(125.8) scale(0.8)"/><use href="#pl" transform="translate(140.1 371.7) rotate(9.3) scale(0.8)"/><use href="#pl" transform="translate(150 390) rotate(19) scale(0.85)"/><use href="#pl" transform="translate(150 390) rotate(59) scale(0.85)"/><use href="#pl" transform="translate(150 390) rotate(99) scale(0.85)"/><use href="#pl" transform="translate(99.4 311.1) rotate(172.3) scale(0.8)"/><use href="#pl" transform="translate(87.3 337) rotate(57.9) scale(0.8)"/><use href="#pl" transform="translate(77.5 362.4) rotate(164.5) scale(0.8)"/><use href="#pl" transform="translate(70 385) rotate(67.1) scale(0.85)"/><use href="#pl" transform="translate(70 385) rotate(107.1) scale(0.85)"/><use href="#pl" transform="translate(70 385) rotate(147.1) scale(0.85)"/>
+<use href="#pf" x="40" y="190"/><use href="#pf" x="210" y="270"/><use href="#pf" x="150" y="390"/>
+</g>
+<g stroke="#0b5cad" stroke-width="1" fill="none"><path d="M188 170 L232 176"/><path d="M212 256 L232 238"/><path d="M170 274 L232 300"/></g>
+<g fill="#0b5cad"><circle cx="188" cy="170" r="2.5"/><circle cx="212" cy="256" r="2.5"/><circle cx="170" cy="274" r="2.5"/></g>
+<text x="236" y="160" font-size="15">叶<tspan font-weight="bold">倒卵形</tspan></text>
+<text x="236" y="180" font-size="15">像小勺子</text>
+<text x="236" y="200" font-size="15"><tspan font-weight="bold">肥厚多汁</tspan></text>
+<text x="236" y="236" font-size="15">黄色小花</text>
+<text x="236" y="254" font-size="13" fill="#555">早上开、中午后合</text>
+<text x="236" y="296" font-size="15">茎<tspan font-weight="bold">圆柱形</tspan></text>
+<text x="236" y="316" font-size="15">淡绿色或</text>
+<text x="236" y="336" font-size="15">带紫红色</text>
+<text x="236" y="356" font-size="15">光滑无毛</text>
+<text x="381" y="92" font-size="18" font-weight="bold" fill="#c33">② 斑地锦、地锦草等</text>
+<text x="381" y="112" font-size="14" fill="#555">大戟科,趴地生长</text>
+<rect x="612" y="74" width="86" height="30" rx="5" fill="#c33"/>
+<text x="655" y="95" font-size="17" font-weight="bold" fill="#fff" text-anchor="middle">⚠️ 不采</text>
+<path d="M478 282Q440 240 400 200" fill="none" stroke="#b03a3a" stroke-width="2.2" stroke-linecap="round"/>
+<path d="M478 282Q500 230 540 186" fill="none" stroke="#b03a3a" stroke-width="2.2" stroke-linecap="round"/>
+<path d="M478 282Q430 300 392 336" fill="none" stroke="#b03a3a" stroke-width="2.2" stroke-linecap="round"/>
+<path d="M478 282Q530 290 570 262" fill="none" stroke="#b03a3a" stroke-width="2.2" stroke-linecap="round"/>
+<path d="M478 282Q490 340 520 392" fill="none" stroke="#b03a3a" stroke-width="2.2" stroke-linecap="round"/>
+<path d="M478 282Q455 330 430 388" fill="none" stroke="#b03a3a" stroke-width="2.2" stroke-linecap="round"/>
+<path d="M478 282Q470 240 470 180" fill="none" stroke="#b03a3a" stroke-width="2.2" stroke-linecap="round"/>
+<use href="#sl" transform="translate(461.2 263.6) rotate(-72.8)"/><use href="#sl" transform="translate(461.2 263.6) rotate(-192.8)"/><use href="#sl" transform="translate(450.4 252) rotate(-73.2)"/><use href="#sl" transform="translate(450.4 252) rotate(-193.2)"/><use href="#sl" transform="translate(439.5 240.5) rotate(-73.6)"/><use href="#sl" transform="translate(439.5 240.5) rotate(-193.6)"/><use href="#sl" transform="translate(428.5 229.1) rotate(-74)"/><use href="#sl" transform="translate(428.5 229.1) rotate(-194)"/><use href="#sl" transform="translate(417.5 217.7) rotate(-74.4)"/><use href="#sl" transform="translate(417.5 217.7) rotate(-194.4)"/><use href="#sl" transform="translate(406.4 206.4) rotate(-74.8)"/><use href="#sl" transform="translate(406.4 206.4) rotate(-194.8)"/><use href="#sl" transform="translate(488.6 259.5) rotate(-2.7)"/><use href="#sl" transform="translate(488.6 259.5) rotate(-122.7)"/><use href="#sl" transform="translate(496.2 245.6) rotate(0.1)"/><use href="#sl" transform="translate(496.2 245.6) rotate(-119.9)"/><use href="#sl" transform="translate(504.5 232) rotate(2.9)"/><use href="#sl" transform="translate(504.5 232) rotate(-117.1)"/><use href="#sl" transform="translate(513.5 218.7) rotate(5.6)"/><use href="#sl" transform="translate(513.5 218.7) rotate(-114.4)"/><use href="#sl" transform="translate(523.3 205.7) rotate(8.2)"/><use href="#sl" transform="translate(523.3 205.7) rotate(-111.8)"/><use href="#sl" transform="translate(533.7 193.1) rotate(10.8)"/><use href="#sl" transform="translate(533.7 193.1) rotate(-109.2)"/><use href="#sl" transform="translate(457.4 290.8) rotate(214.4)"/><use href="#sl" transform="translate(457.4 290.8) rotate(94.4)"/><use href="#sl" transform="translate(444.7 297.3) rotate(211.1)"/><use href="#sl" transform="translate(444.7 297.3) rotate(91.1)"/><use href="#sl" transform="translate(432.5 304.5) rotate(207.9)"/><use href="#sl" transform="translate(432.5 304.5) rotate(87.9)"/><use href="#sl" transform="translate(420.7 312.4) rotate(204.6)"/><use href="#sl" transform="translate(420.7 312.4) rotate(84.6)"/><use href="#sl" transform="translate(409.2 321) rotate(201.4)"/><use href="#sl" transform="translate(409.2 321) rotate(81.4)"/><use href="#sl" transform="translate(398.1 330.4) rotate(198.3)"/><use href="#sl" transform="translate(398.1 330.4) rotate(78.3)"/><use href="#sl" transform="translate(500.3 283.8) rotate(60.1)"/><use href="#sl" transform="translate(500.3 283.8) rotate(-59.9)"/><use href="#sl" transform="translate(513.9 283.1) rotate(54.1)"/><use href="#sl" transform="translate(513.9 283.1) rotate(-65.9)"/><use href="#sl" transform="translate(527 281) rotate(47.7)"/><use href="#sl" transform="translate(527 281) rotate(-72.3)"/><use href="#sl" transform="translate(539.6 277.5) rotate(41.3)"/><use href="#sl" transform="translate(539.6 277.5) rotate(-78.7)"/><use href="#sl" transform="translate(551.8 272.6) rotate(34.8)"/><use href="#sl" transform="translate(551.8 272.6) rotate(-85.2)"/><use href="#sl" transform="translate(563.5 266.2) rotate(28.5)"/><use href="#sl" transform="translate(563.5 266.2) rotate(-91.5)"/><use href="#sl" transform="translate(484.2 307.2) rotate(134.3)"/><use href="#sl" transform="translate(484.2 307.2) rotate(14.3)"/><use href="#sl" transform="translate(489 323) rotate(131.7)"/><use href="#sl" transform="translate(489 323) rotate(11.7)"/><use href="#sl" transform="translate(494.5 338.5) rotate(129.1)"/><use href="#sl" transform="translate(494.5 338.5) rotate(9.1)"/><use href="#sl" transform="translate(500.7 353.8) rotate(126.5)"/><use href="#sl" transform="translate(500.7 353.8) rotate(6.5)"/><use href="#sl" transform="translate(507.7 368.8) rotate(124)"/><use href="#sl" transform="translate(507.7 368.8) rotate(4)"/><use href="#sl" transform="translate(515.3 383.6) rotate(121.4)"/><use href="#sl" transform="translate(515.3 383.6) rotate(1.4)"/><use href="#sl" transform="translate(467.8 303.6) rotate(175)"/><use href="#sl" transform="translate(467.8 303.6) rotate(55)"/><use href="#sl" transform="translate(461.2 317.9) rotate(174.7)"/><use href="#sl" transform="translate(461.2 317.9) rotate(54.7)"/><use href="#sl" transform="translate(454.5 332.5) rotate(174.4)"/><use href="#sl" transform="translate(454.5 332.5) rotate(54.4)"/><use href="#sl" transform="translate(447.7 347.5) rotate(174.1)"/><use href="#sl" transform="translate(447.7 347.5) rotate(54.1)"/><use href="#sl" transform="translate(440.9 363) rotate(173.8)"/><use href="#sl" transform="translate(440.9 363) rotate(53.8)"/><use href="#sl" transform="translate(434 378.8) rotate(173.5)"/><use href="#sl" transform="translate(434 378.8) rotate(53.5)"/><use href="#sl" transform="translate(474.9 262.6) rotate(-37.7)"/><use href="#sl" transform="translate(474.9 262.6) rotate(-157.7)"/><use href="#sl" transform="translate(473.3 249.4) rotate(-36)"/><use href="#sl" transform="translate(473.3 249.4) rotate(-156)"/><use href="#sl" transform="translate(472 235.5) rotate(-34.5)"/><use href="#sl" transform="translate(472 235.5) rotate(-154.5)"/><use href="#sl" transform="translate(471 220.9) rotate(-33.1)"/><use href="#sl" transform="translate(471 220.9) rotate(-153.1)"/><use href="#sl" transform="translate(470.4 205.5) rotate(-31.8)"/><use href="#sl" transform="translate(470.4 205.5) rotate(-151.8)"/><use href="#sl" transform="translate(470.1 189.5) rotate(-30.6)"/><use href="#sl" transform="translate(470.1 189.5) rotate(-150.6)"/>
+<g stroke="#0b5cad" stroke-width="1" fill="none"><path d="M560 268 L590 300"/><path d="M533 193 L590 216"/></g>
+<g fill="#0b5cad"><circle cx="560" cy="268" r="2.5"/><circle cx="533" cy="193" r="2.5"/></g>
+<text x="594" y="214" font-size="15">叶片<tspan font-weight="bold">薄而小</tspan></text>
+<text x="594" y="234" font-size="15"><tspan font-weight="bold">不肉质</tspan></text>
+<text x="594" y="306" font-size="15">茎常带红色</text>
+<text x="594" y="326" font-size="15">趴地生长</text>
+<line x1="22" y1="414" x2="343" y2="414" stroke="#ccc" stroke-dasharray="4 3"/>
+<line x1="377" y1="414" x2="698" y2="414" stroke="#ccc" stroke-dasharray="4 3"/>
+<text x="26" y="440" font-size="16" font-weight="bold" fill="#0b5cad">掐断茎,看断口流出什么</text>
+<text x="381" y="440" font-size="16" font-weight="bold" fill="#0b5cad">掐断茎,看断口流出什么</text>
+<g stroke-linecap="round"><path d="M40 492 L112 492" stroke="#7a3a3a" stroke-width="17"/><path d="M40 492 L112 492" stroke="#c0787a" stroke-width="13"/><path d="M134 496 L200 512" stroke="#7a3a3a" stroke-width="17"/><path d="M134 496 L200 512" stroke="#c0787a" stroke-width="13"/></g>
+<ellipse cx="118" cy="492" rx="3.5" ry="7.5" fill="#dff0c8" stroke="#4d6b2a" stroke-width="1.2"/>
+<ellipse cx="129" cy="495" rx="3.5" ry="7.5" fill="#dff0c8" stroke="#4d6b2a" stroke-width="1.2" transform="rotate(14 129 495)"/>
+<path d="M118 500 C111 512 108 522 112 530 C116 537 126 537 128 529 C130 521 124 511 118 500 Z" fill="#e8f4fb" fill-opacity="0.7" stroke="#4a8ab8" stroke-width="1.6"/>
+<path d="M114 522 C114 526 117 529 120 529" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+<path d="M128 524 L160 556" stroke="#0b5cad" stroke-width="1"/><circle cx="128" cy="524" r="2" fill="#0b5cad"/>
+<text x="40" y="582" font-size="16"><tspan font-weight="bold">透明的黏液</tspan></text>
+<text x="40" y="604" font-size="16"><tspan font-weight="bold">没有白色乳汁</tspan></text>
+<text x="40" y="632" font-size="14" fill="#555">肉质草本,叶肥厚多汁</text>
+<text x="210" y="580" font-size="15" fill="#0b5cad">→ 是马齿苋</text>
+<g stroke="#b03a3a" stroke-width="4" stroke-linecap="round"><path d="M396 490 L466 490"/><path d="M486 494 L556 508"/></g>
+<use href="#sl" transform="translate(420 490) rotate(-60)"/><use href="#sl" transform="translate(420 490) rotate(60)"/><use href="#sl" transform="translate(530 503) rotate(-48)"/><use href="#sl" transform="translate(530 503) rotate(72)"/>
+<path d="M467 492 C462 500 458 510 461 518 C464 526 476 526 478 518 C480 510 474 500 467 492 Z" fill="#f8f6ee" stroke="#666" stroke-width="2"/><path d="M463 512 C463 516 466 519 469 519" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+<circle cx="468" cy="488" r="4.5" fill="#fffef6" stroke="#666" stroke-width="1.6"/><circle cx="485" cy="493" r="4" fill="#fffef6" stroke="#666" stroke-width="1.6"/>
+<path d="M478 514 L510 556" stroke="#0b5cad" stroke-width="1"/><circle cx="478" cy="514" r="2" fill="#0b5cad"/>
+<text x="396" y="582" font-size="16" fill="#c33"><tspan font-weight="bold">白色乳汁</tspan></text>
+<text x="396" y="606" font-size="14">乳汁刺激皮肤和眼睛</text>
+<text x="396" y="626" font-size="14">误食引起口腔灼痛、剧烈呕吐腹泻</text>
+<text x="566" y="560" font-size="15" fill="#c33">→ 不是马齿苋</text>
+<text x="396" y="652" font-size="13" fill="#555">同科的泽漆直立,叶在茎顶轮生("五朵云")</text>
+<rect x="10" y="682" width="700" height="124" rx="8" fill="#fdecec" stroke="#c33" stroke-width="2"/>
+<text x="360" y="712" font-size="17" font-weight="bold" fill="#c33" text-anchor="middle">有白色乳汁的一律不是马齿苋——不采、不吃</text>
+<text x="360" y="740" font-size="15" text-anchor="middle">马齿苋: 肉质、叶厚像小勺子、茎圆柱形光滑,掐断是透明黏液</text>
+<text x="360" y="764" font-size="15" text-anchor="middle">大戟科: 叶薄而小、不肉质,折断有白色乳汁</text>
+<text x="360" y="792" font-size="16" font-weight="bold" fill="#c33" text-anchor="middle">认不准不采;路边、刚打过药的田边不采</text>
+</g></svg>
