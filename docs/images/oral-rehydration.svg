@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 892" width="720" height="892" role="img" aria-label="腹泻呕吐时的口服补液。首选药店买的口服补液盐III,按说明书冲配。没有时家庭应急自配(非WHO标准配方,不含钾): 1 L凉开水(约两瓶500 mL矿泉水),加食盐半平茶匙(约3 g)、白糖6平茶匙(约25 g);平茶匙是用筷子刮平的一平勺,约5 mL,不是堆尖的一勺。配好后尝一下,咸味不应超过眼泪的咸度,太咸就加水稀释;没有白糖可用1 L稀米汤代替糖水,盐量不变;室温下24小时内喝完;可同时吃香蕉等补钾;盐不能多放。喂法: 少量多次,婴幼儿用小勺或杯子每1-2分钟喂一勺(约5 mL),不要大口猛喝;喂后呕吐停10分钟再更慢地继续;继续母乳,照常喝水喂奶;不要用运动饮料、碳酸饮料、纯果汁代替。无明显脱水时每次稀便后: 2岁以下50-100 mL,2-10岁100-200 mL,10岁以上和成人200-400 mL。有些脱水时4小时内喂完75 mL乘体重(kg),4小时后重新评估。尿量恢复、尿色变淡、精神好转说明补够了。嗜睡叫不醒、眼窝明显凹陷、不能喝或持续呕吐、皮肤回平超过2秒、尿很少或6小时以上没尿、血便黑便、高烧超过39°C、剧烈腹痛、腹泻超过3天无改善,立即就医" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>腹泻呕吐时的口服补液</title>
+<defs>
+<g id="tsp">
+<path d="M17 -1 L40 -7" stroke="#333" stroke-width="5" stroke-linecap="round"/>
+<path d="M17 -1 L40 -7" stroke="#e4e4e4" stroke-width="2" stroke-linecap="round"/>
+<ellipse cx="0" cy="0" rx="18" ry="10" fill="#f6efdc" stroke="#333" stroke-width="2"/>
+</g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">腹泻、呕吐时的口服补液</text>
+<text x="360" y="52" font-size="13" text-anchor="middle" fill="#555">首选药店买的口服补液盐III(ORS III),按说明书冲配;没有时才自配(非WHO标准配方,不含钾)</text>
+
+<!-- ① 配方 -->
+<g transform="translate(10,64)">
+<rect x="0" y="0" width="700" height="304" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">① 家庭应急自配(没有口服补液盐时)</text>
+<!-- 水壶 1 L -->
+<path d="M100 76 Q124 80 122 104 Q120 128 100 132" fill="none" stroke="#333" stroke-width="3"/>
+<rect x="42" y="80" width="56" height="76" fill="#cfe5f5"/>
+<path d="M32 54 L42 62 V150 Q42 158 50 158 H90 Q98 158 98 150 V58" fill="none" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M42 80 H98" stroke="#3a7fc0" stroke-width="1.5"/>
+<text x="70" y="128" font-size="22" font-weight="bold" fill="#0b5cad" text-anchor="middle">1 L</text>
+<text x="70" y="184" font-size="15" font-weight="bold" text-anchor="middle">凉开水</text>
+<text x="70" y="204" font-size="12" text-anchor="middle" fill="#555">约两瓶500 mL</text>
+<text x="70" y="220" font-size="12" text-anchor="middle" fill="#555">矿泉水瓶的量</text>
+<text x="152" y="122" font-size="32" font-weight="bold" text-anchor="middle" fill="#555">+</text>
+<!-- 盐 半平茶匙 -->
+<path d="M236 106 L292 92" stroke="#333" stroke-width="8" stroke-linecap="round"/>
+<path d="M236 106 L292 92" stroke="#e4e4e4" stroke-width="3.5" stroke-linecap="round"/>
+<ellipse cx="208" cy="108" rx="30" ry="16" fill="#fff"/>
+<path d="M178 108 A30 16 0 0 0 208 124 V92 A30 16 0 0 0 178 108 Z" fill="#dcdcdc"/>
+<g fill="#999"><circle cx="190" cy="104" r="1.2"/><circle cx="198" cy="112" r="1.2"/><circle cx="186" cy="113" r="1.2"/><circle cx="202" cy="100" r="1.2"/><circle cx="196" cy="118" r="1.2"/><circle cx="204" cy="108" r="1.2"/></g>
+<ellipse cx="208" cy="108" rx="30" ry="16" fill="none" stroke="#333" stroke-width="2.5"/>
+<text x="232" y="164" font-size="15" font-weight="bold" text-anchor="middle">食盐</text>
+<text x="232" y="186" font-size="17" font-weight="bold" text-anchor="middle" fill="#c33">半平茶匙</text>
+<text x="232" y="206" font-size="13" text-anchor="middle">(约3 g)</text>
+<text x="318" y="122" font-size="32" font-weight="bold" text-anchor="middle" fill="#555">+</text>
+<!-- 糖 6平茶匙 -->
+<use href="#tsp" x="362" y="86"/><use href="#tsp" x="418" y="86"/><use href="#tsp" x="474" y="86"/>
+<use href="#tsp" x="362" y="124"/><use href="#tsp" x="418" y="124"/><use href="#tsp" x="474" y="124"/>
+<text x="430" y="164" font-size="15" font-weight="bold" text-anchor="middle">白糖</text>
+<text x="430" y="186" font-size="17" font-weight="bold" text-anchor="middle" fill="#c33">6平茶匙</text>
+<text x="430" y="206" font-size="13" text-anchor="middle">(约25 g)</text>
+<!-- 平茶匙怎么量 -->
+<path d="M535 36 V218" stroke="#ddd" stroke-width="1.5"/>
+<text x="617" y="50" font-size="14" font-weight="bold" text-anchor="middle">“平茶匙”怎么量</text>
+<path d="M556 92 Q576 62 596 92 Z" fill="#f6efdc" stroke="#333" stroke-width="1.8"/>
+<use href="#tsp" x="576" y="94"/>
+<use href="#tsp" x="648" y="94"/>
+<path d="M622 85 L688 81" stroke="#8a6a3a" stroke-width="4" stroke-linecap="round"/>
+<text x="580" y="128" font-size="13" font-weight="bold" text-anchor="middle" fill="#c33">✗ 堆尖</text>
+<text x="652" y="128" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b5cad">✓ 筷子刮平</text>
+<text x="617" y="160" font-size="13" text-anchor="middle">一平茶匙约5 mL</text>
+<text x="617" y="180" font-size="12" text-anchor="middle" fill="#555">不是堆尖的一勺</text>
+<!-- 要点 -->
+<path d="M10 230 H690" stroke="#ddd" stroke-width="1"/>
+<g font-size="13">
+<text x="14" y="254">✓ 尝一下: 咸味不应超过眼泪的咸度,太咸就加水稀释</text>
+<text x="14" y="274">✓ 没有白糖: 用1 L稀米汤代替糖水,盐量不变</text>
+<text x="14" y="292" font-size="11" fill="#555">   (米煮烂后滤出的汤,放凉)</text>
+<text x="384" y="254">✓ 室温下24小时内喝完,剩下的倒掉重配</text>
+<text x="384" y="274">✓ 不含钾: 可同时吃香蕉等补钾</text>
+<text x="384" y="294" fill="#c33" font-weight="bold">✗ 盐不能多放(过咸会加重脱水)</text>
+</g>
+</g>
+
+<!-- ② 怎么喂 -->
+<g transform="translate(10,378)">
+<rect x="0" y="0" width="345" height="312" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">② 怎么喂: 少量多次</text>
+<path d="M88 66 L148 50" stroke="#333" stroke-width="8" stroke-linecap="round"/>
+<path d="M88 66 L148 50" stroke="#e4e4e4" stroke-width="3.5" stroke-linecap="round"/>
+<ellipse cx="62" cy="70" rx="30" ry="15" fill="#cfe5f5" stroke="#333" stroke-width="2.5"/>
+<text x="62" y="108" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b5cad">一勺约5 mL</text>
+<circle cx="250" cy="66" r="26" fill="#fff" stroke="#333" stroke-width="2.5"/>
+<path d="M250 44 V48 M250 84 V88 M228 66 H232 M268 66 H272" stroke="#333" stroke-width="2"/>
+<path d="M250 66 V50 M250 66 L262 72" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M250 40 A26 26 0 0 1 274 56" fill="none" stroke="#c33" stroke-width="3"/>
+<text x="250" y="108" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b5cad">每1-2分钟一勺</text>
+<g font-size="13">
+<text x="12" y="140">婴幼儿用小勺或杯子,每1-2分钟喂一勺,</text>
+<text x="12" y="158" fill="#c33">不要让孩子一次大口猛喝</text>
+<text x="12" y="184">喂后呕吐: 停10分钟,再更慢地继续喂</text>
+<text x="12" y="201" font-size="12" fill="#555">大多数呕吐的孩子仍能吸收大部分补液</text>
+<text x="12" y="226">母乳喂养的继续母乳,两次喂奶之间喂补液</text>
+<text x="12" y="246">室温或微温饮用</text>
+<text x="12" y="276" fill="#c33" font-weight="bold">✗ 不要用运动饮料、碳酸饮料、</text>
+<text x="12" y="294" fill="#c33" font-weight="bold">   纯果汁代替: 糖太多,会加重腹泻</text>
+</g>
+</g>
+
+<!-- ③ 喝多少 -->
+<g transform="translate(365,378)">
+<rect x="0" y="0" width="345" height="312" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">③ 喝多少</text>
+<text x="12" y="50" font-size="14" font-weight="bold">无明显脱水(方案A),每次稀便后:</text>
+<g font-size="14">
+<rect x="10" y="58" width="325" height="72" fill="#f3f7fb"/>
+<path d="M10 82 H335 M10 106 H335" stroke="#d5e0ec" stroke-width="1"/>
+<text x="20" y="76">2岁以下</text><text x="325" y="76" text-anchor="end" font-weight="bold" fill="#0b5cad">50-100 mL</text>
+<text x="20" y="100">2-10岁</text><text x="325" y="100" text-anchor="end" font-weight="bold" fill="#0b5cad">100-200 mL</text>
+<text x="20" y="124">10岁以上和成人</text><text x="325" y="124" text-anchor="end" font-weight="bold" fill="#0b5cad">200-400 mL</text>
+</g>
+<text x="12" y="148" font-size="12" fill="#555">10岁以上和成人想喝多少喝多少;同时照常喝水、喂奶</text>
+<text x="12" y="178" font-size="14" font-weight="bold">有些脱水(方案B,最好到医院):</text>
+<text x="12" y="204" font-size="14">4小时内喂完</text>
+<text x="104" y="205" font-size="19" font-weight="bold" fill="#c33">75 mL × 体重(kg)</text>
+<text x="12" y="226" font-size="13" fill="#555">例: 10 kg的孩子,4小时内约750 mL</text>
+<text x="12" y="250" font-size="13">4小时后重新评估: 好转 → 回到方案A;</text>
+<text x="12" y="268" font-size="13"><tspan fill="#c33" font-weight="bold">没好转或加重 → 立即送医</tspan></text>
+<text x="12" y="292" font-size="13" fill="#0b5cad" font-weight="bold">补够了: 尿量恢复、尿色变淡、精神好转</text>
+</g>
+
+<!-- ④ 就医 -->
+<g transform="translate(10,700)">
+<rect x="0" y="0" width="700" height="182" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<text x="12" y="26" font-size="16" font-weight="bold" fill="#c33">④ 有以下情况立即就医(重度脱水要到医院静脉补液)</text>
+<g font-size="14">
+<text x="14" y="54">• 嗜睡、软弱无力、叫不醒,意识模糊</text>
+<text x="14" y="78">• 眼窝明显凹陷,哭时没有眼泪</text>
+<text x="14" y="102">• 喝得很少或不能喝;持续呕吐无法补液</text>
+<text x="14" y="126">• 捏起腹部皮肤再松开,回平超过2秒</text>
+<text x="370" y="54">• 尿很少,或6小时以上没尿</text>
+<text x="384" y="74" font-size="12" fill="#555">(婴儿6小时以上尿布是干的)</text>
+<text x="370" y="98">• 血便或黑便</text>
+<text x="370" y="122">• 高烧(&gt;39°C)、剧烈腹痛</text>
+<text x="370" y="146">• 腹泻超过3天无改善</text>
+</g>
+<text x="14" y="172" font-size="13" fill="#555">另外: 6个月以下婴儿腹泻尽早就医;老人口渴感迟钝,8小时以上不排尿、尿色像浓茶也要就医</text>
+</g>
+</g>
+</svg>

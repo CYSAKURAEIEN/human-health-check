@@ -1,0 +1,162 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 868" width="720" height="868" role="img" aria-label="药材的干燥示意: 晒干适用于大多数根及根茎、果实、种子、皮类和不含挥发油的全草,摊薄一层勤翻动,傍晚收回防夜露回潮;阴干适用于花类、叶类和含挥发油的芳香类药材,放在通风的阴凉处或屋檐下,避免暴晒;烘干用于阴雨天、量大或需要快速干燥的药材,用烘房、火炕、低温炉控制温度。烘干温度: 含挥发油的芳香类不超过约35-40°C(教材多取35°C),一般药材约50-60°C,含维生素C的多汁果实约70-90°C快速干燥;含油脂多的种子不宜高温,会走油;颜色鲜艳的花、芳香类、含挥发油的根不宜暴晒。判断干透: 根和根茎断面没有湿心、折断声音清脆;叶和花一搓就碎;全草茎一折就断;果实种子摇动时声音清脆;皮类一折就断、不弯不软;连续两天称重不再明显减少。宁可多晒一天,不要没干透就装起来">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>药材的干燥</title>
+<defs>
+<g id="sl"><ellipse rx="9" ry="4" fill="#e8cfa0" stroke="#333" stroke-width="1"/></g>
+</defs>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" fill="#222">
+<text x="360" y="30" font-size="18" font-weight="bold" text-anchor="middle">药材的干燥: 晒干、阴干、烘干</text>
+<text x="360" y="52" font-size="13" fill="#555" text-anchor="middle">干燥是产地加工最关键的一步: 干得快、干得透,才不霉不坏(具体品种以各章为准)</text>
+<rect x="10" y="66" width="226" height="292" rx="8" fill="none" stroke="#999" stroke-width="1.5"/>
+<text x="24" y="90" font-size="16" font-weight="bold">① 晒干</text>
+<circle cx="200" cy="116" r="13" fill="#f5c518" stroke="#333" stroke-width="1.5"/>
+<path d="M217,116 L224,116 M212,128 L217,133 M200,133 L200,140 M188,128 L183,133 M183,116 L176,116 M188,104 L183,99 M200,99 L200,92 M212,104 L217,99" stroke="#e8a33a" stroke-width="2" stroke-linecap="round"/>
+<path d="M46,184 L46,214 M186,184 L186,214" stroke="#8a5a2b" stroke-width="3"/>
+<line x1="24" y1="215" x2="222" y2="215" stroke="#999" stroke-width="3"/>
+<rect x="34" y="180" width="164" height="6" rx="2" fill="#d9c08a" stroke="#333" stroke-width="1.3"/>
+<use href="#sl" x="46" y="176"/>
+<use href="#sl" x="66" y="176"/>
+<use href="#sl" x="86" y="176"/>
+<use href="#sl" x="106" y="176"/>
+<use href="#sl" x="126" y="176"/>
+<use href="#sl" x="146" y="176"/>
+<use href="#sl" x="166" y="176"/>
+<use href="#sl" x="186" y="176"/>
+<path d="M80,164 C90,142 120,142 130,160" fill="none" stroke="#c33" stroke-width="2"/><path d="M124,156 L131,163 L134,153" fill="none" stroke="#c33" stroke-width="2"/>
+<text x="140" y="158" font-size="13" fill="#c33">勤翻动</text>
+<text x="24" y="260" font-size="13" fill="#222" text-anchor="start"><tspan font-weight="bold">适用:</tspan> 大多数根及根茎、</text>
+<text x="24" y="278" font-size="13" fill="#222" text-anchor="start">果实、种子、皮类,</text>
+<text x="24" y="296" font-size="13" fill="#222" text-anchor="start">不含挥发油的全草</text>
+<text x="24" y="320" font-size="13" fill="#0b5cad" text-anchor="start">摊薄一层,勤翻动;</text>
+<text x="24" y="338" font-size="13" fill="#0b5cad" text-anchor="start">傍晚收回,防夜露回潮</text>
+<rect x="247" y="66" width="226" height="292" rx="8" fill="none" stroke="#999" stroke-width="1.5"/>
+<text x="261" y="90" font-size="16" font-weight="bold">② 阴干</text>
+<path d="M259,132 L397,106 L461,118 L461,130 L397,120 L259,146 Z" fill="#b9a68a" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<line x1="277" y1="146" x2="437" y2="134" stroke="#555" stroke-width="1.5"/>
+<path d="M297,143.5 L297,157.5" stroke="#555" stroke-width="1.5"/>
+<path d="M297,155.5 L287,203.5 L307,203.5 Z" fill="#cfe3b0" stroke="#333" stroke-width="1.3" stroke-linejoin="round"/>
+<path d="M293,173.5 L289,195.5 M300,173.5 L303,195.5" stroke="#6a8a3a" stroke-width="1"/>
+<path d="M339,140.3 L339,154.3" stroke="#555" stroke-width="1.5"/>
+<path d="M339,152.3 L329,200.3 L349,200.3 Z" fill="#cfe3b0" stroke="#333" stroke-width="1.3" stroke-linejoin="round"/>
+<path d="M335,170.3 L331,192.3 M342,170.3 L345,192.3" stroke="#6a8a3a" stroke-width="1"/>
+<path d="M381,137.2 L381,151.2" stroke="#555" stroke-width="1.5"/>
+<path d="M381,149.2 L371,197.2 L391,197.2 Z" fill="#cfe3b0" stroke="#333" stroke-width="1.3" stroke-linejoin="round"/>
+<path d="M377,167.2 L373,189.2 M384,167.2 L387,189.2" stroke="#6a8a3a" stroke-width="1"/>
+<path d="M419,134.3 L419,148.3" stroke="#555" stroke-width="1.5"/>
+<path d="M419,146.3 L409,194.3 L429,194.3 Z" fill="#cfe3b0" stroke="#333" stroke-width="1.3" stroke-linejoin="round"/>
+<path d="M415,164.3 L411,186.3 M422,164.3 L425,186.3" stroke="#6a8a3a" stroke-width="1"/>
+<path d="M267,216 q20,-8 40,0 t40,0 t40,0 t40,0 M277,228 q20,-8 40,0 t40,0 t40,0" fill="none" stroke="#0b5cad" stroke-width="1.5"/>
+<path d="M425,210 l8,6 l-9,4" fill="none" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="443" y="232" font-size="13" fill="#0b5cad" text-anchor="middle">通风</text>
+<text x="261" y="260" font-size="13" fill="#222" text-anchor="start"><tspan font-weight="bold">适用:</tspan> 花类、叶类、</text>
+<text x="261" y="278" font-size="13" fill="#222" text-anchor="start">含挥发油的芳香类</text>
+<text x="261" y="296" font-size="13" fill="#222" text-anchor="start">(如薄荷、紫苏)</text>
+<text x="261" y="320" font-size="13" fill="#0b5cad" text-anchor="start">通风的阴凉处或屋檐下;</text>
+<text x="261" y="338" font-size="13" fill="#0b5cad" text-anchor="start">避免暴晒散失香气和褪色</text>
+<rect x="484" y="66" width="226" height="292" rx="8" fill="none" stroke="#999" stroke-width="1.5"/>
+<text x="498" y="90" font-size="16" font-weight="bold">③ 烘干</text>
+<rect x="514" y="172" width="140" height="52" rx="3" fill="#d9c8b0" stroke="#333" stroke-width="1.8"/>
+<rect x="564" y="194" width="40" height="30" rx="2" fill="#555" stroke="#333" stroke-width="1.5"/>
+<path d="M572,224 C568,212 578,208 576,198 C584,206 590,210 586,198 C596,208 600,216 596,224 Z" fill="#e8a33a" stroke="#c33" stroke-width="1.2"/>
+<rect x="508" y="162" width="152" height="6" rx="2" fill="#d9c08a" stroke="#333" stroke-width="1.3"/>
+<use href="#sl" x="522" y="158"/>
+<use href="#sl" x="543" y="158"/>
+<use href="#sl" x="564" y="158"/>
+<use href="#sl" x="585" y="158"/>
+<use href="#sl" x="606" y="158"/>
+<use href="#sl" x="627" y="158"/>
+<use href="#sl" x="648" y="158"/>
+<path d="M544,150 q-5,-8 0,-16 t0,-16 M584,150 q-5,-8 0,-16 t0,-16 M624,150 q-5,-8 0,-16 t0,-16" fill="none" stroke="#c33" stroke-width="1.3" opacity="0.7"/>
+<rect x="675" y="112" width="10" height="64" rx="5" fill="#fff" stroke="#333" stroke-width="1.5"/><rect x="678" y="138" width="4" height="40" fill="#c33"/><circle cx="680" cy="182" r="8" fill="#c33" stroke="#333" stroke-width="1.5"/>
+<text x="680" y="208" font-size="13" fill="#c33" text-anchor="middle">控温</text>
+<text x="498" y="260" font-size="13" fill="#222" text-anchor="start"><tspan font-weight="bold">适用:</tspan> 阴雨天、量大、</text>
+<text x="498" y="278" font-size="13" fill="#222" text-anchor="start">或需要快速干燥的药材</text>
+<text x="498" y="320" font-size="13" fill="#0b5cad" text-anchor="start">用烘房、火炕、低温炉,</text>
+<text x="498" y="338" font-size="13" fill="#0b5cad" text-anchor="start">控制温度(见下)</text>
+<rect x="10" y="370" width="700" height="230" rx="8" fill="none" stroke="#999" stroke-width="1.5"/>
+<text x="24" y="394" font-size="16" font-weight="bold">④ 烘干温度(参考教材的一般原则)</text>
+<line x1="236" y1="520" x2="690" y2="520" stroke="#333" stroke-width="1.5"/>
+<line x1="236" y1="520" x2="236" y2="525" stroke="#333" stroke-width="1.5"/>
+<text x="236" y="540" font-size="12" fill="#555" text-anchor="middle">30°C</text>
+<line x1="236" y1="410" x2="236" y2="520" stroke="#eee" stroke-width="1"/>
+<line x1="311.7" y1="520" x2="311.7" y2="525" stroke="#333" stroke-width="1.5"/>
+<text x="311.7" y="540" font-size="12" fill="#555" text-anchor="middle">40°C</text>
+<line x1="311.7" y1="410" x2="311.7" y2="520" stroke="#eee" stroke-width="1"/>
+<line x1="387.3" y1="520" x2="387.3" y2="525" stroke="#333" stroke-width="1.5"/>
+<text x="387.3" y="540" font-size="12" fill="#555" text-anchor="middle">50°C</text>
+<line x1="387.3" y1="410" x2="387.3" y2="520" stroke="#eee" stroke-width="1"/>
+<line x1="463" y1="520" x2="463" y2="525" stroke="#333" stroke-width="1.5"/>
+<text x="463" y="540" font-size="12" fill="#555" text-anchor="middle">60°C</text>
+<line x1="463" y1="410" x2="463" y2="520" stroke="#eee" stroke-width="1"/>
+<line x1="538.7" y1="520" x2="538.7" y2="525" stroke="#333" stroke-width="1.5"/>
+<text x="538.7" y="540" font-size="12" fill="#555" text-anchor="middle">70°C</text>
+<line x1="538.7" y1="410" x2="538.7" y2="520" stroke="#eee" stroke-width="1"/>
+<line x1="614.3" y1="520" x2="614.3" y2="525" stroke="#333" stroke-width="1.5"/>
+<text x="614.3" y="540" font-size="12" fill="#555" text-anchor="middle">80°C</text>
+<line x1="614.3" y1="410" x2="614.3" y2="520" stroke="#eee" stroke-width="1"/>
+<line x1="690" y1="520" x2="690" y2="525" stroke="#333" stroke-width="1.5"/>
+<text x="690" y="540" font-size="12" fill="#555" text-anchor="middle">90°C</text>
+<line x1="690" y1="410" x2="690" y2="520" stroke="#eee" stroke-width="1"/>
+<text x="24" y="431" font-size="14">含挥发油的芳香类</text>
+<path d="M222,426 L236,416 L273.8,416 L273.8,436 L236,436 Z" fill="#8fbf6a" stroke="#333" stroke-width="1" stroke-linejoin="round"/>
+<rect x="273.8" y="416" width="37.8" height="20" fill="#8fbf6a" fill-opacity="0.4" stroke="#333" stroke-width="1" stroke-dasharray="3 2"/>
+<text x="319.7" y="431" font-size="14" font-weight="bold" fill="#0b5cad" text-anchor="start">不超过约35-40°C<tspan font-weight="normal" font-size="12" fill="#555"> (教材多取35°C)</tspan></text>
+<text x="24" y="467" font-size="14">一般药材</text>
+<rect x="387.3" y="452" width="75.7" height="20" fill="#e8a33a" stroke="#333" stroke-width="1"/>
+<text x="471" y="467" font-size="14" font-weight="bold" fill="#0b5cad" text-anchor="start">约50-60°C<tspan font-weight="normal" font-size="12" fill="#555"> </tspan></text>
+<text x="24" y="503" font-size="14">含维生素C的多汁果实</text>
+<rect x="538.7" y="488" width="151.3" height="20" fill="#d9534f" stroke="#333" stroke-width="1"/>
+<text x="530.7" y="503" font-size="14" font-weight="bold" fill="#0b5cad" text-anchor="end">约70-90°C,快速干燥<tspan font-weight="normal" font-size="12" fill="#555"> </tspan></text>
+<text x="24" y="567" font-size="13" fill="#222" text-anchor="start"><tspan fill="#c33" font-weight="bold">✗ 不宜高温:</tspan> 含油脂多的种子(杏仁、桃仁、柏子仁),高温会"走油"</text>
+<text x="24" y="587" font-size="13" fill="#222" text-anchor="start"><tspan fill="#c33" font-weight="bold">✗ 不宜暴晒:</tspan> 颜色鲜艳的花(红花、金银花)、芳香类、含挥发油的根(当归、川芎)</text>
+<rect x="10" y="612" width="700" height="192" rx="8" fill="none" stroke="#999" stroke-width="1.5"/>
+<text x="24" y="636" font-size="16" font-weight="bold">⑤ 怎样判断干透</text>
+<path d="M28,684 L62,680 L66,688 L62,696 L28,700 Z" fill="#e8cfa0" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M74,676 L108,672 L108,688 L74,692 L78,684 Z" fill="#e8cfa0" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M64,666 l-4,-8 M70,664 l0,-9 M76,666 l4,-8" stroke="#c33" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M154,688 C164,666 188,666 204,680 L192,686 L200,692 L186,694 L190,702 C174,704 160,700 154,688 Z" fill="#c9d7a0" stroke="#333" stroke-width="1.4" stroke-linejoin="round"/>
+<path d="M206,696 l6,3 l-3,5 Z M214,686 l5,2 l-2,5 Z M204,710 l5,1 l-2,4 Z M218,704 l3,3 l-4,2 Z" fill="#c9d7a0" stroke="#333" stroke-width="1"/>
+<path d="M266,710 L297,688 M303,686 L330,662" stroke="#7a8a4a" stroke-width="5" stroke-linecap="round"/>
+<path d="M280,700 l-8,-12 M318,672 l10,4" stroke="#7a8a4a" stroke-width="2"/>
+<path d="M298,676 l-4,-8 M304,674 l1,-9 M310,676 l5,-7" stroke="#c33" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M392,678 L444,678 L438,710 Q418,716 398,710 Z" fill="#f3eadb" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<ellipse cx="406" cy="698" rx="4" ry="3" fill="#a0522d" stroke="#333" stroke-width="0.8"/>
+<ellipse cx="416" cy="702" rx="4" ry="3" fill="#a0522d" stroke="#333" stroke-width="0.8"/>
+<ellipse cx="426" cy="698" rx="4" ry="3" fill="#a0522d" stroke="#333" stroke-width="0.8"/>
+<ellipse cx="432" cy="704" rx="4" ry="3" fill="#a0522d" stroke="#333" stroke-width="0.8"/>
+<ellipse cx="410" cy="706" rx="4" ry="3" fill="#a0522d" stroke="#333" stroke-width="0.8"/>
+<ellipse cx="422" cy="708" rx="4" ry="3" fill="#a0522d" stroke="#333" stroke-width="0.8"/>
+<ellipse cx="402" cy="704" rx="4" ry="3" fill="#a0522d" stroke="#333" stroke-width="0.8"/>
+<path d="M382,686 q-6,8 0,16 M376,682 q-8,12 0,24 M454,686 q6,8 0,16 M460,682 q8,12 0,24" fill="none" stroke="#c33" stroke-width="1.5"/>
+<path d="M496,690 Q514,682 530,684 L534,692 L530,698 Q514,696 496,702 Z" fill="#9c7a54" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M540,680 Q558,674 576,678 L576,690 Q558,688 542,694 L544,686 Z" fill="#9c7a54" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M532,670 l-4,-8 M538,668 l0,-9 M544,670 l4,-8" stroke="#c33" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M622,708 L682,708 L676,686 L628,686 Z" fill="#ddd" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<circle cx="652" cy="697" r="8" fill="#fff" stroke="#333" stroke-width="1.2"/><path d="M652,697 L657,692" stroke="#c33" stroke-width="1.5"/>
+<path d="M624,682 L680,682" stroke="#333" stroke-width="2"/>
+<use href="#sl" x="636" y="676"/>
+<use href="#sl" x="644" y="672"/>
+<use href="#sl" x="652" y="676"/>
+<use href="#sl" x="660" y="672"/>
+<use href="#sl" x="668" y="676"/>
+<text x="68" y="750" font-size="15" font-weight="bold" text-anchor="middle">根、根茎</text>
+<text x="68" y="770" font-size="13" fill="#222" text-anchor="middle">断面没有湿心,</text>
+<text x="68" y="788" font-size="13" fill="#222" text-anchor="middle">折断声音清脆</text>
+<text x="184" y="750" font-size="15" font-weight="bold" text-anchor="middle">叶、花</text>
+<text x="184" y="770" font-size="13" fill="#222" text-anchor="middle">一搓就碎,</text>
+<text x="184" y="788" font-size="13" fill="#222" text-anchor="middle">一捏成粉</text>
+<text x="300" y="750" font-size="15" font-weight="bold" text-anchor="middle">全草</text>
+<text x="300" y="770" font-size="13" fill="#222" text-anchor="middle">茎一折就断</text>
+<text x="418" y="750" font-size="15" font-weight="bold" text-anchor="middle">果实、种子</text>
+<text x="418" y="770" font-size="13" fill="#222" text-anchor="middle">抓一把摇动,</text>
+<text x="418" y="788" font-size="13" fill="#222" text-anchor="middle">声音清脆</text>
+<text x="536" y="750" font-size="15" font-weight="bold" text-anchor="middle">皮类</text>
+<text x="536" y="770" font-size="13" fill="#222" text-anchor="middle">一折就断,</text>
+<text x="536" y="788" font-size="13" fill="#222" text-anchor="middle">不弯不软</text>
+<text x="652" y="750" font-size="15" font-weight="bold" text-anchor="middle">称重</text>
+<text x="652" y="770" font-size="13" fill="#222" text-anchor="middle">连续两天称,</text>
+<text x="652" y="788" font-size="13" fill="#222" text-anchor="middle">不再明显减少</text>
+<rect x="10" y="816" width="700" height="42" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<text x="360" y="843" font-size="15" font-weight="bold" fill="#c33" text-anchor="middle">⚠️ 宁可多晒一天,不要没干透就装起来——几天之内就会发霉</text>
+</g>
+</svg>

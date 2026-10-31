@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1100" width="720" height="1100" role="img" aria-label="根、根茎、块茎、鳞茎怎样区分(示意): 根表面有纵皱纹、皮孔,下部有支根、须根,断面有皮部、形成层环和木部,常有放射状纹理和裂隙(菊花心),人参主根上端的芦头是一段根茎,有碗状茎痕;块根(地黄、何首乌)也是根。根茎有一圈圈环节,上面有茎痕、芽或芽痕,下面和节上长须根或留根痕,节上可见叶痕、残存叶基,甘草根茎断面中央有髓。块茎(天麻)表面有潜伏芽排成的多轮点状环纹,顶端有鹦嘴状芽或残留茎基,另一端有圆脐形疤痕,断面角质样半透明。鳞茎由肉质鳞叶抱合而成,川贝的松贝外层鳞叶2瓣、大瓣紧抱小瓣(怀中抱月),百合药用单片肉质鳞叶,有纵直平行的白色维管束。只看根认不准药,要在植株带花或带果时认准地上部分再挖">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>根、根茎、块茎、鳞茎怎样区分</title>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" fill="#222">
+<text x="360" y="30" font-size="18" font-weight="bold" text-anchor="middle">根、根茎、块茎、鳞茎怎样区分</text>
+<text x="360" y="52" font-size="13" fill="#555" text-anchor="middle">(药材外形示意: 先看表面有没有环节、芽、茎痕,再看断面;具体品种以各章描述为准)</text>
+<rect x="10" y="66" width="700" height="230" rx="8" fill="none" stroke="#999" stroke-width="1.5"/>
+<text x="26" y="92" font-size="17" font-weight="bold">① 根 <tspan font-size="13" font-weight="normal" fill="#555">(例: 黄芪、甘草、桔梗、人参的主根)</tspan></text>
+<line x1="472" y1="106" x2="472" y2="280" stroke="#ddd" stroke-width="1.5"/>
+<path d="M72,110 L88,110 L90,140 L70,140 Z" fill="#d9bb85" stroke="#333" stroke-width="1.8" stroke-linejoin="round"/>
+<ellipse cx="89" cy="116" rx="4" ry="2.6" fill="#b8955a" stroke="#333" stroke-width="1"/>
+<ellipse cx="71" cy="124" rx="4" ry="2.6" fill="#b8955a" stroke="#333" stroke-width="1"/>
+<ellipse cx="89" cy="132" rx="4" ry="2.6" fill="#b8955a" stroke="#333" stroke-width="1"/>
+<path d="M64,140 C58,186 70,236 80,280 C88,236 102,186 96,140 Z" fill="#e8cfa0" stroke="#333" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M68,216 C58,230 50,246 40,266 M92,226 C102,238 110,252 118,270" fill="none" stroke="#333" stroke-width="4" stroke-linecap="round"/>
+<path d="M68,216 C58,230 50,246 40,266 M92,226 C102,238 110,252 118,270" fill="none" stroke="#e8cfa0" stroke-width="2" stroke-linecap="round"/>
+<path d="M48,250 l-10,-2 M56,238 l-8,6 M108,250 l10,-4 M114,262 l8,4 M80,280 l-2,8" stroke="#8a6a3a" stroke-width="1" fill="none"/>
+<path d="M74,148 C71,186 75,226 79,266 M86,148 C89,186 86,226 82,266" fill="none" stroke="#a8875a" stroke-width="1"/>
+<path d="M66,170 h9 M85,192 h9 M69,212 h8 M83,166 h8" stroke="#6a4a2a" stroke-width="2" stroke-linecap="round"/>
+<path d="M90,118 L127,116" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="90" cy="118" r="2" fill="#0b5cad"/>
+<text x="130" y="120" font-size="13" fill="#0b5cad" text-anchor="start">芦头: 一段根茎</text>
+<text x="130" y="138" font-size="13" fill="#0b5cad" text-anchor="start">有碗状茎痕(芦碗)</text>
+<path d="M92,192 L127,184" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="92" cy="192" r="2" fill="#0b5cad"/>
+<text x="130" y="188" font-size="13" fill="#0b5cad" text-anchor="start">纵皱纹、皮孔</text>
+<path d="M116,268 L127,262" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="116" cy="268" r="2" fill="#0b5cad"/>
+<text x="130" y="266" font-size="13" fill="#0b5cad" text-anchor="start">支根、须根</text>
+<text x="322" y="130" font-size="13" fill="#555" text-anchor="middle">横切面</text>
+<circle cx="322" cy="194" r="48" fill="#f6efd9" stroke="#333" stroke-width="2"/>
+<circle cx="322" cy="194" r="29" fill="#f0d470" stroke="#8a5a2b" stroke-width="3"/>
+<path d="M326,194 L349,194 M325.8,195.4 L347.4,203.2 M325.1,196.6 L342.7,211.4 M324,197.5 L335.5,217.4 M322.7,197.9 L326.7,220.6 M321.3,197.9 L317.3,220.6 M320,197.5 L308.5,217.4 M318.9,196.6 L301.3,211.4 M318.2,195.4 L296.6,203.2 M318,194 L295,194 M318.2,192.6 L296.6,184.8 M318.9,191.4 L301.3,176.6 M320,190.5 L308.5,170.6 M321.3,190.1 L317.3,167.4 M322.7,190.1 L326.7,167.4 M324,190.5 L335.5,170.6 M325.1,191.4 L342.7,176.6 M325.8,192.6 L347.4,184.8" stroke="#b8952a" stroke-width="1"/>
+<path d="M354.5,199.7 L365.3,201.6 M343.2,219.3 L350.3,227.7 M322,227 L322,238 M300.8,219.3 L293.7,227.7 M289.5,199.7 L278.7,201.6 M293.4,177.5 L283.9,172 M310.7,163 L307,152.7 M333.3,163 L337,152.7 M350.6,177.5 L360.1,172" stroke="#6a4a2a" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M352,162 L387,146" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="352" cy="162" r="2" fill="#0b5cad"/>
+<text x="390" y="150" font-size="13" fill="#0b5cad" text-anchor="start">皮部</text>
+<path d="M351,190 L387,174" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="351" cy="190" r="2" fill="#0b5cad"/>
+<text x="390" y="178" font-size="13" fill="#0b5cad" text-anchor="start">形成层环</text>
+<path d="M336,202 L387,202" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="336" cy="202" r="2" fill="#0b5cad"/>
+<text x="390" y="206" font-size="13" fill="#0b5cad" text-anchor="start">木部</text>
+<path d="M343.2,223.1 L387,230" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="343.2" cy="223.1" r="2" fill="#0b5cad"/>
+<text x="390" y="234" font-size="13" fill="#0b5cad" text-anchor="start">放射状纹理、</text>
+<text x="390" y="251" font-size="13" fill="#0b5cad" text-anchor="start">裂隙(菊花心)</text>
+<text x="486" y="128" font-size="14">· 表面有纵皱纹、皮孔,</text>
+<text x="498" y="149" font-size="14">下部分出支根、须根</text>
+<text x="486" y="170" font-size="14">· 断面: 皮部、形成层环、</text>
+<text x="498" y="191" font-size="14">木部,常有放射状纹理</text>
+<text x="486" y="212" font-size="14">· 块根(如地黄、何首乌)</text>
+<text x="498" y="233" font-size="14">也是根,只是膨大成块</text>
+<rect x="10" y="306" width="700" height="230" rx="8" fill="none" stroke="#999" stroke-width="1.5"/>
+<text x="26" y="332" font-size="17" font-weight="bold">② 根茎 <tspan font-size="13" font-weight="normal" fill="#555">(例: 黄精、玉竹、知母、射干、石菖蒲)</tspan></text>
+<line x1="472" y1="346" x2="472" y2="520" stroke="#ddd" stroke-width="1.5"/>
+<path d="M30,416 Q34,412 64,414 Q81,410 98,414 Q113,411 128,414 Q146,409 164,413 Q183,409 202,413 Q217,410 232,414 Q244,416 246,430 Q244,444 232,446 Q217,449 202,447 Q183,450 164,447 Q146,450 128,446 Q113,449 98,446 Q81,449 64,446 Q34,448 30,444 Q26,430 30,416 Z" fill="#e8cfa0" stroke="#333" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M64,413 Q68,430 64,447 M98,413 Q102,430 98,447 M128,413 Q132,430 128,447 M164,413 Q168,430 164,447 M202,413 Q206,430 202,447 M232,413 Q236,430 232,447" fill="none" stroke="#6a4a2a" stroke-width="2"/>
+<path d="M202,413 l-3,-6 M204,413 l1,-7 M206,414 l4,-5 M232,413 l-3,-6 M234,413 l1,-7 M236,414 l4,-5" stroke="#8a6a3a" stroke-width="1"/>
+<path d="M64,447 q-3,18 -8,36 M67,447 q4,16 10,30 M98,447 q-3,18 -8,36 M101,447 q4,16 10,30 M128,447 q-3,18 -8,36 M131,447 q4,16 10,30 M164,447 q-3,18 -8,36 M167,447 q4,16 10,30 M202,447 q-3,18 -8,36 M205,447 q4,16 10,30 M232,447 q-3,18 -8,36 M235,447 q4,16 10,30" fill="none" stroke="#8a6a3a" stroke-width="1.3"/>
+<ellipse cx="113" cy="415" rx="10" ry="5" fill="#c9a46a" stroke="#333" stroke-width="1.3"/><ellipse cx="113" cy="415" rx="6" ry="2.5" fill="#a8875a"/>
+<path d="M222,414 C220,400 228,390 236,384 C240,394 238,406 234,414 Z" fill="#e6b8a2" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M113,374 L113,411" stroke="#0b5cad" stroke-width="1"/>
+<text x="113" y="370" font-size="13" fill="#0b5cad" text-anchor="middle">茎痕(圆盘状)</text>
+<path d="M238,390 L261,382" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="238" cy="390" r="2" fill="#0b5cad"/>
+<text x="264" y="386" font-size="13" fill="#0b5cad" text-anchor="start">芽</text>
+<path d="M206,406 L224,374" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="206" cy="406" r="2" fill="#0b5cad"/>
+<text x="224" y="370" font-size="13" fill="#0b5cad" text-anchor="middle">叶痕、残存叶基</text>
+<path d="M64,400 L64,413" stroke="#0b5cad" stroke-width="1"/>
+<text x="64" y="396" font-size="13" fill="#0b5cad" text-anchor="middle">环节(节)</text>
+<path d="M130,403 L162,403 M130,399 v8 M162,399 v8" stroke="#0b5cad" stroke-width="1"/>
+<text x="146" y="396" font-size="13" fill="#0b5cad" text-anchor="middle">节间</text>
+<path d="M206,474 L186,505" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="206" cy="474" r="2" fill="#0b5cad"/>
+<text x="186" y="520" font-size="13" fill="#0b5cad" text-anchor="middle">须根: 下面、节上长出</text>
+<text x="322" y="370" font-size="13" fill="#555" text-anchor="middle">横切面</text>
+<circle cx="322" cy="426" r="44" fill="#ecd9a8" stroke="#333" stroke-width="2"/>
+<circle cx="322" cy="426" r="26" fill="none" stroke="#8a5a2b" stroke-width="2"/>
+<circle cx="322" cy="426" r="13" fill="#f8f2e0" stroke="#a8875a" stroke-width="1.2"/>
+<path d="M326,424 L387,418" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="326" cy="424" r="2" fill="#0b5cad"/>
+<text x="390" y="422" font-size="13" fill="#0b5cad" text-anchor="start">髓</text>
+<text x="322" y="492" font-size="13" fill="#555" text-anchor="middle">例: 甘草的根茎,</text>
+<text x="322" y="510" font-size="13" fill="#555" text-anchor="middle">断面中央有髓</text>
+<text x="486" y="368" font-size="14">· 有一圈圈环节(节),</text>
+<text x="498" y="389" font-size="14">节间长短因品种而异</text>
+<text x="486" y="410" font-size="14">· 上面有茎痕、芽或芽痕</text>
+<text x="486" y="431" font-size="14">· 下面、节上长须根,</text>
+<text x="498" y="452" font-size="14">或留下根痕</text>
+<text x="486" y="473" font-size="14">· 节上可见叶痕、残存叶基</text>
+<rect x="10" y="546" width="700" height="230" rx="8" fill="none" stroke="#999" stroke-width="1.5"/>
+<text x="26" y="572" font-size="17" font-weight="bold">③ 块茎 <tspan font-size="13" font-weight="normal" fill="#555">(例: 天麻)</tspan></text>
+<line x1="472" y1="586" x2="472" y2="760" stroke="#ddd" stroke-width="1.5"/>
+<path d="M56,666 C58,632 110,626 160,628 C206,630 236,642 236,670 C236,702 206,714 160,714 C108,716 54,706 56,666 Z" fill="#ecd9a8" stroke="#333" stroke-width="1.8"/>
+<circle cx="82.7" cy="642.2" r="1.7" fill="#8a6a3a"/><circle cx="85" cy="649.1" r="1.7" fill="#8a6a3a"/><circle cx="86.7" cy="656.1" r="1.7" fill="#8a6a3a"/><circle cx="87.7" cy="663" r="1.7" fill="#8a6a3a"/><circle cx="88" cy="670" r="1.7" fill="#8a6a3a"/><circle cx="87.7" cy="677" r="1.7" fill="#8a6a3a"/><circle cx="86.7" cy="683.9" r="1.7" fill="#8a6a3a"/><circle cx="85" cy="690.9" r="1.7" fill="#8a6a3a"/><circle cx="82.7" cy="697.8" r="1.7" fill="#8a6a3a"/><circle cx="110.7" cy="635.2" r="1.7" fill="#8a6a3a"/><circle cx="113" cy="643.9" r="1.7" fill="#8a6a3a"/><circle cx="114.7" cy="652.6" r="1.7" fill="#8a6a3a"/><circle cx="115.7" cy="661.3" r="1.7" fill="#8a6a3a"/><circle cx="116" cy="670" r="1.7" fill="#8a6a3a"/><circle cx="115.7" cy="678.7" r="1.7" fill="#8a6a3a"/><circle cx="114.7" cy="687.4" r="1.7" fill="#8a6a3a"/><circle cx="113" cy="696.1" r="1.7" fill="#8a6a3a"/><circle cx="110.7" cy="704.8" r="1.7" fill="#8a6a3a"/><circle cx="138.7" cy="633.5" r="1.7" fill="#8a6a3a"/><circle cx="141" cy="642.6" r="1.7" fill="#8a6a3a"/><circle cx="142.7" cy="651.7" r="1.7" fill="#8a6a3a"/><circle cx="143.7" cy="660.9" r="1.7" fill="#8a6a3a"/><circle cx="144" cy="670" r="1.7" fill="#8a6a3a"/><circle cx="143.7" cy="679.1" r="1.7" fill="#8a6a3a"/><circle cx="142.7" cy="688.3" r="1.7" fill="#8a6a3a"/><circle cx="141" cy="697.4" r="1.7" fill="#8a6a3a"/><circle cx="138.7" cy="706.5" r="1.7" fill="#8a6a3a"/><circle cx="166.7" cy="633.5" r="1.7" fill="#8a6a3a"/><circle cx="169" cy="642.6" r="1.7" fill="#8a6a3a"/><circle cx="170.7" cy="651.7" r="1.7" fill="#8a6a3a"/><circle cx="171.7" cy="660.9" r="1.7" fill="#8a6a3a"/><circle cx="172" cy="670" r="1.7" fill="#8a6a3a"/><circle cx="171.7" cy="679.1" r="1.7" fill="#8a6a3a"/><circle cx="170.7" cy="688.3" r="1.7" fill="#8a6a3a"/><circle cx="169" cy="697.4" r="1.7" fill="#8a6a3a"/><circle cx="166.7" cy="706.5" r="1.7" fill="#8a6a3a"/><circle cx="194.7" cy="637" r="1.7" fill="#8a6a3a"/><circle cx="197" cy="645.2" r="1.7" fill="#8a6a3a"/><circle cx="198.7" cy="653.5" r="1.7" fill="#8a6a3a"/><circle cx="199.7" cy="661.7" r="1.7" fill="#8a6a3a"/><circle cx="200" cy="670" r="1.7" fill="#8a6a3a"/><circle cx="199.7" cy="678.3" r="1.7" fill="#8a6a3a"/><circle cx="198.7" cy="686.5" r="1.7" fill="#8a6a3a"/><circle cx="197" cy="694.8" r="1.7" fill="#8a6a3a"/><circle cx="194.7" cy="703" r="1.7" fill="#8a6a3a"/><circle cx="218.7" cy="645.7" r="1.7" fill="#8a6a3a"/><circle cx="221" cy="651.7" r="1.7" fill="#8a6a3a"/><circle cx="222.7" cy="657.8" r="1.7" fill="#8a6a3a"/><circle cx="223.7" cy="663.9" r="1.7" fill="#8a6a3a"/><circle cx="224" cy="670" r="1.7" fill="#8a6a3a"/><circle cx="223.7" cy="676.1" r="1.7" fill="#8a6a3a"/><circle cx="222.7" cy="682.2" r="1.7" fill="#8a6a3a"/><circle cx="221" cy="688.3" r="1.7" fill="#8a6a3a"/><circle cx="218.7" cy="694.3" r="1.7" fill="#8a6a3a"/>
+<path d="M226,648 C238,634 254,626 266,628 C258,636 250,648 236,662 Z" fill="#b5502a" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<ellipse cx="62" cy="670" rx="5" ry="10" fill="#c9a46a" stroke="#333" stroke-width="1.3"/><ellipse cx="62" cy="670" rx="2" ry="4.5" fill="#8a6a3a"/>
+<path d="M112,642 L118,614" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="112" cy="642" r="2" fill="#0b5cad"/>
+<text x="118" y="610" font-size="13" fill="#0b5cad" text-anchor="middle">多轮点状环纹(潜伏芽排成)</text>
+<path d="M258,632 L262,614" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="258" cy="632" r="2" fill="#0b5cad"/>
+<text x="232" y="610" font-size="13" fill="#0b5cad" text-anchor="start">鹦哥嘴(红棕色芽)</text>
+<path d="M62,681 L87,748" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="62" cy="681" r="2" fill="#0b5cad"/>
+<text x="90" y="752" font-size="13" fill="#0b5cad" text-anchor="start">圆脐形疤痕(肚脐眼)</text>
+<text x="322" y="632" font-size="13" fill="#555" text-anchor="middle">断面</text>
+<ellipse cx="322" cy="670" rx="46" ry="28" fill="#f2dca0" fill-opacity="0.75" stroke="#333" stroke-width="2"/>
+<path d="M296,658 Q312,650 332,654" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" opacity="0.8"/>
+<text x="322" y="724" font-size="13" fill="#0b5cad" text-anchor="middle">角质样、半透明</text>
+<text x="486" y="608" font-size="14">· 表面有潜伏芽排成的</text>
+<text x="498" y="629" font-size="14">多轮点状环纹</text>
+<text x="486" y="650" font-size="14">· 顶端有鹦嘴状芽(冬麻)</text>
+<text x="498" y="671" font-size="14">或残留茎基(春麻)</text>
+<text x="486" y="692" font-size="14">· 另一端有圆脐形疤痕</text>
+<text x="486" y="713" font-size="14">· 冒充品没有这组特征</text>
+<rect x="10" y="786" width="700" height="230" rx="8" fill="none" stroke="#999" stroke-width="1.5"/>
+<text x="26" y="812" font-size="17" font-weight="bold">④ 鳞茎 <tspan font-size="13" font-weight="normal" fill="#555">(例: 川贝母、浙贝母、百合)</tspan></text>
+<line x1="472" y1="826" x2="472" y2="1000" stroke="#ddd" stroke-width="1.5"/>
+<path d="M84,982 C52,968 50,912 82,870 C92,856 112,854 124,868 C156,908 154,966 124,982 Z" fill="#f6efd9" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M106,864 C122,882 132,902 128,926 C112,912 102,888 106,864 Z" fill="#ebe0c0" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<line x1="74" y1="982" x2="134" y2="982" stroke="#999" stroke-width="2"/>
+<path d="M120,896 L167,852" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="120" cy="896" r="2" fill="#0b5cad"/>
+<text x="170" y="856" font-size="13" fill="#0b5cad" text-anchor="start">小瓣露出的部分呈新月形</text>
+<text x="170" y="874" font-size="13" fill="#0b5cad" text-anchor="start">("怀中抱月")</text>
+<path d="M140,932 L167,912" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="140" cy="932" r="2" fill="#0b5cad"/>
+<text x="170" y="916" font-size="13" fill="#0b5cad" text-anchor="start">外层大瓣紧抱小瓣</text>
+<path d="M120,978 L167,958" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="120" cy="978" r="2" fill="#0b5cad"/>
+<text x="170" y="962" font-size="13" fill="#0b5cad" text-anchor="start">底部平,能放稳</text>
+<text x="104" y="1000" font-size="13" fill="#555" text-anchor="middle">川贝(松贝)</text>
+<path d="M322,850 C348,866 350,936 328,976 C322,982 316,982 312,974 C292,936 296,866 322,850 Z" fill="#f3e6c4" stroke="#333" stroke-width="2"/>
+<path d="M310,872 C306,916 310,946 316,970 M319,860 C318,906 320,946 321,976 M329,866 C332,906 330,946 325,972" fill="none" stroke="#fff" stroke-width="2.4"/>
+<path d="M329,906 L377,898" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="329" cy="906" r="2" fill="#0b5cad"/>
+<text x="380" y="902" font-size="13" fill="#0b5cad" text-anchor="start">纵直平行的</text>
+<text x="380" y="920" font-size="13" fill="#0b5cad" text-anchor="start">白色维管束</text>
+<text x="322" y="1000" font-size="13" fill="#555" text-anchor="middle">百合: 单片肉质鳞叶</text>
+<text x="486" y="848" font-size="14">· 由肉质鳞叶抱合而成</text>
+<text x="486" y="869" font-size="14">· 川贝(松贝): 外层鳞叶</text>
+<text x="498" y="890" font-size="14">2瓣,大瓣紧抱小瓣</text>
+<text x="486" y="911" font-size="14">· 浙贝: 个大,为单瓣鳞叶</text>
+<text x="498" y="932" font-size="14">或扁圆的鳞茎</text>
+<text x="486" y="953" font-size="14">· 百合: 用单片肉质鳞叶</text>
+<rect x="10" y="1026" width="700" height="66" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<text x="360" y="1048" font-size="15" font-weight="bold" fill="#c33" text-anchor="middle">⚠️ 只看根认不准药: 要在植株带花或带果时认准地上部分,再挖地下部分</text>
+<text x="360" y="1068" font-size="13" text-anchor="middle">只拿到一段根的,按"来路不明"处理</text>
+<text x="360" y="1085" font-size="12" fill="#555" text-anchor="middle">球茎也属根及根茎类,但本部分各章没有以球茎入药的品种,图中从略</text>
+</g>
+</svg>
