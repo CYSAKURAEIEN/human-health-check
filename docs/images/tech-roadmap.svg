@@ -1,0 +1,218 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 780" width="720" height="780" role="img" aria-label="技术重建路线图(技术树),从下往上搭。阶段0 生存: 水、食物、住所、卫生、急救、火;知识捷径: 病菌学说,洗手、煮沸、消毒、隔离,在阶段0就能救人。阶段1 农业与基础手工: 种植养殖、留种、食物保存、木炭、木工、石灰、陶器、制皂、纺织。阶段2 冶金与机械: 铜和青铜、铁、钢,水车、风车、车床、齿轮、标准量具。阶段3 基础化工与材料: 硫酸、碱、玻璃、水泥、纸和印刷、耐火材料。阶段4 动力: 锅炉、蒸汽机、斯特林发动机。阶段5 电力: 发电机、电池、电动机、电报、电灯。阶段6 化工与医药进阶: 电解(氯碱)、化肥、显微镜与微生物学、药物提纯。阶段7 电子: 真空管、半导体、无线电、计算机,从零制造极其困难,现实做法是利用保存下来的器件。正文写明的前提: 炼铁要木炭(大量森林);玻璃要石灰;锅炉要钢板,蒸汽机要精密加工的气缸;发电机要铜线、磁铁;化肥要硫酸;电解要电力;玻璃做透镜和真空管。捷径: 知道电磁感应,不必等蒸汽机,就能用水力、风力发电。阶段之间不是严格的先后关系。现实目标: 先保证生存,再逐步恢复到大约19世纪后期的技术水平;废墟里的钢材、铜线、书籍先利用,再制造" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>技术重建路线图</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<marker id="arG" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#999"/></marker>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">技术重建路线图(技术树)</text>
+<text x="360" y="51" font-size="14" text-anchor="middle" fill="#555">每一项技术都站在别的技术上面: 从下往上,一步一步搭</text>
+
+<!-- 阶段色带: 阶段k 顶边 y = 66 + (7-k)×72,高54 -->
+<g fill="#f5f8fc" stroke="#ccd6e0" stroke-width="1.5">
+<rect x="10" y="66" width="700" height="54" rx="8"/>
+<rect x="10" y="138" width="700" height="54" rx="8"/>
+<rect x="10" y="210" width="700" height="54" rx="8"/>
+<rect x="10" y="282" width="700" height="54" rx="8"/>
+<rect x="10" y="354" width="700" height="54" rx="8"/>
+<rect x="10" y="426" width="700" height="54" rx="8"/>
+<rect x="10" y="498" width="700" height="54" rx="8"/>
+<rect x="10" y="570" width="700" height="54" rx="8"/>
+</g>
+<g stroke="#ccd6e0" stroke-width="1.5">
+<path d="M96,66 v54 M96,138 v54 M96,210 v54 M96,282 v54 M96,354 v54 M96,426 v54 M96,498 v54 M96,570 v54"/>
+</g>
+
+<!-- 阶段名称 -->
+<g font-size="14" font-weight="bold">
+<text x="20" y="86">阶段7</text>
+<text x="20" y="158">阶段6</text>
+<text x="20" y="230">阶段5</text>
+<text x="20" y="302">阶段4</text>
+<text x="20" y="374">阶段3</text>
+<text x="20" y="446">阶段2</text>
+<text x="20" y="518">阶段1</text>
+<text x="20" y="590">阶段0</text>
+</g>
+<g font-size="12.5" fill="#333">
+<text x="20" y="104">电子</text>
+<text x="20" y="173">化工与</text><text x="20" y="188">医药进阶</text>
+<text x="20" y="248">电力</text>
+<text x="20" y="320">动力</text>
+<text x="20" y="389">基础化工</text><text x="20" y="404">与材料</text>
+<text x="20" y="464">冶金与机械</text>
+<text x="20" y="533">农业与</text><text x="20" y="548">基础手工</text>
+<text x="20" y="608">生存</text>
+</g>
+<!-- 先后顺序(灰色) -->
+<g stroke="#999" stroke-width="2" marker-end="url(#arG)">
+<path d="M60,569 V555"/><path d="M60,497 V483"/><path d="M60,425 V411"/><path d="M60,353 V339"/>
+<path d="M60,281 V267"/><path d="M60,209 V195"/><path d="M60,137 V123"/>
+</g>
+
+<!-- 依赖箭头(先画,压在方块下面) -->
+<g stroke="#c33" stroke-width="2" fill="none" marker-end="url(#arR)">
+<path d="M322,512 V469"/>
+<path d="M430,512 V397"/>
+<path d="M378,440 V325"/>
+<path d="M485,440 V325"/>
+<path d="M252,440 L219,253"/>
+<path d="M300,368 V181"/>
+<path d="M200,224 V181"/>
+<path d="M430,368 V109"/>
+<path d="M430,165 H453"/>
+</g>
+<g stroke="#0b5cad" stroke-width="2" fill="none">
+<path d="M125,440 L148,424 L172,440"/>
+<path d="M148,424 L187,256" stroke-dasharray="6 4" marker-end="url(#arB)"/>
+</g>
+<g font-size="11.5" fill="#c33">
+<text x="327" y="493">木炭(大量森林)</text>
+<text x="383" y="349">钢板</text>
+<text x="490" y="349">精密加工的气缸</text>
+<text x="232" y="277">铜线、磁铁</text>
+<text x="436" y="277">透镜、真空管</text>
+</g>
+<text x="164" y="314" font-size="12.5" font-weight="bold" fill="#0b5cad" text-anchor="end">捷径</text>
+
+<!-- 技术方块 -->
+<g fill="#fff" stroke="#333" stroke-width="1.5">
+<!-- 阶段7 -->
+<rect x="404.5" y="80" width="51" height="26" rx="5"/>
+<rect x="479.5" y="80" width="51" height="26" rx="5"/>
+<rect x="549.5" y="80" width="51" height="26" rx="5"/>
+<rect x="619.5" y="80" width="51" height="26" rx="5"/>
+<!-- 阶段6 -->
+<rect x="163.5" y="152" width="73" height="26" rx="5"/>
+<rect x="281" y="152" width="38" height="26" rx="5"/>
+<rect x="456" y="152" width="116" height="26" rx="5"/>
+<rect x="608" y="152" width="64" height="26" rx="5"/>
+<!-- 阶段5 -->
+<rect x="174.5" y="224" width="51" height="26" rx="5"/>
+<rect x="341" y="224" width="38" height="26" rx="5"/>
+<rect x="494.5" y="224" width="51" height="26" rx="5"/>
+<rect x="571" y="224" width="38" height="26" rx="5"/>
+<rect x="631" y="224" width="38" height="26" rx="5"/>
+<!-- 阶段4 -->
+<rect x="359" y="296" width="38" height="26" rx="5"/>
+<rect x="459.5" y="296" width="51" height="26" rx="5"/>
+<rect x="550" y="296" width="100" height="26" rx="5" stroke-dasharray="4 3"/>
+<!-- 阶段3 -->
+<rect x="281" y="368" width="38" height="26" rx="5"/>
+<rect x="330" y="368" width="30" height="26" rx="5"/>
+<rect x="411" y="368" width="38" height="26" rx="5"/>
+<rect x="506" y="368" width="38" height="26" rx="5"/>
+<rect x="558" y="368" width="64" height="26" rx="5"/>
+<rect x="636" y="368" width="64" height="26" rx="5"/>
+<!-- 阶段2 -->
+<rect x="106" y="440" width="38" height="26" rx="5"/>
+<rect x="153" y="440" width="38" height="26" rx="5"/>
+<rect x="220" y="440" width="64" height="26" rx="5"/>
+<rect x="307" y="440" width="30" height="26" rx="5"/>
+<rect x="363" y="440" width="30" height="26" rx="5"/>
+<rect x="466" y="440" width="38" height="26" rx="5"/>
+<rect x="526" y="440" width="38" height="26" rx="5"/>
+<rect x="593" y="440" width="64" height="26" rx="5"/>
+<!-- 阶段1 -->
+<rect x="101" y="512" width="64" height="26" rx="5"/>
+<rect x="173" y="512" width="38" height="26" rx="5"/>
+<rect x="223" y="512" width="64" height="26" rx="5"/>
+<rect x="303" y="512" width="38" height="26" rx="5"/>
+<rect x="358" y="512" width="38" height="26" rx="5"/>
+<rect x="411" y="512" width="38" height="26" rx="5"/>
+<rect x="466" y="512" width="38" height="26" rx="5"/>
+<rect x="521" y="512" width="38" height="26" rx="5"/>
+<rect x="576" y="512" width="38" height="26" rx="5"/>
+<!-- 阶段0 -->
+<rect x="110" y="584" width="30" height="26" rx="5"/>
+<rect x="161" y="584" width="38" height="26" rx="5"/>
+<rect x="221" y="584" width="38" height="26" rx="5"/>
+<rect x="281" y="584" width="38" height="26" rx="5"/>
+<rect x="341" y="584" width="38" height="26" rx="5"/>
+<rect x="400" y="584" width="30" height="26" rx="5"/>
+</g>
+<g font-size="13" text-anchor="middle">
+<!-- 阶段7 -->
+<text x="430" y="98">真空管</text>
+<text x="505" y="98">半导体</text>
+<text x="575" y="98">无线电</text>
+<text x="645" y="98">计算机</text>
+<!-- 阶段6 -->
+<text x="200" y="170">电解(氯碱)</text>
+<text x="300" y="170">化肥</text>
+<text x="514" y="170">显微镜与微生物学</text>
+<text x="640" y="170">药物提纯</text>
+<!-- 阶段5 -->
+<text x="200" y="242">发电机</text>
+<text x="360" y="242">电池</text>
+<text x="520" y="242">电动机</text>
+<text x="590" y="242">电报</text>
+<text x="650" y="242">电灯</text>
+<!-- 阶段4 -->
+<text x="378" y="314">锅炉</text>
+<text x="485" y="314">蒸汽机</text>
+<text x="600" y="314">(斯特林发动机)</text>
+<!-- 阶段3 -->
+<text x="300" y="386">硫酸</text>
+<text x="345" y="386">碱</text>
+<text x="430" y="386">玻璃</text>
+<text x="525" y="386">水泥</text>
+<text x="590" y="386">纸和印刷</text>
+<text x="668" y="386">耐火材料</text>
+<!-- 阶段2 -->
+<text x="125" y="458">水车</text>
+<text x="172" y="458">风车</text>
+<text x="252" y="458">铜和青铜</text>
+<text x="322" y="458">铁</text>
+<text x="378" y="458">钢</text>
+<text x="485" y="458">车床</text>
+<text x="545" y="458">齿轮</text>
+<text x="625" y="458">标准量具</text>
+<!-- 阶段1 -->
+<text x="133" y="530">种植养殖</text>
+<text x="192" y="530">留种</text>
+<text x="255" y="530">食物保存</text>
+<text x="322" y="530">木炭</text>
+<text x="377" y="530">木工</text>
+<text x="430" y="530">石灰</text>
+<text x="485" y="530">陶器</text>
+<text x="540" y="530">制皂</text>
+<text x="595" y="530">纺织</text>
+<!-- 阶段0 -->
+<text x="125" y="602">水</text>
+<text x="180" y="602">食物</text>
+<text x="240" y="602">住所</text>
+<text x="300" y="602">卫生</text>
+<text x="360" y="602">急救</text>
+<text x="415" y="602">火</text>
+</g>
+<!-- 铜 → 铁 → 钢 -->
+<g font-size="14" fill="#333" text-anchor="middle">
+<text x="296" y="458">→</text>
+<text x="350" y="458">→</text>
+</g>
+
+<!-- 阶段7 的提醒 -->
+<g font-size="12.5" fill="#c33">
+<text x="106" y="89">从零制造极其困难,</text>
+<text x="106" y="107">现实做法是利用保存下来的器件</text>
+</g>
+<!-- 阶段0 的知识捷径 -->
+<rect x="452" y="576" width="250" height="42" rx="6" fill="#fff" stroke="#0b5cad" stroke-width="1.5" stroke-dasharray="5 3"/>
+<text x="462" y="593" font-size="12" fill="#0b5cad" font-weight="bold">知识捷径: 病菌学说在阶段0就能救人</text>
+<text x="462" y="610" font-size="12" fill="#0b5cad">洗手、煮沸、消毒、隔离</text>
+
+<!-- 图例 -->
+<rect x="10" y="638" width="700" height="132" rx="8" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<path d="M24,660 H62" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<text x="74" y="665" font-size="13">正文写明的前提(例: 炼铁要木炭,玻璃要石灰,发电机要铜线和磁铁)</text>
+<path d="M24,686 H62" stroke="#0b5cad" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#arB)"/>
+<text x="74" y="691" font-size="13">捷径: 知道电磁感应,不必等蒸汽机,就能用水力、风力发电</text>
+<path d="M43,716 V700" stroke="#999" stroke-width="2" marker-end="url(#arG)"/>
+<text x="74" y="715" font-size="13">大致顺序;阶段之间不是严格的先后关系,图中只画了主要的依赖</text>
+<text x="24" y="740" font-size="13" font-weight="bold">现实目标: 先保证生存,再逐步恢复到大约19世纪后期的技术水平</text>
+<text x="24" y="760" font-size="13" fill="#0b5cad">废墟里的钢材、铜线、书籍比自己造的好得多: 先保存和利用,再制造</text>
+</g>
+</svg>

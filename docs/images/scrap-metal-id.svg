@@ -1,0 +1,268 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1306" width="720" height="1306" role="img" aria-label="识别废旧金属。①磁铁: 吸得很牢的是钢、铁、铸铁(以及部分不锈钢);不吸的是铝、铜、黄铜、铅、锌、大部分不锈钢。②颜色: 红色是铜,金黄色是黄铜(铜加锌),暗金、褐色是青铜(铜加锡);掂重量: 很轻是铝(约2.7 g/cm³)或更轻的镁(约1.7 g/cm³),很重、软、指甲能划出痕是铅(约11.3 g/cm³)。③锉刀: 锉不动、打滑是淬过火的钢,容易锉是低碳钢、熟铁、铸铁、有色金属;敲击声音清脆是钢,发闷是铸铁、铅;来源不明的钢截一小段加热到樱桃红淬水,锉不动说明含碳量高,可做刀具,能锉动是低碳钢。④火花鉴别(砂轮或粗锉打磨): 低碳钢(钢筋、铁皮)流线长、黄白色,分叉很少;中碳钢(轴、齿轮)流线较长,分叉明显增多;高碳钢(锉刀、弹簧)流线较短,分叉多而密,像一簇簇小星星;铸铁流线短,暗红到橙色,末端有少量小分叉;不锈钢流线较短,橙黄色,分叉少;铝、铜、黄铜、铅几乎没有火花;火花越开花含碳越高,拿已知的钢对比着看。⑤汽车里的金属: 蓄电池是铅,有硫酸,不建议自己回收;发动机缸体是灰铸铁,活塞、缸盖是铝;刹车盘、刹车鼓是灰铸铁,不能锻打;轮毂多为铝,某些是镁合金;车身是低碳钢板;板簧、螺旋弹簧是弹簧钢(含碳约0.6%),做刀、斧、凿;减震器、气弹簧内有高压气体和油,绝不加热或切割;油箱残留汽油蒸气会爆炸;传动轴、半轴是中碳合金钢,做锤头、撬棍。⑥其他来源: 锉刀(含碳约1.2%)、轴承(含碳约1%,含铬)、钢轨(含碳约0.7%,截一段作砧子)是好钢;钢筋是低碳钢,钢丝绳是高碳钢丝;铜来自电线电缆、电动机和变压器线圈、水管;黄铜来自水龙头、阀门、管件、弹壳;铝来自门窗型材、炊具、易拉罐;铅来自车轮平衡块、旧水管、电缆护套。危险: 气瓶、灭火器、喷雾罐、打火机、减震器、气弹簧、密封管子和空心件、油箱绝不加热或切割;镀锌件受热放出锌烟引起金属烟热,先用砂轮打磨掉或用醋泡一两天;铅、镉有毒,旧刹车片可能含石棉;镁合金燃烧遇水更猛,不能用水扑灭;潮湿废料放进熔融金属会水蒸气爆炸;电容、蓄电池、锂电池可能放电、漏酸、起火;铜线不要烧绝缘皮;在室外通风处、站在上风方向操作" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>识别废旧金属</title>
+<defs>
+<g id="mag">
+<path d="M-15,40 V12 Q-15,-4 0,-4 Q15,-4 15,12 V40 H6 V12 Q6,5 0,5 Q-6,5 -6,12 V40 Z" fill="#c33" stroke="#333" stroke-width="1.5"/>
+<rect x="-15" y="32" width="9" height="8" fill="#ddd" stroke="#333" stroke-width="1"/>
+<rect x="6" y="32" width="9" height="8" fill="#ddd" stroke="#333" stroke-width="1"/>
+</g>
+<g id="star" stroke-width="1.3" stroke-linecap="round">
+<path d="M0,0 L5,-5 M0,0 L6,0 M0,0 L5,5 M0,0 L0,-6 M0,0 L0,6 M0,0 L-4,-4 M0,0 L-4,4"/>
+</g>
+<g id="fork" stroke-width="1.2" stroke-linecap="round">
+<path d="M0,0 L6,-4 M0,0 L6,4"/>
+</g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">识别废旧金属: 先认清,再拆、再熔</text>
+
+<!-- ① 磁铁 -->
+<rect x="8" y="44" width="228" height="282" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="66" font-size="15" font-weight="bold">① 磁铁</text>
+<use href="#mag" x="66" y="84"/>
+<rect x="36" y="124" width="60" height="22" fill="#8a8f96" stroke="#333" stroke-width="1.5"/>
+<text x="66" y="164" font-size="12" text-anchor="middle" fill="#c33" font-weight="bold">吸得很牢</text>
+<use href="#mag" x="176" y="80"/>
+<rect x="146" y="132" width="60" height="22" fill="#e3e7eb" stroke="#333" stroke-width="1.5"/>
+<path d="M164,122 L188,130 M188,122 L164,130" stroke="#999" stroke-width="1.5"/>
+<text x="176" y="172" font-size="12" text-anchor="middle" fill="#555" font-weight="bold">不吸</text>
+<g font-size="13">
+<text x="18" y="198" font-weight="bold" fill="#c33">吸得很牢:</text>
+<text x="18" y="218">钢、铁、铸铁</text>
+<text x="18" y="236">(以及部分不锈钢)</text>
+<text x="18" y="264" font-weight="bold" fill="#555">不吸:</text>
+<text x="18" y="284">铝、铜、黄铜、铅、锌、</text>
+<text x="18" y="302">大部分不锈钢</text>
+</g>
+
+<!-- ② 颜色、重量 -->
+<rect x="246" y="44" width="228" height="282" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="256" y="66" font-size="15" font-weight="bold">② 看颜色、掂重量</text>
+<g stroke="#333" stroke-width="1.2">
+<rect x="256" y="80" width="22" height="16" rx="2" fill="#c8643c"/>
+<rect x="256" y="106" width="22" height="16" rx="2" fill="#dcb43c"/>
+<rect x="256" y="132" width="22" height="16" rx="2" fill="#8c6b3a"/>
+</g>
+<g font-size="13">
+<text x="286" y="93">红色 → 铜</text>
+<text x="286" y="119">金黄色 → 黄铜(铜 + 锌)</text>
+<text x="286" y="145">暗金、褐色 → 青铜(铜 + 锡)</text>
+<text x="256" y="180" font-weight="bold">掂重量:</text>
+<text x="256" y="202">很轻 → 铝(约2.7 g/cm³)</text>
+<text x="256" y="222">或更轻的镁(约1.7 g/cm³,</text>
+<text x="256" y="240">同样大小约为铝的2/3重)</text>
+<text x="256" y="268">很重、软,指甲能划出痕</text>
+<text x="256" y="288">→ 铅(约11.3 g/cm³)</text>
+</g>
+<text x="256" y="312" font-size="12" fill="#c33">⚠ 分不清镁和铝: 不和铝一起熔化</text>
+
+<!-- ③ 锉刀、敲击 -->
+<rect x="484" y="44" width="228" height="282" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="494" y="66" font-size="15" font-weight="bold">③ 锉刀、敲击</text>
+<!-- 锉刀图标 -->
+<g transform="translate(616,64) rotate(-10)">
+<rect x="0" y="0" width="56" height="10" fill="#bbb" stroke="#333" stroke-width="1.2"/>
+<path d="M6,0 L2,10 M12,0 L8,10 M18,0 L14,10 M24,0 L20,10 M30,0 L26,10 M36,0 L32,10 M42,0 L38,10 M48,0 L44,10 M54,0 L50,10" stroke="#666" stroke-width="1"/>
+<rect x="56" y="1" width="20" height="8" rx="3" fill="#a0704a" stroke="#333" stroke-width="1.2"/>
+</g>
+<g font-size="13">
+<text x="494" y="96" font-weight="bold">锉刀试:</text>
+<text x="494" y="116">锉不动、打滑</text>
+<text x="494" y="134">→ 淬过火的钢(硬)</text>
+<text x="494" y="156">容易锉 → 低碳钢、熟铁、</text>
+<text x="494" y="174">铸铁、有色金属</text>
+<text x="494" y="202" font-weight="bold">敲击听声:</text>
+<text x="494" y="222">声音清脆 → 钢</text>
+<text x="494" y="242">声音发闷 → 铸铁、铅</text>
+<text x="494" y="270" font-weight="bold" fill="#0b5cad">来源不明的钢:</text>
+<text x="494" y="288" fill="#0b5cad">截一小段烧到樱桃红淬水再锉,</text>
+<text x="494" y="306" fill="#0b5cad">锉不动 → 含碳高,可做刀具</text>
+</g>
+
+<!-- ④ 火花 -->
+<rect x="8" y="336" width="704" height="312" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="360" font-size="15" font-weight="bold">④ 火花鉴别(砂轮或粗锉打磨): 看流线长短、颜色和分叉</text>
+<!-- 行: 每行36,条带 x=196..470 -->
+<g stroke="none">
+<rect x="196" y="372" width="276" height="30" rx="3" fill="#2b2b2b"/>
+<rect x="196" y="408" width="276" height="30" rx="3" fill="#2b2b2b"/>
+<rect x="196" y="444" width="276" height="30" rx="3" fill="#2b2b2b"/>
+<rect x="196" y="480" width="276" height="30" rx="3" fill="#2b2b2b"/>
+<rect x="196" y="516" width="276" height="30" rx="3" fill="#2b2b2b"/>
+<rect x="196" y="552" width="276" height="30" rx="3" fill="#2b2b2b"/>
+</g>
+<!-- 砂轮(每行左侧) -->
+<g fill="#9a9a9a" stroke="#666" stroke-width="1">
+<path d="M196,375 A12,12 0 0 1 196,399 Z"/>
+<path d="M196,411 A12,12 0 0 1 196,435 Z"/>
+<path d="M196,447 A12,12 0 0 1 196,471 Z"/>
+<path d="M196,483 A12,12 0 0 1 196,507 Z"/>
+<path d="M196,519 A12,12 0 0 1 196,543 Z"/>
+<path d="M196,555 A12,12 0 0 1 196,579 Z"/>
+</g>
+<!-- 低碳钢: 长、黄白、分叉很少 -->
+<g stroke="#fff2a8" stroke-width="1.6" stroke-linecap="round" fill="none">
+<path d="M208,387 L462,381 M208,387 L452,388 M208,387 L440,395 M208,387 L420,377"/>
+</g>
+<use href="#fork" x="380" y="388" stroke="#fff2a8"/>
+<!-- 中碳钢: 较长,分叉明显增多 -->
+<g stroke="#ffe27a" stroke-width="1.5" stroke-linecap="round" fill="none">
+<path d="M208,423 L420,416 M208,423 L410,424 M208,423 L400,431 M208,423 L380,414"/>
+</g>
+<g stroke="#ffe27a">
+<use href="#fork" x="300" y="420"/><use href="#fork" x="350" y="418"/><use href="#fork" x="330" y="424"/><use href="#fork" x="380" y="424"/><use href="#fork" x="360" y="428"/><use href="#star" x="412" y="416"/><use href="#star" x="402" y="430"/>
+</g>
+<!-- 高碳钢: 较短,分叉多而密 -->
+<g stroke="#fffbe0" stroke-width="1.4" stroke-linecap="round" fill="none">
+<path d="M208,459 L350,452 M208,459 L344,460 M208,459 L336,467 M208,459 L320,450"/>
+</g>
+<g stroke="#fffbe0">
+<use href="#star" x="260" y="456"/><use href="#star" x="282" y="462"/><use href="#star" x="298" y="453"/><use href="#star" x="314" y="464"/><use href="#star" x="326" y="452"/><use href="#star" x="338" y="460"/><use href="#star" x="350" y="452"/><use href="#star" x="342" y="468"/><use href="#star" x="366" y="458"/><use href="#star" x="306" y="459"/>
+</g>
+<!-- 铸铁: 短,暗红到橙,末端少量小分叉 -->
+<g stroke="#e0642a" stroke-width="1.3" stroke-linecap="round" fill="none">
+<path d="M208,495 L292,491 M208,495 L286,497 M208,495 L276,502"/>
+</g>
+<g stroke="#e8823a"><use href="#fork" x="292" y="491"/><use href="#fork" x="286" y="497"/></g>
+<!-- 不锈钢: 较短,橙黄,分叉少 -->
+<g stroke="#ffb347" stroke-width="1.4" stroke-linecap="round" fill="none">
+<path d="M208,531 L338,526 M208,531 L332,533 M208,531 L320,539"/>
+</g>
+<use href="#fork" x="300" y="532" stroke="#ffb347"/>
+<!-- 有色金属: 几乎没有 -->
+<g fill="#ffb347"><circle cx="216" cy="565" r="1.4"/><circle cx="224" cy="570" r="1.2"/></g>
+<!-- 左侧名称 -->
+<g font-size="14" font-weight="bold">
+<text x="18" y="386">低碳钢</text>
+<text x="18" y="422">中碳钢</text>
+<text x="18" y="458">高碳钢</text>
+<text x="18" y="494">铸铁</text>
+<text x="18" y="530">不锈钢</text>
+<text x="18" y="566">铝、铜、黄铜、铅</text>
+</g>
+<g font-size="12" fill="#555">
+<text x="18" y="400">(钢筋、铁皮)</text>
+<text x="18" y="436">(轴、齿轮)</text>
+<text x="18" y="472">(锉刀、弹簧)</text>
+</g>
+<!-- 右侧说明 -->
+<g font-size="13">
+<text x="482" y="385">流线长、黄白色</text><text x="482" y="400" fill="#555" font-size="12">分叉很少</text>
+<text x="482" y="421">流线较长</text><text x="482" y="436" fill="#555" font-size="12">分叉明显增多</text>
+<text x="482" y="457">流线较短,分叉多而密</text><text x="482" y="472" fill="#555" font-size="12">像一簇簇小星星</text>
+<text x="482" y="493">流线短,暗红到橙色</text><text x="482" y="508" fill="#555" font-size="12">末端有少量小分叉</text>
+<text x="482" y="529">流线较短,橙黄色</text><text x="482" y="544" fill="#555" font-size="12">分叉少</text>
+<text x="482" y="571">几乎没有火花</text>
+</g>
+<g font-size="13">
+<text x="18" y="608" fill="#0b5cad" font-weight="bold">→ 火花越多越“开花”,含碳越高,越适合做刀具和工具</text>
+<text x="18" y="630" fill="#0b5cad">→ 拿一块已知的钢(如锉刀、钢筋)对比着看,判断更准确</text>
+</g>
+
+<!-- ⑤ 汽车 -->
+<rect x="8" y="658" width="704" height="236" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="682" font-size="15" font-weight="bold">⑤ 一辆报废汽车里的金属</text>
+<!-- 车身 -->
+<path d="M200,786 V760 Q200,748 214,746 L282,740 L318,710 Q326,704 338,704 L418,704 Q428,704 434,712 L456,742 Q470,746 470,760 V786 Z" fill="#cfe0f0" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M292,740 L322,714 H372 V740 Z M380,714 H416 Q422,714 426,720 L442,740 H380 Z" fill="#eef5fc" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<!-- 发动机、蓄电池 -->
+<rect x="232" y="752" width="44" height="26" rx="2" fill="#8a8f96" stroke="#333" stroke-width="1.2" stroke-dasharray="3 2"/>
+<rect x="210" y="756" width="16" height="12" fill="#555" stroke="#333" stroke-width="1"/>
+<!-- 传动轴 -->
+<path d="M262,792 H410" stroke="#555" stroke-width="4"/>
+<!-- 油箱 -->
+<rect x="356" y="768" width="40" height="14" rx="2" fill="#e9d9a6" stroke="#333" stroke-width="1.2"/>
+<!-- 弹簧、减震器 -->
+<path d="M414,748 L428,751 L414,754 L428,757 L414,760 L428,763" fill="none" stroke="#333" stroke-width="1.8"/>
+<rect x="434" y="746" width="7" height="20" fill="#888" stroke="#333" stroke-width="1"/>
+<!-- 车轮 -->
+<g stroke="#333" stroke-width="1.5">
+<circle cx="252" cy="790" r="24" fill="#333"/>
+<circle cx="252" cy="790" r="14" fill="#e3e7eb"/>
+<circle cx="252" cy="790" r="7" fill="#8a8f96"/>
+<circle cx="420" cy="790" r="24" fill="#333"/>
+<circle cx="420" cy="790" r="14" fill="#e3e7eb"/>
+<circle cx="420" cy="790" r="7" fill="#8a8f96"/>
+</g>
+<!-- 引线 -->
+<g stroke="#0b5cad" stroke-width="1.1" fill="none">
+<path d="M118,722 L218,758"/>
+<path d="M110,776 L240,764"/>
+<path d="M128,828 L246,792"/>
+<path d="M144,874 L240,800"/>
+<path d="M484,712 L404,706"/>
+<path d="M484,752 L428,756"/>
+<path d="M484,800 L440,762"/>
+<path d="M484,850 L392,778"/>
+<path d="M330,836 L330,796"/>
+</g>
+<g fill="#0b5cad">
+<circle cx="218" cy="758" r="2.2"/><circle cx="240" cy="764" r="2.2"/><circle cx="246" cy="792" r="2.2"/><circle cx="240" cy="800" r="2.2"/>
+<circle cx="404" cy="706" r="2.2"/><circle cx="428" cy="756" r="2.2"/><circle cx="440" cy="762" r="2.2"/><circle cx="392" cy="778" r="2.2"/><circle cx="330" cy="796" r="2.2"/>
+</g>
+<!-- 左侧标注 -->
+<g font-size="13">
+<text x="18" y="704" font-weight="bold">蓄电池</text>
+<text x="18" y="720" font-size="12">铅,有硫酸;</text>
+<text x="18" y="735" font-size="12" fill="#c33">不建议自己回收</text>
+<text x="18" y="756" font-weight="bold">发动机</text>
+<text x="18" y="772" font-size="12">缸体: 灰铸铁</text>
+<text x="18" y="787" font-size="12">活塞、缸盖: 铝</text>
+<text x="18" y="816" font-weight="bold">刹车盘、刹车鼓</text>
+<text x="18" y="832" font-size="12">灰铸铁,不能锻打</text>
+<text x="18" y="862" font-weight="bold">轮毂</text>
+<text x="18" y="878" font-size="12">多为铝;<tspan fill="#c33">某些是镁合金</tspan></text>
+</g>
+<!-- 右侧标注 -->
+<g font-size="13">
+<text x="488" y="708" font-weight="bold">车身、铁皮</text>
+<text x="488" y="724" font-size="12">低碳钢板: 铁皮器具、罩子、炉子</text>
+<text x="488" y="748" font-weight="bold">螺旋弹簧、板簧</text>
+<text x="488" y="764" font-size="12">弹簧钢(含碳约0.6%): 刀、斧、凿</text>
+<text x="488" y="796" font-weight="bold" fill="#c33">⚠ 减震器、气弹簧</text>
+<text x="488" y="812" font-size="12">内有高压气体和油,</text>
+<text x="488" y="827" font-size="12" fill="#c33">绝不加热、切割</text>
+<text x="488" y="852" font-weight="bold" fill="#c33">⚠ 油箱</text>
+<text x="488" y="868" font-size="12">残留汽油蒸气会爆炸</text>
+</g>
+<g font-size="13" text-anchor="middle">
+<text x="330" y="852" font-weight="bold">传动轴、半轴</text>
+<text x="330" y="868" font-size="12">中碳合金钢: 锤头、撬棍</text>
+</g>
+
+<!-- ⑥ 其他来源 -->
+<rect x="8" y="904" width="704" height="170" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="928" font-size="15" font-weight="bold">⑥ 其他好找的来源</text>
+<g stroke="#333" stroke-width="1">
+<rect x="18" y="940" width="14" height="14" fill="#8a8f96"/>
+<rect x="18" y="962" width="14" height="14" fill="#b9c3cc"/>
+<rect x="18" y="984" width="14" height="14" fill="#c8643c"/>
+<rect x="18" y="1006" width="14" height="14" fill="#dcb43c"/>
+<rect x="18" y="1028" width="14" height="14" fill="#e3e7eb"/>
+<rect x="18" y="1050" width="14" height="14" fill="#6b6f78"/>
+</g>
+<g font-size="13">
+<text x="40" y="952"><tspan font-weight="bold">好钢(单独存放): </tspan>锉刀(含碳约1.2%)、轴承(含碳约1%,含铬)、钢轨(约0.7%,作砧子)</text>
+<text x="40" y="974"><tspan font-weight="bold">普通钢: </tspan>钢筋(低碳钢,成分不稳定,做不需要淬火的东西)、钢丝绳(高碳钢丝)</text>
+<text x="40" y="996"><tspan font-weight="bold">铜: </tspan>电线电缆、电动机和变压器的线圈、水管 —— 能保持成线的尽量不熔化</text>
+<text x="40" y="1018"><tspan font-weight="bold">黄铜: </tspan>水龙头、阀门、管件、弹壳</text>
+<text x="40" y="1040"><tspan font-weight="bold">铝: </tspan>门窗型材、炊具、易拉罐(很薄,熔化损失大;优先熔厚的铸铝件)</text>
+<text x="40" y="1062"><tspan font-weight="bold">铅: </tspan>车轮平衡块、旧水管、电缆护套</text>
+</g>
+
+<!-- 危险 -->
+<rect x="8" y="1084" width="704" height="214" rx="6" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<text x="18" y="1108" font-size="15" font-weight="bold" fill="#c33">⚠ 拆解和熔化的危险</text>
+<g font-size="13">
+<text x="18" y="1132"><tspan font-weight="bold" fill="#c33">密封件绝不加热、切割: </tspan>气瓶、灭火器、喷雾罐、打火机、减震器、气弹簧、</text>
+<text x="18" y="1150">密封的管子和空心件(里面可能有水或气)、油箱</text>
+<text x="18" y="1174"><tspan font-weight="bold" fill="#c33">镀锌件</tspan>(白色镀层的铁皮、水管、螺丝)受热放出锌烟 → 金属烟热(发烧、寒战、</text>
+<text x="18" y="1192">全身酸痛);锻打、焊接前用砂轮打磨掉,或用醋泡一两天(在通风处)</text>
+<text x="18" y="1216"><tspan font-weight="bold" fill="#c33">铅、镉</tspan>(金黄色镀层)及其烟尘有毒;旧刹车片可能含石棉;铜线不要烧绝缘皮</text>
+<text x="18" y="1240"><tspan font-weight="bold" fill="#c33">镁合金</tspan>屑末和熔液剧烈燃烧,遇水更猛烈,不能用水扑灭</text>
+<text x="18" y="1264"><tspan font-weight="bold" fill="#c33">潮湿的废料</tspan>放进熔融金属 → 水蒸气爆炸;电容、电池拆解时可能放电、漏酸、起火</text>
+<text x="18" y="1284" font-weight="bold">在室外通风处操作,站在上风方向,穿戴防护用品</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 556" width="720" height="556" role="img" aria-label="pH和自制酸碱指示剂。①pH从0到14,7是中性,越小越酸,越大越碱: 胃酸约1-2,醋约3,纯水7,肥皂水约9-10,石灰水约12,烧碱溶液约14。②自制酸碱指示剂: 紫甘蓝(紫色卷心菜)切碎,用热水泡出紫色汁液;遇酸变红或粉红,中性呈紫色,遇碱变蓝、绿,强碱变黄。强酸、强碱会严重烧伤皮肤和眼睛,操作时戴手套和护目镜" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>pH 和自制酸碱指示剂</title>
+<defs>
+<linearGradient id="phbar" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#d9343f"/>
+<stop offset="0.5" stop-color="#f2f2f2"/>
+<stop offset="1" stop-color="#2f62c4"/>
+</linearGradient>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<marker id="arK" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#333"/></marker>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">pH 和自制酸碱指示剂</text>
+
+<!-- ① pH 刻度: x = 66 + 42 × pH -->
+<rect x="10" y="44" width="700" height="222" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="24" y="68" font-size="16" font-weight="bold">① pH 0-14: 7是中性,越小越酸,越大越碱</text>
+<rect x="66" y="150" width="588" height="28" fill="url(#phbar)" stroke="#333" stroke-width="2"/>
+<g stroke="#333" stroke-width="1.5">
+<path d="M66,178 v6 M108,178 v6 M150,178 v6 M192,178 v6 M234,178 v6 M276,178 v6 M318,178 v6 M360,178 v8 M402,178 v6 M444,178 v6 M486,178 v6 M528,178 v6 M570,178 v6 M612,178 v6 M654,178 v6"/>
+</g>
+<g font-size="13" text-anchor="middle" fill="#333">
+<text x="66" y="200">0</text><text x="108" y="200">1</text><text x="150" y="200">2</text><text x="192" y="200">3</text><text x="234" y="200">4</text><text x="276" y="200">5</text><text x="318" y="200">6</text><text x="360" y="200" font-weight="bold">7</text><text x="402" y="200">8</text><text x="444" y="200">9</text><text x="486" y="200">10</text><text x="528" y="200">11</text><text x="570" y="200">12</text><text x="612" y="200">13</text><text x="654" y="200">14</text>
+</g>
+<g font-size="15" font-weight="bold" text-anchor="middle">
+<text x="80" y="226" fill="#c33">强酸</text>
+<text x="360" y="226">中性</text>
+<text x="640" y="226" fill="#2f62c4">强碱</text>
+</g>
+<g stroke="#0b5cad" stroke-width="1.5" fill="none">
+<path d="M330,248 H130" marker-end="url(#arB)"/>
+<path d="M390,248 H590" marker-end="url(#arB)"/>
+</g>
+<g font-size="13" fill="#0b5cad">
+<text x="236" y="240" text-anchor="middle">越来越酸</text>
+<text x="484" y="240" text-anchor="middle">越来越碱</text>
+</g>
+<!-- 常见物质 -->
+<g stroke="#333" stroke-width="1.3" fill="none">
+<path d="M108,140 V134 H150 V140 M129,134 V128"/>
+<path d="M192,128 V148"/>
+<path d="M360,128 V148"/>
+<path d="M444,140 V134 H486 V140 M465,134 V128"/>
+<path d="M570,128 V148"/>
+<path d="M654,128 V148"/>
+</g>
+<g font-size="14" font-weight="bold" text-anchor="middle">
+<text x="129" y="102">胃酸</text>
+<text x="192" y="102">醋</text>
+<text x="360" y="102">纯水</text>
+<text x="465" y="102">肥皂水</text>
+<text x="570" y="102">石灰水</text>
+<text x="654" y="102">烧碱溶液</text>
+</g>
+<g font-size="13" text-anchor="middle" fill="#555">
+<text x="129" y="120">约1-2</text>
+<text x="192" y="120">约3</text>
+<text x="360" y="120">7</text>
+<text x="465" y="120">约9-10</text>
+<text x="570" y="120">约12</text>
+<text x="654" y="120">约14</text>
+</g>
+
+<!-- ② 紫甘蓝指示剂 -->
+<rect x="10" y="282" width="700" height="226" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="24" y="306" font-size="16" font-weight="bold">② 自制酸碱指示剂: 紫甘蓝(紫色卷心菜)汁</text>
+<!-- 切碎 -->
+<rect x="28" y="408" width="92" height="12" rx="3" fill="#e6d3b3" stroke="#333" stroke-width="1.5"/>
+<g fill="#8a4fa3" stroke="#333" stroke-width="1.2">
+<path d="M36 408l4 -9l8 2l-2 7Z"/><path d="M52 408l2 -10l9 1l1 9Z"/><path d="M68 408l3 -8l8 0l1 8Z"/>
+<path d="M84 408l2 -9l9 2l-1 7Z"/><path d="M100 408l3 -7l9 1l0 6Z"/><path d="M58 398l3 -7l8 1l0 6Z"/>
+<path d="M76 399l2 -7l8 1l1 6Z"/>
+</g>
+<circle cx="74" cy="358" r="26" fill="#8a4fa3" stroke="#333" stroke-width="2"/>
+<g stroke="#c9a3d8" stroke-width="1.5" fill="none">
+<path d="M74 334Q62 358 74 382"/><path d="M74 334Q88 358 76 382"/><path d="M52 348Q66 356 72 366"/><path d="M96 350Q84 356 78 366"/>
+</g>
+<text x="74" y="446" font-size="14" text-anchor="middle">切碎</text>
+<!-- 热水泡 -->
+<path d="M140 366H230L220 418H150Z" fill="#fff" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M143 380H227L220 416H150Z" fill="#7a3f96"/>
+<g stroke="#999" stroke-width="1.5" fill="none">
+<path d="M164 358q-6 -8 0 -16q6 -8 0 -16"/><path d="M185 358q-6 -8 0 -16q6 -8 0 -16"/><path d="M206 358q-6 -8 0 -16q6 -8 0 -16"/>
+</g>
+<text x="185" y="446" font-size="14" text-anchor="middle">热水泡出</text>
+<text x="185" y="464" font-size="14" text-anchor="middle">紫色汁液</text>
+<path d="M240 392H266" stroke="#333" stroke-width="2" marker-end="url(#arK)"/>
+<!-- 颜色变化 -->
+<g font-size="14" font-weight="bold" text-anchor="middle">
+<text x="312" y="340" fill="#c33">遇酸</text>
+<text x="400" y="340">中性</text>
+<text x="532" y="340" fill="#2f62c4">遇碱</text>
+<text x="664" y="340" fill="#2f62c4">强碱</text>
+</g>
+<path d="M488 348V352M488 348H576V352" stroke="#2f62c4" stroke-width="1.3" fill="none"/>
+<g stroke="#333" stroke-width="2" stroke-linejoin="round">
+<path d="M284 358H340L335 420H289Z" fill="#fff"/>
+<path d="M372 358H428L423 420H377Z" fill="#fff"/>
+<path d="M460 358H516L511 420H465Z" fill="#fff"/>
+<path d="M548 358H604L599 420H553Z" fill="#fff"/>
+<path d="M636 358H692L687 420H641Z" fill="#fff"/>
+</g>
+<g stroke="none">
+<path d="M286.6 378H337.4L333.5 418H290.5Z" fill="#e2456d"/>
+<path d="M374.6 378H425.4L421.5 418H378.5Z" fill="#8a4fa3"/>
+<path d="M462.6 378H513.4L509.5 418H466.5Z" fill="#3a6fd8"/>
+<path d="M550.6 378H601.4L597.5 418H554.5Z" fill="#3aa65a"/>
+<path d="M638.6 378H689.4L685.5 418H642.5Z" fill="#e8c62e"/>
+</g>
+<g font-size="14" text-anchor="middle">
+<text x="312" y="442">红或粉红</text>
+<text x="400" y="442">紫色</text>
+<text x="488" y="442">蓝</text>
+<text x="576" y="442">绿</text>
+<text x="664" y="442">黄</text>
+</g>
+<g stroke="#0b5cad" stroke-width="1.5" fill="none">
+<path d="M380 474H300" marker-end="url(#arB)"/>
+<path d="M420 474H676" marker-end="url(#arB)"/>
+</g>
+<g font-size="13" fill="#0b5cad" text-anchor="middle">
+<text x="340" y="492">越来越酸</text>
+<text x="548" y="492">越来越碱</text>
+</g>
+
+<text x="360" y="536" font-size="14" font-weight="bold" fill="#c33" text-anchor="middle">⚠️ 强酸、强碱会严重烧伤皮肤和眼睛,操作时戴手套和护目镜</text>
+</g>
+</svg>

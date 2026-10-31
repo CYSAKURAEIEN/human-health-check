@@ -1,0 +1,167 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 818" width="720" height="818" role="img" aria-label="熟铁、钢、生铁: 含碳量决定性质。熟铁含碳低于0.2%,软、韧,不能淬硬,烧红能锻打成各种形状,常温能弯90°不断裂,适合做钉子、铁丝、链环、铁箍,来自块炼法的海绵铁锻合或生铁炒炼去碳。钢含碳0.2-2%,既硬又韧,加热到约780-850°C后急冷能淬火变硬;中碳钢约0.3-0.6%,强度和韧性兼顾,做斧、锤、锄;高碳钢约0.6-1.5%,淬火后很硬、较脆,做刀、凿、锉、弹簧;钢来自熟铁渗碳、炒钢不炒到底,或回收锉刀、弹簧、钢板弹簧。生铁含碳2-4%,很硬、很脆,一砸就碎,不能锻造;含碳约4%时熔点约1150°C,能熔化铸造铁锅、犁铧;断口灰色是灰口铸铁,能锉动,适合铸造;断口白亮是白口铁,适合炒成熟铁。含碳越少熔点越高,纯铁约1538°C。来路: 铁矿石加木炭,块炼法1100-1300°C铁不熔化,得到海绵铁,趁热锻合成熟铁;生铁法1300-1400°C熔成铁水流出,得到生铁,再用炒钢法或吹炼法去碳成熟铁;熟铁渗碳成钢;炒钢不炒到底直接得到钢" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>熟铁、钢、生铁: 含碳量决定性质</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="arK" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#555"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<linearGradient id="hard" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#0b5cad"/><stop offset="1" stop-color="#c33"/></linearGradient>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">熟铁、钢、生铁: 含碳量决定性质</text>
+
+<!-- ① 含碳量轴 -->
+<rect x="8" y="44" width="704" height="214" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="66" font-size="15" font-weight="bold">① 按含碳量分三类(横轴按比例画)</text>
+<g text-anchor="middle">
+<text x="56" y="94" font-size="15" font-weight="bold">熟铁</text>
+<text x="56" y="112" font-size="13">&lt;0.2%</text>
+<text x="216" y="94" font-size="15" font-weight="bold">钢</text>
+<text x="216" y="112" font-size="13">0.2-2%</text>
+<text x="520" y="94" font-size="15" font-weight="bold">生铁</text>
+<text x="520" y="112" font-size="13">2-4%</text>
+</g>
+<!-- 1% = 160 px, 0 在 x=40 -->
+<g stroke="#333" stroke-width="1.5">
+<rect x="40" y="118" width="32" height="30" fill="#e8eef4"/>
+<rect x="72" y="118" width="288" height="30" fill="#b9cfe6"/>
+<rect x="360" y="118" width="320" height="30" fill="#9aa3ad"/>
+</g>
+<text x="216" y="138" font-size="13" text-anchor="middle">能淬火变硬</text>
+<text x="520" y="138" font-size="13" text-anchor="middle" fill="#fff">脆,不能锻打;能熔化浇铸</text>
+<!-- 中碳 / 高碳 -->
+<rect x="88" y="152" width="48" height="12" fill="#7fa6cf" stroke="#333" stroke-width="1"/>
+<rect x="136" y="152" width="144" height="12" fill="#3f6fa3" stroke="#333" stroke-width="1"/>
+<g font-size="13" text-anchor="middle">
+<text x="112" y="182" font-weight="bold">中碳钢</text>
+<text x="112" y="198">约0.3-0.6%</text>
+<text x="212" y="182" font-weight="bold">高碳钢</text>
+<text x="212" y="198">约0.6-1.5%</text>
+</g>
+<!-- 刻度 -->
+<g stroke="#333" stroke-width="1.2">
+<path d="M40,148 V156 M72,148 V156 M360,148 V156 M680,148 V156"/>
+</g>
+<g font-size="12" fill="#555" text-anchor="middle">
+<text x="36" y="168">0</text>
+<text x="72" y="168">0.2%</text>
+<text x="360" y="168">2%</text>
+<text x="680" y="168">4%</text>
+</g>
+<text x="520" y="182" font-size="12" fill="#555" text-anchor="middle">含碳量 →</text>
+<!-- 趋势 -->
+<rect x="40" y="216" width="626" height="4" fill="url(#hard)"/>
+<path d="M664,212 L680,218 L664,224 Z" fill="#c33"/>
+<text x="40" y="242" font-size="13" fill="#0b5cad" font-weight="bold">含碳少: 软、韧,熔点高(纯铁约1538°C)</text>
+<text x="680" y="242" font-size="13" fill="#c33" font-weight="bold" text-anchor="end">含碳多: 硬、脆,熔点低(约1150°C)</text>
+
+<!-- ② 三张卡片 -->
+<!-- 熟铁 -->
+<rect x="8" y="268" width="228" height="300" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="292" font-size="15" font-weight="bold">② 熟铁(锻铁)</text>
+<!-- 钉子图标 -->
+<g transform="translate(206,282)">
+<rect x="-12" y="-6" width="24" height="5" rx="1" fill="#e8eef4" stroke="#333" stroke-width="1.5"/>
+<path d="M-3,-1 V20 L0,26 L3,20 V-1" fill="#e8eef4" stroke="#333" stroke-width="1.5"/>
+</g>
+<g font-size="13">
+<text x="18" y="316" font-weight="bold" fill="#0b5cad">含碳 &lt;0.2%</text>
+<text x="18" y="338">软、韧,不能淬硬</text>
+<text x="18" y="358">烧红能锻打成各种形状</text>
+<text x="18" y="378">常温能弯90°不断裂</text>
+<text x="18" y="406" font-weight="bold">适合做:</text>
+<text x="18" y="426">钉子、铁丝、链环、铁箍</text>
+<text x="18" y="446">(刀身也可用熟铁,</text>
+<text x="18" y="466">刃口夹一条钢锻合)</text>
+<text x="18" y="494" font-weight="bold">怎么得到:</text>
+<text x="18" y="514">块炼法的海绵铁趁热锻合;</text>
+<text x="18" y="534">或生铁炒炼去碳</text>
+</g>
+
+<!-- 钢 -->
+<rect x="246" y="268" width="228" height="300" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="256" y="292" font-size="15" font-weight="bold">③ 钢</text>
+<!-- 刀图标 -->
+<g transform="translate(400,284)">
+<path d="M0,-4 H50 L62,2 Q52,8 0,6 Z" fill="#b9cfe6" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="-26" y="-4" width="26" height="10" rx="3" fill="#a0704a" stroke="#333" stroke-width="1.5"/>
+</g>
+<g font-size="13">
+<text x="256" y="316" font-weight="bold" fill="#0b5cad">含碳 0.2-2%</text>
+<text x="256" y="338">既硬又韧;能淬火变硬</text>
+<text x="256" y="358">(加热到约780-850°C后急冷)</text>
+<text x="256" y="386" font-weight="bold">中碳钢 约0.3-0.6%</text>
+<text x="256" y="406">强度和韧性兼顾</text>
+<text x="256" y="426">→ 斧、锤、锄</text>
+<text x="256" y="454" font-weight="bold">高碳钢 约0.6-1.5%</text>
+<text x="256" y="474">淬火后很硬,较脆</text>
+<text x="256" y="494">→ 刀、凿、锉、弹簧</text>
+<text x="256" y="520" font-weight="bold">怎么得到:</text>
+<text x="256" y="540">熟铁渗碳;炒钢不炒到底;</text>
+<text x="256" y="558">回收锉刀、弹簧、钢板弹簧</text>
+</g>
+
+<!-- 生铁 -->
+<rect x="484" y="268" width="228" height="300" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="494" y="292" font-size="15" font-weight="bold">④ 生铁</text>
+<!-- 铁锅图标 -->
+<g transform="translate(668,292) scale(0.8)">
+<path d="M-28,-6 H28 Q26,14 0,16 Q-26,14 -28,-6 Z" fill="#9aa3ad" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M-28,-6 H-36 M28,-6 H36" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+</g>
+<g font-size="13">
+<text x="494" y="316" font-weight="bold" fill="#0b5cad">含碳 2-4%</text>
+<text x="494" y="338">很硬、很脆,一砸就碎</text>
+<text x="494" y="358" fill="#c33" font-weight="bold">✗ 不能锻造(会碎)</text>
+<text x="494" y="378">含碳约4%时熔点约1150°C</text>
+<text x="494" y="398">→ 熔化后倒模铸造</text>
+<text x="494" y="426" font-weight="bold">适合做:</text>
+<text x="494" y="446">铁锅、犁铧(耐磨损)</text>
+<text x="494" y="472" font-weight="bold">看断口:</text>
+<text x="494" y="492">灰色、颗粒粗 → 灰口铸铁</text>
+<text x="494" y="510" font-size="12" fill="#555">(能锉动,适合铸造)</text>
+<text x="494" y="530">白亮、极硬 → 白口铁</text>
+<text x="494" y="548" font-size="12" fill="#555">(适合炒成熟铁)</text>
+</g>
+
+<!-- ⑤ 来路 -->
+<rect x="8" y="578" width="704" height="232" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="602" font-size="15" font-weight="bold">⑤ 从矿石到熟铁和钢</text>
+<g stroke="#333" stroke-width="1.5">
+<rect x="20" y="624" width="92" height="96" rx="6" fill="#d9b9a0"/>
+<rect x="290" y="616" width="86" height="40" rx="6" fill="#e8eef4"/>
+<rect x="290" y="690" width="86" height="40" rx="6" fill="#9aa3ad"/>
+<rect x="486" y="640" width="80" height="64" rx="6" fill="#e8eef4"/>
+<rect x="618" y="640" width="80" height="64" rx="6" fill="#b9cfe6"/>
+</g>
+<g font-size="14" text-anchor="middle" font-weight="bold">
+<text x="66" y="666">铁矿石</text>
+<text x="66" y="686">+ 木炭</text>
+<text x="333" y="641">海绵铁</text>
+<text x="333" y="715">生铁</text>
+<text x="526" y="677">熟铁</text>
+<text x="658" y="677">钢</text>
+</g>
+<!-- 块炼法 -->
+<path d="M112,646 H284" stroke="#555" stroke-width="2" marker-end="url(#arK)"/>
+<text x="198" y="636" font-size="13" text-anchor="middle" font-weight="bold">块炼法 1100-1300°C</text>
+<text x="198" y="662" font-size="12" text-anchor="middle" fill="#555">铁不熔化</text>
+<!-- 生铁法 -->
+<path d="M112,702 H284" stroke="#555" stroke-width="2" marker-end="url(#arK)"/>
+<text x="198" y="692" font-size="13" text-anchor="middle" font-weight="bold">生铁法 1300-1400°C</text>
+<text x="198" y="718" font-size="12" text-anchor="middle" fill="#555">熔成铁水流出</text>
+<!-- 海绵铁 → 熟铁 -->
+<path d="M376,636 H430 Q440,636 446,646 L480,662" fill="none" stroke="#555" stroke-width="2" marker-end="url(#arK)"/>
+<text x="408" y="628" font-size="12" text-anchor="middle">趁热锻合</text>
+<!-- 生铁 → 熟铁 -->
+<path d="M376,710 H430 Q440,710 446,700 L480,684" fill="none" stroke="#555" stroke-width="2" marker-end="url(#arK)"/>
+<text x="420" y="736" font-size="12" text-anchor="middle">炒钢法/吹炼法</text>
+<text x="420" y="751" font-size="12" text-anchor="middle">去碳</text>
+<!-- 熟铁 → 钢 -->
+<path d="M566,672 H612" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="590" y="664" font-size="13" text-anchor="middle" fill="#c33" font-weight="bold">渗碳</text>
+<!-- 生铁 → 钢(炒钢不炒到底) -->
+<path d="M333,730 V766 Q333,778 345,778 H646 Q658,778 658,766 V710" fill="none" stroke="#0b5cad" stroke-width="1.8" stroke-dasharray="6 4" marker-end="url(#arB)"/>
+<text x="496" y="798" font-size="12" text-anchor="middle" fill="#0b5cad">炒钢时不炒到底 → 直接得到钢(火候难控制)</text>
+</g>
+</svg>

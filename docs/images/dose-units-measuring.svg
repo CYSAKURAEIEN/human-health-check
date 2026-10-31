@@ -1,0 +1,217 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1010" width="720" height="1010" role="img" aria-label="剂量单位与量取液体药。剂量计算错误等于无效或致死;尽量用保存下来的成品药,按原包装上的规格给药;算完让第二个人独立再算一遍,两人结果一致才用。①单位: 1 g = 1000 mg,1 mg = 1000 μg;mg和μg看错、mg和g看错都差1000倍;μg写成微克,避免和mg混淆。②写法: 小数前面一定写0,写0.5 mg不写.5 mg,小数点错一位差10倍;整数后面不加小数,写5 mg不写5.0 mg,容易被看成50。③液体药从毫克换算成毫升: 要量取的体积(mL)等于需要的剂量(mg)除以浓度(mg/mL)。例: 儿童混悬液标签写100 mg/5 mL,即每mL含20 mg;说明书按体重查得一次用150 mg;150除以20等于7.5 mL。同一种药的滴剂和混悬液浓度往往不同,先确认浓度单位,算完和说明书上的毫升数对照。④量具: 药盒附带的量杯、量勺、口服注射器误差小,是首选,按刻度用,不要换着用;去掉针头的刻度注射器量小体积液体最准;家用茶匙、汤匙大小不一,可差20-50%,不要用来量药;滴管每mL 15-25滴不等,只能用药品配套的滴管;用勺子量粉末轻重相差可达好几倍,不能代替称量。⑤片剂: 有刻痕、说明书允许的普通片可以沿刻痕掰开;缓释片、控释片、肠溶片不能掰、不能嚼、不能磨碎,药会一下子全部释放,可能中毒或伤胃;没有刻痕的小片掰开,两半的含量可能差别很大。结果和说明书常用量差了好几倍,一定是哪里算错了,停下来重算;毫克级的药物不要尝试自己称量" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>剂量单位与量取液体药</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="arK" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#555"/></marker>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">剂量单位与量取液体药: 最怕差十倍、差一千倍</text>
+
+<!-- 警告 -->
+<rect x="8" y="42" width="704" height="58" rx="6" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<g font-size="14">
+<text x="20" y="66"><tspan font-weight="bold" fill="#c33">⚠ 剂量计算错误 = 无效或致死。</tspan>尽量用保存下来的成品药,按原包装规格和说明书给药</text>
+<text x="20" y="88">算完让第二个人独立再算一遍,两人结果一致才用;治疗窗窄的药只能遵医嘱</text>
+</g>
+
+<!-- ① 单位 -->
+<rect x="8" y="110" width="348" height="196" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="134" font-size="15" font-weight="bold">① 单位: 每一级差1000倍</text>
+<g stroke="#333" stroke-width="1.5">
+<rect x="22" y="148" width="72" height="46" rx="6" fill="#cfe0f0"/>
+<rect x="140" y="148" width="72" height="46" rx="6" fill="#cfe0f0"/>
+<rect x="258" y="148" width="72" height="46" rx="6" fill="#cfe0f0"/>
+</g>
+<g text-anchor="middle">
+<text x="58" y="171" font-size="18" font-weight="bold">g</text>
+<text x="58" y="188" font-size="12">克</text>
+<text x="176" y="171" font-size="18" font-weight="bold">mg</text>
+<text x="176" y="188" font-size="12">毫克</text>
+<text x="294" y="171" font-size="18" font-weight="bold">μg</text>
+<text x="294" y="188" font-size="12">微克</text>
+<text x="117" y="164" font-size="12" fill="#0b5cad" font-weight="bold">×1000</text>
+<text x="235" y="164" font-size="12" fill="#0b5cad" font-weight="bold">×1000</text>
+</g>
+<path d="M96,172 H136" stroke="#0b5cad" stroke-width="2" marker-end="url(#arK)"/>
+<path d="M214,172 H254" stroke="#0b5cad" stroke-width="2" marker-end="url(#arK)"/>
+<g font-size="13">
+<text x="22" y="218">1 g = 1000 mg</text>
+<text x="190" y="218">1 mg = 1000 μg</text>
+<text x="22" y="244" fill="#c33">✗ mg 和 μg 看错 → 差1000倍</text>
+<text x="22" y="264" fill="#c33">✗ mg 和 g 看错 → 差1000倍</text>
+<text x="22" y="290">✓ μg 写成“微克”,避免和 mg 混淆</text>
+</g>
+
+<!-- ② 写法 -->
+<rect x="364" y="110" width="348" height="196" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="374" y="134" font-size="15" font-weight="bold">② 写剂量的规矩</text>
+<text x="374" y="158" font-size="13" font-weight="bold">小数前面一定写0</text>
+<text x="384" y="186" font-size="20" font-weight="bold">✓ 0.5 mg</text>
+<text x="540" y="186" font-size="20" fill="#c33">✗ .5 mg</text>
+<path d="M560,179 H612" stroke="#c33" stroke-width="1.5"/>
+<text x="374" y="206" font-size="12" fill="#555">小数点错一位 → 差10倍(0.5 mg 写成 5 mg)</text>
+<text x="374" y="234" font-size="13" font-weight="bold">整数后面不加小数</text>
+<text x="384" y="262" font-size="20" font-weight="bold">✓ 5 mg</text>
+<text x="540" y="262" font-size="20" fill="#c33">✗ 5.0 mg</text>
+<path d="M562,256 H632" stroke="#c33" stroke-width="1.5"/>
+<text x="374" y="284" font-size="12" fill="#555">“5.0”容易被看成50</text>
+
+<!-- ③ 液体药 -->
+<rect x="8" y="316" width="704" height="252" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="340" font-size="15" font-weight="bold">③ 液体药: 从毫克换算成毫升</text>
+<rect x="18" y="352" width="684" height="32" rx="4" fill="#eef5fc" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="360" y="374" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b5cad">要量取的体积(mL) = 需要的剂量(mg) ÷ 浓度(mg/mL)</text>
+<!-- 药瓶 -->
+<g stroke="#333" stroke-width="1.8" stroke-linejoin="round">
+<rect x="52" y="398" width="40" height="16" rx="2" fill="#fff"/>
+<path d="M40,420 Q40,414 48,414 H96 Q104,414 104,420 V516 Q104,524 96,524 H48 Q40,524 40,516 Z" fill="#f6e2c6"/>
+</g>
+<rect x="44" y="440" width="56" height="52" fill="#fff" stroke="#333" stroke-width="1"/>
+<g text-anchor="middle" font-size="11">
+<text x="72" y="456">混悬液</text>
+<text x="72" y="472" font-weight="bold" fill="#c33">100 mg</text>
+<text x="72" y="486" font-weight="bold" fill="#c33">/5 mL</text>
+</g>
+<text x="72" y="542" font-size="12" text-anchor="middle" fill="#555">看标签上的浓度</text>
+<!-- 步骤 -->
+<g font-size="13">
+<text x="132" y="414" font-weight="bold">1. 确认浓度单位</text>
+<text x="132" y="432">标签: 100 mg/5 mL</text>
+<text x="132" y="458" font-weight="bold">2. 换算成每 mL 含多少 mg</text>
+<text x="132" y="476">100 ÷ 5 = 20 mg/mL</text>
+<text x="132" y="502" font-weight="bold">3. 按说明书体重一栏查剂量</text>
+<text x="132" y="520">一次用150 mg</text>
+<text x="132" y="550" font-size="15" font-weight="bold" fill="#c33">150 ÷ 20 = 7.5 mL</text>
+</g>
+<path d="M290,545 Q360,545 400,486" fill="none" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<!-- 口服注射器: 0 在 x=470,每 mL 18 px -->
+<g stroke="#333" stroke-width="1.6" stroke-linejoin="round">
+<path d="M444,456 H460 V466 H444 Z" fill="#fff"/>
+<rect x="460" y="446" width="196" height="30" rx="2" fill="#fff"/>
+</g>
+<rect x="461" y="447" width="144" height="28" fill="#f6e2c6"/>
+<rect x="605" y="446" width="8" height="30" fill="#555" stroke="#333" stroke-width="1"/>
+<path d="M613,461 H690" stroke="#333" stroke-width="5"/>
+<rect x="690" y="442" width="7" height="38" rx="2" fill="#bbb" stroke="#333" stroke-width="1.2"/>
+<path d="M656,442 V480" stroke="#333" stroke-width="2"/>
+<g stroke="#333" stroke-width="1">
+<path d="M470,446 V458 M488,446 V454 M506,446 V454 M524,446 V454 M542,446 V454 M560,446 V458 M578,446 V454 M596,446 V454 M614,446 V454 M632,446 V454 M650,446 V458"/>
+<path d="M479,446 V451 M497,446 V451 M515,446 V451 M533,446 V451 M551,446 V451 M569,446 V451 M587,446 V451 M605,446 V451 M623,446 V451 M641,446 V451"/>
+</g>
+<g font-size="11" text-anchor="middle" fill="#555">
+<text x="470" y="440">0</text><text x="560" y="440">5</text><text x="650" y="440">10 mL</text>
+</g>
+<path d="M605,486 V502" stroke="#c33" stroke-width="2"/>
+<text x="605" y="518" font-size="15" text-anchor="middle" font-weight="bold" fill="#c33">7.5 mL</text>
+<text x="560" y="414" font-size="13" text-anchor="middle">口服注射器(无针头)</text>
+<g font-size="12" fill="#555">
+<text x="420" y="540">⚠ 同一种药的滴剂和混悬液浓度往往不同</text>
+<text x="420" y="557">算完和说明书上的毫升数对照</text>
+</g>
+
+<!-- ④ 量具 -->
+<rect x="8" y="578" width="704" height="206" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="602" font-size="15" font-weight="bold">④ 用什么量</text>
+<!-- 1 量杯 -->
+<g stroke="#333" stroke-width="1.6" stroke-linejoin="round">
+<path d="M52,620 L56,666 H88 L92,620" fill="#fff"/>
+<path d="M54.5,646 L56,666 H88 L89.5,646 Z" fill="#f6e2c6" stroke="none"/>
+<path d="M52,620 L56,666 H88 L92,620" fill="none"/>
+</g>
+<path d="M60,632 H68 M60,642 H68 M60,652 H68" stroke="#333" stroke-width="1"/>
+<!-- 2 注射器 -->
+<g stroke="#333" stroke-width="1.5">
+<rect x="178" y="636" width="64" height="16" rx="2" fill="#fff"/>
+<rect x="179" y="637" width="34" height="14" fill="#f6e2c6" stroke="none"/>
+<path d="M170,641 H178 V647 H170 Z" fill="#fff"/>
+<path d="M213,636 V652 M213,644 H256 M256,636 V652" fill="none" stroke-width="2"/>
+</g>
+<!-- 3 汤匙 -->
+<g stroke="#333" stroke-width="1.6">
+<ellipse cx="320" cy="646" rx="20" ry="12" fill="#e3e7eb"/>
+<path d="M340,644 L384,636" stroke-width="5" stroke-linecap="round"/>
+</g>
+<!-- 4 滴管 -->
+<g stroke="#333" stroke-width="1.5" stroke-linejoin="round">
+<rect x="456" y="616" width="16" height="16" rx="6" fill="#c33"/>
+<path d="M458,632 H470 V660 L465,672 H463 L458,660 Z" fill="#fff"/>
+</g>
+<circle cx="464" cy="680" r="3" fill="#f6e2c6" stroke="#333" stroke-width="1"/>
+<!-- 5 勺子量粉末 -->
+<g stroke="#333" stroke-width="1.6">
+<ellipse cx="596" cy="648" rx="18" ry="10" fill="#e3e7eb"/>
+<path d="M580,646 Q596,628 612,646 Z" fill="#fff" stroke-dasharray="2 2"/>
+<path d="M614,646 L652,638" stroke-width="5" stroke-linecap="round"/>
+</g>
+<g font-size="13" text-anchor="middle">
+<text x="72" y="700" font-weight="bold">药盒附带的</text>
+<text x="72" y="718" font-weight="bold">量杯、量勺</text>
+<text x="72" y="740">✓ 首选</text>
+<text x="72" y="758" font-size="12" fill="#555">按刻度用,</text>
+<text x="72" y="774" font-size="12" fill="#555">不要换着用</text>
+<text x="214" y="700" font-weight="bold">口服注射器</text>
+<text x="214" y="718" font-weight="bold">或去针头的</text>
+<text x="214" y="736" font-weight="bold">刻度注射器</text>
+<text x="214" y="758">✓ 量小体积</text>
+<text x="214" y="774">液体最准</text>
+<text x="356" y="700" font-weight="bold">家用茶匙、汤匙</text>
+<text x="356" y="740" fill="#c33">✗ 不要用来量药</text>
+<text x="356" y="758" font-size="12" fill="#555">大小不一,</text>
+<text x="356" y="774" font-size="12" fill="#555">可差20-50%</text>
+<text x="498" y="700" font-weight="bold">滴管数滴数</text>
+<text x="498" y="740" fill="#c33">⚠ 只用药品</text>
+<text x="498" y="758" fill="#c33">配套的滴管</text>
+<text x="498" y="774" font-size="12" fill="#555">每 mL 15-25滴不等</text>
+<text x="640" y="700" font-weight="bold">用勺子量粉末</text>
+<text x="640" y="740" fill="#c33">✗ 不能代替称量</text>
+<text x="640" y="758" font-size="12" fill="#555">轻重相差</text>
+<text x="640" y="774" font-size="12" fill="#555">可达好几倍</text>
+</g>
+<g stroke="#ddd" stroke-width="1">
+<path d="M143,614 V776 M285,614 V776 M427,614 V776 M569,614 V776"/>
+</g>
+
+<!-- ⑤ 片剂 -->
+<rect x="8" y="794" width="704" height="150" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="818" font-size="15" font-weight="bold">⑤ 片剂能不能掰开、磨碎</text>
+<!-- 有刻痕 -->
+<g stroke="#333" stroke-width="1.6">
+<circle cx="70" cy="866" r="24" fill="#fff"/>
+<path d="M70,842 V890" stroke-width="2.5"/>
+</g>
+<g font-size="13">
+<text x="106" y="852" font-weight="bold">有刻痕的普通片</text>
+<text x="106" y="872">说明书允许的,</text>
+<text x="106" y="890">✓ 沿刻痕掰开</text>
+</g>
+<!-- 缓释 -->
+<g stroke="#333" stroke-width="1.6">
+<rect x="262" y="850" width="56" height="30" rx="15" fill="#cfe0f0"/>
+</g>
+<path d="M256,844 L324,886 M324,844 L256,886" stroke="#c33" stroke-width="2.5"/>
+<g font-size="13">
+<text x="334" y="852" font-weight="bold">缓释、控释、肠溶片</text>
+<text x="334" y="872" fill="#c33">✗ 不能掰、不能嚼、</text>
+<text x="334" y="890" fill="#c33">不能磨碎</text>
+<text x="18" y="926" font-size="12" fill="#555">缓释、控释、肠溶片弄碎后药会一下子全部释放,可能中毒或伤胃</text>
+</g>
+<!-- 无刻痕 -->
+<g stroke="#333" stroke-width="1.6" fill="#fff">
+<path d="M530,850 A16,16 0 0 0 530,882 L536,866 Z"/>
+<path d="M542,850 A16,16 0 0 1 542,882 L548,870 L540,862 Z"/>
+</g>
+<g font-size="13">
+<text x="572" y="852" font-weight="bold">没有刻痕的小片</text>
+<text x="572" y="872" fill="#c33">✗ 掰开后两半</text>
+<text x="572" y="890" fill="#c33">含量可能差很多</text>
+</g>
+
+<!-- 底部 -->
+<rect x="8" y="954" width="704" height="48" rx="6" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<g font-size="13">
+<text x="20" y="974"><tspan font-weight="bold" fill="#c33">结果和说明书常用量差了好几倍 → 一定是哪里算错了,停下来重算</tspan></text>
+<text x="20" y="993">毫克级的药物不要尝试自己称量: 自制天平和砝码只在克以上能做准</text>
+</g>
+</g>
+</svg>
