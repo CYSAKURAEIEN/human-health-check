@@ -1,0 +1,194 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 930" width="720" height="930" role="img" aria-label="坩埚熔铜与浇注青铜: ①装炉和鼓风: 炼铜炉用黏土筑成,内径20-30 cm,高40-60 cm,壁厚10-15 cm,地面铺一层干沙;炉底铺约10 cm木炭,放入坩埚,坩埚四周填满木炭;风嘴离炉底约5-10 cm,略向下倾斜,对准坩埚下部;两个风箱轮流鼓风;先小风约半小时让坩埚慢慢升温,再加大风量,避免坩埚急热炸裂。自制黏土坩埚壁厚2-3 cm,容量500 mL-1 L,有裂纹不用,用前预热。②熔铜、加锡: 青铜约90%铜加10%锡,例如纯铜900 g、锡100 g,锡可多加约1-2%(约10-20 g)弥补烧损;铜加热至约1100°C熔化,铜水表面盖一层木炭粉减少氧化;锡块事先在炉边烤干预热,用钳子压到铜水里面,不要只丢在表面,用铁棍搅拌均匀。③扒渣: 用长勺或铁棍撇去表面浮渣,渣放在干沙上,冷后敲碎拣出小铜珠。④浇注: 加锡后尽快浇注,浇注温度约1100-1200°C(橙黄到黄色);用长柄钳夹坩埚慢慢倒入模具,不要带入渣;模具彻底干燥并预热;在干沙地上浇,不在水泥地、湿地上浇;人站在侧面,脸不正对模具口;多余铜水倒进干沙坑或干燥铁模;自然冷却,冷到不发红再用钳子取出,不用手试温度,不往热铜锭上泼水。安全: 熔融的铜遇水爆炸,坩埚、模具、工具、地面必须干燥,雨天不作业;一氧化碳,只在室外开阔处作业,头痛头晕立即离开炉边;熔化黄铜、旧焊锡冒白色锌烟、铅烟,不要凑近,孕妇和儿童远离;地面铺干沙,10 m内无可燃物,备好灭火沙;至少两人在场,防护装备齐全;坩埚钳先空手试夹、试倒一遍" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>坩埚熔铜与浇注</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<pattern id="sand" width="10" height="8" patternUnits="userSpaceOnUse"><rect width="10" height="8" fill="#eadcae"/><circle cx="3" cy="3" r="1" fill="#b89b5e"/><circle cx="8" cy="6" r="1" fill="#b89b5e"/></pattern>
+<pattern id="coal" width="16" height="14" patternUnits="userSpaceOnUse"><rect width="16" height="14" fill="#4a4a4a"/><circle cx="4" cy="4" r="3.5" fill="#2e2e2e"/><circle cx="12" cy="10" r="3.5" fill="#2e2e2e"/><circle cx="12" cy="3" r="2" fill="#5e5e5e"/></pattern>
+<pattern id="hotcoal" width="16" height="14" patternUnits="userSpaceOnUse"><rect width="16" height="14" fill="#f08a2a"/><circle cx="4" cy="4" r="3.5" fill="#c9501a"/><circle cx="12" cy="10" r="3.5" fill="#ffd84d"/></pattern>
+<pattern id="powder" width="6" height="6" patternUnits="userSpaceOnUse"><rect width="6" height="6" fill="#333"/><circle cx="3" cy="3" r="1.2" fill="#666"/></pattern>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">坩埚熔铜与浇注青铜</text>
+
+<!-- ① 装炉和鼓风 -->
+<g transform="translate(10,44)">
+<rect width="400" height="350" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="10" y="24" font-size="15" font-weight="bold">① 装炉和鼓风</text>
+<rect x="4" y="300" width="392" height="16" fill="url(#sand)"/>
+<line x1="4" y1="300" x2="396" y2="300" stroke="#999" stroke-width="1.5"/>
+<!-- 炉壁 -->
+<path d="M166,300 V118 H210 V300 Z M300,300 V118 H344 V300 Z" fill="#c9a27a" stroke="#333" stroke-width="2"/>
+<rect x="210" y="210" width="90" height="90" fill="url(#coal)"/>
+<rect x="210" y="248" width="90" height="52" fill="url(#hotcoal)" opacity="0.9"/>
+<!-- 坩埚 -->
+<path d="M228,204 H282 L276,264 H234 Z" fill="#b48a64" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M237,206 H273 L268,256 H242 Z" fill="#fff"/>
+<path d="M239.5,228 H270.5 L268,256 H242 Z" fill="#ffc43d"/>
+<path d="M239,222 H271 L270.5,228 H239.5 Z" fill="url(#powder)"/>
+<!-- 风嘴 -->
+<path d="M120,244 L214,262" stroke="#333" stroke-width="12" stroke-linecap="butt"/>
+<path d="M120,244 L214,262" stroke="#a0704a" stroke-width="8" stroke-linecap="butt"/>
+<path d="M150,250 L196,259" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<!-- 风箱 -->
+<g stroke="#333" stroke-width="1.8" stroke-linejoin="round">
+<path d="M20,210 L100,232 L100,240 L20,262 Z" fill="#c8a06a"/>
+<path d="M20,262 L100,248 L100,256 L20,292 Z" fill="#b08850"/>
+<path d="M100,236 L122,244 M100,252 L122,246" fill="none" stroke-width="4"/>
+</g>
+<text x="58" y="203" font-size="12" fill="#555" text-anchor="middle">两个风箱轮流鼓</text>
+<!-- 标注 -->
+<path d="M210,104 H300" stroke="#0b5cad" stroke-width="1.2" marker-start="url(#arB)" marker-end="url(#arB)"/>
+<text x="255" y="98" font-size="12" fill="#0b5cad" text-anchor="middle">内径20-30 cm</text>
+<path d="M362,118 V300" stroke="#0b5cad" stroke-width="1.2" marker-start="url(#arB)" marker-end="url(#arB)"/>
+<text x="380" y="209" font-size="12" fill="#0b5cad" text-anchor="middle" transform="rotate(-90 380 209)">高40-60 cm</text>
+<path d="M300,132 H344" stroke="#0b5cad" stroke-width="1.2" marker-start="url(#arB)" marker-end="url(#arB)"/>
+<text x="322" y="62" font-size="12" fill="#0b5cad" text-anchor="middle">黏土炉壁</text>
+<text x="322" y="78" font-size="12" fill="#0b5cad" text-anchor="middle">壁厚10-15 cm</text>
+<line x1="322" y1="82" x2="322" y2="128" stroke="#0b5cad" stroke-width="1.2"/>
+<g font-size="12" fill="#0b5cad">
+<text x="12" y="52">坩埚: 壁厚2-3 cm,500 mL-1 L</text>
+<text x="12" y="67">无裂纹,用前预热</text>
+<line x1="150" y1="58" x2="279" y2="214" stroke="#0b5cad" stroke-width="1.2"/><circle cx="279" cy="214" r="2.2" fill="#0b5cad"/>
+<text x="12" y="92">铜水面盖一层木炭粉</text>
+<line x1="126" y1="88" x2="246" y2="225" stroke="#0b5cad" stroke-width="1.2"/><circle cx="246" cy="225" r="2.2" fill="#0b5cad"/>
+<text x="12" y="117">坩埚四周填满木炭</text>
+<line x1="114" y1="113" x2="215" y2="224" stroke="#0b5cad" stroke-width="1.2"/><circle cx="215" cy="224" r="2.2" fill="#0b5cad"/>
+<text x="12" y="142">风嘴: 离炉底约5-10 cm,</text>
+<text x="12" y="157">略向下,对准坩埚下部</text>
+<line x1="90" y1="162" x2="140" y2="246" stroke="#0b5cad" stroke-width="1.2"/><circle cx="140" cy="246" r="2.2" fill="#0b5cad"/>
+</g>
+<text x="262" y="333" font-size="12" fill="#0b5cad" text-anchor="middle">炉底木炭约10 cm</text>
+<line x1="262" y1="322" x2="262" y2="290" stroke="#0b5cad" stroke-width="1.2"/><circle cx="262" cy="290" r="2.2" fill="#0b5cad"/>
+<text x="12" y="333" font-size="12" fill="#555">地面铺干沙</text>
+</g>
+
+<!-- ② 熔铜、加锡 -->
+<g transform="translate(418,44)">
+<rect width="292" height="350" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="10" y="24" font-size="15" font-weight="bold">② 熔铜、加锡</text>
+<text x="10" y="44" font-size="12.5" fill="#555">青铜约90%铜 + 10%锡</text>
+<path d="M76,110 H216 L202,240 H90 Z" fill="#b48a64" stroke="#333" stroke-width="2.2" stroke-linejoin="round"/>
+<path d="M90,112 H202 L190,228 H102 Z" fill="#fff"/>
+<path d="M94.6,150 H197.4 L190,228 H102 Z" fill="#ffc43d"/>
+<path d="M93.8,142 H198.2 L197.4,150 H94.6 Z" fill="url(#powder)"/>
+<!-- 铁棍 -->
+<path d="M40,64 L118,206" stroke="#333" stroke-width="5" stroke-linecap="round"/>
+<path d="M104,208 Q118,222 134,206" fill="none" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<!-- 钳子压锡 -->
+<path d="M212,50 L172,182 M226,54 L184,186" stroke="#333" stroke-width="3.5" stroke-linecap="round"/>
+<rect x="164" y="182" width="24" height="16" fill="#c9ccd0" stroke="#333" stroke-width="1.5" transform="rotate(-25 176 190)"/>
+<path d="M164,124 L170,162" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<g font-size="12" fill="#0b5cad">
+<text x="72" y="80">铁棍搅匀</text>
+<text x="234" y="96">用钳子把</text>
+<text x="234" y="111">锡块压到</text>
+<text x="234" y="126">铜水里面</text>
+<text x="20" y="164" text-anchor="start">木炭粉</text>
+<line x1="60" y1="160" x2="96" y2="146" stroke="#0b5cad" stroke-width="1.2"/>
+</g>
+<g font-size="13">
+<text x="10" y="262">1. 纯铜900 g,加热至约1100°C熔化,</text>
+<text x="26" y="280">表面盖一层木炭粉,减少氧化</text>
+<text x="10" y="298">2. 锡100 g(可多加约10-20 g)先烤干</text>
+<text x="26" y="316">预热,用钳子压入铜水,铁棍搅匀</text>
+<text x="10" y="338" fill="#c33">✗ 锡丢在表面 → 大量氧化成灰白色渣</text>
+</g>
+</g>
+
+<!-- ③ 扒渣 -->
+<g transform="translate(10,404)">
+<rect width="260" height="290" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="10" y="24" font-size="15" font-weight="bold">③ 扒渣</text>
+<path d="M40,96 H150 L140,196 H50 Z" fill="#b48a64" stroke="#333" stroke-width="2.2" stroke-linejoin="round"/>
+<path d="M52,98 H138 L129,186 H61 Z" fill="#fff"/>
+<path d="M55.6,132 H134.4 L129,186 H61 Z" fill="#ffc43d"/>
+<path d="M54.6,122 Q66,116 78,124 Q92,118 104,125 Q118,117 135.4,122 L134.4,132 H55.6 Z" fill="#8a8a8a" stroke="#555" stroke-width="1"/>
+<path d="M244,58 L124,118" stroke="#333" stroke-width="4" stroke-linecap="round"/>
+<path d="M110,118 Q120,132 134,120 L124,114 Z" fill="#777" stroke="#333" stroke-width="1.5"/>
+<path d="M150,140 Q184,130 196,170" fill="none" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<path d="M168,206 Q200,176 236,206 Z" fill="url(#sand)" stroke="#999" stroke-width="1.2"/>
+<path d="M190,190 l8,-4 l8,3 l6,-2 l4,6 l-26,1 Z" fill="#8a8a8a" stroke="#555" stroke-width="1"/>
+<text x="170" y="222" font-size="12" fill="#555">干沙上</text>
+<g font-size="12" fill="#0b5cad">
+<text x="12" y="62">浮渣</text>
+<line x1="38" y1="66" x2="64" y2="122" stroke="#0b5cad" stroke-width="1.2"/><circle cx="64" cy="122" r="2.2" fill="#0b5cad"/>
+<text x="128" y="58">长勺或铁棍</text>
+</g>
+<g font-size="13">
+<text x="10" y="248">撇去表面浮渣;渣放在干沙上,</text>
+<text x="10" y="266">冷后敲碎,拣出里面的小铜珠,</text>
+<text x="10" y="284">下次再熔</text>
+</g>
+</g>
+
+<!-- ④ 浇注 -->
+<g transform="translate(278,404)">
+<rect width="432" height="290" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="10" y="24" font-size="15" font-weight="bold">④ 浇注</text>
+<rect x="4" y="198" width="424" height="14" fill="url(#sand)"/>
+<line x1="4" y1="198" x2="428" y2="198" stroke="#999" stroke-width="1.5"/>
+<!-- 模具 -->
+<rect x="236" y="138" width="110" height="60" fill="#d8c8a8" stroke="#333" stroke-width="2"/>
+<path d="M276,138 L282,150 V176 H330 V160 H298 V150 L304,138" fill="#7a3a10" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M282,150 V176 H330 V160 H298 V150 Z" fill="#ffc43d" stroke="#333" stroke-width="1.2"/>
+<!-- 长柄钳 -->
+<path d="M30,78 L193.4,62.6 M30,100 L220.4,109.4" stroke="#333" stroke-width="3.5" stroke-linecap="round"/>
+<rect x="44" y="77" width="12" height="25" rx="2" fill="none" stroke="#333" stroke-width="2"/>
+<!-- 坩埚(倾斜) -->
+<path d="M187,67.5 L241.2,29.3 L273.2,84.7 L213,112.5 Z" fill="#b48a64"/>
+<path d="M197.4,69.5 L245.6,36 L269.6,77.5 L216.4,102.5 Z" fill="#fff"/>
+<path d="M202,77.5 H269.6 L216.4,102.5 Z" fill="#ffc43d"/>
+<path d="M241.2,29.3 L187,67.5 L213,112.5 L273.2,84.7 M245.6,36 L197.4,69.5 L216.4,102.5 L269.6,77.5" fill="none" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M193.4,62.6 L219.6,44 M220.4,109.4 L249.6,96" stroke="#333" stroke-width="3.5" stroke-linecap="round"/>
+<path d="M272,82 Q290,92 290,138" fill="none" stroke="#ffc43d" stroke-width="6" stroke-linecap="round"/>
+<path d="M272,82 Q290,92 290,138" fill="none" stroke="#f08a2a" stroke-width="2"/>
+<text x="40" y="128" font-size="12" fill="#0b5cad">长柄钳夹牢坩埚</text>
+<g font-size="12" fill="#0b5cad">
+<text x="356" y="140">模具彻底</text>
+<text x="356" y="155">干燥、预热</text>
+<line x1="354" y1="146" x2="346" y2="156" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="296" y="54">慢慢倒,</text>
+<text x="296" y="69">不带入渣</text>
+<line x1="300" y1="74" x2="289" y2="110" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="20" y="192">在干沙地上浇,不在水泥地、湿地上</text>
+</g>
+<g font-size="13">
+<text x="10" y="232" fill="#c33" font-weight="bold">浇注温度约1100-1200°C(橙黄到黄色);加锡后尽快浇注</text>
+<text x="10" y="250">人站在侧面,脸不要正对模具口</text>
+<text x="10" y="268">多余铜水倒进干沙坑或干燥铁模;冷到不发红再用钳子</text>
+<text x="10" y="286">取出,不用手试温度,<tspan fill="#c33">不往热铜锭上泼水</tspan></text>
+</g>
+</g>
+
+<!-- 安全 -->
+<rect x="10" y="704" width="700" height="216" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="24" y="730" font-size="16" font-weight="bold">危险</text>
+<text x="372" y="730" font-size="16" font-weight="bold">动手前检查</text>
+<g font-size="13.5">
+<text x="24" y="756"><tspan fill="#c33" font-weight="bold">✗ 铜水遇水爆炸:</tspan> 坩埚、模具、工具、</text>
+<text x="40" y="774">地面必须干燥;雨天不作业</text>
+<text x="24" y="800"><tspan fill="#c33" font-weight="bold">✗ 一氧化碳:</tspan> 只在室外开阔处作业;</text>
+<text x="40" y="818">头痛、头晕立即离开炉边</text>
+<text x="24" y="844"><tspan fill="#c33" font-weight="bold">✗ 锌烟、铅烟:</tspan> 熔化黄铜、旧焊锡冒白烟</text>
+<text x="40" y="862">→ 不要凑近;孕妇和儿童远离</text>
+<text x="24" y="888"><tspan fill="#c33" font-weight="bold">✗ 烫伤:</tspan> 坩埚在1200°C左右,铜水溅到</text>
+<text x="40" y="906">脚上会造成极严重的烧伤</text>
+</g>
+<g font-size="13.5">
+<path d="M374,746 l5,6 l9,-11" fill="none" stroke="#2a8a3a" stroke-width="2.5"/>
+<text x="396" y="756">地面铺干沙,10 m内无可燃物,</text>
+<text x="396" y="774">备好灭火沙</text>
+<path d="M374,790 l5,6 l9,-11" fill="none" stroke="#2a8a3a" stroke-width="2.5"/>
+<text x="396" y="800">至少两人在场,防护装备齐全</text>
+<path d="M374,816 l5,6 l9,-11" fill="none" stroke="#2a8a3a" stroke-width="2.5"/>
+<text x="396" y="826">坩埚无裂纹、已烧透,用前预热</text>
+<path d="M374,842 l5,6 l9,-11" fill="none" stroke="#2a8a3a" stroke-width="2.5"/>
+<text x="396" y="852">坩埚钳空手试夹、试倒过一遍</text>
+<path d="M374,868 l5,6 l9,-11" fill="none" stroke="#2a8a3a" stroke-width="2.5"/>
+<text x="396" y="878">先小风约半小时,再加大风量</text>
+<text x="396" y="896">(坩埚急热会炸裂)</text>
+</g>
+</g>
+</svg>

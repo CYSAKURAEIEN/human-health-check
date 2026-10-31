@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 710" width="720" height="710" role="img" aria-label="家庭储备: 每人多少、怎样轮换。先按顺序准备: 3天的应急包,储水至少2周,再逐步到3个月;平时轮换着吃,不要一次性大量囤积,也不要在灾难来临时哄抢。成年人每人每天约: 饮用和做饭用水4 L(其中饮用约2-3 L),储备2周约56 L,一家3口约170 L,更长时间靠水源和净化;粮食0.5 kg,3个月约45 kg;豆类50 g,约4.5 kg;食用油25 g,约2.5 L;碘盐5 g,约0.5 kg;糖少量,约1 kg。儿童、老人少一些,重体力劳动、哺乳期多一些。轮换: 先进先出,平时就吃储备的东西,买新的补到后面;密封、防潮、防鼠、阴凉,容器贴标签写日期;储水容器干净、有盖、不透光、食品级,自来水装满密封的容器约6个月更换一次;鼓胀、漏气、生锈严重的罐头不要吃。算一算够用多久: 可用天数等于库存总量除以每天的消耗量,例如300 kg粮食,10人,每人每天0.5 kg,够60天;一开始就定量" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>家庭储备: 每人多少、怎样轮换</title>
+<defs>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker>
+<!-- 罐头(原点在罐底中心) -->
+<g id="can">
+<rect x="-17" y="-44" width="34" height="44" rx="3" fill="#e3e8ec" stroke="#333" stroke-width="2"/>
+<rect x="-17" y="-32" width="34" height="18" fill="#fff" stroke="#333" stroke-width="1.2"/>
+</g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">家庭储备: 每人多少、怎样轮换</text>
+<text x="360" y="52" font-size="13" text-anchor="middle" fill="#555">平时轮换着吃;不要一次性大量囤积,也不要在灾难来临时哄抢</text>
+
+<!-- ① 顺序 -->
+<g transform="translate(10,64)">
+<rect x="0" y="0" width="250" height="324" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">① 按顺序准备</text>
+<rect x="20" y="166" width="60" height="44" fill="#e3eef8" stroke="#333" stroke-width="2"/>
+<rect x="95" y="122" width="60" height="88" fill="#cfe0f0" stroke="#333" stroke-width="2"/>
+<rect x="170" y="78" width="60" height="132" fill="#b5cfe8" stroke="#333" stroke-width="2"/>
+<g font-size="17" font-weight="bold" text-anchor="middle">
+<text x="50" y="194">3天</text><text x="125" y="150">2周</text><text x="200" y="106">3个月</text>
+</g>
+<path d="M44 152 Q90 104 118 106 M128 104 Q168 62 192 62" fill="none" stroke="#0b5cad" stroke-width="2" stroke-dasharray="5 4" marker-end="url(#arB)"/>
+<path d="M14 210 H236" stroke="#999" stroke-width="2.5"/>
+<g font-size="12" text-anchor="middle" fill="#0b5cad">
+<text x="50" y="230">应急包</text>
+<text x="125" y="230">储水</text><text x="125" y="245">至少2周</text>
+<text x="200" y="230">粮食等</text><text x="200" y="245">见右表</text>
+</g>
+<g font-size="13">
+<text x="12" y="272">3天的应急包大多数家庭都应该有;</text>
+<text x="12" y="292">更多的储备在有余力时逐步增加</text>
+</g>
+</g>
+
+<!-- ② 每人多少 -->
+<g transform="translate(270,64)">
+<rect x="0" y="0" width="440" height="324" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">② 每人储备多少(成年人)</text>
+<rect x="8" y="36" width="424" height="24" fill="#f3f7fb"/>
+<g font-size="13" font-weight="bold" fill="#555">
+<text x="56" y="53">物资</text>
+<text x="282" y="53" text-anchor="middle">每人每天约</text>
+<text x="376" y="53" text-anchor="middle">每人3个月约</text>
+</g>
+<g stroke="#eee" stroke-width="1"><path d="M8 98 H432 M8 136 H432 M8 172 H432 M8 208 H432 M8 244 H432 M8 280 H432"/></g>
+<!-- 水 -->
+<g transform="translate(30,80)">
+<path d="M-12 -14 H8 L14 -8 V14 H-12 Z" fill="#cfe5f5" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M-6 -14 V-20 H4 V-14" fill="none" stroke="#333" stroke-width="2"/>
+</g>
+<text x="56" y="76" font-size="14" font-weight="bold">饮用和做饭用水</text>
+<text x="56" y="92" font-size="11" fill="#555">其中饮用约2-3 L</text>
+<text x="282" y="84" font-size="16" font-weight="bold" fill="#0b5cad" text-anchor="middle">4 L</text>
+<text x="376" y="76" font-size="13" text-anchor="middle">储备2周约56 L</text>
+<text x="376" y="92" font-size="11" fill="#555" text-anchor="middle">一家3口约170 L</text>
+<!-- 粮食 -->
+<g transform="translate(30,117)">
+<path d="M-12 14 Q-16 0 -8 -10 L-10 -14 H10 L8 -10 Q16 0 12 14 Z" fill="#efe2c4" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M-8 -10 H8" stroke="#333" stroke-width="1.5"/>
+</g>
+<text x="56" y="114" font-size="14" font-weight="bold">粮食(米、面、杂粮)</text>
+<text x="56" y="130" font-size="11" fill="#555">不要只存精白米,存一些糙米、杂粮</text>
+<text x="282" y="122" font-size="16" font-weight="bold" fill="#0b5cad" text-anchor="middle">0.5 kg</text>
+<text x="376" y="122" font-size="14" text-anchor="middle">45 kg</text>
+<!-- 豆类 -->
+<g transform="translate(30,154)">
+<path d="M-14 -2 H14 Q13 12 0 12 Q-13 12 -14 -2 Z" fill="#fff" stroke="#333" stroke-width="2"/>
+<g fill="#d9b84a" stroke="#333" stroke-width="1"><circle cx="-7" cy="-5" r="3.5"/><circle cx="0" cy="-7" r="3.5"/><circle cx="7" cy="-5" r="3.5"/></g>
+</g>
+<text x="56" y="152" font-size="14" font-weight="bold">豆类</text>
+<text x="56" y="167" font-size="11" fill="#555">黄豆、绿豆;能发豆芽补维生素C</text>
+<text x="282" y="160" font-size="16" font-weight="bold" fill="#0b5cad" text-anchor="middle">50 g</text>
+<text x="376" y="160" font-size="14" text-anchor="middle">4.5 kg</text>
+<!-- 油 -->
+<g transform="translate(30,190)">
+<path d="M-4 -16 H4 V-10 Q10 -6 10 0 V14 H-10 V0 Q-10 -6 -4 -10 Z" fill="#f4e6a8" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+</g>
+<text x="56" y="188" font-size="14" font-weight="bold">食用油</text>
+<text x="56" y="203" font-size="11" fill="#555">避光、阴凉;过期会变哈喇味</text>
+<text x="282" y="196" font-size="16" font-weight="bold" fill="#0b5cad" text-anchor="middle">25 g</text>
+<text x="376" y="196" font-size="14" text-anchor="middle">2.5 L</text>
+<!-- 碘盐 -->
+<g transform="translate(30,226)">
+<path d="M-8 -8 Q-8 -16 0 -16 Q8 -16 8 -8 Z" fill="#bbb" stroke="#333" stroke-width="2"/>
+<rect x="-9" y="-8" width="18" height="22" rx="3" fill="#fff" stroke="#333" stroke-width="2"/>
+<g fill="#333"><circle cx="-3" cy="-12" r="1"/><circle cx="3" cy="-12" r="1"/></g>
+</g>
+<text x="56" y="224" font-size="14" font-weight="bold">碘盐</text>
+<text x="56" y="239" font-size="11" fill="#555">腌制食物另外准备</text>
+<text x="282" y="232" font-size="16" font-weight="bold" fill="#0b5cad" text-anchor="middle">5 g</text>
+<text x="376" y="232" font-size="14" text-anchor="middle">0.5 kg</text>
+<!-- 糖 -->
+<g transform="translate(30,262)">
+<rect x="-12" y="-2" width="12" height="12" fill="#fff" stroke="#333" stroke-width="1.8"/>
+<rect x="0" y="-2" width="12" height="12" fill="#fff" stroke="#333" stroke-width="1.8"/>
+<rect x="-6" y="-14" width="12" height="12" fill="#fff" stroke="#333" stroke-width="1.8"/>
+</g>
+<text x="56" y="260" font-size="14" font-weight="bold">糖</text>
+<text x="56" y="275" font-size="11" fill="#555">也可用于口服补液</text>
+<text x="282" y="268" font-size="15" fill="#0b5cad" text-anchor="middle">少量</text>
+<text x="376" y="268" font-size="14" text-anchor="middle">1 kg</text>
+<text x="12" y="300" font-size="12" fill="#555">儿童、老人少一些;重体力劳动、哺乳期多一些</text>
+<text x="12" y="316" font-size="12" fill="#555">水只储备2周,更长时间靠水源和净化,不靠储备</text>
+</g>
+
+<!-- ③ 先进先出 -->
+<g transform="translate(10,398)">
+<rect x="0" y="0" width="440" height="302" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">③ 轮换: 先进先出</text>
+<path d="M76 116 H356" stroke="#8a6a3a" stroke-width="6" stroke-linecap="round"/>
+<path d="M84 116 V150 M348 116 V150" stroke="#8a6a3a" stroke-width="4"/>
+<use href="#can" x="104" y="113"/><use href="#can" x="164" y="113"/><use href="#can" x="224" y="113"/><use href="#can" x="284" y="113"/>
+<use href="#can" x="40" y="113"/>
+<use href="#can" x="400" y="113"/>
+<g font-size="12" font-weight="bold" text-anchor="middle">
+<text x="40" y="92" fill="#c33">1月</text><text x="104" y="92">2月</text><text x="164" y="92">3月</text><text x="224" y="92">4月</text><text x="284" y="92">5月</text><text x="400" y="92" fill="#0b5cad">6月</text>
+</g>
+<path d="M82 52 H50" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<path d="M398 52 H342" stroke="#0b5cad" stroke-width="2.5" marker-end="url(#arB)"/>
+<text x="40" y="140" font-size="12" text-anchor="middle" fill="#c33">先吃</text>
+<text x="40" y="155" font-size="12" text-anchor="middle" fill="#c33">日期早的</text>
+<text x="400" y="140" font-size="12" text-anchor="middle" fill="#0b5cad">新买的</text>
+<text x="400" y="155" font-size="12" text-anchor="middle" fill="#0b5cad">补到后面</text>
+<text x="220" y="140" font-size="11" text-anchor="middle" fill="#555">容器贴标签写日期</text>
+<g font-size="13">
+<text x="12" y="184">平时就吃储备的东西,买新的补到后面,</text>
+<text x="12" y="202">不要存了不吃、到期全扔</text>
+<text x="12" y="226">食物: 密封、防潮、防鼠、阴凉</text>
+<text x="12" y="248">储水容器: 干净、有盖、不透光、食品级,标上日期;</text>
+<text x="12" y="266">自来水装满密封的容器约6个月更换一次</text>
+<text x="12" y="286" fill="#c33" font-weight="bold">✗ 鼓胀、漏气、生锈严重的罐头不要吃</text>
+</g>
+</g>
+
+<!-- ④ 够用多久 -->
+<g transform="translate(460,398)">
+<rect x="0" y="0" width="250" height="302" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">④ 算一算够用多久</text>
+<rect x="10" y="38" width="230" height="52" rx="6" fill="#f3f7fb" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="125" y="59" font-size="14" font-weight="bold" text-anchor="middle">可用天数 =</text>
+<text x="125" y="80" font-size="14" font-weight="bold" text-anchor="middle">库存总量 ÷ 每天的消耗量</text>
+<g font-size="13">
+<text x="12" y="116">例: 300 kg粮食,10人,</text>
+<text x="12" y="134">每人每天0.5 kg</text>
+<text x="12" y="156">→ 300 ÷ 5 = <tspan font-weight="bold" fill="#0b5cad">60天</tspan></text>
+<text x="12" y="182">离下次收获还有90天 →</text>
+<text x="12" y="200">现在就要节约、补种快熟作物、</text>
+<text x="12" y="218">采集、交换</text>
+<text x="12" y="250" fill="#c33" font-weight="bold">一开始就定量,</text>
+<text x="12" y="268" fill="#c33" font-weight="bold">不是等快吃完才省</text>
+</g>
+</g>
+</g>
+</svg>

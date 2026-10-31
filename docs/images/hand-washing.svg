@@ -1,0 +1,219 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 870" width="720" height="870" role="img" aria-label="洗手: 什么时候洗、怎么洗。厕所旁必须有洗手的地方。简易洗手器: 把瓶子挂起来,用脚踩绳子让瓶子倾斜出水,手不碰容器;或用塑料桶底部侧面开小孔,插带开关的管子或用木塞堵住;放在厕所出口、厨房门口,旁边放肥皂或一罐草木灰。必须洗手的时刻: 便后、给婴儿换尿布后;做饭前、吃饭前、喂孩子前;照顾病人前后;处理生肉、垃圾、动物后。怎么洗: 打湿双手,抹肥皂或草木灰,手心、手背、指缝、指尖、拇指、手腕都搓到,至少搓20秒,流水冲净,甩干或晾干,不要用脏毛巾擦。没有肥皂时用草木灰搓洗,或只用流水认真搓洗20秒,都比不洗好得多;不要用泥土代替,泥土本身可能被粪便污染" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>洗手: 什么时候洗、怎么洗</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker>
+<marker id="arK" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#888"/></marker>
+<!-- 张开的手(原点在手腕下沿中点) -->
+<g id="hand" stroke="#333" stroke-width="2" fill="#f3e3d3">
+<rect x="-6" y="-38" width="12" height="40" rx="6" transform="translate(-21,-30) rotate(-38)"/>
+<rect x="-26" y="-104" width="11" height="44" rx="5.5"/>
+<rect x="-13" y="-112" width="11" height="52" rx="5.5"/>
+<rect x="0" y="-108" width="11" height="48" rx="5.5"/>
+<rect x="13" y="-96" width="10" height="36" rx="5"/>
+<path d="M-17 0 V-18 Q-27 -30 -27 -48 V-66 H24 V-48 Q24 -28 17 -18 V0 Z" stroke="none"/>
+<path d="M-17 0 V-18 Q-27 -30 -27 -48 V-60 M17 0 V-18 Q24 -28 24 -48 V-60" fill="none"/>
+<path d="M-17 -1 H17" fill="none" stroke-width="1" stroke-dasharray="3 3"/>
+</g>
+<!-- 一双手(小图标) -->
+<g id="hands2" stroke="#333" stroke-width="2" fill="#f3e3d3">
+<path d="M-26 0 Q-30 -22 -20 -30 Q-10 -36 -4 -24 L-2 0 Z"/>
+<path d="M26 0 Q30 -22 20 -30 Q10 -36 4 -24 L2 0 Z"/>
+</g>
+<!-- 水龙头 -->
+<g id="tap" stroke="#333" stroke-width="2" fill="#bbb">
+<path d="M-30 -8 H6 Q14 -8 14 0 V8 H4 V4 Q4 2 2 2 H-30 Z"/>
+<rect x="-12" y="-16" width="8" height="8"/>
+<rect x="-20" y="-20" width="24" height="5" rx="2"/>
+</g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">洗手: 什么时候洗、怎么洗</text>
+<text x="360" y="52" font-size="13" text-anchor="middle" fill="#555">厕所旁必须有洗手的地方;没有洗手条件,厕所的作用会大打折扣</text>
+
+<!-- ① 简易洗手器 -->
+<g transform="translate(10,64)">
+<rect x="0" y="0" width="300" height="320" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">① 简易洗手器</text>
+<path d="M24 52 V206 M184 52 V206" stroke="#8a6a3a" stroke-width="6" stroke-linecap="round"/>
+<path d="M14 56 H196" stroke="#8a6a3a" stroke-width="6" stroke-linecap="round"/>
+<!-- 挂绳 -->
+<path d="M86 58 L94 80" stroke="#555" stroke-width="1.8"/>
+<!-- 倾斜的瓶子 -->
+<g transform="translate(90,96) rotate(30)">
+<rect x="-30" y="-16" width="52" height="32" rx="8" fill="#cfe5f5" stroke="#333" stroke-width="2.5"/>
+<rect x="22" y="-6" width="10" height="12" fill="#cfe5f5" stroke="#333" stroke-width="2"/>
+<rect x="32" y="-7" width="4" height="14" fill="#555"/>
+</g>
+<!-- 出水 -->
+<path d="M124 116 Q130 132 137 148" fill="none" stroke="#3a7fc0" stroke-width="2.5"/>
+<path d="M120 118 Q126 134 132 148" fill="none" stroke="#3a7fc0" stroke-width="1.5"/>
+<!-- 手 -->
+<use href="#hands2" transform="translate(138,174) scale(0.8)"/>
+<!-- 踏板绳和踏板 -->
+<path d="M110 114 V193" stroke="#555" stroke-width="1.8"/>
+<path d="M58 200 L150 192" stroke="#8a6a3a" stroke-width="5" stroke-linecap="round"/>
+<path d="M60 194 Q60 182 72 182 H92 Q102 182 104 192 Z" fill="#666" stroke="#333" stroke-width="1.5"/>
+<path d="M82 156 V176" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<!-- 肥皂 -->
+<path d="M160 58 V88" stroke="#555" stroke-width="1.5"/>
+<rect x="149" y="88" width="22" height="12" rx="4" fill="#f4e6a8" stroke="#333" stroke-width="1.8"/>
+<path d="M14 206 H196" stroke="#999" stroke-width="2.5"/>
+<!-- 标注 -->
+<g font-size="12" fill="#0b5cad">
+<path d="M174 94 H204" stroke="#0b5cad" stroke-width="1"/>
+<text x="206" y="90">肥皂(或一罐</text><text x="206" y="105">草木灰)</text>
+<path d="M136 138 H204" stroke="#0b5cad" stroke-width="1"/>
+<text x="206" y="136">瓶子倾斜</text><text x="206" y="151">出水</text>
+<path d="M111 180 H204" stroke="#0b5cad" stroke-width="1"/>
+<text x="206" y="184">绳子连踏板</text>
+<path d="M151 193 L204 203" stroke="#0b5cad" stroke-width="1"/>
+<text x="206" y="207">踏板(脚踩)</text>
+</g>
+<g font-size="13">
+<text x="12" y="232">把瓶子挂起来,用脚踩绳子让瓶子倾斜</text>
+<text x="12" y="250">出水,<tspan font-weight="bold">手不碰容器</tspan></text>
+<text x="12" y="270">放在厕所出口、厨房门口</text>
+<text x="12" y="292" font-size="12" fill="#555">也可用塑料桶: 底部侧面开小孔,插带开关的</text>
+<text x="12" y="308" font-size="12" fill="#555">管子或用木塞堵住</text>
+</g>
+</g>
+
+<!-- ② 必须洗手的时刻 -->
+<g transform="translate(320,64)">
+<rect x="0" y="0" width="390" height="320" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">② 必须洗手的时刻</text>
+<!-- 马桶 -->
+<g transform="translate(0,40)">
+<rect x="22" y="4" width="12" height="26" rx="2" fill="#fff" stroke="#333" stroke-width="2"/>
+<path d="M34 20 H64 Q64 34 50 38 L48 50 H38 V36 Q34 32 34 20 Z" fill="#fff" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<text x="84" y="26" font-size="15" font-weight="bold">便后</text>
+<text x="84" y="46" font-size="14">给婴儿换尿布后</text>
+</g>
+<path d="M14 106 H376" stroke="#eee" stroke-width="1"/>
+<!-- 碗筷 -->
+<g transform="translate(0,112)">
+<path d="M40 4 L60 26 M48 2 L64 22" stroke="#8a6a3a" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M20 26 H66 Q64 48 43 48 Q22 48 20 26 Z" fill="#fff" stroke="#333" stroke-width="2"/>
+<text x="84" y="26" font-size="15" font-weight="bold">做饭前、吃饭前</text>
+<text x="84" y="46" font-size="14">喂孩子前</text>
+</g>
+<path d="M14 178 H376" stroke="#eee" stroke-width="1"/>
+<!-- 病人 -->
+<g transform="translate(0,184)">
+<path d="M18 22 V50 M70 30 V50" stroke="#333" stroke-width="2.5"/>
+<rect x="18" y="32" width="52" height="8" fill="#fff" stroke="#333" stroke-width="2"/>
+<circle cx="29" cy="24" r="7" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<rect x="36" y="20" width="32" height="13" rx="4" fill="#cfe0f0" stroke="#333" stroke-width="2"/>
+<text x="84" y="34" font-size="15" font-weight="bold">照顾病人前后</text>
+</g>
+<path d="M14 250 H376" stroke="#eee" stroke-width="1"/>
+<!-- 垃圾桶 -->
+<g transform="translate(0,256)">
+<rect x="22" y="8" width="40" height="7" rx="2" fill="#bbb" stroke="#333" stroke-width="2"/>
+<path d="M26 15 H58 L55 52 H29 Z" fill="#ddd" stroke="#333" stroke-width="2"/>
+<path d="M36 22 V46 M42 22 V46 M48 22 V46" stroke="#888" stroke-width="1.5"/>
+<text x="84" y="28" font-size="15" font-weight="bold">处理生肉、垃圾、</text>
+<text x="84" y="48" font-size="15" font-weight="bold">动物后</text>
+</g>
+</g>
+
+<!-- ③ 怎么洗 -->
+<g transform="translate(10,394)">
+<rect x="0" y="0" width="700" height="372" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">③ 怎么洗</text>
+<g transform="translate(0,14)">
+<!-- 1 打湿 -->
+<g transform="translate(70,0)">
+<use href="#tap" transform="translate(-6,46)"/>
+<path d="M2 58 V64 M-2 70 V76 M6 70 V76" stroke="#3a7fc0" stroke-width="2" stroke-linecap="round"/>
+<use href="#hands2" transform="translate(0,104) scale(0.8)"/>
+<text x="0" y="140" font-size="14" font-weight="bold" text-anchor="middle">1 打湿双手</text>
+</g>
+<path d="M114 80 H136" stroke="#888" stroke-width="2" marker-end="url(#arK)"/>
+<!-- 2 抹肥皂 -->
+<g transform="translate(200,0)">
+<rect x="-46" y="70" width="34" height="20" rx="6" fill="#f4e6a8" stroke="#333" stroke-width="2"/>
+<text x="-4" y="88" font-size="13" fill="#555">或</text>
+<path d="M14 58 H44 V96 Q44 100 40 100 H18 Q14 100 14 96 Z" fill="#fff" stroke="#333" stroke-width="2"/>
+<rect x="15" y="74" width="28" height="25" fill="#aaa"/>
+<path d="M12 58 H46" stroke="#333" stroke-width="3"/>
+<text x="-29" y="116" font-size="11" text-anchor="middle" fill="#0b5cad">肥皂</text>
+<text x="29" y="116" font-size="11" text-anchor="middle" fill="#0b5cad">草木灰</text>
+<text x="0" y="140" font-size="14" font-weight="bold" text-anchor="middle">2 抹肥皂</text>
+<text x="0" y="157" font-size="12" text-anchor="middle" fill="#555">(或草木灰)</text>
+</g>
+<path d="M254 80 H276" stroke="#888" stroke-width="2" marker-end="url(#arK)"/>
+<!-- 3 搓20秒 -->
+<g transform="translate(350,0)">
+<g transform="translate(-24,104) rotate(-12) scale(0.8)"><use href="#hands2"/></g>
+<path d="M-56 64 Q-48 48 -32 50" fill="none" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<path d="M8 104 Q0 118 -16 114" fill="none" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="30" y="80" font-size="22" font-weight="bold" fill="#c33" text-anchor="middle">20秒</text>
+<text x="30" y="98" font-size="12" fill="#c33" text-anchor="middle">至少</text>
+<text x="0" y="140" font-size="14" font-weight="bold" text-anchor="middle">3 搓: 下面6处</text>
+<text x="0" y="157" font-size="12" text-anchor="middle" fill="#c33">都搓到,至少20秒</text>
+</g>
+<path d="M420 80 H442" stroke="#888" stroke-width="2" marker-end="url(#arK)"/>
+<!-- 4 冲净 -->
+<g transform="translate(500,0)">
+<use href="#tap" transform="translate(-6,46)"/>
+<path d="M0 56 V84 M3 56 V84 M6 56 V84" stroke="#3a7fc0" stroke-width="1.8"/>
+<use href="#hands2" transform="translate(0,104) scale(0.8)"/>
+<text x="0" y="140" font-size="14" font-weight="bold" text-anchor="middle">4 流水冲净</text>
+</g>
+<path d="M550 80 H572" stroke="#888" stroke-width="2" marker-end="url(#arK)"/>
+<!-- 5 甩干 -->
+<g transform="translate(630,0)">
+<use href="#hands2" transform="translate(0,96) scale(0.8)"/>
+<path d="M-34 60 Q-38 72 -34 84 M-42 64 Q-46 72 -42 80 M34 60 Q38 72 34 84 M42 64 Q46 72 42 80" fill="none" stroke="#0b5cad" stroke-width="1.8"/>
+<g fill="#3a7fc0"><circle cx="-30" cy="50" r="2.5"/><circle cx="28" cy="46" r="2.5"/><circle cx="-6" cy="48" r="2"/></g>
+<text x="0" y="140" font-size="14" font-weight="bold" text-anchor="middle">5 甩干或晾干</text>
+<text x="0" y="157" font-size="12" text-anchor="middle" fill="#c33">不要用脏毛巾擦</text>
+</g>
+</g>
+<!-- 6处 -->
+<path d="M10 188 H690" stroke="#ddd" stroke-width="1"/>
+<text x="12" y="208" font-size="14" font-weight="bold">第3步搓手时,这6处都要搓到(红色为重点部位):</text>
+<g transform="translate(66,342)">
+<use href="#hand"/>
+<ellipse cx="-2" cy="-38" rx="17" ry="18" fill="#c33" fill-opacity="0.35"/>
+</g>
+<g transform="translate(179,342)">
+<use href="#hand"/>
+<g fill="#fff" stroke="#333" stroke-width="1.2"><rect x="-23.5" y="-102" width="6" height="8" rx="2.5"/><rect x="-10.5" y="-110" width="6" height="8" rx="2.5"/><rect x="2.5" y="-106" width="6" height="8" rx="2.5"/><rect x="15" y="-94" width="6" height="8" rx="2.5"/></g>
+<ellipse cx="-2" cy="-38" rx="17" ry="18" fill="#c33" fill-opacity="0.35"/>
+</g>
+<g transform="translate(292,342)">
+<use href="#hand"/>
+<path d="M-14 -96 V-64 M-1 -100 V-64 M12 -92 V-64" stroke="#c33" stroke-width="4" stroke-linecap="round"/>
+</g>
+<g transform="translate(405,342)">
+<use href="#hand"/>
+<g fill="#c33" fill-opacity="0.45"><circle cx="-20.5" cy="-98" r="7"/><circle cx="-7.5" cy="-106" r="7"/><circle cx="5.5" cy="-102" r="7"/><circle cx="18" cy="-90" r="7"/><circle cx="-41" cy="-55" r="7"/></g>
+</g>
+<g transform="translate(518,342)">
+<use href="#hand"/>
+<rect x="-6" y="-38" width="12" height="40" rx="6" transform="translate(-21,-30) rotate(-38)" fill="#c33" fill-opacity="0.45"/>
+</g>
+<g transform="translate(631,342)">
+<use href="#hand"/>
+<rect x="-18" y="-16" width="36" height="16" fill="#c33" fill-opacity="0.35"/>
+</g>
+<g font-size="14" font-weight="bold" text-anchor="middle">
+<text x="66" y="362">手心</text><text x="179" y="362">手背</text><text x="292" y="362">指缝</text>
+<text x="405" y="362">指尖</text><text x="518" y="362">拇指</text><text x="631" y="362">手腕</text>
+</g>
+</g>
+
+<!-- ④ 没有肥皂时 -->
+<g transform="translate(10,776)">
+<rect x="0" y="0" width="700" height="84" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">④ 没有肥皂时</text>
+<g font-size="14">
+<text x="14" y="50"><tspan fill="#0b5cad" font-weight="bold">✓</tspan> 用草木灰搓洗,或只用流水认真搓洗20秒,都比不洗好得多</text>
+<text x="14" y="72"><tspan fill="#c33" font-weight="bold">✗ 不要用泥土代替</tspan>(泥土本身可能被粪便污染)</text>
+</g>
+</g>
+</g>
+</svg>
