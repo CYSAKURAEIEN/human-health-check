@@ -1,0 +1,182 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 830" width="720" height="830" role="img" aria-label="常用面积和体积公式。面积: 长方形 = 长 × 宽,正方形 = 边长²;三角形 = 底 × 高 ÷ 2,高是顶点到底边的垂直距离;平行四边形 = 底 × 高;梯形 = (上底 + 下底) × 高 ÷ 2;圆 = πr²,周长 = 2πr = πd。体积: 长方体 = 长 × 宽 × 高;圆柱 = πr²h;圆锥 = πr²h ÷ 3,棱锥 = 底面积 × 高 ÷ 3;球 = 4πr³ ÷ 3,表面积4πr²。用法: 粮仓、水池、水缸能装多少,尺寸用 m 量,算出 m³,1 m³ = 1000 L;堆成圆锥形的粮食、沙土,量底面周长和高度,r = 周长 ÷ 2π,体积 = πr²h ÷ 3;尺寸放大2倍,面积变成4倍,体积变成8倍。π ≈ 3.14159,粗略计算用3.14或22/7" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>常用面积和体积公式</title>
+<defs>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">常用面积和体积公式</text>
+
+<!-- 面积 -->
+<rect x="10" y="42" width="700" height="236" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="24" y="66" font-size="16" font-weight="bold">面积</text>
+<g stroke="#333" stroke-width="2" stroke-linejoin="round">
+<!-- 长方形 -->
+<rect x="32" y="92" width="96" height="58" fill="#cfe0f0"/>
+<!-- 三角形 -->
+<path d="M156,150 H260 L186,88 Z" fill="#cfe0f0"/>
+<!-- 平行四边形 -->
+<path d="M294,150 H368 L396,88 H322 Z" fill="#cfe0f0"/>
+<!-- 梯形 -->
+<path d="M432,150 H540 L512,88 H460 Z" fill="#cfe0f0"/>
+<!-- 圆 -->
+<circle cx="636" cy="119" r="34" fill="#cfe0f0"/>
+</g>
+<g stroke="#c33" stroke-width="1.5" stroke-dasharray="4 3" fill="none">
+<path d="M186,88 V150"/>
+<path d="M322,88 V150"/>
+<path d="M460,88 V150"/>
+</g>
+<g stroke="#c33" stroke-width="1.2" fill="none">
+<path d="M186,142 h8 v8"/>
+<path d="M322,142 h8 v8"/>
+<path d="M460,142 h8 v8"/>
+</g>
+<path d="M636,119 H670" stroke="#0b5cad" stroke-width="2"/>
+<circle cx="636" cy="119" r="2.5" fill="#0b5cad"/>
+<g font-size="13" fill="#0b5cad" text-anchor="middle">
+<text x="80" y="168">长</text><text x="22" y="125">宽</text>
+<text x="208" y="168">底</text><text x="198" y="125" fill="#c33">高</text>
+<text x="331" y="168">底</text><text x="334" y="125" fill="#c33">高</text>
+<text x="486" y="82">上底</text><text x="486" y="168">下底</text><text x="474" y="125" fill="#c33">高</text>
+<text x="654" y="113">r</text>
+</g>
+<g font-size="14" text-anchor="middle">
+<text x="80" y="196" font-weight="bold">长方形</text>
+<text x="208" y="196" font-weight="bold">三角形</text>
+<text x="345" y="196" font-weight="bold">平行四边形</text>
+<text x="486" y="196" font-weight="bold">梯形</text>
+<text x="636" y="196" font-weight="bold">圆</text>
+</g>
+<g font-size="14.5" text-anchor="middle" fill="#c33" font-weight="bold">
+<text x="80" y="220">长 × 宽</text>
+<text x="208" y="220">底 × 高 ÷ 2</text>
+<text x="345" y="220">底 × 高</text>
+<text x="486" y="220">(上底 + 下底)</text>
+<text x="486" y="238">× 高 ÷ 2</text>
+<text x="636" y="220">πr²</text>
+</g>
+<g font-size="12" text-anchor="middle" fill="#555">
+<text x="80" y="242">正方形: 边长²</text>
+<text x="208" y="242">高: 顶点到底边的</text>
+<text x="208" y="257">垂直距离</text>
+<text x="345" y="242">高: 两条底边之间</text>
+<text x="345" y="257">的垂直距离</text>
+<text x="636" y="242">周长 = 2πr = πd</text>
+<text x="636" y="257">(d 是直径)</text>
+</g>
+
+<!-- 体积 -->
+<rect x="10" y="288" width="700" height="236" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="24" y="312" font-size="16" font-weight="bold">体积</text>
+<g stroke="#333" stroke-width="2" stroke-linejoin="round">
+<!-- 长方体 -->
+<path d="M40,350 H124 V404 H40 Z" fill="#cfe0f0"/>
+<path d="M40,350 L66,330 H150 L124,350 Z" fill="#e3eef8"/>
+<path d="M124,350 L150,330 V384 L124,404 Z" fill="#b7cfe6"/>
+<!-- 圆柱 -->
+<path d="M222,340 V396 A46,12 0 0 0 314,396 V340" fill="#cfe0f0"/>
+<ellipse cx="268" cy="340" rx="46" ry="12" fill="#e3eef8"/>
+<!-- 圆锥 -->
+<path d="M402,396 L448,324 L494,396 A46,12 0 0 1 402,396 Z" fill="#cfe0f0"/>
+<!-- 球 -->
+<circle cx="618" cy="366" r="40" fill="#cfe0f0"/>
+</g>
+<path d="M222,396 A46,12 0 0 1 314,396" fill="none" stroke="#333" stroke-width="1.2" stroke-dasharray="4 3"/>
+<path d="M402,396 A46,12 0 0 1 494,396" fill="none" stroke="#333" stroke-width="1.2" stroke-dasharray="4 3"/>
+<path d="M578,366 A40,10 0 0 0 658,366" fill="none" stroke="#333" stroke-width="1.2"/>
+<path d="M578,366 A40,10 0 0 1 658,366" fill="none" stroke="#333" stroke-width="1.2" stroke-dasharray="4 3"/>
+<g stroke="#c33" stroke-width="1.5" stroke-dasharray="4 3" fill="none">
+<path d="M448,324 V396"/>
+</g>
+<path d="M268,340 H314" stroke="#0b5cad" stroke-width="2"/>
+<path d="M448,396 H494" stroke="#0b5cad" stroke-width="2"/>
+<path d="M618,366 H658" stroke="#0b5cad" stroke-width="2"/>
+<path d="M330,340 V396" stroke="#c33" stroke-width="1.5" marker-start="url(#arR)" marker-end="url(#arR)"/>
+<g font-size="13" fill="#0b5cad" text-anchor="middle">
+<text x="82" y="422">长</text><text x="146" y="406">宽</text><text x="28" y="381" fill="#c33">高</text>
+<text x="292" y="366">r</text><text x="342" y="372" fill="#c33">h</text>
+<text x="506" y="400">r</text><text x="440" y="370" fill="#c33">h</text>
+<text x="640" y="392">r</text>
+</g>
+<g font-size="14" text-anchor="middle">
+<text x="94" y="442" font-weight="bold">长方体</text>
+<text x="268" y="442" font-weight="bold">圆柱</text>
+<text x="448" y="442" font-weight="bold">圆锥</text>
+<text x="618" y="442" font-weight="bold">球</text>
+</g>
+<g font-size="14.5" text-anchor="middle" fill="#c33" font-weight="bold">
+<text x="94" y="466">长 × 宽 × 高</text>
+<text x="268" y="466">πr²h</text>
+<text x="448" y="466">πr²h ÷ 3</text>
+<text x="618" y="466">4πr³ ÷ 3</text>
+</g>
+<g font-size="12" text-anchor="middle" fill="#555">
+<text x="268" y="488">(底面积 πr² × 高)</text>
+<text x="448" y="488">棱锥(金字塔形):</text>
+<text x="448" y="503">底面积 × 高 ÷ 3</text>
+<text x="618" y="488">表面积 4πr²</text>
+</g>
+
+<!-- 用法 -->
+<!-- ① 水缸 -->
+<rect x="10" y="534" width="262" height="256" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="24" y="558" font-size="15" font-weight="bold">① 水缸、水池能装多少</text>
+<path d="M60,592 V672 A50,13 0 0 0 160,672 V592" fill="#fff" stroke="#333" stroke-width="2"/>
+<path d="M62,612 V672 A48,12 0 0 0 158,672 V612 Z" fill="#a9cdf2"/>
+<ellipse cx="110" cy="612" rx="48" ry="12" fill="#cfe4f8" stroke="#0b5cad" stroke-width="1.2"/>
+<ellipse cx="110" cy="592" rx="50" ry="13" fill="none" stroke="#333" stroke-width="2"/>
+<path d="M110,612 H158" stroke="#0b5cad" stroke-width="2"/>
+<text x="134" y="628" font-size="13" fill="#0b5cad" text-anchor="middle">r</text>
+<path d="M176,612 V684" stroke="#c33" stroke-width="1.5" marker-start="url(#arR)" marker-end="url(#arR)"/>
+<text x="186" y="652" font-size="13" fill="#c33">h</text>
+<g font-size="13">
+<text x="24" y="714">圆柱: V = πr²h</text>
+<text x="24" y="734">尺寸都用 m 量,算出的是 m³</text>
+<text x="24" y="758" fill="#c33" font-weight="bold">1 m³ = 1000 L</text>
+<text x="24" y="778">方形水池: 长 × 宽 × 高</text>
+</g>
+
+<!-- ② 粮堆 -->
+<rect x="282" y="534" width="262" height="256" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="296" y="558" font-size="15" font-weight="bold">② 圆锥形粮堆、沙堆</text>
+<path d="M316,664 Q374,596 413,580 Q452,596 510,664 A97,16 0 0 1 316,664 Z" fill="#e8c56a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M316,664 A97,16 0 0 1 510,664" fill="none" stroke="#333" stroke-width="1.2" stroke-dasharray="4 3"/>
+<path d="M316,664 A97,16 0 0 0 510,664" fill="none" stroke="#8b6b3e" stroke-width="3.5"/>
+<path d="M413,580 V664" stroke="#c33" stroke-width="1.5" stroke-dasharray="4 3"/>
+<path d="M413,664 H510" stroke="#0b5cad" stroke-width="2"/>
+<text x="402" y="628" font-size="13" fill="#c33" text-anchor="end">h</text>
+<text x="462" y="660" font-size="13" fill="#0b5cad" text-anchor="middle">r</text>
+<text x="500" y="698" font-size="12" fill="#8b6b3e" text-anchor="middle">绳子量周长 C</text>
+<g font-size="13">
+<text x="296" y="722">1. 量底面周长 C 和高度 h</text>
+<text x="296" y="742">2. r = C ÷ 2π</text>
+<text x="296" y="762" fill="#c33" font-weight="bold">3. V = πr²h ÷ 3</text>
+</g>
+
+<!-- ③ 放大2倍 -->
+<rect x="554" y="534" width="156" height="256" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="568" y="558" font-size="15" font-weight="bold">③ 尺寸放大2倍</text>
+<g stroke="#333" stroke-width="1.8" stroke-linejoin="round">
+<path d="M572,650 H596 V674 H572 Z" fill="#cfe0f0"/>
+<path d="M572,650 L582,642 H606 L596,650 Z" fill="#e3eef8"/>
+<path d="M596,650 L606,642 V666 L596,674 Z" fill="#b7cfe6"/>
+<path d="M624,626 H672 V674 H624 Z" fill="#cfe0f0"/>
+<path d="M624,626 L644,610 H692 L672,626 Z" fill="#e3eef8"/>
+<path d="M672,626 L692,610 V658 L672,674 Z" fill="#b7cfe6"/>
+</g>
+<g stroke="#333" stroke-width="0.8" fill="none">
+<path d="M648,626 V674 M624,650 H672"/>
+</g>
+<text x="589" y="694" font-size="12" text-anchor="middle" fill="#555">边长 1</text>
+<text x="652" y="694" font-size="12" text-anchor="middle" fill="#555">边长 2</text>
+<g font-size="13.5">
+<text x="568" y="726">面积 → <tspan fill="#c33" font-weight="bold">4倍</tspan></text>
+<text x="568" y="748">体积 → <tspan fill="#c33" font-weight="bold">8倍</tspan></text>
+<text x="568" y="772" font-size="12" fill="#555">大锅比小锅散热慢</text>
+</g>
+
+<text x="360" y="816" font-size="13" text-anchor="middle" fill="#555">π ≈ 3.14159,粗略计算用 3.14 或 22/7</text>
+</g>
+</svg>

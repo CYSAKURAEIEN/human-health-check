@@ -65,14 +65,14 @@
 <path d="M238,390 L261,382" stroke="#0b5cad" stroke-width="1"/>
 <circle cx="238" cy="390" r="2" fill="#0b5cad"/>
 <text x="264" y="386" font-size="13" fill="#0b5cad" text-anchor="start">芽</text>
-<path d="M206,406 L227,366" stroke="#0b5cad" stroke-width="1"/>
+<path d="M206,406 L224,374" stroke="#0b5cad" stroke-width="1"/>
 <circle cx="206" cy="406" r="2" fill="#0b5cad"/>
 <text x="224" y="370" font-size="13" fill="#0b5cad" text-anchor="middle">叶痕、残存叶基</text>
 <path d="M64,400 L64,413" stroke="#0b5cad" stroke-width="1"/>
 <text x="64" y="396" font-size="13" fill="#0b5cad" text-anchor="middle">环节(节)</text>
 <path d="M130,403 L162,403 M130,399 v8 M162,399 v8" stroke="#0b5cad" stroke-width="1"/>
 <text x="146" y="396" font-size="13" fill="#0b5cad" text-anchor="middle">节间</text>
-<path d="M206,474 L189,516" stroke="#0b5cad" stroke-width="1"/>
+<path d="M206,474 L186,505" stroke="#0b5cad" stroke-width="1"/>
 <circle cx="206" cy="474" r="2" fill="#0b5cad"/>
 <text x="186" y="520" font-size="13" fill="#0b5cad" text-anchor="middle">须根: 下面、节上长出</text>
 <text x="322" y="370" font-size="13" fill="#555" text-anchor="middle">横切面</text>
@@ -97,10 +97,10 @@
 <circle cx="82.7" cy="642.2" r="1.7" fill="#8a6a3a"/><circle cx="85" cy="649.1" r="1.7" fill="#8a6a3a"/><circle cx="86.7" cy="656.1" r="1.7" fill="#8a6a3a"/><circle cx="87.7" cy="663" r="1.7" fill="#8a6a3a"/><circle cx="88" cy="670" r="1.7" fill="#8a6a3a"/><circle cx="87.7" cy="677" r="1.7" fill="#8a6a3a"/><circle cx="86.7" cy="683.9" r="1.7" fill="#8a6a3a"/><circle cx="85" cy="690.9" r="1.7" fill="#8a6a3a"/><circle cx="82.7" cy="697.8" r="1.7" fill="#8a6a3a"/><circle cx="110.7" cy="635.2" r="1.7" fill="#8a6a3a"/><circle cx="113" cy="643.9" r="1.7" fill="#8a6a3a"/><circle cx="114.7" cy="652.6" r="1.7" fill="#8a6a3a"/><circle cx="115.7" cy="661.3" r="1.7" fill="#8a6a3a"/><circle cx="116" cy="670" r="1.7" fill="#8a6a3a"/><circle cx="115.7" cy="678.7" r="1.7" fill="#8a6a3a"/><circle cx="114.7" cy="687.4" r="1.7" fill="#8a6a3a"/><circle cx="113" cy="696.1" r="1.7" fill="#8a6a3a"/><circle cx="110.7" cy="704.8" r="1.7" fill="#8a6a3a"/><circle cx="138.7" cy="633.5" r="1.7" fill="#8a6a3a"/><circle cx="141" cy="642.6" r="1.7" fill="#8a6a3a"/><circle cx="142.7" cy="651.7" r="1.7" fill="#8a6a3a"/><circle cx="143.7" cy="660.9" r="1.7" fill="#8a6a3a"/><circle cx="144" cy="670" r="1.7" fill="#8a6a3a"/><circle cx="143.7" cy="679.1" r="1.7" fill="#8a6a3a"/><circle cx="142.7" cy="688.3" r="1.7" fill="#8a6a3a"/><circle cx="141" cy="697.4" r="1.7" fill="#8a6a3a"/><circle cx="138.7" cy="706.5" r="1.7" fill="#8a6a3a"/><circle cx="166.7" cy="633.5" r="1.7" fill="#8a6a3a"/><circle cx="169" cy="642.6" r="1.7" fill="#8a6a3a"/><circle cx="170.7" cy="651.7" r="1.7" fill="#8a6a3a"/><circle cx="171.7" cy="660.9" r="1.7" fill="#8a6a3a"/><circle cx="172" cy="670" r="1.7" fill="#8a6a3a"/><circle cx="171.7" cy="679.1" r="1.7" fill="#8a6a3a"/><circle cx="170.7" cy="688.3" r="1.7" fill="#8a6a3a"/><circle cx="169" cy="697.4" r="1.7" fill="#8a6a3a"/><circle cx="166.7" cy="706.5" r="1.7" fill="#8a6a3a"/><circle cx="194.7" cy="637" r="1.7" fill="#8a6a3a"/><circle cx="197" cy="645.2" r="1.7" fill="#8a6a3a"/><circle cx="198.7" cy="653.5" r="1.7" fill="#8a6a3a"/><circle cx="199.7" cy="661.7" r="1.7" fill="#8a6a3a"/><circle cx="200" cy="670" r="1.7" fill="#8a6a3a"/><circle cx="199.7" cy="678.3" r="1.7" fill="#8a6a3a"/><circle cx="198.7" cy="686.5" r="1.7" fill="#8a6a3a"/><circle cx="197" cy="694.8" r="1.7" fill="#8a6a3a"/><circle cx="194.7" cy="703" r="1.7" fill="#8a6a3a"/><circle cx="218.7" cy="645.7" r="1.7" fill="#8a6a3a"/><circle cx="221" cy="651.7" r="1.7" fill="#8a6a3a"/><circle cx="222.7" cy="657.8" r="1.7" fill="#8a6a3a"/><circle cx="223.7" cy="663.9" r="1.7" fill="#8a6a3a"/><circle cx="224" cy="670" r="1.7" fill="#8a6a3a"/><circle cx="223.7" cy="676.1" r="1.7" fill="#8a6a3a"/><circle cx="222.7" cy="682.2" r="1.7" fill="#8a6a3a"/><circle cx="221" cy="688.3" r="1.7" fill="#8a6a3a"/><circle cx="218.7" cy="694.3" r="1.7" fill="#8a6a3a"/>
 <path d="M226,648 C238,634 254,626 266,628 C258,636 250,648 236,662 Z" fill="#b5502a" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
 <ellipse cx="62" cy="670" rx="5" ry="10" fill="#c9a46a" stroke="#333" stroke-width="1.3"/><ellipse cx="62" cy="670" rx="2" ry="4.5" fill="#8a6a3a"/>
-<path d="M112,642 L121,606" stroke="#0b5cad" stroke-width="1"/>
+<path d="M112,642 L118,614" stroke="#0b5cad" stroke-width="1"/>
 <circle cx="112" cy="642" r="2" fill="#0b5cad"/>
 <text x="118" y="610" font-size="13" fill="#0b5cad" text-anchor="middle">多轮点状环纹(潜伏芽排成)</text>
-<path d="M258,632 L229,606" stroke="#0b5cad" stroke-width="1"/>
+<path d="M258,632 L262,614" stroke="#0b5cad" stroke-width="1"/>
 <circle cx="258" cy="632" r="2" fill="#0b5cad"/>
 <text x="232" y="610" font-size="13" fill="#0b5cad" text-anchor="start">鹦哥嘴(红棕色芽)</text>
 <path d="M62,681 L87,748" stroke="#0b5cad" stroke-width="1"/>
