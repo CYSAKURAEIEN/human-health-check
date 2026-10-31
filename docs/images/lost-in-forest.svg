@@ -1,0 +1,211 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1164" width="720" height="1164" role="img" aria-label="在森林里迷路了: STOP,停下、思考、观察、计划。停下,坐下来,喝口水、吃点东西,让自己冷静;回想最后一次确定位置是在哪里,之后走了多久、往哪个方向;先看手机,有信号就拨打110或119报警、发送定位,没有信号时看离线地图定位;能确定原路且安全就沿原路返回,不能确定就报警、原地等待,天快黑就不再移动。在当前位置做一个明显的标记作为原点,以原点为中心短距离试探,每次不超过几十 m,始终能看到原点的标记,找不到就回到原点。天黑前2小时还没找到路就停止行动,准备过夜;不要摸黑在林中赶路,不要盲目沿溪谷下行。有人知道行程、已经报警、有人受伤或天快黑时留在原地;原地在密林、谷底看不见时,可以移动到附近几百 m内的开阔处并留下指向新位置的记号;确定没有人知道你进了山、等了1-2天没有搜救迹象且还能走时,才考虑自行脱困。等待时每隔一段时间吹哨子三声一组,听到人声、直升机时立即吹哨、挥动鲜艳衣物、点燃信号烟,白天在开阔处生烟,夜间保留火光。树冠、年轮、苔藓定方向靠不住">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>在森林里迷路了: 停下,通常留在原地,让自己被找到</title>
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="ab" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<g id="tt"><circle r="11" fill="#b9d7a8" stroke="#6b8f5a" stroke-width="1.5"/><circle r="3" fill="#8a6a3a"/></g>
+</defs>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="14" fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">在森林里迷路了: 先停下,通常留在原地,让自己被找到</text>
+<text x="360" y="50" font-size="14" fill="#555" text-anchor="middle">慌乱时人会加快脚步乱走,往往越走越远、越走越累</text>
+
+<!-- STOP 四格 -->
+<g transform="translate(10,64)">
+<rect x="0" y="0" width="168" height="224" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="14" y="28" font-size="17" font-weight="bold">S 停下</text>
+<text x="154" y="28" font-size="12" fill="#555" text-anchor="end">Stop</text>
+<path d="M30,118 L140,118" stroke="#999" stroke-width="2.5"/>
+<rect x="62" y="92" width="34" height="26" rx="6" fill="#d6c29a" stroke="#333" stroke-width="2"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M88,90 L116,92 L118,114" stroke="#333" stroke-width="14"/><path d="M88,90 L116,92 L118,114" stroke="#cfe0f0" stroke-width="9"/>
+</g>
+<rect x="70" y="52" width="26" height="44" rx="10" fill="#cfe0f0" stroke="#333" stroke-width="2"/>
+<ellipse cx="122" cy="116" rx="9" ry="4" fill="#555"/>
+<circle cx="84" cy="40" r="12" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M72,38 Q72,26 84,27 Q94,27 96,34 Q86,30 78,34 Q74,36 72,38 Z" fill="#555"/>
+<rect x="104" y="48" width="9" height="20" rx="3" fill="#d8ebf7" stroke="#333" stroke-width="1.5"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M90,60 L106,72 L106,62" stroke="#333" stroke-width="9"/><path d="M90,60 L106,72 L106,62" stroke="#f3e3d3" stroke-width="5"/>
+</g>
+<text x="14" y="146" font-size="13">停下,坐下来,喝口水、</text>
+<text x="14" y="164" font-size="13">吃点东西,让自己冷静</text>
+<text x="14" y="190" font-size="13" fill="#c33">不要继续乱走</text>
+</g>
+<g transform="translate(187,64)">
+<rect x="0" y="0" width="168" height="224" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="14" y="28" font-size="17" font-weight="bold">T 思考</text>
+<text x="154" y="28" font-size="12" fill="#555" text-anchor="end">Think</text>
+<ellipse cx="96" cy="68" rx="58" ry="30" fill="#fff" stroke="#333" stroke-width="2"/>
+<circle cx="44" cy="104" r="5" fill="#fff" stroke="#333" stroke-width="1.5"/>
+<circle cx="34" cy="114" r="3" fill="#fff" stroke="#333" stroke-width="1.5"/>
+<path d="M60,80 Q78,52 98,72 T136,58" fill="none" stroke="#0b5cad" stroke-width="2" stroke-dasharray="5 3"/>
+<circle cx="60" cy="80" r="5" fill="#c33"/>
+<text x="140" y="64" font-size="16" font-weight="bold" fill="#0b5cad">?</text>
+<text x="14" y="146" font-size="13">回想: 最后一次确定位置</text>
+<text x="14" y="164" font-size="13">是在哪里,之后走了多久、</text>
+<text x="14" y="182" font-size="13">大概往哪个方向</text>
+</g>
+<g transform="translate(364,64)">
+<rect x="0" y="0" width="168" height="224" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="14" y="28" font-size="17" font-weight="bold">O 观察</text>
+<text x="154" y="28" font-size="12" fill="#555" text-anchor="end">Observe</text>
+<rect x="62" y="40" width="38" height="74" rx="7" fill="#333"/>
+<rect x="66" y="48" width="30" height="56" fill="#d8ebf7"/>
+<path d="M81,84 C72,74 72,64 81,62 C90,64 90,74 81,84 Z" fill="#c33"/>
+<circle cx="81" cy="69" r="3" fill="#fff"/>
+<g fill="#0b5cad"><rect x="110" y="96" width="5" height="8"/><rect x="118" y="90" width="5" height="14"/><rect x="126" y="84" width="5" height="20"/><rect x="134" y="78" width="5" height="26"/></g>
+<text x="14" y="134" font-size="13">先看手机: 有信号就</text>
+<text x="14" y="152" font-size="13">拨打110或119,发送定位;</text>
+<text x="14" y="170" font-size="13">没信号时看离线地图定位</text>
+<text x="14" y="190" font-size="12" fill="#555">(GPS不需要手机信号)</text>
+<text x="14" y="210" font-size="12" fill="#555">打不通电话时发短信</text>
+</g>
+<g transform="translate(542,64)">
+<rect x="0" y="0" width="168" height="224" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="14" y="28" font-size="17" font-weight="bold">P 计划</text>
+<text x="154" y="28" font-size="12" fill="#555" text-anchor="end">Plan</text>
+<path d="M84,108 L84,78 L46,52" fill="none" stroke="#0b5cad" stroke-width="3" marker-end="url(#ab)"/>
+<path d="M84,78 L122,52" fill="none" stroke="#0b5cad" stroke-width="3" marker-end="url(#ab)"/>
+<text x="20" y="86" font-size="12" fill="#0b5cad">等待</text>
+<text x="118" y="86" font-size="12" fill="#0b5cad">返回</text>
+<text x="14" y="134" font-size="13">能确定原路且安全:</text>
+<text x="28" y="150" font-size="13">沿原路返回</text>
+<text x="14" y="168" font-size="13">不能确定: 报警,原地等待</text>
+<text x="14" y="190" font-size="13" fill="#c33">天快黑: 不再移动,</text>
+<text x="28" y="208" font-size="13" fill="#c33">准备过夜</text>
+</g>
+
+<!-- 原点试探 -->
+<g transform="translate(10,298)">
+<rect x="0" y="0" width="400" height="240" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">找来时的路: 以原点为中心试探(俯视)</text>
+<use href="#tt" x="200" y="58"/><use href="#tt" x="200" y="184"/><use href="#tt" x="140" y="120"/><use href="#tt" x="262" y="120"/>
+<use href="#tt" x="100" y="58"/><use href="#tt" x="300" y="196"/><use href="#tt" x="96" y="190"/><use href="#tt" x="304" y="54"/><use href="#tt" x="170" y="208"/>
+<circle cx="200" cy="120" r="74" fill="none" stroke="#0b5cad" stroke-width="1.2" stroke-dasharray="3 4"/>
+<g fill="none" stroke="#c33" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#ar)">
+<path d="M200,120 C226,23 297,94 200,120"/>
+<path d="M200,120 C297,146 226,217 200,120"/>
+<path d="M200,120 C174,217 103,146 200,120"/>
+<path d="M200,120 C103,94 174,23 200,120"/>
+</g>
+<circle cx="200" cy="120" r="8" fill="#8a6a3a" stroke="#333" stroke-width="1.5"/>
+<path d="M200,120 L214,112 L214,124 Z" fill="#c33" stroke="#333" stroke-width="1"/>
+<text x="290" y="100" font-size="13" fill="#c33" font-weight="bold">原点</text>
+<text x="290" y="116" font-size="12" fill="#555">做一个明显的</text>
+<text x="290" y="131" font-size="12" fill="#555">标记(布条、石堆)</text>
+<line x1="288" y1="104" x2="216" y2="116" stroke="#c33" stroke-width="1"/>
+<text x="16" y="96" font-size="12" fill="#0b5cad">每次不超过</text>
+<text x="16" y="111" font-size="12" fill="#0b5cad">几十 m,始终</text>
+<text x="16" y="126" font-size="12" fill="#0b5cad">能看到原点</text>
+<text x="16" y="141" font-size="12" fill="#0b5cad">的标记</text>
+<line x1="86" y1="120" x2="126" y2="120" stroke="#0b5cad" stroke-width="1"/>
+<text x="16" y="230" font-size="13">短距离试探,寻找来时的路;找不到就回到原点</text>
+</g>
+
+<!-- 天黑 -->
+<g transform="translate(420,298)">
+<rect x="0" y="0" width="290" height="240" rx="8" fill="#fdecec" stroke="#c33" stroke-width="2"/>
+<path d="M200,64 A26,26 0 0 1 252,64 Z" fill="#f5a623" stroke="#333" stroke-width="1.5"/>
+<path d="M186,64 L266,64" stroke="#999" stroke-width="2.5"/>
+<text x="16" y="30" font-size="15" font-weight="bold" fill="#c33">天黑前2小时还没找到路:</text>
+<text x="16" y="54" font-size="14">停止行动,准备过夜</text>
+<text x="16" y="74" font-size="13" fill="#555">(庇护所、保暖、火)</text>
+<text x="16" y="108" font-size="14" fill="#c33">✗ 不要摸黑在林中赶路</text>
+<text x="32" y="128" font-size="13">夜间摔伤、坠崖、落水的风险</text>
+<text x="32" y="146" font-size="13">远大于在原地过一夜</text>
+<text x="16" y="180" font-size="14" fill="#c33">✗ 不要盲目沿溪谷下行</text>
+<text x="32" y="200" font-size="13">溪谷常通向峡谷、瀑布、陡崖,</text>
+<text x="32" y="218" font-size="13">雨后还有山洪</text>
+</g>
+
+<!-- 留在原地还是移动 -->
+<g transform="translate(10,548)">
+<rect x="0" y="0" width="700" height="210" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">留在原地还是移动</text>
+<rect x="12" y="40" width="334" height="160" rx="6" fill="#eef5fb" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="24" y="64" font-size="15" font-weight="bold" fill="#0b5cad">通常留在原地</text>
+<text x="24" y="90" font-size="13">· 有人知道你的行程、约定了报警时间</text>
+<text x="36" y="107" font-size="12" fill="#555">搜救从你的计划路线开始找</text>
+<text x="24" y="130" font-size="13">· 已经报警、救援已知道你的位置</text>
+<text x="36" y="147" font-size="12" fill="#555">除非有山洪、林火、落石等直接危险</text>
+<text x="24" y="170" font-size="13">· 有人受伤、天快黑、天气恶劣、</text>
+<text x="36" y="188" font-size="13">体力透支: 先保暖</text>
+<rect x="354" y="40" width="334" height="160" rx="6" fill="#fff6e8" stroke="#c98a2a" stroke-width="1.5"/>
+<text x="366" y="64" font-size="15" font-weight="bold" fill="#a8640c">可以移动的情况</text>
+<text x="366" y="90" font-size="13">· 原地是密林、谷底,从空中和远处都看不见:</text>
+<text x="378" y="107" font-size="13">移到附近(几百 m内)的开阔处、林间</text>
+<text x="378" y="124" font-size="13">空地、林缘,在原处留下指向新位置的记号</text>
+<text x="366" y="150" font-size="13">· 确定没有人知道你进了山,等了1-2天也没有</text>
+<text x="378" y="167" font-size="13">搜救迹象,身体还能走: 考虑自行脱困,</text>
+<text x="378" y="184" font-size="13">先登高看路,沿山脊或小路走</text>
+</g>
+
+<!-- 让自己被找到 -->
+<g transform="translate(10,768)">
+<rect x="0" y="0" width="700" height="310" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">等待时: 让自己被看见、被听见</text>
+<!-- 密林 -->
+<g stroke="#6b5530" stroke-width="7"><path d="M44,150 L44,240 M100,150 L100,240 M156,150 L156,240 M214,150 L214,240 M270,150 L270,240"/></g>
+<g fill="#b9d7a8" stroke="#6b8f5a" stroke-width="2">
+<circle cx="44" cy="124" r="36"/><circle cx="100" cy="112" r="38"/><circle cx="156" cy="124" r="36"/><circle cx="214" cy="110" r="38"/><circle cx="270" cy="124" r="36"/>
+<circle cx="72" cy="150" r="30"/><circle cx="128" cy="152" r="30"/><circle cx="186" cy="150" r="30"/><circle cx="244" cy="152" r="30"/><circle cx="296" cy="154" r="26"/>
+</g>
+<!-- 林下的人(看不清) -->
+<g opacity="0.75">
+<circle cx="186" cy="204" r="7" fill="#f3e3d3" stroke="#333" stroke-width="1.5"/>
+<rect x="180" y="212" width="12" height="18" rx="4" fill="#cfe0f0" stroke="#333" stroke-width="1.5"/>
+<path d="M183,230 L182,240 M189,230 L190,240" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+</g>
+<!-- 直升机 -->
+<g transform="translate(150,52)" stroke="#333" stroke-width="2">
+<path d="M-30,-14 L30,-14 M0,-14 L0,-8" fill="none"/>
+<ellipse cx="0" cy="2" rx="18" ry="10" fill="#e6e6e6"/>
+<path d="M16,0 L44,-2 L48,-8" fill="none"/>
+<path d="M-10,14 L14,14 M-6,12 L-6,14 M8,12 L8,14" fill="none"/>
+</g>
+<text x="206" y="48" font-size="12" fill="#c33">直升机和无人机在林冠上方</text>
+<text x="206" y="63" font-size="12" fill="#c33">很难看到树下移动的人</text>
+<path d="M20,240 L690,240" stroke="#999" stroke-width="3"/>
+<!-- 开阔处: 鲜艳物品 -->
+<path d="M332,244 L440,244 L424,230 L346,230 Z" fill="#f08a3c" stroke="#333" stroke-width="1.5"/>
+<text x="332" y="214" font-size="12" fill="#0b5cad">开阔处摊开鲜艳物品</text>
+<!-- 人: 吹哨、挥动衣物 -->
+<g transform="translate(-44,0)"><g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M518,196 L512,238 M530,196 L536,238" stroke="#333" stroke-width="15"/><path d="M518,196 L512,238 M530,196 L536,238" stroke="#cfe0f0" stroke-width="10"/>
+</g>
+<rect x="510" y="146" width="28" height="56" rx="10" fill="#cfe0f0" stroke="#333" stroke-width="2"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M534,152 L550,126 L548,100" stroke="#333" stroke-width="11"/><path d="M534,152 L550,126 L548,100" stroke="#f3e3d3" stroke-width="6"/>
+<path d="M514,152 L506,136 L520,128" stroke="#333" stroke-width="11"/><path d="M514,152 L506,136 L520,128" stroke="#f3e3d3" stroke-width="6"/>
+</g>
+<path d="M546,100 Q566,86 586,98 Q578,110 584,124 Q566,112 550,120 Z" fill="#f08a3c" stroke="#333" stroke-width="1.5"/>
+<circle cx="524" cy="128" r="13" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M512,126 Q512,114 524,115 Q536,115 536,124 Q526,120 518,122 Z" fill="#555"/>
+<rect x="508" y="130" width="10" height="5" rx="2" fill="#f08a3c" stroke="#333" stroke-width="1"/>
+<path d="M500,124 L492,120 M500,132 L490,132 M500,140 L492,144" stroke="#c33" stroke-width="2" stroke-linecap="round"/>
+</g>
+<text x="384" y="116" font-size="12" fill="#c33">吹哨子:</text>
+<text x="384" y="131" font-size="12" fill="#c33">三声一组</text>
+<text x="510" y="84" font-size="12" fill="#0b5cad">挥动鲜艳衣物</text>
+<!-- 火和白烟 -->
+<path d="M626,240 L664,228 M626,228 L664,240" stroke="#6b5530" stroke-width="5" stroke-linecap="round"/>
+<path d="M645,230 Q632,214 642,200 Q644,212 650,208 Q648,196 656,190 Q662,212 645,230 Z" fill="#f5a623" stroke="#c33" stroke-width="1.5"/>
+<g fill="#f4f4f4" stroke="#999" stroke-width="1.5">
+<circle cx="646" cy="176" r="12"/><circle cx="638" cy="150" r="15"/><circle cx="626" cy="122" r="17"/><circle cx="612" cy="92" r="19"/><circle cx="632" cy="98" r="14"/>
+</g>
+<text x="690" y="48" font-size="12" fill="#0b5cad" text-anchor="end">白天在开阔处生烟:</text>
+<text x="690" y="63" font-size="12" fill="#0b5cad" text-anchor="end">火上加青枝绿叶产生白烟</text>
+<text x="690" y="262" font-size="12" fill="#0b5cad" text-anchor="end">夜间保留火光</text>
+<text x="16" y="270" font-size="13">每隔一段时间吹哨子,三声一组(比喊叫省力,传得远);</text>
+<text x="16" y="292" font-size="13">听到人声、狗叫、发动机、直升机时: 立即吹哨、挥动鲜艳衣物、点燃信号烟</text>
+</g>
+
+<!-- 不靠谱的方法 -->
+<g transform="translate(10,1088)">
+<rect x="0" y="0" width="700" height="66" rx="8" fill="#f4f4f4" stroke="#999" stroke-width="1.5"/>
+<text x="16" y="26" font-size="14"><tspan fill="#c33" font-weight="bold">✗ 树冠、年轮、苔藓、蚂蚁窝</tspan>定方向在林中几乎没有用,不要根据一棵树、</text>
+<text x="16" y="50" font-size="14">一块苔藓决定前进方向;可靠的是手机地图定位、指南针、太阳和北极星</text>
+</g>
+</g>
+</svg>
