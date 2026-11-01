@@ -85,7 +85,6 @@
 <use href="#lbell" x="546" y="268"/>
 <use href="#lbell" transform="translate(559 254) scale(0.8)"/>
 <use href="#lbell" transform="translate(568 249) scale(0.65)"/>
-<g stroke="#4d6b2a" stroke-width="1" fill="none"><path d="M560 158 Q560 168 554 176 M560 158 Q564 168 568 176"/></g>
 <!-- 根状茎 -->
 <path d="M410 404 H560 C566 404 568 408 568 411 C568 414 566 418 560 418 H410 C404 418 402 414 402 411 C402 408 404 404 410 404 Z" fill="#e7dcc2" stroke="#333" stroke-width="1.3"/>
 <g stroke="#8a7a5a" stroke-width="1" fill="none"><path d="M420 418 Q418 432 412 440 M460 418 Q462 432 458 442 M500 418 Q498 432 504 442 M540 418 Q544 430 540 440"/></g>
@@ -98,7 +97,6 @@
 <g stroke="#0b5cad" stroke-width="1" fill="none"><path d="M432 240 L404 180"/><path d="M480 360 L586 350"/><path d="M552 270 L586 268"/></g>
 <g fill="#0b5cad"><circle cx="432" cy="240" r="2.5"/><circle cx="480" cy="360" r="2.5"/><circle cx="552" cy="270" r="2.5"/></g>
 <text x="381" y="172" font-size="14">通常只有<tspan font-weight="bold">2片</tspan>宽大的叶</text>
-<text x="381" y="190" font-size="14" fill="#fff">.</text>
 <text x="586" y="196" font-size="14">花葶从</text>
 <text x="586" y="213" font-size="14">叶基部抽出</text>
 <text x="586" y="252" font-size="14">一串白色</text>
@@ -122,7 +120,7 @@
 <text x="360" y="694" font-size="15" text-anchor="middle">玉竹、黄精都有一根直立或弯垂的<tspan font-weight="bold">地上茎</tspan>,</text>
 <text x="360" y="716" font-size="15" text-anchor="middle">叶长在茎上,花挂在叶腋下面</text>
 <text x="360" y="748" font-size="16" font-weight="bold" fill="#c33" text-anchor="middle">叶从地下直接长出、果实红色的,一律不挖</text>
-<text x="360" y="780" font-size="14" fill="#555" text-anchor="middle">铃兰、万年青含强心苷,误食可致心律失常</text>
+<text x="360" y="780" font-size="14" fill="#555" text-anchor="middle">铃兰含强心苷,误食可致心律失常</text>
 <text x="360" y="804" font-size="14" fill="#555" text-anchor="middle">黄精尝到苦味就不是正品(药典: 味苦者不可药用)</text>
 <text x="360" y="832" font-size="16" font-weight="bold" fill="#c33" text-anchor="middle">挖根之前先认准整株;认不准不挖</text>
 </g>
