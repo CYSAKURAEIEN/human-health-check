@@ -1,0 +1,181 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 850" width="720" height="850" role="img" aria-label="自制可重复使用的布卫生巾。①材料与层次: 外层贴皮肤用柔软的纯棉布;吸水层用纯棉布(旧棉T恤、毛巾布、法兰绒)叠4-6层;防漏层可选,放在最底层,用防水布、旧雨衣布、干净的塑料布;不要用化纤布作吸水层,不要用旧报纸、草木灰、沙土等。②做法: 剪出卫生巾形状,约长20-25 cm、中间宽约6-7 cm,两侧带护翼;吸水层叠4-6层棉布,剪成稍小的长条;按外层、吸水层、防漏层叠好,沿四周缝合;护翼末端缝上按扣或用别针,绕过内裤固定;最简单的做法是把几层棉布或毛巾折成长条垫在内裤上。③清洗和保存: 换下后先用冷水浸泡、冲洗,热水会让血渍固定;用肥皂搓洗干净;清水漂净;在阳光下彻底晒干,不要因为不好意思而晾在阴暗处,潮湿会滋生细菌和霉菌引起感染,可以在上面盖一块薄布遮挡;完全干透后放在干净干燥的袋子里;有条件时定期煮沸。④每人至少准备5-8片轮换使用;发霉、无法洗净、变薄破损时更换;勤换卫生用品,换前后洗手,每天用清水清洗外阴,从前往后。⑤出血量非常大、月经期超过7天或两次月经间隔很短、痛经剧烈吃止痛药也不缓解、经期以外或绝经后出血、头晕乏力面色苍白时就医;月经推迟同时下腹剧痛、阴道出血、头晕甚至晕倒,可能是宫外孕破裂,立即拨打120" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>自制可重复使用的布卫生巾</title>
+<defs>
+<marker id="arK" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#555"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<!-- 带护翼的卫生巾外形(俯视,原点在中心) -->
+<path id="padS" d="M-42 -18 H-20 L-14 -34 H14 L20 -18 H42 A18 18 0 0 1 42 18 H20 L14 34 H-14 L-20 18 H-42 A18 18 0 0 1 -42 -18 Z"/>
+<!-- 盆 -->
+<g id="basin">
+<path d="M-38 -18 L-30 14 H30 L38 -18 Z" fill="#fff" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M-35 -6 L-30 14 H30 L35 -6 Z" fill="#cfe5f5"/>
+<path d="M-38 -18 L-30 14 H30 L38 -18 Z" fill="none" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+</g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">自制可重复使用的布卫生巾</text>
+<text x="360" y="52" font-size="13" text-anchor="middle" fill="#555">长期断供时不依赖供应;清洗和彻底晒干是最关键的一步</text>
+
+<!-- ① 材料与层次 -->
+<g transform="translate(10,64)">
+<rect x="0" y="0" width="345" height="290" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">① 材料与层次(从上到下)</text>
+<!-- 外层 -->
+<use href="#padS" transform="matrix(1 0 -0.35 0.55 100 76)" fill="#fff" stroke="#333" stroke-width="4"/>
+<!-- 吸水层 多层 -->
+<g transform="translate(100,142)">
+<rect x="-50" y="-12" width="100" height="24" rx="10" transform="matrix(1 0 -0.35 0.55 0 6)" fill="#f6efdc" stroke="#333" stroke-width="3"/>
+<rect x="-50" y="-12" width="100" height="24" rx="10" transform="matrix(1 0 -0.35 0.55 0 2)" fill="#f6efdc" stroke="#333" stroke-width="3"/>
+<rect x="-50" y="-12" width="100" height="24" rx="10" transform="matrix(1 0 -0.35 0.55 0 -2)" fill="#f6efdc" stroke="#333" stroke-width="3"/>
+<rect x="-50" y="-12" width="100" height="24" rx="10" transform="matrix(1 0 -0.35 0.55 0 -6)" fill="#f6efdc" stroke="#333" stroke-width="3"/>
+</g>
+<!-- 防漏层 -->
+<use href="#padS" transform="matrix(1 0 -0.35 0.55 100 206)" fill="#cfe0f0" stroke="#333" stroke-width="4"/>
+<g stroke="#999" stroke-width="1.5" marker-end="url(#arK)"><path d="M100 100 V118"/><path d="M100 166 V184"/></g>
+<g font-size="12">
+<text x="196" y="72" font-size="13" font-weight="bold">外层(贴皮肤)</text>
+<text x="196" y="89">柔软的纯棉布</text>
+<text x="196" y="132" font-size="13" font-weight="bold">吸水层</text>
+<text x="244" y="132" font-size="13" font-weight="bold" fill="#0b5cad">叠4-6层</text>
+<text x="196" y="149">纯棉布: 旧棉T恤、</text>
+<text x="196" y="164">毛巾布、法兰绒</text>
+<text x="196" y="196" font-size="13" font-weight="bold">防漏层(可选,最底层)</text>
+<text x="196" y="213">防水布、旧雨衣布、</text>
+<text x="196" y="228">干净的塑料布</text>
+</g>
+<g font-size="12" fill="#c33">
+<text x="12" y="258">✗ 不要用化纤布作吸水层(不吸水)</text>
+<text x="12" y="278">✗ 不要用旧报纸、草木灰、沙土等</text>
+</g>
+</g>
+
+<!-- ② 做法 -->
+<g transform="translate(365,64)">
+<rect x="0" y="0" width="345" height="290" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">② 做法</text>
+<g transform="translate(130,94)">
+<path d="M-56 -24 H-26 L-18 -46 H18 L26 -24 H56 A24 24 0 0 1 56 24 H26 L18 46 H-18 L-26 24 H-56 A24 24 0 0 1 -56 -24 Z" fill="#fff" stroke="#333" stroke-width="2.5"/>
+<path d="M-54 -19 H-22 L-15 -40 H15 L22 -19 H54 A19 19 0 0 1 54 19 H22 L15 40 H-15 L-22 19 H-54 A19 19 0 0 1 -54 -19 Z" fill="none" stroke="#c33" stroke-width="1.5" stroke-dasharray="4 3"/>
+<circle cx="0" cy="-38" r="4" fill="#fff" stroke="#333" stroke-width="2"/>
+<circle cx="0" cy="38" r="4" fill="#fff" stroke="#333" stroke-width="2"/>
+<!-- 长 -->
+<path d="M-78 58 H78" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB)" marker-end="url(#arB)"/>
+<path d="M-80 30 V64 M80 30 V64" stroke="#0b5cad" stroke-width="1"/>
+<!-- 中间宽 -->
+<path d="M40 -22 V22" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB)" marker-end="url(#arB)"/>
+</g>
+<text x="130" y="170" font-size="13" font-weight="bold" fill="#0b5cad" text-anchor="middle">长约20-25 cm</text>
+<path d="M172 94 L238 94" stroke="#0b5cad" stroke-width="1"/>
+<text x="242" y="90" font-size="12" font-weight="bold" fill="#0b5cad">中间宽</text>
+<text x="242" y="106" font-size="12" font-weight="bold" fill="#0b5cad">约6-7 cm</text>
+<path d="M136 56 L238 46" stroke="#555" stroke-width="1"/>
+<text x="242" y="44" font-size="12">护翼末端按扣</text>
+<text x="242" y="59" font-size="12">或用别针</text>
+<path d="M178 112 L238 136" stroke="#c33" stroke-width="1"/>
+<text x="242" y="140" font-size="12" fill="#c33">沿四周缝合</text>
+<g font-size="12">
+<text x="12" y="196">1. 剪出卫生巾形状,两侧带护翼</text>
+<text x="12" y="214">2. 吸水层叠4-6层棉布,剪成稍小的长条</text>
+<text x="12" y="232">3. 按“外层 + 吸水层 + 防漏层”叠好,沿四周缝合</text>
+<text x="12" y="250">4. 护翼末端缝上按扣或用别针,绕过内裤固定</text>
+<text x="12" y="276" fill="#0b5cad" font-weight="bold">最简单: 几层棉布或毛巾折成长条,垫在内裤上</text>
+</g>
+</g>
+
+<!-- ③ 清洗和保存 -->
+<g transform="translate(10,364)">
+<rect x="0" y="0" width="700" height="236" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">③ 清洗和保存(最关键)</text>
+<!-- 1 冷水 -->
+<use href="#basin" x="60" y="84"/>
+<text x="60" y="56" font-size="13" font-weight="bold" fill="#0b5cad" text-anchor="middle">冷水</text>
+<!-- 2 肥皂 -->
+<g transform="translate(176,84)">
+<rect x="-24" y="-12" width="48" height="26" rx="8" fill="#f6efdc" stroke="#333" stroke-width="2"/>
+<g fill="#fff" stroke="#0b5cad" stroke-width="1.5"><circle cx="-14" cy="-22" r="6"/><circle cx="2" cy="-28" r="8"/><circle cx="18" cy="-20" r="5"/></g>
+</g>
+<!-- 3 漂净 -->
+<use href="#basin" x="292" y="84"/>
+<g fill="#0b5cad"><path d="M284 46 q-5 8 0 11 q5 -3 0 -11 Z"/><path d="M300 54 q-4 7 0 9 q4 -2 0 -9 Z"/></g>
+<!-- 4 晒干 -->
+<g transform="translate(408,84)">
+<circle cx="-30" cy="-28" r="10" fill="#fff" stroke="#c33" stroke-width="2"/>
+<g stroke="#c33" stroke-width="2" stroke-linecap="round"><path d="M-30 -44 V-41 M-30 -15 V-12 M-46 -28 H-43 M-17 -28 H-14 M-41 -39 L-39 -37 M-21 -19 L-19 -17 M-41 -17 L-39 -19 M-21 -37 L-19 -39"/></g>
+<path d="M-44 -6 H44" stroke="#999" stroke-width="2"/>
+<rect x="-6" y="-6" width="40" height="30" rx="8" fill="#fff" stroke="#333" stroke-width="2"/>
+<path d="M4 -10 V-2 M24 -10 V-2" stroke="#333" stroke-width="2"/>
+</g>
+<!-- 5 袋子 -->
+<g transform="translate(524,84)">
+<path d="M-22 -16 H22 L26 22 H-26 Z" fill="#fff" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M-10 -16 Q-10 -30 0 -30 Q10 -30 10 -16" fill="none" stroke="#333" stroke-width="2"/>
+</g>
+<!-- 6 煮沸 -->
+<g transform="translate(640,84)">
+<path d="M-26 -14 H26 V14 Q26 20 20 20 H-20 Q-26 20 -26 14 Z" fill="#e3e8ec" stroke="#333" stroke-width="2"/>
+<path d="M-32 -14 H32" stroke="#333" stroke-width="2.5"/>
+<g fill="none" stroke="#999" stroke-width="1.5"><path d="M-10 -20 q-4 -6 0 -12 M2 -20 q-4 -6 0 -12 M14 -20 q-4 -6 0 -12"/></g>
+<path d="M-16 34 q4 -10 8 0 q4 -10 8 0 q4 -10 8 0 q4 -10 8 0" fill="none" stroke="#c33" stroke-width="2"/>
+</g>
+<!-- 箭头 -->
+<g stroke="#555" stroke-width="1.8" marker-end="url(#arK)">
+<path d="M104 84 H130"/><path d="M220 84 H246"/><path d="M336 84 H362"/><path d="M452 84 H478"/><path d="M568 84 H594"/>
+</g>
+<g text-anchor="middle" font-size="13">
+<text x="60" y="140" font-weight="bold">1. 先用冷水</text>
+<text x="60" y="157">浸泡、冲洗</text>
+<text x="60" y="174" font-size="11" fill="#c33">热水会让血渍固定</text>
+<text x="176" y="140" font-weight="bold">2. 用肥皂</text>
+<text x="176" y="157">搓洗干净</text>
+<text x="292" y="140" font-weight="bold">3. 清水漂净</text>
+<text x="408" y="140" font-weight="bold" fill="#c33">4. 阳光下</text>
+<text x="408" y="157" font-weight="bold" fill="#c33">彻底晒干</text>
+<text x="524" y="140" font-weight="bold">5. 完全干透后</text>
+<text x="524" y="157">放进干净干燥</text>
+<text x="524" y="174">的袋子保存</text>
+<text x="640" y="140" font-weight="bold">6. 有条件时</text>
+<text x="640" y="157">定期煮沸</text>
+</g>
+<path d="M10 188 H690" stroke="#ddd" stroke-width="1"/>
+<text x="14" y="208" font-size="13" font-weight="bold" fill="#c33">✗ 不要因为不好意思而晾在阴暗处: 潮湿会滋生细菌和霉菌,引起感染</text>
+<text x="14" y="227" font-size="12" fill="#555">可以在上面盖一块薄布遮挡;阳光能杀灭部分细菌,也能去除潮气</text>
+</g>
+
+<!-- ④ 数量与日常卫生 -->
+<g transform="translate(10,610)">
+<rect x="0" y="0" width="345" height="230" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">④ 数量与经期卫生</text>
+<g font-size="13">
+<text x="12" y="52">✓ 每人至少准备<tspan font-weight="bold" fill="#0b5cad">5-8片</tspan>,轮换使用</text>
+<text x="12" y="76">✓ 发霉、无法洗净、变薄破损时更换</text>
+<text x="12" y="100">✓ 勤换卫生用品</text>
+<text x="12" y="124">✓ 换卫生用品前后洗手</text>
+<text x="12" y="148">✓ 每天用清水清洗外阴(从前往后)</text>
+<text x="26" y="166" font-size="12" fill="#555">不需要用洗液冲洗阴道内部</text>
+<text x="12" y="190">✓ 有条件时勤换内裤,阳光下晒干</text>
+<text x="12" y="214">✓ 肥皂、纯棉布、按扣列入储备</text>
+</g>
+</g>
+
+<!-- ⑤ 就医 -->
+<g transform="translate(365,610)">
+<rect x="0" y="0" width="345" height="230" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold" fill="#c33">⑤ 需要就医的情况</text>
+<g font-size="12">
+<text x="12" y="48">• 出血量非常大: 连续几个小时每小时就要</text>
+<text x="22" y="64">换一片卫生巾,或有大血块</text>
+<text x="12" y="84">• 月经期超过7天,或两次月经间隔很短</text>
+<text x="12" y="104">• 痛经剧烈,吃止痛药也不缓解</text>
+<text x="12" y="124">• 经期以外出血,或绝经后又出血</text>
+<text x="12" y="144">• 头晕、乏力、面色苍白(可能贫血)</text>
+</g>
+<path d="M10 156 H335" stroke="#e6b3b3" stroke-width="1"/>
+<g font-size="12">
+<text x="12" y="176" font-weight="bold" fill="#c33">⚠ 月经推迟,同时出现下腹剧痛、阴道出血、</text>
+<text x="26" y="193" font-weight="bold" fill="#c33">头晕甚至晕倒</text>
+<text x="26" y="213" font-weight="bold" fill="#c33">→ 可能是宫外孕破裂,立即拨打120</text>
+</g>
+</g>
+</g>
+</svg>

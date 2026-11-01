@@ -1,0 +1,260 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1120" width="720" height="1120" role="img" aria-label="慢性病用药: 储备、轮换与用药信息卡。本图不提供任何药物剂量,所有用药遵医嘱,储备数量和断药时怎么办都应提前和自己的医生商量。①先找出突然停用可能危及生命的药,列为储备第一优先: 胰岛素、抗癫痫药、长期口服糖皮质激素、β受体阻滞剂、可乐定、支架后抗血小板药、抗凝药、镇静催眠药和抗焦虑药、抗精神病药和抗抑郁药、HIV抗病毒药、抗排异药;一般降压药、口服降糖药、甲状腺素、哮喘吸入激素断药风险相对较慢但同样重要。②建立缓冲、先进先出: 药还剩约1-2周时就去复诊续方,新取的药放后面先吃旧的,逐渐积累让手头常备量达到1-3个月,每次取药核对有效期;长期处方一般4周内,最长不超过12周;不从非法渠道买处方药,不囤积远超需要的量。③分散存放: 家中主储备按储存条件保存,随身包3-7天的量,应急包至少1周的量,外出旅行多带几天。④胰岛素: 未开封冰箱冷藏2-8°C,到包装上的有效期;已开封室温不超过30°C、避光,一般28天,以说明书为准,到期丢弃;绝不能冷冻,冻过的即使化开也不能再用;不放冷冻室附近或贴冰箱后壁,不放阳光直射处、车里、暖气旁;外观异常一律不用。⑤停电时: 少开冰箱门,放最凉快的地方,湿毛巾包裹,大陶罐套小陶罐中间填湿沙的蒸发冷却罐,罐口盖湿布,放阴凉通风处;不要直接贴着冰块或冰袋。⑥用药信息卡每位患者一张,写通用名,复印或拍照一份随身、一份放应急包、一份发给家人,每次换药都更新。⑦药快用完时尽早就医,带上用药信息卡和药盒;不要自行减量、隔天吃,不要吃别人的药,不要因为感觉好了就停药" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>慢性病用药: 储备、轮换与用药信息卡</title>
+<defs>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker>
+<!-- 药盒(原点在盒底左角) -->
+<g id="box">
+<rect x="0" y="-40" width="56" height="40" rx="3" fill="#fff" stroke="#333" stroke-width="2"/>
+<path d="M0 -30 H56" stroke="#333" stroke-width="1.2"/>
+</g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">慢性病用药: 储备、轮换与用药信息卡</text>
+<text x="360" y="53" font-size="13" text-anchor="middle" fill="#c33" font-weight="bold">⚠ 本图不提供任何药物剂量。所有用药遵医嘱;储备多少、断药时怎么办,都应提前和自己的医生商量</text>
+
+<!-- ① 第一优先 -->
+<g transform="translate(10,66)">
+<rect x="0" y="0" width="700" height="150" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">① 先找出“突然停药最危险”的药: 突然停用可能危及生命</text>
+<g fill="#fdf3f3" stroke="#c33" stroke-width="1.5">
+<rect x="12" y="38" width="55" height="28" rx="14"/>
+<rect x="75" y="38" width="68" height="28" rx="14"/>
+<rect x="151" y="38" width="133" height="28" rx="14"/>
+<rect x="292" y="38" width="92" height="28" rx="14"/>
+<rect x="392" y="38" width="55" height="28" rx="14"/>
+<rect x="455" y="38" width="120" height="28" rx="14"/>
+<rect x="583" y="38" width="55" height="28" rx="14"/>
+<rect x="12" y="74" width="146" height="28" rx="14"/>
+<rect x="166" y="74" width="146" height="28" rx="14"/>
+<rect x="320" y="74" width="104" height="28" rx="14"/>
+<rect x="432" y="74" width="68" height="28" rx="14"/>
+</g>
+<g font-size="13" text-anchor="middle">
+<text x="39.5" y="57">胰岛素</text>
+<text x="109" y="57">抗癫痫药</text>
+<text x="217.5" y="57">长期口服糖皮质激素</text>
+<text x="338" y="57">β受体阻滞剂</text>
+<text x="419.5" y="57">可乐定</text>
+<text x="515" y="57">支架后抗血小板药</text>
+<text x="610.5" y="57">抗凝药</text>
+<text x="85" y="93">镇静催眠药、抗焦虑药</text>
+<text x="239" y="93">抗精神病药、抗抑郁药</text>
+<text x="372" y="93">HIV抗病毒药</text>
+<text x="466" y="93">抗排异药</text>
+</g>
+<text x="12" y="126" font-size="14" font-weight="bold" fill="#c33">家里有人用这类药,就把它列为储备的第一优先</text>
+<text x="12" y="143" font-size="12" fill="#555">其他: 一般降压药、口服降糖药、甲状腺素、哮喘吸入激素,断药风险相对较慢,但同样重要</text>
+</g>
+
+<!-- ② 缓冲 先进先出 -->
+<g transform="translate(10,226)">
+<rect x="0" y="0" width="345" height="292" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">② 建立缓冲: 先进先出</text>
+<use href="#box" x="30" y="94"/>
+<use href="#box" x="92" y="94"/>
+<use href="#box" x="154" y="94"/>
+<rect x="246" y="54" width="56" height="40" rx="3" fill="#cfe0f0" stroke="#333" stroke-width="2" stroke-dasharray="5 3"/>
+<path d="M246 64 H302" stroke="#333" stroke-width="1.2"/>
+<g font-size="14" font-weight="bold" text-anchor="middle">
+<text x="58" y="85">旧</text><text x="120" y="85">旧</text><text x="182" y="85">旧</text>
+<text x="274" y="85" fill="#0b5cad">新</text>
+</g>
+<path d="M244 74 H218" stroke="#0b5cad" stroke-width="2.5" marker-end="url(#arB)"/>
+<path d="M58 52 V40" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<path d="M22 96 H312" stroke="#999" stroke-width="3"/>
+<g font-size="12" text-anchor="middle">
+<text x="58" y="114" fill="#c33" font-weight="bold">前: 先吃旧的</text>
+<text x="274" y="114" fill="#0b5cad" font-weight="bold">新取的药放后面</text>
+</g>
+<g font-size="13">
+<text x="12" y="146">1. 药还剩约1-2周时就去复诊续方</text>
+<text x="12" y="166">2. 新取的药放后面,先吃旧的</text>
+<text x="12" y="186">3. 逐渐积累,手头常备量达到<tspan font-weight="bold" fill="#0b5cad">1-3个月</tspan></text>
+<text x="12" y="206">4. 每次取药核对有效期</text>
+</g>
+<g font-size="12">
+<text x="12" y="232" fill="#0b5cad" font-weight="bold">长期处方: 一般4周内,最长不超过12周</text>
+<text x="12" y="249" fill="#555">复诊时主动问医生“能不能开长期处方”</text>
+<text x="12" y="272" fill="#c33">✗ 不从非法渠道买处方药  ✗ 不囤积远超需要的量</text>
+</g>
+</g>
+
+<!-- ③ 分散存放 -->
+<g transform="translate(365,226)">
+<rect x="0" y="0" width="345" height="292" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">③ 分散存放</text>
+<!-- 家 -->
+<g transform="translate(40,72)" stroke="#333" stroke-width="2" stroke-linejoin="round">
+<path d="M-22 -2 L0 -22 L22 -2" fill="none"/>
+<rect x="-16" y="-6" width="32" height="26" fill="#cfe0f0"/>
+<rect x="-5" y="6" width="10" height="14" fill="#fff"/>
+</g>
+<text x="80" y="68" font-size="14" font-weight="bold">家中主储备</text>
+<text x="80" y="86" font-size="12" fill="#555">按储存条件保存(见正文链接)</text>
+<!-- 随身包 -->
+<g transform="translate(40,136)" stroke="#333" stroke-width="2">
+<path d="M-8 -12 V-18 Q0 -24 8 -18 V-12" fill="none"/>
+<rect x="-18" y="-12" width="36" height="28" rx="6" fill="#efe2c4"/>
+</g>
+<text x="80" y="132" font-size="14" font-weight="bold">随身包</text>
+<text x="146" y="132" font-size="15" font-weight="bold" fill="#0b5cad">3-7天的量</text>
+<!-- 应急包 -->
+<g transform="translate(40,196)">
+<rect x="-20" y="-16" width="40" height="32" rx="4" fill="#fff" stroke="#333" stroke-width="2"/>
+<path d="M-6 -18 V-22 H6 V-18" fill="none" stroke="#333" stroke-width="2"/>
+<path d="M0 -8 V8 M-8 0 H8" stroke="#c33" stroke-width="4"/>
+</g>
+<text x="80" y="192" font-size="14" font-weight="bold">应急包</text>
+<text x="146" y="192" font-size="15" font-weight="bold" fill="#0b5cad">至少1周的量</text>
+<!-- 旅行 -->
+<g transform="translate(40,254)" stroke="#333" stroke-width="2">
+<path d="M-7 -14 V-19 H7 V-14" fill="none"/>
+<rect x="-18" y="-14" width="36" height="30" rx="4" fill="#cfe0f0"/>
+<path d="M-18 0 H18" stroke-width="1.2"/>
+</g>
+<text x="80" y="258" font-size="14" font-weight="bold">外出、旅行时多带几天</text>
+</g>
+
+<!-- ④ 胰岛素储存 -->
+<g transform="translate(10,528)">
+<rect x="0" y="0" width="420" height="260" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">④ 胰岛素储存</text>
+<!-- 冰箱 -->
+<rect x="52" y="38" width="46" height="74" rx="4" fill="#fff" stroke="#333" stroke-width="2"/>
+<path d="M52 62 H98 M90 46 V56 M90 70 V84" stroke="#333" stroke-width="2"/>
+<text x="75" y="102" font-size="13" font-weight="bold" fill="#0b5cad" text-anchor="middle">2-8°C</text>
+<g font-size="12" text-anchor="middle">
+<text x="75" y="134" font-size="13" font-weight="bold">未开封</text>
+<text x="75" y="152">冰箱冷藏 2-8°C</text>
+<text x="75" y="169">到包装上的有效期</text>
+</g>
+<!-- 笔 -->
+<g transform="translate(210,76) rotate(-20)">
+<rect x="-46" y="-9" width="80" height="18" rx="6" fill="#cfe0f0" stroke="#333" stroke-width="2"/>
+<rect x="34" y="-5" width="10" height="10" fill="#fff" stroke="#333" stroke-width="2"/>
+<path d="M44 0 H54" stroke="#333" stroke-width="1.5"/>
+<rect x="-20" y="-5" width="26" height="10" fill="#fff" stroke="#333" stroke-width="1.2"/>
+</g>
+<text x="210" y="112" font-size="13" font-weight="bold" fill="#0b5cad" text-anchor="middle">≤30°C</text>
+<g font-size="12" text-anchor="middle">
+<text x="210" y="134" font-size="13" font-weight="bold">已开封(正在使用)</text>
+<text x="210" y="152">室温,不超过30°C,避光</text>
+<text x="210" y="169">一般28天,到期丢弃</text>
+<text x="210" y="185" fill="#555">(以说明书为准)</text>
+</g>
+<!-- 禁止冷冻 -->
+<g transform="translate(345,74)">
+<g stroke="#0b5cad" stroke-width="2.5" stroke-linecap="round">
+<path d="M0 -22 V22 M-19 -11 L19 11 M-19 11 L19 -11"/>
+<path d="M-5 -17 L0 -12 L5 -17 M-5 17 L0 12 L5 17"/>
+</g>
+<circle r="30" fill="none" stroke="#c33" stroke-width="3.5"/>
+<path d="M-21 -21 L21 21" stroke="#c33" stroke-width="3.5"/>
+</g>
+<g font-size="12" text-anchor="middle">
+<text x="345" y="134" font-size="13" font-weight="bold" fill="#c33">绝不能冷冻</text>
+<text x="345" y="152">冻过的即使化开</text>
+<text x="345" y="169">也不能再用</text>
+</g>
+<path d="M10 198 H410" stroke="#ddd" stroke-width="1"/>
+<g font-size="12" fill="#c33">
+<text x="12" y="216">✗ 不要放在冷冻室附近或贴着冰箱后壁(容易结冰)</text>
+<text x="12" y="233">✗ 不要放在阳光直射处、车里、暖气旁</text>
+<text x="12" y="250">✗ 外观异常一律不用: 本应清澈的变浑浊,有颗粒、结块、变色</text>
+</g>
+</g>
+
+<!-- ⑤ 停电时 -->
+<g transform="translate(440,528)">
+<rect x="0" y="0" width="270" height="260" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">⑤ 停电时: 未开封的储备</text>
+<!-- 罐中罐剖面 -->
+<path d="M22 50 L32 140 H118 L128 50 Z" fill="#e8d9b5" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M48 56 L54 128 H96 L102 56 Z" fill="#fff" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<g fill="#8a7a55"><circle cx="36" cy="80" r="1.5"/><circle cx="40" cy="104" r="1.5"/><circle cx="44" cy="126" r="1.5"/><circle cx="110" cy="84" r="1.5"/><circle cx="108" cy="110" r="1.5"/><circle cx="104" cy="130" r="1.5"/><circle cx="34" cy="62" r="1.5"/><circle cx="114" cy="64" r="1.5"/></g>
+<g fill="#0b5cad"><path d="M38 92 q-3 5 0 7 q3 -2 0 -7 Z"/><path d="M112 98 q-3 5 0 7 q3 -2 0 -7 Z"/></g>
+<rect x="66" y="98" width="14" height="26" rx="2" fill="#cfe0f0" stroke="#333" stroke-width="1.5"/>
+<rect x="68" y="94" width="10" height="5" fill="#999"/>
+<path d="M16 48 Q30 42 44 48 T72 48 T100 48 T134 48" fill="none" stroke="#0b5cad" stroke-width="3"/>
+<g stroke="#0b5cad" stroke-width="1" fill="none">
+<path d="M134 46 L150 40"/><path d="M110 76 L150 70"/><path d="M80 110 L150 104"/><path d="M118 136 L150 136"/>
+</g>
+<g font-size="12">
+<text x="154" y="44">罐口盖湿布</text>
+<text x="154" y="74">两罐之间填湿沙,</text>
+<text x="154" y="89">保持湿润</text>
+<text x="154" y="108">胰岛素放内罐</text>
+<text x="154" y="140">大陶罐套小陶罐</text>
+</g>
+<g font-size="12">
+<text x="12" y="162">放阴凉通风处,利用蒸发降温</text>
+<text x="12" y="180">尽量少开冰箱门(可保持低温数小时)</text>
+<text x="12" y="198">放家中最凉快的地方;湿毛巾包裹容器</text>
+<text x="12" y="218" fill="#c33" font-weight="bold">✗ 不要直接贴着冰块或冰袋(会冻坏)</text>
+<text x="12" y="238" fill="#555">已开封的本来就在室温保存,</text><text x="12" y="253" fill="#555">短期停电影响不大</text>
+</g>
+</g>
+
+<!-- ⑥ 用药信息卡 -->
+<g transform="translate(10,798)">
+<rect x="0" y="0" width="420" height="312" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">⑥ 用药信息卡(每位慢性病患者一张)</text>
+<rect x="12" y="36" width="270" height="264" rx="6" fill="#fffdf5" stroke="#333" stroke-width="2"/>
+<path d="M12 62 H282" stroke="#333" stroke-width="1.2"/>
+<text x="147" y="55" font-size="14" font-weight="bold" text-anchor="middle">用药信息卡</text>
+<g font-size="12">
+<text x="22" y="80">姓名:</text><text x="150" y="80">出生日期:</text>
+<text x="22" y="98">血型:</text><text x="150" y="98">体重:</text>
+<text x="22" y="116">诊断: <tspan fill="#555">(如“2型糖尿病”“高血压”)</tspan></text>
+<text x="22" y="138" font-weight="bold">正在使用的药物(每种一行):</text>
+<text x="22" y="156">· 药名: <tspan fill="#0b5cad" font-weight="bold">写通用名</tspan><tspan fill="#555">,不只写商品名</tspan></text>
+<text x="30" y="174">剂量 / 每天几次 / 开始时间</text>
+<text x="22" y="198">过敏史: <tspan fill="#555">(药物、食物)</tspan></text>
+<text x="22" y="216">重要病史:</text>
+<text x="30" y="232" fill="#555">(如心脏支架、器官移植、长期服用激素)</text>
+<text x="22" y="252">主治医生/医院/电话:</text>
+<text x="22" y="270">紧急联系人/电话:</text>
+<text x="22" y="288">更新日期:</text>
+</g>
+<g stroke="#ccc" stroke-width="1"><path d="M56 82 H140 M208 82 H272 M56 100 H140 M184 100 H272 M84 290 H200"/></g>
+<g font-size="12">
+<text x="292" y="54" font-weight="bold" fill="#0b5cad">✓ 写通用名</text>
+<text x="292" y="70" fill="#555">如“二甲双胍”</text>
+<text x="292" y="98" font-weight="bold" fill="#0b5cad">✓ 复印或拍照</text>
+<text x="302" y="116">一份随身</text>
+<text x="302" y="134">一份放应急包</text>
+<text x="302" y="152">一份发给家人</text>
+<text x="292" y="180" font-weight="bold" fill="#0b5cad">✓ 每次换药都更新</text>
+<text x="292" y="208" font-weight="bold" fill="#0b5cad">✓ 保留最近的</text>
+<text x="302" y="226">病历、处方、</text>
+<text x="302" y="244">检查报告</text>
+<text x="302" y="262">(拍照存手机)</text>
+</g>
+</g>
+
+<!-- ⑦ 药快用完时 -->
+<g transform="translate(440,798)">
+<rect x="0" y="0" width="270" height="312" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">⑦ 药快用完时</text>
+<g font-size="13">
+<text x="12" y="52" font-weight="bold">✓ 尽早想办法,不要等到最后一片</text>
+<text x="26" y="70" font-size="12" fill="#555">临时医疗点、救援医疗队、</text>
+<text x="26" y="86" font-size="12" fill="#555">附近任何医院和药房</text>
+<text x="12" y="110">✓ 带上用药信息卡和药盒</text>
+<text x="12" y="132">✓ 告诉医生最近一次服药的</text>
+<text x="26" y="149">时间和剩余量</text>
+<text x="12" y="171">✓ 优先保证“突然停药最危险”的药</text>
+</g>
+<g font-size="13" fill="#c33">
+<text x="12" y="202" font-weight="bold">✗ 不要自行减量、隔天吃来“拉长”</text>
+<text x="26" y="219" font-size="12">除非医生明确告诉你可以;</text>
+<text x="26" y="235" font-size="12">有些药减量和停药一样危险</text>
+<text x="12" y="261" font-weight="bold">✗ 不要吃别人的药</text>
+<text x="26" y="278" font-size="12">即使“症状一样”“药名差不多”</text>
+<text x="12" y="301" font-weight="bold">✗ 不要因为“感觉好了”就停药</text>
+</g>
+</g>
+</g>
+</svg>

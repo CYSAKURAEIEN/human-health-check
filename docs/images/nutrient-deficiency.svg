@@ -1,0 +1,176 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 970" width="720" height="970" role="img" aria-label="常见营养缺乏病: 早期表现与预防食物。热量够不等于营养够: 只吃精白米缺维生素B1得脚气病,只吃玉米缺烟酸得糙皮病,缺新鲜蔬果缺维生素C得坏血病,不吃碘盐缺碘得甲状腺肿、儿童智力损害。坏血病缺维生素C,约1-3个月出现,乏力、牙龈肿胀出血、皮下出血点、伤口不愈合,预防吃新鲜蔬果、豆芽、松针茶、野菜;脚气病缺维生素B1,数周到数月,下肢麻木无力、水肿、心慌气短,吃糙米、全麦、豆类、瘦猪肉;糙皮病缺烟酸,数月,暴露部位对称性皮炎、腹泻、记忆减退,吃豆类、花生、肉、鱼,玉米用碱处理;夜盲症缺维生素A,数月,黄昏看不清、眼干、儿童易感染,吃深绿色和橙黄色蔬菜(胡萝卜、南瓜、菠菜)、动物肝脏、蛋黄;佝偻病或骨软化缺维生素D和钙,儿童数月,儿童骨骼弯曲、出牙晚,成人骨痛,晒太阳、鱼、蛋黄、豆制品,骨头汤钙少不能代替;甲状腺肿缺碘,数月到数年,颈部肿大,孕期缺碘可致胎儿智力损害,碘盐、海带、紫菜;缺铁性贫血缺铁,数月,面色苍白、乏力、心慌、指甲变薄,动物血、肝脏、红肉,豆类配合维生素C吸收更好;蛋白质-能量营养不良缺蛋白质和热量,数周,消瘦、水肿(尤其儿童)、头发稀黄,豆类、蛋、鱼、肉、奶。怎么补: 冬季发豆芽补维生素C;米别碾太白;玉米用石灰水或草木灰水煮;坚持碘盐。出现上述症状,尤其是儿童和孕妇,在补充食物的同时应尽早就医" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>常见营养缺乏病: 早期表现与预防食物</title>
+<defs>
+<marker id="arK" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#555"/></marker>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">常见营养缺乏病: 早期表现与预防食物</text>
+<text x="360" y="52" font-size="13" text-anchor="middle" fill="#555">储备粮只解决“饿”,还需要豆类、蔬菜(包括野菜、豆芽)、少量动物性食物来解决“病”</text>
+
+<!-- ① 热量够 ≠ 营养够 -->
+<g transform="translate(10,64)">
+<rect x="0" y="0" width="700" height="120" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">① 热量够 ≠ 营养够</text>
+<g font-size="14">
+<!-- 列0 -->
+<text x="14" y="58">只吃精白米</text>
+<path d="M90 53 H110" stroke="#555" stroke-width="1.8" marker-end="url(#arK)"/>
+<text x="116" y="58" fill="#0b5cad">缺维生素B1</text>
+<path d="M196 53 H216" stroke="#555" stroke-width="1.8" marker-end="url(#arK)"/>
+<text x="222" y="58" fill="#c33" font-weight="bold">脚气病</text>
+<text x="14" y="94">只吃玉米</text>
+<path d="M90 89 H110" stroke="#555" stroke-width="1.8" marker-end="url(#arK)"/>
+<text x="116" y="94" fill="#0b5cad">缺烟酸</text>
+<path d="M196 89 H216" stroke="#555" stroke-width="1.8" marker-end="url(#arK)"/>
+<text x="222" y="94" fill="#c33" font-weight="bold">糙皮病</text>
+<!-- 列1 -->
+<path d="M340 36 V108" stroke="#ddd" stroke-width="1.5"/>
+<text x="356" y="58">缺新鲜蔬果</text>
+<path d="M432 53 H452" stroke="#555" stroke-width="1.8" marker-end="url(#arK)"/>
+<text x="458" y="58" fill="#0b5cad">缺维生素C</text>
+<path d="M534 53 H554" stroke="#555" stroke-width="1.8" marker-end="url(#arK)"/>
+<text x="560" y="58" fill="#c33" font-weight="bold">坏血病</text>
+<text x="356" y="94">不吃碘盐</text>
+<path d="M432 89 H452" stroke="#555" stroke-width="1.8" marker-end="url(#arK)"/>
+<text x="458" y="94" fill="#0b5cad">缺碘</text>
+<path d="M494 89 H514" stroke="#555" stroke-width="1.8" marker-end="url(#arK)"/>
+<text x="520" y="94" fill="#c33" font-weight="bold">甲状腺肿、</text>
+<text x="520" y="110" font-size="12" fill="#c33">儿童智力损害</text>
+</g>
+</g>
+
+<!-- ② 表 -->
+<g transform="translate(10,194)">
+<rect x="0" y="0" width="700" height="528" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">② 常见营养缺乏病</text>
+<rect x="6" y="36" width="688" height="26" fill="#f3f7fb"/>
+<g font-size="13" font-weight="bold" fill="#555">
+<text x="14" y="54">疾病 / <tspan fill="#0b5cad">缺乏</tspan></text>
+<text x="152" y="54">多久出现</text>
+<text x="244" y="54">早期表现</text>
+<text x="478" y="54">预防食物</text>
+</g>
+<g stroke="#e3e3e3" stroke-width="1">
+<path d="M6 118 H694 M6 174 H694 M6 230 H694 M6 286 H694 M6 342 H694 M6 398 H694 M6 454 H694"/>
+<path d="M144 36 V518 M236 36 V518 M470 36 V518"/>
+</g>
+<g font-size="13">
+<!-- 1 坏血病 r=62 -->
+<text x="14" y="84" font-size="15" font-weight="bold">坏血病</text>
+<text x="14" y="104" fill="#0b5cad" font-weight="bold">维生素C</text>
+<text x="152" y="84">约1-3个月</text>
+<text x="244" y="84">乏力、牙龈肿胀出血、</text>
+<text x="244" y="104">皮下出血点、伤口不愈合</text>
+<text x="478" y="84">新鲜蔬果、豆芽、</text>
+<text x="478" y="104">松针茶、野菜</text>
+<!-- 2 脚气病 r=118 -->
+<text x="14" y="140" font-size="15" font-weight="bold">脚气病</text>
+<text x="14" y="160" fill="#0b5cad" font-weight="bold">维生素B1</text>
+<text x="152" y="140">数周到数月</text>
+<text x="244" y="140">下肢麻木无力、水肿、</text>
+<text x="244" y="160">心慌气短</text>
+<text x="478" y="140">糙米、全麦、豆类、</text>
+<text x="478" y="160">瘦猪肉</text>
+<!-- 3 糙皮病 r=174 -->
+<text x="14" y="196" font-size="15" font-weight="bold">糙皮病</text>
+<text x="14" y="216" fill="#0b5cad" font-weight="bold">烟酸</text>
+<text x="152" y="196">数月</text>
+<text x="244" y="196">暴露部位对称性皮炎、</text>
+<text x="244" y="216">腹泻、记忆减退</text>
+<text x="478" y="196">豆类、花生、肉、鱼;</text>
+<text x="478" y="216">玉米用碱处理</text>
+<!-- 4 夜盲症 r=230 -->
+<text x="14" y="252" font-size="15" font-weight="bold">夜盲症</text>
+<text x="14" y="272" fill="#0b5cad" font-weight="bold">维生素A</text>
+<text x="152" y="252">数月</text>
+<text x="244" y="252">黄昏看不清,眼干,</text>
+<text x="244" y="272">儿童易感染</text>
+<text x="478" y="252">深绿色和橙黄色蔬菜(胡萝卜、</text>
+<text x="478" y="272">南瓜、菠菜)、动物肝脏、蛋黄</text>
+<!-- 5 佝偻病 r=286 -->
+<text x="14" y="308" font-size="15" font-weight="bold">佝偻病/骨软化</text>
+<text x="14" y="328" fill="#0b5cad" font-weight="bold">维生素D、钙</text>
+<text x="152" y="308">数月(儿童)</text>
+<text x="244" y="308">儿童骨骼弯曲、出牙晚;</text>
+<text x="244" y="328">成人骨痛</text>
+<text x="478" y="308">晒太阳、鱼、蛋黄、豆制品</text>
+<text x="478" y="328" fill="#555">骨头汤(钙少,不能代替)</text>
+<!-- 6 甲状腺肿 r=342 -->
+<text x="14" y="364" font-size="15" font-weight="bold">甲状腺肿</text>
+<text x="14" y="384" fill="#0b5cad" font-weight="bold">碘</text>
+<text x="152" y="364">数月到数年</text>
+<text x="244" y="364">颈部肿大;</text>
+<text x="244" y="384">孕期缺碘可致胎儿智力损害</text>
+<text x="478" y="364">碘盐、海带、紫菜</text>
+<!-- 7 缺铁性贫血 r=398 -->
+<text x="14" y="420" font-size="15" font-weight="bold">缺铁性贫血</text>
+<text x="14" y="440" fill="#0b5cad" font-weight="bold">铁</text>
+<text x="152" y="420">数月</text>
+<text x="244" y="420">面色苍白、乏力、心慌、</text>
+<text x="244" y="440">指甲变薄</text>
+<text x="478" y="420">动物血、肝脏、红肉;</text>
+<text x="478" y="440">豆类配合维生素C吸收更好</text>
+<!-- 8 蛋白质-能量营养不良 r=454 -->
+<text x="14" y="476" font-size="14" font-weight="bold">蛋白质-能量</text>
+<text x="14" y="494" font-size="14" font-weight="bold">营养不良</text>
+<text x="14" y="512" font-size="12" fill="#0b5cad" font-weight="bold">蛋白质和热量</text>
+<text x="152" y="476">数周</text>
+<text x="244" y="476">消瘦、水肿(尤其儿童)、</text>
+<text x="244" y="496">头发稀黄</text>
+<text x="478" y="476">豆类、蛋、鱼、肉、奶</text>
+</g>
+</g>
+
+<!-- ③ 怎么补 -->
+<g transform="translate(10,732)">
+<rect x="0" y="0" width="700" height="148" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">③ 用身边的食物补充(做法见正文)</text>
+<g font-size="12">
+<!-- 维C -->
+<g transform="translate(10,36)">
+<rect x="0" y="0" width="164" height="104" rx="6" fill="#f3f7fb"/>
+<text x="8" y="18" font-size="13" font-weight="bold"><tspan fill="#0b5cad">维生素C</tspan>: 发豆芽</text>
+<text x="8" y="40">冬季最可靠的来源</text>
+<text x="8" y="58">泡8-12小时,盖湿布避光</text>
+<text x="8" y="76">每天淋水2-3次,3-5天吃</text>
+<text x="8" y="94" fill="#c33">发臭、发黏、长霉→丢弃</text>
+</g>
+<!-- 维B1 -->
+<g transform="translate(182,36)">
+<rect x="0" y="0" width="164" height="104" rx="6" fill="#f3f7fb"/>
+<text x="8" y="18" font-size="13" font-weight="bold"><tspan fill="#0b5cad">维生素B1</tspan>: 米别碾太白</text>
+<text x="8" y="40">糙米、半精米比精白米好</text>
+<text x="8" y="58">淘米不要反复用力搓洗</text>
+<text x="8" y="76">搭配豆类、全麦、杂粮</text>
+<text x="8" y="94" fill="#c33">✗ 煮粥加碱会破坏B1</text>
+</g>
+<!-- 烟酸 -->
+<g transform="translate(354,36)">
+<rect x="0" y="0" width="164" height="104" rx="6" fill="#f3f7fb"/>
+<text x="8" y="18" font-size="13" font-weight="bold"><tspan fill="#0b5cad">烟酸</tspan>: 玉米用碱处理</text>
+<text x="8" y="40">石灰水或草木灰水煮玉米粒</text>
+<text x="8" y="58">泡过夜,冲洗干净去皮</text>
+<text x="8" y="76">不做碱处理: 同时吃足</text>
+<text x="8" y="94">豆类、花生、肉、鱼</text>
+</g>
+<!-- 碘 -->
+<g transform="translate(526,36)">
+<rect x="0" y="0" width="164" height="104" rx="6" fill="#f3f7fb"/>
+<text x="8" y="18" font-size="13" font-weight="bold"><tspan fill="#0b5cad">碘</tspan>: 坚持吃碘盐</text>
+<text x="8" y="40">储备选碘盐,密封保存</text>
+<text x="8" y="58">沿海可吃海带、紫菜</text>
+<text x="8" y="76" fill="#c33">✗ 不用碘伏、碘酒代替</text>
+<text x="8" y="94" fill="#555">甲状腺疾病患者遵医嘱</text>
+</g>
+</g>
+</g>
+
+<!-- 就医 -->
+<g transform="translate(10,890)">
+<rect x="0" y="0" width="700" height="68" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<text x="14" y="28" font-size="15" font-weight="bold" fill="#c33">⚠ 出现上述症状,尤其是儿童和孕妇,在补充食物的同时应尽早就医</text>
+<text x="14" y="52" font-size="13">坏血病和脚气病在补充对应营养后通常恢复很快</text>
+</g>
+</g>
+</svg>
