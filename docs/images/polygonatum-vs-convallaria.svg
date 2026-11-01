@@ -40,7 +40,7 @@
 <path d="M300 296 V306 M300 306 L292 314 M300 306 L308 314" stroke="#4d6b2a" stroke-width="1.2" fill="none"/>
 <circle cx="292" cy="321" r="7" fill="#2b3a6a" stroke="#111" stroke-width="1"/><circle cx="308" cy="321" r="7" fill="#2b3a6a" stroke="#111" stroke-width="1"/>
 <!-- 玉竹标注 -->
-<g stroke="#0b5cad" stroke-width="1" fill="none"><path d="M200 212 L210 160"/><path d="M128 210 L100 182"/><path d="M152 262 L130 300"/><path d="M262 252 L246 290"/><path d="M160 398 L190 376"/><path d="M100 412 L88 440"/></g>
+<g stroke="#0b5cad" stroke-width="1" fill="none"><path d="M200 212 L210 160"/><path d="M128 210 L100 182"/><path d="M152 262 L104 300"/><path d="M262 252 L246 290"/><path d="M160 398 L190 376"/><path d="M100 412 L88 440"/></g>
 <g fill="#0b5cad"><circle cx="200" cy="212" r="2.5"/><circle cx="128" cy="210" r="2.5"/><circle cx="152" cy="262" r="2.5"/><circle cx="262" cy="252" r="2.5"/><circle cx="160" cy="398" r="2.5"/><circle cx="100" cy="412" r="2.5"/></g>
 <text x="190" y="138" font-size="15"><tspan font-weight="bold">一根</tspan>单生的地上茎</text>
 <text x="190" y="157" font-size="15">向一侧<tspan font-weight="bold">弓形弯曲</tspan></text>
@@ -72,19 +72,19 @@
 <line x1="375" y1="392" x2="700" y2="392" stroke="#999" stroke-width="2"/>
 <!-- 两片基生叶 -->
 <path d="M468 392 C440 340 404 260 424 196 C450 214 474 300 476 392 Z" fill="#a9c77c" stroke="#333" stroke-width="1.5"/>
-<path d="M472 390 C462 330 440 260 426 204 M470 380 C450 320 424 260 420 214 M474 380 C470 320 460 260 438 210" stroke="#5f7f36" stroke-width="0.8" fill="none"/>
-<path d="M482 392 C486 320 512 240 548 204 C560 260 530 340 490 392 Z" fill="#b5d08a" stroke="#333" stroke-width="1.5"/>
-<path d="M486 390 C496 320 520 250 546 210 M488 380 C500 320 536 260 552 222 M486 380 C492 320 510 260 536 214" stroke="#5f7f36" stroke-width="0.8" fill="none"/>
-<path d="M466 392 C466 370 468 352 472 344 L488 344 C492 352 494 370 494 392 Z" fill="#e7dcc2" stroke="#333" stroke-width="1.3"/>
+<path d="M472 392 C457 320 427 237 424 196 M470 390 C448 330 415 248 424 196 M474 390 C465 310 438 225 424 196" stroke="#5f7f36" stroke-width="0.8" fill="none"/>
+<path d="M482 392 C478 320 494 240 520 190 C536 250 520 340 492 392 Z" fill="#b5d08a" stroke="#333" stroke-width="1.5"/>
+<path d="M487 392 C499 330 515 245 520 190 M484 390 C488 325 504 242 520 190 M490 390 C509 335 525 248 520 190" stroke="#5f7f36" stroke-width="0.8" fill="none"/>
+<path d="M466 392 C466 370 468 352 472 344 L490 344 C494 352 496 370 496 392 Z" fill="#e7dcc2" stroke="#333" stroke-width="1.3"/>
 <!-- 花葶 -->
-<path d="M492 392 C500 340 520 280 566 236" stroke="#4d6b2a" stroke-width="2" fill="none"/>
-<g stroke="#4d6b2a" stroke-width="1" fill="none"><path d="M506 320 Q514 320 516 328 M514 296 Q522 296 524 304 M524 274 Q532 274 534 282 M536 256 Q544 256 546 264 M550 244 Q558 244 559 251 M562 238 Q568 240 568 246"/></g>
-<use href="#lbell" x="516" y="332"/>
-<use href="#lbell" x="524" y="308"/>
-<use href="#lbell" x="534" y="286"/>
-<use href="#lbell" x="546" y="268"/>
-<use href="#lbell" transform="translate(559 254) scale(0.8)"/>
-<use href="#lbell" transform="translate(568 249) scale(0.65)"/>
+<path d="M494 392 C512 360 548 306 582 262" stroke="#4d6b2a" stroke-width="2" fill="none"/>
+<path d="M516 356 Q527 356 527 362 M527 338 Q538 338 538 344 M540 320 Q551 320 551 326 M552 302 Q563 302 563 308 M566 284 Q575 284 575 290 M577 269 Q585 269 585 275" stroke="#4d6b2a" stroke-width="1" fill="none"/>
+<use href="#lbell" x="527" y="366"/>
+<use href="#lbell" x="538" y="348"/>
+<use href="#lbell" x="551" y="330"/>
+<use href="#lbell" transform="translate(563 312) scale(0.9)"/>
+<use href="#lbell" transform="translate(575 294) scale(0.8)"/>
+<use href="#lbell" transform="translate(585 279) scale(0.65)"/>
 <!-- 根状茎 -->
 <path d="M410 404 H560 C566 404 568 408 568 411 C568 414 566 418 560 418 H410 C404 418 402 414 402 411 C402 408 404 404 410 404 Z" fill="#e7dcc2" stroke="#333" stroke-width="1.3"/>
 <g stroke="#8a7a5a" stroke-width="1" fill="none"><path d="M420 418 Q418 432 412 440 M460 418 Q462 432 458 442 M500 418 Q498 432 504 442 M540 418 Q544 430 540 440"/></g>
@@ -94,18 +94,16 @@
 <circle cx="432" cy="471" r="7" fill="#d62a2a" stroke="#7a1a1a" stroke-width="1"/><circle cx="448" cy="471" r="7" fill="#d62a2a" stroke="#7a1a1a" stroke-width="1"/>
 <text x="480" y="476" font-size="14">浆果<tspan font-weight="bold" fill="#c33">红色</tspan></text>
 <!-- 铃兰标注 -->
-<g stroke="#0b5cad" stroke-width="1" fill="none"><path d="M432 240 L404 180"/><path d="M480 360 L586 350"/><path d="M552 270 L586 268"/></g>
-<g fill="#0b5cad"><circle cx="432" cy="240" r="2.5"/><circle cx="480" cy="360" r="2.5"/><circle cx="552" cy="270" r="2.5"/></g>
+<g stroke="#0b5cad" stroke-width="1" fill="none"><path d="M432 240 L404 180"/><path d="M506 372 L560 362"/><path d="M572 290 L600 276"/><path d="M480 372 L576 410"/></g>
+<g fill="#0b5cad"><circle cx="432" cy="240" r="2.5"/><circle cx="506" cy="372" r="2.5"/><circle cx="572" cy="290" r="2.5"/><circle cx="480" cy="372" r="2.5"/></g>
 <text x="381" y="172" font-size="14">通常只有<tspan font-weight="bold">2片</tspan>宽大的叶</text>
-<text x="586" y="196" font-size="14">花葶从</text>
-<text x="586" y="213" font-size="14">叶基部抽出</text>
-<text x="586" y="252" font-size="14">一串白色</text>
-<text x="586" y="269" font-size="14">小铃铛</text>
-<text x="586" y="286" font-size="14"><tspan font-weight="bold">偏向一侧</tspan></text>
-<text x="586" y="303" font-size="14">有浓香</text>
-<text x="590" y="338" font-size="14"><tspan font-weight="bold">叶从地下</tspan></text>
-<text x="590" y="355" font-size="14"><tspan font-weight="bold">直接长出</tspan></text>
-<text x="590" y="372" font-size="14">叶基有鞘</text>
+<text x="564" y="358" font-size="14">花葶从叶基部抽出</text>
+<text x="604" y="250" font-size="14">一串白色</text>
+<text x="604" y="267" font-size="14">小铃铛</text>
+<text x="604" y="284" font-size="14" font-weight="bold">偏向一侧</text>
+<text x="604" y="301" font-size="14">有浓香</text>
+<text x="580" y="414" font-size="14"><tspan font-weight="bold">叶从地下直接长出</tspan></text>
+<text x="580" y="432" font-size="14">叶基有鞘</text>
 <!-- 对照说明 -->
 <line x1="377" y1="500" x2="698" y2="500" stroke="#ccc" stroke-dasharray="4 3"/>
 <text x="381" y="522" font-size="14" fill="#0b5cad">另两种也要排除</text>
