@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 812" width="720" height="812" role="img" aria-label="疥疮的处理: 就医确诊,按医嘱或说明书使用抗疥疮药物(外用药膏为主)。①药膏要涂满脖子以下全身皮肤,不只涂痒的地方;婴幼儿按医嘱包括头面部;按规定时间保留后再洗掉,通常需要隔一段时间再治疗一次。②同住的家人、密切接触的人要同时治疗,即使没有症状,否则会反复互相传染。衣物和床上用品在治疗当天处理: ③用热水洗涤(50-60°C以上);④在阳光下晒干或用烘干机高温烘干;⑤不能洗的东西(毛绒玩具、厚被子、鞋)装进塑料袋扎紧,存放至少3天,疥螨离开人体2-3天后就会死亡;地面、沙发吸尘或擦拭。治疗后瘙痒可能还会持续2-4周,这是正常的过敏反应,不一定是没治好;超过4周仍有新皮疹,复诊。不要用开水烫皮肤、用盐搓、用强碱肥皂反复洗。" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>疥疮的处理: 全身涂药、全家同治、处理衣物</title>
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<!-- 涂药的人体(正面),原点在两脚之间的地面;粉色 = 涂药范围 -->
+<g id="body">
+<path d="M-18,-142 L-30,-74 M18,-142 L30,-74" stroke="#333" stroke-width="15" stroke-linecap="round"/>
+<path d="M-18,-142 L-30,-74 M18,-142 L30,-74" stroke="#f6c4c4" stroke-width="11" stroke-linecap="round"/>
+<rect x="-21" y="-82" width="19" height="80" rx="8" fill="#f6c4c4" stroke="#333" stroke-width="2"/>
+<rect x="2" y="-82" width="19" height="80" rx="8" fill="#f6c4c4" stroke="#333" stroke-width="2"/>
+<rect x="-24" y="-152" width="48" height="80" rx="14" fill="#f6c4c4" stroke="#333" stroke-width="2.2"/>
+<rect x="-6" y="-164" width="12" height="14" fill="#f3e3d3"/>
+<path d="M-6,-164 V-152 M6,-164 V-152" stroke="#333" stroke-width="2"/>
+<circle cx="0" cy="-178" r="15" fill="#f3e3d3" stroke="#333" stroke-width="2.2"/>
+</g>
+<!-- 全家: 穿衣的小人,身体下部粉色表示涂药 -->
+<g id="pp">
+<path d="M-11,-58 L-17,-22 M11,-58 L17,-22" stroke="#333" stroke-width="10" stroke-linecap="round"/>
+<path d="M-11,-58 L-17,-22 M11,-58 L17,-22" stroke="#f6c4c4" stroke-width="6.5" stroke-linecap="round"/>
+<rect x="-13" y="-30" width="11" height="30" rx="5" fill="#f6c4c4" stroke="#333" stroke-width="1.8"/>
+<rect x="2" y="-30" width="11" height="30" rx="5" fill="#f6c4c4" stroke="#333" stroke-width="1.8"/>
+<rect x="-15" y="-64" width="30" height="40" rx="9" fill="#f6c4c4" stroke="#333" stroke-width="2"/>
+<circle cx="0" cy="-75" r="10" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+</g>
+</defs>
+<text x="360" y="30" font-size="18" fill="#222" text-anchor="middle" font-weight="bold">疥疮的处理: 全身涂药、全家同治、处理衣物</text>
+<text x="360" y="54" font-size="13" fill="#555" text-anchor="middle">先就医确诊,按医嘱或说明书使用抗疥疮药物(外用药膏为主)</text>
+
+<!-- ① 涂满脖子以下全身 -->
+<rect x="8" y="68" width="344" height="344" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<use href="#body" transform="translate(76 302)"/>
+<use href="#body" transform="translate(180 302)"/>
+<path d="M165 124 Q180 102 195 124 Q192 112 180 110 Q168 112 165 124 Z" fill="#5a4636" stroke="#333" stroke-width="1.5"/>
+<path d="M165 124 Q166 104 180 103 Q194 104 195 124 Q186 118 180 118 Q174 118 165 124 Z" fill="#5a4636"/>
+<line x1="40" y1="303" x2="220" y2="303" stroke="#999" stroke-width="2"/>
+<text x="76" y="324" font-size="13" fill="#555" text-anchor="middle">正面</text>
+<text x="180" y="324" font-size="13" fill="#555" text-anchor="middle">背面</text>
+<line x1="28" y1="150" x2="232" y2="150" stroke="#c33" stroke-width="1.5" stroke-dasharray="5 3"/>
+<line x1="232" y1="150" x2="244" y2="150" stroke="#c33" stroke-width="1.5"/>
+<text x="248" y="146" font-size="13" fill="#c33" font-weight="bold">脖子以下</text>
+<text x="248" y="163" font-size="13" fill="#c33" font-weight="bold">全身都涂</text>
+<rect x="248" y="196" width="16" height="16" rx="3" fill="#f6c4c4" stroke="#333" stroke-width="1.5"/>
+<text x="270" y="209" font-size="13" fill="#222">涂药范围</text>
+<text x="248" y="236" font-size="12" fill="#555">不只涂痒的地方</text>
+<line x1="246" y1="104" x2="198" y2="114" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="248" y="96" font-size="12" fill="#0b5cad">婴幼儿按医嘱</text>
+<text x="248" y="112" font-size="12" fill="#0b5cad">包括头面部</text>
+<text x="22" y="352" font-size="15" fill="#222" font-weight="bold">① 药膏涂满脖子以下全身皮肤</text>
+<text x="22" y="373" font-size="13" fill="#222">按规定时间保留后再洗掉;</text>
+<text x="22" y="393" font-size="13" fill="#222">通常需要隔一段时间再治疗一次</text>
+
+<!-- ② 全家同治 -->
+<rect x="368" y="68" width="344" height="344" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<use href="#pp" transform="translate(418 302) scale(1.35)"/>
+<use href="#pp" transform="translate(484 302) scale(1.35)"/>
+<use href="#pp" transform="translate(544 302)"/>
+<use href="#pp" transform="translate(592 302) scale(0.85)"/>
+<line x1="388" y1="303" x2="692" y2="303" stroke="#999" stroke-width="2"/>
+<path d="M392 162 q0 -14 14 -14 h86 q12 0 16 -12 q4 12 16 12 h86 q14 0 14 14" fill="none" stroke="#0b5cad" stroke-width="2.2"/>
+<text x="508" y="124" font-size="16" fill="#0b5cad" text-anchor="middle" font-weight="bold">全家同时治疗</text>
+<line x1="636" y1="234" x2="604" y2="248" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="632" y="212" font-size="12" fill="#0b5cad">没有症状</text>
+<text x="632" y="228" font-size="12" fill="#0b5cad">也要治疗</text>
+<text x="382" y="352" font-size="15" fill="#222" font-weight="bold">② 同住的家人、密切接触的人</text>
+<text x="382" y="373" font-size="15" fill="#222" font-weight="bold">要同时治疗,即使没有症状</text>
+<text x="382" y="393" font-size="13" fill="#c33">否则会反复互相传染</text>
+
+<!-- 衣物 -->
+<text x="14" y="440" font-size="16" fill="#0b5cad" font-weight="bold">衣物和床上用品(治疗当天处理)</text>
+<text x="706" y="440" font-size="13" fill="#222" text-anchor="end">地面、沙发吸尘或擦拭</text>
+
+<!-- ③ 热水洗 -->
+<rect x="8" y="450" width="228" height="216" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<rect x="44" y="478" width="96" height="104" rx="8" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<line x1="44" y1="498" x2="140" y2="498" stroke="#333" stroke-width="1.5"/>
+<circle cx="128" cy="488" r="4" fill="#c33"/>
+<circle cx="92" cy="540" r="30" fill="#cfe0f0" stroke="#333" stroke-width="2.2"/>
+<path d="M70 548 q11 -10 22 0 t22 0" fill="none" stroke="#0b5cad" stroke-width="2"/>
+<path d="M76 538 q8 -10 18 -4 q8 4 16 -2" fill="none" stroke="#9a7aa0" stroke-width="5" stroke-linecap="round"/>
+<rect x="164" y="482" width="14" height="80" rx="7" fill="#fff" stroke="#333" stroke-width="2"/>
+<rect x="168" y="500" width="6" height="62" fill="#c33"/>
+<circle cx="171" cy="568" r="11" fill="#c33" stroke="#333" stroke-width="2"/>
+<text x="186" y="506" font-size="13" fill="#c33" font-weight="bold">热水</text>
+<text x="22" y="612" font-size="15" fill="#222" font-weight="bold">③ 热水洗涤</text>
+<text x="22" y="634" font-size="15" fill="#c33" font-weight="bold">50-60°C以上</text>
+
+<!-- ④ 晒干或烘干 -->
+<rect x="246" y="450" width="228" height="216" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<circle cx="436" cy="484" r="14" fill="#f5c542" stroke="#c99a1a" stroke-width="2"/>
+<path d="M436 462 v-6 M436 506 v6 M414 484 h-6 M458 484 h6 M420 468 l-4 -4 M452 500 l4 4 M452 468 l4 -4 M420 500 l-4 4" stroke="#c99a1a" stroke-width="2" stroke-linecap="round"/>
+<path d="M262 586 V500 M410 586 V500" stroke="#8a6a3a" stroke-width="4" stroke-linecap="round"/>
+<path d="M262 506 Q336 520 410 506" fill="none" stroke="#666" stroke-width="1.5"/>
+<path d="M276 509 L340 516 L338 572 L274 566 Z" fill="#eef3f8" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M276 530 L339 536" stroke="#9ab8d6" stroke-width="2"/>
+<path d="M358 515 l10 -1 q5 6 10 0 l10 -2 l8 12 l-8 5 v26 h-28 v-26 l-8 -5 Z" fill="#f6c4c4" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<line x1="250" y1="587" x2="470" y2="587" stroke="#999" stroke-width="2"/>
+<text x="260" y="612" font-size="15" fill="#222" font-weight="bold">④ 在阳光下晒干,</text>
+<text x="260" y="634" font-size="15" fill="#222" font-weight="bold">或用烘干机高温烘干</text>
+
+<!-- ⑤ 不能洗的装袋 -->
+<rect x="484" y="450" width="228" height="216" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<path d="M512 500 Q506 560 514 584 H602 Q610 560 604 500 Q582 492 558 496 Q534 492 512 500 Z" fill="#f2f6f9" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M548 498 L558 474 L568 498" fill="#f2f6f9" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M548 486 L568 486" stroke="#c33" stroke-width="3" stroke-linecap="round"/>
+<circle cx="542" cy="534" r="7" fill="#c9a26b" stroke="#333" stroke-width="1.5"/>
+<circle cx="560" cy="534" r="7" fill="#c9a26b" stroke="#333" stroke-width="1.5"/>
+<circle cx="551" cy="545" r="13" fill="#c9a26b" stroke="#333" stroke-width="1.8"/>
+<ellipse cx="551" cy="570" rx="15" ry="11" fill="#c9a26b" stroke="#333" stroke-width="1.8"/>
+<circle cx="546" cy="543" r="1.6" fill="#333"/><circle cx="556" cy="543" r="1.6" fill="#333"/>
+<path d="M572 578 v-18 q0 -4 6 -4 h4 q4 0 6 6 l4 6 q10 2 10 10 Z" fill="#666" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="626" y="500" width="64" height="58" rx="5" fill="#fff" stroke="#333" stroke-width="2"/>
+<rect x="626" y="500" width="64" height="16" rx="5" fill="#c33"/>
+<rect x="626" y="510" width="64" height="6" fill="#c33"/>
+<text x="658" y="533" font-size="11" fill="#555" text-anchor="middle">至少</text>
+<text x="658" y="552" font-size="17" fill="#222" text-anchor="middle" font-weight="bold">3天</text>
+<text x="498" y="612" font-size="15" fill="#222" font-weight="bold">⑤ 不能洗的装塑料袋扎紧,</text>
+<text x="498" y="634" font-size="15" fill="#c33" font-weight="bold">存放至少3天</text>
+<text x="498" y="654" font-size="12" fill="#555">毛绒玩具、厚被子、鞋等</text>
+
+<!-- 底部 -->
+<rect x="8" y="680" width="704" height="122" rx="10" fill="#fdf3f3" stroke="#e6b8b8" stroke-width="1.5"/>
+<text x="22" y="704" font-size="14" fill="#222">疥螨离开人体2-3天后就会死亡</text>
+<text x="22" y="730" font-size="14" fill="#222"><tspan fill="#c33" font-weight="bold">⚠️ 治疗后瘙痒可能还会持续2-4周,</tspan>这是正常的过敏反应,不一定是没治好</text>
+<text x="44" y="752" font-size="14" fill="#222">超过4周仍有新皮疹 → 复诊</text>
+<text x="22" y="782" font-size="14" fill="#c33" font-weight="bold">✗ 不要用开水烫皮肤、用盐搓、用强碱肥皂反复洗<tspan fill="#555" font-weight="normal" font-size="13">(会伤皮肤,不能杀虫)</tspan></text>
+</svg>
