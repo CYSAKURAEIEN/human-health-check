@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 830" width="720" height="830" role="img" aria-label="五加皮与香加皮对照示意: 香加皮(北五加皮)是杠柳的根皮,含强心苷,有毒,常冒充五加皮,也混作地骨皮。五加是直立灌木,高2-3 m,枝上有疏生的扁钩刺,掌状复叶,小叶5片(偶3-4片);五加皮药材为不规则卷筒状,外表面灰褐色,有稍扭曲的纵皱纹和横长皮孔样斑痕,内表面淡黄色或灰黄色,有细纵纹,气微香,味微辣而苦。杠柳是缠绕藤本,折断有白色乳汁,叶对生、披针形、光滑无刺;香加皮药材栓皮松软,常呈鳞片状剥落,有浓烈的特异香气(有人形容像冬青油)。有浓烈特殊香气的五加皮、地骨皮不用、不泡酒;中毒可出现恶心呕吐、视物发黄发绿、心跳过慢或心律失常,严重时心跳骤停">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>五加皮与香加皮对照</title>
+<defs>
+<g id="palm"><path d="M0 0 H22" stroke="#4d6b2a" stroke-width="2"/><g fill="#a9c77c" stroke="#333" stroke-width="1.1"><path transform="translate(22 0) rotate(-66)" d="M0 0 C5 -3 14 -8 22 -6 C27 -4 27 4 22 6 C14 8 5 3 0 0Z"/><path transform="translate(22 0) rotate(-33)" d="M0 0 C6 -3 17 -9 26 -7 C32 -5 32 5 26 7 C17 9 6 3 0 0Z"/><path transform="translate(22 0)" d="M0 0 C6 -3 18 -10 28 -7 C35 -5 35 5 28 7 C18 10 6 3 0 0Z"/><path transform="translate(22 0) rotate(33)" d="M0 0 C6 -3 17 -9 26 -7 C32 -5 32 5 26 7 C17 9 6 3 0 0Z"/><path transform="translate(22 0) rotate(66)" d="M0 0 C5 -3 14 -8 22 -6 C27 -4 27 4 22 6 C14 8 5 3 0 0Z"/></g></g>
+<g id="lance"><path d="M0 0 C8 -6 26 -7 44 0 C26 7 8 6 0 0Z" fill="#b5cf88" stroke="#333" stroke-width="1.1"/><path d="M2 0 H40" stroke="#5f7f36" stroke-width="0.8"/></g>
+<path id="spine" d="M0 0 L7 -3 Q4 2 6 6 Z" fill="#6b4a2a"/>
+</defs>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" fill="#222">
+<text x="360" y="30" font-size="18" font-weight="bold" text-anchor="middle">五加皮 vs 香加皮(有毒) 识别要点(示意图)</text>
+<text x="360" y="52" font-size="13" fill="#555" text-anchor="middle">香加皮(北五加皮)常冒充五加皮,也混作地骨皮;它含强心苷——采时看整株,买时先闻气味</text>
+<rect x="10" y="64" width="345" height="580" rx="8" fill="none" stroke="#999" stroke-width="1.5"/>
+<rect x="365" y="64" width="345" height="580" rx="8" fill="none" stroke="#c33" stroke-width="2"/>
+
+<!-- ① 五加 -->
+<text x="26" y="92" font-size="18" font-weight="bold">① 五加皮 <tspan font-size="14" font-weight="normal">(南五加皮)</tspan></text>
+<text x="26" y="112" font-size="13" fill="#555">五加科 细柱五加的根皮 · <tspan font-style="italic">Acanthopanax gracilistylus</tspan></text>
+<line x1="22" y1="372" x2="343" y2="372" stroke="#999" stroke-width="2"/>
+<text x="341" y="366" font-size="12" fill="#888" text-anchor="end">地面</text>
+<g stroke="#6b4a2a" stroke-width="4" fill="none" stroke-linecap="round">
+<path d="M112 372 C110 320 110 260 108 196"/>
+<path d="M110 300 C128 286 144 272 160 262" stroke-width="3"/>
+<path d="M109 246 C96 234 86 222 76 210" stroke-width="3"/>
+</g>
+<use href="#spine" transform="translate(111 342) scale(1.4)"/><use href="#spine" transform="translate(110 320) scale(-1.4 1.4)"/><use href="#spine" transform="translate(110 280) scale(1.4)"/><use href="#spine" transform="translate(109 226) scale(-1.4 1.4)"/><use href="#spine" transform="translate(108 210) scale(1.4)"/>
+<use href="#spine" transform="translate(132 283) rotate(-35) scale(1.3)"/><use href="#spine" transform="translate(92 228) rotate(40) scale(-1.3 1.3)"/>
+<use href="#palm" transform="translate(108 198) rotate(-92) scale(0.9)"/>
+<use href="#palm" transform="translate(160 262) rotate(-8) scale(0.9)"/>
+<use href="#palm" transform="translate(76 212) rotate(-150) scale(0.9)"/>
+<use href="#palm" transform="translate(146 272) rotate(70) scale(0.75)"/>
+<use href="#palm" transform="translate(110 296) rotate(165) scale(0.75)"/>
+<g stroke="#0b5cad" stroke-width="1" fill="#0b5cad">
+<line x1="205" y1="258" x2="226" y2="240"/><circle cx="205" cy="258" r="2.2"/>
+<line x1="116" y1="340" x2="226" y2="322"/><circle cx="116" cy="340" r="2.2"/>
+</g>
+<text x="222" y="150" font-size="15"><tspan font-weight="bold">直立灌木</tspan></text>
+<text x="222" y="169" font-size="13">高2-3 m</text>
+<text x="222" y="214" font-size="15"><tspan font-weight="bold">掌状复叶</tspan></text>
+<text x="222" y="233" font-size="13">小叶5片(偶3-4片)</text>
+<text x="230" y="308" font-size="15">枝上有疏生的</text>
+<text x="230" y="327" font-size="15"><tspan font-weight="bold">扁钩刺</tspan></text>
+<!-- ② 杠柳 -->
+<text x="381" y="92" font-size="18" font-weight="bold" fill="#c33">② 香加皮 <tspan font-size="14" font-weight="normal">(北五加皮)</tspan></text>
+<text x="381" y="112" font-size="13" fill="#555">杠柳的根皮 · <tspan font-style="italic">Periploca sepium</tspan></text>
+<rect x="612" y="74" width="88" height="28" rx="5" fill="#c33"/>
+<text x="656" y="94" font-size="16" font-weight="bold" fill="#fff" text-anchor="middle">☠️ 有毒</text>
+<text x="700" y="122" font-size="13" fill="#c33" text-anchor="end">含杠柳毒苷等强心苷</text>
+<line x1="377" y1="372" x2="698" y2="372" stroke="#999" stroke-width="2"/>
+<rect x="436" y="140" width="8" height="232" fill="#ccc" stroke="#999"/>
+<text x="440" y="134" font-size="11" fill="#888" text-anchor="middle">支撑物</text>
+<path d="M440 372 C462 362 462 344 440 336 C418 328 418 310 440 302 C462 294 462 276 440 268 C418 260 418 242 440 234 C462 226 462 208 440 200 C418 192 418 174 440 166 C452 162 456 156 454 148" stroke="#6b4a2a" stroke-width="3" fill="none"/>
+<use href="#lance" transform="translate(457 319) rotate(-15)"/>
+<use href="#lance" transform="translate(457 319) rotate(195)"/>
+<use href="#lance" transform="translate(423 251) rotate(-15)"/>
+<use href="#lance" transform="translate(423 251) rotate(195)"/>
+<use href="#lance" transform="translate(457 183) rotate(-20) scale(0.8)"/>
+<use href="#lance" transform="translate(457 183) rotate(200) scale(0.8)"/>
+<path d="M457 217 L490 208" stroke="#6b4a2a" stroke-width="2.5"/>
+<path d="M498 206 L528 198" stroke="#6b4a2a" stroke-width="2.5"/>
+<g fill="#fff" stroke="#666" stroke-width="1.2"><circle cx="492" cy="215" r="4"/><circle cx="493" cy="226" r="3.4"/><circle cx="498" cy="212" r="3"/></g>
+<g stroke="#0b5cad" stroke-width="1" fill="#0b5cad">
+<line x1="458" y1="290" x2="548" y2="300"/><circle cx="458" cy="290" r="2.2"/>
+<line x1="456" y1="244" x2="548" y2="244"/><circle cx="456" cy="244" r="2.2"/>
+<line x1="500" y1="220" x2="548" y2="196"/>
+</g>
+<text x="552" y="304" font-size="15"><tspan font-weight="bold">缠绕藤本</tspan></text>
+<text x="552" y="240" font-size="15">叶<tspan font-weight="bold">对生</tspan>、披针形</text>
+<text x="552" y="259" font-size="15">光滑<tspan font-weight="bold">无刺</tspan></text>
+<text x="552" y="182" font-size="15">折断有</text>
+<text x="552" y="201" font-size="15" font-weight="bold" fill="#c33">白色乳汁</text>
+
+<!-- 药材 -->
+<line x1="22" y1="392" x2="343" y2="392" stroke="#ccc" stroke-dasharray="4 3"/>
+<line x1="377" y1="392" x2="698" y2="392" stroke="#ccc" stroke-dasharray="4 3"/>
+<text x="26" y="416" font-size="14" fill="#0b5cad">药材: 根皮(示意)</text>
+<text x="381" y="416" font-size="14" fill="#0b5cad">药材: 根皮(示意)</text>
+<!-- 五加皮卷筒 -->
+<path d="M44 436 C100 432 160 440 214 434 L216 482 C160 488 100 480 44 484 Z" fill="#9a8a78" stroke="#333" stroke-width="1.5"/>
+<ellipse cx="44" cy="460" rx="11" ry="24" fill="#efe0b0" stroke="#333" stroke-width="1.5"/>
+<path d="M44 444 C54 450 54 472 44 476 C36 472 36 456 44 452 C49 456 48 466 44 468" stroke="#7a6a50" stroke-width="1.2" fill="none"/>
+<g stroke="#5e5040" stroke-width="1" fill="none">
+<path d="M58 444 C90 446 120 441 150 445 C175 448 195 442 212 444"/>
+<path d="M56 456 C85 459 110 452 140 457 C170 461 192 454 213 457"/>
+<path d="M56 469 C90 471 118 466 150 470 C176 473 196 467 214 470"/>
+</g>
+<g fill="#5e5040"><ellipse cx="78" cy="463" rx="1.6" ry="5"/><ellipse cx="112" cy="448" rx="1.6" ry="5"/><ellipse cx="128" cy="472" rx="1.6" ry="5"/><ellipse cx="166" cy="452" rx="1.6" ry="5"/><ellipse cx="190" cy="469" rx="1.6" ry="5"/></g>
+<!-- 内表面 -->
+<path d="M60 510 C110 500 160 500 210 510 L206 540 C160 532 110 532 64 540 Z" fill="#efe0b0" stroke="#333" stroke-width="1.5"/>
+<g stroke="#b9a26a" stroke-width="0.8" fill="none"><path d="M70 518 C120 510 160 510 204 518"/><path d="M68 526 C118 518 160 518 205 526"/><path d="M66 533 C116 526 160 526 206 533"/></g>
+<g stroke="#0b5cad" stroke-width="1" fill="#0b5cad">
+<line x1="214" y1="440" x2="232" y2="430"/>
+<line x1="150" y1="445" x2="232" y2="458"/><circle cx="150" cy="445" r="2.2"/>
+<line x1="190" y1="469" x2="232" y2="486"/><circle cx="190" cy="469" r="2.2"/>
+<line x1="205" y1="525" x2="232" y2="525"/><circle cx="205" cy="525" r="2.2"/>
+</g>
+<text x="236" y="434" font-size="13">不规则卷筒状</text>
+<text x="236" y="456" font-size="13">外表面灰褐色,</text>
+<text x="236" y="472" font-size="13">稍扭曲的纵皱纹</text>
+<text x="236" y="492" font-size="13">横长皮孔样斑痕</text>
+<text x="236" y="522" font-size="13">内表面淡黄色</text>
+<text x="236" y="538" font-size="13">或灰黄色,细纵纹</text>
+<!-- 五加皮气味 -->
+<rect x="22" y="560" width="321" height="70" rx="6" fill="#f4f4f4"/>
+<text x="182" y="588" font-size="16" text-anchor="middle">气味: <tspan font-weight="bold">气微香</tspan></text>
+<text x="182" y="612" font-size="15" text-anchor="middle">味微辣而苦</text>
+
+<!-- 香加皮卷筒 -->
+<path d="M399 436 C455 432 515 440 569 434 L571 482 C515 488 455 480 399 484 Z" fill="#a89070" stroke="#333" stroke-width="1.5"/>
+<ellipse cx="399" cy="460" rx="11" ry="24" fill="#efe0b0" stroke="#333" stroke-width="1.5"/>
+<path d="M399 444 C409 450 409 472 399 476 C391 472 391 456 399 452 C404 456 403 466 399 468" stroke="#7a6a50" stroke-width="1.2" fill="none"/>
+<g fill="#c9b08a" stroke="#6b5636" stroke-width="1">
+<path d="M414 440 L436 437 L440 452 L420 456 Z"/>
+<path d="M444 441 L470 440 L468 458 L446 456 Z"/>
+<path d="M418 462 L442 460 L446 478 L416 480 Z"/>
+<path d="M478 438 L502 440 L500 454 L476 456 Z"/>
+<path d="M452 462 L480 461 L478 478 L454 479 Z"/>
+<path d="M508 443 L534 440 L536 458 L510 459 Z"/>
+<path d="M488 462 L514 464 L512 480 L486 478 Z"/>
+<path d="M542 438 L566 437 L566 456 L544 457 Z"/>
+<path d="M522 466 L548 462 L552 478 L524 480 Z" transform="rotate(-14 537 471) translate(4 6)"/>
+</g>
+<g fill="#c9b08a" stroke="#6b5636" stroke-width="1">
+<path d="M520 496 L534 494 L536 504 L522 506 Z" transform="rotate(20 528 500)"/>
+<path d="M546 504 L556 503 L557 511 L547 512 Z" transform="rotate(-25 551 507)"/>
+<path d="M500 508 L510 507 L511 514 L501 515 Z"/>
+</g>
+<g stroke="#0b5cad" stroke-width="1" fill="#0b5cad">
+<line x1="545" y1="476" x2="590" y2="452"/><circle cx="545" cy="476" r="2.2"/>
+<line x1="535" y1="502" x2="590" y2="486"/><circle cx="535" cy="502" r="2.2"/>
+</g>
+<text x="594" y="448" font-size="14" font-weight="bold">栓皮松软</text>
+<text x="594" y="474" font-size="14">常呈<tspan font-weight="bold">鳞片状</tspan></text>
+<text x="594" y="492" font-size="14" font-weight="bold">剥落</text>
+<!-- 香气 -->
+<g stroke="#c33" stroke-width="2" fill="none" stroke-linecap="round">
+<path d="M420 528 C412 520 428 514 420 506"/>
+<path d="M450 532 C442 522 458 516 450 506"/>
+<path d="M480 528 C472 520 488 514 480 506"/>
+</g>
+<rect x="377" y="546" width="321" height="84" rx="6" fill="#fdecec" stroke="#c33" stroke-width="1"/>
+<text x="537" y="580" font-size="16" text-anchor="middle" fill="#c33">气味: <tspan font-weight="bold">有浓烈的特异香气</tspan></text>
+<text x="537" y="606" font-size="14" text-anchor="middle">(有人形容像冬青油)</text>
+
+<!-- 底部 -->
+<rect x="10" y="656" width="700" height="162" rx="8" fill="#fdecec" stroke="#c33" stroke-width="2"/>
+<text x="360" y="686" font-size="17" font-weight="bold" fill="#c33" text-anchor="middle">闻到浓烈特殊香气的"五加皮""地骨皮",很可能是香加皮——不用</text>
+<text x="360" y="712" font-size="14" text-anchor="middle">五加皮只是气微香,地骨皮气微;带刺的直立灌木 ≠ 有白色乳汁的缠绕藤本</text>
+<text x="360" y="738" font-size="14" text-anchor="middle">中毒表现: 恶心呕吐、视物发黄发绿、<tspan font-weight="bold">心跳过慢或心律失常</tspan>,严重时心跳骤停</text>
+<text x="360" y="760" font-size="13" fill="#555" text-anchor="middle">服地高辛等强心药的人风险更大</text>
+<text x="360" y="788" font-size="15" font-weight="bold" fill="#c33" text-anchor="middle">❌ 不要自己买"五加皮"泡药酒;认不准不采、不用</text>
+<text x="360" y="808" font-size="13" fill="#555" text-anchor="middle">用不用、用多少,在中医师指导下决定</text>
+</g>
+</svg>

@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 830" width="720" height="830" role="img" aria-label="冬虫夏草真品与常见伪品示意: 冬虫夏草是国家二级保护野生植物,只买不采,本图只用于识别买来的虫草真假。真品由虫体和子座两部分组成: 虫体像蚕,长3-5 cm,表面深黄色至黄棕色,有环纹20-30个,近头部的环纹较细,头部红棕色,足8对,中部4对较明显;断面淡黄白色,中间常可见黑色V形或点状消化道;子座从虫头部长出,细长圆柱形,长4-7 cm,深棕色至棕褐色,上部稍膨大;气微腥,味微苦。伪品: 地蚕是植物块茎,纺锤形,有4-15个环节,没有足、没有头、没有子座,断面类白色,味甜;面粉、豆粉、石膏模压品每条形状、环纹、足都一模一样,断面均匀、没有消化道黑点,泡水变软散开,滴碘酒变蓝;插铁丝、竹签、铅丝增重或用胶水粘接断草的,用磁铁吸、对光看、掰开看接口,同等大小明显偏重的要怀疑。冬虫夏草砷含量较高,不长期大量吃">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>冬虫夏草真品与常见伪品</title>
+<defs>
+<g id="mini">
+<path d="M0 -10 C20 -12 50 -11 74 -8 C80 -7 82 7 74 8 C50 11 20 12 0 10 Z" fill="#d9b65a" stroke="#333" stroke-width="1.2"/>
+<ellipse cx="-4" cy="0" rx="6" ry="9" fill="#a4502e" stroke="#333" stroke-width="1.2"/>
+<path d="M8 -10 V10 M16 -10.5 V10.5 M24 -11 V11 M32 -11 V11 M40 -11 V11 M48 -10.5 V10.5 M56 -10 V10 M64 -9.5 V9.5 M71 -9 V9" stroke="#8a6a2a" stroke-width="0.9"/>
+<path d="M6 10 q3 4 6 0 M14 10.5 q3 4 6 0 M30 11 q3 5 6 0 M40 11 q3 5 6 0 M50 10.5 q3 5 6 0 M60 10 q3 5 6 0 M72 8 q3 4 6 0" stroke="#333" stroke-width="1" fill="#d9b65a"/>
+<path d="M-6 -8 C-9 -30 -4 -50 -8 -66" stroke="#6b4a2a" stroke-width="3.5" fill="none"/>
+<ellipse cx="-8" cy="-68" rx="3" ry="9" fill="#5a3d22"/>
+</g>
+</defs>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" fill="#222">
+<text x="360" y="30" font-size="18" font-weight="bold" text-anchor="middle">冬虫夏草 真品与常见伪品(示意图)</text>
+<text x="360" y="52" font-size="13" fill="#c33" text-anchor="middle">国家二级保护野生植物: 只买不采——本图只用来识别买到的虫草真假(比例为示意)</text>
+
+<!-- ① 真品 -->
+<rect x="10" y="66" width="700" height="310" rx="8" fill="none" stroke="#999" stroke-width="1.5"/>
+<text x="26" y="94" font-size="18" font-weight="bold">① 真品: 下面是"虫",上面是"草"</text>
+<!-- 子座 -->
+<path d="M150 288 C144 250 152 200 146 150" stroke="#6b4a2a" stroke-width="8" fill="none" stroke-linecap="round"/>
+<ellipse cx="146" cy="138" rx="7" ry="22" fill="#5a3d22" stroke="#333" stroke-width="1"/>
+<!-- 虫体 -->
+<path d="M160 282 C220 278 300 280 350 286 C366 289 372 300 364 308 C340 318 230 320 160 318 Z" fill="#d9b65a" stroke="#333" stroke-width="1.6"/>
+<ellipse cx="152" cy="300" rx="14" ry="17" fill="#a4502e" stroke="#333" stroke-width="1.6"/>
+<g stroke="#8a6a2a" stroke-width="1.1" fill="none">
+<path d="M168 282 V318 M175 282 V318 M182 281.5 V318.5 M189 281 V319 M196 281 V319"/>
+<path d="M204 280.5 V319.5 M213 280 V320 M222 280 V320 M231 280 V320 M240 280 V320 M249 280 V320 M258 280.5 V320 M267 281 V320 M276 281 V320 M285 281.5 V319.5 M294 282 V319 M303 282.5 V318.5 M312 283 V318 M321 284 V317 M330 284.5 V316 M339 285.5 V314 M348 287 V312 M356 289 V310"/>
+</g>
+<g fill="#d9b65a" stroke="#333" stroke-width="1.2">
+<path d="M166 318 q3 5 6 0"/><path d="M178 318.5 q3 5 6 0"/><path d="M190 319 q3 5 6 0"/>
+<path d="M232 320 q4.5 8 9 0"/><path d="M252 320 q4.5 8 9 0"/><path d="M272 320 q4.5 8 9 0"/><path d="M292 319 q4.5 8 9 0"/>
+<path d="M352 311 q3 5 6 0"/>
+</g>
+<!-- 标注 -->
+<g stroke="#0b5cad" stroke-width="1" fill="#0b5cad">
+<line x1="152" y1="180" x2="186" y2="168"/><circle cx="152" cy="180" r="2.2"/>
+<line x1="146" y1="126" x2="186" y2="124"/><circle cx="146" cy="126" r="2.2"/>
+<line x1="140" y1="292" x2="98" y2="266"/><circle cx="140" cy="292" r="2.2"/>
+<line x1="320" y1="296" x2="384" y2="244"/><circle cx="320" cy="296" r="2.2"/>
+<line x1="185" y1="298" x2="200" y2="356"/><circle cx="185" cy="298" r="2.2"/>
+<line x1="276" y1="326" x2="384" y2="330"/><circle cx="276" cy="326" r="2.2"/>
+</g>
+<text x="190" y="128" font-size="14">上部稍膨大</text>
+<text x="190" y="164" font-size="15"><tspan font-weight="bold">子座</tspan>: 从虫<tspan font-weight="bold">头部</tspan>长出</text>
+<text x="190" y="183" font-size="13">细长圆柱形,长4-7 cm</text>
+<text x="190" y="200" font-size="13">深棕色至棕褐色</text>
+<text x="26" y="248" font-size="15" font-weight="bold">头部</text>
+<text x="26" y="266" font-size="15" font-weight="bold">红棕色</text>
+<text x="388" y="222" font-size="15"><tspan font-weight="bold">虫体像蚕</tspan>,长3-5 cm</text>
+<text x="388" y="241" font-size="13">深黄色至黄棕色</text>
+<text x="388" y="260" font-size="13"><tspan font-weight="bold">环纹20-30个</tspan></text>
+<text x="388" y="328" font-size="15"><tspan font-weight="bold">足8对</tspan>,中部4对较明显</text>
+<text x="388" y="356" font-size="13" fill="#555">气微腥,味微苦</text>
+<text x="150" y="370" font-size="13">近头部环纹较细</text>
+<!-- 断面 -->
+<rect x="548" y="82" width="150" height="176" rx="6" fill="none" stroke="#0b5cad" stroke-width="1" stroke-dasharray="5 3"/>
+<text x="623" y="102" font-size="13" fill="#0b5cad" text-anchor="middle">虫体断面(放大示意)</text>
+<circle cx="623" cy="150" r="34" fill="#f3ead0" stroke="#333" stroke-width="1.6"/>
+<path d="M613 142 L623 158 L633 142" stroke="#222" stroke-width="3.5" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="623" y="204" font-size="13" text-anchor="middle">淡黄白色,中间常见</text>
+<text x="623" y="222" font-size="13" text-anchor="middle"><tspan font-weight="bold">黑色"V"形或点状</tspan></text>
+<text x="623" y="240" font-size="13" text-anchor="middle">消化道(经验)</text>
+
+<!-- ② 地蚕 -->
+<rect x="10" y="390" width="228" height="262" rx="8" fill="none" stroke="#c33" stroke-width="2"/>
+<text x="24" y="416" font-size="16" font-weight="bold" fill="#c33">② 地蚕</text>
+<text x="24" y="436" font-size="12" fill="#555">唇形科植物地蚕、草石蚕的块茎</text>
+<path d="M44 490 C70 470 170 470 200 490 C170 510 70 510 44 490 Z" fill="#efe6d0" stroke="#333" stroke-width="1.5"/>
+<g stroke="#9a8a6a" stroke-width="1.2" fill="none"><path d="M70 478 C66 486 66 494 70 502"/><path d="M90 474 C86 484 86 496 90 506"/><path d="M110 473 C106 483 106 497 110 507"/><path d="M130 473 C126 483 126 497 130 507"/><path d="M150 474 C146 484 146 496 150 506"/><path d="M170 477 C166 486 166 494 170 503"/></g>
+<text x="124" y="530" font-size="13" text-anchor="middle">纺锤形,有4-15个环节</text>
+<text x="124" y="556" font-size="14" font-weight="bold" fill="#c33" text-anchor="middle">没有足、没有头</text>
+<text x="124" y="576" font-size="14" font-weight="bold" fill="#c33" text-anchor="middle">没有子座</text>
+<text x="124" y="602" font-size="13" text-anchor="middle">断面类白色</text>
+<text x="124" y="622" font-size="13" text-anchor="middle">味甜</text>
+
+<!-- ③ 模压 -->
+<rect x="246" y="390" width="228" height="262" rx="8" fill="none" stroke="#c33" stroke-width="2"/>
+<text x="260" y="416" font-size="16" font-weight="bold" fill="#c33">③ 模压品</text>
+<text x="260" y="436" font-size="12" fill="#555">面粉、豆粉、石膏用模具压制</text>
+<use href="#mini" transform="translate(274 494) scale(0.6)"/>
+<use href="#mini" transform="translate(340 494) scale(0.6)"/>
+<use href="#mini" transform="translate(406 494) scale(0.6)"/>
+<text x="360" y="522" font-size="13" text-anchor="middle">每条形状、环纹、足</text>
+<text x="360" y="540" font-size="14" font-weight="bold" fill="#c33" text-anchor="middle">一模一样,过分整齐</text>
+<circle cx="282" cy="572" r="14" fill="#efe9dc" stroke="#333" stroke-width="1.2"/>
+<text x="304" y="568" font-size="13">断面均匀,</text>
+<text x="304" y="584" font-size="13">没有消化道黑点</text>
+<text x="360" y="608" font-size="13" text-anchor="middle">泡水后变软、散开</text>
+<text x="360" y="628" font-size="13" text-anchor="middle">滴碘酒变蓝(含淀粉)</text>
+
+<!-- ④ 增重粘接 -->
+<rect x="482" y="390" width="228" height="262" rx="8" fill="none" stroke="#c33" stroke-width="2"/>
+<text x="496" y="416" font-size="16" font-weight="bold" fill="#c33">④ 增重、粘接</text>
+<text x="496" y="436" font-size="12" fill="#555">插铁丝、竹签、铅丝;胶水粘断草</text>
+<use href="#mini" transform="translate(530 510) scale(0.9)"/>
+<path d="M528 510 H594" stroke="#555" stroke-width="2" stroke-dasharray="5 3"/>
+<path d="M519 478 H529" stroke="#c33" stroke-width="2"/>
+<ellipse cx="524" cy="478" rx="5" ry="2.5" fill="#f5e9a0" stroke="#c33" stroke-width="1"/>
+<!-- 磁铁 -->
+<path d="M650 488 h-14 a14 14 0 0 0 0 28 h14 v-8 h-14 a6 6 0 0 1 0 -12 h14 z" fill="#c33" stroke="#333" stroke-width="1"/>
+<rect x="644" y="488" width="8" height="8" fill="#ddd" stroke="#333" stroke-width="1"/>
+<rect x="644" y="508" width="8" height="8" fill="#ddd" stroke="#333" stroke-width="1"/>
+<g stroke="#0b5cad" stroke-width="1" fill="#0b5cad">
+<line x1="580" y1="510" x2="592" y2="530"/><circle cx="580" cy="510" r="2.2"/>
+<line x1="529" y1="478" x2="560" y2="470"/><circle cx="529" cy="478" r="2"/>
+</g>
+<text x="596" y="546" font-size="13" text-anchor="middle">体内插的金属: 磁铁吸、对光看</text>
+<text x="564" y="474" font-size="12">胶水粘的接口:</text>
+<text x="564" y="490" font-size="12">掰开看</text>
+<text x="596" y="590" font-size="14" font-weight="bold" fill="#c33" text-anchor="middle">同等大小明显偏重</text>
+<text x="596" y="610" font-size="14" font-weight="bold" fill="#c33" text-anchor="middle">的要怀疑</text>
+
+<!-- 底部 -->
+<rect x="10" y="666" width="700" height="154" rx="8" fill="#fdecec" stroke="#c33" stroke-width="2"/>
+<text x="360" y="694" font-size="16" font-weight="bold" fill="#c33" text-anchor="middle">🛡️ 采集、出售、收购须依法取得许可——不采挖野生虫草</text>
+<text x="360" y="720" font-size="13" text-anchor="middle">亚香棒虫草等其他虫草: 虫体多有灰白色或类白色菌膜,环纹和足不如正品清楚,子座常有分枝或颜色不同</text>
+<text x="360" y="742" font-size="13" text-anchor="middle">"虫草花"是蛹虫草的子实体,橙黄色,和冬虫夏草不是一种东西</text>
+<text x="360" y="772" font-size="15" font-weight="bold" fill="#c33" text-anchor="middle">冬虫夏草砷含量较高,不当保健品长期大量吃</text>
+<text x="360" y="796" font-size="14" text-anchor="middle">价格极高、功效被过度宣传,不能代替任何正规治疗</text>
+</g>
+</svg>
