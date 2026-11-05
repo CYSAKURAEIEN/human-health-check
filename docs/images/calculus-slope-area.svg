@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 690" width="720" height="690" role="img" aria-label="导数和积分。①导数是切线的斜率,函数在最大值处导数等于0、切线是水平的。例: 边长 a 的正方形铁皮四角各剪去边长 x 的小正方形,折成无盖的盒子,容积 V = x × (a - 2x)²,V' = (a - 2x)(a - 6x),令 V' = 0 得 x = a/6(x = a/2 时盒子没有底,舍去),剪去边长的1/6时容积最大。②定积分是曲线下方、a 到 b 之间的面积,等于 F(b) - F(a)。③没有公式时用梯形法: 测量不规则田地,每隔距离 h 量一次宽度 f₀、f₁ … fₙ,面积 ≈ h × [f₀/2 + f₁ + f₂ + … + fₙ₋₁ + fₙ/2]" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>导数是切线的斜率,积分是曲线下的面积</title>
+<defs>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<marker id="arK" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#333"/></marker>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">导数是切线的斜率,积分是曲线下的面积</text>
+
+<!-- ① 导数: 盒子容积 V = x(a-2x)²,按 a = 6 画: 横坐标 60 + 110x,纵坐标 290 - 11V -->
+<rect x="10" y="42" width="700" height="306" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="24" y="68" font-size="16" font-weight="bold">① 导数 = 切线的斜率: 求最大值</text>
+<path d="M60 92 V290 H408" fill="none" stroke="#333" stroke-width="2" marker-start="url(#arK)" marker-end="url(#arK)"/>
+<text x="46" y="106" font-size="15" font-weight="bold" text-anchor="middle">V</text>
+<text x="412" y="282" font-size="15" font-weight="bold">x</text>
+<path d="M170 114 V290" stroke="#0b5cad" stroke-width="1.5" stroke-dasharray="4 4"/>
+<g font-size="14" text-anchor="middle">
+<text x="60" y="308">0</text><text x="170" y="308" font-weight="bold" fill="#c33">a/6</text><text x="390" y="308">a/2</text>
+</g>
+<path d="M390 290 v5" stroke="#333" stroke-width="2"/>
+<path d="M60 290 L65.5 270.9 L71 253 L76.5 236.4 L82 221 L87.5 206.8 L93 193.8 L98.5 181.9 L104 171 L109.5 161.3 L115 152.5 L120.5 144.7 L126 137.9 L131.5 132.1 L137 127.1 L142.5 122.9 L148 119.6 L153.5 117.1 L159 115.4 L164.5 114.3 L170 114 L175.5 114.3 L181 115.3 L186.5 116.8 L192 118.9 L197.5 121.6 L203 124.7 L208.5 128.3 L214 132.3 L219.5 136.7 L225 141.5 L230.5 146.6 L236 152 L241.5 157.7 L247 163.6 L252.5 169.7 L258 176 L263.5 182.3 L269 188.8 L274.5 195.4 L280 202 L285.5 208.6 L291 215.2 L296.5 221.7 L302 228 L307.5 234.3 L313 240.4 L318.5 246.3 L324 252 L329.5 257.4 L335 262.5 L340.5 267.3 L346 271.7 L351.5 275.7 L357 279.3 L362.5 282.4 L368 285.1 L373.5 287.2 L379 288.7 L384.5 289.7 L390 290" fill="none" stroke="#333" stroke-width="3" stroke-linejoin="round"/>
+<!-- 切线 -->
+<g stroke="#c33" stroke-width="2.5" stroke-linecap="round">
+<path d="M68.8 248.7 L120.5 131.4"/>
+<path d="M122 114 H218"/>
+</g>
+<circle cx="93" cy="193.8" r="4.5" fill="#c33"/>
+<circle cx="170" cy="114" r="5" fill="#c33"/>
+<g font-size="13" fill="#c33">
+<text x="88" y="230">切线的斜率</text>
+<text x="88" y="248">= 该点的导数</text>
+</g>
+<text x="232" y="110" font-size="13" fill="#c33">最大值处导数 = 0,</text>
+<text x="232" y="128" font-size="13" fill="#c33">切线是水平的</text>
+<text x="234" y="326" font-size="13" fill="#555" text-anchor="middle">横轴 x: 四角剪去的边长;纵轴 V: 盒子的容积</text>
+<!-- 铁皮和盒子 -->
+<path d="M444 90 H554 V200 H444 Z M462 90 V108 H444 M536 90 V108 H554 M462 200 V182 H444 M536 200 V182 H554" fill="none" stroke="#333" stroke-width="2"/>
+<g fill="#f6d5d5" stroke="#c33" stroke-width="1.2">
+<rect x="444" y="90" width="18" height="18"/><rect x="536" y="90" width="18" height="18"/>
+<rect x="444" y="182" width="18" height="18"/><rect x="536" y="182" width="18" height="18"/>
+</g>
+<path d="M462 108 H536 V182 H462 Z" fill="none" stroke="#999" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="453" y="85" font-size="14" font-weight="bold" fill="#c33" text-anchor="middle">x</text>
+<path d="M444 212 H554" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB)" marker-end="url(#arB)"/>
+<text x="499" y="228" font-size="14" font-weight="bold" fill="#0b5cad" text-anchor="middle">a</text>
+<path d="M566 145 H592" stroke="#333" stroke-width="2" marker-end="url(#arK)"/>
+<g stroke="#333" stroke-width="2" stroke-linejoin="round">
+<path d="M600 150 L622 134 H696 L674 150 Z" fill="#8a96a3"/>
+<path d="M622 134 V150" stroke-width="1.2"/>
+<path d="M600 150 H674 V170 H600 Z" fill="#dfe7ef"/>
+<path d="M674 150 L696 134 V154 L674 170 Z" fill="#c9d6e3"/>
+</g>
+<text x="594" y="168" font-size="13" fill="#c33" text-anchor="end">高 x</text>
+<text x="648" y="196" font-size="13" text-anchor="middle">折成无盖的盒子</text>
+<g font-size="14">
+<text x="444" y="254">V = x × (a - 2x)²</text>
+<text x="444" y="276">V' = (a - 2x)(a - 6x)</text>
+<text x="444" y="298">令 V' = 0 → x = a/6</text>
+<text x="444" y="316" font-size="12" fill="#555">(x = a/2 时盒子没有底,舍去)</text>
+<text x="444" y="338" font-weight="bold" fill="#c33">剪去边长的1/6时容积最大</text>
+</g>
+
+<!-- ② 定积分 = 面积: 横坐标 40 + 50t,纵坐标 580 - 40f -->
+<rect x="10" y="362" width="344" height="314" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="24" y="388" font-size="16" font-weight="bold">② 定积分 = 曲线下方的面积</text>
+<path d="M115 580 L115 467.3 L120 464.3 L125 461.5 L130 459.1 L135 457 L140 455.3 L145 453.9 L150 452.9 L155 452.2 L160 452 L165 452.2 L170 452.7 L175 453.6 L180 454.9 L185 456.6 L190 458.6 L195 460.9 L200 463.6 L205 466.5 L210 469.8 L215 473.2 L220 476.9 L225 480.8 L230 484.8 L235 489 L240 493.2 L245 497.5 L250 501.8 L255 506.1 L260 510.4 L265 514.6 L270 518.6 L275 522.5 L280 526.2 L285 529.7 L290 533 L290 580 Z" fill="#cfe0f0" stroke="#0b5cad" stroke-width="1.5"/>
+<path d="M40 410 V580 H342" fill="none" stroke="#333" stroke-width="2" marker-start="url(#arK)" marker-end="url(#arK)"/>
+<path d="M40 527.1 L50 519.6 L60 511.4 L70 502.9 L80 494.3 L90 485.8 L100 477.8 L110 470.6 L120 464.3 L130 459.1 L140 455.3 L150 452.9 L160 452 L170 452.7 L180 454.9 L190 458.6 L200 463.6 L210 469.8 L220 476.9 L230 484.8 L240 493.2 L250 501.8 L260 510.4 L270 518.6 L280 526.2 L290 533 L300 538.7 L310 543.2 L320 546.2 L330 547.8 L338 548" fill="none" stroke="#333" stroke-width="3" stroke-linejoin="round"/>
+<text x="166" y="440" font-size="14" font-weight="bold">y = f(x)</text>
+<text x="202" y="530" font-size="16" font-weight="bold" fill="#0b5cad" text-anchor="middle">面积</text>
+<g font-size="15" font-weight="bold" text-anchor="middle"><text x="115" y="598">a</text><text x="290" y="598">b</text></g>
+<text x="346" y="598" font-size="14" font-weight="bold" text-anchor="end">x</text>
+<g font-size="14">
+<text x="28" y="628">面积 = ∫ f(x) dx(从 a 到 b)</text>
+<text x="70" y="650">= F(b) - F(a)</text>
+<text x="28" y="668" font-size="12" fill="#555">F 是 f 的不定积分</text>
+</g>
+
+<!-- ③ 梯形法 -->
+<rect x="366" y="362" width="344" height="314" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="380" y="388" font-size="16" font-weight="bold">③ 没有公式时: 梯形法</text>
+<text x="380" y="410" font-size="13" fill="#555">例: 测量不规则田地,每隔一段距离量一次宽度</text>
+<path d="M400 469.2 L404.6 464.8 L409.2 460.7 L413.8 457.1 L418.4 454.1 L423 451.9 L427.6 450.5 L432.2 449.9 L436.8 449.9 L441.4 450.6 L446 451.6 L450.6 452.9 L455.2 454.2 L459.8 455.4 L464.4 456.3 L469 456.8 L473.6 456.9 L478.2 456.5 L482.8 455.8 L487.4 454.8 L492 453.6 L496.6 452.5 L501.2 451.5 L505.8 450.9 L510.4 450.6 L515 450.9 L519.6 451.6 L524.2 452.8 L528.8 454.4 L533.4 456.2 L538 458 L542.6 459.7 L547.2 461 L551.8 462 L556.4 462.3 L561 462 L565.6 461 L570.2 459.4 L574.8 457.3 L579.4 454.8 L584 452.2 L588.6 449.6 L593.2 447.3 L597.8 445.4 L602.4 444.2 L607 443.6 L611.6 443.8 L616.2 444.8 L620.8 446.4 L625.4 448.6 L630 451.2 L634.6 454.1 L639.2 457 L643.8 459.8 L648.4 462.3 L653 464.5 L657.6 466.3 L662.2 467.7 L666.8 468.8 L671.4 469.7 L676 470.5 L676 565.8 L671.4 562.7 L666.8 559.6 L662.2 556.6 L657.6 553.9 L653 551.7 L648.4 550.1 L643.8 549.1 L639.2 548.8 L634.6 549 L630 549.7 L625.4 550.7 L620.8 551.8 L616.2 552.9 L611.6 553.7 L607 554.3 L602.4 554.4 L597.8 554 L593.2 553.2 L588.6 551.9 L584 550.4 L579.4 548.8 L574.8 547.3 L570.2 546 L565.6 545.1 L561 544.7 L556.4 545 L551.8 545.9 L547.2 547.5 L542.6 549.7 L538 552.3 L533.4 555.3 L528.8 558.3 L524.2 561.2 L519.6 563.9 L515 566.1 L510.4 567.8 L505.8 568.9 L501.2 569.5 L496.6 569.5 L492 569.1 L487.4 568.4 L482.8 567.7 L478.2 567 L473.6 566.5 L469 566.5 L464.4 566.9 L459.8 567.7 L455.2 569.1 L450.6 570.9 L446 572.9 L441.4 575.1 L436.8 577.2 L432.2 579.1 L427.6 580.5 L423 581.4 L418.4 581.7 L413.8 581.2 L409.2 580.1 L404.6 578.3 L400 576.1 Z" fill="#e3f0d8" stroke="#5b7f3f" stroke-width="2" stroke-linejoin="round"/>
+<path d="M400 469.2 L446 451.6 L492 453.6 L538 458 L584 452.2 L630 451.2 L676 470.5 L676 565.8 L630 549.7 L584 550.4 L538 552.3 L492 569.1 L446 572.9 L400 576.1 Z" fill="none" stroke="#c33" stroke-width="1.5" stroke-dasharray="5 3" stroke-linejoin="round"/>
+<g stroke="#0b5cad" stroke-width="1.8">
+<path d="M400 469.2 V576.1 M446 451.6 V572.9 M492 453.6 V569.1 M538 458 V552.3 M584 452.2 V550.4 M630 451.2 V549.7 M676 470.5 V565.8"/>
+</g>
+<g font-size="14" font-weight="bold" fill="#0b5cad" text-anchor="middle">
+<text x="400" y="438">f₀</text><text x="446" y="438">f₁</text><text x="492" y="438">f₂</text><text x="538" y="438">f₃</text><text x="584" y="438">f₄</text><text x="630" y="438">f₅</text><text x="676" y="438">f₆</text>
+</g>
+<path d="M400 594 H446" stroke="#333" stroke-width="1.5" marker-start="url(#arK)" marker-end="url(#arK)"/>
+<text x="423" y="612" font-size="14" font-weight="bold" text-anchor="middle">h</text>
+<path d="M600 596 H624" stroke="#c33" stroke-width="1.5" stroke-dasharray="5 3"/>
+<text x="630" y="601" font-size="12" fill="#c33">梯形近似</text>
+<g font-size="13">
+<text x="380" y="636">面积 ≈ h × [f₀/2 + f₁ + f₂ + … + fₙ₋₁ + fₙ/2]</text>
+<text x="380" y="658" fill="#555">(图中 n = 6;辛普森法更准)</text>
+</g>
+</g>
+</svg>

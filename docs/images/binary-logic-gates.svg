@@ -1,0 +1,188 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 866" width="720" height="866" role="img" aria-label="二进制和逻辑电路。①二进制逢二进一,每一位的位值从右到左是1、2、4、8: 1011 = 1×8 + 0×4 + 1×2 + 1×1 = 11;十进制转二进制要反复除以2,倒着写出余数: 13 → 1101。②用开关理解逻辑: 与是两个开关串联,都闭合灯才亮;或是两个开关并联,任一闭合灯就亮;非是继电器的常闭触点,线圈通电时反而断开,附真值表。③半加器: 和 = A 异或 B,进位 = A 与 B,1 + 1 = 10;例 0110 + 0011 = 1001,即6 + 3 = 9;全加器再加上来自低位的进位" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>二进制和逻辑电路</title>
+<defs>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<marker id="arK" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#333"/></marker>
+<!-- 电池(竖直导线上,长线为正极) -->
+<g id="cell">
+<rect x="-14" y="-8" width="28" height="16" fill="#fff"/>
+<path d="M-12 -4 H12" stroke="#333" stroke-width="2"/>
+<path d="M-6 4 H6" stroke="#333" stroke-width="4"/>
+</g>
+<!-- 灯(竖直导线上) -->
+<g id="lamp">
+<circle r="12" fill="#fff8d0" stroke="#333" stroke-width="2"/>
+<path d="M-8.5 -8.5 L8.5 8.5 M-8.5 8.5 L8.5 -8.5" stroke="#333" stroke-width="1.5"/>
+</g>
+<!-- 开关(水平导线上,左端为原点,长30,画成断开) -->
+<g id="sw">
+<path d="M0 0 L27 -13" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="0" cy="0" r="3" fill="#fff" stroke="#333" stroke-width="1.5"/>
+<circle cx="30" cy="0" r="3" fill="#fff" stroke="#333" stroke-width="1.5"/>
+</g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">二进制和逻辑电路</text>
+
+<!-- ① 二进制 -->
+<rect x="10" y="42" width="700" height="172" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="24" y="68" font-size="16" font-weight="bold">① 二进制: 逢二进一,只用0和1</text>
+<text x="30" y="98" font-size="13" fill="#0b5cad">位值</text>
+<g font-size="15" fill="#0b5cad" text-anchor="middle" font-weight="bold">
+<text x="92" y="98">8</text><text x="144" y="98">4</text><text x="196" y="98">2</text><text x="248" y="98">1</text>
+</g>
+<g fill="#f2f2f2" stroke="#333" stroke-width="2">
+<rect x="70" y="106" width="44" height="44" rx="4"/><rect x="122" y="106" width="44" height="44" rx="4"/>
+<rect x="174" y="106" width="44" height="44" rx="4"/><rect x="226" y="106" width="44" height="44" rx="4"/>
+</g>
+<g font-size="24" font-weight="bold" text-anchor="middle">
+<text x="92" y="137">1</text><text x="144" y="137">0</text><text x="196" y="137">1</text><text x="248" y="137">1</text>
+</g>
+<g font-size="14" text-anchor="middle" fill="#555">
+<text x="92" y="172">1×8</text><text x="144" y="172">0×4</text><text x="196" y="172">1×2</text><text x="248" y="172">1×1</text>
+</g>
+<text x="30" y="198" font-size="15">1011 = 8 + 0 + 2 + 1 = <tspan font-weight="bold" fill="#c33">11</tspan>(十进制)</text>
+<!-- 十进制转二进制 -->
+<path d="M352 84 V200" stroke="#ddd" stroke-width="1.5"/>
+<text x="376" y="98" font-size="14" font-weight="bold">十进制转二进制: 反复除以2,倒着写出余数</text>
+<g font-size="15">
+<text x="390" y="126">13 ÷ 2 = 6 余</text>
+<text x="398" y="148">6 ÷ 2 = 3 余</text>
+<text x="398" y="170">3 ÷ 2 = 1 余</text>
+<text x="398" y="192">1 ÷ 2 = 0 余</text>
+</g>
+<g font-size="16" font-weight="bold" fill="#c33" text-anchor="middle">
+<text x="506" y="126">1</text><text x="506" y="148">0</text><text x="506" y="170">1</text><text x="506" y="192">1</text>
+</g>
+<path d="M528 190 V116" stroke="#0b5cad" stroke-width="2" fill="none" marker-end="url(#arB)"/>
+<text x="542" y="150" font-size="14" fill="#0b5cad">从下往上读</text>
+<text x="542" y="176" font-size="16">13 → <tspan font-weight="bold" fill="#c33">1101</tspan></text>
+
+<!-- ② 开关和逻辑 -->
+<rect x="10" y="228" width="700" height="372" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="24" y="254" font-size="16" font-weight="bold">② 用开关理解逻辑</text>
+<text x="696" y="254" font-size="13" fill="#0b5cad" text-anchor="end">1 = 闭合、通电、灯亮;0 = 断开、灯灭</text>
+<path d="M243 270 V576 M476 270 V576" stroke="#eee" stroke-width="1.5"/>
+<g font-size="16" font-weight="bold">
+<text x="30" y="284">与</text><text x="263" y="284">或</text><text x="496" y="284">非</text>
+</g>
+
+<!-- 与: 串联 -->
+<g fill="none" stroke="#333" stroke-width="2">
+<path d="M60 350 V310 H90 M120 310 H150 M180 310 H210 V390 H60 V350"/>
+</g>
+<use href="#sw" x="90" y="310"/><use href="#sw" x="150" y="310"/>
+<use href="#cell" x="60" y="350"/>
+<use href="#lamp" x="210" y="350"/>
+<g font-size="15" font-weight="bold" fill="#c33" text-anchor="middle"><text x="105" y="290">A</text><text x="165" y="290">B</text></g>
+<text x="190" y="372" font-size="13" text-anchor="end">灯</text>
+<text x="126" y="452" font-size="13" text-anchor="middle">两个开关串联,</text>
+<text x="126" y="470" font-size="13" text-anchor="middle">都闭合灯才亮</text>
+
+<!-- 或: 并联 -->
+<g fill="none" stroke="#333" stroke-width="2">
+<path d="M293 350 V300 H345 M375 300 H443 V390 H293 V350"/>
+<path d="M320 300 V336 H345 M375 336 H400 V300"/>
+</g>
+<circle cx="320" cy="300" r="3.5" fill="#333"/><circle cx="400" cy="300" r="3.5" fill="#333"/>
+<use href="#sw" x="345" y="300"/><use href="#sw" x="345" y="336"/>
+<use href="#cell" x="293" y="350"/>
+<use href="#lamp" x="443" y="350"/>
+<g font-size="15" font-weight="bold" fill="#c33" text-anchor="middle"><text x="360" y="280">A</text><text x="360" y="318">B</text></g>
+<text x="423" y="372" font-size="13" text-anchor="end">灯</text>
+<text x="359" y="452" font-size="13" text-anchor="middle">两个开关并联,</text>
+<text x="359" y="470" font-size="13" text-anchor="middle">任一闭合灯就亮</text>
+
+<!-- 非: 继电器常闭触点 -->
+<g fill="none" stroke="#333" stroke-width="2">
+<path d="M516 330 V300 H676 V360 H610 M580 360 H516 V330"/>
+</g>
+<use href="#cell" x="516" y="330"/>
+<use href="#lamp" x="676" y="330"/>
+<text x="656" y="352" font-size="13" text-anchor="end">灯</text>
+<!-- 常闭触点(画成闭合) -->
+<path d="M580 360 L611 357" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="580" cy="360" r="3" fill="#fff" stroke="#333" stroke-width="1.5"/>
+<circle cx="610" cy="360" r="3" fill="#fff" stroke="#333" stroke-width="1.5"/>
+<text x="595" y="342" font-size="12" text-anchor="middle" fill="#0b5cad">常闭触点</text>
+<!-- 线圈回路 -->
+<g fill="none" stroke="#333" stroke-width="2">
+<path d="M530 409 V392 H546 M576 392 H580 M610 392 H660 V426 H530 V409"/>
+</g>
+<use href="#sw" x="546" y="392"/>
+<use href="#cell" x="530" y="409"/>
+<rect x="580" y="384" width="30" height="16" fill="#e8d2b0" stroke="#333" stroke-width="1.5"/>
+<path d="M584 384 V400 M590 384 V400 M596 384 V400 M602 384 V400" stroke="#8a5a2b" stroke-width="1.2"/>
+<path d="M595 382 V364" stroke="#0b5cad" stroke-width="1.5" stroke-dasharray="3 3"/>
+<text x="561" y="377" font-size="15" font-weight="bold" fill="#c33" text-anchor="middle">A</text>
+<text x="635" y="414" font-size="12" text-anchor="middle">线圈</text>
+<text x="592" y="452" font-size="13" text-anchor="middle">继电器的常闭触点,</text>
+<text x="592" y="470" font-size="13" text-anchor="middle">线圈通电时反而断开</text>
+
+<!-- 真值表 -->
+<g font-size="14" text-anchor="middle">
+<g font-weight="bold">
+<text x="86" y="500">A</text><text x="126" y="500">B</text><text x="170" y="500">灯</text>
+<text x="319" y="500">A</text><text x="359" y="500">B</text><text x="403" y="500">灯</text>
+<text x="572" y="500">A</text><text x="622" y="500">灯</text>
+</g>
+<path d="M66 506 H190 M299 506 H423 M552 506 H642" stroke="#999" stroke-width="1"/>
+<text x="86" y="524">0</text><text x="126" y="524">0</text><text x="170" y="524">0</text>
+<text x="86" y="543">0</text><text x="126" y="543">1</text><text x="170" y="543">0</text>
+<text x="86" y="562">1</text><text x="126" y="562">0</text><text x="170" y="562">0</text>
+<text x="86" y="581">1</text><text x="126" y="581">1</text><text x="170" y="581" font-weight="bold" fill="#c33">1</text>
+<text x="319" y="524">0</text><text x="359" y="524">0</text><text x="403" y="524">0</text>
+<text x="319" y="543">0</text><text x="359" y="543">1</text><text x="403" y="543" font-weight="bold" fill="#c33">1</text>
+<text x="319" y="562">1</text><text x="359" y="562">0</text><text x="403" y="562" font-weight="bold" fill="#c33">1</text>
+<text x="319" y="581">1</text><text x="359" y="581">1</text><text x="403" y="581" font-weight="bold" fill="#c33">1</text>
+<text x="572" y="524">0</text><text x="622" y="524" font-weight="bold" fill="#c33">1</text>
+<text x="572" y="543">1</text><text x="622" y="543">0</text>
+</g>
+
+<!-- ③ 半加器 -->
+<g transform="translate(0 14)">
+<rect x="10" y="602" width="700" height="236" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="24" y="628" font-size="16" font-weight="bold">③ 半加器: 两个1位数相加</text>
+<g font-size="16" font-weight="bold" fill="#c33" text-anchor="middle"><text x="36" y="677">A</text><text x="36" y="753">B</text></g>
+<g fill="none" stroke="#333" stroke-width="2">
+<path d="M48 672 H150 M100 672 V732 H150"/>
+<path d="M48 748 H150 M125 748 V688 H150"/>
+<path d="M230 680 H256 M230 740 H256"/>
+</g>
+<circle cx="100" cy="672" r="3.5" fill="#333"/><circle cx="125" cy="748" r="3.5" fill="#333"/>
+<g fill="#cfe0f0" stroke="#333" stroke-width="2">
+<rect x="150" y="660" width="80" height="40" rx="6"/>
+<rect x="150" y="720" width="80" height="40" rx="6"/>
+</g>
+<g font-size="15" font-weight="bold" text-anchor="middle"><text x="190" y="685">异或</text><text x="190" y="745">与</text></g>
+<g font-size="15" font-weight="bold"><text x="262" y="685">和</text><text x="262" y="745">进位</text></g>
+<text x="30" y="790" font-size="13" fill="#0b5cad">和 = A 异或 B,进位 = A 与 B</text>
+<!-- 半加器真值表 -->
+<g font-size="14" text-anchor="middle">
+<g font-weight="bold"><text x="344" y="652">A</text><text x="376" y="652">B</text><text x="420" y="652">进位</text><text x="464" y="652">和</text></g>
+<path d="M330 658 H480" stroke="#999" stroke-width="1"/>
+<text x="344" y="678">0</text><text x="376" y="678">0</text><text x="420" y="678">0</text><text x="464" y="678">0</text>
+<text x="344" y="700">0</text><text x="376" y="700">1</text><text x="420" y="700">0</text><text x="464" y="700">1</text>
+<text x="344" y="722">1</text><text x="376" y="722">0</text><text x="420" y="722">0</text><text x="464" y="722">1</text>
+<text x="344" y="744">1</text><text x="376" y="744">1</text><text x="420" y="744" font-weight="bold" fill="#c33">1</text><text x="464" y="744" font-weight="bold" fill="#c33">0</text>
+</g>
+<text x="404" y="772" font-size="13" text-anchor="middle">1 + 1 = 10(写0进1)</text>
+<!-- 多位加法 -->
+<path d="M510 640 V800" stroke="#eee" stroke-width="1.5"/>
+<text x="560" y="662" font-size="12" fill="#c33" text-anchor="end">进位</text>
+<g font-size="13" font-weight="bold" fill="#c33" text-anchor="middle"><text x="600" y="662">1</text><text x="624" y="662">1</text></g>
+<g font-size="20" text-anchor="middle">
+<text x="600" y="688">0</text><text x="624" y="688">1</text><text x="648" y="688">1</text><text x="672" y="688">0</text>
+<text x="572" y="714">+</text>
+<text x="600" y="714">0</text><text x="624" y="714">0</text><text x="648" y="714">1</text><text x="672" y="714">1</text>
+</g>
+<path d="M560 724 H688" stroke="#333" stroke-width="2"/>
+<g font-size="20" font-weight="bold" text-anchor="middle">
+<text x="600" y="748">1</text><text x="624" y="748">0</text><text x="648" y="748">0</text><text x="672" y="748">1</text>
+</g>
+<text x="616" y="776" font-size="14" text-anchor="middle">6 + 3 = 9</text>
+<text x="360" y="822" font-size="13" text-anchor="middle" fill="#555">全加器再加上来自低位的进位;把多个全加器串起来,就能做任意位数的二进制加法</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 830" width="720" height="830" role="img" aria-label="红色矿物药不凭颜色认(示意): 赭石是药用矿物(赤铁矿),多呈不规则的扁平块状,暗棕红色或灰黑色,有的有金属光泽;一面多有圆形的突起,习称钉头,另一面与突起相对应处有同样大小的凹窝;体重,质硬,砸碎后断面显层叠状;条痕樱红色或红棕色。朱砂(含汞)鲜红色或暗红色,条痕红色,体重,比同样大小的石头沉得多,加热释放汞蒸气;铅丹(含铅)是橙红色或橙黄色粉末,体很重,铅在体内蓄积,儿童智力会受长期损害;雄黄(含砷)深红色或橙红色,条痕淡橘红色,受热会生成砒霜。朱砂、铅丹、雄黄不内服、不加热;红色矿物不凭颜色互相代替,只用药店的合格饮片">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>赭石与有毒红色矿物对照</title>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" fill="#222">
+<text x="360" y="30" font-size="18" font-weight="bold" text-anchor="middle">红色矿物药不凭颜色认: 赭石 vs 朱砂、铅丹、雄黄(示意图)</text>
+<text x="360" y="52" font-size="13" fill="#555" text-anchor="middle">赭石是药用矿物;朱砂、铅丹、雄黄含汞、铅、砷——只认出来,不碰、不用</text>
+
+<!-- ① 赭石 -->
+<rect x="10" y="66" width="700" height="318" rx="8" fill="none" stroke="#999" stroke-width="1.5"/>
+<text x="26" y="94" font-size="18" font-weight="bold">① 赭石 <tspan font-size="14" font-weight="normal" fill="#555">(赤铁矿,主含Fe₂O₃;药用)</tspan></text>
+<text x="26" y="118" font-size="14">不规则的扁平块状;<tspan font-weight="bold">暗棕红色或灰黑色</tspan>,有的有金属光泽;<tspan font-weight="bold">体重,质硬</tspan></text>
+<!-- 正面 钉头 -->
+<g transform="translate(-4 0) translate(122 200) scale(0.88) translate(-122 -200)">
+<path d="M36 170 L80 140 L160 136 L204 160 L210 230 L170 262 L80 266 L40 236 Z" fill="#7a3b2e" stroke="#333" stroke-width="1.6"/>
+<g fill="#8f4a3a" stroke="#3a1a12" stroke-width="1.2">
+<circle cx="80" cy="180" r="14"/><circle cx="122" cy="168" r="12"/><circle cx="164" cy="184" r="14"/>
+<circle cx="98" cy="222" r="13"/><circle cx="142" cy="226" r="12"/><circle cx="182" cy="226" r="9"/><circle cx="62" cy="220" r="8"/>
+</g>
+<g stroke="#c98a76" stroke-width="2" fill="none" stroke-linecap="round">
+<path d="M72 173 A9 9 0 0 1 82 170"/><path d="M115 162 A8 8 0 0 1 124 159"/><path d="M156 177 A9 9 0 0 1 166 174"/>
+<path d="M91 215 A8 8 0 0 1 100 212"/><path d="M135 220 A8 8 0 0 1 144 217"/>
+</g>
+</g>
+<text x="122" y="290" font-size="14" text-anchor="middle">一面多有<tspan font-weight="bold">圆形突起</tspan></text>
+<text x="122" y="309" font-size="14" text-anchor="middle">习称<tspan font-weight="bold" fill="#0b5cad">"钉头"</tspan></text>
+<!-- 背面 凹窝 -->
+<g transform="translate(6 0) translate(310 200) scale(0.88) translate(-310 -200)">
+<path d="M396 170 L352 140 L272 136 L228 160 L222 230 L262 262 L352 266 L392 236 Z" fill="#7a3b2e" stroke="#333" stroke-width="1.6"/>
+<g fill="#5a2a20" stroke="#3a1a12" stroke-width="1.2">
+<circle cx="352" cy="180" r="14"/><circle cx="310" cy="168" r="12"/><circle cx="268" cy="184" r="14"/>
+<circle cx="334" cy="222" r="13"/><circle cx="290" cy="226" r="12"/><circle cx="250" cy="226" r="9"/><circle cx="370" cy="220" r="8"/>
+</g>
+<g stroke="#2a100a" stroke-width="2.5" fill="none" stroke-linecap="round">
+<path d="M342 174 A11 11 0 0 1 360 172"/><path d="M302 162 A9 9 0 0 1 317 161"/><path d="M258 178 A11 11 0 0 1 276 176"/>
+<path d="M324 216 A10 10 0 0 1 341 214"/><path d="M282 220 A9 9 0 0 1 297 219"/>
+</g>
+<g stroke="#a86a58" stroke-width="1.5" fill="none" stroke-linecap="round">
+<path d="M342 188 A11 11 0 0 0 361 186"/><path d="M302 175 A9 9 0 0 0 318 174"/><path d="M258 192 A11 11 0 0 0 277 190"/><path d="M325 229 A10 10 0 0 0 343 228"/><path d="M282 232 A9 9 0 0 0 298 232"/>
+</g>
+</g>
+<text x="310" y="290" font-size="14" text-anchor="middle">另一面相对应处有</text>
+<text x="310" y="309" font-size="14" text-anchor="middle"><tspan font-weight="bold">同样大小的凹窝</tspan></text>
+<path d="M204 206 C210 190 222 190 228 206" stroke="#0b5cad" stroke-width="1.5" fill="none"/><path d="M228 206 l-6 -3 M228 206 l1 -7" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="216" y="184" font-size="12" fill="#0b5cad" text-anchor="middle">翻面</text>
+<!-- 断面 层叠 -->
+<path d="M430 150 L540 146 L548 196 L536 254 L428 258 L436 204 Z" fill="#6e352a" stroke="#333" stroke-width="1.6"/>
+<g stroke="#a0604e" stroke-width="1.6" fill="none">
+<path d="M434 170 C460 166 500 174 544 166"/><path d="M436 188 C462 184 502 192 546 184"/><path d="M436 206 C462 202 502 210 545 202"/><path d="M434 224 C460 220 500 228 541 220"/><path d="M431 242 C458 238 498 246 538 238"/>
+</g>
+<text x="488" y="290" font-size="14" text-anchor="middle">砸碎后断面</text>
+<text x="488" y="309" font-size="14" text-anchor="middle">显<tspan font-weight="bold">层叠状</tspan></text>
+<!-- 条痕 -->
+<rect x="578" y="150" width="116" height="80" rx="4" fill="#fafafa" stroke="#999" stroke-width="1.5"/>
+<path d="M592 200 C620 186 650 180 680 172" stroke="#c0504d" stroke-width="9" fill="none" stroke-linecap="round" opacity="0.85"/>
+<text x="636" y="222" font-size="11" fill="#888" text-anchor="middle">没上釉的白瓷片背面</text>
+<text x="636" y="252" font-size="14" text-anchor="middle"><tspan font-weight="bold">条痕</tspan></text>
+<text x="636" y="270" font-size="12" fill="#555" text-anchor="middle">(划出的粉末颜色)</text>
+<text x="636" y="290" font-size="14" text-anchor="middle"><tspan font-weight="bold" fill="#c0504d">樱红色</tspan>或红棕色</text>
+<rect x="22" y="326" width="676" height="46" rx="6" fill="#eef4fb"/>
+<text x="360" y="346" font-size="14" text-anchor="middle">认赭石靠"<tspan font-weight="bold">钉头 + 凹窝 + 层叠断面 + 樱红条痕</tspan>",不是靠"红"</text>
+<text x="360" y="365" font-size="13" fill="#555" text-anchor="middle">赭石本身: 孕妇慎用;部分产地含砷等杂质,不宜长期服用</text>
+
+<!-- ② 朱砂 -->
+<rect x="10" y="398" width="228" height="268" rx="8" fill="none" stroke="#c33" stroke-width="2"/>
+<text x="24" y="424" font-size="17" font-weight="bold" fill="#c33">② 朱砂</text>
+<text x="224" y="424" font-size="13" fill="#c33" text-anchor="end">☠️ 含汞</text>
+<g stroke="#5a0a0a" stroke-width="1.2">
+<path d="M60 470 L76 452 L96 458 L98 480 L78 488 Z" fill="#e0262a"/>
+<path d="M98 462 L120 446 L142 456 L140 482 L114 488 Z" fill="#c81e22"/>
+<path d="M142 470 L160 458 L180 466 L176 488 L152 492 Z" fill="#e0262a"/>
+<path d="M76 490 L96 484 L112 494 L104 508 L80 506 Z" fill="#b51a1e"/>
+<path d="M114 492 L140 488 L150 502 L132 512 L116 506 Z" fill="#e0262a"/>
+</g>
+<g stroke="#fff" stroke-width="1.5" opacity="0.8"><path d="M78 460 L88 462"/><path d="M118 452 L128 456"/><path d="M160 464 L168 468"/></g>
+<text x="124" y="536" font-size="13" text-anchor="middle"><tspan font-weight="bold">鲜红色</tspan>或暗红色,条痕红色</text>
+<text x="124" y="556" font-size="13" text-anchor="middle"><tspan font-weight="bold">体重</tspan>: 比同样大小的石头</text>
+<text x="124" y="574" font-size="13" text-anchor="middle">沉得多</text>
+<text x="124" y="602" font-size="13" text-anchor="middle" fill="#c33">加热分解释放汞蒸气</text>
+<text x="124" y="626" font-size="14" font-weight="bold" fill="#c33" text-anchor="middle">❌ 不内服、不加热</text>
+<text x="124" y="648" font-size="12" text-anchor="middle">不给婴幼儿佩戴朱砂饰品</text>
+
+<!-- ③ 铅丹 -->
+<rect x="246" y="398" width="228" height="268" rx="8" fill="none" stroke="#c33" stroke-width="2"/>
+<text x="260" y="424" font-size="17" font-weight="bold" fill="#c33">③ 铅丹</text>
+<text x="460" y="424" font-size="13" fill="#c33" text-anchor="end">☠️ 含铅</text>
+<path d="M290 506 C310 464 340 452 360 452 C380 452 410 464 430 506 Z" fill="#f0702a" stroke="#7a3010" stroke-width="1.2"/>
+<g fill="#f7a060"><circle cx="330" cy="482" r="2"/><circle cx="360" cy="470" r="2"/><circle cx="388" cy="488" r="2"/><circle cx="350" cy="494" r="2"/><circle cx="404" cy="498" r="2"/><circle cx="316" cy="498" r="2"/></g>
+<line x1="280" y1="506" x2="440" y2="506" stroke="#999" stroke-width="2"/>
+<text x="360" y="536" font-size="13" text-anchor="middle"><tspan font-weight="bold">橙红色或橙黄色粉末</tspan></text>
+<text x="360" y="556" font-size="13" text-anchor="middle"><tspan font-weight="bold">体很重</tspan>,手捻有滑腻感</text>
+<text x="360" y="574" font-size="12" fill="#555" text-anchor="middle">有的劣质"朱砂"就是用铅丹冒充的</text>
+<text x="360" y="602" font-size="13" text-anchor="middle" fill="#c33">铅在体内蓄积,儿童智力长期损害</text>
+<text x="360" y="626" font-size="14" font-weight="bold" fill="#c33" text-anchor="middle">❌ 不内服</text>
+<text x="360" y="648" font-size="12" text-anchor="middle">"红丹"偏方同样不吃</text>
+
+<!-- ④ 雄黄 -->
+<rect x="482" y="398" width="228" height="268" rx="8" fill="none" stroke="#c33" stroke-width="2"/>
+<text x="496" y="424" font-size="17" font-weight="bold" fill="#c33">④ 雄黄</text>
+<text x="696" y="424" font-size="13" fill="#c33" text-anchor="end">☠️ 含砷</text>
+<g stroke="#6a2008" stroke-width="1.2">
+<path d="M548 456 L590 444 L626 456 L640 486 L612 508 L566 506 L542 484 Z" fill="#d9542a"/>
+<path d="M590 444 L604 470 L640 486" fill="none"/>
+<path d="M604 470 L576 482 L566 506" fill="none"/>
+</g>
+<path d="M560 470 L572 462" stroke="#f0a080" stroke-width="2"/>
+<text x="596" y="536" font-size="13" text-anchor="middle"><tspan font-weight="bold">深红色或橙红色</tspan></text>
+<text x="596" y="556" font-size="13" text-anchor="middle">条痕淡橘红色</text>
+<text x="596" y="574" font-size="12" fill="#555" text-anchor="middle">和朱砂外观相近(朱砂更红、更重)</text>
+<text x="596" y="602" font-size="13" text-anchor="middle" fill="#c33">受热会生成砒霜</text>
+<text x="596" y="626" font-size="14" font-weight="bold" fill="#c33" text-anchor="middle">❌ 不加热、不喝雄黄酒</text>
+<text x="596" y="648" font-size="12" text-anchor="middle">不给儿童涂抹、口服雄黄</text>
+
+<!-- 底部 -->
+<rect x="10" y="680" width="700" height="138" rx="8" fill="#fdecec" stroke="#c33" stroke-width="2"/>
+<text x="360" y="710" font-size="17" font-weight="bold" fill="#c33" text-anchor="middle">❌ 红色矿物(朱砂、铅丹、赭石、雄黄)不凭颜色互相代替</text>
+<text x="360" y="736" font-size="14" text-anchor="middle">只用药店的合格饮片;自己捡的石头成分不明,不内服</text>
+<text x="360" y="760" font-size="14" text-anchor="middle">认不准的不用、不入口、不加热</text>
+<text x="360" y="786" font-size="13" fill="#555" text-anchor="middle">长期吃过来路不明的"秘方""药丸"的,告诉医生,查血铅、尿汞、尿砷</text>
+<text x="360" y="806" font-size="13" fill="#555" text-anchor="middle">用不用、用多少,在中医师指导下决定</text>
+</g>
+</svg>

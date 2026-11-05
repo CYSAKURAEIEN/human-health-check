@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 766" width="720" height="766" role="img" aria-label="抄写和保存资料。优先保存: 医学(急救、常见病、接生、药物用量);农业(种植、养殖、种子保存);净水、卫生;工程和手艺;数学和科学的基础;本社区的记录(人口、出生和死亡、天气、收成、土地边界)。抄写: 字迹工整,数字尤其要清楚,药物剂量抄错一位就是十倍的差别;抄完由另一个人对照原文校对一遍,特别是数字、单位、剂量;抄本上注明从哪里抄的、谁抄的、谁校对的、日期。多份抄本放在不同的地点,一处失火或被淹,还有别处。保存: 防潮,用油纸、蜡封、密封的陶罐或金属盒,放在高处,远离地面;防虫,樟木箱、花椒、艾草,定期晾晒;防火、防鼠;用碳黑墨书写,不用容易褪色的墨水;定期检查,发现损坏及时重抄" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>抄写和保存资料</title>
+<defs>
+<marker id="arK" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#555"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<g id="doc"><path d="M0,0 H40 L52,12 V68 H0 Z" fill="#fff" stroke="#333" stroke-width="1.8" stroke-linejoin="round"/><path d="M40,0 V12 H52" fill="none" stroke="#333" stroke-width="1.2"/><path d="M8,22 H44 M8,32 H44 M8,42 H38 M8,52 H44" stroke="#555" stroke-width="1.5"/></g>
+<g id="house"><path d="M-44,0 V-56 H44 V0 Z" fill="#f3ead9" stroke="#333" stroke-width="2"/><path d="M-54,-54 L0,-92 L54,-54 Z" fill="#b9a68a" stroke="#333" stroke-width="2" stroke-linejoin="round"/><path d="M-18,-34 Q-9,-39 0,-34 Q9,-39 18,-34 V-12 Q9,-17 0,-12 Q-9,-17 -18,-12 Z" fill="#fff" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/><path d="M0,-34 V-12 M-13,-28 H-4 M-13,-22 H-4 M4,-28 H13 M4,-22 H13" stroke="#555" stroke-width="1"/></g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">抄写和保存资料: 多份抄本、分开存放、定期检查</text>
+<text x="360" y="50" font-size="13" fill="#555" text-anchor="middle">知识只在一两个人的脑子里,这个人一生病、一离开,它就消失了</text>
+
+<!-- ① 优先保存什么 -->
+<rect x="8" y="64" width="282" height="270" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="88" font-size="15" font-weight="bold">① 优先保存什么</text>
+<g stroke="#333" stroke-width="1.5">
+<rect x="20" y="100" width="256" height="34" rx="3" fill="#f6d8d8"/>
+<rect x="26" y="136" width="250" height="34" rx="3" fill="#dfeccf"/>
+<rect x="18" y="172" width="252" height="34" rx="3" fill="#d6e8f5"/>
+<rect x="24" y="208" width="254" height="34" rx="3" fill="#eadfcf"/>
+<rect x="20" y="244" width="250" height="34" rx="3" fill="#e6e0f0"/>
+<rect x="26" y="280" width="252" height="34" rx="3" fill="#f5ecc8"/>
+</g>
+<g stroke="#333" stroke-width="1"><path d="M40,100 V134 M46,136 V170 M38,172 V206 M44,208 V242 M40,244 V278 M46,280 V314"/></g>
+<g font-size="13" font-weight="bold">
+<text x="50" y="115">医学</text>
+<text x="56" y="151">农业</text>
+<text x="48" y="194">净水、卫生</text>
+<text x="54" y="230">工程和手艺</text>
+<text x="50" y="266">数学和科学的基础</text>
+<text x="56" y="295">本社区的记录</text>
+</g>
+<g font-size="11" fill="#444">
+<text x="50" y="129">急救、常见病、接生、药物用量</text>
+<text x="56" y="165">种植、养殖、种子保存</text>
+<text x="56" y="309">人口、出生和死亡、天气、收成、土地边界</text>
+</g>
+
+<!-- ② 抄写和校对 -->
+<rect x="300" y="64" width="412" height="270" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="310" y="88" font-size="15" font-weight="bold">② 抄写和校对</text>
+<use href="#doc" x="322" y="104"/>
+<use href="#doc" x="446" y="104"/>
+<text x="348" y="190" font-size="13" font-weight="bold" text-anchor="middle">原文</text>
+<text x="472" y="190" font-size="13" font-weight="bold" text-anchor="middle">抄本</text>
+<path d="M382,138 H438" stroke="#555" stroke-width="2.5" marker-end="url(#arK)"/>
+<text x="410" y="130" font-size="13" text-anchor="middle">抄写</text>
+<path d="M472,198 V208 Q472,214 466,214 H354 Q348,214 348,208 V200" fill="none" stroke="#0b5cad" stroke-width="2" marker-end="url(#arB)"/>
+<text x="410" y="232" font-size="13" fill="#0b5cad" font-weight="bold" text-anchor="middle">另一个人对照原文校对</text>
+<!-- 注明 -->
+<path d="M514,100 H690 V210 H514 Z" fill="#fffbe8" stroke="#333" stroke-width="1.5"/>
+<text x="524" y="120" font-size="13" font-weight="bold">抄本上注明:</text>
+<g font-size="13">
+<text x="530" y="142">· 从哪里抄的</text>
+<text x="530" y="162">· 谁抄的</text>
+<text x="530" y="182">· 谁校对的</text>
+<text x="530" y="202">· 日期</text>
+</g>
+<g font-size="13">
+<text x="314" y="262"><tspan fill="#0b5cad" font-weight="bold">✓</tspan> 字迹工整,数字尤其要清楚</text>
+<text x="314" y="286"><tspan fill="#c33" font-weight="bold">✗ 药物剂量抄错一位,就是十倍的差别</tspan></text>
+<text x="314" y="310"><tspan fill="#0b5cad" font-weight="bold">✓</tspan> 校对时特别核对: 数字、单位、剂量</text>
+</g>
+
+<!-- ③ 多份抄本 -->
+<rect x="8" y="344" width="704" height="160" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="368" font-size="15" font-weight="bold">③ 多份抄本,放在不同的地点</text>
+<path d="M20,470 H700" stroke="#999" stroke-width="2.5"/>
+<use href="#house" x="140" y="470"/>
+<use href="#house" x="360" y="470"/>
+<use href="#house" x="580" y="470"/>
+<!-- 失火 -->
+<path d="M110,420 C100,402 118,396 114,380 C126,392 132,388 128,376 C144,392 150,404 142,420 Z" fill="#f2a33a" stroke="#c33" stroke-width="1.5"/>
+<path d="M156,420 C150,408 160,402 158,392 C168,402 172,410 166,420 Z" fill="#f2a33a" stroke="#c33" stroke-width="1.5"/>
+<!-- 被淹 -->
+<path d="M306,444 q10,-6 20,0 t20,0 t20,0 t20,0 t20,0 t20,0 V470 H306 Z" fill="#9cc3e6" fill-opacity="0.8" stroke="#0b5cad" stroke-width="1.5"/>
+<g font-size="13" text-anchor="middle">
+<text x="140" y="492" fill="#c33" font-weight="bold">一处失火</text>
+<text x="360" y="492" fill="#0b5cad" font-weight="bold">一处被淹</text>
+<text x="580" y="492" font-weight="bold">✓ 别处的抄本还在</text>
+</g>
+
+<!-- ④ 怎样保存 -->
+<rect x="8" y="514" width="704" height="244" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="538" font-size="15" font-weight="bold">④ 怎样保存</text>
+
+<g transform="translate(16,548)">
+<rect width="131" height="200" rx="5" fill="#fff" stroke="#ccc" stroke-width="1.2"/>
+<path d="M50,54 Q42,40 48,26 H84 Q90,40 82,54 Z" fill="#d9b38c" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="46" y="16" width="40" height="10" rx="2" fill="#c33" stroke="#333" stroke-width="1.2"/>
+<path d="M24,54 H108" stroke="#8a5a2b" stroke-width="4"/>
+<path d="M30,54 L40,64 M102,54 L92,64" stroke="#8a5a2b" stroke-width="2"/>
+<path d="M16,78 H116" stroke="#999" stroke-width="2"/>
+<path d="M112,74 V60" stroke="#0b5cad" stroke-width="1.5" marker-end="url(#arB)"/>
+<g font-size="13" text-anchor="middle">
+<text x="65" y="100" font-size="14" font-weight="bold">防潮</text>
+<text x="65" y="122">油纸、蜡封、</text>
+<text x="65" y="140">密封的陶罐</text>
+<text x="65" y="158">或金属盒</text>
+<text x="65" y="180" fill="#0b5cad">放在高处,远离地面</text>
+</g>
+</g>
+
+<g transform="translate(155,548)">
+<rect width="131" height="200" rx="5" fill="#fff" stroke="#ccc" stroke-width="1.2"/>
+<rect x="28" y="30" width="76" height="40" rx="2" fill="#c89a62" stroke="#333" stroke-width="1.5"/>
+<path d="M28,40 H104" stroke="#333" stroke-width="1.2"/>
+<rect x="60" y="44" width="12" height="8" fill="#8a5a2b" stroke="#333" stroke-width="1"/>
+<g fill="#c33" stroke="#7a1f1f" stroke-width="0.6"><circle cx="40" cy="24" r="3"/><circle cx="46" cy="21" r="3"/><circle cx="45" cy="27" r="3"/></g>
+<path d="M78,28 C82,14 96,10 100,8 C98,18 90,26 78,28 Z" fill="#9fb98a" stroke="#4d7a2e" stroke-width="1.2"/>
+<g font-size="13" text-anchor="middle">
+<text x="65" y="100" font-size="14" font-weight="bold">防虫</text>
+<text x="65" y="122">樟木箱、花椒、</text>
+<text x="65" y="140">艾草</text>
+<text x="65" y="162" fill="#0b5cad">定期晾晒</text>
+</g>
+</g>
+
+<g transform="translate(294,548)">
+<rect width="131" height="200" rx="5" fill="#fff" stroke="#ccc" stroke-width="1.2"/>
+<path d="M34,62 C24,48 36,40 34,26 C44,36 50,32 48,22 C60,36 62,50 54,62 Z" fill="#f2a33a" stroke="#c33" stroke-width="1.5"/>
+<ellipse cx="94" cy="52" rx="16" ry="10" fill="#aaa" stroke="#333" stroke-width="1.5"/>
+<circle cx="84" cy="42" r="5" fill="#ccc" stroke="#333" stroke-width="1.2"/>
+<path d="M110,54 Q120,60 116,68" fill="none" stroke="#333" stroke-width="1.5"/>
+<g fill="none" stroke="#c33" stroke-width="2.5"><circle cx="44" cy="44" r="24"/><path d="M27,27 L61,61"/><circle cx="94" cy="50" r="24"/><path d="M77,33 L111,67"/></g>
+<g font-size="13" text-anchor="middle">
+<text x="65" y="100" font-size="14" font-weight="bold">防火、防鼠</text>
+</g>
+</g>
+
+<g transform="translate(433,548)">
+<rect width="131" height="200" rx="5" fill="#fff" stroke="#ccc" stroke-width="1.2"/>
+<rect x="26" y="44" width="66" height="24" rx="6" fill="#999" stroke="#333" stroke-width="1.5"/>
+<ellipse cx="48" cy="56" rx="14" ry="6" fill="#111"/>
+<rect x="84" y="10" width="14" height="46" rx="2" fill="#222" stroke="#333" stroke-width="1" transform="rotate(20 91 33)"/>
+<g font-size="13" text-anchor="middle">
+<text x="65" y="100" font-size="14" font-weight="bold">碳黑墨书写</text>
+<text x="65" y="122">不用容易褪色</text>
+<text x="65" y="140">的墨水</text>
+</g>
+</g>
+
+<g transform="translate(572,548)">
+<rect width="132" height="200" rx="5" fill="#fff" stroke="#ccc" stroke-width="1.2"/>
+<g transform="translate(66,66)"><path d="M-18,-34 Q-9,-39 0,-34 Q9,-39 18,-34 V-12 Q9,-17 0,-12 Q-9,-17 -18,-12 Z" fill="#fff" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/><path d="M0,-34 V-12 M-13,-28 H-4 M-13,-22 H-4 M4,-28 H13 M4,-22 H13" stroke="#555" stroke-width="1"/></g>
+<path d="M38,34 A30,30 0 0 1 90,22" fill="none" stroke="#0b5cad" stroke-width="2" marker-end="url(#arB)"/>
+<path d="M94,52 A30,30 0 0 1 42,64" fill="none" stroke="#0b5cad" stroke-width="2" marker-end="url(#arB)"/>
+<g font-size="13" text-anchor="middle">
+<text x="66" y="100" font-size="14" font-weight="bold">定期检查</text>
+<text x="66" y="122">发现损坏,</text>
+<text x="66" y="140">及时重抄</text>
+</g>
+</g>
+</g>
+</svg>

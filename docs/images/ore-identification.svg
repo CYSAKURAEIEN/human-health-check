@@ -1,0 +1,170 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 912" width="720" height="912" role="img" aria-label="冶炼用矿石的识别。铁矿石都是氧化矿,直接和木炭一起冶炼: 磁铁矿Fe₃O₄黑色、有金属光泽,有磁性,用磁铁吸附识别,含铁60-70%,分布在山区、河床;赤铁矿Fe₂O₃红褐色,粉末状时呈红色,在白瓷板上划出红色条痕,含铁50-60%;褐铁矿FeO(OH)黄褐色至褐色,土状、块状,较轻、易碎,含铁40-50%,分布在风化带、沼泽。铜矿石: 孔雀石鲜艳的绿色,条带状花纹,颜色特殊易辨认,含铜55-60%,是最易冶炼的铜矿,氧化矿直接冶炼;辉铜矿Cu₂S铅灰色、金属光泽,较重、柔软,刀刻有铜的光泽,含铜79%;黄铜矿CuFeS₂黄铜色、金属光泽,颜色似黄金但更硬,含铜34%;辉铜矿和黄铜矿是硫化矿,要先焙烧去硫再冶炼。锡石SnO₂黑色或棕色、光泽强,和铜炼成青铜,锡熔点232°C,但从锡石还原出锡需要约1000°C以上和鼓风。方铅矿PbS铅灰色、金属光泽强,很重、立方体晶体,铅有毒,认识它是为了避开它,本书不建议冶炼铅。黄铁矿FeS₂金黄色、立方体,虽然含铁但含硫太多,炼出的铁很脆,不作首选。值不值得采: 同样大小铁矿明显比普通石头沉;河床里的黑色沉沙常有磁铁矿砂,用磁铁在沙里拖一拖就能收集;岩石表面的绿色、蓝色锈斑往往是下面有铜矿的信号;表面一层锈色、里面是普通石头的含铁不高,不值得背回去;焙烧时冒白烟、有大蒜气味说明有砷,立即远离下风方向,这种矿石不要用;不要进入废弃矿洞、坑道" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>冶炼用矿石的识别</title>
+<defs>
+<path id="lump" d="M-28,6 L-20,-14 L-4,-21 L16,-18 L28,-4 L24,15 L6,22 L-16,19 Z" stroke="#333" stroke-width="1.8" stroke-linejoin="round"/>
+<path id="glint" d="M-14,-8 l7,-4 M5,-13 l7,1 M13,4 l5,-5" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round"/>
+<g id="cube"><path d="M0,0 h18 v18 h-18 Z" stroke="#333" stroke-width="1.5"/><path d="M0,0 l7,-7 h18 l-7,7 Z M18,0 l7,-7 v18 l-7,7 Z" stroke="#333" stroke-width="1.5" stroke-linejoin="round" fill-opacity="0.75"/></g>
+<g id="oxide"><rect x="8" y="146" width="208" height="17" rx="8.5" fill="#e3eefa" stroke="#0b5cad" stroke-width="1"/><text x="112" y="159" font-size="12" fill="#0b5cad" text-anchor="middle">氧化矿: 直接和木炭一起冶炼</text></g>
+<g id="sulfide"><rect x="8" y="146" width="208" height="17" rx="8.5" fill="#fbe9e9" stroke="#c33" stroke-width="1"/><text x="112" y="159" font-size="12" fill="#c33" text-anchor="middle">硫化矿: 先焙烧去硫,再冶炼</text></g>
+<g id="card"><rect width="224" height="168" rx="5" fill="#fff" stroke="#ccc" stroke-width="1.2"/></g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">冶炼用矿石的识别: 看颜色、光泽,再用磁铁、白瓷板、小刀、手掂确认</text>
+<text x="360" y="50" font-size="13" fill="#555" text-anchor="middle">文明崩溃后的最初几十年先回收废旧金属;从矿石冶炼是长远之计,冶炼是高危作业</text>
+
+<!-- ① 铁矿石 -->
+<rect x="8" y="64" width="704" height="214" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="88" font-size="15" font-weight="bold">① 铁矿石</text>
+
+<g transform="translate(16,100)">
+<use href="#card"/>
+<text x="10" y="24"><tspan font-size="16" font-weight="bold">磁铁矿</tspan><tspan font-size="13" fill="#555" dx="6">Fe₃O₄</tspan></text>
+<g transform="translate(186,36)"><use href="#lump" fill="#2a2a2a"/><use href="#glint"/></g>
+<g font-size="13">
+<text x="10" y="50">黑色、有金属光泽</text>
+<text x="10" y="70">分布: 山区、河床</text>
+<g transform="translate(10,84)"><path d="M0,0 V9 A8,8 0 0 0 16,9 V0 H11 V9 A3,3 0 0 1 5,9 V0 Z" fill="#c33" stroke="#333" stroke-width="1"/><path d="M0,0 h5 v4 h-5 Z M11,0 h5 v4 h-5 Z" fill="#ddd" stroke="#333" stroke-width="1"/></g>
+<text x="34" y="98" font-weight="bold" fill="#0b5cad">有磁性: 磁铁吸附(关键!)</text>
+<text x="10" y="137" font-weight="bold">含铁 60-70%</text>
+</g>
+<use href="#oxide"/>
+</g>
+
+<g transform="translate(248,100)">
+<use href="#card"/>
+<text x="10" y="24"><tspan font-size="16" font-weight="bold">赤铁矿</tspan><tspan font-size="13" fill="#555" dx="6">Fe₂O₃</tspan></text>
+<g transform="translate(186,36)"><use href="#lump" fill="#8a3b2a"/></g>
+<g font-size="13">
+<text x="10" y="50">红褐色</text>
+<text x="10" y="70">粉末状时呈红色</text>
+<rect x="8" y="86" width="22" height="14" fill="#fff" stroke="#333" stroke-width="1.2"/>
+<path d="M11,96 L26,90" stroke="#b03a2e" stroke-width="3" stroke-linecap="round"/>
+<text x="36" y="98" font-weight="bold" fill="#0b5cad">白瓷板上划出红色条痕</text>
+<text x="10" y="118">分布: 沉积岩地区</text>
+<text x="10" y="137" font-weight="bold">含铁 50-60%</text>
+</g>
+<use href="#oxide"/>
+</g>
+
+<g transform="translate(480,100)">
+<use href="#card"/>
+<text x="10" y="24"><tspan font-size="16" font-weight="bold">褐铁矿</tspan><tspan font-size="13" fill="#555" dx="6">FeO(OH)</tspan></text>
+<g transform="translate(186,36)"><use href="#lump" fill="#b07a3a"/><g fill="#6e4a22"><circle cx="-12" cy="0" r="2"/><circle cx="4" cy="-10" r="1.6"/><circle cx="10" cy="8" r="2.2"/><circle cx="-4" cy="12" r="1.5"/><circle cx="18" cy="-4" r="1.5"/></g></g>
+<g font-size="13">
+<text x="10" y="50">黄褐色至褐色</text>
+<text x="10" y="70">土状、块状</text>
+<text x="10" y="98" font-weight="bold" fill="#0b5cad">较轻、易碎</text>
+<text x="10" y="118">分布: 风化带、沼泽</text>
+<text x="10" y="137" font-weight="bold">含铁 40-50%</text>
+</g>
+<use href="#oxide"/>
+</g>
+
+<!-- ② 铜矿石 -->
+<rect x="8" y="288" width="704" height="214" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="312" font-size="15" font-weight="bold">② 铜矿石</text>
+
+<g transform="translate(16,324)">
+<use href="#card"/>
+<text x="10" y="24"><tspan font-size="16" font-weight="bold">孔雀石</tspan><tspan font-size="12" fill="#555" dx="5">Cu₂(OH)₂CO₃</tspan></text>
+<g transform="translate(186,38)"><use href="#lump" fill="#2e9e5b"/><path d="M-24,4 Q-4,-12 22,-10 M-20,12 Q0,-2 24,4 M-10,18 Q6,8 20,13" fill="none" stroke="#9fe0b8" stroke-width="2"/><path d="M-18,-6 Q0,-18 18,-14" fill="none" stroke="#1b6b3d" stroke-width="2"/></g>
+<g font-size="13">
+<text x="10" y="50">鲜艳的绿色</text>
+<text x="10" y="70">条带状花纹</text>
+<text x="10" y="98" font-weight="bold" fill="#0b5cad">颜色特殊,易辨认</text>
+<text x="10" y="118" font-weight="bold">最易冶炼的铜矿!</text>
+<text x="10" y="137" font-weight="bold">含铜 55-60%</text>
+</g>
+<use href="#oxide"/>
+</g>
+
+<g transform="translate(248,324)">
+<use href="#card"/>
+<text x="10" y="24"><tspan font-size="16" font-weight="bold">辉铜矿</tspan><tspan font-size="13" fill="#555" dx="6">Cu₂S</tspan></text>
+<g transform="translate(186,36)"><use href="#lump" fill="#6b6f74"/><use href="#glint"/></g>
+<g font-size="13">
+<text x="10" y="50">铅灰色、金属光泽</text>
+<text x="10" y="70">较重、柔软</text>
+<path d="M8,97 L26,88 L30,90 L13,100 Z" fill="#ddd" stroke="#333" stroke-width="1.2" stroke-linejoin="round"/>
+<path d="M2,100 L9,96" stroke="#8a5a2b" stroke-width="3.5" stroke-linecap="round"/>
+<text x="36" y="98" font-weight="bold" fill="#0b5cad">刀刻有铜的光泽</text>
+<text x="10" y="137" font-weight="bold">含铜 79%</text>
+</g>
+<use href="#sulfide"/>
+</g>
+
+<g transform="translate(480,324)">
+<use href="#card"/>
+<text x="10" y="24"><tspan font-size="16" font-weight="bold">黄铜矿</tspan><tspan font-size="13" fill="#555" dx="6">CuFeS₂</tspan></text>
+<g transform="translate(186,36)"><use href="#lump" fill="#c9a227"/><use href="#glint"/></g>
+<g font-size="13">
+<text x="10" y="50">黄铜色、金属光泽</text>
+<text x="10" y="98" font-weight="bold" fill="#0b5cad">颜色似黄金,但更硬</text>
+<text x="10" y="137" font-weight="bold">含铜 34%</text>
+</g>
+<use href="#sulfide"/>
+</g>
+
+<!-- ③ 其他 -->
+<rect x="8" y="512" width="704" height="214" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="536" font-size="15" font-weight="bold">③ 锡石,以及要认得、但不用的方铅矿和黄铁矿</text>
+
+<g transform="translate(16,548)">
+<use href="#card"/>
+<text x="10" y="24"><tspan font-size="16" font-weight="bold">锡石</tspan><tspan font-size="13" fill="#555" dx="6">SnO₂</tspan></text>
+<g transform="translate(186,36)"><use href="#lump" fill="#4a3426"/><use href="#glint"/></g>
+<g font-size="13">
+<text x="10" y="50">黑色或棕色</text>
+<text x="10" y="70">光泽强</text>
+<text x="10" y="98" font-weight="bold" fill="#0b5cad">用途: 和铜炼成青铜</text>
+<text x="10" y="118">锡熔点低(232°C),但从锡石</text>
+<text x="10" y="136">还原出锡要约1000°C以上和鼓风</text>
+</g>
+<use href="#oxide"/>
+</g>
+
+<g transform="translate(248,548)">
+<rect width="224" height="168" rx="5" fill="#fff" stroke="#c33" stroke-width="2"/>
+<text x="10" y="24"><tspan font-size="16" font-weight="bold">方铅矿</tspan><tspan font-size="13" fill="#555" dx="6">PbS</tspan></text>
+<g fill="#7a7f86"><use href="#cube" x="166" y="30"/><use href="#cube" x="190" y="40"/></g>
+<g font-size="13">
+<text x="10" y="50">铅灰色、金属光泽强</text>
+<text x="10" y="70">很重、立方体晶体</text>
+<text x="10" y="98" font-weight="bold" fill="#c33">✗ 铅有毒!</text>
+<text x="10" y="118" font-weight="bold" fill="#c33">认识它是为了避开它</text>
+<text x="10" y="136">本书不建议冶炼铅</text>
+</g>
+<rect x="8" y="146" width="208" height="17" rx="8.5" fill="#c33"/><text x="112" y="159" font-size="12" fill="#fff" text-anchor="middle" font-weight="bold">硫化矿: 不冶炼,不熔铅</text>
+</g>
+
+<g transform="translate(480,548)">
+<use href="#card"/>
+<text x="10" y="24"><tspan font-size="16" font-weight="bold">黄铁矿</tspan><tspan font-size="13" fill="#555" dx="6">FeS₂</tspan></text>
+<g fill="#d4b23a"><use href="#cube" x="166" y="30"/><use href="#cube" x="190" y="40"/></g>
+<g font-size="13">
+<text x="10" y="50">金黄色、立方体</text>
+<text x="10" y="98">虽然含铁,但含硫太多,</text>
+<text x="10" y="118">炼出的铁很脆</text>
+<text x="10" y="136" font-weight="bold" fill="#c33">不作首选</text>
+</g>
+<use href="#sulfide"/>
+</g>
+
+<!-- ④ 值不值得采 -->
+<rect x="8" y="736" width="704" height="168" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="760" font-size="15" font-weight="bold">④ 值不值得采</text>
+<g font-size="13">
+<text x="20" y="786"><tspan fill="#0b5cad" font-weight="bold">✓ 掂一掂:</tspan> 同样大小,铁矿明显比普通石头沉</text>
+<text x="20" y="814"><tspan fill="#0b5cad" font-weight="bold">✓ 河床里的黑色沉沙</tspan>常有磁铁矿砂,</text>
+<text x="36" y="832">用磁铁在沙里拖一拖就能收集</text>
+<text x="20" y="860"><tspan fill="#0b5cad" font-weight="bold">✓ 岩石表面的绿色、蓝色锈斑</tspan>(孔雀石、</text>
+<text x="36" y="878">蓝铜矿)往往是下面有铜矿的信号</text>
+<text x="370" y="786"><tspan fill="#c33" font-weight="bold">✗ 只有表面一层锈色</tspan>、里面是普通石头:</text>
+<text x="386" y="804">含铁不高,不值得背回去</text>
+<text x="370" y="832"><tspan fill="#c33" font-weight="bold">✗ 焙烧时冒白烟、有大蒜气味</tspan> → 有砷,</text>
+<text x="386" y="850">立即远离下风方向,这种矿石不要用</text>
+<text x="370" y="878"><tspan fill="#c33" font-weight="bold">✗ 不进废弃矿洞、坑道</tspan>(塌方、缺氧、毒气)</text>
+</g>
+</g>
+</svg>
