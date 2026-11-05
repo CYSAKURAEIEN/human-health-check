@@ -35,7 +35,7 @@
 <text x="116" y="230">· 局部红肿热痛</text>
 <text x="116" y="250">· 白细胞升高(如能检测)</text>
 </g>
-<text x="24" y="292" font-size="12" fill="#555">要由医生判断,不是自行用药的依据</text>
+<text x="24" y="280" font-size="12" fill="#555">要由医生判断,不是自行用药的依据</text>
 <path d="M360,148 V296" stroke="#ddd" stroke-width="1"/>
 <!-- 病毒图标 -->
 <g stroke="#333" stroke-width="1.5">
@@ -50,7 +50,7 @@
 <text x="440" y="230">· 发热原因不明</text>
 <text x="440" y="250">· 对病毒、真菌、寄生虫都无效</text>
 </g>
-<text x="374" y="292" font-size="12" fill="#555">普通感冒以流涕、咽痛为主,一周左右自愈</text>
+<text x="374" y="280" font-size="12" fill="#555">普通感冒以流涕、咽痛为主,一周左右自愈</text>
 
 <!-- ② 耐药 -->
 <rect x="8" y="320" width="704" height="250" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
@@ -168,7 +168,7 @@
 
 <!-- 底部 -->
 <rect x="8" y="950" width="704" height="52" rx="6" fill="#eef5fc" stroke="#0b5cad" stroke-width="1.5"/>
-<text x="360" y="972" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b5cad">预防 &gt;&gt; 天然抗菌 &gt;&gt; 储备药品 &gt;&gt; 自制(等死)</text>
+<text x="360" y="972" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b5cad">预防 &gt;&gt; 储备成品药 &gt;&gt; 天然抗菌(只作辅助) &gt;&gt; 自制(几乎不可能)</text>
 <text x="360" y="992" font-size="13" text-anchor="middle">勤洗手、喝开水、伤口加压冲洗: 预防远胜于治疗</text>
 </g>
 </svg>

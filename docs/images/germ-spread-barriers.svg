@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 740" width="720" height="740" role="img" aria-label="病菌怎样传到人身上,怎样拦住它。病菌从病人、粪便、脏水、脏手传到健康人身上,每条路上都有简单的屏障: 病人隔离,用过的东西消毒;厕所远离水源,粪便不污染水和食物;只喝煮沸或消毒过的水;洗手: 饭前、便后、接触病人后、处理伤口前;食物煮熟,剩饭冷藏;伤口清洗消毒,器械煮沸。这些做法都很简单,不需要任何高科技,但效果超过绝大多数药物。每个病人平均传染给几个人: 大于1,病例越来越多;小于1,疫情逐渐消退。隔离、洗手、戴口罩、接种疫苗,都是为了把这个数降到1以下" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>病菌怎样传播,怎样拦住它</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker>
+<g id="row">
+<rect x="24" y="-16" width="112" height="32" rx="6" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<path d="M140,0 H194" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<rect x="158" y="-4" width="14" height="8" rx="4" fill="#f4c7c7" stroke="#c33" stroke-width="1.2"/>
+<rect x="200" y="-16" width="356" height="32" rx="6" fill="#eef5fc" stroke="#0b5cad" stroke-width="1.5"/>
+<path d="M562,-19 V19" stroke="#0b5cad" stroke-width="6" stroke-linecap="round"/>
+</g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">病菌怎样传到人身上,怎样拦住它</text>
+<rect x="8" y="42" width="704" height="40" rx="6" fill="#eef5fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="360" y="67" font-size="13" text-anchor="middle">人类平均寿命翻倍,主要靠几个简单的认识: 病由微生物引起、要洗手、要喝干净的水、要接种疫苗</text>
+
+<!-- ① 传播与屏障 -->
+<rect x="8" y="92" width="704" height="350" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="116" font-size="15" font-weight="bold">① 切断传播: 每条路上设一道屏障</text>
+<g font-size="12" text-anchor="middle" fill="#555">
+<text x="80" y="142">病菌从哪里来</text>
+<text x="378" y="142">拦住它的做法</text>
+<text x="562" y="142" fill="#0b5cad" font-weight="bold">屏障</text>
+<text x="650" y="142">健康人</text>
+</g>
+<use href="#row" transform="translate(0,170)"/>
+<use href="#row" transform="translate(0,214)"/>
+<use href="#row" transform="translate(0,258)"/>
+<use href="#row" transform="translate(0,302)"/>
+<use href="#row" transform="translate(0,346)"/>
+<use href="#row" transform="translate(0,390)"/>
+<g font-size="14" font-weight="bold" text-anchor="middle">
+<text x="80" y="175">病人</text>
+<text x="80" y="219">粪便</text>
+<text x="80" y="263">脏水</text>
+<text x="80" y="307">脏手</text>
+<text x="80" y="351">食物</text>
+<text x="80" y="395">伤口、器械</text>
+</g>
+<g font-size="13">
+<text x="210" y="175"><tspan fill="#0b5cad">✓</tspan> 病人隔离,用过的东西消毒</text>
+<text x="210" y="219"><tspan fill="#0b5cad">✓</tspan> 厕所远离水源,粪便不污染水和食物</text>
+<text x="210" y="263"><tspan fill="#0b5cad">✓</tspan> 只喝煮沸或消毒过的水</text>
+<text x="210" y="307"><tspan fill="#0b5cad">✓</tspan> 洗手: 饭前、便后、接触病人后、处理伤口前</text>
+<text x="210" y="351"><tspan fill="#0b5cad">✓</tspan> 食物煮熟,剩饭冷藏</text>
+<text x="210" y="395"><tspan fill="#0b5cad">✓</tspan> 伤口清洗消毒,器械煮沸</text>
+</g>
+<!-- 健康人 -->
+<g stroke="#333" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+<path d="M636,326 L630,392 M664,326 L670,392" fill="none" stroke-width="5"/>
+<path d="M624,252 L606,312 M676,252 L694,312" fill="none" stroke-width="5"/>
+<rect x="622" y="240" width="56" height="92" rx="14" fill="#cfe0f0"/>
+<circle cx="650" cy="212" r="22" fill="#f3e3d3"/>
+</g>
+<text x="650" y="414" font-size="12" text-anchor="middle" fill="#555">病菌到不了</text>
+<text x="24" y="432" font-size="12" fill="#555">这些做法都很简单,不需要任何高科技,但效果超过绝大多数药物</text>
+
+<!-- ② 每个病人传染几个人 -->
+<rect x="8" y="452" width="704" height="226" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<path d="M360,488 V662" stroke="#ddd" stroke-width="1"/>
+<text x="18" y="476" font-size="15" font-weight="bold">② 每个病人平均传染给几个人</text>
+<text x="24" y="502" font-size="14" font-weight="bold" fill="#c33">大于1 → 病例越来越多</text>
+<text x="380" y="502" font-size="14" font-weight="bold" fill="#0b5cad">小于1 → 疫情逐渐消退</text>
+<path d="M67,575 L133,545 M67,575 L133,605 M147,545 L213,530 M147,545 L213,560 M147,605 L213,590 M147,605 L213,620 M227,530 L293,519 M227,530 L293,535 M227,560 L293,551 M227,560 L293,567 M227,590 L293,583 M227,590 L293,599 M227,620 L293,615 M227,620 L293,631" stroke="#999" stroke-width="1.3" fill="none"/>
+<g fill="#f4c7c7" stroke="#c33" stroke-width="1.5"><circle cx="60" cy="575" r="7"/><circle cx="140" cy="545" r="7"/><circle cx="140" cy="605" r="7"/><circle cx="220" cy="530" r="7"/><circle cx="220" cy="560" r="7"/><circle cx="220" cy="590" r="7"/><circle cx="220" cy="620" r="7"/><circle cx="300" cy="519" r="5.5"/><circle cx="300" cy="535" r="5.5"/><circle cx="300" cy="551" r="5.5"/><circle cx="300" cy="567" r="5.5"/><circle cx="300" cy="583" r="5.5"/><circle cx="300" cy="599" r="5.5"/><circle cx="300" cy="615" r="5.5"/><circle cx="300" cy="631" r="5.5"/></g>
+<path d="M427,530 L493,555 M427,590 L493,595 M507,595 L573,575" stroke="#999" stroke-width="1.3" fill="none"/>
+<g fill="#f4c7c7" stroke="#c33" stroke-width="1.5"><circle cx="420" cy="530" r="7"/><circle cx="420" cy="560" r="7"/><circle cx="420" cy="590" r="7"/><circle cx="420" cy="620" r="7"/><circle cx="500" cy="555" r="7"/><circle cx="500" cy="595" r="7"/><circle cx="580" cy="575" r="7"/></g>
+<text x="604" y="580" font-size="13" fill="#555">→ 消退</text>
+<g font-size="11" text-anchor="middle" fill="#555">
+<text x="60" y="656">第1轮</text><text x="140" y="656">第2轮</text><text x="220" y="656">第3轮</text><text x="300" y="656">第4轮</text>
+<text x="420" y="656">第1轮</text><text x="500" y="656">第2轮</text><text x="580" y="656">第3轮</text>
+</g>
+<text x="702" y="672" font-size="11" text-anchor="end" fill="#555">(示意,每个圆点代表一个病人)</text>
+
+<!-- 底部 -->
+<rect x="8" y="688" width="704" height="44" rx="6" fill="#eef5fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="360" y="715" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b5cad">隔离、洗手、戴口罩、接种疫苗,都是为了把这个数降到1以下</text>
+</g>
+</svg>

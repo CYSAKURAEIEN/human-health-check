@@ -113,6 +113,8 @@
 <text x="320" y="830" font-weight="bold">1-2天</text>
 <text x="440" y="830" font-weight="bold">2-4天后</text>
 </g>
+<path d="M60,838 H320" stroke="#999" stroke-width="1.2" stroke-dasharray="3 3"/>
+<path d="M440,838 H688" stroke="#c33" stroke-width="1.2" stroke-dasharray="3 3"/>
 <text x="690" y="790" font-size="11" text-anchor="end" fill="#555">(时间轴不按比例)</text>
 <g font-size="12">
 <text x="60" y="852">最初1-2天: 可能毫无症状,</text>

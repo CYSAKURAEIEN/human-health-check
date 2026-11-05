@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 738" width="720" height="738" role="img" aria-label="电化学: 电极电势、电池、电解和防腐。氧化是失去电子,还原是得到电子,两者总是同时发生。① 标准电极电势(V): 锂-3.04,钾-2.93,钠-2.71,镁-2.37,铝-1.66,锌-0.76,铁-0.44,锡-0.14,铅-0.13,氢0,铜+0.34,银+0.80,金+1.50;两种金属在表中相距越远,组成的电池电压越高。② 锌-铜电池(丹尼尔电池): 锌是负极,被氧化,Zn → Zn²⁺;铜是正极,铜离子被还原,Cu²⁺ → Cu;电子从锌经导线流向铜;电池电压约等于正极电势减负极电势 = 0.34 - (-0.76) = 1.10 V。③ 电解精炼铜: 用外加电流驱动不能自发进行的反应;粗铜作阳极,纯铜作阴极,得到高纯度的铜。析出物质的质量 = (电量 ÷ F) × (摩尔质量 ÷ 离子的价数),F约96485 C/mol;例: 用1 A电流镀铜1小时,电量3600 C,约0.0373 mol电子,铜为2价,0.0187 mol铜,约1.2 g铜。④ 腐蚀和防护: 钢铁生锈是电化学腐蚀,铁表面不同部位形成许多微小的原电池,有盐水、两种金属接触时腐蚀更快;牺牲阳极保护: 在船体、水管、锅炉上连接一块更活泼的锌或镁,让锌、镁先被腐蚀,保护钢铁,定期更换。本章讲原理,不是实验或生产指导" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>电化学: 电极电势、电池、电解和防腐</title>
+<defs>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="arK" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#555"/></marker>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">电化学: 电极电势、电池、电解和防腐</text>
+<text x="360" y="50" font-size="13" fill="#555" text-anchor="middle">氧化 = 失去电子,还原 = 得到电子,两者总是同时发生;本章讲原理,不是实验或生产指导</text>
+
+<!-- ① 电极电势 -->
+<rect x="8" y="64" width="262" height="494" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="88" font-size="15" font-weight="bold">① 标准电极电势(V)</text>
+<rect x="40" y="238" width="174" height="22" rx="3" fill="#e3eefa"/>
+<rect x="40" y="378" width="174" height="22" rx="3" fill="#fbe9e9"/>
+<rect x="40" y="350" width="174" height="22" rx="3" fill="none" stroke="#999" stroke-dasharray="3 3"/>
+<path d="M26,450 V108" stroke="#555" stroke-width="1.8" marker-end="url(#arK)"/>
+<text x="20" y="250" font-size="12" fill="#555" transform="rotate(-90 20 250)" text-anchor="middle">越往上越活泼,越容易失去电子</text>
+<g font-size="13">
+<text x="48" y="116">锂 Li⁺/Li</text><text x="206" y="116" text-anchor="end">-3.04</text>
+<text x="48" y="144">钾 K⁺/K</text><text x="206" y="144" text-anchor="end">-2.93</text>
+<text x="48" y="172">钠 Na⁺/Na</text><text x="206" y="172" text-anchor="end">-2.71</text>
+<text x="48" y="200">镁 Mg²⁺/Mg</text><text x="206" y="200" text-anchor="end">-2.37</text>
+<text x="48" y="228">铝 Al³⁺/Al</text><text x="206" y="228" text-anchor="end">-1.66</text>
+<text x="48" y="254" font-weight="bold" fill="#0b5cad">锌 Zn²⁺/Zn</text><text x="206" y="254" text-anchor="end" font-weight="bold" fill="#0b5cad">-0.76</text>
+<text x="48" y="284">铁 Fe²⁺/Fe</text><text x="206" y="284" text-anchor="end">-0.44</text>
+<text x="48" y="312">锡 Sn²⁺/Sn</text><text x="206" y="312" text-anchor="end">-0.14</text>
+<text x="48" y="340">铅 Pb²⁺/Pb</text><text x="206" y="340" text-anchor="end">-0.13</text>
+<text x="48" y="366">氢 H⁺/H₂</text><text x="206" y="366" text-anchor="end">0</text>
+<text x="48" y="394" font-weight="bold" fill="#c33">铜 Cu²⁺/Cu</text><text x="206" y="394" text-anchor="end" font-weight="bold" fill="#c33">+0.34</text>
+<text x="48" y="424">银 Ag⁺/Ag</text><text x="206" y="424" text-anchor="end">+0.80</text>
+<text x="48" y="452">金 Au³⁺/Au</text><text x="206" y="452" text-anchor="end">+1.50</text>
+</g>
+<path d="M218,249 H226 V389 H218" fill="none" stroke="#333" stroke-width="1.5"/>
+<text x="232" y="314" font-size="13" font-weight="bold">1.10</text>
+<text x="240" y="330" font-size="13" font-weight="bold">V</text>
+<g font-size="12" fill="#333">
+<text x="18" y="482">两种金属在表中相距越远,</text>
+<text x="18" y="500">组成的电池电压越高</text>
+</g>
+
+<!-- ② 锌-铜电池 -->
+<rect x="278" y="64" width="434" height="272" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="288" y="88" font-size="15" font-weight="bold">② 锌-铜电池(丹尼尔电池)</text>
+<g transform="translate(0,12)">
+<!-- 导线和电压表 -->
+<path d="M332,138 V110 H392 M424,110 H484 V138" fill="none" stroke="#333" stroke-width="2"/>
+<circle cx="408" cy="110" r="16" fill="#fff" stroke="#333" stroke-width="2"/>
+<text x="408" y="115" font-size="14" font-weight="bold" text-anchor="middle">V</text>
+<text x="408" y="140" font-size="13" font-weight="bold" fill="#c33" text-anchor="middle">1.10 V</text>
+<path d="M342,102 H380" stroke="#0b5cad" stroke-width="1.8" marker-end="url(#arB)"/>
+<text x="300" y="104" font-size="12" fill="#0b5cad">电子</text>
+<!-- 容器 -->
+<path d="M300,160 V280 H516 V160" fill="none" stroke="#333" stroke-width="2.5"/>
+<rect x="302" y="172" width="212" height="106" fill="#e8f2fb"/>
+<path d="M408,166 V278" stroke="#777" stroke-width="2" stroke-dasharray="5 4"/>
+<rect x="324" y="138" width="16" height="122" fill="#b8bcc4" stroke="#333" stroke-width="1.8"/>
+<rect x="476" y="138" width="16" height="122" fill="#d9884a" stroke="#333" stroke-width="1.8"/>
+<g font-size="12" fill="#0b5cad"><text x="366" y="224" text-anchor="middle">Zn²⁺</text><text x="446" y="224" text-anchor="middle">Cu²⁺</text></g>
+<path d="M342,232 Q352,244 362,240" fill="none" stroke="#0b5cad" stroke-width="1.5" marker-end="url(#arB)"/>
+<path d="M454,240 Q466,244 472,232" fill="none" stroke="#c33" stroke-width="1.5" marker-end="url(#arR)"/>
+<g font-size="13" text-anchor="middle">
+<text x="344" y="300" font-weight="bold" fill="#0b5cad">锌: 负极</text>
+<text x="344" y="318">被氧化 Zn → Zn²⁺</text>
+<text x="484" y="300" font-weight="bold" fill="#c33">铜: 正极</text>
+<text x="484" y="318">Cu²⁺ 被还原 → Cu</text>
+</g>
+<g font-size="13">
+<text x="530" y="176">Zn + Cu²⁺ → Zn²⁺ + Cu</text>
+<text x="530" y="210" font-weight="bold">电池电压 ≈</text>
+<text x="530" y="230">正极电势 - 负极电势</text>
+<text x="530" y="252">= 0.34 - (-0.76)</text>
+<text x="530" y="276" font-size="15" font-weight="bold" fill="#c33">= 1.10 V</text>
+</g>
+
+</g>
+<!-- ③ 电解 -->
+<rect x="278" y="344" width="434" height="214" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="288" y="368" font-size="15" font-weight="bold">③ 电解: 用外加电流驱动反应</text>
+<g transform="translate(0,14)">
+<!-- 电源 -->
+<path d="M324,418 V388 H372 M380,388 H436 V418" fill="none" stroke="#333" stroke-width="2"/>
+<path d="M372,376 V400 M380,382 V394" stroke="#333" stroke-width="2.5"/>
+<text x="366" y="382" font-size="13" font-weight="bold" fill="#c33" text-anchor="end">+</text>
+<text x="386" y="383" font-size="14" font-weight="bold" fill="#0b5cad">−</text>
+<text x="380" y="414" font-size="12" text-anchor="middle" fill="#555">直流电源</text>
+<path d="M300,430 V520 H460 V430" fill="none" stroke="#333" stroke-width="2.5"/>
+<rect x="302" y="440" width="156" height="78" fill="#e8f2fb"/>
+<rect x="316" y="418" width="18" height="90" fill="#b07040" stroke="#333" stroke-width="1.8"/>
+<rect x="430" y="418" width="12" height="90" fill="#e08a4a" stroke="#333" stroke-width="1.8"/>
+<path d="M342,472 H418" stroke="#c33" stroke-width="1.8" marker-end="url(#arR)"/>
+<text x="380" y="466" font-size="12" fill="#c33" text-anchor="middle">Cu²⁺</text>
+<text x="325" y="534" font-size="12" font-weight="bold" text-anchor="middle">粗铜(阳极+)</text>
+<text x="436" y="534" font-size="12" font-weight="bold" text-anchor="middle">纯铜(阴极−)</text>
+<g font-size="12">
+<text x="472" y="396" font-weight="bold">精炼铜: 粗铜作阳极,</text>
+<text x="472" y="412" font-weight="bold">纯铜作阴极 → 高纯度的铜</text>
+<text x="472" y="436">析出质量 = (电量 ÷ F)</text>
+<text x="484" y="452">× (摩尔质量 ÷ 离子的价数)</text>
+<text x="472" y="468">F ≈ 96485 C/mol</text>
+<text x="472" y="488" fill="#0b5cad" font-weight="bold">例: 1 A电流镀铜1小时</text>
+<text x="472" y="504" fill="#0b5cad">3600 C → 约0.0373 mol电子</text>
+<text x="472" y="520" fill="#0b5cad">→ 0.0187 mol铜 × 64 ≈ 1.2 g</text>
+</g>
+
+</g>
+<g transform="translate(0,22)">
+<!-- ④ 腐蚀和防护 -->
+<rect x="8" y="544" width="704" height="162" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="568" font-size="15" font-weight="bold">④ 腐蚀和防护: 牺牲阳极</text>
+<!-- 钢管 -->
+<rect x="30" y="612" width="300" height="30" fill="#9aa3ad" stroke="#333" stroke-width="2"/>
+<path d="M30,620 H330" stroke="#c8ced5" stroke-width="3"/>
+<rect x="150" y="642" width="60" height="26" rx="2" fill="#c7cbd1" stroke="#333" stroke-width="2"/>
+<path d="M156,668 l4,-6 l4,6 M176,668 l5,-8 l4,8 M196,668 l4,-5 l4,5" fill="none" stroke="#777" stroke-width="1.2"/>
+<path d="M160,642 V636 M200,642 V636" stroke="#333" stroke-width="2.5"/>
+<text x="90" y="604" font-size="13" font-weight="bold" fill="#0b5cad">钢铁(船体、水管、锅炉): 被保护</text>
+<path d="M216,662 H262" stroke="#c33" stroke-width="1.5" marker-start="url(#arR)"/>
+<text x="268" y="660" font-size="13" font-weight="bold" fill="#c33">锌块或镁块</text>
+<text x="268" y="678" font-size="12" fill="#c33">先被腐蚀,定期更换</text>
+<text x="40" y="694" font-size="12" fill="#555">锌、镁比铁更活泼(①中更靠上)</text>
+<g font-size="13">
+<text x="412" y="600" font-weight="bold">钢铁生锈是电化学腐蚀:</text>
+<text x="412" y="620">铁表面不同部位形成许多微小的原电池</text>
+<text x="412" y="644" font-weight="bold" fill="#c33">有盐水、两种金属接触时腐蚀更快</text>
+<text x="412" y="668">连接一块更活泼的锌或镁,</text>
+<text x="412" y="688">让锌、镁先被腐蚀,保护钢铁</text>
+</g>
+</g>
+</g>
+</svg>
