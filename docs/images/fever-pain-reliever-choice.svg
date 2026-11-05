@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1055" width="720" height="1055" role="img" aria-label="常用退烧止痛药: 谁能用、怎样用才安全。剂量以所用药品说明书为准,儿童按体重算,用药品自带的量杯、量管;3个月以下婴儿发烧不要自己用药,直接就医;出现危险信号时任何药都不能代替就医。①三种常用非处方药: 对乙酰氨基酚(扑热息痛)成人每次500 mg,间隔≥4小时,每天上限2000 mg,3个月以上儿童可用,孕妇退烧首选(短期),无抗炎作用,主要风险是过量致肝损伤,更适合胃病、出血倾向、吃抗凝药、肾病、脱水、哮喘的人;布洛芬成人每次200-400 mg,间隔4-6小时,每天上限1200 mg,6个月以上儿童可用,孕妇避免,尤其孕20周以后,有抗炎作用,主要风险是胃出血、伤肾,更适合扭伤、牙痛、痛经等红肿发炎的疼痛;阿司匹林按说明书,18岁以下不用,孕妇不用,有抗炎作用,主要风险是胃出血、出血不止、瑞氏综合征,退烧止痛一般不首选,最重要的用途是疑似心梗时嚼服。成人量为非处方说明书常见写法,更高剂量须遵医嘱。②共同原则: 一次只用一种,不叠加也不交替;先看成分表,复方感冒药常含对乙酰氨基酚或阿司匹林,算在总量里;等够间隔,体温降1-1.5°C、人舒服了就算有效,不因为没降到正常就提前加服;每次记下时间和剂量;退烧不超过3天、止痛不超过5天,仍不好就医;吃对乙酰氨基酚期间不喝酒,肝病、长期饮酒的人先问医生;所有药锁好。③对乙酰氨基酚过量: 最初1-2天可能毫无症状或只有恶心、呕吐、出汗、乏力,2-4天后才出现右上腹痛、皮肤眼白发黄、嗜睡或意识混乱,这时肝脏已严重受损;医院有特效解毒药,越早用越有效,最好在服药后8小时内;可能过量就立即就医,带上药盒,记下时间,不要催吐,不要在家观察。④立即就医: 体温≥40°C、持续高烧超过3天、意识改变、抽搐、呼吸困难、剧烈头痛呕吐、皮肤出现瘀点瘀斑、婴幼儿精神萎靡;止痛药按说明书用了5天还不缓解也要就医" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>常用退烧止痛药: 谁能用、怎样用才安全</title>
+<defs>
+<marker id="arK" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#555"/></marker>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">常用退烧止痛药: 谁能用、怎样用才安全</text>
+
+<!-- 警告 -->
+<rect x="8" y="42" width="704" height="58" rx="6" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<g font-size="13">
+<text x="20" y="65"><tspan font-weight="bold" fill="#c33">⚠ 剂量以所用药品说明书为准。</tspan>儿童按体重算,用药品自带的量杯、量管</text>
+<text x="20" y="88"><tspan font-weight="bold" fill="#c33">3个月以下婴儿发烧不要自己用药,直接就医;</tspan>出现危险信号时,任何药都不能代替就医</text>
+</g>
+
+<!-- ① 对比表 -->
+<rect x="8" y="110" width="704" height="398" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="134" font-size="15" font-weight="bold">① 三种常用非处方药怎么选</text>
+<!-- 表头 -->
+<g stroke="#333" stroke-width="1.5">
+<rect x="134" y="146" width="184" height="50" rx="8" fill="#cfe0f0"/>
+<rect x="326" y="146" width="184" height="50" rx="8" fill="#cfe0f0"/>
+<rect x="518" y="146" width="184" height="50" rx="8" fill="#f4e0e0"/>
+</g>
+<g text-anchor="middle">
+<text x="226" y="168" font-size="15" font-weight="bold">对乙酰氨基酚</text>
+<text x="226" y="187" font-size="12" fill="#555">(扑热息痛)</text>
+<text x="418" y="177" font-size="15" font-weight="bold">布洛芬</text>
+<text x="610" y="168" font-size="15" font-weight="bold">阿司匹林</text>
+<text x="610" y="187" font-size="12" fill="#555">(乙酰水杨酸)</text>
+</g>
+<!-- 行底色 -->
+<g fill="#eef2f6">
+<rect x="18" y="200" width="684" height="30"/>
+<rect x="18" y="260" width="684" height="30"/>
+<rect x="18" y="320" width="684" height="30"/>
+<rect x="18" y="380" width="684" height="46"/>
+</g>
+<g font-size="13" font-weight="bold">
+<text x="24" y="220">成人每次 *</text>
+<text x="24" y="250">间隔</text>
+<text x="24" y="280">每天上限 *</text>
+<text x="24" y="310">儿童</text>
+<text x="24" y="340">孕妇</text>
+<text x="24" y="370">抗炎(消肿)</text>
+<text x="24" y="408">主要风险</text>
+<text x="24" y="454">更适合</text>
+</g>
+<g font-size="13" text-anchor="middle">
+<text x="226" y="220" font-weight="bold">500 mg</text>
+<text x="418" y="220" font-weight="bold">200-400 mg</text>
+<text x="610" y="220">按说明书</text>
+<text x="226" y="250" font-weight="bold">≥4小时</text>
+<text x="418" y="250" font-weight="bold">4-6小时</text>
+<text x="610" y="250">按说明书</text>
+<text x="226" y="280" font-weight="bold">2000 mg</text>
+<text x="418" y="280" font-weight="bold">1200 mg</text>
+<text x="610" y="280">按说明书</text>
+<text x="226" y="310">3个月以上可用</text>
+<text x="418" y="310">6个月以上可用</text>
+<text x="610" y="310" fill="#c33" font-weight="bold">✗ 18岁以下不用</text>
+<text x="226" y="340">退烧首选(短期)</text>
+<text x="418" y="340" fill="#c33">避免,尤其孕20周以后</text>
+<text x="610" y="340" fill="#c33" font-weight="bold">✗ 不用</text>
+<text x="226" y="370">无</text>
+<text x="418" y="370">有</text>
+<text x="610" y="370">有</text>
+<text x="226" y="408" fill="#c33" font-weight="bold">过量致肝损伤</text>
+<text x="418" y="408" fill="#c33">胃出血、伤肾</text>
+<text x="610" y="400" fill="#c33">胃出血、出血不止、</text>
+<text x="610" y="418" fill="#c33">瑞氏综合征</text>
+<text x="226" y="446">胃病、出血倾向、吃抗凝药、</text>
+<text x="226" y="464">肾病、脱水、哮喘</text>
+<text x="418" y="446">扭伤、牙痛、痛经等</text>
+<text x="418" y="464">有红肿发炎的疼痛</text>
+<text x="610" y="446">退烧止痛一般不首选;</text>
+<text x="610" y="464">疑似心梗时嚼服</text>
+</g>
+<g stroke="#ccc" stroke-width="1">
+<path d="M322,200 V472 M514,200 V472"/>
+</g>
+<text x="18" y="496" font-size="12" fill="#555">* 非处方说明书常见的成人量;更高剂量须遵医嘱。长期饮酒、肝病、营养不良或体重&lt;50 kg的成人每天总量要更低,先问医生</text>
+
+<!-- ② 共同原则 -->
+<rect x="8" y="518" width="704" height="198" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="542" font-size="15" font-weight="bold">② 共同原则</text>
+<g font-size="13">
+<text x="22" y="568"><tspan fill="#0b5cad" font-weight="bold">1</tspan>  一次只用一种,不叠加,也不“交替”(容易算错次数和总量)</text>
+<text x="22" y="590"><tspan fill="#0b5cad" font-weight="bold">2</tspan>  先看成分表: 很多复方感冒药含对乙酰氨基酚(药名常带“氨酚”“酚麻”“氨咖”)</text>
+<text x="38" y="608">或阿司匹林(写作“乙酰水杨酸”),算在总量里;已经在吃这类感冒药,就不要再另加退烧药</text>
+<text x="22" y="630"><tspan fill="#0b5cad" font-weight="bold">3</tspan>  等够间隔时间;体温降1-1.5°C、人舒服了就算有效,不因为没降到正常就提前加服</text>
+<text x="22" y="652"><tspan fill="#0b5cad" font-weight="bold">4</tspan>  每次记下时间和剂量(多人照顾病人时尤其要记)</text>
+<text x="22" y="674"><tspan fill="#0b5cad" font-weight="bold">5</tspan>  退烧不超过3天、止痛不超过5天,仍不好就医</text>
+<text x="22" y="696"><tspan fill="#0b5cad" font-weight="bold">6</tspan>  吃对乙酰氨基酚期间不喝酒;所有药锁好,放在儿童拿不到的地方</text>
+</g>
+
+<!-- ③ 过量 -->
+<rect x="8" y="726" width="704" height="200" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="750" font-size="15" font-weight="bold">③ 对乙酰氨基酚过量: 早期常常没症状,不要等</text>
+<!-- 8小时括号 -->
+<path d="M60,790 V782 H200 V790" fill="none" stroke="#0b5cad" stroke-width="2"/>
+<text x="130" y="774" font-size="12" text-anchor="middle" fill="#0b5cad" font-weight="bold">解毒药最好在这段时间内用</text>
+<!-- 时间轴 -->
+<path d="M50,806 H692" stroke="#555" stroke-width="2.5" marker-end="url(#arK)"/>
+<path d="M440,806 H688" stroke="#c33" stroke-width="4"/>
+<g stroke="#333" stroke-width="2">
+<path d="M60,798 V814 M200,798 V814 M320,798 V814 M440,798 V814"/>
+</g>
+<g font-size="12" text-anchor="middle">
+<text x="60" y="830" font-weight="bold">服药</text>
+<text x="200" y="830" font-weight="bold">8小时</text>
+<text x="320" y="830" font-weight="bold">1-2天</text>
+<text x="440" y="830" font-weight="bold">2-4天后</text>
+</g>
+<text x="690" y="790" font-size="11" text-anchor="end" fill="#555">(时间轴不按比例)</text>
+<g font-size="12">
+<text x="60" y="852">最初1-2天: 可能毫无症状,</text>
+<text x="60" y="868">或只有恶心、呕吐、出汗、乏力</text>
+<text x="440" y="852" fill="#c33">右上腹痛、皮肤眼白发黄、</text>
+<text x="440" y="868" fill="#c33">嗜睡或意识混乱 → 肝脏已严重受损</text>
+</g>
+<g font-size="13">
+<text x="18" y="896"><tspan font-weight="bold" fill="#c33">可能过量就立即就医:</tspan> 带上药盒、数一数剩下几片,记下大概什么时间吃的</text>
+<text x="18" y="916"><tspan fill="#c33">✗</tspan> 不要催吐  <tspan fill="#c33">✗</tspan> 不要因为“现在没症状”就在家观察  <tspan fill="#c33">✗</tspan> 不要用偏方“解毒”</text>
+</g>
+
+<!-- ④ 危险信号 -->
+<rect x="8" y="936" width="704" height="110" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="960" font-size="15" font-weight="bold">④ 出现这些立即就医(如有条件)</text>
+<g fill="#fdf3f3" stroke="#c33" stroke-width="1.5">
+<rect x="20" y="972" width="86" height="28" rx="14"/>
+<rect x="116" y="972" width="104" height="28" rx="14"/>
+<rect x="230" y="972" width="72" height="28" rx="14"/>
+<rect x="312" y="972" width="50" height="28" rx="14"/>
+<rect x="372" y="972" width="72" height="28" rx="14"/>
+<rect x="454" y="972" width="114" height="28" rx="14"/>
+<rect x="20" y="1008" width="140" height="28" rx="14"/>
+<rect x="170" y="1008" width="114" height="28" rx="14"/>
+</g>
+<g font-size="13" text-anchor="middle" fill="#c33" font-weight="bold">
+<text x="63" y="991">体温≥40°C</text>
+<text x="168" y="991">持续高烧>3天</text>
+<text x="266" y="991">意识改变</text>
+<text x="337" y="991">抽搐</text>
+<text x="408" y="991">呼吸困难</text>
+<text x="511" y="991">剧烈头痛、呕吐</text>
+<text x="90" y="1027">皮肤出现瘀点、瘀斑</text>
+<text x="227" y="1027">婴幼儿精神萎靡</text>
+</g>
+<text x="298" y="1027" font-size="13">止痛药按说明书用了5天还不缓解,也要就医</text>
+</g>
+</svg>
