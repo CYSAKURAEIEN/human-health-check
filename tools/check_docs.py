@@ -11,6 +11,7 @@
 4. docs/10-中药材识别与采集/10-药名索引.md 与脚本生成结果一致(需要 pypinyin;没装则跳过)
 5. docs/images/ 里的 SVG: 有白色背景和 <title>,不含脚本、外部引用,单个不超过 100 KB
 6. 根 README.md 的"示意图目录"与 tools/build_figure_index.py 生成的结果一致
+7. 英文版(en/): 标题结构与中文原文一一对应,已有英文版的章节不再链接中文原文(见 tools/en_links.py)
 """
 import os
 import re
@@ -38,7 +39,7 @@ NUM = r'(?<![0-9A-Za-z.])\d+(?:\.\d+)?'
 
 
 def md_files():
-    out = [f for f in subprocess.run(['git', '-C', ROOT, 'ls-files', '-z', '*.md'], capture_output=True,
+    out = [f for f in subprocess.run(['git', '-C', ROOT, 'ls-files', '-z', '-co', '--exclude-standard', '*.md'], capture_output=True,
                                      text=True).stdout.split('\0') if f]
     if not out:  # 不在 git 仓库里时退回到遍历目录
         out = [os.path.relpath(os.path.join(d, f), ROOT) for d, _, fs in os.walk(ROOT)
@@ -125,13 +126,18 @@ def check_units(files, errors):
 
 
 def check_svgs(errors):
-    d = os.path.join(ROOT, 'docs', 'images')
+    for sub in ('docs/images', 'en/images'):
+        check_svg_dir(sub, errors)
+
+
+def check_svg_dir(sub, errors):
+    d = os.path.join(ROOT, sub)
     if not os.path.isdir(d):
         return
     for f in sorted(os.listdir(d)):
         if not f.endswith('.svg'):
             continue
-        rel = f'docs/images/{f}'
+        rel = f'{sub}/{f}'
         s = open(os.path.join(d, f), encoding='utf-8').read()
         if os.path.getsize(os.path.join(d, f)) > 100 * 1024:
             errors.append(f'{rel}: 超过 100 KB')
@@ -163,9 +169,23 @@ def check_figure_index(errors):
     sys.path.insert(0, os.path.join(ROOT, 'tools'))
     sys.dont_write_bytecode = True  # 不在 tools/ 里留下 __pycache__
     import build_figure_index
-    readme = open(os.path.join(ROOT, 'README.md'), encoding='utf-8').read()
-    if build_figure_index.updated(readme) != readme:
-        errors.append('README.md 的示意图目录不是最新的: 请运行 python3 tools/build_figure_index.py')
+    for rel, en in (('README.md', False), ('en/README.md', True)):
+        if not os.path.isfile(os.path.join(ROOT, rel)):
+            continue
+        readme = open(os.path.join(ROOT, rel), encoding='utf-8').read()
+        if build_figure_index.updated(readme, en) != readme:
+            errors.append(f'{rel} 的示意图目录不是最新的: 请运行 python3 tools/build_figure_index.py')
+
+
+def check_english(errors):
+    if not os.path.isfile(os.path.join(ROOT, 'en', 'paths.tsv')):
+        return
+    sys.path.insert(0, os.path.join(ROOT, 'tools'))
+    sys.dont_write_bytecode = True
+    import en_links
+    zh2en = en_links.load_paths()
+    errors += en_links.structure_problems(zh2en)
+    errors += en_links.stale_links(zh2en)
 
 
 def main():
@@ -176,6 +196,7 @@ def main():
     check_svgs(errors)
     check_herb_index(errors)
     check_figure_index(errors)
+    check_english(errors)
     for e in errors:
         print(e)
     print(f'检查了 {len(files)} 个文件,发现 {len(errors)} 个问题')
