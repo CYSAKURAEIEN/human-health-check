@@ -1,0 +1,152 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1046" width="720" height="1046" role="img" aria-label="Oral rehydration for diarrhoea and vomiting. First choice: oral rehydration salts III from a pharmacy, mixed as the leaflet says. If you have none, home emergency mix (not the WHO formula, contains no potassium): 1 L cooled boiled water (about two 500 mL water bottles), plus half a level teaspoon of salt (about 3 g) and 6 level teaspoons of sugar (about 25 g); a level teaspoon is a spoonful scraped flat with a chopstick, about 5 mL, not a heaped spoonful. Taste it once mixed: it should be no saltier than tears; if too salty, dilute with water; with no sugar, use 1 L thin rice water instead of sugar water, same amount of salt; drink within 24 hours at room temperature; bananas and similar foods also help replace potassium; never add extra salt. How to give it: small amounts often; for babies and young children use a small spoon or cup, one spoonful (about 5 mL) every 1-2 minutes, do not let them gulp; if they vomit, wait 10 minutes and carry on more slowly; keep breastfeeding, keep drinking water and feeding as usual; do not use sports drinks, fizzy drinks or pure fruit juice instead. No obvious dehydration, after each loose stool: under 2 years 50-100 mL, 2-10 years 100-200 mL, over 10 years and adults 200-400 mL. Some dehydration: give 75 mL times body weight (kg) within 4 hours, then reassess after 4 hours. More urine, paler urine and a livelier child mean enough has been given. Go to hospital at once for: drowsiness or cannot be woken, very sunken eyes, cannot drink or keeps vomiting, pinched skin takes more than 2 seconds to flatten, very little urine or none for over 6 hours, blood in stool or black stool, high fever over 39°C, severe abdominal pain, diarrhoea for over 3 days without improvement" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Oral rehydration for diarrhoea and vomiting</title>
+<defs>
+<g id="tsp">
+<path d="M17 -1 L40 -7" stroke="#333" stroke-width="5" stroke-linecap="round"/>
+<path d="M17 -1 L40 -7" stroke="#e4e4e4" stroke-width="2" stroke-linecap="round"/>
+<ellipse cx="0" cy="0" rx="18" ry="10" fill="#f6efdc" stroke="#333" stroke-width="2"/>
+</g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Oral rehydration for diarrhoea and vomiting</text>
+<text x="360" y="52" font-size="13" text-anchor="middle" fill="#555">First choice: oral rehydration salts III (ORS III) from a pharmacy, mixed as the leaflet says.</text>
+<text x="360" y="70" font-size="13" text-anchor="middle" fill="#555">Make your own only if you have none (not the WHO formula; contains no potassium)</text>
+
+<!-- 1 recipe -->
+<g transform="translate(10,82)">
+<rect x="0" y="0" width="700" height="352" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">① Home emergency mix (when you have no ORS)</text>
+<!-- jug 1 L -->
+<path d="M100 76 Q124 80 122 104 Q120 128 100 132" fill="none" stroke="#333" stroke-width="3"/>
+<rect x="42" y="80" width="56" height="76" fill="#cfe5f5"/>
+<path d="M32 54 L42 62 V150 Q42 158 50 158 H90 Q98 158 98 150 V58" fill="none" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M42 80 H98" stroke="#3a7fc0" stroke-width="1.5"/>
+<text x="70" y="128" font-size="22" font-weight="bold" fill="#0b5cad" text-anchor="middle">1 L</text>
+<text x="70" y="184" font-size="15" font-weight="bold" text-anchor="middle">Cooled boiled</text>
+<text x="70" y="202" font-size="15" font-weight="bold" text-anchor="middle">water</text>
+<text x="70" y="220" font-size="12" text-anchor="middle" fill="#555">about two 500 mL</text>
+<text x="70" y="235" font-size="12" text-anchor="middle" fill="#555">water bottles</text>
+<text x="152" y="122" font-size="32" font-weight="bold" text-anchor="middle" fill="#555">+</text>
+<!-- salt: half a level teaspoon -->
+<path d="M236 106 L292 92" stroke="#333" stroke-width="8" stroke-linecap="round"/>
+<path d="M236 106 L292 92" stroke="#e4e4e4" stroke-width="3.5" stroke-linecap="round"/>
+<ellipse cx="208" cy="108" rx="30" ry="16" fill="#fff"/>
+<path d="M178 108 A30 16 0 0 0 208 124 V92 A30 16 0 0 0 178 108 Z" fill="#dcdcdc"/>
+<g fill="#999"><circle cx="190" cy="104" r="1.2"/><circle cx="198" cy="112" r="1.2"/><circle cx="186" cy="113" r="1.2"/><circle cx="202" cy="100" r="1.2"/><circle cx="196" cy="118" r="1.2"/><circle cx="204" cy="108" r="1.2"/></g>
+<ellipse cx="208" cy="108" rx="30" ry="16" fill="none" stroke="#333" stroke-width="2.5"/>
+<text x="232" y="164" font-size="15" font-weight="bold" text-anchor="middle">Salt</text>
+<text x="232" y="186" font-size="17" font-weight="bold" text-anchor="middle" fill="#c33">½ level teaspoon</text>
+<text x="232" y="206" font-size="13" text-anchor="middle">(about 3 g)</text>
+<text x="318" y="122" font-size="32" font-weight="bold" text-anchor="middle" fill="#555">+</text>
+<!-- sugar: 6 level teaspoons -->
+<use href="#tsp" x="362" y="86"/><use href="#tsp" x="418" y="86"/><use href="#tsp" x="474" y="86"/>
+<use href="#tsp" x="362" y="124"/><use href="#tsp" x="418" y="124"/><use href="#tsp" x="474" y="124"/>
+<text x="430" y="164" font-size="15" font-weight="bold" text-anchor="middle">Sugar</text>
+<text x="430" y="186" font-size="17" font-weight="bold" text-anchor="middle" fill="#c33">6 level teaspoons</text>
+<text x="430" y="206" font-size="13" text-anchor="middle">(about 25 g)</text>
+<!-- how to measure a level teaspoon -->
+<path d="M535 36 V232" stroke="#ddd" stroke-width="1.5"/>
+<text x="617" y="40" font-size="13" font-weight="bold" text-anchor="middle">How to measure a</text>
+<text x="617" y="56" font-size="13" font-weight="bold" text-anchor="middle">“level teaspoon”</text>
+<path d="M556 92 Q576 62 596 92 Z" fill="#f6efdc" stroke="#333" stroke-width="1.8"/>
+<use href="#tsp" x="576" y="94"/>
+<use href="#tsp" x="648" y="94"/>
+<path d="M622 85 L688 81" stroke="#8a6a3a" stroke-width="4" stroke-linecap="round"/>
+<text x="580" y="128" font-size="13" font-weight="bold" text-anchor="middle" fill="#c33">✗ heaped</text>
+<text x="654" y="128" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b5cad">✓ level</text>
+<text x="654" y="144" font-size="12" text-anchor="middle" fill="#0b5cad">scraped flat with</text>
+<text x="654" y="158" font-size="12" text-anchor="middle" fill="#0b5cad">a chopstick</text>
+<text x="617" y="186" font-size="13" text-anchor="middle">1 level tsp ≈ 5 mL</text>
+<text x="617" y="204" font-size="12" text-anchor="middle" fill="#555">not a heaped spoonful</text>
+<!-- key points -->
+<path d="M10 248 H690" stroke="#ddd" stroke-width="1"/>
+<g font-size="13">
+<text x="14" y="270">✓ Taste it: no saltier than tears;</text>
+<text x="28" y="288">if too salty, dilute with water</text>
+<text x="14" y="308">✓ No sugar: use 1 L thin rice water instead,</text>
+<text x="28" y="326">same amount of salt</text>
+<text x="28" y="343" font-size="12" fill="#555">(water strained from well-cooked rice, cooled)</text>
+<text x="384" y="270">✓ Drink within 24 hours at room temperature;</text>
+<text x="398" y="288">throw the rest away and make a fresh batch</text>
+<text x="384" y="308">✓ No potassium: also eat bananas etc.</text>
+<text x="384" y="326" fill="#c33" font-weight="bold">✗ Never add extra salt (worsens dehydration)</text>
+</g>
+</g>
+
+<!-- 2 how to give it -->
+<g transform="translate(10,444)">
+<rect x="0" y="0" width="345" height="366" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">② How to give it: small sips, often</text>
+<path d="M88 66 L148 50" stroke="#333" stroke-width="8" stroke-linecap="round"/>
+<path d="M88 66 L148 50" stroke="#e4e4e4" stroke-width="3.5" stroke-linecap="round"/>
+<ellipse cx="62" cy="70" rx="30" ry="15" fill="#cfe5f5" stroke="#333" stroke-width="2.5"/>
+<text x="62" y="108" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b5cad">1 spoon ≈ 5 mL</text>
+<circle cx="250" cy="66" r="26" fill="#fff" stroke="#333" stroke-width="2.5"/>
+<path d="M250 44 V48 M250 84 V88 M228 66 H232 M268 66 H272" stroke="#333" stroke-width="2"/>
+<path d="M250 66 V50 M250 66 L262 72" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M250 40 A26 26 0 0 1 274 56" fill="none" stroke="#c33" stroke-width="3"/>
+<text x="250" y="108" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b5cad">1 spoon every 1-2 min</text>
+<g font-size="13">
+<text x="12" y="140">Small children: small spoon or cup,</text>
+<text x="12" y="158">1 spoonful every 1-2 minutes; <tspan fill="#c33">don't</tspan></text>
+<text x="12" y="176" fill="#c33">let them gulp it down</text>
+<text x="12" y="200">If they vomit: wait 10 minutes, then</text>
+<text x="12" y="218">carry on more slowly</text>
+<text x="12" y="234" font-size="12" fill="#555">Most children who vomit still absorb most of it</text>
+<text x="12" y="258">Breastfed babies: keep breastfeeding;</text>
+<text x="12" y="276">give ORS between feeds</text>
+<text x="12" y="296">Drink at room temperature or slightly warm</text>
+<text x="12" y="322" fill="#c33" font-weight="bold">✗ Don't use sports drinks, fizzy drinks</text>
+<text x="26" y="340" fill="#c33" font-weight="bold">or pure fruit juice instead: too much</text>
+<text x="26" y="358" fill="#c33" font-weight="bold">sugar makes diarrhoea worse</text>
+</g>
+</g>
+
+<!-- 3 how much -->
+<g transform="translate(365,444)">
+<rect x="0" y="0" width="345" height="366" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">③ How much to drink</text>
+<text x="12" y="50" font-size="14" font-weight="bold">No obvious dehydration (Plan A),</text>
+<text x="12" y="68" font-size="14" font-weight="bold">after each loose stool:</text>
+<g font-size="14">
+<rect x="10" y="76" width="325" height="72" fill="#f3f7fb"/>
+<path d="M10 100 H335 M10 124 H335" stroke="#d5e0ec" stroke-width="1"/>
+<text x="20" y="94">Under 2 years</text><text x="325" y="94" text-anchor="end" font-weight="bold" fill="#0b5cad">50-100 mL</text>
+<text x="20" y="118">2-10 years</text><text x="325" y="118" text-anchor="end" font-weight="bold" fill="#0b5cad">100-200 mL</text>
+<text x="20" y="142">Over 10 years and adults</text><text x="325" y="142" text-anchor="end" font-weight="bold" fill="#0b5cad">200-400 mL</text>
+</g>
+<text x="12" y="166" font-size="12" fill="#555">Over 10 years and adults: as much as they want;</text>
+<text x="12" y="181" font-size="12" fill="#555">keep drinking water and breastfeeding as usual</text>
+<text x="12" y="206" font-size="13" font-weight="bold">Some dehydration (Plan B, best in hospital):</text>
+<text x="12" y="228" font-size="14">Give within 4 hours:</text>
+<text x="12" y="254" font-size="19" font-weight="bold" fill="#c33">75 mL × body weight (kg)</text>
+<text x="12" y="276" font-size="13" fill="#555">e.g. a 10 kg child: about 750 mL in 4 hours</text>
+<text x="12" y="298" font-size="13">Reassess after 4 hours: better → back to Plan A;</text>
+<text x="12" y="316" font-size="13"><tspan fill="#c33" font-weight="bold">not better or worse → to hospital at once</tspan></text>
+<text x="12" y="338" font-size="13" fill="#0b5cad" font-weight="bold">Enough when: urine output returns,</text>
+<text x="12" y="355" font-size="13" fill="#0b5cad" font-weight="bold">urine is paler, child is livelier</text>
+</g>
+
+<!-- 4 when to get medical help -->
+<g transform="translate(10,820)">
+<rect x="0" y="0" width="700" height="216" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<text x="12" y="26" font-size="16" font-weight="bold" fill="#c33">④ Go to hospital at once if (severe dehydration needs IV fluids):</text>
+<g font-size="14">
+<text x="14" y="54">• Drowsy, floppy, cannot be woken, confused</text>
+<text x="14" y="78">• Eyes very sunken, no tears when crying</text>
+<text x="14" y="102">• Drinks very little or cannot drink; keeps</text>
+<text x="26" y="120">vomiting so fluids cannot be given</text>
+<text x="14" y="144">• Pinched belly skin takes more than</text>
+<text x="26" y="162">2 seconds to flatten</text>
+<text x="370" y="54">• Very little urine, or none for over 6 hours</text>
+<text x="384" y="74" font-size="12" fill="#555">(babies: nappy dry for over 6 hours)</text>
+<text x="370" y="98">• Blood in stool or black stool</text>
+<text x="370" y="122">• High fever (&gt;39°C), severe abdominal pain</text>
+<text x="370" y="146">• Diarrhoea for over 3 days with no improvement</text>
+</g>
+<text x="14" y="188" font-size="13" fill="#555">Also: babies under 6 months with diarrhoea should see a doctor early. Older people feel less thirst:</text>
+<text x="14" y="206" font-size="13" fill="#555">see a doctor if they pass no urine for over 8 hours or their urine is as dark as strong tea</text>
+</g>
+</g>
+</svg>
