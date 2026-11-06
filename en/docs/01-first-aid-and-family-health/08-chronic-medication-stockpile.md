@@ -228,4 +228,4 @@ When you cannot see a doctor, being able to tell at home whether your condition 
 ---
 
 **Next chapter**: [Dental Problems](09-dental-problems.md)
-**Back**: [Part contents](../../../docs/01-日常疾病和伤害/README.md) | [Main contents](../../../README.md)
+**Back**: [Part contents](README.md) | [Main contents](../../README.md)

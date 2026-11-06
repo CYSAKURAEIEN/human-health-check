@@ -109,7 +109,7 @@ Prevention: wear safety goggles when grinding, chiselling, hammering
 or splitting wood.
 ```
 
-For safety protection when grinding and machining, see [钳工与机械加工 (Fitting and machining)](../../../docs/05-冶金技术/09-钳工与机械加工.md).
+For safety protection when grinding and machining, see [Fitting and machining](../../../docs/05-冶金技术/09-钳工与机械加工.md).
 
 #### Eyeball pierced or object stuck in the eye
 
@@ -206,7 +206,7 @@ Quicklime gives off a lot of heat when it meets water:
 ❌ Do not bandage or press on the eye after rinsing
 ```
 
-For whole-body treatment of pesticide or cleaning-product poisoning, see [中毒 (Poisoning)](../../../docs/01-日常疾病和伤害/12-中毒.md#中毒的通用处理原则).
+For whole-body treatment of pesticide or cleaning-product poisoning, see [Poisoning](../../../docs/01-日常疾病和伤害/12-中毒.md#中毒的通用处理原则).
 
 ---
 
@@ -356,7 +356,7 @@ Method 2: The "parent's kiss" (children)
    The parent seals their mouth completely over the child's mouth
    and gives one short, sharp puff, as if blowing up a balloon
    (not a long continuous blow).
-   The child instinctively closes the epiglottis, so the air can
+   The child instinctively closes the glottis, so the air can
    only go out through the nose and pushes the object out.
    Try 2-3 times; if it doesn't work, go to hospital.
    Telling the child beforehand "it's like a kiss" reduces struggling.
@@ -398,7 +398,7 @@ Sniffing hard can suck the object to the back of the nose, from where it can dro
 - Difficulty breathing
 - Heavy bleeding
 
-For how to stop a nosebleed by pressure, see [基础急救知识-鼻出血 (Basic first aid – Nosebleeds)](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#鼻出血).
+For how to stop a nosebleed by pressure, see [Basic first aid – Nosebleeds](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#鼻出血).
 
 ---
 
@@ -547,7 +547,7 @@ Details:
   carry on with compressions
 ```
 
-For the full CPR steps, see [基础急救知识-心肺复苏 (Basic first aid – CPR)](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#心肺复苏cpr).
+For the full CPR steps, see [Basic first aid – CPR](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#心肺复苏cpr).
 
 **Pregnant or obese casualty**:
 
@@ -675,7 +675,7 @@ Calling for help:
 
 **Partial obstruction in a baby**: if the baby can cry out loud and cough, let them cough by themselves, keep their head slightly lower and watch. Don't slap the back, don't hold them upside down, don't put your fingers in. If the crying gets weaker, the cough becomes silent or the lips turn blue, act at once as described above.
 
-For how infant CPR differs from adult CPR, see [儿童和婴儿CPR区别 (Differences in child and infant CPR)](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#儿童和婴儿cpr区别).
+For how infant CPR differs from adult CPR, see [Differences in child and infant CPR](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#儿童和婴儿cpr区别).
 
 #### ❌ Do not (babies)
 
@@ -730,7 +730,7 @@ by a doctor, especially if:
     balls or jelly
 ```
 
-For a detailed list of choking-hazard foods for children, see [儿童安全-防窒息 (Child safety – Preventing choking)](../../../docs/01-日常疾病和伤害/14-儿童安全.md#防窒息); for how to feed bedridden elderly people, see [老人照护-安全喂食 (Elder care – Safe feeding)](../../../docs/01-日常疾病和伤害/13-老人照护.md#安全喂食防止呛咳).
+For a detailed list of choking-hazard foods for children, see [Child safety – Preventing choking](../../../docs/01-日常疾病和伤害/14-儿童安全.md#防窒息); for how to feed bedridden elderly people, see [Elder care – Safe feeding](../../../docs/01-日常疾病和伤害/13-老人照护.md#安全喂食防止呛咳).
 
 ---
 
@@ -953,7 +953,7 @@ Danger signs:
   copy what adults do)
 ```
 
-For more on preventing children swallowing things, see [儿童安全-特别危险的小东西 (Child safety – Especially dangerous small objects)](../../../docs/01-日常疾病和伤害/14-儿童安全.md#特别危险的小东西).
+For more on preventing children swallowing things, see [Child safety – Especially dangerous small objects](../../../docs/01-日常疾病和伤害/14-儿童安全.md#特别危险的小东西).
 
 ---
 
@@ -982,7 +982,7 @@ Redness, swelling, heat and pain getting worse after a few days, or
 pus → something is left in or it's infected; see a doctor
 ```
 
-For details, see [外伤处理-浅表刺伤 (Wounds and injuries – Superficial puncture wounds)](../../../docs/01-日常疾病和伤害/02-外伤处理.md#浅表刺伤).
+For details, see [Wounds and injuries – Superficial puncture wounds](../../../docs/01-日常疾病和伤害/02-外伤处理.md#浅表刺伤).
 
 ### Fish hook injuries
 
@@ -1046,11 +1046,11 @@ The only exceptions: remove it only if it is blocking the mouth or
 nose so the person cannot breathe, or if it prevents CPR.
 ```
 
-For details, see [外伤处理-深刺伤 (Wounds and injuries – Deep puncture wounds)](../../../docs/01-日常疾病和伤害/02-外伤处理.md#深刺伤); for treating shock, see [基础急救知识-休克处理 (Basic first aid – Treating shock)](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#休克处理).
+For details, see [Wounds and injuries – Deep puncture wounds](../../../docs/01-日常疾病和伤害/02-外伤处理.md#深刺伤); for treating shock, see [Basic first aid – Treating shock](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#休克处理).
 
 ### Tetanus
 
-Any object that goes into the skin (especially rusty ones, ones soiled with earth or dung, and deep wounds from fish hooks, wood splinters or nails) carries a risk of tetanus. Whether a tetanus injection is needed: see [外伤处理-破伤风预防 (Wounds and injuries – Tetanus prevention)](../../../docs/01-日常疾病和伤害/02-外伤处理.md#破伤风预防).
+Any object that goes into the skin (especially rusty ones, ones soiled with earth or dung, and deep wounds from fish hooks, wood splinters or nails) carries a risk of tetanus. Whether a tetanus injection is needed: see [Wounds and injuries – Tetanus prevention](../../../docs/01-日常疾病和伤害/02-外伤处理.md#破伤风预防).
 
 ---
 

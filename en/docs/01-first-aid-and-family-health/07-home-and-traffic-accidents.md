@@ -63,7 +63,7 @@ Carbon monoxide has no colour and no smell. People are poisoned without noticing
    - Not responding and not breathing normally → start CPR immediately
 ```
 
-If you smell gas, see [Gas leaks](../../../docs/02-灾难应对/04-火灾.md#燃气泄漏); for CPR steps see [CPR](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#心肺复苏cpr).
+If you smell gas, see [Gas leaks](../../../docs/02-灾难应对/04-火灾.md#燃气泄漏); for CPR steps see [CPR](00-basic-first-aid.md#cardiopulmonary-resuscitation-cpr).
 
 ### ⚠️ See a doctor even if the person has come round
 
@@ -139,7 +139,7 @@ Many road deaths and injuries happen after the accident itself: people and cars 
 ✓ Do not give the casualty anything to drink or eat
 ```
 
-For stopping bleeding see [Bleeding control](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#止血方法); for moving casualties with spinal injuries see [Moving casualties](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#搬运伤员).
+For stopping bleeding see [Bleeding control](00-basic-first-aid.md#stopping-bleeding); for moving casualties with spinal injuries see [Moving casualties](00-basic-first-aid.md#moving-a-casualty).
 
 **Helmets of motorcycle and e-bike riders**:
 ```
@@ -203,4 +203,4 @@ For a fuller in-car emergency kit, see [Disaster response - In-car emergency kit
 ---
 
 **Next chapter**: [Chronic Medication Stockpile](08-chronic-medication-stockpile.md)
-**Back**: [Part contents](../../../docs/01-日常疾病和伤害/README.md) | [Main contents](../../../README.md)
+**Back**: [Part contents](README.md) | [Main contents](../../README.md)

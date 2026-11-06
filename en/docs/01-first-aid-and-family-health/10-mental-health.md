@@ -282,4 +282,4 @@ In any of the following situations, seek professional help as soon as possible (
 ---
 
 **Next chapter**: [Emergency Childbirth and Newborn Care](11-emergency-childbirth-and-newborn-care.md)
-**Back**: [Part contents](../../../docs/01-日常疾病和伤害/README.md) | [Main contents](../../../README.md)
+**Back**: [Part contents](README.md) | [Main contents](../../README.md)

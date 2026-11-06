@@ -121,7 +121,8 @@ For stockpiling antibiotics, see [Antibiotic production - Stockpiling advice](..
 2. Hold it only by the crown (the white part that shows in the mouth); do not touch the root
 3. If it is dirty:
    - Rinse it gently with milk or saline (for a few seconds)
-   - ⚠️ Do not rinse it with tap water, do not scrub it with a brush, do not wipe the root with tissue
+   - If you have no milk or saline, rinse it under cold tap water for a few seconds (no more than 10 seconds)
+   - ⚠️ Do not scrub it with a brush, do not wipe the root with tissue, do not soak it in plain water
 4. Put it back in its own socket as soon as possible:
    - Make sure it is the right way round (compare with the teeth next to it)
    - Press it back gently with a finger
@@ -161,7 +162,7 @@ Loose or displaced tooth:
 ### Also watch for
 
 - Mouth injuries may come with a broken jaw or head injury; see [Bone and joint injuries](../../../docs/01-日常疾病和伤害/03-骨骼损伤.md)
-- For mouth wounds contaminated with soil, think about tetanus prevention; see [Wounds and injuries - Tetanus prevention](../../../docs/01-日常疾病和伤害/02-外伤处理.md#破伤风预防)
+- For mouth wounds contaminated with soil, think about tetanus prevention; see [Wounds and injuries - Tetanus prevention](02-wounds-and-injuries.md#tetanus-prevention)
 
 ---
 
@@ -261,7 +262,7 @@ No toothbrush:
 
 ```
 1. Spreading swelling of the face or neck, difficulty swallowing or breathing → emergency, get medical help immediately
-2. Permanent tooth knocked out: hold the crown, do not touch the root, do not rinse with tap water; put it back within 15 minutes or keep it in milk and go to a dentist
+2. Permanent tooth knocked out: hold the crown, do not touch the root, do not scrub or wipe it, do not soak it in plain water; put it back within 15 minutes or keep it in milk and go to a dentist
 3. Do not put a knocked-out baby tooth back
 4. Do not put aspirin on the gum (it burns)
 5. "Anti-inflammatories" cannot cure a rotten tooth; the real fix comes from a dentist
@@ -272,4 +273,4 @@ No toothbrush:
 ---
 
 **Next chapter**: [Mental Health](10-mental-health.md)
-**Back**: [Part contents](../../../docs/01-日常疾病和伤害/README.md) | [Main contents](../../../README.md)
+**Back**: [Part contents](README.md) | [Main contents](../../README.md)
