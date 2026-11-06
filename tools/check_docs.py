@@ -10,6 +10,7 @@
 3. 数值单位用国际符号: 不写"5米""3公斤",符号和数字之间留空格(写"5 m"不写"5m"),见 CLAUDE.md
 4. docs/10-中药材识别与采集/10-药名索引.md 与脚本生成结果一致(需要 pypinyin;没装则跳过)
 5. docs/images/ 里的 SVG: 有白色背景和 <title>,不含脚本、外部引用,单个不超过 100 KB
+6. 根 README.md 的"示意图目录"与 tools/build_figure_index.py 生成的结果一致
 """
 import os
 import re
@@ -158,6 +159,15 @@ def check_herb_index(errors):
         errors.append('docs/10-中药材识别与采集/10-药名索引.md 不是最新的: 请运行 python3 tools/build_herb_index.py')
 
 
+def check_figure_index(errors):
+    sys.path.insert(0, os.path.join(ROOT, 'tools'))
+    sys.dont_write_bytecode = True  # 不在 tools/ 里留下 __pycache__
+    import build_figure_index
+    readme = open(os.path.join(ROOT, 'README.md'), encoding='utf-8').read()
+    if build_figure_index.updated(readme) != readme:
+        errors.append('README.md 的示意图目录不是最新的: 请运行 python3 tools/build_figure_index.py')
+
+
 def main():
     files = md_files()
     errors = []
@@ -165,6 +175,7 @@ def main():
     check_units(files, errors)
     check_svgs(errors)
     check_herb_index(errors)
+    check_figure_index(errors)
     for e in errors:
         print(e)
     print(f'检查了 {len(files)} 个文件,发现 {len(errors)} 个问题')
