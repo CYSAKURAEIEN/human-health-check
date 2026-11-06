@@ -156,6 +156,7 @@ img{max-width:100%;height:auto;display:block;margin:.8em auto}
 .doc{border-top:3px double #bbb;margin-top:2em}
 #top{position:fixed;right:1em;bottom:1em;background:#c33;color:#fff;padding:.4em .7em;border-radius:4px;text-decoration:none}
 @media print{#top{display:none}.doc{page-break-before:always}pre,table,blockquote,img{page-break-inside:avoid}
+  img{max-height:255mm;width:auto}
   a{color:#222;text-decoration:none}body{max-width:none;padding:0}
   .colophon{page-break-after:always}
 }
