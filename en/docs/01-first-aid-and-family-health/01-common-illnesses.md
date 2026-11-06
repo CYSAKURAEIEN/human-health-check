@@ -143,7 +143,7 @@ High-risk groups for flu (children under 5, especially under 2; adults over 65; 
 ✓ Get a flu vaccine
 ```
 
-For how to wash your hands, see [Sanitation - How to Wash](../../../docs/07-日常生活技能/03-卫生设施.md#怎么洗); for isolation and disinfection when someone at home has a respiratory infection, see [Infectious Disease at Home](../../../docs/01-日常疾病和伤害/15-传染病家庭防控.md#呼吸道传染病).
+For how to wash your hands, see [Sanitation - How to Wash](../../../docs/07-日常生活技能/03-卫生设施.md#怎么洗); for isolation and disinfection when someone at home has a respiratory infection, see [Infectious Disease at Home](15-infectious-disease-at-home.md#respiratory-infections).
 
 ### ⚠️ When to See a Doctor
 
@@ -192,7 +192,7 @@ Key points:
 - The high temperature of heatstroke works differently from fever; fever medicines do not work, and the person must be cooled physically at once (see Acute Symptoms - Heatstroke)
 ```
 
-For treating heatstroke, see [Acute Symptoms - Heatstroke](../../../docs/01-日常疾病和伤害/05-急性症状.md#中暑).
+For treating heatstroke, see [Acute Symptoms - Heatstroke](05-acute-symptoms.md#heatstroke).
 
 ### How to Take a Temperature Correctly
 
@@ -288,7 +288,7 @@ Note:
 - Children: no more than 4 doses in 24 hours; can be used from 3 months
 - Chinese over-the-counter leaflets usually say 500 mg per dose and no more than 4 doses in 24 hours (2000 mg a day); follow the leaflet when treating yourself; higher amounts only on a doctor's instructions
 - Adults who drink heavily over long periods, have liver disease, are malnourished or weigh <50 kg need a lower daily total; ask a doctor first
-- Overdose causes serious liver damage, possibly with no symptoms at all at first (see [Poisoning - Drug Overdose and Accidental Ingestion](../../../docs/01-日常疾病和伤害/12-中毒.md#药物过量与误服))
+- Overdose causes serious liver damage, possibly with no symptoms at all at first (see [Poisoning - Drug Overdose and Accidental Ingestion](12-poisoning.md#drug-overdose-and-accidental-swallowing))
 
 **Ibuprofen**
 - Adult dose: 200-400 mg, every 4-6 hours
@@ -406,7 +406,7 @@ More notes:
 - A child having a seizure with fever (febrile seizure): the first one must always be seen by a doctor
 ```
 
-For on-the-spot care of febrile seizures, see [Heart, Stroke and Sudden Illness - Febrile Seizures in Children](../../../docs/01-日常疾病和伤害/06-心脑血管与突发病症.md#儿童高热惊厥); for other danger signs in pregnancy, see [Emergency Childbirth and Newborn Care - Danger Signs in Pregnancy](../../../docs/01-日常疾病和伤害/11-紧急分娩与新生儿护理.md#孕期危险信号); for danger signs in newborns, see [Emergency Childbirth and Newborn Care - The Newborn's First Few Days](../../../docs/01-日常疾病和伤害/11-紧急分娩与新生儿护理.md#新生儿最初几天).
+For on-the-spot care of febrile seizures, see [Heart, Stroke and Sudden Illness - Febrile Seizures in Children](06-heart-stroke-and-sudden-illness.md#febrile-seizures-in-children); for other danger signs in pregnancy, see [Emergency Childbirth and Newborn Care - Danger Signs in Pregnancy](11-emergency-childbirth-and-newborn-care.md#danger-signs-in-pregnancy); for danger signs in newborns, see [Emergency Childbirth and Newborn Care - The Newborn's First Few Days](11-emergency-childbirth-and-newborn-care.md#newborn-care-in-the-first-few-days).
 
 ### ⚠️ Emergency Care
 
@@ -453,7 +453,7 @@ The "glass test" - does the rash fade?
 - When the water supply is cut, after floods, or where people are crowded together, diarrhoea easily breaks out in clusters; for infection control, see Infectious Disease at Home
 ```
 
-For control of diarrhoeal infectious diseases such as cholera and dysentery, see [Infectious Disease at Home - Diarrhoeal Infections](../../../docs/01-日常疾病和伤害/15-传染病家庭防控.md#腹泻类传染病).
+For control of diarrhoeal infectious diseases such as cholera and dysentery, see [Infectious Disease at Home - Diarrhoeal Infections](15-infectious-disease-at-home.md#diarrhoeal-infections).
 
 ### Assessing the Symptoms
 
@@ -746,7 +746,7 @@ Most vomiting is gastroenteritis and passes in a day or two. But vomiting can al
 | Severe headache, weakness on one side of the body, drooping corner of the mouth | Stroke | Call 120 immediately |
 | Boy with sudden pain in the scrotum and vomiting | Testicular torsion | See a doctor immediately (after more than 6 hours the testicle may not be saved) |
 
-Related chapters: [Heart Attack and Chest Pain](../../../docs/01-日常疾病和伤害/06-心脑血管与突发病症.md#心梗与胸痛), [Stroke](../../../docs/01-日常疾病和伤害/06-心脑血管与突发病症.md#中风), [Carbon Monoxide Poisoning](../../../docs/01-日常疾病和伤害/07-居家与交通意外.md#一氧化碳中毒), [Poisoning](12-poisoning.md).
+Related chapters: [Heart Attack and Chest Pain](06-heart-stroke-and-sudden-illness.md#heart-attack-and-chest-pain), [Stroke](06-heart-stroke-and-sudden-illness.md#stroke), [Carbon Monoxide Poisoning](07-home-and-traffic-accidents.md#carbon-monoxide-poisoning), [Poisoning](12-poisoning.md).
 
 ### What to Do Straight Away
 
@@ -764,7 +764,7 @@ More:
 - Treat vomit and contaminated floors and clothes as infectious material (norovirus spreads very easily through a whole family)
 ```
 
-For how to disinfect vomit, see [Infectious Disease at Home - Making Household Disinfectant](../../../docs/01-日常疾病和伤害/15-传染病家庭防控.md#家用消毒液的配制).
+For how to disinfect vomit, see [Infectious Disease at Home - Making Household Disinfectant](15-infectious-disease-at-home.md#making-household-disinfectant).
 
 #### After Vomiting
 ```
@@ -873,7 +873,7 @@ See a doctor immediately:
 ⚠️ Suspected swallowing of medicines, batteries, magnets, cleaning products and the like
 ```
 
-For swallowed batteries, magnets and similar, see [Foreign Bodies - Swallowed Objects](../../../docs/01-日常疾病和伤害/04-异物处理.md#误吞异物); for swallowed medicines or cleaning products, see [Poisoning](12-poisoning.md).
+For swallowed batteries, magnets and similar, see [Foreign Bodies - Swallowed Objects](04-foreign-bodies-and-choking.md#swallowed-objects); for swallowed medicines or cleaning products, see [Poisoning](12-poisoning.md).
 
 ### ⚠️ When to See a Doctor
 
@@ -894,3 +894,817 @@ Also see a doctor soon if:
 
 ---
 
+## Food Poisoning
+
+### Symptoms
+
+Usually start a few hours to a few days after eating (mostly within 1-72 hours; toxin-type poisoning such as *Staphylococcus aureus* can start as fast as half an hour to a few hours; see "Features of Different Causes" below):
+- Nausea, vomiting
+- Diarrhoea (possibly with blood)
+- Abdominal pain, cramps
+- Fever
+- Headache, tiredness
+
+```
+Clues:
+- People who ate the same food fall ill one after another → very likely food poisoning
+- Early onset (within a few hours), mainly vomiting → mostly toxins already formed in the food
+- Late onset (a day or two later), mainly diarrhoea and fever → mostly bacteria multiplying in the gut
+- Blurred vision, drooping eyelids, difficulty speaking or swallowing, weak limbs → suspect botulism; see a doctor immediately
+```
+
+### What to Do
+
+#### 1. Stop Eating the Suspect Food
+```
+- Keep samples of the leftover food (for testing)
+- Write down: what food, when it was eaten, when symptoms began
+
+More:
+- Seal leftover food and vomit in clean bags or containers, keep them refrigerated, and take them to the hospital or give them to the CDC
+- Tell the others who ate with you to watch for symptoms
+- Write down how many people ate together, who fell ill and who did not - this helps work out which food it was
+```
+
+#### 2. Fluids
+```
+- Drink a little every 15 minutes
+- ORS is the first choice
+- Avoid caffeine and alcohol
+
+Amounts and methods are the same as under "Diarrhoea" and "Vomiting" in this chapter
+```
+
+#### 3. Rest
+```
+- Rest in bed
+- Avoid strenuous activity
+```
+
+#### 4. Return to Eating Gradually
+```
+- Start eating once symptoms ease
+- Begin with plain, light food
+```
+
+```
+❌ Do not:
+❌ Do not make yourself sick by putting fingers down your throat or drinking salt water (someone already vomiting and with diarrhoea is clearing it out themselves; inducing vomiting can cause choking and inhaling vomit)
+❌ Do not take antidiarrhoeal medicines on your own initiative if there is fever or blood in the stool
+❌ Do not take antibiotics on your own initiative
+❌ Do not drink "antidote" folk remedies (mung bean soup, vinegar, raw eggs and so on) instead of seeing a doctor
+```
+
+### Features of Different Causes
+
+| Cause | Incubation period | Typical symptoms | Common sources |
+|--------|--------|----------|----------|
+| *Staphylococcus aureus* | 0.5-8 hours (mostly 2-4 hours) | Violent vomiting | Cooked food, pastries |
+| *Bacillus cereus* | 0.5-6 hours (vomiting type) | Vomiting | Leftover rice and fried rice left at room temperature for a long time |
+| *Vibrio parahaemolyticus* | 4-30 hours (mostly 12-24 hours) | Abdominal pain, watery stools | Raw or undercooked seafood |
+| *Salmonella* | 6 hours to 6 days | Diarrhoea, fever | Eggs, poultry |
+| *E. coli* (haemorrhagic) | 1-10 days (mostly 3-4 days) | Bloody diarrhoea | Raw meat, unpasteurised milk |
+| Norovirus | 12-48 hours | Vomiting, diarrhoea | Shellfish, contaminated water |
+| *Clostridium botulinum* | Mostly 12-36 hours (6 hours to 2 weeks) | Nervous-system symptoms | Canned and preserved food |
+
+```
+Notes:
+- The toxins made by Staphylococcus aureus and Bacillus cereus survive heat; reheating the food does not destroy them
+  → the key is not to leave cooked food at room temperature for long, not "it's safe as long as I heat it up again before eating"
+- Botulism and bongkrekic acid poisoning have a high death rate and there is no reliable home treatment;
+  if you suspect them, see a doctor immediately
+- A child or older person who passes little urine, looks pale or becomes puffy after bloody diarrhoea → possibly haemolytic uraemic syndrome; see a doctor immediately
+```
+
+### Outbreaks in Groups and Special Kinds of Food Poisoning
+
+```
+Several people ill at the same time:
+1. Anyone seriously ill (change in consciousness, nervous-system symptoms, severe dehydration) → call 120 immediately
+2. Assess everyone else's dehydration one by one; mild cases can have fluids at home and be watched
+3. Keep food samples and report to the local CDC or township health centre
+4. Wash all shared kitchen equipment and tableware thoroughly and disinfect by boiling
+
+Non-bacterial food poisoning (often comes on fast and is more dangerous):
+- Poisonous mushrooms: some only cause illness 6 hours or more after eating; vomiting and diarrhoea first, then "improvement", then liver failure a few days later
+  → if someone has eaten mushrooms nobody can identify, everyone who ate them must see a doctor, with or without symptoms
+- Sprouted or green potatoes: solanine poisoning, numb mouth and tongue, nausea and vomiting
+- Undercooked green beans: nausea and vomiting a few hours after eating; always stir-fry them until the colour has changed completely and there is no raw-bean taste
+- Nitrite (mistaken for table salt, or in pickled vegetables not fully cured): blue lips and nails, dizziness, difficulty breathing → see a doctor immediately
+- Spoiled fermented rice or flour products, wood ear or white fungus mushrooms soaked too long: bongkrekic acid → see a doctor immediately
+- Pufferfish, poisonous shellfish: numb lips and limbs → see a doctor immediately
+```
+
+Related chapters: [Food Processing and Preservation - High-Risk Foods and Food Poisoning](../../../docs/07-日常生活技能/01-食物加工与保存.md#高风险食品与食物中毒), [Poisoning - Other Poisonings](12-poisoning.md#other-poisonings), [Infectious Disease at Home - Diarrhoeal Infections](15-infectious-disease-at-home.md#diarrhoeal-infections).
+
+### Prevention
+
+#### Buying
+```
+✓ Check the use-by date
+✓ Packaging intact
+✓ Chilled food kept at the right temperature
+✓ Do not buy or eat packaged food from bags or cans that are swollen or leaking
+```
+
+#### Storing
+```
+✓ Fridge temperature: ≤4°C
+✓ Freezer: ≤-18°C
+✓ Keep raw and cooked food apart
+✓ Store sealed
+✓ In the fridge, raw meat goes on the lower shelves and cooked food above, so juices from raw meat cannot drip onto cooked food
+✓ Thaw frozen meat in the fridge, not at room temperature for a whole day
+```
+
+#### Cooking
+```
+✓ Cook thoroughly
+✓ Meat core temperature ≥75°C
+✓ Avoid cross-contamination
+✓ Separate chopping boards for raw and cooked food
+✓ Without a thermometer: cut meat is no longer pink in the middle and the juices run clear; no blood near the bones of poultry; egg yolk set
+✓ Wash your hands after handling raw meat or raw eggs, before touching other food
+```
+
+#### Eating
+```
+✓ Eat hot food hot (>60°C)
+✓ Eat cold food cold (<5°C)
+✓ Food out at room temperature for no more than 2 hours
+✓ In hot weather (above 30°C), no more than 1 hour at room temperature
+✓ Reheat leftovers until piping hot before eating; cooked food left out overnight at room temperature is better thrown away
+✓ Food you are unsure about: "If in doubt, throw it out"
+```
+
+For keeping food without a fridge, see [Food Processing and Preservation](../../../docs/07-日常生活技能/01-食物加工与保存.md).
+
+### ⚠️ Emergency Care
+
+See a doctor immediately in these cases:
+- Bloody diarrhoea
+- High fever (>39°C)
+- Severe dehydration
+- Persistent vomiting >24 hours
+- Nervous-system symptoms (blurred vision, muscle weakness, difficulty speaking)
+- Symptoms lasting >3 days
+- Pregnant women, children, older people, people with weak immunity
+- Suspected poisoning by mushrooms, nitrite, bongkrekic acid, pufferfish and the like (even with no symptoms yet)
+
+```
+Special care in pregnancy:
+- Listeria (chilled cooked meats, unpasteurised milk and soft cheese, chilled smoked seafood) can cause miscarriage and premature birth,
+  and in a pregnant woman may only look like a mild cold or fever → if you have a fever after eating suspect food during pregnancy, tell the doctor
+- In pregnancy avoid: raw or undercooked meat, eggs and seafood; unpasteurised milk
+```
+
+---
+
+## Constipation
+
+### Definition
+
+Any of the following:
+- Opening the bowels <3 times a week
+- Hard, dry stools
+- Difficulty passing stools, needing to strain
+- Feeling of not having emptied the bowel completely
+
+```
+Note: how often people open their bowels varies; anything from 3 times a day to once every 3 days can be normal.
+What matters is whether the stools are hard and dry and whether passing them is a struggle, not the number itself.
+```
+
+### Common Causes
+
+- Not enough fibre in the diet
+- Drinking too little
+- Lack of exercise
+- Ignoring the urge to go
+- Side effects of medicines
+  - Common ones: painkillers and cough medicines containing opioids such as codeine, iron tablets, calcium tablets, some blood pressure medicines, antidepressants, antidiarrhoeal medicines
+- Changes in routine
+- Stress
+
+### Home Treatment
+
+#### 1. Eat More Fibre
+
+**Target**: 25-35 g of fibre a day
+
+**High-fibre foods**:
+- Vegetables: broccoli, carrots, spinach
+- Fruit: apples, pears, berries, prunes
+- Whole grains: oats, brown rice, wholemeal bread
+- Pulses: lentils, black beans, chickpeas
+- Nuts and seeds
+
+**Note**: increase fibre gradually to avoid bloating
+
+```
+How to manage it:
+- 300-500 g of vegetables a day (half of them dark-coloured) and 200-350 g of fruit
+- Mix some coarse grains into your staple food: millet, cornmeal, oats, mixed beans
+- Prunes, dragon fruit and kiwi fruit work for many people
+- Increase a little every 1-2 weeks to give the gut time to adjust
+- When adding fibre you must also drink more, otherwise fibre actually makes stools drier
+```
+
+#### 2. Drink Enough
+
+```
+- Adults: 2-3 L of water a day
+- Drink warm water first thing in the morning on an empty stomach
+- Drink plenty of: water, warm water, fruit juice
+- People with heart failure or kidney disease who must limit fluids: follow the doctor on how much to drink
+```
+
+#### 3. Regular Exercise
+
+```
+- At least 30 minutes a day
+- Walking, jogging, swimming
+- Abdominal massage (clockwise)
+
+How to do abdominal massage:
+1. Lie on your back with knees bent and relax your belly
+2. Place your palm around the navel and rub in clockwise circles centred on the navel (lower right → upper right → upper left → lower left)
+3. Press just enough that the belly sinks slightly without pain, 5-10 minutes each time, 1-2 times a day
+4. Not within 1 hour after a meal; not if you have had abdominal surgery or have abdominal pain of unknown cause
+```
+
+#### 4. Build a Routine
+
+```
+- Go to the toilet at a fixed time (e.g. after breakfast)
+- Do not ignore the urge to go
+- Do not sit on the toilet for long (no more than 10 minutes)
+- Relax; do not strain too hard
+- The gut moves most strongly 15-30 minutes after breakfast; that is the easiest time to succeed
+- Do not play on your phone or read on the toilet
+```
+
+#### 5. Better Posture
+
+```
+- Use a footstool (a squatting position is more natural)
+- Lean forward
+- Knees higher than hips
+- The footstool should be about 15-20 cm high; put both feet on it and rest your elbows on your knees
+- ⚠️ People with high blood pressure or heart disease should not hold their breath and strain hard when opening their bowels (this can trigger a heart attack or stroke);
+  if stools are hard, soften them in advance with medicine
+```
+
+### Constipation in Children, Pregnant Women and Older People
+
+```
+Infants:
+- An exclusively breastfed infant may pass a soft stool only every few days to once a week; if the stool is soft, feeding is good and weight gain is normal, this is not constipation
+- Formula feeding: make up the formula strictly in the proportions on the instructions; formula that is too strong easily causes constipation
+- Constipation after starting solids: give more vegetable and fruit purée (pear, prune); over 6 months they can have a little water
+- Do not give laxatives to infants on your own initiative; rubbing the belly clockwise and "bicycling" the legs help
+- Newborn who has not passed meconium (the first stool) within 48 hours of birth, with a swollen belly and vomiting → see a doctor immediately
+
+Children:
+- A common cause is holding it in (afraid it will hurt, too busy playing, not wanting to use toilets away from home) → the longer they hold it, the drier and more painful the stools, a vicious circle
+- Every day after a meal, have them sit on the toilet for 5-10 minutes at a fixed time, with a stool under their feet; praise them afterwards, never scold
+- Frequent small stains of loose stool in the underwear may be overflow leakage after long-term constipation, not "diarrhoea"; see a doctor
+- Ask a doctor before giving a child laxatives (lactulose and polyethylene glycol can be used in children under a doctor's guidance)
+
+Pregnant women:
+- Pregnancy hormones and pressure from the womb make constipation very common
+- Adjust diet, fluids and exercise first; if medicine is needed, lactulose and bulk-forming laxatives are relatively safe - ask a doctor first
+- Do not take stimulant laxatives such as senna, aloe or rhubarb on your own initiative (they can cause contractions)
+- Iron supplements easily cause constipation; do not stop them on your own because of this - talk to the doctor
+
+Older people:
+- Moving little, drinking little and taking many medicines make constipation most common in older people
+- In bedridden older people watch for faecal impaction: no stool for several days, then constant leaking of small amounts of loose stool,
+  with a swollen belly, poor appetite, restlessness and even confusion → needs a doctor or nurse
+- Record bowel movements every day; if there has been none for more than 3 days, start treating it - do not wait for impaction
+```
+
+For daily care of bedridden older people, see [Elder Care - Other Daily Care](13-elder-care.md#other-daily-care).
+
+### Medicines (Short-Term Use)
+
+**Bulk-forming laxatives** (first choice):
+- Psyllium (plantago), methylcellulose
+- Increase the bulk of the stool
+- Need plenty of water
+
+**Osmotic laxatives**:
+- Lactulose, polyethylene glycol
+- Soften the stool
+- Generally take 1-2 days to work; do not increase the dose because there is no effect on the first day
+
+**Stimulant laxatives** (use with caution):
+- Senna, bisacodyl
+- Only short-term, occasional use
+- Can lead to dependence
+
+**Lubricants**:
+- *Kaiselu* (glycerol micro-enema)
+- For quick relief
+
+```
+How to use a Kaiselu glycerol micro-enema:
+1. Cut off the seal and squeeze out a little liquid to lubricate the tip (trim the cut edge smooth so it cannot scratch)
+2. Lie on your side and gently insert the whole nozzle into the anus (use the children's size for children, inserted less deeply)
+3. Squeeze in all the liquid, and keep the tube squeezed flat as you withdraw it so the liquid is not sucked back
+4. Try to hold on for 5-10 minutes before opening your bowels; it works better
+5. Use only occasionally; relying on it long term makes the bowel respond less well
+
+❌ Do not take "detox" or "colon cleanse" products long term on your own initiative; many contain stimulant laxatives
+```
+
+### ⚠️ When to See a Doctor
+
+See a doctor immediately if there is:
+- Sudden constipation with severe abdominal pain
+- Blood in the stool or black stools
+- Unexplained weight loss
+- Constipation alternating with diarrhoea
+- Constipation lasting >2 weeks without improvement
+- Vomiting as well
+- Clearly swollen belly
+
+```
+Also:
+- Swollen belly, abdominal pain, vomiting and passing no wind at all → possibly bowel obstruction; see a doctor immediately
+- Over 40, with a recent change in bowel habit (narrower stools, change in frequency) together with anaemia or tiredness → see a doctor soon to rule out bowel cancer
+- Severe pain at the anus when passing stools, or dripping blood afterwards → possibly an anal fissure or haemorrhoids; also see a doctor to confirm
+```
+
+---
+
+## Headache
+
+### Types of Headache
+
+#### 1. Tension Headache (Most Common)
+
+**Symptoms**:
+- Tightness on both sides of the head
+- Like a tight band round the head
+- Mild to moderate pain
+- Lasts from 30 minutes to several days
+
+**Triggers**:
+- Stress, anxiety
+- Poor posture
+- Eye strain
+- Lack of sleep
+
+#### 2. Migraine
+
+**Symptoms**:
+- Throbbing pain on one side
+- Moderate to severe
+- Nausea, vomiting
+- Sensitivity to light and sound
+- Possibly a warning aura (visual disturbances)
+- Lasts 4-72 hours
+
+**Triggers**:
+- Certain foods (cheese, chocolate, alcohol)
+- Hormonal changes
+- Irregular sleep
+- Bright light, strong smells
+
+#### 3. Cluster Headache
+
+**Symptoms**:
+- Severe pain in and around one eye
+- Watering eye, blocked nose
+- Lasts 15 minutes to 3 hours
+- May come several times a day
+
+```
+Other common causes of headache (treating the cause works better than painkillers):
+- Fever, colds, sinusitis
+- Not drinking enough, going too long without food (low blood sugar)
+- Suddenly stopping coffee or strong tea
+- High blood pressure (very high blood pressure can cause headache and dizziness; measure the blood pressure)
+- After drinking alcohol
+- Carbon monoxide poisoning (several people with headaches at once in a room with a heater, burning charcoal, or a gas water heater)
+```
+
+### Home Care
+
+#### Quick Relief
+
+**Tension headache**:
+```
+1. Rest, close your eyes
+2. Warm compress on the neck and shoulders (20 minutes)
+3. Gently massage the temples
+4. Relaxation exercises, deep breathing
+
+More:
+- For a warm compress, use a towel at 40-50°C or a hot-water bottle wrapped in a towel; do not put it directly on the skin, to avoid burns
+- Slowly turn and stretch the neck and shoulders, holding each direction for 10-15 seconds
+- Drink a glass of water and eat something
+```
+
+**Migraine**:
+```
+1. A quiet, dark room
+2. Cold compress on the forehead (15-20 minutes)
+3. Lie down and rest
+4. Avoid light and noise
+
+More:
+- For a cold compress, wrap an ice pack or a bottle of cold water in a towel; do not put ice directly on the skin
+- Take the medicine as soon as you notice the aura or the headache begins; the earlier the better
+- If you can fall asleep, a sleep often relieves it
+```
+
+#### Medicines
+
+**Mild to moderate headache**:
+- Paracetamol: 500-1000 mg
+- Ibuprofen: 200-400 mg
+- Aspirin: 500-1000 mg (adults)
+
+**Note**:
+- They work better taken early in the headache
+- Do not use them often (this can cause medication-overuse headache)
+- No more than 10-15 days a month
+
+```
+Details:
+- Maximum daily amounts, contraindications and intervals are the same as for the fever medicines under "Fever" in this chapter
+- Aspirin: forbidden under 18; do not use if you have a stomach ulcer, a bleeding tendency or take anticoagulants; do not take it on your own initiative in pregnancy
+- Headache in children: use paracetamol or ibuprofen, with the dose worked out by weight (see the dose chart under "Fever" in this chapter)
+- Medication-overuse headache: taking a single painkiller on more than 15 days a month, or combination painkillers (containing caffeine and the like)
+  on more than 10 days a month, makes headaches more frequent → needs a doctor's help to stop gradually
+- Keep a note of how many days a month you take painkillers
+```
+
+#### Without Medicines
+
+```
+✓ Drink enough
+✓ Eat regularly
+✓ Get enough sleep (7-9 hours)
+✓ Cut down screen time
+✓ Improve your posture
+✓ Manage stress
+✓ Exercise regularly
+```
+
+### Prevention
+
+#### Identifying and Avoiding Triggers
+
+**Trigger diary**:
+```
+- Date and time
+- Type and severity of headache
+- How long it lasted
+- Triggers (food, activity, stress and so on)
+- Treatment and how well it worked
+
+Severity can be scored 0-10: 0 = no pain, 10 = the worst pain you can imagine
+Keeping the diary for 1-2 months often reveals your own pattern; take it when you see the doctor
+Women can also note their period dates (some migraines are linked to the menstrual cycle)
+```
+
+#### Lifestyle Changes
+
+```
+✓ Regular daily routine
+✓ Balanced diet
+✓ Moderate exercise
+✓ Stress management
+✓ Limit caffeine
+✓ Stop smoking and limit alcohol
+```
+
+For coping with long-term stress, anxiety and insomnia, see [Mental Health](10-mental-health.md#looking-after-yourself-under-long-term-stress).
+
+### Headache Warning Signs in Particular Groups
+
+```
+Children:
+- Headache with fever, vomiting, stiff neck or rash → possibly meningitis; see a doctor immediately
+- Headaches getting more frequent, worst on waking in the morning with vomiting, or with unsteady walking or changes in vision → see a doctor soon
+- After a knock to the head, headache getting worse, repeated vomiting, drowsiness → see a doctor immediately
+
+Pregnant women:
+- After 20 weeks of pregnancy, severe headache, blurred vision, flashing lights, upper abdominal pain, sudden swelling of the face and hands
+  → possibly pre-eclampsia; see a doctor immediately
+- For headache in pregnancy, paracetamol is the first choice; do not take ibuprofen or aspirin on your own initiative
+- Severe headache within 1-2 weeks after giving birth also needs a doctor
+
+Older people:
+- Any headache appearing for the first time after the age of 50 should be checked by a doctor
+- Headache, drowsiness, personality change or unsteady walking coming on gradually days to weeks after a fall or a knock to the head
+  → possibly a chronic subdural haematoma (watch especially in older people taking anticoagulants or aspirin); see a doctor
+- Pain at one temple, sore scalp when combing the hair, jaw pain when chewing, blurred vision → possibly temporal arteritis; see a doctor soon (it can cause blindness)
+- A person with high blood pressure who has a sudden severe headache: measure the blood pressure first, and use the "thunderclap" signs below to decide whether to go to A&E
+
+Several people at home with headache, dizziness and nausea at the same time (especially in a room with a stove, charcoal fire, gas heating or where someone has been bathing)
+→ first open the windows and get everyone outside, then call 120
+```
+
+Related chapters: [Stroke](06-heart-stroke-and-sudden-illness.md#stroke), [Carbon Monoxide Poisoning](07-home-and-traffic-accidents.md#carbon-monoxide-poisoning), [Danger Signs in Pregnancy](11-emergency-childbirth-and-newborn-care.md#danger-signs-in-pregnancy), [What to Do After an Older Person Falls](13-elder-care.md#what-to-do-after-an-older-person-falls).
+
+### ⚠️ Emergency Care ("Thunderclap" Signs)
+
+See a doctor immediately if the headache comes with:
+- A sudden, extremely severe headache ("the worst of my life")
+- Fever, stiff neck
+- Change in consciousness, confusion
+- Sudden change in vision
+- Difficulty speaking
+- Difficulty walking, loss of balance
+- Numbness or weakness in the face, an arm or a leg
+- Headache after a head injury
+- Headache getting steadily worse
+- First severe headache after the age of 50
+
+```
+"Thunderclap headache": reaches its worst within seconds to 1 minute, like a heavy blow to the head
+→ possibly a subarachnoid haemorrhage (a burst blood vessel in the brain); even if it later eases, you must call 120 immediately
+→ while waiting, keep the patient lying flat and quiet, give nothing to eat or drink, and do not give aspirin on your own initiative
+```
+
+---
+
+## Cough
+
+### Types of Cough
+
+**By duration**:
+- Acute: <3 weeks (usually a cold)
+- Subacute: 3-8 weeks (after an infection)
+- Chronic: >8 weeks (the cause must be found)
+
+**By character**:
+- Dry cough: no phlegm
+- Wet cough: with phlegm
+
+```
+Coughing is a protective reflex that clears the airways. Do not forcibly suppress a cough that brings up phlegm;
+help the phlegm come up instead. Only consider cough suppressants for a dry cough that badly disturbs sleep.
+A cough after a cold often takes 2-3 weeks to go away completely; this is normal.
+```
+
+### Common Causes
+
+- Viral infections (colds, flu)
+- Bacterial infections
+- Allergies
+- Asthma
+- Gastro-oesophageal reflux
+- Side effects of medicines
+  - Some blood pressure medicines (such as captopril and other "-pril" drugs) cause a persistent dry cough; do not stop them on your own - talk to your doctor about changing
+- Smoking
+
+### Home Treatment
+
+#### 1. Easing the Cough
+
+**Honey** (over 1 year old):
+```
+- 1-2 teaspoons before bed
+- Can be mixed with warm water or tea
+- Helps soothe coughing somewhat
+- ⚠️ Never give honey to infants under 1 year (it may contain botulism spores and cause infant botulism)
+- 1-5 years: about half to one teaspoon each time
+```
+
+**Steam inhalation**:
+```
+- Steam from hot water (beware of scalds)
+- A hot shower or bath
+- A humidifier
+- Keep indoor humidity at 40-50%
+- Change the humidifier water daily and clean it weekly, or it easily grows bacteria and mould
+- Do not use a bowl of hot water for children; use bathroom steam instead
+```
+
+**Warm drinks**:
+- Honey and lemon
+- Ginger tea
+- Chicken soup
+
+**Raise the head**:
+- Use an extra pillow at night
+- Reduces night-time coughing
+- Infants under 1 year should not have a pillow; they sleep on their back on a firm surface (to prevent suffocation)
+
+#### 2. Clearing Phlegm
+
+**Drink plenty**:
+- Thins the phlegm
+- 2-3 L a day
+
+**Back patting to clear phlegm** (for children):
+```
+1. Lying face down or on one side
+2. Cup your palm
+3. Pat the back gently, working from the bottom upwards
+4. Keep going for 3-5 minutes
+5. Encourage them to cough up the phlegm
+
+Key points:
+- Fingers together and palm hollow, so each pat makes a hollow "pock" sound, not a "slap"
+- Avoid the spine and the area below the waist (where the kidneys are)
+- Do it before meals or 1-2 hours after, so it does not cause vomiting
+- Also suitable for bedridden older people: turn them every 2 hours and pat the back when turning
+```
+
+For preventing choking and lung infections in bedridden older people, see [Elder Care - Safe Feeding to Prevent Choking](13-elder-care.md#feeding-safely-and-preventing-choking).
+
+#### 3. Medicines
+
+**Cough suppressants** (dry cough):
+- Dextromethorphan
+- **Note**: not recommended for children under 6
+- Cough medicines containing codeine: forbidden under 12; adults should not use them long term either (addictive, cause constipation)
+- Do not use cough suppressants when there is phlegm, or it cannot be cleared
+
+**Expectorants** (wet cough):
+- Guaifenesin
+- Ambroxol, acetylcysteine
+
+**Not recommended**:
+- Antibiotics (do not work for viral coughs)
+- Unless a doctor has diagnosed a bacterial infection
+
+```
+⚠️ Cough and cold medicines are often combinations; make sure the ingredients do not overlap,
+   and in particular do not take them with a cold medicine containing the same ingredients (see "Colds" in this chapter)
+```
+
+#### 4. Avoiding Irritants
+
+```
+❌ Smoking and second-hand smoke
+❌ Strong smells (perfume, cleaning products)
+❌ Cold air (wear a mask outdoors)
+❌ Strenuous exercise (in the acute phase)
+❌ Smoke from burning coal or wood indoors (stoves must have a chimney to the outside)
+```
+
+### What Different Phlegm Means
+
+| Colour of phlegm | Possible cause | What to do |
+|----------|----------|------|
+| Clear or white | Viral infection, allergy | Watch |
+| Yellow-green | Could be viral or bacterial (the colour comes from white blood cells) | Colour alone does not call for antibiotics; with persistent high fever, worsening after improving, or shortness of breath → see a doctor |
+| Brown | Smoking, old blood | Stop smoking; see a doctor |
+| Pink and frothy | Heart or lung problem | See a doctor immediately |
+| Streaks or clots of blood | Various causes | See a doctor to be checked |
+
+### Cough and Fast Breathing in Children
+
+When a child has a cough, the most important thing is to watch their **breathing**. When the child is calm (ideally asleep), lift their clothes, watch the chest and belly rise and fall, and count for a full minute:
+
+| Age | Fast breathing (per minute) |
+|------|------|
+| Under 2 months | ≥60 |
+| 2-12 months | ≥50 |
+| 1-5 years | ≥40 |
+
+```
+Signs to see a doctor immediately:
+⚠️ Fast breathing (reaching the rates in the table above)
+⚠️ The skin below the breastbone and between the ribs sucking in when breathing in (chest indrawing)
+⚠️ Flaring nostrils, grunting with each breath
+⚠️ Lips or tongue turning purple or blue
+⚠️ Cannot breastfeed or drink, or vomits everything
+⚠️ Drowsy, cannot be woken, seizures
+
+Some particular kinds of cough:
+- A barking cough (like a dog or a seal), hoarse voice, a harsh high-pitched noise when breathing in, usually starting suddenly at night
+  → mostly acute laryngitis (croup). Keep the child calm and hold them upright to comfort them (crying makes it worse);
+    taking them into cool air may help. Harsh noise even when calm, laboured breathing, blue lips → call 120 immediately
+- Bouts of a dozen or more coughs in a row, a "whoop" when breathing in after the bout, vomiting after coughing
+  → possibly whooping cough. Young infants may not cough at all, and only hold their breath, turn blue or stop breathing - very dangerous → see a doctor immediately
+- A child who suddenly chokes and coughs violently while eating (peanuts, sunflower seeds, jelly) or playing with small objects, and keeps coughing or wheezing afterwards
+  → suspect something in the airway; see a doctor even if the cough later eases
+- Repeated wheezing, coughing at night or after exercise → possibly asthma; see a doctor to confirm
+```
+
+For first aid for objects in the airway, see [Foreign Bodies - Something Stuck in the Throat / Choking](04-foreign-bodies-and-choking.md#foreign-bodies-in-the-throat--airway-obstruction); for asthma attacks, see [Acute Asthma Attack](06-heart-stroke-and-sudden-illness.md#acute-asthma-attack).
+
+```
+Older people and people with chronic illnesses:
+- Pneumonia in older people may only show as listlessness, loss of appetite and faster breathing, without obvious fever or cough
+- An older person who often chokes when eating or drinking and has repeated fevers and cough → suspect aspiration pneumonia
+- People with COPD or heart failure whose cough gets worse, with breathlessness, more phlegm or swollen legs → see a doctor early
+- If you have a fingertip pulse oximeter at home: a reading below 94% at rest, or clearly lower than usual → see a doctor
+```
+
+### Prevention
+
+```
+✓ Wash your hands often
+✓ Avoid contact with infected people
+✓ Stop smoking
+✓ Get vaccinated (flu, pneumococcal)
+✓ Avoid allergens
+✓ Keep your home clean
+✓ Children should get the DTaP (diphtheria, tetanus, pertussis) and other National Immunisation Programme vaccines on schedule
+```
+
+For vaccinations, see [Infectious Disease at Home - Vaccines](15-infectious-disease-at-home.md#vaccines).
+
+### ⚠️ When to See a Doctor
+
+See a doctor immediately if there is:
+- Coughing up blood
+- Difficulty breathing, wheezing
+- Chest pain
+- Persistent high fever
+- Cough >3 weeks without improvement
+- Change in the phlegm (pink and frothy, bloodstained; or yellow-green with persistent high fever or shortness of breath)
+- Weight loss as well
+- Night sweats
+- An infant with cough and fast breathing
+
+```
+- Cough with phlegm for more than 2 weeks, with low fever, night sweats and weight loss → get checked for tuberculosis early (see Infectious Disease at Home)
+- Any cough in an infant under 3 months needs a doctor
+```
+
+For tuberculosis, see [Infectious Disease at Home - Respiratory Infections](15-infectious-disease-at-home.md#respiratory-infections).
+
+---
+
+## 📝 Key Points
+
+### When to Look After Yourself
+
+Most minor illnesses can be managed at home when:
+- Symptoms are mild
+- Getting gradually better
+- Able to eat, drink and rest normally
+- No danger signs
+
+### When to See a Doctor
+
+See a doctor if:
+- Symptoms are severe or persistent
+- Symptoms suddenly get worse
+- Danger signs appear
+- The patient is an infant or young child, an older person or a pregnant woman
+- The patient has weak immunity
+
+```
+The most important points in this chapter:
+1. How alert the person is matters more than the number on the thermometer
+2. Any fever in an infant under 3 months, or a temperature ≥40°C → see a doctor immediately
+3. The key to diarrhoea and vomiting is fluids: oral rehydration salts, little and often; an infant with no urine for 6 hours needs a doctor
+4. Work out children's medicine doses by weight, check the strength of the liquid carefully, and use the measuring device supplied
+5. No aspirin under 18; never use two fever medicines together or alternately; combination cold remedies may already contain a fever medicine
+6. Colds, most diarrhoea and most coughs are caused by viruses, and antibiotics do not work
+7. A "thunderclap" headache, vomiting after a head injury, fever with a rash that does not fade → call 120 immediately
+8. In older people, serious illness may not show typical symptoms: "not right" is a reason to see a doctor in itself
+```
+
+### Medicines to Keep at Home
+
+**Basic medicines**:
+- Fever and pain medicine
+- Antidiarrhoeal medicine
+- Oral rehydration salts
+- Antiallergy medicine
+- Probiotics
+- Antiseptic for the skin
+
+**Check regularly**:
+- Expiry dates
+- Replace medicines that have been used up
+- Store them properly
+
+```
+Suggested checklist (adjust for your household):
+- [ ] Paracetamol (adult tablets; with children, also children's suspension or drops)
+- [ ] Ibuprofen (adult tablets; with children over 6 months, also children's suspension)
+- [ ] Oral rehydration salts III (several sachets per person; also remember the home recipe)
+- [ ] Smectite powder
+- [ ] Antiallergy medicine (loratadine or cetirizine)
+- [ ] Saline, or salt for rinsing the nose
+- [ ] Kaiselu glycerol micro-enemas
+- [ ] Digital thermometer (with spare battery)
+- [ ] Measuring cup and syringe for children's medicines
+- [ ] Medication information cards for family members (allergies, long-term medicines)
+
+Storage:
+✓ Keep in the original packaging with the leaflet (without the leaflet you cannot check the dose)
+✓ Cool, dry place, locked away or up high, out of children's reach
+✓ How long a suspension keeps after opening is stated on the leaflet - usually much shorter than unopened
+✓ Check expiry dates every six months; throw away medicines that have changed colour or smell, or gone lumpy
+```
+
+For stockpiling medicines for chronic illnesses, see [Chronic Medication Stockpile](08-chronic-medication-stockpile.md); for medication information cards, see [Chronic Medication Stockpile - Medication Information Card](08-chronic-medication-stockpile.md#medication-card); for older people taking several medicines at once, see [Elder Care - Safe Use of Medicines](13-elder-care.md#medication-safety); for preventing children from swallowing medicines by accident, see [Child Safety - Preventing Accidental Swallowing](14-child-safety.md#preventing-poisoning-and-swallowed-objects).
+
+---
+
+**Next chapter**: [Wounds and Injuries](02-wounds-and-injuries.md)
+**Back**: [Part contents](README.md) | [Main contents](../../README.md)

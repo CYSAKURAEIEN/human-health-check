@@ -96,7 +96,7 @@ Minor bleeding:
 Severe bleeding:
 1. Apply pressure immediately
 2. Keep pressing for at least 10 minutes
-3. Use pressure points if needed
+3. If heavy limb bleeding cannot be controlled by pressure, use a tourniquet (last resort)
 4. Call for emergency help
 ```
 

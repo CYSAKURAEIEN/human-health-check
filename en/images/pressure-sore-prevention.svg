@@ -70,12 +70,12 @@
 </g>
 <g stroke="#c33" stroke-width="1.2">
 <line x1="80" y1="150" x2="80" y2="196"/>
-<line x1="150" y1="166" x2="150" y2="218"/>
+<line x1="150" y1="166" x2="150" y2="216"/>
 <line x1="296" y1="166" x2="296" y2="196"/>
 </g>
 <g fill="#c33" font-weight="bold" text-anchor="middle">
 <text x="80" y="214">back of head</text>
-<text x="150" y="234">shoulder blades</text>
+<text x="150" y="231">shoulder blades</text>
 <text x="296" y="214">sacrum</text>
 <text x="296" y="232" font-size="13" font-weight="normal">(base of the spine)</text>
 </g>

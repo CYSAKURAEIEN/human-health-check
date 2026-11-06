@@ -22,10 +22,10 @@ Before you help anyone, take a few seconds to look around. **If the rescuer gets
 | Danger at the scene | What to do first |
 |----------|----------|
 | On a road | Switch on your hazard warning lights, put a warning triangle out towards oncoming traffic (about 150 m back on an expressway), wear a reflective vest; do not stand in the traffic |
-| Electric shock | Cut the power first (switch off at the mains, pull the plug), or push the wire away with a dry wooden stick; do not touch the casualty until the power is off. See [Electric Shock](../../../docs/01-日常疾病和伤害/05-急性症状.md#电击伤) |
+| Electric shock | Cut the power first (switch off at the mains, pull the plug), or push the wire away with a dry wooden stick; do not touch the casualty until the power is off. See [Electric Shock](05-acute-symptoms.md#electric-shock-injuries) |
 | Smell of gas, smoke, fire | Do not switch electrical appliances on or off and do not make phone calls; open the windows or get out first, and call once you are somewhere safe |
 | Confined spaces (cellars, biogas digesters, cesspits, wells) | Do not rush in. Ventilate first and call professional rescuers; accidents where several people go in one after another to help and all die are common |
-| In water | Prefer "shout, reach, throw"; if you are not trained in water rescue, do not go into the water. See [Drowning](../../../docs/01-日常疾病和伤害/05-急性症状.md#溺水) |
+| In water | Prefer "shout, reach, throw"; if you are not trained in water rescue, do not go into the water. See [Drowning](05-acute-symptoms.md#drowning) |
 | Unknown toxic substance | Keep away, stay upwind, do not give mouth-to-mouth breaths |
 | Blood and body fluids | Wear gloves if you have them; if not, cover your hands with plastic bags; wash your hands afterwards |
 
@@ -96,13 +96,13 @@ In any first-aid situation, check these first:
 
 > ⚠️ If the casualty is **unresponsive and not breathing normally**, do not go through the checks one by one. Call for help and start CPR at once. Current guidelines put resuscitation in the order **C-A-B (compressions first)**; see below.
 
-Also, **if there is life-threatening heavy bleeding from a limb, stop the bleeding first** (a fatal amount of blood can be lost within 30 seconds), then check the airway and breathing.
+Also, **if there is life-threatening heavy bleeding from a limb, stop the bleeding first** (a fatal amount of blood can be lost within minutes), then check the airway and breathing.
 
 #### A - Airway
 - **Check**: is the airway open?
   - Can talk or cry → airway is open
   - Snoring or gurgling sounds → the tongue has fallen back, or secretions or vomit are blocking it
-  - Cannot talk, cannot cough, hands clutching the throat → possibly a complete blockage by a foreign body; see [Something Stuck in the Throat / Choking](../../../docs/01-日常疾病和伤害/04-异物处理.md#喉咙异物气道梗阻)
+  - Cannot talk, cannot cough, hands clutching the throat → possibly a complete blockage by a foreign body; see [Something Stuck in the Throat / Choking](04-foreign-bodies-and-choking.md#foreign-bodies-in-the-throat--airway-obstruction)
 - **What to do**:
   - Remove objects from the mouth (only ones you can see; do not sweep blindly with your fingers)
   - Tilt the head back and lift the chin (see [Airway and the Recovery Position](#airway-and-the-recovery-position))
@@ -159,7 +159,7 @@ Guidelines differ slightly on children's values; the table gives approximate ran
 | Blood oxygen (fingertip pulse oximeter) | 95%-100% | Below 94%, see a doctor; below 90% is an emergency (readings are unreliable with cold hands or nail polish) |
 | Skin | Warm, dry, normal colour | Pale, cold and clammy (shock); blue (lack of oxygen); flushed and hot (heatstroke, fever) |
 
-For how to take a temperature and how fever is graded, see [Common Illnesses - Fever](01-common-illnesses.md#fever); for hypothermia, see [Hypothermia](../../../docs/01-日常疾病和伤害/05-急性症状.md#失温症).
+For how to take a temperature and how fever is graded, see [Common Illnesses - Fever](01-common-illnesses.md#fever); for hypothermia, see [Hypothermia](05-acute-symptoms.md#hypothermia).
 
 ### Head-to-Toe Check
 
@@ -303,7 +303,7 @@ At the same time, send someone for an AED. Lay the casualty on their back on a *
 - **For**: people who are untrained, or do not know how or do not want to give rescue breaths; sudden cardiac arrest in an adult who collapses
 - How: compress **continuously** at the position, depth and rate given above, without pausing, until the AED arrives or the ambulance crew takes over
 - In the first few minutes of a sudden cardiac arrest in an adult, the blood still contains oxygen, so compressions alone work almost as well as standard CPR
-- **Cardiac arrest in children and infants, or caused by drowning, suffocation or poisoning** comes from lack of oxygen in the first place, so rescue breaths matter more; if you know how, always give them. See [Drowning - After Getting Out of the Water](../../../docs/01-日常疾病和伤害/05-急性症状.md#2-上岸后处理)
+- **Cardiac arrest in children and infants, or caused by drowning, suffocation or poisoning** comes from lack of oxygen in the first place, so rescue breaths matter more; if you know how, always give them. See [Drowning - After Getting Out of the Water](05-acute-symptoms.md#2-care-once-out-of-the-water)
 
 #### 4. Keep Going
 - Continue at a ratio of 30:2
@@ -317,7 +317,7 @@ At the same time, send someone for an AED. Lay the casualty on their back on a *
 **Other times when you may stop**:
 - A new danger appears at the scene (fire, a collapse, oncoming traffic) and rescuers must get out
 - There are clear signs of death: the body is already cold and stiff, there is lividity (purple patches where blood settles), or there are injuries no one can survive, such as a severed head
-- Where there is no professional help to wait for at all (remote areas, after a disaster), if good CPR has continued for about 30 minutes or more and the casualty has shown no sign of life throughout, the chance of successful resuscitation is extremely low and stopping is an acceptable decision. **People who are very cold or have drowned in cold water are an exception** and you should keep going longer; see [Hypothermia](../../../docs/01-日常疾病和伤害/05-急性症状.md#失温症)
+- Where there is no professional help to wait for at all (remote areas, after a disaster), if good CPR has continued for about 30 minutes or more and the casualty has shown no sign of life throughout, the chance of successful resuscitation is extremely low and stopping is an acceptable decision. **People who are very cold or have drowned in cold water are an exception** and you should keep going longer; see [Hypothermia](05-acute-symptoms.md#hypothermia)
 
 ### Pregnant Women, Older People and Special Situations
 
@@ -358,9 +358,9 @@ At the same time, send someone for an AED. Lay the casualty on their back on a *
 *Figure: Two ways to give infant chest compressions, and the compression depth*
 
 - From puberty (breast development, Adam's apple, underarm hair) onwards, treat as an adult
-- For a newborn who does not cry or breathe at birth, see [Emergency Childbirth and Newborn Care](../../../docs/01-日常疾病和伤害/11-紧急分娩与新生儿护理.md#宝宝不哭不呼吸)
+- For a newborn who does not cry or breathe at birth, see [Emergency Childbirth and Newborn Care](11-emergency-childbirth-and-newborn-care.md#if-the-baby-does-not-cry-or-breathe)
 - Cardiac arrest in children is mostly caused by lack of oxygen from suffocation, drowning, severe infection and so on, so **rescue breaths matter even more than in adults**
-- Parents should learn CPR for children and first aid for choking; see [Child Safety](14-child-safety.md) and [Something Stuck in the Throat / Choking](../../../docs/01-日常疾病和伤害/04-异物处理.md#喉咙异物气道梗阻)
+- Parents should learn CPR for children and first aid for choking; see [Child Safety](14-child-safety.md) and [Something Stuck in the Throat / Choking](04-foreign-bodies-and-choking.md#foreign-bodies-in-the-throat--airway-obstruction)
 
 ### Using an Automated External Defibrillator (AED)
 
@@ -431,7 +431,7 @@ An adult has about 5 L of blood. Losing about 1 L in a short time (about 2/3 of 
 
 | Type | What you see | What to do |
 |------|------|------|
-| Capillary bleeding | Oozing, small amount | Clean it, press for a few minutes, dress it; see [Wounds and Injuries - Cuts and Grazes](../../../docs/01-日常疾病和伤害/02-外伤处理.md#割伤与擦伤) |
+| Capillary bleeding | Oozing, small amount | Clean it, press for a few minutes, dress it; see [Wounds and Injuries - Cuts and Grazes](02-wounds-and-injuries.md#cuts-and-grazes) |
 | Venous bleeding | Dark red, flowing steadily | Direct pressure, pressure bandage |
 | Arterial bleeding | Bright red, spurting with each heartbeat | Press hard directly at once; if it does not stop, use a tourniquet; call 120 at the same time |
 | **Life-threatening bleeding** | Blood will not stop flowing, spurting, a pool forming on the ground, clothes soaking through quickly, a limb cut off, or the casualty already in shock | Do everything you can to stop the bleeding now; call 120 |
@@ -638,8 +638,8 @@ More on each type:
 
 - **Haemorrhagic**: includes hidden internal bleeding and fluid loss from severe diarrhoea and vomiting or extensive burns (hypovolaemia). Pale, cold, clammy skin is typical
 - **Septic**: fever or abnormally low temperature, shivering, with changes in consciousness, fast breathing and blotchy skin; older people may only seem listless or confused. Common after pneumonia, urinary tract infections, wound infections and infections after childbirth; they need hospital and antibiotics as soon as possible
-- **Cardiogenic**: often with chest pain, chest tightness and difficulty breathing; see [Heart Attack and Chest Pain](../../../docs/01-日常疾病和伤害/06-心脑血管与突发病症.md#心梗与胸痛)
-- **Anaphylactic**: within minutes of contact with the allergen: rash, swollen lips and throat, wheezing and breathlessness, falling blood pressure. If the person carries an adrenaline auto-injector, help them inject it into the outer thigh at once and call 120 at the same time; see [Allergic Reactions](../../../docs/01-日常疾病和伤害/05-急性症状.md#过敏反应)
+- **Cardiogenic**: often with chest pain, chest tightness and difficulty breathing; see [Heart Attack and Chest Pain](06-heart-stroke-and-sudden-illness.md#heart-attack-and-chest-pain)
+- **Anaphylactic**: within minutes of contact with the allergen: rash, swollen lips and throat, wheezing and breathlessness, falling blood pressure. If the person carries an adrenaline auto-injector, help them inject it into the outer thigh at once and call 120 at the same time; see [Allergic Reactions](05-acute-symptoms.md#allergic-reactions)
 - **Neurogenic**: after a spinal cord injury the blood vessels lose their control. Typically blood pressure is low but **the skin may be warm and dry** and the heart rate is not fast, or even slow, with limp, numb arms and legs. Keep the spine still; see moving a casualty below
 
 ---
@@ -683,7 +683,7 @@ Signs in the body:
 5. Hold it until the ambulance crew takes over; if you are tired and need to swap, explain clearly to the next person before changing hands
 ```
 
-For other signs of a suspected spinal fracture, see [Bone and Joint Injuries - Spinal Fractures](../../../docs/01-日常疾病和伤害/03-骨骼损伤.md#脊柱骨折极其危险). For casualties of traffic collisions and removing motorcycle helmets, see [Home and Traffic Accidents](07-home-and-traffic-accidents.md).
+For other signs of a suspected spinal fracture, see [Bone and Joint Injuries - Spinal Fractures](03-bone-and-joint-injuries.md#spinal-fracture-extremely-dangerous). For casualties of traffic collisions and removing motorcycle helmets, see [Home and Traffic Accidents](07-home-and-traffic-accidents.md).
 
 ### Principles of Safe Moving
 
@@ -889,7 +889,7 @@ In practice:
 - First-aid skills fade if you do not practise; retrain every 1-2 years. The force and rhythm of CPR have to be practised on a manikin - you cannot learn them from a book
 - Notice where the AEDs are at your workplace, in your housing estate, and in the metro stations and shopping centres you use often
 - If anyone in the family has heart disease, epilepsy, severe allergies or diabetes, everyone in the family should learn the first aid for it
-- For a home first-aid kit checklist, see [Wounds and Injuries - Home First-Aid Kit](../../../docs/01-日常疾病和伤害/02-外伤处理.md#家庭急救包)
+- For a home first-aid kit checklist, see [Wounds and Injuries - Home First-Aid Kit](02-wounds-and-injuries.md#home-first-aid-kit)
 - Put up somewhere easy to see at home (such as the fridge door): your full home address, family members' medical history, medicines and allergies, so you can read them out when you call 120
 
 ---
