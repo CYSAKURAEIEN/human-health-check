@@ -51,12 +51,12 @@
 <text x="14" y="150" font-size="15" fill="#0b5cad">hands</text>
 <text x="14" y="166" font-size="15" fill="#0b5cad">round knees</text>
 <line x1="96" y1="170" x2="118" y2="180" stroke="#0b5cad" stroke-width="1"/>
-<text x="200" y="150" font-size="15" fill="#0b5cad">crouch</text>
+<text x="206" y="146" font-size="15" fill="#0b5cad">crouch</text>
 <line x1="210" y1="156" x2="172" y2="186" stroke="#0b5cad" stroke-width="1"/>
-<text x="378" y="158" font-size="14" fill="#0b5cad">feet</text>
-<text x="378" y="175" font-size="14" fill="#0b5cad">tightly</text>
-<text x="378" y="192" font-size="14" fill="#0b5cad">together</text>
-<line x1="384" y1="198" x2="346" y2="226" stroke="#0b5cad" stroke-width="1"/>
+<text x="284" y="200" font-size="14" fill="#0b5cad" text-anchor="end">feet</text>
+<text x="284" y="216" font-size="14" fill="#0b5cad" text-anchor="end">tightly</text>
+<text x="284" y="232" font-size="14" fill="#0b5cad" text-anchor="end">together</text>
+<line x1="286" y1="222" x2="320" y2="230" stroke="#0b5cad" stroke-width="1"/>
 <text x="20" y="276" font-size="14">Crouch on something dry that insulates (dry rucksack,</text>
 <text x="20" y="294" font-size="14">sleeping mat, plastic raincoat); touch the ground</text>
 <text x="20" y="312" font-size="14">with as little of your body as possible</text>
