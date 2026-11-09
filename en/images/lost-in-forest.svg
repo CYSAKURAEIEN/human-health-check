@@ -1,0 +1,237 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1366" width="720" height="1366" role="img" aria-label="Lost in the forest: STOP: stop, think, observe, plan. Stop, sit down, have a drink and something to eat, and calm yourself; recall where you last knew your position, how long you have walked since and in which direction; check your phone first: with signal, call 110 or 119 and send your location; without signal, use an offline map; if you are sure of the way back and it is safe, retrace your route, otherwise call for help and wait where you are, and stop moving when it is nearly dark. Make a clear mark where you are as a base point, and make short probes around it, each no more than a few tens of m, always keeping the base mark in sight; if you find nothing, return to it. If you have not found the way 2 hours before dark, stop and prepare for the night; do not push on through the woods in the dark, and do not blindly follow a stream downhill. Stay put if someone knows your route, you have called for help, someone is injured or it is nearly dark; if you cannot be seen in dense forest or a valley floor, you may move to open ground within a few hundred m and leave a sign pointing to the new spot; only consider getting out on your own if you are sure no one knows you went in, 1-2 days of waiting brought no sign of a search and you can still walk. While waiting, blow a whistle in sets of three at intervals; when you hear voices or a helicopter, whistle at once, wave bright clothing and light a signal smoke: smoke in the open by day, a fire at night. Tree crowns, growth rings and moss are unreliable for finding direction">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Lost in the forest: stop, stay put, get found</title>
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="ab" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<g id="tt"><circle r="11" fill="#b9d7a8" stroke="#6b8f5a" stroke-width="1.5"/><circle r="3" fill="#8a6a3a"/></g>
+</defs>
+<g font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif" font-size="14" fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Lost in the forest: stop first, usually stay put, and get yourself found</text>
+<text x="360" y="50" font-size="14" fill="#555" text-anchor="middle">In a panic people speed up and wander, often ending up further away and more exhausted</text>
+
+<!-- STOP: four boxes -->
+<g transform="translate(10,64)">
+<rect x="0" y="0" width="168" height="270" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="14" y="28" font-size="17" font-weight="bold">S: Stop</text>
+<g transform="translate(14,0)">
+<path d="M30,118 L140,118" stroke="#999" stroke-width="2.5"/>
+<rect x="62" y="92" width="34" height="26" rx="6" fill="#d6c29a" stroke="#333" stroke-width="2"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M88,90 L116,92 L118,114" stroke="#333" stroke-width="14"/><path d="M88,90 L116,92 L118,114" stroke="#cfe0f0" stroke-width="9"/>
+</g>
+<rect x="70" y="52" width="26" height="44" rx="10" fill="#cfe0f0" stroke="#333" stroke-width="2"/>
+<ellipse cx="122" cy="116" rx="9" ry="4" fill="#555"/>
+<circle cx="84" cy="40" r="12" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M72,38 Q72,26 84,27 Q94,27 96,34 Q86,30 78,34 Q74,36 72,38 Z" fill="#555"/>
+<rect x="104" y="48" width="9" height="20" rx="3" fill="#d8ebf7" stroke="#333" stroke-width="1.5"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M90,60 L106,72 L106,62" stroke="#333" stroke-width="9"/><path d="M90,60 L106,72 L106,62" stroke="#f3e3d3" stroke-width="5"/>
+</g>
+</g>
+<text x="14" y="146" font-size="13">Stop, sit down, have a</text>
+<text x="14" y="162" font-size="13">drink and something to</text>
+<text x="14" y="178" font-size="13">eat; calm yourself</text>
+<text x="14" y="204" font-size="13" fill="#c33">Don't keep wandering</text>
+</g>
+<g transform="translate(187,64)">
+<rect x="0" y="0" width="168" height="270" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="14" y="28" font-size="17" font-weight="bold">T: Think</text>
+<ellipse cx="96" cy="68" rx="58" ry="30" fill="#fff" stroke="#333" stroke-width="2"/>
+<circle cx="44" cy="104" r="5" fill="#fff" stroke="#333" stroke-width="1.5"/>
+<circle cx="34" cy="114" r="3" fill="#fff" stroke="#333" stroke-width="1.5"/>
+<path d="M60,80 Q78,52 98,72 T136,58" fill="none" stroke="#0b5cad" stroke-width="2" stroke-dasharray="5 3"/>
+<circle cx="60" cy="80" r="5" fill="#c33"/>
+<text x="140" y="64" font-size="16" font-weight="bold" fill="#0b5cad">?</text>
+<text x="14" y="146" font-size="13">Recall where you last</text>
+<text x="14" y="162" font-size="13">knew your position, how</text>
+<text x="14" y="178" font-size="13">long you have walked</text>
+<text x="14" y="194" font-size="13">since and roughly in</text>
+<text x="14" y="210" font-size="13">which direction</text>
+</g>
+<g transform="translate(364,64)">
+<rect x="0" y="0" width="168" height="270" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="14" y="28" font-size="17" font-weight="bold">O: Observe</text>
+<rect x="62" y="40" width="38" height="74" rx="7" fill="#333"/>
+<rect x="66" y="48" width="30" height="56" fill="#d8ebf7"/>
+<path d="M81,84 C72,74 72,64 81,62 C90,64 90,74 81,84 Z" fill="#c33"/>
+<circle cx="81" cy="69" r="3" fill="#fff"/>
+<g fill="#0b5cad"><rect x="110" y="96" width="5" height="8"/><rect x="118" y="90" width="5" height="14"/><rect x="126" y="84" width="5" height="20"/><rect x="134" y="78" width="5" height="26"/></g>
+<text x="14" y="134" font-size="13">Check your phone first:</text>
+<text x="14" y="150" font-size="13">with signal, call 110 or</text>
+<text x="14" y="166" font-size="13">119 and send your</text>
+<text x="14" y="182" font-size="13">location; without signal,</text>
+<text x="14" y="198" font-size="13">use an offline map</text>
+<text x="14" y="218" font-size="12" fill="#555">(GPS works without signal)</text>
+<text x="14" y="236" font-size="12" fill="#555">If calls fail, send a text</text>
+</g>
+<g transform="translate(542,64)">
+<rect x="0" y="0" width="168" height="270" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="14" y="28" font-size="17" font-weight="bold">P: Plan</text>
+<path d="M84,108 L84,78 L46,52" fill="none" stroke="#0b5cad" stroke-width="3" marker-end="url(#ab)"/>
+<path d="M84,78 L122,52" fill="none" stroke="#0b5cad" stroke-width="3" marker-end="url(#ab)"/>
+<text x="20" y="86" font-size="12" fill="#0b5cad">wait</text>
+<text x="110" y="86" font-size="12" fill="#0b5cad">go back</text>
+<text x="14" y="134" font-size="13">Sure of the way back</text>
+<text x="14" y="150" font-size="13">and it is safe:</text>
+<text x="28" y="166" font-size="13">retrace your route</text>
+<text x="14" y="186" font-size="13">Not sure: call for help,</text>
+<text x="28" y="202" font-size="13">wait where you are</text>
+<text x="14" y="224" font-size="13" fill="#c33">Nearly dark: don't</text>
+<text x="14" y="240" font-size="13" fill="#c33">move any more; get</text>
+<text x="14" y="256" font-size="13" fill="#c33">ready for the night</text>
+</g>
+
+<!-- probing from a base point -->
+<g transform="translate(10,344)">
+<rect x="0" y="0" width="400" height="290" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">Find the way back from a base point (top view)</text>
+<use href="#tt" x="200" y="58"/><use href="#tt" x="200" y="184"/><use href="#tt" x="140" y="120"/><use href="#tt" x="262" y="120"/>
+<use href="#tt" x="100" y="58"/><use href="#tt" x="300" y="196"/><use href="#tt" x="96" y="190"/><use href="#tt" x="304" y="54"/><use href="#tt" x="170" y="208"/>
+<circle cx="200" cy="120" r="74" fill="none" stroke="#0b5cad" stroke-width="1.2" stroke-dasharray="3 4"/>
+<g fill="none" stroke="#c33" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#ar)">
+<path d="M200,120 C226,23 297,94 200,120"/>
+<path d="M200,120 C297,146 226,217 200,120"/>
+<path d="M200,120 C174,217 103,146 200,120"/>
+<path d="M200,120 C103,94 174,23 200,120"/>
+</g>
+<circle cx="200" cy="120" r="8" fill="#8a6a3a" stroke="#333" stroke-width="1.5"/>
+<path d="M200,120 L214,112 L214,124 Z" fill="#c33" stroke="#333" stroke-width="1"/>
+<text x="290" y="100" font-size="13" fill="#c33" font-weight="bold">base point</text>
+<text x="290" y="116" font-size="12" fill="#555">make a clear</text>
+<text x="290" y="131" font-size="12" fill="#555">mark (cloth strip</text>
+<text x="290" y="146" font-size="12" fill="#555">or pile of stones)</text>
+<line x1="288" y1="104" x2="216" y2="116" stroke="#c33" stroke-width="1"/>
+<text x="16" y="90" font-size="12" fill="#0b5cad">go no more than</text>
+<text x="16" y="105" font-size="12" fill="#0b5cad">a few tens of m</text>
+<text x="16" y="120" font-size="12" fill="#0b5cad">each time;</text>
+<text x="16" y="135" font-size="12" fill="#0b5cad">always keep the</text>
+<text x="16" y="150" font-size="12" fill="#0b5cad">base mark in sight</text>
+<line x1="80" y1="116" x2="126" y2="120" stroke="#0b5cad" stroke-width="1"/>
+<text x="16" y="256" font-size="13">Make short probes to find the way you came;</text>
+<text x="16" y="274" font-size="13">if you find nothing, return to the base point</text>
+</g>
+
+<!-- nightfall -->
+<g transform="translate(420,344)">
+<rect x="0" y="0" width="290" height="290" rx="8" fill="#fdecec" stroke="#c33" stroke-width="2"/>
+<path d="M200,64 A26,26 0 0 1 252,64 Z" fill="#f5a623" stroke="#333" stroke-width="1.5"/>
+<path d="M186,64 L266,64" stroke="#999" stroke-width="2.5"/>
+<text x="16" y="30" font-size="15" font-weight="bold" fill="#c33">No way found 2 hours</text>
+<text x="16" y="48" font-size="15" font-weight="bold" fill="#c33">before dark:</text>
+<text x="16" y="72" font-size="14">stop and prepare</text>
+<text x="16" y="90" font-size="14">for the night</text>
+<text x="16" y="108" font-size="13" fill="#555">(shelter, warmth, fire)</text>
+<text x="16" y="138" font-size="14" fill="#c33">✗ Don't push on through the</text>
+<text x="32" y="156" font-size="14" fill="#c33">woods in the dark</text>
+<text x="32" y="176" font-size="13">The risk of falls, of going over a</text>
+<text x="32" y="192" font-size="13">cliff or into water at night is far</text>
+<text x="32" y="208" font-size="13">greater than a night where you are</text>
+<text x="16" y="238" font-size="14" fill="#c33">✗ Don't blindly follow a stream down</text>
+<text x="32" y="258" font-size="13">Streams often lead to gorges, waterfalls</text>
+<text x="32" y="274" font-size="13">and cliffs, with flash floods after rain</text>
+</g>
+
+<!-- stay or move -->
+<g transform="translate(10,644)">
+<rect x="0" y="0" width="700" height="280" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">Stay put or move?</text>
+<rect x="12" y="40" width="334" height="228" rx="6" fill="#eef5fb" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="24" y="64" font-size="15" font-weight="bold" fill="#0b5cad">Usually stay where you are</text>
+<text x="24" y="90" font-size="13">· Someone knows your route and when</text>
+<text x="36" y="106" font-size="13">to raise the alarm</text>
+<text x="36" y="122" font-size="12" fill="#555">Searchers start from your planned route</text>
+<text x="24" y="146" font-size="13">· You have called for help and rescuers</text>
+<text x="36" y="162" font-size="13">know where you are</text>
+<text x="36" y="178" font-size="12" fill="#555">Unless there is direct danger: flash flood,</text>
+<text x="36" y="193" font-size="12" fill="#555">forest fire, falling rocks</text>
+<text x="24" y="217" font-size="13">· Someone is injured, it is nearly dark,</text>
+<text x="36" y="233" font-size="13">the weather is bad or you are exhausted:</text>
+<text x="36" y="249" font-size="13">keep warm first</text>
+<rect x="354" y="40" width="334" height="228" rx="6" fill="#fff6e8" stroke="#c98a2a" stroke-width="1.5"/>
+<text x="366" y="64" font-size="15" font-weight="bold" fill="#a8640c">When you may move</text>
+<text x="366" y="90" font-size="13">· You are in dense forest or a valley floor,</text>
+<text x="378" y="106" font-size="13">invisible from the air and from afar: move</text>
+<text x="378" y="122" font-size="13">nearby (within a few hundred m) to open</text>
+<text x="378" y="138" font-size="13">ground, a clearing or the forest edge, and</text>
+<text x="378" y="154" font-size="13">leave a sign pointing to the new spot</text>
+<text x="366" y="180" font-size="13">· You are sure no one knows you went in,</text>
+<text x="378" y="196" font-size="13">1-2 days of waiting brought no sign of a</text>
+<text x="378" y="212" font-size="13">search, and you can still walk: consider</text>
+<text x="378" y="228" font-size="13">getting out yourself; climb high to look</text>
+<text x="378" y="244" font-size="13">for a route, then follow ridges or paths</text>
+</g>
+
+<!-- getting found -->
+<g transform="translate(10,934)">
+<rect x="0" y="0" width="700" height="332" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">While waiting: make yourself seen and heard</text>
+<!-- dense forest -->
+<g stroke="#6b5530" stroke-width="7"><path d="M44,150 L44,240 M100,150 L100,240 M156,150 L156,240 M214,150 L214,240 M270,150 L270,240"/></g>
+<g fill="#b9d7a8" stroke="#6b8f5a" stroke-width="2">
+<circle cx="44" cy="124" r="36"/><circle cx="100" cy="112" r="38"/><circle cx="156" cy="124" r="36"/><circle cx="214" cy="110" r="38"/><circle cx="270" cy="124" r="36"/>
+<circle cx="72" cy="150" r="30"/><circle cx="128" cy="152" r="30"/><circle cx="186" cy="150" r="30"/><circle cx="244" cy="152" r="30"/><circle cx="296" cy="154" r="26"/>
+</g>
+<!-- person under the trees (hard to see) -->
+<g opacity="0.75">
+<circle cx="186" cy="204" r="7" fill="#f3e3d3" stroke="#333" stroke-width="1.5"/>
+<rect x="180" y="212" width="12" height="18" rx="4" fill="#cfe0f0" stroke="#333" stroke-width="1.5"/>
+<path d="M183,230 L182,240 M189,230 L190,240" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+</g>
+<!-- helicopter -->
+<g transform="translate(150,52)" stroke="#333" stroke-width="2">
+<path d="M-30,-14 L30,-14 M0,-14 L0,-8" fill="none"/>
+<ellipse cx="0" cy="2" rx="18" ry="10" fill="#e6e6e6"/>
+<path d="M16,0 L44,-2 L48,-8" fill="none"/>
+<path d="M-10,14 L14,14 M-6,12 L-6,14 M8,12 L8,14" fill="none"/>
+</g>
+<text x="206" y="48" font-size="12" fill="#c33">From above the canopy, helicopters and drones</text>
+<text x="206" y="63" font-size="12" fill="#c33">can hardly see people moving under the trees</text>
+<path d="M20,240 L690,240" stroke="#999" stroke-width="3"/>
+<!-- open ground: bright items -->
+<path d="M332,244 L440,244 L424,230 L346,230 Z" fill="#f08a3c" stroke="#333" stroke-width="1.5"/>
+<text x="332" y="204" font-size="12" fill="#0b5cad">spread bright things</text>
+<text x="332" y="219" font-size="12" fill="#0b5cad">out in the open</text>
+<!-- person: whistle, waving clothing -->
+<g transform="translate(-44,0)"><g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M518,196 L512,238 M530,196 L536,238" stroke="#333" stroke-width="15"/><path d="M518,196 L512,238 M530,196 L536,238" stroke="#cfe0f0" stroke-width="10"/>
+</g>
+<rect x="510" y="146" width="28" height="56" rx="10" fill="#cfe0f0" stroke="#333" stroke-width="2"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M534,152 L550,126 L548,100" stroke="#333" stroke-width="11"/><path d="M534,152 L550,126 L548,100" stroke="#f3e3d3" stroke-width="6"/>
+<path d="M514,152 L506,136 L520,128" stroke="#333" stroke-width="11"/><path d="M514,152 L506,136 L520,128" stroke="#f3e3d3" stroke-width="6"/>
+</g>
+<path d="M546,100 Q566,86 586,98 Q578,110 584,124 Q566,112 550,120 Z" fill="#f08a3c" stroke="#333" stroke-width="1.5"/>
+<circle cx="524" cy="128" r="13" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M512,126 Q512,114 524,115 Q536,115 536,124 Q526,120 518,122 Z" fill="#555"/>
+<rect x="508" y="130" width="10" height="5" rx="2" fill="#f08a3c" stroke="#333" stroke-width="1"/>
+<path d="M500,124 L492,120 M500,132 L490,132 M500,140 L492,144" stroke="#c33" stroke-width="2" stroke-linecap="round"/>
+</g>
+<text x="442" y="116" font-size="12" fill="#c33" text-anchor="end">whistle in</text>
+<text x="442" y="131" font-size="12" fill="#c33" text-anchor="end">sets of three</text>
+<text x="508" y="70" font-size="12" fill="#0b5cad">wave bright</text>
+<text x="508" y="84" font-size="12" fill="#0b5cad">clothing</text>
+<!-- fire and white smoke -->
+<path d="M626,240 L664,228 M626,228 L664,240" stroke="#6b5530" stroke-width="5" stroke-linecap="round"/>
+<path d="M645,230 Q632,214 642,200 Q644,212 650,208 Q648,196 656,190 Q662,212 645,230 Z" fill="#f5a623" stroke="#c33" stroke-width="1.5"/>
+<g fill="#f4f4f4" stroke="#999" stroke-width="1.5">
+<circle cx="646" cy="176" r="12"/><circle cx="638" cy="150" r="15"/><circle cx="626" cy="122" r="17"/><circle cx="612" cy="92" r="19"/><circle cx="632" cy="98" r="14"/>
+</g>
+<text x="690" y="34" font-size="12" fill="#0b5cad" text-anchor="end">By day, make smoke in the open:</text>
+<text x="690" y="49" font-size="12" fill="#0b5cad" text-anchor="end">green leaves on the fire</text>
+<text x="690" y="64" font-size="12" fill="#0b5cad" text-anchor="end">give white smoke</text>
+<text x="690" y="262" font-size="12" fill="#0b5cad" text-anchor="end">keep a fire burning at night</text>
+<text x="16" y="282" font-size="13">Blow the whistle every so often, in sets of three (less tiring than shouting; carries further).</text>
+<text x="16" y="300" font-size="13">When you hear voices, dogs, engines or a helicopter: at once blow the whistle, wave bright</text>
+<text x="16" y="318" font-size="13">clothing and light a signal smoke</text>
+</g>
+
+<!-- unreliable methods -->
+<g transform="translate(10,1276)">
+<rect x="0" y="0" width="700" height="80" rx="8" fill="#f4f4f4" stroke="#999" stroke-width="1.5"/>
+<text x="16" y="26" font-size="14"><tspan fill="#c33" font-weight="bold">✗ Tree crowns, growth rings, moss, anthills:</tspan> almost useless for direction in a forest.</text>
+<text x="16" y="46" font-size="14">Don't choose your way by one tree or one patch of moss; rely on a phone map with</text>
+<text x="16" y="66" font-size="14">location, a compass, the sun and the Pole Star.</text>
+</g>
+</g>
+</svg>

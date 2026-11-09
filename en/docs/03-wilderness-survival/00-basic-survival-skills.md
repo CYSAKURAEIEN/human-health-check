@@ -939,7 +939,7 @@ Method:
 
 ![Fire materials from thin to thick, and four fire lays: teepee, log cabin, star fire and platform](../../images/fire-lays.svg)
 
-*Figure: Tinder → kindling (matchstick → pencil → thumb thickness) → fuel (finger- to wrist-thick), added gradually from small to large; for where to put a reflector wall, see the lean-to shelter diagram above*
+*Figure: Tinder → kindling (matchstick → pencil → thumb thickness) → fuel (finger- to wrist-thick), added gradually from small to large; for where to put a reflector wall, see the lean-to shelter diagram below*
 
 ### Lighting a fire in wet weather
 

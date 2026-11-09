@@ -1248,3 +1248,423 @@ When water is short, secure it in this order:
    in hot weather and during work)
 2. Handwashing and basic hygiene (to prevent infectious disease)
 3. Drinking water for livestock
+4. Watering crops at critical stages (see below)
+5. Other uses (laundry, cleaning, watering flowers, washing the car)
+
+✓ When the community is short of water, ration it centrally, put named people in charge
+  of water sources, and look after older people, children and sick people first
+```
+
+For estimating how much water each person uses, see [Water sources and supply – How much water you need](../../../docs/07-日常生活技能/10-水源工程与供水.md#需要多少水).
+
+**Saving water**:
+```
+Daily life:
+✓ Shorter baths and showers (wash from a basin instead)
+✓ Fix leaks (a dripping tap can waste ten-odd L a day)
+✓ Reuse water (water from washing vegetables for the flowers)
+  - Vegetable-washing water → flush the toilet, water the garden; clean water from the last
+    rinse of the laundry → the first wash of the next load
+✓ Collect rainwater
+✓ Wash the car less
+✓ Use water-saving fittings
+✓ Before washing up, wipe grease off dishes with paper or a scraper, then wash them in one
+  basin of water
+
+Farming:
+✓ Drip irrigation (drips water straight onto the roots and uses less than half the water of
+  flood irrigation; without drip tubing you can bury plastic bottles with small holes
+  punched in them beside the plants)
+✓ Choose drought-tolerant crops
+✓ Mulch to keep moisture in
+✓ Water at better times (morning and evening; most water given at midday evaporates)
+For details see "Farming in drought" below
+```
+
+**Finding water**:
+```
+✓ Dig wells deeper
+✓ Rainwater collection systems
+✓ Share water resources
+✓ Bring water in from far away
+✓ Springs: in the dry season some springs flow less but do not stop; clear out the spring
+  and build a small basin to store water
+```
+
+For how to dig wells, find springs and collect rain, see [Water sources and supply](../../../docs/07-日常生活技能/10-水源工程与供水.md).
+
+### Safe drinking water in drought
+
+```
+⚠️ In drought, pollutants in water sources become "concentrated", and water quality is often
+   worse than usual
+
+✓ Boil or disinfect all water before drinking it
+✓ Keep water brought in by truck or cart in clean containers with lids; do not use drums
+  that have held pesticides, fertiliser or oil
+❌ Do not drink pond or reservoir water that is green, has green scum or a paint-like film
+   floating on it, or smells fishy or foul (it may be a cyanobacteria [blue-green algae]
+   bloom, and boiling does not remove its toxins)
+✓ Washing hands matters even more when water is short: one basin of water with soap can be
+  used by several people in turn, and the leftover water can still flush the toilet
+```
+
+For water that ordinary methods cannot make safe, see [Water sources and supply – Water that ordinary methods cannot treat](../../../docs/07-日常生活技能/10-水源工程与供水.md#不能用一般方法处理的水).
+
+### Farming in drought
+
+```
+Conserving soil moisture (reducing evaporation from the soil):
+✓ After rain or watering, hoe the surface shallowly as soon as you can, breaking the
+  capillaries at the surface to reduce evaporation
+✓ Cover the ground with straw, weeds or plastic mulch film
+✓ Weed promptly (weeds compete with crops for water)
+
+Watering:
+✓ When water is short, water first at the critical stages: sowing and emergence, jointing
+  and booting, heading and flowering (water shortage at these stages affects yield most)
+✓ Water in the morning and evening, at the roots; furrow and hole watering use less water
+  than flood irrigation
+✓ One thorough soaking is better than a little every day (it makes the roots grow down)
+
+Adjusting:
+✓ If sowing is delayed, switch to drought-tolerant crops with a short growing period
+  (foxtail millet, sorghum, sweet potato, mung beans and so on)
+✓ If you have too many livestock, sell or slaughter some early and keep the breeding stock
+```
+
+**Protecting health**:
+```
+✓ Secure drinking water: first make sure each person gets their daily drinking amount;
+  check urine colour: dark yellow urine and passing little means not enough water
+✓ Prevent heatstroke: drought often comes with heat; do physical work in the morning and
+  evening
+✓ Pay attention to hygiene (infectious disease spreads easily when water is short)
+  - However short of water you are, still wash hands before eating and after using the
+    toilet; one basin of water with soap can be shared by several people in turn
+  - Keep toilets and manure pits at least 30 m from water sources; in drought you can switch
+    to dry toilets
+  - Cook food fresh and eat it straight away; reheat leftovers thoroughly
+✓ Nutrition: when harvests are poor, make sure children, pregnant women, breastfeeding
+  women and older people are fed first; grow more fast-growing vegetables, and make sure
+  wild plants are edible before eating them
+⚠️ Diarrhoea that will not stop, passing very little urine, listlessness (especially in
+   babies, young children and older people) → see a doctor promptly
+```
+
+**Preventing fires**:
+```
+✓ Clear away flammable material (dry grass, fallen leaves and piles of firewood and straw
+  around the house)
+✓ Ban fires outdoors (burning off land, burning straw, burning paper offerings at graves,
+  cooking outdoors)
+✓ Have firefighting tools ready (buckets, shovels, sand and soil, brooms; keep them in one
+  place in the village with named people in charge)
+✓ Clear a firebreak round the house free of dry grass and woodpiles
+✓ Report a fire at once (call 119) and organise people to put it out while it is small;
+  if the fire is large or the wind strong, leave at once; do not try to fight it
+```
+
+For siting toilets and hygiene see [Sanitation](../../../docs/07-日常生活技能/03-卫生设施.md); for preventing nutritional deficiencies see [Nutrition and deficiency diseases](../../../docs/07-日常生活技能/02-营养与营养缺乏病.md).
+
+For preventing and escaping wildfires see [Forest fires](../../../docs/02-灾难应对/04-火灾.md#森林火灾).
+
+---
+
+## Sandstorms
+
+Sandstorms mostly happen in spring in north-west and north China. Strong winds lift sand and dust, visibility can drop to a few hundred m or even below a few tens of m, and the greatest harm is to the airways, the eyes and traffic. Sandstorm warnings have three levels: yellow (visibility under 1000 m), orange (severe sandstorm, under 500 m) and red (extremely severe sandstorm, under 50 m).
+
+```
+Indoors:
+✓ Shut doors and windows; block gaps round them with draught strip or damp towels
+✓ If you have an air purifier, keep it running
+✓ Children, older people and people with asthma, chronic bronchitis or heart disease should
+  stay in as much as possible and keep their usual medicines to hand
+
+If you must go out:
+✓ Wear a mask (KN95 or N95 types protect much better than ordinary masks; without one,
+  cover your mouth and nose with a damp gauze scarf or towel)
+✓ Wear goggles or glasses; do not wear contact lenses
+✓ Wear long sleeves and wrap your hair in a gauze scarf
+✓ Keep away from advertising boards, temporary structures, hoardings, scaffolding, large
+  trees and high-voltage lines (strong wind can blow them over)
+✓ Riding a bicycle or e-bike is unsafe; walk instead where possible, or stop and shelter
+✓ When you get home, wash your face, rinse your mouth, clean your nose and change your outer
+  clothes
+
+Driving:
+✓ Turn on dipped headlights, fog lights and side lights; slow down and leave a bigger gap
+✓ When visibility is very low, stop at the nearest service area, exit or safe place at the
+  roadside
+✓ If forced to stop on the hard shoulder of an expressway: turn on the hazard warning lights,
+  get out on the right, and move behind the crash barrier; do not stay in the car or stand
+  behind it
+
+In the open country:
+✓ Turn your back to the wind and shelter on the lee side of a large rock or earth bank
+✓ Wrap your head, mouth and nose in clothing; lie or crouch down and wait for the dust to pass
+❌ Do not keep travelling in the dust (you easily get lost or fall down a bank)
+
+Sand in the eyes: do not rub; rinse with clean water; if it will not wash out, see a doctor
+```
+
+For dealing with sand in the eye see [Foreign bodies in the eye](../../../docs/01-日常疾病和伤害/04-异物处理.md#眼睛异物); for sandstorms in the desert see [Desert survival](../../../docs/03-野外生存/03-沙漠求生.md).
+
+---
+
+## Lightning
+
+Every year in China many people are killed or injured by lightning, mostly **in fields in the countryside, on hills and by water**, usually on summer afternoons and evenings. For the signs that a thunderstorm is forming, see [Weather observation and forecasting – Signs of a thunderstorm](../../../docs/08-基础科学知识/07-天气观测与预报.md#23-雷暴的征兆).
+
+### Lightning dangers
+
+- Direct strike (deadly)
+- Side flash
+- Touch voltage
+- Step voltage
+
+```
+Explanation:
+- Direct strike: lightning hits the person directly; mostly people in open areas or on high
+  ground
+- Side flash: lightning hits a large tree or utility pole, then "jumps" from the trunk to a
+  person standing beside it
+  → this is the main reason people sheltering from rain under large trees are struck
+- Touch voltage: touching an object that is struck (iron railings, wire fences, metal gates,
+  utility poles)
+- Step voltage: lightning current spreads out through the ground in all directions; when a
+  person stands with feet apart there is a voltage difference between the two feet
+  → livestock nearby and people standing side by side are often killed or injured in groups
+  this way; it is the most common cause of lightning deaths and injuries
+```
+
+### Lightning safety outdoors
+
+**Find a safe place**:
+```
+✓ Inside a solid building
+✓ Inside an enclosed car
+✓ Away from tall objects
+
+Only two kinds of place are truly safe:
+1. Inside a solid building that has lightning protection or complete electrical wiring and
+   water pipes
+2. Inside a hard-topped metal vehicle (car, bus, with the windows shut)
+
+These places look as if they shelter you from the rain but are actually not safe:
+- Pavilions, gazebos, bus shelters, awnings, tents, straw huts, isolated melon-watching huts
+- Under large trees, cave mouths (deep inside a cave is somewhat better, but keep away from
+  the walls and the entrance)
+- Convertibles, motorcycles, e-bikes, bicycles, the driving seat of a tractor
+```
+
+**Last-resort position** (nowhere to shelter):
+
+⚠️ There is nowhere truly safe outdoors. This position only slightly reduces the risk, and the US National Weather Service no longer recommends it. As soon as you hear thunder, get into a solid building or an enclosed car.
+
+```
+Feet-together crouch:
+1. Put your feet right together
+2. Crouch down
+3. Hug your knees
+4. Keep your head down
+5. Touch the ground with as small an area as possible
+
+Purpose:
+- Reduces the chance of being struck
+- Reduces injury from step voltage
+
+Further notes:
+- If you have something dry and insulating (a dry rucksack, sleeping mat, plastic raincoat),
+  you can crouch on it
+- Do not lie down or lie flat (the larger the area of your body touching the ground, the
+  greater the injury from step voltage)
+- This is the last resort when there is no time to shelter; it does not replace leaving
+  early. If you can move, get off hilltops and open ground as soon as possible and head for
+  buildings or vehicles lower down
+```
+
+**Avoid**:
+```
+❌ Open ground, hilltops, open water
+❌ Under large trees (the further away the better, at least 5 m, a rule of thumb)
+❌ Near metal objects
+❌ Utility poles, flagpoles
+❌ Isolated huts, pavilions
+❌ In the water (swimming, fishing)
+❌ Wire fences, iron railings, metal washing lines, railway lines
+❌ Anything held up high: umbrellas with metal tips, hoes, fishing rods, walking poles (put
+   them down and move away from them)
+❌ Riding a bicycle, motorcycle or e-bike (get off and move away from it)
+```
+
+**In different places**:
+```
+Working in the fields, herding:
+✓ When you see cumulonimbus clouds growing taller or hear thunder, stop work and go back to
+  the village at once; do not wait for the rain
+✓ Put farm tools down; do not carry them on your shoulder; do not shelter in huts at the
+  edge of the field
+✓ Do not tie livestock under large trees or to wire fences
+
+On or by water:
+✓ People swimming, fishing or boating should get ashore at once and move away from the water
+✓ If a boat cannot reach the shore in time, get down low and keep away from masts and metal
+  parts
+
+On hills and mountains:
+✓ Get off summits and ridges as quickly as possible, heading down
+✓ Do not shelter in isolated buildings, pavilions or under signal towers on summits
+✓ When hill-walking, set out early and come down early; leave the summit before the
+  afternoon thunderstorms
+```
+
+For thunderstorms in the mountains see [Mountain survival – Lightning](../../../docs/03-野外生存/05-山地求生.md#雷电).
+
+**Groups sheltering from lightning**:
+```
+- Spread out (at least 15 m apart)
+- Do not hold hands
+- Each person crouches
+- That way, even if someone is struck, the others can help them at once
+```
+
+![Feet-together crouch when there is nowhere to shelter from lightning: feet together, crouch hugging the knees, head down, on something dry and insulating; do not lie down; groups at least 15 m apart](../../images/lightning-crouch.svg)
+
+*Figure: The feet-together crouch is only a last resort when there is no time to shelter, and only slightly reduces the risk; as soon as you hear thunder, get into a solid building or an enclosed car*
+
+### Lightning safety indoors
+
+```
+✓ Shut doors and windows
+✓ Unplug electrical appliances
+✓ Do not use the (landline) phone
+✓ Do not bathe or shower
+✓ Keep away from water pipes and metal pipes
+✓ Keep away from windows
+✓ Do not lean against walls
+
+Further notes:
+- Lightning can travel into the house along power lines, phone lines, network cables, water
+  pipes and aerials
+- Unplug the power cables, network cables and aerials of televisions, computers, routers and
+  so on; do it beforehand, not during the thunderstorm (that is dangerous)
+- If you have a solar water heater, do not shower during a thunderstorm
+- A mobile phone does not itself "attract lightning"; using one indoors is generally safe;
+  the danger outdoors comes from where you are
+- Rural single-storey or brick-and-timber houses without lightning protection: much safer
+  than outdoors, but keep further away from doors, windows, walls and electrical appliances
+```
+
+### Lightning safety in a vehicle
+
+```
+✓ Relatively safe (the metal body forms a Faraday cage)
+✓ Shut the windows
+✓ Do not touch metal parts
+✓ Stop the vehicle; do not get out
+✓ Wait for the thunderstorm to pass
+
+⚠️ Convertibles, soft-top vehicles, vehicles with fibreglass bodies, and motorcycles, e-bikes
+   and tractors do not give this protection
+```
+
+### First aid for lightning strikes
+
+```
+⚠️ It is safe to touch someone who has been struck by lightning (they carry no charge)!
+
+1. Check breathing and heartbeat at once
+2. If absent, start CPR at once
+3. People struck by lightning have a high resuscitation rate
+4. Keep up CPR until the ambulance arrives
+5. Treat burns
+6. Everyone struck by lightning should see a doctor
+
+Further notes:
+- Call 120 straight away
+- If the thunderstorm has not yet passed, first move the casualty to a relatively safe place
+  before resuscitating, so the rescuer is not struck as well
+- When several people have been struck, help first those who are not breathing and look
+  "already dead"
+```
+
+For detailed treatment see [Acute symptoms – Lightning strike](../../../docs/01-日常疾病和伤害/05-急性症状.md#雷击).
+
+### Judging how far away a thunderstorm is
+
+```
+Flash-to-bang method:
+1. Start counting when you see the lightning
+2. Stop when you hear the thunder
+3. Seconds ÷ 3 ≈ distance (km)
+
+Example: 9 seconds = about 3 km
+
+If <30 seconds (10 km), take shelter at once!
+Wait 30 minutes after the last thunder before leaving shelter
+```
+
+```
+The "30-30 rule":
+- The first 30: if the time from lightning to thunder is under 30 seconds, the thunderstorm
+  is within 10 km and you are already within striking range; get to a safe place at once
+- The second 30: after the last thunder, wait another 30 minutes before leaving the safe
+  place (as a thunderstorm moves away, its rear can still produce lightning)
+
+⚠️ It is safer still to "take shelter as soon as you hear thunder": thunder can usually be
+   heard ten-odd km away, so if you can hear thunder you are already within the range
+   lightning may reach. Lightning can strike under clear sky ten-odd km from the rain area;
+   "it isn't raining yet" does not mean you are safe.
+```
+
+---
+
+## 📝 Key points
+
+### Principles common to all weather disasters
+
+```
+1. Follow warnings in advance (warning texts on your phone, radio, official accounts)
+2. Prepare emergency supplies (water, food, lighting, medicines, documents)
+3. Evacuate in time (people in danger zones leave as soon as they are told)
+4. Follow official direction
+5. Do not take risks (do not wade, do not drive into flood water, do not stay outdoors in
+   thunderstorms)
+6. Know the colours: blue → pay attention, yellow → prepare, orange → stop outdoor activities
+   and move out of danger zones, red → stay somewhere safe
+7. Leave as soon as you receive a relocation notice; do not wait until the wind and rain are
+   strong or water is in the house
+```
+
+### Priorities for each disaster
+
+**Typhoons**: secure the house, evacuate danger zones; the calm of the eye is not the end
+**Floods**: head for high ground, do not wade, do not drive into flooded underpasses or under bridges, do not go down into underground car parks to move the car
+**Blizzards**: stay in shelter, keep warm, prevent carbon monoxide poisoning
+**Tornadoes**: basement / interior room, protect your head
+**Hail**: get into a building, keep away from windows, protect your head
+**Heatwaves**: avoid midday, drink at regular times, check on older people living alone, never leave children in a car
+**Drought**: secure drinking water first, save water early, boil water
+**Sandstorms**: shut windows, wear a mask and goggles; when visibility is low, stop and move behind the crash barrier
+**Lightning**: get indoors or into an enclosed vehicle as early as possible
+
+### Remember
+
+```
+✓ Life > property: do not go back and take risks to bring things in, move the car or check
+  on it
+✓ Prevention > response: act when the warning is issued; do not wait until the wind and rain
+  are strong or water is in the house
+✓ Be well prepared: emergency kit, water and food for 3 days or more, radio, power bank,
+  regular medicines
+✓ Stay calm: trust only information from official channels, and act on official notices
+✓ Help others: look after older people living alone, sick people, children and neighbours
+  with limited mobility
+```
+
+---
+
+**Next chapter**: [Ocean disasters](../../../docs/02-灾难应对/03-海洋灾害.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)
