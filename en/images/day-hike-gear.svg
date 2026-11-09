@@ -1,0 +1,171 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 798" width="720" height="798" role="img" aria-label="Even a day hike should be prepared for as if you might have to spend a night outdoors. Clothing: well-fitting hiking boots or trainers, not new shoes; quick-drying clothing, no cotton, as wet cotton does not keep you warm and is a major cause of hypothermia; long trousers tucked into socks against ticks and scratches; trekking poles are recommended, very useful for river crossings and descents, plus a hat, sunglasses and sunscreen. In the rucksack: a warm layer, a fleece or light down jacket, even on summer mountains; rain protection, a raincoat or waterproof shell jacket. Other essentials: phone and a fully charged power bank, headtorch or torch plus spare batteries, enough water, generally at least 1.5-2 L per person, high-energy food, a whistle, a first aid kit, an emergency foil blanket, a lighter. Also recommended: offline maps, a compass, insect repellent. Common reasons people get stranded: only a T-shirt, no warm or waterproof clothing; relying on phone navigation alone; still in the mountains after dark">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Clothing and essential kit for a day hike</title>
+<g font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif" font-size="14" fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Day hike: prepare as if you might spend a night out</text>
+<text x="360" y="50" font-size="14" fill="#555" text-anchor="middle">Even for a walk of a few hours, take warm layers, rain gear and a light</text>
+
+<!-- 1 clothing -->
+<g transform="translate(10,64)">
+<rect x="0" y="0" width="380" height="574" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">① What to wear</text>
+<path d="M20,446 L360,446" stroke="#999" stroke-width="3"/>
+<!-- rucksack (only its sides show from the front) -->
+<rect x="150" y="134" width="80" height="108" rx="12" fill="#d6c29a" stroke="#333" stroke-width="2"/>
+<!-- legs: long trousers -->
+<g fill="none" stroke-linecap="round">
+<path d="M178,256 L174,404 M202,256 L206,404" stroke="#333" stroke-width="28"/>
+<path d="M178,256 L174,404 M202,256 L206,404" stroke="#8da4bd" stroke-width="23"/>
+</g>
+<!-- socks -->
+<rect x="161" y="398" width="26" height="22" rx="4" fill="#eee" stroke="#333" stroke-width="2"/>
+<rect x="193" y="398" width="26" height="22" rx="4" fill="#eee" stroke="#333" stroke-width="2"/>
+<path d="M164,404 L184,404 M196,404 L216,404" stroke="#999" stroke-width="1.5"/>
+<!-- shoes -->
+<path d="M158,420 L188,420 L190,444 L150,444 Q150,432 158,420 Z" fill="#6b5530" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M192,420 L222,420 Q230,432 230,444 L190,444 Z" fill="#6b5530" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<!-- body: quick-dry top -->
+<rect x="160" y="136" width="60" height="128" rx="18" fill="#cfe0f0" stroke="#333" stroke-width="2.5"/>
+<path d="M176,140 L176,240 M204,140 L204,240" stroke="#6b5530" stroke-width="5" stroke-linecap="round"/>
+<!-- arms -->
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M164,148 L146,206 L140,264" stroke="#333" stroke-width="16"/><path d="M164,148 L146,206 L140,264" stroke="#cfe0f0" stroke-width="11"/>
+<path d="M216,148 L234,206 L240,262" stroke="#333" stroke-width="16"/><path d="M216,148 L234,206 L240,262" stroke="#cfe0f0" stroke-width="11"/>
+</g>
+<!-- trekking pole -->
+<path d="M134,236 L120,444" stroke="#555" stroke-width="4" stroke-linecap="round"/>
+<path d="M131,236 L139,236" stroke="#333" stroke-width="6" stroke-linecap="round"/>
+<ellipse cx="136" cy="268" rx="7" ry="8" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<ellipse cx="241" cy="266" rx="7" ry="8" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<!-- head, hat, sunglasses -->
+<circle cx="190" cy="112" r="21" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<ellipse cx="190" cy="94" rx="34" ry="6" fill="#e0c88a" stroke="#333" stroke-width="2"/>
+<path d="M172,94 Q172,72 190,72 Q208,72 208,94 Z" fill="#e0c88a" stroke="#333" stroke-width="2"/>
+<rect x="175" y="104" width="13" height="8" rx="3" fill="#333"/><rect x="192" y="104" width="13" height="8" rx="3" fill="#333"/>
+<path d="M188,107 L192,107" stroke="#333" stroke-width="2"/>
+<path d="M183,123 Q190,127 197,123" fill="none" stroke="#333" stroke-width="1.5"/>
+<!-- labels -->
+<g font-size="13" fill="#0b5cad">
+<text x="250" y="80">hat, sunglasses</text>
+<text x="250" y="96" font-size="12" fill="#555">(recommended,</text>
+<text x="250" y="110" font-size="12" fill="#555">plus sunscreen)</text>
+<line x1="248" y1="84" x2="222" y2="94" stroke="#0b5cad" stroke-width="1"/>
+<text x="16" y="150">quick-dry clothing</text>
+<text x="16" y="168" fill="#c33" font-weight="bold">no cotton</text>
+<text x="16" y="186" font-size="12" fill="#555">wet cotton doesn't</text>
+<text x="16" y="200" font-size="12" fill="#555">keep you warm: a</text>
+<text x="16" y="214" font-size="12" fill="#555">major cause of</text>
+<text x="16" y="228" font-size="12" fill="#555">hypothermia</text>
+<line x1="128" y1="156" x2="164" y2="180" stroke="#0b5cad" stroke-width="1"/>
+<text x="16" y="292">trekking poles</text>
+<text x="16" y="308" font-size="12" fill="#555">(recommended;</text>
+<text x="16" y="322" font-size="12" fill="#555">useful for rivers</text>
+<text x="16" y="336" font-size="12" fill="#555">and descents)</text>
+<line x1="102" y1="288" x2="128" y2="300" stroke="#0b5cad" stroke-width="1"/>
+<text x="250" y="330">long trousers</text>
+<line x1="248" y1="326" x2="214" y2="330" stroke="#0b5cad" stroke-width="1"/>
+<text x="250" y="378">trousers tucked</text>
+<text x="250" y="394">into socks</text>
+<text x="250" y="410" font-size="12" fill="#555">(against ticks</text>
+<text x="250" y="424" font-size="12" fill="#555">and scratches)</text>
+<line x1="248" y1="390" x2="220" y2="406" stroke="#0b5cad" stroke-width="1"/>
+<text x="16" y="384">well-fitting</text>
+<text x="16" y="400">boots or trainers</text>
+<text x="16" y="416" fill="#c33">not new shoes</text>
+<line x1="108" y1="406" x2="152" y2="432" stroke="#0b5cad" stroke-width="1"/>
+</g>
+<text x="16" y="486" font-size="14">Wear: quick-dry clothing, long trousers,</text>
+<text x="16" y="506" font-size="14">well-fitting shoes.</text>
+<text x="16" y="530" font-size="14">Pack: a warm layer and rain gear, even on</text>
+<text x="16" y="550" font-size="14">summer mountains</text>
+</g>
+
+<!-- 2 in the rucksack: warm layer and rain gear -->
+<g transform="translate(400,64)">
+<rect x="0" y="0" width="310" height="180" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="16" font-weight="bold">② Pack: warm layer, rain gear</text>
+<!-- warm layer -->
+<g transform="translate(76,86)">
+<path d="M-20,-30 L-8,-34 Q0,-26 8,-34 L20,-30 L36,-2 L26,4 L20,-8 L20,34 L-20,34 L-20,-8 L-26,4 L-36,-2 Z" fill="#f2d0a0" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M-20,-14 L20,-14 M-20,2 L20,2 M-20,18 L20,18 M0,-28 L0,34" stroke="#b08a58" stroke-width="1.5"/>
+</g>
+<text x="76" y="140" font-size="13" text-anchor="middle" font-weight="bold">Warm layer</text>
+<text x="76" y="156" font-size="12" text-anchor="middle" fill="#555">fleece or light</text>
+<text x="76" y="170" font-size="12" text-anchor="middle" fill="#555">down jacket</text>
+<!-- rain gear -->
+<g transform="translate(228,86)">
+<path d="M-20,-30 L-8,-34 Q0,-26 8,-34 L20,-30 L36,-2 L26,4 L20,-8 L20,34 L-20,34 L-20,-8 L-26,4 L-36,-2 Z" fill="#f08a3c" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M-12,-32 Q-14,-48 0,-48 Q14,-48 12,-32" fill="#f08a3c" stroke="#333" stroke-width="2"/>
+<path d="M0,-28 L0,34" stroke="#333" stroke-width="1.5"/>
+<g fill="#7aa6cc"><path d="M-44,-34 q-4,8 0,10 q4,-2 0,-10 Z"/><path d="M46,-20 q-4,8 0,10 q4,-2 0,-10 Z"/><path d="M40,-46 q-4,8 0,10 q4,-2 0,-10 Z"/></g>
+</g>
+<text x="228" y="140" font-size="13" text-anchor="middle" font-weight="bold">Rain gear</text>
+<text x="228" y="156" font-size="12" text-anchor="middle" fill="#555">raincoat or</text>
+<text x="228" y="170" font-size="12" text-anchor="middle" fill="#555">waterproof shell</text>
+<text x="152" y="80" font-size="22" text-anchor="middle" fill="#0b5cad">+</text>
+<text x="152" y="102" font-size="12" text-anchor="middle" fill="#c33">even on</text>
+<text x="152" y="116" font-size="12" text-anchor="middle" fill="#c33">summer</text>
+<text x="152" y="130" font-size="12" text-anchor="middle" fill="#c33">mountains</text>
+</g>
+
+<!-- 3 other essentials -->
+<g transform="translate(400,254)">
+<rect x="0" y="0" width="310" height="384" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">③ Other essentials</text>
+<g stroke="#333" stroke-width="2" stroke-linejoin="round">
+<!-- phone + power bank -->
+<rect x="18" y="44" width="14" height="24" rx="3" fill="#cfe0f0"/>
+<rect x="36" y="50" width="12" height="18" rx="2" fill="#9c9"/>
+<!-- headtorch -->
+<path d="M14,98 Q32,86 52,98" fill="none" stroke="#555" stroke-width="3"/>
+<circle cx="32" cy="94" r="7" fill="#ffe28a"/>
+<path d="M32,84 L32,79 M24,87 L20,83 M40,87 L44,83" stroke="#e0a800"/>
+<!-- water -->
+<path d="M27,118 L37,118 L37,123 Q42,126 42,132 L42,148 Q42,151 39,151 L25,151 Q22,151 22,148 L22,132 Q22,126 27,123 Z" fill="#d8ebf7"/>
+<!-- food -->
+<rect x="16" y="165" width="32" height="14" rx="3" fill="#d6a85c"/>
+<path d="M24,165 L24,179 M32,165 L32,179 M40,165 L40,179" stroke-width="1.2"/>
+<!-- whistle -->
+<path d="M18,202 L40,202 Q48,202 48,210 Q48,218 40,218 Q34,218 32,212 L18,212 Z" fill="#f08a3c"/>
+<circle cx="40" cy="210" r="3" fill="#fff"/>
+<!-- first aid kit -->
+<rect x="16" y="236" width="32" height="24" rx="4" fill="#fff"/>
+<path d="M32,241 L32,255 M25,248 L39,248" stroke="#c33" stroke-width="4"/>
+<!-- foil blanket -->
+<rect x="16" y="275" width="32" height="22" rx="2" fill="#ccc"/>
+<path d="M16,286 L48,286 M32,275 L32,297" stroke-width="1"/>
+<!-- lighter -->
+<rect x="25" y="316" width="14" height="20" rx="2" fill="#c33"/>
+<path d="M32,315 Q27,308 32,301 Q37,308 32,315 Z" fill="#f5a623" stroke-width="1.5"/>
+</g>
+<g font-size="14">
+<text x="60" y="62">Phone + charged power bank</text>
+<text x="60" y="92">Headtorch or torch, spare batteries</text>
+<text x="60" y="108" font-size="12" fill="#555">Darkness is a top reason for getting stuck</text>
+<text x="60" y="132">Water: usually 1.5-2 L+ per person</text>
+<text x="60" y="148" font-size="12" fill="#555">More in heat or on long routes</text>
+<text x="60" y="172">High-energy food,</text>
+<text x="60" y="188">more than you plan to eat</text>
+<text x="60" y="208">Whistle</text>
+<text x="60" y="224" font-size="12" fill="#555">Shouting soon fails; a whistle carries further</text>
+<text x="60" y="246">First aid kit</text>
+<text x="60" y="261" font-size="12" fill="#555">Plasters, gauze, bandages, elastic</text>
+<text x="60" y="275" font-size="12" fill="#555">bandage, your usual medicines</text>
+<text x="60" y="296">Emergency foil blanket (very light)</text>
+<text x="60" y="332">Lighter</text>
+</g>
+<text x="16" y="358" font-size="12" fill="#555">Also: offline maps (download before you go),</text>
+<text x="16" y="373" font-size="12" fill="#555">a compass, insect repellent</text>
+</g>
+
+<!-- warning -->
+<g transform="translate(10,648)">
+<rect x="0" y="0" width="700" height="140" rx="8" fill="#fdecec" stroke="#c33" stroke-width="2"/>
+<text x="16" y="28" font-size="15" font-weight="bold" fill="#c33">Common reasons people get stranded (all avoidable before you set off)</text>
+<text x="16" y="56" font-size="14">✗ Only a T-shirt, no warm or waterproof clothing</text>
+<text x="16" y="80" font-size="14">✗ Relying only on phone navigation, then the battery dies or there is no signal</text>
+<text x="16" y="104" font-size="14">✗ Underestimating the route, starting late, still in the mountains after dark</text>
+<text x="16" y="128" font-size="13">✓ Tell someone not coming your plan; set a "turn-back time"; be off the mountain 1-2 hours before sunset</text>
+</g>
+</g>
+</svg>

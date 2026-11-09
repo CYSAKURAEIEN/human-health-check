@@ -34,7 +34,7 @@ CN_UNITS = [
     ('千瓦', ''), ('伏特', ''), ('安培', ''), ('千卡', ''), ('大卡', ''), ('千帕', ''), ('公顷', ''),
     ('米', '饭粒酒糠粥汤醋粉面德'), ('升', '高温级起空华降'), ('克', '力隆服制'), ('吨', '位'),
 ]
-ASCII_UNITS = r'mm|cm|km|kg|mg|mL|ml|kWh|Wh|Ah|kW|mA|kJ|MJ|kcal|kPa|MPa|GPa|mSv|Hz|mol|ha|m|L|g|t|W|V|A|J|N'
+ASCII_UNITS = r'GHz|MHz|kHz|mmol|mm|cm|km|kg|mg|mL|ml|kWh|Wh|Ah|kW|mA|kJ|MJ|kcal|kPa|MPa|GPa|mSv|Hz|mol|ha|m|L|g|t|W|V|A|J|N'
 NUM = r'(?<![0-9A-Za-z.])\d+(?:\.\d+)?'
 
 

@@ -1,0 +1,239 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1048" width="720" height="1048" role="img" aria-label="Ticks: prevention, checking and removal. 1 Before going into grass or woods: wear long sleeves, long trousers and light-coloured clothes, tuck your shirt into your trousers and your trouser legs into your socks, put insect repellent containing DEET on bare skin, keep to the middle of paths and do not sit or lie on the grass. 2 After leaving, check your whole body carefully, especially the scalp, behind the ears, neck, armpits, waist, navel, groin and backs of the knees; shake out clothes, check your pack, wash clothes you bring home in hot water and tumble-dry them on high heat, and check pet dogs too. If you find a tick attached: 3 with fine-tipped tweezers, as close to the skin as possible, grip the tick's head (mouthparts); 4 pull straight out from the skin, slowly and steadily; 5 then disinfect the bite with povidone-iodine or alcohol, wash your hands, put the tick in a sealed bag or photograph it, and note the date of the bite. Do not squeeze or crush the tick's body with your fingers, do not burn it, touch it with a cigarette, or smother it in oil or nail varnish, and do not yank or twist it. If it will not come out or the mouthparts break off in the skin, go to hospital. If within about 1 month of the bite you get fever, fatigue, headache or muscle aches, nausea, vomiting, diarrhoea or loss of appetite, a spreading red rash around the bite, bleeding gums or tiny bleeding spots in the skin, or listlessness, drowsiness or seizures, see a doctor soon and tell them you were bitten by a tick." font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Ticks: prevention, checking and removal</title>
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<!-- tick, side view: tip of the mouthparts at the origin, pointing down into the skin, body above -->
+<g id="tick">
+<rect x="-1.8" y="-1" width="3.6" height="10" rx="1.5" fill="#4a2a1a"/>
+<path d="M-9,-14 l-9,4 l-3,7 M-11,-21 l-11,0 l-4,6 M-12,-28 l-11,-4 l-3,-6 M-10,-35 l-8,-7 l-1,-7 M9,-14 l9,4 l3,7 M11,-21 l11,0 l4,6 M12,-28 l11,-4 l3,-6 M10,-35 l8,-7 l1,-7" fill="none" stroke="#333" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="-5.5" y="-9" width="11" height="10" rx="3" fill="#4a2a1a"/>
+<ellipse cx="0" cy="-26" rx="12" ry="17" fill="#9a6040" stroke="#333" stroke-width="1.8"/>
+<ellipse cx="0" cy="-17" rx="8" ry="6.5" fill="#4a2a1a"/>
+</g>
+<!-- tweezers: tips at the origin, handle up to the left -->
+<g id="tw" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M-3,-1 L-44,-34 L-92,-80" stroke="#333" stroke-width="6"/>
+<path d="M-3,-1 L-44,-34 L-92,-80" stroke="#d4d4d4" stroke-width="3"/>
+<path d="M3,-4 L-30,-48 L-92,-80" stroke="#333" stroke-width="6"/>
+<path d="M3,-4 L-30,-48 L-92,-80" stroke="#d4d4d4" stroke-width="3"/>
+</g>
+<g id="no"><circle r="30" fill="none" stroke="#c33" stroke-width="3.5" opacity="0.85"/><line x1="-21" y1="-21" x2="21" y2="21" stroke="#c33" stroke-width="3.5" opacity="0.85"/></g>
+</defs>
+<text x="360" y="30" font-size="18" fill="#222" text-anchor="middle" font-weight="bold">Ticks: prevention, checking and removal</text>
+<text x="360" y="54" font-size="13" fill="#555" text-anchor="middle">A bite usually neither hurts nor itches; many people only find the tick in the shower</text>
+
+<!-- 1 before going into grass -->
+<rect x="8" y="70" width="344" height="330" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<line x1="24" y1="300" x2="200" y2="300" stroke="#999" stroke-width="2"/>
+<path d="M30 300 l4 -12 l3 12 M150 300 l3 -10 l4 10 M176 300 l4 -13 l3 13" fill="none" stroke="#6a8a3a" stroke-width="1.8"/>
+<circle cx="100" cy="112" r="14" fill="#f3e3d3" stroke="#333" stroke-width="2.2"/>
+<path d="M84 136 L72 186" stroke="#333" stroke-width="12" stroke-linecap="round"/>
+<path d="M84 136 L72 186" stroke="#eef3f8" stroke-width="8" stroke-linecap="round"/>
+<path d="M116 136 L128 186" stroke="#333" stroke-width="12" stroke-linecap="round"/>
+<path d="M116 136 L128 186" stroke="#eef3f8" stroke-width="8" stroke-linecap="round"/>
+<circle cx="71" cy="193" r="5.5" fill="#f3e3d3" stroke="#333" stroke-width="1.8"/>
+<circle cx="129" cy="193" r="5.5" fill="#f3e3d3" stroke="#333" stroke-width="1.8"/>
+<rect x="82" y="127" width="36" height="66" rx="9" fill="#eef3f8" stroke="#333" stroke-width="2.2"/>
+<rect x="84" y="200" width="15" height="76" rx="5" fill="#ece6d4" stroke="#333" stroke-width="2"/>
+<rect x="101" y="200" width="15" height="76" rx="5" fill="#ece6d4" stroke="#333" stroke-width="2"/>
+<rect x="83" y="184" width="34" height="20" rx="5" fill="#ece6d4" stroke="#333" stroke-width="2"/>
+<line x1="84" y1="190" x2="116" y2="190" stroke="#333" stroke-width="1.5"/>
+<rect x="82.5" y="266" width="17" height="24" rx="3" fill="#fff" stroke="#333" stroke-width="2"/>
+<rect x="100.5" y="266" width="17" height="24" rx="3" fill="#fff" stroke="#333" stroke-width="2"/>
+<line x1="83" y1="271" x2="99" y2="271" stroke="#333" stroke-width="1.2"/>
+<line x1="101" y1="271" x2="117" y2="271" stroke="#333" stroke-width="1.2"/>
+<path d="M80 290 h20 v8 q0 3 -3 3 h-21 q-3 0 -2 -4 Z M100 290 h20 q4 2 4 7 q0 4 -3 4 h-21 Z" fill="#666" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<g stroke="#0b5cad" stroke-width="1.2" fill="none">
+<line x1="124" y1="152" x2="168" y2="126"/>
+<line x1="118" y1="190" x2="168" y2="196"/>
+<line x1="119" y1="274" x2="168" y2="262"/>
+</g>
+<text x="172" y="124" font-size="14" fill="#222">Long sleeves and trousers,</text>
+<text x="172" y="141" font-size="14" fill="#222">light-coloured clothes</text>
+<text x="172" y="158" font-size="12" fill="#555">(ticks crawling on you are</text>
+<text x="172" y="172" font-size="12" fill="#555">easier to spot)</text>
+<text x="172" y="201" font-size="14" fill="#222">Shirt tucked into trousers</text>
+<text x="172" y="258" font-size="14" fill="#222">Trouser legs tucked</text>
+<text x="172" y="275" font-size="14" fill="#222">into socks</text>
+<text x="22" y="330" font-size="15" fill="#222" font-weight="bold">① Before going into grass or woods</text>
+<text x="22" y="351" font-size="13" fill="#222">Put insect repellent with DEET on bare skin.</text>
+<text x="22" y="369" font-size="13" fill="#222">Keep to the middle of paths; don't sit or lie</text>
+<text x="22" y="387" font-size="13" fill="#222">on the grass</text>
+
+<!-- 2 check the whole body -->
+<rect x="368" y="70" width="344" height="330" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<path d="M516 160 L494 232" stroke="#333" stroke-width="14" stroke-linecap="round"/>
+<path d="M516 160 L494 232" stroke="#f3e3d3" stroke-width="10" stroke-linecap="round"/>
+<path d="M564 160 L586 232" stroke="#333" stroke-width="14" stroke-linecap="round"/>
+<path d="M564 160 L586 232" stroke="#f3e3d3" stroke-width="10" stroke-linecap="round"/>
+<rect x="517" y="226" width="21" height="72" rx="8" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<rect x="542" y="226" width="21" height="72" rx="8" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<rect x="514" y="150" width="52" height="80" rx="15" fill="#f3e3d3" stroke="#333" stroke-width="2.2"/>
+<rect x="515" y="214" width="50" height="22" rx="6" fill="#cfe0f0" stroke="#333" stroke-width="2"/>
+<rect x="534" y="138" width="12" height="14" fill="#f3e3d3"/>
+<line x1="534" y1="138" x2="534" y2="151" stroke="#333" stroke-width="2"/>
+<line x1="546" y1="138" x2="546" y2="151" stroke="#333" stroke-width="2"/>
+<ellipse cx="524" cy="124" rx="4" ry="6.5" fill="#f3e3d3" stroke="#333" stroke-width="1.8"/>
+<ellipse cx="556" cy="124" rx="4" ry="6.5" fill="#f3e3d3" stroke="#333" stroke-width="1.8"/>
+<circle cx="540" cy="122" r="16" fill="#f3e3d3" stroke="#333" stroke-width="2.2"/>
+<path d="M516 298 h22 v4 h-26 Z M542 298 h22 l4 4 h-26 Z" fill="#666" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<line x1="470" y1="304" x2="610" y2="304" stroke="#999" stroke-width="2"/>
+<g fill="none" stroke="#c33" stroke-width="2.2">
+<circle cx="540" cy="106" r="5"/>
+<circle cx="559" cy="129" r="4.5"/>
+<circle cx="540" cy="146" r="4.5"/>
+<circle cx="520" cy="166" r="5"/>
+<circle cx="540" cy="196" r="4.5"/>
+<circle cx="565" cy="208" r="4.5"/>
+<circle cx="530" cy="240" r="5"/>
+<circle cx="553" cy="266" r="5"/>
+</g>
+<g stroke="#0b5cad" stroke-width="1.2" fill="none">
+<line x1="444" y1="102" x2="535" y2="106"/>
+<line x1="444" y1="142" x2="535" y2="146"/>
+<line x1="444" y1="170" x2="515" y2="167"/>
+<line x1="444" y1="198" x2="535" y2="196"/>
+<line x1="444" y1="246" x2="525" y2="241"/>
+<line x1="626" y1="118" x2="563" y2="128"/>
+<line x1="660" y1="204" x2="570" y2="208"/>
+<line x1="612" y1="262" x2="558" y2="266"/>
+</g>
+<g font-size="14" fill="#222">
+<text x="440" y="107" text-anchor="end">scalp</text>
+<text x="440" y="147" text-anchor="end">neck</text>
+<text x="440" y="175" text-anchor="end">armpits</text>
+<text x="440" y="203" text-anchor="end">navel</text>
+<text x="440" y="251" text-anchor="end">groin</text>
+<text x="706" y="114" font-size="13" text-anchor="end">behind</text><text x="706" y="128" font-size="13" text-anchor="end">the ears</text>
+<text x="706" y="209" font-size="13" text-anchor="end">waist</text>
+<text x="706" y="258" font-size="13" text-anchor="end">backs of</text><text x="706" y="272" font-size="13" text-anchor="end">the knees</text>
+</g>
+<text x="382" y="330" font-size="15" fill="#222" font-weight="bold">② After leaving, check your whole body</text>
+<text x="382" y="351" font-size="13" fill="#222">Shake out clothes and check your pack; check</text>
+<text x="382" y="369" font-size="13" fill="#222">pet dogs too. Wash clothes you bring home in</text>
+<text x="382" y="387" font-size="13" fill="#222">hot water and tumble-dry them on high heat</text>
+
+<!-- removal -->
+<g transform="translate(0,18)">
+<text x="14" y="412" font-size="16" fill="#0b5cad" font-weight="bold">If you find a tick attached</text>
+
+<!-- 3 grip -->
+<rect x="8" y="422" width="228" height="264" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<rect x="16" y="540" width="212" height="40" fill="#f3e3d3"/>
+<line x1="16" y1="540" x2="228" y2="540" stroke="#333" stroke-width="2"/>
+<use href="#tick" transform="translate(122 540) rotate(25)"/>
+<use href="#tw" transform="translate(123 536)"/>
+<circle cx="122" cy="537" r="11" fill="none" stroke="#c33" stroke-width="1.8" stroke-dasharray="3 2"/>
+<text x="96" y="460" font-size="13" fill="#0b5cad">fine-tipped tweezers</text>
+<line x1="146" y1="566" x2="126" y2="548" stroke="#c33" stroke-width="1.2"/>
+<text x="150" y="568" font-size="12" fill="#c33">head</text>
+<text x="150" y="580" font-size="12" fill="#c33">(mouthparts)</text>
+<text x="200" y="556" font-size="12" fill="#888">skin</text>
+<text x="22" y="612" font-size="15" fill="#222" font-weight="bold">③ As close to the skin</text>
+<text x="22" y="631" font-size="15" fill="#222" font-weight="bold">as you can, grip the</text>
+<text x="22" y="650" font-size="15" fill="#222" font-weight="bold">tick's head (mouthparts)</text>
+
+<!-- 4 pull straight out -->
+<rect x="246" y="422" width="228" height="264" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<rect x="254" y="540" width="212" height="40" fill="#f3e3d3"/>
+<line x1="254" y1="540" x2="466" y2="540" stroke="#333" stroke-width="2"/>
+<circle cx="360" cy="541" r="1.8" fill="#c33"/>
+<line x1="360" y1="545" x2="360" y2="440" stroke="#0b5cad" stroke-width="1.2" stroke-dasharray="4 3"/>
+<path d="M360 530 h10 v10" fill="none" stroke="#0b5cad" stroke-width="1.2"/>
+<use href="#tick" transform="translate(360 520) rotate(25)"/>
+<use href="#tw" transform="translate(361 516)"/>
+<line x1="410" y1="532" x2="410" y2="458" stroke="#c33" stroke-width="3" marker-end="url(#ar)"/>
+<text x="418" y="486" font-size="13" fill="#c33">straight</text>
+<text x="418" y="504" font-size="13" fill="#c33">up</text>
+<text x="260" y="612" font-size="15" fill="#222" font-weight="bold">④ Pull straight out</text>
+<text x="260" y="631" font-size="15" fill="#222" font-weight="bold">from the skin, slowly</text>
+<text x="260" y="650" font-size="15" fill="#222" font-weight="bold">and steadily</text>
+
+<!-- 5 disinfect, keep the tick -->
+<rect x="484" y="422" width="228" height="264" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<rect x="510" y="456" width="16" height="12" rx="2" fill="#fff" stroke="#333" stroke-width="1.8"/>
+<rect x="502" y="468" width="32" height="64" rx="6" fill="#8a4a2a" stroke="#333" stroke-width="2"/>
+<rect x="506" y="486" width="24" height="30" rx="2" fill="#fff"/>
+<text x="518" y="550" font-size="12" fill="#222" text-anchor="middle">povidone-</text>
+<text x="518" y="564" font-size="12" fill="#222" text-anchor="middle">iodine</text>
+<rect x="582" y="448" width="104" height="96" rx="5" fill="#f5f9fc" stroke="#333" stroke-width="2"/>
+<line x1="586" y1="460" x2="682" y2="460" stroke="#0b5cad" stroke-width="2"/>
+<line x1="586" y1="464" x2="682" y2="464" stroke="#0b5cad" stroke-width="1.2"/>
+<use href="#tick" transform="translate(634 506) scale(0.8)"/>
+<rect x="588" y="514" width="92" height="22" rx="3" fill="#fff" stroke="#999" stroke-width="1.2"/>
+<text x="634" y="529" font-size="12" fill="#222" text-anchor="middle">Bitten on: __/__</text>
+<text x="634" y="560" font-size="12" fill="#555" text-anchor="middle">or take a photo</text>
+<text x="634" y="575" font-size="12" fill="#555" text-anchor="middle">(to show a doctor</text>
+<text x="634" y="590" font-size="12" fill="#555" text-anchor="middle">if you fall ill)</text>
+<text x="498" y="612" font-size="15" fill="#222" font-weight="bold">⑤ Disinfect with iodine</text>
+<text x="498" y="631" font-size="15" fill="#222" font-weight="bold">or alcohol; wash hands</text>
+<text x="498" y="652" font-size="13" fill="#222">Bag the tick and note the</text>
+<text x="498" y="669" font-size="13" fill="#222">date of the bite</text>
+
+</g>
+<!-- do not -->
+<g transform="translate(0,56)">
+<text x="14" y="676" font-size="16" fill="#c33" font-weight="bold">✗ Do not</text>
+<g>
+<rect x="8" y="686" width="170" height="122" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<line x1="30" y1="754" x2="156" y2="754" stroke="#999" stroke-width="2"/>
+<use href="#tick" transform="translate(93 754)"/>
+<path d="M48 722 L80 726" stroke="#333" stroke-width="15" stroke-linecap="round"/>
+<path d="M48 722 L80 726" stroke="#f3e3d3" stroke-width="11" stroke-linecap="round"/>
+<path d="M138 722 L106 726" stroke="#333" stroke-width="15" stroke-linecap="round"/>
+<path d="M138 722 L106 726" stroke="#f3e3d3" stroke-width="11" stroke-linecap="round"/>
+<use href="#no" transform="translate(93 730)"/>
+<text x="93" y="782" font-size="14" fill="#222" text-anchor="middle">squeeze or crush</text>
+<text x="93" y="799" font-size="12" fill="#666" text-anchor="middle">the tick's body with fingers</text>
+</g>
+<g>
+<rect x="186" y="686" width="170" height="122" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<line x1="208" y1="754" x2="334" y2="754" stroke="#999" stroke-width="2"/>
+<use href="#tick" transform="translate(262 754)"/>
+<g transform="rotate(-35 296 726)">
+<rect x="280" y="721" width="44" height="10" rx="2" fill="#fff" stroke="#333" stroke-width="1.5"/>
+<rect x="310" y="721" width="14" height="10" rx="2" fill="#d9a25a" stroke="#333" stroke-width="1.5"/>
+<rect x="275" y="721" width="7" height="10" rx="2" fill="#e8562a" stroke="#333" stroke-width="1.2"/>
+</g>
+<path d="M232 742 q-4 -8 2 -14 q0 8 6 8 q2 -10 -2 -16 q10 6 8 22 Z" fill="#f08a2a" stroke="#c33" stroke-width="1.2"/>
+<use href="#no" transform="translate(271 730)"/>
+<text x="271" y="782" font-size="14" fill="#222" text-anchor="middle">burn it, or use a cigarette</text>
+</g>
+<g>
+<rect x="364" y="686" width="170" height="122" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<line x1="386" y1="754" x2="512" y2="754" stroke="#999" stroke-width="2"/>
+<use href="#tick" transform="translate(449 754)"/>
+<g transform="rotate(-120 494 712)">
+<path d="M488 694 h12 v8 q10 3 10 12 v16 h-32 v-16 q0 -9 10 -12 Z" fill="#f0d27a" stroke="#333" stroke-width="1.8" stroke-linejoin="round"/>
+</g>
+<path d="M466 722 q-3 6 0 8 q3 -2 0 -8 Z M459 731 q-3 6 0 8 q3 -2 0 -8 Z" fill="#e0b84a" stroke="#333" stroke-width="1"/>
+<use href="#no" transform="translate(449 730)"/>
+<text x="449" y="782" font-size="14" fill="#222" text-anchor="middle">oil or nail varnish</text>
+<text x="449" y="799" font-size="12" fill="#666" text-anchor="middle">(to make it "back out")</text>
+</g>
+<g>
+<rect x="542" y="686" width="170" height="122" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<line x1="564" y1="754" x2="690" y2="754" stroke="#999" stroke-width="2"/>
+<use href="#tick" transform="translate(627 754) rotate(25)"/>
+<use href="#tw" transform="translate(628 750) scale(0.55)"/>
+<path d="M596 712 a26 9 0 1 0 22 -8" fill="none" stroke="#c33" stroke-width="2.2" marker-end="url(#ar)"/>
+<use href="#no" transform="translate(627 730)"/>
+<text x="627" y="782" font-size="14" fill="#222" text-anchor="middle">yank or twist it</text>
+</g>
+
+<text x="14" y="836" font-size="15" fill="#c33" font-weight="bold">⚠️ Won't come out, or the mouthparts break off in the skin → go to hospital</text>
+
+<!-- after a bite -->
+<rect x="8" y="852" width="704" height="130" rx="10" fill="#fdf3f3" stroke="#e6b8b8" stroke-width="1.5"/>
+<text x="22" y="876" font-size="15" fill="#c33" font-weight="bold">If any of these appear within about 1 month of the bite, see a doctor soon</text>
+<text x="22" y="894" font-size="15" fill="#c33" font-weight="bold">and tell them you were bitten by a tick:</text>
+<g font-size="14" fill="#222">
+<text x="26" y="920">● Fever, fatigue, headache, muscle aches</text>
+<text x="370" y="920">● Nausea, vomiting, diarrhoea, loss of appetite</text>
+<text x="26" y="944">● A spreading red rash around the bite</text>
+<text x="370" y="944">● Bleeding gums, tiny bleeding spots in the skin</text>
+<text x="26" y="968">● Listlessness, drowsiness, seizures</text>
+</g>
+</g>
+</svg>

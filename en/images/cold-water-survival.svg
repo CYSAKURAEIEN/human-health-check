@@ -1,0 +1,187 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 984" width="720" height="984" role="img" aria-label="What to do after falling into cold water: when the water is below about 15°C, cold shock in the first minute is the greatest danger: you gasp uncontrollably and inhale water; as you go in, keep your mouth shut and cover your nose and mouth with both hands; do not struggle and do not rush to swim; float on your back with arms and legs spread and your nose and mouth above the water; control your breathing: the gasping settles after about 1 to 1.5 minutes, then decide what to do next; while waiting for rescue, one person in a lifejacket uses the HELP position: legs together, knees drawn up to the chest, arms folded across the chest pressing the armpits, head and neck out of the water; several people huddle face to face with children and the weak in the middle; without a lifejacket, float on your back and hold on to anything that floats; do not take off clothes or shoes, climb onto floating objects as far as you can, and do not drink seawater">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Falling into cold water: survive the first minute of cold shock, then keep warm</title>
+<g font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif" font-size="14" fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Falling into cold water: survive the first minute, then keep warm</text>
+<text x="360" y="50" font-size="13" fill="#555" text-anchor="middle">Below about 15°C, the first minute is the most dangerous, not from freezing but from inhaling water</text>
+
+<!-- A first minute -->
+<g transform="translate(10,62)">
+<rect x="0" y="0" width="700" height="340" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="16" font-weight="bold">First minute: cold shock</text>
+<text x="226" y="28" font-size="13" fill="#555">Cold water → uncontrollable gasping → inhale water if head is under</text>
+<path d="M233,44 L233,278 M466,44 L466,278" stroke="#ccc" stroke-width="1.5" stroke-dasharray="5 4"/>
+
+<!-- 1 cover nose and mouth -->
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M106,172 L102,192 M126,172 L130,192" stroke="#333" stroke-width="17"/><path d="M106,172 L102,192 M126,172 L130,192" stroke="#cfe0f0" stroke-width="12"/>
+<path d="M116,116 L116,170" stroke="#333" stroke-width="36"/><path d="M116,116 L116,170" stroke="#cfe0f0" stroke-width="31"/>
+</g>
+<circle cx="116" cy="88" r="17" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M99,84 Q100,66 116,67 Q132,66 133,84 Q126,74 116,74 Q106,74 99,84 Z" fill="#555"/>
+<circle cx="110" cy="85" r="1.8" fill="#333"/><circle cx="122" cy="85" r="1.8" fill="#333"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M101,108 L88,118 L109,99 M131,108 L144,118 L123,99" stroke="#333" stroke-width="13"/><path d="M101,108 L88,118 L109,99 M131,108 L144,118 L123,99" stroke="#f3e3d3" stroke-width="8"/>
+</g>
+<ellipse cx="110" cy="97" rx="7" ry="6" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<ellipse cx="122" cy="97" rx="7" ry="6" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<rect x="12" y="130" width="210" height="64" fill="#d8ebf7" fill-opacity="0.75"/>
+<path d="M12,130 L222,130" stroke="#7aa6cc" stroke-width="2"/>
+<path d="M74,126 L64,114 M80,122 L76,108 M158,126 L168,114 M152,122 L156,108" stroke="#7aa6cc" stroke-width="2.5" stroke-linecap="round"/>
+<text x="140" y="58" font-size="13" fill="#0b5cad">Cover nose</text>
+<text x="140" y="73" font-size="13" fill="#0b5cad">and mouth</text>
+<line x1="150" y1="77" x2="126" y2="94" stroke="#0b5cad" stroke-width="1"/>
+<text x="12" y="216"><tspan font-weight="bold">①</tspan> As you go in, keep</text>
+<text x="30" y="236">your mouth shut; cover</text>
+<text x="30" y="256">nose and mouth with</text>
+<text x="30" y="276">both hands <tspan font-size="13" fill="#555">(if you can)</tspan></text>
+
+<!-- 2 float on back (from above) -->
+<g transform="translate(233,0)">
+<rect x="10" y="44" width="213" height="150" fill="#d8ebf7"/>
+<text x="18" y="62" font-size="12" fill="#555">from above</text>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M108,96 L66,80 M124,96 L166,80" stroke="#333" stroke-width="14"/><path d="M108,96 L66,80 M124,96 L166,80" stroke="#f3e3d3" stroke-width="9"/>
+<path d="M110,128 L86,176 M122,128 L146,176" stroke="#333" stroke-width="19"/><path d="M110,128 L86,176 M122,128 L146,176" stroke="#cfe0f0" stroke-width="14"/>
+<path d="M116,94 L116,128" stroke="#333" stroke-width="32"/><path d="M116,94 L116,128" stroke="#cfe0f0" stroke-width="27"/>
+</g>
+<circle cx="116" cy="72" r="15" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M101,70 Q102,56 116,57 Q130,56 131,70 Q124,62 116,62 Q108,62 101,70 Z" fill="#555"/>
+<circle cx="111" cy="72" r="1.8" fill="#333"/><circle cx="121" cy="72" r="1.8" fill="#333"/>
+<path d="M112,79 Q116,82 120,79" fill="none" stroke="#333" stroke-width="1.5"/>
+<text x="140" y="60" font-size="13" fill="#0b5cad">face up</text>
+<line x1="138" y1="58" x2="124" y2="70" stroke="#0b5cad" stroke-width="1"/>
+<text x="156" y="136" font-size="13" fill="#0b5cad">arms and</text>
+<text x="156" y="152" font-size="13" fill="#0b5cad">legs spread</text>
+<text x="12" y="216"><tspan font-weight="bold">②</tspan> Don't struggle or rush</text>
+<text x="30" y="236">to swim; float on your</text>
+<text x="30" y="256">back, arms and legs spread,</text>
+<text x="30" y="276">nose and mouth above water</text>
+</g>
+
+<!-- 3 control breathing -->
+<g transform="translate(466,0)">
+<path d="M20,170 L220,170" stroke="#999" stroke-width="2"/>
+<path d="M24,166 L24,174 M134,166 L134,174" stroke="#999" stroke-width="2"/>
+<path d="M24,120 L30,80 L36,160 L42,78 L48,160 L54,82 L60,156 L66,86 L72,152 L78,92 L84,146 L90,98 L96,140 L104,104 L112,134 L122,110 L134,128 Q146,112 160,121 Q174,130 188,120 Q202,110 216,120" fill="none" stroke="#c33" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="26" y="66" font-size="13" fill="#c33">rapid gasping</text>
+<text x="146" y="100" font-size="13" fill="#0b5cad">settles</text>
+<text x="24" y="188" font-size="12" fill="#555" text-anchor="middle">fall in</text>
+<text x="134" y="188" font-size="12" fill="#555" text-anchor="middle">about 1–1.5 minutes</text>
+<text x="12" y="216"><tspan font-weight="bold">③</tspan> Control your breathing;</text>
+<text x="30" y="236">after about 1 to 1.5</text>
+<text x="30" y="256">minutes the gasping</text>
+<text x="30" y="276">slowly settles</text>
+</g>
+<text x="16" y="306"><tspan font-weight="bold">④</tspan> Once it settles, decide: climb onto something floating, swim to a nearby boat or shore, or wait</text>
+<text x="16" y="328" font-size="13" fill="#0b5cad">A lifejacket greatly reduces the risk of cold shock; that is why you must always wear one</text>
+</g>
+
+<!-- B1 HELP position -->
+<g transform="translate(10,412)">
+<rect x="0" y="0" width="345" height="282" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="16" font-weight="bold">Alone, in a lifejacket: HELP position</text>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M154,146 L140,102" stroke="#333" stroke-width="30"/><path d="M154,146 L140,102" stroke="#cfe0f0" stroke-width="25"/>
+</g>
+<path transform="rotate(-16 147 124)" d="M125,98 Q125,92 131,92 L163,92 Q169,92 169,98 L169,148 Q169,154 163,154 L131,154 Q125,154 125,148 Z" fill="#f08a3c" stroke="#333" stroke-width="2"/>
+<circle cx="134" cy="72" r="17" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M117,70 Q118,52 138,55 Q148,57 150,66 Q138,58 128,62 Q120,66 117,70 Z" fill="#555"/>
+<circle cx="143" cy="71" r="1.8" fill="#333"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M144,102 L166,126 L150,110" stroke="#333" stroke-width="14"/><path d="M144,102 L166,126 L150,110" stroke="#f3e3d3" stroke-width="9"/>
+<path d="M154,148 L188,112 L194,164" stroke="#333" stroke-width="19"/><path d="M154,148 L188,112 L194,164" stroke="#cfe0f0" stroke-width="14"/>
+</g>
+<ellipse cx="200" cy="167" rx="10" ry="5" fill="#555" stroke="#333" stroke-width="1.5"/>
+<rect x="12" y="96" width="321" height="100" fill="#d8ebf7" fill-opacity="0.5"/>
+<path d="M12,96 L333,96" stroke="#7aa6cc" stroke-width="2"/>
+<text x="196" y="52" font-size="13" fill="#0b5cad">head and neck</text>
+<text x="196" y="67" font-size="13" fill="#0b5cad">out of the water</text>
+<line x1="194" y1="56" x2="152" y2="68" stroke="#0b5cad" stroke-width="1"/>
+<text x="20" y="114" font-size="13" fill="#0b5cad">arms folded,</text>
+<text x="20" y="130" font-size="13" fill="#0b5cad">armpits tight</text>
+<line x1="78" y1="134" x2="154" y2="114" stroke="#0b5cad" stroke-width="1"/>
+<text x="24" y="176" font-size="13" fill="#0b5cad">lifejacket</text>
+<line x1="86" y1="172" x2="132" y2="146" stroke="#0b5cad" stroke-width="1"/>
+<text x="212" y="140" font-size="13" fill="#0b5cad">legs together,</text>
+<text x="212" y="156" font-size="13" fill="#0b5cad">knees to chest</text>
+<line x1="210" y1="138" x2="194" y2="122" stroke="#0b5cad" stroke-width="1"/>
+<text x="16" y="222" font-size="14">Protects the armpits, chest and groin,</text>
+<text x="16" y="242" font-size="14">where most heat is lost</text>
+<text x="16" y="264" font-size="13" fill="#555">Not without a lifejacket (HELP makes you sink)</text>
+</g>
+
+<!-- B2 huddle (from above) -->
+<g transform="translate(365,412)">
+<rect x="0" y="0" width="345" height="282" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="16" font-weight="bold">Several people: huddle</text>
+<rect x="12" y="40" width="321" height="156" fill="#d8ebf7"/>
+<text x="20" y="58" font-size="12" fill="#555">from above</text>
+<circle cx="160" cy="120" r="50" fill="none" stroke="#333" stroke-width="13"/>
+<circle cx="160" cy="120" r="50" fill="none" stroke="#f3e3d3" stroke-width="8"/>
+<g stroke="#333" stroke-width="2">
+<ellipse cx="160" cy="70" rx="26" ry="13" fill="#f08a3c"/>
+<circle cx="160" cy="68" r="11" fill="#555"/>
+<g transform="rotate(120 203 145)"><ellipse cx="203" cy="145" rx="26" ry="13" fill="#f08a3c"/></g>
+<circle cx="205" cy="146" r="11" fill="#555"/>
+<g transform="rotate(60 117 145)"><ellipse cx="117" cy="145" rx="26" ry="13" fill="#f08a3c"/></g>
+<circle cx="115" cy="146" r="11" fill="#555"/>
+<ellipse cx="160" cy="122" rx="16" ry="10" fill="#f08a3c"/>
+<circle cx="160" cy="121" r="8" fill="#555"/>
+</g>
+<text x="232" y="100" font-size="13" fill="#0b5cad">arms round</text>
+<text x="232" y="116" font-size="13" fill="#0b5cad">each other</text>
+<line x1="230" y1="104" x2="208" y2="112" stroke="#0b5cad" stroke-width="1"/>
+<text x="232" y="170" font-size="13" fill="#0b5cad">child in the</text>
+<text x="232" y="186" font-size="13" fill="#0b5cad">middle</text>
+<line x1="230" y1="166" x2="170" y2="126" stroke="#0b5cad" stroke-width="1"/>
+<text x="16" y="222" font-size="14">Face to face in a circle, chest to chest,</text>
+<text x="16" y="242" font-size="14">arms round each other</text>
+<text x="16" y="264" font-size="13" fill="#555">Children, injured, weak in the middle; easier to spot</text>
+</g>
+
+<!-- C1 no lifejacket -->
+<g transform="translate(10,704)">
+<rect x="0" y="0" width="345" height="240" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="16" font-weight="bold">Without a lifejacket</text>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M196,112 L262,118" stroke="#333" stroke-width="19"/><path d="M196,112 L262,118" stroke="#cfe0f0" stroke-width="14"/>
+<path d="M130,106 L198,110" stroke="#333" stroke-width="28"/><path d="M130,106 L198,110" stroke="#cfe0f0" stroke-width="23"/>
+</g>
+<circle cx="106" cy="98" r="15" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M92,102 Q88,88 98,84 Q94,94 96,104 Z" fill="#555"/>
+<circle cx="110" cy="90" r="1.8" fill="#333"/>
+<rect x="12" y="104" width="321" height="40" fill="#d8ebf7" fill-opacity="0.7"/>
+<path d="M12,104 L333,104" stroke="#7aa6cc" stroke-width="2"/>
+<rect x="150" y="94" width="140" height="16" rx="7" fill="#b08a58" stroke="#333" stroke-width="2"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M136,104 L160,82 L178,96" stroke="#333" stroke-width="14"/><path d="M136,104 L160,82 L178,96" stroke="#f3e3d3" stroke-width="9"/>
+</g>
+<ellipse cx="180" cy="96" rx="7" ry="6" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<text x="20" y="64" font-size="13" fill="#0b5cad">float on your back</text>
+<line x1="60" y1="68" x2="96" y2="88" stroke="#0b5cad" stroke-width="1"/>
+<text x="180" y="64" font-size="13" fill="#0b5cad">hold anything that floats</text>
+<line x1="236" y1="68" x2="228" y2="94" stroke="#0b5cad" stroke-width="1"/>
+<text x="16" y="168" font-size="14">HELP makes you sink: float on your back</text>
+<text x="16" y="188" font-size="14">and hold anything that floats. Swim only if</text>
+<text x="16" y="208" font-size="14">shore or boat is close and surely in reach</text>
+<text x="16" y="228" font-size="14">(swimming in cold water chills you faster)</text>
+</g>
+
+<!-- C2 always -->
+<g transform="translate(365,704)">
+<rect x="0" y="0" width="345" height="240" rx="8" fill="#fdecec" stroke="#c33" stroke-width="2"/>
+<text x="16" y="28" font-size="16" font-weight="bold" fill="#c33">With or without a lifejacket</text>
+<text x="16" y="58" font-size="15">✓ Keep your clothes and shoes on</text>
+<text x="34" y="78" font-size="13" fill="#555">The water layer in clothes insulates; some</text>
+<text x="34" y="94" font-size="13" fill="#555">clothes also help you float</text>
+<text x="16" y="122" font-size="15">✓ Climb onto anything floating; spend</text>
+<text x="34" y="140" font-size="15">as little time in the water as you can</text>
+<text x="16" y="168" font-size="15">✗ Don't drink seawater</text>
+<text x="16" y="194" font-size="15">✓ Stay with others, the boat or wreckage;</text>
+<text x="34" y="212" font-size="15">be seen; a whistle beats shouting</text>
+</g>
+
+<text x="360" y="966" font-size="14" text-anchor="middle">Once rescued, treat for hypothermia; lift anyone who has been in cold water a long time out horizontally</text>
+</g>
+</svg>

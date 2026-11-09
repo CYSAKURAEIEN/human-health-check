@@ -1,0 +1,218 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1216" width="720" height="1216" role="img" aria-label="Escaping a fire: 1 before opening a door, feel the door handle with the back of your hand, and also the top of the door and the gaps around it; if it is hot or there is smoke at the gaps, do not open it; 2 when opening, keep your body behind the door, brace it with your foot and open it a crack slowly; if heat or thick smoke pours in, shut it at once; 3 keep low in smoke: walk fast bent over when the smoke is not too thick, crawl on hands and knees when it is very thick, cover your nose and mouth with a wet towel, keep one hand on the wall, and close doors behind you; 4 use the stairs and go down, following the green emergency exit signs; never take the lift, go upwards or go back for belongings; if you cannot get out, shut the door and stay put, stuff wet towels into the gaps around the door, throw water on the door, call 119 and wave brightly coloured clothing at the window; do not hide under the bed or in a wardrobe, and do not jump">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Escaping a fire: feel the door, then keep low; if you cannot get out, shut the door and stay put</title>
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+</defs>
+<g font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif" font-size="14" fill="#222">
+<text x="360" y="28" font-size="17" font-weight="bold" text-anchor="middle">Escaping a fire: feel the door, then keep low; can't get out? Shut the door, stay put</text>
+
+<!-- 1 feel the door -->
+<g transform="translate(10,42)">
+<rect x="0" y="0" width="345" height="298" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<rect x="34" y="24" width="112" height="162" fill="none" stroke="#333" stroke-width="2"/>
+<rect x="40" y="30" width="100" height="156" fill="#dcc39a" stroke="#333" stroke-width="2"/>
+<rect x="52" y="44" width="76" height="52" fill="none" stroke="#b08a58" stroke-width="1.5"/>
+<rect x="52" y="112" width="76" height="60" fill="none" stroke="#b08a58" stroke-width="1.5"/>
+<rect x="46" y="34" width="88" height="22" fill="none" stroke="#0b5cad" stroke-width="1.5" stroke-dasharray="4 3"/>
+<path d="M143,32 L143,184" stroke="#0b5cad" stroke-width="2" stroke-dasharray="4 3"/>
+<circle cx="118" cy="104" r="5" fill="#bbb" stroke="#333" stroke-width="1.5"/>
+<rect x="100" y="101" width="22" height="6" rx="3" fill="#bbb" stroke="#333" stroke-width="1.5"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M170,190 L124,116" stroke="#333" stroke-width="15"/><path d="M170,190 L124,116" stroke="#f3e3d3" stroke-width="10"/>
+</g>
+<ellipse cx="116" cy="104" rx="11" ry="9" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M108,98 Q116,94 124,98" fill="none" stroke="#333" stroke-width="1.2"/>
+<text x="176" y="44" font-size="13" fill="#0b5cad">also the top of</text>
+<text x="176" y="60" font-size="13" fill="#0b5cad">the door and gaps</text>
+<line x1="174" y1="40" x2="136" y2="42" stroke="#0b5cad" stroke-width="1"/>
+<line x1="174" y1="56" x2="146" y2="70" stroke="#0b5cad" stroke-width="1"/>
+<text x="176" y="92" font-size="13" fill="#0b5cad">back of hand</text>
+<text x="176" y="107" font-size="13" fill="#0b5cad">on the handle</text>
+<line x1="174" y1="88" x2="128" y2="100" stroke="#0b5cad" stroke-width="1"/>
+<rect x="166" y="116" width="170" height="28" rx="4" fill="#fdecec" stroke="#c33" stroke-width="1.5"/>
+<text x="172" y="135" font-size="12" fill="#c33">Hot, or smoke? Don't open!</text>
+<rect x="166" y="152" width="170" height="28" rx="4" fill="#eef5fb" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="172" y="171" font-size="12" fill="#0b5cad">Cool, no smoke: open a crack</text>
+<text x="12" y="210"><tspan font-weight="bold">①</tspan> Before opening: feel the handle with the</text>
+<text x="30" y="229">back of your hand, and the top of the door</text>
+<text x="30" y="248">and the gaps (hot smoke gathers up high)</text>
+<text x="30" y="266" font-size="13" fill="#555">The back of the hand senses heat better, and a</text>
+<text x="30" y="282" font-size="13" fill="#555">burn there won't stop your palm gripping</text>
+</g>
+
+<!-- 2 opening the door -->
+<g transform="translate(365,42)">
+<rect x="0" y="0" width="345" height="298" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<line x1="12" y1="186" x2="333" y2="186" stroke="#999" stroke-width="3"/>
+<rect x="150" y="26" width="84" height="160" fill="#555" stroke="#333" stroke-width="2"/>
+<g fill="#aaa" fill-opacity="0.8" stroke="#888" stroke-width="1">
+<circle cx="236" cy="52" r="10"/><circle cx="252" cy="42" r="12"/><circle cx="270" cy="52" r="11"/><circle cx="248" cy="64" r="9"/><circle cx="286" cy="40" r="9"/>
+</g>
+<path d="M150,26 L214,36 L214,178 L150,186 Z" fill="#dcc39a" stroke="#333" stroke-width="2"/>
+<circle cx="204" cy="108" r="4" fill="#bbb" stroke="#333" stroke-width="1.5"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M98,130 L72,182 M100,130 L166,180" stroke="#333" stroke-width="19"/><path d="M98,130 L72,182 M100,130 L166,180" stroke="#cfe0f0" stroke-width="14"/>
+<path d="M100,130 L114,84" stroke="#333" stroke-width="30"/><path d="M100,130 L114,84" stroke="#cfe0f0" stroke-width="25"/>
+<path d="M116,88 L156,102 L196,108" stroke="#333" stroke-width="14"/><path d="M116,88 L156,102 L196,108" stroke="#f3e3d3" stroke-width="9"/>
+</g>
+<ellipse cx="200" cy="108" rx="7" ry="6" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<ellipse cx="174" cy="181" rx="12" ry="6" fill="#555" stroke="#333" stroke-width="1.5"/>
+<circle cx="120" cy="62" r="15" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M106,58 Q110,44 126,47 Q114,50 106,58 Z" fill="#555"/>
+<text x="14" y="36" font-size="13" fill="#0b5cad">body behind</text>
+<text x="14" y="51" font-size="13" fill="#0b5cad">the door</text>
+<line x1="50" y1="56" x2="100" y2="100" stroke="#0b5cad" stroke-width="1"/>
+<text x="246" y="110" font-size="13" fill="#0b5cad">open only</text>
+<text x="246" y="126" font-size="13" fill="#0b5cad">a crack</text>
+<line x1="244" y1="112" x2="224" y2="112" stroke="#0b5cad" stroke-width="1"/>
+<text x="246" y="162" font-size="13" fill="#0b5cad">foot braced</text>
+<text x="246" y="177" font-size="13" fill="#0b5cad">against door</text>
+<line x1="244" y1="166" x2="186" y2="178" stroke="#0b5cad" stroke-width="1"/>
+<text x="12" y="210"><tspan font-weight="bold">②</tspan> Opening: keep your body behind the</text>
+<text x="30" y="229">door, brace it with your foot, open it a</text>
+<text x="30" y="248">crack slowly</text>
+<text x="30" y="270" fill="#c33">Heat or thick smoke pours in →</text>
+<text x="30" y="288" fill="#c33">shut it hard at once</text>
+</g>
+
+<!-- 3 keep low -->
+<g transform="translate(10,350)">
+<rect x="0" y="0" width="700" height="300" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<line x1="12" y1="190" x2="688" y2="190" stroke="#999" stroke-width="3"/>
+<!-- door behind (closed) -->
+<rect x="24" y="74" width="54" height="116" fill="#dcc39a" stroke="#333" stroke-width="2"/>
+<circle cx="70" cy="134" r="3.5" fill="#bbb" stroke="#333" stroke-width="1.5"/>
+<!-- emergency exit -->
+<rect x="606" y="80" width="62" height="110" fill="#dcc39a" stroke="#333" stroke-width="2"/>
+<rect x="598" y="58" width="78" height="20" rx="3" fill="#2e8b57" stroke="#333" stroke-width="1.5"/>
+<text x="637" y="73" font-size="13" fill="#fff" text-anchor="middle">EXIT</text>
+<!-- smoke layer -->
+<path d="M2,8 L698,8 L698,74 Q672,88 646,76 Q620,64 594,78 Q566,92 540,78 Q512,64 486,80 Q458,94 432,80 Q404,66 378,80 Q350,94 322,80 Q294,66 268,80 Q240,94 214,80 Q186,66 160,80 Q132,94 106,80 Q78,66 52,80 Q28,92 2,78 Z" fill="#9a9a9a" fill-opacity="0.45"/>
+<text x="350" y="40" font-size="14" fill="#333" text-anchor="middle">Hot smoke rises: the nearer the floor, the cooler the air, the less smoke, the better you can see</text>
+<text x="86" y="110" font-size="13" fill="#0b5cad">close doors behind</text>
+<text x="86" y="126" font-size="13" fill="#0b5cad">you (stops smoke)</text>
+<!-- walk fast, bent over -->
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M216,140 L196,186 M220,140 L244,186" stroke="#333" stroke-width="19"/><path d="M216,140 L196,186 M220,140 L244,186" stroke="#cfe0f0" stroke-width="14"/>
+<path d="M254,118 L270,150" stroke="#333" stroke-width="14"/><path d="M254,118 L270,150" stroke="#f3e3d3" stroke-width="9"/>
+<path d="M218,140 L254,112" stroke="#333" stroke-width="30"/><path d="M218,140 L254,112" stroke="#cfe0f0" stroke-width="25"/>
+</g>
+<circle cx="274" cy="98" r="14" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M262,90 Q270,80 284,86 Q272,86 262,90 Z" fill="#555"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M258,116 L276,122 L284,108" stroke="#333" stroke-width="14"/><path d="M258,116 L276,122 L284,108" stroke="#f3e3d3" stroke-width="9"/>
+</g>
+<rect x="279" y="98" width="12" height="18" rx="3" fill="#9fc5e8" stroke="#333" stroke-width="1.5"/>
+<text x="300" y="98" font-size="13" fill="#0b5cad">wet towel over</text>
+<text x="300" y="113" font-size="13" fill="#0b5cad">nose and mouth</text>
+<line x1="298" y1="100" x2="290" y2="104" stroke="#0b5cad" stroke-width="1"/>
+<text x="96" y="154" font-size="13" fill="#0b5cad">Not too thick:</text>
+<text x="96" y="170" font-size="13" fill="#0b5cad">bend, walk fast</text>
+<!-- crawl on hands and knees -->
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M440,158 L428,186 L398,186" stroke="#333" stroke-width="19"/><path d="M440,158 L428,186 L398,186" stroke="#cfe0f0" stroke-width="14"/>
+<path d="M490,160 L494,186" stroke="#333" stroke-width="14"/><path d="M490,160 L494,186" stroke="#f3e3d3" stroke-width="9"/>
+<path d="M440,158 L492,154" stroke="#333" stroke-width="30"/><path d="M440,158 L492,154" stroke="#cfe0f0" stroke-width="25"/>
+</g>
+<ellipse cx="498" cy="186" rx="8" ry="4" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<circle cx="514" cy="162" r="14" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M502,154 Q510,144 524,150 Q512,150 502,154 Z" fill="#555"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M494,152 L514,176 L526,170" stroke="#333" stroke-width="13"/><path d="M494,152 L514,176 L526,170" stroke="#f3e3d3" stroke-width="8"/>
+</g>
+<rect x="519" y="160" width="12" height="18" rx="3" fill="#9fc5e8" stroke="#333" stroke-width="1.5"/>
+<text x="410" y="112" font-size="13" fill="#0b5cad">Very thick, can't see: crawl on</text>
+<text x="410" y="128" font-size="13" fill="#0b5cad">hands and knees, head low</text>
+<path d="M546,178 L596,178" stroke="#c33" stroke-width="3" marker-end="url(#ar)"/>
+<text x="12" y="214" font-size="13"><tspan font-weight="bold" font-size="14">③</tspan> Keep low: not too thick, bend over and walk fast; very thick, can't see, crawl on hands and knees, head low.</text>
+<text x="30" y="233" font-size="13">Cover nose and mouth with a wet towel (with no water, a dry towel or clothing is better than nothing);</text>
+<text x="30" y="251" font-size="13">keep one hand on the wall; close doors behind you</text>
+<text x="30" y="271" font-size="13" fill="#c33">✗ Don't gulp air or shout in thick smoke; a wet towel doesn't stop carbon monoxide.</text>
+<text x="44" y="289" font-size="13" fill="#c33">What saves your life is keeping low + getting out of the smoke fast</text>
+</g>
+
+<!-- 4 down the stairs -->
+<g transform="translate(10,660)">
+<rect x="0" y="0" width="345" height="224" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<path d="M20,44 L56,44 L56,64 L84,64 L84,84 L112,84 L112,104 L140,104 L140,124 L196,124 L196,128 L20,128 Z" fill="#e6e6e6" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M54,30 L150,90" stroke="#c33" stroke-width="4" marker-end="url(#ar)"/>
+<text x="112" y="44" font-size="15" fill="#c33">down</text>
+<rect x="222" y="52" width="100" height="24" rx="3" fill="#2e8b57" stroke="#333" stroke-width="1.5"/>
+<text x="272" y="69" font-size="14" fill="#fff" text-anchor="middle">EXIT →</text>
+<text x="12" y="156"><tspan font-weight="bold">④</tspan> Use the stairs and go down (unless</text>
+<text x="30" y="175">the fire is below); close fire doors as you</text>
+<text x="30" y="194">pass; follow the green emergency exit and</text>
+<text x="30" y="213">evacuation signs</text>
+</g>
+
+<!-- never -->
+<g transform="translate(365,660)">
+<rect x="0" y="0" width="345" height="224" rx="8" fill="#fdecec" stroke="#c33" stroke-width="2"/>
+<text x="16" y="28" font-size="16" font-weight="bold" fill="#c33">Never</text>
+<rect x="282" y="20" width="46" height="62" fill="#e6e6e6" stroke="#333" stroke-width="2"/>
+<line x1="305" y1="24" x2="305" y2="82" stroke="#333" stroke-width="1.5"/>
+<path d="M292,10 L298,4 L304,10 M306,4 L312,10 L318,4" fill="none" stroke="#333" stroke-width="1.5"/>
+<path d="M280,18 L330,84 M330,18 L280,84" stroke="#c33" stroke-width="4"/>
+<text x="16" y="58" font-size="15">✗ Take the lift</text>
+<text x="34" y="78" font-size="13" fill="#555">A power cut traps you; the shaft acts</text>
+<text x="34" y="94" font-size="13" fill="#555">like a chimney and smoke rises very fast</text>
+<text x="16" y="122" font-size="15">✗ Go up (unless the top floor has an exit)</text>
+<text x="16" y="150" font-size="15">✗ Go back for belongings or people</text>
+<text x="34" y="170" font-size="13" fill="#555">Someone still inside → tell firefighters at</text>
+<text x="34" y="186" font-size="13" fill="#555">once which room they may be in, and let</text>
+<text x="34" y="202" font-size="13" fill="#555">the professionals rescue them</text>
+</g>
+
+<!-- trapped -->
+<g transform="translate(10,894)">
+<rect x="0" y="0" width="700" height="312" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="16" font-weight="bold">Can't get out: shut the door, stay put, wait for rescue</text>
+<text x="16" y="50" font-size="13" fill="#555">Handle hot, smoke at the gaps or corridor full of thick smoke: stay in the room.</text>
+<text x="16" y="66" font-size="13" fill="#555">Behind a closed door is often much safer than a smoke-filled corridor</text>
+<g transform="translate(0,20)">
+<line x1="12" y1="236" x2="360" y2="236" stroke="#999" stroke-width="3"/>
+<!-- door -->
+<rect x="30" y="96" width="70" height="140" fill="#dcc39a" stroke="#333" stroke-width="2"/>
+<circle cx="90" cy="166" r="3.5" fill="#bbb" stroke="#333" stroke-width="1.5"/>
+<rect x="99" y="98" width="9" height="132" rx="3" fill="#9fc5e8" stroke="#333" stroke-width="1.5"/>
+<rect x="22" y="226" width="90" height="14" rx="6" fill="#9fc5e8" stroke="#333" stroke-width="1.5"/>
+<!-- throwing water -->
+<path d="M168,150 Q142,118 112,126 M170,164 Q140,146 112,156 M166,136 Q146,104 114,100" fill="none" stroke="#0b5cad" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M120,138 l-3,6 a3.5,3.5 0 1,0 6,0 Z M128,112 l-3,6 a3.5,3.5 0 1,0 6,0 Z M118,176 l-3,6 a3.5,3.5 0 1,0 6,0 Z" fill="#7aa6cc"/>
+<text x="112" y="88" font-size="13" fill="#0b5cad">throw water on door</text>
+<!-- window -->
+<rect x="240" y="80" width="96" height="88" fill="#eaf3fb" stroke="#333" stroke-width="2"/>
+<line x1="288" y1="80" x2="288" y2="168" stroke="#333" stroke-width="1.5"/>
+<!-- person waving clothing at the window -->
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M210,190 L202,232 M216,190 L226,232" stroke="#333" stroke-width="19"/><path d="M210,190 L202,232 M216,190 L226,232" stroke="#cfe0f0" stroke-width="14"/>
+<path d="M212,150 L212,190" stroke="#333" stroke-width="30"/><path d="M212,150 L212,190" stroke="#cfe0f0" stroke-width="25"/>
+<path d="M216,150 L246,132 L268,108" stroke="#333" stroke-width="14"/><path d="M216,150 L246,132 L268,108" stroke="#f3e3d3" stroke-width="9"/>
+</g>
+<circle cx="214" cy="128" r="15" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M200,124 Q204,110 220,113 Q208,116 200,124 Z" fill="#555"/>
+<path d="M268,106 L304,92 L310,118 L274,126 Z" fill="#f08a3c" stroke="#333" stroke-width="2"/>
+<ellipse cx="269" cy="107" rx="6" ry="6" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M316,90 Q324,104 316,118 M324,84 Q334,104 324,124" fill="none" stroke="#c33" stroke-width="2" stroke-linecap="round"/>
+<text x="240" y="74" font-size="13" fill="#0b5cad">wave bright clothes</text>
+<text x="20" y="260" font-size="13" fill="#0b5cad">wet towels or sheets stuffed into the</text>
+<text x="20" y="276" font-size="13" fill="#0b5cad">gaps under and around the door</text>
+<line x1="60" y1="248" x2="64" y2="240" stroke="#0b5cad" stroke-width="1"/>
+<!-- checklist -->
+<g transform="translate(378,0)">
+<text x="0" y="90" font-size="13">• Choose a room with a window, ideally water;</text>
+<text x="12" y="106" font-size="13">shut all doors</text>
+<text x="0" y="128" font-size="13">• Stuff gaps with wet towels, sheets, clothes;</text>
+<text x="12" y="144" font-size="13">block vents and air-con outlets too</text>
+<text x="0" y="166" font-size="13">• Keep throwing water on the door</text>
+<text x="0" y="188" font-size="13">• Call 119: floor, flat number, room, how many</text>
+<text x="0" y="210" font-size="13">• By day wave bright clothes or sheets;</text>
+<text x="12" y="226" font-size="13">at night wave a torch or phone light</text>
+<text x="0" y="250" font-size="13" fill="#c33">✗ Don't hide under beds, in wardrobes, corners</text>
+<text x="0" y="272" font-size="13" fill="#c33">✗ Don't risk opening the door to look; don't jump</text>
+</g>
+</g>
+</g>
+</g>
+</svg>

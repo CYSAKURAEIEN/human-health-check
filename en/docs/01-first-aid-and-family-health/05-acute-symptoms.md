@@ -557,7 +557,7 @@ For looking after elderly people in hot weather, see [Elder care – Extreme wea
 - Visit or phone elderly people who live alone at least once a day
 - Working in the heat: schedule work for morning and evening, rest in the shade after every spell of work, work in pairs and watch each other
 
-For extreme heat such as deserts, see [Desert survival](../../../docs/03-野外生存/03-沙漠求生.md#中暑).
+For extreme heat such as deserts, see [Desert survival](../03-wilderness-survival/03-desert-survival.md#heatstroke).
 
 ---
 
@@ -695,7 +695,7 @@ Getting more confused and shivering stops despite treatment → treat
 as moderate to severe.
 ```
 
-For recognising and preventing hypothermia in the wild, see [River crossings, flash floods and hypothermia in the wild](../../../docs/03-野外生存/08-涉水山洪与野外失温.md#不只是冬天-野外失温).
+For recognising and preventing hypothermia in the wild, see [River crossings, flash floods and hypothermia in the wild](../03-wilderness-survival/08-river-crossing-flash-floods-and-hypothermia.md#not-only-in-winter-hypothermia-outdoors).
 
 #### Moderate to severe hypothermia (emergency!)
 
@@ -812,7 +812,7 @@ More detail:
   socks, high-calorie food, a bottle that can hold hot water
 ```
 
-For clothing and shelter in cold environments, see [Snow and polar survival – Keeping warm](../../../docs/03-野外生存/04-雪地极地求生.md#保暖-最关键).
+For clothing and shelter in cold environments, see [Snow and polar survival – Keeping warm](../03-wilderness-survival/04-snow-and-polar-survival.md#keeping-warm-the-most-critical).
 
 ---
 
@@ -1013,7 +1013,7 @@ More detail:
   heart, eyes, ears and nervous system)
 ```
 
-For staying safe in thunderstorms, see [Weather disasters – Lightning](../../../docs/02-灾难应对/02-气象灾害.md#雷电).
+For staying safe in thunderstorms, see [Weather disasters – Lightning](../02-disaster-response/02-weather-disasters.md#lightning).
 
 #### Children biting electric cables
 
@@ -1120,7 +1120,7 @@ How to do it:
 
 *Figure: First shout for help and call the emergency services from the bank; when holding out a pole or a line, lie down or crouch low and hold on to something fixed with the other hand, and let go at once if you are being pulled into the water; throw something that floats, ideally tied to a rope; swimming out is the last resort and needs training*
 
-For self-rescue if you fall into water, fast-flowing water or cold water, see [River crossings, flash floods and hypothermia in the wild – Swept away by fast water](../../../docs/03-野外生存/08-涉水山洪与野外失温.md#落入急流) and [Falling into cold water](../../../docs/03-野外生存/08-涉水山洪与野外失温.md#落入冷水).
+For self-rescue if you fall into water, fast-flowing water or cold water, see [River crossings, flash floods and hypothermia in the wild – Swept away by fast water](../03-wilderness-survival/08-river-crossing-flash-floods-and-hypothermia.md#falling-into-fast-water) and [Falling into cold water](../03-wilderness-survival/08-river-crossing-flash-floods-and-hypothermia.md#falling-into-cold-water).
 
 #### 2. Care once out of the water
 

@@ -214,7 +214,7 @@ When no proper splint is at hand, many things will do:
 
 *Figure: The splint reaches past the joints above and below the fracture, with soft padding; one tie above and one below the fracture, knots on the splint side; fingertips and toes left exposed for checking.*
 
-Without a triangular bandage, fold the lower hem of the shirt up over the arm and pin it at the chest to make a sling. For more methods outdoors see [Wilderness Casualty Care and Evacuation – Improvised immobilisation](../../../docs/03-野外生存/11-野外伤病处置与转运.md#就地取材固定).
+Without a triangular bandage, fold the lower hem of the shirt up over the arm and pin it at the chest to make a sling. For more methods outdoors see [Wilderness Casualty Care and Evacuation – Improvised immobilisation](../03-wilderness-survival/11-wilderness-casualty-care-and-evacuation.md#improvised-splinting).
 
 ### Immobilising each part of the body
 
@@ -362,7 +362,7 @@ Ankle and foot:
 3. Raise and apply ice
 ```
 
-For whether someone can walk after twisting an ankle and whether to treat it as a fracture, see [Wilderness Casualty Care and Evacuation – Twisted ankle: can you still walk](../../../docs/03-野外生存/11-野外伤病处置与转运.md#崴脚-还能不能走).
+For whether someone can walk after twisting an ankle and whether to treat it as a fracture, see [Wilderness Casualty Care and Evacuation – Twisted ankle: can you still walk](../03-wilderness-survival/11-wilderness-casualty-care-and-evacuation.md#twisted-ankle-can-they-still-walk).
 
 #### Collarbone fracture
 
@@ -646,7 +646,7 @@ dead muscle cause abnormal heart rhythms and kidney failure (crush syndrome)
   to hospital quickly and tell the doctor how long they were trapped
 ```
 
-For what to do when trapped in an earthquake see [Geological Disasters – When trapped](../../../docs/02-灾难应对/01-地质灾害.md#被困时).
+For what to do when trapped in an earthquake see [Geological Disasters – When trapped](../02-disaster-response/01-geological-disasters.md#if-you-are-trapped).
 
 #### Fever or pus after a fracture
 
@@ -913,7 +913,7 @@ When no medical care at all can be obtained, an untrained person should:
   eases and the shape returns), still immobilise it for 2-3 weeks, then gradually start moving it
 ```
 
-For deciding on evacuation in the wild see [Wilderness Casualty Care and Evacuation – Wait in place or self-evacuate](../../../docs/03-野外生存/11-野外伤病处置与转运.md#原地等待还是自行撤出).
+For deciding on evacuation in the wild see [Wilderness Casualty Care and Evacuation – Wait in place or self-evacuate](../03-wilderness-survival/11-wilderness-casualty-care-and-evacuation.md#waiting-where-you-are-or-getting-yourselves-out).
 
 ### Dislocation vs fracture
 

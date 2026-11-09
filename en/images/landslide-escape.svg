@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 758" width="720" height="758" role="img" aria-label="Escaping a landslide: get out to the sides, at right angles to the direction of the slide, and run to stable ground; do not run down with the slide and do not run up the slope against it, as the ground above is moving too. Warning signs: an arc-shaped crack at the top of the slope getting wider and longer, trees leaning every which way (a 'drunken forest'), trunks bent at the base and straight above ('sabre trees'), the ground at the foot of the slope bulging or muddy water suddenly appearing, cracking house walls and jammed doors and windows, soil and stones falling down the slope again and again. Keep off the slide mass, away from the foot of steep slopes and from the foot and top edge of a slope, and do not wait in a car parked under a steep slope; if you cannot get away, hug a big deep-rooted tree or crouch behind a solid obstacle, protecting your head and neck; after evacuating do not go back straight away">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Landslide escape: get out to the sides, onto stable ground</title>
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="ag" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#888"/></marker>
+<marker id="am" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#6b4a2a"/></marker>
+<g id="p">
+<g stroke-linecap="round"><path d="M-3,-12 L-5,0 M3,-12 L5,0" stroke="#333" stroke-width="3.5"/></g>
+<rect x="-7" y="-31" width="14" height="20" rx="4" fill="#cfe0f0" stroke="#333" stroke-width="2"/>
+<circle cx="0" cy="-38" r="7" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+</g>
+<!-- tree: root at 0,0, growing upwards -->
+<g id="t">
+<line x1="0" y1="0" x2="0" y2="-30" stroke="#6b4a2a" stroke-width="3"/>
+<circle cx="0" cy="-38" r="11" fill="#b9d6a8" stroke="#333" stroke-width="1.5"/>
+</g>
+</defs>
+<g font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif" font-size="14" fill="#222">
+<text x="360" y="28" font-size="17" font-weight="bold" text-anchor="middle">Landslide escape: get out to the sides; don't run down or up the slide</text>
+
+<!-- A plan view -->
+<g transform="translate(10,42)">
+<rect x="0" y="0" width="350" height="356" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="24" font-size="14" fill="#555">From above</text>
+<text x="175" y="24" font-size="14" text-anchor="middle">Top of slope (high)</text>
+<text x="262" y="272" font-size="14" text-anchor="middle">Foot of slope (low)</text>
+<!-- contours -->
+<g fill="none" stroke="#bbb" stroke-width="1.2">
+<path d="M12,60 Q90,52 175,58 T338,56"/>
+<path d="M12,110 Q90,102 175,108 T338,106"/>
+<path d="M12,160 Q90,152 175,158 T338,156"/>
+<path d="M12,210 Q90,202 175,208 T338,206"/>
+</g>
+<!-- slide mass -->
+<path d="M95,74 Q175,36 255,74 L268,214 Q175,250 82,214 Z" fill="#e8d6b8" stroke="#6b4a2a" stroke-width="2" stroke-dasharray="6,4"/>
+<path d="M95,74 L108,64 L118,70 L132,56 L144,62 L160,50 L175,56 L190,48 L204,58 L218,54 L230,64 L244,62 L255,74" fill="none" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+<g stroke="#6b4a2a" stroke-width="3">
+<path d="M120,90 L120,128" marker-end="url(#am)"/>
+<path d="M230,90 L230,128" marker-end="url(#am)"/>
+<path d="M120,168 L120,206" marker-end="url(#am)"/>
+<path d="M230,168 L230,206" marker-end="url(#am)"/>
+</g>
+<text x="14" y="248" font-size="13" fill="#4a3018">Slide mass</text>
+<text x="14" y="262" font-size="12" fill="#4a3018">(slides down as a whole)</text>
+<line x1="56" y1="236" x2="88" y2="214" stroke="#4a3018" stroke-width="1"/>
+<!-- person and directions -->
+<use href="#p" transform="translate(175,166)"/>
+<path d="M162,148 L28,148" stroke="#c33" stroke-width="4" marker-end="url(#ar)"/>
+<path d="M188,148 L322,148" stroke="#c33" stroke-width="4" marker-end="url(#ar)"/>
+<path d="M175,118 L175,80" stroke="#888" stroke-width="3" stroke-dasharray="6,4" marker-end="url(#ag)"/>
+<path d="M175,172 L175,222" stroke="#888" stroke-width="3" stroke-dasharray="6,4" marker-end="url(#ag)"/>
+<path d="M165,88 L185,108 M185,88 L165,108" stroke="#c33" stroke-width="3.5" stroke-linecap="round"/>
+<path d="M165,186 L185,206 M185,186 L165,206" stroke="#c33" stroke-width="3.5" stroke-linecap="round"/>
+<g paint-order="stroke" stroke="#fff" stroke-width="5" stroke-linejoin="round">
+<text x="12" y="178" font-size="14" fill="#c33" font-weight="bold">✓ stable</text>
+<text x="12" y="194" font-size="14" fill="#c33" font-weight="bold">ground</text>
+<text x="338" y="178" font-size="14" fill="#c33" font-weight="bold" text-anchor="end">✓ stable</text>
+<text x="338" y="194" font-size="14" fill="#c33" font-weight="bold" text-anchor="end">ground</text>
+<text x="226" y="44" font-size="13" fill="#0b5cad">arc-shaped crack</text>
+</g>
+<line x1="230" y1="48" x2="210" y2="56" stroke="#0b5cad" stroke-width="1"/>
+<text x="14" y="302" font-size="14">Get out to the sides, at right angles to</text>
+<text x="14" y="322" font-size="14">the slide, onto stable ground</text>
+<text x="14" y="344" font-size="14" fill="#c33">✗ Don't run down with it or up the slope</text>
+</g>
+
+<!-- B side view: warning signs -->
+<g transform="translate(370,42)">
+<rect x="0" y="0" width="340" height="356" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="24" font-size="16" font-weight="bold">Warning signs (side view)</text>
+<path d="M12,80 L70,80 L76,94 L84,82 L268,238 Q290,218 312,250 L328,252 L328,300 L12,300 Z" fill="#eee"/>
+<path d="M12,80 L70,80 L76,94 L84,82 L268,238 Q290,218 312,250 L328,252" fill="none" stroke="#999" stroke-width="3" stroke-linejoin="round"/>
+<!-- drunken forest -->
+<use href="#t" transform="translate(128,119) rotate(-22)"/>
+<use href="#t" transform="translate(162,148) rotate(18)"/>
+<use href="#t" transform="translate(196,177) rotate(-12)"/>
+<!-- sabre tree -->
+<path d="M234,209 Q252,204 250,186 L250,154" fill="none" stroke="#6b4a2a" stroke-width="3"/>
+<circle cx="250" cy="146" r="11" fill="#b9d6a8" stroke="#333" stroke-width="1.5"/>
+<!-- muddy water at the foot -->
+<g fill="#a08060" stroke="#333" stroke-width="1"><ellipse cx="300" cy="222" rx="3" ry="5"/><ellipse cx="310" cy="230" rx="3" ry="5"/><ellipse cx="292" cy="214" rx="2.5" ry="4"/></g>
+<!-- falling soil and stones -->
+<g fill="#888" stroke="#333" stroke-width="1"><circle cx="110" cy="100" r="4"/><circle cx="226" cy="194" r="3.5"/></g>
+<path d="M118,104 L132,114" stroke="#c33" stroke-width="2" marker-end="url(#ar)"/>
+<!-- labels -->
+<g font-size="13" fill="#0b5cad">
+<text x="96" y="44">Arc-shaped crack at the top,</text>
+<text x="96" y="59">getting wider and longer</text>
+<line x1="100" y1="63" x2="78" y2="86" stroke="#0b5cad" stroke-width="1"/>
+<text x="180" y="82">Trees leaning every</text>
+<text x="180" y="97">way ("drunken forest")</text>
+<line x1="186" y1="101" x2="174" y2="106" stroke="#0b5cad" stroke-width="1"/>
+<text x="266" y="118">"Sabre</text>
+<text x="266" y="133">trees":</text>
+<text x="266" y="148" font-size="12">bent base,</text>
+<text x="266" y="162" font-size="12">straight top</text>
+<line x1="266" y1="142" x2="261" y2="146" stroke="#0b5cad" stroke-width="1"/>
+<text x="110" y="262">Foot of slope bulges or is</text>
+<text x="110" y="278">pushed out; muddy water</text>
+<text x="110" y="294">suddenly appears</text>
+<line x1="256" y1="252" x2="288" y2="234" stroke="#0b5cad" stroke-width="1"/>
+<text x="16" y="146">Soil and stones</text>
+<text x="16" y="161">keep falling</text>
+<line x1="60" y1="134" x2="106" y2="104" stroke="#0b5cad" stroke-width="1"/>
+</g>
+<text x="16" y="316" font-size="12">Also: cracked walls, jammed doors and windows, sinking</text>
+<text x="16" y="332" font-size="12">floors; springs or wells suddenly dry or muddy; leaning</text>
+<text x="16" y="348" font-size="12">power poles and walls</text>
+</g>
+
+<!-- C places to avoid -->
+<g transform="translate(10,408)">
+<rect x="0" y="0" width="350" height="290" rx="8" fill="#fdecec" stroke="#c33" stroke-width="2"/>
+<text x="16" y="28" font-size="16" font-weight="bold" fill="#c33">Keep away from</text>
+<text x="16" y="56" font-size="14">✗ The slide mass (don't build on it or</text>
+<text x="32" y="74" font-size="14">stand there watching)</text>
+<text x="16" y="100" font-size="14">✗ The foot of steep slopes; houses built</text>
+<text x="32" y="118" font-size="14">into a cut slope</text>
+<text x="16" y="144" font-size="14">✗ The foot and top edge of a slope</text>
+<text x="32" y="162" font-size="14">(houses should keep some distance)</text>
+<text x="16" y="188" font-size="14">✗ Don't park and wait under a steep slope</text>
+<text x="16" y="214" font-size="14">✗ After evacuating, don't dig for belongings</text>
+<text x="32" y="232" font-size="14">on the slide mass or at the foot of the slope</text>
+<text x="16" y="258" font-size="14">✗ If the slide dams a river, people downstream</text>
+<text x="32" y="276" font-size="14">must beware a dam burst: go to high ground</text>
+</g>
+
+<!-- D when it happens -->
+<g transform="translate(370,408)">
+<rect x="0" y="0" width="340" height="290" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="16" font-weight="bold">When it happens</text>
+<text x="16" y="56" font-size="14">● At home: at any strange noise, leave at</text>
+<text x="32" y="74" font-size="14">once; don't stop to pack belongings</text>
+<text x="16" y="100" font-size="14">● In a car: if rocks or a collapse are on the</text>
+<text x="32" y="118" font-size="14">road ahead, stop or reverse away at once;</text>
+<text x="32" y="136" font-size="14">don't try to force your way through</text>
+<text x="16" y="162" font-size="14">● Can't get away: hug a big deep-rooted</text>
+<text x="32" y="180" font-size="14">tree (not the best option), or crouch behind</text>
+<text x="32" y="198" font-size="14">a solid obstacle, protecting head and neck</text>
+<text x="16" y="224" font-size="14">● After evacuating: don't go back straight</text>
+<text x="32" y="242" font-size="14">away; beware further slides; go home only</text>
+<text x="32" y="260" font-size="14">when local officials and experts say it is safe</text>
+</g>
+
+<rect x="10" y="708" width="700" height="40" rx="6" fill="#fdecec" stroke="#c33" stroke-width="2"/>
+<text x="360" y="733" font-size="14" font-weight="bold" fill="#c33" text-anchor="middle">⚠ Cracks wider every day, more soil and stones falling: a slide may come soon, leave now</text>
+</g>
+</svg>

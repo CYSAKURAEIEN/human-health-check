@@ -94,7 +94,7 @@ Principle: refill your prescription before your medicine runs out, so you always
 
 - Main stock at home (keep under the [storage conditions](../../../docs/06-制药技术/02-抗生素制备.md#64-储存条件))
 - In your everyday bag: 3-7 days' supply
-- In your emergency bag: at least 1 week's supply (see [Disaster response - Household emergency kit](../../../docs/02-灾难应对/README.md#-家庭应急包))
+- In your emergency bag: at least 1 week's supply (see [Disaster response - Household emergency kit](../02-disaster-response/README.md#-family-emergency-kit))
 - Take a few extra days' supply when going out or travelling
 
 ![Stocking, rotating and recording chronic medication](../../images/chronic-medication-stockpile.svg)

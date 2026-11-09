@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 790" width="720" height="790" role="img" aria-label="How to escape a chemical leak: 1 outdoors, first work out the wind direction; if you are in the plume downwind, first walk crosswise (at right angles to the wind) out of the plume, then turn and move away upwind; do not run with the wind; 2 go to high ground: some gases are heavier than air and sink to low places, so avoid underpasses, basements, ditches and spaces under bridges; cover your nose and mouth with a wet cloth and get out quickly; 3 if there is no time to leave, shelter in place indoors: close doors and windows, turn off air conditioning, extractor fans, cooker hoods and fresh-air systems, block door gaps with wet towels, seal window gaps and vents with tape and plastic sheeting, move upstairs to the room with the fewest windows, and listen to official instructions; leave if the authorities order an evacuation; if you are contaminated, take off the contaminated clothes, rinse with clean water for at least 15 minutes and get medical help; do not rush into the plume to rescue people">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Chemical leak: leave upwind or crosswind; if there is no time, shut doors and windows and shelter</title>
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="ab" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<g id="man">
+<circle cx="0" cy="-30" r="7" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M0,-22 L0,-6 M0,-6 L-6,8 M0,-6 L6,8 M0,-18 L-7,-8 M0,-18 L7,-8" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+</g>
+</defs>
+<g font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif" font-size="14" fill="#222">
+<text x="360" y="22" font-size="17" font-weight="bold" text-anchor="middle">Chemical leak: leave upwind or crosswind;</text>
+<text x="360" y="42" font-size="17" font-weight="bold" text-anchor="middle">if there is no time, shut doors and windows and shelter</text>
+
+<!-- 1 outdoors -->
+<g transform="translate(10,54)">
+<rect x="0" y="0" width="700" height="300" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="16" font-weight="bold">① Outdoors (from above): walk crosswise out of the plume, then move away upwind</text>
+<!-- wind -->
+<g stroke="#0b5cad" stroke-width="2.5" marker-end="url(#ab)">
+<path d="M30,62 L110,62"/><path d="M30,112 L110,112"/><path d="M30,162 L110,162"/>
+</g>
+<text x="30" y="52" font-size="14" fill="#0b5cad" font-weight="bold">Wind →</text>
+<text x="30" y="200" font-size="13" fill="#0b5cad">upwind</text>
+<text x="620" y="236" font-size="13" fill="#0b5cad">downwind</text>
+<!-- plume -->
+<path d="M160,104 Q300,62 680,50 L680,206 Q300,170 160,126 Z" fill="#e6e0a0" fill-opacity="0.7" stroke="#a89a3a" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="510" y="118" font-size="14" fill="#6b6020">Toxic gas plume</text>
+<text x="510" y="136" font-size="13" fill="#6b6020">(drifts downwind)</text>
+<!-- source -->
+<circle cx="150" cy="115" r="22" fill="#e8e8e8" stroke="#333" stroke-width="2.5"/>
+<circle cx="150" cy="115" r="12" fill="none" stroke="#333" stroke-width="1.5"/>
+<text x="150" y="182" font-size="13" text-anchor="middle">Leak source</text>
+<!-- person -->
+<use href="#man" transform="translate(340,130)"/>
+<path d="M356,124 L440,124" stroke="#c33" stroke-width="2.5" stroke-dasharray="6 4" marker-end="url(#ar)"/>
+<path d="M392,112 l12,12 m0,-12 l-12,12" stroke="#c33" stroke-width="3" stroke-linecap="round"/>
+<text x="356" y="104" font-size="13" fill="#c33">Don't run with the wind</text>
+<path d="M340,146 L340,212" stroke="#c33" stroke-width="4" marker-end="url(#ar)"/>
+<path d="M332,226 Q290,250 222,252" fill="none" stroke="#c33" stroke-width="4" marker-end="url(#ar)"/>
+<text x="352" y="196" font-size="13" fill="#c33">❶ Walk crosswise (at right angles</text>
+<text x="352" y="214" font-size="13" fill="#c33">to the wind) out of the plume</text>
+<text x="352" y="246" font-size="13" fill="#c33">❷ Then turn and move away upwind</text>
+<text x="16" y="276" font-size="13"><tspan font-weight="bold">Wind direction:</tspan> watch which way smoke, flags, leaves, washing or chimney smoke drift;</text>
+<text x="124" y="294" font-size="13">or wet a finger and hold it up: the cool side faces the wind</text>
+</g>
+
+<!-- 2 high ground -->
+<g transform="translate(10,364)">
+<rect x="0" y="0" width="345" height="330" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="16" font-weight="bold">② Go high; avoid low ground</text>
+<!-- gas pooled low -->
+<path d="M16,184 L40,184 L52,226 L118,226 L130,184 L210,184 Q218,184 222,176 L226,168 Q200,166 180,170 L130,170 Q90,164 40,170 L16,172 Z" fill="#e6e0a0" fill-opacity="0.8"/>
+<!-- ground -->
+<path d="M16,184 L40,184 L52,226 L118,226 L130,184 L210,184 Q240,180 268,112 Q276,96 300,94 L329,94" fill="none" stroke="#999" stroke-width="3" stroke-linejoin="round"/>
+<g stroke="#6b6020" stroke-width="1.8" fill="none" stroke-linecap="round">
+<path d="M60,140 l0,18 m-6,-7 l6,7 l6,-7"/><path d="M100,140 l0,18 m-6,-7 l6,7 l6,-7"/><path d="M140,140 l0,18 m-6,-7 l6,7 l6,-7"/>
+</g>
+<text x="24" y="110" font-size="13" fill="#6b6020">Some gases are heavier than</text>
+<text x="24" y="128" font-size="13" fill="#6b6020">air (e.g. chlorine) and sink</text>
+<line x1="70" y1="244" x2="80" y2="214" stroke="#c33" stroke-width="1"/>
+<text x="24" y="258" font-size="13" fill="#c33">✗ Avoid underpasses, basements,</text>
+<text x="38" y="276" font-size="13" fill="#c33">ditches and spaces under bridges</text>
+<use href="#man" transform="translate(286,90)"/>
+<path d="M222,170 Q244,140 262,104" fill="none" stroke="#c33" stroke-width="3.5" marker-end="url(#ar)"/>
+<text x="140" y="70" font-size="13" fill="#0b5cad">Get to high ground</text>
+<line x1="210" y1="74" x2="250" y2="112" stroke="#0b5cad" stroke-width="1"/>
+<text x="24" y="300" font-size="13">Cover nose and mouth with a wet cloth;</text>
+<text x="24" y="318" font-size="13">leave quickly, don't linger</text>
+</g>
+
+<!-- 3 shelter in place -->
+<g transform="translate(365,364)">
+<rect x="0" y="0" width="345" height="330" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="16" font-weight="bold">③ No time to leave: shelter in place</text>
+<!-- gas -->
+<path d="M10,238 L10,204 Q28,196 40,200 L40,238 Z" fill="#e6e0a0" fill-opacity="0.8"/>
+<text x="10" y="192" font-size="12" fill="#6b6020">gas</text>
+<!-- house section -->
+<path d="M30,90 L105,46 L180,90" fill="none" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+<rect x="40" y="90" width="130" height="148" fill="#fafafa" stroke="#333" stroke-width="2.5"/>
+<line x1="40" y1="162" x2="170" y2="162" stroke="#333" stroke-width="3"/>
+<line x1="10" y1="238" x2="190" y2="238" stroke="#999" stroke-width="3"/>
+<!-- stairs -->
+<path d="M120,238 L120,226 L132,226 L132,214 L144,214 L144,202 L156,202 L156,190 L168,190" fill="none" stroke="#999" stroke-width="2"/>
+<!-- ground-floor window -->
+<rect x="40" y="186" width="8" height="34" fill="#d8ebf7" stroke="#333" stroke-width="1.5"/>
+<!-- upstairs window, taped -->
+<rect x="40" y="106" width="8" height="34" fill="#d8ebf7" stroke="#333" stroke-width="1.5"/>
+<rect x="38" y="104" width="12" height="38" fill="none" stroke="#0b5cad" stroke-width="2.5" stroke-dasharray="5 2"/>
+<!-- air conditioner -->
+<rect x="120" y="98" width="40" height="14" rx="3" fill="#fff" stroke="#333" stroke-width="1.8"/>
+<path d="M135,100 l10,10 m0,-10 l-10,10" stroke="#c33" stroke-width="2.2" stroke-linecap="round"/>
+<!-- door + wet towel -->
+<rect x="146" y="124" width="20" height="38" fill="#c8a46e" stroke="#333" stroke-width="1.5"/>
+<rect x="138" y="156" width="30" height="6" rx="2" fill="#7aa6cc" stroke="#333" stroke-width="1"/>
+<!-- person -->
+<use href="#man" transform="translate(96,154)"/>
+<path d="M112,220 Q76,206 86,174" fill="none" stroke="#c33" stroke-width="3" marker-end="url(#ar)"/>
+<text x="50" y="232" font-size="12" fill="#c33">upstairs</text>
+<g font-size="13">
+<text x="188" y="56"><tspan fill="#0b5cad" font-weight="bold">✓</tspan> Shut doors and</text>
+<text x="202" y="72">windows</text>
+<text x="188" y="94"><tspan fill="#0b5cad" font-weight="bold">✓</tspan> Turn off air con,</text>
+<text x="202" y="110">extractor fans,</text>
+<text x="202" y="126">cooker hood and</text>
+<text x="202" y="142">fresh-air system</text>
+<text x="188" y="164"><tspan fill="#0b5cad" font-weight="bold">✓</tspan> Wet towels in</text>
+<text x="202" y="180">door gaps</text>
+<text x="188" y="202"><tspan fill="#0b5cad" font-weight="bold">✓</tspan> Tape and plastic</text>
+<text x="202" y="218">over window gaps</text>
+<text x="202" y="234">and vents</text>
+</g>
+<text x="16" y="260" font-size="13"><tspan fill="#0b5cad" font-weight="bold">✓</tspan> Move upstairs, to the room with fewest windows</text>
+<text x="16" y="278" font-size="13"><tspan fill="#0b5cad" font-weight="bold">✓</tspan> Listen to official instructions; if told to</text>
+<text x="30" y="294" font-size="13">evacuate, do so, heading upwind</text>
+<text x="16" y="318" font-size="12" fill="#555">Note: opposite of nuclear (basement or middle floors)</text>
+</g>
+
+<!-- contaminated -->
+<g transform="translate(10,704)">
+<rect x="0" y="0" width="700" height="76" rx="8" fill="#fdecec" stroke="#c33" stroke-width="2"/>
+<text x="16" y="24" font-size="14"><tspan fill="#c33" font-weight="bold">If contaminated:</tspan> take off the contaminated clothes (not over the head), rinse with</text>
+<text x="16" y="44" font-size="14">clean water for at least 15 minutes, get medical help; call 119/120 to report it</text>
+<text x="16" y="66" font-size="14"><tspan fill="#c33" font-weight="bold">✗</tspan> If many people are tearing up, coughing or collapsing, don't go in to help: get out, then call</text>
+</g>
+</g>
+</svg>

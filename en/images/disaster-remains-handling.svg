@@ -1,0 +1,271 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1056" width="720" height="1056" role="img" aria-label="Handling the dead after a disaster: key points. Saving the living always comes first; report bodies to 110 or the local government and do not move, bury or burn them yourself. 1 Understand the real risks: the bodies of people killed in a disaster by injury, drowning, fire and similar causes generally do not cause epidemics; do not rush into mass burial or burning, and do not scatter lime or spray disinfectant. What really matters: bodies in or near a water source must be removed quickly, and affected water must be boiled or disinfected before drinking; do not wash or touch people who died of infectious diseases such as cholera, and report them to the disease control authority; the people handling bodies can get injured and infected, and can be hurt while carrying. 2 Protection when handling bodies: wear gloves, long sleeves and boots; dress any wounds on your hands first or avoid contact; wash your hands with soap and running water afterwards; do not eat, drink or smoke while handling, and do not touch your face; wash or throw away clothing and gloves after use; wear a mask if available, mainly to reduce the smell, not to prevent disease. 3 Give each body one unique number, such as place abbreviation-001, and write the same number everywhere: on a waterproof label tied to the body; on the outside of the bag or cloth wrapping it; personal belongings are bagged and marked with the same number, kept with the body and handed to the police or the responsible authority; the number board appears in every photo; photograph the face from the front, the whole body, clothing, shoes, tattoos, scars, birthmarks and jewellery; record the time and exact place found, approximate sex, age, height and build, clothing, belongings and distinctive features. Facial features change quickly, so record them as early as possible; do not let identification rest only on relatives looking at a photo or a quick glance and then hurry the burial. 4 Temporary burial as a last resort, only when cut off from the outside world for a long time with no authority to contact, after identification and recording are complete: bury individually; keep away from drinking-water sources, at least 200 m for 4 bodies or fewer, at least 250 m for 5-60, at least 350 m for more than 60; the bottom of the grave at least 2 m above the water table, do not bury where water seeps into the hole while digging; the hole about 1.5 m deep or more; choose higher ground that will not flood, away from homes; put a marker with the number on each grave and draw a map recording the position and number of each grave" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Handling the dead after a disaster: key points</title>
+<defs>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<marker id="arK" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#555"/></marker>
+<g id="no"><circle r="17" fill="none" stroke="#c33" stroke-width="3"/><path d="M-12,-12 L12,12" stroke="#c33" stroke-width="3"/></g>
+<g id="tagN"><path d="M0,0 H74 L86,11 L74,22 H0 Z" fill="#fffbe8" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/><circle cx="76" cy="11" r="2.5" fill="#fff" stroke="#333" stroke-width="1"/><text x="36" y="16" font-size="12" font-weight="bold" fill="#c33" text-anchor="middle">PLACE-001</text></g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="17" font-weight="bold" text-anchor="middle">Handling the dead: protection, numbering and records, burial only as a last resort</text>
+<text x="360" y="50" font-size="13" fill="#555" text-anchor="middle">Saving the living always comes first. Report bodies and their location to 110 or the local government;</text>
+<text x="360" y="66" font-size="13" fill="#555" text-anchor="middle">do not move, bury or burn them yourself</text>
+
+<g transform="translate(0,16)">
+<!-- 1 risks -->
+<rect x="8" y="64" width="704" height="158" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="88" font-size="15" font-weight="bold">① Understand the real risks</text>
+<rect x="18" y="98" width="330" height="114" rx="4" fill="#e3eefa" stroke="#0b5cad" stroke-width="1.2"/>
+<g font-size="13">
+<text x="28" y="117" font-weight="bold" fill="#0b5cad">Bodies of people killed by injury, drowning,</text>
+<text x="28" y="134" font-weight="bold" fill="#0b5cad">fire etc. generally do not cause epidemics</text>
+<text x="28" y="154" fill="#c33">✗ Don't rush into mass burial or burning</text>
+<text x="40" y="170" font-size="12" fill="#555">for fear of plague (bodies can't be identified,</text>
+<text x="40" y="185" font-size="12" fill="#555">families never find their relatives)</text>
+<text x="28" y="204" fill="#c33">✗ No lime, no disinfectant spray (no effect)</text>
+</g>
+<rect x="358" y="98" width="344" height="114" rx="4" fill="#fbe9e9" stroke="#c33" stroke-width="1.2"/>
+<g font-size="13">
+<text x="368" y="117" font-weight="bold" fill="#c33">What really matters:</text>
+<text x="368" y="136">· Bodies in or near a water source: remove</text>
+<text x="380" y="152">them fast; boil or disinfect affected water</text>
+<text x="368" y="170">· Died of cholera or other infectious disease:</text>
+<text x="380" y="186">don't wash or touch; report to disease control</text>
+<text x="368" y="204">· Handlers getting injured, infected or hurt lifting</text>
+</g>
+
+<g transform="translate(0,16)">
+<!-- 2 protection -->
+<rect x="8" y="216" width="704" height="196" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="240" font-size="15" font-weight="bold">② Protection when handling bodies</text>
+<g stroke="#333" stroke-width="2" stroke-linejoin="round" stroke-linecap="round">
+<!-- gloves -->
+<g transform="translate(74,310)" fill="#f0c94a">
+<path d="M-16,30 V-6 Q-26,-12 -24,-22 Q-20,-28 -12,-20 V-36 Q-12,-42 -7,-42 Q-2,-42 -2,-36 V-44 Q-2,-50 3,-50 Q8,-50 8,-44 V-38 Q8,-44 13,-44 Q18,-44 18,-38 V-30 Q18,-35 22,-35 Q27,-35 27,-30 V8 Q27,20 18,30 Z"/>
+<path d="M-2,-36 V-14 M8,-38 V-14 M18,-30 V-14" fill="none" stroke-width="1.2"/>
+<rect x="-18" y="30" width="38" height="10" rx="2" fill="#cfe0f0"/>
+</g>
+<!-- dressed wound -->
+<g transform="translate(190,310)" fill="#f3e3d3">
+<path d="M-18,30 V-4 Q-26,-10 -24,-20 Q-20,-26 -12,-18 V-36 Q-12,-42 -7,-42 Q-2,-42 -2,-36 V-44 Q-2,-50 3,-50 Q8,-50 8,-44 V-38 Q8,-44 13,-44 Q18,-44 18,-38 V-30 Q18,-35 22,-35 Q27,-35 27,-30 V8 Q27,20 18,30 Z"/>
+<rect x="-19" y="-8" width="46" height="14" rx="2" fill="#fff" transform="rotate(-12 4 -1)"/>
+<path d="M-8,-4 L-6,4 M2,-6 L4,2 M12,-8 L14,0" fill="none" stroke-width="1" transform="rotate(-12 4 -1)"/>
+</g>
+<!-- hand washing -->
+<g transform="translate(306,300)">
+<path d="M-30,-34 H2 Q10,-34 10,-26 V-20 H0 V-24 Q0,-26 -2,-26 H-30 Z" fill="#bbb"/>
+<rect x="-20" y="-44" width="20" height="5" rx="2" fill="#bbb"/>
+<path d="M5,-14 v8 M5,0 v8 M5,14 v6" stroke="#0b5cad" stroke-width="2.5" fill="none"/>
+<path d="M-26,40 Q-30,18 -20,10 Q-10,4 -4,16 L-2,40 Z M36,40 Q40,18 30,10 Q20,4 14,16 L12,40 Z" fill="#f3e3d3"/>
+<rect x="18" y="-36" width="22" height="12" rx="4" fill="#e8f0d0"/>
+</g>
+<!-- no eating, drinking or smoking -->
+<g transform="translate(422,300)">
+<path d="M-12,-14 H8 L5,12 H-9 Z" fill="#fff"/>
+<path d="M-6,-24 Q-2,-30 -6,-36" fill="none" stroke-width="1.5"/>
+<use href="#no"/>
+<g transform="translate(0,40)"><rect x="-22" y="-4" width="34" height="8" fill="#fff" stroke-width="1.5"/><rect x="12" y="-4" width="8" height="8" fill="#d98c3a" stroke-width="1.5"/><path d="M22,-6 Q26,-12 22,-18" fill="none" stroke="#999" stroke-width="1.5"/></g>
+<g transform="translate(0,40) scale(0.85)"><use href="#no"/></g>
+</g>
+<!-- wash or discard clothing -->
+<g transform="translate(538,304)">
+<path d="M-22,-30 L-8,-38 Q0,-32 8,-38 L22,-30 L30,-16 L20,-10 L16,-16 V20 H-16 V-16 L-20,-10 L-30,-16 Z" fill="#cfe0f0"/>
+<path d="M-22,30 H22 L18,44 H-18 Z" fill="#ddd"/>
+<path d="M-12,30 Q-6,22 0,30 Q6,22 12,30" fill="none" stroke="#0b5cad" stroke-width="1.5"/>
+</g>
+<!-- mask -->
+<g transform="translate(654,304)">
+<circle r="30" fill="#f3e3d3"/>
+<path d="M-16,-8 h8 M8,-8 h8" fill="none"/>
+<path d="M-20,2 Q0,-2 20,2 V16 Q0,26 -20,16 Z" fill="#fff"/>
+<path d="M-20,6 L-30,0 M20,6 L30,0" fill="none" stroke-width="1.5"/>
+</g>
+</g>
+<g font-size="13" text-anchor="middle">
+<text x="74" y="370">Gloves, long</text>
+<text x="74" y="386">sleeves, boots</text>
+<text x="190" y="370">Wound on hand:</text>
+<text x="190" y="386" font-size="12">dress it first or</text>
+<text x="190" y="400" font-size="12">avoid contact</text>
+<text x="306" y="370" font-weight="bold" fill="#0b5cad">Afterwards wash</text>
+<text x="306" y="386" font-weight="bold" fill="#0b5cad">hands with soap</text>
+<text x="306" y="402" font-weight="bold" fill="#0b5cad">and running water</text>
+<text x="422" y="370">No eating, drinking</text>
+<text x="422" y="386">or smoking; don't</text>
+<text x="422" y="402">touch your face</text>
+<text x="538" y="370">Wash or throw</text>
+<text x="538" y="386">away clothing and</text>
+<text x="538" y="402">gloves after use</text>
+<text x="654" y="370">Mask if available</text>
+<text x="654" y="386" font-size="12" fill="#555">(for the smell,</text>
+<text x="654" y="400" font-size="12" fill="#555">not against disease)</text>
+</g>
+
+<g transform="translate(0,10)">
+<!-- 3 numbering and records -->
+<rect x="8" y="412" width="704" height="292" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="436" font-size="15" font-weight="bold">③ One unique number per body, the same everywhere</text>
+<text x="702" y="436" font-size="12" fill="#0b5cad" font-weight="bold" text-anchor="end">Faces change fast: record early</text>
+<g stroke="#ccc" stroke-width="1.2" fill="#fff">
+<rect x="16" y="448" width="132" height="212" rx="5"/>
+<rect x="155" y="448" width="132" height="212" rx="5"/>
+<rect x="294" y="448" width="132" height="212" rx="5"/>
+<rect x="433" y="448" width="132" height="212" rx="5"/>
+<rect x="572" y="448" width="132" height="212" rx="5"/>
+</g>
+<g font-size="14" font-weight="bold" text-anchor="middle">
+<text x="82" y="470">Waterproof label</text>
+<text x="221" y="470">Bag or wrapping</text>
+<text x="360" y="470">Belongings</text>
+<text x="499" y="470">Photos</text>
+<text x="638" y="470">Record</text>
+</g>
+<!-- label -->
+<g stroke="#333" stroke-width="1.5" fill="none">
+<path d="M115,499 Q128,492 140,502" />
+</g>
+<use href="#tagN" x="36" y="488"/>
+<!-- cloth -->
+<g stroke="#333" stroke-width="1.5" stroke-linejoin="round">
+<path d="M171,484 H271 V536 H171 Z" fill="#e6e0d0"/>
+<path d="M171,500 H271 M171,520 H271" fill="none" stroke="#b5ab96" stroke-width="1"/>
+</g>
+<use href="#tagN" x="178" y="499"/>
+<!-- belongings bag -->
+<g stroke="#333" stroke-width="1.5" stroke-linejoin="round">
+<path d="M318,484 H402 V538 H318 Z" fill="#eef4f8"/>
+<path d="M318,492 H402" stroke-width="1"/>
+<rect x="326" y="500" width="22" height="30" rx="3" fill="#555"/>
+<rect x="354" y="502" width="30" height="20" rx="2" fill="#fff"/>
+<path d="M358,508 h16 M358,514 h12" stroke-width="1"/>
+</g>
+<text x="386" y="535" font-size="12" font-weight="bold" fill="#c33" text-anchor="middle">-001</text>
+<!-- camera -->
+<g stroke="#333" stroke-width="1.5" stroke-linejoin="round">
+<rect x="445" y="490" width="108" height="48" rx="5" fill="#ddd"/>
+<rect x="460" y="484" width="22" height="8" rx="2" fill="#ddd"/>
+<rect x="451" y="496" width="96" height="36" fill="#fff"/>
+</g>
+<use href="#tagN" x="456" y="503"/>
+<!-- record card -->
+<g stroke="#333" stroke-width="1.5">
+<rect x="606" y="482" width="64" height="58" fill="#fffbe8"/>
+<path d="M614,496 h48 M614,508 h48 M614,520 h40 M614,532 h44" stroke="#888" stroke-width="1.2"/>
+</g>
+<g font-size="12" text-anchor="middle">
+<text x="82" y="562">Write the number;</text>
+<text x="82" y="580">tie it to the body</text>
+
+<text x="221" y="562">Same number on</text>
+<text x="221" y="580">the outside of the</text>
+<text x="221" y="598">bag or cloth</text>
+
+<text x="360" y="556">ID, phone, jewellery,</text>
+<text x="360" y="571">wallet</text>
+<text x="360" y="588" font-weight="bold" fill="#c33">Keep with the body</text>
+<text x="360" y="605">Bag it, same number;</text>
+<text x="360" y="620">hand to the police or</text>
+<text x="360" y="635">responsible authority;</text>
+<text x="360" y="650">don't dispose of it</text>
+
+<text x="499" y="556" font-weight="bold" fill="#c33">Number board in</text>
+<text x="499" y="571" font-weight="bold" fill="#c33">every photo</text>
+<text x="499" y="589">Face (front), whole</text>
+<text x="499" y="604">body, clothes, shoes;</text>
+<text x="499" y="619">tattoos, scars,</text>
+<text x="499" y="634">birthmarks,</text>
+<text x="499" y="649">jewellery</text>
+
+<text x="638" y="556">Time and place</text>
+<text x="638" y="571">found; approx. sex,</text>
+<text x="638" y="586">age, height, build;</text>
+<text x="638" y="601">clothing,</text>
+<text x="638" y="616">belongings,</text>
+<text x="638" y="631">distinctive</text>
+<text x="638" y="646">features</text>
+</g>
+<text x="360" y="678" font-size="12" fill="#c33" font-weight="bold" text-anchor="middle">✗ Don't confirm identity just from relatives viewing a photo or a glance and then hurry the burial</text>
+<text x="360" y="694" font-size="12" fill="#c33" font-weight="bold" text-anchor="middle">(final identification is made by the police and other authorities)</text>
+
+<g transform="translate(0,24)">
+<!-- 4 temporary burial -->
+<rect x="8" y="690" width="704" height="290" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="714" font-size="15" font-weight="bold">④ Temporary burial as a last resort</text>
+<text x="292" y="706" font-size="12" fill="#c33">Only when cut off for a long time with no authority to contact;</text>
+<text x="292" y="721" font-size="12" fill="#c33">finish the identification and records in ③ first</text>
+<!-- cross-section -->
+<rect x="16" y="726" width="420" height="218" fill="#fff" stroke="#ccc" stroke-width="1"/>
+<path d="M16,800 H120 Q200,800 240,786 H436" fill="none" stroke="#999" stroke-width="2.5"/>
+<path d="M16,800 H120 Q200,800 240,786 H436 V944 H16 Z" fill="#efe6d6"/>
+<path d="M16,800 H120 Q200,800 240,786 H436" fill="none" stroke="#999" stroke-width="2.5"/>
+<!-- groundwater -->
+<path d="M16,906 H436" stroke="#0b5cad" stroke-width="1.8" stroke-dasharray="7 4"/>
+<text x="24" y="924" font-size="12" fill="#0b5cad">water table</text>
+<!-- well -->
+<g stroke="#333" stroke-width="2" fill="#ddd">
+<rect x="34" y="782" width="34" height="18"/>
+<path d="M32,782 V758 M70,782 V758 M28,758 H74" fill="none"/>
+<path d="M51,758 V770" fill="none" stroke-width="1.5"/>
+<rect x="45" y="770" width="12" height="9" fill="#999" stroke-width="1.5"/>
+</g>
+<path d="M40,800 V906 M62,800 V906" stroke="#999" stroke-width="1.5"/>
+<text x="22" y="742" font-size="12">drinking-water</text>
+<text x="22" y="755" font-size="12">source</text>
+<!-- distance -->
+<path d="M76,770 H264" stroke="#0b5cad" stroke-width="1.8" marker-start="url(#arB)" marker-end="url(#arB)"/>
+<text x="170" y="764" font-size="12" font-weight="bold" fill="#0b5cad" text-anchor="middle">at least 200 m (see table)</text>
+<!-- grave pit -->
+<rect x="268" y="786" width="60" height="62" fill="#fff" stroke="#333" stroke-width="2"/>
+<path d="M268,786 H328" stroke="#efe6d6" stroke-width="3"/>
+<path d="M268,786 V848 H328 V786" fill="none" stroke="#333" stroke-width="2"/>
+<!-- marker -->
+<g stroke="#333" stroke-width="1.8">
+<rect x="291" y="744" width="16" height="42" fill="#c9a56b"/>
+<rect x="279" y="743" width="40" height="18" fill="#e8d3a6"/>
+</g>
+<text x="299" y="757" font-size="12" font-weight="bold" fill="#c33" text-anchor="middle">-001</text>
+<text x="324" y="742" font-size="12" text-anchor="start">marker with</text>
+<text x="324" y="756" font-size="12" text-anchor="start">the number</text>
+<!-- depth -->
+<path d="M342,788 V846" stroke="#c33" stroke-width="1.8" marker-start="url(#arK)" marker-end="url(#arK)"/>
+<text x="350" y="812" font-size="12" font-weight="bold" fill="#c33">hole about</text>
+<text x="350" y="826" font-size="12" font-weight="bold" fill="#c33">1.5 m deep</text>
+<text x="350" y="840" font-size="12" font-weight="bold" fill="#c33">or more</text>
+<path d="M298,850 V904" stroke="#0b5cad" stroke-width="1.8" marker-start="url(#arB)" marker-end="url(#arB)"/>
+<text x="306" y="868" font-size="12" font-weight="bold" fill="#0b5cad">grave bottom at least</text>
+<text x="306" y="882" font-size="12" font-weight="bold" fill="#0b5cad">2 m above the</text>
+<text x="306" y="896" font-size="12" font-weight="bold" fill="#0b5cad">water table</text>
+<text x="200" y="938" font-size="12" fill="#555" text-anchor="middle">not to scale</text>
+<!-- higher ground -->
+<text x="388" y="781" font-size="12" text-anchor="middle">high ground</text>
+<text x="430" y="926" font-size="12" text-anchor="end" fill="#555">away from homes →</text>
+
+<!-- right column -->
+<g font-size="13">
+<text x="450" y="742" font-weight="bold">From wells, springs, rivers:</text>
+</g>
+<g stroke="#bbb" stroke-width="1" fill="#fff">
+<rect x="450" y="752" width="252" height="78"/>
+</g>
+<path d="M450,778 H702 M450,804 H702 M576,752 V830" stroke="#bbb" stroke-width="1"/>
+<g font-size="13">
+<text x="462" y="770">4 bodies or fewer</text><text x="590" y="770" font-weight="bold" fill="#0b5cad">at least 200 m</text>
+<text x="462" y="796">5-60 bodies</text><text x="590" y="796" font-weight="bold" fill="#0b5cad">at least 250 m</text>
+<text x="462" y="822">more than 60</text><text x="590" y="822" font-weight="bold" fill="#0b5cad">at least 350 m</text>
+</g>
+<g font-size="12">
+<text x="450" y="852">✓ One per grave, to find and move later</text>
+<text x="450" y="871">✓ Not where water seeps in while digging</text>
+<text x="450" y="890">✓ Somewhere that won't flood</text>
+<text x="450" y="909">✓ A marker with the number on each grave</text>
+<text x="450" y="928">✓ Map each grave's position and number</text>
+<text x="450" y="947">✓ Keep records, photos, belongings safe</text>
+<text x="450" y="966">✓ Respect their religion and local customs</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>

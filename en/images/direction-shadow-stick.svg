@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 494" width="720" height="494" role="img" aria-label="Finding direction with a shadow stick: push a stick about 1 m long into flat ground, as upright as possible, and mark the tip of its shadow as point A; wait 15-20 minutes and mark the new shadow tip as point B; the line from A to B points east, with A (marked first) in the west and B (marked second) in the east; a line at right angles to it points north: stand with your left foot on A and your right foot on B and you are facing north" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Finding direction with a shadow stick</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<g id="ground"><ellipse cx="113" cy="165" rx="102" ry="44" fill="#f2ede1" stroke="#999" stroke-width="2"/></g>
+<g id="sun"><circle r="11" fill="#ffd34d" stroke="#e08a00" stroke-width="2"/><path d="M0,-16 V-20 M0,16 V20 M-16,0 H-20 M16,0 H20 M-11.3,-11.3 L-14.1,-14.1 M11.3,11.3 L14.1,14.1 M-11.3,11.3 L-14.1,14.1 M11.3,-11.3 L14.1,-14.1" stroke="#e08a00" stroke-width="2" stroke-linecap="round"/></g>
+<g id="stick"><line x1="150" y1="182" x2="150" y2="82" stroke="#333" stroke-width="6" stroke-linecap="round"/><line x1="150" y1="182" x2="150" y2="82" stroke="#a07c4a" stroke-width="3.5" stroke-linecap="round"/></g>
+<g id="mark"><circle r="4.5" fill="#c33" stroke="#fff" stroke-width="1.2"/></g>
+<g id="foot"><ellipse cx="0" cy="2" rx="6" ry="11" fill="#cfe0f0" stroke="#333" stroke-width="1.5"/><circle cx="-3" cy="-11" r="1.6" fill="#333"/><circle cx="0.5" cy="-12" r="1.6" fill="#333"/><circle cx="4" cy="-10.5" r="1.4" fill="#333"/></g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Finding direction with a shadow stick</text>
+
+<g transform="translate(10,44)">
+<rect x="0" y="0" width="226" height="300" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="16" font-weight="bold">① Stick in, mark A</text>
+<use href="#ground"/>
+<path d="M150,182 L45,146" stroke="#777" stroke-width="5" stroke-linecap="round"/>
+<use href="#stick"/>
+<use href="#sun" transform="translate(196,50)"/>
+<path d="M184,61 L150,82" stroke="#e08a00" stroke-width="1.2" stroke-dasharray="4 3"/>
+<use href="#mark" transform="translate(45,146)"/>
+<text x="38" y="138" font-size="16" font-weight="bold" fill="#c33">A</text>
+<text x="140" y="96" font-size="13" fill="#0b5cad" text-anchor="end">stick about 1 m,</text>
+<text x="140" y="112" font-size="13" fill="#0b5cad" text-anchor="end">as upright as possible</text>
+<text x="40" y="196" font-size="13" fill="#555">shadow</text>
+<line x1="62" y1="186" x2="88" y2="162" stroke="#555" stroke-width="1"/>
+<text x="12" y="244" font-size="14">Push a stick into flat</text>
+<text x="12" y="263" font-size="14">ground and mark the tip</text>
+<text x="12" y="282" font-size="14">of its shadow as point A</text>
+</g>
+
+<g transform="translate(247,44)">
+<rect x="0" y="0" width="226" height="300" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="16" font-weight="bold">② Wait 15-20 min, mark B</text>
+<use href="#ground"/>
+<path d="M150,182 L45,146" stroke="#bbb" stroke-width="4" stroke-linecap="round" stroke-dasharray="6 5"/>
+<path d="M150,182 L95,146" stroke="#777" stroke-width="5" stroke-linecap="round"/>
+<use href="#stick"/>
+<use href="#sun" transform="translate(200,60)"/>
+<path d="M186,68 L150,82" stroke="#e08a00" stroke-width="1.2" stroke-dasharray="4 3"/>
+<use href="#mark" transform="translate(45,146)"/>
+<use href="#mark" transform="translate(95,146)"/>
+<text x="38" y="138" font-size="16" font-weight="bold" fill="#c33">A</text>
+<text x="91" y="138" font-size="16" font-weight="bold" fill="#c33">B</text>
+<path d="M54,128 Q70,118 86,128" fill="none" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<text x="14" y="104" font-size="13" fill="#555">tip moves to B</text>
+<text x="12" y="244" font-size="14">The sun moves and the</text>
+<text x="12" y="263" font-size="14">shadow moves the other way;</text>
+<text x="12" y="282" font-size="14">mark the new tip as point B</text>
+</g>
+
+<g transform="translate(484,44)">
+<rect x="0" y="0" width="226" height="300" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="16" font-weight="bold">③ Line A→B points east</text>
+<use href="#ground"/>
+<path d="M150,182 L45,146 M150,182 L95,146" stroke="#ccc" stroke-width="4" stroke-linecap="round"/>
+<use href="#stick" opacity="0.45"/>
+<path d="M26,146 L196,146" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<path d="M70,196 L70,74" stroke="#0b5cad" stroke-width="2.5" marker-end="url(#arB)"/>
+<text x="70" y="66" font-size="17" font-weight="bold" fill="#0b5cad" text-anchor="middle">N</text>
+<text x="70" y="214" font-size="15" fill="#0b5cad" text-anchor="middle">S</text>
+<text x="202" y="138" font-size="17" font-weight="bold" fill="#c33" text-anchor="middle">E</text>
+<text x="16" y="138" font-size="15" fill="#c33" text-anchor="middle">W</text>
+<use href="#foot" transform="translate(45,150)"/>
+<use href="#foot" transform="translate(95,150)"/>
+<use href="#mark" transform="translate(45,146)"/>
+<use href="#mark" transform="translate(95,146)"/>
+<text x="45" y="180" font-size="15" font-weight="bold" fill="#c33" text-anchor="middle">A</text>
+<text x="95" y="180" font-size="15" font-weight="bold" fill="#c33" text-anchor="middle">B</text>
+<text x="12" y="244" font-size="14">A (first) is west, B (second)</text>
+<text x="12" y="263" font-size="14">is east; left foot on A, right</text>
+<text x="12" y="282" font-size="14">foot on B: you face north</text>
+</g>
+
+<rect x="10" y="358" width="700" height="120" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="26" y="383" font-size="15">Principle: the sun rises in the east and sets in the west; the shadow moves the other way</text>
+<text x="26" y="407" font-size="15">✓ Morning or afternoon works better than around noon</text>
+<text x="44" y="427" font-size="15">(near noon the shadow moves slowly and is hard to read)</text>
+<text x="26" y="451" font-size="15">✓ The longer you wait, the more accurate</text>
+<text x="330" y="451" font-size="15" fill="#c33">✗ Useless when cloud blurs the shadow</text>
+<text x="700" y="470" font-size="12" fill="#888" text-anchor="end">Schematic: the shadow movement is exaggerated</text>
+</g>
+</svg>

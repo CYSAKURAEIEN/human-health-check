@@ -1,0 +1,164 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 786" width="720" height="786" role="img" aria-label="Household stores: how much per person and how to rotate them. Prepare in order: a 3-day emergency kit, at least 2 weeks of stored water, then gradually up to 3 months; eat and rotate them day to day, don't stockpile huge amounts at once, and don't panic-buy when disaster comes. Per adult per day, about: 4 L of water for drinking and cooking (of which about 2-3 L to drink), about 56 L for 2 weeks, about 170 L for a family of 3, with longer periods covered by water sources and purification; 0.5 kg of grain, about 45 kg for 3 months; 50 g of beans, about 4.5 kg; 25 g of cooking oil, about 2.5 L; 5 g of iodised salt, about 0.5 kg; a little sugar, about 1 kg. Children and older people need less; heavy work and breastfeeding need more. Rotation: first in, first out; eat from the stores day to day and put new purchases at the back; keep food sealed, dry, rat-proof and cool, and label containers with dates; water containers clean, lidded, opaque and food-grade, with tap water in full, sealed containers changed about every 6 months; do not eat from cans that bulge, leak or are badly rusted. How long it will last: days = total stock divided by daily use; for example 300 kg of grain, 10 people, 0.5 kg each per day, lasts 60 days; ration from the start" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Household stores: amounts per person and rotation</title>
+<defs>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker>
+<!-- can (origin at the centre of its base) -->
+<g id="can">
+<rect x="-17" y="-44" width="34" height="44" rx="3" fill="#e3e8ec" stroke="#333" stroke-width="2"/>
+<rect x="-17" y="-32" width="34" height="18" fill="#fff" stroke="#333" stroke-width="1.2"/>
+</g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Household stores: how much per person, how to rotate</text>
+<text x="360" y="52" font-size="13" text-anchor="middle" fill="#555">Eat and rotate them day to day; don't hoard huge amounts at once or panic-buy when disaster comes</text>
+
+<!-- 1 order -->
+<g transform="translate(10,64)">
+<rect x="0" y="0" width="250" height="400" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">① Prepare in order</text>
+<rect x="20" y="166" width="60" height="44" fill="#e3eef8" stroke="#333" stroke-width="2"/>
+<rect x="95" y="122" width="60" height="88" fill="#cfe0f0" stroke="#333" stroke-width="2"/>
+<rect x="170" y="78" width="60" height="132" fill="#b5cfe8" stroke="#333" stroke-width="2"/>
+<g font-size="14" font-weight="bold" text-anchor="middle">
+<text x="50" y="194">3 days</text><text x="125" y="150">2 weeks</text><text x="200" y="106">3 months</text>
+</g>
+<path d="M44 152 Q90 104 118 106 M128 104 Q168 62 192 62" fill="none" stroke="#0b5cad" stroke-width="2" stroke-dasharray="5 4" marker-end="url(#arB)"/>
+<path d="M14 210 H236" stroke="#999" stroke-width="2.5"/>
+<g font-size="12" text-anchor="middle" fill="#0b5cad">
+<text x="50" y="230">emergency</text><text x="50" y="245">kit</text>
+<text x="125" y="230">water, at</text><text x="125" y="245">least 2 weeks</text>
+<text x="200" y="230">food etc.:</text><text x="200" y="245">see table</text>
+</g>
+<g font-size="13">
+<text x="12" y="276">Most households should have a</text>
+<text x="12" y="294">3-day emergency kit; build up</text>
+<text x="12" y="312">larger stores gradually when</text>
+<text x="12" y="330">you can</text>
+</g>
+</g>
+
+<!-- 2 how much per person -->
+<g transform="translate(270,64)">
+<rect x="0" y="0" width="440" height="400" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">② How much per person (adult, approx.)</text>
+<rect x="8" y="36" width="424" height="24" fill="#f3f7fb"/>
+<g font-size="13" font-weight="bold" fill="#555">
+<text x="56" y="53">Item</text>
+<text x="282" y="53" text-anchor="middle">Per day</text>
+<text x="372" y="53" text-anchor="middle">Per 3 months</text>
+</g>
+<g stroke="#eee" stroke-width="1"><path d="M8 112 H432 M8 160 H432 M8 208 H432 M8 256 H432 M8 304 H432 M8 352 H432"/></g>
+<!-- water -->
+<g transform="translate(30,78)">
+<path d="M-12 -14 H8 L14 -8 V14 H-12 Z" fill="#cfe5f5" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M-6 -14 V-20 H4 V-14" fill="none" stroke="#333" stroke-width="2"/>
+</g>
+<text x="56" y="74" font-size="14" font-weight="bold">Drinking and cooking water</text>
+<text x="56" y="90" font-size="12" fill="#555">of which about 2-3 L to drink</text>
+<text x="282" y="82" font-size="16" font-weight="bold" fill="#0b5cad" text-anchor="middle">4 L</text>
+<text x="372" y="74" font-size="12" text-anchor="middle">2 weeks: about 56 L</text>
+<text x="372" y="90" font-size="12" fill="#555" text-anchor="middle">3 people: about 170 L</text>
+<!-- grain -->
+<g transform="translate(30,126)">
+<path d="M-12 14 Q-16 0 -8 -10 L-10 -14 H10 L8 -10 Q16 0 12 14 Z" fill="#efe2c4" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M-8 -10 H8" stroke="#333" stroke-width="1.5"/>
+</g>
+<text x="56" y="122" font-size="14" font-weight="bold">Rice, flour, coarse grains</text>
+<text x="56" y="138" font-size="12" fill="#555">not only white rice: store</text>
+<text x="56" y="151" font-size="12" fill="#555">some brown rice, coarse grains</text>
+<text x="282" y="130" font-size="16" font-weight="bold" fill="#0b5cad" text-anchor="middle">0.5 kg</text>
+<text x="372" y="130" font-size="14" text-anchor="middle">45 kg</text>
+<!-- beans -->
+<g transform="translate(30,174)">
+<path d="M-14 -2 H14 Q13 12 0 12 Q-13 12 -14 -2 Z" fill="#fff" stroke="#333" stroke-width="2"/>
+<g fill="#d9b84a" stroke="#333" stroke-width="1"><circle cx="-7" cy="-5" r="3.5"/><circle cx="0" cy="-7" r="3.5"/><circle cx="7" cy="-5" r="3.5"/></g>
+</g>
+<text x="56" y="170" font-size="14" font-weight="bold">Beans</text>
+<text x="56" y="186" font-size="12" fill="#555">soya, mung beans; sprout</text>
+<text x="56" y="199" font-size="12" fill="#555">them for vitamin C</text>
+<text x="282" y="178" font-size="16" font-weight="bold" fill="#0b5cad" text-anchor="middle">50 g</text>
+<text x="372" y="178" font-size="14" text-anchor="middle">4.5 kg</text>
+<!-- oil -->
+<g transform="translate(30,222)">
+<path d="M-4 -16 H4 V-10 Q10 -6 10 0 V14 H-10 V0 Q-10 -6 -4 -10 Z" fill="#f4e6a8" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+</g>
+<text x="56" y="218" font-size="14" font-weight="bold">Cooking oil</text>
+<text x="56" y="234" font-size="12" fill="#555">keep dark and cool; goes</text>
+<text x="56" y="247" font-size="12" fill="#555">rancid when old</text>
+<text x="282" y="226" font-size="16" font-weight="bold" fill="#0b5cad" text-anchor="middle">25 g</text>
+<text x="372" y="226" font-size="14" text-anchor="middle">2.5 L</text>
+<!-- salt -->
+<g transform="translate(30,270)">
+<path d="M-8 -8 Q-8 -16 0 -16 Q8 -16 8 -8 Z" fill="#bbb" stroke="#333" stroke-width="2"/>
+<rect x="-9" y="-8" width="18" height="22" rx="3" fill="#fff" stroke="#333" stroke-width="2"/>
+<g fill="#333"><circle cx="-3" cy="-12" r="1"/><circle cx="3" cy="-12" r="1"/></g>
+</g>
+<text x="56" y="266" font-size="14" font-weight="bold">Iodised salt</text>
+<text x="56" y="282" font-size="12" fill="#555">salt for pickling is extra</text>
+<text x="282" y="274" font-size="16" font-weight="bold" fill="#0b5cad" text-anchor="middle">5 g</text>
+<text x="372" y="274" font-size="14" text-anchor="middle">0.5 kg</text>
+<!-- sugar -->
+<g transform="translate(30,318)">
+<rect x="-12" y="-2" width="12" height="12" fill="#fff" stroke="#333" stroke-width="1.8"/>
+<rect x="0" y="-2" width="12" height="12" fill="#fff" stroke="#333" stroke-width="1.8"/>
+<rect x="-6" y="-14" width="12" height="12" fill="#fff" stroke="#333" stroke-width="1.8"/>
+</g>
+<text x="56" y="314" font-size="14" font-weight="bold">Sugar</text>
+<text x="56" y="330" font-size="12" fill="#555">also for oral rehydration</text>
+<text x="282" y="322" font-size="15" fill="#0b5cad" text-anchor="middle">a little</text>
+<text x="372" y="322" font-size="14" text-anchor="middle">1 kg</text>
+<text x="12" y="372" font-size="12" fill="#555">Children and older people need less; heavy work and breastfeeding more</text>
+<text x="12" y="388" font-size="12" fill="#555">Water: store 2 weeks only; beyond that, use sources and purification</text>
+</g>
+
+<!-- 3 first in, first out -->
+<g transform="translate(10,474)">
+<rect x="0" y="0" width="440" height="302" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">③ Rotate: first in, first out</text>
+<path d="M76 116 H356" stroke="#8a6a3a" stroke-width="6" stroke-linecap="round"/>
+<path d="M84 116 V150 M348 116 V150" stroke="#8a6a3a" stroke-width="4"/>
+<use href="#can" x="104" y="113"/><use href="#can" x="164" y="113"/><use href="#can" x="224" y="113"/><use href="#can" x="284" y="113"/>
+<use href="#can" x="40" y="113"/>
+<use href="#can" x="400" y="113"/>
+<g font-size="12" font-weight="bold" text-anchor="middle">
+<text x="40" y="92" fill="#c33">Jan</text><text x="104" y="92">Feb</text><text x="164" y="92">Mar</text><text x="224" y="92">Apr</text><text x="284" y="92">May</text><text x="400" y="92" fill="#0b5cad">Jun</text>
+</g>
+<path d="M82 52 H50" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<path d="M398 52 H342" stroke="#0b5cad" stroke-width="2.5" marker-end="url(#arB)"/>
+<text x="40" y="140" font-size="12" text-anchor="middle" fill="#c33">eat oldest</text>
+<text x="40" y="155" font-size="12" text-anchor="middle" fill="#c33">dates first</text>
+<text x="400" y="140" font-size="12" text-anchor="middle" fill="#0b5cad">new stock</text>
+<text x="400" y="155" font-size="12" text-anchor="middle" fill="#0b5cad">goes at back</text>
+<text x="220" y="140" font-size="12" text-anchor="middle" fill="#555">label containers with dates</text>
+<g font-size="13">
+<text x="12" y="184">Eat from the stores day to day; put new purchases at the</text>
+<text x="12" y="202">back. Don't keep food uneaten only to throw it all out later</text>
+<text x="12" y="226">Food: sealed, dry, rat-proof, cool</text>
+<text x="12" y="248">Water containers: clean, lidded, opaque, food-grade, dated;</text>
+<text x="12" y="266">change tap water in full sealed containers about every 6 months</text>
+<text x="12" y="286" fill="#c33" font-weight="bold">✗ Don't eat from cans that bulge, leak or are badly rusted</text>
+</g>
+</g>
+
+<!-- 4 how long it lasts -->
+<g transform="translate(460,474)">
+<rect x="0" y="0" width="250" height="302" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">④ How long will it last?</text>
+<rect x="10" y="38" width="230" height="52" rx="6" fill="#f3f7fb" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="125" y="59" font-size="14" font-weight="bold" text-anchor="middle">Days it will last =</text>
+<text x="125" y="80" font-size="14" font-weight="bold" text-anchor="middle">total stock ÷ daily use</text>
+<g font-size="13">
+<text x="12" y="116">e.g. 300 kg of grain, 10 people,</text>
+<text x="12" y="134">0.5 kg each per day</text>
+<text x="12" y="156">→ 300 ÷ 5 = <tspan font-weight="bold" fill="#0b5cad">60 days</tspan></text>
+<text x="12" y="182">Next harvest in 90 days →</text>
+<text x="12" y="200">economise now, sow quick crops,</text>
+<text x="12" y="218">forage and trade</text>
+<text x="12" y="250" fill="#c33" font-weight="bold">Ration from the start,</text>
+<text x="12" y="268" fill="#c33" font-weight="bold">not when it is nearly gone</text>
+</g>
+</g>
+</g>
+</svg>
