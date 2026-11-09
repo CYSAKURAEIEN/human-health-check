@@ -836,7 +836,7 @@ Also:
 ### Fighting the fire safely
 
 ```
-⚠️ Professionals only!
+⚠️ Leave big fires to professionals!
 
 Ordinary people:
 ✓ Can tackle small fires

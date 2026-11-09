@@ -846,3 +846,405 @@ The house:
 For recognising and treating carbon monoxide poisoning see [Carbon monoxide poisoning](../../../docs/01-日常疾病和伤害/07-居家与交通意外.md#一氧化碳中毒).
 
 **Trapped in a vehicle**:
+```
+1. Stay in the vehicle!
+   - The vehicle is your shelter
+   - Outside you easily get lost
+
+2. Signal:
+   - Tie a brightly coloured strip of cloth to the aerial
+   - Turn on the hazard lights at intervals
+   - Sound the horn now and then
+
+3. Keep warm:
+   - Run the engine for 10 minutes every hour for heat
+   - Make sure the exhaust pipe is not blocked by snow (to prevent carbon monoxide poisoning)
+     Before each time you run the engine, get out and clear the snow from around the
+     exhaust; while it runs, open a window on the sheltered side a crack
+   - Keep moving your body
+   - Huddle together with others
+
+4. Stay awake:
+   - Take turns to sleep
+   - Do not fall asleep and get frostbitten
+   - While one person sleeps, another stays awake and watches for anyone getting a headache
+     or drowsy while the engine runs (carbon monoxide)
+
+5. Save:
+   - Fuel
+   - Food
+   - Batteries
+   - Phone: make one call to report your location, vehicle and number of people, then
+     switch it off or to power-saving mode, and switch it on at set times to check messages
+
+6. Drink and eat:
+   - Eat small amounts often; your body needs energy to make heat
+   - If you do not have enough water, melt snow to drink (in a cup or with body heat); do
+     not eat mouthfuls of snow directly
+
+⚠️ Leave the vehicle only when you can see houses or rescuers within a few tens of m and the
+   wind and snow have eased
+```
+
+**Outdoors**:
+```
+⚠️ Going out in a blizzard is extremely dangerous!
+
+If you are caught outdoors:
+1. Find or build a shelter:
+   - Natural shelter (cave, rocks)
+   - Snow cave
+   - Windbreak wall
+
+   - The smaller the shelter, the warmer it is; put the entrance away from the wind and lie
+     on branches or a rucksack to keep off the snow
+   - Poke a ventilation hole in the roof of a snow cave and check often that it has not
+     been blocked by snow
+
+2. Stay dry:
+   - Wet clothes kill
+   - Brush the snow off yourself before going into the shelter (snow melts with body heat
+     and soaks your clothes)
+   - Take off wet clothes and put on dry ones; if you have no dry clothes, put a windproof,
+     waterproof layer over the wet ones
+   - Sweating while working soaks your underwear: take off layers and slow down; better to
+     go a little slower than to sweat heavily
+
+3. Keep warm:
+   - Several layers of clothing
+   - Protect your head (you lose a lot of heat when your head and neck are exposed)
+   - Cover your mouth and nose (to warm the air you breathe in)
+   - Keep moving (wiggle fingers and toes, march on the spot, but do not work hard enough to
+     sweat)
+   - When there are several of you, huddle together and share sleeping bags and blankets
+
+4. Do not:
+   ❌ Eat snow (it lowers your body temperature; when you need to drink, melt the snow first)
+   ❌ Drink alcohol (it feels warming but actually cools you down)
+   ❌ Sleep (hypothermia comes easily; if there is no way to keep warm in the shelter, take
+      turns to sleep and wake each other)
+   ❌ Wander blindly in a white-out (you easily walk in circles or fall into a ditch)
+
+5. Companions watch each other: constant shivering, clumsy hands, slurred speech, stumbling
+   → early hypothermia; deal with it at once
+```
+
+For how to make snow caves and snow walls see [Snow and polar survival](../../../docs/03-野外生存/04-雪地极地求生.md); for treating hypothermia and frostbite see [Hypothermia](../../../docs/01-日常疾病和伤害/05-急性症状.md#失温症) and [Frostbite](../../../docs/01-日常疾病和伤害/02-外伤处理.md#冻伤).
+
+### Clearing snow from roofs and greenhouses
+
+```
+Heavy snow collapsing roofs, coloured steel-sheet sheds and vegetable greenhouses, and
+people falling while clearing snow from roofs, are common causes of death and injury in
+heavy snow.
+
+✓ When the snow is thick, and especially when it is wet and heavy, clear it early; do not
+  wait until it builds up further
+✓ First try to push the snow off from the ground with a long pole or snow pusher; avoid
+  going up on the roof as far as possible
+✓ If you must go up on the roof: at least two people, tied on with a safety rope, wearing
+  non-slip shoes; do not stand at the edge of the eaves
+✓ Greenhouses: in heavy snow, take turns sweeping snow all night; if the frame is already
+  bending or creaking, get out at once and do not go in to save it
+✓ When clearing snow, watch for power lines underfoot and people below the eaves
+❌ Do not shelter from the snow in makeshift huts, carports or greenhouses loaded with snow
+```
+
+### After a blizzard
+
+```
+✓ Go out carefully (slippery roads, poor visibility)
+✓ Avoid overexertion (shovelling snow is heavy physical work)
+  - Work a little, rest a little; push the snow rather than lifting and throwing it; shovel
+    a little at a time
+  - People with heart disease or high blood pressure, and older people, should avoid
+    shovelling snow
+  - If you get chest pain, chest tightness or breathlessness while shovelling, stop at once
+    and call 120
+✓ Watch for avalanche risk (in mountains)
+✓ Check for frostbite
+✓ Take in fluids and energy
+✓ When the snow melts, watch for icicles falling from eaves and for meltwater pooling and
+  flooding
+```
+
+---
+
+## Tornadoes
+
+### Tornadoes in China
+
+```
+- China has tornadoes every year, mostly from April to September, more often in plains,
+  river networks and delta areas such as Jiangsu, Anhui, Guangdong, Hubei and Shandong
+- They often occur in severe thunderstorms, and also in the rain bands on the edges of
+  typhoons
+- In 2016 a violent tornado in Funing, Yancheng, Jiangsu killed nearly a hundred people,
+  mainly through buildings collapsing
+- Tornadoes are small (usually from a few tens to a few hundred m wide), arrive fast and do
+  not last long; it is very hard to forecast the exact place several hours in advance, so
+  you must act as soon as you receive a warning
+```
+
+### Recognising one
+
+**Cloud features**:
+- Churning dark clouds: the base of the cumulonimbus is jet black, and the cloud mass is rotating fast and boiling up and down
+- Funnel cloud: a funnel-shaped or trunk-shaped column of cloud reaching down from the cloud base; once it touches the ground it is a tornado
+- Low-hanging cloud: one part of the cloud base is clearly lower than the rest and bulges downwards
+- A rotating "wall cloud" hanging below the cloud base
+
+**Other signs**:
+- Green sky: in the afternoon or evening the sky turns bluish-green, common with severe thunderstorms
+- Frequent lightning: almost continuous flashes
+- Large hail: heavy hail may be followed by a tornado
+- A loud, continuous roar (like a train): it goes on and on, not passing like a roll of thunder
+- Sudden calm (before a tornado): a sudden drop in wind and rain during a violent storm does not mean it is over
+- A rotating column of dust and debris on the ground (already very dangerous even before the funnel fully reaches the ground)
+- At night you cannot see the funnel; you can only go by warnings and sound
+
+```
+⚠️ If you see any of the above, do not stop to watch or film it; take cover at once as
+   described below.
+   Tornadoes usually move at several tens of km/h; from the moment you see one to its
+   arrival may be only a few minutes.
+```
+
+### Tornado alerts
+
+**Watch**: conditions are right; a tornado may form
+**Warning**: a tornado has been spotted; act now!
+
+```
+The above is the US system. In China:
+- When the meteorological department issues a warning for thunderstorms with strong wind,
+  hail or severe convective weather, think of the possibility of a tornado
+- Guangdong, Jiangsu and some other places issue separate tornado warnings; when you
+  receive one, take cover at once as described below
+- If you see a funnel cloud or hear a roar like a train, do not wait for a warning; take
+  cover at once
+```
+
+### What to do
+
+**At home**:
+```
+Act at once!
+
+Best places:
+1. Basement:
+   - Safest
+   - Shelter under a sturdy workbench
+   - Keep away from windows
+
+2. No basement:
+   - Lowest floor
+   - Interior room (bathroom, cupboard)
+   - No windows
+   - Away from exterior walls
+
+Position:
+✓ Crouch or lie flat
+✓ Hold your head with both hands
+✓ Protect your head and neck
+✓ Cover yourself with thick cushions or a mattress
+✓ If you have a helmet (bicycle or motorcycle helmet), put it on: most deaths in tornadoes
+  are head injuries from flying debris and collapsing structures
+✓ Put your shoes on and keep a torch and phone with you (afterwards you will have to walk
+  over rubble and call for help)
+✓ Hold babies and young children underneath you to protect them
+
+❌ Do not:
+- Stay in a mobile home
+- Stay in portable cabins, coloured steel-sheet buildings, work sheds or makeshift
+  single-storey huts (these are lifted off whole; if you can move to a nearby solid
+  building before the tornado arrives, do so at once)
+- Open windows to "equalise the pressure" (wrong!)
+- Shelter in a car
+- Run outside to watch or film
+```
+
+**In schools / public buildings**:
+```
+✓ Interior corridors (lowest floor)
+✓ Small rooms
+✓ Away from windows and halls
+✓ Crouch and protect your head
+✓ Follow instructions
+❌ Do not stay in spaces with wide-span roofs such as sports halls, auditoriums or the
+   middle of large supermarkets (the whole roof can easily fall in)
+```
+
+**Outdoors**:
+```
+1. Find a solid building
+
+2. No building:
+   - Lie flat in a low spot
+   - A ditch or hollow
+   - Hold your head with both hands
+   (Note: in heavy rain ditches can suddenly fill with water)
+
+3. Do not:
+   ❌ Shelter under a bridge (funnelling effect makes the wind stronger)
+   ❌ Shelter under a tree
+   ❌ Try to outrun the tornado
+
+4. Keep away from:
+   - Utility poles
+   - Trees
+   - Vehicles
+```
+
+**In a vehicle**:
+```
+⚠️ Cars are not safe!
+
+As the tornado approaches:
+1. Abandon the vehicle!
+2. Lie flat in a nearby low spot
+3. Get some distance from the vehicle (so it does not land on you)
+
+If there is nowhere to go:
+- Keep your seat belt fastened
+- Get down below the level of the windows
+- Protect your head with your hands or a blanket
+
+✓ If the tornado is still far off and the road is clear, you can drive away at right angles
+  to the direction it is moving and get into the nearest solid building
+```
+
+### After a tornado
+
+```
+✓ Check for injuries
+✓ Keep away from collapsed buildings
+✓ Keep away from fallen power lines
+✓ Use a torch (no naked flames)
+✓ Help others
+✓ Follow the rescuers' instructions
+✓ Wear sturdy shoes, long sleeves and long trousers; the rubble is full of nails and broken
+  glass
+✓ If you smell gas, leave at once and report it
+```
+
+---
+
+## Hail
+
+Hail often comes together with lightning and strong wind, and usually lasts only a few minutes to a quarter of an hour or so. Hailstones the size of eggs can injure people and smash car windows, and they are especially destructive to crops. Hail warnings have only two levels: orange (hail possible within 6 hours) and red (hail very likely within 2 hours).
+
+```
+Indoors:
+✓ Shut doors and windows; keep away from windows and skylights (the glass may be smashed)
+✓ Do not go out to bring things in or cover the car
+
+Outdoors:
+✓ Get into a solid building at once
+✓ If there is no time: protect your head and the back of your neck with a rucksack, school
+  bag or clothing, and shelter under solid eaves or against a wall (with your back to the
+  direction the hail is coming from)
+❌ Do not shelter under large trees (hail often comes with lightning, and large trees are
+   easily struck; broken branches can also hit you)
+❌ Do not shelter in flimsy sheds or under advertising boards
+
+In a vehicle:
+✓ Find somewhere you can park and stop properly (not in the middle of the road); stay in
+  the vehicle
+✓ Keep away from the windows, turn your back to them, and protect your head and face with
+  clothing or a blanket
+✓ If there is a petrol-station canopy or multi-storey car park nearby, drive in to shelter
+❌ Do not get out during the hail and run for a distant building
+
+Afterwards:
+✓ Roads covered with hailstones are slippery; drive and walk carefully
+✓ Thunderstorms and strong wind may follow straight after hail; watch for further warnings
+```
+
+**After crops are damaged**:
+```
+✓ Promptly raise flattened plants and cut off smashed leaves and shoots, to reduce infection
+  by disease
+✓ Apply a quick-acting top dressing of fertiliser to help recovery
+✓ If the damage is severe and there is still time in the season, resow or switch to a crop
+  with a short growing period
+✓ In orchards and vegetable plots that are often hit by hail, you can put up anti-hail nets
+```
+
+For field management of different crops see [Grain crops](../../../docs/04-动植物培育/02-粮食作物.md) and [Vegetable growing](../../../docs/04-动植物培育/01-蔬菜种植.md).
+
+---
+
+## Heatwaves
+
+Several days in a row with maximum temperatures above 35°C (the threshold for a high-temperature warning), without cooling at night, are especially dangerous for older people, babies and young children, people with chronic illnesses and outdoor workers. Every major heatwave clearly increases the number of deaths, many of them older people who fall ill from the heat alone at home.
+
+```
+When you receive a high-temperature warning:
+✓ Yellow (≥35°C for 3 days in a row): cut down outdoor activity around midday; plan
+  drinking water and heat precautions
+✓ Orange (≥37°C): shorten outdoor work, avoid midday, rest in rotation
+✓ Red (≥40°C): stop open-air outdoor work except essential work
+
+✓ Avoid going out in the hottest hours (10:00-16:00)
+✓ Drink at regular times; do not wait until you are thirsty; when sweating heavily,
+  replace salt as well
+✓ By day close the windows and draw the curtains; ventilate in the cool of the evening;
+  if you have air conditioning, turn it on; do not suffer to save electricity
+✓ Visit or phone older people living alone every day
+❌ Never leave children, older people or pets alone in a car, even for a few minutes
+✓ Outdoor work: schedule it for morning and evening, work for a while then rest, work in
+  pairs and watch each other
+
+⚠️ Dizziness, nausea, heavy sweating that suddenly stops, very high body temperature,
+   confusion or fits → this may be heatstroke; call 120
+   at once, and meanwhile move the person into the shade and cool them quickly
+```
+
+For the grades of heat illness, cooling methods, high-risk groups and how much to drink, see [Acute symptoms – Heatstroke](../../../docs/01-日常疾病和伤害/05-急性症状.md#中暑); for caring for older people see [Elder care – Extreme weather](../../../docs/01-日常疾病和伤害/13-老人照护.md#极端天气).
+
+**Keeping cool during a power cut**:
+```
+✓ Stay in the coolest room in the house (north-facing, downstairs, in shade); keep doors
+  and windows tightly shut by day to keep the heat out
+✓ Wipe yourself down with a damp towel, take cool showers, soak your feet in cool water
+✓ Hang a wet sheet at the window to cool the air by evaporation (works well when the air is
+  dry, poorly when it is very humid)
+✓ When the temperature is very high a fan just blows hot air; it helps only if you also wet
+  your skin
+✓ Go to a community cooling centre or a cool public place
+```
+
+---
+
+## Drought
+
+Drought comes slowly and lasts a long time. It does not kill suddenly as floods do, but step by step it causes water shortages, lower harvests and even total crop failure. As a drought develops, **the earlier you start saving water, the more options you will have later**.
+
+### Effects
+
+- Water shortage: well and spring levels fall, ponds and streams dry up; both people and livestock struggle for drinking water
+- Crop failure: seeds cannot be sown, seedlings come up poorly, and water shortage at key growth stages greatly reduces yields
+- Food shortage: one failed season affects the following year; plan food stocks early (see "Farming in drought" below)
+- Higher fire risk: vegetation is dry, and a single cigarette end or burning of stubble can start a wildfire
+- Health problems: lack of water worsens hygiene and increases intestinal infections; water sources become concentrated and water quality worsens; drought often comes with heat, so more heat illness
+
+```
+Drought is a "slow" disaster. Signs that a drought is developing:
+- Noticeably little rain for a month or two; wells lower than at the same time in previous
+  years
+- Soil still dry when you dig down ten-odd cm; crops wilt at midday and have not recovered
+  by morning
+- River and pond levels lower week by week
+→ When you see these signs, start saving and storing water; do not wait until the well is
+  dry to start worrying
+```
+### What to do
+
+**Priorities for water use**:
+```
+When water is short, secure it in this order:
+1. Drinking and cooking water for people (about 2-3 L per person per day for drinking, more
+   in hot weather and during work)
+2. Handwashing and basic hygiene (to prevent infectious disease)
+3. Drinking water for livestock
