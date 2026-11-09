@@ -56,7 +56,7 @@ All of the following "rules of thumb" are unreliable:
 Amanita mushrooms (commonly called "white death cap", "deadly white death cap",
 "grey-streaked amanita", etc.):
 - The main cause of deaths from mushroom poisoning in China
-- Many are white or grey and look plain; often mistaken for edible wild mushrooms
+- Many are white, grey or greyish-brown and look plain; often mistaken for edible wild mushrooms
 - Poisoning is followed by a "false recovery" period, then liver failure (see next section)
 
 Lepiota brunneoincarnata: common in parks and green spaces in northern cities; deadly,
