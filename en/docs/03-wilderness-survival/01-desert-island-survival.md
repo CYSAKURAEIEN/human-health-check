@@ -1136,4 +1136,4 @@ The most important points:
 ---
 
 **Next chapter**: [Forest Survival](02-forest-survival.md)
-**Back to**: [Chapter index](README.md) | [Main index](../../README.md)
+**Back**: [Chapter index](../../../docs/03-野外生存/README.md) | [Main contents](../../README.md)

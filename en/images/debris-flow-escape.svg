@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 692" width="720" height="692" role="img" aria-label="Escaping a debris flow: run at right angles to the line of the gully, up the slopes on either side; do not run downstream along the gully and do not run into the gully; do not linger on the gully floor. Warning signs: the stream suddenly stops or drops, the water suddenly turns very muddy and thick with plants and foam, a roar like a train from upstream with the ground shaking, rockfall, collapses and cracks on the slopes on either side, animals unusually frightened; at any one of these, leave the gully at once. Do not climb trees, do not shelter in hollows, under steep slopes or earth banks or behind large boulders, do not stop on bridges, at the gully edge or on the outside of bends, and once on high ground do not go back down to look or to fetch belongings">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 706" width="720" height="706" role="img" aria-label="Escaping a debris flow: run at right angles to the line of the gully, up the slopes on either side; do not run downstream along the gully and do not run into the gully; do not linger on the gully floor. Warning signs: the stream suddenly stops or drops, the water suddenly turns very muddy and thick with plants and foam, a roar like a train from upstream with the ground shaking, rockfall, collapses and cracks on the slopes on either side, animals unusually frightened; at any one of these, leave the gully at once. Do not climb trees, do not shelter in hollows, under steep slopes or earth banks or behind large boulders, do not stop on bridges, at the gully edge or on the outside of bends, and once on high ground do not go back down to look or to fetch belongings">
 <rect width="100%" height="100%" fill="#fff"/>
 <title>Debris flow escape: run at right angles to the gully, up the slopes on either side</title>
 <defs>
@@ -53,7 +53,7 @@
 <g paint-order="stroke" stroke="#fff" stroke-width="5" stroke-linejoin="round">
 <text x="164" y="50" font-size="15" fill="#c33">✓ Run up the slope</text>
 <text x="284" y="262" font-size="15" fill="#c33">✓ Run up the slope</text>
-<text x="290" y="228" font-size="14" fill="#c33">✗ Don't run downstream</text>
+<text x="292" y="228" font-size="14" fill="#c33">✗ Not downstream</text>
 <text x="200" y="22" font-size="13" fill="#0b5cad">Thin lines: contours, higher outwards</text>
 </g>
 <text x="14" y="300" font-size="14">Go at right angles to the gully: running downstream,</text>
@@ -81,7 +81,7 @@
 
 <!-- C warning signs -->
 <g transform="translate(10,382)">
-<rect x="0" y="0" width="350" height="268" rx="8" fill="#fff8e6" stroke="#d9a400" stroke-width="2"/>
+<rect x="0" y="0" width="350" height="282" rx="8" fill="#fff8e6" stroke="#d9a400" stroke-width="2"/>
 <text x="16" y="26" font-size="15" font-weight="bold">Warning signs: at any one,</text>
 <text x="16" y="45" font-size="15" font-weight="bold">leave the gully at once</text>
 <text x="16" y="72" font-size="14">● Stream suddenly stops or drops</text>
@@ -92,13 +92,13 @@
 <text x="16" y="176" font-size="14">● A roar like a train or thunder from</text>
 <text x="32" y="194" font-size="14">upstream; the ground shakes</text>
 <text x="16" y="220" font-size="14">● Rockfall, collapses, cracks on the slopes</text>
-<text x="16" y="242" font-size="14">● Animals unusually frightened</text>
-<text x="16" y="260" font-size="13" fill="#555">Go up the sides; don't wait to watch</text>
+<text x="16" y="246" font-size="14">● Animals unusually frightened</text>
+<text x="16" y="270" font-size="13" fill="#555">Go up the sides; don't wait to watch</text>
 </g>
 
 <!-- D don'ts -->
 <g transform="translate(370,382)">
-<rect x="0" y="0" width="340" height="268" rx="8" fill="#fdecec" stroke="#c33" stroke-width="2"/>
+<rect x="0" y="0" width="340" height="282" rx="8" fill="#fdecec" stroke="#c33" stroke-width="2"/>
 <text x="16" y="28" font-size="16" font-weight="bold" fill="#c33">Don't</text>
 <text x="16" y="56" font-size="14">✗ Run downstream or into the gully</text>
 <text x="16" y="82" font-size="14">✗ Climb trees (they may be swept away)</text>
@@ -111,6 +111,6 @@
 <text x="32" y="236" font-size="14">look or to fetch belongings</text>
 </g>
 
-<text x="360" y="674" font-size="14" text-anchor="middle">Debris flows often come in surges; a bigger one may follow the first. Return only when officials say so</text>
+<text x="360" y="688" font-size="14" text-anchor="middle">Debris flows often come in surges; a bigger one may follow the first. Return only when officials say so</text>
 </g>
 </svg>

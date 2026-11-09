@@ -753,3 +753,362 @@ For more principles on choosing a campsite and on dealing with flash floods see 
 
 Debris flows often come in surges; after the first wave a bigger one can follow. **Once you have reached high ground, do not come down to look, and do not go back for belongings**; after the rain stops, still wait a while, and return only after the local authorities say so.
 
+### Escape principles
+
+```
+✓ Run uphill
+✓ Run to the sides
+✓ The faster the better
+✓ The higher the better
+✓ The further the better
+```
+
+Direction comes first: **at right angles to the line of the gully, up the slopes on either side**. If you run down the gully, you cannot outrun a debris flow.
+
+![Escaping a debris flow: run up the slopes on either side, at right angles to the line of the gully, not down the gully; warning signs and things not to do](../../images/debris-flow-escape.svg)
+
+*Figure: Each person heads for high ground on whichever side of the gully they are on; do not run into the gully. If any warning sign appears, leave the gully at once*
+
+---
+
+## Landslides
+
+A landslide is when a mass of soil or rock on a hillside slides downhill as a whole under gravity, along some weak surface. Landslides are common **after continuous rain or heavy rain, and after earthquakes or digging away the foot of a slope**. Some landslides come down all at once; many more slowly deform for days or even years before they come down, and if you watch carefully you can often spot them in advance.
+
+### Warning signs
+
+- Cracks appear in the hillside
+- Springs and wells suddenly dry up or turn muddy
+- More water seeping out of the slope
+- Unusual sounds
+- Trees tilting
+- Animals behaving strangely
+- Ground sinking
+
+```
+Look more closely for:
+- Curved (crescent-shaped) cracks at the top of or on the slope, getting wider and longer
+- Ground at the foot of the slope bulging, heaving or being squeezed out, or muddy water
+  suddenly coming out at the foot of the slope
+- Trees on the slope leaning every which way ("drunken forest"); tree trunks bent at the
+  bottom and straight above ("sabre trees") show that the slope has been slowly sliding
+  for a long time
+- House walls cracking, doors and windows distorting and jamming, floors sinking, and
+  getting steadily worse
+- Utility poles and walls leaning; roads and irrigation channels shifted out of line
+- Sounds of soil and rock grinding and breaking on the slope; small bits of soil and rock
+  keep tumbling down
+
+⚠️ When the changes speed up (cracks wider every day, more and more soil and rock falling),
+   a landslide may happen soon; evacuate immediately
+```
+
+### Simple crack monitoring
+
+In many mountain villages, community-based monitoring of geological hazards relies on villagers watching and measuring for themselves. When you find cracks in a slope or a house:
+
+```
+1. Drive a wooden stake on each side of the crack (or make a mark on each side of a crack
+   in a wall), measure the distance between the stakes and write down the date
+2. Measure once a day (several times a day when it rains) and record it in a notebook
+3. You can also smear a strip of cement mortar across a wall crack or stick a strip of
+   paper across it; if it breaks, the crack is widening
+4. The crack is getting wider and longer, especially if it speeds up noticeably after rain
+   → report it at once to the village committee and the natural resources department,
+   and do not live in houses that could be affected
+```
+
+### What to do
+
+#### Prevention
+
+```
+Avoid:
+❌ Building houses on a landslide mass
+❌ Destroying the vegetation on hillsides
+❌ Digging soil from the foot of slopes
+❌ Hiking in heavy rain
+
+Recognising dangerous slopes:
+- Steep (>40°)
+- Loose soil
+- Obvious cracks
+- Vegetation destroyed
+```
+
+```
+Houses and use of sloping land:
+❌ Do not cut into the foot of a steep slope to build a house (cutting away the foot of a
+   slope is like pulling its "feet" out from under it)
+❌ Do not dig ponds on slopes to store water or flood-irrigate them, and do not let waste
+   water and rainwater soak freely into the slope
+❌ Do not pile soil or stones or put heavy buildings at the top of a slope
+✓ Keep houses some distance from the foot of a slope and from the edge at the top
+✓ Dig drainage ditches on the slope to lead rainwater away, so it does not soak into the
+  slope
+✓ Plant deep-rooted trees and grasses on the slope; do not cut and dig at random
+```
+
+Also note that **not every steep slope is dangerous, and not every gentle slope is safe**: gentle slopes with loose soil, seeping water or a weak layer underneath can slide too. For judging slopes and soil see [Geology, minerals and soil – Reading landforms and strata](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#六读懂地形和地层).
+
+#### When it happens
+
+```
+1. Get out to the sides!
+   ✓ At right angles to the direction of the landslide
+   ✓ Run to stable ground
+
+   ❌ Do not run down along the landslide
+   ❌ Do not run up the slope against it either (the ground above is also moving)
+
+2. If you cannot get away:
+   - Hold tightly on to a large tree (one with deep roots)
+   - But this is not the best option
+   - Or crouch behind a solid obstacle, holding your head to protect your head and neck
+
+3. At home:
+   - Leave at once if you hear unusual sounds
+   - Do not hesitate to gather belongings
+
+4. In a vehicle:
+   - If you see falling rocks or a collapse on the road ahead, stop at once or reverse
+     away; do not try to force your way through
+   - Do not park below a steep slope to wait
+```
+
+![Escaping a landslide: move sideways to stable ground at right angles to the slide; do not run down with it or up the slope; warning signs and places to avoid](../../images/landslide-escape.svg)
+
+*Figure: The ground above the landslide is moving too, so running up the slope is just as dangerous; evacuate immediately when the cracks are changing faster*
+
+#### After evacuating
+
+```
+✓ Do not go back straight away
+✓ Watch out for further landslides
+✓ Keep away from the danger zone
+✓ Report to the relevant authorities
+
+✓ A landslide is often followed by further sliding, and in the rainy season it may happen
+  again and again
+✓ Do not go onto the landslide mass or to the foot of the slope to watch or dig out
+  belongings
+✓ When rescuing people, first see whether the landslide mass is still moving; post someone
+  above to watch, who shouts for everyone to get out at the first sign of movement
+✓ If a landslide blocks a river, people downstream must guard against the landslide dam
+  lake bursting; move to high ground
+✓ Go home only after the local government and professionals have confirmed it is safe
+```
+
+---
+
+## Ground collapse
+
+Ground collapse is when the ground suddenly gives way and forms a hole. In China it is common in:
+
+- **Karst areas**: limestone underground is dissolved by water to form cavities, and the soil above caves in; more common in the south-west
+- **Mining areas**: the ground above mined-out spaces sinks and cracks
+- **Cities**: water pipes and sewers leak for a long time and wash out the soil under roads; underground construction; too much groundwater pumped out
+
+### Signs of collapse
+
+```
+- Ring-shaped or curved cracks in the ground; the ground sinking in one spot
+- Well or spring water suddenly turning muddy or its level suddenly changing; ponds or
+  paddy fields suddenly draining dry
+- Sounds coming from underground; gas, water or mud bubbling up
+- Cracks in houses and walls getting worse; doors and windows distorting
+- City roads: the surface bulging or sinking, with web-like or ring-shaped cracks; the
+  ground sinking around manhole covers; water pooling or welling up at the roadside for
+  no obvious reason
+```
+
+### If you meet a collapse
+
+```
+✓ If you see the signs: leave at once, go around sinking or cracked areas, and warn other
+  people and vehicles
+✓ Call 110 or report to the local government or natural resources department; city road
+  problems can also be reported to the municipal authorities
+✓ Put up a warning around it (rope, branches, conspicuous objects) to keep people away
+❌ Do not go to the edge of the hole to look: the edges of a collapse hole are often
+   undercut and will keep growing
+❌ Do not drive across sinking or cracked road
+❌ Do not fill the hole with soil or pour water into it
+
+If someone has fallen into a collapse hole:
+- Do not rush down to rescue them; call 119 first
+- Work from solid ground well away from the edge, using a rope or long pole from a
+  distance; the rescuer must also be tied on with a rope
+```
+
+When choosing a site for a home or well, avoid known cave areas and mined-out areas; see [Long-term housing – Choosing a site](../../../docs/07-日常生活技能/05-长期住所.md#选址).
+
+---
+
+## Volcanic eruptions
+
+China has active volcanoes such as Changbai Mountain's Tianchi, but none has erupted on a large scale in the last few hundred years. Most readers are more likely to meet a volcano when travelling abroad. **In volcanic areas, everything you do should follow the local government's warnings and evacuation orders.**
+
+### Hazards
+
+- Lava flows
+- Volcanic ash
+- Pyroclastic flows (extremely dangerous; can reach several hundred km/h)
+- Toxic gases
+- Mudflows
+- Earthquakes
+
+Neither people nor vehicles can outrun a **pyroclastic flow** (hot gas and debris rushing down along the ground); the only way out is to leave the danger zone before it comes. Lava flows usually move more slowly than a person can walk and in fact seldom injure people directly. Volcanic mudflows can rush several tens of km down river valleys and kill and injure people far downstream of the volcano.
+
+### Warning signs
+
+- Frequent earthquakes
+- Increased ground heat
+- Changes in water quality
+- Gas being released
+- Animals behaving strangely
+- Official warnings
+
+### What to do
+
+#### Before an eruption
+
+```
+If you are in a volcanic area:
+
+✓ Follow official warnings
+✓ Be ready to evacuate
+✓ Prepare an emergency kit
+✓ Plan your evacuation route
+✓ Prepare protective items:
+  - Goggles
+  - Face mask / damp cloth
+  - Long-sleeved clothing
+```
+
+#### During an eruption
+
+**Evacuation**:
+```
+1. Leave the volcanic area at once
+2. Keep away from river valleys (mudflow risk)
+3. Evacuate upwind
+4. If evacuating by car:
+   - Close the windows
+   - Set the air conditioning to recirculate
+   - Drive slowly
+```
+
+**Protection**:
+```
+✓ Wear goggles (against ash)
+✓ Cover your mouth and nose with a damp cloth
+✓ Wear long sleeves and long trousers
+✓ Go indoors:
+  - Close doors and windows
+  - Seal vents
+  - Stay inside
+
+If you have an N95 or similar particulate mask, use it first; it works better than a
+damp cloth.
+Carbon dioxide and other toxic gases may collect in low-lying places; do not go into valley
+bottoms or basements.
+```
+
+#### Protection from volcanic ash
+
+```
+Dangers of volcanic ash:
+- Respiratory system
+- Eye irritation
+- Damage to machinery
+- Buildings collapsing under its weight
+
+Protection:
+✓ Do not go out
+✓ Wear a mask / respirator
+✓ Goggles
+✓ Clear ash from roofs (to prevent collapse)
+✓ Do not drive (it damages engines)
+
+Notes:
+- Volcanic ash is ground-up rock and glass particles, not wood ash; it is very hard and
+  sharp
+- Volcanic ash soaked by rain is very heavy; a few cm can make a flat roof collapse, so
+  clear it promptly
+- When climbing onto a roof to clear ash, guard against slipping and falling; do not go up
+  alone
+- People with asthma or chronic lung disease, older people and children especially should
+  stay indoors
+- Contact-lens wearers should switch to glasses
+```
+
+#### After an eruption
+
+```
+✓ Wait for official notice
+✓ Do not go back straight away
+✓ Clear volcanic ash:
+  - Wear protective equipment
+  - Avoid raising dust
+  - Wash it down with water (first spray a little water to dampen it, then sweep; do not
+    wash the ash into the drains with lots of water, as it blocks the pipes)
+✓ Check drinking water (it may be contaminated)
+✓ Check the building structure
+```
+
+---
+
+## 📝 Key points
+
+### What geological disasters have in common
+
+- They strike suddenly
+- They are very destructive
+- They are hard to predict accurately
+- They may trigger secondary disasters
+
+### Core principles of response
+
+```
+1. Before
+   - Know the risks
+   - Prepare supplies
+   - Make a plan
+   - Practise regularly
+
+2. During
+   - Stay calm
+   - React quickly
+   - Take cover correctly
+   - Evacuate in time
+
+3. After
+   - Check for injuries
+   - Watch for aftershocks / secondary disasters
+   - Wait for rescue
+   - Recover in an orderly way
+```
+
+### Remember
+
+```
+✓ Life comes first
+✓ Know the right direction to escape
+✓ Do not cling to belongings
+✓ Follow professional direction
+✓ Help each other
+
+Earthquake: Drop, Cover, Hold on; do not jump, do not use the lift; after the quake move
+            to open ground and watch for aftershocks
+Trapped: save your strength, tap to call for help, protect your breathing space; people
+         pinned for a long time should wait for professionals to free them
+Debris flow: leave the gully, run uphill to either side at right angles to the gully
+Landslide: run to the sides of the direction of sliding, neither with it nor against it
+Ground collapse: keep away from the edge, put up warnings, report it
+```
+
+---
+
+**Next chapter**: [Weather disasters](02-weather-disasters.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)
