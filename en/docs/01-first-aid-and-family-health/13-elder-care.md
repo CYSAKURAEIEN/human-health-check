@@ -84,7 +84,7 @@ Sleeping pills, sedatives, anti-anxiety medicines, some blood pressure medicines
 3. While waiting: keep them warm with a blanket, put something soft under the head, do not give food or water
 ```
 
-Related chapter: [Stroke](../../../docs/01-日常疾病和伤害/06-心脑血管与突发病症.md#中风).
+Related chapter: [Stroke](06-heart-stroke-and-sudden-illness.md#stroke).
 
 ### No obvious injury: help them up slowly
 
@@ -107,7 +107,7 @@ Related chapter: [Stroke](../../../docs/01-日常疾病和伤害/06-心脑血管
 - Lying on the floor for a long time unable to get up (common in older people living alone) can lead to dehydration, hypothermia and pressure sores; get medical care as soon as possible
 - Older people living alone: agree with family to make contact at a fixed time every day; if possible, wear a one-button emergency alarm
 
-For splinting fractures, see [Bone and joint injuries](../../../docs/01-日常疾病和伤害/03-骨骼损伤.md).
+For splinting fractures, see [Bone and joint injuries](03-bone-and-joint-injuries.md).
 
 ---
 
@@ -168,7 +168,7 @@ Breathing: pat the back regularly (cup the palm, pat gently from bottom to top) 
 Mood:      keep them company and talk with them; let them take part in whatever they still can
 ```
 
-Related chapter: [Common illnesses - cough](../../../docs/01-日常疾病和伤害/01-常见疾病.md#咳嗽).
+Related chapter: [Common illnesses - cough](01-common-illnesses.md#cough).
 
 ---
 
@@ -225,7 +225,7 @@ Older people often take several medicines at once and easily miss doses, take to
 ✓ For older people with poor eyesight or memory, family members help manage the medicines
 ```
 
-For stockpiling medicines for chronic conditions, see [Chronic medication stockpile](../../../docs/01-日常疾病和伤害/08-慢性病用药储备.md).
+For stockpiling medicines for chronic conditions, see [Chronic medication stockpile](08-chronic-medication-stockpile.md).
 
 ---
 
@@ -248,7 +248,7 @@ Cold:
 → For hypothermia, see Hypothermia
 ```
 
-Related chapters: [Heatstroke](../../../docs/01-日常疾病和伤害/05-急性症状.md#中暑), [Carbon monoxide poisoning](../../../docs/01-日常疾病和伤害/07-居家与交通意外.md#一氧化碳中毒), [Hypothermia](../../../docs/01-日常疾病和伤害/05-急性症状.md#失温症).
+Related chapters: [Heatstroke](05-acute-symptoms.md#heatstroke), [Carbon monoxide poisoning](07-home-and-traffic-accidents.md#carbon-monoxide-poisoning), [Hypothermia](05-acute-symptoms.md#hypothermia).
 
 ---
 
@@ -264,7 +264,7 @@ Caring long-term for an older person who is confined to bed or has cognitive imp
 ✓ When you feel you cannot go on, get help (you can call the 12356 psychological support hotline)
 ```
 
-For more, see [Mental health - looking after yourself under long-term stress](../../../docs/01-日常疾病和伤害/10-心理健康.md#长期压力下照顾好自己).
+For more, see [Mental health - looking after yourself under long-term stress](10-mental-health.md#looking-after-yourself-under-long-term-stress).
 
 ---
 
@@ -284,4 +284,4 @@ For more, see [Mental health - looking after yourself under long-term stress](..
 ---
 
 **Next chapter**: [Child safety](14-child-safety.md)
-**Back to**: [Chapter list](../../../docs/01-日常疾病和伤害/README.md) | [Main contents](../../../README.md)
+**Back to**: [Chapter list](README.md) | [Main contents](../../README.md)

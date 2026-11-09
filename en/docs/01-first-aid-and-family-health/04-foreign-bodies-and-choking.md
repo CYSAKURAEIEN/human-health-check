@@ -206,7 +206,7 @@ Quicklime gives off a lot of heat when it meets water:
 ❌ Do not bandage or press on the eye after rinsing
 ```
 
-For whole-body treatment of pesticide or cleaning-product poisoning, see [Poisoning](../../../docs/01-日常疾病和伤害/12-中毒.md#中毒的通用处理原则).
+For whole-body treatment of pesticide or cleaning-product poisoning, see [Poisoning](12-poisoning.md#general-principles-for-handling-poisoning).
 
 ---
 
@@ -398,7 +398,7 @@ Sniffing hard can suck the object to the back of the nose, from where it can dro
 - Difficulty breathing
 - Heavy bleeding
 
-For how to stop a nosebleed by pressure, see [Basic first aid – Nosebleeds](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#鼻出血).
+For how to stop a nosebleed by pressure, see [Basic first aid – Nosebleeds](00-basic-first-aid.md#nosebleeds).
 
 ---
 
@@ -547,7 +547,7 @@ Details:
   carry on with compressions
 ```
 
-For the full CPR steps, see [Basic first aid – CPR](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#心肺复苏cpr).
+For the full CPR steps, see [Basic first aid – CPR](00-basic-first-aid.md#cardiopulmonary-resuscitation-cpr).
 
 **Pregnant or obese casualty**:
 
@@ -675,7 +675,7 @@ Calling for help:
 
 **Partial obstruction in a baby**: if the baby can cry out loud and cough, let them cough by themselves, keep their head slightly lower and watch. Don't slap the back, don't hold them upside down, don't put your fingers in. If the crying gets weaker, the cough becomes silent or the lips turn blue, act at once as described above.
 
-For how infant CPR differs from adult CPR, see [Differences in child and infant CPR](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#儿童和婴儿cpr区别).
+For how infant CPR differs from adult CPR, see [Differences in child and infant CPR](00-basic-first-aid.md#how-cpr-differs-for-children-and-infants).
 
 #### ❌ Do not (babies)
 
@@ -730,7 +730,7 @@ by a doctor, especially if:
     balls or jelly
 ```
 
-For a detailed list of choking-hazard foods for children, see [Child safety – Preventing choking](../../../docs/01-日常疾病和伤害/14-儿童安全.md#防窒息); for how to feed bedridden elderly people, see [Elder care – Safe feeding](../../../docs/01-日常疾病和伤害/13-老人照护.md#安全喂食防止呛咳).
+For a detailed list of choking-hazard foods for children, see [Child safety – Preventing choking](14-child-safety.md#preventing-choking-and-suffocation); for how to feed bedridden elderly people, see [Elder care – Safe feeding](13-elder-care.md#feeding-safely-and-preventing-choking).
 
 ---
 
@@ -953,7 +953,7 @@ Danger signs:
   copy what adults do)
 ```
 
-For more on preventing children swallowing things, see [Child safety – Especially dangerous small objects](../../../docs/01-日常疾病和伤害/14-儿童安全.md#特别危险的小东西).
+For more on preventing children swallowing things, see [Child safety – Especially dangerous small objects](14-child-safety.md#especially-dangerous-small-objects).
 
 ---
 
@@ -982,7 +982,7 @@ Redness, swelling, heat and pain getting worse after a few days, or
 pus → something is left in or it's infected; see a doctor
 ```
 
-For details, see [Wounds and injuries – Superficial puncture wounds](../../../docs/01-日常疾病和伤害/02-外伤处理.md#浅表刺伤).
+For details, see [Wounds and injuries – Superficial puncture wounds](02-wounds-and-injuries.md#shallow-puncture-wounds).
 
 ### Fish hook injuries
 
@@ -1046,11 +1046,11 @@ The only exceptions: remove it only if it is blocking the mouth or
 nose so the person cannot breathe, or if it prevents CPR.
 ```
 
-For details, see [Wounds and injuries – Deep puncture wounds](../../../docs/01-日常疾病和伤害/02-外伤处理.md#深刺伤); for treating shock, see [Basic first aid – Treating shock](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#休克处理).
+For details, see [Wounds and injuries – Deep puncture wounds](02-wounds-and-injuries.md#deep-puncture-wounds); for treating shock, see [Basic first aid – Treating shock](00-basic-first-aid.md#managing-shock).
 
 ### Tetanus
 
-Any object that goes into the skin (especially rusty ones, ones soiled with earth or dung, and deep wounds from fish hooks, wood splinters or nails) carries a risk of tetanus. Whether a tetanus injection is needed: see [Wounds and injuries – Tetanus prevention](../../../docs/01-日常疾病和伤害/02-外伤处理.md#破伤风预防).
+Any object that goes into the skin (especially rusty ones, ones soiled with earth or dung, and deep wounds from fish hooks, wood splinters or nails) carries a risk of tetanus. Whether a tetanus injection is needed: see [Wounds and injuries – Tetanus prevention](02-wounds-and-injuries.md#tetanus-prevention).
 
 ---
 
@@ -1121,4 +1121,4 @@ Any object that goes into the skin (especially rusty ones, ones soiled with eart
 ---
 
 **Next chapter**: [Acute symptoms](05-acute-symptoms.md)
-**Back**: [Chapter list](../../../docs/01-日常疾病和伤害/README.md) | [Main contents](../../../README.md)
+**Back**: [Chapter list](README.md) | [Main contents](../../README.md)

@@ -39,11 +39,11 @@ In any of these situations, call the emergency number at once or go to hospital:
 
 - ❌ Unconsciousness or confusion
 - ❌ Difficulty breathing, or breathing has stopped
-- ❌ Chest pain or an abnormal heartbeat (see [Heart attack and chest pain](../../../docs/01-日常疾病和伤害/06-心脑血管与突发病症.md#心梗与胸痛))
-- ❌ Sudden drooping of the mouth, weakness on one side of the body, slurred speech (stroke; see [Stroke](../../../docs/01-日常疾病和伤害/06-心脑血管与突发病症.md#中风))
+- ❌ Chest pain or an abnormal heartbeat (see [Heart attack and chest pain](06-heart-stroke-and-sudden-illness.md#heart-attack-and-chest-pain))
+- ❌ Sudden drooping of the mouth, weakness on one side of the body, slurred speech (stroke; see [Stroke](06-heart-stroke-and-sudden-illness.md#stroke))
 - ❌ Several people have a headache and feel dizzy at the same time — suspect carbon monoxide poisoning
 - ❌ A pregnant woman has vaginal bleeding, a severe headache with blurred vision, convulsions, fewer baby movements, or is about to give birth (see [Emergency childbirth](11-emergency-childbirth-and-newborn-care.md))
-- ❌ Someone says they want to kill themselves or is preparing to harm themselves (see [Mental health – suicide risk](../../../docs/01-日常疾病和伤害/10-心理健康.md#自杀风险-识别与应对))
+- ❌ Someone says they want to kill themselves or is preparing to harm themselves (see [Mental health – suicide risk](10-mental-health.md#suicide-risk-recognition-and-response))
 - ❌ Severe bleeding that cannot be stopped
 - ❌ A serious blow to the head
 - ❌ A fracture with obvious deformity
@@ -53,7 +53,7 @@ In any of these situations, call the emergency number at once or go to hospital:
 - ❌ Body temperature ≥ 40°C
 - ❌ Any fever in a baby under 3 months old
 - ❌ Fever with a stiff neck, convulsions, a change in consciousness or a rash that does not fade when pressed
-  (for fever grades and detailed criteria for seeing a doctor, see [Common illnesses – fever](../../../docs/01-日常疾病和伤害/01-常见疾病.md#发烧))
+  (for fever grades and detailed criteria for seeing a doctor, see [Common illnesses – fever](01-common-illnesses.md#fever))
 
 ### Basic principles of first aid
 
@@ -81,7 +81,7 @@ In any of these situations, call the emergency number at once or go to hospital:
 
 - Povidone-iodine or alcohol disinfectant
 - Antibacterial ointment
-- Petroleum jelly or aloe vera gel (for minor scalds; do not keep medicated burn ointments to use on your own, see [Wounds and injuries](../../../docs/01-日常疾病和伤害/02-外伤处理.md#烫伤与烧伤))
+- Petroleum jelly or aloe vera gel (for minor scalds; do not keep medicated burn ointments to use on your own, see [Wounds and injuries](02-wounds-and-injuries.md#scalds-and-burns))
 - Painkillers (paracetamol (acetaminophen), ibuprofen)
 - Allergy medicine (antihistamines)
 - Anti-diarrhoeal medicine

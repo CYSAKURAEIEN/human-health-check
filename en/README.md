@@ -8,7 +8,7 @@ This is a comprehensive emergency survival and health handbook. It aims to give 
 
 **⚠️ Important notice**: The information in this handbook is for reference and education only. In a real emergency, always seek help from medical professionals first. This handbook is not a substitute for professional medical advice, diagnosis or treatment.
 
-> **About this English edition**: This is a translation of a handbook written for mainland China ([Chinese original](../README.md)). Emergency numbers (120 ambulance, 110 police, 119 fire), laws and regulations, which medicines are available, and where plants and animals are found all reflect China — substitute your local equivalents. Parts not yet translated link to the Chinese original.
+> **About this English edition**: This is a translation of a handbook written for mainland China ([Chinese original](README.md)). Emergency numbers (120 ambulance, 110 police, 119 fire), laws and regulations, which medicines are available, and where plants and animals are found all reflect China — substitute your local equivalents. Parts not yet translated link to the Chinese original.
 
 ## 📚 Contents
 
@@ -248,43 +248,43 @@ Compound units use "/" to mean "per", e.g. m/s (metres per second), kg/ha (kilog
 
 | Situation | Chapter link |
 |------|----------|
-| **Heart and breathing have stopped** | [CPR](../docs/01-日常疾病和伤害/00-基础急救知识.md#心肺复苏cpr) |
-| **Stroke** (face drooping, arm weakness, slurred speech) | [Stroke](../docs/01-日常疾病和伤害/06-心脑血管与突发病症.md#中风) |
-| **Chest pain, suspected heart attack** | [Heart attack and chest pain](../docs/01-日常疾病和伤害/06-心脑血管与突发病症.md#心梗与胸痛) |
-| **Choking, blocked airway** | [Object in the throat / blocked airway](../docs/01-日常疾病和伤害/04-异物处理.md#喉咙异物气道梗阻) |
-| **Severe bleeding** | [Stopping bleeding](../docs/01-日常疾病和伤害/00-基础急救知识.md#止血方法) |
-| **Anaphylactic shock** | [Allergic reactions](../docs/01-日常疾病和伤害/05-急性症状.md#过敏反应) |
-| **Drowning** | [Drowning](../docs/01-日常疾病和伤害/05-急性症状.md#溺水) |
-| **Electric shock** | [Electric shock injuries](../docs/01-日常疾病和伤害/05-急性症状.md#电击伤) |
-| **Heat illness / heatstroke** | [Heatstroke](../docs/01-日常疾病和伤害/05-急性症状.md#中暑) |
-| **Hypothermia** | [Hypothermia](../docs/01-日常疾病和伤害/05-急性症状.md#失温症) |
-| **Poisoning, swallowing something harmful** (pesticides, medicines, cleaning products) | [Poisoning](../docs/01-日常疾病和伤害/12-中毒.md#中毒的通用处理原则) (do not make them vomit) |
-| **Drunk and cannot be woken** | [Alcohol poisoning](../docs/01-日常疾病和伤害/12-中毒.md#酒精中毒) |
-| **Carbon monoxide poisoning** | [Carbon monoxide poisoning](../docs/01-日常疾病和伤害/07-居家与交通意外.md#一氧化碳中毒) |
-| **Birth is imminent and there is no time to get to hospital** | [Emergency childbirth](../docs/01-日常疾病和伤害/11-紧急分娩与新生儿护理.md#来不及送医时的接生) |
-| **Newborn is not breathing** | [The newborn's golden minute](../docs/01-日常疾病和伤害/11-紧急分娩与新生儿护理.md#新生儿的黄金一分钟) |
-| **Someone wants to kill themselves** | [Suicide risk](../docs/01-日常疾病和伤害/10-心理健康.md#自杀风险-识别与应对) (mental health helpline 12356) |
+| **Heart and breathing have stopped** | [CPR](docs/01-first-aid-and-family-health/00-basic-first-aid.md#cardiopulmonary-resuscitation-cpr) |
+| **Stroke** (face drooping, arm weakness, slurred speech) | [Stroke](docs/01-first-aid-and-family-health/06-heart-stroke-and-sudden-illness.md#stroke) |
+| **Chest pain, suspected heart attack** | [Heart attack and chest pain](docs/01-first-aid-and-family-health/06-heart-stroke-and-sudden-illness.md#heart-attack-and-chest-pain) |
+| **Choking, blocked airway** | [Object in the throat / blocked airway](docs/01-first-aid-and-family-health/04-foreign-bodies-and-choking.md#foreign-bodies-in-the-throat--airway-obstruction) |
+| **Severe bleeding** | [Stopping bleeding](docs/01-first-aid-and-family-health/00-basic-first-aid.md#stopping-bleeding) |
+| **Anaphylactic shock** | [Allergic reactions](docs/01-first-aid-and-family-health/05-acute-symptoms.md#allergic-reactions) |
+| **Drowning** | [Drowning](docs/01-first-aid-and-family-health/05-acute-symptoms.md#drowning) |
+| **Electric shock** | [Electric shock injuries](docs/01-first-aid-and-family-health/05-acute-symptoms.md#electric-shock-injuries) |
+| **Heat illness / heatstroke** | [Heatstroke](docs/01-first-aid-and-family-health/05-acute-symptoms.md#heatstroke) |
+| **Hypothermia** | [Hypothermia](docs/01-first-aid-and-family-health/05-acute-symptoms.md#hypothermia) |
+| **Poisoning, swallowing something harmful** (pesticides, medicines, cleaning products) | [Poisoning](docs/01-first-aid-and-family-health/12-poisoning.md#general-principles-for-handling-poisoning) (do not make them vomit) |
+| **Drunk and cannot be woken** | [Alcohol poisoning](docs/01-first-aid-and-family-health/12-poisoning.md#alcohol-poisoning) |
+| **Carbon monoxide poisoning** | [Carbon monoxide poisoning](docs/01-first-aid-and-family-health/07-home-and-traffic-accidents.md#carbon-monoxide-poisoning) |
+| **Birth is imminent and there is no time to get to hospital** | [Emergency childbirth](docs/01-first-aid-and-family-health/11-emergency-childbirth-and-newborn-care.md#delivering-the-baby-when-there-is-no-time-to-reach-hospital) |
+| **Newborn is not breathing** | [The newborn's golden minute](docs/01-first-aid-and-family-health/11-emergency-childbirth-and-newborn-care.md#the-golden-minute-for-the-newborn) |
+| **Someone wants to kill themselves** | [Suicide risk](docs/01-first-aid-and-family-health/10-mental-health.md#suicide-risk-recognition-and-response) (mental health helpline 12356) |
 
 ### Quick lookup for common situations
 
 | Situation | Chapter link |
 |------|----------|
-| Cold and fever | [Common illnesses](../docs/01-日常疾病和伤害/01-常见疾病.md#感冒) |
-| Fracture | [Bone and joint injuries](../docs/01-日常疾病和伤害/03-骨骼损伤.md#骨折) |
-| Scalds and burns | [Wounds and injuries](../docs/01-日常疾病和伤害/02-外伤处理.md#烫伤与烧伤) |
-| Cuts, bites | [Wounds and injuries](../docs/01-日常疾病和伤害/02-外伤处理.md#割伤与擦伤) |
-| Knocked-out tooth | [Dental injuries](../docs/01-日常疾病和伤害/09-口腔问题.md#牙齿外伤) |
-| Toothache, swollen face | [Dental problems](../docs/01-日常疾病和伤害/09-口腔问题.md#牙脓肿与危险信号) |
-| Something in the eye, ear or nose | [Foreign bodies](../docs/01-日常疾病和伤害/04-异物处理.md) |
-| Low blood sugar | [Low blood sugar](../docs/01-日常疾病和伤害/06-心脑血管与突发病症.md#低血糖) |
-| Epileptic seizure, convulsions | [Epileptic seizures](../docs/01-日常疾病和伤害/06-心脑血管与突发病症.md#癫痫发作) |
-| Asthma attack | [Acute asthma attack](../docs/01-日常疾病和伤害/06-心脑血管与突发病症.md#哮喘急性发作) |
-| Road accident | [At the scene of a road accident](../docs/01-日常疾病和伤害/07-居家与交通意外.md#车祸现场处理) |
-| An older person has fallen | [What to do after an older person falls](../docs/01-日常疾病和伤害/13-老人照护.md#老人跌倒后怎么办) |
-| An older person or child is missing | [Preventing children getting lost](../docs/01-日常疾病和伤害/14-儿童安全.md#防走失) (call 110 at once; do not wait 24 hours) |
+| Cold and fever | [Common illnesses](docs/01-first-aid-and-family-health/01-common-illnesses.md#colds) |
+| Fracture | [Bone and joint injuries](docs/01-first-aid-and-family-health/03-bone-and-joint-injuries.md#fractures) |
+| Scalds and burns | [Wounds and injuries](docs/01-first-aid-and-family-health/02-wounds-and-injuries.md#scalds-and-burns) |
+| Cuts, bites | [Wounds and injuries](docs/01-first-aid-and-family-health/02-wounds-and-injuries.md#cuts-and-grazes) |
+| Knocked-out tooth | [Dental injuries](docs/01-first-aid-and-family-health/09-dental-problems.md#dental-injuries) |
+| Toothache, swollen face | [Dental problems](docs/01-first-aid-and-family-health/09-dental-problems.md#dental-abscess-and-danger-signs) |
+| Something in the eye, ear or nose | [Foreign bodies](docs/01-first-aid-and-family-health/04-foreign-bodies-and-choking.md) |
+| Low blood sugar | [Low blood sugar](docs/01-first-aid-and-family-health/06-heart-stroke-and-sudden-illness.md#hypoglycaemia-low-blood-sugar) |
+| Epileptic seizure, convulsions | [Epileptic seizures](docs/01-first-aid-and-family-health/06-heart-stroke-and-sudden-illness.md#epileptic-seizures) |
+| Asthma attack | [Acute asthma attack](docs/01-first-aid-and-family-health/06-heart-stroke-and-sudden-illness.md#acute-asthma-attack) |
+| Road accident | [At the scene of a road accident](docs/01-first-aid-and-family-health/07-home-and-traffic-accidents.md#at-the-scene-of-a-road-accident) |
+| An older person has fallen | [What to do after an older person falls](docs/01-first-aid-and-family-health/13-elder-care.md#what-to-do-after-an-older-person-falls) |
+| An older person or child is missing | [Preventing children getting lost](docs/01-first-aid-and-family-health/14-child-safety.md#preventing-children-getting-lost) (call 110 at once; do not wait 24 hours) |
 | Separated from family, cannot get in touch | [Emergency communication and finding family](../docs/02-灾难应对/06-应急通信与寻亲.md#家人失散后怎样寻找) |
-| Someone at home has an infectious disease | [Infectious disease at home](../docs/01-日常疾病和伤害/15-传染病家庭防控.md#家里有人得了传染病) |
-| How to make up disinfectant | [Making up "84" bleach solution](../docs/01-日常疾病和伤害/15-传染病家庭防控.md#家用消毒液的配制) |
+| Someone at home has an infectious disease | [Infectious disease at home](docs/01-first-aid-and-family-health/15-infectious-disease-at-home.md#when-someone-at-home-has-an-infectious-disease) |
+| How to make up disinfectant | [Making up "84" bleach solution](docs/01-first-aid-and-family-health/15-infectious-disease-at-home.md#making-household-disinfectant) |
 | Earthquake | [Geological disasters](../docs/02-灾难应对/01-地质灾害.md#地震) |
 | Fire | [Responding to fire](../docs/02-灾难应对/04-火灾.md#建筑火灾) |
 | Flood | [Weather disasters](../docs/02-灾难应对/02-气象灾害.md#洪水) |
@@ -314,6 +314,150 @@ Compound units use "/" to mean "per", e.g. m/s (metres per second), kg/ha (kilog
 ## 🖼️ Diagram index
 
 <!-- 示意图目录开始: 由 tools/build_figure_index.py 生成,不要手工编辑 -->
+
+170 diagrams in all (174 placements; a few appear in two related chapters), listed by part and chapter; click a name to jump to the section it is in. Chapters not yet translated are listed in Chinese.
+
+### I. First Aid and Family Health Handbook
+
+- **[Basic First Aid](docs/01-first-aid-and-family-health/00-basic-first-aid.md)**: [How to put someone in the recovery position](docs/01-first-aid-and-family-health/00-basic-first-aid.md#the-recovery-position-lying-on-the-side) · [成人胸外按压: 姿势与手的位置](docs/01-first-aid-and-family-health/00-basic-first-aid.md#2-chest-compressions) · [婴儿胸外按压: 两拇指环抱法与单手掌根法](docs/01-first-aid-and-family-health/00-basic-first-aid.md#how-cpr-differs-for-children-and-infants) · [Placing AED pads: adult front-side and child front-back positions](docs/01-first-aid-and-family-health/00-basic-first-aid.md#using-an-automated-external-defibrillator-aed) · [止血带(最后手段)](docs/01-first-aid-and-family-health/00-basic-first-aid.md#4-tourniquet-last-resort) · [Moving a casualty: seat carry, backpack carry and improvised stretchers](docs/01-first-aid-and-family-health/00-basic-first-aid.md#improvised-stretchers)
+- **[A Guide to Common Illnesses](docs/01-first-aid-and-family-health/01-common-illnesses.md)**: [Oral rehydration for diarrhoea and vomiting](docs/01-first-aid-and-family-health/01-common-illnesses.md#1-fluids-most-important)
+- **[Wound and Injury Care](docs/01-first-aid-and-family-health/02-wounds-and-injuries.md)**: [Key points for dressing wounds](docs/01-first-aid-and-family-health/02-wounds-and-injuries.md#4-dress-the-wound) · [Estimating burn area: rule of nines and palm method](docs/01-first-aid-and-family-health/02-wounds-and-injuries.md#using-the-rule-of-nines-for-large-burns) · [毒蛇咬伤急救](docs/01-first-aid-and-family-health/02-wounds-and-injuries.md#what-to-do-on-the-way-to-hospital)
+- **[Bone and Joint Injuries](docs/01-first-aid-and-family-health/03-bone-and-joint-injuries.md)**: [就地取材做夹板](docs/01-first-aid-and-family-health/03-bone-and-joint-injuries.md#improvised-splints) · [Triangular bandage arm sling](docs/01-first-aid-and-family-health/03-bone-and-joint-injuries.md#upper-arm-fracture)
+- **[Dealing with Foreign Bodies](docs/01-first-aid-and-family-health/04-foreign-bodies-and-choking.md)**: [Choking in adults and children: back blows and abdominal thrusts](docs/01-first-aid-and-family-health/04-foreign-bodies-and-choking.md#adults-and-children-over-1-year-the-heimlich-manoeuvre) · [婴儿气道梗阻:拍背与胸部冲击](docs/01-first-aid-and-family-health/04-foreign-bodies-and-choking.md#babies-under-1-year)
+- **[Dealing with Acute Symptoms](docs/01-first-aid-and-family-health/05-acute-symptoms.md)**: [水中救援: 先喊,再伸、抛、划,最后才游](docs/01-first-aid-and-family-health/05-acute-symptoms.md#1-rescue-from-the-water)
+- **[Heart, Stroke and Sudden Illness](docs/01-first-aid-and-family-health/06-heart-stroke-and-sudden-illness.md)**: [识别中风: "中风120"口诀](docs/01-first-aid-and-family-health/06-heart-stroke-and-sudden-illness.md#recognition-the-stroke-1-2-0-mnemonic)
+- **[Home and Traffic Accidents](docs/01-first-aid-and-family-health/07-home-and-traffic-accidents.md)**: [车祸现场: 先防止二次事故](docs/01-first-aid-and-family-health/07-home-and-traffic-accidents.md#step-1-prevent-a-second-collision)
+- **[Chronic Medication Stockpile](docs/01-first-aid-and-family-health/08-chronic-medication-stockpile.md)**: [慢性病用药: 储备、轮换与用药信息卡](docs/01-first-aid-and-family-health/08-chronic-medication-stockpile.md#store-in-several-places)
+- **[Dental Problems](docs/01-first-aid-and-family-health/09-dental-problems.md)**: [恒牙被撞掉: 捏牙冠、放回牙槽或泡牛奶](docs/01-first-aid-and-family-health/09-dental-problems.md#permanent-tooth-knocked-out-whole-tooth-lost)
+- **[Mental Health](docs/01-first-aid-and-family-health/10-mental-health.md)**: [Psychological first aid: look, listen, link](docs/01-first-aid-and-family-health/10-mental-health.md#-do-not)
+- **[Emergency Childbirth and Newborn Care](docs/01-first-aid-and-family-health/11-emergency-childbirth-and-newborn-care.md)**: [The newborn's golden minute](docs/01-first-aid-and-family-health/11-emergency-childbirth-and-newborn-care.md#if-the-baby-does-not-cry-or-breathe) · [脐带的处理: 不急着剪,必须剪时扎两道](docs/01-first-aid-and-family-health/11-emergency-childbirth-and-newborn-care.md#when-it-must-be-cut)
+- **[Poisoning](docs/01-first-aid-and-family-health/12-poisoning.md)**: [General first aid for poisoning](docs/01-first-aid-and-family-health/12-poisoning.md#-dont)
+- **[Elder care](docs/01-first-aid-and-family-health/13-elder-care.md)**: [预防老人跌倒: 家里的布置](docs/01-first-aid-and-family-health/13-elder-care.md#setting-up-the-home) · [老人跌倒后: 先检查,再帮助慢慢起来](docs/01-first-aid-and-family-health/13-elder-care.md#no-obvious-injury-help-them-up-slowly) · [Preventing pressure sores in people confined to bed](docs/01-first-aid-and-family-health/13-elder-care.md#preventing-pressure-sores-bedsores)
+- **[Child safety](docs/01-first-aid-and-family-health/14-child-safety.md)**: [婴儿安全睡眠](docs/01-first-aid-and-family-health/14-child-safety.md#safe-sleep-for-babies)
+- **[Infectious disease at home](docs/01-first-aid-and-family-health/15-infectious-disease-at-home.md)**: [Making up &#8220;84&#8221; bleach](docs/01-first-aid-and-family-health/15-infectious-disease-at-home.md#84-bleach-chlorine-based-disinfectant)
+- **[Skin conditions and parasites](docs/01-first-aid-and-family-health/16-skin-conditions-and-parasites.md)**: [疥疮的处理: 全身涂药、全家同治、处理衣物](docs/01-first-aid-and-family-health/16-skin-conditions-and-parasites.md#what-to-do)
+- **[Menstrual hygiene and contraception](docs/01-first-aid-and-family-health/17-menstrual-hygiene-and-contraception.md)**: [Making reusable cloth sanitary pads](docs/01-first-aid-and-family-health/17-menstrual-hygiene-and-contraception.md#washing-and-storage-the-most-important-part)
+
+### II. Disaster Response Handbook
+
+- **[地质灾害应对指南](../docs/02-灾难应对/01-地质灾害.md)**: [地震时室内避震: 伏地、遮挡、手抓牢](../docs/02-灾难应对/01-地质灾害.md#室内) · [泥石流逃生: 与沟谷垂直,往两侧山坡高处跑](../docs/02-灾难应对/01-地质灾害.md#逃生原则) · [山体滑坡逃生: 向两侧撤到稳定区](../docs/02-灾难应对/01-地质灾害.md#发生时-1)
+- **[气象灾害应对指南](../docs/02-灾难应对/02-气象灾害.md)**: [洪水撤离: 早走、往高处走、不进流动的水](../docs/02-灾难应对/02-气象灾害.md#洪水时) · [雷电无处躲避时的双脚并拢蹲姿](../docs/02-灾难应对/02-气象灾害.md#室外避雷)
+- **[海洋灾害应对指南](../docs/02-灾难应对/03-海洋灾害.md)**: [落入冷水: 熬过第1分钟的冷水休克,再保住体温](../docs/02-灾难应对/03-海洋灾害.md#等待救援时保持体温)
+- **[火灾应对指南](../docs/02-灾难应对/04-火灾.md)**: [火场逃生: 先摸门,再低姿撤离;出不去就关门固守](../docs/02-灾难应对/04-火灾.md#逃生原则) · [灭火器使用: 提、拔、握、压](../docs/02-灾难应对/04-火灾.md#灭火器使用)
+- **[人为灾难应对指南](../docs/02-灾难应对/05-人为灾难.md)**: [化学品泄漏: 往上风或侧风方向离开,来不及走就关门窗避难](../docs/02-灾难应对/05-人为灾难.md#立即行动)
+- **[应急通信与寻亲指南](../docs/02-灾难应对/06-应急通信与寻亲.md)**: [家庭应急通信计划](../docs/02-灾难应对/06-应急通信与寻亲.md#灾前-家庭通信计划)
+- **[灾后遗体处理](../docs/02-灾难应对/07-灾后遗体处理.md)**: [灾后遗体处理要点](../docs/02-灾难应对/07-灾后遗体处理.md#-灾后遗体处理要点)
+
+### III. Wilderness Survival Guide
+
+- **[基础生存技能](../docs/03-野外生存/00-基础生存技能.md)**: [手表法辨方向](../docs/03-野外生存/00-基础生存技能.md#太阳法) · [影子法辨方向](../docs/03-野外生存/00-基础生存技能.md#太阳法) · [用北极星找正北](../docs/03-野外生存/00-基础生存技能.md#星星法夜晚) · [太阳能蒸馏器(最后手段)](../docs/03-野外生存/00-基础生存技能.md#太阳能蒸馏器最后手段) · [简易沙炭过滤器剖面](../docs/03-野外生存/00-基础生存技能.md#过滤) · [生火材料与火堆结构](../docs/03-野外生存/00-基础生存技能.md#火堆结构) · [A字庇护所和单坡庇护所](../docs/03-野外生存/00-基础生存技能.md#单坡庇护所) · [雪洞和Quinzhee雪屋剖面](../docs/03-野外生存/00-基础生存技能.md#雪洞雪地) · [国际求救信号和地面对空信号](../docs/03-野外生存/00-基础生存技能.md#国际求救信号)
+- **[荒岛求生指南](../docs/03-野外生存/01-荒岛求生.md)**: [海岛取水](../docs/03-野外生存/01-荒岛求生.md#海岛取水)
+- **[森林求生指南](../docs/03-野外生存/02-森林求生.md)**: [在森林里迷路了: 停下,通常留在原地,让自己被找到](../docs/03-野外生存/02-森林求生.md#留在原地还是移动)
+- **[沙漠求生指南](../docs/03-野外生存/03-沙漠求生.md)**: [沙漠里怎样减少失水](../docs/03-野外生存/03-沙漠求生.md#不能喝的水) · [沙漠遮阳庇护所](../docs/03-野外生存/03-沙漠求生.md#防晒白天)
+- **[雪地/极地求生指南](../docs/03-野外生存/04-雪地极地求生.md)**: [雪洞和Quinzhee雪屋剖面](../docs/03-野外生存/04-雪地极地求生.md#雪洞)
+- **[山地求生指南](../docs/03-野外生存/05-山地求生.md)**: [雷电无处躲避时的双脚并拢蹲姿](../docs/03-野外生存/05-山地求生.md#雷电)
+- **[末日求生指南](../docs/03-野外生存/06-末日求生.md)**: [家庭储备: 每人多少、怎样轮换](../docs/03-野外生存/06-末日求生.md#基础储备3-6个月)
+- **[户外出行准备与求救](../docs/03-野外生存/07-户外出行准备与求救.md)**: [一日徒步的穿着和必带装备](../docs/03-野外生存/07-户外出行准备与求救.md#装备)
+- **[涉水、山洪与野外失温](../docs/03-野外生存/08-涉水山洪与野外失温.md)**: [涉水过河: 判断、选地方、怎样过、落入急流](../docs/03-野外生存/08-涉水山洪与野外失温.md#怎样过)
+- **[毒蘑菇与野菜误食](../docs/03-野外生存/09-毒蘑菇与野菜误食.md)**: [毒蘑菇: 没有简单的鉴别方法](../docs/03-野外生存/09-毒蘑菇与野菜误食.md#特别危险的几类)
+- **[马蜂、蜱虫与危险动物](../docs/03-野外生存/10-马蜂蜱虫与危险动物.md)**: [蜱虫: 预防、检查与取出](../docs/03-野外生存/10-马蜂蜱虫与危险动物.md#发现蜱虫叮在身上)
+- **[野外伤病处置与转运](../docs/03-野外生存/11-野外伤病处置与转运.md)**: [Moving a casualty: seat carry, backpack carry and improvised stretchers](../docs/03-野外生存/11-野外伤病处置与转运.md#搬运伤员)
+
+### IV. Growing Plants and Raising Animals
+
+- **[蔬菜种植指南](../docs/04-动植物培育/01-蔬菜种植.md)**: [热堆肥的堆法](../docs/04-动植物培育/01-蔬菜种植.md#堆肥怎么做) · [育苗与移栽](../docs/04-动植物培育/01-蔬菜种植.md#移栽定植)
+- **[粮食作物种植指南](../docs/04-动植物培育/02-粮食作物.md)**: [水稻育苗移栽与水层管理](../docs/04-动植物培育/02-粮食作物.md#育苗移栽法常用)
+- **[果树培育指南](../docs/04-动植物培育/03-果树培育.md)**: [果树整形修剪: 剪法与常见树形](../docs/04-动植物培育/03-果树培育.md#整形修剪)
+- **[药用植物识别与种植指南](../docs/04-动植物培育/04-药用植物.md)**: [家庭药园的布局](../docs/04-动植物培育/04-药用植物.md#家庭药园配置)
+- **[家禽养殖指南](../docs/04-动植物培育/05-家禽养殖.md)**: [鸡舍布局](../docs/04-动植物培育/05-家禽养殖.md#鸡舍建设) · [照蛋与孵化要点(鸡蛋)](../docs/04-动植物培育/05-家禽养殖.md#孵化)
+- **[家畜养殖指南](../docs/04-动植物培育/06-家畜养殖.md)**: [猪舍建设](../docs/04-动植物培育/06-家畜养殖.md#猪舍建设) · [猪、羊接产要点](../docs/04-动植物培育/06-家畜养殖.md#羊的接产与羔羊护理) · [兔笼和产仔箱](../docs/04-动植物培育/06-家畜养殖.md#兔舍建设)
+- **[水产养殖指南](../docs/04-动植物培育/07-水产养殖.md)**: [家庭鱼塘: 剖面与放鱼前的准备](../docs/04-动植物培育/07-水产养殖.md#池塘条件)
+- **[留种与育种](../docs/04-动植物培育/08-留种与育种.md)**: [嫁接: 劈接与T形芽接](../docs/04-动植物培育/08-留种与育种.md#嫁接)
+- **[薪柴与林地管理](../docs/04-动植物培育/09-薪柴与林地管理.md)**: [萌生林: 怎么砍、怎么分块轮流砍](../docs/04-动植物培育/09-薪柴与林地管理.md#怎么砍) · [伐树: 缺口、铰链木和退路](../docs/04-动植物培育/09-薪柴与林地管理.md#伐树)
+
+### V. Metallurgy
+
+- **[基础冶金知识](../docs/05-冶金技术/00-基础冶金知识.md)**: [冶炼用矿石的识别](../docs/05-冶金技术/00-基础冶金知识.md#方铅矿-pbs)
+- **[铁的冶炼](../docs/05-冶金技术/01-铁的冶炼.md)**: [简易竖炉剖面](../docs/05-冶金技术/01-铁的冶炼.md#21-简易竖炉推荐) · [熟铁、钢、生铁: 含碳量决定性质](../docs/05-冶金技术/01-铁的冶炼.md#51-什么是钢)
+- **[铜的冶炼](../docs/05-冶金技术/02-铜的冶炼.md)**: [坩埚熔铜与浇注](../docs/05-冶金技术/02-铜的冶炼.md#33-青铜熔炼)
+- **[简易工具锻造](../docs/05-冶金技术/03-简易工具锻造.md)**: [基本锻打操作](../docs/05-冶金技术/03-简易工具锻造.md#握锤和站位)
+- **[金属加工技术](../docs/05-冶金技术/04-金属加工技术.md)**: [钢的淬火与回火](../docs/05-冶金技术/04-金属加工技术.md#32-回火操作)
+- **[废旧金属回收与铝铸造](../docs/05-冶金技术/05-废旧金属回收与铝铸造.md)**: [识别废旧金属](../docs/05-冶金技术/05-废旧金属回收与铝铸造.md#23-镁和铝的区分)
+- **[焊接与连接](../docs/05-冶金技术/06-焊接与连接.md)**: [铆接与铁皮咬口](../docs/05-冶金技术/06-焊接与连接.md#24-铁皮的咬口) · [锻焊的步骤](../docs/05-冶金技术/06-焊接与连接.md#32-步骤)
+- **[铸造进阶](../docs/05-冶金技术/07-铸造进阶.md)**: [砂型铸造的基本流程](../docs/05-冶金技术/07-铸造进阶.md#12-铸造的基本流程)
+- **[鼓风设备与锻炉](../docs/05-冶金技术/08-鼓风设备与锻炉.md)**: [双作用活塞风箱](../docs/05-冶金技术/08-鼓风设备与锻炉.md#33-双作用活塞风箱最推荐) · [锻炉的结构](../docs/05-冶金技术/08-鼓风设备与锻炉.md#51-锻炉的结构)
+- **[钳工与机械加工](../docs/05-冶金技术/09-钳工与机械加工.md)**: [台钳与锉削](../docs/05-冶金技术/09-钳工与机械加工.md#42-方法) · [钻孔步骤](../docs/05-冶金技术/09-钳工与机械加工.md#51-步骤)
+- **[其他金属: 锡、铅、锌、金、银](../docs/05-冶金技术/10-其他金属.md)**: [淘金: 只用重力法,绝不用汞](../docs/05-冶金技术/10-其他金属.md#51-淘金)
+- **[板材与线材](../docs/05-冶金技术/11-板材与线材.md)**: [拉丝板与拉丝](../docs/05-冶金技术/11-板材与线材.md#43-拉丝步骤)
+
+### VI. Pharmaceuticals
+
+- **[基础制药知识](../docs/06-制药技术/00-基础制药知识.md)**: [剂量单位与量取液体药](../docs/06-制药技术/00-基础制药知识.md#24-剂量换算与称量误差)
+- **[消毒剂制备](../docs/06-制药技术/01-消毒剂制备.md)**: [简易蒸馏装置](../docs/06-制药技术/01-消毒剂制备.md#简易蒸馏装置)
+- **[抗生素制备](../docs/06-制药技术/02-抗生素制备.md)**: [抗生素使用原则与耐药](../docs/06-制药技术/02-抗生素制备.md#44-耐药-为什么每一片都要用对)
+- **[解热镇痛药](../docs/06-制药技术/03-解热镇痛药.md)**: [常用退烧止痛药: 谁能用、怎样用才安全](../docs/06-制药技术/03-解热镇痛药.md#54-常用非处方退烧止痛药怎么选)
+- **[中药制剂](../docs/06-制药技术/04-中药制剂.md)**: [家庭煎中药的方法](../docs/06-制药技术/04-中药制剂.md#52-煎煮步骤)
+
+### VII. Everyday Living Skills
+
+- **[食物加工与保存](../docs/07-日常生活技能/01-食物加工与保存.md)**: [地窖剖面](../docs/07-日常生活技能/01-食物加工与保存.md#地窖)
+- **[营养与营养缺乏病](../docs/07-日常生活技能/02-营养与营养缺乏病.md)**: [常见营养缺乏病: 早期表现与预防食物](../docs/07-日常生活技能/02-营养与营养缺乏病.md#常见营养缺乏病)
+- **[卫生设施: 厕所、粪便与垃圾](../docs/07-日常生活技能/03-卫生设施.md)**: [旱厕剖面与选址](../docs/07-日常生活技能/03-卫生设施.md#使用和维护) · [洗手: 什么时候洗、怎么洗](../docs/07-日常生活技能/03-卫生设施.md#必须洗手的时刻)
+- **[制皂](../docs/07-日常生活技能/04-制皂.md)**: [草木灰碱水制皂](../docs/07-日常生活技能/04-制皂.md#第四步-熟化与检验)
+- **[长期住所](../docs/07-日常生活技能/05-长期住所.md)**: [火炕与炉灶剖面](../docs/07-日常生活技能/05-长期住所.md#炉灶)
+- **[照明与能源](../docs/07-日常生活技能/06-照明与能源.md)**: [碟子油灯](../docs/07-日常生活技能/06-照明与能源.md#碟子油灯) · [自制蜡烛](../docs/07-日常生活技能/06-照明与能源.md#-安全) · [沼气池剖面与危险](../docs/07-日常生活技能/06-照明与能源.md#安全规则)
+- **[纺织、缝补与鞣皮](../docs/07-日常生活技能/07-纺织缝补与鞣皮.md)**: [纺锤纺线](../docs/07-日常生活技能/07-纺织缝补与鞣皮.md#纺锤纺线最简单的工具)
+- **[家庭用电安全](../docs/07-日常生活技能/08-家庭用电安全.md)**: [漏电保护器和空气开关](../docs/07-日常生活技能/08-家庭用电安全.md#漏电保护器和空气开关) · [灾后恢复用电](../docs/07-日常生活技能/08-家庭用电安全.md#灾后恢复用电)
+- **[木工与工具维护](../docs/07-日常生活技能/09-木工与工具维护.md)**: [木材自然干燥](../docs/07-日常生活技能/09-木工与工具维护.md#干燥) · [锯木头](../docs/07-日常生活技能/09-木工与工具维护.md#锯) · [直角榫](../docs/07-日常生活技能/09-木工与工具维护.md#简单的榫卯-直角榫) · [换工具柄](../docs/07-日常生活技能/09-木工与工具维护.md#换工具柄斧锤锄) · [磨刀](../docs/07-日常生活技能/09-木工与工具维护.md#磨刀)
+- **[水源工程与供水](../docs/07-日常生活技能/10-水源工程与供水.md)**: [手挖井剖面与安全](../docs/07-日常生活技能/10-水源工程与供水.md#井水消毒) · [屋顶雨水收集](../docs/07-日常生活技能/10-水源工程与供水.md#收集雨水) · [慢砂过滤池剖面](../docs/07-日常生活技能/10-水源工程与供水.md#慢砂过滤池)
+- **[陶瓷、玻璃与造纸](../docs/07-日常生活技能/11-陶瓷玻璃与造纸.md)**: [简易升焰窑](../docs/07-日常生活技能/11-陶瓷玻璃与造纸.md#简易升焰窑) · [造纸的步骤](../docs/07-日常生活技能/11-陶瓷玻璃与造纸.md#步骤)
+- **[教育与知识传承](../docs/07-日常生活技能/12-教育与知识传承.md)**: [抄写和保存资料](../docs/07-日常生活技能/12-教育与知识传承.md#抄写和保存资料)
+- **[记账、交易与社会分工](../docs/07-日常生活技能/13-记账交易与社会分工.md)**: [粮食够吃多久](../docs/07-日常生活技能/13-记账交易与社会分工.md#算一算够用多久)
+- **[粮油加工](../docs/07-日常生活技能/14-粮油加工.md)**: [扬场与风选: 风车、扬场和簸箕](../docs/07-日常生活技能/14-粮油加工.md#风车扇车)
+- **[制盐](../docs/07-日常生活技能/15-制盐.md)**: [晒盐的盐田](../docs/07-日常生活技能/15-制盐.md#晒盐-盐田)
+- **[石灰与建筑材料](../docs/07-日常生活技能/16-石灰与建筑材料.md)**: [石灰窑与生石灰熟化](../docs/07-日常生活技能/16-石灰与建筑材料.md#烧制过程)
+- **[绳索与结绳](../docs/07-日常生活技能/17-绳索与结绳.md)**: [平结](../docs/07-日常生活技能/17-绳索与结绳.md#平结-只用来捆扎) · [单套结(称人结)](../docs/07-日常生活技能/17-绳索与结绳.md#单套结称人结-打一个不会收紧的绳圈) · [八字结](../docs/07-日常生活技能/17-绳索与结绳.md#八字结-止索结和八字绳圈) · [双套结](../docs/07-日常生活技能/17-绳索与结绳.md#双套结-系在柱子上) · [卡车司机结](../docs/07-日常生活技能/17-绳索与结绳.md#卡车司机结货运结-把绳子勒紧)
+- **[车船与道路](../docs/07-日常生活技能/18-车船与道路.md)**: [为什么独轮车省力](../docs/07-日常生活技能/18-车船与道路.md#为什么独轮车省力) · [车轮与车轴](../docs/07-日常生活技能/18-车船与道路.md#轴和轴套) · [双轮板车的平衡](../docs/07-日常生活技能/18-车船与道路.md#双轮板车的平衡) · [桥: 梁桥、拱桥、索桥和检验](../docs/07-日常生活技能/18-车船与道路.md#-桥的检验和使用) · [筏: 用浮力算载重](../docs/07-日常生活技能/18-车船与道路.md#筏-用浮力算载重)
+
+### VIII. Basic Science
+
+- **[度量衡与科学方法](../docs/08-基础科学知识/00-度量衡与科学方法.md)**: [3-4-5绳画直角](../docs/08-基础科学知识/00-度量衡与科学方法.md#41-画直角-3-4-5-绳)
+- **[数学](../docs/08-基础科学知识/01-数学.md)**: [常用面积和体积公式](../docs/08-基础科学知识/01-数学.md#45-体积公式)
+- **[物理](../docs/08-基础科学知识/02-物理.md)**: [杠杆和滑轮](../docs/08-基础科学知识/02-物理.md#22-滑轮) · [轮轴和螺旋](../docs/08-基础科学知识/02-物理.md#24-轮轴和螺旋) · [水车: 上射式和下射式](../docs/08-基础科学知识/02-物理.md#33-水力-水车和水磨) · [直流电路: 欧姆定律、串联和并联](../docs/08-基础科学知识/02-物理.md#73-串联和并联)
+- **[化学](../docs/08-基础科学知识/03-化学.md)**: [pH 和自制酸碱指示剂](../docs/08-基础科学知识/03-化学.md#61-ph)
+- **[生物与医学基础](../docs/08-基础科学知识/04-生物与医学基础.md)**: [病菌怎样传播,怎样拦住它](../docs/08-基础科学知识/04-生物与医学基础.md#22-由此得出的做法)
+- **[元素周期表](../docs/08-基础科学知识/05-元素周期表.md)**: [元素周期表: 结构和重建中最常用的元素](../docs/08-基础科学知识/05-元素周期表.md#六重建中最常用的元素)
+- **[地质、矿物与土壤](../docs/08-基础科学知识/06-地质矿物与土壤.md)**: [土壤质地: 搓条法和沉淀法](../docs/08-基础科学知识/06-地质矿物与土壤.md#52-简单的土壤质地判断)
+- **[天气观测与预报](../docs/08-基础科学知识/07-天气观测与预报.md)**: [看云识天气](../docs/08-基础科学知识/07-天气观测与预报.md#21-主要的云)
+- **[测量与制图](../docs/08-基础科学知识/08-测量与制图.md)**: [三角测量](../docs/08-基础科学知识/08-测量与制图.md#32-步骤) · [简易水准仪](../docs/08-基础科学知识/08-测量与制图.md#42-简易水准仪)
+- **[计量基准的重建](../docs/08-基础科学知识/09-计量基准的重建.md)**: [用秒摆定米](../docs/08-基础科学知识/09-计量基准的重建.md#31-用秒摆推荐)
+
+### IX. Advanced Science and Engineering
+
+- **[技术重建路线图](../docs/09-进阶科学与工程/00-技术重建路线图.md)**: [技术重建路线图](../docs/09-进阶科学与工程/00-技术重建路线图.md#一技术树总览)
+- **[工程力学与材料](../docs/09-进阶科学与工程/01-工程力学与材料.md)**: [三角形和桁架](../docs/09-进阶科学与工程/01-工程力学与材料.md#六三角形和桁架)
+- **[电气工程与电子学](../docs/09-进阶科学与工程/02-电气工程与电子学.md)**: [直流电路: 欧姆定律、串联和并联](../docs/09-进阶科学与工程/02-电气工程与电子学.md#12-电源内阻) · [发电机原理](../docs/09-进阶科学与工程/02-电气工程与电子学.md#33-现实可行的小型发电)
+- **[热力学与动力机械](../docs/09-进阶科学与工程/03-热力学与动力机械.md)**: [锅炉与蒸汽机](../docs/09-进阶科学与工程/03-热力学与动力机械.md#42-主要部件) · [四冲程循环](../docs/09-进阶科学与工程/03-热力学与动力机械.md#51-四冲程循环)
+- **[高等数学](../docs/09-进阶科学与工程/04-高等数学.md)**: [导数是切线的斜率,积分是曲线下的面积](../docs/09-进阶科学与工程/04-高等数学.md#33-数值积分-没有公式时怎么算)
+- **[化学进阶](../docs/09-进阶科学与工程/05-化学进阶.md)**: [电化学: 电极电势、电池、电解和防腐](../docs/09-进阶科学与工程/05-化学进阶.md#54-腐蚀和防护)
+- **[现代物理](../docs/09-进阶科学与工程/06-现代物理.md)**: [辐射的种类和防护](../docs/09-进阶科学与工程/06-现代物理.md#64-辐射剂量)
+- **[生物医学进阶](../docs/09-进阶科学与工程/07-生物医学进阶.md)**: [药物在体内: 剂量、半衰期和给药间隔](../docs/09-进阶科学与工程/07-生物医学进阶.md#43-半衰期和给药间隔)
+- **[计算与信息](../docs/09-进阶科学与工程/08-计算与信息.md)**: [二进制和逻辑电路](../docs/09-进阶科学与工程/08-计算与信息.md#32-加法器)
+- **[天文导航进阶](../docs/09-进阶科学与工程/09-天文导航进阶.md)**: [测纬度: 北极星法和正午太阳法](../docs/09-进阶科学与工程/09-天文导航进阶.md#32-正午太阳法任何一天都能用)
+
+### X. Identifying and Collecting Chinese Medicinal Herbs
+
+- **[中药材识别与采集总论](../docs/10-中药材识别与采集/00-总论.md)**: [认植物的基本术语](../docs/10-中药材识别与采集/00-总论.md#31-基原鉴定-看整株植物) · [根、根茎、块茎、鳞茎怎样区分](../docs/10-中药材识别与采集/00-总论.md#32-性状鉴定-看摸闻尝) · [中药材的药用部位与最佳采收期](../docs/10-中药材识别与采集/00-总论.md#41-各部位的最佳采收期) · [药材的干燥](../docs/10-中药材识别与采集/00-总论.md#55-干燥) · [药材的储存](../docs/10-中药材识别与采集/00-总论.md#61-四种变质与防止办法)
+- **[根及根茎类(上)](../docs/10-中药材识别与采集/01-根及根茎类上.md)**: [人参与商陆对照](../docs/10-中药材识别与采集/01-根及根茎类上.md#11-人参)
+- **[根及根茎类(下)](../docs/10-中药材识别与采集/02-根及根茎类下.md)**: [玉竹与铃兰对照](../docs/10-中药材识别与采集/02-根及根茎类下.md#15-玉竹)
+- **[果实种子类](../docs/10-中药材识别与采集/03-果实种子类.md)**: [牛蒡子与苍耳子对照](../docs/10-中药材识别与采集/03-果实种子类.md#44-牛蒡子)
+- **[全草类](../docs/10-中药材识别与采集/04-全草类.md)**: [马齿苋与大戟科植物对照](../docs/10-中药材识别与采集/04-全草类.md#25-马齿苋)
+- **[花叶类](../docs/10-中药材识别与采集/05-花叶类.md)**: [侧柏、圆柏、叉子圆柏怎样区分](../docs/10-中药材识别与采集/05-花叶类.md#52-侧柏叶)
+- **[皮类与藤木类](../docs/10-中药材识别与采集/06-皮类与藤木类.md)**: [五加皮与香加皮对照](../docs/10-中药材识别与采集/06-皮类与藤木类.md#25-五加皮)
+- **[菌藻树脂及其他](../docs/10-中药材识别与采集/07-菌藻树脂及其他.md)**: [冬虫夏草真品与常见伪品](../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#14-冬虫夏草)
+- **[动物类与矿物类](../docs/10-中药材识别与采集/08-动物类与矿物类.md)**: [赭石与有毒红色矿物对照](../docs/10-中药材识别与采集/08-动物类与矿物类.md#46-赭石)
+- **[有毒中药与易混淆有毒植物](../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md)**: [钩吻与金银花对照](../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#42-钩吻-vs-金银花)
+
 <!-- 示意图目录结束 -->
 
 ---
@@ -321,9 +465,9 @@ Compound units use "/" to mean "per", e.g. m/s (metres per second), kg/ha (kilog
 ## 📖 Recommended reading order
 
 ### Beginners
-1. First read [Basic first aid](../docs/01-日常疾病和伤害/00-基础急救知识.md)
-2. Get to know [Common illnesses](../docs/01-日常疾病和伤害/01-常见疾病.md)
-3. Learn [Wounds and injuries](../docs/01-日常疾病和伤害/02-外伤处理.md)
+1. First read [Basic first aid](docs/01-first-aid-and-family-health/00-basic-first-aid.md)
+2. Get to know [Common illnesses](docs/01-first-aid-and-family-health/01-common-illnesses.md)
+3. Learn [Wounds and injuries](docs/01-first-aid-and-family-health/02-wounds-and-injuries.md)
 
 ### Further study
 1. Master the basic principles of [Disaster response](../docs/02-灾难应对/README.md)

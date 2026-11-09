@@ -38,7 +38,7 @@
    - Unresponsive and not breathing normally → start CPR at once
 ```
 
-For chemicals in the eye, see [Foreign bodies - chemicals in the eye](../../../docs/01-日常疾病和伤害/04-异物处理.md#化学品入眼紧急).
+For chemicals in the eye, see [Foreign bodies - chemicals in the eye](04-foreign-bodies-and-choking.md#chemicals-in-the-eye-emergency).
 
 ### ❌ Don't
 
@@ -147,7 +147,7 @@ The things children most often swallow by mistake are household tablets, cleanin
 - Pesticides, rat poison, cleaning products
 ```
 
-Related chapter: [Swallowed objects](../../../docs/01-日常疾病和伤害/04-异物处理.md#误吞异物).
+Related chapter: [Swallowed objects](04-foreign-bodies-and-choking.md#swallowed-objects).
 
 ### Adult drug overdose
 
@@ -160,9 +160,9 @@ Related chapter: [Swallowed objects](../../../docs/01-日常疾病和伤害/04-�
   → Taking several cold remedies at once can easily cause an overdose by accident; check the ingredients
 ```
 
-Related chapter: [Low blood sugar](../../../docs/01-日常疾病和伤害/06-心脑血管与突发病症.md#低血糖).
+Related chapter: [Low blood sugar](06-heart-stroke-and-sudden-illness.md#hypoglycaemia-low-blood-sugar).
 
-If the overdose may have been deliberate, deal with the physical problem and also pay attention to the person's mental state; see [Mental health - suicide risk](../../../docs/01-日常疾病和伤害/10-心理健康.md#自杀风险-识别与应对).
+If the overdose may have been deliberate, deal with the physical problem and also pay attention to the person's mental state; see [Mental health - suicide risk](10-mental-health.md#suicide-risk-recognition-and-response).
 
 ---
 
@@ -245,11 +245,11 @@ Rule: use only one cleaning product at a time; read the label before use; open t
 
 | Poisoning | See |
 |------|------|
-| Carbon monoxide poisoning | [Home and traffic accidents - carbon monoxide poisoning](../../../docs/01-日常疾病和伤害/07-居家与交通意外.md#一氧化碳中毒) |
-| Food poisoning | [Common illnesses - food poisoning](../../../docs/01-日常疾病和伤害/01-常见疾病.md#食物中毒) |
+| Carbon monoxide poisoning | [Home and traffic accidents - carbon monoxide poisoning](07-home-and-traffic-accidents.md#carbon-monoxide-poisoning) |
+| Food poisoning | [Common illnesses - food poisoning](01-common-illnesses.md#food-poisoning) |
 | Bongkrekic acid, botulism, aflatoxin, nitrite | [Food processing and preservation - high-risk foods and food poisoning](../../../docs/07-日常生活技能/01-食物加工与保存.md#高风险食品与食物中毒) |
 | Poisonous mushrooms, poisonous plants | Never eat anything you cannot identify; everyone who ate it must see a doctor, taking the leftover mushrooms or plants |
-| Venomous snake bites | [Wounds and injuries - snake bites](../../../docs/01-日常疾病和伤害/02-外伤处理.md#蛇咬伤) |
+| Venomous snake bites | [Wounds and injuries - snake bites](02-wounds-and-injuries.md#snakebites) |
 | Chemical spills | [Man-made disasters - chemical spills](../../../docs/02-灾难应对/05-人为灾难.md#化学品泄漏) |
 
 ---
@@ -293,4 +293,4 @@ Other:
 ---
 
 **Next chapter**: [Elder care](13-elder-care.md)
-**Back to**: [Chapter list](../../../docs/01-日常疾病和伤害/README.md) | [Main contents](../../../README.md)
+**Back to**: [Chapter list](README.md) | [Main contents](../../README.md)

@@ -60,7 +60,7 @@ The home:
 - Babies and young children, older people, pregnant women or people with chronic illness getting worse
 ```
 
-For fever grades and when to seek medical care, see [Common illnesses - fever](../../../docs/01-日常疾病和伤害/01-常见疾病.md#发烧).
+For fever grades and when to seek medical care, see [Common illnesses - fever](01-common-illnesses.md#fever).
 
 ⚠️ Once a notifiable infectious disease of Class A, Class B, etc. (such as cholera, tuberculosis or measles) is confirmed, follow the isolation and treatment requirements of the medical institution and the disease control authorities.
 
@@ -141,7 +141,7 @@ When someone has diarrhoea or is vomiting:
 ⚠️ Several people in the same household or group with diarrhoea at the same time → report to the local disease control centre or township health centre
 ```
 
-Related chapters: [Sanitation](../../../docs/07-日常生活技能/03-卫生设施.md), [Common illnesses - diarrhoea](../../../docs/01-日常疾病和伤害/01-常见疾病.md#腹泻).
+Related chapters: [Sanitation](../../../docs/07-日常生活技能/03-卫生设施.md), [Common illnesses - diarrhoea](01-common-illnesses.md#diarrhoea).
 
 ---
 
@@ -173,7 +173,7 @@ Related chapters: [Sanitation](../../../docs/07-日常生活技能/03-卫生设�
 ✓ Keep vaccination records safe (take them with you if you have to move after a disaster)
 ```
 
-Related chapters: [Wounds and injuries - bites](../../../docs/01-日常疾病和伤害/02-外伤处理.md#咬伤), [Wounds and injuries - tetanus prevention](../../../docs/01-日常疾病和伤害/02-外伤处理.md#破伤风预防).
+Related chapters: [Wounds and injuries - bites](02-wounds-and-injuries.md#bites), [Wounds and injuries - tetanus prevention](02-wounds-and-injuries.md#tetanus-prevention).
 
 ---
 
@@ -193,4 +193,4 @@ Related chapters: [Wounds and injuries - bites](../../../docs/01-日常疾病和
 ---
 
 **Next chapter**: [Skin conditions and parasites](16-skin-conditions-and-parasites.md)
-**Back to**: [Chapter list](../../../docs/01-日常疾病和伤害/README.md) | [Main contents](../../../README.md)
+**Back to**: [Chapter list](README.md) | [Main contents](../../README.md)

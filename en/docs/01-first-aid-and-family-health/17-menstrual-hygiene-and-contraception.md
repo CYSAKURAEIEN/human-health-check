@@ -115,13 +115,13 @@ Prevention: change at the time stated in the leaflet; do not leave a tampon in o
 
 Related chapter: [Nutrition and nutritional deficiency diseases](../../../docs/07-日常生活技能/02-营养与营养缺乏病.md).
 
-For period pain, apply warmth to the lower abdomen and rest; for painkiller use, see the medicines part of [Common illnesses - fever](../../../docs/01-日常疾病和伤害/01-常见疾病.md#发烧).
+For period pain, apply warmth to the lower abdomen and rest; for painkiller use, see the medicines part of [Common illnesses - fever](01-common-illnesses.md#fever).
 
 ---
 
 ## Contraception
 
-When doctors and medicines are scarce for a long time, one unplanned pregnancy or one birth without a doctor present can put the lives of mother and baby at risk (see [Emergency childbirth and newborn care](../../../docs/01-日常疾病和伤害/11-紧急分娩与新生儿护理.md)). Contraception is an important part of protecting women's health.
+When doctors and medicines are scarce for a long time, one unplanned pregnancy or one birth without a doctor present can put the lives of mother and baby at risk (see [Emergency childbirth and newborn care](11-emergency-childbirth-and-newborn-care.md)). Contraception is an important part of protecting women's health.
 
 ### Comparing common methods
 
@@ -221,4 +221,4 @@ Other:
 
 ---
 
-**Back to**: [Chapter list](../../../docs/01-日常疾病和伤害/README.md) | [Main contents](../../../README.md)
+**Back to**: [Chapter list](README.md) | [Main contents](../../README.md)

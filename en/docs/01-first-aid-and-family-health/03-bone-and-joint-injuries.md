@@ -90,7 +90,7 @@ Check first:
 Then deal with the fracture
 ```
 
-A fracture itself rarely kills quickly, but the way it happened (a fall, a traffic accident, crushing by a heavy object) often injures the head, chest and abdomen too. Do not let a deformed arm or leg take all your attention; first run through the [vital signs assessment](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#生命体征评估). Thigh and pelvic fractures and multiple fractures cause heavy internal bleeding; watch for [signs of shock](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#休克征象识别).
+A fracture itself rarely kills quickly, but the way it happened (a fall, a traffic accident, crushing by a heavy object) often injures the head, chest and abdomen too. Do not let a deformed arm or leg take all your attention; first run through the [vital signs assessment](00-basic-first-aid.md#assessing-vital-signs). Thigh and pelvic fractures and multiple fractures cause heavy internal bleeding; watch for [signs of shock](00-basic-first-aid.md#recognising-shock).
 
 #### 2. Do not move the casualty!
 
@@ -116,7 +116,7 @@ When they must be moved:
 4. Stop once you reach safety; do not keep shifting them around "to make them comfortable"
 ```
 
-For moving casualties see [Basic First Aid – Moving casualties](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#搬运伤员).
+For moving casualties see [Basic First Aid – Moving casualties](00-basic-first-aid.md#moving-a-casualty).
 
 #### 3. Stop bleeding (open fractures)
 
@@ -149,7 +149,7 @@ Open fracture, step by step:
    the longer the delay, the higher the risk of infection. It cannot be treated at home
 ```
 
-For tourniquets see [Basic First Aid – Tourniquet](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#4-止血带最后手段); for tetanus see [Wound and Injury Care – Tetanus prevention](02-wounds-and-injuries.md#tetanus-prevention).
+For tourniquets see [Basic First Aid – Tourniquet](00-basic-first-aid.md#4-tourniquet-last-resort); for tetanus see [Wound and Injury Care – Tetanus prevention](02-wounds-and-injuries.md#tetanus-prevention).
 
 #### 4. Immobilise
 
@@ -319,7 +319,7 @@ More:
    them up; pad between the legs and tie them together, keep warm, call 120
 ```
 
-For assessing an older person after a fall see [Elder Care – What to do after an older person falls](../../../docs/01-日常疾病和伤害/13-老人照护.md#老人跌倒后怎么办).
+For assessing an older person after a fall see [Elder Care – What to do after an older person falls](13-elder-care.md#what-to-do-after-an-older-person-falls).
 
 #### Lower leg fracture
 
@@ -451,7 +451,7 @@ What to do:
 - Often comes with a head injury; watch for changes in consciousness and see a doctor soon
 ```
 
-For mouth injuries see [Dental Problems](../../../docs/01-日常疾病和伤害/09-口腔问题.md).
+For mouth injuries see [Dental Problems](09-dental-problems.md).
 
 #### Spinal fracture (extremely dangerous!)
 
@@ -489,7 +489,7 @@ Key points:
 - When unsure, always treat as a spinal injury
 ```
 
-For moving with several people see [Basic First Aid – Multi-person carry](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#3-多人搬运脊柱损伤); for traffic accidents see [Home and Traffic Accidents – At the scene of a traffic accident](../../../docs/01-日常疾病和伤害/07-居家与交通意外.md#车祸现场处理).
+For moving with several people see [Basic First Aid – Multi-person carry](00-basic-first-aid.md#3-team-lifts-spinal-injury); for traffic accidents see [Home and Traffic Accidents – At the scene of a traffic accident](07-home-and-traffic-accidents.md#at-the-scene-of-a-road-accident).
 
 #### Neck (cervical spine) fracture
 
@@ -592,7 +592,7 @@ More:
 - Do not use alcohol for pain
 ```
 
-For dose guidance see [Common Illnesses – Medicines for fever](../../../docs/01-日常疾病和伤害/01-常见疾病.md#2-药物退烧).
+For dose guidance see [Common Illnesses – Medicines for fever](01-common-illnesses.md#2-fever-medicines).
 
 ### Life- and limb-threatening danger signs
 
@@ -682,7 +682,7 @@ Pregnant women:
 - Ask a doctor before taking painkillers; do not use ibuprofen in late pregnancy
 ```
 
-For preventing falls in children see [Child Safety – Preventing falls](../../../docs/01-日常疾病和伤害/14-儿童安全.md#防坠落); for preventing falls in older people and caring for the bedridden see [Elder Care](../../../docs/01-日常疾病和伤害/13-老人照护.md).
+For preventing falls in children see [Child Safety – Preventing falls](14-child-safety.md#preventing-falls); for preventing falls in older people and caring for the bedridden see [Elder Care](13-elder-care.md).
 
 ### Fracture healing and rehabilitation
 
@@ -1222,5 +1222,5 @@ Also: anything matching the "treat as a possible fracture" list above; persisten
 
 ---
 
-**Next chapter**: [Foreign Bodies and Choking](../../../docs/01-日常疾病和伤害/04-异物处理.md)
-**Back**: [Chapter index](../../../docs/01-日常疾病和伤害/README.md) | [Main contents](../../../README.md)
+**Next chapter**: [Foreign Bodies and Choking](04-foreign-bodies-and-choking.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

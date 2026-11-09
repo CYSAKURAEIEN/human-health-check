@@ -237,7 +237,7 @@ Typical signs of a generalised seizure:
 - Mostly seen in children aged 6 months to 5 years, during a fever
 - Handle as above; also loosen clothing to cool the child
 - Most are brief and the outlook is good, but **a first febrile seizure must be seen by a doctor** to rule out serious illness such as meningitis
-- For care of fever, see [Common illnesses - Fever](../../../docs/01-日常疾病和伤害/01-常见疾病.md#发烧)
+- For care of fever, see [Common illnesses - Fever](01-common-illnesses.md#fever)
 
 ---
 
@@ -272,7 +272,7 @@ Typical signs of a generalised seizure:
 
 ⚠️ If there is no inhaler, there is no effective home substitute: keep the person sitting upright and calm, and call 120 immediately.
 
-If the attack is caused by an allergy (sudden wheezing and breathlessness after contact with an allergen, with a rash or facial swelling), treat it as [anaphylaxis](../../../docs/01-日常疾病和伤害/05-急性症状.md#过敏反应).
+If the attack is caused by an allergy (sudden wheezing and breathlessness after contact with an allergen, with a rash or facial swelling), treat it as [anaphylaxis](05-acute-symptoms.md#allergic-reactions).
 
 ---
 

@@ -50,7 +50,7 @@ Three bottom lines for dental problems:
 ✓ Keep the head raised when sleeping
 ```
 
-For the usual doses of painkillers and precautions, see the "Medicines to bring down a fever" section in [Common illnesses - Fever](../../../docs/01-日常疾病和伤害/01-常见疾病.md#发烧).
+For the usual doses of painkillers and precautions, see the "Medicines to bring down a fever" section in [Common illnesses - Fever](01-common-illnesses.md#fever).
 
 ### ❌ Do not
 
@@ -161,7 +161,7 @@ Loose or displaced tooth:
 
 ### Also watch for
 
-- Mouth injuries may come with a broken jaw or head injury; see [Bone and joint injuries](../../../docs/01-日常疾病和伤害/03-骨骼损伤.md)
+- Mouth injuries may come with a broken jaw or head injury; see [Bone and joint injuries](03-bone-and-joint-injuries.md)
 - For mouth wounds contaminated with soil, think about tetanus prevention; see [Wounds and injuries - Tetanus prevention](02-wounds-and-injuries.md#tetanus-prevention)
 
 ---

@@ -222,4 +222,4 @@ For general control of infectious diseases, see [Infectious disease at home](15-
 ---
 
 **Next chapter**: [Menstrual hygiene and contraception](17-menstrual-hygiene-and-contraception.md)
-**Back to**: [Chapter list](../../../docs/01-日常疾病和伤害/README.md) | [Main contents](../../../README.md)
+**Back to**: [Chapter list](README.md) | [Main contents](../../README.md)

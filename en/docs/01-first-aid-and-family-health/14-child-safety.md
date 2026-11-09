@@ -63,7 +63,7 @@ Teach children the "six don'ts":
   do not form a human chain into the water; children must not go into the water themselves
 ```
 
-For the order and key points of rescue from the bank (shout, reach, throw, row), see [Drowning - rescue from the water](../../../docs/01-日常疾病和伤害/05-急性症状.md#1-水中救援).
+For the order and key points of rescue from the bank (shout, reach, throw, row), see [Drowning - rescue from the water](05-acute-symptoms.md#1-rescue-from-the-water).
 
 ### Real drowning does not look like drowning
 
@@ -76,7 +76,7 @@ A drowning person usually:
 So "going to help when you hear a cry for help" is too late; you must keep your eyes on children near water at all times.
 ```
 
-For first aid for drowning, see [Acute symptoms - drowning](../../../docs/01-日常疾病和伤害/05-急性症状.md#溺水).
+For first aid for drowning, see [Acute symptoms - drowning](05-acute-symptoms.md#drowning).
 
 ---
 
@@ -123,7 +123,7 @@ Lock away or keep up high, out of children's reach:
 - Coins, small parts, pieces of balloon
 ```
 
-For swallowed button batteries and magnets, see [Swallowed objects](../../../docs/01-日常疾病和伤害/04-异物处理.md#误吞异物); for swallowed medicines and chemicals, see [Poisoning](12-poisoning.md).
+For swallowed button batteries and magnets, see [Swallowed objects](04-foreign-bodies-and-choking.md#swallowed-objects); for swallowed medicines and chemicals, see [Poisoning](12-poisoning.md).
 
 ---
 
@@ -145,7 +145,7 @@ Children under 3 (and, for some foods, up to 4-5) cannot yet swallow well, and t
 ✓ An adult watches nearby
 ```
 
-For the Heimlich manoeuvre, see [Foreign bodies - object in the throat / airway obstruction](../../../docs/01-日常疾病和伤害/04-异物处理.md#喉咙异物气道梗阻). Every parent must learn it.
+For the Heimlich manoeuvre, see [Foreign bodies - object in the throat / airway obstruction](04-foreign-bodies-and-choking.md#foreign-bodies-in-the-throat--airway-obstruction). Every parent must learn it.
 
 ### Safe sleep for babies
 
@@ -194,7 +194,7 @@ Other:
 ✓ Fit socket covers
 ```
 
-For treating burns and scalds, see [Wounds and injuries - scalds and burns](../../../docs/01-日常疾病和伤害/02-外伤处理.md#烫伤与烧伤).
+For treating burns and scalds, see [Wounds and injuries - scalds and burns](02-wounds-and-injuries.md#scalds-and-burns).
 
 ---
 
@@ -251,7 +251,7 @@ Cycling and play:
 ✓ Do not play by the roadside or in car parks
 ```
 
-Related chapters: [Electric shock injuries](../../../docs/01-日常疾病和伤害/05-急性症状.md#电击伤), [Wounds and injuries - bites](../../../docs/01-日常疾病和伤害/02-外伤处理.md#咬伤).
+Related chapters: [Electric shock injuries](05-acute-symptoms.md#electric-shock-injuries), [Wounds and injuries - bites](02-wounds-and-injuries.md#bites).
 
 ---
 
@@ -272,4 +272,4 @@ Related chapters: [Electric shock injuries](../../../docs/01-日常疾病和伤�
 ---
 
 **Next chapter**: [Infectious disease at home](15-infectious-disease-at-home.md)
-**Back to**: [Chapter list](../../../docs/01-日常疾病和伤害/README.md) | [Main contents](../../../README.md)
+**Back to**: [Chapter list](README.md) | [Main contents](../../README.md)

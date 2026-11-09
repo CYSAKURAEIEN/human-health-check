@@ -57,14 +57,13 @@
 <rect x="481" y="181" width="15" height="15" rx="5" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
 <ellipse cx="484" cy="194" rx="9" ry="6" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
 <path d="M530 218 Q506 214 497 182.6" fill="none" stroke="#c33" stroke-width="3.5" stroke-linecap="round"/><path d="M494 172 L491.2 184.2 L502.8 180.9Z" fill="#c33"/>
-<text x="506" y="236" font-size="14" fill="#c33">Quick thrust</text>
-<text x="506" y="252" font-size="14" fill="#c33">inwards and</text>
-<text x="506" y="268" font-size="14" fill="#c33">upwards</text>
-<text x="500" y="292" font-size="14" fill="#222">Thumb side of</text>
-<text x="500" y="308" font-size="14" fill="#222">fist against the</text>
-<text x="500" y="324" font-size="14" fill="#222">belly, other hand</text>
-<text x="500" y="340" font-size="14" fill="#222">grips the fist</text>
-<line x1="506" y1="280" x2="492" y2="199" stroke="#0b5cad" stroke-width="1.3"/><circle cx="492" cy="199" r="2.6" fill="#0b5cad"/>
+<text x="506" y="234" font-size="14" fill="#c33">Quick thrust</text>
+<text x="506" y="250" font-size="14" fill="#c33">inwards and</text>
+<text x="506" y="266" font-size="14" fill="#c33">upwards</text>
+<text x="504" y="288" font-size="14" fill="#222">Thumb side of fist</text>
+<text x="504" y="304" font-size="14" fill="#222">on belly; other</text>
+<text x="504" y="320" font-size="14" fill="#222">hand grips it</text>
+<line x1="498" y1="282" x2="492" y2="199" stroke="#0b5cad" stroke-width="1.3"/><circle cx="492" cy="199" r="2.6" fill="#0b5cad"/>
 <text x="380" y="66" font-size="15" fill="#0b5cad">Stand behind,</text>
 <text x="380" y="85" font-size="15" fill="#0b5cad">arms round the waist</text>
 <text x="502" y="112" font-size="15" fill="#0b5cad">Casualty</text>

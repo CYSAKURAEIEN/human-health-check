@@ -224,7 +224,7 @@ Which strength to use and how many to carry are prescribed by a doctor based on 
    hospital because they've "already taken medicine"
 ```
 
-For CPR, see [Basic first aid – CPR](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#心肺复苏cpr); for asthma attacks, see [Acute asthma attack](../../../docs/01-日常疾病和伤害/06-心脑血管与突发病症.md#哮喘急性发作).
+For CPR, see [Basic first aid – CPR](00-basic-first-aid.md#cardiopulmonary-resuscitation-cpr); for asthma attacks, see [Acute asthma attack](06-heart-stroke-and-sudden-illness.md#acute-asthma-attack).
 
 ### Common allergens
 
@@ -249,7 +249,7 @@ Some easily overlooked points:
   or the next attack may be worse
 ```
 
-For local treatment of insect bites and stings, see [Wounds and injuries – Insect bites and stings](../../../docs/01-日常疾病和伤害/02-外伤处理.md#昆虫叮咬).
+For local treatment of insect bites and stings, see [Wounds and injuries – Insect bites and stings](02-wounds-and-injuries.md#insect-bites-and-stings).
 
 ### Prevention
 
@@ -332,7 +332,7 @@ More detail:
   if they get heat cramps
 ```
 
-For making ORS, see [Common illnesses – Rehydration](../../../docs/01-日常疾病和伤害/01-常见疾病.md#1-补液最重要).
+For making ORS, see [Common illnesses – Rehydration](01-common-illnesses.md#1-fluids-most-important).
 
 #### 2. Heat exhaustion
 **Symptoms**:
@@ -491,7 +491,7 @@ The rule is **cool first, and keep cooling while waiting for the ambulance**. Do
    person has woken up
 ```
 
-**During a seizure**: move hard objects out of the way, don't hold the limbs down, don't put anything in the mouth; once the seizure stops, put them in the recovery position. See [Epileptic seizures](../../../docs/01-日常疾病和伤害/06-心脑血管与突发病症.md#癫痫发作).
+**During a seizure**: move hard objects out of the way, don't hold the limbs down, don't put anything in the mouth; once the seizure stops, put them in the recovery position. See [Epileptic seizures](06-heart-stroke-and-sudden-illness.md#epileptic-seizures).
 
 **All heatstroke needs admission to hospital**: even if the person is alert after cooling, kidney damage, muscle breakdown (urine the colour of strong tea or cola) or clotting problems may already have happened and need hospital tests and treatment.
 
@@ -526,7 +526,7 @@ Why they are at higher risk:
 - Outdoor workers, people in military training, athletes
 ```
 
-For looking after elderly people in hot weather, see [Elder care – Extreme weather](../../../docs/01-日常疾病和伤害/13-老人照护.md#极端天气).
+For looking after elderly people in hot weather, see [Elder care – Extreme weather](13-elder-care.md#extreme-weather).
 
 ### Prevention
 
@@ -750,7 +750,7 @@ on the trunk is allowed — and needed.
 
 **CPR and AED**: in severe hypothermia the heartbeat may be too slow to feel, so check for up to 1 minute. Once you are sure there is no breathing, start CPR, and if there is an AED, follow its voice prompts. Cold gives the brain some protection: people whose heart stopped because of hypothermia can still make a full recovery after rewarming, even after long CPR. As the medical saying goes: **"No one is dead until they are warm and dead."**
 
-For CPR, see [Basic first aid – CPR](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#心肺复苏cpr).
+For CPR, see [Basic first aid – CPR](00-basic-first-aid.md#cardiopulmonary-resuscitation-cpr).
 
 ### Special precautions
 
@@ -778,7 +778,7 @@ Therefore:
   out of the water
 ```
 
-**If there is also frostbite**: treat the hypothermia first (to save life), then the frostbite. Rewarm frostbitten hands and feet in warm water (37-39°C) only once the person's overall condition is stable and you are sure the part won't freeze again; see [Wounds and injuries – Frostbite](../../../docs/01-日常疾病和伤害/02-外伤处理.md#冻伤).
+**If there is also frostbite**: treat the hypothermia first (to save life), then the frostbite. Rewarm frostbitten hands and feet in warm water (37-39°C) only once the person's overall condition is stable and you are sure the part won't freeze again; see [Wounds and injuries – Frostbite](02-wounds-and-injuries.md#frostbite).
 
 ### Prevention
 
@@ -942,7 +942,7 @@ More detail:
   colour of tea, means serious deep damage that needs emergency care
 ```
 
-For treating burns, see [Wounds and injuries – Scalds and burns](../../../docs/01-日常疾病和伤害/02-外伤处理.md#烫伤与烧伤).
+For treating burns, see [Wounds and injuries – Scalds and burns](02-wounds-and-injuries.md#scalds-and-burns).
 
 #### 4. Get medical help
 
@@ -1185,7 +1185,7 @@ Other:
   while you work
 ```
 
-For the full CPR method, see [Basic first aid – CPR](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#心肺复苏cpr).
+For the full CPR method, see [Basic first aid – CPR](00-basic-first-aid.md#cardiopulmonary-resuscitation-cpr).
 
 #### Drowning in babies and children
 
@@ -1204,7 +1204,7 @@ For the full CPR method, see [Basic first aid – CPR](../../../docs/01-日常�
   pulled out, take them to hospital to be checked
 ```
 
-For compression depth and ratios at different ages, see [Differences in child and infant CPR](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#儿童和婴儿cpr区别).
+For compression depth and ratios at different ages, see [Differences in child and infant CPR](00-basic-first-aid.md#how-cpr-differs-for-children-and-infants).
 
 ### ❌ Common mistakes
 
@@ -1314,7 +1314,7 @@ More detail:
   big meal, when hungry, or after hard exercise
 ```
 
-For details on preventing child drowning, see [Child safety – Preventing drowning](../../../docs/01-日常疾病和伤害/14-儿童安全.md#防溺水).
+For details on preventing child drowning, see [Child safety – Preventing drowning](14-child-safety.md#preventing-drowning).
 
 ---
 
@@ -1363,9 +1363,9 @@ Remember the life-threatening signs:
 - Prepare emergency equipment
 - Learn first-aid skills
 
-For cardiovascular and cerebrovascular emergencies (stroke, heart attack, low blood sugar, epilepsy, asthma), see [Heart, stroke and sudden illness](../../../docs/01-日常疾病和伤害/06-心脑血管与突发病症.md); for all kinds of poisoning, see [Poisoning](../../../docs/01-日常疾病和伤害/12-中毒.md); for carbon monoxide poisoning, see [Home and traffic accidents – Carbon monoxide poisoning](../../../docs/01-日常疾病和伤害/07-居家与交通意外.md#一氧化碳中毒).
+For cardiovascular and cerebrovascular emergencies (stroke, heart attack, low blood sugar, epilepsy, asthma), see [Heart, stroke and sudden illness](06-heart-stroke-and-sudden-illness.md); for all kinds of poisoning, see [Poisoning](12-poisoning.md); for carbon monoxide poisoning, see [Home and traffic accidents – Carbon monoxide poisoning](07-home-and-traffic-accidents.md#carbon-monoxide-poisoning).
 
 ---
 
-**Next chapter**: [Heart, stroke and sudden illness](../../../docs/01-日常疾病和伤害/06-心脑血管与突发病症.md)
-**Back**: [Chapter list](../../../docs/01-日常疾病和伤害/README.md) | [Main contents](../../../README.md)
+**Next chapter**: [Heart, stroke and sudden illness](06-heart-stroke-and-sudden-illness.md)
+**Back**: [Chapter list](README.md) | [Main contents](../../README.md)

@@ -21,7 +21,7 @@
   (so you do not pass germs to them, and their blood does not reach you)
 ```
 
-For stopping severe bleeding (direct pressure, tourniquet) see [Basic First Aid – Stopping bleeding](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#止血方法). If the casualty turns pale, breaks into a cold sweat and has a fast, weak pulse, follow [Treating shock](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#休克处理).
+For stopping severe bleeding (direct pressure, tourniquet) see [Basic First Aid – Stopping bleeding](00-basic-first-aid.md#stopping-bleeding). If the casualty turns pale, breaks into a cold sweat and has a fast, weak pulse, follow [Treating shock](00-basic-first-aid.md#managing-shock).
 
 ---
 
@@ -119,7 +119,7 @@ How to stop bleeding:
    press for twice as long. If it still does not stop, see a doctor
 ```
 
-For how to use a tourniquet see [Basic First Aid – Tourniquet](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#4-止血带最后手段).
+For how to use a tourniquet see [Basic First Aid – Tourniquet](00-basic-first-aid.md#4-tourniquet-last-resort).
 
 #### 2. Clean the wound
 
@@ -441,7 +441,7 @@ Early signs:
 - Move casualties from a fire to fresh air first, and check whether they have inhaled smoke
 ```
 
-For escaping a fire see [Fire](../../../docs/02-灾难应对/04-火灾.md); for preventing scalds in children see [Child Safety – Preventing burns and scalds](../../../docs/01-日常疾病和伤害/14-儿童安全.md#防烧烫伤).
+For escaping a fire see [Fire](../../../docs/02-灾难应对/04-火灾.md); for preventing scalds in children see [Child Safety – Preventing burns and scalds](14-child-safety.md#preventing-burns-and-scalds).
 
 ### Burn depth
 
@@ -534,7 +534,7 @@ the airway. Call 120 immediately if there is any of the following:
    swelling may appear only hours later
 ```
 
-Fires are often combined with carbon monoxide poisoning; see [Home and Traffic Accidents – Carbon monoxide poisoning](../../../docs/01-日常疾病和伤害/07-居家与交通意外.md#一氧化碳中毒).
+Fires are often combined with carbon monoxide poisoning; see [Home and Traffic Accidents – Carbon monoxide poisoning](07-home-and-traffic-accidents.md#carbon-monoxide-poisoning).
 
 ### Emergency care: "Cool, Remove, Soak, Cover, Transport"
 
@@ -655,7 +655,7 @@ On the way to hospital:
   so they can prepare
 ```
 
-For making oral rehydration salts see [Common Illnesses – Diarrhoea](../../../docs/01-日常疾病和伤害/01-常见疾病.md#腹泻).
+For making oral rehydration salts see [Common Illnesses – Diarrhoea](01-common-illnesses.md#diarrhoea).
 
 ### Home care for small, minor scalds
 
@@ -743,7 +743,7 @@ More points:
    neutralisation gives off heat, worsens the burn and delays rinsing
 ```
 
-For chemicals splashed in the eyes see [Foreign Bodies – Chemicals in the eye](../../../docs/01-日常疾病和伤害/04-异物处理.md#化学品入眼紧急); for protection at a chemical spill see [Man-made Disasters – Chemical spills](../../../docs/02-灾难应对/05-人为灾难.md#化学品泄漏).
+For chemicals splashed in the eyes see [Foreign Bodies – Chemicals in the eye](04-foreign-bodies-and-choking.md#chemicals-in-the-eye-emergency); for protection at a chemical spill see [Man-made Disasters – Chemical spills](../../../docs/02-灾难应对/05-人为灾难.md#化学品泄漏).
 
 #### Electrical burns
 
@@ -762,7 +762,7 @@ For chemicals splashed in the eyes see [Foreign Bodies – Chemicals in the eye]
   go to hospital for an ECG
 ```
 
-For cutting the power and rescue at the scene of an electric shock see [Acute Symptoms – Electric shock](../../../docs/01-日常疾病和伤害/05-急性症状.md#电击伤).
+For cutting the power and rescue at the scene of an electric shock see [Acute Symptoms – Electric shock](05-acute-symptoms.md#electric-shock-injuries).
 
 ### Preventing infection
 
@@ -820,7 +820,7 @@ Frostbite and hypothermia often occur together: treat the hypothermia (whole bod
 then the frostbite (local).
 ```
 
-For recognising and treating hypothermia see [Acute Symptoms – Hypothermia](../../../docs/01-日常疾病和伤害/05-急性症状.md#失温症); for hypothermia outdoors see [River Crossing, Flash Floods and Hypothermia](../../../docs/03-野外生存/08-涉水山洪与野外失温.md#不只是冬天-野外失温); for preventing frostbite in snow see [Snow and Polar Survival – Frostbite](../../../docs/03-野外生存/04-雪地极地求生.md#冻伤).
+For recognising and treating hypothermia see [Acute Symptoms – Hypothermia](05-acute-symptoms.md#hypothermia); for hypothermia outdoors see [River Crossing, Flash Floods and Hypothermia](../../../docs/03-野外生存/08-涉水山洪与野外失温.md#不只是冬天-野外失温); for preventing frostbite in snow see [Snow and Polar Survival – Frostbite](../../../docs/03-野外生存/04-雪地极地求生.md#冻伤).
 
 ### Degrees of frostbite
 
@@ -1250,7 +1250,7 @@ For avoiding snakes outdoors see [Wasps, Ticks and Dangerous Animals – Snakes]
    infection (impetigo)
 ```
 
-For wasp and hornet stings (multiple stings can cause kidney failure) see [Wasps, Ticks and Dangerous Animals – After a sting](../../../docs/03-野外生存/10-马蜂蜱虫与危险动物.md#被蜇后); for skin infection after scratching bites see [Skin Conditions and Parasites – Impetigo and bacterial skin infections](../../../docs/01-日常疾病和伤害/16-皮肤病与寄生虫.md#脓疱疮与皮肤细菌感染).
+For wasp and hornet stings (multiple stings can cause kidney failure) see [Wasps, Ticks and Dangerous Animals – After a sting](../../../docs/03-野外生存/10-马蜂蜱虫与危险动物.md#被蜇后); for skin infection after scratching bites see [Skin Conditions and Parasites – Impetigo and bacterial skin infections](16-skin-conditions-and-parasites.md#impetigo-and-bacterial-skin-infections).
 
 #### Other common bites and contacts
 
@@ -1303,7 +1303,7 @@ For detailed care of ticks and land leeches see [Wasps, Ticks and Dangerous Anim
   with legs raised, someone who is dizzy and pale; unconscious and not breathing → start CPR at once
 ```
 
-For detailed treatment of anaphylactic shock see [Acute Symptoms – Allergic reactions](../../../docs/01-日常疾病和伤害/05-急性症状.md#过敏反应).
+For detailed treatment of anaphylactic shock see [Acute Symptoms – Allergic reactions](05-acute-symptoms.md#allergic-reactions).
 
 ---
 
@@ -1637,4 +1637,4 @@ Check regularly (every six months):
 ---
 
 **Next chapter**: [Bone and Joint Injuries](03-bone-and-joint-injuries.md)
-**Back**: [Chapter index](../../../docs/01-日常疾病和伤害/README.md) | [Main contents](../../../README.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)
