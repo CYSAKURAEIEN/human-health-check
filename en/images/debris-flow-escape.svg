@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 692" width="720" height="692" role="img" aria-label="Escaping a debris flow: run at right angles to the line of the gully, up the slopes on either side; do not run downstream along the gully and do not run into the gully; do not linger on the gully floor. Warning signs: the stream suddenly stops or drops, the water suddenly turns very muddy and thick with plants and foam, a roar like a train from upstream with the ground shaking, rockfall, collapses and cracks on the slopes on either side, animals unusually frightened; at any one of these, leave the gully at once. Do not climb trees, do not shelter in hollows, under steep slopes or earth banks or behind large boulders, do not stop on bridges, at the gully edge or on the outside of bends, and once on high ground do not go back down to look or to fetch belongings">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Debris flow escape: run at right angles to the gully, up the slopes on either side</title>
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="ag" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#888"/></marker>
+<marker id="am" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#6b4a2a"/></marker>
+<!-- simplified figure (front view), feet at y=0 -->
+<g id="p">
+<g stroke-linecap="round"><path d="M-3,-12 L-5,0 M3,-12 L5,0" stroke="#333" stroke-width="3.5"/></g>
+<rect x="-7" y="-31" width="14" height="20" rx="4" fill="#cfe0f0" stroke="#333" stroke-width="2"/>
+<circle cx="0" cy="-38" r="7" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+</g>
+</defs>
+<g font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif" font-size="14" fill="#222">
+<text x="360" y="28" font-size="17" font-weight="bold" text-anchor="middle">Debris flow: run at right angles to the gully, up the slopes on either side</text>
+
+<!-- A plan view -->
+<g transform="translate(10,42)">
+<rect x="0" y="0" width="440" height="330" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="24" font-size="14" fill="#555">From above</text>
+<!-- contours -->
+<g fill="none" stroke="#aaa" stroke-width="1.2">
+<path d="M12,98 C120,84 230,114 428,94"/>
+<path d="M12,68 C120,54 230,84 428,64"/>
+<path d="M12,38 C120,24 230,54 428,34"/>
+<path d="M12,204 C120,190 230,220 428,200"/>
+<path d="M12,234 C120,220 230,250 428,230"/>
+<path d="M12,264 C120,250 230,280 428,260"/>
+</g>
+<!-- gully -->
+<path d="M12,128 C120,114 230,144 428,124 L428,170 C230,190 120,160 12,174 Z" fill="#c9a77c" stroke="#333" stroke-width="2"/>
+<g stroke="#6b4a2a" stroke-width="3">
+<path d="M80,148 L118,146" marker-end="url(#am)"/>
+<path d="M150,152 L198,154" marker-end="url(#am)"/>
+<path d="M330,152 L362,150" marker-end="url(#am)"/>
+</g>
+<g font-size="13" fill="#222">
+<text x="16" y="155">upstream</text>
+<text x="366" y="153">down-</text>
+<text x="366" y="167">stream</text>
+<text x="222" y="160" fill="#4a3018">debris flow</text>
+</g>
+<!-- upper side: run uphill -->
+<use href="#p" transform="translate(150,120)"/>
+<path d="M150,72 L150,20" stroke="#c33" stroke-width="4" marker-end="url(#ar)"/>
+<!-- lower side: run uphill -->
+<use href="#p" transform="translate(270,222)"/>
+<path d="M270,228 L270,282" stroke="#c33" stroke-width="4" marker-end="url(#ar)"/>
+<!-- down the gully: wrong -->
+<path d="M290,196 L410,196" stroke="#888" stroke-width="3" stroke-dasharray="7,5" marker-end="url(#ag)"/>
+<path d="M340,184 L362,208 M362,184 L340,208" stroke="#c33" stroke-width="3.5" stroke-linecap="round"/>
+<g paint-order="stroke" stroke="#fff" stroke-width="5" stroke-linejoin="round">
+<text x="164" y="50" font-size="15" fill="#c33">✓ Run up the slope</text>
+<text x="284" y="262" font-size="15" fill="#c33">✓ Run up the slope</text>
+<text x="290" y="228" font-size="14" fill="#c33">✗ Don't run downstream</text>
+<text x="200" y="22" font-size="13" fill="#0b5cad">Thin lines: contours, higher outwards</text>
+</g>
+<text x="14" y="300" font-size="14">Go at right angles to the gully: running downstream,</text>
+<text x="14" y="320" font-size="14">you cannot outrun a debris flow</text>
+</g>
+
+<!-- B cross-section -->
+<g transform="translate(460,42)">
+<rect x="0" y="0" width="250" height="330" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="24" font-size="14" fill="#555">Cross-section</text>
+<path d="M12,50 L100,230 L150,230 L238,50 L238,250 L12,250 Z" fill="#eee"/>
+<path d="M12,50 L100,230 L150,230 L238,50" fill="none" stroke="#999" stroke-width="3"/>
+<path d="M88,205 L100,230 L150,230 L162,205 Z" fill="#c9a77c" stroke="#333" stroke-width="2"/>
+<g fill="#888" stroke="#333" stroke-width="1"><circle cx="108" cy="219" r="5"/><circle cx="127" cy="223" r="4"/><circle cx="144" cy="215" r="6"/><circle cx="118" cy="210" r="3"/></g>
+<path d="M95,190 L67,133" stroke="#c33" stroke-width="4" marker-end="url(#ar)"/>
+<path d="M155,190 L183,133" stroke="#c33" stroke-width="4" marker-end="url(#ar)"/>
+<use href="#p" transform="translate(50,126)"/>
+<use href="#p" transform="translate(200,126)"/>
+<text x="125" y="58" font-size="15" fill="#c33" text-anchor="middle">✓ Up both sides</text>
+<line x1="125" y1="240" x2="125" y2="226" stroke="#0b5cad" stroke-width="1"/>
+<text x="125" y="268" font-size="14" fill="#0b5cad" text-anchor="middle">Gully floor: don't linger</text>
+<text x="125" y="292" font-size="13" fill="#555" text-anchor="middle">The higher and farther</text>
+<text x="125" y="310" font-size="13" fill="#555" text-anchor="middle">the better</text>
+</g>
+
+<!-- C warning signs -->
+<g transform="translate(10,382)">
+<rect x="0" y="0" width="350" height="268" rx="8" fill="#fff8e6" stroke="#d9a400" stroke-width="2"/>
+<text x="16" y="26" font-size="15" font-weight="bold">Warning signs: at any one,</text>
+<text x="16" y="45" font-size="15" font-weight="bold">leave the gully at once</text>
+<text x="16" y="72" font-size="14">● Stream suddenly stops or drops</text>
+<text x="32" y="90" font-size="13" fill="#c33">Upstream may be blocked and can burst at</text>
+<text x="32" y="106" font-size="13" fill="#c33">any moment; it does not mean "the rain stopped"</text>
+<text x="16" y="132" font-size="14">● Water suddenly very muddy and thick,</text>
+<text x="32" y="150" font-size="14">carrying plants and foam</text>
+<text x="16" y="176" font-size="14">● A roar like a train or thunder from</text>
+<text x="32" y="194" font-size="14">upstream; the ground shakes</text>
+<text x="16" y="220" font-size="14">● Rockfall, collapses, cracks on the slopes</text>
+<text x="16" y="242" font-size="14">● Animals unusually frightened</text>
+<text x="16" y="260" font-size="13" fill="#555">Go up the sides; don't wait to watch</text>
+</g>
+
+<!-- D don'ts -->
+<g transform="translate(370,382)">
+<rect x="0" y="0" width="340" height="268" rx="8" fill="#fdecec" stroke="#c33" stroke-width="2"/>
+<text x="16" y="28" font-size="16" font-weight="bold" fill="#c33">Don't</text>
+<text x="16" y="56" font-size="14">✗ Run downstream or into the gully</text>
+<text x="16" y="82" font-size="14">✗ Climb trees (they may be swept away)</text>
+<text x="16" y="108" font-size="14">✗ Shelter in hollows, under steep slopes</text>
+<text x="32" y="127" font-size="14">or earth banks, or behind big boulders</text>
+<text x="16" y="153" font-size="14">✗ Stop on bridges, at the gully edge or</text>
+<text x="32" y="172" font-size="14">on the outside of bends</text>
+<text x="32" y="191" font-size="13" fill="#555">At bends the flow surges up and spills over</text>
+<text x="16" y="217" font-size="14">✗ Once on high ground, go back down to</text>
+<text x="32" y="236" font-size="14">look or to fetch belongings</text>
+</g>
+
+<text x="360" y="674" font-size="14" text-anchor="middle">Debris flows often come in surges; a bigger one may follow the first. Return only when officials say so</text>
+</g>
+</svg>
