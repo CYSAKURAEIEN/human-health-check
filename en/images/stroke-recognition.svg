@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 720" width="720" height="720" role="img" aria-label="The Stroke 1-2-0 mnemonic: 1 look at one face: ask the person to smile; does one corner of the mouth droop, is the face uneven; 2 check two arms: ask the person to close their eyes and hold both arms out for 10 seconds; does one arm weaken and drift down; 0 zero in on speech: ask the person to repeat a simple sentence; is the speech slurred, can they not speak or not understand; any one of these: call 120 immediately and note the time of onset (or the last time the person was seen to be normal); if the symptoms disappear after a few minutes, still get medical help immediately. While waiting for the ambulance: lay the person down with the head and shoulders slightly raised; if vomiting or with reduced consciousness, place on their side; loosen the collar and belt; have the list of medicines ready. Do not give aspirin or any medicine, do not give water or food, do not pinch the renzhong point or prick the fingers to let blood, do not wait to see if it gets better, do not drive the person to hospital yourself">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Recognising stroke: the "Stroke 1-2-0" mnemonic</title>
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+</defs>
+<g font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif" font-size="14" fill="#222">
+<text x="360" y="30" font-size="18" font-weight="bold" text-anchor="middle">Recognising stroke: the "Stroke 1-2-0" mnemonic</text>
+
+<!-- 1 look at one face -->
+<g transform="translate(10,44)">
+<rect x="0" y="0" width="226" height="272" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<circle cx="30" cy="28" r="17" fill="#c33"/>
+<text x="30" y="35" font-size="21" font-weight="bold" fill="#fff" text-anchor="middle">1</text>
+<text x="56" y="34" font-size="17" font-weight="bold">Look at one face</text>
+<circle cx="113" cy="122" r="56" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M58,112 Q60,62 113,62 Q166,62 168,112 Q150,84 113,82 Q76,84 58,112 Z" fill="#555"/>
+<path d="M86,112 Q93,106 100,112 M126,112 Q133,106 140,112" fill="none" stroke="#333" stroke-width="2.2" stroke-linecap="round"/>
+<path d="M113,118 L109,136 L116,137" fill="none" stroke="#333" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="74" y1="149" x2="152" y2="149" stroke="#0b5cad" stroke-width="1.2" stroke-dasharray="4 3"/>
+<path d="M86,149 Q98,162 113,159 Q128,158 138,166" fill="none" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M146,150 L146,162" stroke="#c33" stroke-width="2.5" marker-end="url(#ar)"/>
+<text x="160" y="190" font-size="13" fill="#c33" text-anchor="middle">mouth droops</text>
+<text x="16" y="222">Ask them to smile: does</text>
+<text x="16" y="242">one corner of the mouth</text>
+<text x="16" y="262">droop? Is the face uneven?</text>
+</g>
+
+<!-- 2 check two arms -->
+<g transform="translate(247,44)">
+<rect x="0" y="0" width="226" height="272" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<circle cx="30" cy="28" r="17" fill="#c33"/>
+<text x="30" y="35" font-size="21" font-weight="bold" fill="#fff" text-anchor="middle">2</text>
+<text x="56" y="34" font-size="17" font-weight="bold">Check two arms</text>
+<!-- far arm: held out -->
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M70,128 L176,126" stroke="#333" stroke-width="15"/><path d="M70,128 L176,126" stroke="#f3e3d3" stroke-width="10"/>
+</g>
+<ellipse cx="184" cy="126" rx="9" ry="6" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<!-- trunk -->
+<path d="M44,196 L46,138 Q48,120 66,118 L80,118 Q96,120 98,138 L100,196 Z" fill="#cfe0f0" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+<!-- head (profile facing right) -->
+<rect x="64" y="104" width="16" height="16" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<circle cx="72" cy="86" r="22" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M50,90 Q46,62 72,62 Q92,62 94,76 Q78,70 62,78 Q56,82 56,94 Z" fill="#555"/>
+<path d="M93,84 L99,94 L93,96" fill="#f3e3d3" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M80,84 Q85,88 90,84" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+<!-- near arm: drifting down -->
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M74,132 L168,170" stroke="#333" stroke-width="15"/><path d="M74,132 L168,170" stroke="#f3e3d3" stroke-width="10"/>
+</g>
+<ellipse cx="175" cy="173" rx="9" ry="6" transform="rotate(22 175 173)" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M200,128 Q212,150 194,168" fill="none" stroke="#c33" stroke-width="2.5" marker-end="url(#ar)"/>
+<line x1="104" y1="64" x2="88" y2="80" stroke="#0b5cad" stroke-width="1"/>
+<text x="106" y="64" font-size="13" fill="#0b5cad">eyes closed</text>
+<text x="118" y="100" font-size="13" fill="#0b5cad">arms out for</text>
+<text x="118" y="115" font-size="13" fill="#0b5cad">10 seconds</text>
+<text x="108" y="198" font-size="13" fill="#c33">arm drifts down</text>
+<text x="16" y="222">Eyes closed, both arms out</text>
+<text x="16" y="242">for 10 seconds: does one</text>
+<text x="16" y="262">arm weaken and drift down?</text>
+</g>
+
+<!-- 0 zero in on speech -->
+<g transform="translate(484,44)">
+<rect x="0" y="0" width="226" height="272" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<circle cx="30" cy="28" r="17" fill="#c33"/>
+<text x="30" y="35" font-size="21" font-weight="bold" fill="#fff" text-anchor="middle">0</text>
+<text x="56" y="34" font-size="17" font-weight="bold">Zero in on speech</text>
+<path d="M28,196 L30,160 Q32,142 50,140 L64,140 Q80,142 82,160 L84,196 Z" fill="#cfe0f0" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+<rect x="48" y="126" width="16" height="16" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<circle cx="56" cy="108" r="22" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M34,112 Q30,84 56,84 Q76,84 78,98 Q62,92 46,100 Q40,104 40,116 Z" fill="#555"/>
+<path d="M77,106 L83,116 L77,118" fill="#f3e3d3" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="68" cy="104" r="2.2" fill="#333"/>
+<path d="M70,124 Q74,122 77,125" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+<!-- speech bubble -->
+<path d="M100,58 L204,58 Q214,58 214,68 L214,124 Q214,134 204,134 L116,134 L92,124 L104,124 Q100,122 100,114 Z" fill="#fff" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M112,84 q6,-8 12,0 t12,0 t12,0 t12,0 M112,106 q6,-8 12,0 t12,0 t12,0" fill="none" stroke="#777" stroke-width="2.2" stroke-linecap="round"/>
+<text x="176" y="114" font-size="30" font-weight="bold" fill="#c33">?</text>
+<text x="16" y="222">Repeat a simple sentence:</text>
+<text x="16" y="242">slurred? Can't speak, or</text>
+<text x="16" y="262">can't understand?</text>
+</g>
+
+<!-- call 120 -->
+<g transform="translate(10,326)">
+<rect x="0" y="0" width="700" height="126" rx="8" fill="#fdecec" stroke="#c33" stroke-width="2"/>
+<rect x="22" y="22" width="38" height="64" rx="7" fill="#fff" stroke="#c33" stroke-width="2.5"/>
+<rect x="28" y="32" width="26" height="38" fill="#f6cccc"/>
+<circle cx="41" cy="78" r="3" fill="#c33"/>
+<text x="78" y="36" font-size="19" font-weight="bold" fill="#c33">Any one of these → call 120 immediately</text>
+<text x="78" y="60" font-size="14"><tspan font-weight="bold">Note the time of onset</tspan> (or the last time they were seen to be normal; if only</text>
+<text x="78" y="78" font-size="14">noticed on waking, count from when they went to sleep the night before) – doctors need it</text>
+<text x="78" y="96" font-size="14">to decide whether thrombolysis is possible (generally within 4.5 hours of onset)</text>
+<text x="78" y="116" font-size="14">Symptoms gone after a few minutes? Still an emergency – get medical help immediately</text>
+</g>
+
+<!-- while waiting for the ambulance -->
+<g transform="translate(10,462)">
+<rect x="0" y="0" width="345" height="248" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="#0b5cad">✓ While waiting for the ambulance</text>
+<line x1="20" y1="104" x2="325" y2="104" stroke="#999" stroke-width="3"/>
+<!-- pillow -->
+<path d="M26,104 L26,74 Q26,68 34,68 L122,90 Q128,92 128,98 L128,104 Z" fill="#e8e8e8" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<!-- legs -->
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M164,90 L300,94" stroke="#333" stroke-width="20"/><path d="M164,90 L300,94" stroke="#cfe0f0" stroke-width="15"/>
+</g>
+<!-- trunk, head and shoulders slightly raised -->
+<path d="M72,60 L166,80 Q174,82 172,92 L170,100 L70,82 Q62,80 64,70 Z" fill="#cfe0f0" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+<rect x="56" y="58" width="14" height="14" transform="rotate(14 63 65)" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<circle cx="48" cy="54" r="17" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M32,58 Q28,38 48,37 Q38,44 37,60 Z" fill="#555"/>
+<line x1="124" y1="50" x2="100" y2="70" stroke="#0b5cad" stroke-width="1"/>
+<text x="124" y="52" font-size="13" fill="#0b5cad">head and shoulders slightly raised</text>
+<text x="16" y="134">· Lay them down with the head and</text>
+<text x="28" y="151">shoulders slightly raised</text>
+<text x="16" y="173">· Vomiting or reduced consciousness</text>
+<text x="28" y="190">→ on their side (to prevent choking)</text>
+<text x="16" y="212">· Loosen the collar and belt</text>
+<text x="16" y="234">· Have their list of medicines ready</text>
+</g>
+
+<!-- do not -->
+<g transform="translate(365,462)">
+<rect x="0" y="0" width="345" height="248" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="#c33">✗ Do not</text>
+<text x="16" y="58"><tspan fill="#c33" font-weight="bold">✗</tspan> Don't give aspirin or any other medicine</text>
+<text x="34" y="76" font-size="13" fill="#555">you cannot tell ischaemic from</text>
+<text x="34" y="91" font-size="13" fill="#555">haemorrhagic stroke at the scene</text>
+<text x="16" y="115"><tspan fill="#c33" font-weight="bold">✗</tspan> Don't give water or food</text>
+<text x="34" y="133" font-size="13" fill="#555">swallowing is often affected;</text>
+<text x="34" y="148" font-size="13" fill="#555">it easily goes into the windpipe</text>
+<text x="16" y="172"><tspan fill="#c33" font-weight="bold">✗</tspan> Don't pinch renzhong or prick fingers</text>
+<text x="16" y="196"><tspan fill="#c33" font-weight="bold">✗</tspan> Don't wait to "see if it gets better"</text>
+<text x="16" y="220"><tspan fill="#c33" font-weight="bold">✗</tspan> Don't drive them to hospital yourself</text>
+<text x="34" y="238" font-size="13" fill="#555">unless you really cannot get an ambulance</text>
+</g>
+</g>
+</svg>

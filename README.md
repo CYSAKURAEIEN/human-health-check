@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+**English edition (in progress)**: [en/README.md](en/README.md)
+
 ## 📖 项目简介
 
 这是一本全面的紧急求生与健康指南手册,旨在为人们在面对各种紧急情况、疾病伤害、自然灾难以及野外生存挑战时提供实用的指导和帮助。

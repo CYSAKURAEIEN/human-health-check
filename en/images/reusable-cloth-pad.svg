@@ -1,0 +1,197 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 942" width="720" height="942" role="img" aria-label="Making reusable cloth sanitary pads. 1 Materials and layers: the outer layer against the skin is soft pure cotton; the absorbent layer is 4-6 layers of pure cotton (old cotton T-shirts, towelling, flannel); the leakproof layer is optional and goes at the bottom: waterproof cloth, old raincoat fabric or a clean plastic sheet; do not use synthetic fabric for the absorbent layer, and do not use old newspaper, plant ash, sand or soil. 2 Method: cut a pad shape about 20-25 cm long and about 6-7 cm wide in the middle, with a wing on each side; stack 4-6 layers of cotton for the absorbent layer, cut into a slightly smaller strip; stack outer layer, absorbent layer and leakproof layer and sew all round the edge; sew press studs on the wing ends or use a safety pin to fasten them round the knickers; the simplest way is to fold several layers of cotton or towel into a strip and lay it in the knickers. 3 Washing and storage: after use, first soak and rinse in cold water, because hot water sets blood stains; scrub clean with soap; rinse in clean water; dry thoroughly in the sun, and do not hang them in a dark place out of embarrassment, as damp breeds bacteria and mould and causes infection; you can cover them with a thin cloth; once completely dry, store in a clean, dry bag; boil them regularly if possible. 4 Prepare at least 5-8 pads per person and use them in rotation; replace pads that are mouldy, will not wash clean, or are worn thin or torn; change sanitary products often, wash hands before and after changing, and wash the vulva with clean water every day, front to back. 5 See a doctor for very heavy bleeding, periods lasting over 7 days or very short gaps between periods, severe period pain not eased by painkillers, bleeding between periods or after the menopause, or dizziness, weakness and pallor; a late period with severe lower abdominal pain, vaginal bleeding, dizziness or fainting may be a ruptured ectopic pregnancy: call 120 at once" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Making reusable cloth sanitary pads</title>
+<defs>
+<marker id="arK" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#555"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<!-- pad outline with wings (seen from above, origin at the centre) -->
+<path id="padS" d="M-42 -18 H-20 L-14 -34 H14 L20 -18 H42 A18 18 0 0 1 42 18 H20 L14 34 H-14 L-20 18 H-42 A18 18 0 0 1 -42 -18 Z"/>
+<!-- basin -->
+<g id="basin">
+<path d="M-38 -18 L-30 14 H30 L38 -18 Z" fill="#fff" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M-35 -6 L-30 14 H30 L35 -6 Z" fill="#cfe5f5"/>
+<path d="M-38 -18 L-30 14 H30 L38 -18 Z" fill="none" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+</g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Making reusable cloth sanitary pads</text>
+<text x="360" y="52" font-size="13" text-anchor="middle" fill="#555">Independent of supplies during long shortages; washing and drying them thoroughly is the most important step</text>
+
+<!-- 1 materials and layers -->
+<g transform="translate(10,64)">
+<rect x="0" y="0" width="345" height="334" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">① Materials and layers (top to bottom)</text>
+<!-- outer layer -->
+<use href="#padS" transform="matrix(1 0 -0.35 0.55 100 76)" fill="#fff" stroke="#333" stroke-width="4"/>
+<!-- absorbent layers -->
+<g transform="translate(100,142)">
+<rect x="-50" y="-12" width="100" height="24" rx="10" transform="matrix(1 0 -0.35 0.55 0 6)" fill="#f6efdc" stroke="#333" stroke-width="3"/>
+<rect x="-50" y="-12" width="100" height="24" rx="10" transform="matrix(1 0 -0.35 0.55 0 2)" fill="#f6efdc" stroke="#333" stroke-width="3"/>
+<rect x="-50" y="-12" width="100" height="24" rx="10" transform="matrix(1 0 -0.35 0.55 0 -2)" fill="#f6efdc" stroke="#333" stroke-width="3"/>
+<rect x="-50" y="-12" width="100" height="24" rx="10" transform="matrix(1 0 -0.35 0.55 0 -6)" fill="#f6efdc" stroke="#333" stroke-width="3"/>
+</g>
+<!-- leakproof layer -->
+<use href="#padS" transform="matrix(1 0 -0.35 0.55 100 206)" fill="#cfe0f0" stroke="#333" stroke-width="4"/>
+<g stroke="#999" stroke-width="1.5" marker-end="url(#arK)"><path d="M100 100 V118"/><path d="M100 166 V184"/></g>
+<g font-size="12">
+<text x="186" y="64" font-size="13" font-weight="bold">Outer layer</text>
+<text x="186" y="79">(against the skin):</text>
+<text x="186" y="94">soft pure cotton</text>
+<text x="186" y="124" font-size="13" font-weight="bold">Absorbent layer</text>
+<text x="186" y="139" font-size="13" font-weight="bold" fill="#0b5cad">4-6 layers</text>
+<text x="186" y="154">pure cotton: old cotton</text>
+<text x="186" y="168">T-shirts, towelling,</text>
+<text x="186" y="182">flannel</text>
+<text x="186" y="206" font-size="13" font-weight="bold">Leakproof layer</text>
+<text x="186" y="221">(optional, at the bottom):</text>
+<text x="186" y="236">waterproof cloth, old</text>
+<text x="186" y="250">raincoat fabric, clean</text>
+<text x="186" y="264">plastic sheet</text>
+</g>
+<g font-size="12" fill="#c33">
+<text x="12" y="296">✗ No synthetic fabric as the absorbent layer</text>
+<text x="26" y="311">(it doesn't absorb)</text>
+<text x="12" y="326">✗ No old newspaper, plant ash, sand or soil etc.</text>
+</g>
+</g>
+
+<!-- 2 method -->
+<g transform="translate(365,64)">
+<rect x="0" y="0" width="345" height="334" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">② Method</text>
+<g transform="translate(130,94)">
+<path d="M-56 -24 H-26 L-18 -46 H18 L26 -24 H56 A24 24 0 0 1 56 24 H26 L18 46 H-18 L-26 24 H-56 A24 24 0 0 1 -56 -24 Z" fill="#fff" stroke="#333" stroke-width="2.5"/>
+<path d="M-54 -19 H-22 L-15 -40 H15 L22 -19 H54 A19 19 0 0 1 54 19 H22 L15 40 H-15 L-22 19 H-54 A19 19 0 0 1 -54 -19 Z" fill="none" stroke="#c33" stroke-width="1.5" stroke-dasharray="4 3"/>
+<circle cx="0" cy="-38" r="4" fill="#fff" stroke="#333" stroke-width="2"/>
+<circle cx="0" cy="38" r="4" fill="#fff" stroke="#333" stroke-width="2"/>
+<!-- length -->
+<path d="M-78 58 H78" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB)" marker-end="url(#arB)"/>
+<path d="M-80 30 V64 M80 30 V64" stroke="#0b5cad" stroke-width="1"/>
+<!-- middle width -->
+<path d="M40 -22 V22" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB)" marker-end="url(#arB)"/>
+</g>
+<text x="130" y="170" font-size="13" font-weight="bold" fill="#0b5cad" text-anchor="middle">length about 20-25 cm</text>
+<path d="M172 94 L238 94" stroke="#0b5cad" stroke-width="1"/>
+<text x="242" y="90" font-size="12" font-weight="bold" fill="#0b5cad">middle width</text>
+<text x="242" y="106" font-size="12" font-weight="bold" fill="#0b5cad">about 6-7 cm</text>
+<path d="M136 56 L238 46" stroke="#555" stroke-width="1"/>
+<text x="242" y="40" font-size="12">press studs on</text>
+<text x="242" y="54" font-size="12">wing ends, or</text>
+<text x="242" y="68" font-size="12">a safety pin</text>
+<path d="M178 112 L238 136" stroke="#c33" stroke-width="1"/>
+<text x="242" y="140" font-size="12" fill="#c33">sew all round</text>
+<g font-size="12">
+<text x="12" y="198">1. Cut a pad shape with a wing on each side</text>
+<text x="12" y="216">2. Absorbent layer: 4-6 layers of cotton, cut into</text>
+<text x="26" y="231">a slightly smaller strip</text>
+<text x="12" y="249">3. Stack “outer + absorbent + leakproof”; sew all round</text>
+<text x="12" y="267">4. Sew press studs on the wing ends, or use a safety</text>
+<text x="26" y="282">pin, to fasten them round the knickers</text>
+<text x="12" y="306" fill="#0b5cad" font-weight="bold">Simplest: fold several layers of cotton or towel</text>
+<text x="12" y="322" fill="#0b5cad" font-weight="bold">into a strip and lay it in the knickers</text>
+</g>
+</g>
+
+<!-- 3 washing and storage -->
+<g transform="translate(10,408)">
+<rect x="0" y="0" width="700" height="256" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">③ Washing and storage (the most important part)</text>
+<!-- 1 cold water -->
+<use href="#basin" x="60" y="84"/>
+<text x="60" y="56" font-size="13" font-weight="bold" fill="#0b5cad" text-anchor="middle">cold water</text>
+<!-- 2 soap -->
+<g transform="translate(176,84)">
+<rect x="-24" y="-12" width="48" height="26" rx="8" fill="#f6efdc" stroke="#333" stroke-width="2"/>
+<g fill="#fff" stroke="#0b5cad" stroke-width="1.5"><circle cx="-14" cy="-22" r="6"/><circle cx="2" cy="-28" r="8"/><circle cx="18" cy="-20" r="5"/></g>
+</g>
+<!-- 3 rinse -->
+<use href="#basin" x="292" y="84"/>
+<g fill="#0b5cad"><path d="M284 46 q-5 8 0 11 q5 -3 0 -11 Z"/><path d="M300 54 q-4 7 0 9 q4 -2 0 -9 Z"/></g>
+<!-- 4 dry in the sun -->
+<g transform="translate(408,84)">
+<circle cx="-30" cy="-28" r="10" fill="#fff" stroke="#c33" stroke-width="2"/>
+<g stroke="#c33" stroke-width="2" stroke-linecap="round"><path d="M-30 -44 V-41 M-30 -15 V-12 M-46 -28 H-43 M-17 -28 H-14 M-41 -39 L-39 -37 M-21 -19 L-19 -17 M-41 -17 L-39 -19 M-21 -37 L-19 -39"/></g>
+<path d="M-44 -6 H44" stroke="#999" stroke-width="2"/>
+<rect x="-6" y="-6" width="40" height="30" rx="8" fill="#fff" stroke="#333" stroke-width="2"/>
+<path d="M4 -10 V-2 M24 -10 V-2" stroke="#333" stroke-width="2"/>
+</g>
+<!-- 5 bag -->
+<g transform="translate(524,84)">
+<path d="M-22 -16 H22 L26 22 H-26 Z" fill="#fff" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M-10 -16 Q-10 -30 0 -30 Q10 -30 10 -16" fill="none" stroke="#333" stroke-width="2"/>
+</g>
+<!-- 6 boil -->
+<g transform="translate(640,84)">
+<path d="M-26 -14 H26 V14 Q26 20 20 20 H-20 Q-26 20 -26 14 Z" fill="#e3e8ec" stroke="#333" stroke-width="2"/>
+<path d="M-32 -14 H32" stroke="#333" stroke-width="2.5"/>
+<g fill="none" stroke="#999" stroke-width="1.5"><path d="M-10 -20 q-4 -6 0 -12 M2 -20 q-4 -6 0 -12 M14 -20 q-4 -6 0 -12"/></g>
+<path d="M-16 34 q4 -10 8 0 q4 -10 8 0 q4 -10 8 0 q4 -10 8 0" fill="none" stroke="#c33" stroke-width="2"/>
+</g>
+<!-- arrows -->
+<g stroke="#555" stroke-width="1.8" marker-end="url(#arK)">
+<path d="M104 84 H130"/><path d="M220 84 H246"/><path d="M336 84 H362"/><path d="M452 84 H478"/><path d="M568 84 H594"/>
+</g>
+<g text-anchor="middle" font-size="13">
+<text x="60" y="140" font-weight="bold">1. Cold water</text>
+<text x="60" y="157">first: soak, rinse</text>
+<text x="60" y="174" font-size="12" fill="#c33">hot water sets</text>
+<text x="60" y="188" font-size="12" fill="#c33">blood stains</text>
+<text x="176" y="140" font-weight="bold">2. Soap</text>
+<text x="176" y="157">scrub clean</text>
+<text x="292" y="140" font-weight="bold">3. Rinse well</text>
+<text x="292" y="157">in clean water</text>
+<text x="408" y="140" font-weight="bold" fill="#c33">4. Dry fully</text>
+<text x="408" y="157" font-weight="bold" fill="#c33">in the sun</text>
+<text x="524" y="140" font-weight="bold">5. Once fully dry,</text>
+<text x="524" y="157">store in a clean,</text>
+<text x="524" y="174">dry bag</text>
+<text x="640" y="140" font-weight="bold">6. If possible,</text>
+<text x="640" y="157">boil regularly</text>
+</g>
+<path d="M10 198 H690" stroke="#ddd" stroke-width="1"/>
+<text x="14" y="218" font-size="13" font-weight="bold" fill="#c33">✗ Don't dry them in a dark place out of embarrassment: damp breeds bacteria and mould,</text>
+<text x="28" y="234" font-size="13" font-weight="bold" fill="#c33">which cause infection</text>
+<text x="14" y="248" font-size="12" fill="#555">You can cover them with a thin cloth; sunlight kills some bacteria and also drives out moisture</text>
+</g>
+
+<!-- 5 quantity and everyday hygiene -->
+<g transform="translate(10,674)">
+<rect x="0" y="0" width="345" height="258" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">④ How many, and period hygiene</text>
+<g font-size="13">
+<text x="12" y="52">✓ At least <tspan font-weight="bold" fill="#0b5cad">5-8 pads</tspan> per person, used in turn</text>
+<text x="12" y="74">✓ Replace if mouldy, won't wash clean,</text>
+<text x="26" y="90">or worn thin or torn</text>
+<text x="12" y="112">✓ Change sanitary products often</text>
+<text x="12" y="134">✓ Wash hands before and after changing</text>
+<text x="12" y="156">✓ Wash the vulva with clean water daily</text>
+<text x="26" y="172">(front to back)</text>
+<text x="26" y="188" font-size="12" fill="#555">No need to wash inside the vagina</text>
+<text x="12" y="210">✓ If possible, change underwear often</text>
+<text x="26" y="226">and dry it in the sun</text>
+<text x="12" y="248">✓ Stockpile soap, cotton cloth, press studs</text>
+</g>
+</g>
+
+<!-- 5 when to see a doctor -->
+<g transform="translate(365,674)">
+<rect x="0" y="0" width="345" height="258" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold" fill="#c33">⑤ When to see a doctor</text>
+<g font-size="12">
+<text x="12" y="50">• Very heavy bleeding: soaking a pad every hour</text>
+<text x="22" y="66">for several hours in a row, or large clots</text>
+<text x="12" y="88">• Period over 7 days, or periods very close together</text>
+<text x="12" y="110">• Severe period pain not eased by painkillers</text>
+<text x="12" y="132">• Bleeding between periods, or after the menopause</text>
+<text x="12" y="154">• Dizzy, weak, pale (possible anaemia)</text>
+</g>
+<path d="M10 170 H335" stroke="#e6b3b3" stroke-width="1"/>
+<g font-size="12">
+<text x="12" y="192" font-weight="bold" fill="#c33">⚠ Late period with severe lower abdominal pain,</text>
+<text x="26" y="209" font-weight="bold" fill="#c33">vaginal bleeding, dizziness or even fainting</text>
+<text x="26" y="229" font-weight="bold" fill="#c33">→ may be a ruptured ectopic pregnancy:</text>
+<text x="26" y="246" font-weight="bold" fill="#c33">call 120 at once</text>
+</g>
+</g>
+</g>
+</svg>

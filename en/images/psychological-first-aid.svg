@@ -1,0 +1,161 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1028" width="720" height="1028" role="img" aria-label="Psychological first aid: look, listen, link. You do not need to be a psychologist: anyone can give psychological first aid. Look: is the scene safe? First get away from danger; is anyone injured and in need of first aid; who needs help most (people who are panicking, sitting frozen or not speaking; children, older people, pregnant women, people with disabilities; people separated from their families); meet basic needs: water, food, warmth, a place to rest. Listen: introduce yourself and ask whether they need help; stay close and keep calm; let them talk as they choose; acknowledge their feelings; give accurate information, and if you do not know, say so; help them solve immediate practical problems. Link: help them contact family and friends; tell them where to get help (aid stations, medical posts, the 12356 helpline); encourage them to return to daily routines and be with the people around them. Do not: do not force them to describe what happened in detail; do not say I know exactly how you feel, at least you are alive, don't cry, be strong, everything will be fine; do not judge them; do not make decisions for them; do not make promises you cannot keep. Warning signs of suicide risk: talking about wanting to die, to disappear, that life is pointless; saying they are a burden to others; giving away treasured possessions, putting affairs in order; asking about or preparing ways to harm themselves; sudden calm after long depression. How to respond: ask directly; listen carefully without judging, and do not promise to keep it secret; if they have a clear plan or the means ready, do not leave them alone, and remove anything they could use to harm themselves; in an emergency call 120 or 110, otherwise call the 12356 psychological support helpline with them (national, 24 hours), or go with them to hospital (psychiatry/psychology); keep caring afterwards">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Psychological first aid: look, listen, link</title>
+<defs>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker>
+<g id="p">
+<path d="M-3 -12 L-5 0 M3 -12 L5 0" stroke="#333" stroke-width="3.5" stroke-linecap="round"/>
+<rect x="-7" y="-31" width="14" height="20" rx="4" fill="#cfe0f0" stroke="#333" stroke-width="2"/>
+<circle cx="0" cy="-38" r="7" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+</g>
+<g id="sit">
+<path d="M-2 -10 H13 V1" fill="none" stroke="#333" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="-7" y="-30" width="14" height="21" rx="4" fill="#e6e6e6" stroke="#333" stroke-width="2"/>
+<circle cx="2" cy="-36" r="7" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+</g>
+<g id="sitB">
+<path d="M2 -10 H-13 V1" fill="none" stroke="#333" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="-7" y="-30" width="14" height="21" rx="4" fill="#cfe0f0" stroke="#333" stroke-width="2"/>
+<circle cx="-1" cy="-37" r="7" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+</g>
+</defs>
+<g font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif" font-size="13" fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Psychological first aid: look, listen, link</text>
+<text x="360" y="50" font-size="14" text-anchor="middle" fill="#555">You don't need to be a psychologist: anyone can give psychological first aid (recommended by WHO)</text>
+
+<!-- look -->
+<g transform="translate(10,64)">
+<rect width="222" height="362" rx="8" fill="#f5f9fd" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="12" y="28" font-size="17" font-weight="bold" fill="#0b5cad">① Look</text>
+<text x="98" y="28" font-size="12" fill="#555">safety, basic needs</text>
+<path d="M20 112 H202" stroke="#999" stroke-width="2"/>
+<use href="#p" x="62" y="110"/>
+<use href="#sit" x="140" y="110"/>
+<rect x="170" y="88" width="10" height="22" rx="2" fill="#d6e9f8" stroke="#333" stroke-width="1.5"/>
+<path d="M118 76 Q136 66 158 70" fill="none" stroke="#999" stroke-width="1.5" stroke-dasharray="2 3"/>
+<text x="12" y="140">✓ Is the scene safe?</text>
+<text x="28" y="158">Get away from danger first</text>
+<text x="12" y="180">✓ Is anyone injured and</text>
+<text x="28" y="198">in need of first aid?</text>
+<text x="12" y="220">✓ Who needs help most?</text>
+<text x="28" y="238" font-size="12" fill="#555">People who panic, freeze or</text>
+<text x="28" y="252" font-size="12" fill="#555">fall silent; children, older</text>
+<text x="28" y="266" font-size="12" fill="#555">people, pregnant women,</text>
+<text x="28" y="280" font-size="12" fill="#555">disabled people; anyone</text>
+<text x="28" y="294" font-size="12" fill="#555">separated from their family</text>
+<text x="12" y="316">✓ Meet basic needs:</text>
+<text x="28" y="334">water, food, warmth,</text>
+<text x="28" y="352">a place to rest</text>
+</g>
+<path d="M233 90 H247" stroke="#0b5cad" stroke-width="2.5" marker-end="url(#arB)"/>
+
+<!-- listen -->
+<g transform="translate(249,64)">
+<rect width="222" height="362" rx="8" fill="#f5f9fd" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="12" y="28" font-size="17" font-weight="bold" fill="#0b5cad">② Listen</text>
+<text x="118" y="28" font-size="12" fill="#555">stay and listen</text>
+<path d="M20 112 H202" stroke="#999" stroke-width="2"/>
+<use href="#sit" x="84" y="110"/>
+<use href="#sitB" x="138" y="110"/>
+<path d="M40 44 H96 Q102 44 102 50 V62 Q102 68 96 68 H80 L74 76 L72 68 H40 Q34 68 34 62 V50 Q34 44 40 44 Z" fill="#fff" stroke="#888" stroke-width="1.5"/>
+<g fill="#888"><circle cx="56" cy="56" r="2.5"/><circle cx="68" cy="56" r="2.5"/><circle cx="80" cy="56" r="2.5"/></g>
+<text x="12" y="140">✓ Introduce yourself; ask</text>
+<text x="28" y="158">if they need help</text>
+<text x="12" y="180">✓ Stay close and keep calm</text>
+<text x="12" y="202">✓ Let them talk as they wish;</text>
+<text x="28" y="220">listen to as much as they</text>
+<text x="28" y="238">want to say</text>
+<text x="12" y="260">✓ Acknowledge their feelings</text>
+<text x="12" y="282">✓ Give accurate information</text>
+<text x="28" y="300" font-size="12" fill="#555">(if you don't know, say so)</text>
+<text x="12" y="322">✓ Help with immediate,</text>
+<text x="28" y="340">practical problems</text>
+</g>
+<path d="M472 90 H486" stroke="#0b5cad" stroke-width="2.5" marker-end="url(#arB)"/>
+
+<!-- link -->
+<g transform="translate(488,64)">
+<rect width="222" height="362" rx="8" fill="#f5f9fd" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="12" y="28" font-size="17" font-weight="bold" fill="#0b5cad">③ Link</text>
+<text x="90" y="28" font-size="12" fill="#555">to sources of support</text>
+<use href="#p" x="111" y="110"/>
+<g stroke="#0b5cad" stroke-width="1.5" stroke-dasharray="4 3"><line x1="100" y1="82" x2="54" y2="66"/><line x1="122" y1="82" x2="162" y2="66"/><line x1="111" y1="110" x2="111" y2="118"/></g>
+<rect x="4" y="44" width="88" height="22" rx="11" fill="#fff" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="48" y="60" text-anchor="middle" font-size="12">family, friends</text>
+<rect x="96" y="44" width="122" height="22" rx="11" fill="#fff" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="157" y="60" text-anchor="middle" font-size="12">aid &amp; medical posts</text>
+<rect x="58" y="118" width="106" height="22" rx="11" fill="#fff" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="111" y="134" text-anchor="middle" font-size="12" font-weight="bold">12356 helpline</text>
+<text x="12" y="166">✓ Help them contact family</text>
+<text x="28" y="184">and friends</text>
+<text x="12" y="206">✓ Tell them where to get</text>
+<text x="28" y="224">help (aid stations, medical</text>
+<text x="28" y="242">posts, 12356 helpline)</text>
+<text x="12" y="264">✓ Encourage daily routines</text>
+<text x="28" y="282">and being with others</text>
+<path d="M12 294 H210" stroke="#ccc" stroke-width="1"/>
+<text x="12" y="312" font-size="12" fill="#555">Reactions lasting over 1 month, or</text>
+<text x="12" y="327" font-size="12" fill="#555">too severe to live normally</text>
+<text x="12" y="342" font-size="12" fill="#555">→ seek professional help</text>
+</g>
+
+<!-- do not -->
+<g transform="translate(10,436)">
+<rect width="700" height="176" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<text x="12" y="26" font-size="15" font-weight="bold" fill="#c33">❌ Do not</text>
+<text x="12" y="52">❌ Don't force them to describe what happened</text>
+<text x="32" y="70" font-size="12" fill="#555">Don't make people relive the scene again and again;</text>
+<text x="32" y="85" font-size="12" fill="#555">it does not help recovery and can even do harm</text>
+<text x="12" y="108">❌ Don't judge their reactions or actions</text>
+<text x="12" y="130">❌ Don't make decisions for them</text>
+<text x="12" y="152">❌ Don't make promises you can't keep</text>
+<text x="420" y="52">❌ Don't say:</text>
+<text x="440" y="74">“I know exactly how you feel”</text>
+<text x="440" y="92">“At least you're alive”</text>
+<text x="440" y="110">“It could have been worse”</text>
+<text x="440" y="128">“Don't cry” “Be strong”</text>
+<text x="440" y="146">“Look on the bright side”</text>
+<text x="440" y="164">“Everything will be fine”</text>
+</g>
+
+<!-- suicide risk -->
+<g transform="translate(10,622)">
+<rect width="700" height="396" rx="8" fill="none" stroke="#c33" stroke-width="2"/>
+<text x="12" y="26" font-size="15" font-weight="bold" fill="#c33">⚠️ If you notice a risk of suicide</text>
+<text x="12" y="52" font-weight="bold">Warning signs</text>
+<text x="12" y="74">· Talks of wanting to die or vanish;</text>
+<text x="20" y="92">“there's no point in living”</text>
+<text x="12" y="112">· Says they are a burden; feels hopeless</text>
+<text x="12" y="132">· Gives away treasured things,</text>
+<text x="20" y="150">puts their affairs in order</text>
+<text x="12" y="170">· Asks about or prepares ways to self-harm</text>
+<text x="12" y="190">· Suddenly calm after long depression</text>
+<text x="20" y="208">(“I've worked it all out”)</text>
+<text x="20" y="226" font-size="12" fill="#c33">may have made up their mind: be very alert</text>
+<path d="M290 104 H322" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="340" y="52" font-weight="bold">How to respond</text>
+<text x="340" y="74"><tspan font-weight="bold">1. Ask directly</tspan>: “Have you thought about</text>
+<text x="356" y="92">hurting yourself?”</text>
+<text x="356" y="110" font-size="12" fill="#555">Asking directly does not put the idea into their head</text>
+<text x="340" y="132"><tspan font-weight="bold">2. Listen carefully, don't judge</tspan>;</text>
+<text x="356" y="150">don't promise to keep it a secret</text>
+<text x="340" y="172"><tspan font-weight="bold">3. Keep them safe</tspan>: if they have a clear plan</text>
+<text x="356" y="190">or the means ready → don't leave them alone;</text>
+<text x="356" y="208">remove or lock away anything they could use</text>
+<text x="356" y="226">to harm themselves (large amounts of medicine,</text>
+<text x="356" y="244">pesticides, etc.)</text>
+<text x="340" y="266"><tspan font-weight="bold">4. Keep caring</tspan>: stay in touch over the following</text>
+<text x="356" y="284">days and weeks</text>
+<!-- phone numbers -->
+<rect x="12" y="298" width="330" height="86" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<text x="24" y="324" fill="#c33" font-weight="bold">Urgent (harming or about to harm themselves)</text>
+<text x="24" y="358" font-size="22" font-weight="bold" fill="#c33">Call 120 / 110</text>
+<rect x="358" y="298" width="330" height="86" rx="8" fill="#f5f9fd" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="370" y="324" fill="#0b5cad" font-weight="bold">Otherwise: call the support helpline with them</text>
+<text x="370" y="354" font-size="22" font-weight="bold" fill="#0b5cad">12356</text>
+<text x="446" y="352" font-size="12" fill="#555">national, 24 hours</text>
+<text x="370" y="374" font-size="12">or go with them to hospital (psychiatry/psychology)</text>
+</g>
+</g>
+</svg>

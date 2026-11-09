@@ -62,6 +62,15 @@ The style differs by when a part was written; follow the conventions of the part
 - Parts 05–06 (and parts 08–10) open with a `>` tagline and a prominent `⚠️` warning section, use numbered `## 一、…` / `### 1.1 …` headings, fenced code blocks for step-by-step procedures, checklists (`- [ ]`), difficulty/risk tables with ⭐/☠️ ratings, and end with a `## 相关章节` section of ⏮️/⏭️/🔗 cross-links followed by a bolded closing line.
 - Safety framing is a deliberate part of the content: medical chapters direct readers to professional care, and the pharmaceutical/metallurgy parts stress that procedures are for civilization-collapse scenarios only. Preserve these warnings when editing, and keep dangerous-procedure content at the educational level of the existing chapters.
 
+## English edition
+
+`en/` is an English translation that mirrors the Chinese files one to one; `en/paths.tsv` maps every Chinese path to its English path (English diagrams are `en/images/<same name>.svg`). Translation is being done part by part, so some English pages still link to Chinese originals.
+
+- An English file must have exactly the same headings as its Chinese original (same number, levels and order); `tools/check_docs.py` enforces this so that anchors can be mapped by position.
+- Links to a chapter that has no English version yet point to the Chinese original with its Chinese anchor. After translating a chapter, run `tools/en_links.py`: it rewrites those links (and their anchors) to the English file; `check_docs.py` fails while any such link is left.
+- When changing a Chinese chapter that already has an English version, make the same change in English (and in the English diagram), or note it for the next translation batch. Content, numbers and safety warnings must stay identical; China-specific facts (phone numbers, regulations) are kept as written, with one note in `en/README.md`.
+- Style: plain imperative British English; drug INNs (paracetamol, adrenaline); Chinese herbs as Pinyin + Latin binomial + English common name; same SI unit rules as the Chinese text.
+
 ## Contributing workflow
 
 Per the README: feature branch → commit (commit messages are written in Chinese, e.g. `添加某某内容`) → pull request.

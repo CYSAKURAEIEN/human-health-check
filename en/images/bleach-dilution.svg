@@ -1,0 +1,185 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 906" width="780" height="906" role="img" aria-label="Making up &#8220;84&#8221; bleach: amounts assume &#8220;84&#8221; bleach with about 5% available chlorine; brands differ, so first check the available chlorine stated on the bottle and scale the amounts if it differs. (1) Everyday surfaces, tableware, clothes: 10 mL bleach in 1 L water, bleach to water 1 to 100, about 500 mg/L available chlorine. (2) Items the patient used, soiled floors, toilets: 20 mL bleach in 1 L water, 1 to 50, about 1000 mg/L. (3) Vomit, faeces and similar soiling: about 110-250 mL bleach in 1 L water, about 1 to 9 to 1 to 4, 5000-10000 mg/L. How to use: dilute with cold or room-temperature water, as hot water breaks down the active ingredient; mix fresh and use the dilution the same day; after wiping or soaking leave it for about 30 minutes, then wipe or rinse off with clean water; wear gloves and open the windows. Cleaning up vomit or faeces: put on gloves and a mask, soak absorbent material in strong solution and cover the mess fully, after 30 minutes remove it, bag it and tie the bag, then wipe the floor and surroundings with 1 to 50 solution, remove gloves and wash hands. Never mix with acidic cleaners such as toilet cleaner: this produces chlorine gas. Do not use on skin or wounds; do not keep dilutions in drink bottles, label them and keep them out of children's reach; corrodes metal and bleaches fabric" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Making up &#8220;84&#8221; bleach</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker>
+<marker id="arK" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#555"/></marker>
+<!-- measuring cup (origin at centre of base, scale 0.4 px/mL, full scale 200 mL = 80 px) -->
+<g id="cup" fill="none" stroke="#333">
+<path d="M-27 -88 L-22 -84 L-22 -4 Q-22 0 -18 0 L18 0 Q22 0 22 -4 L22 -86" stroke-width="2.5"/>
+<path d="M22 -20 H12 M22 -40 H8 M22 -60 H12 M22 -80 H8" stroke-width="1.2"/>
+</g>
+
+<g id="pail">
+<path d="M-33.4 -48 L-27 0 L27 0 L33.4 -48 Z" fill="#dbe8f5"/>
+<path d="M-35 -60 L-27 0 L27 0 L35 -60" fill="none" stroke="#333" stroke-width="2.5"/>
+<ellipse cx="0" cy="-60" rx="35" ry="5" fill="none" stroke="#333" stroke-width="2"/>
+<path d="M-35 -60 Q0 -100 35 -60" fill="none" stroke="#555" stroke-width="2"/>
+</g>
+
+<g id="bottle">
+<rect x="-6" y="-78" width="12" height="10" rx="2" fill="#555"/>
+<path d="M-6 -68 L-6 -62 Q-20 -56 -20 -44 L-20 -4 Q-20 0 -16 0 L16 0 Q20 0 20 -4 L20 -44 Q20 -56 6 -62 L6 -68 Z" stroke="#333" stroke-width="2.5"/>
+</g>
+</defs>
+<g fill="#222">
+<text x="390" y="30" font-size="18" font-weight="bold" text-anchor="middle">Making up &#8220;84&#8221; bleach (based on about 5% available chlorine)</text>
+<text x="390" y="54" font-size="14" text-anchor="middle" fill="#555">Brands differ: check the available chlorine on the bottle, and scale the amounts if it differs</text>
+
+<g transform="translate(10 0)">
+<rect x="0" y="68" width="248" height="296" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="124" y="94" font-size="15" font-weight="bold" text-anchor="middle">① Everyday surfaces,</text>
+<text x="124" y="114" font-size="15" font-weight="bold" text-anchor="middle">tableware, clothes</text>
+<rect x="47" y="222" width="44" height="4" fill="#e8d36a"/>
+<use href="#cup" x="69" y="226"/>
+<text x="114" y="200" font-size="22" font-weight="bold" text-anchor="middle">+</text>
+<use href="#pail" x="170" y="226"/>
+<text x="170" y="200" font-size="13" text-anchor="middle" fill="#0b5cad">1 L</text>
+<text x="170" y="215" font-size="13" text-anchor="middle" fill="#0b5cad">water</text>
+<text x="124" y="252" font-size="15" font-weight="bold" text-anchor="middle" fill="#c33">10 mL bleach</text>
+<text x="124" y="271" font-size="15" font-weight="bold" text-anchor="middle">+ 1 L water</text>
+<text x="124" y="293" font-size="13" text-anchor="middle" fill="#555">&#8220;84&#8221; bleach : water</text>
+<text x="124" y="313" font-size="16" font-weight="bold" text-anchor="middle">1 : 100</text>
+<text x="124" y="337" font-size="14" text-anchor="middle">available chlorine</text>
+<text x="124" y="355" font-size="17" font-weight="bold" text-anchor="middle" fill="#c33">about 500 mg/L</text>
+
+</g>
+<g transform="translate(30 0)">
+<rect x="236" y="68" width="248" height="296" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="360" y="94" font-size="15" font-weight="bold" text-anchor="middle">② Items the patient used,</text>
+<text x="360" y="114" font-size="15" font-weight="bold" text-anchor="middle">soiled floors, toilets</text>
+<rect x="283" y="218" width="44" height="8" fill="#e8d36a"/>
+<use href="#cup" x="305" y="226"/>
+<text x="350" y="200" font-size="22" font-weight="bold" text-anchor="middle">+</text>
+<use href="#pail" x="406" y="226"/>
+<text x="406" y="200" font-size="13" text-anchor="middle" fill="#0b5cad">1 L</text>
+<text x="406" y="215" font-size="13" text-anchor="middle" fill="#0b5cad">water</text>
+<text x="360" y="252" font-size="15" font-weight="bold" text-anchor="middle" fill="#c33">20 mL bleach</text>
+<text x="360" y="271" font-size="15" font-weight="bold" text-anchor="middle">+ 1 L water</text>
+<text x="360" y="293" font-size="13" text-anchor="middle" fill="#555">&#8220;84&#8221; bleach : water</text>
+<text x="360" y="313" font-size="16" font-weight="bold" text-anchor="middle">1 : 50</text>
+<text x="360" y="337" font-size="14" text-anchor="middle">available chlorine</text>
+<text x="360" y="355" font-size="17" font-weight="bold" text-anchor="middle" fill="#c33">about 1000 mg/L</text>
+
+</g>
+<g transform="translate(50 0)">
+<rect x="472" y="68" width="248" height="296" rx="8" fill="none" stroke="#c33" stroke-width="1.5"/>
+<text x="596" y="94" font-size="15" font-weight="bold" text-anchor="middle">③ Vomit, faeces</text>
+<text x="596" y="114" font-size="15" font-weight="bold" text-anchor="middle">and similar soiling</text>
+<rect x="519" y="146" width="44" height="40" fill="#f3e9b4"/>
+<rect x="519" y="186" width="44" height="40" fill="#e8d36a"/>
+<path d="M519 186 H563" stroke="#555" stroke-width="1" stroke-dasharray="3 2"/>
+<use href="#cup" x="541" y="226"/>
+<text x="586" y="200" font-size="22" font-weight="bold" text-anchor="middle">+</text>
+<use href="#pail" x="642" y="226"/>
+<text x="642" y="200" font-size="13" text-anchor="middle" fill="#0b5cad">1 L</text>
+<text x="642" y="215" font-size="13" text-anchor="middle" fill="#0b5cad">water</text>
+<text x="596" y="252" font-size="15" font-weight="bold" text-anchor="middle" fill="#c33">about 110-250 mL bleach</text>
+<text x="596" y="271" font-size="15" font-weight="bold" text-anchor="middle">+ 1 L water</text>
+<text x="596" y="293" font-size="13" text-anchor="middle" fill="#555">&#8220;84&#8221; bleach : water</text>
+<text x="596" y="313" font-size="16" font-weight="bold" text-anchor="middle">about 1 : 9 to 1 : 4</text>
+<text x="596" y="337" font-size="14" text-anchor="middle">available chlorine</text>
+<text x="596" y="355" font-size="17" font-weight="bold" text-anchor="middle" fill="#c33">5000-10000 mg/L</text>
+
+</g>
+<g transform="translate(0 12)">
+<rect x="10" y="364" width="760" height="170" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="390" font-size="16" font-weight="bold">How to use</text>
+<g font-size="14" text-anchor="middle">
+<g transform="translate(8 0)">
+<path d="M70 404 V440 M70 404 H100 V416" fill="none" stroke="#333" stroke-width="5" stroke-linecap="round"/>
+<path d="M100 424 Q94 434 100 440 Q106 434 100 424 Z" fill="#0b5cad"/>
+<g stroke="#0b5cad" stroke-width="2" fill="none"><path d="M128 404 V440 M112 413 L144 431 M112 431 L144 413"/></g>
+<text x="104" y="466" font-weight="bold">Dilute with cold or</text>
+<text x="104" y="484" font-weight="bold">room-temperature water</text>
+<text x="104" y="504" font-size="13" fill="#555">Hot water breaks down</text>
+<text x="104" y="520" font-size="13" fill="#555">the active ingredient</text>
+</g>
+<g transform="translate(20 0)">
+<rect x="250" y="402" width="50" height="42" rx="3" fill="#fff" stroke="#333" stroke-width="2"/>
+<rect x="250" y="402" width="50" height="12" rx="3" fill="#c33"/>
+<text x="275" y="438" font-size="14" font-weight="bold">Today</text>
+<text x="275" y="466" font-weight="bold">Mix fresh</text>
+<text x="275" y="486" font-size="13" fill="#555">Use up the dilution</text>
+<text x="275" y="502" font-size="13" fill="#555">the same day</text>
+</g>
+<g transform="translate(40 0)">
+<circle cx="446" cy="423" r="21" fill="#fff" stroke="#333" stroke-width="2"/>
+<path d="M446 423 V407 A16 16 0 0 1 446 439 Z" fill="#f3e9b4"/>
+<path d="M446 423 V407 M446 423 V439" stroke="#333" stroke-width="2"/>
+<text x="446" y="466" font-weight="bold">Leave for about</text>
+<text x="446" y="484" font-weight="bold">30 minutes</text>
+<text x="446" y="504" font-size="13" fill="#555">then wipe or rinse off</text>
+<text x="446" y="520" font-size="13" fill="#555">with clean water</text>
+</g>
+<g transform="translate(50 0)">
+<path d="M586 444 V420 Q586 414 590 414 V404 Q590 400 594 400 Q598 400 598 404 V414 V400 Q598 396 602 396 Q606 396 606 400 V414 V402 Q606 398 610 398 Q614 398 614 402 V420 L620 412 Q624 408 627 412 L618 434 Q614 444 606 444 Z" fill="#f2c14e" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<rect x="638" y="402" width="40" height="42" fill="#fff" stroke="#333" stroke-width="2"/>
+<path d="M658 402 V444" stroke="#333" stroke-width="1.5"/>
+<path d="M664 414 Q674 420 690 412" fill="none" stroke="#0b5cad" stroke-width="2" marker-end="url(#arK)"/>
+<path d="M664 430 Q674 436 690 428" fill="none" stroke="#0b5cad" stroke-width="2" marker-end="url(#arK)"/>
+<text x="628" y="466" font-weight="bold">Wear gloves</text>
+<text x="628" y="486" font-size="13" fill="#555">Open the windows</text>
+</g>
+</g>
+
+<g transform="translate(0 26)">
+<rect x="10" y="520" width="760" height="130" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="546" font-size="16" font-weight="bold">Cleaning up vomit or faeces</text>
+<g font-size="13" text-anchor="middle">
+<rect x="24" y="556" width="134" height="84" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="91" y="592" font-weight="bold">① Put on gloves</text>
+<text x="91" y="610" font-weight="bold">and a mask</text>
+<path d="M159 598 H171" stroke="#555" stroke-width="2" marker-end="url(#arK)"/>
+<rect x="173" y="556" width="134" height="84" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="240" y="576">② Soak absorbent</text>
+<text x="240" y="593">material in <tspan font-weight="bold">strong</tspan></text>
+<text x="240" y="610">solution and cover</text>
+<text x="240" y="627">the mess fully</text>
+<path d="M308 598 H320" stroke="#555" stroke-width="2" marker-end="url(#arK)"/>
+<rect x="322" y="556" width="134" height="84" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="389" y="576">③ After</text>
+<text x="389" y="593"><tspan font-weight="bold">30 minutes</tspan>,</text>
+<text x="389" y="610">remove it, bag it</text>
+<text x="389" y="627">and tie the bag</text>
+<path d="M457 598 H469" stroke="#555" stroke-width="2" marker-end="url(#arK)"/>
+<rect x="471" y="556" width="134" height="84" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="538" y="584">④ Then wipe floor</text>
+<text x="538" y="601">and surroundings</text>
+<text x="538" y="618">with <tspan font-weight="bold">1:50</tspan> solution</text>
+<path d="M606 598 H618" stroke="#555" stroke-width="2" marker-end="url(#arK)"/>
+<rect x="620" y="556" width="134" height="84" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="687" y="592" font-weight="bold">⑤ Gloves off,</text>
+<text x="687" y="610" font-weight="bold">wash hands</text>
+</g>
+
+<g transform="translate(0 18)">
+<rect x="10" y="644" width="760" height="196" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="2"/>
+<text x="24" y="672" font-size="16" font-weight="bold" fill="#c33">✗ Never mix with acidic cleaners such as toilet cleaner → chlorine gas</text>
+<use href="#bottle" x="56" y="790" fill="#f3e9b4"/>
+<text x="56" y="760" font-size="14" font-weight="bold" text-anchor="middle">84</text>
+<text x="56" y="812" font-size="13" text-anchor="middle">&#8220;84&#8221; bleach</text>
+<text x="104" y="760" font-size="22" font-weight="bold" text-anchor="middle">+</text>
+<circle cx="104" cy="752" r="17" fill="none" stroke="#c33" stroke-width="3.5"/>
+<path d="M92 764 L116 740" stroke="#c33" stroke-width="3.5"/>
+<use href="#bottle" x="152" y="790" fill="#cfe0f0"/>
+<text x="152" y="760" font-size="12" font-weight="bold" text-anchor="middle">acid</text>
+<text x="152" y="812" font-size="13" text-anchor="middle">toilet cleaner</text>
+<path d="M186 752 H218" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<path d="M232 768 Q222 768 222 756 Q222 742 236 742 Q238 726 256 726 Q270 722 278 734 Q296 732 298 748 Q308 754 302 766 Q298 774 286 772 Z" fill="#e6ecb0" stroke="#8a9a2a" stroke-width="2"/>
+<text x="262" y="756" font-size="14" font-weight="bold" text-anchor="middle" fill="#5d6b12">chlorine</text>
+<text x="262" y="796" font-size="13" text-anchor="middle" fill="#c33">Irritates eyes and airways;</text>
+<text x="262" y="814" font-size="13" text-anchor="middle" fill="#c33">can be fatal if severe</text>
+<line x1="370" y1="690" x2="370" y2="826" stroke="#e3b5b5" stroke-width="1.5"/>
+<g font-size="14">
+<text x="386" y="706"><tspan fill="#c33" font-weight="bold">✗</tspan> Do not use on skin or wounds</text>
+<text x="386" y="734"><tspan fill="#c33" font-weight="bold">✗</tspan> Do not keep dilutions in drink bottles;</text>
+<text x="404" y="754">label them, keep out of children's reach</text>
+<text x="386" y="784"><tspan fill="#c33" font-weight="bold">!</tspan> Corrodes metal</text>
+<text x="386" y="812"><tspan fill="#c33" font-weight="bold">!</tspan> Bleaches fabric (dark clothes will fade)</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>

@@ -1,0 +1,236 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 998" width="720" height="998" role="img" aria-label="Preventing pressure sores in people confined to bed: 1 lying on the back, the back of the head, shoulder blades, sacrum and heels take the most pressure; put pillows or soft pads under the calves so the heels are raised off the bed; 2 on the side, put a pillow behind the back and tilt the body about 30°; do not lie fully on the side with the weight on the hip bone; 3 on the side, the ear, hip and ankle take the pressure; put a soft pillow between the legs; 4 turn the person at least every 2 hours, day and night, rotating on the back, left side, on the back, right side; lift the body when turning, do not drag it; check the bony points every day, keep the skin clean and dry, keep the sheets smooth with no wrinkles or crumbs, give enough protein and fluids, and use a pressure-relief air mattress if possible; red skin that does not fade when pressed is already an early pressure sore: keep pressure off it and turn more often; broken, blackened, pus-filled or foul-smelling skin needs a doctor; do not massage areas that are already red">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Preventing pressure sores in people confined to bed</title>
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="ab" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<!-- small icon: cross-section seen from the foot of the bed, lying on the back -->
+<g id="mSup">
+<line x1="-46" y1="20" x2="46" y2="20" stroke="#999" stroke-width="3"/>
+<ellipse cx="0" cy="7" rx="36" ry="13" fill="#cfe0f0" stroke="#333" stroke-width="2"/>
+<circle cx="0" cy="7" r="10" fill="#555"/>
+<circle cx="0" cy="5" r="9" fill="#f3e3d3"/>
+<circle cx="0" cy="7" r="10" fill="none" stroke="#333" stroke-width="1.5"/>
+<path d="M-3,-3 L0,-8 L3,-3" fill="#f3e3d3" stroke="#333" stroke-width="1.2"/>
+</g>
+<!-- small icon: tilted about 30° on the side, pillow behind the back -->
+<g id="mTilt">
+<line x1="-46" y1="20" x2="46" y2="20" stroke="#999" stroke-width="3"/>
+<path d="M4,18 L30,4 Q36,2 38,8 L42,16 Q43,20 38,20 L4,20 Z" fill="#e8e8e8" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<g transform="translate(0,-1) rotate(-30)">
+<ellipse cx="0" cy="0" rx="36" ry="13" fill="#cfe0f0" stroke="#333" stroke-width="2"/>
+<circle cx="0" cy="0" r="10" fill="#555"/>
+<circle cx="0" cy="-2" r="9" fill="#f3e3d3"/>
+<circle cx="0" cy="0" r="10" fill="none" stroke="#333" stroke-width="1.5"/>
+<path d="M-3,-10 L0,-15 L3,-10" fill="#f3e3d3" stroke="#333" stroke-width="1.2"/>
+</g>
+</g>
+</defs>
+<g font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif" font-size="14" fill="#222">
+<text x="360" y="30" font-size="18" font-weight="bold" text-anchor="middle">Preventing pressure sores: turn regularly, relieve bony points</text>
+
+<!-- 1 lying on the back -->
+<g transform="translate(10,44)">
+<rect x="0" y="0" width="700" height="240" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">① On the back: these bony points take the most pressure</text>
+<!-- mattress -->
+<rect x="20" y="160" width="660" height="20" rx="4" fill="#eee" stroke="#999" stroke-width="2"/>
+<!-- pillow under the head -->
+<ellipse cx="80" cy="150" rx="50" ry="12" fill="#e8e8e8" stroke="#333" stroke-width="2"/>
+<!-- soft pillow under the calves -->
+<ellipse cx="522" cy="146" rx="74" ry="15" fill="#e8e8e8" stroke="#333" stroke-width="2"/>
+<!-- legs -->
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M300,146 L440,144 L600,114" stroke="#333" stroke-width="24"/>
+<path d="M300,146 L440,144 L600,114" stroke="#cfe0f0" stroke-width="19"/>
+<path d="M606,114 L614,88" stroke="#333" stroke-width="17"/>
+<path d="M606,114 L614,88" stroke="#f3e3d3" stroke-width="12"/>
+</g>
+<!-- trunk -->
+<rect x="106" y="116" width="212" height="44" rx="20" fill="#cfe0f0" stroke="#333" stroke-width="2.5"/>
+<!-- arms beside the body -->
+<g fill="none" stroke-linecap="round">
+<path d="M132,126 L276,134" stroke="#333" stroke-width="14"/>
+<path d="M132,126 L276,134" stroke="#cfe0f0" stroke-width="9"/>
+</g>
+<ellipse cx="286" cy="135" rx="9" ry="6" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<!-- neck and head (face up) -->
+<rect x="98" y="126" width="14" height="16" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<circle cx="82" cy="122" r="22" fill="#555"/>
+<circle cx="86" cy="118" r="19" fill="#f3e3d3"/>
+<circle cx="82" cy="122" r="22" fill="none" stroke="#333" stroke-width="2.5"/>
+<path d="M82,101 L88,92 L94,102" fill="#f3e3d3" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M70,108 Q74,104 78,108" fill="none" stroke="#333" stroke-width="1.8" stroke-linecap="round"/>
+<!-- pressure points -->
+<g fill="#c33">
+<circle cx="80" cy="144" r="6"/>
+<circle cx="150" cy="160" r="6"/>
+<circle cx="296" cy="160" r="6"/>
+<circle cx="603" cy="126" r="6"/>
+</g>
+<g stroke="#c33" stroke-width="1.2">
+<line x1="80" y1="150" x2="80" y2="196"/>
+<line x1="150" y1="166" x2="150" y2="216"/>
+<line x1="296" y1="166" x2="296" y2="196"/>
+</g>
+<g fill="#c33" font-weight="bold" text-anchor="middle">
+<text x="80" y="214">back of head</text>
+<text x="150" y="231">shoulder blades</text>
+<text x="296" y="214">sacrum</text>
+<text x="296" y="232" font-size="13" font-weight="normal">(base of the spine)</text>
+</g>
+<!-- heels raised -->
+<path d="M603,134 L603,158" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#ab)" marker-end="url(#ab)"/>
+<text x="628" y="132" fill="#c33" font-weight="bold">heels</text>
+<text x="620" y="152" font-size="13" fill="#0b5cad">raised</text>
+<line x1="510" y1="74" x2="522" y2="130" stroke="#0b5cad" stroke-width="1"/>
+<text x="400" y="60" font-size="13" fill="#0b5cad">Pillows or soft pads under the calves</text>
+<text x="400" y="76" font-size="13" fill="#0b5cad">keep the heels off the bed</text>
+<text x="420" y="214" font-size="13" fill="#555">Check the skin here every day</text>
+</g>
+
+<!-- 2 tilted about 30° -->
+<g transform="translate(10,294)">
+<rect x="0" y="0" width="345" height="290" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">② On the side: tilt about 30°</text>
+<text x="16" y="48" font-size="13" fill="#555">(cross-section seen from the foot of the bed)</text>
+<rect x="20" y="200" width="305" height="16" rx="4" fill="#eee" stroke="#999" stroke-width="2"/>
+<!-- pillow behind the back -->
+<path d="M172,200 L176,180 L234,147 Q244,142 250,152 L278,190 Q284,200 272,200 Z" fill="#e8e8e8" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<!-- cross-section of the trunk -->
+<g transform="translate(150,151) rotate(-30)">
+<ellipse cx="0" cy="0" rx="80" ry="32" fill="#cfe0f0" stroke="#333" stroke-width="2.5"/>
+<circle cx="0" cy="0" r="24" fill="#555"/>
+<circle cx="0" cy="-4" r="22" fill="#f3e3d3"/>
+<circle cx="0" cy="0" r="24" fill="none" stroke="#333" stroke-width="2"/>
+<path d="M-6,-23 L0,-33 L6,-23" fill="#f3e3d3" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+</g>
+<!-- 30° angle -->
+<line x1="129" y1="200" x2="262" y2="123" stroke="#0b5cad" stroke-width="1.2" stroke-dasharray="5 3"/>
+<path d="M194,200 A65,65 0 0 0 185,168" fill="none" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="198" y="194" font-size="16" font-weight="bold" fill="#0b5cad">30°</text>
+<line x1="292" y1="128" x2="262" y2="172" stroke="#0b5cad" stroke-width="1"/>
+<text x="256" y="104" font-size="13" fill="#0b5cad">pillow</text>
+<text x="256" y="120" font-size="13" fill="#0b5cad">behind back</text>
+<text x="16" y="242">Pillow behind the back, tilt about 30°</text>
+<text x="16" y="262" fill="#c33"><tspan font-weight="bold">✗</tspan> Don't lie fully on the side</text>
+<text x="32" y="279" font-size="13" fill="#c33">(that puts the weight on the hip bone)</text>
+</g>
+
+<!-- 3 pressure points on the side -->
+<g transform="translate(365,294)">
+<rect x="0" y="0" width="345" height="290" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">③ On the side: pressure points</text>
+<rect x="16" y="176" width="313" height="16" rx="4" fill="#eee" stroke="#999" stroke-width="2"/>
+<ellipse cx="54" cy="166" rx="38" ry="11" fill="#e8e8e8" stroke="#333" stroke-width="2"/>
+<!-- lower leg -->
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M180,164 L250,164 L300,166" stroke="#333" stroke-width="22"/>
+<path d="M180,164 L250,164 L300,166" stroke="#cfe0f0" stroke-width="17"/>
+</g>
+<!-- soft pillow between the legs -->
+<ellipse cx="252" cy="147" rx="48" ry="9" fill="#e8e8e8" stroke="#333" stroke-width="2"/>
+<!-- upper leg -->
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M180,140 L250,132 L300,140" stroke="#333" stroke-width="22"/>
+<path d="M180,140 L250,132 L300,140" stroke="#cfe0f0" stroke-width="17"/>
+</g>
+<ellipse cx="312" cy="140" rx="9" ry="8" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<ellipse cx="312" cy="166" rx="9" ry="8" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<!-- trunk -->
+<rect x="74" y="118" width="122" height="58" rx="22" fill="#cfe0f0" stroke="#333" stroke-width="2.5"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M94,130 L150,142 L176,158" stroke="#333" stroke-width="14"/>
+<path d="M94,130 L150,142 L176,158" stroke="#cfe0f0" stroke-width="9"/>
+</g>
+<ellipse cx="182" cy="160" rx="8" ry="6" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<!-- head (lying on the side, crown to the left) -->
+<rect x="68" y="139" width="12" height="14" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<circle cx="52" cy="146" r="20" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M33,152 Q28,130 46,126 Q38,140 41,160 Z" fill="#555"/>
+<ellipse cx="52" cy="126" rx="5" ry="4" fill="#f3e3d3" stroke="#333" stroke-width="1.5"/>
+<circle cx="57" cy="140" r="1.8" fill="#333"/>
+<circle cx="57" cy="152" r="1.8" fill="#333"/>
+<path d="M66,143 Q68,146 66,149" fill="none" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
+<!-- pressure points -->
+<g fill="#c33">
+<circle cx="52" cy="166" r="6"/>
+<circle cx="180" cy="176" r="6"/>
+<circle cx="306" cy="176" r="6"/>
+</g>
+<g stroke="#c33" stroke-width="1.2">
+<line x1="52" y1="172" x2="52" y2="206"/>
+<line x1="180" y1="182" x2="180" y2="206"/>
+<line x1="306" y1="182" x2="306" y2="206"/>
+</g>
+<g fill="#c33" font-weight="bold" text-anchor="middle">
+<text x="52" y="224">ear</text>
+<text x="180" y="224">hip</text>
+<text x="306" y="224">ankle</text>
+</g>
+<line x1="230" y1="76" x2="246" y2="144" stroke="#0b5cad" stroke-width="1"/>
+<text x="150" y="70" font-size="13" fill="#0b5cad">soft pillow between the legs</text>
+<text x="16" y="254">On the side, the ear, hip and ankle</text>
+<text x="16" y="274">take the pressure</text>
+</g>
+
+<!-- 4 turn regularly -->
+<g transform="translate(10,594)">
+<rect x="0" y="0" width="700" height="168" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">④ Turn regularly: <tspan fill="#c33">at least every 2 hours</tspan>, day and night</text>
+<use href="#mSup" transform="translate(90,76)"/>
+<use href="#mTilt" transform="translate(265,76) scale(-1,1)"/>
+<use href="#mSup" transform="translate(440,76)"/>
+<use href="#mTilt" transform="translate(615,76)"/>
+<g text-anchor="middle" font-weight="bold">
+<text x="90" y="122">on back</text>
+<text x="265" y="122">left side</text>
+<text x="440" y="122">on back</text>
+<text x="615" y="122">right side</text>
+</g>
+<g stroke="#c33" stroke-width="2.5" fill="none">
+<path d="M144,82 L208,82" marker-end="url(#ar)"/>
+<path d="M319,82 L383,82" marker-end="url(#ar)"/>
+<path d="M494,82 L558,82" marker-end="url(#ar)"/>
+</g>
+<g font-size="13" fill="#c33" text-anchor="middle">
+<text x="176" y="72">2 hours</text>
+<text x="351" y="72">2 hours</text>
+<text x="526" y="72">2 hours</text>
+</g>
+<text x="16" y="154" font-size="14">Keep rotating; when turning, <tspan font-weight="bold">lift the body, don't drag it</tspan> (friction damages the skin)</text>
+<text x="684" y="28" font-size="13" fill="#555" text-anchor="end">(seen from the foot of the bed)</text>
+</g>
+
+<!-- every day -->
+<g transform="translate(10,772)">
+<rect x="0" y="0" width="345" height="216" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="#0b5cad">✓ Every day</text>
+<text x="16" y="58">· Check the skin over bony points</text>
+<text x="16" y="84">· Keep the skin clean and dry: wash</text>
+<text x="30" y="104">and dry promptly after toileting</text>
+<text x="16" y="130">· Smooth sheets, no wrinkles or crumbs</text>
+<text x="16" y="156">· Enough protein and fluids</text>
+<text x="16" y="182">· If possible, use a pressure-relief</text>
+<text x="30" y="202">air mattress</text>
+</g>
+
+<!-- warning -->
+<g transform="translate(365,772)">
+<rect x="0" y="0" width="345" height="216" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="#c33">⚠️ If you see this</text>
+<!-- redness that does not fade when pressed -->
+<rect x="250" y="40" width="80" height="54" rx="10" fill="#f3e3d3" stroke="#333" stroke-width="1.5"/>
+<ellipse cx="290" cy="70" rx="22" ry="14" fill="#e57373"/>
+<path d="M300,40 L300,22 Q300,14 308,14 Q316,14 316,22 L316,44 Q316,56 304,58 Z" fill="#f3e3d3" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<text x="16" y="58"><tspan font-weight="bold">Red skin that does not</tspan></text>
+<text x="16" y="76"><tspan font-weight="bold">fade when pressed</tspan></text>
+<text x="16" y="96">→ already an early pressure sore:</text>
+<text x="16" y="114">keep pressure off it; turn more often</text>
+<text x="16" y="142"><tspan font-weight="bold">Broken, blackened, pus, foul smell</tspan></text>
+<text x="16" y="160">→ see a doctor</text>
+<text x="16" y="186"><tspan fill="#c33" font-weight="bold">✗</tspan> Don't massage areas already red</text>
+<text x="34" y="204" font-size="13" fill="#555">it makes the damage worse</text>
+</g>
+</g>
+</svg>

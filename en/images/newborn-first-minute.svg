@@ -1,0 +1,197 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 990" width="720" height="990" role="img" aria-label="The newborn's golden minute (only when you cannot get to hospital in time and the ambulance has not arrived; call 120 first, put the phone on speaker and follow the dispatcher). All babies: 1 place the baby on the mother's chest and belly, skin to skin; 2 at once dry the whole body with a dry towel, especially the head and back; drying both keeps the baby warm and stimulates breathing; 3 replace the wet towel, wrap the baby in a dry towel and cover the head; 4 watch: is the baby crying, breathing, what is the skin colour, are the arms and legs moving. Baby not crying, not breathing: 1 keep rubbing the back firmly and flick the soles of the feet; 2 wipe obvious mucus from the mouth and nose with a clean cloth; 3 if after drying and stimulation the baby still does not breathe, or only gasps now and then, tell the 120 dispatcher at once and start rescue breaths: lay the baby on a flat surface with the head in the neutral position, not tilted far back; cover the baby's mouth and nose with your mouth and blow gently, only a small mouthful of air, just enough to see the chest rise slightly; one breath every 1-2 seconds (30-60 per minute); if rescue breaths are needed, deal with the cord first; keep going until the baby breathes on its own or emergency services arrive">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>The newborn's golden minute</title>
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<!-- baby lying prone (side view, head left, face down) -->
+<g id="babyP">
+<path d="M60,4 L54,15 L80,15" fill="none" stroke="#333" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M60,4 L54,15 L80,15" fill="none" stroke="#f3e3d3" stroke-width="7.5" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="38" cy="3" rx="28" ry="12" fill="#f3e3d3" stroke="#333" stroke-width="2.2"/>
+<path d="M60,4 L54,15" fill="none" stroke="#f3e3d3" stroke-width="7.5" stroke-linecap="round"/>
+<path d="M20,6 L26,15 L12,16" fill="none" stroke="#333" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M20,6 L26,15 L12,16" fill="none" stroke="#f3e3d3" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="0" cy="2" r="15" fill="#f3e3d3" stroke="#333" stroke-width="2.2"/>
+<path d="M-8,-9 Q2,-15 11,-8" fill="none" stroke="#555" stroke-width="1.5"/>
+<path d="M-9,6 Q-6,8 -3,6" fill="none" stroke="#333" stroke-width="1.5"/>
+</g>
+</defs>
+<g font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif" font-size="14" fill="#222">
+<text x="360" y="30" font-size="18" font-weight="bold" text-anchor="middle">The newborn's golden minute</text>
+
+<!-- precondition -->
+<rect x="10" y="44" width="700" height="58" rx="8" fill="#fdecec" stroke="#c33" stroke-width="1.5"/>
+<text x="360" y="68" text-anchor="middle"><tspan fill="#c33" font-weight="bold">⚠️ Only if you cannot get to hospital in time and the ambulance has not arrived</tspan></text>
+<text x="360" y="90" text-anchor="middle">Call 120 first, put the phone on speaker and follow the dispatcher</text>
+
+<text x="14" y="130" font-size="17" font-weight="bold" fill="#0b5cad">All babies (should be breathing on their own within 1 minute of birth)</text>
+
+<!-- 1 skin to skin -->
+<g transform="translate(10,142)">
+<rect x="0" y="0" width="226" height="270" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="26" font-size="16" font-weight="bold">① On mother's chest</text>
+<g transform="translate(46,92) rotate(18)">
+<rect x="-22" y="34" width="176" height="14" rx="6" fill="#e8e8e8" stroke="#333" stroke-width="2"/>
+<rect x="14" y="-10" width="130" height="44" rx="18" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M100,-10 L126,-10 Q144,-10 144,8 L144,16 Q144,34 126,34 L100,34 Z" fill="#cfe0f0" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+<rect x="6" y="2" width="14" height="18" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<circle cx="-8" cy="10" r="18" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M-26,16 Q-30,-10 -6,-8 Q-20,0 -22,18 Z" fill="#555"/>
+<circle cx="2" cy="2" r="1.8" fill="#333"/>
+<g transform="translate(40,-26)"><use href="#babyP"/></g>
+<path d="M28,6 L62,24 L96,-28" fill="none" stroke="#333" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M28,6 L62,24 L96,-28" fill="none" stroke="#f3e3d3" stroke-width="8.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<line x1="150" y1="58" x2="112" y2="100" stroke="#0b5cad" stroke-width="1"/>
+<text x="120" y="52" font-size="13" fill="#0b5cad">skin to skin</text>
+<text x="12" y="204">Place the baby on the</text>
+<text x="12" y="224">mother's chest and belly,</text>
+<text x="12" y="244">skin to skin</text>
+</g>
+
+<!-- 2 dry -->
+<g transform="translate(247,142)">
+<rect x="0" y="0" width="226" height="270" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="26" font-size="16" font-weight="bold">② Dry all over at once</text>
+<path d="M14,150 Q113,134 212,150" fill="none" stroke="#cfe0f0" stroke-width="16"/>
+<path d="M14,142 Q113,126 212,142" fill="none" stroke="#999" stroke-width="2"/>
+<g transform="translate(64,108) scale(1.45)"><use href="#babyP"/></g>
+<!-- towel + hand -->
+<path d="M96,62 L150,58 Q158,58 158,66 L156,86 Q156,92 148,92 L100,94 Q92,94 92,86 Z" fill="#f7eccc" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M104,72 L146,70 M104,80 L146,78" stroke="#c9b98f" stroke-width="1.5"/>
+<path d="M152,62 L196,40" stroke="#333" stroke-width="14" stroke-linecap="round"/>
+<path d="M152,62 L196,40" stroke="#f3e3d3" stroke-width="9.5" stroke-linecap="round"/>
+<path d="M88,52 Q126,38 166,48" fill="none" stroke="#c33" stroke-width="2.5" marker-start="url(#ar)" marker-end="url(#ar)"/>
+<line x1="40" y1="70" x2="56" y2="96" stroke="#0b5cad" stroke-width="1"/>
+<text x="12" y="64" font-size="13" fill="#0b5cad">head</text>
+<line x1="200" y1="76" x2="160" y2="94" stroke="#0b5cad" stroke-width="1"/>
+<text x="182" y="72" font-size="13" fill="#0b5cad">back</text>
+<text x="12" y="182">Dry the whole body with a</text>
+<text x="12" y="202">dry towel, especially the</text>
+<text x="12" y="222">head and back</text>
+<text x="12" y="244" font-size="13" fill="#0b5cad">Drying = keeps warm +</text>
+<text x="12" y="260" font-size="13" fill="#0b5cad">stimulates breathing</text>
+</g>
+
+<!-- 3 wrap in a dry towel -->
+<g transform="translate(484,142)">
+<rect x="0" y="0" width="226" height="270" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="26" font-size="16" font-weight="bold">③ Wrap in a dry towel</text>
+<path d="M14,150 Q100,134 186,150" fill="none" stroke="#cfe0f0" stroke-width="16"/>
+<path d="M14,142 Q100,126 186,142" fill="none" stroke="#999" stroke-width="2"/>
+<!-- wrapped baby: towel covers head and body, only the face shows -->
+<path d="M40,118 Q30,82 62,76 L150,90 Q176,98 170,120 Q166,132 140,132 L54,134 Q42,132 40,118 Z" fill="#f7eccc" stroke="#333" stroke-width="2.2" stroke-linejoin="round"/>
+<path d="M44,124 Q50,104 64,100 Q74,104 72,120 Q66,132 52,132 Z" fill="#f3e3d3" stroke="#333" stroke-width="1.8"/>
+<path d="M54,118 Q57,120 60,118" fill="none" stroke="#333" stroke-width="1.4"/>
+<path d="M88,84 Q96,112 92,132 M120,88 Q126,110 124,132" fill="none" stroke="#c9b98f" stroke-width="1.5"/>
+<line x1="56" y1="56" x2="60" y2="80" stroke="#0b5cad" stroke-width="1"/>
+<text x="14" y="50" font-size="13" fill="#0b5cad">cover head</text>
+<!-- wet towel removed -->
+<path d="M168,48 L198,48 L200,76 L170,78 Z" fill="#dfe6ee" stroke="#777" stroke-width="1.5"/>
+<path d="M176,84 l-2,6 a2.5,2.5 0 1 0 4,0 Z M190,86 l-2,6 a2.5,2.5 0 1 0 4,0 Z" fill="#0b5cad"/>
+<path d="M164,44 L204,82 M204,44 L164,82" stroke="#c33" stroke-width="2.5"/>
+<text x="158" y="56" font-size="13" fill="#c33" text-anchor="end">remove</text>
+<text x="158" y="70" font-size="13" fill="#c33" text-anchor="end">wet towel</text>
+<text x="12" y="182">Replace the wet towel; wrap</text>
+<text x="12" y="202">the baby in a dry towel and</text>
+<text x="12" y="222">cover the head</text>
+<text x="12" y="244" font-size="13" fill="#0b5cad">The head loses a lot of heat</text>
+</g>
+
+<!-- 4 watch -->
+<g transform="translate(10,422)">
+<rect x="0" y="0" width="700" height="84" rx="8" fill="#eef4fb" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="14" y="26"><tspan font-weight="bold" font-size="16">④ Watch:</tspan> Crying? Breathing? Skin colour? Arms and legs moving?</text>
+<text x="14" y="50" font-size="13">Normal: cries out loud, breathes regularly, skin gradually turns pink, arms and legs move;</text>
+<text x="14" y="70" font-size="13">slightly bluish hands and feet in the first few minutes are normal</text>
+</g>
+
+<text x="14" y="538" font-size="17" font-weight="bold" fill="#c33">Baby not crying, not breathing</text>
+
+<!-- 1 stimulate -->
+<g transform="translate(10,550)">
+<rect x="0" y="0" width="226" height="240" rx="8" fill="none" stroke="#c33" stroke-width="1.5"/>
+<circle cx="24" cy="22" r="13" fill="#c33"/>
+<text x="24" y="28" font-size="16" font-weight="bold" fill="#fff" text-anchor="middle">1</text>
+<text x="44" y="28" font-size="16" font-weight="bold">Stimulate breathing</text>
+<path d="M14,134 Q100,120 160,134" fill="none" stroke="#cfe0f0" stroke-width="14"/>
+<path d="M14,127 Q100,113 160,127" fill="none" stroke="#999" stroke-width="2"/>
+<g transform="translate(40,98) scale(1.2)"><use href="#babyP"/></g>
+<!-- finger flicks the sole -->
+<path d="M206,86 L152,108" stroke="#333" stroke-width="12" stroke-linecap="round"/>
+<path d="M206,86 L152,108" stroke="#f3e3d3" stroke-width="7.5" stroke-linecap="round"/>
+<path d="M140,92 q-6,6 0,14 M134,88 q-9,9 0,22" fill="none" stroke="#c33" stroke-width="2"/>
+<line x1="176" y1="128" x2="140" y2="118" stroke="#0b5cad" stroke-width="1"/>
+<text x="160" y="140" font-size="13" fill="#0b5cad">sole</text>
+<path d="M50,60 Q74,48 100,60" fill="none" stroke="#c33" stroke-width="2.5" marker-start="url(#ar)" marker-end="url(#ar)"/>
+<text x="104" y="58" font-size="13" fill="#c33">rub back firmly</text>
+<text x="12" y="176">Keep rubbing the back</text>
+<text x="12" y="196">firmly; flick the soles</text>
+<text x="12" y="216">of the feet</text>
+</g>
+
+<!-- 2 wipe away mucus -->
+<g transform="translate(247,550)">
+<rect x="0" y="0" width="226" height="240" rx="8" fill="none" stroke="#c33" stroke-width="1.5"/>
+<circle cx="24" cy="22" r="13" fill="#c33"/>
+<text x="24" y="28" font-size="16" font-weight="bold" fill="#fff" text-anchor="middle">2</text>
+<text x="44" y="28" font-size="16" font-weight="bold">Wipe away mucus</text>
+<!-- close-up of baby's head, profile facing right -->
+<path d="M58,148 Q60,128 76,124 L104,124 Q118,128 120,148 Z" fill="#f3e3d3" stroke="#333" stroke-width="2.2" stroke-linejoin="round"/>
+<circle cx="86" cy="90" r="36" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M60,66 Q76,52 98,58" fill="none" stroke="#555" stroke-width="1.5"/>
+<path d="M120,86 L128,96 L120,100" fill="#f3e3d3" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M102,84 Q107,87 112,84" fill="none" stroke="#333" stroke-width="1.8"/>
+<path d="M114,110 Q118,108 121,111" fill="none" stroke="#333" stroke-width="1.8"/>
+<!-- cloth-wrapped finger -->
+<path d="M196,140 L138,112" stroke="#333" stroke-width="13" stroke-linecap="round"/>
+<path d="M196,140 L138,112" stroke="#f3e3d3" stroke-width="8.5" stroke-linecap="round"/>
+<path d="M124,98 Q132,92 144,100 L150,114 Q142,122 132,118 Z" fill="#fff" stroke="#333" stroke-width="1.8" stroke-linejoin="round"/>
+<line x1="170" y1="70" x2="142" y2="98" stroke="#0b5cad" stroke-width="1"/>
+<text x="146" y="64" font-size="13" fill="#0b5cad">clean cloth</text>
+<text x="12" y="176">Obvious mucus in the mouth</text>
+<text x="12" y="196">or nose: wipe it away</text>
+<text x="12" y="216">with a clean cloth</text>
+</g>
+
+<!-- 3 rescue breaths -->
+<g transform="translate(484,550)">
+<rect x="0" y="0" width="226" height="240" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<circle cx="24" cy="22" r="13" fill="#c33"/>
+<text x="24" y="28" font-size="16" font-weight="bold" fill="#fff" text-anchor="middle">3</text>
+<text x="44" y="28" font-size="16" font-weight="bold">Rescue breaths</text>
+<line x1="12" y1="140" x2="214" y2="140" stroke="#999" stroke-width="3"/>
+<!-- baby on its back, head left, face up, head neutral -->
+<path d="M156,128 L176,110 L194,134" fill="none" stroke="#333" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M156,128 L176,110 L194,134" fill="none" stroke="#f3e3d3" stroke-width="7.5" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="124" cy="126" rx="40" ry="13" fill="#f3e3d3" stroke="#333" stroke-width="2.2"/>
+<path d="M104,118 Q114,104 128,112" fill="none" stroke="#333" stroke-width="2"/>
+<circle cx="66" cy="122" r="17" fill="#f3e3d3" stroke="#333" stroke-width="2.2"/>
+<path d="M60,104 L62,99 L67,105" fill="#f3e3d3" stroke="#333" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M71,107 Q74,105 77,108" fill="none" stroke="#333" stroke-width="1.6"/>
+<path d="M52,114 Q55,112 58,114" fill="none" stroke="#333" stroke-width="1.4"/>
+<ellipse cx="68" cy="104" rx="15" ry="8" fill="none" stroke="#c33" stroke-width="2" stroke-dasharray="4 3"/>
+<line x1="34" y1="104" x2="100" y2="104" stroke="#0b5cad" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="124" y1="66" x2="80" y2="100" stroke="#c33" stroke-width="1"/>
+<text x="100" y="52" font-size="13" fill="#c33">cover mouth</text>
+<text x="100" y="68" font-size="13" fill="#c33">and nose</text>
+<text x="12" y="162" font-size="13" fill="#0b5cad">Flat surface, head neutral,</text>
+<text x="12" y="179" font-size="13" fill="#0b5cad">not tilted far back</text>
+<text x="12" y="199" font-size="13">Still not breathing after drying</text>
+<text x="12" y="215" font-size="13">and stimulation, or only</text>
+<text x="12" y="231" font-size="13">occasional gasps</text>
+</g>
+
+<!-- rescue breath key points -->
+<g transform="translate(10,802)">
+<rect x="0" y="0" width="700" height="178" rx="8" fill="#fdecec" stroke="#c33" stroke-width="2"/>
+<text x="16" y="28" font-weight="bold" fill="#c33" font-size="16">Tell the 120 dispatcher at once and follow instructions. Rescue breaths:</text>
+<text x="16" y="54">· Blow gently: only a small mouthful of air, just enough to see the chest rise slightly</text>
+<text x="16" y="76">· One breath every 1-1.5 seconds (40-60 per minute); let the air come out by itself after each</text>
+<text x="16" y="98">· Every so often, check whether the baby has started breathing on its own</text>
+<text x="16" y="120">· If rescue breaths are needed, deal with the cord first (see Cord care),</text>
+<text x="28" y="142">so that you can lay the baby on a flat surface</text>
+<text x="16" y="164">· Keep going until the baby breathes on its own or emergency services arrive</text>
+</g>
+</g>
+</svg>

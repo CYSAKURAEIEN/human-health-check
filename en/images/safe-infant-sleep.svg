@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 614" width="720" height="614" role="img" aria-label="Safe sleep for babies. Do: sleep on the back; on a firm, flat mattress; no pillows, duvets, soft toys or cot bumpers in the cot, use a baby sleeping bag instead of a duvet; do not wrap too thickly or let the baby get too hot; same room as the parents, but in their own cot. Don't: sleep on the front or on the side; pillows, duvets, soft toys or cot bumpers in the cot; share a bed with an adult who has been drinking, taken sleeping pills or is extremely tired; sleep on a sofa">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Safe sleep for babies</title>
+<defs>
+<!-- cot (side view): mattress surface y=170 -->
+<g id="crib">
+<rect x="30" y="170" width="276" height="16" fill="#e8e8e8" stroke="#333" stroke-width="2"/>
+<path d="M30,96 L30,226 M306,96 L306,226" stroke="#8a6d3b" stroke-width="7" stroke-linecap="round"/>
+<path d="M30,104 L306,104 M30,190 L306,190" stroke="#8a6d3b" stroke-width="4"/>
+<path d="M52,104 V190 M74,104 V190 M96,104 V190 M118,104 V190 M140,104 V190 M162,104 V190 M184,104 V190 M206,104 V190 M228,104 V190 M250,104 V190 M272,104 V190 M294,104 V190" stroke="#b9a27c" stroke-width="2"/>
+</g>
+<g id="bad"><circle r="13" fill="#c33"/><path d="M-5,-5 L5,5 M5,-5 L-5,5" stroke="#fff" stroke-width="3" stroke-linecap="round"/></g>
+<g id="good"><circle r="13" fill="#0b5cad"/><path d="M-6,0 L-2,5 L6,-5" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+</defs>
+<g font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif" font-size="14" fill="#222">
+<text x="360" y="30" font-size="18" font-weight="bold" text-anchor="middle">Safe sleep for babies</text>
+
+<!-- do -->
+<g transform="translate(10,44)">
+<rect x="0" y="0" width="345" height="300" rx="8" fill="none" stroke="#0b5cad" stroke-width="1.5"/>
+<use href="#good" x="26" y="26"/>
+<text x="48" y="32" font-size="17" font-weight="bold" fill="#0b5cad">On the back, empty cot</text>
+<g transform="translate(0,-14)">
+<use href="#crib"/>
+<!-- baby on its back + sleeping bag -->
+<rect x="112" y="146" width="118" height="24" rx="11" fill="#cfe0f0" stroke="#333" stroke-width="2.2"/>
+<path d="M126,146 Q130,136 140,138" fill="none" stroke="#333" stroke-width="9" stroke-linecap="round"/>
+<path d="M126,146 Q130,136 140,138" fill="none" stroke="#f3e3d3" stroke-width="5" stroke-linecap="round"/>
+<rect x="104" y="154" width="12" height="12" fill="#f3e3d3" stroke="#333" stroke-width="1.8"/>
+<circle cx="92" cy="156" r="14" fill="#f3e3d3" stroke="#333" stroke-width="2.2"/>
+<path d="M84,150 Q87,152 90,150" fill="none" stroke="#333" stroke-width="1.4"/>
+<path d="M78,160 Q76,150 84,146" fill="none" stroke="#555" stroke-width="1.4"/>
+</g>
+<line x1="70" y1="78" x2="88" y2="124" stroke="#0b5cad" stroke-width="1"/>
+<text x="40" y="72" font-size="13" fill="#0b5cad">on the back (face up)</text>
+<line x1="230" y1="78" x2="200" y2="134" stroke="#0b5cad" stroke-width="1"/>
+<text x="186" y="58" font-size="13" fill="#0b5cad">sleeping bag instead</text>
+<text x="186" y="72" font-size="13" fill="#0b5cad">of a duvet</text>
+<text x="168" y="204" font-size="13" fill="#0b5cad" text-anchor="middle">firm, flat mattress</text>
+<line x1="168" y1="190" x2="168" y2="164" stroke="#0b5cad" stroke-width="1"/>
+<text x="14" y="234">· On the back, on a firm, flat mattress</text>
+<text x="14" y="254">· No pillows, duvets, soft toys or</text>
+<text x="26" y="272">cot bumpers in the cot</text>
+<text x="14" y="292">· Don't wrap too thickly or overheat</text>
+</g>
+
+<!-- don't -->
+<g transform="translate(365,44)">
+<rect x="0" y="0" width="345" height="300" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<use href="#bad" x="26" y="26"/>
+<text x="48" y="32" font-size="16" font-weight="bold" fill="#c33">On front or side, cluttered cot</text>
+<g transform="translate(0,-14)">
+<use href="#crib"/>
+<!-- cot bumper -->
+<path d="M36,134 L300,134 L300,168 L36,168 Z" fill="#f6dada" stroke="#c33" stroke-width="1.5" opacity="0.9"/>
+<path d="M80,134 V168 M124,134 V168 M168,134 V168 M212,134 V168 M256,134 V168" stroke="#d99" stroke-width="1.2"/>
+<!-- pillow -->
+<ellipse cx="78" cy="164" rx="34" ry="8" fill="#fff" stroke="#333" stroke-width="2"/>
+<!-- baby on its front -->
+<ellipse cx="128" cy="152" rx="28" ry="10" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<circle cx="90" cy="150" r="13" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M82,141 Q90,136 98,141" fill="none" stroke="#555" stroke-width="1.4"/>
+<!-- duvet -->
+<path d="M104,148 Q140,128 214,140 L222,166 Q160,170 106,166 Z" fill="#f7eccc" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M130,140 Q136,154 132,166 M170,136 Q176,152 172,166" fill="none" stroke="#c9b98f" stroke-width="1.5"/>
+<!-- soft toy -->
+<circle cx="258" cy="150" r="14" fill="#d8b98a" stroke="#333" stroke-width="2"/>
+<circle cx="248" cy="138" r="5" fill="#d8b98a" stroke="#333" stroke-width="1.6"/>
+<circle cx="268" cy="138" r="5" fill="#d8b98a" stroke="#333" stroke-width="1.6"/>
+<ellipse cx="258" cy="166" rx="16" ry="5" fill="#d8b98a" stroke="#333" stroke-width="1.6"/>
+<circle cx="253" cy="148" r="1.6" fill="#333"/><circle cx="263" cy="148" r="1.6" fill="#333"/>
+</g>
+<g font-size="13" fill="#c33">
+<line x1="56" y1="76" x2="88" y2="124" stroke="#c33" stroke-width="1"/>
+<text x="16" y="70">on the front</text>
+<line x1="70" y1="196" x2="66" y2="156" stroke="#c33" stroke-width="1"/>
+<text x="50" y="210">pillow</text>
+<line x1="170" y1="76" x2="164" y2="122" stroke="#c33" stroke-width="1"/>
+<text x="150" y="70">duvet</text>
+<line x1="286" y1="76" x2="264" y2="124" stroke="#c33" stroke-width="1"/>
+<text x="246" y="70">soft toy</text>
+<line x1="226" y1="196" x2="290" y2="132" stroke="#c33" stroke-width="1"/>
+<text x="168" y="210">cot bumper</text>
+</g>
+<text x="14" y="234"><tspan fill="#c33" font-weight="bold">✗</tspan> Not on the front, not on the side</text>
+<text x="14" y="254"><tspan fill="#c33" font-weight="bold">✗</tspan> Pillows, duvets, soft toys, cot bumpers:</text>
+<text x="32" y="272">keep them all out of the cot</text>
+</g>
+
+<!-- same room, own cot -->
+<g transform="translate(10,354)">
+<rect x="0" y="0" width="226" height="250" rx="8" fill="none" stroke="#0b5cad" stroke-width="1.5"/>
+<use href="#good" x="24" y="24"/>
+<text x="44" y="30" font-size="16" font-weight="bold" fill="#0b5cad">Same room</text>
+<!-- adult bed -->
+<rect x="12" y="118" width="122" height="18" fill="#e8e8e8" stroke="#333" stroke-width="2"/>
+<path d="M12,92 L12,160 M134,124 L134,160" stroke="#8a6d3b" stroke-width="6" stroke-linecap="round"/>
+<ellipse cx="34" cy="112" rx="16" ry="6" fill="#fff" stroke="#333" stroke-width="1.8"/>
+<circle cx="34" cy="100" r="11" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M44,104 Q90,92 132,106 L132,118 L44,118 Z" fill="#cfe0f0" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<!-- cot -->
+<rect x="146" y="124" width="68" height="10" fill="#e8e8e8" stroke="#333" stroke-width="1.8"/>
+<path d="M146,80 L146,160 M214,80 L214,160" stroke="#8a6d3b" stroke-width="5" stroke-linecap="round"/>
+<path d="M146,86 L214,86 M146,142 L214,142" stroke="#8a6d3b" stroke-width="3"/>
+<path d="M160,86 V142 M174,86 V142 M188,86 V142 M202,86 V142" stroke="#b9a27c" stroke-width="1.5"/>
+<rect x="168" y="112" width="34" height="12" rx="6" fill="#cfe0f0" stroke="#333" stroke-width="1.6"/>
+<circle cx="162" cy="116" r="7" fill="#f3e3d3" stroke="#333" stroke-width="1.6"/>
+<line x1="180" y1="60" x2="180" y2="108" stroke="#0b5cad" stroke-width="1"/>
+<text x="124" y="56" font-size="13" fill="#0b5cad">their own cot</text>
+<text x="12" y="182">Same room as the parents,</text>
+<text x="12" y="202">but in their own cot</text>
+</g>
+
+<!-- do not share a bed with these adults -->
+<g transform="translate(247,354)">
+<rect x="0" y="0" width="226" height="250" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<use href="#bad" x="24" y="24"/>
+<text x="44" y="30" font-size="16" font-weight="bold" fill="#c33">Sharing a bed</text>
+<rect x="12" y="118" width="170" height="18" fill="#e8e8e8" stroke="#333" stroke-width="2"/>
+<path d="M12,92 L12,160 M182,124 L182,160" stroke="#8a6d3b" stroke-width="6" stroke-linecap="round"/>
+<ellipse cx="34" cy="112" rx="16" ry="6" fill="#fff" stroke="#333" stroke-width="1.8"/>
+<circle cx="34" cy="100" r="11" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M44,104 Q100,90 180,106 L180,118 L44,118 Z" fill="#cfe0f0" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<!-- baby next to the adult -->
+<circle cx="70" cy="90" r="7" fill="#f3e3d3" stroke="#333" stroke-width="1.6"/>
+<rect x="76" y="84" width="28" height="11" rx="5" fill="#cfe0f0" stroke="#333" stroke-width="1.5"/>
+<text x="16" y="80" font-size="16" fill="#555">Zz</text>
+<!-- alcohol bottle, pills -->
+<path d="M140,46 L148,46 L148,56 Q156,60 156,68 L156,92 L132,92 L132,68 Q132,60 140,56 Z" fill="#e8f0e0" stroke="#333" stroke-width="1.8" stroke-linejoin="round"/>
+<rect x="170" y="68" width="30" height="12" rx="6" fill="#fff" stroke="#333" stroke-width="1.8"/>
+<line x1="185" y1="68" x2="185" y2="80" stroke="#333" stroke-width="1.5"/>
+<text x="12" y="182">Don't share a bed with an</text>
+<text x="12" y="202">adult who has been drinking,</text>
+<text x="12" y="222">taken sleeping pills or is</text>
+<text x="12" y="242">extremely tired</text>
+</g>
+
+<!-- not on a sofa -->
+<g transform="translate(484,354)">
+<rect x="0" y="0" width="226" height="250" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<use href="#bad" x="24" y="24"/>
+<text x="44" y="30" font-size="16" font-weight="bold" fill="#c33">Sleeping on a sofa</text>
+<!-- sofa -->
+<rect x="40" y="70" width="148" height="44" rx="12" fill="#d9c7e6" stroke="#333" stroke-width="2"/>
+<rect x="26" y="96" width="176" height="40" rx="10" fill="#d9c7e6" stroke="#333" stroke-width="2"/>
+<rect x="18" y="84" width="26" height="60" rx="10" fill="#cbb5db" stroke="#333" stroke-width="2"/>
+<rect x="184" y="84" width="26" height="60" rx="10" fill="#cbb5db" stroke="#333" stroke-width="2"/>
+<path d="M40,144 L40,156 M188,144 L188,156" stroke="#333" stroke-width="4" stroke-linecap="round"/>
+<!-- baby -->
+<rect x="96" y="86" width="44" height="14" rx="7" fill="#cfe0f0" stroke="#333" stroke-width="1.6"/>
+<circle cx="86" cy="92" r="9" fill="#f3e3d3" stroke="#333" stroke-width="1.6"/>
+<text x="12" y="182">Never let a baby sleep</text>
+<text x="12" y="202">on a sofa</text>
+</g>
+</g>
+</svg>

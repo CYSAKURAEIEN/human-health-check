@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 798" width="720" height="798" role="img" aria-label="Handling the umbilical cord. No rush to cut: if the baby is breathing normally, wait at least 1 minute before clamping the cord; if the ambulance will arrive soon you do not need to cut it yourself; keep the baby on the mother's chest, make sure the cord is not pulled, and once the placenta has come out wrap it up with it and take it to hospital. When it must be cut (the baby needs rescue breaths, or professional help is not expected for more than 1 hour): 1 wait until the cord stops pulsing, but do not wait if the baby needs rescue breaths; 2 tie it in two places with clean strips of cloth or shoelaces, boiled or scalded with boiling water: the first about 10 cm from the baby's navel (about the width of a palm), the second about 5 cm further towards the placenta; knot each tightly, do not use fine thread; 3 cut between the two ties with sterilised scissors or a blade; 4 if the cut end on the baby's side oozes blood, tie it again closer to the baby. Scissors and blades must be sterilised by boiling for at least 10 minutes; unclean tools are the main cause of newborn tetanus; put nothing on the cut end">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Handling the umbilical cord: no rush to cut; if you must, tie it in two places</title>
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="ab" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<g id="tie">
+<rect x="-5" y="-15" width="10" height="30" rx="3" fill="#b08a5a" stroke="#333" stroke-width="1.5"/>
+<path d="M0,-15 Q-8,-26 -14,-22 M0,-15 Q8,-26 14,-22" fill="none" stroke="#b08a5a" stroke-width="4" stroke-linecap="round"/>
+</g>
+</defs>
+<g font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif" font-size="14" fill="#222">
+<text x="360" y="30" font-size="18" font-weight="bold" text-anchor="middle">The umbilical cord: no rush to cut; if you must, tie it in two places</text>
+
+<!-- no rush to cut -->
+<g transform="translate(10,44)">
+<rect x="0" y="0" width="700" height="158" rx="8" fill="#eef4fb" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="#0b5cad">✓ No rush to cut</text>
+<!-- clock -->
+<circle cx="44" cy="84" r="24" fill="#fff" stroke="#0b5cad" stroke-width="2.5"/>
+<path d="M44,84 L44,66 M44,84 L58,90" stroke="#0b5cad" stroke-width="2.5" stroke-linecap="round"/>
+<text x="80" y="66" font-weight="bold">Baby breathing normally:</text>
+<text x="80" y="88">wait at least 1 minute before</text>
+<text x="80" y="106">clamping the cord</text>
+<text x="80" y="128" font-size="13" fill="#555">(WHO advice) meanwhile, blood from the</text>
+<text x="80" y="145" font-size="13" fill="#555">placenta keeps flowing into the baby</text>
+<line x1="340" y1="44" x2="340" y2="146" stroke="#bbb" stroke-width="1.5"/>
+<text x="360" y="66" font-weight="bold">Ambulance coming soon: no need to cut it</text>
+<text x="360" y="88">· Baby on the mother's chest; make sure the</text>
+<text x="372" y="106">cord is not pulled</text>
+<text x="360" y="128">· Once the placenta is out, wrap it up and take</text>
+<text x="372" y="146">it to hospital with mother and baby</text>
+</g>
+
+<!-- when it must be cut -->
+<g transform="translate(10,212)">
+<rect x="0" y="0" width="700" height="418" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">When it must be cut</text>
+<text x="16" y="48" font-size="13" fill="#555">(the baby needs rescue breaths; or professional help is not expected for a long time, e.g. more than 1 hour)</text>
+<g transform="translate(0,14)">
+<!-- baby (on its back, seen from above) -->
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M58,168 L46,198 L56,212 M86,168 L98,198 L88,212" stroke="#333" stroke-width="15"/>
+<path d="M58,168 L46,198 L56,212 M86,168 L98,198 L88,212" stroke="#f3e3d3" stroke-width="10.5"/>
+<path d="M52,104 L30,128 L34,148 M92,104 L114,128 L110,148" stroke="#333" stroke-width="13"/>
+<path d="M52,104 L30,128 L34,148 M92,104 L114,128 L110,148" stroke="#f3e3d3" stroke-width="8.5"/>
+</g>
+<rect x="44" y="96" width="56" height="80" rx="22" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<circle cx="72" cy="74" r="25" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M56,58 Q72,46 88,58" fill="none" stroke="#555" stroke-width="1.5"/>
+<path d="M62,74 Q65,77 68,74 M76,74 Q79,77 82,74" fill="none" stroke="#333" stroke-width="1.6"/>
+<path d="M68,86 Q72,89 76,86" fill="none" stroke="#333" stroke-width="1.6"/>
+<circle cx="72" cy="146" r="3" fill="#333"/>
+<text x="72" y="240" font-size="13" text-anchor="middle" fill="#555">baby</text>
+
+<!-- cord: 1 cm ≈ 16 px, navel at x=72 -->
+<path d="M72,146 Q90,146 110,146 L560,146" fill="none" stroke="#333" stroke-width="14" stroke-linecap="round"/>
+<path d="M72,146 Q90,146 110,146 L560,146" fill="none" stroke="#e3ebf3" stroke-width="9.5" stroke-linecap="round"/>
+<path d="M120,146 q10,-4 20,0 t20,0 t20,0 t20,0 t20,0 t20,0 t20,0 t20,0 t20,0 t20,0 t20,0 t20,0 t20,0 t20,0 t20,0 t20,0 t20,0 t20,0 t20,0 t20,0 t20,0 t20,0" fill="none" stroke="#a9bccf" stroke-width="1.5"/>
+<path d="M566,146 L640,146" stroke="#0b5cad" stroke-width="1.5" stroke-dasharray="5 4" marker-end="url(#ab)"/>
+<text x="592" y="134" font-size="13" fill="#0b5cad">to the placenta</text>
+
+<use href="#tie" x="232" y="146"/>
+<use href="#tie" x="312" y="146"/>
+
+<!-- dimensions -->
+<g stroke="#0b5cad" stroke-width="1.2">
+<line x1="72" y1="100" x2="72" y2="126"/><line x1="232" y1="100" x2="232" y2="122"/><line x1="312" y1="100" x2="312" y2="122"/>
+<line x1="76" y1="108" x2="228" y2="108" marker-start="url(#ab)" marker-end="url(#ab)"/>
+<line x1="236" y1="108" x2="308" y2="108" marker-start="url(#ab)" marker-end="url(#ab)"/>
+</g>
+<text x="106" y="80" font-size="13" fill="#0b5cad">about 10 cm from the navel</text>
+<text x="106" y="98" font-size="13" fill="#0b5cad">(a palm's width)</text>
+<text x="272" y="98" font-size="13" fill="#0b5cad" text-anchor="middle">about 5 cm</text>
+
+<!-- where to cut -->
+<line x1="272" y1="122" x2="272" y2="172" stroke="#c33" stroke-width="2" stroke-dasharray="4 3"/>
+<g transform="translate(272,200)">
+<circle cx="-9" cy="20" r="7" fill="#fff" stroke="#333" stroke-width="2.5"/>
+<circle cx="9" cy="20" r="7" fill="#fff" stroke="#333" stroke-width="2.5"/>
+<path d="M-6,14 L5,-22 M6,14 L-5,-22" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+</g>
+<text x="232" y="196" font-size="13" fill="#555" text-anchor="end">first tie</text>
+<text x="312" y="196" font-size="13" fill="#555">second tie</text>
+<text x="272" y="248" font-size="13" fill="#c33" text-anchor="middle">cut between the two ties</text>
+<line x1="420" y1="186" x2="318" y2="160" stroke="#0b5cad" stroke-width="1"/>
+<text x="424" y="184" font-size="13" fill="#0b5cad">clean strips of cloth or shoelaces</text>
+<text x="424" y="202" font-size="13" fill="#0b5cad">(boiled or scalded with boiling water);</text>
+<text x="424" y="220" font-size="13" fill="#0b5cad">knot each tie tightly</text>
+<text x="424" y="238" font-size="13" fill="#c33">✗ No fine thread</text>
+<text x="438" y="255" font-size="13" fill="#c33">(it may cut through the cord)</text>
+
+<!-- steps -->
+<line x1="16" y1="268" x2="684" y2="268" stroke="#ddd" stroke-width="1"/>
+<text x="16" y="292"><tspan font-weight="bold">1</tspan> Wait until the cord stops pulsing (you can feel it by pinching lightly; then it goes limp and white);</text>
+<text x="30" y="310">do not wait if the baby needs rescue breaths</text>
+<text x="16" y="334"><tspan font-weight="bold">2</tspan> Tie it in two places: the first about 10 cm from the baby's navel,</text>
+<text x="30" y="352">the second about 5 cm further towards the placenta</text>
+<text x="16" y="376"><tspan font-weight="bold">3</tspan> Cut between the two ties with sterilised scissors or a blade</text>
+<text x="16" y="394"><tspan font-weight="bold">4</tspan> Cut end on the baby's side oozing blood → tie it again closer to the baby</text>
+</g>
+</g>
+
+<!-- warning -->
+<g transform="translate(10,640)">
+<rect x="0" y="0" width="700" height="148" rx="8" fill="#fdecec" stroke="#c33" stroke-width="2"/>
+<text x="16" y="28" font-size="16" font-weight="bold" fill="#c33">⚠️ Scissors and blades must be sterilised (boiled for at least 10 minutes)</text>
+<text x="16" y="50">Cutting the cord with unclean tools is the main cause of newborn tetanus,</text>
+<text x="16" y="68">which has a very high death rate</text>
+<text x="16" y="96" font-weight="bold" fill="#c33">✗ Do not put anything at all on the cut end:</text>
+<text x="16" y="118">plant ash, soil, incense ash, cow dung, toothpaste, or any folk-remedy powders</text>
+<text x="16" y="136">(all can cause infection and tetanus)</text>
+</g>
+</g>
+</svg>
