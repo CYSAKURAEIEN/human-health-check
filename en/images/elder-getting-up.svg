@@ -1,0 +1,192 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 768" width="720" height="768" role="img" aria-label="After an older person falls: don't rush to help them up. First ask where it hurts, whether they can move, whether they hit their head, and whether before the fall they felt dizzy, a tight chest, a racing heart or weakness on one side. With severe pain, especially in the hip, lower back or neck, one leg clearly shorter with the toes turned outwards, inability to move or numb or weak limbs, a blow to the head or confusion or vomiting, a drooping mouth or slurred speech, or chest pain or difficulty breathing: do not help them up, leave them where they are and call 120; while waiting keep them warm with a blanket, put something soft under the head, and give no food or water. With no obvious injury, help them up slowly: 1 lie on the side and rest for a while; 2 slowly roll onto hands and knees; 3 next to a sturdy chair, holding the chair, put one foot flat on the floor to half-kneel; 4 push up slowly to stand, then turn and sit on the chair; 5 rest sitting down and check for pain or dizziness; 6 the helper stays alongside to guard them and never yanks or drags the older person by the arms. An older person on anticoagulants must see a doctor after even a light knock to the head">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>After an older person falls: check first, then help them up slowly</title>
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+
+<g id="hd">
+<circle r="14" fill="#ccc"/>
+<circle cx="3" cy="3" r="11" fill="#f3e3d3"/>
+<circle r="14" fill="none" stroke="#333" stroke-width="2.5"/>
+</g>
+
+<g id="ch">
+<path d="M0,0 L0,-110" stroke="#8a5a2b" stroke-width="6" stroke-linecap="round"/>
+<rect x="-3" y="-60" width="56" height="9" rx="2" fill="#c9955c" stroke="#333" stroke-width="2"/>
+<path d="M50,-51 L50,0 M4,-51 L4,0" stroke="#8a5a2b" stroke-width="6" stroke-linecap="round"/>
+<path d="M0,-108 L0,-66" stroke="#333" stroke-width="1.2" fill="none"/>
+</g>
+</defs>
+<g font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif" font-size="14" fill="#222">
+<text x="360" y="30" font-size="18" font-weight="bold" text-anchor="middle">After an older person falls: check first, don't rush to help them up</text>
+
+
+<g transform="translate(10,44)">
+<rect x="0" y="0" width="300" height="284" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="#0b5cad">1. Ask first</text>
+<text x="16" y="56">· Where does it hurt? Can you move?</text>
+<text x="16" y="78">· Did you hit your head?</text>
+<text x="16" y="100">· Before the fall: dizziness, a tight</text>
+<text x="28" y="118">chest, a racing heart, or weakness</text>
+<text x="28" y="136">on one side?</text>
+<g transform="translate(0 34)">
+<line x1="16" y1="226" x2="284" y2="226" stroke="#999" stroke-width="3"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M126,212 L156,206 L184,216" stroke="#333" stroke-width="17"/>
+<path d="M126,212 L156,206 L184,216" stroke="#cfe0f0" stroke-width="12"/>
+</g>
+<rect x="64" y="196" width="66" height="28" rx="12" fill="#cfe0f0" stroke="#333" stroke-width="2.5"/>
+<use href="#hd" transform="translate(48,208)"/>
+
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M244,200 L248,218 L272,218 M236,200 L210,198 L210,216" stroke="#333" stroke-width="16"/>
+<path d="M244,200 L248,218 L272,218 M236,200 L210,198 L210,216" stroke="#e6e6e6" stroke-width="11"/>
+<path d="M226,168 L206,186 L188,198" stroke="#333" stroke-width="12"/>
+<path d="M226,168 L206,186 L188,198" stroke="#f3e3d3" stroke-width="7"/>
+</g>
+<path d="M238,198 L232,160" stroke="#333" stroke-width="30" stroke-linecap="round"/>
+<path d="M238,198 L232,160" stroke="#e6e6e6" stroke-width="25" stroke-linecap="round"/>
+<circle cx="226" cy="132" r="14" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M212,130 Q212,116 226,116 Q240,116 240,130 Q234,122 226,122 Q218,122 212,130 Z" fill="#555"/>
+<path d="M140,136 L196,136 Q204,136 204,144 L204,160 Q204,168 196,168 L162,168 L150,178 L152,168 L140,168 Q132,168 132,160 L132,144 Q132,136 140,136 Z" fill="#fff" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="168" y="150" font-size="12" fill="#0b5cad" text-anchor="middle">Where does</text>
+<text x="168" y="164" font-size="12" fill="#0b5cad" text-anchor="middle">it hurt?</text>
+</g>
+</g>
+
+
+<g transform="translate(320,44)">
+<rect x="0" y="0" width="390" height="284" rx="8" fill="#fdecec" stroke="#c33" stroke-width="2"/>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="#c33">2. In these cases: do not help them up;</text>
+<text x="16" y="48" font-size="17" font-weight="bold" fill="#c33">leave them where they are and call 120</text>
+<g font-size="14">
+<text x="16" y="74">· Severe pain, especially in the hip (top of the</text>
+<text x="28" y="91">thigh), lower back or neck</text>
+<text x="16" y="111">· One leg clearly shorter, toes turned outwards</text>
+<text x="28" y="128">(hip fracture)</text>
+<text x="16" y="148">· Cannot move, or arms or legs numb or weak</text>
+<text x="16" y="168">· Hit their head, or confused or vomiting</text>
+<text x="16" y="188">· Drooping mouth, slurred speech (possible stroke)</text>
+<text x="16" y="208">· Chest pain, difficulty breathing (possible</text>
+<text x="28" y="225">heart problem)</text>
+</g>
+<line x1="16" y1="236" x2="374" y2="236" stroke="#e8a0a0" stroke-width="1"/>
+<text x="16" y="256"><tspan font-weight="bold">While waiting:</tspan> keep them warm with a blanket,</text>
+<text x="16" y="274">something soft under the head; no food or water</text>
+</g>
+
+<text x="16" y="362" font-size="17" font-weight="bold" fill="#0b5cad">No obvious injury: help them up slowly</text>
+
+
+<g transform="translate(10,374)">
+<rect x="0" y="0" width="167" height="256" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<circle cx="24" cy="24" r="14" fill="#c33"/>
+<text x="24" y="30" font-size="17" font-weight="bold" fill="#fff" text-anchor="middle">1</text>
+<text x="46" y="30" font-size="16" font-weight="bold">On the side</text>
+<line x1="8" y1="176" x2="159" y2="176" stroke="#999" stroke-width="3"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M104,162 L128,152 L150,164" stroke="#333" stroke-width="18"/>
+<path d="M104,162 L128,152 L150,164" stroke="#cfe0f0" stroke-width="13"/>
+</g>
+<ellipse cx="155" cy="166" rx="6" ry="8" fill="#666"/>
+<rect x="46" y="142" width="62" height="30" rx="12" fill="#cfe0f0" stroke="#333" stroke-width="2.5"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M56,150 L80,156 L96,150" stroke="#333" stroke-width="12"/>
+<path d="M56,150 L80,156 L96,150" stroke="#cfe0f0" stroke-width="7"/>
+</g>
+<use href="#hd" transform="translate(30,158) rotate(-90)"/>
+<text x="14" y="204" font-size="14">Lie on the side and</text>
+<text x="14" y="224" font-size="14">rest for a while</text>
+</g>
+
+
+<g transform="translate(187,374)">
+<rect x="0" y="0" width="167" height="256" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<circle cx="24" cy="24" r="14" fill="#c33"/>
+<text x="24" y="30" font-size="17" font-weight="bold" fill="#fff" text-anchor="middle">2</text>
+<text x="46" y="30" font-size="16" font-weight="bold">Hands, knees</text>
+<line x1="8" y1="176" x2="159" y2="176" stroke="#999" stroke-width="3"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M116,130 L118,166 L150,166" stroke="#333" stroke-width="18"/>
+<path d="M116,130 L118,166 L150,166" stroke="#cfe0f0" stroke-width="13"/>
+</g>
+<rect x="56" y="108" width="70" height="30" rx="12" fill="#cfe0f0" stroke="#333" stroke-width="2.5"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M68,126 L66,166" stroke="#333" stroke-width="13"/>
+<path d="M68,126 L66,166" stroke="#f3e3d3" stroke-width="8"/>
+</g>
+<ellipse cx="62" cy="170" rx="8" ry="4" fill="#f3e3d3" stroke="#333" stroke-width="1.8"/>
+<use href="#hd" transform="translate(40,118) rotate(-60)"/>
+<text x="14" y="204" font-size="14">Slowly roll onto</text>
+<text x="14" y="224" font-size="14">hands and knees</text>
+</g>
+
+
+<g transform="translate(366,374)">
+<rect x="0" y="0" width="167" height="256" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<circle cx="24" cy="24" r="14" fill="#c33"/>
+<text x="24" y="30" font-size="17" font-weight="bold" fill="#fff" text-anchor="middle">3</text>
+<text x="46" y="30" font-size="16" font-weight="bold">Half-kneel</text>
+<line x1="8" y1="176" x2="159" y2="176" stroke="#999" stroke-width="3"/>
+<use href="#ch" transform="translate(16,174)"/>
+
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M122,130 L128,166 L154,166" stroke="#333" stroke-width="18"/>
+<path d="M122,130 L128,166 L154,166" stroke="#cfe0f0" stroke-width="13"/>
+</g>
+
+<path d="M120,128 L110,94" stroke="#333" stroke-width="32" stroke-linecap="round"/>
+<path d="M120,128 L110,94" stroke="#cfe0f0" stroke-width="27" stroke-linecap="round"/>
+
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M120,132 L90,128 L92,166" stroke="#333" stroke-width="18"/>
+<path d="M120,132 L90,128 L92,166" stroke="#cfe0f0" stroke-width="13"/>
+</g>
+<path d="M78,166 L98,166 Q102,166 102,172 L78,172 Q74,172 78,166 Z" fill="#666"/>
+
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M108,94 L86,112 L62,112" stroke="#333" stroke-width="13"/>
+<path d="M108,94 L86,112 L62,112" stroke="#f3e3d3" stroke-width="8"/>
+</g>
+<ellipse cx="58" cy="112" rx="7" ry="5" fill="#f3e3d3" stroke="#333" stroke-width="1.8"/>
+<use href="#hd" transform="translate(100,64) scale(-1,1)"/>
+<text x="14" y="204" font-size="14">Holding a sturdy chair,</text>
+<text x="14" y="224" font-size="14">put one foot flat on</text>
+<text x="14" y="244" font-size="14">the floor: half-kneel</text>
+</g>
+
+
+<g transform="translate(543,374)">
+<rect x="0" y="0" width="167" height="256" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<circle cx="24" cy="24" r="14" fill="#c33"/>
+<text x="24" y="30" font-size="17" font-weight="bold" fill="#fff" text-anchor="middle">4</text>
+<text x="46" y="30" font-size="16" font-weight="bold">Stand, sit</text>
+<line x1="8" y1="176" x2="159" y2="176" stroke="#999" stroke-width="3"/>
+<use href="#ch" transform="translate(30,174)"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M58,106 L100,108 L102,166" stroke="#333" stroke-width="18"/>
+<path d="M58,106 L100,108 L102,166" stroke="#cfe0f0" stroke-width="13"/>
+</g>
+<path d="M98,166 L118,166 Q122,166 122,172 L98,172 Z" fill="#666"/>
+<path d="M58,104 L56,84" stroke="#333" stroke-width="32" stroke-linecap="round"/>
+<path d="M58,104 L56,84" stroke="#cfe0f0" stroke-width="27" stroke-linecap="round"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M60,82 L74,100 L92,102" stroke="#333" stroke-width="13"/>
+<path d="M60,82 L74,100 L92,102" stroke="#f3e3d3" stroke-width="8"/>
+</g>
+<use href="#hd" transform="translate(60,56) scale(-1,1)"/>
+<text x="14" y="204" font-size="14">Push up slowly to</text>
+<text x="14" y="224" font-size="14">stand, then turn and</text>
+<text x="14" y="244" font-size="14">sit on the chair</text>
+</g>
+
+<!-- 5 6 -->
+<g transform="translate(10,640)">
+<rect x="0" y="0" width="700" height="118" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28"><tspan font-weight="bold">5. Rest sitting down</tspan>; check for pain or dizziness</text>
+<text x="16" y="54"><tspan font-weight="bold" fill="#c33">6. The helper guards them from alongside; never yank or drag them by the arms</tspan></text>
+<text x="16" y="82" font-size="14" fill="#c33">⚠️ An older person on anticoagulants (such as warfarin) must see a doctor</text>
+<text x="38" y="102" font-size="14" fill="#c33">after even a light knock to the head</text>
+</g>
+</g>
+</svg>

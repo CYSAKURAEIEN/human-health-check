@@ -1,0 +1,223 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 920" width="720" height="920" role="img" aria-label="Order of water rescue: first shout, call loudly for help and have bystanders call 110/120; 1 reach: lie on the bank or crouch low to keep your weight low, hold something fixed with the other hand, and hold out a bamboo pole, branch, strip of knotted clothes or belt; once they grab it, pull them in slowly, and let go at once if you feel yourself being pulled into the water; 2 throw: throw a lifebuoy or anything else that floats, ideally tied to a rope, in front of them on the downstream side; 3 row: approach by boat; 4 swim: the last resort, only with training; non-swimmers must not go into the water, and do not form a human chain holding hands into the water">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Water rescue: shout, then reach, throw, row, and swim only as a last resort</title>
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="ab" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+</defs>
+<g font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif" font-size="14" fill="#222">
+<text x="360" y="28" font-size="17" font-weight="bold" text-anchor="middle">Water rescue: try everything from the bank first; go in only as a last resort</text>
+
+
+<g text-anchor="middle">
+<rect x="10" y="42" width="120" height="50" rx="8" fill="#eef5fb" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="70" y="64" font-size="17" font-weight="bold">Shout</text>
+<text x="70" y="84" font-size="13" fill="#555">call for help</text>
+<rect x="155" y="42" width="120" height="50" rx="8" fill="#eef5fb" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="215" y="64" font-size="17" font-weight="bold">① Reach</text>
+<text x="215" y="84" font-size="13" fill="#555">hold out a pole</text>
+<rect x="300" y="42" width="120" height="50" rx="8" fill="#eef5fb" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="360" y="64" font-size="17" font-weight="bold">② Throw</text>
+<text x="360" y="84" font-size="13" fill="#555">a floating object</text>
+<rect x="445" y="42" width="120" height="50" rx="8" fill="#eef5fb" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="505" y="64" font-size="17" font-weight="bold">③ Row</text>
+<text x="505" y="84" font-size="13" fill="#555">approach by boat</text>
+<rect x="590" y="42" width="120" height="50" rx="8" fill="#fdecec" stroke="#c33" stroke-width="1.5"/>
+<text x="650" y="64" font-size="17" font-weight="bold" fill="#c33">④ Swim</text>
+<text x="650" y="84" font-size="13" fill="#c33">last resort, trained</text>
+</g>
+<g stroke="#0b5cad" stroke-width="2.5" marker-end="url(#ab)">
+<path d="M133,67 L152,67"/><path d="M278,67 L297,67"/><path d="M423,67 L442,67"/><path d="M568,67 L587,67"/>
+</g>
+
+
+<g transform="translate(10,102)">
+<rect x="0" y="0" width="226" height="270" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<rect x="120" y="140" width="94" height="42" fill="#d8ebf7"/>
+<circle cx="182" cy="132" r="11" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M172,127 Q182,116 192,127 Q182,122 172,127 Z" fill="#555"/>
+<rect x="120" y="141" width="94" height="41" fill="#d8ebf7"/>
+<path d="M120,140 L214,140" stroke="#7aa6cc" stroke-width="2"/>
+<path d="M166,146 Q172,142 178,146 M186,146 Q192,142 198,146" fill="none" stroke="#7aa6cc" stroke-width="1.5"/>
+<path d="M12,130 L116,130 L126,182" fill="none" stroke="#999" stroke-width="3" stroke-linejoin="round"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M56,60 L48,90" stroke="#333" stroke-width="14"/><path d="M56,60 L48,90" stroke="#f3e3d3" stroke-width="9"/>
+<path d="M56,92 L50,126 M62,92 L70,126" stroke="#333" stroke-width="19"/><path d="M56,92 L50,126 M62,92 L70,126" stroke="#cfe0f0" stroke-width="14"/>
+<path d="M58,58 L58,92" stroke="#333" stroke-width="30"/><path d="M58,58 L58,92" stroke="#cfe0f0" stroke-width="25"/>
+</g>
+<circle cx="60" cy="36" r="15" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M46,32 Q50,18 66,21 Q54,24 46,32 Z" fill="#555"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M60,62 L82,64 L80,44" stroke="#333" stroke-width="14"/><path d="M60,62 L82,64 L80,44" stroke="#f3e3d3" stroke-width="9"/>
+</g>
+<ellipse cx="79" cy="40" rx="6" ry="7" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M92,28 Q98,38 92,48 M100,22 Q109,38 100,54" fill="none" stroke="#c33" stroke-width="2.5" stroke-linecap="round"/>
+<text x="114" y="36" font-size="14" fill="#c33">Shout loudly</text>
+<text x="114" y="52" font-size="14" fill="#c33">for help</text>
+<path d="M168,166 L136,166" stroke="#0b5cad" stroke-width="2" marker-end="url(#ab)"/>
+<text x="12" y="204"><tspan font-weight="bold">Shout:</tspan> call loudly for help;</text>
+<text x="26" y="222">have others call 110/120;</text>
+<text x="26" y="240">tell the person to float</text>
+<text x="26" y="258">towards you</text>
+</g>
+
+
+<g transform="translate(246,102)">
+<rect x="0" y="0" width="464" height="270" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<rect x="232" y="140" width="220" height="42" fill="#d8ebf7"/>
+<path d="M232,140 L452,140" stroke="#7aa6cc" stroke-width="2"/>
+<path d="M12,130 L228,130 L238,182" fill="none" stroke="#999" stroke-width="3" stroke-linejoin="round"/>
+
+<rect x="62" y="44" width="14" height="86" fill="#b08a58" stroke="#333" stroke-width="2"/>
+
+<circle cx="360" cy="132" r="12" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M349,127 Q360,115 371,127 Q360,122 349,127 Z" fill="#555"/>
+<rect x="340" y="141" width="40" height="40" fill="#d8ebf7"/>
+<path d="M340,140 L380,140" stroke="#7aa6cc" stroke-width="2"/>
+<path d="M350,139 L343,133" stroke="#333" stroke-width="12" stroke-linecap="round"/><path d="M350,139 L343,133" stroke="#f3e3d3" stroke-width="7" stroke-linecap="round"/>
+<rect x="338" y="141" width="24" height="12" fill="#d8ebf7"/>
+<path d="M336,140 L364,140" stroke="#7aa6cc" stroke-width="2"/>
+
+<path d="M146,86 L344,132" stroke="#333" stroke-width="7" stroke-linecap="round"/>
+<path d="M146,86 L344,132" stroke="#c8a46e" stroke-width="4" stroke-linecap="round"/>
+<ellipse cx="341" cy="131" rx="6" ry="6" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M118,104 L104,126 L80,126" stroke="#333" stroke-width="19"/><path d="M118,104 L104,126 L80,126" stroke="#cfe0f0" stroke-width="14"/>
+<path d="M118,104 L148,98 L152,124" stroke="#333" stroke-width="19"/><path d="M118,104 L148,98 L152,124" stroke="#cfe0f0" stroke-width="14"/>
+<path d="M118,102 L110,70" stroke="#333" stroke-width="30"/><path d="M118,102 L110,70" stroke="#cfe0f0" stroke-width="25"/>
+<path d="M108,72 L90,84 L72,82" stroke="#333" stroke-width="14"/><path d="M108,72 L90,84 L72,82" stroke="#f3e3d3" stroke-width="9"/>
+</g>
+<circle cx="112" cy="48" r="15" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M98,44 Q102,30 118,33 Q106,36 98,44 Z" fill="#555"/>
+<ellipse cx="70" cy="82" rx="7" ry="7" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M112,74 L134,90 L146,86" stroke="#333" stroke-width="14"/><path d="M112,74 L134,90 L146,86" stroke="#f3e3d3" stroke-width="9"/>
+</g>
+<ellipse cx="148" cy="86" rx="7" ry="6" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+
+<path d="M326,110 L244,91" stroke="#c33" stroke-width="3" marker-end="url(#ar)"/>
+<text x="250" y="80" font-size="14" fill="#c33">Pull back slowly</text>
+
+<text x="12" y="16" font-size="13" fill="#0b5cad">Other hand holds</text>
+<text x="12" y="30" font-size="13" fill="#0b5cad">something fixed</text>
+<line x1="40" y1="35" x2="66" y2="78" stroke="#0b5cad" stroke-width="1"/>
+<text x="250" y="28" font-size="13" fill="#0b5cad">A bamboo pole, branch, knotted</text>
+<text x="250" y="46" font-size="13" fill="#0b5cad">strip of clothes or belt all work</text>
+<line x1="420" y1="50" x2="334" y2="126" stroke="#0b5cad" stroke-width="1"/>
+<text x="40" y="154" font-size="13" fill="#0b5cad">Lie or crouch low, weight low</text>
+<line x1="110" y1="142" x2="116" y2="128" stroke="#0b5cad" stroke-width="1"/>
+<text x="12" y="204"><tspan font-weight="bold">① Reach:</tspan> lie on the bank or crouch low; hold something</text>
+<text x="26" y="222">fixed with the other hand and hold out the pole or strip;</text>
+<text x="26" y="240">once they grab it, pull them in slowly.</text>
+<text x="26" y="258" fill="#c33">If you feel yourself being pulled into the water, let go at once</text>
+</g>
+
+
+<g transform="translate(10,382)">
+<rect x="0" y="0" width="464" height="270" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<rect x="152" y="140" width="300" height="42" fill="#d8ebf7"/>
+<path d="M152,140 L452,140" stroke="#7aa6cc" stroke-width="2"/>
+<path d="M12,130 L148,130 L158,182" fill="none" stroke="#999" stroke-width="3" stroke-linejoin="round"/>
+
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M76,92 L62,126 M80,92 L98,126" stroke="#333" stroke-width="19"/><path d="M76,92 L62,126 M80,92 L98,126" stroke="#cfe0f0" stroke-width="14"/>
+<path d="M76,58 L84,82 L94,98" stroke="#333" stroke-width="14"/><path d="M76,58 L84,82 L94,98" stroke="#f3e3d3" stroke-width="9"/>
+<path d="M78,92 L80,56" stroke="#333" stroke-width="30"/><path d="M78,92 L80,56" stroke="#cfe0f0" stroke-width="25"/>
+<path d="M82,58 L104,52 L120,40" stroke="#333" stroke-width="14"/><path d="M82,58 L104,52 L120,40" stroke="#f3e3d3" stroke-width="9"/>
+</g>
+<circle cx="84" cy="34" r="15" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M70,30 Q74,16 90,19 Q78,22 70,30 Z" fill="#555"/>
+<ellipse cx="122" cy="38" rx="6" ry="6" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+
+<path d="M96,100 C130,124 160,140 200,141 L224,141" fill="none" stroke="#8a6a3a" stroke-width="2.5"/>
+<ellipse cx="95" cy="100" rx="6" ry="6" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+
+<path d="M128,36 Q190,-6 232,124" fill="none" stroke="#c33" stroke-width="2.5" stroke-dasharray="6 5" marker-end="url(#ar)"/>
+
+<ellipse cx="240" cy="141" rx="20" ry="7" fill="none" stroke="#333" stroke-width="10"/>
+<ellipse cx="240" cy="141" rx="20" ry="7" fill="none" stroke="#f08a3c" stroke-width="6"/>
+<path d="M226,136 L230,146 M250,136 L254,146" stroke="#fff" stroke-width="4"/>
+
+<circle cx="282" cy="132" r="12" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M271,127 Q282,115 293,127 Q282,122 271,127 Z" fill="#555"/>
+<rect x="266" y="141" width="32" height="40" fill="#d8ebf7"/>
+<path d="M264,140 L300,140" stroke="#7aa6cc" stroke-width="2"/>
+<text x="168" y="172" font-size="13" fill="#0b5cad">Ideally tied to a rope</text>
+<line x1="192" y1="160" x2="190" y2="142" stroke="#0b5cad" stroke-width="1"/>
+
+<g transform="translate(312,14)">
+<rect x="0" y="0" width="140" height="104" rx="6" fill="#fff" stroke="#bbb" stroke-width="1"/>
+<text x="8" y="17" font-size="12" fill="#555">Top view</text>
+<rect x="1" y="24" width="138" height="52" fill="#d8ebf7"/>
+<path d="M1,76 L139,76" stroke="#999" stroke-width="2"/>
+<path d="M14,36 L58,36" stroke="#0b5cad" stroke-width="2" marker-end="url(#ab)"/>
+<text x="64" y="40" font-size="12" fill="#0b5cad">current</text>
+<circle cx="72" cy="58" r="6" fill="#f3e3d3" stroke="#333" stroke-width="1.5"/>
+<circle cx="102" cy="58" r="7" fill="none" stroke="#f08a3c" stroke-width="4"/>
+<circle cx="40" cy="88" r="7" fill="#cfe0f0" stroke="#333" stroke-width="1.5"/>
+<path d="M45,84 L95,61" stroke="#c33" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="54" y="99" font-size="12" fill="#222">you (on bank)</text>
+<text x="113" y="62" font-size="12" fill="#c33">aim</text>
+</g>
+<text x="12" y="204" font-size="13"><tspan font-weight="bold">② Throw:</tspan> anything that floats: a lifebuoy, an empty</text>
+<text x="26" y="222" font-size="13">plastic container with a little water in it (throws more</text>
+<text x="26" y="240" font-size="13">accurately), empty drink bottles, a basketball, foam board, a</text>
+<text x="26" y="258" font-size="13">rucksack; ideally tie on a rope; throw it in front of them, downstream</text>
+</g>
+
+
+<g transform="translate(484,382)">
+<rect x="0" y="0" width="226" height="270" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<rect x="12" y="140" width="202" height="42" fill="#d8ebf7"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M72,122 L70,96" stroke="#333" stroke-width="28"/><path d="M72,122 L70,96" stroke="#cfe0f0" stroke-width="23"/>
+</g>
+<circle cx="72" cy="76" r="14" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M59,72 Q62,59 78,62 Q66,64 59,72 Z" fill="#555"/>
+<path d="M46,96 L30,176" stroke="#333" stroke-width="5" stroke-linecap="round"/>
+<path d="M46,96 L30,176" stroke="#c8a46e" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M24,166 L30,184 L38,168 Z" fill="#c8a46e" stroke="#333" stroke-width="1.5"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M70,96 L56,110 L42,104" stroke="#333" stroke-width="13"/><path d="M70,96 L56,110 L42,104" stroke="#f3e3d3" stroke-width="8"/>
+</g>
+<path d="M22,124 L150,124 L138,152 L36,152 Z" fill="#b08a58" stroke="#333" stroke-width="2"/>
+<path d="M12,140 L22,140 M144,140 L214,140" stroke="#7aa6cc" stroke-width="2"/>
+<circle cx="190" cy="132" r="11" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M180,127 Q190,116 200,127 Q190,122 180,127 Z" fill="#555"/>
+<rect x="176" y="141" width="28" height="40" fill="#d8ebf7"/>
+<path d="M174,140 L206,140" stroke="#7aa6cc" stroke-width="2"/>
+<path d="M146,108 L178,118" stroke="#c33" stroke-width="3" marker-end="url(#ar)"/>
+<text x="12" y="204"><tspan font-weight="bold">③ Row:</tspan> approach by boat</text>
+</g>
+
+
+<g transform="translate(10,662)">
+<rect x="0" y="0" width="350" height="216" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="30" font-size="16" font-weight="bold">④ Swim: the last resort (needs training)</text>
+<text x="16" y="56" font-size="13" fill="#555">If you must swim out (trained, no other way):</text>
+<text x="16" y="84" font-size="14">• Take a float; stop a few metres away</text>
+<text x="16" y="110" font-size="14">• Push the float to them first, then</text>
+<text x="28" y="128" font-size="14">approach from behind</text>
+<text x="16" y="154" font-size="14">• If they grab you, take a deep breath and</text>
+<text x="28" y="172" font-size="14">sink under the water: they will let go</text>
+<text x="28" y="190" font-size="14">by instinct</text>
+</g>
+
+
+<g transform="translate(370,662)">
+<rect x="0" y="0" width="340" height="216" rx="8" fill="#fdecec" stroke="#c33" stroke-width="2"/>
+<text x="16" y="30" font-size="16" font-weight="bold" fill="#c33">⚠ Safety first</text>
+<text x="16" y="58" font-size="14">✗ Non-swimmers must not go in: the</text>
+<text x="32" y="76" font-size="14">drowning person may pull you under</text>
+<text x="16" y="100" font-size="14">✗ Don't form a "human chain" holding</text>
+<text x="32" y="118" font-size="14">hands to go into the water</text>
+<text x="16" y="142" font-size="14">✗ Don't go in as a group</text>
+<text x="16" y="166" font-size="14">✗ Fallen through ice: don't walk straight</text>
+<text x="32" y="184" font-size="14">out onto the ice; lie flat and rescue</text>
+<text x="32" y="202" font-size="14">with a long pole, ladder or rope</text>
+</g>
+
+<text x="360" y="904" font-size="15" text-anchor="middle">A drowning person often does not shout or wave, and sinks within tens of seconds</text>
+</g>
+</svg>

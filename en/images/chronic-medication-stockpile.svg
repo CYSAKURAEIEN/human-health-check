@@ -1,0 +1,282 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 1382" width="840" height="1382" role="img" aria-label="Chronic illness medicines: stockpiling, rotation and the medication card. This diagram gives no doses; take all medicines as prescribed, and agree with your own doctor in advance how much to keep and what to do if you run out. (1) First find the medicines that can be life-threatening to stop suddenly and make them the top stockpiling priority: insulin, antiepileptics, long-term oral corticosteroids, beta blockers, clonidine, antiplatelet drugs after a stent, anticoagulants, sedative-hypnotics and anti-anxiety drugs, antipsychotics and antidepressants, HIV antivirals, anti-rejection drugs; ordinary blood pressure drugs, oral diabetes drugs, thyroxine and asthma steroid inhalers carry a slower risk when stopped but matter just as much. (2) Build a buffer, first in first out: when about 1-2 weeks are left, see the doctor and renew the prescription; put new supplies at the back and use the old first; build up gradually to 1-3 months on hand; check expiry dates each time; long-term prescriptions usually cover up to 4 weeks and never more than 12 weeks; do not buy prescription drugs illegally or hoard far more than you need. (3) Store in several places: main stock at home stored as directed, 3-7 days' supply in your everyday bag, at least 1 week's supply in your emergency bag, a few extra days when going out or travelling. (4) Insulin: unopened in the fridge at 2-8°C until the expiry date on the pack; opened at room temperature no higher than 30°C, away from light, usually 28 days (follow the leaflet), then discard; never freeze, and do not use insulin that has been frozen even after it thaws; keep it away from the freezer compartment and the back wall of the fridge, out of direct sun, cars and away from heaters; do not use it if it looks abnormal. (5) Power cut: open the fridge as little as possible, keep the insulin in the coolest place, wrap the container in a wet towel or use a pot-in-pot cooler, never put it directly against ice. (6) Medication card, one per patient: generic names, doses, allergies, important history, doctor and emergency contacts; copy it and keep copies in several places. (7) When medicines are running low: act early, bring the card, prioritise the medicines most dangerous to stop; do not cut the dose, take other people's medicines or stop because you feel better" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Chronic illness medicines: stockpiling, rotation and medication card</title>
+<defs>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker>
+<!-- medicine box (origin at bottom-left corner) -->
+<g id="box">
+<rect x="0" y="-40" width="56" height="40" rx="3" fill="#fff" stroke="#333" stroke-width="2"/>
+<path d="M0 -30 H56" stroke="#333" stroke-width="1.2"/>
+</g>
+</defs>
+<g fill="#222">
+<text x="420" y="28" font-size="18" font-weight="bold" text-anchor="middle">Chronic illness medicines: stockpiling, rotation and medication card</text>
+<text x="420" y="52" font-size="13" text-anchor="middle" fill="#c33" font-weight="bold">⚠ This diagram gives no doses. Take all medicines as prescribed; agree with your own doctor in</text>
+<text x="420" y="70" font-size="13" text-anchor="middle" fill="#c33" font-weight="bold">advance how much to keep and what to do if you run out</text>
+
+<g transform="translate(10,84)">
+<rect x="0" y="0" width="820" height="218" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">① First find the medicines most dangerous to stop suddenly:</text>
+<text x="32" y="43" font-size="14">stopping them abruptly can be life-threatening</text>
+<g fill="#fdf3f3" stroke="#c33" stroke-width="1.5">
+<rect x="12" y="56" width="73" height="28" rx="14"/>
+<rect x="93" y="56" width="122" height="28" rx="14"/>
+<rect x="223" y="56" width="234" height="28" rx="14"/>
+<rect x="465" y="56" width="115" height="28" rx="14"/>
+<rect x="588" y="56" width="87" height="28" rx="14"/>
+<rect x="12" y="90" width="248" height="28" rx="14"/>
+<rect x="268" y="90" width="122" height="28" rx="14"/>
+<rect x="398" y="90" width="290" height="28" rx="14"/>
+<rect x="12" y="124" width="241" height="28" rx="14"/>
+<rect x="261" y="124" width="122" height="28" rx="14"/>
+<rect x="391" y="124" width="164" height="28" rx="14"/>
+</g>
+<g font-size="13" text-anchor="middle">
+<text x="48.5" y="75">Insulin</text>
+<text x="154.0" y="75">Antiepileptics</text>
+<text x="340.0" y="75">Long-term oral corticosteroids</text>
+<text x="522.5" y="75">Beta blockers</text>
+<text x="631.5" y="75">Clonidine</text>
+<text x="136.0" y="109">Antiplatelet drugs after a stent</text>
+<text x="329.0" y="109">Anticoagulants</text>
+<text x="543.0" y="109">Sedative-hypnotics, anti-anxiety drugs</text>
+<text x="132.5" y="143">Antipsychotics, antidepressants</text>
+<text x="322.0" y="143">HIV antivirals</text>
+<text x="473.0" y="143">Anti-rejection drugs</text>
+</g>
+<text x="12" y="176" font-size="14" font-weight="bold" fill="#c33">If someone at home takes one of these, make it the top priority of your stockpile</text>
+<text x="12" y="194" font-size="12" fill="#555">Others: ordinary blood pressure drugs, oral diabetes drugs, thyroxine and asthma steroid inhalers carry a slower risk</text>
+<text x="12" y="209" font-size="12" fill="#555">when stopped, but they matter just as much</text>
+</g>
+
+<g transform="translate(10,312)">
+<rect x="0" y="0" width="405" height="330" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">② Build a buffer: first in, first out</text>
+<use href="#box" x="30" y="94"/>
+<use href="#box" x="92" y="94"/>
+<use href="#box" x="154" y="94"/>
+<rect x="246" y="54" width="56" height="40" rx="3" fill="#cfe0f0" stroke="#333" stroke-width="2" stroke-dasharray="5 3"/>
+<path d="M246 64 H302" stroke="#333" stroke-width="1.2"/>
+<g font-size="14" font-weight="bold" text-anchor="middle">
+<text x="58" y="85">old</text><text x="120" y="85">old</text><text x="182" y="85">old</text>
+<text x="274" y="85" fill="#0b5cad">new</text>
+</g>
+<path d="M244 74 H218" stroke="#0b5cad" stroke-width="2.5" marker-end="url(#arB)"/>
+<path d="M58 52 V40" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<path d="M22 96 H312" stroke="#999" stroke-width="3"/>
+<g font-size="12">
+<text x="12" y="114" fill="#c33" font-weight="bold">Front: use the old first</text>
+<text x="274" y="114" fill="#0b5cad" font-weight="bold" text-anchor="middle">New supply goes at the back</text>
+</g>
+<g font-size="13">
+<text x="12" y="146">1. When about 1-2 weeks' supply is left, see the</text>
+<text x="26" y="164">doctor and renew the prescription</text>
+<text x="12" y="184">2. Put new supplies at the back; use the old first</text>
+<text x="12" y="204">3. Build up gradually to <tspan font-weight="bold" fill="#0b5cad">1-3 months</tspan> on hand</text>
+<text x="12" y="224">4. Check expiry dates every time you collect</text>
+</g>
+<g font-size="12">
+<text x="12" y="252" fill="#0b5cad" font-weight="bold">Long-term prescriptions: usually up to 4 weeks,</text>
+<text x="12" y="268" fill="#0b5cad" font-weight="bold">never more than 12 weeks</text>
+<text x="12" y="286" fill="#555">At your follow-up visit, ask: “Can I have a long-term prescription?”</text>
+<text x="12" y="308" fill="#c33">✗ Do not buy prescription drugs from illegal sources</text>
+<text x="12" y="324" fill="#c33">✗ Do not hoard far more than you need</text>
+</g>
+</g>
+
+<g transform="translate(425,312)">
+<rect x="0" y="0" width="405" height="330" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">③ Store in several places</text>
+
+<g transform="translate(40,72)" stroke="#333" stroke-width="2" stroke-linejoin="round">
+<path d="M-22 -2 L0 -22 L22 -2" fill="none"/>
+<rect x="-16" y="-6" width="32" height="26" fill="#cfe0f0"/>
+<rect x="-5" y="6" width="10" height="14" fill="#fff"/>
+</g>
+<text x="80" y="68" font-size="14" font-weight="bold">Main stock at home</text>
+<text x="80" y="86" font-size="12" fill="#555">store as directed (see link in the text)</text>
+
+<g transform="translate(40,136)" stroke="#333" stroke-width="2">
+<path d="M-8 -12 V-18 Q0 -24 8 -18 V-12" fill="none"/>
+<rect x="-18" y="-12" width="36" height="28" rx="6" fill="#efe2c4"/>
+</g>
+<text x="80" y="132" font-size="14" font-weight="bold">Everyday bag</text>
+<text x="204" y="132" font-size="15" font-weight="bold" fill="#0b5cad">3-7 days' supply</text>
+
+<g transform="translate(40,196)">
+<rect x="-20" y="-16" width="40" height="32" rx="4" fill="#fff" stroke="#333" stroke-width="2"/>
+<path d="M-6 -18 V-22 H6 V-18" fill="none" stroke="#333" stroke-width="2"/>
+<path d="M0 -8 V8 M-8 0 H8" stroke="#c33" stroke-width="4"/>
+</g>
+<text x="80" y="192" font-size="14" font-weight="bold">Emergency bag</text>
+<text x="204" y="192" font-size="15" font-weight="bold" fill="#0b5cad">at least 1 week's supply</text>
+
+<g transform="translate(40,254)" stroke="#333" stroke-width="2">
+<path d="M-7 -14 V-19 H7 V-14" fill="none"/>
+<rect x="-18" y="-14" width="36" height="30" rx="4" fill="#cfe0f0"/>
+<path d="M-18 0 H18" stroke-width="1.2"/>
+</g>
+<text x="80" y="252" font-size="14" font-weight="bold">Take a few extra days' supply</text>
+<text x="80" y="270" font-size="14" font-weight="bold">when going out or travelling</text>
+</g>
+
+<g transform="translate(10,652)">
+<rect x="0" y="0" width="480" height="326" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">④ Storing insulin</text>
+<g transform="translate(5 0)">
+
+<rect x="52" y="38" width="46" height="74" rx="4" fill="#fff" stroke="#333" stroke-width="2"/>
+<path d="M52 62 H98 M90 46 V56 M90 70 V84" stroke="#333" stroke-width="2"/>
+<text x="75" y="102" font-size="13" font-weight="bold" fill="#0b5cad" text-anchor="middle">2-8°C</text>
+<g font-size="12" text-anchor="middle">
+<text x="75" y="134" font-size="13" font-weight="bold">Unopened</text>
+<text x="75" y="152">In the fridge, 2-8°C,</text>
+<text x="75" y="168">until the expiry date</text>
+<text x="75" y="184">on the pack</text>
+</g>
+</g>
+<g transform="translate(30 0)">
+<g transform="translate(210,76) rotate(-20)">
+<rect x="-46" y="-9" width="80" height="18" rx="6" fill="#cfe0f0" stroke="#333" stroke-width="2"/>
+<rect x="34" y="-5" width="10" height="10" fill="#fff" stroke="#333" stroke-width="2"/>
+<path d="M44 0 H54" stroke="#333" stroke-width="1.5"/>
+<rect x="-20" y="-5" width="26" height="10" fill="#fff" stroke="#333" stroke-width="1.2"/>
+</g>
+<text x="210" y="112" font-size="13" font-weight="bold" fill="#0b5cad" text-anchor="middle">≤30°C</text>
+<g font-size="12" text-anchor="middle">
+<text x="210" y="134" font-size="13" font-weight="bold">Opened (in use)</text>
+<text x="210" y="152">Room temperature ≤30°C,</text>
+<text x="210" y="168">away from light;</text>
+<text x="210" y="184">usually 28 days, then discard</text>
+<text x="210" y="200" fill="#555">(follow the leaflet)</text>
+</g>
+</g>
+<g transform="translate(55 0)">
+<g transform="translate(345,74)">
+<g stroke="#0b5cad" stroke-width="2.5" stroke-linecap="round">
+<path d="M0 -22 V22 M-19 -11 L19 11 M-19 11 L19 -11"/>
+<path d="M-5 -17 L0 -12 L5 -17 M-5 17 L0 12 L5 17"/>
+</g>
+<circle r="30" fill="none" stroke="#c33" stroke-width="3.5"/>
+<path d="M-21 -21 L21 21" stroke="#c33" stroke-width="3.5"/>
+</g>
+<g font-size="12" text-anchor="middle">
+<text x="345" y="134" font-size="13" font-weight="bold" fill="#c33">Never freeze</text>
+<text x="345" y="152">Once frozen, do not use</text>
+<text x="345" y="168">it even after it thaws</text>
+</g>
+</g>
+<path d="M10 222 H470" stroke="#ddd" stroke-width="1"/>
+<g font-size="12" fill="#c33">
+<text x="12" y="244">✗ Do not keep it near the freezer compartment or against the back</text>
+<text x="26" y="260">wall of the fridge (it may freeze)</text>
+<text x="12" y="280">✗ Keep it out of direct sun and cars, and away from heaters</text>
+<text x="12" y="300">✗ Do not use it if it looks abnormal: insulin that should be clear</text>
+<text x="26" y="316">has gone cloudy, or has particles, clumps or discolouration</text>
+</g>
+</g>
+
+<g transform="translate(500,652)">
+<rect x="0" y="0" width="330" height="326" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">⑤ Power cut: unopened stock</text>
+<!-- pot-in-pot cooler, cross-section -->
+<path d="M22 50 L32 140 H118 L128 50 Z" fill="#e8d9b5" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M48 56 L54 128 H96 L102 56 Z" fill="#fff" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<g fill="#8a7a55"><circle cx="36" cy="80" r="1.5"/><circle cx="40" cy="104" r="1.5"/><circle cx="44" cy="126" r="1.5"/><circle cx="110" cy="84" r="1.5"/><circle cx="108" cy="110" r="1.5"/><circle cx="104" cy="130" r="1.5"/><circle cx="34" cy="62" r="1.5"/><circle cx="114" cy="64" r="1.5"/></g>
+<g fill="#0b5cad"><path d="M38 92 q-3 5 0 7 q3 -2 0 -7 Z"/><path d="M112 98 q-3 5 0 7 q3 -2 0 -7 Z"/></g>
+<rect x="66" y="98" width="14" height="26" rx="2" fill="#cfe0f0" stroke="#333" stroke-width="1.5"/>
+<rect x="68" y="94" width="10" height="5" fill="#999"/>
+<path d="M16 48 Q30 42 44 48 T72 48 T100 48 T134 48" fill="none" stroke="#0b5cad" stroke-width="3"/>
+<g stroke="#0b5cad" stroke-width="1" fill="none">
+<path d="M134 46 L150 40"/><path d="M110 76 L150 70"/><path d="M80 110 L150 104"/><path d="M118 136 L150 136"/>
+</g>
+<g font-size="12">
+<text x="154" y="44">Cover with a wet cloth</text>
+<text x="154" y="74">Wet sand between the pots,</text>
+<text x="154" y="89">keep it wet</text>
+<text x="154" y="108">Insulin in the inner pot</text>
+<text x="154" y="140">Small clay pot inside</text>
+<text x="154" y="155">a large one</text>
+</g>
+<g font-size="12">
+<text x="12" y="178">Keep in a cool, airy place; evaporation cools it</text>
+<text x="12" y="196">Open the fridge as little as possible</text>
+<text x="26" y="211">(it stays cold for several hours)</text>
+<text x="12" y="229">Put it in the coolest place at home; wrap</text>
+<text x="26" y="244">the container in a wet towel</text>
+<text x="12" y="264" fill="#c33" font-weight="bold">✗ Never put it directly against ice or</text>
+<text x="26" y="279" fill="#c33" font-weight="bold">ice packs (it will freeze)</text>
+<text x="12" y="299" fill="#555">Opened insulin is kept at room temperature</text><text x="12" y="314" fill="#555">anyway; a short power cut matters little</text>
+</g>
+</g>
+
+<g transform="translate(10,988)">
+<rect x="0" y="0" width="500" height="384" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">⑥ Medication card (one per chronic patient)</text>
+<rect x="12" y="36" width="330" height="336" rx="6" fill="#fffdf5" stroke="#333" stroke-width="2"/>
+<path d="M12 62 H342" stroke="#333" stroke-width="1.2"/>
+<text x="177" y="55" font-size="14" font-weight="bold" text-anchor="middle">Medication card</text>
+<g font-size="12">
+<text x="22" y="82">Name:</text><text x="176" y="82">Date of birth:</text>
+<text x="22" y="102">Blood group:</text><text x="176" y="102">Weight:</text>
+<text x="22" y="122">Diagnosis: <tspan fill="#555">(e.g. “type 2 diabetes”, “hypertension”)</tspan></text>
+<text x="22" y="146" font-weight="bold">Current medicines (one line each):</text>
+<text x="22" y="164">· Name: <tspan fill="#0b5cad" font-weight="bold">write the generic name</tspan><tspan fill="#555">,</tspan></text>
+<text x="30" y="180" fill="#555">not just the brand name</text>
+<text x="30" y="198">Dose / times a day / date started</text>
+<text x="22" y="222">Allergies: <tspan fill="#555">(medicines, foods)</tspan></text>
+<text x="22" y="242">Important medical history:</text>
+<text x="30" y="258" fill="#555">(e.g. heart stent, organ transplant,</text>
+<text x="30" y="273" fill="#555">long-term steroids)</text>
+<text x="22" y="296">Doctor / hospital / phone:</text>
+<text x="22" y="318">Emergency contact / phone:</text>
+<text x="22" y="340">Date updated:</text>
+</g>
+<g stroke="#ccc" stroke-width="1"><path d="M60 84 H166 M258 84 H332 M100 104 H166 M222 104 H332 M104 342 H240"/></g>
+<g font-size="12">
+<text x="352" y="54" font-weight="bold" fill="#0b5cad">✓ Generic names</text>
+<text x="352" y="70" fill="#555">e.g. “metformin”</text>
+<text x="352" y="98" font-weight="bold" fill="#0b5cad">✓ Copy or photograph</text>
+<text x="362" y="116">one to carry</text>
+<text x="362" y="134">one in the emergency</text>
+<text x="362" y="150">bag</text>
+<text x="362" y="168">one sent to family</text>
+<text x="352" y="196" font-weight="bold" fill="#0b5cad">✓ Update it at every</text>
+<text x="366" y="212" font-weight="bold" fill="#0b5cad">medicine change</text>
+<text x="352" y="240" font-weight="bold" fill="#0b5cad">✓ Keep recent</text>
+<text x="362" y="258">medical records,</text>
+<text x="362" y="276">prescriptions and</text>
+<text x="362" y="294">test reports</text>
+<text x="362" y="312">(photos on your phone)</text>
+</g>
+</g>
+
+<g transform="translate(520,988)">
+<rect x="0" y="0" width="310" height="384" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">⑦ When medicines run low</text>
+<g font-size="13">
+<text x="12" y="52" font-weight="bold">✓ Act early; don't wait until</text>
+<text x="26" y="68" font-weight="bold">the last tablet</text>
+<text x="26" y="86" font-size="12" fill="#555">temporary clinics, rescue medical teams,</text>
+<text x="26" y="101" font-size="12" fill="#555">any nearby hospital or pharmacy</text>
+<text x="12" y="123">✓ Bring your medication card and boxes</text>
+<text x="12" y="145">✓ Tell the doctor when you last took it</text>
+<text x="26" y="161">and how much is left</text>
+<text x="12" y="183">✓ Put first the medicines that are most</text>
+<text x="26" y="199">dangerous to stop suddenly</text>
+</g>
+<g font-size="13" fill="#c33">
+<text x="12" y="227" font-weight="bold">✗ Don't cut the dose or skip days</text>
+<text x="26" y="243" font-weight="bold">to make it “last longer”</text>
+<text x="26" y="260" font-size="12">unless your doctor clearly says you can;</text>
+<text x="26" y="275" font-size="12">with some drugs, cutting down is as</text>
+<text x="26" y="290" font-size="12">dangerous as stopping</text>
+<text x="12" y="314" font-weight="bold">✗ Don't take other people's medicines</text>
+<text x="26" y="331" font-size="12">even if “the symptoms are the same” or</text>
+<text x="26" y="346" font-size="12">“the name looks similar”</text>
+<text x="12" y="370" font-weight="bold">✗ Don't stop because you “feel better”</text>
+</g>
+</g>
+</g>
+</svg>

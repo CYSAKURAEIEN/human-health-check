@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 520" width="780" height="520" role="img" aria-label="Infant chest compressions: preferably encircle the chest with both hands and press with both thumbs side by side on the breastbone just below the middle of the line between the nipples, other fingers supporting the back; if your hands are small, or you are alone and must give both compressions and breaths, use the heel of one hand on the same spot; depth about 4 cm, 1/3 of the depth of the chest; do not press on the xiphoid; two-finger compressions are no longer recommended">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Infant chest compressions: two-thumb encircling and one-hand methods</title>
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="ab" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<!-- infant lying on its back (seen from above, head up), origin on the midline -->
+<g id="baby" stroke="#333">
+<line x1="-26" y1="132" x2="-56" y2="104" stroke-width="18" stroke-linecap="round"/>
+<line x1="-26" y1="132" x2="-56" y2="104" stroke="#f3e3d3" stroke-width="13" stroke-linecap="round"/>
+<line x1="26" y1="132" x2="56" y2="104" stroke-width="18" stroke-linecap="round"/>
+<line x1="26" y1="132" x2="56" y2="104" stroke="#f3e3d3" stroke-width="13" stroke-linecap="round"/>
+<polyline points="-16,232 -38,264 -30,298" fill="none" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="-16,232 -38,264 -30,298" fill="none" stroke="#f3e3d3" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="16,232 38,264 30,298" fill="none" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="16,232 38,264 30,298" fill="none" stroke="#f3e3d3" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="-34" y="118" width="68" height="124" rx="24" fill="#f3e3d3" stroke-width="2.5"/>
+<path d="M-4,192 Q-18,204 -30,222 M4,192 Q18,204 30,222" fill="none" stroke="#999" stroke-width="1.5"/>
+<rect x="-5" y="128" width="10" height="56" rx="4" fill="#fff" stroke-width="1.5"/>
+<path d="M-4,183 L0,193 L4,183" fill="#fff" stroke-width="1.5"/>
+<circle cx="-17" cy="150" r="3" fill="#c9a08a" stroke-width="1"/>
+<circle cx="17" cy="150" r="3" fill="#c9a08a" stroke-width="1"/>
+<circle cx="0" cy="88" r="33" fill="#f3e3d3" stroke-width="2.5"/>
+<path d="M-15,84 Q-10,88 -5,84 M5,84 Q10,88 15,84 M-5,102 Q0,105 5,102" fill="none" stroke-width="1.8"/>
+</g>
+</defs>
+<g font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif" font-size="15" fill="#222">
+<text x="20" y="28" font-size="17" font-weight="bold">Infant (&lt;1 year) chest compressions</text>
+<text x="330" y="28" font-size="15">Depth <tspan fill="#c33" font-weight="bold">about 4 cm</tspan> (1/3 of chest depth) · Rate 100-120/min</text>
+
+
+<rect x="10" y="42" width="270" height="350" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="22" y="66" font-size="16" font-weight="bold">① Preferred: two thumbs</text>
+<g transform="translate(145,36) scale(0.8)">
+<use href="#baby"/>
+<line x1="-40" y1="150" x2="40" y2="150" stroke="#0b5cad" stroke-width="1.2" stroke-dasharray="4 3"/>
+
+<line x1="-46" y1="208" x2="-84" y2="290" stroke="#333" stroke-width="30" stroke-linecap="round"/>
+<line x1="-46" y1="208" x2="-84" y2="290" stroke="#f3e3d3" stroke-width="25" stroke-linecap="round"/>
+<line x1="46" y1="208" x2="84" y2="290" stroke="#333" stroke-width="30" stroke-linecap="round"/>
+<line x1="46" y1="208" x2="84" y2="290" stroke="#f3e3d3" stroke-width="25" stroke-linecap="round"/>
+
+<path d="M-34,150 Q-48,148 -52,166 L-56,206 Q-50,222 -32,214 L-10,196 L-12,180 L-30,184 Z" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M34,150 Q48,148 52,166 L56,206 Q50,222 32,214 L10,196 L12,180 L30,184 Z" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M-34,156 L-44,158 M-34,168 L-46,170 M-34,180 L-46,182" stroke="#333" stroke-width="1.3"/>
+<path d="M34,156 L44,158 M34,168 L46,170 M34,180 L46,182" stroke="#333" stroke-width="1.3"/>
+
+<rect x="-12" y="153" width="11" height="44" rx="5.5" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<rect x="1" y="153" width="11" height="44" rx="5.5" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M-10,157 Q-6.5,154 -3,157 M3,157 Q6.5,154 10,157" fill="none" stroke="#333" stroke-width="1"/>
+<circle cx="0" cy="158" r="4" fill="#c33"/>
+</g>
+<text x="22" y="320" font-size="14">Hands round the chest, thumbs side</text>
+<text x="22" y="339" font-size="14">by side on the breastbone just below</text>
+<text x="22" y="358" font-size="14">the middle of the nipple line; other</text>
+<text x="22" y="377" font-size="14">fingers support the back</text>
+<g transform="translate(20 0)">
+
+
+<rect x="268" y="42" width="234" height="350" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="280" y="66" font-size="16" font-weight="bold">② Or: heel of one hand</text>
+<g transform="translate(385,36) scale(0.8)">
+<use href="#baby"/>
+<line x1="-40" y1="150" x2="40" y2="150" stroke="#0b5cad" stroke-width="1.2" stroke-dasharray="4 3"/>
+<line x1="20" y1="168" x2="98" y2="226" stroke="#333" stroke-width="30" stroke-linecap="round"/>
+<line x1="20" y1="168" x2="98" y2="226" stroke="#f3e3d3" stroke-width="25" stroke-linecap="round"/>
+<g fill="#f3e3d3" fill-opacity="0.8" stroke="#333" stroke-width="1.8">
+<rect x="-80" y="139" width="44" height="9" rx="4.5"/>
+<rect x="-84" y="149" width="48" height="9" rx="4.5"/>
+<rect x="-82" y="159" width="46" height="9" rx="4.5"/>
+<rect x="-74" y="169" width="38" height="9" rx="4.5"/>
+<path d="M-40,138 Q-10,132 12,142 Q22,158 12,176 Q-10,186 -40,180 Z"/>
+<path d="M-6,138 Q-16,124 -26,112 Q-24,106 -18,110 Q-4,120 6,132"/>
+</g>
+<circle cx="2" cy="158" r="4" fill="#c33"/>
+</g>
+<text x="280" y="320" font-size="14">If your hands are small, or you</text>
+<text x="280" y="339" font-size="14">are alone giving compressions</text>
+<text x="280" y="358" font-size="14">and breaths: heel of one hand</text>
+<text x="280" y="377" font-size="14">on the same spot</text>
+</g>
+<g transform="translate(40 0)">
+
+
+<rect x="490" y="42" width="240" height="350" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="502" y="66" font-size="16" font-weight="bold">③ Depth (side view)</text>
+<line x1="500" y1="240" x2="700" y2="240" stroke="#999" stroke-width="3"/>
+<text x="506" y="262" font-size="13" fill="#666">Hard, flat surface (table, floor)</text>
+<polyline points="636,228 660,214 674,234" fill="none" stroke="#333" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="636,228 660,214 674,234" fill="none" stroke="#f3e3d3" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="556" y="178" width="92" height="62" rx="24" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<circle cx="536" cy="208" r="31" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M528,180 Q536,174 544,180" fill="none" stroke="#333" stroke-width="1.5"/>
+<path d="M556,199 Q590,199 640,199" fill="none" stroke="#c33" stroke-width="1.5" stroke-dasharray="5 4"/>
+<line x1="590" y1="120" x2="590" y2="172" stroke="#c33" stroke-width="4" marker-end="url(#ar)"/>
+<text x="560" y="112" font-size="14" fill="#c33">Press down</text>
+
+<line x1="652" y1="178" x2="708" y2="178" stroke="#0b5cad" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="644" y1="199" x2="708" y2="199" stroke="#0b5cad" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="688" y1="181" x2="688" y2="196" stroke="#c33" stroke-width="1.8" marker-start="url(#ar)" marker-end="url(#ar)"/>
+<text x="504" y="300" font-size="14"><tspan fill="#c33">Red</tspan>: press down about 4 cm,</text>
+<text x="504" y="319" font-size="14">1/3 of the front-to-back</text>
+<text x="504" y="338" font-size="14">depth of the chest</text>
+<line x1="702" y1="181" x2="702" y2="237" stroke="#0b5cad" stroke-width="1.2" marker-start="url(#ab)" marker-end="url(#ab)"/>
+<text x="504" y="362" font-size="14"><tspan fill="#0b5cad">Blue</tspan>: depth of the chest</text>
+</g>
+
+
+<g transform="translate(20,406)">
+<rect x="0" y="0" width="92" height="96" rx="6" fill="#fff" stroke="#bbb" stroke-width="1.2"/>
+<rect x="10" y="62" width="72" height="26" rx="10" fill="#f3e3d3" stroke="#333" stroke-width="1.5"/>
+<rect x="34" y="16" width="10" height="50" rx="5" fill="#f3e3d3" stroke="#333" stroke-width="1.5"/>
+<rect x="46" y="14" width="10" height="52" rx="5" fill="#f3e3d3" stroke="#333" stroke-width="1.5"/>
+<path d="M12,12 L80,84 M80,12 L12,84" stroke="#c33" stroke-width="5" stroke-linecap="round"/>
+</g>
+<text x="128" y="424" font-size="14"><tspan fill="#c33" font-weight="bold">Two-finger compressions are no longer recommended</tspan>:</text>
+<text x="128" y="442" font-size="14">the method in older textbooks often does not press deep enough</text>
+<text x="128" y="468" font-size="14"><tspan fill="#c33" font-weight="bold">Do not press on the xiphoid</tspan> (bottom tip of the breastbone; it can damage the liver)</text>
+<text x="128" y="494" font-size="14">Lay the infant on their back on a <tspan font-weight="bold">hard, flat surface</tspan> (table, floor)</text>
+</g>
+</svg>
