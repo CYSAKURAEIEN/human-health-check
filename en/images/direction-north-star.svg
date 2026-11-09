@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 640" width="720" height="640" role="img" aria-label="Finding true north with the Pole Star (northern hemisphere): find the ladle-shaped Plough (Big Dipper), join the two stars at the lip of the ladle and extend the line about 5 times in the direction of the lip to reach the Pole Star (Polaris); the direction of the Pole Star is true north, and its angle above the horizon roughly equals your latitude; if the Plough is hidden, look for W-shaped Cassiopeia, which lies opposite the Plough across the Pole Star, with the open side of the W roughly facing the Pole Star; the Plough turns around the Pole Star all night, but the two lip stars always point to it" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Finding true north with the Pole Star</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Finding true north by the Pole Star (northern hemisphere, clear night)</text>
+<rect x="10" y="44" width="700" height="440" rx="8" fill="#eef2f8" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="70" font-size="13" fill="#555">The sky looking north (schematic)</text>
+
+<!-- the Plough -->
+<path d="M247.9,226.6 L218.5,219.8 L221.2,173.1 L246.7,167.2 Z M246.7,167.2 L261.7,138.8 L276.3,117.4 L275.5,79.2" fill="none" stroke="#7a8aa6" stroke-width="1.5"/>
+<!-- pointer line -->
+<path d="M218.5,219.8 L247.9,228.5" stroke="#c33" stroke-width="3"/>
+<path d="M247.9,228.5 L390.5,270.6" stroke="#c33" stroke-width="2" stroke-dasharray="6 4"/>
+<g stroke="#c33" stroke-width="1.8">
+<path d="M278.1,231.1 L274.7,242.6 M307.0,239.7 L303.6,251.2 M336.0,248.2 L332.6,259.7 M364.9,256.7 L361.5,268.2"/>
+</g>
+<g font-size="13" fill="#c33" text-anchor="middle">
+<text x="281" y="226">1</text><text x="310" y="234">2</text><text x="339" y="243">3</text><text x="368" y="251">4</text><text x="394" y="257">5</text>
+</g>
+<g fill="#333">
+<circle cx="247.9" cy="226.6" r="5.5"/><circle cx="218.5" cy="219.8" r="5"/><circle cx="221.2" cy="173.1" r="5"/><circle cx="246.7" cy="167.2" r="3.5"/><circle cx="261.7" cy="138.8" r="5.5"/><circle cx="276.3" cy="117.4" r="5"/><circle cx="275.5" cy="79.2" r="5.5"/>
+</g>
+<text x="292" y="98" font-size="15" font-weight="bold">The Plough (Big Dipper),</text>
+<text x="292" y="116" font-size="15" font-weight="bold">ladle-shaped</text>
+<text x="40" y="266" font-size="14" fill="#0b5cad">the two lip stars</text>
+<line x1="130" y1="252" x2="213" y2="224" stroke="#0b5cad" stroke-width="1"/>
+<line x1="170" y1="252" x2="242" y2="231" stroke="#0b5cad" stroke-width="1"/>
+<text x="150" y="304" font-size="14" fill="#c33">join them and extend about 5 times</text>
+<text x="150" y="322" font-size="14" fill="#c33">beyond the lip</text>
+
+<!-- Pole Star -->
+<circle cx="401.6" cy="273.8" r="11" fill="none" stroke="#c33" stroke-width="2"/>
+<circle cx="401.6" cy="273.8" r="5.5" fill="#333"/>
+<text x="420" y="279" font-size="17" font-weight="bold" fill="#c33">Pole Star (Polaris)</text>
+<text x="420" y="298" font-size="13" fill="#555">not very bright, but no</text>
+<text x="420" y="314" font-size="13" fill="#555">brighter star near it</text>
+
+<!-- rotation -->
+<path d="M467.6,249.8 A70,70 0 0 0 389.6,203.8" fill="none" stroke="#0b5cad" stroke-width="2" marker-end="url(#arB)"/>
+<text x="478" y="184" font-size="13" fill="#0b5cad">The Plough turns around the</text>
+<text x="478" y="200" font-size="13" fill="#0b5cad">Pole Star all night; the two lip</text>
+<text x="478" y="216" font-size="13" fill="#0b5cad">stars always point to it</text>
+
+<!-- Cassiopeia -->
+<path d="M546,362.3 L543.3,390.8 L517.6,384.3 L503.9,400.3 L476.8,395.9" fill="none" stroke="#7a8aa6" stroke-width="1.5"/>
+<g fill="#333">
+<circle cx="546" cy="362.3" r="4.5"/><circle cx="543.3" cy="390.8" r="5"/><circle cx="517.6" cy="384.3" r="4.5"/><circle cx="503.9" cy="400.3" r="4"/><circle cx="476.8" cy="395.9" r="4"/>
+</g>
+<text x="566" y="370" font-size="15" font-weight="bold">Cassiopeia (W)</text>
+<text x="566" y="390" font-size="13" fill="#555">opposite the Plough</text>
+<text x="566" y="406" font-size="13" fill="#555">across the Pole Star;</text>
+<text x="566" y="422" font-size="13" fill="#555">open side of the W</text>
+<text x="566" y="438" font-size="13" fill="#555">roughly faces it</text>
+
+<!-- true north -->
+<path d="M401.6,287 L401.6,476" stroke="#0b5cad" stroke-width="2" stroke-dasharray="5 5"/>
+<text x="390" y="400" font-size="13" fill="#0b5cad" text-anchor="end">Pole Star's angle above the horizon</text>
+<text x="390" y="417" font-size="13" fill="#0b5cad" text-anchor="end">≈ your latitude (China: about 20°-50°)</text>
+
+<!-- horizon -->
+<path d="M10,476 L60,466 L110,472 L170,458 L230,470 L300,462 L360,474 L440,468 L500,456 L560,468 L640,460 L710,470 L710,484 L10,484 Z" fill="#c9c9c9" stroke="#999" stroke-width="1.5"/>
+<text x="24" y="456" font-size="13" fill="#555">horizon</text>
+<text x="401.6" y="510" font-size="20" font-weight="bold" fill="#c33" text-anchor="middle">True north</text>
+<path d="M401.6,488 L401.6,490" stroke="#c33" stroke-width="2"/>
+
+<rect x="10" y="526" width="700" height="100" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="26" y="551" font-size="14">① Find the Plough (ladle) → ② join the two lip stars → ③ extend about 5 times → ④ Pole Star</text>
+<text x="26" y="575" font-size="14">Direction of the Pole Star = true north (less than 1° off)</text>
+<text x="26" y="599" font-size="14">Plough hidden by hills or below the horizon: look for Cassiopeia (W)</text>
+<text x="700" y="618" font-size="12" fill="#888" text-anchor="end">Star positions scaled from a real star chart</text>
+</g>
+</svg>

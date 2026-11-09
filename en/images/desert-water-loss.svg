@@ -1,0 +1,179 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 998" width="720" height="998" role="img" aria-label="In the desert, save sweat, not water: in high heat, sitting still in the shade you still lose several L of water a day, and walking or working in strong sun you can sweat about 1 L or more an hour; wear long sleeves and long trousers and cover your head and the back of your neck: clothing blocks the sun and sweat evaporates slowly from it to cool you, while stripping off makes you lose water faster and causes sunburn; stay still in the shade by day, breathe through your nose and talk little, eat little or nothing when water is short, and drink no alcohol; do not ration water: drink when thirsty, in small sips, generally no more than about 1-1.5 L an hour, and check the colour of your urine; do not drink urine, coolant, screenwash, seawater or brackish water, or alcohol">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Reducing water loss in the desert</title>
+<defs>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<pattern id="sand" width="14" height="14" patternUnits="userSpaceOnUse"><rect width="14" height="14" fill="#f1e2bd"/><circle cx="3" cy="4" r="1.1" fill="#c9a865"/><circle cx="10" cy="10" r="0.9" fill="#c9a865"/></pattern>
+<g id="sun"><circle r="14" fill="#ffd34d" stroke="#e08a00" stroke-width="2"/><path d="M0,-19 V-25 M0,19 V25 M-19,0 H-25 M19,0 H25 M-13.4,-13.4 L-17.7,-17.7 M13.4,13.4 L17.7,17.7 M-13.4,13.4 L-17.7,17.7 M13.4,-13.4 L17.7,-17.7" stroke="#e08a00" stroke-width="2" stroke-linecap="round"/></g>
+<g id="drop"><path d="M0,0 Q4,6 0,9 Q-4,6 0,0 Z" fill="#6aa6d6" stroke="#3d78ad" stroke-width="0.8"/></g>
+</defs>
+<g font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif" font-size="14" fill="#222">
+<text x="360" y="30" font-size="18" font-weight="bold" text-anchor="middle">In the desert, save sweat, not water</text>
+
+<!-- 1 how fast you sweat -->
+<g transform="translate(10,44)">
+<rect x="0" y="0" width="700" height="272" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">① How fast you sweat</text>
+<text x="206" y="28" font-size="13" fill="#555">(rough estimates; people vary)</text>
+<!-- left: sitting in the shade -->
+<rect x="24" y="170" width="300" height="8" fill="url(#sand)"/>
+<line x1="24" y1="170" x2="324" y2="170" stroke="#999" stroke-width="3"/>
+<polygon points="80,170 236,170 228,178 86,178" fill="#cbbf9f"/>
+<line x1="70" y1="170" x2="70" y2="84" stroke="#7a5a30" stroke-width="5" stroke-linecap="round"/>
+<line x1="246" y1="170" x2="246" y2="84" stroke="#7a5a30" stroke-width="5" stroke-linecap="round"/>
+<path d="M60,82 Q158,94 256,82" fill="none" stroke="#333" stroke-width="6" stroke-linecap="round"/>
+<path d="M60,82 Q158,94 256,82" fill="none" stroke="#f1d27a" stroke-width="3" stroke-linecap="round"/>
+<use href="#sun" transform="translate(296,62)"/>
+<path d="M280,74 L250,80" stroke="#e08a00" stroke-width="1.5" stroke-dasharray="4 3"/>
+<g transform="translate(150,168)">
+<rect x="-22" y="-3" width="56" height="5" fill="#b9a27a" stroke="#333" stroke-width="1"/>
+<path d="M0,-8 L24,-16 L30,-2" fill="none" stroke="#333" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M0,-8 L24,-16 L30,-2" fill="none" stroke="#cfe0f0" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="-9" y="-44" width="17" height="38" rx="7" fill="#cfe0f0" stroke="#333" stroke-width="2"/>
+<path d="M2,-38 L20,-20" stroke="#333" stroke-width="8" stroke-linecap="round"/>
+<path d="M2,-38 L20,-20" stroke="#cfe0f0" stroke-width="4.5" stroke-linecap="round"/>
+<circle cx="2" cy="-55" r="9" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M11,-57 Q11,-67 1,-67 Q-10,-67 -11,-56 L-13,-40 L-5,-42 L-6,-52 Q-2,-60 11,-57 Z" fill="#fbfaf4" stroke="#333" stroke-width="1.5"/>
+<use href="#drop" transform="translate(16,-60)"/>
+</g>
+<text x="174" y="200" font-size="15" font-weight="bold" text-anchor="middle">Sitting still in the shade</text>
+<text x="174" y="220" font-size="13" text-anchor="middle">still loses several L a day; more when hotter</text>
+<!-- right: walking in strong sun -->
+<rect x="376" y="170" width="300" height="8" fill="url(#sand)"/>
+<line x1="376" y1="170" x2="676" y2="170" stroke="#999" stroke-width="3"/>
+<use href="#sun" transform="translate(410,62) scale(1.3)"/>
+<path d="M426,78 L452,98 M434,66 L464,72" stroke="#e08a00" stroke-width="1.5" stroke-dasharray="4 3"/>
+<g transform="translate(500,168)">
+<path d="M0,-62 L-16,-2 M0,-62 L18,-4" fill="none" stroke="#333" stroke-width="12" stroke-linecap="round"/>
+<path d="M0,-62 L-16,-2 M0,-62 L18,-4" fill="none" stroke="#cfe0f0" stroke-width="8" stroke-linecap="round"/>
+<path d="M-18,-2 L-8,-2 M16,-4 L26,-4" stroke="#333" stroke-width="5" stroke-linecap="round"/>
+<rect x="-9" y="-112" width="19" height="54" rx="8" fill="#cfe0f0" stroke="#333" stroke-width="2" transform="rotate(6 0 -85)"/>
+<path d="M2,-102 L-14,-76 M2,-102 L18,-78" fill="none" stroke="#333" stroke-width="8" stroke-linecap="round"/>
+<path d="M2,-102 L-14,-76 M2,-102 L18,-78" fill="none" stroke="#cfe0f0" stroke-width="4.5" stroke-linecap="round"/>
+<circle cx="6" cy="-124" r="11" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<use href="#drop" transform="translate(-14,-134)"/>
+<use href="#drop" transform="translate(22,-126)"/>
+<use href="#drop" transform="translate(-20,-110)"/>
+<use href="#drop" transform="translate(24,-104)"/>
+<use href="#drop" transform="translate(-22,-86)"/>
+<use href="#drop" transform="translate(28,-84)"/>
+</g>
+<!-- 1 L bottle -->
+<path d="M592,84 L604,84 L604,94 Q614,100 614,112 L614,160 Q614,166 608,166 L588,166 Q582,166 582,160 L582,112 Q582,100 592,94 Z" fill="#e8f1fa" stroke="#333" stroke-width="2"/>
+<path d="M583,112 L613,112 L613,160 Q613,165 608,165 L588,165 Q583,165 583,160 Z" fill="#9cc3e6"/>
+<text x="598" y="144" font-size="14" font-weight="bold" text-anchor="middle">1 L</text>
+<path d="M540,124 L574,124" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="622" y="122" font-size="13" fill="#c33">about</text>
+<text x="622" y="138" font-size="13" fill="#c33">1 L an</text>
+<text x="622" y="154" font-size="13" fill="#c33">hour</text>
+<text x="526" y="200" font-size="15" font-weight="bold" fill="#c33" text-anchor="middle">Walking or working in strong sun</text>
+<text x="526" y="220" font-size="13" fill="#c33" text-anchor="middle">sweat can reach about 1 L an hour, or more</text>
+<line x1="350" y1="56" x2="350" y2="226" stroke="#ddd" stroke-width="1.5"/>
+<text x="16" y="244" font-size="13">The same walk in daytime sun costs several times the sweat of walking at night;</text>
+<text x="16" y="261" font-size="13">one afternoon walking in strong sun can use up a whole day's water</text>
+</g>
+
+<!-- 2 how to sweat less -->
+<g transform="translate(10,326)">
+<rect x="0" y="0" width="700" height="320" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">② How to sweat less</text>
+<use href="#sun" transform="translate(176,62)"/>
+<line x1="16" y1="200" x2="340" y2="200" stroke="#999" stroke-width="3"/>
+<!-- clothed -->
+<g transform="translate(90,198)">
+<rect x="-14" y="-72" width="13" height="70" rx="5" fill="#e6eef6" stroke="#333" stroke-width="2"/>
+<rect x="1" y="-72" width="13" height="70" rx="5" fill="#e6eef6" stroke="#333" stroke-width="2"/>
+<rect x="-31" y="-122" width="11" height="54" rx="5" fill="#f4efe2" stroke="#333" stroke-width="2"/>
+<rect x="20" y="-122" width="11" height="54" rx="5" fill="#f4efe2" stroke="#333" stroke-width="2"/>
+<rect x="-21" y="-126" width="42" height="62" rx="9" fill="#f4efe2" stroke="#333" stroke-width="2"/>
+<circle cx="-26" cy="-64" r="5" fill="#f3e3d3" stroke="#333" stroke-width="1.5"/>
+<circle cx="26" cy="-64" r="5" fill="#f3e3d3" stroke="#333" stroke-width="1.5"/>
+<path d="M-17,-136 Q-17,-160 0,-160 Q17,-160 17,-136 L20,-118 L-20,-118 Z" fill="#fbfaf4" stroke="#333" stroke-width="2"/>
+<ellipse cx="0" cy="-138" rx="9" ry="11" fill="#f3e3d3" stroke="#333" stroke-width="1.5"/>
+<path d="M-4,-130 L4,-130" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M-16,0 L-1,0 M1,0 L16,0" stroke="#333" stroke-width="5" stroke-linecap="round"/>
+</g>
+<path d="M160,80 L116,46" stroke="#e08a00" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="90" y="226" font-size="15" font-weight="bold" fill="#0b5cad" text-anchor="middle">✓ Clothed</text>
+<!-- stripped -->
+<g transform="translate(262,198)">
+<rect x="-14" y="-72" width="13" height="70" rx="5" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<rect x="1" y="-72" width="13" height="70" rx="5" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M-16,-72 L16,-72 L16,-50 L-16,-50 Z" fill="#cfe0f0" stroke="#333" stroke-width="2"/>
+<rect x="-31" y="-122" width="11" height="54" rx="5" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<rect x="20" y="-122" width="11" height="54" rx="5" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<rect x="-21" y="-126" width="42" height="58" rx="9" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<circle cx="0" cy="-140" r="13" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M-12,-145 Q0,-158 12,-145" fill="none" stroke="#333" stroke-width="3"/>
+<path d="M-16,0 L-1,0 M1,0 L16,0" stroke="#333" stroke-width="5" stroke-linecap="round"/>
+<use href="#drop" transform="translate(-8,-112)"/>
+<use href="#drop" transform="translate(8,-96)"/>
+<use href="#drop" transform="translate(-4,-80)"/>
+<path d="M30,-110 q10,-6 20,0 q10,6 20,0" fill="none" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<path d="M30,-90 q10,-6 20,0 q10,6 20,0" fill="none" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+</g>
+<path d="M192,80 L236,112" stroke="#e08a00" stroke-width="1.5" stroke-dasharray="4 3"/>
+<path d="M190,70 L248,70" stroke="#e08a00" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="268" y="226" font-size="15" font-weight="bold" fill="#c33" text-anchor="middle">✗ Stripped off</text>
+<text x="16" y="250" font-size="13" fill="#0b5cad">✓ Clothes block the sun; sweat stays in them</text>
+<text x="32" y="266" font-size="13" fill="#0b5cad">and evaporates slowly, cooling you</text>
+<text x="16" y="286" font-size="13" fill="#c33">✗ Sun on bare skin; hot wind dries sweat at once,</text>
+<text x="32" y="302" font-size="13" fill="#c33">so you sweat more, lose water faster, burn badly</text>
+<line x1="350" y1="44" x2="350" y2="308" stroke="#ddd" stroke-width="1.5"/>
+<g font-size="14">
+<text x="364" y="56"><tspan fill="#0b5cad" font-weight="bold">✓ Shade by day:</tspan> from about 10:00 until</text>
+<text x="380" y="74">evening, stay still in the shade</text>
+<text x="364" y="100"><tspan fill="#0b5cad" font-weight="bold">✓</tspan> Walk only in the evening, night, early morning</text>
+<text x="364" y="126"><tspan fill="#0b5cad" font-weight="bold">✓</tspan> Long sleeves and trousers, light, loose,</text>
+<text x="380" y="144">breathable; always cover head and neck</text>
+<text x="364" y="170"><tspan fill="#0b5cad" font-weight="bold">✓</tspan> Breathe through your nose; talk little</text>
+<text x="364" y="196"><tspan fill="#0b5cad" font-weight="bold">✓</tspan> Dig, carry, forage only when it is cool</text>
+<text x="364" y="222"><tspan fill="#0b5cad" font-weight="bold">✓</tspan> Short of water: eat little or nothing</text>
+<text x="380" y="240">(digestion uses water)</text>
+<text x="364" y="264"><tspan fill="#0b5cad" font-weight="bold">✓</tspan> Stay calm (anxiety increases water loss)</text>
+<text x="364" y="290"><tspan fill="#c33" font-weight="bold">✗</tspan> No alcohol (diuretic, speeds dehydration),</text>
+<text x="380" y="308">no smoking</text>
+</g>
+</g>
+
+<!-- 3 drinking -->
+<g transform="translate(10,656)">
+<rect x="0" y="0" width="700" height="176" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">③ If you have water, drink it: don't ration</text>
+<text x="16" y="56" font-size="13">Water in a bottle can't cool you; in your body it can</text>
+<text x="16" y="80" font-size="13">✓ Drink when thirsty, ideally before</text>
+<text x="16" y="104" font-size="13">✓ Small sips; usually ≤ about 1-1.5 L an hour</text>
+<text x="16" y="128" font-size="13">✓ Heavy sweating for a long time: if you can,</text>
+<text x="32" y="145" font-size="13">drink ORS, sports drinks or weak salt water,</text>
+<text x="32" y="162" font-size="13">or eat something salty with it</text>
+<line x1="350" y1="44" x2="350" y2="152" stroke="#ddd" stroke-width="1.5"/>
+<text x="364" y="56" font-size="14" font-weight="bold">Check your urine:</text>
+<rect x="364" y="68" width="36" height="22" rx="4" fill="#fbf3b4" stroke="#333" stroke-width="1.5"/>
+<text x="410" y="84" font-size="13">Pale yellow → enough water</text>
+<rect x="364" y="98" width="36" height="22" rx="4" fill="#d99a1e" stroke="#333" stroke-width="1.5"/>
+<text x="410" y="114" font-size="13">Dark yellow, very little → already short</text>
+<rect x="364" y="128" width="36" height="22" rx="4" fill="#fff" stroke="#c33" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="382" y="144" font-size="12" fill="#c33" text-anchor="middle">none</text>
+<text x="410" y="144" font-size="13" fill="#c33">None for most of a day → danger sign</text>
+</g>
+
+<!-- 4 not drinkable -->
+<g transform="translate(10,842)">
+<rect x="0" y="0" width="700" height="146" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="#c33">④ "Water" you must not drink</text>
+<g font-size="14">
+<text x="16" y="56" font-size="13"><tspan fill="#c33" font-weight="bold">✗ Urine:</tspan> more concentrated the more dehydrated</text>
+<text x="30" y="72" font-size="13">you are; it only makes you thirstier</text>
+<text x="30" y="89" fill="#555" font-size="12">(pour it into a still pit, or wet clothes to cool you)</text>
+<text x="16" y="112" font-size="13"><tspan fill="#c33" font-weight="bold">✗ Coolant, antifreeze:</tspan> toxic, a little can kill</text>
+<text x="16" y="136" font-size="13"><tspan fill="#c33" font-weight="bold">✗ Screenwash:</tspan> often contains methanol, toxic</text>
+<text x="380" y="56" font-size="13"><tspan fill="#c33" font-weight="bold">✗ Seawater, salt-lake or brackish water:</tspan></text>
+<text x="394" y="72" font-size="13">the more you drink, the thirstier and more</text>
+<text x="394" y="88" font-size="13">dehydrated you get</text>
+<text x="380" y="112" font-size="13"><tspan fill="#c33" font-weight="bold">✗ Alcohol</tspan></text>
+<text x="380" y="136" font-size="13" font-weight="bold">Not sure it is safe to drink? Don't.</text>
+</g>
+</g>
+</g>
+</svg>

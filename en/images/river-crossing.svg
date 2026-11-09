@@ -1,0 +1,253 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1510" width="720" height="1510" role="img" aria-label="Wading across a river: don't cross unless you must; fast water about 15 cm deep can knock you over, and in knee-deep fast water you can barely stand. 1 Do not cross if: a stick thrown in floats faster than a brisk walk, the water in the fast part is above the knee, the water is murky and you cannot see the bottom, there are waterfalls, rapids, deep pools or fallen trees not far downstream, it has just rained heavily and the water is rising, or you are very tired or cold; if unsure, wait, or look along the bank for a better place, or go round. 2 Choose a wide stretch with a smooth surface and a bed of small pebbles, not a narrow stretch or the outside of a bend; don't walk on wet logs or jump across slippery rocks. 3 Alone: undo the pack's hip belt and chest strap, keep your shoes on, face upstream and shuffle sideways in small steps, with a trekking pole or stick planted on the upstream side for three points of contact, moving only one point at a time, heading diagonally downstream. 4 In a group: two or three people link arms or hold each other's packs, line up one behind another along the current and shuffle across, the strongest person upstream, with someone downstream ready to catch. 5 Swept away: shed your pack, lie on your back with your feet downstream near the surface, push off rocks with your feet, scull with your arms and swim diagonally to the bank; stand up only where the water is slow and shallow, do not try to stand in fast water, and do not grab fallen trees or branches. Never tie a rope to the person crossing">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Wading across a river: judge, choose a spot, cross, if swept away</title>
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="ab" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<clipPath id="riv"><path d="M20,112 L160,112 C190,112 195,70 225,70 L390,70 C420,70 430,107 450,107 Q565,182 690,82 L690,150 Q565,250 450,177 C430,177 420,210 390,210 L225,210 C195,210 190,160 160,160 L20,160 Z"/></clipPath>
+<g id="topman">
+<rect x="7" y="-14" width="15" height="28" rx="4" fill="#d6c29a" stroke="#333" stroke-width="1.5"/>
+<ellipse cx="0" cy="0" rx="10" ry="21" fill="#cfe0f0" stroke="#333" stroke-width="2"/>
+<circle cx="-2" cy="0" r="9" fill="#555" stroke="#333" stroke-width="1.5"/>
+</g>
+</defs>
+<g font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif" font-size="14" fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Wading across a river: don't cross unless you must</text>
+<text x="360" y="50" font-size="14" fill="#555" text-anchor="middle">Wading is a much-underestimated danger: once you are knocked over, your pack drags you under</text>
+
+<!-- 1 judge -->
+<g transform="translate(10,64)">
+<rect x="0" y="0" width="700" height="280" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">① Can you cross? Do not cross if:</text>
+<g font-size="14">
+<text x="16" y="58"><tspan fill="#c33" font-weight="bold">✗</tspan> Fast current: a stick thrown in floats faster than a brisk walk</text>
+<text x="16" y="80"><tspan fill="#c33" font-weight="bold">✗</tspan> The water in the fast part is above the knee</text>
+<text x="16" y="102"><tspan fill="#c33" font-weight="bold">✗</tspan> The water is murky and you can't see the bottom</text>
+<text x="16" y="124"><tspan fill="#c33" font-weight="bold">✗</tspan> Waterfalls, rapids, deep pools or fallen trees not far downstream</text>
+<text x="16" y="146"><tspan fill="#c33" font-weight="bold">✗</tspan> It has just rained heavily and the water is rising</text>
+<text x="16" y="168"><tspan fill="#c33" font-weight="bold">✗</tspan> You are very tired or very cold</text>
+<text x="16" y="198"><tspan fill="#0b5cad" font-weight="bold">✓</tspan> If unsure, wait: a mountain stream swollen by rain often drops</text>
+<text x="32" y="218">again within a few hours; a river fed by melting snow and ice</text>
+<text x="32" y="238">usually carries less water in the morning than in the afternoon</text>
+<text x="16" y="262"><tspan fill="#0b5cad" font-weight="bold">✓</tspan> Or look along the bank for a better place, or go round</text>
+</g>
+<!-- water depth -->
+<rect x="458" y="186" width="232" height="54" fill="#d8ebf7"/>
+<path d="M458,186 L690,186" stroke="#7aa6cc" stroke-width="2"/>
+<path d="M466,212 L500,212" stroke="#0b5cad" stroke-width="2" marker-end="url(#ab)"/><path d="M590,212 L624,212" stroke="#0b5cad" stroke-width="2" marker-end="url(#ab)"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M536,156 L530,234 M546,156 L552,234" stroke="#333" stroke-width="15"/><path d="M536,156 L530,234 M546,156 L552,234" stroke="#cfe0f0" stroke-width="10"/>
+</g>
+<rect x="526" y="86" width="30" height="76" rx="12" fill="#cfe0f0" stroke="#333" stroke-width="2"/>
+<circle cx="540" cy="70" r="14" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M541,56 Q556,56 554,72 Q548,64 541,62 Z" fill="#555"/>
+<ellipse cx="526" cy="237" rx="9" ry="4" fill="#555"/><ellipse cx="555" cy="237" rx="9" ry="4" fill="#555"/>
+<path d="M458,240 L690,240" stroke="#999" stroke-width="3"/>
+<path d="M468,224 L690,224" stroke="#0b5cad" stroke-width="1.2" stroke-dasharray="4 3"/>
+<path d="M680,224 L680,240 M674,224 L686,224" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="574" y="146" font-size="13" fill="#c33" font-weight="bold">Knee-deep fast</text>
+<text x="574" y="162" font-size="13" fill="#c33">water: you can</text>
+<text x="574" y="178" font-size="13" fill="#c33">barely stand</text>
+<text x="574" y="76" font-size="13" fill="#0b5cad">Fast water about</text>
+<text x="574" y="92" font-size="13" fill="#0b5cad">15 cm deep can</text>
+<text x="574" y="108" font-size="13" fill="#0b5cad">knock you over</text>
+<path d="M664,112 L664,218" stroke="#0b5cad" stroke-width="1" marker-end="url(#ab)"/>
+</g>
+
+<!-- 2 choose a spot -->
+<g transform="translate(10,354)">
+<rect x="0" y="0" width="700" height="270" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">② Choosing where to cross (top view)</text>
+<path d="M20,112 L160,112 C190,112 195,70 225,70 L390,70 C420,70 430,107 450,107 Q565,182 690,82 L690,150 Q565,250 450,177 C430,177 420,210 390,210 L225,210 C195,210 190,160 160,160 L20,160 Z" fill="#d8ebf7"/>
+<path d="M470,190 Q565,252 680,154" fill="none" stroke="#5f93c6" stroke-width="30" stroke-opacity="0.5" clip-path="url(#riv)"/>
+<path d="M20,112 L160,112 C190,112 195,70 225,70 L390,70 C420,70 430,107 450,107 Q565,182 690,82 M690,150 Q565,250 450,177 C430,177 420,210 390,210 L225,210 C195,210 190,160 160,160 L20,160" fill="none" stroke="#7aa6cc" stroke-width="2"/>
+<!-- small pebbles -->
+<g fill="#c9c2b4" stroke="#999" stroke-width="1">
+<circle cx="240" cy="96" r="3"/><circle cx="262" cy="150" r="4"/><circle cx="286" cy="186" r="3"/><circle cx="300" cy="132" r="3"/><circle cx="318" cy="88" r="4"/><circle cx="336" cy="170" r="3"/><circle cx="352" cy="118" r="3"/><circle cx="372" cy="192" r="4"/><circle cx="380" cy="146" r="3"/><circle cx="246" cy="190" r="3"/><circle cx="270" cy="112" r="3"/><circle cx="326" cy="154" r="3"/>
+</g>
+<!-- current -->
+<path d="M30,128 L84,128" stroke="#0b5cad" stroke-width="2.5" marker-end="url(#ab)"/>
+<text x="30" y="150" font-size="12" fill="#0b5cad">current</text>
+<path d="M600,150 Q630,134 660,114" fill="none" stroke="#0b5cad" stroke-width="2.5" marker-end="url(#ab)"/>
+<!-- narrow stretch, fallen log -->
+<rect x="116" y="102" width="12" height="70" rx="5" fill="#b08a58" stroke="#333" stroke-width="1.5"/>
+<text x="20" y="92" font-size="13" fill="#c33">✗ Narrow: deep and fast</text>
+<line x1="98" y1="186" x2="118" y2="170" stroke="#0b5cad" stroke-width="1"/>
+<text x="20" y="200" font-size="13" fill="#c33">✗ Don't walk on wet logs or</text>
+<text x="20" y="218" font-size="13" fill="#c33">jump across slippery rocks</text>
+<!-- crossing route -->
+<path d="M250,62 L348,216" stroke="#c33" stroke-width="2.5" stroke-dasharray="7 5" marker-end="url(#ar)"/>
+<text x="294" y="104" font-size="13" fill="#c33">head diagonally downstream</text>
+<text x="214" y="238" font-size="13" fill="#0b5cad" font-weight="bold">✓ Wide stretch (usually shallower, slower)</text>
+<text x="214" y="258" font-size="13" fill="#0b5cad" font-weight="bold">✓ Smooth surface, bed of small pebbles</text>
+<!-- outside of the bend -->
+<line x1="560" y1="232" x2="566" y2="214" stroke="#0b5cad" stroke-width="1"/>
+<text x="500" y="250" font-size="13" fill="#c33">✗ Outer bend: scoured deep</text>
+</g>
+
+<!-- 3 alone -->
+<g transform="translate(10,634)">
+<rect x="0" y="0" width="345" height="380" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">③ Crossing alone</text>
+<text x="16" y="244" font-size="12" fill="#555">upstream</text>
+<text x="333" y="244" font-size="12" fill="#555" text-anchor="end">downstream</text>
+<rect x="10" y="250" width="325" height="40" fill="#d8ebf7"/>
+<path d="M10,250 L335,250" stroke="#7aa6cc" stroke-width="2"/>
+<path d="M20,270 L64,270" stroke="#0b5cad" stroke-width="2.5" marker-end="url(#ab)"/><path d="M250,272 L294,272" stroke="#0b5cad" stroke-width="2.5" marker-end="url(#ab)"/>
+<!-- legs -->
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M172,190 L158,286 M184,190 L200,286" stroke="#333" stroke-width="18"/><path d="M172,190 L158,286 M184,190 L200,286" stroke="#cfe0f0" stroke-width="13"/>
+</g>
+<ellipse cx="154" cy="288" rx="12" ry="5" fill="#555"/><ellipse cx="204" cy="288" rx="12" ry="5" fill="#555"/>
+<rect x="10" y="250" width="325" height="40" fill="#d8ebf7" fill-opacity="0.45"/>
+<!-- pack -->
+<rect x="190" y="106" width="36" height="82" rx="9" fill="#d6c29a" stroke="#333" stroke-width="2"/>
+<!-- body -->
+<rect x="160" y="104" width="34" height="92" rx="13" fill="#cfe0f0" stroke="#333" stroke-width="2.5"/>
+<path d="M196,110 Q180,100 170,116 L166,150" fill="none" stroke="#6b5530" stroke-width="4" stroke-linecap="round"/>
+<path d="M167,132 L156,148" stroke="#6b5530" stroke-width="3.5" stroke-linecap="round"/>
+<!-- hip belt undone, hanging -->
+<path d="M200,184 Q204,200 196,214" fill="none" stroke="#6b5530" stroke-width="4" stroke-linecap="round"/>
+<rect x="190" y="212" width="10" height="8" fill="#333"/>
+<!-- head -->
+<circle cx="176" cy="86" r="16" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M178,70 Q196,70 193,90 Q186,80 178,78 Z" fill="#555"/>
+<circle cx="168" cy="84" r="1.8" fill="#333"/>
+<!-- arm and stick -->
+<path d="M126,118 L110,288" stroke="#8a6a3a" stroke-width="5" stroke-linecap="round"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M172,116 L150,150 L128,162" stroke="#333" stroke-width="14"/><path d="M172,116 L150,150 L128,162" stroke="#f3e3d3" stroke-width="9"/>
+</g>
+<ellipse cx="124" cy="162" rx="7" ry="6" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<!-- three points of contact -->
+<g fill="none" stroke="#c33" stroke-width="2"><circle cx="110" cy="288" r="7"/><circle cx="154" cy="288" r="7"/><circle cx="204" cy="288" r="7"/></g>
+<text x="16" y="312" font-size="13" fill="#c33" font-weight="bold">three points of contact</text>
+<line x1="72" y1="306" x2="103" y2="292" stroke="#c33" stroke-width="1"/>
+<!-- labels -->
+<text x="40" y="62" font-size="13" fill="#0b5cad">face upstream</text>
+<line x1="94" y1="66" x2="160" y2="84" stroke="#0b5cad" stroke-width="1"/>
+<text x="16" y="200" font-size="13" fill="#0b5cad">stick on the</text>
+<text x="16" y="216" font-size="13" fill="#0b5cad">upstream side</text>
+<line x1="96" y1="206" x2="114" y2="212" stroke="#0b5cad" stroke-width="1"/>
+<text x="240" y="126" font-size="13" fill="#0b5cad">undo the pack's</text>
+<text x="240" y="142" font-size="13" fill="#0b5cad">hip belt and</text>
+<text x="240" y="158" font-size="13" fill="#0b5cad">chest strap</text>
+<text x="240" y="174" font-size="12" fill="#555">(to shed it fast</text>
+<text x="240" y="188" font-size="12" fill="#555">if knocked over)</text>
+<line x1="238" y1="196" x2="204" y2="210" stroke="#0b5cad" stroke-width="1"/>
+<text x="246" y="228" font-size="13" fill="#0b5cad">shoes on</text>
+<line x1="256" y1="236" x2="212" y2="284" stroke="#0b5cad" stroke-width="1"/>
+<text x="16" y="334" font-size="13">Face upstream and shuffle sideways in small</text>
+<text x="16" y="352" font-size="13">steps. Move only one point of contact at a</text>
+<text x="16" y="370" font-size="13">time; get steady before moving the next</text>
+</g>
+
+<!-- 4 group -->
+<g transform="translate(365,634)">
+<rect x="0" y="0" width="345" height="380" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">④ Crossing as a group (top view)</text>
+<rect x="12" y="62" width="321" height="186" fill="#d8ebf7"/>
+<path d="M12,62 L333,62 M12,248 L333,248" stroke="#7aa6cc" stroke-width="2"/>
+<path d="M22,82 L62,82" stroke="#0b5cad" stroke-width="2.5" marker-end="url(#ab)"/><path d="M22,232 L62,232" stroke="#0b5cad" stroke-width="2.5" marker-end="url(#ab)"/>
+<text x="68" y="86" font-size="12" fill="#0b5cad">current</text>
+<!-- three in a line, facing upstream -->
+<g fill="none" stroke-linecap="round">
+<path d="M164,142 L134,148 M164,174 L134,168 M214,142 L184,148 M214,174 L184,168" stroke="#333" stroke-width="9"/>
+<path d="M164,142 L134,148 M164,174 L134,168 M214,142 L184,148 M214,174 L184,168" stroke="#f3e3d3" stroke-width="5"/>
+</g>
+<use href="#topman" transform="translate(114,158)"/>
+<use href="#topman" transform="translate(164,158)"/>
+<use href="#topman" transform="translate(214,158)"/>
+<g fill="none" stroke-linecap="round">
+<path d="M164,142 L134,148 M164,174 L134,168 M214,142 L184,148 M214,174 L184,168" stroke="#333" stroke-width="9"/>
+<path d="M164,142 L134,148 M164,174 L134,168 M214,142 L184,148 M214,174 L184,168" stroke="#f3e3d3" stroke-width="5"/>
+</g>
+<text x="20" y="108" font-size="13" fill="#0b5cad">strongest person</text>
+<text x="20" y="124" font-size="13" fill="#0b5cad">furthest upstream</text>
+<line x1="70" y1="130" x2="100" y2="150" stroke="#0b5cad" stroke-width="1"/>
+<text x="196" y="104" font-size="13" fill="#0b5cad">link arms or</text>
+<text x="196" y="120" font-size="13" fill="#0b5cad">hold packs</text>
+<line x1="200" y1="124" x2="180" y2="146" stroke="#0b5cad" stroke-width="1"/>
+<path d="M164,192 L164,236" stroke="#c33" stroke-width="2.5" marker-end="url(#ar)"/>
+<text x="174" y="216" font-size="13" fill="#c33">shuffle across</text>
+<text x="174" y="232" font-size="13" fill="#c33">together</text>
+<!-- catcher downstream -->
+<g transform="translate(296,270) rotate(90)"><use href="#topman"/></g>
+<text x="190" y="286" font-size="13" fill="#0b5cad" text-anchor="end">catcher downstream</text>
+<line x1="194" y1="282" x2="272" y2="272" stroke="#0b5cad" stroke-width="1"/>
+<text x="16" y="334" font-size="13">Two or three people link arms or hold packs,</text>
+<text x="16" y="352" font-size="13">line up one behind another along the current</text>
+<text x="16" y="370" font-size="13">and shuffle across; post a catcher downstream</text>
+</g>
+
+<!-- 5 swept away -->
+<g transform="translate(10,1024)">
+<rect x="0" y="0" width="700" height="334" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="28" font-size="17" font-weight="bold">⑤ Swept away: on your back, feet downstream</text>
+<!-- side view -->
+<rect x="12" y="98" width="386" height="74" fill="#d8ebf7"/>
+<path d="M12,98 L398,98" stroke="#7aa6cc" stroke-width="2"/>
+<path d="M60,156 L110,156" stroke="#0b5cad" stroke-width="2.5" marker-end="url(#ab)"/><path d="M230,160 L280,160" stroke="#0b5cad" stroke-width="2.5" marker-end="url(#ab)"/>
+<ellipse cx="318" cy="106" rx="26" ry="16" fill="#aaa" stroke="#333" stroke-width="2"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M170,108 L222,100 L262,96" stroke="#333" stroke-width="18"/><path d="M170,108 L222,100 L262,96" stroke="#cfe0f0" stroke-width="13"/>
+<path d="M98,106 L170,108" stroke="#333" stroke-width="30"/><path d="M98,106 L170,108" stroke="#cfe0f0" stroke-width="25"/>
+<path d="M108,112 L128,126 L150,124" stroke="#333" stroke-width="10"/><path d="M108,112 L128,126 L150,124" stroke="#f3e3d3" stroke-width="6"/>
+</g>
+<ellipse cx="154" cy="124" rx="6" ry="5" fill="#f3e3d3" stroke="#333" stroke-width="1.5"/>
+<path d="M150,138 Q160,146 170,138 M150,138 L146,134 M170,138 L174,134" fill="none" stroke="#c33" stroke-width="1.8" stroke-linecap="round"/>
+<ellipse cx="270" cy="92" rx="6" ry="10" fill="#555" transform="rotate(-20 270 92)"/>
+<circle cx="72" cy="100" r="15" fill="#f3e3d3" stroke="#333" stroke-width="2.5"/>
+<path d="M58,106 Q54,90 66,86 Q62,96 64,108 Z" fill="#555"/>
+<circle cx="76" cy="92" r="1.8" fill="#333"/>
+<rect x="12" y="104" width="386" height="68" fill="#d8ebf7" fill-opacity="0.55"/>
+<path d="M282,92 L296,96" stroke="#c33" stroke-width="2.5" marker-end="url(#ar)"/>
+<text x="40" y="62" font-size="13" fill="#0b5cad">face up</text>
+<line x1="60" y1="66" x2="70" y2="84" stroke="#0b5cad" stroke-width="1"/>
+<text x="150" y="54" font-size="13" fill="#0b5cad">feet downstream,</text>
+<text x="150" y="70" font-size="13" fill="#0b5cad">near the surface</text>
+<line x1="230" y1="74" x2="258" y2="88" stroke="#0b5cad" stroke-width="1"/>
+<text x="290" y="54" font-size="13" fill="#0b5cad">push off rocks</text>
+<text x="290" y="70" font-size="13" fill="#0b5cad">with your feet</text>
+<text x="182" y="146" font-size="13" fill="#0b5cad">scull with both arms to steer</text>
+
+<text x="16" y="198" font-size="14">Shed your pack first; stand up only where</text>
+<text x="16" y="216" font-size="14">the water is slow and shallow</text>
+<text x="16" y="242" font-size="14" fill="#c33">✗ Don't try to stand and walk in fast water:</text>
+<text x="30" y="260" font-size="14" fill="#c33">a foot can jam between rocks, and the</text>
+<text x="30" y="278" font-size="14" fill="#c33">current pushes you over and holds you under</text>
+<text x="16" y="304" font-size="14" fill="#c33">✗ Don't grab fallen trees or branches in the</text>
+<text x="30" y="322" font-size="14" fill="#c33">water (you can be swept under them)</text>
+<!-- top view -->
+<g transform="translate(418,0)">
+<rect x="0" y="44" width="270" height="110" fill="#d8ebf7"/>
+<path d="M0,154 L270,154" stroke="#7aa6cc" stroke-width="2"/>
+<path d="M0,154 L270,154" stroke="#999" stroke-width="3"/>
+<text x="6" y="60" font-size="12" fill="#555">top view</text>
+<path d="M150,62 L200,62" stroke="#0b5cad" stroke-width="2.5" marker-end="url(#ab)"/>
+<text x="206" y="66" font-size="12" fill="#0b5cad">current</text>
+<g stroke-linecap="round">
+<path d="M58,82 L78,96 M58,82 L80,70" stroke="#333" stroke-width="6"/><path d="M58,82 L78,96 M58,82 L80,70" stroke="#f3e3d3" stroke-width="3"/>
+<path d="M56,84 L94,84" stroke="#333" stroke-width="18"/><path d="M56,84 L94,84" stroke="#cfe0f0" stroke-width="14"/>
+<path d="M92,80 L120,76 M92,88 L120,92" stroke="#333" stroke-width="9"/><path d="M92,80 L120,76 M92,88 L120,92" stroke="#cfe0f0" stroke-width="5"/>
+</g>
+<circle cx="46" cy="84" r="9" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M112,100 Q170,118 214,148" fill="none" stroke="#c33" stroke-width="2.5" stroke-dasharray="7 5" marker-end="url(#ar)"/>
+<text x="10" y="128" font-size="13" fill="#c33">swim diagonally</text>
+<text x="10" y="144" font-size="13" fill="#c33">to the bank</text>
+<text x="0" y="198" font-size="13">Swim to the bank at an angle to</text>
+<text x="0" y="216" font-size="13">the current, not straight against it</text>
+</g>
+</g>
+
+<!-- warning -->
+<g transform="translate(10,1368)">
+<rect x="0" y="0" width="700" height="132" rx="8" fill="#fdecec" stroke="#c33" stroke-width="2"/>
+<text x="16" y="28" font-size="15" font-weight="bold" fill="#c33">✗ Never tie a rope to the person crossing: if they are knocked over,</text>
+<text x="34" y="48" font-size="15" font-weight="bold" fill="#c33">the rope holds them under water</text>
+<text x="16" y="76" font-size="14">To help a companion in the water: protect yourself first. From the bank, throw a rope or</text>
+<text x="16" y="96" font-size="14">something that floats, or hold out a branch or trekking pole. Without professional rescue</text>
+<text x="16" y="116" font-size="14">training, don't go into the water to rescue them.</text>
+</g>
+</g>
+</svg>
