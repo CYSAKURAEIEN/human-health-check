@@ -15,7 +15,7 @@
 
 ## Survival priorities
 
-When ordinary people get into trouble in the wild, it is almost always because they got lost, darkness fell, they were injured or the weather turned bad, and they are usually rescued within a day or two. The skills in this chapter are first of all for **holding out until rescue arrives**, and only secondly for living in the wild for a long time. For preparing before you set out and calling for help when lost, see [Trip Preparation and Calling for Help](../../../docs/03-野外生存/07-户外出行准备与求救.md).
+When ordinary people get into trouble in the wild, it is almost always because they got lost, darkness fell, they were injured or the weather turned bad, and they are usually rescued within a day or two. The skills in this chapter are first of all for **holding out until rescue arrives**, and only secondly for living in the wild for a long time. For preparing before you set out and calling for help when lost, see [Trip Preparation and Calling for Help](07-trip-preparation-and-calling-for-help.md).
 
 ### The rule of threes
 
@@ -49,7 +49,7 @@ This is an order-of-magnitude rule to help you remember **what to do first**. It
   dehydration, cold and hunger first make people misjudge things, fall and get hurt — a far more common cause of death
 ```
 
-For recognising and treating hypothermia, see [River Crossings, Flash Floods and Hypothermia in the Wild – Not only in winter: hypothermia in the wild](../../../docs/03-野外生存/08-涉水山洪与野外失温.md#不只是冬天-野外失温); for heatstroke, see [Acute Conditions – Heatstroke](../../../docs/01-日常疾病和伤害/05-急性症状.md#中暑).
+For recognising and treating hypothermia, see [River Crossings, Flash Floods and Hypothermia in the Wild – Not only in winter: hypothermia in the wild](08-river-crossing-flash-floods-and-hypothermia.md#not-only-in-winter-hypothermia-outdoors); for heatstroke, see [Acute Conditions – Heatstroke](../01-first-aid-and-family-health/05-acute-symptoms.md#heatstroke).
 
 ### Order of survival tasks
 
@@ -73,7 +73,7 @@ For recognising and treating hypothermia, see [River Crossings, Flash Floods and
 
 **Remember**: people can go weeks without food, but only days without water!
 
-Adjust the order to the situation: an hour or two before dark, prepare for the night first (warmth, insulation from the ground); in good weather with energy to spare, set out your distress signals first. For whether to wait where you are or walk out after an injury in the wild, see [Treating and Evacuating the Sick and Injured in the Wild – Stay put or walk out](../../../docs/03-野外生存/11-野外伤病处置与转运.md#原地等待还是自行撤出).
+Adjust the order to the situation: an hour or two before dark, prepare for the night first (warmth, insulation from the ground); in good weather with energy to spare, set out your distress signals first. For whether to wait where you are or walk out after an injury in the wild, see [Treating and Evacuating the Sick and Injured in the Wild – Stay put or walk out](11-wilderness-casualty-care-and-evacuation.md#waiting-where-you-are-or-getting-yourselves-out).
 
 ### Keep calm and save your strength
 
@@ -90,7 +90,7 @@ these are often more dangerous than the original situation.
 ✓ Look after the weakest in the group (children, older people, the injured); they set the pace for everyone
 ```
 
-For coping with long-term stress, see [Mental Health – Looking after yourself under long-term stress](../../../docs/01-日常疾病和伤害/10-心理健康.md#长期压力下照顾好自己).
+For coping with long-term stress, see [Mental Health – Looking after yourself under long-term stress](../01-first-aid-and-family-health/10-mental-health.md#looking-after-yourself-under-long-term-stress).
 
 ---
 
@@ -132,7 +132,7 @@ Checking:
 ✗ Walking by feel: in forest, fog or snow you will almost certainly go round in circles
 ```
 
-For using a map and compass together, see [Trip Preparation and Calling for Help – Using a map and compass](../../../docs/03-野外生存/07-户外出行准备与求救.md#用地图和指南针); for measuring and correcting for magnetic declination, see [Advanced Celestial Navigation – Magnetic declination](../../../docs/09-进阶科学与工程/09-天文导航进阶.md#24-磁偏角).
+For using a map and compass together, see [Trip Preparation and Calling for Help – Using a map and compass](07-trip-preparation-and-calling-for-help.md#using-a-map-and-compass); for measuring and correcting for magnetic declination, see [Advanced Celestial Navigation – Magnetic declination](../../../docs/09-进阶科学与工程/09-天文导航进阶.md#24-磁偏角).
 
 **Improvised compass**: rub a sewing needle a few dozen times in one direction on silk or hair (or stroke it in one direction with a magnet), and lay it on a leaf or piece of cork floating on water; when it settles, its ends point north and south. Use the sun to check which end is north.
 
@@ -249,7 +249,7 @@ Northern hemisphere:
 - Moss: more on the north side
 ```
 
-⚠️ These methods are **unreliable**: crowns grow towards gaps and away from slopes, the width of growth rings depends mainly on slope, wind and neighbouring trees, and moss grows wherever it is damp and shaded. In a forest they are almost useless; do not choose your direction from one tree or one patch of moss. For why, see [Forest Survival – Why tree crowns, growth rings and moss cannot be trusted](../../../docs/03-野外生存/02-森林求生.md#树冠年轮苔藓为什么靠不住).
+⚠️ These methods are **unreliable**: crowns grow towards gaps and away from slopes, the width of growth rings depends mainly on slope, wind and neighbouring trees, and moss grows wherever it is damp and shaded. In a forest they are almost useless; do not choose your direction from one tree or one patch of moss. For why, see [Forest Survival – Why tree crowns, growth rings and moss cannot be trusted](02-forest-survival.md#why-tree-crowns-growth-rings-and-moss-are-unreliable).
 
 More reliable natural clues:
 ```
@@ -291,7 +291,7 @@ Time:
 ✓ Set a turnaround time: if you have not reached your destination by then, turn back anyway
 ```
 
-For trip plans, turnaround times and kit, see [Trip Preparation and Calling for Help](../../../docs/03-野外生存/07-户外出行准备与求救.md#出发前).
+For trip plans, turnaround times and kit, see [Trip Preparation and Calling for Help](07-trip-preparation-and-calling-for-help.md#before-you-set-out).
 
 ### If you are lost
 
@@ -324,7 +324,7 @@ In detail:
 ✓ If you do decide to move, leave a marker and a note where you were (time, direction you went), and mark your route
 ```
 
-For how to call for help and how to describe where you are, see [Trip Preparation and Calling for Help](../../../docs/03-野外生存/07-户外出行准备与求救.md#报警求救-说清楚你在哪里).
+For how to call for help and how to describe where you are, see [Trip Preparation and Calling for Help](07-trip-preparation-and-calling-for-help.md#calling-for-help-say-clearly-where-you-are).
 
 ---
 
@@ -351,7 +351,7 @@ Principles:
 ❌ Do not drink seawater, urine or alcohol
 ```
 
-For grading dehydration and oral rehydration, see [Common Illnesses – Diarrhoea](../../../docs/01-日常疾病和伤害/01-常见疾病.md#腹泻); for conserving body fluids in the desert, see [Desert Survival – Rationing water](../../../docs/03-野外生存/03-沙漠求生.md#配给水).
+For grading dehydration and oral rehydration, see [Common Illnesses – Diarrhoea](../01-first-aid-and-family-health/01-common-illnesses.md#diarrhoea); for conserving body fluids in the desert, see [Desert Survival – Rationing water](03-desert-survival.md#rationing-water).
 
 ### Finding water
 
@@ -385,7 +385,7 @@ Priority (best to worst):
 ✓ Water from melted ice and snow must still be boiled or disinfected
 ```
 
-For how to melt snow, see [Snow and Polar Survival – Melting snow](../../../docs/03-野外生存/04-雪地极地求生.md#融雪).
+For how to melt snow, see [Snow and Polar Survival – Melting snow](04-snow-and-polar-survival.md#melting-snow).
 
 ### Collecting rainwater
 
@@ -620,7 +620,7 @@ Yield: boiling a whole pot often gives only a few hundred mL; prepare plenty of 
    distilling water contaminated with fuel or chemicals is not safe either
 ```
 
-For other ways to get fresh water on an island, see [Desert Island Survival – Getting water on an island](../../../docs/03-野外生存/01-荒岛求生.md#海岛取水).
+For other ways to get fresh water on an island, see [Desert Island Survival – Getting water on an island](01-desert-island-survival.md#getting-water-on-an-island).
 
 #### Comparing the methods
 
@@ -651,7 +651,7 @@ For other ways to get fresh water on an island, see [Desert Island Survival – 
 - Alcohol (speeds up dehydration and hypothermia)
 ```
 
-For how to deal with chemically contaminated water, see [Water Sources and Supply – Water that ordinary methods cannot treat](../../../docs/07-日常生活技能/10-水源工程与供水.md#不能用一般方法处理的水). For diarrhoea after drinking dirty water, see [Treating and Evacuating the Sick and Injured in the Wild – Diarrhoea and vomiting](../../../docs/03-野外生存/11-野外伤病处置与转运.md#腹泻呕吐).
+For how to deal with chemically contaminated water, see [Water Sources and Supply – Water that ordinary methods cannot treat](../../../docs/07-日常生活技能/10-水源工程与供水.md#不能用一般方法处理的水). For diarrhoea after drinking dirty water, see [Treating and Evacuating the Sick and Injured in the Wild – Diarrhoea and vomiting](11-wilderness-casualty-care-and-evacuation.md#diarrhoea-and-vomiting).
 
 ---
 
@@ -668,7 +668,7 @@ Fire gives warmth, dries clothes, boils water to make it safe, serves as a signa
 - Do not light a fire or burn charcoal in a tent, snow cave or enclosed shelter: you will get carbon monoxide poisoning
 ```
 
-For recognising and treating carbon monoxide poisoning, see [Home and Traffic Accidents – Carbon monoxide poisoning](../../../docs/01-日常疾病和伤害/07-居家与交通意外.md#一氧化碳中毒); for spotting a forest fire or being trapped by one, see [Fire – Forest fires](../../../docs/02-灾难应对/04-火灾.md#森林火灾).
+For recognising and treating carbon monoxide poisoning, see [Home and Traffic Accidents – Carbon monoxide poisoning](../01-first-aid-and-family-health/07-home-and-traffic-accidents.md#carbon-monoxide-poisoning); for spotting a forest fire or being trapped by one, see [Fire – Forest fires](../02-disaster-response/04-fire.md#forest-fires).
 
 ### The fire triangle
 
@@ -958,7 +958,7 @@ Method:
 7. Always carry a small bag of dry tinder (petroleum-jelly cotton balls, birch bark) and a candle stub in your pack
 ```
 
-For more on lighting fires with wet wood in a forest, see [Forest Survival – Lighting a fire with wet wood](../../../docs/03-野外生存/02-森林求生.md#湿木生火).
+For more on lighting fires with wet wood in a forest, see [Forest Survival – Lighting a fire with wet wood](02-forest-survival.md#lighting-a-fire-with-wet-wood).
 
 ### Fire-lighting tips
 
@@ -1052,7 +1052,7 @@ Checks:
 - Look down: are there signs of water having flowed there (silt, flattened grass, debris caught in branches)
 ```
 
-For camping by rivers and the signs of a flash flood, see [River Crossings, Flash Floods and Hypothermia in the Wild – Choosing a campsite](../../../docs/03-野外生存/08-涉水山洪与野外失温.md#露营选址).
+For camping by rivers and the signs of a flash flood, see [River Crossings, Flash Floods and Hypothermia in the Wild – Choosing a campsite](08-river-crossing-flash-floods-and-hypothermia.md#choosing-a-campsite).
 
 ### Insulation from the ground matters most
 
@@ -1186,7 +1186,7 @@ Note:
 
 *Figure: Top, a snow cave in cross-section; bottom, a quinzhee — a snow shelter made by piling up snow and hollowing it out when the snow is not deep enough*
 
-For more on snow caves, snow trenches and snow shelters, see [Snow and Polar Survival – Snow caves](../../../docs/03-野外生存/04-雪地极地求生.md#雪洞).
+For more on snow caves, snow trenches and snow shelters, see [Snow and Polar Survival – Snow caves](04-snow-and-polar-survival.md#snow-cave).
 
 #### Sunshades for hot environments
 
@@ -1199,7 +1199,7 @@ For more on snow caves, snow trenches and snow shelters, see [Snow and Polar Sur
 - Deserts and gravel plains can be very cold at night; be ready to keep warm
 ```
 
-For sun shelters in the desert, see [Desert Survival – Sun protection (daytime)](../../../docs/03-野外生存/03-沙漠求生.md#防晒白天).
+For sun shelters in the desert, see [Desert Survival – Sun protection (daytime)](03-desert-survival.md#sun-protection-day).
 
 ### Improving a shelter
 
@@ -1340,9 +1340,9 @@ Body signals (to an aeroplane or helicopter):
 - An aircraft rocking its wings or circling low usually means it has seen you
 ```
 
-For what to do when a helicopter approaches, see [Treating and Evacuating the Sick and Injured in the Wild – Helicopter rescue](../../../docs/03-野外生存/11-野外伤病处置与转运.md#直升机救援).
+For what to do when a helicopter approaches, see [Treating and Evacuating the Sick and Injured in the Wild – Helicopter rescue](11-wilderness-casualty-care-and-evacuation.md#helicopter-rescue).
 
-For how to call for help and how to describe where you are, see [Trip Preparation and Calling for Help](../../../docs/03-野外生存/07-户外出行准备与求救.md#报警求救-说清楚你在哪里).
+For how to call for help and how to describe where you are, see [Trip Preparation and Calling for Help](07-trip-preparation-and-calling-for-help.md#calling-for-help-say-clearly-where-you-are).
 
 ---
 
@@ -1367,7 +1367,7 @@ See the chapters on each environment for details. Basic principles:
 ⚠️ When water is short, eat less, especially high-protein food
 ```
 
-For why you must not eat mushrooms and wild greens you do not recognise, see [Poisonous Mushrooms and Wild Plants](../../../docs/03-野外生存/09-毒蘑菇与野菜误食.md); for Chinese law on hunting and fishing, see [Forest Survival – The law on hunting and fishing](../../../docs/03-野外生存/02-森林求生.md#关于狩猎和捕鱼的法律).
+For why you must not eat mushrooms and wild greens you do not recognise, see [Poisonous Mushrooms and Wild Plants](09-poisonous-mushrooms-and-wild-plants.md); for Chinese law on hunting and fishing, see [Forest Survival – The law on hunting and fishing](02-forest-survival.md#the-law-on-hunting-and-fishing).
 
 ### Edibility test for plants
 
@@ -1419,7 +1419,7 @@ Signs of poisoning (nausea, vomiting, abdominal pain, diarrhoea, numb mouth, diz
   keep the rest of the plant, and get help and medical care as soon as possible
 ```
 
-For the general management of poisoning, see [Poisoning – General principles of managing poisoning](../../../docs/01-日常疾病和伤害/12-中毒.md#中毒的通用处理原则); for poisonous plants that are easily mistaken, see [Poisonous Mushrooms and Wild Plants – Poisonous plants that are easily mistaken](../../../docs/03-野外生存/09-毒蘑菇与野菜误食.md#容易认错的有毒植物).
+For the general management of poisoning, see [Poisoning – General principles of managing poisoning](../01-first-aid-and-family-health/12-poisoning.md#general-principles-for-handling-poisoning); for poisonous plants that are easily mistaken, see [Poisonous Mushrooms and Wild Plants – Poisonous plants that are easily mistaken](09-poisonous-mushrooms-and-wild-plants.md#poisonous-plants-that-are-easily-mistaken).
 
 ### Insects
 
@@ -1484,7 +1484,7 @@ Safety:
 ⚠️ In normal times: fishing with electricity, poison or explosives is banned; do not fish in closed seasons or closed areas
 ```
 
-For shellfish and sea fish at the coast, see [Desert Island Survival](../../../docs/03-野外生存/01-荒岛求生.md); for fish farming for long-term survival, see [Aquaculture](../../../docs/04-动植物培育/07-水产养殖.md).
+For shellfish and sea fish at the coast, see [Desert Island Survival](01-desert-island-survival.md); for fish farming for long-term survival, see [Aquaculture](../../../docs/04-动植物培育/07-水产养殖.md).
 
 ### Other animal foods
 
@@ -1497,7 +1497,7 @@ For shellfish and sea fish at the coast, see [Desert Island Survival](../../../d
   - Wear gloves or wrap your hands when handling wild animals, cook the meat thoroughly, and do not eat animals that died of disease or unknown causes
 ```
 
-For more ways to get protein while living in the wild long-term, see [Forest Survival – Animal protein](../../../docs/03-野外生存/02-森林求生.md#动物蛋白).
+For more ways to get protein while living in the wild long-term, see [Forest Survival – Animal protein](02-forest-survival.md#animal-protein).
 
 ---
 
@@ -1536,7 +1536,7 @@ Knife safety:
 ✓ When not using the knife, put it away or stick it somewhere fixed; do not leave it lying on the ground
 ```
 
-For managing severe bleeding, see [Wound and Injury Care](../../../docs/01-日常疾病和伤害/02-外伤处理.md). For sharpening and looking after tools, see [Woodworking and Tool Maintenance](../../../docs/07-日常生活技能/09-木工与工具维护.md); for forging metal knives, see [Simple Tool Forging](../../../docs/05-冶金技术/03-简易工具锻造.md).
+For managing severe bleeding, see [Wound and Injury Care](../01-first-aid-and-family-health/02-wounds-and-injuries.md). For sharpening and looking after tools, see [Woodworking and Tool Maintenance](../../../docs/07-日常生活技能/09-木工与工具维护.md); for forging metal knives, see [Simple Tool Forging](../../../docs/05-冶金技术/03-简易工具锻造.md).
 
 ### Containers
 
@@ -1703,5 +1703,5 @@ The most important points:
 
 ---
 
-**Next chapter**: [Desert Island Survival](../../../docs/03-野外生存/01-荒岛求生.md)
+**Next chapter**: [Desert Island Survival](01-desert-island-survival.md)
 **Back to**: [Chapter list](README.md) | [Main contents](../../README.md)

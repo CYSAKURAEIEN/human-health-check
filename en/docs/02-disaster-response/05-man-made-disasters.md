@@ -49,7 +49,7 @@
 ✓ People with chronic illnesses: stock extra medicine in advance; see the chapter on stockpiling medicines for chronic illness
 ```
 
-For how to make a family communication plan, see [Emergency Communication and Finding Family](../../../docs/02-灾难应对/06-应急通信与寻亲.md#灾前-家庭通信计划); for stockpiling medicines, see [Stockpiling Medicines for Chronic Illness](../../../docs/01-日常疾病和伤害/08-慢性病用药储备.md).
+For how to make a family communication plan, see [Emergency Communication and Finding Family](06-emergency-communication-and-family-reunification.md#before-a-disaster-family-communication-plan); for stockpiling medicines, see [Stockpiling Medicines for Chronic Illness](../01-first-aid-and-family-health/08-chronic-medication-stockpile.md).
 
 ### During a conflict
 
@@ -199,7 +199,7 @@ When there is no safe route, holding out in a solid shelter is often safer than 
   - Agree a meeting point for anyone who falls behind; count heads regularly
 ```
 
-For finding each other after a separation, see [Emergency Communication and Finding Family](../../../docs/02-灾难应对/06-应急通信与寻亲.md#家人失散后怎样寻找).
+For finding each other after a separation, see [Emergency Communication and Finding Family](06-emergency-communication-and-family-reunification.md#finding-family-members-after-you-are-separated).
 
 ---
 
@@ -336,7 +336,7 @@ If the spill is outside and you are inside:
 - Note (from a distance) the hazard signs, numbers and colours on the tanker or storage tank, and tell 119
 ```
 
-For toxic gas from mixing common household cleaners (toilet cleaner + "84" bleach and so on), see [Poisoning – Cleaning product poisoning](../../../docs/01-日常疾病和伤害/12-中毒.md#清洁剂中毒).
+For toxic gas from mixing common household cleaners (toilet cleaner + "84" bleach and so on), see [Poisoning – Cleaning product poisoning](../01-first-aid-and-family-health/12-poisoning.md#cleaning-product-poisoning).
 
 ### Decontamination
 
@@ -360,7 +360,7 @@ For toxic gas from mixing common household cleaners (toilet cleaner + "84" bleac
    - The packaging, the label or a photo of it
 ```
 
-For treating chemical burns, see [Wound and Injury Care – Chemical burns](../../../docs/01-日常疾病和伤害/02-外伤处理.md#化学烧伤).
+For treating chemical burns, see [Wound and Injury Care – Chemical burns](../01-first-aid-and-family-health/02-wounds-and-injuries.md#chemical-burns).
 
 **Eye contact**:
 ```
@@ -374,7 +374,7 @@ For treating chemical burns, see [Wound and Injury Care – Chemical burns](../.
 5. Get medical help
 ```
 
-For how to rinse, see [Foreign Bodies – Chemicals in the eye](../../../docs/01-日常疾病和伤害/04-异物处理.md#化学品入眼紧急).
+For how to rinse, see [Foreign Bodies – Chemicals in the eye](../01-first-aid-and-family-health/04-foreign-bodies-and-choking.md#chemicals-in-the-eye-emergency).
 
 **Inhalation**:
 ```
@@ -394,7 +394,7 @@ For how to rinse, see [Foreign Bodies – Chemicals in the eye](../../../docs/01
 | Persistent cough, chest tightness, shortness of breath, hoarse voice, dizziness and vomiting | See a doctor as soon as possible |
 | Difficulty breathing, blue lips, coughing up pink frothy sputum, seizures, confusion or unconsciousness | Call 120 at once |
 
-For the recovery position and CPR, see [Basic First Aid](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#气道与复苏体位).
+For the recovery position and CPR, see [Basic First Aid](../01-first-aid-and-family-health/00-basic-first-aid.md#airway-and-the-recovery-position).
 
 ---
 
@@ -572,7 +572,7 @@ Note:
 
 **When to tell medical staff**: nausea, vomiting, weakness or reddened skin within a few hours of the accident may mean a large dose of radiation. Tell the medical staff on site at once or call 120, and say where you were at the time and how long you stayed there.
 
-For surviving a nuclear disaster during long-term social breakdown, see [Survival After Civilisation Collapse – Nuclear disaster](../../../docs/03-野外生存/06-末日求生.md#核灾难); for the physics of radiation dose, see [Modern Physics](../../../docs/09-进阶科学与工程/06-现代物理.md).
+For surviving a nuclear disaster during long-term social breakdown, see [Survival After Civilisation Collapse – Nuclear disaster](../03-wilderness-survival/06-long-term-collapse-survival.md#nuclear-disaster); for the physics of radiation dose, see [Modern Physics](../../../docs/09-进阶科学与工程/06-现代物理.md).
 
 ---
 
@@ -628,7 +628,7 @@ For surviving a nuclear disaster during long-term social breakdown, see [Surviva
 - When there are many casualties, lead those who can walk away, and save your effort for those with severe bleeding or breathing difficulty
 ```
 
-For how to stop bleeding, see [Basic First Aid – Stopping bleeding](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#止血方法); for escaping fire and thick smoke, see [Fire – Escaping a fire](../../../docs/02-灾难应对/04-火灾.md#火场逃生).
+For how to stop bleeding, see [Basic First Aid – Stopping bleeding](../01-first-aid-and-family-health/00-basic-first-aid.md#stopping-bleeding); for escaping fire and thick smoke, see [Fire – Escaping a fire](04-fire.md#escaping-from-a-fire).
 
 ### Shooting attacks
 
@@ -722,7 +722,7 @@ What to do:
 ✓ Bleeding from a stab wound: press hard on the wound; if the knife is still in the body, do not pull it out — secure it and get to hospital
 ```
 
-For dealing with embedded objects, see [Wound and Injury Care](../../../docs/01-日常疾病和伤害/02-外伤处理.md).
+For dealing with embedded objects, see [Wound and Injury Care](../01-first-aid-and-family-health/02-wounds-and-injuries.md).
 
 ### Hostage-taking
 
@@ -839,7 +839,7 @@ Most deaths in a crowd crush are not from being "trampled": when a crowd is too 
 ✓ Anyone with chest tightness, difficulty breathing, coughing blood or abdominal pain after being crushed must go to hospital, even with no visible injury
 ```
 
-For CPR, see [Basic First Aid – CPR](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#心肺复苏cpr); for splinting fractures, see [Bone and Joint Injuries](../../../docs/01-日常疾病和伤害/03-骨骼损伤.md).
+For CPR, see [Basic First Aid – CPR](../01-first-aid-and-family-health/00-basic-first-aid.md#cardiopulmonary-resuscitation-cpr); for splinting fractures, see [Bone and Joint Injuries](../01-first-aid-and-family-health/03-bone-and-joint-injuries.md).
 
 ---
 
@@ -873,7 +873,7 @@ Grid failures, extreme weather and war can all cause large-scale, long-lasting p
 ✓ When the supply comes back, run the tap for a few minutes until the water is clear before using it
 ```
 
-For emergency lighting, generators and fuel safety, see [Lighting and Energy](../../../docs/07-日常生活技能/06-照明与能源.md#停电时的应急照明); for carbon monoxide poisoning, see [Home and Traffic Accidents](../../../docs/01-日常疾病和伤害/07-居家与交通意外.md#一氧化碳中毒); for electrical safety when the power comes back, see [Household Electrical Safety – Restoring power after a disaster](../../../docs/07-日常生活技能/08-家庭用电安全.md#灾后恢复用电); for storing insulin, see [Stockpiling Medicines for Chronic Illness – During a power cut](../../../docs/01-日常疾病和伤害/08-慢性病用药储备.md#停电时); for how much water you need, storing and purifying it, see [Water Sources and Supply](../../../docs/07-日常生活技能/10-水源工程与供水.md#需要多少水); for saving phone battery, see [Emergency Communication and Finding Family – Saving phone battery](../../../docs/02-灾难应对/06-应急通信与寻亲.md#手机省电).
+For emergency lighting, generators and fuel safety, see [Lighting and Energy](../../../docs/07-日常生活技能/06-照明与能源.md#停电时的应急照明); for carbon monoxide poisoning, see [Home and Traffic Accidents](../01-first-aid-and-family-health/07-home-and-traffic-accidents.md#carbon-monoxide-poisoning); for electrical safety when the power comes back, see [Household Electrical Safety – Restoring power after a disaster](../../../docs/07-日常生活技能/08-家庭用电安全.md#灾后恢复用电); for storing insulin, see [Stockpiling Medicines for Chronic Illness – During a power cut](../01-first-aid-and-family-health/08-chronic-medication-stockpile.md#during-a-power-cut); for how much water you need, storing and purifying it, see [Water Sources and Supply](../../../docs/07-日常生活技能/10-水源工程与供水.md#需要多少水); for saving phone battery, see [Emergency Communication and Finding Family – Saving phone battery](06-emergency-communication-and-family-reunification.md#saving-phone-battery).
 
 ---
 
@@ -947,11 +947,11 @@ How to cope:
 ✓ Seek support
 ```
 
-After such an event, sleeplessness, flashbacks and being constantly on edge are common reactions. For how to look after yourself and those around you, see [Mental Health](../../../docs/01-日常疾病和伤害/10-心理健康.md#经历危机后的正常反应).
+After such an event, sleeplessness, flashbacks and being constantly on edge are common reactions. For how to look after yourself and those around you, see [Mental Health](../01-first-aid-and-family-health/10-mental-health.md#normal-reactions-after-a-crisis).
 
-**Related chapters**: for epidemics and other public health emergencies, see [Infectious Disease at Home](../../../docs/01-日常疾病和伤害/15-传染病家庭防控.md); for communication breakdowns and separated families, see [Emergency Communication and Finding Family](../../../docs/02-灾难应对/06-应急通信与寻亲.md); for handling the dead after mass casualties, see [Handling the Dead after Disasters](../../../docs/02-灾难应对/07-灾后遗体处理.md); for long-term social breakdown, see [Survival After Civilisation Collapse](../../../docs/03-野外生存/06-末日求生.md).
+**Related chapters**: for epidemics and other public health emergencies, see [Infectious Disease at Home](../01-first-aid-and-family-health/15-infectious-disease-at-home.md); for communication breakdowns and separated families, see [Emergency Communication and Finding Family](06-emergency-communication-and-family-reunification.md); for handling the dead after mass casualties, see [Handling the Dead after Disasters](07-handling-the-dead-after-disasters.md); for long-term social breakdown, see [Survival After Civilisation Collapse](../03-wilderness-survival/06-long-term-collapse-survival.md).
 
 ---
 
-**Next chapter**: [Emergency Communication and Finding Family](../../../docs/02-灾难应对/06-应急通信与寻亲.md)
-**Back to**: [Chapter list](../../../docs/02-灾难应对/README.md) | [Main contents](../../README.md)
+**Next chapter**: [Emergency Communication and Finding Family](06-emergency-communication-and-family-reunification.md)
+**Back to**: [Chapter list](README.md) | [Main contents](../../README.md)

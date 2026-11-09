@@ -39,7 +39,7 @@ Mountain stream valleys collect water fast. **Heavy rain upstream, clear blue sk
   rain has stopped
 ```
 
-For more on floods, see [Weather Disasters – Floods](../../../docs/02-灾难应对/02-气象灾害.md#洪水).
+For more on floods, see [Weather Disasters – Floods](../02-disaster-response/02-weather-disasters.md#floods).
 
 ---
 
@@ -62,7 +62,7 @@ For more on floods, see [Weather Disasters – Floods](../../../docs/02-灾难�
   level, ready to leave at any moment
 ```
 
-For more on choosing a shelter site, see [Basic Survival Skills – Choosing a site](../../../docs/03-野外生存/00-基础生存技能.md#选址).
+For more on choosing a shelter site, see [Basic Survival Skills – Choosing a site](00-basic-survival-skills.md#choosing-a-site).
 
 ---
 
@@ -162,7 +162,7 @@ Crossing as a group:
 ❌ Do not go into the water to rescue someone unless you have professional rescue training
 ```
 
-For first aid once a drowning person is out of the water, see [Acute Symptoms – Drowning](../../../docs/01-日常疾病和伤害/05-急性症状.md#溺水).
+For first aid once a drowning person is out of the water, see [Acute Symptoms – Drowning](../01-first-aid-and-family-health/05-acute-symptoms.md#drowning).
 
 ---
 
@@ -189,7 +189,7 @@ Once out: take off wet clothes at once, put on dry clothes, and treat for hypoth
 as below
 ```
 
-For cold-water survival positions, see [Ocean Disasters – Keeping warm while waiting for rescue](../../../docs/02-灾难应对/03-海洋灾害.md#等待救援时保持体温).
+For cold-water survival positions, see [Ocean Disasters – Keeping warm while waiting for rescue](../02-disaster-response/03-ocean-disasters.md#keeping-warm-while-waiting-for-rescue).
 
 ---
 
@@ -255,7 +255,7 @@ Early:
 ❌ Do not drink alcohol (it speeds up heat loss)
 ```
 
-For the stages of hypothermia and more on treatment, see [Acute Symptoms – Hypothermia](../../../docs/01-日常疾病和伤害/05-急性症状.md#失温症); for dressing for cold conditions, see [Snow and Polar Survival – Keeping warm](../../../docs/03-野外生存/04-雪地极地求生.md#保暖-最关键).
+For the stages of hypothermia and more on treatment, see [Acute Symptoms – Hypothermia](../01-first-aid-and-family-health/05-acute-symptoms.md#hypothermia); for dressing for cold conditions, see [Snow and Polar Survival – Keeping warm](04-snow-and-polar-survival.md#keeping-warm-the-most-critical).
 
 ### Prevention
 
@@ -293,5 +293,5 @@ For the stages of hypothermia and more on treatment, see [Acute Symptoms – Hyp
 
 ---
 
-**Next chapter**: [Poisonous Mushrooms and Wild Plants](../../../docs/03-野外生存/09-毒蘑菇与野菜误食.md)
-**Back**: [Chapter index](../../../docs/03-野外生存/README.md) | [Main contents](../../README.md)
+**Next chapter**: [Poisonous Mushrooms and Wild Plants](09-poisonous-mushrooms-and-wild-plants.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

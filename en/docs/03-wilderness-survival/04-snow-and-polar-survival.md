@@ -19,7 +19,7 @@ The most important principles:
 3. Stop and make shelter at least 1-2 hours before dark — winter days are short, and after dark everything is hard
 ```
 
-For preparation before setting off, trip plans, getting lost and calling for help see [Trip Preparation and Calling for Help](../../../docs/03-野外生存/07-户外出行准备与求救.md); for blizzards and cold waves in towns and the countryside see [Blizzards](../../../docs/02-灾难应对/02-气象灾害.md#暴风雪).
+For preparation before setting off, trip plans, getting lost and calling for help see [Trip Preparation and Calling for Help](07-trip-preparation-and-calling-for-help.md); for blizzards and cold waves in towns and the countryside see [Blizzards](../02-disaster-response/02-weather-disasters.md#blizzards).
 
 ## Keeping warm (the most critical!)
 
@@ -173,7 +173,7 @@ Principles of winter shelter:
 ✓ Take a shovel (snow shovel, pot, flat board) into the shelter, so you can dig yourself out if it collapses
 ```
 
-If you are stranded in a vehicle, the vehicle itself is the best shelter; see [Blizzards – Trapped in a vehicle](../../../docs/02-灾难应对/02-气象灾害.md#暴风雪中).
+If you are stranded in a vehicle, the vehicle itself is the best shelter; see [Blizzards – Trapped in a vehicle](../02-disaster-response/02-weather-disasters.md#during-a-blizzard).
 
 ### Snow cave
 
@@ -234,7 +234,7 @@ Danger signs: headache, dizziness, nausea, drowsiness, several people affected a
 → Get everyone out into fresh air at once; treat anyone who is not fully conscious as carbon monoxide poisoning
 ```
 
-For recognising and treating carbon monoxide poisoning see [Carbon monoxide poisoning](../../../docs/01-日常疾病和伤害/07-居家与交通意外.md#一氧化碳中毒).
+For recognising and treating carbon monoxide poisoning see [Carbon monoxide poisoning](../01-first-aid-and-family-health/07-home-and-traffic-accidents.md#carbon-monoxide-poisoning).
 
 ### Snow wall
 
@@ -380,7 +380,7 @@ Saving fuel:
 ✓ Boil enough in one go and put it in a vacuum flask; do not boil again and again
 ```
 
-Snowmelt is mostly clean, but once melted it may carry germs like any other water in the wild: if the snow is not clean or was taken where people and animals are active, boil it for 1 minute after melting (3 minutes above 2000 m). Lake and stream water needs disinfecting even more; for methods see [Basic Survival Skills – Water purification](../../../docs/03-野外生存/00-基础生存技能.md#水质净化).
+Snowmelt is mostly clean, but once melted it may carry germs like any other water in the wild: if the snow is not clean or was taken where people and animals are active, boil it for 1 minute after melting (3 minutes above 2000 m). Lake and stream water needs disinfecting even more; for methods see [Basic Survival Skills – Water purification](00-basic-survival-skills.md#water-purification).
 
 ### Ice
 
@@ -421,7 +421,7 @@ Solutions:
 ✓ Bring fire starters: cotton balls soaked in petroleum jelly, candle stubs, solid fuel
 ```
 
-For basic fire-lighting methods and fire structures see [Basic Survival Skills – Fire-lighting](../../../docs/03-野外生存/00-基础生存技能.md#生火技术).
+For basic fire-lighting methods and fire structures see [Basic Survival Skills – Fire-lighting](00-basic-survival-skills.md#making-fire).
 
 ```
 Note:
@@ -527,7 +527,7 @@ What to do:
 3. Keep away from the edges of ridges: cornices on ridges overhang empty space and look like solid ground, but collapse when you step on them
 ```
 
-For what to do when lost and how to tell rescuers where you are, see [Realising you are lost](../../../docs/03-野外生存/07-户外出行准备与求救.md#发现自己迷路了) and [Calling for help: say clearly where you are](../../../docs/03-野外生存/07-户外出行准备与求救.md#报警求救-说清楚你在哪里).
+For what to do when lost and how to tell rescuers where you are, see [Realising you are lost](07-trip-preparation-and-calling-for-help.md#realising-you-are-lost) and [Calling for help: say clearly where you are](07-trip-preparation-and-calling-for-help.md#calling-for-help-say-clearly-where-you-are).
 
 ### Travelling on snow
 
@@ -555,7 +555,7 @@ Tree wells: the snow around big trees is loose with a hollow underneath;
 a person who falls in head first and gets stuck can suffocate — in deep snow do not walk right next to big trees
 ```
 
-For how to set a "turn-around time" see [Trip Preparation and Calling for Help – Turn-around time](../../../docs/03-野外生存/07-户外出行准备与求救.md#掉头时间).
+For how to set a "turn-around time" see [Trip Preparation and Calling for Help – Turn-around time](07-trip-preparation-and-calling-for-help.md#turn-around-time).
 
 ### Blizzards
 
@@ -581,9 +581,9 @@ For signs of changing weather see [Weather Observation and Forecasting](../../..
 
 **The biggest killer!**
 
-See [Acute Symptoms – Hypothermia](../../../docs/01-日常疾病和伤害/05-急性症状.md#失温症)
+See [Acute Symptoms – Hypothermia](../01-first-aid-and-family-health/05-acute-symptoms.md#hypothermia)
 
-For recognising and treating hypothermia in the wild see [River Crossing, Flash Floods and Hypothermia – Hypothermia in the wild](../../../docs/03-野外生存/08-涉水山洪与野外失温.md#不只是冬天-野外失温); for falling into cold water see [Falling into cold water](../../../docs/03-野外生存/08-涉水山洪与野外失温.md#落入冷水).
+For recognising and treating hypothermia in the wild see [River Crossing, Flash Floods and Hypothermia – Hypothermia in the wild](08-river-crossing-flash-floods-and-hypothermia.md#not-only-in-winter-hypothermia-outdoors); for falling into cold water see [Falling into cold water](08-river-crossing-flash-floods-and-hypothermia.md#falling-into-cold-water).
 
 ```
 Key signs:
@@ -615,7 +615,7 @@ Key steps on snow:
 
 ### Frostbite
 
-When frostbite and hypothermia occur together, **treat the hypothermia first (to save life), then the frostbite**. For degrees of frostbite, rewarming and care after rewarming in detail, see [Wound and Injury Care – Frostbite](../../../docs/01-日常疾病和伤害/02-外伤处理.md#冻伤).
+When frostbite and hypothermia occur together, **treat the hypothermia first (to save life), then the frostbite**. For degrees of frostbite, rewarming and care after rewarming in detail, see [Wound and Injury Care – Frostbite](../01-first-aid-and-family-health/02-wounds-and-injuries.md#frostbite).
 
 **Symptoms**:
 ```
@@ -685,7 +685,7 @@ Must see a doctor as soon as possible:
 - Frostbite wounds carry a risk of tetanus and need a medical assessment
 ```
 
-For non-freezing cold injuries (chilblains, immersion foot from wearing wet shoes and socks for a long time) see [Chilblains and immersion foot](../../../docs/01-日常疾病和伤害/02-外伤处理.md#冻疮与浸渍足不是冻伤).
+For non-freezing cold injuries (chilblains, immersion foot from wearing wet shoes and socks for a long time) see [Chilblains and immersion foot](../01-first-aid-and-family-health/02-wounds-and-injuries.md#chilblains-and-immersion-foot-not-frostbite).
 
 ### Snow blindness
 
@@ -826,7 +826,7 @@ Without transceivers: stand in a line and advance step by step, pushing probes o
 if one pass finds nothing, offset the positions and probe again
 ```
 
-For CPR see [CPR](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#心肺复苏cpr); for moving casualties see [Wilderness Casualty Care and Evacuation – Moving a casualty](../../../docs/03-野外生存/11-野外伤病处置与转运.md#搬运伤员).
+For CPR see [CPR](../01-first-aid-and-family-health/00-basic-first-aid.md#cardiopulmonary-resuscitation-cpr); for moving casualties see [Wilderness Casualty Care and Evacuation – Moving a casualty](11-wilderness-casualty-care-and-evacuation.md#moving-the-casualty).
 
 ### Ice and falling through
 
@@ -885,7 +885,7 @@ When going onto ice:
 6. Once out, drag them away from the hole lying flat; once on shore, prevent hypothermia; anyone who inhaled water or is not fully conscious goes to hospital
 ```
 
-For the "1-10-1" rule for falling into cold water see [Falling into cold water](../../../docs/03-野外生存/08-涉水山洪与野外失温.md#落入冷水); for drowning first aid see [Drowning](../../../docs/01-日常疾病和伤害/05-急性症状.md#溺水).
+For the "1-10-1" rule for falling into cold water see [Falling into cold water](08-river-crossing-flash-floods-and-hypothermia.md#falling-into-cold-water); for drowning first aid see [Drowning](../01-first-aid-and-family-health/05-acute-symptoms.md#drowning).
 
 ## Signals
 
@@ -908,7 +908,7 @@ How to do it:
 - Phone: in the cold the battery drains very fast; keep it warm against your body, switch it off to save power, and switch on at set times to check for signal
 ```
 
-For the meaning of ground-to-air signals see [Basic Survival Skills – Ground-to-air signals](../../../docs/03-野外生存/00-基础生存技能.md#地面对空信号); for waiting for helicopter rescue see [Wilderness Casualty Care and Evacuation – Helicopter rescue](../../../docs/03-野外生存/11-野外伤病处置与转运.md#直升机救援).
+For the meaning of ground-to-air signals see [Basic Survival Skills – Ground-to-air signals](00-basic-survival-skills.md#ground-to-air-signals); for waiting for helicopter rescue see [Wilderness Casualty Care and Evacuation – Helicopter rescue](11-wilderness-casualty-care-and-evacuation.md#helicopter-rescue).
 
 ## 📝 Snow survival key points
 
@@ -943,5 +943,5 @@ Dangers:
 
 ---
 
-**Next chapter**: [Mountain Survival](../../../docs/03-野外生存/05-山地求生.md)
-**Back**: [Chapter index](../../../docs/03-野外生存/README.md) | [Main contents](../../README.md)
+**Next chapter**: [Mountain Survival](05-mountain-survival.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

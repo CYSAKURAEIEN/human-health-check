@@ -200,7 +200,7 @@ Agree in advance:
   the community who will help, and identify the nearest evacuation building to your home
 ```
 
-For how to make a family communication plan see [Emergency Communication and Family Reunification – Before a disaster: family communication plan](../../../docs/02-灾难应对/06-应急通信与寻亲.md#灾前-家庭通信计划).
+For how to make a family communication plan see [Emergency Communication and Family Reunification – Before a disaster: family communication plan](06-emergency-communication-and-family-reunification.md#before-a-disaster-family-communication-plan).
 
 ### During a tsunami
 
@@ -332,7 +332,7 @@ When to see a doctor:
   point or medical post as soon as possible and explain
 ```
 
-For wound care and tetanus see [Wound and Injury Care – Tetanus prevention](../../../docs/01-日常疾病和伤害/02-外伤处理.md#破伤风预防); for drinking-water treatment see [Weather Disasters – After a flood](../../../docs/02-灾难应对/02-气象灾害.md#洪水后); for psychological reactions after a disaster see [Mental Health](../../../docs/01-日常疾病和伤害/10-心理健康.md).
+For wound care and tetanus see [Wound and Injury Care – Tetanus prevention](../01-first-aid-and-family-health/02-wounds-and-injuries.md#tetanus-prevention); for drinking-water treatment see [Weather Disasters – After a flood](02-weather-disasters.md#after-a-flood); for psychological reactions after a disaster see [Mental Health](../01-first-aid-and-family-health/10-mental-health.md).
 
 ### Preparing for tsunamis
 
@@ -362,7 +362,7 @@ In practice:
 - Take part in tsunami drills organised by your community
 ```
 
-For what goes in the emergency kit see [Disaster Response index – Family emergency kit](../../../docs/02-灾难应对/README.md#-家庭应急包).
+For what goes in the emergency kit see [Disaster Response index – Family emergency kit](README.md#-family-emergency-kit).
 
 **Visitors**:
 ```
@@ -508,7 +508,7 @@ During the surge:
    keep away during high tide
 ```
 
-For protection during a typhoon see [Weather Disasters – Typhoons/hurricanes](../../../docs/02-灾难应对/02-气象灾害.md#台风飓风); for self-rescue when flooded see [Weather Disasters – During a flood](../../../docs/02-灾难应对/02-气象灾害.md#洪水时).
+For protection during a typhoon see [Weather Disasters – Typhoons/hurricanes](02-weather-disasters.md#typhoonshurricanes); for self-rescue when flooded see [Weather Disasters – During a flood](02-weather-disasters.md#during-a-flood).
 
 **After a storm surge**:
 ```
@@ -619,7 +619,7 @@ You cannot always see it. The most reliable way to stay safe is to **swim at a b
    → In drownings at the seaside, people who go in to rescue often die too
 ```
 
-For first aid once the person is out of the water see [Acute Symptoms – Drowning](../../../docs/01-日常疾病和伤害/05-急性症状.md#溺水).
+For first aid once the person is out of the water see [Acute Symptoms – Drowning](../01-first-aid-and-family-health/05-acute-symptoms.md#drowning).
 
 ---
 
@@ -668,7 +668,7 @@ What to do:
 Wearing a life jacket greatly reduces the risk from cold shock — another reason you must wear one
 ```
 
-For what happens over the next 10 minutes and the next hour, see the "1-10-1" rule in [Wading, Flash Floods and Hypothermia in the Wild – Falling into cold water](../../../docs/03-野外生存/08-涉水山洪与野外失温.md#落入冷水).
+For what happens over the next 10 minutes and the next hour, see the "1-10-1" rule in [Wading, Flash Floods and Hypothermia in the Wild – Falling into cold water](../03-wilderness-survival/08-river-crossing-flash-floods-and-hypothermia.md#falling-into-cold-water).
 
 ### Keeping warm while waiting for rescue
 
@@ -697,7 +697,7 @@ In all cases:
 ✓ Do not drink seawater
 ```
 
-Once rescued, treat for hypothermia. Lift anyone who has been in cold water for a long time **horizontally** ashore or aboard; see [Acute Symptoms – Hypothermia](../../../docs/01-日常疾病和伤害/05-急性症状.md#失温症).
+Once rescued, treat for hypothermia. Lift anyone who has been in cold water for a long time **horizontally** ashore or aboard; see [Acute Symptoms – Hypothermia](../01-first-aid-and-family-health/05-acute-symptoms.md#hypothermia).
 
 ![Falling into cold water: in the first minute cover mouth and nose, float on your back and control your breathing; while waiting for rescue use the HELP position alone, huddle with others](../../images/cold-water-survival.svg)
 
@@ -760,7 +760,7 @@ If a small boat capsizes:
 ❌ Do not drink seawater, do not drink urine — both only dehydrate you faster
 ```
 
-For finding water, shade and signalling for help during a long wait at sea or on a desert island see [Desert Island Survival – Finding water on an island](../../../docs/03-野外生存/01-荒岛求生.md#海岛取水) and [Desert Island Survival – Signals and rescue](../../../docs/03-野外生存/01-荒岛求生.md#信号与救援).
+For finding water, shade and signalling for help during a long wait at sea or on a desert island see [Desert Island Survival – Finding water on an island](../03-wilderness-survival/01-desert-island-survival.md#getting-water-on-an-island) and [Desert Island Survival – Signals and rescue](../03-wilderness-survival/01-desert-island-survival.md#signals-and-rescue).
 
 ---
 
@@ -814,7 +814,7 @@ treatment such as a ventilator most people recover within a day or two — so go
 as soon as you feel numb; do not wait until you cannot breathe
 ```
 
-For general principles of dealing with poisoning see [Poisoning – General principles of handling poisoning](../../../docs/01-日常疾病和伤害/12-中毒.md#中毒的通用处理原则); for ordinary bacterial food poisoning see [Common Illnesses – Food poisoning](../../../docs/01-日常疾病和伤害/01-常见疾病.md#食物中毒).
+For general principles of dealing with poisoning see [Poisoning – General principles of handling poisoning](../01-first-aid-and-family-health/12-poisoning.md#general-principles-for-handling-poisoning); for ordinary bacterial food poisoning see [Common Illnesses – Food poisoning](../01-first-aid-and-family-health/01-common-illnesses.md#food-poisoning).
 
 ### Prevention
 
@@ -979,7 +979,7 @@ If something in the sea injures you:
 - Sea snake bites: treat as a venomous snakebite and get to hospital immediately
 ```
 
-For jellyfish, sea urchins and other dangerous sea creatures see [Desert Island Survival – Dangers](../../../docs/03-野外生存/01-荒岛求生.md#危险); for snakebites see [Wound and Injury Care – Snakebites](../../../docs/01-日常疾病和伤害/02-外伤处理.md#蛇咬伤); for lightning at the seaside see [Weather Disasters – Avoiding lightning outdoors](../../../docs/02-灾难应对/02-气象灾害.md#室外避雷); for heatstroke see [Acute Symptoms – Heatstroke](../../../docs/01-日常疾病和伤害/05-急性症状.md#中暑); for preventing children drowning see [Child Safety – Preventing drowning](../../../docs/01-日常疾病和伤害/14-儿童安全.md#防溺水).
+For jellyfish, sea urchins and other dangerous sea creatures see [Desert Island Survival – Dangers](../03-wilderness-survival/01-desert-island-survival.md#dangers); for snakebites see [Wound and Injury Care – Snakebites](../01-first-aid-and-family-health/02-wounds-and-injuries.md#snakebites); for lightning at the seaside see [Weather Disasters – Avoiding lightning outdoors](02-weather-disasters.md#lightning-safety-outdoors); for heatstroke see [Acute Symptoms – Heatstroke](../01-first-aid-and-family-health/05-acute-symptoms.md#heatstroke); for preventing children drowning see [Child Safety – Preventing drowning](../01-first-aid-and-family-health/14-child-safety.md#preventing-drowning).
 
 ---
 
@@ -1079,5 +1079,5 @@ Preparation:
 
 ---
 
-**Next chapter**: [Fire](../../../docs/02-灾难应对/04-火灾.md)
-**Back**: [Chapter index](../../../docs/02-灾难应对/README.md) | [Main contents](../../README.md)
+**Next chapter**: [Fire](04-fire.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

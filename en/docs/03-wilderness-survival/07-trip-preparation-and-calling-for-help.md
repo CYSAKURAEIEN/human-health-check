@@ -64,7 +64,7 @@ The trip plan says clearly:
   or children
 ```
 
-Related chapters: [River Crossing, Flash Floods and Hypothermia](../../../docs/03-野外生存/08-涉水山洪与野外失温.md).
+Related chapters: [River Crossing, Flash Floods and Hypothermia](08-river-crossing-flash-floods-and-hypothermia.md).
 
 ### Turn-around time
 
@@ -111,7 +111,7 @@ Clothing:
 
 *Figure: Even for a day hike, prepare as if you may have to spend a night outdoors; bringing only a T-shirt with no warm or waterproof clothing is a common reason people get stranded*
 
-For more equipment, see [Wilderness Survival Guide – Wilderness survival kit](../../../docs/03-野外生存/README.md#-野外生存装备).
+For more equipment, see [Wilderness Survival Guide – Wilderness survival kit](README.md#-wilderness-survival-kit).
 
 ---
 
@@ -153,7 +153,7 @@ For more equipment, see [Wilderness Survival Guide – Wilderness survival kit](
      or down
 ```
 
-For more on what to do once lost (the STOP principle), see [Basic Survival Skills – If you get lost](../../../docs/03-野外生存/00-基础生存技能.md#如果迷路).
+For more on what to do once lost (the STOP principle), see [Basic Survival Skills – If you get lost](00-basic-survival-skills.md#if-you-are-lost).
 
 ---
 
@@ -171,7 +171,7 @@ For more on what to do once lost (the STOP principle), see [Basic Survival Skill
   ground signal
 ```
 
-Related chapters: [Emergency Communication and Finding Family – During a disaster: how to get a message out](../../../docs/02-灾难应对/06-应急通信与寻亲.md#灾中-怎样让消息发出去).
+Related chapters: [Emergency Communication and Finding Family – During a disaster: how to get a message out](../02-disaster-response/06-emergency-communication-and-family-reunification.md#during-a-disaster-getting-your-message-out).
 
 ### How to describe your location
 
@@ -220,7 +220,7 @@ Related chapters: [Emergency Communication and Finding Family – During a disas
 ✓ If you have water, sip it; share out the food
 ```
 
-For distress signals, see [Basic Survival Skills – Distress signals](../../../docs/03-野外生存/00-基础生存技能.md#求救信号); for building a shelter, see [Basic Survival Skills – Building a shelter](../../../docs/03-野外生存/00-基础生存技能.md#庇护所建造).
+For distress signals, see [Basic Survival Skills – Distress signals](00-basic-survival-skills.md#distress-signals); for building a shelter, see [Basic Survival Skills – Building a shelter](00-basic-survival-skills.md#building-shelters).
 
 ---
 
@@ -253,7 +253,7 @@ A contour line joins points at the same height:
    or it will point the wrong way
 ```
 
-For basic compass use, see [Basic Survival Skills – Navigation and orientation](../../../docs/03-野外生存/00-基础生存技能.md#导航与定向).
+For basic compass use, see [Basic Survival Skills – Navigation and orientation](00-basic-survival-skills.md#navigation-and-orientation).
 
 ### Phone navigation
 
@@ -282,5 +282,5 @@ For basic compass use, see [Basic Survival Skills – Navigation and orientation
 
 ---
 
-**Next chapter**: [River Crossing, Flash Floods and Hypothermia](../../../docs/03-野外生存/08-涉水山洪与野外失温.md)
-**Back**: [Chapter index](../../../docs/03-野外生存/README.md) | [Main contents](../../README.md)
+**Next chapter**: [River Crossing, Flash Floods and Hypothermia](08-river-crossing-flash-floods-and-hypothermia.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

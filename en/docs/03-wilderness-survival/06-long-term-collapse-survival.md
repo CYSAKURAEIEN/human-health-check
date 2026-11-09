@@ -16,7 +16,7 @@
   organisation, neighbours helping each other and avoiding conflict, not from confrontation
 ```
 
-For household preparation for ordinary disasters, see [Disaster Response – Household emergency kit](../../../docs/02-灾难应对/README.md#-家庭应急包) first; for short-term survival such as getting lost or injured in the wild, see [Basic Survival Skills](../../../docs/03-野外生存/00-基础生存技能.md).
+For household preparation for ordinary disasters, see [Disaster Response – Household emergency kit](../02-disaster-response/README.md#-family-emergency-kit) first; for short-term survival such as getting lost or injured in the wild, see [Basic Survival Skills](00-basic-survival-skills.md).
 
 ## Core principles
 
@@ -107,7 +107,7 @@ For household preparation for ordinary disasters, see [Disaster Response – Hou
 5. Keep records: daily consumption, what happened, new people who joined
 ```
 
-Related chapters: [First aid](../../../docs/01-日常疾病和伤害/README.md), [Emergency Communication and Finding Family – Family communication plan](../../../docs/02-灾难应对/06-应急通信与寻亲.md#灾前-家庭通信计划), [Large-scale power and water cuts](../../../docs/02-灾难应对/05-人为灾难.md#大面积停电停水), [Chronic Medication Stockpile – During a power cut](../../../docs/01-日常疾病和伤害/08-慢性病用药储备.md#停电时), [Sanitation – Two-bucket method](../../../docs/07-日常生活技能/03-卫生设施.md#双桶法).
+Related chapters: [First aid](../01-first-aid-and-family-health/README.md), [Emergency Communication and Finding Family – Family communication plan](../02-disaster-response/06-emergency-communication-and-family-reunification.md#before-a-disaster-family-communication-plan), [Large-scale power and water cuts](../02-disaster-response/05-man-made-disasters.md#widespread-power-and-water-cuts), [Chronic Medication Stockpile – During a power cut](../01-first-aid-and-family-health/08-chronic-medication-stockpile.md#during-a-power-cut), [Sanitation – Two-bucket method](../../../docs/07-日常生活技能/03-卫生设施.md#双桶法).
 
 ### Immediate action
 
@@ -152,7 +152,7 @@ Stay put if:
 ✓ Move together, do not split up; travel by day, not at night
 ```
 
-For evacuation routes and meeting points, see [Human-made Disasters – Evacuation](../../../docs/02-灾难应对/05-人为灾难.md#撤离); for the contents of an emergency kit, see [Disaster Response – Household emergency kit](../../../docs/02-灾难应对/README.md#-家庭应急包).
+For evacuation routes and meeting points, see [Human-made Disasters – Evacuation](../02-disaster-response/05-man-made-disasters.md#evacuation); for the contents of an emergency kit, see [Disaster Response – Household emergency kit](../02-disaster-response/README.md#-family-emergency-kit).
 
 ### Basic needs
 
@@ -183,7 +183,7 @@ little urine, dry mouth and dizziness mean you are short of water
    origin, seawater, urine
 ```
 
-For how much water you need, see [Water Supply – How much water you need](../../../docs/07-日常生活技能/10-水源工程与供水.md#需要多少水); for purifying water, see [Water Supply – Purification](../../../docs/07-日常生活技能/10-水源工程与供水.md#净化-从浑水到可以喝的水) and [Basic Survival Skills – Water purification](../../../docs/03-野外生存/00-基础生存技能.md#水质净化).
+For how much water you need, see [Water Supply – How much water you need](../../../docs/07-日常生活技能/10-水源工程与供水.md#需要多少水); for purifying water, see [Water Supply – Purification](../../../docs/07-日常生活技能/10-水源工程与供水.md#净化-从浑水到可以喝的水) and [Basic Survival Skills – Water purification](00-basic-survival-skills.md#water-purification).
 
 **Food**:
 ```
@@ -229,7 +229,7 @@ Keeping cool: shut windows and shade them by day, ventilate morning and evening;
   drink plenty, avoid working in the hottest hours
 ```
 
-For long-term housing, see [Long-term Housing](../../../docs/07-日常生活技能/05-长期住所.md); for temporary shelters in the wild, see [Basic Survival Skills – Building a shelter](../../../docs/03-野外生存/00-基础生存技能.md#庇护所建造).
+For long-term housing, see [Long-term Housing](../../../docs/07-日常生活技能/05-长期住所.md); for temporary shelters in the wild, see [Basic Survival Skills – Building a shelter](00-basic-survival-skills.md#building-shelters).
 
 ### Safety
 
@@ -291,7 +291,7 @@ Defusing conflict:
 ❌ Do not fight or give chase to keep your supplies
 ```
 
-For carbon monoxide poisoning, see [Home and Traffic Accidents – Carbon monoxide poisoning](../../../docs/01-日常疾病和伤害/07-居家与交通意外.md#一氧化碳中毒); for fire prevention, see [Fire – Fire prevention](../../../docs/02-灾难应对/04-火灾.md#火灾预防); for open-flame lighting, see [Lighting and Energy – Safety rules for open-flame lighting](../../../docs/07-日常生活技能/06-照明与能源.md#使用明火照明的安全规则); for staying safe in war, see [Human-made Disasters – War and armed conflict](../../../docs/02-灾难应对/05-人为灾难.md#战乱与武装冲突).
+For carbon monoxide poisoning, see [Home and Traffic Accidents – Carbon monoxide poisoning](../01-first-aid-and-family-health/07-home-and-traffic-accidents.md#carbon-monoxide-poisoning); for fire prevention, see [Fire – Fire prevention](../02-disaster-response/04-fire.md#preventing-fires); for open-flame lighting, see [Lighting and Energy – Safety rules for open-flame lighting](../../../docs/07-日常生活技能/06-照明与能源.md#使用明火照明的安全规则); for staying safe in war, see [Human-made Disasters – War and armed conflict](../02-disaster-response/05-man-made-disasters.md#war-and-armed-conflict).
 
 ## Middle stage (1-6 months)
 
@@ -370,7 +370,7 @@ Common mistakes:
    fishing and insects
 ```
 
-Related chapters: [Vegetable Growing – Fast-growing vegetables](../../../docs/04-动植物培育/01-蔬菜种植.md#快速生长蔬菜30-60天), [Grain Crops – Recommended planting order for beginners](../../../docs/04-动植物培育/02-粮食作物.md#新手推荐种植顺序), [Poultry Keeping](../../../docs/04-动植物培育/05-家禽养殖.md), [Aquaculture](../../../docs/04-动植物培育/07-水产养殖.md), [Seed Saving and Breeding – Why hybrid seed cannot be saved](../../../docs/04-动植物培育/08-留种与育种.md#杂交种f1为什么不能留种), [Poisonous Mushrooms and Wild Plants](../../../docs/03-野外生存/09-毒蘑菇与野菜误食.md#采食野菜野果的原则), [Basic Survival Skills – Edible plant test](../../../docs/03-野外生存/00-基础生存技能.md#可食植物测试).
+Related chapters: [Vegetable Growing – Fast-growing vegetables](../../../docs/04-动植物培育/01-蔬菜种植.md#快速生长蔬菜30-60天), [Grain Crops – Recommended planting order for beginners](../../../docs/04-动植物培育/02-粮食作物.md#新手推荐种植顺序), [Poultry Keeping](../../../docs/04-动植物培育/05-家禽养殖.md), [Aquaculture](../../../docs/04-动植物培育/07-水产养殖.md), [Seed Saving and Breeding – Why hybrid seed cannot be saved](../../../docs/04-动植物培育/08-留种与育种.md#杂交种f1为什么不能留种), [Poisonous Mushrooms and Wild Plants](09-poisonous-mushrooms-and-wild-plants.md#rules-for-gathering-wild-greens-and-fruit), [Basic Survival Skills – Edible plant test](00-basic-survival-skills.md#edibility-test-for-plants).
 
 **Energy**:
 ```
@@ -604,7 +604,7 @@ Without hospitals, **prevention matters far more than treatment**: in famines an
 ✓ Set goals
 ```
 
-Related chapters: [Sanitation](../../../docs/07-日常生活技能/03-卫生设施.md), [Nutrition and Deficiency Diseases](../../../docs/07-日常生活技能/02-营养与营养缺乏病.md), [First Aid and Family Health](../../../docs/01-日常疾病和伤害/README.md), [Elder Care](../../../docs/01-日常疾病和伤害/13-老人照护.md), [Child Safety](../../../docs/01-日常疾病和伤害/14-儿童安全.md), [Emergency Childbirth and Newborn Care](../../../docs/01-日常疾病和伤害/11-紧急分娩与新生儿护理.md), [Menstrual Hygiene and Contraception](../../../docs/01-日常疾病和伤害/17-月经卫生与避孕.md), [Medicinal Plants](../../../docs/04-动植物培育/04-药用植物.md), [Pharmaceutical Technology](../../../docs/06-制药技术/README.md) (for reference only after civilisation collapse, when medicines cannot be obtained at all). For mental health, see "Psychological preparation" below.
+Related chapters: [Sanitation](../../../docs/07-日常生活技能/03-卫生设施.md), [Nutrition and Deficiency Diseases](../../../docs/07-日常生活技能/02-营养与营养缺乏病.md), [First Aid and Family Health](../01-first-aid-and-family-health/README.md), [Elder Care](../01-first-aid-and-family-health/13-elder-care.md), [Child Safety](../01-first-aid-and-family-health/14-child-safety.md), [Emergency Childbirth and Newborn Care](../01-first-aid-and-family-health/11-emergency-childbirth-and-newborn-care.md), [Menstrual Hygiene and Contraception](../01-first-aid-and-family-health/17-menstrual-hygiene-and-contraception.md), [Medicinal Plants](../../../docs/04-动植物培育/04-药用植物.md), [Pharmaceutical Technology](../../../docs/06-制药技术/README.md) (for reference only after civilisation collapse, when medicines cannot be obtained at all). For mental health, see "Psychological preparation" below.
 
 ## Special situations
 
@@ -663,7 +663,7 @@ Long term:
   - Fear of radiation and uncertainty often affect more people than the radiation itself
 ```
 
-For the full procedure (steps for sheltering in place, evacuation, what to do in a nuclear explosion, what iodine tablets do and who must not take them), [Human-made Disasters – Nuclear radiation](../../../docs/02-灾难应对/05-人为灾难.md#核辐射) is authoritative; for the physics of radiation dose, see [Modern Physics – Radiation dose](../../../docs/09-进阶科学与工程/06-现代物理.md#64-辐射剂量).
+For the full procedure (steps for sheltering in place, evacuation, what to do in a nuclear explosion, what iodine tablets do and who must not take them), [Human-made Disasters – Nuclear radiation](../02-disaster-response/05-man-made-disasters.md#nuclear-radiation) is authoritative; for the physics of radiation dose, see [Modern Physics – Radiation dose](../../../docs/09-进阶科学与工程/06-现代物理.md#64-辐射剂量).
 
 ### Epidemics
 
@@ -698,7 +698,7 @@ At community level:
    treat as they require
 ```
 
-For details, see [Infectious Disease at Home](../../../docs/01-日常疾病和伤害/15-传染病家庭防控.md) (especially [Home isolation](../../../docs/01-日常疾病和伤害/15-传染病家庭防控.md#居家隔离), [Making household disinfectant](../../../docs/01-日常疾病和伤害/15-传染病家庭防控.md#家用消毒液的配制) and [Diarrhoeal infections](../../../docs/01-日常疾病和伤害/15-传染病家庭防控.md#腹泻类传染病)); for handling bodies, see [Handling the Dead after a Disaster – People who died of infectious disease](../../../docs/02-灾难应对/07-灾后遗体处理.md#传染病死者).
+For details, see [Infectious Disease at Home](../01-first-aid-and-family-health/15-infectious-disease-at-home.md) (especially [Home isolation](../01-first-aid-and-family-health/15-infectious-disease-at-home.md#isolating-at-home), [Making household disinfectant](../01-first-aid-and-family-health/15-infectious-disease-at-home.md#making-household-disinfectant) and [Diarrhoeal infections](../01-first-aid-and-family-health/15-infectious-disease-at-home.md#diarrhoeal-infections)); for handling bodies, see [Handling the Dead after a Disaster – People who died of infectious disease](../02-disaster-response/07-handling-the-dead-after-disasters.md#people-who-died-of-infectious-diseases).
 
 ### Social collapse
 
@@ -789,7 +789,7 @@ For water containers and storage, see [Water Supply – Storage](../../../docs/0
 - Spare glasses, hearing-aid batteries
 ```
 
-For how to build up a legal stock of prescription medicines for long-term conditions, and which medicines are most dangerous to run out of, see [Chronic Medication Stockpile](../../../docs/01-日常疾病和伤害/08-慢性病用药储备.md).
+For how to build up a legal stock of prescription medicines for long-term conditions, and which medicines are most dangerous to run out of, see [Chronic Medication Stockpile](../01-first-aid-and-family-health/08-chronic-medication-stockpile.md).
 
 **Tools**:
 ```
@@ -911,9 +911,9 @@ History has seen countless rebuildings
 Keep faith and keep acting
 ```
 
-For details of psychological first aid, recognising suicide risk, grief and caring for children's mental health, see [Mental Health](../../../docs/01-日常疾病和伤害/10-心理健康.md) (especially [Psychological first aid](../../../docs/01-日常疾病和伤害/10-心理健康.md#心理急救-怎样帮助身边的人), [Suicide risk](../../../docs/01-日常疾病和伤害/10-心理健康.md#自杀风险-识别与应对), [Caring for children's mental health](../../../docs/01-日常疾病和伤害/10-心理健康.md#儿童的心理照顾) and [Looking after yourself under long-term stress](../../../docs/01-日常疾病和伤害/10-心理健康.md#长期压力下照顾好自己)).
+For details of psychological first aid, recognising suicide risk, grief and caring for children's mental health, see [Mental Health](../01-first-aid-and-family-health/10-mental-health.md) (especially [Psychological first aid](../01-first-aid-and-family-health/10-mental-health.md#psychological-first-aid-how-to-help-people-around-you), [Suicide risk](../01-first-aid-and-family-health/10-mental-health.md#suicide-risk-recognition-and-response), [Caring for children's mental health](../01-first-aid-and-family-health/10-mental-health.md#psychological-care-for-children) and [Looking after yourself under long-term stress](../01-first-aid-and-family-health/10-mental-health.md#looking-after-yourself-under-long-term-stress)).
 
 ---
 
-**Next chapter**: [Trip Preparation and Calling for Help](../../../docs/03-野外生存/07-户外出行准备与求救.md)
-**Back**: [Chapter index](../../../docs/03-野外生存/README.md) | [Main contents](../../README.md)
+**Next chapter**: [Trip Preparation and Calling for Help](07-trip-preparation-and-calling-for-help.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

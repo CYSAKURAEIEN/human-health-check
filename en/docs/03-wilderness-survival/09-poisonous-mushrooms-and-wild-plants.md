@@ -122,7 +122,7 @@ So:
 ❌ Do not make yourself vomit; whether to induce vomiting is for 120 or the doctor to decide
 ```
 
-For general management of poisoning, see [Poisoning – General principles of managing poisoning](../../../docs/01-日常疾病和伤害/12-中毒.md#中毒的通用处理原则).
+For general management of poisoning, see [Poisoning – General principles of managing poisoning](../01-first-aid-and-family-health/12-poisoning.md#general-principles-for-handling-poisoning).
 
 ---
 
@@ -146,7 +146,7 @@ For general management of poisoning, see [Poisoning – General principles of ma
 ✓ Teach children not to eat fruit or seeds from the roadside or the wild
 ```
 
-Other poisonous plants that get mistaken include oleander and lacquer trees (wild sumac); see [Forest Survival – Plants](../../../docs/03-野外生存/02-森林求生.md#植物).
+Other poisonous plants that get mistaken include oleander and lacquer trees (wild sumac); see [Forest Survival – Plants](02-forest-survival.md#plants).
 
 For how to tell *Gouwen* from honeysuckle, water hemlock from water dropwort, pokeweed from ginseng and other easily confused poisonous plants, see [Toxic Chinese Medicinals and Easily Confused Poisonous Plants](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#四易混淆的有毒植物对照).
 
@@ -174,9 +174,9 @@ When eating:
 
 ### About the "edibility test"
 
-Some survival guides describe a step-by-step "universal edibility test". **This test cannot detect slow-acting toxins** (the toxins of poisonous mushrooms and some plants take hours to days to act), **and it does not work at all for mushrooms**. People can go several weeks without food, but eating a highly toxic plant once can kill. See the warning in [Basic Survival Skills – Edible plant test](../../../docs/03-野外生存/00-基础生存技能.md#可食植物测试).
+Some survival guides describe a step-by-step "universal edibility test". **This test cannot detect slow-acting toxins** (the toxins of poisonous mushrooms and some plants take hours to days to act), **and it does not work at all for mushrooms**. People can go several weeks without food, but eating a highly toxic plant once can kill. See the warning in [Basic Survival Skills – Edible plant test](00-basic-survival-skills.md#edibility-test-for-plants).
 
-More reliable sources of food in the wild are insects, fish and plants you can identify with certainty; see [Basic Survival Skills – Finding food](../../../docs/03-野外生存/00-基础生存技能.md#食物获取).
+More reliable sources of food in the wild are insects, fish and plants you can identify with certainty; see [Basic Survival Skills – Finding food](00-basic-survival-skills.md#getting-food).
 
 ---
 
@@ -198,5 +198,5 @@ More reliable sources of food in the wild are insects, fish and plants you can i
 
 ---
 
-**Next chapter**: [Wasps, Ticks and Dangerous Animals](../../../docs/03-野外生存/10-马蜂蜱虫与危险动物.md)
-**Back**: [Chapter index](../../../docs/03-野外生存/README.md) | [Main contents](../../README.md)
+**Next chapter**: [Wasps, Ticks and Dangerous Animals](10-wasps-ticks-and-dangerous-animals.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

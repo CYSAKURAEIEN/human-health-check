@@ -540,7 +540,7 @@ Details:
 6. After the fire is out, do not go back inside until firefighters confirm it is safe
 ```
 
-For burn care and when to see a doctor see [Wound and Injury Care – Scalds and burns](../../../docs/01-日常疾病和伤害/02-外伤处理.md#烫伤与烧伤) and [Airway burns](../../../docs/01-日常疾病和伤害/02-外伤处理.md#呼吸道烧伤比面积更危险); for carbon monoxide poisoning see [Home and Traffic Accidents – Carbon monoxide poisoning](../../../docs/01-日常疾病和伤害/07-居家与交通意外.md#一氧化碳中毒); for CPR see [Basic First Aid – CPR](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#心肺复苏cpr). For insomnia, nightmares and fear after a fire see [Mental Health](../../../docs/01-日常疾病和伤害/10-心理健康.md).
+For burn care and when to see a doctor see [Wound and Injury Care – Scalds and burns](../01-first-aid-and-family-health/02-wounds-and-injuries.md#scalds-and-burns) and [Airway burns](../01-first-aid-and-family-health/02-wounds-and-injuries.md#airway-burns-more-dangerous-than-area); for carbon monoxide poisoning see [Home and Traffic Accidents – Carbon monoxide poisoning](../01-first-aid-and-family-health/07-home-and-traffic-accidents.md#carbon-monoxide-poisoning); for CPR see [Basic First Aid – CPR](../01-first-aid-and-family-health/00-basic-first-aid.md#cardiopulmonary-resuscitation-cpr). For insomnia, nightmares and fear after a fire see [Mental Health](../01-first-aid-and-family-health/10-mental-health.md).
 
 ### Fires in special places
 
@@ -731,7 +731,7 @@ Using fire safely outdoors:
 ✓ At graves, honour the dead with fresh flowers, tree planting or similar instead
 ```
 
-For firebreaks and fire precautions around forest areas and villages see [Firewood and Woodland Management](../../../docs/04-动植物培育/09-薪柴与林地管理.md); for how to light a fire in the wild see [Basic Survival Skills – Fire-making](../../../docs/03-野外生存/00-基础生存技能.md#生火技术).
+For firebreaks and fire precautions around forest areas and villages see [Firewood and Woodland Management](../../../docs/04-动植物培育/09-薪柴与林地管理.md); for how to light a fire in the wild see [Basic Survival Skills – Fire-making](../03-wilderness-survival/00-basic-survival-skills.md#making-fire).
 
 ### When you discover a forest fire
 
@@ -954,7 +954,7 @@ The key to prevention: e-bikes do not go in corridors, homes or lifts;
 charge them at a shared charging point; do not charge overnight
 ```
 
-For detailed rules on charging and parking see [Household Electrical Safety – Charging e-bikes](../../../docs/07-日常生活技能/08-家庭用电安全.md#电动自行车充电); for electric car fires see [Home and Traffic Accidents – Vehicle fires](../../../docs/01-日常疾病和伤害/07-居家与交通意外.md#车辆起火).
+For detailed rules on charging and parking see [Household Electrical Safety – Charging e-bikes](../../../docs/07-日常生活技能/08-家庭用电安全.md#电动自行车充电); for electric car fires see [Home and Traffic Accidents – Vehicle fires](../01-first-aid-and-family-health/07-home-and-traffic-accidents.md#vehicle-fire).
 
 Lithium batteries in phones, power banks and similar can also catch fire: do not crush, drop or pierce them; stop using one that has swollen; do not use one while it charges under your pillow or in the bed covers; do not leave it on the bed or sofa while it charges.
 
@@ -992,7 +992,7 @@ In practice:
   and stoves see the link below
 ```
 
-For recognising, treating and preventing carbon monoxide poisoning see [Home and Traffic Accidents – Carbon monoxide poisoning](../../../docs/01-日常疾病和伤害/07-居家与交通意外.md#一氧化碳中毒).
+For recognising, treating and preventing carbon monoxide poisoning see [Home and Traffic Accidents – Carbon monoxide poisoning](../01-first-aid-and-family-health/07-home-and-traffic-accidents.md#carbon-monoxide-poisoning).
 
 ### Gas leaks
 
@@ -1136,5 +1136,5 @@ Life comes first!
 
 ---
 
-**Next chapter**: [Man-made Disasters](../../../docs/02-灾难应对/05-人为灾难.md)
-**Back**: [Chapter index](../../../docs/02-灾难应对/README.md) | [Main contents](../../README.md)
+**Next chapter**: [Man-made Disasters](05-man-made-disasters.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

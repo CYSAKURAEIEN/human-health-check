@@ -166,7 +166,7 @@ Removing embedded grit and fragments:
   numb the area and clean it out
 ```
 
-For making saline see [Disinfectants – Saline](../../../docs/06-制药技术/01-消毒剂制备.md#72-配制); for what to do in the wild without clean water see [Wilderness Casualty Care and Evacuation – Wounds](../../../docs/03-野外生存/11-野外伤病处置与转运.md#伤口).
+For making saline see [Disinfectants – Saline](../../../docs/06-制药技术/01-消毒剂制备.md#72-配制); for what to do in the wild without clean water see [Wilderness Casualty Care and Evacuation – Wounds](../03-wilderness-survival/11-wilderness-casualty-care-and-evacuation.md#wounds).
 
 #### 3. Disinfect
 
@@ -441,7 +441,7 @@ Early signs:
 - Move casualties from a fire to fresh air first, and check whether they have inhaled smoke
 ```
 
-For escaping a fire see [Fire](../../../docs/02-灾难应对/04-火灾.md); for preventing scalds in children see [Child Safety – Preventing burns and scalds](14-child-safety.md#preventing-burns-and-scalds).
+For escaping a fire see [Fire](../02-disaster-response/04-fire.md); for preventing scalds in children see [Child Safety – Preventing burns and scalds](14-child-safety.md#preventing-burns-and-scalds).
 
 ### Burn depth
 
@@ -743,7 +743,7 @@ More points:
    neutralisation gives off heat, worsens the burn and delays rinsing
 ```
 
-For chemicals splashed in the eyes see [Foreign Bodies – Chemicals in the eye](04-foreign-bodies-and-choking.md#chemicals-in-the-eye-emergency); for protection at a chemical spill see [Man-made Disasters – Chemical spills](../../../docs/02-灾难应对/05-人为灾难.md#化学品泄漏).
+For chemicals splashed in the eyes see [Foreign Bodies – Chemicals in the eye](04-foreign-bodies-and-choking.md#chemicals-in-the-eye-emergency); for protection at a chemical spill see [Man-made Disasters – Chemical spills](../02-disaster-response/05-man-made-disasters.md#chemical-spills).
 
 #### Electrical burns
 
@@ -820,7 +820,7 @@ Frostbite and hypothermia often occur together: treat the hypothermia (whole bod
 then the frostbite (local).
 ```
 
-For recognising and treating hypothermia see [Acute Symptoms – Hypothermia](05-acute-symptoms.md#hypothermia); for hypothermia outdoors see [River Crossing, Flash Floods and Hypothermia](../../../docs/03-野外生存/08-涉水山洪与野外失温.md#不只是冬天-野外失温); for preventing frostbite in snow see [Snow and Polar Survival – Frostbite](../../../docs/03-野外生存/04-雪地极地求生.md#冻伤).
+For recognising and treating hypothermia see [Acute Symptoms – Hypothermia](05-acute-symptoms.md#hypothermia); for hypothermia outdoors see [River Crossing, Flash Floods and Hypothermia](../03-wilderness-survival/08-river-crossing-flash-floods-and-hypothermia.md#not-only-in-winter-hypothermia-outdoors); for preventing frostbite in snow see [Snow and Polar Survival – Frostbite](../03-wilderness-survival/04-snow-and-polar-survival.md#frostbite).
 
 ### Degrees of frostbite
 
@@ -951,7 +951,7 @@ Both are cold injuries **without freezing**, and both are far more common than f
 | Treatment | Keep warm and dry; do not warm at a fire or in hot water; do not scratch them open; if ulcerated, care for as a wound | Change to dry socks, dry the feet, raise them, rewarm slowly; do not massage; see a doctor if blisters or blackening appear |
 | Prevention | Keep hands and feet warm, wear gloves, change wet socks often; stay reasonably active to help circulation | Dry your feet and change into dry socks at least once a day; dry off as soon as possible after long wading |
 
-For protection during floods see [Floods](../../../docs/02-灾难应对/02-气象灾害.md#洪水).
+For protection during floods see [Floods](../02-disaster-response/02-weather-disasters.md#floods).
 
 ---
 
@@ -1093,7 +1093,7 @@ Common myths:
   bleeding and fractures first
 ```
 
-For avoiding dogs, monkeys and wild boar outdoors see [Wasps, Ticks and Dangerous Animals – Wild boar, dogs, monkeys and others](../../../docs/03-野外生存/10-马蜂蜱虫与危险动物.md#野猪狗猴子等); for preventing diseases passed from farm animals to people see [Livestock](../../../docs/04-动植物培育/06-家畜养殖.md).
+For avoiding dogs, monkeys and wild boar outdoors see [Wasps, Ticks and Dangerous Animals – Wild boar, dogs, monkeys and others](../03-wilderness-survival/10-wasps-ticks-and-dangerous-animals.md#wild-boar-dogs-monkeys-and-others); for preventing diseases passed from farm animals to people see [Livestock](../../../docs/04-动植物培育/06-家畜养殖.md).
 
 ### Human bites
 
@@ -1220,7 +1220,7 @@ Pressure bandaging (pressure immobilisation):
 | Applying herbs, waiting for a "snake doctor" | Wastes the best time for antivenom |
 | Chasing and hitting the snake, taking a live snake to hospital | Another bite; even a freshly killed snake's head can still bite. A photo is enough |
 
-For avoiding snakes outdoors see [Wasps, Ticks and Dangerous Animals – Snakes](../../../docs/03-野外生存/10-马蜂蜱虫与危险动物.md#蛇).
+For avoiding snakes outdoors see [Wasps, Ticks and Dangerous Animals – Snakes](../03-wilderness-survival/10-wasps-ticks-and-dangerous-animals.md#snakes).
 
 ### Insect bites and stings
 
@@ -1250,7 +1250,7 @@ For avoiding snakes outdoors see [Wasps, Ticks and Dangerous Animals – Snakes]
    infection (impetigo)
 ```
 
-For wasp and hornet stings (multiple stings can cause kidney failure) see [Wasps, Ticks and Dangerous Animals – After a sting](../../../docs/03-野外生存/10-马蜂蜱虫与危险动物.md#被蜇后); for skin infection after scratching bites see [Skin Conditions and Parasites – Impetigo and bacterial skin infections](16-skin-conditions-and-parasites.md#impetigo-and-bacterial-skin-infections).
+For wasp and hornet stings (multiple stings can cause kidney failure) see [Wasps, Ticks and Dangerous Animals – After a sting](../03-wilderness-survival/10-wasps-ticks-and-dangerous-animals.md#after-being-stung); for skin infection after scratching bites see [Skin Conditions and Parasites – Impetigo and bacterial skin infections](16-skin-conditions-and-parasites.md#impetigo-and-bacterial-skin-infections).
 
 #### Other common bites and contacts
 
@@ -1273,7 +1273,7 @@ Bites and stings that need a doctor:
 - Any sign of anaphylactic shock (see below)
 ```
 
-For detailed care of ticks and land leeches see [Wasps, Ticks and Dangerous Animals – Finding a tick attached](../../../docs/03-野外生存/10-马蜂蜱虫与危险动物.md#发现蜱虫叮在身上) and [Land leeches](../../../docs/03-野外生存/10-马蜂蜱虫与危险动物.md#旱蚂蟥).
+For detailed care of ticks and land leeches see [Wasps, Ticks and Dangerous Animals – Finding a tick attached](../03-wilderness-survival/10-wasps-ticks-and-dangerous-animals.md#finding-a-tick-attached-to-you) and [Land leeches](../03-wilderness-survival/10-wasps-ticks-and-dangerous-animals.md#land-leeches).
 
 #### Watching for allergic reactions
 

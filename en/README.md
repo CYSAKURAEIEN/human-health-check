@@ -40,7 +40,7 @@ First aid, dealing with common illnesses and injuries, and long-term health care
 - **Child safety**: preventing drowning, falls, accidental swallowing, choking and scalds; car safety; preventing children getting lost
 - **Menstrual hygiene and contraception**: menstrual products, home-made cloth pads, contraception, emergency contraception
 
-### [II. Disaster Response Handbook](../docs/02-灾难应对/README.md)
+### [II. Disaster Response Handbook](docs/02-disaster-response/README.md)
 
 Prevention, response and self-rescue for all kinds of natural and man-made disasters.
 
@@ -52,7 +52,7 @@ Prevention, response and self-rescue for all kinds of natural and man-made disas
 - **Emergency communication and finding family**: family communication plans, text messages first, saving phone battery, walkie-talkies, finding each other after separation
 - **Handling the dead after disasters**: myths about bodies and epidemics, protection, identification and records, temporary storage and burial
 
-### [III. Wilderness Survival Guide](../docs/03-野外生存/README.md)
+### [III. Wilderness Survival Guide](docs/03-wilderness-survival/README.md)
 
 From outdoor safety on a weekend hike to extreme environments and long-term survival.
 
@@ -282,20 +282,20 @@ Compound units use "/" to mean "per", e.g. m/s (metres per second), kg/ha (kilog
 | Road accident | [At the scene of a road accident](docs/01-first-aid-and-family-health/07-home-and-traffic-accidents.md#at-the-scene-of-a-road-accident) |
 | An older person has fallen | [What to do after an older person falls](docs/01-first-aid-and-family-health/13-elder-care.md#what-to-do-after-an-older-person-falls) |
 | An older person or child is missing | [Preventing children getting lost](docs/01-first-aid-and-family-health/14-child-safety.md#preventing-children-getting-lost) (call 110 at once; do not wait 24 hours) |
-| Separated from family, cannot get in touch | [Emergency communication and finding family](../docs/02-灾难应对/06-应急通信与寻亲.md#家人失散后怎样寻找) |
+| Separated from family, cannot get in touch | [Emergency communication and finding family](docs/02-disaster-response/06-emergency-communication-and-family-reunification.md#finding-family-members-after-you-are-separated) |
 | Someone at home has an infectious disease | [Infectious disease at home](docs/01-first-aid-and-family-health/15-infectious-disease-at-home.md#when-someone-at-home-has-an-infectious-disease) |
 | How to make up disinfectant | [Making up "84" bleach solution](docs/01-first-aid-and-family-health/15-infectious-disease-at-home.md#making-household-disinfectant) |
-| Earthquake | [Geological disasters](../docs/02-灾难应对/01-地质灾害.md#地震) |
-| Fire | [Responding to fire](../docs/02-灾难应对/04-火灾.md#建筑火灾) |
-| Flood | [Weather disasters](../docs/02-灾难应对/02-气象灾害.md#洪水) |
-| Tsunami | [Ocean disasters](../docs/02-灾难应对/03-海洋灾害.md#海啸) |
-| Lost in the wild | [Forest survival](../docs/03-野外生存/02-森林求生.md#方向辨别) |
-| No water or food | [Basic survival skills](../docs/03-野外生存/00-基础生存技能.md) |
-| Calling for help in the wild but cannot describe where you are | [Calling for help](../docs/03-野外生存/07-户外出行准备与求救.md#报警求救-说清楚你在哪里) |
-| The stream in a valley suddenly rises | [Flash floods](../docs/03-野外生存/08-涉水山洪与野外失温.md#山洪-溪谷里最大的危险) |
-| Feeling unwell after eating wild mushrooms | [Poisonous mushrooms](../docs/03-野外生存/09-毒蘑菇与野菜误食.md#吃了野生蘑菇后不舒服) (everyone who ate them goes to hospital) |
-| Someone injured in the wild, rescue not yet here | [Treating the sick and injured in the wild](../docs/03-野外生存/11-野外伤病处置与转运.md#原地等待还是自行撤出) |
-| Stung by a wasp, bitten by a tick | [Wasps](../docs/03-野外生存/10-马蜂蜱虫与危险动物.md#马蜂胡蜂), [ticks](../docs/03-野外生存/10-马蜂蜱虫与危险动物.md#蜱虫) |
+| Earthquake | [Geological disasters](docs/02-disaster-response/01-geological-disasters.md#earthquakes) |
+| Fire | [Responding to fire](docs/02-disaster-response/04-fire.md#building-fires) |
+| Flood | [Weather disasters](docs/02-disaster-response/02-weather-disasters.md#floods) |
+| Tsunami | [Ocean disasters](docs/02-disaster-response/03-ocean-disasters.md#tsunamis) |
+| Lost in the wild | [Forest survival](docs/03-wilderness-survival/02-forest-survival.md#finding-your-direction) |
+| No water or food | [Basic survival skills](docs/03-wilderness-survival/00-basic-survival-skills.md) |
+| Calling for help in the wild but cannot describe where you are | [Calling for help](docs/03-wilderness-survival/07-trip-preparation-and-calling-for-help.md#calling-for-help-say-clearly-where-you-are) |
+| The stream in a valley suddenly rises | [Flash floods](docs/03-wilderness-survival/08-river-crossing-flash-floods-and-hypothermia.md#flash-floods-the-biggest-danger-in-stream-valleys) |
+| Feeling unwell after eating wild mushrooms | [Poisonous mushrooms](docs/03-wilderness-survival/09-poisonous-mushrooms-and-wild-plants.md#feeling-unwell-after-eating-wild-mushrooms) (everyone who ate them goes to hospital) |
+| Someone injured in the wild, rescue not yet here | [Treating the sick and injured in the wild](docs/03-wilderness-survival/11-wilderness-casualty-care-and-evacuation.md#waiting-where-you-are-or-getting-yourselves-out) |
+| Stung by a wasp, bitten by a tick | [Wasps](docs/03-wilderness-survival/10-wasps-ticks-and-dangerous-animals.md#wasps-hornets), [ticks](docs/03-wilderness-survival/10-wasps-ticks-and-dangerous-animals.md#ticks) |
 | Setting out a right angle, finding level, measuring height when building | [Measuring without instruments](../docs/08-基础科学知识/00-度量衡与科学方法.md#四没有仪器时的测量) |
 | Not sure how much 1 m or 1 kg really is | [Rebuilding measurement standards](../docs/08-基础科学知识/09-计量基准的重建.md#六废墟中的现成参照物) |
 | Which chapter a Chinese herb is in, and its other names | [Herb name index](../docs/10-中药材识别与采集/10-药名索引.md) |
@@ -309,7 +309,7 @@ Compound units use "/" to mean "per", e.g. m/s (metres per second), kg/ha (kilog
 | Using the toilet when the water is off | [Sanitation – emergency toilets](../docs/07-日常生活技能/03-卫生设施.md#应急厕所) |
 | Breaker tripping, socket getting hot | [Household electrical safety](../docs/07-日常生活技能/08-家庭用电安全.md#漏电保护器和空气开关) |
 | Can flooded appliances be used after a disaster? | [Restoring power after a disaster](../docs/07-日常生活技能/08-家庭用电安全.md#灾后恢复用电) |
-| Finding the body of a disaster victim | [Handling the dead after disasters](../docs/02-灾难应对/07-灾后遗体处理.md#先说清楚-本章的定位) |
+| Finding the body of a disaster victim | [Handling the dead after disasters](docs/02-disaster-response/07-handling-the-dead-after-disasters.md#first-of-all-what-this-chapter-is-for) |
 
 ## 🖼️ Diagram index
 
@@ -340,28 +340,28 @@ Compound units use "/" to mean "per", e.g. m/s (metres per second), kg/ha (kilog
 
 ### II. Disaster Response Handbook
 
-- **[地质灾害应对指南](../docs/02-灾难应对/01-地质灾害.md)**: [地震时室内避震: 伏地、遮挡、手抓牢](../docs/02-灾难应对/01-地质灾害.md#室内) · [泥石流逃生: 与沟谷垂直,往两侧山坡高处跑](../docs/02-灾难应对/01-地质灾害.md#逃生原则) · [山体滑坡逃生: 向两侧撤到稳定区](../docs/02-灾难应对/01-地质灾害.md#发生时-1)
-- **[气象灾害应对指南](../docs/02-灾难应对/02-气象灾害.md)**: [洪水撤离: 早走、往高处走、不进流动的水](../docs/02-灾难应对/02-气象灾害.md#洪水时) · [雷电无处躲避时的双脚并拢蹲姿](../docs/02-灾难应对/02-气象灾害.md#室外避雷)
-- **[海洋灾害应对指南](../docs/02-灾难应对/03-海洋灾害.md)**: [落入冷水: 熬过第1分钟的冷水休克,再保住体温](../docs/02-灾难应对/03-海洋灾害.md#等待救援时保持体温)
-- **[火灾应对指南](../docs/02-灾难应对/04-火灾.md)**: [火场逃生: 先摸门,再低姿撤离;出不去就关门固守](../docs/02-灾难应对/04-火灾.md#逃生原则) · [灭火器使用: 提、拔、握、压](../docs/02-灾难应对/04-火灾.md#灭火器使用)
-- **[人为灾难应对指南](../docs/02-灾难应对/05-人为灾难.md)**: [化学品泄漏: 往上风或侧风方向离开,来不及走就关门窗避难](../docs/02-灾难应对/05-人为灾难.md#立即行动)
-- **[应急通信与寻亲指南](../docs/02-灾难应对/06-应急通信与寻亲.md)**: [家庭应急通信计划](../docs/02-灾难应对/06-应急通信与寻亲.md#灾前-家庭通信计划)
-- **[灾后遗体处理](../docs/02-灾难应对/07-灾后遗体处理.md)**: [灾后遗体处理要点](../docs/02-灾难应对/07-灾后遗体处理.md#-灾后遗体处理要点)
+- **[Geological Disasters Guide](docs/02-disaster-response/01-geological-disasters.md)**: [Indoors during an earthquake: drop, cover, hold on](docs/02-disaster-response/01-geological-disasters.md#indoors) · [Debris flow escape: run at right angles to the gully, up the slopes on either side](docs/02-disaster-response/01-geological-disasters.md#escape-principles) · [Landslide escape: get out to the sides, onto stable ground](docs/02-disaster-response/01-geological-disasters.md#when-it-happens-1)
+- **[Weather Disasters Guide](docs/02-disaster-response/02-weather-disasters.md)**: [Flood evacuation: leave early, go to high ground, stay out of moving water](docs/02-disaster-response/02-weather-disasters.md#during-a-flood) · [Feet-together crouch in lightning when there is nowhere to shelter](docs/02-disaster-response/02-weather-disasters.md#lightning-safety-outdoors)
+- **[Ocean Disasters](docs/02-disaster-response/03-ocean-disasters.md)**: [Falling into cold water: survive the first minute of cold shock, then keep warm](docs/02-disaster-response/03-ocean-disasters.md#keeping-warm-while-waiting-for-rescue)
+- **[Fire](docs/02-disaster-response/04-fire.md)**: [Escaping a fire: feel the door, then keep low; if you cannot get out, shut the door and stay put](docs/02-disaster-response/04-fire.md#escape-principles) · [灭火器使用: 提、拔、握、压](docs/02-disaster-response/04-fire.md#using-a-fire-extinguisher)
+- **[Man-made Disasters: A Response Guide](docs/02-disaster-response/05-man-made-disasters.md)**: [Chemical leak: leave upwind or crosswind; if there is no time, shut doors and windows and shelter](docs/02-disaster-response/05-man-made-disasters.md#what-to-do-at-once)
+- **[Emergency Communication and Family Reunification](docs/02-disaster-response/06-emergency-communication-and-family-reunification.md)**: [家庭应急通信计划](docs/02-disaster-response/06-emergency-communication-and-family-reunification.md#before-a-disaster-family-communication-plan)
+- **[Handling the Dead after Disasters](docs/02-disaster-response/07-handling-the-dead-after-disasters.md)**: [灾后遗体处理要点](docs/02-disaster-response/07-handling-the-dead-after-disasters.md#-key-points-for-handling-the-dead-after-disasters)
 
 ### III. Wilderness Survival Guide
 
-- **[基础生存技能](../docs/03-野外生存/00-基础生存技能.md)**: [手表法辨方向](../docs/03-野外生存/00-基础生存技能.md#太阳法) · [影子法辨方向](../docs/03-野外生存/00-基础生存技能.md#太阳法) · [用北极星找正北](../docs/03-野外生存/00-基础生存技能.md#星星法夜晚) · [太阳能蒸馏器(最后手段)](../docs/03-野外生存/00-基础生存技能.md#太阳能蒸馏器最后手段) · [简易沙炭过滤器剖面](../docs/03-野外生存/00-基础生存技能.md#过滤) · [生火材料与火堆结构](../docs/03-野外生存/00-基础生存技能.md#火堆结构) · [A字庇护所和单坡庇护所](../docs/03-野外生存/00-基础生存技能.md#单坡庇护所) · [雪洞和Quinzhee雪屋剖面](../docs/03-野外生存/00-基础生存技能.md#雪洞雪地) · [国际求救信号和地面对空信号](../docs/03-野外生存/00-基础生存技能.md#国际求救信号)
-- **[荒岛求生指南](../docs/03-野外生存/01-荒岛求生.md)**: [海岛取水](../docs/03-野外生存/01-荒岛求生.md#海岛取水)
-- **[森林求生指南](../docs/03-野外生存/02-森林求生.md)**: [在森林里迷路了: 停下,通常留在原地,让自己被找到](../docs/03-野外生存/02-森林求生.md#留在原地还是移动)
-- **[沙漠求生指南](../docs/03-野外生存/03-沙漠求生.md)**: [沙漠里怎样减少失水](../docs/03-野外生存/03-沙漠求生.md#不能喝的水) · [沙漠遮阳庇护所](../docs/03-野外生存/03-沙漠求生.md#防晒白天)
-- **[雪地/极地求生指南](../docs/03-野外生存/04-雪地极地求生.md)**: [雪洞和Quinzhee雪屋剖面](../docs/03-野外生存/04-雪地极地求生.md#雪洞)
-- **[山地求生指南](../docs/03-野外生存/05-山地求生.md)**: [雷电无处躲避时的双脚并拢蹲姿](../docs/03-野外生存/05-山地求生.md#雷电)
-- **[末日求生指南](../docs/03-野外生存/06-末日求生.md)**: [家庭储备: 每人多少、怎样轮换](../docs/03-野外生存/06-末日求生.md#基础储备3-6个月)
-- **[户外出行准备与求救](../docs/03-野外生存/07-户外出行准备与求救.md)**: [一日徒步的穿着和必带装备](../docs/03-野外生存/07-户外出行准备与求救.md#装备)
-- **[涉水、山洪与野外失温](../docs/03-野外生存/08-涉水山洪与野外失温.md)**: [涉水过河: 判断、选地方、怎样过、落入急流](../docs/03-野外生存/08-涉水山洪与野外失温.md#怎样过)
-- **[毒蘑菇与野菜误食](../docs/03-野外生存/09-毒蘑菇与野菜误食.md)**: [毒蘑菇: 没有简单的鉴别方法](../docs/03-野外生存/09-毒蘑菇与野菜误食.md#特别危险的几类)
-- **[马蜂、蜱虫与危险动物](../docs/03-野外生存/10-马蜂蜱虫与危险动物.md)**: [蜱虫: 预防、检查与取出](../docs/03-野外生存/10-马蜂蜱虫与危险动物.md#发现蜱虫叮在身上)
-- **[野外伤病处置与转运](../docs/03-野外生存/11-野外伤病处置与转运.md)**: [Moving a casualty: seat carry, backpack carry and improvised stretchers](../docs/03-野外生存/11-野外伤病处置与转运.md#搬运伤员)
+- **[Basic Survival Skills](docs/03-wilderness-survival/00-basic-survival-skills.md)**: [Finding direction with a watch](docs/03-wilderness-survival/00-basic-survival-skills.md#sun-methods) · [Finding direction with a shadow stick](docs/03-wilderness-survival/00-basic-survival-skills.md#sun-methods) · [用北极星找正北](docs/03-wilderness-survival/00-basic-survival-skills.md#star-methods-at-night) · [太阳能蒸馏器(最后手段)](docs/03-wilderness-survival/00-basic-survival-skills.md#solar-still-last-resort) · [简易沙炭过滤器剖面](docs/03-wilderness-survival/00-basic-survival-skills.md#filtering) · [Fire materials and fire lays](docs/03-wilderness-survival/00-basic-survival-skills.md#fire-lays) · [A字庇护所和单坡庇护所](docs/03-wilderness-survival/00-basic-survival-skills.md#lean-to-shelter) · [雪洞和Quinzhee雪屋剖面](docs/03-wilderness-survival/00-basic-survival-skills.md#snow-cave-snow) · [International distress and ground-to-air signals](docs/03-wilderness-survival/00-basic-survival-skills.md#international-distress-signals)
+- **[Desert Island Survival Guide](docs/03-wilderness-survival/01-desert-island-survival.md)**: [Finding water on an island](docs/03-wilderness-survival/01-desert-island-survival.md#getting-water-on-an-island)
+- **[Forest Survival Guide](docs/03-wilderness-survival/02-forest-survival.md)**: [Lost in the forest: stop, stay put, get found](docs/03-wilderness-survival/02-forest-survival.md#stay-put-or-move)
+- **[Desert Survival Guide](docs/03-wilderness-survival/03-desert-survival.md)**: [沙漠里怎样减少失水](docs/03-wilderness-survival/03-desert-survival.md#water-you-must-not-drink) · [沙漠遮阳庇护所](docs/03-wilderness-survival/03-desert-survival.md#sun-protection-day)
+- **[Snow and Polar Survival Guide](docs/03-wilderness-survival/04-snow-and-polar-survival.md)**: [雪洞和Quinzhee雪屋剖面](docs/03-wilderness-survival/04-snow-and-polar-survival.md#snow-cave)
+- **[Mountain Survival Guide](docs/03-wilderness-survival/05-mountain-survival.md)**: [Feet-together crouch in lightning when there is nowhere to shelter](docs/03-wilderness-survival/05-mountain-survival.md#lightning)
+- **[Long-term Collapse Survival Guide](docs/03-wilderness-survival/06-long-term-collapse-survival.md)**: [家庭储备: 每人多少、怎样轮换](docs/03-wilderness-survival/06-long-term-collapse-survival.md#basic-stores-3-6-months)
+- **[Trip Preparation and Calling for Help](docs/03-wilderness-survival/07-trip-preparation-and-calling-for-help.md)**: [一日徒步的穿着和必带装备](docs/03-wilderness-survival/07-trip-preparation-and-calling-for-help.md#equipment)
+- **[River Crossing, Flash Floods and Hypothermia](docs/03-wilderness-survival/08-river-crossing-flash-floods-and-hypothermia.md)**: [涉水过河: 判断、选地方、怎样过、落入急流](docs/03-wilderness-survival/08-river-crossing-flash-floods-and-hypothermia.md#how-to-cross)
+- **[Poisonous Mushrooms and Wild Plants](docs/03-wilderness-survival/09-poisonous-mushrooms-and-wild-plants.md)**: [毒蘑菇: 没有简单的鉴别方法](docs/03-wilderness-survival/09-poisonous-mushrooms-and-wild-plants.md#especially-dangerous-groups)
+- **[Wasps, Ticks and Dangerous Animals](docs/03-wilderness-survival/10-wasps-ticks-and-dangerous-animals.md)**: [蜱虫: 预防、检查与取出](docs/03-wilderness-survival/10-wasps-ticks-and-dangerous-animals.md#finding-a-tick-attached-to-you)
+- **[Wilderness Casualty Care and Evacuation](docs/03-wilderness-survival/11-wilderness-casualty-care-and-evacuation.md)**: [Moving a casualty: seat carry, backpack carry and improvised stretchers](docs/03-wilderness-survival/11-wilderness-casualty-care-and-evacuation.md#moving-the-casualty)
 
 ### IV. Growing Plants and Raising Animals
 
@@ -470,8 +470,8 @@ Compound units use "/" to mean "per", e.g. m/s (metres per second), kg/ha (kilog
 3. Learn [Wounds and injuries](docs/01-first-aid-and-family-health/02-wounds-and-injuries.md)
 
 ### Further study
-1. Master the basic principles of [Disaster response](../docs/02-灾难应对/README.md)
-2. Learn the basic skills of [Wilderness survival](../docs/03-野外生存/README.md)
+1. Master the basic principles of [Disaster response](docs/02-disaster-response/README.md)
+2. Learn the basic skills of [Wilderness survival](docs/03-wilderness-survival/README.md)
 3. Get to know the basics of [Growing plants and raising animals](../docs/04-动植物培育/README.md)
 4. Learn [Everyday living skills](../docs/07-日常生活技能/README.md): food preservation, nutrition, sanitation
 

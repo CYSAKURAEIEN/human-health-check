@@ -18,7 +18,7 @@ Most weather disasters **are forecast and warned of**: you can see a typhoon's t
 
 ## Warning signals: understanding the colours and levels
 
-China's weather disaster warning signals cover typhoons, heavy rain, heavy snow, cold waves, strong winds, sandstorms, high temperatures, drought, lightning, hail, frost, heavy fog, haze, icy roads and more; each type is graded by colour according to severity. For the channels through which you receive warnings, see [Emergency communication and finding family – Getting official information](../../../docs/02-灾难应对/06-应急通信与寻亲.md#获取官方信息).
+China's weather disaster warning signals cover typhoons, heavy rain, heavy snow, cold waves, strong winds, sandstorms, high temperatures, drought, lightning, hail, frost, heavy fog, haze, icy roads and more; each type is graded by colour according to severity. For the channels through which you receive warnings, see [Emergency communication and finding family – Getting official information](06-emergency-communication-and-family-reunification.md#getting-official-information).
 
 ### What the four colours mean
 
@@ -117,7 +117,7 @@ Prepare supplies:
   low-lying places or in underground car parks that flood easily
 ```
 
-For what goes in the emergency kit see [Disaster response – Family emergency kit](../../../docs/02-灾难应对/README.md#-家庭应急包).
+For what goes in the emergency kit see [Disaster response – Family emergency kit](README.md#-family-emergency-kit).
 
 **12-24 hours before**:
 ```
@@ -185,7 +185,7 @@ When evacuating:
 ❌ Do not go back on your own to fetch things before the warning is lifted
 ```
 
-For storm surge see [Ocean disasters – Storm surge](../../../docs/02-灾难应对/03-海洋灾害.md#风暴潮); for flash floods and landslides see [Debris flows](../../../docs/02-灾难应对/01-地质灾害.md#泥石流) and [Landslides](../../../docs/02-灾难应对/01-地质灾害.md#山体滑坡).
+For storm surge see [Ocean disasters – Storm surge](03-ocean-disasters.md#storm-surges); for flash floods and landslides see [Debris flows](01-geological-disasters.md#debris-flows) and [Landslides](01-geological-disasters.md#landslides).
 
 ### During the typhoon
 
@@ -310,7 +310,7 @@ Floods are among the weather disasters that kill and injure the most people in C
 **Flash floods**: sudden floods in mountain areas; extremely dangerous
 **Urban waterlogging**: the drainage system is overwhelmed
 
-For the warning signs of flash floods in mountain valleys and how to escape them, see [River crossings, flash floods and hypothermia in the wild](../../../docs/03-野外生存/08-涉水山洪与野外失温.md#山洪-溪谷里最大的危险).
+For the warning signs of flash floods in mountain valleys and how to escape them, see [River crossings, flash floods and hypothermia in the wild](../03-wilderness-survival/08-river-crossing-flash-floods-and-hypothermia.md#flash-floods-the-biggest-danger-in-stream-valleys).
 
 ### Before a flood
 
@@ -383,7 +383,7 @@ Remember:
 
 *Figure: All water depths are approximate; it is usually moving water that drowns people. Do not wade or drive through when the water is flowing or you cannot see how deep it is*
 
-For judging and making river crossings in the wild, see [Deciding whether you can cross](../../../docs/03-野外生存/08-涉水山洪与野外失温.md#判断能不能过).
+For judging and making river crossings in the wild, see [Deciding whether you can cross](../03-wilderness-survival/08-river-crossing-flash-floods-and-hypothermia.md#deciding-whether-you-can-cross).
 
 **Driving in a flood**:
 ```
@@ -444,7 +444,7 @@ If you are swept into fast water:
    force you underneath)
 ```
 
-For more detail and how to rescue someone from the bank, see [Falling into fast water](../../../docs/03-野外生存/08-涉水山洪与野外失温.md#落入急流); for first aid once they are out see [Drowning](../../../docs/01-日常疾病和伤害/05-急性症状.md#溺水).
+For more detail and how to rescue someone from the bank, see [Falling into fast water](../03-wilderness-survival/08-river-crossing-flash-floods-and-hypothermia.md#falling-into-fast-water); for first aid once they are out see [Drowning](../01-first-aid-and-family-health/05-acute-symptoms.md#drowning).
 
 ### Urban waterlogging: underground spaces, driving through water and manhole covers
 
@@ -655,7 +655,7 @@ Health:
    mouldy rooms
 ```
 
-For making up disinfectant and its strength see ["84" bleach (chlorine disinfectant)](../../../docs/01-日常疾病和伤害/15-传染病家庭防控.md#84消毒液含氯消毒剂); for checks before the power comes back on see [Restoring power after a disaster](../../../docs/07-日常生活技能/08-家庭用电安全.md#灾后恢复用电).
+For making up disinfectant and its strength see ["84" bleach (chlorine disinfectant)](../01-first-aid-and-family-health/15-infectious-disease-at-home.md#84-bleach-chlorine-based-disinfectant); for checks before the power comes back on see [Restoring power after a disaster](../../../docs/07-日常生活技能/08-家庭用电安全.md#灾后恢复用电).
 
 #### Food and drinking water
 
@@ -699,7 +699,7 @@ Common health problems after floods:
    swollen and oozing pus: see a doctor promptly or call 120
 ```
 
-Related chapters: [Diarrhoeal infections](../../../docs/01-日常疾病和伤害/15-传染病家庭防控.md#腹泻类传染病), [Preventing tetanus](../../../docs/01-日常疾病和伤害/02-外伤处理.md#破伤风预防), [Carbon monoxide poisoning](../../../docs/01-日常疾病和伤害/07-居家与交通意外.md#一氧化碳中毒). Being unable to sleep and repeatedly reliving the scene after a flood are common reactions; see [Mental health](../../../docs/01-日常疾病和伤害/10-心理健康.md).
+Related chapters: [Diarrhoeal infections](../01-first-aid-and-family-health/15-infectious-disease-at-home.md#diarrhoeal-infections), [Preventing tetanus](../01-first-aid-and-family-health/02-wounds-and-injuries.md#tetanus-prevention), [Carbon monoxide poisoning](../01-first-aid-and-family-health/07-home-and-traffic-accidents.md#carbon-monoxide-poisoning). Being unable to sleep and repeatedly reliving the scene after a flood are common reactions; see [Mental health](../01-first-aid-and-family-health/10-mental-health.md).
 
 ---
 
@@ -759,7 +759,7 @@ Farming:
 ✓ For frost protection see the "Frost" section of the weather observation chapter
 ```
 
-Related chapters: [Carbon monoxide poisoning](../../../docs/01-日常疾病和伤害/07-居家与交通意外.md#一氧化碳中毒), [Elder care – Extreme weather](../../../docs/01-日常疾病和伤害/13-老人照护.md#极端天气), [Frost](../../../docs/08-基础科学知识/07-天气观测与预报.md#五霜冻).
+Related chapters: [Carbon monoxide poisoning](../01-first-aid-and-family-health/07-home-and-traffic-accidents.md#carbon-monoxide-poisoning), [Elder care – Extreme weather](../01-first-aid-and-family-health/13-elder-care.md#extreme-weather), [Frost](../../../docs/08-基础科学知识/07-天气观测与预报.md#五霜冻).
 
 ### Freezing rain and icy roads
 
@@ -843,7 +843,7 @@ The house:
   non-flammable dish and put them out when you leave the room
 ```
 
-For recognising and treating carbon monoxide poisoning see [Carbon monoxide poisoning](../../../docs/01-日常疾病和伤害/07-居家与交通意外.md#一氧化碳中毒).
+For recognising and treating carbon monoxide poisoning see [Carbon monoxide poisoning](../01-first-aid-and-family-health/07-home-and-traffic-accidents.md#carbon-monoxide-poisoning).
 
 **Trapped in a vehicle**:
 ```
@@ -929,7 +929,7 @@ If you are caught outdoors:
    → early hypothermia; deal with it at once
 ```
 
-For how to make snow caves and snow walls see [Snow and polar survival](../../../docs/03-野外生存/04-雪地极地求生.md); for treating hypothermia and frostbite see [Hypothermia](../../../docs/01-日常疾病和伤害/05-急性症状.md#失温症) and [Frostbite](../../../docs/01-日常疾病和伤害/02-外伤处理.md#冻伤).
+For how to make snow caves and snow walls see [Snow and polar survival](../03-wilderness-survival/04-snow-and-polar-survival.md); for treating hypothermia and frostbite see [Hypothermia](../01-first-aid-and-family-health/05-acute-symptoms.md#hypothermia) and [Frostbite](../01-first-aid-and-family-health/02-wounds-and-injuries.md#frostbite).
 
 ### Clearing snow from roofs and greenhouses
 
@@ -1201,7 +1201,7 @@ When you receive a high-temperature warning:
    at once, and meanwhile move the person into the shade and cool them quickly
 ```
 
-For the grades of heat illness, cooling methods, high-risk groups and how much to drink, see [Acute symptoms – Heatstroke](../../../docs/01-日常疾病和伤害/05-急性症状.md#中暑); for caring for older people see [Elder care – Extreme weather](../../../docs/01-日常疾病和伤害/13-老人照护.md#极端天气).
+For the grades of heat illness, cooling methods, high-risk groups and how much to drink, see [Acute symptoms – Heatstroke](../01-first-aid-and-family-health/05-acute-symptoms.md#heatstroke); for caring for older people see [Elder care – Extreme weather](../01-first-aid-and-family-health/13-elder-care.md#extreme-weather).
 
 **Keeping cool during a power cut**:
 ```
@@ -1367,7 +1367,7 @@ Adjusting:
 
 For siting toilets and hygiene see [Sanitation](../../../docs/07-日常生活技能/03-卫生设施.md); for preventing nutritional deficiencies see [Nutrition and deficiency diseases](../../../docs/07-日常生活技能/02-营养与营养缺乏病.md).
 
-For preventing and escaping wildfires see [Forest fires](../../../docs/02-灾难应对/04-火灾.md#森林火灾).
+For preventing and escaping wildfires see [Forest fires](04-fire.md#forest-fires).
 
 ---
 
@@ -1409,7 +1409,7 @@ In the open country:
 Sand in the eyes: do not rub; rinse with clean water; if it will not wash out, see a doctor
 ```
 
-For dealing with sand in the eye see [Foreign bodies in the eye](../../../docs/01-日常疾病和伤害/04-异物处理.md#眼睛异物); for sandstorms in the desert see [Desert survival](../../../docs/03-野外生存/03-沙漠求生.md).
+For dealing with sand in the eye see [Foreign bodies in the eye](../01-first-aid-and-family-health/04-foreign-bodies-and-choking.md#foreign-bodies-in-the-eye); for sandstorms in the desert see [Desert survival](../03-wilderness-survival/03-desert-survival.md).
 
 ---
 
@@ -1520,7 +1520,7 @@ On hills and mountains:
   afternoon thunderstorms
 ```
 
-For thunderstorms in the mountains see [Mountain survival – Lightning](../../../docs/03-野外生存/05-山地求生.md#雷电).
+For thunderstorms in the mountains see [Mountain survival – Lightning](../03-wilderness-survival/05-mountain-survival.md#lightning).
 
 **Groups sheltering from lightning**:
 ```
@@ -1590,7 +1590,7 @@ Further notes:
   "already dead"
 ```
 
-For detailed treatment see [Acute symptoms – Lightning strike](../../../docs/01-日常疾病和伤害/05-急性症状.md#雷击).
+For detailed treatment see [Acute symptoms – Lightning strike](../01-first-aid-and-family-health/05-acute-symptoms.md#lightning-strike).
 
 ### Judging how far away a thunderstorm is
 
@@ -1666,5 +1666,5 @@ The "30-30 rule":
 
 ---
 
-**Next chapter**: [Ocean disasters](../../../docs/02-灾难应对/03-海洋灾害.md)
+**Next chapter**: [Ocean disasters](03-ocean-disasters.md)
 **Back**: [Chapter index](README.md) | [Main contents](../../README.md)

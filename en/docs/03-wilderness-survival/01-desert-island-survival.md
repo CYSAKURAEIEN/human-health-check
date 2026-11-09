@@ -2,7 +2,7 @@
 
 > In real life, being "stranded on a desert island" usually happens after a boat gets into trouble, a small boat drifts, or someone gathering shellfish is cut off on a sandbar by the tide. Most islands are not far from shipping lanes, fishing grounds or inhabited islands. **The key to staying alive is to keep warm and keep hydrated, make yourself seen, and wait for rescue**, not to settle there for good.
 >
-> If your phone has signal, call for help first: for distress at sea call 12395; you can also call 110 or 120. For how to give your location clearly when you call, see [Outdoor Trip Preparation and Calling for Help – Calling for help](../../../docs/03-野外生存/07-户外出行准备与求救.md#报警求救-说清楚你在哪里).
+> If your phone has signal, call for help first: for distress at sea call 12395; you can also call 110 or 120. For how to give your location clearly when you call, see [Outdoor Trip Preparation and Calling for Help – Calling for help](07-trip-preparation-and-calling-for-help.md#calling-for-help-say-clearly-where-you-are).
 
 ## Priorities
 
@@ -66,7 +66,7 @@ With children, older people or injured people:
   and give it to the doctor when rescue comes
 ```
 
-For assessing the scene, stopping bleeding and CPR see [Basic First Aid](../../../docs/01-日常疾病和伤害/00-基础急救知识.md); for caring for injured people in the wild and recording injuries see [Treating and Evacuating Casualties in the Wild – Write a casualty record](../../../docs/03-野外生存/11-野外伤病处置与转运.md#写一份伤情记录); for care after someone is pulled out of the water see [Acute Symptoms – Drowning](../../../docs/01-日常疾病和伤害/05-急性症状.md#溺水).
+For assessing the scene, stopping bleeding and CPR see [Basic First Aid](../01-first-aid-and-family-health/00-basic-first-aid.md); for caring for injured people in the wild and recording injuries see [Treating and Evacuating Casualties in the Wild – Write a casualty record](11-wilderness-casualty-care-and-evacuation.md#write-a-casualty-record); for care after someone is pulled out of the water see [Acute Symptoms – Drowning](../01-first-aid-and-family-health/05-acute-symptoms.md#drowning).
 
 ## Water
 
@@ -174,7 +174,7 @@ If you do make one:
 - Taste the collected water every day: if it is salty, seawater has splashed in
 ```
 
-For the general method see [Basic Survival Skills – Solar still](../../../docs/03-野外生存/00-基础生存技能.md#太阳能蒸馏器最后手段).
+For the general method see [Basic Survival Skills – Solar still](00-basic-survival-skills.md#solar-still-last-resort).
 
 **Distilling seawater over a fire**:
 ```
@@ -268,7 +268,7 @@ Other clues:
   the tide cannot reach
 ```
 
-For purifying water see [Basic Survival Skills – Water purification](../../../docs/03-野外生存/00-基础生存技能.md#水质净化); for rainwater collection when staying long-term see [Water Engineering and Supply – Collecting rainwater](../../../docs/07-日常生活技能/10-水源工程与供水.md#收集雨水).
+For purifying water see [Basic Survival Skills – Water purification](00-basic-survival-skills.md#water-purification); for rainwater collection when staying long-term see [Water Engineering and Supply – Collecting rainwater](../../../docs/07-日常生活技能/10-水源工程与供水.md#收集雨水).
 
 **⚠️ Never**:
 ```
@@ -299,7 +299,7 @@ For purifying water see [Basic Survival Skills – Water purification](../../../
 ❌ No alcohol, no smoking
 ```
 
-For recognising dehydration see [Common Illnesses – Recognising dehydration](../../../docs/01-日常疾病和伤害/01-常见疾病.md#脱水症状识别).
+For recognising dehydration see [Common Illnesses – Recognising dehydration](../01-first-aid-and-family-health/01-common-illnesses.md#recognising-dehydration).
 
 ## Shelter
 
@@ -388,7 +388,7 @@ Where to sleep:
   in the tropics mosquitoes may carry malaria and dengue
 ```
 
-For building methods and knots see [Basic Survival Skills – Building shelters](../../../docs/03-野外生存/00-基础生存技能.md#庇护所建造) and [Rope and Knots](../../../docs/07-日常生活技能/17-绳索与结绳.md).
+For building methods and knots see [Basic Survival Skills – Building shelters](00-basic-survival-skills.md#building-shelters) and [Rope and Knots](../../../docs/07-日常生活技能/17-绳索与结绳.md).
 
 ### Protection from storms and big waves
 
@@ -418,7 +418,7 @@ What to do:
    do not go to the beach to look
 ```
 
-For more on typhoons see [Weather Disasters – Typhoons/hurricanes](../../../docs/02-灾难应对/02-气象灾害.md#台风飓风); for storm surges and tsunamis see [Marine Disasters – Storm surge](../../../docs/02-灾难应对/03-海洋灾害.md#风暴潮) and [Marine Disasters – Tsunami](../../../docs/02-灾难应对/03-海洋灾害.md#海啸); for lightning see [Weather Disasters – Lightning safety outdoors](../../../docs/02-灾难应对/02-气象灾害.md#室外避雷).
+For more on typhoons see [Weather Disasters – Typhoons/hurricanes](../02-disaster-response/02-weather-disasters.md#typhoonshurricanes); for storm surges and tsunamis see [Marine Disasters – Storm surge](../02-disaster-response/03-ocean-disasters.md#storm-surges) and [Marine Disasters – Tsunami](../02-disaster-response/03-ocean-disasters.md#tsunamis); for lightning see [Weather Disasters – Lightning safety outdoors](../02-disaster-response/02-weather-disasters.md#lightning-safety-outdoors).
 
 ## Fire
 
@@ -474,7 +474,7 @@ Note:
 ⚠️ Keep the fire well away from the shelter's leaf roof so sparks cannot set it alight
 ```
 
-For methods of lighting a fire see [Basic Survival Skills – Fire-lighting methods](../../../docs/03-野外生存/00-基础生存技能.md#生火方法); for keeping embers see [Basic Survival Skills – Keeping embers alive](../../../docs/03-野外生存/00-基础生存技能.md#保存火种).
+For methods of lighting a fire see [Basic Survival Skills – Fire-lighting methods](00-basic-survival-skills.md#ways-to-make-fire); for keeping embers see [Basic Survival Skills – Keeping embers alive](00-basic-survival-skills.md#keeping-fire).
 
 ## Food
 
@@ -527,7 +527,7 @@ How to eat them:
 
 **Cone snails**: the pretty cone-shaped shells common on tropical reefs; the live snail inside can fire a venomous dart that can kill. **Never pick up any live cone-shaped snail by hand**.
 
-For red tides, shellfish poisoning and other toxic seafood see [Marine Disasters – Red tides and toxic seafood](../../../docs/02-灾难应对/03-海洋灾害.md#赤潮与有毒海产品).
+For red tides, shellfish poisoning and other toxic seafood see [Marine Disasters – Red tides and toxic seafood](../02-disaster-response/03-ocean-disasters.md#red-tides-and-toxic-seafood).
 
 **Fish**:
 ```
@@ -569,7 +569,7 @@ Handling:
   (see "Long-term survival")
 ```
 
-For pufferfish, ciguatera and the like see [Marine Disasters – Other toxic seafood](../../../docs/02-灾难应对/03-海洋灾害.md#其他有毒海产品); for stabs from fish fins and spines see "Dangers" in this chapter.
+For pufferfish, ciguatera and the like see [Marine Disasters – Other toxic seafood](../02-disaster-response/03-ocean-disasters.md#other-toxic-seafood); for stabs from fish fins and spines see "Dangers" in this chapter.
 
 **Crabs**:
 ```
@@ -656,7 +656,7 @@ Common:
   it is not safe for deadly poisonous plants and does not work for mushrooms
 ```
 
-For the limits of the edibility test see [Basic Survival Skills – Testing plants for edibility](../../../docs/03-野外生存/00-基础生存技能.md#可食植物测试); for wild greens and mushrooms see [Poisonous Mushrooms and Wild Plant Poisoning](../../../docs/03-野外生存/09-毒蘑菇与野菜误食.md).
+For the limits of the edibility test see [Basic Survival Skills – Testing plants for edibility](00-basic-survival-skills.md#edibility-test-for-plants); for wild greens and mushrooms see [Poisonous Mushrooms and Wild Plant Poisoning](09-poisonous-mushrooms-and-wild-plants.md).
 
 **Insects**:
 ```
@@ -761,7 +761,7 @@ How to make large letters visible from the air:
 - Check and repair them after high tides, strong wind and rain
 ```
 
-For the meanings of ground-to-air signals see [Basic Survival Skills – Ground-to-air signals](../../../docs/03-野外生存/00-基础生存技能.md#地面对空信号).
+For the meanings of ground-to-air signals see [Basic Survival Skills – Ground-to-air signals](00-basic-survival-skills.md#ground-to-air-signals).
 
 **Sound**:
 ```
@@ -813,7 +813,7 @@ For the meanings of ground-to-air signals see [Basic Survival Skills – Ground-
    clearly visible, and you have a reliable flotation aid
 ```
 
-For what to do while waiting for rescue at sea see [Marine Disasters – Waiting for rescue](../../../docs/02-灾难应对/03-海洋灾害.md#等待救援).
+For what to do while waiting for rescue at sea see [Marine Disasters – Waiting for rescue](../02-disaster-response/03-ocean-disasters.md#waiting-for-rescue).
 
 ## Dangers
 
@@ -844,7 +844,7 @@ More:
   consider a tourniquet
 ```
 
-For stopping bleeding see [Basic First Aid – Methods of stopping bleeding](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#止血方法).
+For stopping bleeding see [Basic First Aid – Methods of stopping bleeding](../01-first-aid-and-family-health/00-basic-first-aid.md#stopping-bleeding).
 
 **Venomous creatures**:
 ```
@@ -885,7 +885,7 @@ Prevention:
 ✓ Jellyfish washed up on the shore can still sting with their tentacles, even when dead
 ```
 
-For snakebites see [Wound and Injury Care – Snakebites](../../../docs/01-日常疾病和伤害/02-外伤处理.md#蛇咬伤); for allergic reactions see [Acute Symptoms – Allergic reactions](../../../docs/01-日常疾病和伤害/05-急性症状.md#过敏反应); for foreign bodies in the body see [Wound and Injury Care – Puncture wounds](../../../docs/01-日常疾病和伤害/02-外伤处理.md#刺伤).
+For snakebites see [Wound and Injury Care – Snakebites](../01-first-aid-and-family-health/02-wounds-and-injuries.md#snakebites); for allergic reactions see [Acute Symptoms – Allergic reactions](../01-first-aid-and-family-health/05-acute-symptoms.md#allergic-reactions); for foreign bodies in the body see [Wound and Injury Care – Puncture wounds](../01-first-aid-and-family-health/02-wounds-and-injuries.md#puncture-wounds).
 
 **Dangers on land**:
 ```
@@ -904,7 +904,7 @@ More:
   in the tropics mosquitoes carry malaria and dengue
 ```
 
-For snakes and other dangerous animals in the wild see [Wasps, Ticks and Dangerous Animals](../../../docs/03-野外生存/10-马蜂蜱虫与危险动物.md).
+For snakes and other dangerous animals in the wild see [Wasps, Ticks and Dangerous Animals](10-wasps-ticks-and-dangerous-animals.md).
 
 ### The environment
 
@@ -941,7 +941,7 @@ Warning signs of heat illness:
   pour water over them, fan them) and call for help at the same time
 ```
 
-For treating sunburn see [Wound and Injury Care – Scalds and burns](../../../docs/01-日常疾病和伤害/02-外伤处理.md#烫伤与烧伤); for grading heat illness and cooling see [Acute Symptoms – Heatstroke](../../../docs/01-日常疾病和伤害/05-急性症状.md#中暑).
+For treating sunburn see [Wound and Injury Care – Scalds and burns](../01-first-aid-and-family-health/02-wounds-and-injuries.md#scalds-and-burns); for grading heat illness and cooling see [Acute Symptoms – Heatstroke](../01-first-aid-and-family-health/05-acute-symptoms.md#heatstroke).
 
 **Coral cuts and seawater wounds**:
 ```
@@ -967,7 +967,7 @@ What to do:
   do not walk barefoot on reefs, and do not let the waves push you onto the reef
 ```
 
-For wound care and signs of infection see [Wound and Injury Care – Cuts and grazes](../../../docs/01-日常疾病和伤害/02-外伤处理.md#割伤与擦伤) and [Treating and Evacuating Casualties in the Wild – Wounds](../../../docs/03-野外生存/11-野外伤病处置与转运.md#伤口); for tetanus see [Wound and Injury Care – Preventing tetanus](../../../docs/01-日常疾病和伤害/02-外伤处理.md#破伤风预防); for the dangers of seawater wounds see [Marine Disasters – Swimming and other precautions](../../../docs/02-灾难应对/03-海洋灾害.md#游泳和其他注意事项).
+For wound care and signs of infection see [Wound and Injury Care – Cuts and grazes](../01-first-aid-and-family-health/02-wounds-and-injuries.md#cuts-and-grazes) and [Treating and Evacuating Casualties in the Wild – Wounds](11-wilderness-casualty-care-and-evacuation.md#wounds); for tetanus see [Wound and Injury Care – Preventing tetanus](../01-first-aid-and-family-health/02-wounds-and-injuries.md#tetanus-prevention); for the dangers of seawater wounds see [Marine Disasters – Swimming and other precautions](../02-disaster-response/03-ocean-disasters.md#swimming-and-other-precautions).
 
 **Tides**:
 ```
@@ -998,7 +998,7 @@ Dangers linked to tides:
      float first, then swim out sideways, parallel to the shore
 ```
 
-For recognising and escaping rip currents see [Marine Disasters – Rip currents](../../../docs/02-灾难应对/03-海洋灾害.md#离岸流); for tides and being cut off by the tide see [Marine Disasters – Shore gathering and being cut off by the tide](../../../docs/02-灾难应对/03-海洋灾害.md#赶海与退潮被困); for dangers on rocks see [Marine Disasters – On rocks and at the shore](../../../docs/02-灾难应对/03-海洋灾害.md#礁石和海岸边).
+For recognising and escaping rip currents see [Marine Disasters – Rip currents](../02-disaster-response/03-ocean-disasters.md#rip-currents); for tides and being cut off by the tide see [Marine Disasters – Shore gathering and being cut off by the tide](../02-disaster-response/03-ocean-disasters.md#gathering-shellfish-and-getting-cut-off-by-the-tide); for dangers on rocks see [Marine Disasters – On rocks and at the shore](../02-disaster-response/03-ocean-disasters.md#rocks-and-the-shoreline).
 
 ## Long-term survival
 
@@ -1064,7 +1064,7 @@ In practice:
   clean water to rehydrate
 ```
 
-For diarrhoea and rehydration see [Common Illnesses – Diarrhoea](../../../docs/01-日常疾病和伤害/01-常见疾病.md#腹泻); for where and how to make a latrine see [Sanitation](../../../docs/07-日常生活技能/03-卫生设施.md).
+For diarrhoea and rehydration see [Common Illnesses – Diarrhoea](../01-first-aid-and-family-health/01-common-illnesses.md#diarrhoea); for where and how to make a latrine see [Sanitation](../../../docs/07-日常生活技能/03-卫生设施.md).
 
 ```
 Mind:
@@ -1076,7 +1076,7 @@ Mind:
 - Mark the days: cut a notch in wood or a stone every day so you do not lose track of time
 ```
 
-For coping psychologically see [Mental Health](../../../docs/01-日常疾病和伤害/10-心理健康.md).
+For coping psychologically see [Mental Health](../01-first-aid-and-family-health/10-mental-health.md).
 
 ### Daily routine
 
@@ -1136,4 +1136,4 @@ The most important points:
 ---
 
 **Next chapter**: [Forest Survival](02-forest-survival.md)
-**Back**: [Chapter index](../../../docs/03-野外生存/README.md) | [Main contents](../../README.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

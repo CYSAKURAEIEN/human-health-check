@@ -32,7 +32,7 @@ This chapter pulls the first-aid methods of Part 1 together for the wilderness s
 For the first-aid techniques themselves, study the relevant chapters of Part 1 first.
 ```
 
-Related chapters: [Basic First Aid](../../../docs/01-日常疾病和伤害/00-基础急救知识.md).
+Related chapters: [Basic First Aid](../01-first-aid-and-family-health/00-basic-first-aid.md).
 
 ---
 
@@ -63,7 +63,7 @@ Related chapters: [Basic First Aid](../../../docs/01-日常疾病和伤害/00-�
      medicines they take
 ```
 
-Related chapters: [Basic First Aid – Assessing vital signs](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#生命体征评估), [CPR](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#心肺复苏cpr), [Stopping bleeding](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#止血方法), [Giving your location when calling for help](../../../docs/03-野外生存/07-户外出行准备与求救.md#报警求救-说清楚你在哪里).
+Related chapters: [Basic First Aid – Assessing vital signs](../01-first-aid-and-family-health/00-basic-first-aid.md#assessing-vital-signs), [CPR](../01-first-aid-and-family-health/00-basic-first-aid.md#cardiopulmonary-resuscitation-cpr), [Stopping bleeding](../01-first-aid-and-family-health/00-basic-first-aid.md#stopping-bleeding), [Giving your location when calling for help](07-trip-preparation-and-calling-for-help.md#calling-for-help-say-clearly-where-you-are).
 
 ---
 
@@ -167,7 +167,7 @@ Regular checks:
 ✓ Record consciousness, breathing and pulse regularly in the casualty record
 ```
 
-For treating hypothermia, see [River Crossing, Flash Floods and Hypothermia – Not only in winter: hypothermia outdoors](../../../docs/03-野外生存/08-涉水山洪与野外失温.md#不只是冬天-野外失温); for treating shock, see [Basic First Aid – Managing shock](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#休克处理).
+For treating hypothermia, see [River Crossing, Flash Floods and Hypothermia – Not only in winter: hypothermia outdoors](08-river-crossing-flash-floods-and-hypothermia.md#not-only-in-winter-hypothermia-outdoors); for treating shock, see [Basic First Aid – Managing shock](../01-first-aid-and-family-health/00-basic-first-aid.md#managing-shock).
 
 ---
 
@@ -203,9 +203,9 @@ Fingers, toes:
   and re-tie
 ```
 
-For splinting each part of the body, see [Bone and Joint Injuries – Splinting each part of the body](../../../docs/01-日常疾病和伤害/03-骨骼损伤.md#各部位固定方法).
+For splinting each part of the body, see [Bone and Joint Injuries – Splinting each part of the body](../01-first-aid-and-family-health/03-bone-and-joint-injuries.md#immobilising-each-part-of-the-body).
 
-⚠️ Do not try to put dislocations or fractures back in place yourself (see [Bone and Joint Injuries – Reduction](../../../docs/01-日常疾病和伤害/03-骨骼损伤.md#复位)).
+⚠️ Do not try to put dislocations or fractures back in place yourself (see [Bone and Joint Injuries – Reduction](../01-first-aid-and-family-health/03-bone-and-joint-injuries.md#reduction-putting-the-joint-back)).
 
 ---
 
@@ -229,7 +229,7 @@ A milder sprain, when you need to walk out:
 5. Companions carry the rucksack; slow down and rest often
 ```
 
-For grading and treating sprains, see [Bone and Joint Injuries – Sprains](../../../docs/01-日常疾病和伤害/03-骨骼损伤.md#扭伤).
+For grading and treating sprains, see [Bone and Joint Injuries – Sprains](../01-first-aid-and-family-health/03-bone-and-joint-injuries.md#sprains).
 
 ### Blisters on the feet
 
@@ -271,7 +271,7 @@ The most important thing for a wound outdoors is irrigation:
    soon as possible
 ```
 
-Related chapters: [Wound and Injury Care – Cuts and grazes](../../../docs/01-日常疾病和伤害/02-外伤处理.md#割伤与擦伤), [Wound and Injury Care – Tetanus prevention](../../../docs/01-日常疾病和伤害/02-外伤处理.md#破伤风预防).
+Related chapters: [Wound and Injury Care – Cuts and grazes](../01-first-aid-and-family-health/02-wounds-and-injuries.md#cuts-and-grazes), [Wound and Injury Care – Tetanus prevention](../01-first-aid-and-family-health/02-wounds-and-injuries.md#tetanus-prevention).
 
 ### Diarrhoea and vomiting
 
@@ -283,13 +283,13 @@ Related chapters: [Wound and Injury Care – Cuts and grazes](../../../docs/01-�
   the trip and get medical help as soon as possible
 ```
 
-Related chapters: [Common Illnesses – Diarrhoea](../../../docs/01-日常疾病和伤害/01-常见疾病.md#腹泻), [Basic Survival Skills – Finding and purifying water](../../../docs/03-野外生存/00-基础生存技能.md#水源获取与净化).
+Related chapters: [Common Illnesses – Diarrhoea](../01-first-aid-and-family-health/01-common-illnesses.md#diarrhoea), [Basic Survival Skills – Finding and purifying water](00-basic-survival-skills.md#finding-and-purifying-water).
 
 ### Altitude sickness, heatstroke, hypothermia
 
 All three can be life-threatening in the wild, and the most important treatment for each is **stopping in time and getting out in time**: descend when altitude sickness gets worse, cool down for heatstroke, warm up for hypothermia.
 
-Related chapters: [Mountain Survival – Altitude sickness](../../../docs/03-野外生存/05-山地求生.md#高原反应), [Acute Symptoms – Heatstroke](../../../docs/01-日常疾病和伤害/05-急性症状.md#中暑), [Acute Symptoms – Hypothermia](../../../docs/01-日常疾病和伤害/05-急性症状.md#失温症).
+Related chapters: [Mountain Survival – Altitude sickness](05-mountain-survival.md#altitude-sickness), [Acute Symptoms – Heatstroke](../01-first-aid-and-family-health/05-acute-symptoms.md#heatstroke), [Acute Symptoms – Hypothermia](../01-first-aid-and-family-health/05-acute-symptoms.md#hypothermia).
 
 ---
 
@@ -320,7 +320,7 @@ Needing a stretcher:
    the spot (rockfall, fire, water); wait for professional rescue
 ```
 
-For carrying methods and how to make an improvised stretcher, see [Basic First Aid – Moving a casualty](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#搬运伤员).
+For carrying methods and how to make an improvised stretcher, see [Basic First Aid – Moving a casualty](../01-first-aid-and-family-health/00-basic-first-aid.md#moving-a-casualty).
 
 ![Moving a casualty: two-person seat carry, rucksack carry, blanket stretcher and clothing stretcher; head first uphill, feet first downhill; do not move anyone with a suspected spinal injury; a soft stretcher must not be used for spinal injuries](../../images/casualty-carry.svg)
 
@@ -403,4 +403,4 @@ Other:
 
 ---
 
-**Back**: [Chapter index](../../../docs/03-野外生存/README.md) | [Main contents](../../README.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

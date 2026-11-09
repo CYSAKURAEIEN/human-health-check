@@ -145,7 +145,7 @@ to stand in a doorway.
 - Take cover where you are
 - After the quake, evacuate by the stairs
 
-Tall buildings sway more, and for longer, than low floors. Bookcases, televisions and even fridges can be thrown across the room, so find an interior corner or solid furniture nearby and take cover. Do not rush for the stairs while it is shaking; the stairwell is often the place that shakes worst and is most crowded. Before going downstairs after the quake, check whether the stairs are visibly broken; if you meet smoke, follow [Escaping a fire](../../../docs/02-灾难应对/04-火灾.md#火场逃生).
+Tall buildings sway more, and for longer, than low floors. Bookcases, televisions and even fridges can be thrown across the room, so find an interior corner or solid furniture nearby and take cover. Do not rush for the stairs while it is shaking; the stairwell is often the place that shakes worst and is most crowded. Before going downstairs after the quake, check whether the stairs are visibly broken; if you meet smoke, follow [Escaping a fire](04-fire.md#escaping-from-a-fire).
 
 **In a lift** (if you happen to be in a lift during an earthquake):
 
@@ -190,7 +190,7 @@ On the playground: crouch where you are and protect your head; keep away from bu
 tall objects such as basketball hoops
 ```
 
-Parents should find out in advance about the school's emergency arrangements and where to collect children; see [Emergency communication and finding family – family communication plan](../../../docs/02-灾难应对/06-应急通信与寻亲.md#灾前-家庭通信计划). **Do not all rush into the school after the quake**: it blocks evacuation and rescue routes.
+Parents should find out in advance about the school's emergency arrangements and where to collect children; see [Emergency communication and finding family – family communication plan](06-emergency-communication-and-family-reunification.md#before-a-disaster-family-communication-plan). **Do not all rush into the school after the quake**: it blocks evacuation and rescue routes.
 
 #### Outdoors
 
@@ -290,7 +290,7 @@ warning; start heading for high ground on your own.
 If you see the sea suddenly draw back a long way, likewise evacuate at once.
 ```
 
-For detailed tsunami response see [Ocean disasters – Tsunamis](../../../docs/02-灾难应对/03-海洋灾害.md#海啸).
+For detailed tsunami response see [Ocean disasters – Tsunamis](03-ocean-disasters.md#tsunamis).
 
 ### ❌ What not to do during an earthquake
 
@@ -321,7 +321,7 @@ Once the shaking stops, **people in buildings should get out to open ground quic
 - Do not move the seriously injured (unless they are in danger)
 ```
 
-For severe bleeding, apply pressure first; see [Basic first aid – Stopping bleeding](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#止血方法). Do not move anyone you suspect has a spinal injury (neck or back pain, numb or weak hands and feet) unless necessary; see [Bone injuries – Spinal fractures](../../../docs/01-日常疾病和伤害/03-骨骼损伤.md#脊柱骨折极其危险).
+For severe bleeding, apply pressure first; see [Basic first aid – Stopping bleeding](../01-first-aid-and-family-health/00-basic-first-aid.md#stopping-bleeding). Do not move anyone you suspect has a spinal injury (neck or back pain, numb or weak hands and feet) unless necessary; see [Bone injuries – Spinal fractures](../01-first-aid-and-family-health/03-bone-and-joint-injuries.md#spinal-fracture-extremely-dangerous).
 
 **2. Check for hazards**:
 ```
@@ -342,7 +342,7 @@ For severe bleeding, apply pressure first; see [Basic first aid – Stopping ble
   * Put out small fires at once; if the fire spreads, leave and call 119
 ```
 
-For full handling of gas leaks see [Fire – Gas leaks](../../../docs/02-灾难应对/04-火灾.md#燃气泄漏); for how to restore power safely once supply returns see [Household electrical safety – Restoring power after a disaster](../../../docs/07-日常生活技能/08-家庭用电安全.md#灾后恢复用电).
+For full handling of gas leaks see [Fire – Gas leaks](04-fire.md#gas-leaks); for how to restore power safely once supply returns see [Household electrical safety – Restoring power after a disaster](../../../docs/07-日常生活技能/08-家庭用电安全.md#灾后恢复用电).
 
 **3. Be ready for aftershocks**:
 ```
@@ -376,7 +376,7 @@ For full handling of gas leaks see [Fire – Gas leaks](../../../docs/02-灾难�
 - When you arrive, tell your family you are safe as agreed
 ```
 
-For how family members contact each other, agree on meeting points and search for each other, see [Emergency communication and finding family](../../../docs/02-灾难应对/06-应急通信与寻亲.md).
+For how family members contact each other, agree on meeting points and search for each other, see [Emergency communication and finding family](06-emergency-communication-and-family-reunification.md).
 
 #### When can you go back inside?
 
@@ -473,9 +473,9 @@ Avoid:
      you stay alert and hopeful
 ```
 
-⚠️ **If your hands, feet or body are pinned under something heavy for a long time**: do not struggle desperately to free yourself. When you are rescued, suddenly releasing a limb that has been crushed for a long time can cause **crush syndrome**, with a risk of abnormal heart rhythm, kidney failure and even sudden death. Make sure the rescuers know how long you have been pinned. See [Bone injuries – Crush injuries](../../../docs/01-日常疾病和伤害/03-骨骼损伤.md#挤压伤).
+⚠️ **If your hands, feet or body are pinned under something heavy for a long time**: do not struggle desperately to free yourself. When you are rescued, suddenly releasing a limb that has been crushed for a long time can cause **crush syndrome**, with a risk of abnormal heart rhythm, kidney failure and even sudden death. Make sure the rescuers know how long you have been pinned. See [Bone injuries – Crush injuries](../01-first-aid-and-family-health/03-bone-and-joint-injuries.md#crush-injury).
 
-For more ways of signalling for help see [Disaster response – Distress signals](../../../docs/02-灾难应对/README.md#-求救信号); for ways to communicate when the signal is weak see [Emergency communication and finding family – During a disaster](../../../docs/02-灾难应对/06-应急通信与寻亲.md#灾中-怎样让消息发出去).
+For more ways of signalling for help see [Disaster response – Distress signals](README.md#-distress-signals); for ways to communicate when the signal is weak see [Emergency communication and finding family – During a disaster](06-emergency-communication-and-family-reunification.md#during-a-disaster-getting-your-message-out).
 
 #### Principles for rescuing others
 
@@ -527,9 +527,9 @@ After getting them out:
 - When a professional rescue team arrives, follow their instructions
 ```
 
-⚠️ **For someone pinned under something heavy for a long time (generally more than about 1 hour), wait if at all possible for professional rescuers before moving the weight**: they give the casualty fluids first and then release the pressure, which greatly reduces the risk of death from crush syndrome. Only move the weight yourself when the person must be got out at once (for example aftershocks or fire); for care after the weight is removed see [Bone injuries – Crush injuries](../../../docs/01-日常疾病和伤害/03-骨骼损伤.md#挤压伤).
+⚠️ **For someone pinned under something heavy for a long time (generally more than about 1 hour), wait if at all possible for professional rescuers before moving the weight**: they give the casualty fluids first and then release the pressure, which greatly reduces the risk of death from crush syndrome. Only move the weight yourself when the person must be got out at once (for example aftershocks or fire); for care after the weight is removed see [Bone injuries – Crush injuries](../01-first-aid-and-family-health/03-bone-and-joint-injuries.md#crush-injury).
 
-If you cannot find relatives and need to register a missing person, see [Emergency communication and finding family – How to search after being separated](../../../docs/02-灾难应对/06-应急通信与寻亲.md#家人失散后怎样寻找); for handling those who died see [Handling the dead after disasters](../../../docs/02-灾难应对/07-灾后遗体处理.md); for how to care for family members and children frightened by the quake see [Mental health – Psychological first aid](../../../docs/01-日常疾病和伤害/10-心理健康.md#心理急救-怎样帮助身边的人).
+If you cannot find relatives and need to register a missing person, see [Emergency communication and finding family – How to search after being separated](06-emergency-communication-and-family-reunification.md#finding-family-members-after-you-are-separated); for handling those who died see [Handling the dead after disasters](07-handling-the-dead-after-disasters.md); for how to care for family members and children frightened by the quake see [Mental health – Psychological first aid](../01-first-aid-and-family-health/10-mental-health.md#psychological-first-aid-how-to-help-people-around-you).
 
 ### Earthquake safety preparation
 
@@ -569,10 +569,10 @@ How:
 **Safe spots at home**: go through each room together as a family and find where you can take cover (under a solid table, in an interior corner) and where is dangerous (by windows, beside cabinets, under ceiling lights). Let children actually crawl under the table and try it.
 
 **Emergency supplies**:
-- See [Family emergency kit](../../../docs/02-灾难应对/README.md#-家庭应急包)
+- See [Family emergency kit](README.md#-family-emergency-kit)
 - Keep them by the door, in the car and at work
 
-In earthquake-prone areas you can add to the emergency kit: a whistle (one per person), gloves, face masks, sturdy shoes, a hard hat or helmet, and a tent or tarpaulin (you may live outdoors for a while after the quake). People with chronic illnesses should keep enough of their regular medicines; see [Chronic medication stockpile](../../../docs/01-日常疾病和伤害/08-慢性病用药储备.md). Keep the emergency kit by the door where you can grab it in one go; check it every six months and replace water, food and batteries that are out of date.
+In earthquake-prone areas you can add to the emergency kit: a whistle (one per person), gloves, face masks, sturdy shoes, a hard hat or helmet, and a tent or tarpaulin (you may live outdoors for a while after the quake). People with chronic illnesses should keep enough of their regular medicines; see [Chronic medication stockpile](../01-first-aid-and-family-health/08-chronic-medication-stockpile.md). Keep the emergency kit by the door where you can grab it in one go; check it every six months and replace water, food and batteries that are out of date.
 
 **Make a plan**:
 - Where to take cover
@@ -597,7 +597,7 @@ An earthquake family plan should make clear:
    babies and young children): name one person to be responsible for each
 ```
 
-For how to write a family communication plan and meeting points, and how to search for people, see [Emergency communication and finding family – Family communication plan](../../../docs/02-灾难应对/06-应急通信与寻亲.md#灾前-家庭通信计划); for the full family emergency plan see [Disaster response – Family emergency plan](../../../docs/02-灾难应对/README.md#-家庭应急计划). Find out in advance where your neighbourhood's emergency shelter is (it often has a green sign).
+For how to write a family communication plan and meeting points, and how to search for people, see [Emergency communication and finding family – Family communication plan](06-emergency-communication-and-family-reunification.md#before-a-disaster-family-communication-plan); for the full family emergency plan see [Disaster response – Family emergency plan](README.md#-family-emergency-plan). Find out in advance where your neighbourhood's emergency shelter is (it often has a green sign).
 
 **Regular drills**:
 - Family earthquake drill
@@ -718,7 +718,7 @@ In the rainy season:
 ✓ Agree the village's danger signals (gong, whistle, loudspeaker) in advance
 ```
 
-For more principles on choosing a campsite and on dealing with flash floods see [River crossings, flash floods and hypothermia in the wild](../../../docs/03-野外生存/08-涉水山洪与野外失温.md#山洪-溪谷里最大的危险); for choosing a site for a long-term home see [Long-term housing – Choosing a site](../../../docs/07-日常生活技能/05-长期住所.md#选址).
+For more principles on choosing a campsite and on dealing with flash floods see [River crossings, flash floods and hypothermia in the wild](../03-wilderness-survival/08-river-crossing-flash-floods-and-hypothermia.md#flash-floods-the-biggest-danger-in-stream-valleys); for choosing a site for a long-term home see [Long-term housing – Choosing a site](../../../docs/07-日常生活技能/05-长期住所.md#选址).
 
 #### When it happens
 

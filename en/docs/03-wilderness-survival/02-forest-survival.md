@@ -2,7 +2,7 @@
 
 The commonest dangers in a forest are not wild animals but **getting lost, nightfall, hypothermia from getting soaked, and falls**. In a forest you can see only a few tens of metres, the trees all look alike, the sun is often hidden by the canopy, and it is easy to walk in circles without noticing. This chapter covers how to keep yourself safe when lost or stranded in a forest until you are rescued or walk out.
 
-⚠️ Principles: call for help and wait for rescue first; do not take risks to press on; do not eat anything you do not recognise. For preparation before setting out and how to call for help see [Outdoor Trip Preparation and Calling for Help](../../../docs/03-野外生存/07-户外出行准备与求救.md).
+⚠️ Principles: call for help and wait for rescue first; do not take risks to press on; do not eat anything you do not recognise. For preparation before setting out and how to call for help see [Outdoor Trip Preparation and Calling for Help](07-trip-preparation-and-calling-for-help.md).
 
 ## Finding your direction
 
@@ -34,7 +34,7 @@ More:
   about turning back or spending the night 1–2 hours before dark
 ```
 
-For trip plans, turn-around times and equipment see [Outdoor Trip Preparation and Calling for Help – Before you set out](../../../docs/03-野外生存/07-户外出行准备与求救.md#出发前).
+For trip plans, turn-around times and equipment see [Outdoor Trip Preparation and Calling for Help – Before you set out](07-trip-preparation-and-calling-for-help.md#before-you-set-out).
 
 ### Already lost
 
@@ -78,7 +78,7 @@ Principles:
       or into water at night is far greater than spending a night where you are
 ```
 
-For how to call the police and describe your location see [Outdoor Trip Preparation and Calling for Help – Calling for help](../../../docs/03-野外生存/07-户外出行准备与求救.md#报警求救-说清楚你在哪里); for distress signals see [Basic Survival Skills – Distress signals](../../../docs/03-野外生存/00-基础生存技能.md#求救信号).
+For how to call the police and describe your location see [Outdoor Trip Preparation and Calling for Help – Calling for help](07-trip-preparation-and-calling-for-help.md#calling-for-help-say-clearly-where-you-are); for distress signals see [Basic Survival Skills – Distress signals](00-basic-survival-skills.md#distress-signals).
 
 ### Stay put or move?
 
@@ -113,7 +113,7 @@ While you wait:
 
 *Figure: searchers work along your planned route and from your last known position, and a moving target is hard to find; tree crowns, growth rings and moss are not reliable for finding direction*
 
-For keeping warm and looking after yourself while waiting for rescue see [Outdoor Trip Preparation and Calling for Help – Waiting for rescue](../../../docs/03-野外生存/07-户外出行准备与求救.md#等待救援).
+For keeping warm and looking after yourself while waiting for rescue see [Outdoor Trip Preparation and Calling for Help – Waiting for rescue](07-trip-preparation-and-calling-for-help.md#waiting-for-rescue).
 
 **Taking children into the hills**:
 ```
@@ -150,7 +150,7 @@ Using a direction in the forest:
    recheck every half hour
 ```
 
-For the compass, watch method, shadow stick and Pole Star in detail see [Basic Survival Skills – Navigation and orientation](../../../docs/03-野外生存/00-基础生存技能.md#导航与定向); for using a map and compass together see [Outdoor Trip Preparation and Calling for Help – Using a map and compass](../../../docs/03-野外生存/07-户外出行准备与求救.md#用地图和指南针); for more precise astronomical direction-finding and magnetic declination see [Advanced Celestial Navigation](../../../docs/09-进阶科学与工程/09-天文导航进阶.md#二精确定方向).
+For the compass, watch method, shadow stick and Pole Star in detail see [Basic Survival Skills – Navigation and orientation](00-basic-survival-skills.md#navigation-and-orientation); for using a map and compass together see [Outdoor Trip Preparation and Calling for Help – Using a map and compass](07-trip-preparation-and-calling-for-help.md#using-a-map-and-compass); for more precise astronomical direction-finding and magnetic declination see [Advanced Celestial Navigation](../../../docs/09-进阶科学与工程/09-天文导航进阶.md#二精确定方向).
 
 ### Why tree crowns, growth rings and moss are unreliable
 
@@ -233,7 +233,7 @@ When collecting water:
 ❌ Do not go to a stream for water when there are signs of a flash flood
 ```
 
-For signs of a flash flood see [Wading, Flash Floods and Hypothermia in the Wild – Warning signs of a flash flood](../../../docs/03-野外生存/08-涉水山洪与野外失温.md#山洪来临的征兆).
+For signs of a flash flood see [Wading, Flash Floods and Hypothermia in the Wild – Warning signs of a flash flood](08-river-crossing-flash-floods-and-hypothermia.md#signs-that-a-flash-flood-is-coming).
 
 **Purification**:
 ```
@@ -258,7 +258,7 @@ Why even clear forest streams must be purified:
   have walked out from walking out
 ```
 
-For details of each purification method see [Basic Survival Skills – Water purification](../../../docs/03-野外生存/00-基础生存技能.md#水质净化). For rehydration if diarrhoea starts see [Treating and Evacuating Casualties in the Wild – Diarrhoea and vomiting](../../../docs/03-野外生存/11-野外伤病处置与转运.md#腹泻呕吐).
+For details of each purification method see [Basic Survival Skills – Water purification](00-basic-survival-skills.md#water-purification). For rehydration if diarrhoea starts see [Treating and Evacuating Casualties in the Wild – Diarrhoea and vomiting](11-wilderness-casualty-care-and-evacuation.md#diarrhoea-and-vomiting).
 
 ## Shelter
 
@@ -299,7 +299,7 @@ There is plenty of material in a forest, but the main problems are **damp ground
 ❌ Do not shelter under big trees, under rock overhangs or in shallow cave mouths
 ```
 
-For lightning in detail see [Weather Disasters – Lightning safety outdoors](../../../docs/02-灾难应对/02-气象灾害.md#室外避雷) and [Mountain Survival – Lightning](../../../docs/03-野外生存/05-山地求生.md#雷电); for general principles of choosing a campsite see [Wading, Flash Floods and Hypothermia in the Wild – Choosing a campsite](../../../docs/03-野外生存/08-涉水山洪与野外失温.md#露营选址).
+For lightning in detail see [Weather Disasters – Lightning safety outdoors](../02-disaster-response/02-weather-disasters.md#lightning-safety-outdoors) and [Mountain Survival – Lightning](05-mountain-survival.md#lightning); for general principles of choosing a campsite see [Wading, Flash Floods and Hypothermia in the Wild – Choosing a campsite](08-river-crossing-flash-floods-and-hypothermia.md#choosing-a-campsite).
 
 ### Natural shelters
 
@@ -367,7 +367,7 @@ Use:
   branches; it works far better than leaves alone
 ```
 
-For other kinds of shelter see [Basic Survival Skills – Building shelters](../../../docs/03-野外生存/00-基础生存技能.md#庇护所建造).
+For other kinds of shelter see [Basic Survival Skills – Building shelters](00-basic-survival-skills.md#building-shelters).
 
 ### Keeping dry and warm
 
@@ -386,7 +386,7 @@ For other kinds of shelter see [Basic Survival Skills – Building shelters](../
   hypothermia; deal with it at once
 ```
 
-For recognising and treating hypothermia see [Wading, Flash Floods and Hypothermia in the Wild – Not only in winter: hypothermia in the wild](../../../docs/03-野外生存/08-涉水山洪与野外失温.md#不只是冬天-野外失温).
+For recognising and treating hypothermia see [Wading, Flash Floods and Hypothermia in the Wild – Not only in winter: hypothermia in the wild](08-river-crossing-flash-floods-and-hypothermia.md#not-only-in-winter-hypothermia-outdoors).
 
 ## Fire
 
@@ -448,7 +448,7 @@ There is plenty of wood in a forest, but **forest fire is the biggest man-made d
      only add the next size once the previous one is burning well
 ```
 
-For fire-lighting methods and fire lays see [Basic Survival Skills – Fire-making techniques](../../../docs/03-野外生存/00-基础生存技能.md#生火技术).
+For fire-lighting methods and fire lays see [Basic Survival Skills – Fire-making techniques](00-basic-survival-skills.md#making-fire).
 
 ### Preventing forest fires
 
@@ -482,7 +482,7 @@ For fire-lighting methods and fire lays see [Basic Survival Skills – Fire-maki
 ❌ Do not stop to take photos or watch, or go back for belongings
 ```
 
-For escaping and saving yourself when surrounded by fire see [Fire – Forest fires](../../../docs/02-灾难应对/04-火灾.md#森林火灾).
+For escaping and saving yourself when surrounded by fire see [Fire – Forest fires](../02-disaster-response/04-fire.md#forest-fires).
 
 ## Food
 
@@ -541,7 +541,7 @@ Only if you cannot be rescued for a long time do you need to get food from the f
    and Wild Plant Poisoning)
 ```
 
-Related chapter: [Poisonous Mushrooms and Wild Plant Poisoning](../../../docs/03-野外生存/09-毒蘑菇与野菜误食.md).
+Related chapter: [Poisonous Mushrooms and Wild Plant Poisoning](09-poisonous-mushrooms-and-wild-plants.md).
 
 ```
 ⚠️ About the "edibility test":
@@ -552,7 +552,7 @@ Related chapter: [Poisonous Mushrooms and Wild Plant Poisoning](../../../docs/03
   about to collapse from hunger; do not use it when stranded for a short time
 ```
 
-For why folk methods of telling mushrooms apart are unreliable, and poisonous plants that are easily mistaken for edible ones, see [Poisonous Mushrooms and Wild Plant Poisoning](../../../docs/03-野外生存/09-毒蘑菇与野菜误食.md#毒蘑菇-没有简单的鉴别方法); for the limits of the edibility test see [Poisonous Mushrooms and Wild Plant Poisoning – About the "edibility test"](../../../docs/03-野外生存/09-毒蘑菇与野菜误食.md#关于可食性测试).
+For why folk methods of telling mushrooms apart are unreliable, and poisonous plants that are easily mistaken for edible ones, see [Poisonous Mushrooms and Wild Plant Poisoning](09-poisonous-mushrooms-and-wild-plants.md#poisonous-mushrooms-there-is-no-simple-test); for the limits of the edibility test see [Poisonous Mushrooms and Wild Plant Poisoning – About the "edibility test"](09-poisonous-mushrooms-and-wild-plants.md#about-the-edibility-test).
 
 ### Animal protein
 
@@ -635,7 +635,7 @@ situations such as civilisation collapse or being unable to be rescued for a lon
 Being lost for a few days waiting for rescue does not call for hunting.
 ```
 
-For general methods of collecting insects and fishing see [Basic Survival Skills – Getting food](../../../docs/03-野外生存/00-基础生存技能.md#食物获取); for raising animals and fisheries in long-term survival see [Aquaculture](../../../docs/04-动植物培育/07-水产养殖.md).
+For general methods of collecting insects and fishing see [Basic Survival Skills – Getting food](00-basic-survival-skills.md#getting-food); for raising animals and fisheries in long-term survival see [Aquaculture](../../../docs/04-动植物培育/07-水产养殖.md).
 
 ## Dangers
 
@@ -698,7 +698,7 @@ More on meeting a bear:
   deep and heavily contaminated and need cleaning out, a tetanus jab and rabies vaccine
 ```
 
-For preventing and dealing with wild boar, dogs, monkeys and snakes see [Wasps, Ticks and Dangerous Animals](../../../docs/03-野外生存/10-马蜂蜱虫与危险动物.md); for treating snakebite see [Wound and Injury Care – Snakebites](../../../docs/01-日常疾病和伤害/02-外伤处理.md#蛇咬伤); for animal bites and preventing rabies see [Wound and Injury Care – Bites](../../../docs/01-日常疾病和伤害/02-外伤处理.md#咬伤).
+For preventing and dealing with wild boar, dogs, monkeys and snakes see [Wasps, Ticks and Dangerous Animals](10-wasps-ticks-and-dangerous-animals.md); for treating snakebite see [Wound and Injury Care – Snakebites](../01-first-aid-and-family-health/02-wounds-and-injuries.md#snakebites); for animal bites and preventing rabies see [Wound and Injury Care – Bites](../01-first-aid-and-family-health/02-wounds-and-injuries.md#bites).
 
 **Insects**:
 ```
@@ -720,7 +720,7 @@ For preventing and dealing with wild boar, dogs, monkeys and snakes see [Wasps, 
   tuck your trouser legs into your socks
 ```
 
-For preventing and treating wasp stings, ticks and land leeches see [Wasps, Ticks and Dangerous Animals](../../../docs/03-野外生存/10-马蜂蜱虫与危险动物.md).
+For preventing and treating wasp stings, ticks and land leeches see [Wasps, Ticks and Dangerous Animals](10-wasps-ticks-and-dangerous-animals.md).
 
 ### Plants
 
@@ -758,7 +758,7 @@ After touching a poisonous plant:
    call for help at once and keep the leftover plant to show the doctor
 ```
 
-For poisonous plants that are easily mistaken for edible ones and what to do after eating one see [Poisonous Mushrooms and Wild Plant Poisoning – Poisonous plants easily mistaken for edible ones](../../../docs/03-野外生存/09-毒蘑菇与野菜误食.md#容易认错的有毒植物); for a point-by-point comparison of Gelsemium, water hemlock and others with useful plants see [Comparison of easily confused poisonous plants](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#四易混淆的有毒植物对照); for general treatment of poisoning see [Poisoning](../../../docs/01-日常疾病和伤害/12-中毒.md).
+For poisonous plants that are easily mistaken for edible ones and what to do after eating one see [Poisonous Mushrooms and Wild Plant Poisoning – Poisonous plants easily mistaken for edible ones](09-poisonous-mushrooms-and-wild-plants.md#poisonous-plants-that-are-easily-mistaken); for a point-by-point comparison of Gelsemium, water hemlock and others with useful plants see [Comparison of easily confused poisonous plants](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#四易混淆的有毒植物对照); for general treatment of poisoning see [Poisoning](../01-first-aid-and-family-health/12-poisoning.md).
 
 ### Illness
 
@@ -797,7 +797,7 @@ Some illnesses to watch for in forests:
    a forest area, tell the doctor where you have been
 ```
 
-For family prevention and control of infectious diseases see [Infectious Disease Control at Home](../../../docs/01-日常疾病和伤害/15-传染病家庭防控.md); for ticks in detail see [Wasps, Ticks and Dangerous Animals – Ticks](../../../docs/03-野外生存/10-马蜂蜱虫与危险动物.md#蜱虫).
+For family prevention and control of infectious diseases see [Infectious Disease Control at Home](../01-first-aid-and-family-health/15-infectious-disease-at-home.md); for ticks in detail see [Wasps, Ticks and Dangerous Animals – Ticks](10-wasps-ticks-and-dangerous-animals.md#ticks).
 
 ## Navigation
 
@@ -839,7 +839,7 @@ When following a river:
   go at once to high ground on either side
 ```
 
-For wading and flash floods see [Wading, Flash Floods and Hypothermia in the Wild](../../../docs/03-野外生存/08-涉水山洪与野外失温.md).
+For wading and flash floods see [Wading, Flash Floods and Hypothermia in the Wild](08-river-crossing-flash-floods-and-hypothermia.md).
 
 ### Climb high to look around
 
@@ -924,7 +924,7 @@ In temperate and cold-temperate forest:
   threat is hypothermia
 ```
 
-For moving and keeping warm in snow see [Snow and Polar Survival](../../../docs/03-野外生存/04-雪地极地求生.md); for treating immersion foot see [Wound and Injury Care – Chilblains and immersion foot (not frostbite)](../../../docs/01-日常疾病和伤害/02-外伤处理.md#冻疮与浸渍足不是冻伤); for heatstroke see [Treating and Evacuating Casualties in the Wild – Altitude sickness, heatstroke, hypothermia](../../../docs/03-野外生存/11-野外伤病处置与转运.md#高原反应中暑失温).
+For moving and keeping warm in snow see [Snow and Polar Survival](04-snow-and-polar-survival.md); for treating immersion foot see [Wound and Injury Care – Chilblains and immersion foot (not frostbite)](../01-first-aid-and-family-health/02-wounds-and-injuries.md#chilblains-and-immersion-foot-not-frostbite); for heatstroke see [Treating and Evacuating Casualties in the Wild – Altitude sickness, heatstroke, hypothermia](11-wilderness-casualty-care-and-evacuation.md#altitude-sickness-heatstroke-hypothermia).
 
 ## 📝 Forest survival: key points
 
@@ -962,5 +962,5 @@ when stranded for a short time, food can come last.
 
 ---
 
-**Next chapter**: [Desert Survival](../../../docs/03-野外生存/03-沙漠求生.md)
-**Back**: [Chapter index](../../../docs/03-野外生存/README.md) | [Main contents](../../README.md)
+**Next chapter**: [Desert Survival](03-desert-survival.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

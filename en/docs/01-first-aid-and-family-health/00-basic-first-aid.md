@@ -619,7 +619,7 @@ Shock means **the organs of the whole body are not getting enough blood and oxyg
 - Raising the legs: put a backpack, quilt or chair under the feet; if breathing becomes difficult or pain gets worse after raising them, lower them again
 - People with chest pain or difficulty breathing (possibly a heart problem) should not lie flat with legs raised; let them take the half-sitting position that is most comfortable
 - Keeping warm: **insulation underneath** matters more than covers on top (the ground draws away a lot of heat); but do not heat the skin directly with hot-water bottles
-- No drinks: they may well need an operation under anaesthetic, and people in shock vomit easily and may inhale it. If they are thirsty, moisten their lips with a damp cloth. For long waits in the wild when help cannot come, see [Wilderness Casualty Care and Evacuation](../../../docs/03-野外生存/11-野外伤病处置与转运.md#等待救援时照顾伤员)
+- No drinks: they may well need an operation under anaesthetic, and people in shock vomit easily and may inhale it. If they are thirsty, moisten their lips with a damp cloth. For long waits in the wild when help cannot come, see [Wilderness Casualty Care and Evacuation](../03-wilderness-survival/11-wilderness-casualty-care-and-evacuation.md#caring-for-the-casualty-while-waiting-for-rescue)
 - Do not let the casualty stand up, walk about or go to the toilet on their own - they may suddenly faint
 - Stay with them and reassure them; avoid saying things like "there's so much blood" - getting upset makes shock worse
 - Every 5 minutes, write down consciousness, breathing and pulse
@@ -646,7 +646,7 @@ More on each type:
 
 ## Moving a Casualty
 
-**Principle: if you can avoid moving them, do not; if you can wait for the ambulance, wait.** Moving someone the wrong way can make fractures and bleeding worse, and can even paralyse someone with a spinal injury. Only move a casualty if the scene is dangerous or moving them really is necessary to save their life. For long-distance evacuation in mountains or the wild, see [Wilderness Casualty Care and Evacuation - Moving a Casualty](../../../docs/03-野外生存/11-野外伤病处置与转运.md#搬运伤员).
+**Principle: if you can avoid moving them, do not; if you can wait for the ambulance, wait.** Moving someone the wrong way can make fractures and bleeding worse, and can even paralyse someone with a spinal injury. Only move a casualty if the scene is dangerous or moving them really is necessary to save their life. For long-distance evacuation in mountains or the wild, see [Wilderness Casualty Care and Evacuation - Moving a Casualty](../03-wilderness-survival/11-wilderness-casualty-care-and-evacuation.md#moving-the-casualty).
 
 ### When Not to Move Someone
 

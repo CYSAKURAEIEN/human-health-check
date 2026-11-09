@@ -63,7 +63,7 @@ Carbon monoxide has no colour and no smell. People are poisoned without noticing
    - Not responding and not breathing normally → start CPR immediately
 ```
 
-If you smell gas, see [Gas leaks](../../../docs/02-灾难应对/04-火灾.md#燃气泄漏); for CPR steps see [CPR](00-basic-first-aid.md#cardiopulmonary-resuscitation-cpr).
+If you smell gas, see [Gas leaks](../02-disaster-response/04-fire.md#gas-leaks); for CPR steps see [CPR](00-basic-first-aid.md#cardiopulmonary-resuscitation-cpr).
 
 ### ⚠️ See a doctor even if the person has come round
 
@@ -174,7 +174,7 @@ For stopping bleeding see [Bleeding control](00-basic-first-aid.md#stopping-blee
 - [ ] Torch
 ```
 
-For a fuller in-car emergency kit, see [Disaster response - In-car emergency kit](../../../docs/02-灾难应对/README.md#车载应急包).
+For a fuller in-car emergency kit, see [Disaster response - In-car emergency kit](../02-disaster-response/README.md#in-car-emergency-kit).
 
 ---
 

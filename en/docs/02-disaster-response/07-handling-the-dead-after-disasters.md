@@ -55,7 +55,7 @@ The risks you really do need to watch for:
    carrying them
 ```
 
-For disinfecting drinking water see [Basic Survival Skills – Finding water](../../../docs/03-野外生存/00-基础生存技能.md#水源获取与净化).
+For disinfecting drinking water see [Basic Survival Skills – Finding water](../03-wilderness-survival/00-basic-survival-skills.md#finding-and-purifying-water).
 
 ---
 
@@ -75,7 +75,7 @@ Carrying:
   there will not be a further collapse
 ```
 
-For treating injuries and preventing tetanus see [Wound and Injury Care – Tetanus prevention](../../../docs/01-日常疾病和伤害/02-外伤处理.md#破伤风预防).
+For treating injuries and preventing tetanus see [Wound and Injury Care – Tetanus prevention](../01-first-aid-and-family-health/02-wounds-and-injuries.md#tetanus-prevention).
 
 ---
 
@@ -169,7 +169,7 @@ The bodies of people who died of cholera, Ebola or other dangerous infectious di
 ✓ Items used by the deceased and their bodily wastes are treated with strong disinfectant
 ```
 
-For making up disinfectant see [Preventing Infectious Diseases at Home – Making household disinfectant](../../../docs/01-日常疾病和伤害/15-传染病家庭防控.md#家用消毒液的配制).
+For making up disinfectant see [Preventing Infectious Diseases at Home – Making household disinfectant](../01-first-aid-and-family-health/15-infectious-disease-at-home.md#making-household-disinfectant).
 
 ---
 
@@ -206,7 +206,7 @@ For people taking part in handling the dead:
   talk with your companions, and seek professional help if needed
 ```
 
-Related chapters: [Mental Health – Grief](../../../docs/01-日常疾病和伤害/10-心理健康.md#哀伤), [Mental Health – Psychological first aid](../../../docs/01-日常疾病和伤害/10-心理健康.md#心理急救-怎样帮助身边的人).
+Related chapters: [Mental Health – Grief](../01-first-aid-and-family-health/10-mental-health.md#grief), [Mental Health – Psychological first aid](../01-first-aid-and-family-health/10-mental-health.md#psychological-first-aid-how-to-help-people-around-you).
 
 ---
 
@@ -233,4 +233,4 @@ Related chapters: [Mental Health – Grief](../../../docs/01-日常疾病和伤�
 
 ---
 
-**Back**: [Chapter index](../../../docs/02-灾难应对/README.md) | [Main contents](../../README.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

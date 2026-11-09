@@ -27,7 +27,7 @@ Why these are especially deadly in the mountains:
   1000 m gained; snow reflects it as well
 ```
 
-Most mountain accidents are not "bad luck"; they come from poor preparation before setting out and refusing to turn back. For the trip plan, kit and turn-around time before you set out, see [Trip Preparation and Calling for Help](../../../docs/03-野外生存/07-户外出行准备与求救.md).
+Most mountain accidents are not "bad luck"; they come from poor preparation before setting out and refusing to turn back. For the trip plan, kit and turn-around time before you set out, see [Trip Preparation and Calling for Help](07-trip-preparation-and-calling-for-help.md).
 
 ## Altitude sickness
 
@@ -211,7 +211,7 @@ Severe:
    sitting up, and descend or wait for a helicopter as soon as you can
 ```
 
-Related chapters: [Wilderness Casualty Care and Evacuation – Moving the casualty](../../../docs/03-野外生存/11-野外伤病处置与转运.md#搬运伤员), [Helicopter rescue](../../../docs/03-野外生存/11-野外伤病处置与转运.md#直升机救援).
+Related chapters: [Wilderness Casualty Care and Evacuation – Moving the casualty](11-wilderness-casualty-care-and-evacuation.md#moving-the-casualty), [Helicopter rescue](11-wilderness-casualty-care-and-evacuation.md#helicopter-rescue).
 
 ### About medicines
 
@@ -229,7 +229,7 @@ Related chapters: [Wilderness Casualty Care and Evacuation – Moving the casual
 - No medicine replaces "go up slowly, and descend when symptoms get worse"
 ```
 
-For medicines that people with long-term conditions should prepare before a trip, see [Chronic Medication Stockpile](../../../docs/01-日常疾病和伤害/08-慢性病用药储备.md).
+For medicines that people with long-term conditions should prepare before a trip, see [Chronic Medication Stockpile](../01-first-aid-and-family-health/08-chronic-medication-stockpile.md).
 
 ## Water sources
 
@@ -270,7 +270,7 @@ More:
   bank to collect water, do not wade into fast water
 ```
 
-Related chapters: [Basic Survival Skills – Water purification](../../../docs/03-野外生存/00-基础生存技能.md#水质净化), [Snow and Polar Survival – Melting snow](../../../docs/03-野外生存/04-雪地极地求生.md#融雪).
+Related chapters: [Basic Survival Skills – Water purification](00-basic-survival-skills.md#water-purification), [Snow and Polar Survival – Melting snow](04-snow-and-polar-survival.md#melting-snow).
 
 ## Shelter
 
@@ -308,7 +308,7 @@ How to spot danger:
 ✓ Start looking for a camp 1-2 hours before dark; do not search in the dark
 ```
 
-For more on choosing a campsite, see [River Crossing, Flash Floods and Hypothermia – Choosing a campsite](../../../docs/03-野外生存/08-涉水山洪与野外失温.md#露营选址).
+For more on choosing a campsite, see [River Crossing, Flash Floods and Hypothermia – Choosing a campsite](08-river-crossing-flash-floods-and-hypothermia.md#choosing-a-campsite).
 
 ### Using the terrain
 
@@ -341,7 +341,7 @@ In practice:
 - Put on all your dry clothes and take off wet ones; huddle together
 ```
 
-For how to build shelters, see [Basic Survival Skills – Types of simple shelter](../../../docs/03-野外生存/00-基础生存技能.md#简易庇护所类型).
+For how to build shelters, see [Basic Survival Skills – Types of simple shelter](00-basic-survival-skills.md#types-of-simple-shelter).
 
 ## Navigation
 
@@ -366,7 +366,7 @@ More:
   metres, stop somewhere safe and wait for it to clear
 ```
 
-For reading maps and contour lines, see [Trip Preparation and Calling for Help – Reading maps and contour lines](../../../docs/03-野外生存/07-户外出行准备与求救.md#看懂地图和等高线).
+For reading maps and contour lines, see [Trip Preparation and Calling for Help – Reading maps and contour lines](07-trip-preparation-and-calling-for-help.md#reading-maps-and-contour-lines).
 
 ### Rules for going down
 
@@ -428,7 +428,7 @@ Turn-around time:
 - Many people lost in the mountains got there by thinking "it's just a bit further"
 ```
 
-For more on what to do when lost, see [Trip Preparation and Calling for Help – Realising you are lost](../../../docs/03-野外生存/07-户外出行准备与求救.md#发现自己迷路了) and [Turn-around time](../../../docs/03-野外生存/07-户外出行准备与求救.md#掉头时间); for how to give your location when calling for help, see [Calling for help: say clearly where you are](../../../docs/03-野外生存/07-户外出行准备与求救.md#报警求救-说清楚你在哪里).
+For more on what to do when lost, see [Trip Preparation and Calling for Help – Realising you are lost](07-trip-preparation-and-calling-for-help.md#realising-you-are-lost) and [Turn-around time](07-trip-preparation-and-calling-for-help.md#turn-around-time); for how to give your location when calling for help, see [Calling for help: say clearly where you are](07-trip-preparation-and-calling-for-help.md#calling-for-help-say-clearly-where-you-are).
 
 ## Dangers
 
@@ -508,7 +508,7 @@ and equipment should not walk on steep snow slopes
    beside them; do not let the injured person go down alone
 ```
 
-Related chapters: [Wilderness Casualty Care and Evacuation – Step one: safety, assessment, calling for help](../../../docs/03-野外生存/11-野外伤病处置与转运.md#第一步-安全评估求救), [Waiting where you are or getting yourselves out](../../../docs/03-野外生存/11-野外伤病处置与转运.md#原地等待还是自行撤出), [Basic First Aid – When not to move someone](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#何时不能搬运), [Bone and Joint Injuries – Fractures](../../../docs/01-日常疾病和伤害/03-骨骼损伤.md#骨折).
+Related chapters: [Wilderness Casualty Care and Evacuation – Step one: safety, assessment, calling for help](11-wilderness-casualty-care-and-evacuation.md#step-one-safety-assessment-calling-for-help), [Waiting where you are or getting yourselves out](11-wilderness-casualty-care-and-evacuation.md#waiting-where-you-are-or-getting-yourselves-out), [Basic First Aid – When not to move someone](../01-first-aid-and-family-health/00-basic-first-aid.md#when-not-to-move-someone), [Bone and Joint Injuries – Fractures](../01-first-aid-and-family-health/03-bone-and-joint-injuries.md#fractures).
 
 ### Rockfall / landslides
 
@@ -543,7 +543,7 @@ More:
   to higher ground on either side, at right angles to the direction of movement
 ```
 
-For landslides and debris flows, see [Geological Disasters – Landslides](../../../docs/02-灾难应对/01-地质灾害.md#山体滑坡) and [Debris flows](../../../docs/02-灾难应对/01-地质灾害.md#泥石流).
+For landslides and debris flows, see [Geological Disasters – Landslides](../02-disaster-response/01-geological-disasters.md#landslides) and [Debris flows](../02-disaster-response/01-geological-disasters.md#debris-flows).
 
 ### Lightning
 
@@ -590,7 +590,7 @@ More:
 
 *Figure: The feet-together crouch is only a last resort when there is no time to get away, and reduces the risk only slightly; descend as soon as you hear thunder*
 
-For how lightning works, full lightning-safety advice and first aid for lightning strike, see [Weather Disasters – Lightning](../../../docs/02-灾难应对/02-气象灾害.md#雷电); for judging how far away a thunderstorm is, see [Judging the distance of a thunderstorm](../../../docs/02-灾难应对/02-气象灾害.md#判断雷暴距离).
+For how lightning works, full lightning-safety advice and first aid for lightning strike, see [Weather Disasters – Lightning](../02-disaster-response/02-weather-disasters.md#lightning); for judging how far away a thunderstorm is, see [Judging the distance of a thunderstorm](../02-disaster-response/02-weather-disasters.md#judging-how-far-away-a-thunderstorm-is).
 
 ### Sudden weather changes
 
@@ -635,7 +635,7 @@ Mountain valleys collect water fast. Heavy rain upstream can send a flood down w
 ❌ Do not run downstream along the valley; do not wade across fast water
 ```
 
-For signs of flash floods and how to wade across rivers, see [River Crossing, Flash Floods and Hypothermia](../../../docs/03-野外生存/08-涉水山洪与野外失温.md#山洪-溪谷里最大的危险).
+For signs of flash floods and how to wade across rivers, see [River Crossing, Flash Floods and Hypothermia](08-river-crossing-flash-floods-and-hypothermia.md#flash-floods-the-biggest-danger-in-stream-valleys).
 
 ### Hypothermia and frostbite
 
@@ -654,7 +654,7 @@ Prevention: no cotton clothing; carry a warm layer and a waterproof layer;
   descend early in cold, wet weather
 ```
 
-Related chapters: [River Crossing, Flash Floods and Hypothermia – Not only in winter: hypothermia outdoors](../../../docs/03-野外生存/08-涉水山洪与野外失温.md#不只是冬天-野外失温), [Acute Symptoms – Hypothermia](../../../docs/01-日常疾病和伤害/05-急性症状.md#失温症), [Wound and Injury Care – Frostbite](../../../docs/01-日常疾病和伤害/02-外伤处理.md#冻伤).
+Related chapters: [River Crossing, Flash Floods and Hypothermia – Not only in winter: hypothermia outdoors](08-river-crossing-flash-floods-and-hypothermia.md#not-only-in-winter-hypothermia-outdoors), [Acute Symptoms – Hypothermia](../01-first-aid-and-family-health/05-acute-symptoms.md#hypothermia), [Wound and Injury Care – Frostbite](../01-first-aid-and-family-health/02-wounds-and-injuries.md#frostbite).
 
 ### UV and snow blindness
 
@@ -669,7 +669,7 @@ Related chapters: [River Crossing, Flash Floods and Hypothermia – Not only in 
   over your eyes
 ```
 
-For treating snow blindness, see [Snow and Polar Survival – Snow blindness](../../../docs/03-野外生存/04-雪地极地求生.md#雪盲); when walking on snow slopes, also beware of [avalanches](../../../docs/03-野外生存/04-雪地极地求生.md#雪崩).
+For treating snow blindness, see [Snow and Polar Survival – Snow blindness](04-snow-and-polar-survival.md#snow-blindness); when walking on snow slopes, also beware of [avalanches](04-snow-and-polar-survival.md#avalanches).
 
 ## Food
 
@@ -703,7 +703,7 @@ More:
   through; use a pressure cooker, or cut food small and cook it longer
 ```
 
-Related chapters: [Poisonous Mushrooms and Wild Plants](../../../docs/03-野外生存/09-毒蘑菇与野菜误食.md), [Basic Survival Skills – Finding food](../../../docs/03-野外生存/00-基础生存技能.md#食物获取).
+Related chapters: [Poisonous Mushrooms and Wild Plants](09-poisonous-mushrooms-and-wild-plants.md), [Basic Survival Skills – Finding food](00-basic-survival-skills.md#getting-food).
 
 ## Signals
 
@@ -734,7 +734,7 @@ More:
   helicopter from the top of a ridge or a cliff edge
 ```
 
-Related chapters: [Basic Survival Skills – Distress signals](../../../docs/03-野外生存/00-基础生存技能.md#求救信号), [Trip Preparation and Calling for Help – Waiting for rescue](../../../docs/03-野外生存/07-户外出行准备与求救.md#等待救援), [Wilderness Casualty Care and Evacuation – Helicopter rescue](../../../docs/03-野外生存/11-野外伤病处置与转运.md#直升机救援).
+Related chapters: [Basic Survival Skills – Distress signals](00-basic-survival-skills.md#distress-signals), [Trip Preparation and Calling for Help – Waiting for rescue](07-trip-preparation-and-calling-for-help.md#waiting-for-rescue), [Wilderness Casualty Care and Evacuation – Helicopter rescue](11-wilderness-casualty-care-and-evacuation.md#helicopter-rescue).
 
 ## 📝 Mountain survival key points
 
@@ -775,5 +775,5 @@ Remember:
 
 ---
 
-**Next chapter**: [Long-term Collapse Survival](../../../docs/03-野外生存/06-末日求生.md)
-**Back**: [Chapter index](../../../docs/03-野外生存/README.md) | [Main contents](../../README.md)
+**Next chapter**: [Long-term Collapse Survival](06-long-term-collapse-survival.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

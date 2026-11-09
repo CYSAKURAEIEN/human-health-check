@@ -69,7 +69,7 @@ Wasps are different from honeybees: a honeybee stings once, leaves its sting in 
   is the main cause of death from swarm stings)
 ```
 
-For general treatment of insect bites and stings, see [Wound and Injury Care – Insect bites and stings](../../../docs/01-日常疾病和伤害/02-外伤处理.md#昆虫叮咬); for anaphylactic shock, see [Acute Symptoms – Allergic reactions](../../../docs/01-日常疾病和伤害/05-急性症状.md#过敏反应).
+For general treatment of insect bites and stings, see [Wound and Injury Care – Insect bites and stings](../01-first-aid-and-family-health/02-wounds-and-injuries.md#insect-bites-and-stings); for anaphylactic shock, see [Acute Symptoms – Allergic reactions](../01-first-aid-and-family-health/05-acute-symptoms.md#allergic-reactions).
 
 ---
 
@@ -183,7 +183,7 @@ If you meet a snake:
 ✓ Most snakes will leave by themselves
 ```
 
-For what to do after a snakebite (do not cut it, do not suck it, get medical help at once), see [Wound and Injury Care – Snakebite](../../../docs/01-日常疾病和伤害/02-外伤处理.md#蛇咬伤).
+For what to do after a snakebite (do not cut it, do not suck it, get medical help at once), see [Wound and Injury Care – Snakebite](../01-first-aid-and-family-health/02-wounds-and-injuries.md#snakebites).
 
 ---
 
@@ -227,7 +227,7 @@ Monkeys in scenic areas such as Emeishan and Huangshan snatch food and scratch p
    help as soon as possible
 ```
 
-For treating animal bites and preventing rabies, see [Wound and Injury Care – Bites](../../../docs/01-日常疾病和伤害/02-外伤处理.md#咬伤); for bears and other large animals, see [Forest Survival – Animals](../../../docs/03-野外生存/02-森林求生.md#动物).
+For treating animal bites and preventing rabies, see [Wound and Injury Care – Bites](../01-first-aid-and-family-health/02-wounds-and-injuries.md#bites); for bears and other large animals, see [Forest Survival – Animals](02-forest-survival.md#animals).
 
 ---
 
@@ -251,5 +251,5 @@ For treating animal bites and preventing rabies, see [Wound and Injury Care – 
 
 ---
 
-**Next chapter**: [Wilderness Casualty Care and Evacuation](../../../docs/03-野外生存/11-野外伤病处置与转运.md)
-**Back**: [Chapter index](../../../docs/03-野外生存/README.md) | [Main contents](../../README.md)
+**Next chapter**: [Wilderness Casualty Care and Evacuation](11-wilderness-casualty-care-and-evacuation.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

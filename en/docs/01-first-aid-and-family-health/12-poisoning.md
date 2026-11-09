@@ -250,7 +250,7 @@ Rule: use only one cleaning product at a time; read the label before use; open t
 | Bongkrekic acid, botulism, aflatoxin, nitrite | [Food processing and preservation - high-risk foods and food poisoning](../../../docs/07-日常生活技能/01-食物加工与保存.md#高风险食品与食物中毒) |
 | Poisonous mushrooms, poisonous plants | Never eat anything you cannot identify; everyone who ate it must see a doctor, taking the leftover mushrooms or plants |
 | Venomous snake bites | [Wounds and injuries - snake bites](02-wounds-and-injuries.md#snakebites) |
-| Chemical spills | [Man-made disasters - chemical spills](../../../docs/02-灾难应对/05-人为灾难.md#化学品泄漏) |
+| Chemical spills | [Man-made disasters - chemical spills](../02-disaster-response/05-man-made-disasters.md#chemical-spills) |
 
 ---
 

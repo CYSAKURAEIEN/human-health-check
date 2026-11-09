@@ -28,7 +28,7 @@ The keys to surviving are almost always the same too:
 ✓ If something goes wrong, stay by the vehicle, shelter in shade by day, sweat less, signal, and wait for rescue
 ```
 
-For preparation before setting off (trip plan, equipment, turn-around time, what to do if lost) see [Trip Preparation and Calling for Help](../../../docs/03-野外生存/07-户外出行准备与求救.md). When going into desert or gobi, also note:
+For preparation before setting off (trip plan, equipment, turn-around time, what to do if lost) see [Trip Preparation and Calling for Help](07-trip-preparation-and-calling-for-help.md). When going into desert or gobi, also note:
 
 ```
 ✓ Never go in with a single vehicle: travel with at least two, so if one breaks down you still have the other
@@ -169,7 +169,7 @@ How to do it:
 - A dry riverbed is also a channel for flash floods: you may dig for water in it, but do not spend the night in it
 ```
 
-For purification methods see [Basic Survival Skills – Water purification](../../../docs/03-野外生存/00-基础生存技能.md#水质净化); for the dangers of camping in a dry riverbed see [River Crossing, Flash Floods and Hypothermia – Choosing a campsite](../../../docs/03-野外生存/08-涉水山洪与野外失温.md#露营选址).
+For purification methods see [Basic Survival Skills – Water purification](00-basic-survival-skills.md#water-purification); for the dangers of camping in a dry riverbed see [River Crossing, Flash Floods and Hypothermia – Choosing a campsite](08-river-crossing-flash-floods-and-hypothermia.md#choosing-a-campsite).
 
 **Collecting dew**:
 ```
@@ -208,7 +208,7 @@ Additional notes:
   and you may only use plants confirmed to be non-poisonous
 ```
 
-For how to make a transpiration bag see [Basic Survival Skills – Water from plants](../../../docs/03-野外生存/00-基础生存技能.md#植物取水).
+For how to make a transpiration bag see [Basic Survival Skills – Water from plants](00-basic-survival-skills.md#getting-water-from-plants).
 
 **Solar still** (a last resort):
 ```
@@ -274,7 +274,7 @@ When water really is short and rescue is still a long way off:
 - In a group, share it equally; children, the elderly, the sick and anyone with heatstroke come first
 ```
 
-For making oral rehydration solution see [Common Illnesses – Rehydration](../../../docs/01-日常疾病和伤害/01-常见疾病.md#1-补液最重要); for how much to drink and hyponatraemia see [Acute Symptoms – Heatstroke](../../../docs/01-日常疾病和伤害/05-急性症状.md#中暑).
+For making oral rehydration solution see [Common Illnesses – Rehydration](../01-first-aid-and-family-health/01-common-illnesses.md#1-fluids-most-important); for how much to drink and hyponatraemia see [Acute Symptoms – Heatstroke](../01-first-aid-and-family-health/05-acute-symptoms.md#heatstroke).
 
 ## Shelter
 
@@ -350,7 +350,7 @@ Methods:
 ✓ Move your body
 ```
 
-Desert air is dry and there are few clouds, so as soon as the sun sets the ground's heat escapes quickly into the sky; the temperature range over a day is often 20-30 degrees. Heatstroke by day and shivering with cold at night are both common in the desert. **In winter, nights in China's deserts and gobi can fall to -20 to -30°C, and then hypothermia is more dangerous than heatstroke**; prepare following the principles in [Snow and Polar Survival](../../../docs/03-野外生存/04-雪地极地求生.md) and [Hypothermia in the wild](../../../docs/03-野外生存/08-涉水山洪与野外失温.md#不只是冬天-野外失温).
+Desert air is dry and there are few clouds, so as soon as the sun sets the ground's heat escapes quickly into the sky; the temperature range over a day is often 20-30 degrees. Heatstroke by day and shivering with cold at night are both common in the desert. **In winter, nights in China's deserts and gobi can fall to -20 to -30°C, and then hypothermia is more dangerous than heatstroke**; prepare following the principles in [Snow and Polar Survival](04-snow-and-polar-survival.md) and [Hypothermia in the wild](08-river-crossing-flash-floods-and-hypothermia.md#not-only-in-winter-hypothermia-outdoors).
 
 ```
 How to do it:
@@ -367,7 +367,7 @@ How to do it:
 - Violent shivering, clumsy movements and slurred speech are signs of hypothermia; see the hypothermia sections
 ```
 
-For fire-lighting methods see [Basic Survival Skills – Fire-lighting](../../../docs/03-野外生存/00-基础生存技能.md#生火技术).
+For fire-lighting methods see [Basic Survival Skills – Fire-lighting](00-basic-survival-skills.md#making-fire).
 
 ## Navigation
 
@@ -427,7 +427,7 @@ For fire-lighting methods see [Basic Survival Skills – Fire-lighting](../../..
 - Every so often look back to see what the way behind you looks like, so you recognise it on the return
 ```
 
-For finding direction see [Basic Survival Skills – Navigation and orientation](../../../docs/03-野外生存/00-基础生存技能.md#导航与定向); for what to do when lost see [Trip Preparation and Calling for Help – Realising you are lost](../../../docs/03-野外生存/07-户外出行准备与求救.md#发现自己迷路了).
+For finding direction see [Basic Survival Skills – Navigation and orientation](00-basic-survival-skills.md#navigation-and-orientation); for what to do when lost see [Trip Preparation and Calling for Help – Realising you are lost](07-trip-preparation-and-calling-for-help.md#realising-you-are-lost).
 
 **Sandstorms**:
 ```
@@ -455,7 +455,7 @@ How to do it:
 - If sand gets in your eyes, do not rub; rinse with clean water
 ```
 
-For more on dealing with sandstorms see [Weather Disasters – Sandstorms](../../../docs/02-灾难应对/02-气象灾害.md#沙尘暴); for sand in the eye see [Foreign bodies in the eye](../../../docs/01-日常疾病和伤害/04-异物处理.md#眼睛异物).
+For more on dealing with sandstorms see [Weather Disasters – Sandstorms](../02-disaster-response/02-weather-disasters.md#sandstorms); for sand in the eye see [Foreign bodies in the eye](../01-first-aid-and-family-health/04-foreign-bodies-and-choking.md#foreign-bodies-in-the-eye).
 
 ### At night
 
@@ -477,7 +477,7 @@ Additional notes:
 - When several people walk at night, do not let gaps open up; count heads regularly
 ```
 
-For finding direction by the stars see [Basic Survival Skills – The star method](../../../docs/03-野外生存/00-基础生存技能.md#星星法夜晚); for more precise methods see [Advanced Celestial Navigation](../../../docs/09-进阶科学与工程/09-天文导航进阶.md#二精确定方向).
+For finding direction by the stars see [Basic Survival Skills – The star method](00-basic-survival-skills.md#star-methods-at-night); for more precise methods see [Advanced Celestial Navigation](../../../docs/09-进阶科学与工程/09-天文导航进阶.md#二精确定方向).
 
 ### Stay put or not?
 
@@ -541,7 +541,7 @@ If you decide to walk:
   and the others who are fit go together to get help
 ```
 
-For more on deciding whether to wait or get yourself out see [Wilderness Casualty Care and Evacuation – Wait where you are or get yourself out](../../../docs/03-野外生存/11-野外伤病处置与转运.md#原地等待还是自行撤出).
+For more on deciding whether to wait or get yourself out see [Wilderness Casualty Care and Evacuation – Wait where you are or get yourself out](11-wilderness-casualty-care-and-evacuation.md#waiting-where-you-are-or-getting-yourselves-out).
 
 ## Moving
 
@@ -578,7 +578,7 @@ Additional notes:
   and rest and cool down in shade (see the heatstroke section below)
 ```
 
-For dealing with foot blisters see [Wilderness Casualty Care and Evacuation – Blisters on the feet](../../../docs/03-野外生存/11-野外伤病处置与转运.md#脚上的水泡).
+For dealing with foot blisters see [Wilderness Casualty Care and Evacuation – Blisters on the feet](11-wilderness-casualty-care-and-evacuation.md#blisters-on-the-feet).
 
 ### Clothing
 
@@ -660,7 +660,7 @@ Getting them:
 - Always cook wild animals thoroughly; wild animals may carry parasites and disease
 ```
 
-For insects and the edibility test for plants see [Basic Survival Skills – Finding food](../../../docs/03-野外生存/00-基础生存技能.md#食物获取); for eating the wrong wild plants see [Poisonous Mushrooms and Wild Plants](../../../docs/03-野外生存/09-毒蘑菇与野菜误食.md).
+For insects and the edibility test for plants see [Basic Survival Skills – Finding food](00-basic-survival-skills.md#getting-food); for eating the wrong wild plants see [Poisonous Mushrooms and Wild Plants](09-poisonous-mushrooms-and-wild-plants.md).
 
 ## Signals
 
@@ -764,7 +764,7 @@ Additional notes:
 - If you have satellite communication, send a distress call and your position as soon as something goes wrong; do not wait until things get worse
 ```
 
-For detailed distress signal methods see [Basic Survival Skills – Distress signals](../../../docs/03-野外生存/00-基础生存技能.md#求救信号); for how to explain your location see [Trip Preparation and Calling for Help – Calling for help](../../../docs/03-野外生存/07-户外出行准备与求救.md#报警求救-说清楚你在哪里).
+For detailed distress signal methods see [Basic Survival Skills – Distress signals](00-basic-survival-skills.md#distress-signals); for how to explain your location see [Trip Preparation and Calling for Help – Calling for help](07-trip-preparation-and-calling-for-help.md#calling-for-help-say-clearly-where-you-are).
 
 ## Dangers
 
@@ -811,7 +811,7 @@ Check consciousness first:
 
 **Heat exhaustion**: lie the person flat in shade, raise their legs, remove excess clothing, wet the skin and fan. If they are alert and not vomiting, give small sips of oral rehydration salts or weak salt water. If they are not better after about half an hour of this, or show changes in consciousness or seizures, treat as heatstroke. Once recovered, they should not be active in the heat again that day.
 
-For the grading table and the details and precautions of cold-water immersion see [Acute Symptoms – Heatstroke](../../../docs/01-日常疾病和伤害/05-急性症状.md#中暑); for care while waiting for rescue in the wild see [Wilderness Casualty Care and Evacuation](../../../docs/03-野外生存/11-野外伤病处置与转运.md#高原反应中暑失温).
+For the grading table and the details and precautions of cold-water immersion see [Acute Symptoms – Heatstroke](../01-first-aid-and-family-health/05-acute-symptoms.md#heatstroke); for care while waiting for rescue in the wild see [Wilderness Casualty Care and Evacuation](11-wilderness-casualty-care-and-evacuation.md#altitude-sickness-heatstroke-hypothermia).
 
 **Prevention**:
 ```
@@ -863,7 +863,7 @@ Treatment:
 - Children and older people dehydrate faster, and older people feel thirst less; make sure they drink
 ```
 
-For recognising dehydration (including in children) see [Common Illnesses – Recognising dehydration](../../../docs/01-日常疾病和伤害/01-常见疾病.md#脱水症状识别).
+For recognising dehydration (including in children) see [Common Illnesses – Recognising dehydration](../01-first-aid-and-family-health/01-common-illnesses.md#recognising-dehydration).
 
 ### Animals
 
@@ -905,7 +905,7 @@ Additional notes:
   do not cut the wound, do not suck it, do not apply ice or burn it
 ```
 
-For treating snakebite see [Wound and Injury Care – Snakebites](../../../docs/01-日常疾病和伤害/02-外伤处理.md#蛇咬伤); for prevention see [Wasps, Ticks and Dangerous Animals – Snakes](../../../docs/03-野外生存/10-马蜂蜱虫与危险动物.md#蛇).
+For treating snakebite see [Wound and Injury Care – Snakebites](../01-first-aid-and-family-health/02-wounds-and-injuries.md#snakebites); for prevention see [Wasps, Ticks and Dangerous Animals – Snakes](10-wasps-ticks-and-dangerous-animals.md#snakes).
 
 **Spiders**:
 ```
@@ -919,7 +919,7 @@ Additional notes:
 - If the centre of the wound turns purple or black and the area spreads, or there are muscle spasms or abdominal pain → see a doctor
 ```
 
-For treating stings and bites from scorpions, spiders, centipedes and so on see [Wound and Injury Care – Other common bites and contacts](../../../docs/01-日常疾病和伤害/02-外伤处理.md#其他常见叮咬和接触).
+For treating stings and bites from scorpions, spiders, centipedes and so on see [Wound and Injury Care – Other common bites and contacts](../01-first-aid-and-family-health/02-wounds-and-injuries.md#other-common-bites-and-contacts).
 
 ## 📝 Desert survival key points
 
@@ -957,5 +957,5 @@ The most common mistakes:
 
 ---
 
-**Next chapter**: [Snow and Polar Survival](../../../docs/03-野外生存/04-雪地极地求生.md)
-**Back**: [Chapter index](../../../docs/03-野外生存/README.md) | [Main contents](../../README.md)
+**Next chapter**: [Snow and Polar Survival](04-snow-and-polar-survival.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

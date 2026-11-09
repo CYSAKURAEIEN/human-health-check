@@ -42,7 +42,7 @@ When disaster strikes, family members are often scattered at work, at school or 
 5. Practise regularly (at least once a year)
 ```
 
-For a detailed family emergency plan see [Disaster Response – Family emergency plan](../../../docs/02-灾难应对/README.md#-家庭应急计划).
+For a detailed family emergency plan see [Disaster Response – Family emergency plan](README.md#-family-emergency-plan).
 
 ![Family emergency communication plan: three meeting places, an out-of-area contact, phone numbers on paper, text rather than call, a radio, and the order to search in after separation](../../images/family-comm-plan.svg)
 
@@ -80,7 +80,7 @@ After a disaster, communication networks are often jammed because base stations 
   - Find out in ordinary times whether your phone supports it and how to use it
 ```
 
-For distress signals (sound and visual) see [Disaster Response – Distress signals](../../../docs/02-灾难应对/README.md#-求救信号).
+For distress signals (sound and visual) see [Disaster Response – Distress signals](README.md#-distress-signals).
 
 ---
 
@@ -175,7 +175,7 @@ wait 24 hours
   (do not transfer money lightly)
 ```
 
-Related chapter: [Child Safety – Preventing children getting lost](../../../docs/01-日常疾病和伤害/14-儿童安全.md#防走失).
+Related chapter: [Child Safety – Preventing children getting lost](../01-first-aid-and-family-health/14-child-safety.md#preventing-children-getting-lost).
 
 ---
 
@@ -194,5 +194,5 @@ Related chapter: [Child Safety – Preventing children getting lost](../../../do
 
 ---
 
-**Next chapter**: [Handling the Dead after Disasters](../../../docs/02-灾难应对/07-灾后遗体处理.md)
-**Back**: [Chapter index](../../../docs/02-灾难应对/README.md) | [Main contents](../../README.md)
+**Next chapter**: [Handling the Dead after Disasters](07-handling-the-dead-after-disasters.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

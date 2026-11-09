@@ -6,13 +6,13 @@ This part covers prevention, response and self-rescue for all kinds of natural a
 
 ### Chapters
 
-1. [Geological disasters](../../../docs/02-灾难应对/01-地质灾害.md) - Earthquake preparation and early warning, taking cover in different places, being trapped and rescuing others, when to go back inside, debris flows, landslides and crack monitoring, ground collapse, volcanoes
-2. [Weather disasters](../../../docs/02-灾难应对/02-气象灾害.md) - Warning signal colours, typhoons, urban flooding and cars in water, floods, blizzards, tornadoes, hail, heatwaves, drought, sandstorms, lightning
-3. [Ocean disasters](../../../docs/02-灾难应对/03-海洋灾害.md) - Tsunamis, storm surges, rip currents, falling overboard and boats in distress, red tides and toxic seafood, safety at the seaside
-4. [Fire](../../../docs/02-灾难应对/04-火灾.md) - Raising the alarm, fighting a fire in its early stage and using extinguishers, escaping building fires, high-rise safety, forest fires, electrical fires, gas leaks
-5. [Man-made disasters](../../../docs/02-灾难应对/05-人为灾难.md) - War and air-raid sirens, chemical leaks and sheltering in place, nuclear and radiation accidents, terrorist attacks, crowd crushes, large-scale power and water cuts
-6. [Emergency communication and finding family](../../../docs/02-灾难应对/06-应急通信与寻亲.md) - Family communication plan, texts first, saving phone battery, walkie-talkies, searching after being separated
-7. [Handling the dead after disasters](../../../docs/02-灾难应对/07-灾后遗体处理.md) - Misconceptions about bodies and disease, protection, identification and records, temporary storage, temporary burial as a last resort
+1. [Geological disasters](01-geological-disasters.md) - Earthquake preparation and early warning, taking cover in different places, being trapped and rescuing others, when to go back inside, debris flows, landslides and crack monitoring, ground collapse, volcanoes
+2. [Weather disasters](02-weather-disasters.md) - Warning signal colours, typhoons, urban flooding and cars in water, floods, blizzards, tornadoes, hail, heatwaves, drought, sandstorms, lightning
+3. [Ocean disasters](03-ocean-disasters.md) - Tsunamis, storm surges, rip currents, falling overboard and boats in distress, red tides and toxic seafood, safety at the seaside
+4. [Fire](04-fire.md) - Raising the alarm, fighting a fire in its early stage and using extinguishers, escaping building fires, high-rise safety, forest fires, electrical fires, gas leaks
+5. [Man-made disasters](05-man-made-disasters.md) - War and air-raid sirens, chemical leaks and sheltering in place, nuclear and radiation accidents, terrorist attacks, crowd crushes, large-scale power and water cuts
+6. [Emergency communication and finding family](06-emergency-communication-and-family-reunification.md) - Family communication plan, texts first, saving phone battery, walkie-talkies, searching after being separated
+7. [Handling the dead after disasters](07-handling-the-dead-after-disasters.md) - Misconceptions about bodies and disease, protection, identification and records, temporary storage, temporary burial as a last resort
 
 ## ⚠️ Basic principles of disaster response
 
@@ -90,7 +90,7 @@ This part covers prevention, response and self-rescue for all kinds of natural a
 
 **Personal items**:
 - First aid kit
-- Prescription medicines (at least one week's supply, with a medication information card; see [Chronic medication stockpile](../../../docs/01-日常疾病和伤害/08-慢性病用药储备.md))
+- Prescription medicines (at least one week's supply, with a medication information card; see [Chronic medication stockpile](../01-first-aid-and-family-health/08-chronic-medication-stockpile.md))
 - Glasses / contact lenses
 - Personal hygiene items
 - Wet wipes, disinfectant
@@ -197,7 +197,7 @@ This part covers prevention, response and self-rescue for all kinds of natural a
    - Choose a relative or friend in another area
    - Everyone in the family memorises the number (and writes it on paper)
    - Report that you are safe to them during a disaster
-   - See [Emergency communication and finding family](../../../docs/02-灾难应对/06-应急通信与寻亲.md)
+   - See [Emergency communication and finding family](06-emergency-communication-and-family-reunification.md)
 
 3. **Important information card**:
    - Everyone carries one
@@ -303,7 +303,7 @@ This part covers prevention, response and self-rescue for all kinds of natural a
 ✓ Keep hope
 ```
 
-How to help frightened family members and neighbours, how to look after children, and when professional help is needed: see [Mental health](../../../docs/01-日常疾病和伤害/10-心理健康.md).
+How to help frightened family members and neighbours, how to look after children, and when professional help is needed: see [Mental health](../01-first-aid-and-family-health/10-mental-health.md).
 
 ---
 
