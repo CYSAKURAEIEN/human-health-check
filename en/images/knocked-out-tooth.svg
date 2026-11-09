@@ -1,0 +1,205 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 934" width="720" height="934" role="img" aria-label="Permanent tooth knocked out (whole tooth lost): ideally put it back in the socket within 15 minutes; if the tooth has been out of the mouth and dry for more than 60 minutes there is little hope of saving it. 1 Hold it only by the crown (the white part that shows in the mouth); do not touch the root. 2 If it is dirty, rinse it gently with milk or saline for a few seconds; if you have neither, rinse it under cold tap water for a few seconds (no more than 10 seconds); do not scrub it with a brush, do not wipe the root with tissue, do not soak it in plain water. 3 Put it back in its own socket as soon as possible, checking it is the right way round against the teeth next to it, and press it back gently with a finger. 4 Bite on a clean piece of gauze or a handkerchief to hold it in place. 5 Go to a dentist or dental emergency service immediately. If it cannot go back: keep it in milk or saline and take it to hospital; an adult can also hold it inside the cheek, stored in saliva (do not swallow it); do not keep it in plain water and do not wrap it dry in paper. Do not put a knocked-out baby tooth back, as this may damage the developing adult tooth bud underneath; stop the bleeding and take the child to a dentist; if you cannot tell whether it is a baby or adult tooth, take the tooth to a dentist">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Permanent tooth knocked out: hold the crown, put it back or keep it in milk</title>
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="ab" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<!-- incisor: crown on top (y -44..0), root below (0..54) -->
+<g id="tooth">
+<path d="M-15,0 Q-12,30 -3,52 Q0,56 3,52 Q12,30 15,0 Z" fill="#f2e6c9" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M-15,0 L-17,-34 Q-16,-44 0,-44 Q16,-44 17,-34 L15,0 Q0,4 -15,0 Z" fill="#fff" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+</g>
+<g id="bad"><circle r="11" fill="#c33"/><path d="M-4.5,-4.5 L4.5,4.5 M4.5,-4.5 L-4.5,4.5" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/></g>
+<g id="good"><circle r="11" fill="#0b5cad"/><path d="M-5,0 L-1.5,4 L5,-4" fill="none" stroke="#fff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></g>
+</defs>
+<g font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif" font-size="14" fill="#222">
+<text x="360" y="30" font-size="18" font-weight="bold" text-anchor="middle">Permanent tooth knocked out (whole tooth lost)</text>
+
+
+<g transform="translate(10,44)">
+<rect x="0" y="0" width="700" height="100" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="26" font-size="16" font-weight="bold">Time is critical</text>
+<rect x="40" y="54" width="140" height="16" fill="#0b5cad"/>
+<rect x="180" y="54" width="380" height="16" fill="#cfe0f0"/>
+<rect x="560" y="54" width="120" height="16" fill="#c33"/>
+<g font-size="13" text-anchor="middle" fill="#555">
+<text x="40" y="88">0</text><text x="180" y="88">15 minutes</text><text x="560" y="88">60 minutes</text>
+</g>
+<text x="40" y="47" font-size="12" fill="#0b5cad" font-weight="bold">Ideally back in the socket within 15 minutes</text>
+<text x="370" y="88" font-size="13" fill="#555" text-anchor="middle">The sooner the better</text>
+<text x="680" y="47" font-size="12" fill="#c33" text-anchor="end" font-weight="bold">Dry out of the mouth &gt;60 minutes: little hope</text>
+</g>
+
+
+<g transform="translate(10,154)">
+<rect x="0" y="0" width="167" height="330" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="26" font-size="16" font-weight="bold">① Crown only</text>
+<g transform="translate(84,128)">
+<g transform="scale(1.35)"><use href="#tooth"/></g>
+<path d="M-70,-50 L-27,-30" stroke="#333" stroke-width="15" stroke-linecap="round"/>
+<path d="M-70,-50 L-27,-30" stroke="#f3e3d3" stroke-width="10.5" stroke-linecap="round"/>
+<path d="M70,-50 L27,-30" stroke="#333" stroke-width="15" stroke-linecap="round"/>
+<path d="M70,-50 L27,-30" stroke="#f3e3d3" stroke-width="10.5" stroke-linecap="round"/>
+</g>
+<use href="#good" x="22" y="46"/>
+<text x="38" y="51" font-size="13" fill="#0b5cad">Crown (white part)</text>
+<line x1="104" y1="180" x2="96" y2="172" stroke="#c33" stroke-width="1"/>
+<use href="#bad" x="132" y="156"/>
+<text x="108" y="192" font-size="13" fill="#c33">Root:</text>
+<text x="108" y="207" font-size="13" fill="#c33">don't</text>
+<text x="108" y="222" font-size="13" fill="#c33">touch</text>
+<text x="12" y="248" font-size="13">Hold the white part</text>
+<text x="12" y="265" font-size="13">that shows in the</text>
+<text x="12" y="282" font-size="13">mouth; don't touch</text>
+<text x="12" y="299" font-size="13">the root</text>
+</g>
+
+
+<g transform="translate(187,154)">
+<rect x="0" y="0" width="167" height="330" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="26" font-size="16" font-weight="bold">② If dirty: rinse</text>
+
+<g transform="translate(62,80) rotate(120)">
+<path d="M-20,0 L20,0 L15,44 L-15,44 Z" fill="#fff" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+</g>
+<path d="M68,84 Q84,96 86,140" fill="none" stroke="#e6e0d0" stroke-width="5" stroke-linecap="round"/>
+<text x="92" y="62" font-size="12" fill="#555">Milk or</text>
+<text x="92" y="77" font-size="12" fill="#555">saline</text>
+<g transform="translate(88,150) rotate(90) scale(0.75)"><use href="#tooth"/></g>
+<path d="M150,132 L120,142" stroke="#333" stroke-width="11" stroke-linecap="round"/>
+<path d="M150,132 L120,142" stroke="#f3e3d3" stroke-width="7" stroke-linecap="round"/>
+<path d="M150,168 L120,158" stroke="#333" stroke-width="11" stroke-linecap="round"/>
+<path d="M150,168 L120,158" stroke="#f3e3d3" stroke-width="7" stroke-linecap="round"/>
+<text x="12" y="198" font-size="13" fill="#0b5cad">Rinse gently</text>
+<text x="12" y="213" font-size="13" fill="#0b5cad">(a few seconds)</text>
+<text x="12" y="233" font-size="13" fill="#0b5cad">None? Cold tap water</text>
+<text x="12" y="248" font-size="13" fill="#0b5cad">for a few seconds</text>
+<text x="12" y="263" font-size="13" fill="#0b5cad">(10 seconds at most)</text>
+<text x="12" y="283" font-size="13" fill="#c33">✗ Don't scrub it</text>
+<text x="12" y="299" font-size="13" fill="#c33">✗ Don't wipe the root</text>
+<text x="12" y="315" font-size="13" fill="#c33">✗ Don't soak in water</text>
+</g>
+
+
+<g transform="translate(364,154)">
+<rect x="0" y="0" width="167" height="330" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="26" font-size="16" font-weight="bold">③ Put it back</text>
+
+<g transform="translate(30,78) rotate(180) scale(0.8)"><use href="#tooth"/></g>
+<g transform="translate(138,78) rotate(180) scale(0.8)"><use href="#tooth"/></g>
+<path d="M8,34 L159,34 L159,74 Q140,82 122,74 Q104,82 84,74 Q64,82 46,74 Q28,82 8,74 Z" fill="#f2c4c4" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M74,76 Q84,64 94,76" fill="#c98f8f" stroke="#333" stroke-width="1.5"/>
+<g transform="translate(84,148) rotate(180) scale(0.8)"><use href="#tooth"/></g>
+<path d="M84,184 L84,166" stroke="#333" stroke-width="13" stroke-linecap="round"/>
+<path d="M84,184 L84,166" stroke="#f3e3d3" stroke-width="9" stroke-linecap="round"/>
+<path d="M112,140 L112,100" stroke="#c33" stroke-width="2.5" marker-end="url(#ar)"/>
+<text x="118" y="128" font-size="13" fill="#c33">Press</text>
+<text x="118" y="144" font-size="13" fill="#c33">gently</text>
+<text x="12" y="248" font-size="13">Compare with the</text>
+<text x="12" y="265" font-size="13">teeth next to it to</text>
+<text x="12" y="282" font-size="13">get it the right way</text>
+<text x="12" y="299" font-size="13">round; press it back</text>
+<text x="12" y="316" font-size="13">with a finger</text>
+</g>
+
+
+<g transform="translate(541,154)">
+<rect x="0" y="0" width="169" height="330" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="26" font-size="16" font-weight="bold">④ Bite on gauze</text>
+<g transform="translate(30,78) rotate(180) scale(0.8)"><use href="#tooth"/></g>
+<g transform="translate(86,78) rotate(180) scale(0.8)"><use href="#tooth"/></g>
+<g transform="translate(142,78) rotate(180) scale(0.8)"><use href="#tooth"/></g>
+<path d="M8,34 L161,34 L161,74 Q142,82 124,74 Q106,82 86,74 Q66,82 48,74 Q30,82 8,74 Z" fill="#f2c4c4" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<g transform="translate(30,172) scale(0.75)"><use href="#tooth"/></g>
+<g transform="translate(86,172) scale(0.75)"><use href="#tooth"/></g>
+<g transform="translate(142,172) scale(0.75)"><use href="#tooth"/></g>
+<path d="M8,214 L161,214 L161,172 Q142,164 124,172 Q106,164 86,172 Q66,164 48,172 Q30,164 8,172 Z" fill="#f2c4c4" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<rect x="14" y="114" width="141" height="26" rx="12" fill="#fff" stroke="#333" stroke-width="2"/>
+<path d="M30,118 V136 M46,118 V136 M62,118 V136 M78,118 V136 M94,118 V136 M110,118 V136 M126,118 V136 M142,118 V136" stroke="#ccc" stroke-width="1"/>
+<text x="12" y="248" font-size="13">Bite on a clean piece</text>
+<text x="12" y="265" font-size="13">of gauze or a</text>
+<text x="12" y="282" font-size="13">handkerchief to hold</text>
+<text x="12" y="299" font-size="13">it in place</text>
+</g>
+
+
+<g transform="translate(10,494)">
+<rect x="0" y="0" width="700" height="40" rx="8" fill="#fdecec" stroke="#c33" stroke-width="2"/>
+<text x="350" y="26" text-anchor="middle" font-size="15" font-weight="bold" fill="#c33">⑤ Go to a dentist or dental emergency immediately (even if it is back in)</text>
+</g>
+
+
+<g transform="translate(10,544)">
+<rect x="0" y="0" width="700" height="190" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="16" y="26" font-size="16" font-weight="bold">If it cannot go back: keep it in liquid and take it to hospital</text>
+
+<g transform="translate(70,0)">
+<use href="#good" x="-40" y="48"/>
+<path d="M-26,56 L26,56 L20,132 L-20,132 Z" fill="#fff" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M-24,72 L24,72 L20,130 L-20,130 Z" fill="#f5efe0"/>
+<g transform="translate(0,104) rotate(-20) scale(0.45)"><use href="#tooth"/></g>
+<text x="0" y="156" text-anchor="middle">Milk</text>
+</g>
+
+<g transform="translate(196,0)">
+<use href="#good" x="-40" y="48"/>
+<path d="M-8,46 L8,46 L8,56 L20,64 L20,132 L-20,132 L-20,64 L-8,56 Z" fill="#eef4fb" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<rect x="-19" y="84" width="38" height="26" fill="#fff" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="0" y="101" font-size="12" fill="#0b5cad" text-anchor="middle">saline</text>
+<text x="0" y="156" text-anchor="middle">Saline</text>
+</g>
+
+<g transform="translate(334,0)">
+<use href="#good" x="-52" y="48"/>
+<circle cx="0" cy="92" r="36" fill="#f3e3d3" stroke="#333" stroke-width="2.2"/>
+<path d="M-26,66 Q-6,50 22,62" fill="none" stroke="#555" stroke-width="1.5"/>
+<path d="M34,82 L42,92 L34,96" fill="#f3e3d3" stroke="#333" stroke-width="1.8" stroke-linejoin="round"/>
+<circle cx="18" cy="80" r="2" fill="#333"/>
+<path d="M26,110 Q30,108 33,111" fill="none" stroke="#333" stroke-width="1.6"/>
+<ellipse cx="14" cy="108" rx="10" ry="7" fill="none" stroke="#0b5cad" stroke-width="1.5" stroke-dasharray="3 2"/>
+<text x="0" y="148" text-anchor="middle">Adult: inside the cheek</text>
+<text x="0" y="166" text-anchor="middle" font-size="13" fill="#555">kept in saliva; don't swallow it</text>
+</g>
+<line x1="456" y1="44" x2="456" y2="170" stroke="#ddd" stroke-width="1.5"/>
+
+<g transform="translate(530,0)">
+<use href="#bad" x="-40" y="48"/>
+<path d="M-26,56 L26,56 L20,132 L-20,132 Z" fill="#fff" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M-24,72 L24,72 L20,130 L-20,130 Z" fill="#dbeaf7"/>
+<g transform="translate(0,104) rotate(-20) scale(0.45)"><use href="#tooth"/></g>
+<text x="0" y="156" text-anchor="middle" fill="#c33">Not in</text>
+<text x="0" y="172" text-anchor="middle" fill="#c33">plain water</text>
+</g>
+
+<g transform="translate(636,0)">
+<use href="#bad" x="-40" y="48"/>
+<path d="M-26,74 L22,64 L28,118 L-22,128 Z" fill="#fafafa" stroke="#333" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M-22,128 Q0,96 28,118" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<g transform="translate(2,96) rotate(70) scale(0.45)"><use href="#tooth"/></g>
+<text x="0" y="156" text-anchor="middle" fill="#c33">Not wrapped</text>
+<text x="0" y="172" text-anchor="middle" fill="#c33">dry in paper</text>
+</g>
+</g>
+
+
+<g transform="translate(10,744)">
+<rect x="0" y="0" width="700" height="180" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="2"/>
+<text x="16" y="28" font-size="16" font-weight="bold" fill="#c33">⚠️ Baby tooth (milk tooth) knocked out: do not put it back</text>
+<!-- gum cross-section: adult tooth bud below the baby-tooth socket -->
+<rect x="20" y="88" width="160" height="82" rx="6" fill="#f2c4c4" stroke="#333" stroke-width="2"/>
+<path d="M82,88 Q82,110 98,110 Q114,110 114,88" fill="#c98f8f" stroke="#333" stroke-width="1.5"/>
+<g transform="translate(98,146) scale(0.42)"><use href="#tooth"/></g>
+<ellipse cx="98" cy="148" rx="15" ry="22" fill="none" stroke="#0b5cad" stroke-width="1.2" stroke-dasharray="3 2"/>
+<g transform="translate(60,62) rotate(180) scale(0.45)"><use href="#tooth"/></g>
+<path d="M72,62 Q90,60 96,84" fill="none" stroke="#c33" stroke-width="2" stroke-dasharray="4 3" marker-end="url(#ar)"/>
+<use href="#bad" x="130" y="64"/>
+<line x1="124" y1="136" x2="114" y2="144" stroke="#0b5cad" stroke-width="1"/>
+<text x="124" y="118" font-size="12" fill="#0b5cad">adult</text>
+<text x="124" y="132" font-size="12" fill="#0b5cad">tooth bud</text>
+<text x="212" y="66">· Putting it back may damage the developing <tspan font-weight="bold">adult tooth bud</tspan> below</text>
+<text x="212" y="94">· Stop the bleeding and take the child to a dentist</text>
+<text x="212" y="122">· If you cannot tell whether it is a baby or adult tooth,</text>
+<text x="224" y="140">take the tooth to a dentist</text>
+</g>
+</g>
+</svg>
