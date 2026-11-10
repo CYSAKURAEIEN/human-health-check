@@ -1,0 +1,218 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1100" width="720" height="1100" role="img" aria-label="Melting copper in a crucible and casting bronze. 1 Charging the furnace and blowing: the copper furnace is built of clay, inner diameter 20-30 cm, height 40-60 cm, walls 10-15 cm thick, with a layer of dry sand on the ground; lay about 10 cm of charcoal on the furnace floor, set the crucible on it and pack charcoal all round it; the tuyère sits about 5-10 cm above the furnace floor, angled slightly down at the lower part of the crucible; two bellows blow in turns; use a gentle blast for about half an hour so the crucible warms slowly, then increase the air, because a crucible heated fast cracks. A home-made clay crucible has walls 2-3 cm thick and holds 500 mL-1 L; do not use one with cracks; preheat it before use. 2 Melting copper and adding tin: bronze is about 90% copper and 10% tin, for example 900 g of pure copper and 100 g of tin; add about 1-2% (about 10-20 g) extra tin to make up for losses; heat the copper to about 1150-1200°C to melt it and cover the surface of the melt with charcoal powder to reduce oxidation; dry and preheat the tin by the furnace beforehand, push it under the melt with tongs rather than dropping it on the surface, and stir evenly with an iron rod. 3 Skimming: skim the dross off the surface with a long ladle or iron rod, put it on dry sand, and when cold break it up and pick out the small copper beads. 4 Pouring: pour as soon as possible after adding the tin, at about 1100-1200°C (orange-yellow to yellow); hold the crucible with long-handled tongs and pour slowly into the mould without letting dross in; the mould must be fully dry and preheated; pour over dry sand, not on concrete or wet ground; stand to one side with your face away from the mould opening; pour leftover metal into a dry sand pit or a dry iron mould; let it cool naturally, lift it out with tongs only once it no longer glows, never test the temperature with your hand, never splash water on a hot ingot. Safety: molten copper explodes on contact with water, so crucible, mould, tools and ground must be dry and there is no work in rain; carbon monoxide: work only outdoors in the open and leave the furnace at once if you get a headache or feel dizzy; melting brass or old solder gives off white zinc and lead fumes: keep your face away, pregnant women and children keep away; dry sand on the ground, nothing flammable within 10 m, sand ready for smothering fires; at least two people present with full protective gear; rehearse gripping and pouring with the empty tongs first" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Melting copper in a crucible and pouring</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<pattern id="sand" width="10" height="8" patternUnits="userSpaceOnUse"><rect width="10" height="8" fill="#eadcae"/><circle cx="3" cy="3" r="1" fill="#b89b5e"/><circle cx="8" cy="6" r="1" fill="#b89b5e"/></pattern>
+<pattern id="coal" width="16" height="14" patternUnits="userSpaceOnUse"><rect width="16" height="14" fill="#4a4a4a"/><circle cx="4" cy="4" r="3.5" fill="#2e2e2e"/><circle cx="12" cy="10" r="3.5" fill="#2e2e2e"/><circle cx="12" cy="3" r="2" fill="#5e5e5e"/></pattern>
+<pattern id="hotcoal" width="16" height="14" patternUnits="userSpaceOnUse"><rect width="16" height="14" fill="#f08a2a"/><circle cx="4" cy="4" r="3.5" fill="#c9501a"/><circle cx="12" cy="10" r="3.5" fill="#ffd84d"/></pattern>
+<pattern id="powder" width="6" height="6" patternUnits="userSpaceOnUse"><rect width="6" height="6" fill="#333"/><circle cx="3" cy="3" r="1.2" fill="#666"/></pattern>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Melting copper in a crucible and casting bronze</text>
+
+<!-- 1 charging the furnace and blowing -->
+<g transform="translate(10,44)">
+<rect width="400" height="400" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="10" y="24" font-size="15" font-weight="bold">① Charging the furnace and blowing</text>
+<rect x="4" y="300" width="392" height="16" fill="url(#sand)"/>
+<line x1="4" y1="300" x2="396" y2="300" stroke="#999" stroke-width="1.5"/>
+<!-- furnace wall -->
+<path d="M166,300 V118 H210 V300 Z M300,300 V118 H344 V300 Z" fill="#c9a27a" stroke="#333" stroke-width="2"/>
+<rect x="210" y="210" width="90" height="90" fill="url(#coal)"/>
+<rect x="210" y="248" width="90" height="52" fill="url(#hotcoal)" opacity="0.9"/>
+<!-- crucible -->
+<path d="M228,204 H282 L276,264 H234 Z" fill="#b48a64" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M237,206 H273 L268,256 H242 Z" fill="#fff"/>
+<path d="M239.5,228 H270.5 L268,256 H242 Z" fill="#ffc43d"/>
+<path d="M239,222 H271 L270.5,228 H239.5 Z" fill="url(#powder)"/>
+<!-- tuyère -->
+<path d="M120,244 L214,262" stroke="#333" stroke-width="12" stroke-linecap="butt"/>
+<path d="M120,244 L214,262" stroke="#a0704a" stroke-width="8" stroke-linecap="butt"/>
+<path d="M150,250 L196,259" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<!-- bellows -->
+<g stroke="#333" stroke-width="1.8" stroke-linejoin="round">
+<path d="M20,210 L100,232 L100,240 L20,262 Z" fill="#c8a06a"/>
+<path d="M20,262 L100,248 L100,256 L20,292 Z" fill="#b08850"/>
+<path d="M100,236 L122,244 M100,252 L122,246" fill="none" stroke-width="4"/>
+</g>
+<text x="12" y="202" font-size="12" fill="#555">2 bellows, in turns</text>
+<!-- labels -->
+<path d="M210,104 H300" stroke="#0b5cad" stroke-width="1.2" marker-start="url(#arB)" marker-end="url(#arB)"/>
+<text x="255" y="98" font-size="12" fill="#0b5cad" text-anchor="middle">inner Ø 20-30 cm</text>
+<path d="M362,118 V300" stroke="#0b5cad" stroke-width="1.2" marker-start="url(#arB)" marker-end="url(#arB)"/>
+<text x="380" y="209" font-size="12" fill="#0b5cad" text-anchor="middle" transform="rotate(-90 380 209)">height 40-60 cm</text>
+<path d="M300,132 H344" stroke="#0b5cad" stroke-width="1.2" marker-start="url(#arB)" marker-end="url(#arB)"/>
+<text x="322" y="62" font-size="12" fill="#0b5cad" text-anchor="middle">clay wall</text>
+<text x="322" y="78" font-size="12" fill="#0b5cad" text-anchor="middle">10-15 cm thick</text>
+<line x1="322" y1="82" x2="322" y2="128" stroke="#0b5cad" stroke-width="1.2"/>
+<g font-size="12" fill="#0b5cad">
+<text x="12" y="52">Crucible: walls 2-3 cm, 500 mL-1 L;</text>
+<text x="12" y="67">no cracks; preheat before use</text>
+<line x1="150" y1="72" x2="279" y2="214" stroke="#0b5cad" stroke-width="1.2"/><circle cx="279" cy="214" r="2.2" fill="#0b5cad"/>
+<text x="12" y="92">charcoal powder on the melt</text>
+<line x1="180" y1="94" x2="246" y2="225" stroke="#0b5cad" stroke-width="1.2"/><circle cx="246" cy="225" r="2.2" fill="#0b5cad"/>
+<text x="12" y="117">charcoal packed all round</text>
+<line x1="160" y1="113" x2="215" y2="224" stroke="#0b5cad" stroke-width="1.2"/><circle cx="215" cy="224" r="2.2" fill="#0b5cad"/>
+<text x="12" y="137">tuyère: 5-10 cm above the</text>
+<text x="12" y="152">floor, angled slightly down</text>
+<text x="12" y="167">at the base of the crucible</text>
+<line x1="138" y1="172" x2="140" y2="246" stroke="#0b5cad" stroke-width="1.2"/><circle cx="140" cy="246" r="2.2" fill="#0b5cad"/>
+</g>
+<text x="262" y="333" font-size="12" fill="#0b5cad" text-anchor="middle">≈10 cm charcoal on the floor</text>
+<line x1="262" y1="322" x2="262" y2="290" stroke="#0b5cad" stroke-width="1.2"/><circle cx="262" cy="290" r="2.2" fill="#0b5cad"/>
+<text x="12" y="333" font-size="12" fill="#555">dry sand on the ground</text>
+</g>
+
+<!-- 2 melting copper, adding tin -->
+<g transform="translate(418,44)">
+<rect width="292" height="400" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="10" y="24" font-size="15" font-weight="bold">② Melting copper, adding tin</text>
+<text x="10" y="44" font-size="12.5" fill="#555">Bronze ≈ 90% copper + 10% tin</text>
+<path d="M76,110 H216 L202,240 H90 Z" fill="#b48a64" stroke="#333" stroke-width="2.2" stroke-linejoin="round"/>
+<path d="M90,112 H202 L190,228 H102 Z" fill="#fff"/>
+<path d="M94.6,150 H197.4 L190,228 H102 Z" fill="#ffc43d"/>
+<path d="M93.8,142 H198.2 L197.4,150 H94.6 Z" fill="url(#powder)"/>
+<!-- iron rod -->
+<path d="M40,64 L118,206" stroke="#333" stroke-width="5" stroke-linecap="round"/>
+<path d="M104,208 Q118,222 134,206" fill="none" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<!-- tongs pushing tin under -->
+<path d="M212,50 L172,182 M226,54 L184,186" stroke="#333" stroke-width="3.5" stroke-linecap="round"/>
+<rect x="164" y="182" width="24" height="16" fill="#c9ccd0" stroke="#333" stroke-width="1.5" transform="rotate(-25 176 190)"/>
+<path d="M164,124 L170,162" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<g font-size="12" fill="#0b5cad">
+<text x="72" y="80">stir with the iron rod</text>
+<text x="232" y="96">tongs</text>
+<text x="232" y="111">push the</text>
+<text x="232" y="126">tin under</text>
+<text x="232" y="141">the melt</text>
+<text x="20" y="160" text-anchor="start">charcoal</text>
+<text x="20" y="175" text-anchor="start">powder</text>
+<line x1="72" y1="156" x2="96" y2="146" stroke="#0b5cad" stroke-width="1.2"/>
+</g>
+<g font-size="13">
+<text x="10" y="262">1. Melt 900 g pure copper at about</text>
+<text x="26" y="280">1150-1200°C. Cover the surface with</text>
+<text x="26" y="298">charcoal powder to reduce oxidation</text>
+<text x="10" y="316">2. Dry and preheat 100 g tin (add</text>
+<text x="26" y="334">about 10-20 g extra). Push it into</text>
+<text x="26" y="352">the melt with tongs; stir with the rod</text>
+<text x="10" y="374" fill="#c33">✗ Tin dropped on the surface → much</text>
+<text x="26" y="392" fill="#c33">of it oxidises to grey-white dross</text>
+</g>
+</g>
+
+<!-- 3 skimming -->
+<g transform="translate(10,454)">
+<rect width="260" height="330" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="10" y="24" font-size="15" font-weight="bold">③ Skimming the dross</text>
+<path d="M40,96 H150 L140,196 H50 Z" fill="#b48a64" stroke="#333" stroke-width="2.2" stroke-linejoin="round"/>
+<path d="M52,98 H138 L129,186 H61 Z" fill="#fff"/>
+<path d="M55.6,132 H134.4 L129,186 H61 Z" fill="#ffc43d"/>
+<path d="M54.6,122 Q66,116 78,124 Q92,118 104,125 Q118,117 135.4,122 L134.4,132 H55.6 Z" fill="#8a8a8a" stroke="#555" stroke-width="1"/>
+<path d="M244,58 L124,118" stroke="#333" stroke-width="4" stroke-linecap="round"/>
+<path d="M110,118 Q120,132 134,120 L124,114 Z" fill="#777" stroke="#333" stroke-width="1.5"/>
+<path d="M150,140 Q184,130 196,170" fill="none" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<path d="M168,206 Q200,176 236,206 Z" fill="url(#sand)" stroke="#999" stroke-width="1.2"/>
+<path d="M190,190 l8,-4 l8,3 l6,-2 l4,6 l-26,1 Z" fill="#8a8a8a" stroke="#555" stroke-width="1"/>
+<text x="170" y="222" font-size="12" fill="#555">on dry sand</text>
+<g font-size="12" fill="#0b5cad">
+<text x="12" y="62">dross</text>
+<line x1="38" y1="66" x2="64" y2="122" stroke="#0b5cad" stroke-width="1.2"/><circle cx="64" cy="122" r="2.2" fill="#0b5cad"/>
+<text x="150" y="42">long ladle</text>
+<text x="150" y="56">or iron rod</text>
+</g>
+<g font-size="13">
+<text x="10" y="248">Skim the dross off the surface and</text>
+<text x="10" y="266">put it on dry sand. When cold, break</text>
+<text x="10" y="284">it up and pick out the small copper</text>
+<text x="10" y="302">beads to melt next time</text>
+</g>
+</g>
+
+<!-- 4 pouring -->
+<g transform="translate(278,454)">
+<rect width="432" height="330" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="10" y="24" font-size="15" font-weight="bold">④ Pouring</text>
+<rect x="4" y="198" width="424" height="14" fill="url(#sand)"/>
+<line x1="4" y1="198" x2="428" y2="198" stroke="#999" stroke-width="1.5"/>
+<!-- mould -->
+<rect x="236" y="138" width="110" height="60" fill="#d8c8a8" stroke="#333" stroke-width="2"/>
+<path d="M276,138 L282,150 V176 H330 V160 H298 V150 L304,138" fill="#7a3a10" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M282,150 V176 H330 V160 H298 V150 Z" fill="#ffc43d" stroke="#333" stroke-width="1.2"/>
+<!-- long-handled tongs -->
+<path d="M30,78 L193.4,62.6 M30,100 L220.4,109.4" stroke="#333" stroke-width="3.5" stroke-linecap="round"/>
+<rect x="44" y="77" width="12" height="25" rx="2" fill="none" stroke="#333" stroke-width="2"/>
+<!-- crucible (tilted) -->
+<path d="M187,67.5 L241.2,29.3 L273.2,84.7 L213,112.5 Z" fill="#b48a64"/>
+<path d="M197.4,69.5 L245.6,36 L269.6,77.5 L216.4,102.5 Z" fill="#fff"/>
+<path d="M202,77.5 H269.6 L216.4,102.5 Z" fill="#ffc43d"/>
+<path d="M241.2,29.3 L187,67.5 L213,112.5 L273.2,84.7 M245.6,36 L197.4,69.5 L216.4,102.5 L269.6,77.5" fill="none" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M193.4,62.6 L219.6,44 M220.4,109.4 L249.6,96" stroke="#333" stroke-width="3.5" stroke-linecap="round"/>
+<path d="M272,82 Q290,92 290,138" fill="none" stroke="#ffc43d" stroke-width="6" stroke-linecap="round"/>
+<path d="M272,82 Q290,92 290,138" fill="none" stroke="#f08a2a" stroke-width="2"/>
+<text x="30" y="128" font-size="12" fill="#0b5cad">long tongs grip the crucible firmly</text>
+<g font-size="12" fill="#0b5cad">
+<text x="356" y="140">mould fully</text>
+<text x="356" y="155">dried and</text>
+<text x="356" y="170">preheated</text>
+<line x1="354" y1="146" x2="346" y2="156" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="296" y="54">pour slowly,</text>
+<text x="296" y="69">keep dross out</text>
+<line x1="300" y1="74" x2="289" y2="110" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="20" y="176">pour over dry sand, not on</text>
+<text x="20" y="192">concrete or wet ground</text>
+</g>
+<g font-size="13">
+<text x="10" y="232" fill="#c33" font-weight="bold">Pour at about 1100-1200°C (orange-yellow to yellow),</text>
+<text x="10" y="250" fill="#c33" font-weight="bold">as soon as possible after adding the tin</text>
+<text x="10" y="268">Stand to one side; never face the mould opening</text>
+<text x="10" y="286">Pour leftover metal into a dry sand pit or a dry iron mould.</text>
+<text x="10" y="304">Lift out with tongs only once it no longer glows; never test</text>
+<text x="10" y="322">with your hand; <tspan fill="#c33">never splash water on a hot ingot</tspan></text>
+</g>
+</g>
+
+<!-- safety -->
+<g transform="translate(0,90)">
+<rect x="10" y="704" width="700" height="306" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="24" y="730" font-size="16" font-weight="bold">Dangers</text>
+<text x="372" y="730" font-size="16" font-weight="bold">Check before you start</text>
+<g font-size="13">
+<text x="24" y="756"><tspan fill="#c33" font-weight="bold">✗ Molten copper + water = explosion:</tspan></text>
+<text x="40" y="773">crucible, mould, tools and ground must</text>
+<text x="40" y="790">all be dry; no work on rainy days</text>
+<text x="24" y="816"><tspan fill="#c33" font-weight="bold">✗ Carbon monoxide:</tspan> work only outdoors in</text>
+<text x="40" y="833">the open; if you get a headache or feel</text>
+<text x="40" y="850">dizzy, leave the furnace at once</text>
+<text x="24" y="876"><tspan fill="#c33" font-weight="bold">✗ Zinc and lead fumes:</tspan> melting brass or</text>
+<text x="40" y="893">old solder gives off white fumes → keep</text>
+<text x="40" y="910">your face away; pregnant women and</text>
+<text x="40" y="927">children keep away</text>
+<text x="24" y="953"><tspan fill="#c33" font-weight="bold">✗ Burns:</tspan> the crucible is at about 1200°C;</text>
+<text x="40" y="970">molten copper splashed on a foot causes</text>
+<text x="40" y="987">extremely severe burns</text>
+</g>
+<g font-size="13">
+<path d="M374,746 l5,6 l9,-11" fill="none" stroke="#2a8a3a" stroke-width="2.5"/>
+<text x="396" y="756">Dry sand on the ground, nothing</text>
+<text x="396" y="773">flammable within 10 m, sand ready</text>
+<text x="396" y="790">for smothering fires</text>
+<path d="M374,806 l5,6 l9,-11" fill="none" stroke="#2a8a3a" stroke-width="2.5"/>
+<text x="396" y="816">At least two people present, full</text>
+<text x="396" y="833">protective gear</text>
+<path d="M374,849 l5,6 l9,-11" fill="none" stroke="#2a8a3a" stroke-width="2.5"/>
+<text x="396" y="859">Crucible free of cracks, fully fired,</text>
+<text x="396" y="876">preheated before use</text>
+<path d="M374,892 l5,6 l9,-11" fill="none" stroke="#2a8a3a" stroke-width="2.5"/>
+<text x="396" y="902">Tongs tried out empty: gripping and</text>
+<text x="396" y="919">pouring rehearsed once</text>
+<path d="M374,935 l5,6 l9,-11" fill="none" stroke="#2a8a3a" stroke-width="2.5"/>
+<text x="396" y="945">Gentle blast for about half an hour</text>
+<text x="396" y="962">first, then more air</text>
+<text x="396" y="979">(a crucible heated fast will crack)</text>
+</g>
+</g>
+</g>
+</svg>
