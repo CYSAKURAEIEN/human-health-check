@@ -1126,3 +1126,725 @@ Harvest:
 ```
 
 ---
+
+## Cucurbits
+
+### Cucumber
+
+**Time to harvest**: 50-70 days
+
+```
+Growing:
+- Spring and summer
+  North: sow direct late April to early May (soil steady above 12°C), or raise
+    seedlings late March-April and plant out after the last frost;
+    autumn cucumbers sown direct in July
+  South: spring sowing March-April, autumn sowing July-August
+- Sow direct or transplant: cucumber roots recover badly from damage, so
+  seedlings must be raised in pots and moved with their root ball; seedling
+  age about 30 days (3 true leaves)
+- Sow 1.5-2 cm deep (2-3 cm when sowing direct), 2-3 seeds per station, keep
+  1 plant after emergence
+- Best germination temperature 25-30°C, up in 3-5 days
+- Spacing: 30-40 cm, rows 60-70 cm apart
+- Trellised or sprawling: a trellis saves ground, improves air flow and gives
+  straight fruit; A-frames about 2 m high
+
+Care:
+✓ Keep the soil moist: shallow roots and big leaves make it very sensitive
+   to drought
+✓ Heavy feeding and watering when flowering and fruiting: once the first
+   cucumber (the "root cucumber") has set, top-dress after every 2-3 pickings
+✓ Pick promptly (keeps it fruiting): pick the first cucumber early so it does
+   not compete with the plant for food
+✓ Training and side shoots: for varieties that fruit on the main vine, remove
+   the side shoots low down (below about the 5th node); pinch out the main vine
+   when it reaches the top of the trellis
+
+Pests and diseases:
+- Downy mildew (angular yellow patches on the leaves bounded by the veins,
+  black-grey mould underneath): worst in damp weather
+  → ventilate, water the roots not the leaves, water in the morning not the evening
+- Powdery mildew: ventilate, spray baking soda water
+- Fusarium wilt (wilts by day and recovers morning and evening, then the whole
+  plant dies in a few days; the stem base splits lengthwise): soil-borne
+  → rotate for 2-3 years or more; with experience, graft onto pumpkin rootstock
+- Aphids: soapy water
+- Cucurbit leaf beetle (small orange-yellow beetle that bites circles in the
+  leaves; larvae bore into the roots): catch them early in the morning while the
+  dew is still on; scatter wood ash round the roots
+- Bitter cucumbers: cucumbers turn bitter when short of water, cold or given too
+  much nitrogen; when the bitter compounds (cucurbitacins) are high, eating them
+  causes vomiting and diarrhoea - do not eat clearly very bitter cucumbers
+
+Harvest:
+- 8-12 days after flowering, when the fruit has reached the size typical of the
+  variety, the spines and bumps are distinct and the colour is bright green
+- At peak cropping pick every 1-2 days; if old fruit is left on the vine, the
+  plant stops setting new ones
+```
+
+### Pumpkin / courgette
+
+**Time to harvest**: 60-100 days
+
+```
+Growing:
+- Sow in spring or summer: after the last frost, soil around 15°C
+  North: late April to mid-May; South: late February-April
+- Sow direct: 2-3 seeds per station, laid flat, 3-4 cm deep; keep 1 plant
+  after emergence
+- Spacing: 50-100 cm (takes a lot of room)
+  Sprawling pumpkins in rows 2-3 m apart, plants 0.5-1 m apart; courgettes
+  (short vines) 50-60 cm apart in rows 80-100 cm apart
+- Dig a planting pit and fertilise: put 3-5 kg of rotted manure or compost in
+  each pit and mix it with the soil - the key to growing good pumpkins
+- Pumpkins can go at the edge of fields, on ditch banks, under fences or beside
+  manure pits, without taking up good land
+
+Care:
+✓ Drought-tolerant, but needs water when flowering and fruiting
+✓ Little care needed: on sprawling pumpkins, put a handful of soil on the vine
+   every few nodes so it roots there and the wind cannot flip the vine
+✓ Hand pollination (sets more fruit): between 6 and 9 a.m. pick a male flower
+   that opened that day, remove the petals, and rub the pollen onto the stigma of
+   a female flower (the one with a small fruit under it); do this especially in
+   wet weather or when there are few insects; unpollinated small fruit turns
+   yellow and drops off after a few days
+✓ If there are too many vines, keep the main vine and 1-2 side vines; for
+   large-fruited varieties keep 2-4 fruits per plant
+
+Pests and diseases:
+- Powdery mildew (white powder on the leaves): baking soda water, remove badly
+  affected leaves
+- Melon fly (south): gum oozes where eggs were laid and the fruit rots inside
+  and fills with maggots → bag young fruit; collect rotten fruit and bury it deep
+- Aphids, cucurbit leaf beetle: as for cucumber
+
+Harvest:
+- Courgettes: pick young 7-10 days after flowering, at about 0.25-0.5 kg
+- Young pumpkins can be picked at any time
+- Mature pumpkins: the skin is hard and a fingernail will not dent it, the stalk
+  has turned woody and yellow-brown; bring them all in before frost, leaving a
+  stalk of about 5 cm
+
+Storage:
+- Pumpkins keep for a long time (months)
+- After harvest keep them somewhere warm for about 10 days to harden the skin,
+  then store at 10-15°C somewhere dry and airy, not piled on each other
+- An excellent reserve food; the tender shoot tips (pumpkin tips) and the
+  flowers are also edible
+```
+
+For details of hand pollination and saving seed see [Seed saving and breeding – Bagging and hand pollination](../../../docs/04-动植物培育/08-留种与育种.md#套袋和人工授粉).
+
+---
+
+## Root and tuber crops
+
+### Potato
+
+**Time to harvest**: 90-120 days
+
+```
+Growing:
+- Spring and autumn crops
+  North (North China): spring potatoes mid-March to early April (soil at 10 cm
+    steady above 7-8°C); one-crop areas of the Northeast and Northwest late April
+    to early May
+  South: Yangtze basin spring potatoes January-February (cover against frost),
+    autumn potatoes late August-September;
+    South China and the Southwest plant a winter crop October-December
+- Seed potatoes: choose disease-free, sound tubers with smooth skins
+  Chitting: 2-3 weeks before planting put them at 15-20°C in diffuse light;
+  plant when the sprouts are 1-2 cm long, stout and green (long white sprouts
+  grown in the dark break easily)
+- Cutting seed potatoes (with eyes): pieces of 25-50 g, each with at least 1-2
+  eyes; small tubers under 50 g are best planted whole
+  If you cut into a diseased tuber with a brown ring or black heart on the cut
+  face → throw the whole tuber away and sterilise the knife in boiling water or
+  75% alcohol before cutting again
+  Dust the pieces with wood ash and leave them 1-2 days for the cut to dry
+  before planting; fewer rot
+- Seed rate: about 1.5-2.25 t/ha (150-225 g per m²)
+- Plant in furrows, spacing: 25-30 cm, rows 60-70 cm apart
+- Cover 10-15 cm: first about 8-10 cm, then build it up by earthing up after
+  emergence
+
+Care:
+✓ Earth up after emergence (2-3 times): first when the shoots are 15-20 cm
+   high, last before the rows close over, building the ridge up to 20-30 cm;
+   tubers exposed above the soil turn green in the light
+✓ Plenty of water as tubers swell: they need most water around flowering; do not
+   let water go over the top of the ridge; stop watering 1-2 weeks before harvest
+✓ Top-dress before flowering: mainly potassium (wood ash); too much nitrogen
+   gives foliage and no tubers
+
+Pests and diseases:
+- Late blight (the most dangerous): water-soaked brown spots at the edges of
+  leaves, with white mould underneath when damp; within a few days the whole
+  field turns black; tubers have sunken brown patches on the surface and brown
+  rot inside
+  (this was the disease behind the Irish famine of the 19th century)
+  → do not grow next to or after tomatoes; earth up high ridges so spores washed
+    down by rain cannot reach the tubers;
+    if the haulm is badly affected, cut off the tops and take them away, and wait
+    about 2 weeks before lifting, so fewer tubers are infected
+- Virus disease ("running out"): seed potatoes you save yourself yield less each
+  generation, with crinkled, mottled leaves
+  → save seed on a cool, high plot and select strictly from healthy plants;
+    use virus-free seed potatoes if you can
+- Common scab (rough corky patches on the skin): common on alkaline soil and
+  freshly limed land
+  → if the soil needs liming, do it in a year when other crops are grown
+- 28-spotted ladybird: hand-pick
+- Soil pests (white grubs, cutworms, wireworms): pick them out when digging;
+  do not use fresh manure
+
+Harvest:
+- When the haulm dies down: most of the leaves have yellowed and withered
+- Test: lift one plant first and rub the skin with your thumb; only when it no
+  longer rubs off are the tubers mature (thin skins break and rot easily)
+- Lift on a sunny day and do not damage tubers with the hoe
+- Dry after lifting: spread out in a cool airy place for a few hours to a day
+  to dry the skin; do not leave them long in strong sun (they scorch and green)
+- Store cool and dry: 2-4°C, and they must be kept dark; pick out damaged and
+  rotting tubers and eat them first
+
+High yields and stores well!
+
+⚠️ Store in the dark: sprouted potatoes and potatoes with green skin contain
+  solanine, which can cause poisoning
+- A few sprouts or a little green: cut out the eyes and green parts deeply
+- Widely sprouted or green: throw the whole potato away
+```
+
+For saving seed potatoes and true potato seed see [Seed saving and breeding – Potatoes and sweet potatoes](../../../docs/04-动植物培育/08-留种与育种.md#土豆和红薯-用薯块繁殖); for cellar storage see [Food processing and preservation – Storage conditions for vegetables](../../../docs/07-日常生活技能/01-食物加工与保存.md#各类蔬菜的储存条件).
+
+### Sweet potato
+
+**Time to harvest**: 120-150 days
+
+```
+Growing:
+- Raising slips: in spring, sprout the roots
+  North: raise slips in a hotbed in mid to late March, plant them out in early
+    to mid-May (after the last frost, soil above 15°C)
+  South: raise slips February-March, plant spring sweet potatoes April-May;
+    plant summer sweet potatoes in June-July after the wheat or rapeseed harvest
+  Raising slips:
+  1. Choose medium roots (150-250 g) with no disease spots, frost damage or wounds
+  2. If you have a thermometer, soak them in water at 51-54°C for 10 minutes
+     against black rot (the temperature must be accurate)
+  3. Lay them head up at a slant in the hotbed with small gaps between them,
+     cover with 2-3 cm of soil, water thoroughly
+  4. Keep the bed at 28-32°C for the first few days (not above 35°C), and lower
+     it to 22-25°C once shoots appear
+- Cuttings: when the shoots are 20-25 cm long with 5-7 leaves, cut them 3-5 cm
+  above the bed surface (high-cut slips carry no soil and so carry less black
+  rot); one bed gives 3-4 cuts
+  If you are short of slips, first plant them in a "multiplication bed" and cut
+  the vines that grow there
+- Ridges: 70-90 cm apart, 25-30 cm high; loose ridges give more, better-shaped roots
+- Planting: at a slant or flat and shallow, with 3-4 nodes in the soil and 3-4
+  leaves showing; plant on an overcast day or in the evening and water well
+- Spacing: about 20-30 cm (30-40 cm on rich land or if you want big roots)
+
+Care:
+✓ Little water early on (encourages rooting)
+✓ Plenty of water mid-season as the roots swell
+✓ Lift the vines (lift them gently so the nodes do not root; do not turn the
+   vines over and damage the leaves)
+✓ Little fertiliser (little nitrogen, prevents leafy growth): base fertiliser
+   mainly compost and wood ash; sweet potatoes like potassium
+✓ Fill gaps promptly
+
+Pests and diseases:
+- Black rot: round black-brown spots on the roots, bitter taste
+  → choose disease-free roots, hot-water treatment, high-cut slips
+  ⚠️ Do not eat sweet potatoes with black rot spots or a bitter taste, and do not
+     feed them to animals (they contain toxins; cattle can die from eating them)
+- Stem nematode (north), sweet potato weevil (south): rotate; at harvest clear
+  all leftover roots and vines from the field
+
+Harvest:
+- Harvest before frost: finish when temperatures fall to about 15°C and before
+  the vines are frosted; frosted roots rot quickly
+- Choose a sunny day and avoid damaging them when digging; dry them in the
+  field for half a day so the skin dries
+- Keep for a long time: 10-15°C; below 9°C they suffer chilling injury and rot;
+  pick out damaged and diseased roots before they go into the cellar
+- The tender shoot tips (sweet potato leaves) are a good vegetable; when
+  vegetables are short in summer you can pinch them off for eating many times
+```
+
+### Carrot
+
+**Time to harvest**: 70-120 days
+
+```
+Growing:
+- Autumn is best
+  North: sow early to mid-July, harvest October-November; for spring sowing in
+    late March-April choose varieties that do not bolt easily
+  South: sow August-September, harvest through the winter
+- Sow direct (do not transplant)
+- The seed is bristly and takes up water slowly, and takes 10-15 days to come
+  up: rub off the bristles and soak for 12-24 hours before sowing
+- Broadcast or in drills: drills 15-20 cm apart; cover about 1 cm, and lay a
+  layer of straw or shade over it to keep it moist until emergence;
+  about 0.5-1 g of seed per m²
+- Spacing: 5-10 cm (10-15 cm for large varieties)
+- Soil: deep and loose
+  Dig at least 25-30 cm deep, break up clods and pick out stones; no fresh
+  manure (causes forking)
+
+Care:
+✓ Keep moist (before emergence): the commonest failure with summer and autumn
+   sowings is the topsoil drying out before the seedlings appear
+✓ Thinning: first at 1-2 true leaves, final spacing at 3-4 true leaves; weed at
+   the same time (seedlings grow slowly and weeds easily smother them)
+✓ Top-dress once when the roots start to swell (wood ash + rotted dilute
+   manure water)
+✓ Hold back water later on (prevents splitting): water evenly, do not soak after
+   a long dry spell
+✓ When the tops of the roots push above the soil and turn green, earth them over
+
+Pests and diseases:
+- Aphids: soapy water
+- Forked roots: stones, hard clods or fresh manure in the soil, or a taproot
+  damaged by transplanting
+- Root maggots: no fresh manure
+
+Harvest:
+- 70-120 days depending on variety
+- When ready: the heart leaves turn pale green, the outer leaves yellow a
+  little, and the shoulders of the root are full
+- In the north finish harvesting before hard freezes; in the south they can be
+  left in the ground and dug as needed
+- Storage: remove leaves, leave 1-2 cm of top, bury in damp sand at 0-3°C
+```
+
+---
+
+## Beans and peas
+
+### Yardlong bean (cowpea)
+
+**Time to harvest**: 60-80 days
+
+```
+Growing:
+- Spring and summer: likes warmth, dislikes cold; sow once the soil is steady
+  above 15°C
+  North: late April-June; South: sow in succession March-August
+- Sow direct: 3-4 seeds per station, 3-4 cm deep, stations 25-30 cm apart,
+  rows 60-70 cm apart; keep 2-3 plants after emergence
+  Usually no need to soak (soaked seed rots easily in cold, wet soil); soil
+  moist but not too wet
+- Trellised or dwarf varieties: once climbing varieties start to run, put up
+  A-frames 2-2.5 m high and lead the vines up
+
+Care:
+✓ Plenty of water and fertiliser during flowering and podding: hold back water a
+   little before flowering so it does not make only leaves and no flowers;
+   top-dress and water once the first pods have set
+✓ Pick promptly (young pods)
+✓ Extending the podding period: top-dress once more late in podding and it can
+   "flower again" and give another crop
+
+Pests and diseases:
+- Legume pod borer: caterpillars bore into flowers and young pods → check in the
+  morning when the flowers open, remove bored flowers and pods
+- Aphids: soapy water, wood ash extract
+- Rust, leaf mould: remove affected lower leaves, do not crowd
+
+Harvest:
+- 10-15 days after flowering, when the pods are even in thickness, the beans are
+  just starting to swell and the pods have not yet gone soft
+- Pick every 1-2 days; break the pod off holding its stalk, without damaging
+  the other buds on the same flower stem
+- Beans from old pods can be dried and eaten as dry beans, or saved as seed
+
+⚠️ Beans must be stir-fried or boiled right through until they lose their raw
+   green colour and raw-bean taste, or they cause poisoning
+
+Advantages:
+- High yields
+- Long picking season
+- Legumes fix nitrogen (improve the soil)
+```
+
+For poisoning from undercooked beans see [Food processing and preservation – High-risk foods and food poisoning](../../../docs/07-日常生活技能/01-食物加工与保存.md#高风险食品与食物中毒).
+
+### Pea
+
+**Time to harvest**: 90-120 days
+
+```
+Growing:
+- Autumn and winter (hardy): in the south sow in October-November; seedlings
+  overwinter and are harvested in April-May the next year
+- The northern winter is too cold, so sow there in early spring as soon as the
+  soil thaws (about early to mid-March, "sowing on the thaw") and harvest in
+  June; sown late, it meets hot weather and sets few pods
+- Germination: germinates slowly even at 2-5°C, best at 15-20°C
+- Sow direct: in drills 30-50 cm apart (60 cm or more for climbing varieties),
+  plants 5-10 cm apart, 3-5 cm deep
+  About 10 g of seed per m² (more or less depending on seed size)
+- Support: for climbing varieties push in branches or canes 1-1.5 m tall;
+  dwarf varieties need none
+- Peas suffer most from continuous cropping: leave at least 3-4 years before
+  growing them on the same plot again
+
+Care:
+✓ Little water and fertiliser at the seedling stage
+✓ More during flowering and podding
+✓ Nitrogen-fixing root bacteria: the first time you grow peas on land that has
+   never had them, mix a handful of soil from an old pea plot with the seed to
+   bring in the root-nodule bacteria
+
+Pests and diseases:
+- Powdery mildew: common late in the season → sow a little early, keep air moving
+- Leaf miners (winding white tunnels in the leaves): remove affected leaves
+
+Harvest:
+- Young pods: when the pod has just reached full size and the peas have not yet
+  swollen (mangetout types)
+- Green peas: pods plump, bright green, not yet yellowing
+- Dry peas: harvest when the pods turn yellow and dry, then dry and store
+- The tender shoot tips (pea shoots) are also a good vegetable
+```
+
+### French bean (common bean)
+
+**Time to harvest**: dwarf varieties 50-70 days; climbing varieties 70-90 days
+
+```
+Growing:
+- Tolerates cool weather better than yardlong bean but not heat (above 30°C
+  many flowers drop)
+  North: spring sowing late April to early May, autumn sowing July;
+  South: March and August
+- Best germination temperature 20-25°C; the seed is large and dislikes cold,
+  wet soil; do not soak it when the soil is too wet
+- Sow direct: 3-4 seeds per station, 3-4 cm deep
+  Dwarf varieties: stations about 30 cm apart, rows 40-50 cm apart;
+  climbing varieties as for yardlong bean
+
+Care:
+✓ Stake climbing varieties; hold back water before flowering, keep moist once
+   flowering and podding
+✓ Pick the young pods promptly
+
+Pests and diseases:
+- Anthracnose, rust: rotate, remove affected leaves
+- Aphids: soapy water
+
+Harvest:
+- About 10-15 days after flowering, when the pods are full-size and the beans are
+  just starting to show
+
+⚠️ As with yardlong beans, they must be stir-fried or boiled right through
+   before eating
+```
+
+---
+
+## Onions and garlic
+
+### Welsh onion / chives
+
+**Time to harvest**: 60-120 days
+
+```
+Growing:
+- Chives can be grown all year; Welsh onion is one crop a year
+  Welsh onion, north: sow seedlings in autumn (late September) to overwinter,
+    or sow in spring (March); plant out in June (around Grain in Ear, about
+    6 June), harvest October-November
+  South: chives and bunching onions can be grown all year, shaded in summer
+- Raise from seed or divide clumps
+  From seed: broadcast, cover 0.5-1 cm, best germination temperature 15-20°C;
+  onion seed is short-lived, so use seed harvested the previous year if you can
+  Division: break a clump of chives or bunching onion into pieces of 2-3 plants,
+  trim overlong roots and leaf tips, and plant
+- Spacing: 5-10 cm (chives)
+  Welsh onion in trenches: trenches 60-80 cm apart and 25-30 cm deep, plants
+  4-6 cm apart, set upright against the trench wall
+
+Care:
+✓ Likes plenty of water and fertiliser
+✓ Earthing up (Welsh onion): start after the Start of Autumn, every 2-3 weeks,
+   3-4 times in all; first fill the trench level, then build a ridge;
+   the higher the earthing up, the longer the white shank; do not bury the
+   heart (where the leaves fork)
+✓ Repeated cutting: cut chives 2-3 cm above the ground; they regrow after feeding
+
+Pests and diseases:
+- Onion thrips (fine silvery-white streaks on the leaves): blue traps; common in
+  dry weather, water as needed
+- Onion fly (root maggots that bore into roots and bulbs): no fresh manure, rotate
+- Purple blotch, downy mildew: drain in the rainy season
+
+Harvest:
+- Welsh onion: around Frost's Descent (about 23 October), when the leaves yellow
+  and the white shank is firm; dry for a few days, tie in bundles and stand them
+  upright in the shade or store in a cellar
+
+Advantages:
+- Easy to grow
+- Many harvests
+- Repels pests (interplanted with other vegetables it has some repellent effect,
+  but it does not replace other pest control)
+```
+
+### Chinese chives
+
+**Time to harvest**: perennial; one planting can be cut for 5-6 years
+
+```
+Growing:
+- From seed: in spring (March-April) or autumn, broadcast in a seedbed, cover
+  0.5-1 cm; slow to come up (10-15 days), keep moist throughout
+- Planting out: when seedlings are 15-20 cm tall (about 2-3 months after sowing),
+  in rows 20-30 cm apart, clumps 10-15 cm apart, 10-20 plants per clump
+- Division: dig up a clump of old chives and break it apart to plant -
+  quickest and easiest
+
+Care:
+✓ Do not cut, or cut little, in the year of planting, so the roots establish
+✓ After each cut wait 2-3 days until the cut has dried and new leaves are
+   showing before watering and top-dressing (watering at once rots the roots)
+✓ The rhizome creeps upwards every year ("jumping roots"); in autumn or early
+   spring cover with 1-2 cm of soil
+✓ In the north the tops die back in winter and the roots overwinter in the
+   soil; they are the first to sprout in early spring
+
+Pests and diseases:
+- Chive maggot (rhizome bored and rotted, leaves yellow and wilt): no fresh
+  manure; in early spring scrape the soil away from the roots, let them air for
+  a few days, then cover with fine sand or fine soil
+- Grey mould: ventilate, clear away dead leaves after cutting
+
+Harvest:
+- Cut when leaves are 20-30 cm long, every 20-30 days, 2-3 cm above the ground
+- 4-5 cuts a year; summer chives are coarse and can be left uncut, then harvest
+  the chive flowers in autumn
+- In winter you can grow blanched chives in the dark (see "Winter and the lean
+  seasons")
+```
+
+For dividing Chinese chives and chives see [Seed saving and breeding – Division](../../../docs/04-动植物培育/08-留种与育种.md#分株).
+
+### Garlic
+
+**Time to harvest**: 180-210 days
+
+```
+Growing:
+- Autumn (September-October): North China late September to early October;
+  Yangtze basin September-October; South China October-November
+  In cold areas of the Northeast and Northwest autumn planting freezes to death
+  → plant in spring instead (after the soil thaws, March-April)
+  Planted too early it grows too big before winter and is easily frosted; too
+  late and it has few roots and is not frost-hardy; 4-5 leaves before winter is best
+- Choosing seed: choose big bulbs with large, even cloves, and plant only the
+  large cloves; you can soak them in cold water for a day before planting
+- Separate the cloves to plant
+- Spacing: 10-15 cm (between plants); rows about 15-20 cm apart
+- Point upwards: press into the soil and cover 3-4 cm; too deep and it comes up
+  slowly, too shallow and frost heaves it out
+- Seed rate: about 250-350 g/m² (depending on clove size)
+
+Care:
+✓ Water before winter: give the "freezing water" watering when the soil freezes
+   at night and thaws by day; in the north also cover with chopped straw or
+   plastic mulch
+✓ Top-dress when growth resumes in spring: water and top-dress once after regreening
+✓ More fertiliser after the scapes are picked (for bulb swelling)
+✓ Needs plenty of water around scape time; stop watering about 1 week before
+   lifting the bulbs
+
+Pests and diseases:
+- Garlic maggot (root maggot): attracted by fresh manure → use only fully
+  rotted manure
+- Leaf blight, rust: rotate, do not let water stand
+
+Harvest:
+- Scapes: in spring
+  When the top of the scape (the spathe) turns white and the stalk bends into a
+  hook, pull it out at midday or in the afternoon (the plant is slightly limp
+  and the scape breaks less easily)
+- Bulbs: early summer
+  About 20 days after the scapes appear, when most leaves have yellowed and the
+  false stem is soft, lift them;
+  after lifting cover the bulbs with the leaves and dry them for 2-3 days
+  (prevents sun scorch), then plait or bundle them and hang them somewhere airy
+- Green garlic: young plants grown close together and harvested early
+```
+
+For the medicinal uses of garlic see [Medicinal plants – Garlic](../../../docs/04-动植物培育/04-药用植物.md#大蒜).
+
+---
+
+## Winter and the lean seasons
+
+```
+The times of year when vegetables are scarcest:
+- North: winter to early spring (December to April); hardest of all is the
+  "spring gap" (*chundan*) in April-May: the cellar is empty and new vegetables
+  have not grown yet
+- South: besides early spring, July-September brings heat and storms when leafy
+  crops struggle, called the "summer gap" (*fuque*)
+
+Going without fresh vegetables for a long time causes scurvy (vitamin C deficiency)
+→ Plan ahead: in autumn grow plenty of vegetables that store, sow crops that
+  overwinter, and sprout beans in winter
+```
+
+For recognising and treating nutritional deficiencies see [Nutrition and deficiency diseases](../../../docs/07-日常生活技能/02-营养与营养缺乏病.md).
+
+### Growing over winter
+
+```
+Autumn-sown crops that overwinter (the first on the market next spring):
+- Spinach, garlic, Welsh onion, Chinese chives (the roots overwinter); in the
+  south also peas, broad beans, rape, choy sum and mustard greens
+- In the north protect them with windbreaks, cold frames, straw or plastic mulch
+
+Early spring sowing:
+- As soon as the soil thaws sow spinach, pak choi, lettuce and small radishes
+  under a low tunnel; you will be eating them more than half a month earlier
+
+Winter in the south:
+- A good season for vegetables: Chinese cabbage, radish, choy sum, mustard
+  greens, celtuce, cabbage, pea shoots
+
+Heeling in (northern tradition):
+- In late autumn, lift Chinese cabbage, celery and spinach that have not
+  finished growing, with their roots and soil, and pack them close together in
+  a cold frame or a sheltered shallow trench; earth them up and water a little.
+  They grow slowly through the winter and you take them as needed
+```
+
+### Storing and processing
+
+```
+In autumn deliberately grow plenty of vegetables that store:
+- Chinese cabbage, radish, carrot, potato, sweet potato, pumpkin, onion, garlic
+- Use cellar storage, pickling and drying together; do not rely on one method
+
+Pickled vegetables and sauerkraut: last all winter, but let them pickle for long
+  enough before eating to avoid nitrite poisoning
+Dried vegetables: beans, radish strips, Chinese cabbage, aubergine and pumpkin
+  strips can all be sun-dried
+```
+
+For cellar storage see [Food processing and preservation – Cellar storage](../../../docs/07-日常生活技能/01-食物加工与保存.md#窖藏); for pickling see [Pickles and sauerkraut](../../../docs/07-日常生活技能/01-食物加工与保存.md#泡菜酸菜) and [Nitrite](../../../docs/07-日常生活技能/01-食物加工与保存.md#-亚硝酸盐-腌菜要等够时间); for drying see [Vegetables and fruit](../../../docs/07-日常生活技能/01-食物加工与保存.md#蔬菜和水果).
+
+### Sprouts and microgreens
+
+With a little warmth indoors in winter you can grow fresh greens without any land.
+
+```
+Bean sprouts (soya bean, mung bean): ready in 3-5 days; the most reliable source
+  of vitamin C in winter; see the nutrition chapter for how to make them
+
+Pea shoots:
+1. Soak peas for 12-24 hours
+2. Spread them in a shallow tray with holes in the bottom (lined with a damp
+   cloth or a thin layer of soil), cover with a damp cloth
+3. Once sprouted remove the cloth, put them on a bright indoor windowsill and
+   sprinkle with water 1-2 times a day
+4. After about 10-15 days, when the shoots are 10-15 cm tall, cut them off at
+   the base; sometimes they grow a second crop
+
+Radish and Chinese cabbage microgreens: scatter on damp soil in a shallow tray;
+  ready to eat in 7-10 days
+
+Garlic greens: stand garlic cloves upright, close together, in sand or soil in a
+  pot, water them and keep indoors at 15-25°C; after 2-3 weeks cut them at about
+  20 cm; you can cut 2-3 times
+
+Blanched chives: in winter cover Chinese chive roots in a cold frame or indoors
+  with an upturned clay pot, black plastic sheet or a thick straw mat to keep
+  out the light; the tender yellow chives that grow are blanched chives
+
+⚠️ Seed for sprouting must not have been treated: bought seed is often coated
+  with insecticide or fungicide (dyed red, pink, blue or green) and must not be
+  sprouted for eating
+⚠️ Smells bad, slimy or mouldy → throw the whole tray away
+```
+
+For how to sprout beans see [Nutrition and deficiency diseases – Bean sprouts](../../../docs/07-日常生活技能/02-营养与营养缺乏病.md#维生素c-豆芽是最可靠的冬季来源); for the dangers of treated seed see [Seed saving and breeding – Why losing your seed means losing farming](../../../docs/04-动植物培育/08-留种与育种.md#为什么种子断了农业就断了).
+
+### The summer gap
+
+```
+Heat-tolerant vegetables (the mainstay of the southern summer):
+- Water spinach (*kongxincai*): sow or grow from cuttings; likes water and
+  fertiliser; cut and it regrows, many times
+- Amaranth: broadcast, ready to eat in about 30 days
+- Yardlong bean, loofah, pumpkin (eat the tender shoot tips too)
+- Sweet potato leaves: pinch off tender shoot tips; the more you pinch, the more
+  it branches
+- Malabar spinach: grow on a trellis, cut the tender tips
+Pak choi, lettuce: shade with shade netting or under a trellis + insect netting,
+  water to cool
+```
+
+Wild greens can fill gaps in lean seasons, but you must be 100% sure of what you are eating; see [Poisonous mushrooms and wild plants – Rules for gathering wild greens and fruit](../../../docs/03-野外生存/09-毒蘑菇与野菜误食.md#采食野菜野果的原则).
+
+---
+
+## 📝 Vegetable growing: key points
+
+```
+Recommended for beginners (easy and productive):
+1. Lettuce, pak choi (fast)
+2. Radish (simple)
+3. Yardlong beans (high yield)
+4. Onions (many harvests)
+5. Tomatoes, peppers (reliable yields)
+
+Rotation principles:
+- Legumes → leafy crops → fruiting vegetables → root crops → legumes
+- The same family (nightshades: tomato, pepper, aubergine, potato) only returns
+  after 3-4 years
+
+The year's plan:
+- Spring: leafy crops, raise seedlings of fruiting vegetables
+- Summer: cucurbits, beans
+- Autumn: radish, Chinese cabbage, autumn peas, garlic
+- Winter: hardy leafy crops
+
+Key skills:
+✓ Fertile, loose soil
+✓ Feed little and often
+✓ Water at the right time
+✓ Prevent pests and diseases
+✓ Rotate crops
+✓ Harvest on time
+
+The commonest failures:
+✗ Sowing at the wrong time: warm-season crops frosted, autumn crops sown too
+  late to mature, spring leafy crops sown too late and bolting
+✗ Small seeds covered too deeply, or topsoil drying out before emergence
+✗ Using fresh manure: burns roots, attracts root maggots, forks radishes and carrots
+✗ Growing the same family on the same plot year after year
+✗ Not draining in the rainy season: peppers, tomatoes, Chinese cabbage rot at the root
+✗ Growing only summer vegetables and having nothing to eat in winter and early spring
+
+Safety:
+⚠️ Manure must be well rotted; never use human faeces on vegetables eaten raw
+⚠️ Yardlong beans and French beans must be cooked through; do not eat sprouted or
+   green potatoes, sweet potatoes with black spots, or very bitter cucumbers
+⚠️ Use pesticides according to the label and the pre-harvest interval; never use
+   highly toxic pesticides
+```
+
+---
+
+**Next chapter**: [Staple crops](../../../docs/04-动植物培育/02-粮食作物.md)
+**Back to**: [Chapter list](README.md) | [Main contents](../../README.md)
