@@ -150,15 +150,15 @@
 <path d="M62,134 V140 H170 V134" fill="none" stroke="#0b5cad" stroke-width="1.2"/>
 <text x="116" y="156" font-size="12" fill="#0b5cad" text-anchor="middle">about 20-30 cm</text>
 <text x="182" y="158" font-size="12" fill="#c33">~1/3 deep</text>
-<text x="14" y="190" font-size="13">① About 20-30 cm beyond the final cut, saw</text>
-<text x="30" y="206" font-size="13">up from below about 1/3 of the way through</text>
-<text x="14" y="224" font-size="13">② A few cm further out than ①, saw down</text>
-<text x="30" y="240" font-size="13">from above until the branch drops</text>
-<text x="14" y="258" font-size="13">③ Last, cut the stub off flush with the</text>
-<text x="30" y="274" font-size="13" dy="-4">collar (stops the bark tearing)</text>
+<text x="14" y="186" font-size="13">① About 20-30 cm beyond the final cut, saw</text>
+<text x="30" y="202" font-size="13">up from below about 1/3 of the way through</text>
+<text x="14" y="220" font-size="13">② A few cm further out than ①, saw down</text>
+<text x="30" y="236" font-size="13">from above until the branch drops</text>
+<text x="14" y="254" font-size="13">③ Last, cut the stub off flush with the</text>
+<text x="30" y="270" font-size="13">collar (stops the bark tearing)</text>
 </g>
 <text x="14" y="894" font-size="17" font-weight="bold">Common tree forms</text>
-<text x="176" y="894" font-size="13" fill="#555">(side view, same scale; winter framework after leaf fall)</text>
+<text x="186" y="894" font-size="13" fill="#555">(side view, same scale; winter framework after leaf fall)</text>
 <g transform="translate(10,904)">
 <rect width="214" height="424" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
 <text x="12" y="22" font-size="15" font-weight="bold">Open centre</text>

@@ -47,7 +47,7 @@ To judge soil quality, see [Geology, minerals and soil - Soil fertility](../../.
 ```
 Type: staple grain
 Cycle: 120-150 days
-Yield: about 7500 kg/ha (paddy rice, milling yield about 70%) – with improved seed,
+Yield: about 7500 kg/ha (paddy rice, milling yield about 65-70%) – with improved seed,
        chemical fertiliser and full irrigation
        With only farmyard manure, traditional varieties and hand work, realistically about 3000-4500 kg/ha
 Suited to: areas with plenty of water

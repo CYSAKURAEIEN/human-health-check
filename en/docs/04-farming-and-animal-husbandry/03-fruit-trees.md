@@ -161,7 +161,7 @@ Depends on the species; generally:
 | Peach, plum, apricot | 3-4 m × 4-5 m | 500-830 | Open-centre crowns spread wide |
 | Sweet cherry | 3-4 m × 4-5 m | 500-830 | |
 | Persimmon | 4-5 m × 5-6 m | 330-500 | |
-| Walnut | Late-bearing 3-4 m × 5-6 m; early-bearing 2-3 m × 4-5 m | 420-830 (late-bearing) | Big trees at field edges or intercropped with grain can be widened to 6 m × 8 m |
+| Walnut | Late-bearing 3-4 m × 5-6 m; early-bearing 2-3 m × 4-5 m | 420-670 (late-bearing) | Big trees at field edges or intercropped with grain can be widened to 6 m × 8 m |
 | Chestnut | 4-5 m × 5-6 m | 330-500 | |
 | Citrus | 3 m × 4 m | About 830 | Pomelos need more space |
 | Jujube | 2-3 m × 3-4 m | 830-1700 | |
