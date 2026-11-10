@@ -1416,7 +1416,7 @@ Output:
 - Price: 20 yuan/kg (live rabbits; fluctuates widely)
 - Income: about 10000-16000 yuan
 
-Net profit: about 0-8000 yuan in the first year; after that you save the cost of breeding
+Net profit: about -1000 to 8000 yuan in the first year (you may make a loss if things go badly); after that you save the cost of breeding
             stock and cages
 
 Notes:
@@ -1477,7 +1477,7 @@ Breeding:
 - Timing of mating: the saying goes "in heat in the morning, mate in the afternoon; in heat
   in the afternoon, mate the next morning"
 - Heifers first mated at about 15-18 months, when they reach about 2/3 of adult weight
-- Pregnancy: yellow cattle about 280 days (about nine and a half months), water buffalo
+- Pregnancy: yellow cattle about 280 days (just over nine months), water buffalo
   about 300-330 days (varies with breed)
 - Calving: normal presentation as in sheep (two front feet plus the nose). If there is no
   progress about 2 hours after the waters break, or the calf is malpresented, call a vet

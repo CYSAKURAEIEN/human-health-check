@@ -857,3 +857,678 @@ Converting to "how many people it can feed" (roughly):
 For the nutritional value of different fruits, see [Nutrition and deficiency diseases](../../../docs/07-日常生活技能/02-营养与营养缺乏病.md).
 
 ---
+
+## Fruit tree management techniques
+
+### Training and pruning
+
+**Aims**:
+- Control the shape and size of the tree
+- Let in air and light
+- Encourage fruiting
+- Renew and rejuvenate
+
+**Timing**:
+- Winter pruning: dormant period (deciduous fruit trees)
+- Summer pruning: growing season
+
+```
+Winter pruning:
+- From leaf fall to bud break in spring, avoiding the coldest spells (below about -10°C cuts are easily
+  frost-damaged); in the north it is mostly done in early spring (February-March)
+- Mainly thinning out, heading back and cutting back; it decides next year's tree shape and yield
+
+Summer pruning (growing season):
+- Rubbing out buds: after bud break, rub off badly placed or crowded buds (by hand; smallest wound)
+- Pinching: when new shoots reach a certain length, pinch off the tip to make them branch and firm up
+- Thinning shoots: cut out crowded new shoots and water shoots
+- Spreading branches: pull upright branches down to horizontal or slanting (tie them with string to
+  stakes in the ground), usually in spring or autumn; untie after about 1-2 months
+
+Special timings:
+- Walnut: after harvest until leaf fall, or after the leaves open (heavy bleeding in the dormant season)
+- Grape: from leaf fall until a month before bleeding starts
+- Peach, apricot, plum, cherry: wounds ooze gum easily; avoid pruning in the depth of winter,
+  delay to early spring or after harvest
+- Citrus (evergreen): mainly in spring before bud break
+```
+
+**Basic cuts**:
+```
+Heading back:
+- Shorten a shoot
+- Encourages new shoots
+
+Thinning out:
+- Remove from the base
+- Reduces the number of branches
+
+Cutting back:
+- Remove part of an older branch
+- Renews and rejuvenates
+
+Leaving unpruned:
+- No cut
+- Encourages fruiting
+```
+
+**How to cut**:
+
+```
+1. Look at the whole tree first: walk round it and decide which big branches to remove;
+   take out big branches first, then cut small ones
+   → "big before small, top before bottom, inside before outside"
+2. What to thin out: dead branches, diseased or pest-damaged branches, crossing branches, overlapping
+   branches, branches growing inwards, upright water shoots, and suckers from the roots and trunk
+3. Heading cuts:
+   - Cut about 0.5-1 cm above a bud, sloping away from the bud
+   - Choose an outward-facing bud (towards the outside of the crown), so the new shoot grows outwards
+     and the crown opens up
+   ✗ Stub left too long: it dies back into a "dead peg" where disease gets in
+   ✗ Cut too close to the bud: the bud dries out and dies
+4. Thinning cuts: cut flush against the "collar" (the slightly raised ring) at the base of the branch,
+   leaving no stub, but do not cut into the trunk
+5. Saw large branches (about 5 cm across or more) with the "three-cut method" so the bark does not tear:
+   ① About 20-30 cm out from where you want the final cut, saw about 1/3 of the way up from underneath
+   ② A few cm further out than ①, saw down from the top until the branch falls
+   ③ Finally saw off the remaining stub flush with the collar
+6. Wounds: pare smooth any cut or saw wound about 2 cm across or more, then seal with wax, paint, or
+   yellow clay mixed with a little cow dung, to prevent cracking and infection
+7. Disinfect tools: after cutting trees with Valsa canker, jujube witches' broom or similar, wipe the
+   blades with 75% alcohol or scald them in boiling water before cutting healthy trees
+
+How much to cut:
+- Young trees: prune lightly, spread more branches and head back less, to form the tree fast and fruit early
+- Full-bearing trees: renew a suitable amount every year, keeping light both inside and outside the crown
+- Old trees: cut back gradually over 2-3 years to rejuvenate; cutting too much at once sends up a mass
+  of water shoots
+- After pruning, look at the crown: if you see light coming through in spots "the size of sieve holes"
+  when standing under the tree, it is about right
+```
+
+**Common tree forms**:
+- Open-centre: hollow centre, good air flow
+- Delayed-open central leader: has a central leader
+- Spindle: for close-planted orchards
+
+```
+Natural open-centre (peach, plum, apricot; also usable for apple, pear, persimmon):
+- Trunk about 40-60 cm tall
+- No central leader; 3 main branches facing three directions (about 120° apart),
+  spaced about 10-20 cm apart vertically, at about 40-60° to the ground
+- Train 2-3 side branches on each main branch, with fruiting shoots on the side branches
+- How: after heading back, choose 3 well-placed new shoots as main branches and pinch or remove the rest;
+  in the second and third year cut out the upright central shoot
+- Keep the tree about 2.5-3 m tall for easy picking
+
+Delayed-open central leader (a kind of leader form; vigorous apple trees, pear, persimmon, walnut, chestnut):
+- Has a central leader, with main branches in 2-3 tiers, 5-7 in all
+  - 3 in the first tier, 2 in the second, 1-2 in the third
+  - About 80-100 cm between tiers, so light gets into the inner crown
+- Tree about 4-5 m tall; takes 4-6 years to form
+- Suits big, long-lived trees at wide spacing
+
+Spindle / slender spindle (close-planted dwarf apples and pears):
+- One upright central leader (tied to a stake if needed),
+  with 10-20 smaller branches spiralling round it, pulled out to about 70-90° from the leader
+  or even hanging down
+- Lower branches somewhat longer, upper ones shorter, so the whole looks like a spindle
+- Tree about 2.5-3.5 m tall; if any branch gets too thick (more than half the thickness of the leader),
+  remove it at the base and replace it with a new one
+```
+
+![The basic pruning cuts, cut positions and three common tree forms](../../images/fruit-tree-pruning.svg)
+
+*Figure: Heading back, thinning out, cutting back, leaving unpruned; cut about 0.5-1 cm above a bud with the bud facing outwards, thinning cuts flush with the collar, the three-cut method for big branches; natural open-centre, delayed-open central leader and spindle forms*
+
+### Fertilising
+
+**Principle**: "mainly organic fertiliser, chemical fertiliser as a supplement"
+
+**Base fertiliser** (autumn):
+```
+- Organic fertiliser (well rotted)
+- Dig a trench at the outer edge of the crown's shadow and apply it there
+- Amount: 20-50 kg per tree (mature trees)
+```
+
+```
+When: from harvest until leaf fall (about September-October) is best
+- The soil is still warm then, so broken roots heal easily and grow new roots, and the fertiliser
+  can be taken up and stored; next year's bud break, flowering and fruit set all depend on these reserves
+- Applied as late as winter or spring, it works clearly less well
+
+Amount (rule of thumb):
+- Young trees: about 5-10 kg per tree
+- Mature trees: about 20-50 kg per tree;
+  the rule of thumb is "1-2 kg of well-rotted organic fertiliser for every 1 kg of fruit produced"
+- You can add bone meal and plant ash at the same time (phosphorus, potassium)
+
+Methods:
+1. Ring trench: dig a trench right round the outer edge of the crown (where roots absorb most actively),
+   about 30-40 cm wide and deep
+2. Radial trenches: dig 4-6 trenches outwards from about 1 m from the trunk, shallow at the inner end
+   and deeper at the outer end
+3. Strip trench: in close-planted orchards dig a trench along one side of the row, and the other side
+   the next year
+- Change position every year, gradually improving the whole root zone
+- Mix fertiliser and soil well before filling in, then water
+⚠️ It must be well rotted: raw manure burns roots and attracts soil pests
+```
+
+For safe treatment of manure and urine and composting times, see [Sanitation - Using faeces and urine](../../../docs/07-日常生活技能/03-卫生设施.md#粪便与尿液的利用); for the roles of nitrogen, phosphorus and potassium, see [Farming and animal husbandry - Fertilising](../../../docs/04-动植物培育/README.md#施肥).
+
+**Top-dressing** (growing season):
+```
+Key times:
+1. Before bud break: mainly nitrogen
+2. After flowering: nitrogen with phosphorus
+3. Fruit swelling: nitrogen, phosphorus and potassium
+4. After harvest: restore the tree
+
+Methods:
+- In trenches or holes
+- Or foliar feeding
+```
+
+```
+In practice:
+- Holes: dig 6-10 holes about 15-20 cm deep at the outer edge of the crown; apply, cover with soil and water
+- Without chemical fertiliser: well-rotted human urine or biogas slurry diluted 5-10 times,
+  or well-rotted chicken manure or oilseed cake
+  - Mature trees: each time about 20-30 L of diluted urine per tree, or 3-5 kg of well-rotted chicken manure
+- Give extra potassium during fruit swelling: about 1-2 kg of plant ash per tree, spread on the basin
+  and forked in shallowly
+  (do not store plant ash mixed with human manure and urine or ammonium nitrogen fertiliser – nitrogen is lost)
+- Foliar feeding: urea about 0.3-0.5%, monopotassium phosphate about 0.2-0.3% (mix as the packet says);
+  spray the undersides of the leaves in the evening or on cloudy days. It acts fast but is only a supplement
+- How to judge:
+  ✓ Leaves deep green, new shoots of moderate length (about 30-50 cm), fruit swelling normally → about right
+  ✗ Leaves pale yellow, new shoots short → not enough fertiliser (first rule out waterlogged, rotting roots)
+  ✗ Shoots growing wildly, leaves large and thin, little fruit with poor colour → too much nitrogen; cut back nitrogen
+- In late autumn (after about August) hold back nitrogen, or the shoots will not ripen and will freeze easily in winter
+```
+
+### Watering
+
+```
+Key times:
+✓ Before bud break
+✓ After flowering
+✓ Fruit swelling
+✓ After harvest
+✓ Before the ground freezes
+
+Methods:
+- Furrow or basin watering
+- Drip irrigation (saves water)
+
+Drainage:
+- Drain promptly in the rainy season (prevents waterlogging)
+```
+
+```
+How much:
+- Each time, wet the whole root layer (about 40-60 cm deep);
+  about 100-200 L per mature tree. Frequent shallow watering makes roots grow upwards and more
+  drought-sensitive
+- Check: 1 day after watering, dig at the outer edge of the crown – if the soil at 40 cm is still moist
+  and holds together, it was watered through
+
+Notes:
+- Generally do not flood-water at flowering (it cools the soil and makes more flowers drop);
+  in severe drought give a little
+- Hold back water 2-3 weeks before ripening: the fruit is sweeter and keeps better,
+  but do not flood heavily after a long dry spell (fruit splits easily)
+- Freezing-up watering: when the soil is about to freeze (in the north about November), water thoroughly
+  once, to reduce shoot dieback and frost damage in winter
+- Saving water: mulching the basin about 10-20 cm deep with straw clearly reduces evaporation;
+  in dry areas you can bury clay pots or buckets with holes at the outer edge of the crown and fill them
+  so the water seeps out slowly
+- Drainage: dig drainage ditches round the orchard and between rows; 6-12 hours after rain there should
+  be no water standing on the surface
+```
+
+For water channels and water storage, see [Water engineering and supply](../../../docs/07-日常生活技能/10-水源工程与供水.md).
+
+### Thinning flowers and fruit
+
+**Aims**:
+- Improve fruit quality
+- Prevent biennial bearing (fruiting in alternate years)
+- Keep the tree vigorous
+
+**Timing**:
+- Flower thinning: at flowering
+- Fruit thinning: 2-4 weeks after fruit set
+
+**Method**:
+```
+- Remove deformed, diseased and pest-damaged fruit
+- Remove crowded, weak and small fruit
+- Keep well-placed fruit
+
+How much fruit to keep:
+- Depends on tree vigour and variety
+- Leaf-to-fruit ratio: about 40:1 (apple; small-fruited types about 30-40:1,
+  large-fruited types such as Fuji about 50-60:1)
+```
+
+```
+Why you must thin: a tree has only so much food to share. If too much fruit is left,
+every fruit is small and sour, the tree is exhausted, and it uses up the reserves for next year's
+flower buds → almost no crop the next year (biennial bearing)
+
+Thin flowers first or fruit first:
+- Where there are no late frosts at flowering and fruit set is reliable: thin flowers (saves more reserves)
+- Where late frosts are common or pollination is poor: do not thin flowers; wait until fruit has set and
+  then thin fruit, to be safe
+
+Guide to fruit to keep, by species:
+- Apple: keep 1 king (central) fruit per cluster, fruits about 20-25 cm apart
+- Pear: keep 1-2 per cluster, fruits about 20-25 cm apart
+- Peach: 3-4 on long fruiting shoots, 1-2 on medium, 1 on short, fruits about 15-20 cm apart
+- Grape: keep 1 bunch per fruiting shoot, pinch the tip off large bunches, thin out crowded berries
+- Persimmon, jujube, walnut, chestnut: usually not thinned specially; regulated by pruning
+
+How:
+1. Cut the fruit stalk with thinning scissors or pinch it with a fingernail; do not pull downwards
+   (that damages the fruiting spur and next year's buds)
+2. First remove diseased, pest-damaged, deformed and small fruit, then thin the rest to the right spacing
+3. Keep fruits that are well shaped with sturdy stalks, growing on the underside or sides of the branch
+4. Thin in two rounds: a rough first thinning, then the final thinning 1-2 weeks later;
+   if a lot of fruit drops naturally, thin less
+
+How to judge: when it looks "such a waste" after thinning, that is usually about right
+```
+
+### Pollination
+
+Many fruit trees **cannot set fruit with their own pollen**. If you plant only one variety, it will set very little fruit however much it flowers.
+
+| Pollination needs | Fruit trees |
+|---------|------|
+| Must have a pollinator tree | Most apple varieties, most pear varieties, most sweet cherry varieties, chestnut, Shatian pomelo, etc. |
+| Fruit better with a pollinator | Walnut, jujube, plum, apricot, persimmon (some varieties) |
+| A single variety fruits normally | Peach (most), grape, citrus (most), pomegranate, fig (common varieties), Chinese cherry |
+
+```
+Planting pollinator trees:
+- The pollinator variety and the main variety must flower at the same time, be compatible with each
+  other, and be a good variety in its own right
+  → The most reliable way is to ask local growers, or see how old local orchards combine them
+- Ratio: 1 pollinator tree for every 4-8 main trees; or plant the 2 varieties in alternate rows
+- Distance: main trees should ideally be no more than about 10-15 m from a pollinator
+  (pollinators spread evenly within rows or every few rows)
+- With only one tree: top-graft one or two branches of a pollinator variety onto it, so one tree has
+  two kinds of flower
+  (for grafting, see Seed saving and breeding - Grafting)
+
+Helping pollination:
+- Put beehives in or near the orchard (about 2-5 hives per ha, the upper figure for close-planted orchards),
+  or protect wild bees
+- Never spray insecticide at flowering
+- If it is rainy and cold at flowering and the bees do not come out, pollinate by hand
+
+Hand pollination:
+1. Collect flowers: on the pollinator variety, pick flowers at the "balloon" stage, just about to open
+2. Collect anthers: rub two flowers together or scrape the anthers off with a comb and spread them on paper
+   in a dry place at about 20-25°C for 1-2 days, until the anthers split and release yellow pollen
+3. Apply: from the day the main variety opens until the 3rd day, dip a soft brush or a pencil with a rubber
+   tip in the pollen and dab it lightly on the stigmas; do 1-2 flowers (the central ones) per cluster
+   - If pollen is scarce, mix in 2-5 times its volume of starch or talc as a filler
+4. Keep the pollen in a dry, cool place and use it within a few days
+```
+
+For the general principles of hand pollination, see [Seed saving and breeding - Bagging and hand pollination](../../../docs/04-动植物培育/08-留种与育种.md#套袋和人工授粉).
+
+### Pest and disease control
+
+**Prevention first**:
+```
+✓ Choose resistant varieties
+✓ Prune properly (air and light)
+✓ Clear fallen leaves and diseased fruit (reduces sources of disease)
+✓ Dig over the soil (destroys overwintering pests)
+✓ Whitewash the trunks (against frost and pests)
+```
+
+```
+The jobs in the year that take least effort and do most good:
+1. Winter clean-up: sweep up fallen leaves, collect mummified and rotten fruit, cut out diseased and
+   dead branches, and burn or bury them all together
+2. Scraping loose old bark in winter: many pests and diseases overwinter in cracks in rough old bark;
+   scrape off the loose old bark with a scraper (without damaging the green living bark) and burn it
+3. Tying straw bands in autumn: in September tie a band of straw or corrugated cardboard round the trunk;
+   pests crawl in to overwinter – take it off in winter and burn it
+4. Before bud break, spray once with a protective product (traditionally lime sulphur) to kill
+   overwintering diseases and insect eggs
+5. Walk the orchard once a week in the growing season and remove diseased leaves and fruit as soon as you see them
+```
+
+**Physical control**:
+- Sugar-vinegar bait traps
+- Black-light traps
+- Bagging (fruit)
+- Sticky traps
+
+```
+- Sugar-vinegar bait: about 1 part sugar, 4 parts vinegar, 1 part liquor and 16 parts water in a
+  wide-mouthed jar or bowl, hung in the lower-middle part of the crown and changed weekly;
+  traps adult fruit borers, leaf-roller moths and similar
+- Bagging: bag apples and pears about 2-4 weeks after thinning, and peaches after thinning;
+  this keeps out fruit borers, yellow peach moths and birds and also reduces pesticide residues.
+  Bags made from newspaper work too; leave ventilation and drainage holes at the bottom
+- Yellow sticky traps: catch aphids, leaf miners and similar; hang about 300-450 per ha
+- Longhorn beetles: when you see fresh droppings and sawdust (pushed out of a hole) on the trunk,
+  hook the larva out along its tunnel with fine wire, or push a cotton ball soaked in pesticide into
+  the hole and seal it with mud
+- Birds: netting is the only reliable long-term method
+```
+
+**Biological control**:
+- Protect and use natural enemies
+- Biological pesticides
+
+```
+- Ladybirds, lacewings and hoverflies eat aphids; predatory mites eat spider mites;
+  parasitic wasps attack fruit borers and leaf rollers
+- Leaving grass or sowing green manure (clover, lucerne etc.) between rows gives natural enemies a home,
+  which is better than bare, clean-cultivated soil
+- Magpies, tits and other birds eat large numbers of pests; you can hang nest boxes
+- Chickens free-ranging in the orchard (in mature orchards where the branches are above the chickens'
+  pecking height) eat the pests in fallen fruit and pupae overwintering in the ground,
+  but stop them scratching up the roots
+```
+
+**Chemical control**:
+- Spray at key times
+- Rotate products (prevents resistance)
+- Observe the pre-harvest interval
+
+```
+General principles:
+- Use only when really needed; give priority to the cultural, physical and biological methods above
+- Use strictly according to the crop, concentration and number of sprays on the label; do not
+  increase the strength
+- Observe the pre-harvest interval: the number of days between the last spray and harvest is stated on the label
+- Do not use highly toxic pesticides banned by the state; never spray insecticides at flowering (protect the bees)
+- When spraying wear a mask, gloves and a hat, long sleeves and long trousers; stand upwind;
+  do not eat, drink or smoke while spraying; wash and change clothes afterwards;
+  pregnant and breastfeeding women, children and old people must not spray
+- Keep pesticides in their original packaging, locked away from water sources, food and children;
+  never decant them into drink bottles
+- Lime sulphur and Bordeaux mixture are traditional orchard sprays; follow specialist sources for
+  making and mixing them
+⚠️ If after spraying you get a headache, nausea, heavy sweating, drooling or blurred vision → leave the
+   area at once, take off contaminated clothing, wash the skin with soapy water and plenty of clean water,
+   call 120, and take the pesticide packaging with you to the doctor
+```
+
+For protection when spraying and first aid for pesticide poisoning, see [Poisoning - Pesticide and rat poison poisoning](../../../docs/01-日常疾病和伤害/12-中毒.md#农药和鼠药中毒).
+
+**Identifying the main pests and diseases**:
+
+| Pest/disease | Main hosts | Recognition | Main control |
+|-------|---------|------|---------|
+| Valsa canker | Apple, pear | Red-brown wet rot of the bark on trunk and branches, smelling of fermented grain; later small black dots on the lesion | Scrape out in early spring: scrape to about 1 cm into healthy bark beyond the lesion, then treat with a product or seal with mud; burn the scrapings; keep the tree vigorous |
+| Ring rot, anthracnose | Apple, pear, persimmon, grape | Brown rotten spots on the fruit, in concentric rings or sunken | Bagging; remove diseased fruit; cut out diseased branches |
+| Scab | Pear | Black mould on leaf undersides and fruit; fruit deformed and cracked | Sweep up fallen leaves; cut out diseased shoots |
+| Leaf curl | Peach | New leaves pucker, turn red and thicken in spring | Spray a protective product before bud break; pick off diseased leaves |
+| Gummosis | Peach, apricot, cherry | Gum oozing from trunk and branches, clear → amber | Drainage, few wounds, seal wounds; scrape off the gum and treat |
+| Downy mildew | Grape | Yellow oily spots on top of the leaf, white frost underneath | Drainage and ventilation; protect before the rainy season |
+| Powdery mildew | Grape, apple | A layer of white powder on leaves, shoots and fruit | Cut out diseased shoots; ventilation |
+| Huanglongbing (citrus greening) | Citrus | Mottled yellowing of leaves, small fruit that colours abnormally | No cure; dig out diseased trees; control the psyllid |
+| Jujube witches' broom | Jujube | Shoots and leaves growing in dense clusters | No cure; remove diseased branches or trees |
+| Aphids | All fruit trees | Colonies on the undersides of young leaves on new shoots; leaves curl | Protect ladybirds; yellow traps; cut off damaged young shoots; in bad cases use a pesticide according to the label |
+| Spider mites | Apple, pear, peach, citrus | Dense yellow-white speckling on the leaves, turning brown and dropping in bad cases; fine webbing under the leaves | Scrape loose old bark, clean up the orchard; protect predatory mites; spray clean water in drought |
+| Fruit borers | Apple, pear, peach, jujube | Small holes in the fruit with droppings coming out | Bagging; sugar-vinegar bait; collect infested fruit and bury it deep |
+| Longhorn beetles | Apple, pear, peach, walnut, citrus | Frass holes and sawdust on trunk and branches | Hook out the larvae; catch the adults |
+| Citrus leaf miner | Citrus | Winding silvery-white tunnels in young leaves | Rub out scattered summer and autumn shoots, let shoots flush all at once |
+
+### Winter frost protection and spring frost protection
+
+```
+General frost protection (deciduous fruit trees in the north):
+1. In autumn hold back nitrogen and water so the shoots ripen fully (become woody and darker in colour)
+2. Water thoroughly once before the ground freezes (freezing-up watering)
+3. Whitewashing the trunks: in late autumn (about October-November) whitewash the trunk and the base of
+   the main branches, to about 1-1.2 m high. The white reflects sunlight, reducing bark splitting from
+   being warmed by day and chilled sharply at night in winter, and also kills some overwintering insect eggs
+   Reference recipe: about 10 parts quicklime, about 1 part salt, about 30-40 parts water,
+   with a little clay or animal fat added to help it stick
+   ⚠️ Quicklime gets violently hot with water and can boil and spatter: wear gloves and goggles,
+      put the water in first and add the lime slowly. If it splashes into the eyes, brush off the
+      particles first, then rinse with plenty of clean water, and get medical care
+4. Protecting young trees (the first 2-3 years after planting):
+   - Mound soil about 30 cm high round the base of the trunk
+   - Wrap the trunk in straw rope, rice straw or old cloth
+   - In the coldest parts of the north: bend 1-2-year-old trees over and bury them in soil
+   - Where winter and spring are dry and windy, the shoots of young trees "die back" (dry out);
+     wrapping or burying is the key
+
+Burying grapevines for winter (where the absolute winter minimum is often below about -15 to -17°C):
+1. Do it after winter pruning and before the ground freezes
+2. Untie the canes from the frame, lay them on the ground all in one direction and tie them together
+3. Cover them with soil taken from between the rows (take soil more than about 1.5 m from the roots,
+   so you do not dig up the roots), about 20-30 cm thick (thicker in colder places; about 50-60 cm
+   in the bitterly cold north-west growing areas), about 1-1.5 m wide
+4. Next spring, uncover them and put them back on the frame around the time the soil thaws and the sap
+   starts flowing (when David's peach flowers)
+   - Uncovered too early: hit by late frost; too late: buds sprout under the soil and are damaged
+     as soon as they see light
+
+Fig, pomegranate: similar to grapes – bend the branches down and bury them, or wrap them;
+planting at the foot of a south-facing wall reduces frost damage
+
+Citrus (in marginal areas):
+- Before a cold wave, water, cover the crown with straw mats or plastic sheet, mulch the basin with
+  straw and mound soil round the root collar
+- After snow, shake snow off the branches promptly so they do not break
+- After frost damage, do not rush to prune; wait until buds break in spring to see how far the dieback goes
+- In the north it can only be grown in pots, brought indoors in winter (somewhere at about 5-10°C with light)
+
+Protecting against late spring frost (one frost at flowering can wipe out the year's crop):
+- Watch the weather: clear, still nights when the temperature falls fast in the evening are the most dangerous
+- Water 1-2 days before the frost; moist soil gives off more heat
+- Smoke: pile heaps of damp straw or sawdust every 10-15 m or so on the windward side of the orchard;
+  light them in the early hours when the temperature falls to about 1°C, and keep them smoking thickly
+  until about 1 hour after sunrise
+  ⚠️ Keep someone on watch, keep away from houses and firewood, and prevent fires
+- Cover small trees with straw mats, plastic sheet or old cloth
+
+Judging frost damage: cut a flower or young fruit open – centre brown or black → killed by frost;
+still greenish-white → alive. In years of severe frost damage, save the tree and try again next year;
+do not abandon care just because there is no fruit this year
+```
+
+For late frost weather patterns, see [Weather observation and forecasting - Frost](../../../docs/08-基础科学知识/07-天气观测与预报.md#五霜冻); for safe handling of quicklime, see [Lime and building materials - Slaking and seasoning](../../../docs/07-日常生活技能/16-石灰与建筑材料.md#熟化与陈伏).
+
+---
+
+## 📝 Key points for growing fruit trees
+
+### Recommended for beginners
+
+```
+Easy to grow (suitable for beginners):
+1. Fig (very easy, fruits fast)
+2. Jujube (drought-tolerant, little care)
+3. Peach (fruits early)
+4. Grape (easy to manage)
+5. Pomegranate (ornamental and edible)
+
+Need experience:
+- Apple, pear (need pollination and pruning skills)
+- Cherry (demanding about environment)
+- Citrus (hard to overwinter in the north)
+```
+
+```
+Priorities for self-sufficiency after a disaster:
+- Keep well or can be dried: jujube, persimmon, walnut, chestnut, late apples and pears
+- Need little care and few sprays: jujube, persimmon, walnut, chestnut, fig, pomegranate
+- Quick results: fig, grape, peach (for something to eat soon), planted together with long-lived trees
+  (for long-term returns)
+```
+
+### Home orchard plan (about 667 m²)
+
+```
+Mixed planting:
+- Apple/pear: 10-15 trees (the core)
+- Peach/plum: 5-8 trees
+- Grape: 20-30 vines (trellis)
+- Pomegranate/jujube: 3-5 trees
+- Strawberry/raspberry: spare ground at the edges
+
+Advantages:
+✓ Variety
+✓ Longer harvest season
+✓ Mutual pollination (for some)
+✓ Less risk
+```
+
+```
+Notes:
+- The numbers above only fit with dwarfing rootstocks or small-crown management;
+  with vigorous apples and pears at 4 m × 5 m, about 667 m² takes only about 30 trees,
+  so reduce each type accordingly
+- Plant at least 2 varieties each of apple and pear that can pollinate each other
+- Put tall walnuts and persimmons on the north side or edges of the plot, where they do not shade other trees
+```
+
+### Labour-saving management
+
+```
+✓ Choose varieties suited to the local area
+✓ Pest- and disease-resistant varieties
+✓ Suitable spacing (not too close)
+✓ Ground cover (keeps moisture in, suppresses weeds)
+✓ Drip irrigation
+✓ Dwarfing rootstocks (easier to manage)
+```
+
+```
+Calendar of work for the year (deciduous fruit trees in the north; correspondingly earlier in the south):
+- Winter (December-February): winter pruning, scraping loose old bark, orchard clean-up, collecting manure;
+  checking for Valsa canker
+- Early spring (March): spray protective product before bud break; uncover buried grapevines; replant gaps
+- Spring (April-May): protect against late frost; pollination and beehives at flowering; thinning flowers
+  and fruit; top-dressing, watering; rubbing out buds
+- Summer (June-August): bagging; summer pruning (pinching, thinning shoots); top-dressing;
+  drainage in the rainy season, disease prevention
+- Autumn (September-November): harvest; base fertiliser; tying straw bands; whitewashing;
+  freezing-up watering; burying grapevines
+```
+
+### Harvest and storage
+
+**Harvest at the right time**:
+- Too early: poor quality
+- Too late: does not store or travel well
+
+```
+How to judge ripeness:
+- Ground colour (skin on the shaded side) changes from green to yellow-green or yellow
+- Seeds change from white to brown
+- The stalk separates from the spur when you lift the fruit gently
+- Taste a few: pleasantly sweet-sour, with the aroma developed
+- Pick fruit for storage a few days earlier than fruit to eat at once (about 80-90% ripe)
+
+Picking:
+- Pick on sunny days after the dew has dried; not in rain or in the midday heat
+- Hold the fruit in your hand and lift or twist upwards; do not yank, and do not break the fruiting shoots
+- Keep the stalk on apples and pears; pick peaches with a little stalk or close to the stalk
+- Handle gently; line baskets with straw or soft cloth; stack no more than 4-5 layers
+- Pick the outer and lower crown first, then the inner and upper crown
+```
+
+**Storage**:
+```
+Short term:
+- Cool, ventilated place
+- Laid out in layers
+
+Long term:
+- Cold storage (for suitable varieties)
+- Processing (jam, dried fruit, bottled fruit)
+```
+
+```
+- Keep well in a cellar: late apples and pears (about 0-3°C in a humid cellar, 3-6 months)
+- Do not keep: peaches, cherries, figs, grapes (a few days to 1-2 weeks) → process promptly
+- Before putting fruit in the cellar, sort out any with wounds or disease spots; one rotten fruit
+  infects the whole lot
+- The ethylene given off by apples ripens other fruit and vegetables; store them apart from potatoes
+  and leafy greens
+- Sort through stored fruit once a month
+```
+
+For cellars, drying and jam, see [Food processing and preservation - Cellar storage](../../../docs/07-日常生活技能/01-食物加工与保存.md#窖藏), [Sun-drying and air-drying](../../../docs/07-日常生活技能/01-食物加工与保存.md#晒干与风干) and [Jam](../../../docs/07-日常生活技能/01-食物加工与保存.md#果酱酸性沸水浴).
+
+### Propagation methods
+
+**Grafting** (the usual method):
+```
+Advantages:
+✓ Keeps good traits
+✓ Dwarfing control
+✓ Earlier fruiting
+✓ Better adaptability (from the rootstock)
+
+Methods:
+- Scion grafting (spring)
+- Bud grafting (late summer to early autumn)
+
+Needs to be learned!
+```
+
+**Cuttings**:
+- Grape, fig: root easily
+- Others need rooting hormone
+
+**Layering**:
+- Grapes and other climbing plants
+
+**Seedlings** (from seed):
+- Do not keep the parent's traits
+- Fruit late
+- Generally not recommended (except for raising rootstocks)
+
+```
+- Rootstock seedlings: in autumn collect ripe seed of Siberian crab apple, birchleaf pear, seedling peach,
+  David's peach, sour jujube, date-plum and similar, and stratify it over winter in moist sand
+  (mix seed and moist sand about 1:3-5 and keep at about 0-5°C); sow in spring when the seeds start
+  to split, and graft that autumn or the next year
+- Changing the variety on old trees (top-working): on a mature tree of a poor variety, saw off the main
+  branches in spring and cleft-graft a good variety onto them; it is back in fruit in 2-3 years,
+  much faster than planting a new tree
+- Take scions and cuttings only from healthy mother trees that have done well for years and are free of
+  virus diseases, jujube witches' broom and huanglongbing
+```
+
+For the steps of cleft grafting and bud grafting, see [Seed saving and breeding - Vegetative propagation](../../../docs/04-动植物培育/08-留种与育种.md#无性繁殖).
+
+### Summary of key points
+
+```
+1. Choose species and varieties that overwinter and fruit normally locally; use healthy grafted trees
+2. Choose sunny, well-drained slopes; do not plant in low, waterlogged spots or where cold air collects
+3. Planting pits about 60-80 cm, with well-rotted base fertiliser kept apart from the roots by soil;
+   graft union 5-10 cm above ground
+4. Better too wide than too close; apple, pear, sweet cherry and chestnut must have pollinator trees
+5. For the first three years keep them watered, weeded and protected from gnawing; remove flowers so the tree grows first
+6. Winter pruning sets the framework, summer pruning removes crowded shoots; clean cuts with no stubs,
+   seal large wounds
+7. Mainly autumn base fertiliser, with small frequent top-dressings in the growing season; hold back nitrogen
+   and water in late autumn
+8. Thin flowers and fruit to prevent biennial bearing; clean up, scrape bark and whitewash in winter;
+   no insecticides at flowering
+9. In the north protect against cold and late frost; keep fruit that stores or dries as winter food
+```
+
+---
+
+**Next chapter**: [Medicinal Plants](../../../docs/04-动植物培育/04-药用植物.md)
+**Back**: [Chapter index](../../../docs/04-动植物培育/README.md) | [Main contents](../../README.md)

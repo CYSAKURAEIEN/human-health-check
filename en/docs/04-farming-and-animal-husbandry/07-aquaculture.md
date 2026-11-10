@@ -321,6 +321,7 @@ Water temperature and feeding rate (pellets or home-made dry feed):
 | 10-15°C  | about 0.5-1% | 1 (midday) |
 | 15-20°C  | about 1-2% | 1-2 |
 | 20-30°C  | about 3-5% | 2-3 |
+| 30-32°C  | about 2-3% | 2 (avoid midday) |
 | >32°C    | Halve it | In the cool of morning and evening |
 
 Example: about 1000 grass carp in the pond, average 0.4 kg, about 400 kg in total;
