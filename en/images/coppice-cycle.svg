@@ -1,0 +1,223 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1044" width="720" height="1044" role="img" aria-label="How to cut a coppice and cut it plot by plot in rotation. Many broadleaf trees, when cut down, send up a clump of new shoots from the stump that grow into firewood again within a few years. Cut in the dormant season, from winter to early spring before bud burst; do not cut in the growing season from late spring to summer, and shoots from cuts made in late summer or early autumn are easily killed by frost in winter. Leave a stump about 5-15 cm above the ground: lower down, shoots grow from the root collar and are sturdier; make the cut smooth and clean, sloping to one side so rain runs off and does not sit on top of the stump and rot it; use a sharp axe or saw, cutting at a slant from the outside, and do not split the stump or tear the bark. Where livestock may browse, some people cut at 1-2 m instead (pollarding). In the first and second year after cutting, keep 3-5 strong, evenly spaced shoots and cut off the rest. Divide the wood into as many plots as there are years in the rotation, for example 8 plots for an 8-year rotation, cut 1 plot a year and return to plot 1 in year 9; record each plot's location, area, year of cutting and yield; mark boundaries clearly with stone piles, notches or posts; no grazing on a freshly cut plot for the first two or three years; a few large trees may be left uncut in each plot. Rotation for willows about 2-5 years, eucalyptus 3-6 years, poplar and black locust 4-8 years, elm, pagoda tree, Chinese wingnut and alder 5-12 years, oaks and Chinese chestnut 8-15 years; most conifers (pine, Chinese fir, cypress) do not resprout from the stump once cut.">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Coppice: how to cut, and cutting plot by plot in rotation</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<path id="drop" d="M0,0 Q-4,7 0,10 Q4,7 0,0 Z" fill="#7aaad6"/>
+<path id="stub" d="M-7,0 V-5 L7,-9 V0 Z" fill="#a07c4a" stroke="#333" stroke-width="1"/>
+<g id="s0"><use href="#stub"/></g>
+<g id="s1"><path d="M-4,-5 Q-8,-10 -11,-16 M0,-7 V-18 M4,-8 Q8,-13 11,-19" fill="none" stroke="#7a5a30" stroke-width="1.3" stroke-linecap="round"/><use href="#stub"/></g>
+<g id="s2"><path d="M-4,-5 Q-8,-14 -11,-23 M0,-7 V-25 M4,-8 Q8,-17 11,-26" fill="none" stroke="#7a5a30" stroke-width="1.6" stroke-linecap="round"/><use href="#stub"/></g>
+<g id="s3"><path d="M-4,-5 Q-8,-17 -11,-30 M0,-7 V-32 M4,-8 Q8,-20 11,-33" fill="none" stroke="#7a5a30" stroke-width="1.9" stroke-linecap="round"/><use href="#stub"/></g>
+<g id="s4"><path d="M-4,-5 Q-8,-21 -11,-37 M0,-7 V-39 M4,-8 Q8,-24 11,-40" fill="none" stroke="#7a5a30" stroke-width="2.2" stroke-linecap="round"/><use href="#stub"/></g>
+<g id="s5"><path d="M-4,-5 Q-8,-24 -11,-44 M0,-7 V-46 M4,-8 Q8,-27 11,-47" fill="none" stroke="#7a5a30" stroke-width="2.5" stroke-linecap="round"/><use href="#stub"/></g>
+<g id="s6"><path d="M-4,-5 Q-8,-28 -11,-51 M0,-7 V-53 M4,-8 Q8,-31 11,-54" fill="none" stroke="#7a5a30" stroke-width="2.8" stroke-linecap="round"/><use href="#stub"/></g>
+<g id="s7"><path d="M-4,-5 Q-8,-31 -11,-58 M0,-7 V-60 M4,-8 Q8,-34 11,-61" fill="none" stroke="#7a5a30" stroke-width="3.1" stroke-linecap="round"/><use href="#stub"/></g>
+<g id="big"><rect x="-3" y="-30" width="6" height="30" fill="#8a5a2b" stroke="#333" stroke-width="1"/><circle cy="-42" r="15" fill="#8fbf6a" stroke="#333" stroke-width="1.2"/></g>
+<g id="stone"><circle cx="-4" cy="0" r="3.5"/><circle cx="4" cy="0" r="3.5"/><circle cx="0" cy="-5" r="3.5"/></g>
+</defs>
+<g font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif" font-size="14" fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Coppice: how to cut, and cutting plot by plot in rotation</text>
+<text x="360" y="50" font-size="13" text-anchor="middle" fill="#555">Many broadleaf trees, once cut, send up a clump of new shoots from the stump that grow into firewood</text>
+<text x="360" y="66" font-size="13" text-anchor="middle" fill="#555">again within a few years; the roots stay alive, so there is no need to replant</text>
+<g transform="translate(10,76)">
+<rect width="700" height="88" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="14" y="22"><tspan font-weight="bold">✓ Cut in the dormant season, winter to early spring before bud burst:</tspan> food reserves are</text>
+<text x="14" y="40">in the roots, so more and stronger shoots next year; the wood is drier; farm work is slack</text>
+<text x="14" y="62" fill="#c33"><tspan font-weight="bold">✗ Not in the growing season, late spring to summer:</tspan> few shoots, or the stump dies;</text>
+<text x="14" y="80" fill="#c33">cut in late summer or early autumn, the new shoots are easily killed by winter frost</text>
+</g>
+<g transform="translate(10,174)">
+<rect width="346" height="282" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="22" font-size="15" font-weight="bold">① Stump and cut</text>
+<text x="18" y="48" font-size="13" font-weight="bold">✓ Low, sloping cut</text>
+<text x="184" y="48" font-size="13" font-weight="bold" fill="#c33">✗ Flat top, split</text>
+<line x1="10" y1="190" x2="336" y2="190" stroke="#999" stroke-width="3"/>
+<line x1="174" y1="34" x2="174" y2="196" stroke="#ddd" stroke-width="1"/>
+<g transform="translate(70,0)">
+<path d="M-12,190 Q-22,200 -34,204 M12,190 Q24,198 36,202 M0,190 V206" fill="none" stroke="#7a5a30" stroke-width="3" stroke-linecap="round"/>
+<path d="M-22,190 V158 L22,146 V190 Z" fill="#a07c4a" stroke="#333" stroke-width="2"/>
+<ellipse cx="0" cy="152" rx="23" ry="5" transform="rotate(-15 0 152)" fill="#f2e6c8" stroke="#333" stroke-width="1.2"/>
+<use href="#drop" x="2" y="116"/><use href="#drop" x="14" y="106"/><use href="#drop" x="-10" y="122"/>
+<path d="M10,148 L-20,157 Q-30,162 -32,178" fill="none" stroke="#0b5cad" stroke-width="1.8" marker-end="url(#arB)"/>
+<path d="M26,146 H32 V190 H26" fill="none" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="36" y="166" font-size="13" fill="#0b5cad">about</text>
+<text x="36" y="182" font-size="13" fill="#0b5cad">5-15 cm</text>
+</g>
+<text x="14" y="76" font-size="13" fill="#0b5cad">Cut slopes to one side,</text>
+<text x="14" y="92" font-size="13" fill="#0b5cad">rain runs off</text>
+<g transform="translate(230,0)">
+<path d="M-12,190 Q-22,200 -34,204 M12,190 Q24,198 36,202 M0,190 V206" fill="none" stroke="#7a5a30" stroke-width="3" stroke-linecap="round"/>
+<path d="M-22,190 V140 L-14,146 L-6,138 L0,148 L8,139 L14,147 L22,140 V190 Z" fill="#a07c4a" stroke="#333" stroke-width="2"/>
+<path d="M-17,143 Q0,150 17,143 Q0,139 -17,143 Z" fill="#7aaad6"/>
+<path d="M0,148 L-4,158 L2,166 L-3,178" fill="none" stroke="#333" stroke-width="1.5"/>
+<path d="M22,150 Q34,156 38,174 L32,174 Q28,160 22,160 Z" fill="#a07c4a" stroke="#333" stroke-width="1.2"/>
+<use href="#drop" x="-6" y="112"/><use href="#drop" x="8" y="120"/>
+</g>
+<g font-size="13" fill="#c33">
+<text x="268" y="78">water sits</text><text x="268" y="94">→ rot</text>
+<line x1="266" y1="98" x2="244" y2="140" stroke="#c33" stroke-width="1"/>
+<text x="186" y="118">split</text>
+<line x1="204" y1="122" x2="228" y2="162" stroke="#c33" stroke-width="1"/>
+<text x="276" y="140">torn</text><text x="276" y="156">bark</text>
+</g>
+<text x="12" y="222" font-size="13">Stump about 5-15 cm high: lower down, shoots come</text>
+<text x="12" y="238" font-size="13">from the root collar and are sturdier. Smooth, clean</text>
+<text x="12" y="254" font-size="13">cut sloping to one side. Use a sharp axe or saw,</text>
+<text x="12" y="270" font-size="13">cutting at a slant from the outside</text>
+</g>
+<g transform="translate(362,174)">
+<rect width="171" height="282" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="22" font-size="15" font-weight="bold">② Pollarding</text>
+<line x1="8" y1="190" x2="163" y2="190" stroke="#999" stroke-width="3"/>
+<path d="M40,72 Q30,52 22,38 M44,70 Q40,50 38,34 M50,70 Q54,50 58,34 M54,72 Q64,52 72,40 M47,70 V30" fill="none" stroke="#7a5a30" stroke-width="2" stroke-linecap="round"/>
+<path d="M38,190 V80 Q38,70 48,70 Q58,70 58,80 V190 Z" fill="#a07c4a" stroke="#333" stroke-width="2"/>
+<path d="M64,72 H70 V190 H64" fill="none" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="74" y="94" font-size="13" fill="#0b5cad">about</text>
+<text x="74" y="110" font-size="13" fill="#0b5cad">1-2 m</text>
+<g transform="translate(118,0)">
+<ellipse cx="0" cy="166" rx="22" ry="12" fill="#f4f1ea" stroke="#333" stroke-width="1.5"/>
+<path d="M-14,176 V190 M-6,177 V190 M8,177 V190 M16,176 V190" stroke="#333" stroke-width="2"/>
+<ellipse cx="-24" cy="154" rx="8" ry="6" fill="#f4f1ea" stroke="#333" stroke-width="1.5"/>
+<path d="M-22,149 l4,-4" stroke="#333" stroke-width="1.5"/>
+</g>
+<text x="108" y="130" font-size="13" fill="#c33">out of</text>
+<text x="108" y="145" font-size="13" fill="#c33">reach</text>
+<text x="12" y="214" font-size="13">Where livestock browse,</text>
+<text x="12" y="230" font-size="13">some cut at 1-2 m high,</text>
+<text x="12" y="246" font-size="13">so the new shoots grow</text>
+<text x="12" y="262" font-size="13">out of the animals' reach</text>
+</g>
+<g transform="translate(539,174)">
+<rect width="171" height="282" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="22" font-size="15" font-weight="bold">③ Thin the shoots</text>
+<line x1="8" y1="190" x2="163" y2="190" stroke="#999" stroke-width="3"/>
+<path d="M74,168 Q60,120 44,72 M82,166 Q80,110 78,60 M92,166 Q100,110 108,62 M100,168 Q118,126 132,84" fill="none" stroke="#6b8a3a" stroke-width="3.5" stroke-linecap="round"/>
+<path d="M70,170 Q56,154 42,140 M78,166 Q72,140 66,116 M88,166 Q92,140 96,120 M104,170 Q118,158 136,146" fill="none" stroke="#9ab27a" stroke-width="1.5" stroke-dasharray="4 2"/>
+<g stroke="#c33" stroke-width="2"><path d="M60,158 l8,-6 M72,152 l8,-4 M86,152 l8,2 M108,162 l6,-8"/></g>
+<path d="M64,190 V172 L112,162 V190 Z" fill="#a07c4a" stroke="#333" stroke-width="2"/>
+<text x="12" y="44" font-size="13" fill="#0b5cad">keep 3-5 strong,</text>
+<text x="12" y="60" font-size="13" fill="#0b5cad">evenly spaced</text>
+<text x="118" y="132" font-size="13" fill="#c33">cut the</text>
+<text x="118" y="148" font-size="13" fill="#c33">rest</text>
+<text x="12" y="210" font-size="13">In years 1-2 after cutting,</text>
+<text x="12" y="226" font-size="13">a stump sends up many</text>
+<text x="12" y="242" font-size="13">shoots: keep 3-5 strong,</text>
+<text x="12" y="258" font-size="13">evenly spaced ones, cut</text>
+<text x="12" y="274" font-size="13">the rest to focus growth</text>
+</g>
+<g transform="translate(10,466)">
+<rect width="700" height="340" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">④ Rotation: divide the wood into as many plots as years in the cycle</text>
+<text x="12" y="46" font-size="13" fill="#555">E.g. 8-year cycle → 8 plots, cut 1 a year, back to plot 1 in year 9. Below: the plots after year 8's cut</text>
+<g transform="translate(96,60)">
+<text x="8" y="20" font-size="13" font-weight="bold">Plot 1</text>
+<text x="54" y="20" font-size="13" fill="#555">cut year 1</text>
+<use href="#s7" x="26" y="88"/>
+<use href="#s7" x="70" y="88"/>
+<use href="#s7" x="114" y="88"/>
+</g>
+<g transform="translate(236,60)">
+<text x="8" y="20" font-size="13" font-weight="bold">Plot 2</text>
+<text x="54" y="20" font-size="13" fill="#555">cut year 2</text>
+<use href="#s6" x="26" y="88"/>
+<use href="#s6" x="70" y="88"/>
+<use href="#s6" x="114" y="88"/>
+</g>
+<g transform="translate(376,60)">
+<text x="8" y="20" font-size="13" font-weight="bold">Plot 3</text>
+<text x="54" y="20" font-size="13" fill="#555">cut year 3</text>
+<use href="#big" x="106" y="88"/>
+<use href="#s5" x="22" y="88"/>
+<use href="#s5" x="56" y="88"/>
+</g>
+<g transform="translate(516,60)">
+<text x="8" y="20" font-size="13" font-weight="bold">Plot 4</text>
+<text x="54" y="20" font-size="13" fill="#555">cut year 4</text>
+<use href="#s4" x="26" y="88"/>
+<use href="#s4" x="70" y="88"/>
+<use href="#s4" x="114" y="88"/>
+</g>
+<g transform="translate(96,160)">
+<rect x="3" y="3" width="134" height="94" fill="#fbecec" stroke="#c33" stroke-width="1.2" stroke-dasharray="5 3"/>
+<text x="8" y="20" font-size="13" font-weight="bold">Plot 8</text>
+<text x="52" y="20" font-size="13" fill="#c33">cut now (yr 8)</text>
+<use href="#big" x="106" y="88"/>
+<use href="#s0" x="22" y="88"/>
+<use href="#s0" x="56" y="88"/>
+</g>
+<g transform="translate(236,160)">
+<rect x="3" y="3" width="134" height="94" fill="#fbecec" stroke="#c33" stroke-width="1.2" stroke-dasharray="5 3"/>
+<text x="8" y="20" font-size="13" font-weight="bold">Plot 7</text>
+<text x="54" y="20" font-size="13" fill="#555">cut year 7</text>
+<use href="#s1" x="26" y="88"/>
+<use href="#s1" x="70" y="88"/>
+<use href="#s1" x="114" y="88"/>
+</g>
+<g transform="translate(376,160)">
+<rect x="3" y="3" width="134" height="94" fill="#fbecec" stroke="#c33" stroke-width="1.2" stroke-dasharray="5 3"/>
+<text x="8" y="20" font-size="13" font-weight="bold">Plot 6</text>
+<text x="54" y="20" font-size="13" fill="#555">cut year 6</text>
+<use href="#s2" x="26" y="88"/>
+<use href="#s2" x="70" y="88"/>
+<use href="#s2" x="114" y="88"/>
+</g>
+<g transform="translate(516,160)">
+<text x="8" y="20" font-size="13" font-weight="bold">Plot 5</text>
+<text x="54" y="20" font-size="13" fill="#555">cut year 5</text>
+<use href="#s3" x="26" y="88"/>
+<use href="#s3" x="70" y="88"/>
+<use href="#s3" x="114" y="88"/>
+</g>
+<rect x="96" y="60" width="560" height="200" fill="none" stroke="#999" stroke-width="2"/>
+<path d="M236,60 V260 M376,60 V260 M516,60 V260 M96,160 H656" stroke="#999" stroke-width="1.5" stroke-dasharray="6 4"/>
+<g fill="#9a9a9a" stroke="#555" stroke-width="0.8">
+<use href="#stone" x="96" y="63"/>
+<use href="#stone" x="236" y="63"/>
+<use href="#stone" x="376" y="63"/>
+<use href="#stone" x="516" y="63"/>
+<use href="#stone" x="656" y="63"/>
+<use href="#stone" x="96" y="163"/>
+<use href="#stone" x="236" y="163"/>
+<use href="#stone" x="376" y="163"/>
+<use href="#stone" x="516" y="163"/>
+<use href="#stone" x="656" y="163"/>
+<use href="#stone" x="96" y="263"/>
+<use href="#stone" x="236" y="263"/>
+<use href="#stone" x="376" y="263"/>
+<use href="#stone" x="516" y="263"/>
+<use href="#stone" x="656" y="263"/>
+</g>
+<path d="M92,210 H66 V110 H88" fill="none" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="12" y="146" font-size="13" fill="#c33">Year 9:</text>
+<text x="12" y="162" font-size="13" fill="#c33">back to</text>
+<text x="12" y="178" font-size="13" fill="#c33">plot 1</text>
+<g transform="translate(20,260)">
+<use href="#stone" x="6" y="22" fill="#9a9a9a" stroke="#555" stroke-width="0.8"/>
+<text x="18" y="24" font-size="13" fill="#0b5cad">Boundary: stone piles, notches or posts</text>
+<use href="#big" x="270" y="30" transform="translate(270,30) scale(0.4) translate(-270,-30)"/>
+<text x="280" y="24" font-size="13" fill="#0b5cad">leave a few big trees</text>
+<rect x="420" y="12" width="16" height="14" fill="#fbecec" stroke="#c33" stroke-width="1.2" stroke-dasharray="4 2"/>
+<text x="442" y="24" font-size="13" fill="#c33">cut in last 2-3 years: no grazing</text>
+</g>
+<text x="12" y="306">✓ Record each plot's location, area, year of cutting and yield on a map or in a notebook</text>
+<text x="12" y="326" fill="#c33">✗ No grazing on a freshly cut plot for the first 2-3 years: livestock eat the shoots bare</text>
+</g>
+<g transform="translate(10,816)">
+<rect width="700" height="218" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">Trees that coppice, and rough rotation lengths</text>
+<text x="12" y="44" font-size="13" fill="#555">(rules of thumb only; they vary widely with climate, site and the thickness of wood wanted)</text>
+<text x="12" y="70">Willows, osier <tspan font-weight="bold">2-5 years</tspan></text>
+<text x="236" y="70">Eucalyptus <tspan font-weight="bold">3-6 years</tspan></text>
+<text x="440" y="70">Poplar, black locust <tspan font-weight="bold">4-8 years</tspan></text>
+<text x="12" y="94">Elm, pagoda tree, Chinese wingnut, alder <tspan font-weight="bold">5-12 years</tspan></text>
+<text x="440" y="94">Oaks, chestnut <tspan font-weight="bold">8-15 years</tspan></text>
+<text x="12" y="120">Short cycle: thin wood, easy to cut and carry, less each time;</text>
+<text x="12" y="138">long cycle: thicker wood that can also serve as small timber or for charcoal</text>
+<text x="12" y="162" fill="#c33">✗ Most conifers (pine, Chinese fir, cypress) do not resprout from the stump: they must be replanted</text>
+<text x="12" y="186">Well-managed coppice grows about 3-8 t of dry wood per hectare a year:</text>
+<text x="12" y="204">cut only the new growth and the wood can be used indefinitely</text>
+</g>
+</g>
+</svg>
