@@ -70,12 +70,12 @@
 <line x1="170" y1="90" x2="172" y2="124" stroke="#0b5cad" stroke-width="1"/>
 <text x="690" y="52" text-anchor="end">Bank top at least 1.5-2 m wide</text>
 <line x1="614" y1="58" x2="614" y2="132" stroke="#0b5cad" stroke-width="1"/>
-<text x="604" y="84" text-anchor="end">Overflow (with fish screen):</text>
-<text x="604" y="100" text-anchor="end">excess rain water leaves here</text>
-<line x1="604" y1="102" x2="652" y2="160" stroke="#0b5cad" stroke-width="1"/>
-<text x="232" y="112">Bank top 30-50 cm above highest level,</text>
-<text x="232" y="128">so heavy rain cannot flood out the fish</text>
-<line x1="480" y1="118" x2="562" y2="152" stroke="#0b5cad" stroke-width="1"/>
+<text x="598" y="84" text-anchor="end">Overflow (with fish screen):</text>
+<text x="598" y="100" text-anchor="end">excess rain water leaves here</text>
+<line x1="600" y1="104" x2="652" y2="160" stroke="#0b5cad" stroke-width="1"/>
+<text x="226" y="117">Bank top 30-50 cm above highest level,</text>
+<text x="226" y="133">so heavy rain cannot flood out the fish</text>
+<line x1="474" y1="123" x2="562" y2="152" stroke="#0b5cad" stroke-width="1"/>
 <text x="72" y="122" font-size="12">coarse</text>
 <text x="188" y="134" font-size="12">fine</text>
 </g>
@@ -123,9 +123,9 @@
 <text x="24" y="109" font-size="13" fill="#fff" text-anchor="middle" font-weight="bold">2</text>
 <line x1="24" y1="114" x2="24" y2="167" stroke="#0b5cad" stroke-width="2"/>
 <text x="42" y="109" font-size="14" font-weight="bold">Disinfect (any one)</text>
-<text x="42" y="127" font-size="13">Quicklime, bleaching powder or tea-seed cake; wait until it</text>
-<text x="42" y="143" font-size="13">is no longer toxic before stocking <tspan fill="#555">(quicklime about 7-10</tspan></text>
-<text x="42" y="159" font-size="13" fill="#555">days, bleaching powder about 4-5 days, tea-seed cake about 7 days)</text>
+<text x="42" y="127" font-size="13">Quicklime, bleaching powder or tea-seed cake; wait until</text>
+<text x="42" y="143" font-size="13">it is no longer toxic: <tspan fill="#555">quicklime about 7-10 days,</tspan></text>
+<text x="42" y="159" font-size="13" fill="#555">bleaching powder about 4-5 days, tea-seed cake about 7 days</text>
 <circle cx="24" cy="176" r="9" fill="#0b5cad"/>
 <text x="24" y="181" font-size="13" fill="#fff" text-anchor="middle" font-weight="bold">3</text>
 <line x1="24" y1="186" x2="24" y2="223" stroke="#0b5cad" stroke-width="2"/>
