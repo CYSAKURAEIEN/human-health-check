@@ -29,15 +29,15 @@
 <!-- goji -->
 <g stroke="#4d7a2e" stroke-width="1.2"><circle cx="340" cy="142" r="19" fill="#a8c98a"/><circle cx="398" cy="142" r="19" fill="#a8c98a"/></g>
 <g fill="#d0342c"><circle cx="333" cy="136" r="2.5"/><circle cx="346" cy="148" r="2.5"/><circle cx="338" cy="152" r="2.5"/><circle cx="392" cy="138" r="2.5"/><circle cx="405" cy="146" r="2.5"/><circle cx="399" cy="132" r="2.5"/></g>
-<text x="369" y="178" font-size="13" font-weight="bold" text-anchor="middle">Gouqi (goji)</text>
-<text x="369" y="193" font-size="12" text-anchor="middle">1-2 bushes</text>
+<text x="362" y="180" font-size="12" font-weight="bold" text-anchor="middle">Gouqi (goji), <tspan font-weight="normal">1-2 bushes</tspan></text>
 <!-- middle -->
 <text x="165" y="206" font-size="12" fill="#0b5cad" text-anchor="middle">Middle: full sun</text>
 <use href="#mum" x="112" y="238"/><use href="#mum" x="166" y="258"/><use href="#mum" x="220" y="238"/>
-<text x="166" y="294" font-size="13" font-weight="bold" text-anchor="middle">Juhua (chrysanthemum) <tspan font-weight="normal" font-size="12">2-3 plants</tspan></text>
+<text x="166" y="286" font-size="13" font-weight="bold" text-anchor="middle">Juhua (chrysanthemum)</text>
+<text x="166" y="300" font-size="12" text-anchor="middle">2-3 plants</text>
 <use href="#dand" x="292" y="214"/><use href="#dand" x="330" y="228"/><use href="#dand" x="372" y="210"/><use href="#dand" x="408" y="232"/><use href="#dand" x="300" y="256"/><use href="#dand" x="348" y="262"/><use href="#dand" x="392" y="268"/><use href="#dand" x="286" y="282"/>
-<text x="350" y="302" font-size="13" font-weight="bold" text-anchor="middle">Pugongying (dandelion)</text>
-<text x="300" y="196" font-size="12" fill="#0b5cad">dandelion scattered</text>
+<text x="352" y="198" font-size="13" font-weight="bold" text-anchor="middle">Pugongying (dandelion)</text>
+<text x="350" y="302" font-size="12" text-anchor="middle">scattered</text>
 <!-- fenced in with barriers -->
 <rect x="30" y="314" width="100" height="84" fill="#e6f0d8" stroke="#444" stroke-width="4"/>
 <text x="80" y="329" font-size="12" font-weight="bold" text-anchor="middle">Bohe (mint)</text>
@@ -106,7 +106,7 @@
 <text x="46" y="554"><tspan font-weight="bold">Feeding:</tspan> well-rotted compost or stable manure, about 2-3 kg per m², dug in; <tspan fill="#c33" font-weight="bold">never unrotted manure</tspan></text>
 <text x="30" y="582" font-weight="bold" fill="#c33" text-anchor="middle">✗</text>
 <text x="46" y="582"><tspan font-weight="bold">What to grow:</tspan> mild plants that are both food and medicine; <tspan fill="#c33" font-weight="bold">never grow or keep toxic medicinal plants</tspan></text>
-<text x="46" y="600">(wutou and fuzi = aconite, banxia = pinellia, tiannanxing = arisaema, shanglu = pokeweed, mantuoluo = datura, etc.)</text>
+<text x="46" y="600">(e.g. aconite (wutou, fuzi), pinellia (banxia), arisaema (tiannanxing), pokeweed (shanglu), datura (mantuoluo))</text>
 </g>
 </g>
 </svg>
