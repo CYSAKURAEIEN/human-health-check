@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 750" width="720" height="750" role="img" aria-label="Rabbit cage and nest box: adult cage 60×50×40 cm, doe cage 70×60×40 cm (length × width × height), with a nest box; cages 30-50 cm off the ground, with a manure channel or droppings board underneath, sloping for easy cleaning; clear droppings and urine every day. Floor of bamboo slats or galvanised wire mesh, bamboo slats about 2-2.5 cm wide with gaps of about 1-1.2 cm; gaps too wide trap and break rabbits' feet, wire too thin causes sore hocks; put a board in the cage for the rabbit to rest its feet. Nest box about 40 × 25 × 20 cm with a hinged lid on top and an entrance at the front about 10 cm above the floor of the box; drill a few small holes in the bottom against damp; about 27-28 days after mating put in the nest box lined with hay. Keep cages indoors or under cover, well ventilated and out of direct sunlight; rabbits do best at about 15-25°C, and above about 30°C they easily die of heatstroke" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Rabbit cage and nest box</title>
+<defs>
+<pattern id="grid" width="9" height="9" patternUnits="userSpaceOnUse"><path d="M0 0 H9 M0 0 V9" stroke="#888" stroke-width="0.8"/></pattern>
+<pattern id="straw" width="10" height="8" patternUnits="userSpaceOnUse"><rect width="10" height="8" fill="#f1dc9a"/><path d="M0 6 L6 2 M5 7 L10 4" stroke="#c9a94e" stroke-width="1"/></pattern>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<marker id="arB0" viewBox="0 0 10 10" refX="2" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M10 0 L0 5 L10 10 Z" fill="#0b5cad"/></marker>
+<g id="rabbit"><ellipse cx="8" cy="-28" rx="4" ry="12" transform="rotate(-15 8 -28)" fill="#e2d9cf" stroke="#333" stroke-width="1.5"/><ellipse cx="15" cy="-27" rx="4" ry="12" transform="rotate(12 15 -27)" fill="#e2d9cf" stroke="#333" stroke-width="1.5"/><circle cx="-25" cy="-4" r="4.5" fill="#fff" stroke="#333" stroke-width="1.2"/><ellipse cx="-6" cy="0" rx="20" ry="13" fill="#e2d9cf" stroke="#333" stroke-width="1.6"/><ellipse cx="12" cy="-10" rx="9" ry="8" fill="#e2d9cf" stroke="#333" stroke-width="1.6"/><circle cx="15" cy="-12" r="1.3" fill="#222"/><ellipse cx="4" cy="12" rx="9" ry="3" fill="#e2d9cf" stroke="#333" stroke-width="1.2"/></g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Rabbit cage and nest box (schematic, not to scale)</text>
+
+<!-- 1 doe cage -->
+<rect x="10" y="44" width="440" height="496" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="68" font-size="16" font-weight="bold">① Doe cage (with nest box)</text>
+<!-- ground -->
+<path d="M90 450 H300 L370 394 H160 Z" fill="#eee"/>
+<path d="M30 450 H300 L370 394 H430" fill="none" stroke="#999" stroke-width="2"/>
+<!-- droppings board -->
+<path d="M90 414 L300 434 L370 384 L160 366 Z" fill="#cfcfcf" stroke="#333" stroke-width="1.5"/>
+<!-- back edges -->
+<path d="M160 144 V264 H370 M160 264 L90 320" fill="none" stroke="#999" stroke-width="1.5"/>
+<!-- floor -->
+<path d="M90 320 H300 L370 264 H160 Z" fill="#f4ead6"/>
+<g stroke="#b89a5e" stroke-width="2">
+<path d="M104 320 L174 264 M118 320 L188 264 M132 320 L202 264 M146 320 L216 264 M160 320 L230 264 M174 320 L244 264 M188 320 L258 264 M202 320 L272 264 M216 320 L286 264 M230 320 L300 264 M244 320 L314 264 M258 320 L328 264 M272 320 L342 264 M286 320 L356 264"/>
+</g>
+<!-- nest box -->
+<path d="M104 254 L133 231 H253 L224 254 Z" fill="#e6d2b0" stroke="#333" stroke-width="1.5"/>
+<path d="M224 254 L253 231 V291 L224 314 Z" fill="#d4bc93" stroke="#333" stroke-width="1.5"/>
+<rect x="104" y="254" width="120" height="60" fill="#e6d2b0" stroke="#333" stroke-width="1.5"/>
+<path d="M184 284 V270 Q184 262 194 262 H206 Q216 262 216 270 V284 Z" fill="url(#straw)" stroke="#333" stroke-width="1.5"/>
+<!-- rabbit -->
+<use href="#rabbit" transform="translate(296,296)"/>
+<!-- front and right-hand mesh -->
+<path d="M300 200 L370 144 V264 L300 320 Z" fill="url(#grid)" fill-opacity="0.5" stroke="#333" stroke-width="2"/>
+<rect x="90" y="200" width="210" height="120" fill="url(#grid)" fill-opacity="0.35" stroke="#333" stroke-width="2.5"/>
+<path d="M90 200 L160 144 H370 L300 200" fill="url(#grid)" fill-opacity="0.35" stroke="#333" stroke-width="2"/>
+<!-- legs -->
+<path d="M90 320 V450 M300 320 V450 M370 264 V394" stroke="#8b6b3e" stroke-width="5"/>
+<!-- dimensions -->
+<path d="M78 202 V318" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<text x="18" y="256" font-size="14" fill="#0b5cad">height</text>
+<text x="18" y="274" font-size="14" fill="#0b5cad">40 cm</text>
+<path d="M78 324 V448" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<text x="16" y="372" font-size="13" fill="#0b5cad">off the</text>
+<text x="16" y="388" font-size="13" fill="#0b5cad">ground</text>
+<text x="14" y="404" font-size="13" fill="#0b5cad">30-50 cm</text>
+<path d="M92 336 H298" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<text x="195" y="352" font-size="14" fill="#0b5cad" text-anchor="middle">length 70 cm</text>
+<path d="M312 326 L380 271" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<text x="382" y="300" font-size="14" fill="#0b5cad">width</text>
+<text x="382" y="317" font-size="14" fill="#0b5cad">60 cm</text>
+<!-- labels -->
+<text x="180" y="102" font-size="14" font-weight="bold">Nest box</text>
+<line x1="210" y1="108" x2="170" y2="240" stroke="#0b5cad" stroke-width="1.3"/><circle cx="170" cy="240" r="2.6" fill="#0b5cad"/>
+<text x="270" y="102" font-size="13">wire-mesh or wooden cage</text>
+<line x1="300" y1="108" x2="320" y2="170" stroke="#0b5cad" stroke-width="1.3"/><circle cx="320" cy="170" r="2.6" fill="#0b5cad"/>
+<text x="382" y="226" font-size="13">floor</text>
+<line x1="390" y1="232" x2="350" y2="270" stroke="#0b5cad" stroke-width="1.3"/><circle cx="350" cy="270" r="2.6" fill="#0b5cad"/>
+<text x="132" y="400" font-size="13">sloping droppings board</text>
+<path d="M170 410 L286 421" stroke="#0b5cad" stroke-width="1.6" marker-end="url(#arB)"/>
+<g font-size="13">
+<text x="24" y="478">Adult cage 60×50×40 cm (length × width × height)</text>
+<text x="24" y="497">Doe cage 70×60×40 cm (needs a nest box)</text>
+<text x="24" y="516" font-size="12" fill="#555">Clear the channel or board every day (urine gives off a lot of ammonia)</text>
+</g>
+
+<!-- 2 floor -->
+<g transform="translate(460,44)">
+<rect x="0" y="0" width="250" height="236" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="14" y="24" font-size="16" font-weight="bold">② Cage floor (close-up)</text>
+<text x="14" y="44" font-size="13" fill="#555">bamboo slats or galvanised mesh</text>
+<g fill="#e6cf9a" stroke="#8b6b3e" stroke-width="1.5">
+<rect x="20" y="58" width="22" height="80"/><rect x="53" y="58" width="22" height="80"/><rect x="86" y="58" width="22" height="80"/><rect x="119" y="58" width="22" height="80"/><rect x="152" y="58" width="22" height="80"/><rect x="185" y="58" width="22" height="80"/>
+</g>
+<rect x="150" y="96" width="82" height="34" rx="2" fill="#c9a26a" stroke="#333" stroke-width="1.5"/>
+<text x="191" y="118" font-size="12" text-anchor="middle">rest board</text>
+<path d="M20 148 H42" stroke="#0b5cad" stroke-width="1.3" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<path d="M42 148 H53" stroke="#c33" stroke-width="1.3"/>
+<path d="M42 142 V154 M53 142 V154" stroke="#c33" stroke-width="1.3"/>
+<text x="14" y="170" font-size="13" fill="#0b5cad">slats about 2-2.5 cm wide</text>
+<text x="14" y="188" font-size="13" fill="#c33">gaps about 1-1.2 cm</text>
+<text x="14" y="210" font-size="13">Gaps too wide: feet trapped, broken</text>
+<text x="14" y="228" font-size="13">Wire too thin: sore hocks</text>
+</g>
+
+<!-- 3 nest box -->
+<g transform="translate(460,290)">
+<rect x="0" y="0" width="250" height="250" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="14" y="24" font-size="16" font-weight="bold">③ Nest box</text>
+<text x="14" y="44" font-size="13">wooden box about 40 × 25 × 20 cm</text>
+<!-- hinged lid, open -->
+<path d="M68 92 H208 L196 62 H56 Z" fill="#efe0c4" stroke="#333" stroke-width="1.5"/>
+<text x="132" y="82" font-size="12" text-anchor="middle">hinged lid</text>
+<path d="M30 116 L68 92 H208 L170 116 Z" fill="url(#straw)" stroke="#333" stroke-width="1.5"/>
+<path d="M170 116 L208 92 V162 L170 186 Z" fill="#d4bc93" stroke="#333" stroke-width="1.5"/>
+<rect x="30" y="116" width="140" height="70" fill="#e6d2b0" stroke="#333" stroke-width="1.5"/>
+<path d="M116 156 V136 Q116 126 128 126 H142 Q154 126 154 136 V156 Z" fill="url(#straw)" stroke="#333" stroke-width="1.5"/>
+<path d="M135 158 V184" stroke="#0b5cad" stroke-width="1.3" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<text x="38" y="164" font-size="12" fill="#0b5cad">entrance about</text>
+<text x="38" y="179" font-size="12" fill="#0b5cad">10 cm up</text>
+<g fill="#555"><circle cx="60" cy="192" r="2"/><circle cx="90" cy="192" r="2"/><circle cx="120" cy="192" r="2"/><circle cx="150" cy="192" r="2"/></g>
+<text x="14" y="210" font-size="12">keeps kits from crawling out early;</text>
+<text x="14" y="225" font-size="12">small holes in the bottom against damp</text>
+<text x="14" y="241" font-size="12" fill="#555">put in 27-28 days after mating, with hay</text>
+</g>
+
+<!-- 4 placing and temperature -->
+<g transform="translate(10,550)">
+<rect x="0" y="0" width="700" height="190" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="2"/>
+<text x="14" y="24" font-size="16" font-weight="bold" fill="#c33">④ Placing and temperature</text>
+<g font-size="13">
+<text x="14" y="50">Indoors or under cover, well ventilated, out of</text>
+<text x="14" y="66">direct sunlight</text>
+<text x="14" y="88">Rabbits gnaw wooden cages: cover the outside</text>
+<text x="14" y="104">of the bars with sheet iron or wire mesh</text>
+<text x="14" y="126">Keep out rats, cats, dogs and snakes: rats kill</text>
+<text x="14" y="142">kits and spread disease</text>
+<text x="14" y="164">Gaps too wide or wire too thin hurt feet: put a</text>
+<text x="14" y="180">board in the cage to rest on</text>
+<text x="360" y="50" font-weight="bold">Rabbits do best at about 15-25°C</text>
+<text x="360" y="72">Above about 30°C they easily die of heatstroke,</text>
+<text x="360" y="88">which is more dangerous than cold</text>
+<text x="360" y="110">→ summer: shade, ventilation, wet the floor</text>
+<text x="360" y="132">→ put a bottle of frozen water in the cage</text>
+<text x="374" y="148">for the rabbit to lean against</text>
+</g>
+</g>
+</g>
+</svg>

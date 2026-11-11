@@ -461,7 +461,7 @@ Thin it gradually from the spine to the edge: spine about 3-5 mm, edge about 1-1
 ```
 Method:
   - Weld a steel strip at the edge
-  - Heat until nearly melting
+  - Heat to bright yellow to white, surface "sweating" (about 1250-1300°C)
   - Hammer so the iron and steel join
   - The result is "soft iron back, steel edge"
   - The "sandwiched steel" of traditional Chinese kitchen knives and axes works on this principle
@@ -897,7 +897,7 @@ Note: do the file test **after quenching and before tempering**. After tempering
 
 **Solutions:**
 - Reheat
-- Line up the crack, heat until nearly melting, and hammer it closed
+- Line up the crack, heat to welding heat (bright yellow to white), and hammer it closed
 - Use good-quality material
 
 **Additional notes:**
@@ -928,7 +928,7 @@ Note: do the file test **after quenching and before tempering**. After tempering
 **Solutions:**
 - You must temper!
 - After quenching, reheat and temper to gold, brown, purple or dark blue depending on the tool's use (see [1.5](#15-heat-treatment-fire-colours-and-temper-colours))
-- Cool in air
+- Once the colour arrives, cool in air, or dip in water or oil to stop it
 
 **Also:** overheating before quenching (heating to orange-yellow or yellow before quenching) makes the steel's grains grow coarse; the fracture looks bright and coarse-grained, and tempering cannot save it. In that case, first normalise 2-3 times to refine the grain, then quench again at cherry red.
 

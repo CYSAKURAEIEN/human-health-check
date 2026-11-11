@@ -1,0 +1,180 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 920" width="720" height="920" role="img" aria-label="Building a pigsty: the pen is divided into a lying area, a feeding area and a dunging area; pigs dung in the corner furthest from the trough and the sleeping place, so put the dunging area at the low end, near the gate and the drain, and clean it every day; floor slope about 2%-3% (2-3 cm fall per metre), towards the dunging area and the drain; the lying area is a little higher than the dunging area and covered with dry straw or boards; fence about 1 m high, its bottom edge buried in the ground or weighed down with stones; the pen gate opens outwards; vents in the roof or high up. Farrowing pen about 2 m × 2.5 m, with a guard rail all along the walls about 20-25 cm off the floor and about 20-25 cm from the wall, and a warm creep fenced off in one corner that only piglets can get into; sow about 18-22°C, newborn piglets about 30-34°C. Floor area: fattening pigs 1.5-2 m² per head, sows 3-4 m² per head; more than 200 m from houses, at least 30 m from wells and water sources and downhill of them. Stinging ammonia means not enough ventilation; above about 28-30°C pigs suffer heat stress, so give shade, a mud wallow, splash cool water and give plenty of drinking water" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Building a pigsty</title>
+<defs>
+<pattern id="soil" width="16" height="16" patternUnits="userSpaceOnUse"><rect width="16" height="16" fill="#efe4cf"/><circle cx="4" cy="5" r="1.1" fill="#bba57a"/><circle cx="12" cy="12" r="1.1" fill="#bba57a"/><circle cx="11" cy="3" r="0.8" fill="#bba57a"/></pattern>
+<pattern id="mesh" width="6" height="6" patternUnits="userSpaceOnUse"><rect width="6" height="6" fill="#fff"/><path d="M0 0 H6 M0 0 V6" stroke="#777" stroke-width="1"/></pattern>
+<pattern id="straw" width="10" height="8" patternUnits="userSpaceOnUse"><rect width="10" height="8" fill="#f1dc9a"/><path d="M0 6 L6 2 M5 7 L10 4" stroke="#c9a94e" stroke-width="1"/></pattern>
+<pattern id="dung" width="14" height="12" patternUnits="userSpaceOnUse"><rect width="14" height="12" fill="#ece2cf"/><circle cx="4" cy="4" r="1.3" fill="#b89a6e"/><circle cx="10" cy="9" r="1.1" fill="#b89a6e"/></pattern>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<marker id="arB0" viewBox="0 0 10 10" refX="2" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M10 0 L0 5 L10 10 Z" fill="#0b5cad"/></marker>
+<g id="pigS"><path d="M-30 -4 q-8 -4 -5 -9 q4 -3 4 2" fill="none" stroke="#333" stroke-width="1.5"/><ellipse cx="0" cy="0" rx="30" ry="15" fill="#f6cfc6" stroke="#333" stroke-width="1.8"/><circle cx="30" cy="-3" r="10" fill="#f6cfc6" stroke="#333" stroke-width="1.8"/><rect x="38" y="-8" width="6" height="9" rx="2" fill="#eeb3a8" stroke="#333" stroke-width="1.2"/><path d="M23 -10 L28 -20 L33 -11 Z" fill="#eeb3a8" stroke="#333" stroke-width="1.2" stroke-linejoin="round"/><circle cx="34" cy="-6" r="1.2" fill="#222"/></g>
+<g id="pigT"><path d="M-22 0 q-7 -3 -6 3 q1 4 4 1" fill="none" stroke="#333" stroke-width="1.3"/><ellipse cx="0" cy="0" rx="22" ry="12" fill="#f6cfc6" stroke="#333" stroke-width="1.6"/><ellipse cx="18" cy="-8" rx="5" ry="3" fill="#eeb3a8" stroke="#333" stroke-width="1"/><ellipse cx="18" cy="8" rx="5" ry="3" fill="#eeb3a8" stroke="#333" stroke-width="1"/><ellipse cx="25" cy="0" rx="8" ry="7" fill="#f6cfc6" stroke="#333" stroke-width="1.6"/><ellipse cx="33" cy="0" rx="2.5" ry="4" fill="#eeb3a8" stroke="#333" stroke-width="1"/></g>
+<g id="lamp"><path d="M0 -14 V-4" stroke="#555" stroke-width="1.5"/><path d="M-7 -4 H7 L4 4 H-4 Z" fill="#555"/><circle cx="0" cy="7" r="4" fill="#ffd866" stroke="#e0a020" stroke-width="1.5"/></g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Building a pigsty (schematic, not to scale)</text>
+
+<!-- 1 plan: areas -->
+<rect x="10" y="44" width="350" height="400" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="68" font-size="16" font-weight="bold">① Plan: areas</text>
+<rect x="40" y="90" width="280" height="230" fill="#e9e9e9"/>
+<rect x="43" y="93" width="150" height="97" fill="url(#straw)"/>
+<rect x="232" y="246" width="85" height="71" fill="url(#dung)"/>
+<path d="M262 320 H40 V90 H320 V320 H306" fill="none" stroke="#555" stroke-width="6" stroke-linejoin="round"/>
+<!-- gate opens outwards -->
+<path d="M262 320 V364" stroke="#8b6b3e" stroke-width="4"/>
+<path d="M306 320 A44 44 0 0 1 262 364" fill="none" stroke="#0b5cad" stroke-width="1.3" stroke-dasharray="4 3"/>
+<text x="254" y="344" font-size="13" fill="#0b5cad" text-anchor="end">gate opens</text>
+<text x="254" y="360" font-size="13" fill="#0b5cad" text-anchor="end">outwards</text>
+<!-- drain -->
+<rect x="326" y="210" width="12" height="118" fill="#cfe0f0" stroke="#333" stroke-width="1.5"/>
+<text x="314" y="348" font-size="13">drain</text>
+<!-- pigs -->
+<use href="#pigT" transform="translate(88,124) rotate(-10)"/>
+<use href="#pigT" transform="translate(136,162) rotate(170)"/>
+<!-- trough, drinker -->
+<rect x="43" y="232" width="16" height="70" fill="#bbb" stroke="#333" stroke-width="1.5"/>
+<circle cx="51" cy="214" r="5" fill="#cfe0f0" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="64" y="219" font-size="13">drinker</text>
+<text x="64" y="256" font-size="13">trough</text>
+<text x="64" y="282" font-size="14" font-weight="bold">Feeding area</text>
+<text x="200" y="112" font-size="14" font-weight="bold">Lying area</text>
+<text x="200" y="130" font-size="13">higher and dry,</text>
+<text x="200" y="147" font-size="13">straw or boards</text>
+<text x="274" y="274" font-size="13" font-weight="bold" text-anchor="middle">Dunging area</text>
+<text x="274" y="292" font-size="13" text-anchor="middle">low, by gate</text>
+<text x="274" y="308" font-size="13" text-anchor="middle">clean daily</text>
+<!-- slope direction -->
+<path d="M176 200 L228 244" stroke="#0b5cad" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#arB)"/>
+<path d="M118 236 L226 290" stroke="#0b5cad" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#arB)"/>
+<text x="24" y="390" font-size="13">Floor slope about 2%-3% (2-3 cm fall per metre),</text>
+<text x="24" y="408" font-size="13">towards the dunging area and the drain</text>
+<text x="24" y="430" font-size="12" fill="#555">Pigs dung in the corner furthest from trough and bed</text>
+
+<!-- 2 section -->
+<rect x="370" y="44" width="340" height="400" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="384" y="68" font-size="16" font-weight="bold">② Section: floor and ventilation</text>
+<rect x="372" y="330" width="336" height="20" fill="url(#soil)"/>
+<path d="M372 330 H640 M668 330 H708" stroke="#999" stroke-width="3"/>
+<!-- drain -->
+<path d="M640 330 V346 H668 V330" fill="#cfe0f0" stroke="#333" stroke-width="1.5"/>
+<!-- back wall, roof -->
+<rect x="392" y="130" width="12" height="200" fill="#d9c7a8" stroke="#333" stroke-width="2"/>
+<rect x="392" y="136" width="12" height="24" fill="url(#mesh)" stroke="#333" stroke-width="1.5"/>
+<path d="M382 126 L704 186" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+<path d="M694 184 V330" stroke="#8b6b3e" stroke-width="4"/>
+<!-- floor: sloping from lying area to dunging area -->
+<path d="M404 312 L620 326 V330 H404 Z" fill="#c8c8c8" stroke="#333" stroke-width="1.5"/>
+<path d="M404 303 L500 309 L500 318 L404 312 Z" fill="url(#straw)" stroke="#c9a94e" stroke-width="1"/>
+<use href="#pigS" transform="translate(452,292) scale(0.85)"/>
+<ellipse cx="588" cy="322" rx="5" ry="3" fill="#8b6b3e"/><ellipse cx="602" cy="323" rx="4" ry="2.5" fill="#8b6b3e"/>
+<!-- fence 1 m -->
+<path d="M620 262 V330" stroke="#8b6b3e" stroke-width="4"/>
+<path d="M620 330 V346" stroke="#c33" stroke-width="3" stroke-dasharray="4 3"/>
+<path d="M614 264 H626 M614 288 H626 M614 312 H626" stroke="#8b6b3e" stroke-width="3"/>
+<path d="M632 264 V326" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<text x="640" y="290" font-size="13" fill="#0b5cad">about</text>
+<text x="640" y="306" font-size="13" fill="#0b5cad">1 m</text>
+<!-- slope -->
+<text x="490" y="252" font-size="13" fill="#0b5cad">slope about 2%-3%</text>
+<text x="490" y="269" font-size="13" fill="#0b5cad">(2-3 cm per metre)</text>
+<path d="M506 292 L608 300" stroke="#0b5cad" stroke-width="2" marker-end="url(#arB)"/>
+<!-- ventilation -->
+<path d="M436 282 C 418 240, 412 190, 408 162" fill="none" stroke="#0b5cad" stroke-width="1.6" stroke-dasharray="5 4"/>
+<path d="M398 148 H378" stroke="#0b5cad" stroke-width="2" marker-end="url(#arB)"/>
+<text x="420" y="96" font-size="14" font-weight="bold">Vents up high</text>
+<text x="420" y="114" font-size="13" fill="#555">damp and smells escape at the top</text>
+<line x1="424" y1="118" x2="404" y2="140" stroke="#0b5cad" stroke-width="1.3"/>
+<text x="428" y="196" font-size="13">Winter: close windows, but</text>
+<text x="428" y="213" font-size="13">keep vents high so cold air</text>
+<text x="428" y="230" font-size="13">can't hit the pigs (draughts)</text>
+<text x="384" y="378" font-size="13">Lying area a little higher than dunging area,</text>
+<text x="384" y="394" font-size="13">straw or boards; not on wet concrete</text>
+<text x="384" y="414" font-size="13" fill="#c33">Bury the fence's bottom edge or weigh it</text>
+<text x="384" y="430" font-size="13" fill="#c33">down with stones (pigs root and barge)</text>
+<text x="640" y="362" font-size="12">drain</text>
+
+<!-- 3 farrowing pen -->
+<rect x="10" y="456" width="440" height="300" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="480" font-size="16" font-weight="bold">③ Farrowing pen and guard rail (no crushing)</text>
+<rect x="48" y="506" width="175" height="140" fill="#eee" stroke="#555" stroke-width="5"/>
+<rect x="58" y="516" width="155" height="120" fill="none" stroke="#8b6b3e" stroke-width="2.5" stroke-dasharray="7 4"/>
+<rect x="51" y="509" width="46" height="46" fill="url(#straw)"/>
+<path d="M51 555 H97 V509" fill="none" stroke="#8b6b3e" stroke-width="3"/>
+<use href="#lamp" transform="translate(74,526)"/>
+<use href="#pigT" transform="translate(150,584) scale(1.5)"/>
+<use href="#pigT" transform="translate(70,546) scale(0.38)"/>
+<use href="#pigT" transform="translate(84,580) scale(0.38) rotate(30)"/>
+<use href="#pigT" transform="translate(106,620) scale(0.38) rotate(-20)"/>
+<path d="M50 662 H221" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<text x="136" y="680" font-size="13" fill="#0b5cad" text-anchor="middle">farrowing pen about 2 m × 2.5 m</text>
+<text x="24" y="704" font-size="13">Fence off a warm creep in one</text>
+<text x="24" y="720" font-size="13">corner that only piglets can enter:</text>
+<text x="24" y="736" font-size="13">straw, a heat lamp or warm box</text>
+<text x="104" y="536" font-size="12">warm creep</text>
+<!-- cross-section: guard rail -->
+<text x="262" y="508" font-size="13" font-weight="bold">Section by the wall</text>
+<path d="M260 640 H420" stroke="#999" stroke-width="3"/>
+<rect x="420" y="530" width="14" height="112" fill="#d9c7a8" stroke="#333" stroke-width="2"/>
+<ellipse cx="342" cy="613" rx="42" ry="27" fill="#f6cfc6" stroke="#333" stroke-width="1.8"/>
+<text x="328" y="632" font-size="12" text-anchor="middle">sow</text>
+<circle cx="390" cy="606" r="6" fill="#b98c4f" stroke="#333" stroke-width="1.5"/>
+<path d="M390 614 V638" stroke="#0b5cad" stroke-width="1.3" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<use href="#pigT" transform="translate(406,630) scale(0.32) rotate(-90)"/>
+<text x="402" y="598" font-size="12" text-anchor="middle">piglet</text>
+<path d="M392 576 H418" stroke="#0b5cad" stroke-width="1.3" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<path d="M390 600 V576" stroke="#0b5cad" stroke-width="1" stroke-dasharray="3 2"/>
+<text x="300" y="548" font-size="12" fill="#0b5cad">20-25 cm from wall</text>
+<line x1="390" y1="552" x2="404" y2="574" stroke="#0b5cad" stroke-width="1"/>
+<text x="262" y="566" font-size="12" fill="#0b5cad">off floor</text>
+<text x="262" y="581" font-size="12" fill="#0b5cad">20-25 cm</text>
+<line x1="300" y1="585" x2="386" y2="628" stroke="#0b5cad" stroke-width="1"/>
+<text x="262" y="664" font-size="13">Guard rail (round poles or</text>
+<text x="262" y="680" font-size="13">steel pipe): when the sow</text>
+<text x="262" y="696" font-size="13">lies down by the wall, the</text>
+<text x="262" y="712" font-size="13">piglets escape under it</text>
+<text x="262" y="732" font-size="13" fill="#c33">Sow: about 18-22°C</text>
+<text x="262" y="748" font-size="13" fill="#c33">Newborn piglets: 30-34°C</text>
+
+<!-- 4 floor area and site -->
+<g transform="translate(460,456)">
+<rect x="0" y="0" width="250" height="300" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="14" y="24" font-size="16" font-weight="bold">④ Area, site, fittings</text>
+<g font-size="13">
+<text x="14" y="50" font-weight="bold">Floor area</text>
+<text x="14" y="68">Fattening pigs 1.5-2 m²/head</text>
+<text x="14" y="86">Sows 3-4 m²/head</text>
+<text x="14" y="110" font-weight="bold">Site</text>
+<text x="14" y="128">High, dry, sunny, sheltered,</text>
+<text x="14" y="144">well drained</text>
+<text x="14" y="160">Over 200 m from houses</text>
+<text x="14" y="176">At least 30 m from wells and</text>
+<text x="14" y="192">water, and downhill of them</text>
+<text x="14" y="208">Downwind (prevailing summer wind)</text>
+<text x="14" y="232" font-weight="bold">Fittings</text>
+<text x="14" y="250">Trough (concrete or iron)</text>
+<text x="14" y="266">Water trough or auto drinker</text>
+<text x="14" y="282">Slatted or sloped concrete floor</text>
+</g>
+</g>
+
+<!-- 5 ventilation and heat -->
+<g transform="translate(10,768)">
+<rect x="0" y="0" width="700" height="142" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="2"/>
+<text x="14" y="24" font-size="16" font-weight="bold" fill="#c33">⑤ Ventilation and heat</text>
+<g font-size="13">
+<text x="14" y="50">Stinging eyes, sharp ammonia smell = not</text>
+<text x="14" y="68">enough ventilation; more respiratory disease</text>
+<text x="14" y="90">Droplets on walls, damp or mouldy bedding =</text>
+<text x="14" y="108">too wet: ventilate more, change bedding often</text>
+<text x="14" y="130">Winter: close windows, but leave high vents</text>
+<text x="360" y="50">Pigs hardly sweat: above about 28-30°C they</text>
+<text x="360" y="68">get heat stress (panting, lying still, not eating)</text>
+<text x="360" y="90">→ shade; a mud wallow in the pen or yard</text>
+<text x="360" y="108">→ splash cool water on the floor and the pigs</text>
+<text x="360" y="130">→ plenty of drinking water in summer</text>
+</g>
+</g>
+</g>
+</svg>
