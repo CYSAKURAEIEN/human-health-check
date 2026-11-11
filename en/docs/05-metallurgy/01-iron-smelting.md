@@ -28,7 +28,7 @@
    scrap, or scrap with plastic on it (toxic fumes)
 ```
 
-For carbon monoxide poisoning see [Home and Traffic Accidents – Carbon monoxide poisoning](../../../docs/01-日常疾病和伤害/07-居家与交通意外.md#一氧化碳中毒); for burns see [Wound and Injury Care – Scalds and burns](../../../docs/01-日常疾病和伤害/02-外伤处理.md#烫伤与烧伤); for protective gear see [Metallurgy Basics – Safety protection](../../../docs/05-冶金技术/00-基础冶金知识.md#六安全防护).
+For carbon monoxide poisoning see [Home and Traffic Accidents – Carbon monoxide poisoning](../01-first-aid-and-family-health/07-home-and-traffic-accidents.md#carbon-monoxide-poisoning); for burns see [Wound and Injury Care – Scalds and burns](../01-first-aid-and-family-health/02-wounds-and-injuries.md#scalds-and-burns); for protective gear see [Metallurgy Basics – Safety protection](00-metallurgy-basics.md#6-safety-and-protection).
 
 ---
 
@@ -243,7 +243,7 @@ no more white vapour or smell of sulphur
 Washed ore must be sun-dried or dried by the fire before it goes into the furnace
 ```
 
-For washing and magnetic separation see [Metallurgy Basics – Ore concentration](../../../docs/05-冶金技术/00-基础冶金知识.md#54-矿石富集).
+For washing and magnetic separation see [Metallurgy Basics – Ore concentration](00-metallurgy-basics.md#54-ore-concentration).
 
 ### 1.5 Trial smelting the ore
 
@@ -294,7 +294,7 @@ Site: no firewood or straw within 3 m of the furnace; any rain shelter must be h
   open on all four sides; whoever works the bellows must not stand facing the slag hole
 ```
 
-For making bellows and blowpipes see [Bellows and Forges](../../../docs/05-冶金技术/08-鼓风设备与锻炉.md).
+For making bellows and blowpipes see [Bellows and Forges](08-bellows-and-forges.md).
 
 ![Simple shaft furnace cross-section: height 120-150 cm, wall 20-30 cm thick; inner diameter 30 cm at the top, 40 cm at the belly, narrowing to 25 cm at the bosh, 20 cm at the hearth; tuyere 20-30 cm above the floor; slag hole/tap hole at the front of the floor](../../images/shaft-furnace.svg)
 
@@ -451,7 +451,7 @@ Limestone: break into fingertip-sized pieces (white or grey stone that fizzes wi
   process add less or none
 ```
 
-For making charcoal and checking its quality see [Metallurgy Basics – Making fuel](../../../docs/05-冶金技术/00-基础冶金知识.md#三燃料制作).
+For making charcoal and checking its quality see [Metallurgy Basics – Making fuel](00-metallurgy-basics.md#3-making-fuel).
 
 **Other preparation:**
 - Water (2 buckets): putting out fires, cooling
@@ -489,7 +489,7 @@ adding ore before the furnace is hot enough smothers the fire
   clear it with the iron bar through the blowpipe opening
 ```
 
-For how to improve an inadequate blast see [Bellows and Forges](../../../docs/05-冶金技术/08-鼓风设备与锻炉.md).
+For how to improve an inadequate blast see [Bellows and Forges](08-bellows-and-forges.md).
 
 #### Stage 2: Charging (in batches)
 
@@ -533,7 +533,7 @@ Too hot (rare):
 - Stop charging
 ```
 
-For colour and temperature see [Metallurgy Basics – Judging temperature](../../../docs/05-冶金技术/00-基础冶金知识.md#41-判断温度).
+For colour and temperature see [Metallurgy Basics – Judging temperature](00-metallurgy-basics.md#41-judging-temperature).
 
 **What you will see:**
 
@@ -617,7 +617,7 @@ If molten iron or slag splashes on you:
    → get to hospital as soon as possible
 ```
 
-For judging and treating burns see [Wound and Injury Care – Scalds and burns](../../../docs/01-日常疾病和伤害/02-外伤处理.md#烫伤与烧伤).
+For judging and treating burns see [Wound and Injury Care – Scalds and burns](../01-first-aid-and-family-health/02-wounds-and-injuries.md#scalds-and-burns).
 
 #### Stage 5: Cooling (2-4 hours)
 
@@ -667,7 +667,7 @@ What did this smelt produce?
   (treat it as in 3.4)
 ```
 
-For casting pig iron see [Advanced Casting – Cast iron](../../../docs/05-冶金技术/07-铸造进阶.md#七铸铁).
+For casting pig iron see [Advanced Casting – Cast iron](07-advanced-casting.md#7-cast-iron).
 
 ### 3.4 Removing and consolidating the bloom
 
@@ -691,7 +691,7 @@ into dense wrought iron while hot. This step fails more often than any other
 Losses: the final wrought iron is often only about half the mass of the bloom
 ```
 
-For forging technique see [Forging Simple Tools](../../../docs/05-冶金技术/03-简易工具锻造.md).
+For forging technique see [Forging Simple Tools](03-forging-simple-tools.md).
 
 ---
 
@@ -828,7 +828,7 @@ the rod like dough → ready to take out
 
 ```
 
-For a spark comparison chart see [Scrap Metal Recycling and Aluminium Casting – Spark identification](../../../docs/05-冶金技术/05-废旧金属回收与铝铸造.md#22-火花鉴别砂轮或粗锉打磨).
+For a spark comparison chart see [Scrap Metal Recycling and Aluminium Casting – Spark identification](05-scrap-metal-recycling-and-aluminium-casting.md#22-spark-testing-on-a-grinding-wheel-or-with-a-coarse-file).
 
 ---
 
@@ -920,7 +920,7 @@ Seal (plaster it tight with clay)
 - Hard outside, tough inside (the ideal!)
 - It still has to be quenched and tempered; the case is thin, so do not grind through it when sharpening
 
-For case depth against time, and how to quench and temper, see [Metalworking](../../../docs/05-冶金技术/04-金属加工技术.md).
+For case depth against time, and how to quench and temper, see [Metalworking](04-metalworking.md).
 
 #### Liquid carburising (quick)
 
@@ -947,7 +947,7 @@ For case depth against time, and how to quench and temper, see [Metalworking](..
    much easier than carburising yourself
 ```
 
-For sandwiched steel see [Forging Simple Tools – Advanced techniques](../../../docs/05-冶金技术/03-简易工具锻造.md#十一高级技巧).
+For sandwiched steel see [Forging Simple Tools – Advanced techniques](03-forging-simple-tools.md#11-advanced-techniques).
 
 ---
 
@@ -1089,7 +1089,7 @@ Wood is the real bottleneck: 1 kg of charcoal takes about 4-7 kg of air-dried wo
 → Long-term iron making requires planning a rotationally coppiced fuel wood first
 ```
 
-For how big a woodland you need and how to rotate cutting see [Firewood and Woodland Management](../../../docs/04-动植物培育/09-薪柴与林地管理.md).
+For how big a woodland you need and how to rotate cutting see [Firewood and Woodland Management](../04-farming-and-animal-husbandry/09-firewood-and-woodland-management.md).
 
 **Conclusion: iron smelting is resource- and time-intensive work that needs teamwork and thorough preparation!**
 
@@ -1148,7 +1148,7 @@ For how big a woodland you need and how to rotate cutting see [Firewood and Wood
    only forge scrap steel
 ```
 
-For identifying and sorting scrap metal, and which scrap is good steel, see [Scrap Metal Recycling and Aluminium Casting](../../../docs/05-冶金技术/05-废旧金属回收与铝铸造.md).
+For identifying and sorting scrap metal, and which scrap is good steel, see [Scrap Metal Recycling and Aluminium Casting](05-scrap-metal-recycling-and-aluminium-casting.md).
 
 ---
 
@@ -1190,11 +1190,11 @@ For identifying and sorting scrap metal, and which scrap is good steel, see [Scr
 
 ## Related chapters
 
-- ⏮️ [Metallurgy Basics](../../../docs/05-冶金技术/00-基础冶金知识.md) - building furnaces, making fuel
-- ⏭️ [Forging Simple Tools](../../../docs/05-冶金技术/03-简易工具锻造.md) - making tools from wrought iron and steel
-- ⏭️ [Metalworking](../../../docs/05-冶金技术/04-金属加工技术.md) - heat treatment such as quenching and tempering
-- 🔗 [Bellows and Forges](../../../docs/05-冶金技术/08-鼓风设备与锻炉.md) - bellows, tuyeres and forges
-- 🔗 [Advanced Casting](../../../docs/05-冶金技术/07-铸造进阶.md) - melting and casting pig iron
+- ⏮️ [Metallurgy Basics](00-metallurgy-basics.md) - building furnaces, making fuel
+- ⏭️ [Forging Simple Tools](03-forging-simple-tools.md) - making tools from wrought iron and steel
+- ⏭️ [Metalworking](04-metalworking.md) - heat treatment such as quenching and tempering
+- 🔗 [Bellows and Forges](08-bellows-and-forges.md) - bellows, tuyeres and forges
+- 🔗 [Advanced Casting](07-advanced-casting.md) - melting and casting pig iron
 
 ---
 

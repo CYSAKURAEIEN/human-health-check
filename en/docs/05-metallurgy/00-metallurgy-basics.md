@@ -27,7 +27,7 @@ What this chapter is for:
   is the long-term plan for when salvaged material runs out
 ```
 
-For salvaging scrap metal see [Scrap metal recovery and aluminium casting](../../../docs/05-冶金技术/05-废旧金属回收与铝铸造.md); for how to build blowing equipment in detail see [Blowing equipment and forges](../../../docs/05-冶金技术/08-鼓风设备与锻炉.md).
+For salvaging scrap metal see [Scrap metal recovery and aluminium casting](05-scrap-metal-recycling-and-aluminium-casting.md); for how to build blowing equipment in detail see [Blowing equipment and forges](08-bellows-and-forges.md).
 
 ---
 
@@ -102,7 +102,7 @@ For the basics of chemical reactions see [Chemistry](../../../docs/08-基础科�
 
 > Pure iron melts at 1538°C, but ironmaking does not need to reach that temperature: the bloomery process reduces the iron to sponge iron while it stays solid; pig iron, because it contains about 4% carbon, melts at around 1150°C.
 
-**Why the "furnace temperature needed" is higher than the melting point:** the metal has to be heated right through, the slag has to flow, and the metal cools as it is poured, so the furnace is usually 100-200°C hotter than the melting point. For the melting points and pouring temperatures of lead, zinc, aluminium and other metals see [Advanced casting – Melting points and pouring temperatures of common metals](../../../docs/05-冶金技术/07-铸造进阶.md#11-常用金属的熔点和浇注温度).
+**Why the "furnace temperature needed" is higher than the melting point:** the metal has to be heated right through, the slag has to flow, and the metal cools as it is poured, so the furnace is usually 100-200°C hotter than the melting point. For the melting points and pouring temperatures of lead, zinc, aluminium and other metals see [Advanced casting – Melting points and pouring temperatures of common metals](07-advanced-casting.md#11-melting-and-pouring-temperatures-of-common-metals).
 
 ---
 
@@ -112,7 +112,7 @@ For the basics of chemical reactions see [Chemistry](../../../docs/08-基础科�
 
 **Suitable for:** copper, tin, lead and other low-melting-point metals
 
-> ⚠️ Lead is toxic. This book does not recommend smelting or melting lead yourself; for the reasons see [Other metals – Lead](../../../docs/05-冶金技术/10-其他金属.md#三铅).
+> ⚠️ Lead is toxic. This book does not recommend smelting or melting lead yourself; for the reasons see [Other metals – Lead](10-other-metals.md#3-lead).
 
 #### Materials:
 - Clay: 50-100 kg
@@ -279,7 +279,7 @@ Moving board ↓
 - Double-chamber bellows (blows on both the press and the release)
 - Continuous blast, more efficient
 
-For how to make skin bellows, pot bellows, double-acting piston bellows and water-powered bellows, and tuyere sizes, see [Blowing equipment and forges](../../../docs/05-冶金技术/08-鼓风设备与锻炉.md#三各种风箱的做法).
+For how to make skin bellows, pot bellows, double-acting piston bellows and water-powered bellows, and tuyere sizes, see [Blowing equipment and forges](08-bellows-and-forges.md#3-how-to-make-each-kind-of-bellows).
 
 ### 2.2 High-temperature furnace (for iron)
 
@@ -307,7 +307,7 @@ Why taller and thicker:
   tapping slag
 ```
 
-For the dimensions of the shaft furnace, two refractory clay recipes and a building schedule see [Iron smelting – Simple shaft furnace](../../../docs/05-冶金技术/01-铁的冶炼.md#21-简易竖炉推荐) and [Iron smelting – Preparing refractory materials](../../../docs/05-冶金技术/01-铁的冶炼.md#22-耐火材料配制); for firing firebricks and crucibles see [Pottery, glass and papermaking – Crucibles and firebricks](../../../docs/07-日常生活技能/11-陶瓷玻璃与造纸.md#坩埚和耐火砖).
+For the dimensions of the shaft furnace, two refractory clay recipes and a building schedule see [Iron smelting – Simple shaft furnace](01-iron-smelting.md#21-simple-shaft-furnace-recommended) and [Iron smelting – Preparing refractory materials](01-iron-smelting.md#22-making-refractory-material); for firing firebricks and crucibles see [Pottery, glass and papermaking – Crucibles and firebricks](../../../docs/07-日常生活技能/11-陶瓷玻璃与造纸.md#坩埚和耐火砖).
 
 ---
 
@@ -343,7 +343,7 @@ For the dimensions of the shaft furnace, two refractory clay recipes and a build
 - The wood must be dry: after felling, split it and stack it off the ground to dry for several months or more; wet wood gives less charcoal and takes longer
 - Remove rotten parts, keep the thickness as even as possible, and split pieces that are too thick
 
-For how to dry firewood and how much a piece of woodland can yield, see [Firewood and woodland management – Dry wood](../../../docs/04-动植物培育/09-薪柴与林地管理.md#柴要干).
+For how to dry firewood and how much a piece of woodland can yield, see [Firewood and woodland management – Dry wood](../04-farming-and-animal-husbandry/09-firewood-and-woodland-management.md#firewood-must-be-dry).
 
 #### Earth kiln (large-scale production)
 
@@ -538,7 +538,7 @@ Judging without your eyes:
   and best shows the highest temperature in the furnace
 ```
 
-For more fixed points from metal melting points and a home-made thermometer see [Rebuilding measurement standards – Fixed points for high temperatures](../../../docs/08-基础科学知识/09-计量基准的重建.md#52-高温的固定点-金属的熔点); for judging steel by its colour in forging and heat treatment see [Metalworking techniques – Judging temperature](../../../docs/05-冶金技术/04-金属加工技术.md#13-温度判断无温度计).
+For more fixed points from metal melting points and a home-made thermometer see [Rebuilding measurement standards – Fixed points for high temperatures](../../../docs/08-基础科学知识/09-计量基准的重建.md#52-高温的固定点-金属的熔点); for judging steel by its colour in forging and heat treatment see [Metalworking techniques – Judging temperature](04-metalworking.md#13-judging-temperature-without-a-thermometer).
 
 ### 4.2 Ways to raise the temperature
 
@@ -606,7 +606,7 @@ process see Q3
 | The temperature rises and falls | A single bellows blowing in puffs | Work two bellows in turn, or switch to a double-acting bellows |
 | The tuyere goes black and the air will not go in | Slag or molten metal is blocking it | Clear it with an iron rod; if the tuyere is too low, raise it next time |
 
-For how furnace temperature relates to air volume, and a comparison of the air delivered by different bellows, see [Blowing equipment and forges](../../../docs/05-冶金技术/08-鼓风设备与锻炉.md).
+For how furnace temperature relates to air volume, and a comparison of the air delivered by different bellows, see [Blowing equipment and forges](08-bellows-and-forges.md).
 
 ---
 
@@ -649,7 +649,7 @@ Is a piece of iron ore worth collecting?
   made from it is very brittle; do not choose it first
 ```
 
-For a simple identification procedure and how much to collect the first time see [Iron smelting – Simple identification procedure](../../../docs/05-冶金技术/01-铁的冶炼.md#12-简易鉴定流程).
+For a simple identification procedure and how much to collect the first time see [Iron smelting – Simple identification procedure](01-iron-smelting.md#12-simple-identification-flow).
 
 ### 5.2 Copper ores
 
@@ -682,14 +682,14 @@ For a simple identification procedure and how much to collect the first time see
   use this ore
 ```
 
-For azurite, native copper and how to smelt each kind of copper ore see [Copper smelting](../../../docs/05-冶金技术/02-铜的冶炼.md).
+For azurite, native copper and how to smelt each kind of copper ore see [Copper smelting](02-copper-smelting.md).
 
 ### 5.3 Other useful ores
 
 #### Cassiterite SnO₂
 - **Appearance:** black or brown, strong lustre
 - **Use:** making bronze (copper + tin)
-- **Low melting point:** 232°C, but reducing tin from cassiterite needs above about 1000°C and forced air (see [Other metals – Tin](../../../docs/05-冶金技术/10-其他金属.md#二锡))
+- **Low melting point:** 232°C, but reducing tin from cassiterite needs above about 1000°C and forced air (see [Other metals – Tin](10-other-metals.md#2-tin))
 
 #### Galena PbS
 - **Appearance:** lead grey, strong metallic lustre
@@ -708,7 +708,7 @@ For azurite, native copper and how to smelt each kind of copper ore see [Copper 
   lead glazes
 ```
 
-For lead, zinc, gold and silver see [Other metals](../../../docs/05-冶金技术/10-其他金属.md); for the dangers of mercury see [Other metals – Mercury](../../../docs/05-冶金技术/10-其他金属.md#七汞-只需知道它的危险).
+For lead, zinc, gold and silver see [Other metals](10-other-metals.md); for the dangers of mercury see [Other metals – Mercury](10-other-metals.md#7-mercury-you-only-need-to-know-its-dangers).
 
 ![Identifying ores for smelting: iron ores, copper ores, cassiterite, plus galena and pyrite](../../images/ore-identification.svg)
 
@@ -822,7 +822,7 @@ Some sulphide ores (such as pyrite FeS₂):
 - Wear gloves and safety goggles; others stand back while you strike
 ```
 
-For warning signs of geological disasters see [Geological disasters](../../../docs/02-灾难应对/01-地质灾害.md).
+For warning signs of geological disasters see [Geological disasters](../02-disaster-response/01-geological-disasters.md).
 
 ---
 
@@ -875,7 +875,7 @@ For warning signs of geological disasters see [Geological disasters](../../../do
 - [ ] Drink plenty and rest in turns; hot work at the furnace easily causes heatstroke
 - [ ] First-aid supplies (clean cloth, a bucket of water) on site, and someone who knows first aid
 
-For treating heatstroke see [Dealing with acute symptoms](../../../docs/01-日常疾病和伤害/05-急性症状.md).
+For treating heatstroke see [Dealing with acute symptoms](../01-first-aid-and-family-health/05-acute-symptoms.md).
 
 ### 6.3 Preventing poisoning
 
@@ -933,7 +933,7 @@ More on prevention:
   are mild
 ```
 
-For the full steps for recognising and helping, see [Home and traffic accidents – Carbon monoxide poisoning](../../../docs/01-日常疾病和伤害/07-居家与交通意外.md#一氧化碳中毒); for CPR see [Basic first aid – CPR](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#心肺复苏cpr).
+For the full steps for recognising and helping, see [Home and traffic accidents – Carbon monoxide poisoning](../01-first-aid-and-family-health/07-home-and-traffic-accidents.md#carbon-monoxide-poisoning); for CPR see [Basic first aid – CPR](../01-first-aid-and-family-health/00-basic-first-aid.md#cardiopulmonary-resuscitation-cpr).
 
 **Heavy-metal poisoning**
 
@@ -972,7 +972,7 @@ cough, as if they had a cold
   upwind, and do not overheat brass
 ```
 
-For more on mercury and lead see [Other metals – Mercury](../../../docs/05-冶金技术/10-其他金属.md#七汞-只需知道它的危险) and [Other metals – Lead](../../../docs/05-冶金技术/10-其他金属.md#三铅).
+For more on mercury and lead see [Other metals – Mercury](10-other-metals.md#7-mercury-you-only-need-to-know-its-dangers) and [Other metals – Lead](10-other-metals.md#3-lead).
 
 ### 6.4 Treating burns
 
@@ -1032,7 +1032,7 @@ What "do not use water" means:
 - Metal in the eye: do not rub; get medical help at once
 ```
 
-For judging burn depth, estimating the area, and the full "cool, remove, soak, cover, transport" steps, see [Wound and injury care – Scalds and burns](../../../docs/01-日常疾病和伤害/02-外伤处理.md#烫伤与烧伤).
+For judging burn depth, estimating the area, and the full "cool, remove, soak, cover, transport" steps, see [Wound and injury care – Scalds and burns](../01-first-aid-and-family-health/02-wounds-and-injuries.md#scalds-and-burns).
 
 ---
 
@@ -1070,7 +1070,7 @@ ran, the result
 - 1 kg of copper (oxide copper ore): several kg of charcoal
 - 1 kg of charcoal: about 4-7 kg of air-dried wood (more when the earth kiln yield is low)
 
-**Conclusion:** it takes a great deal of wood! Sustainability is the key. For how much woodland you need and how to rotate felling, see [Firewood and woodland management](../../../docs/04-动植物培育/09-薪柴与林地管理.md).
+**Conclusion:** it takes a great deal of wood! Sustainability is the key. For how much woodland you need and how to rotate felling, see [Firewood and woodland management](../04-farming-and-animal-husbandry/09-firewood-and-woodland-management.md).
 
 ### Q4: Can coal be used instead of charcoal?
 
@@ -1107,7 +1107,7 @@ and fire extinguishers explode when heated; galvanised parts give off zinc fumes
 old brake pads may contain asbestos; batteries contain lead and acid
 ```
 
-For identifying metals, dismantling, and melting and casting, see [Scrap metal recovery and aluminium casting](../../../docs/05-冶金技术/05-废旧金属回收与铝铸造.md).
+For identifying metals, dismantling, and melting and casting, see [Scrap metal recovery and aluminium casting](05-scrap-metal-recycling-and-aluminium-casting.md).
 
 ### Q6: Can one person do the smelting alone?
 
@@ -1169,15 +1169,15 @@ other job, but keep watch on people's condition and the fire
 
 ## Related chapters
 
-- ⏭️ [Iron smelting](../../../docs/05-冶金技术/01-铁的冶炼.md) - detailed steps for smelting iron
-- ⏭️ [Copper smelting](../../../docs/05-冶金技术/02-铜的冶炼.md) - detailed steps for smelting copper
-- 🔗 [Wilderness survival – Basic skills](../../../docs/03-野外生存/00-基础生存技能.md) - lighting fires, tools and more
-- 🔗 [Scrap metal recovery and aluminium casting](../../../docs/05-冶金技术/05-废旧金属回收与铝铸造.md) - salvage first, smelt later
-- 🔗 [Blowing equipment and forges](../../../docs/05-冶金技术/08-鼓风设备与锻炉.md) - bellows, tuyeres and forges of all kinds
-- 🔗 [Other metals](../../../docs/05-冶金技术/10-其他金属.md) - tin, lead, zinc, gold, silver, mercury
+- ⏭️ [Iron smelting](01-iron-smelting.md) - detailed steps for smelting iron
+- ⏭️ [Copper smelting](02-copper-smelting.md) - detailed steps for smelting copper
+- 🔗 [Wilderness survival – Basic skills](../03-wilderness-survival/00-basic-survival-skills.md) - lighting fires, tools and more
+- 🔗 [Scrap metal recovery and aluminium casting](05-scrap-metal-recycling-and-aluminium-casting.md) - salvage first, smelt later
+- 🔗 [Blowing equipment and forges](08-bellows-and-forges.md) - bellows, tuyeres and forges of all kinds
+- 🔗 [Other metals](10-other-metals.md) - tin, lead, zinc, gold, silver, mercury
 - 🔗 [Geology, minerals and soil](../../../docs/08-基础科学知识/06-地质矿物与土壤.md) - identifying minerals and clues for finding ore
-- 🔗 [Firewood and woodland management](../../../docs/04-动植物培育/09-薪柴与林地管理.md) - where the wood for charcoal comes from
-- 🔗 [Wound and injury care – Scalds and burns](../../../docs/01-日常疾病和伤害/02-外伤处理.md#烫伤与烧伤) - first aid for burns
+- 🔗 [Firewood and woodland management](../04-farming-and-animal-husbandry/09-firewood-and-woodland-management.md) - where the wood for charcoal comes from
+- 🔗 [Wound and injury care – Scalds and burns](../01-first-aid-and-family-health/02-wounds-and-injuries.md#scalds-and-burns) - first aid for burns
 
 ---
 

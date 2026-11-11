@@ -100,7 +100,7 @@ For the mathematics, see [Mathematics – Geometry](../../../docs/08-基础科�
 - Soft soldering: after folding or lapping, seal the seam with tin so it does not leak
 ```
 
-For how to make seams, see [Welding and joining](../../../docs/05-冶金技术/06-焊接与连接.md).
+For how to make seams, see [Welding and joining](06-welding-and-joining.md).
 
 ### 2.5 Raising: hammering flat sheet into bowls and basins
 
@@ -173,7 +173,7 @@ Making it:
 The smoother the hole walls, the cleaner the wire and the less likely it is to break
 ```
 
-For heat treatment, see [Metalworking](../../../docs/05-冶金技术/04-金属加工技术.md).
+For heat treatment, see [Metalworking](04-metalworking.md).
 
 ### 4.3 Drawing steps
 
@@ -222,7 +222,7 @@ For choosing wire, see [Electrical engineering and electronics – Wiring and pr
   (see Forging simple tools – iron rings and chain)
 ```
 
-For making chain, see [Forging simple tools – Iron rings and chain](../../../docs/05-冶金技术/03-简易工具锻造.md#62-铁环链条).
+For making chain, see [Forging simple tools – Iron rings and chain](03-forging-simple-tools.md#62-iron-rings-and-chains).
 
 ---
 
@@ -251,8 +251,8 @@ For making chain, see [Forging simple tools – Iron rings and chain](../../../d
 ## Related chapters
 
 - ⏮️ [Other metals](10-other-metals.md) - where tin and zinc come from
-- ⏮️ [Welding and joining](../../../docs/05-冶金技术/06-焊接与连接.md) - folded seams, soft soldering, brazing
-- 🔗 [Forging simple tools](../../../docs/05-冶金技术/03-简易工具锻造.md) - forging basics
+- ⏮️ [Welding and joining](06-welding-and-joining.md) - folded seams, soft soldering, brazing
+- 🔗 [Forging simple tools](03-forging-simple-tools.md) - forging basics
 - 🔗 [Electrical engineering and electronics](../../../docs/09-进阶科学与工程/02-电气工程与电子学.md) - uses of copper wire
 - 🔗 [Engineering mechanics and materials](../../../docs/09-进阶科学与工程/01-工程力学与材料.md) - the theory of work hardening and annealing
 

@@ -325,10 +325,10 @@ Interchangeability: parts made to a common standard and common gauges, by differ
 
 ## Related chapters
 
-- ⏮️ [Bellows and forges](../../../docs/05-冶金技术/08-鼓风设备与锻炉.md)
+- ⏮️ [Bellows and forges](08-bellows-and-forges.md)
 - ⏭️ [Other metals](10-other-metals.md)
-- 🔗 [Forging simple tools](../../../docs/05-冶金技术/03-简易工具锻造.md) - forging the blank
-- 🔗 [Metalworking](../../../docs/05-冶金技术/04-金属加工技术.md) - heat treatment of cutting tools, taps and punches
+- 🔗 [Forging simple tools](03-forging-simple-tools.md) - forging the blank
+- 🔗 [Metalworking](04-metalworking.md) - heat treatment of cutting tools, taps and punches
 - 🔗 [Engineering mechanics and materials – Machine elements](../../../docs/09-进阶科学与工程/01-工程力学与材料.md#十一机械元件) - bearings, gears, threads
 - 🔗 [Technology rebuilding roadmap](../../../docs/09-进阶科学与工程/00-技术重建路线图.md) - precision machining is the bottleneck in building machines
 

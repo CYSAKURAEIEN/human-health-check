@@ -9,7 +9,7 @@
 - 🔥 The end of the blast pipe (tuyere) nearest the fire gets extremely hot and an iron pipe soon burns out; keep your hands away from the blast pipe
 - ⚙️ Water-powered and machine-driven blowers have moving parts that can catch clothing and hands
 
-For carbon monoxide poisoning, see [Home and Road Accidents – Carbon monoxide poisoning](../../../docs/01-日常疾病和伤害/07-居家与交通意外.md#一氧化碳中毒).
+For carbon monoxide poisoning, see [Home and Road Accidents – Carbon monoxide poisoning](../01-first-aid-and-family-health/07-home-and-traffic-accidents.md#carbon-monoxide-poisoning).
 
 ---
 
@@ -28,7 +28,7 @@ If the furnace will not get hot, nine times out of ten there is not enough air:
 - Leaks in the air pipe
 ```
 
-For judging furnace temperature, see [Metallurgy Basics – Temperature control](../../../docs/05-冶金技术/00-基础冶金知识.md#四温度控制).
+For judging furnace temperature, see [Metallurgy Basics – Temperature control](00-metallurgy-basics.md#4-temperature-control).
 
 ---
 
@@ -185,7 +185,7 @@ A bottom-blast firepot needs an ash gate in the bottom that can be opened, to cl
 Keep alongside: the quenching trough, the fuel heap, the tool rack
 ```
 
-For the sizes of a simple forge, see [Forging Simple Tools – Essential tools](../../../docs/05-冶金技术/03-简易工具锻造.md#13-必备工具).
+For the sizes of a simple forge, see [Forging Simple Tools – Essential tools](03-forging-simple-tools.md#13-essential-tools).
 
 ![Section through a forge: the hearth is a brick or stone platform about 70-80 cm high; the firepot is a hollow in the middle of the hearth, about 20-30 cm across and about 15 cm deep; a side-blast tuyere brings air in from the side, aimed just below where the work sits; near the tuyere is the oxidising zone, a little higher is the reducing zone, and the work is buried in the middle of the fire in the reducing zone; the anvil face is at about the height of the operator's knuckles with arms hanging](../../images/forge.svg)
 
@@ -228,7 +228,7 @@ Size of fuel pieces: walnut-sized, even
 Mounting: fix it firmly on a thick wooden stump or a brick base, with the anvil face at about the height of the operator's knuckles with arms hanging down
 ```
 
-For the anvil, hammers, tongs and other tools, see [Forging Simple Tools](../../../docs/05-冶金技术/03-简易工具锻造.md); for anvil material in the ruins, see [Scrap Metal Recycling and Aluminium Casting – Steel and iron](../../../docs/05-冶金技术/05-废旧金属回收与铝铸造.md#31-钢铁).
+For the anvil, hammers, tongs and other tools, see [Forging Simple Tools](03-forging-simple-tools.md); for anvil material in the ruins, see [Scrap Metal Recycling and Aluminium Casting – Steel and iron](05-scrap-metal-recycling-and-aluminium-casting.md#31-steel-and-iron).
 
 ---
 
@@ -258,10 +258,10 @@ For the anvil, hammers, tongs and other tools, see [Forging Simple Tools](../../
 
 ## Related chapters
 
-- ⏮️ [Advanced Casting](../../../docs/05-冶金技术/07-铸造进阶.md) - Crucible furnaces and cupolas need a strong blast
-- ⏭️ [Bench Work and Machining](../../../docs/05-冶金技术/09-钳工与机械加工.md)
-- 🔗 [Metallurgy Basics](../../../docs/05-冶金技术/00-基础冶金知识.md) - Smelting furnaces, charcoal, judging temperature
-- 🔗 [Forging Simple Tools](../../../docs/05-冶金技术/03-简易工具锻造.md) - Forging techniques
+- ⏮️ [Advanced Casting](07-advanced-casting.md) - Crucible furnaces and cupolas need a strong blast
+- ⏭️ [Bench Work and Machining](09-bench-work-and-machining.md)
+- 🔗 [Metallurgy Basics](00-metallurgy-basics.md) - Smelting furnaces, charcoal, judging temperature
+- 🔗 [Forging Simple Tools](03-forging-simple-tools.md) - Forging techniques
 - 🔗 [Thermodynamics and Power Machinery](../../../docs/09-进阶科学与工程/03-热力学与动力机械.md) - Water power, fuel heat values, heat transfer
 
 ---

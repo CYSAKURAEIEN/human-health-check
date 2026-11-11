@@ -20,7 +20,7 @@ What this chapter cannot do:
    no herb can replace medical care: call 120 first or go to hospital
 ```
 
-For prescriptions, decoction methods, processing and incompatibilities see [Chinese Herbal Preparations](../../../docs/06-制药技术/04-中药制剂.md); they are not repeated here. For eating wild plants or poisonous mushrooms by mistake see [Poisonous Mushrooms and Wild Plant Poisoning](../../../docs/03-野外生存/09-毒蘑菇与野菜误食.md).
+For prescriptions, decoction methods, processing and incompatibilities see [Chinese Herbal Preparations](../../../docs/06-制药技术/04-中药制剂.md); they are not repeated here. For eating wild plants or poisonous mushrooms by mistake see [Poisonous Mushrooms and Wild Plant Poisoning](../03-wilderness-survival/09-poisonous-mushrooms-and-wild-plants.md).
 
 **How to read the doses in this chapter**: the "usual dose" given for each plant is the usual adult daily range of the dried herb in the Chinese Pharmacopoeia (checked against the 2020 edition; the current edition is 2025, and its text takes precedence). It is there only to remind you "do not exceed this", not to invite you to treat yourself. **Whether to use a herb, and how much, follows the Pharmacopoeia and the guidance of a practitioner of Chinese medicine**; children, older people and frail people need smaller doses, which a doctor must decide.
 
@@ -75,7 +75,7 @@ Common problems:
 - Aphids: wash off with water, squash by hand, or spray dilute soapy water
 ```
 
-For general methods of taking cuttings and dividing plants see [Seed Saving and Breeding – Cuttings](../../../docs/04-动植物培育/08-留种与育种.md#扦插) and [Division](../../../docs/04-动植物培育/08-留种与育种.md#分株).
+For general methods of taking cuttings and dividing plants see [Seed Saving and Breeding – Cuttings](08-seed-saving-and-breeding.md#cuttings) and [Division](08-seed-saving-and-breeding.md#division).
 
 **Harvesting**:
 ```
@@ -412,11 +412,11 @@ For how to build a cellar see [Food Processing and Preservation – Cellar stora
 
 **Actions**: detoxifies and reduces swelling, kills parasites, stops dysentery
 
-**Identification**: see [Vegetable Growing – Garlic](../../../docs/04-动植物培育/01-蔬菜种植.md#大蒜)
+**Identification**: see [Vegetable Growing – Garlic](01-vegetable-growing.md#garlic)
 
 **Growing**: plant in autumn, harvest in early summer
 
-For sowing, care and harvesting in detail see [Vegetable Growing – Garlic](../../../docs/04-动植物培育/01-蔬菜种植.md#大蒜). After harvest, plait into strings and hang in an airy place to dry in the shade; store dry and cool.
+For sowing, care and harvesting in detail see [Vegetable Growing – Garlic](01-vegetable-growing.md#garlic). After harvest, plait into strings and hang in an airy place to dry in the shade; store dry and cool.
 
 **Use**:
 - As food: antibacterial, prevents colds
@@ -471,7 +471,7 @@ More detail:
   wild vegetables and generally not poisonous
 ```
 
-**Look-alikes**: dandelion itself is rarely confused with anything deadly, but **the risk is other plants getting mixed in when you gather wild greens**, especially at the seedling stage. Before it flowers it is hard to be sure from the leaves alone; the first time, wait until it flowers and forms its seed clock to confirm the plants, then pick from that patch. For the rules on gathering wild greens see [Poisonous Mushrooms and Wild Plant Poisoning – Rules for gathering wild greens and fruit](../../../docs/03-野外生存/09-毒蘑菇与野菜误食.md#采食野菜野果的原则).
+**Look-alikes**: dandelion itself is rarely confused with anything deadly, but **the risk is other plants getting mixed in when you gather wild greens**, especially at the seedling stage. Before it flowers it is hard to be sure from the leaves alone; the first time, wait until it flowers and forms its seed clock to confirm the plants, then pick from that patch. For the rules on gathering wild greens see [Poisonous Mushrooms and Wild Plant Poisoning – Rules for gathering wild greens and fruit](../03-wilderness-survival/09-poisonous-mushrooms-and-wild-plants.md#rules-for-gathering-wild-greens-and-fruit).
 
 **Growing**:
 ```
@@ -684,7 +684,7 @@ In detail:
 - With Western medicines: people taking anticoagulants should ask a doctor before taking mugwort internally
 ```
 
-For treating burns see [Wound and Injury Care – Scalds and burns](../../../docs/01-日常疾病和伤害/02-外伤处理.md#烫伤与烧伤).
+For treating burns see [Wound and Injury Care – Scalds and burns](../01-first-aid-and-family-health/02-wounds-and-injuries.md#scalds-and-burns).
 
 ### *Gouqi* (wolfberry)
 
@@ -1091,7 +1091,7 @@ Contraindications and warnings:
   do not rely on purslane
 ```
 
-For managing diarrhoea and rehydration see [Infectious Disease at Home – Diarrhoeal infections](../../../docs/01-日常疾病和伤害/15-传染病家庭防控.md#腹泻类传染病).
+For managing diarrhoea and rehydration see [Infectious Disease at Home – Diarrhoeal infections](../01-first-aid-and-family-health/15-infectious-disease-at-home.md#diarrhoeal-infections).
 
 ### *Xiakucao* (self-heal)
 
@@ -1165,7 +1165,7 @@ Contraindications and warnings:
   → see a doctor
 ```
 
-For menstrual problems see [Menstrual Hygiene and Contraception](../../../docs/01-日常疾病和伤害/17-月经卫生与避孕.md).
+For menstrual problems see [Menstrual Hygiene and Contraception](../01-first-aid-and-family-health/17-menstrual-hygiene-and-contraception.md).
 
 ---
 
@@ -1190,7 +1190,7 @@ Principles:
 ✓ Beginners should avoid poisonous species
 ```
 
-The table below lists the most common mistakes made when gathering herbs or wild greens. For symptoms of poisoning and how soon they appear see [Poisonous Mushrooms and Wild Plant Poisoning – Poisonous plants easily mistaken for edible ones](../../../docs/03-野外生存/09-毒蘑菇与野菜误食.md#容易认错的有毒植物); this section covers only how to tell them apart.
+The table below lists the most common mistakes made when gathering herbs or wild greens. For symptoms of poisoning and how soon they appear see [Poisonous Mushrooms and Wild Plant Poisoning – Poisonous plants easily mistaken for edible ones](../03-wilderness-survival/09-poisonous-mushrooms-and-wild-plants.md#poisonous-plants-that-are-easily-mistaken); this section covers only how to tell them apart.
 
 | Poisonous plant | Often mistaken for | How to tell them apart |
 |----------|-----------|----------|
@@ -1291,7 +1291,7 @@ Many people think "herbs are natural, so taking them with Western medicines does
 ✓ When you see a doctor, tell them about every herb, supplement and medicinal wine you take
 ```
 
-For the medication card and the medicines most dangerous to stop suddenly see [Chronic Disease Medication Stockpile – Medication card](../../../docs/01-日常疾病和伤害/08-慢性病用药储备.md#用药信息卡) and [The medicines most dangerous to stop suddenly](../../../docs/01-日常疾病和伤害/08-慢性病用药储备.md#突然停药最危险的几类药).
+For the medication card and the medicines most dangerous to stop suddenly see [Chronic Disease Medication Stockpile – Medication card](../01-first-aid-and-family-health/08-chronic-medication-stockpile.md#medication-card) and [The medicines most dangerous to stop suddenly](../01-first-aid-and-family-health/08-chronic-medication-stockpile.md#the-most-dangerous-medicines-to-stop-suddenly).
 
 ### What to do if someone eats a poisonous plant
 
@@ -1310,7 +1310,7 @@ For the medication card and the medicines most dangerous to stop suddenly see [C
    whether to induce vomiting follows the advice of 120 or a doctor
 ```
 
-See [Poisoning – General principles of poisoning management](../../../docs/01-日常疾病和伤害/12-中毒.md#中毒的通用处理原则) and [Basic First Aid](../../../docs/01-日常疾病和伤害/00-基础急救知识.md).
+See [Poisoning – General principles of poisoning management](../01-first-aid-and-family-health/12-poisoning.md#general-principles-for-handling-poisoning) and [Basic First Aid](../01-first-aid-and-family-health/00-basic-first-aid.md).
 
 ### Ethics of collecting
 
@@ -1374,4 +1374,4 @@ The things that most often go wrong:
 ---
 
 **Next chapter**: [Poultry](05-poultry.md)
-**Back**: [Chapter index](../../../docs/04-动植物培育/README.md) | [Main contents](../../README.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

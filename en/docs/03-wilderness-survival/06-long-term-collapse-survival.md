@@ -370,7 +370,7 @@ Common mistakes:
    fishing and insects
 ```
 
-Related chapters: [Vegetable Growing – Fast-growing vegetables](../../../docs/04-动植物培育/01-蔬菜种植.md#快速生长蔬菜30-60天), [Grain Crops – Recommended planting order for beginners](../../../docs/04-动植物培育/02-粮食作物.md#新手推荐种植顺序), [Poultry Keeping](../../../docs/04-动植物培育/05-家禽养殖.md), [Aquaculture](../../../docs/04-动植物培育/07-水产养殖.md), [Seed Saving and Breeding – Why hybrid seed cannot be saved](../../../docs/04-动植物培育/08-留种与育种.md#杂交种f1为什么不能留种), [Poisonous Mushrooms and Wild Plants](09-poisonous-mushrooms-and-wild-plants.md#rules-for-gathering-wild-greens-and-fruit), [Basic Survival Skills – Edible plant test](00-basic-survival-skills.md#edibility-test-for-plants).
+Related chapters: [Vegetable Growing – Fast-growing vegetables](../04-farming-and-animal-husbandry/01-vegetable-growing.md#fast-growing-vegetables-30-60-days), [Grain Crops – Recommended planting order for beginners](../04-farming-and-animal-husbandry/02-grain-crops.md#recommended-order-for-beginners), [Poultry Keeping](../04-farming-and-animal-husbandry/05-poultry.md), [Aquaculture](../04-farming-and-animal-husbandry/07-aquaculture.md), [Seed Saving and Breeding – Why hybrid seed cannot be saved](../04-farming-and-animal-husbandry/08-seed-saving-and-breeding.md#why-hybrid-f1-seed-cannot-be-saved), [Poisonous Mushrooms and Wild Plants](09-poisonous-mushrooms-and-wild-plants.md#rules-for-gathering-wild-greens-and-fruit), [Basic Survival Skills – Edible plant test](00-basic-survival-skills.md#edibility-test-for-plants).
 
 **Energy**:
 ```
@@ -390,7 +390,7 @@ Related chapters: [Vegetable Growing – Fast-growing vegetables](../../../docs/
   - In areas with a *kang* (heated brick bed), the cooking fire also heats the *kang*
 ```
 
-Related chapters: [Firewood and Woodland Management – How much wood you need](../../../docs/04-动植物培育/09-薪柴与林地管理.md#需要多少柴), [Lighting and Energy](../../../docs/07-日常生活技能/06-照明与能源.md), [Long-term Housing – Kang and stoves](../../../docs/07-日常生活技能/05-长期住所.md#火炕与炉灶).
+Related chapters: [Firewood and Woodland Management – How much wood you need](../04-farming-and-animal-husbandry/09-firewood-and-woodland-management.md#how-much-firewood-you-need), [Lighting and Energy](../../../docs/07-日常生活技能/06-照明与能源.md), [Long-term Housing – Kang and stoves](../../../docs/07-日常生活技能/05-长期住所.md#火炕与炉灶).
 
 ### Developing skills
 
@@ -546,7 +546,7 @@ For details of division of labour, rules, preventing unfairness and community re
   - Make several handwritten copies of important material and store them in separate places
 ```
 
-Related chapters: [Seed Saving and Breeding](../../../docs/04-动植物培育/08-留种与育种.md), [Sanitation – Using faeces and urine](../../../docs/07-日常生活技能/03-卫生设施.md#粪便与尿液的利用), [Livestock Keeping](../../../docs/04-动植物培育/06-家畜养殖.md), [Teaching and Knowledge Preservation](../../../docs/07-日常生活技能/12-教育与知识传承.md), [Technology Rebuilding Roadmap – Knowledge and items to preserve first](../../../docs/09-进阶科学与工程/00-技术重建路线图.md#七优先保存的知识和物品), [Weather Observation and Forecasting](../../../docs/08-基础科学知识/07-天气观测与预报.md).
+Related chapters: [Seed Saving and Breeding](../04-farming-and-animal-husbandry/08-seed-saving-and-breeding.md), [Sanitation – Using faeces and urine](../../../docs/07-日常生活技能/03-卫生设施.md#粪便与尿液的利用), [Livestock Keeping](../04-farming-and-animal-husbandry/06-livestock.md), [Teaching and Knowledge Preservation](../../../docs/07-日常生活技能/12-教育与知识传承.md), [Technology Rebuilding Roadmap – Knowledge and items to preserve first](../../../docs/09-进阶科学与工程/00-技术重建路线图.md#七优先保存的知识和物品), [Weather Observation and Forecasting](../../../docs/08-基础科学知识/07-天气观测与预报.md).
 
 ### Health
 
@@ -604,7 +604,7 @@ Without hospitals, **prevention matters far more than treatment**: in famines an
 ✓ Set goals
 ```
 
-Related chapters: [Sanitation](../../../docs/07-日常生活技能/03-卫生设施.md), [Nutrition and Deficiency Diseases](../../../docs/07-日常生活技能/02-营养与营养缺乏病.md), [First Aid and Family Health](../01-first-aid-and-family-health/README.md), [Elder Care](../01-first-aid-and-family-health/13-elder-care.md), [Child Safety](../01-first-aid-and-family-health/14-child-safety.md), [Emergency Childbirth and Newborn Care](../01-first-aid-and-family-health/11-emergency-childbirth-and-newborn-care.md), [Menstrual Hygiene and Contraception](../01-first-aid-and-family-health/17-menstrual-hygiene-and-contraception.md), [Medicinal Plants](../../../docs/04-动植物培育/04-药用植物.md), [Pharmaceutical Technology](../../../docs/06-制药技术/README.md) (for reference only after civilisation collapse, when medicines cannot be obtained at all). For mental health, see "Psychological preparation" below.
+Related chapters: [Sanitation](../../../docs/07-日常生活技能/03-卫生设施.md), [Nutrition and Deficiency Diseases](../../../docs/07-日常生活技能/02-营养与营养缺乏病.md), [First Aid and Family Health](../01-first-aid-and-family-health/README.md), [Elder Care](../01-first-aid-and-family-health/13-elder-care.md), [Child Safety](../01-first-aid-and-family-health/14-child-safety.md), [Emergency Childbirth and Newborn Care](../01-first-aid-and-family-health/11-emergency-childbirth-and-newborn-care.md), [Menstrual Hygiene and Contraception](../01-first-aid-and-family-health/17-menstrual-hygiene-and-contraception.md), [Medicinal Plants](../04-farming-and-animal-husbandry/04-medicinal-plants.md), [Pharmaceutical Technology](../../../docs/06-制药技术/README.md) (for reference only after civilisation collapse, when medicines cannot be obtained at all). For mental health, see "Psychological preparation" below.
 
 ## Special situations
 

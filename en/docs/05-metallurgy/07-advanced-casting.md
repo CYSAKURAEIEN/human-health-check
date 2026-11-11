@@ -74,7 +74,7 @@ If it is not hot enough: blow harder, put the lid on to hold the heat, use evenl
   thicken the lining
 ```
 
-For preparing refractories, see [Iron Smelting – Preparing refractories](../../../docs/05-冶金技术/01-铁的冶炼.md#22-耐火材料配制); for air supply and controlling furnace temperature, see [Metallurgy Basics – Temperature control](../../../docs/05-冶金技术/00-基础冶金知识.md#四温度控制).
+For preparing refractories, see [Iron Smelting – Preparing refractories](01-iron-smelting.md#22-making-refractory-material); for air supply and controlling furnace temperature, see [Metallurgy Basics – Temperature control](00-metallurgy-basics.md#4-temperature-control).
 
 ### 2.2 Crucibles
 
@@ -181,10 +181,10 @@ When a casting must be hollow (such as a pipe or a hub with a hole), put a sand 
 | Method | Description | Good for |
 |------|------|------|
 | Floor moulding | Moulding directly in a sand pit in the ground | Large, simple castings |
-| Lost-wax casting | See [Copper Smelting – Lost-wax casting](../../../docs/05-冶金技术/02-铜的冶炼.md#42-失蜡法精密铸造) | Fine, complex small parts |
+| Lost-wax casting | See [Copper Smelting – Lost-wax casting](02-copper-smelting.md#42-lost-wax-casting-precision-casting) | Fine, complex small parts |
 | Lost-foam casting | Make the pattern from foam plastic (salvaged packaging foam), bury it in dry sand and pour straight in; the molten metal burns the foam away | Aluminium, copper; no need to remove a pattern; ⚠️ gives off fumes, work outdoors |
 | Permanent mould | A mould made of steel or cast iron, used again and again | Ingots and simple parts of aluminium, zinc, lead, tin; preheat and smoke with soot before use |
-| Stone mould | See [Copper Smelting – Stone-mould casting](../../../docs/05-冶金技术/02-铜的冶炼.md#43-石模铸造耐用) | Small parts |
+| Stone mould | See [Copper Smelting – Stone-mould casting](02-copper-smelting.md#43-stone-mould-casting-durable) | Small parts |
 
 ---
 
@@ -224,7 +224,7 @@ Vents: let out the air in the cavity and the gas given off by the moulding sand
 ✓ Skim the dross off the surface before pouring
 ```
 
-For melting bronze, see [Copper Smelting – Melting bronze](../../../docs/05-冶金技术/02-铜的冶炼.md#33-青铜熔炼).
+For melting bronze, see [Copper Smelting – Melting bronze](02-copper-smelting.md#33-melting-bronze).
 
 ### 6.2 Pouring
 
@@ -306,11 +306,11 @@ To get grey cast iron that can be machined:
 
 ## Related chapters
 
-- ⏮️ [Scrap Metal Recycling and Aluminium Casting](../../../docs/05-冶金技术/05-废旧金属回收与铝铸造.md) - Sources of metal and melting and casting aluminium
-- ⏮️ [Welding and Joining](../../../docs/05-冶金技术/06-焊接与连接.md) - Joining and repairing castings
-- ⏮️ [Copper Smelting](../../../docs/05-冶金技术/02-铜的冶炼.md) - Melting bronze, sand moulds and lost-wax basics
-- ⏭️ [Bellows and Forges](../../../docs/05-冶金技术/08-鼓风设备与锻炉.md) - The strong blast a crucible furnace needs
-- 🔗 [Metallurgy Basics](../../../docs/05-冶金技术/00-基础冶金知识.md) - Furnaces, fuel, judging temperature
+- ⏮️ [Scrap Metal Recycling and Aluminium Casting](05-scrap-metal-recycling-and-aluminium-casting.md) - Sources of metal and melting and casting aluminium
+- ⏮️ [Welding and Joining](06-welding-and-joining.md) - Joining and repairing castings
+- ⏮️ [Copper Smelting](02-copper-smelting.md) - Melting bronze, sand moulds and lost-wax basics
+- ⏭️ [Bellows and Forges](08-bellows-and-forges.md) - The strong blast a crucible furnace needs
+- 🔗 [Metallurgy Basics](00-metallurgy-basics.md) - Furnaces, fuel, judging temperature
 - 🔗 [Engineering Mechanics and Materials – Materials science](../../../docs/09-进阶科学与工程/01-工程力学与材料.md#十材料科学) - Properties of cast iron and alloys
 - 🔗 [Technology Rebuilding Roadmap](../../../docs/09-进阶科学与工程/00-技术重建路线图.md) - Where casting and machine tools fit in rebuilding technology
 

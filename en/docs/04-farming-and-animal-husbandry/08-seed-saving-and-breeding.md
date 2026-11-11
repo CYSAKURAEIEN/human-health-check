@@ -52,7 +52,7 @@ So:
   new stable variety (see "Selection" below), but yields will be lower for the first few years
 ```
 
-For the principles of heredity and segregation see [Biology and Medicine Basics – Heredity](../../../docs/08-基础科学知识/04-生物与医学基础.md#61-遗传) and [Seed selection and breeding](../../../docs/08-基础科学知识/04-生物与医学基础.md#62-选种育种). A short checklist for saving grain-crop seed is in [Grain Crops – Seed storage](../../../docs/04-动植物培育/02-粮食作物.md#种子保存).
+For the principles of heredity and segregation see [Biology and Medicine Basics – Heredity](../../../docs/08-基础科学知识/04-生物与医学基础.md#61-遗传) and [Seed selection and breeding](../../../docs/08-基础科学知识/04-生物与医学基础.md#62-选种育种). A short checklist for saving grain-crop seed is in [Grain Crops – Seed storage](02-grain-crops.md#seed-saving).
 
 ---
 
@@ -281,7 +281,7 @@ Seed sweet potatoes:
 → In warm areas you can also overwinter vine cuttings in pots indoors or in a warm place
 ```
 
-For growing potato and sweet potato see [Vegetable Growing – Potato](../../../docs/04-动植物培育/01-蔬菜种植.md#土豆) and [Vegetable Growing – Sweet potato](../../../docs/04-动植物培育/01-蔬菜种植.md#红薯).
+For growing potato and sweet potato see [Vegetable Growing – Potato](01-vegetable-growing.md#potato) and [Vegetable Growing – Sweet potato](01-vegetable-growing.md#sweet-potato).
 
 ---
 
@@ -534,7 +534,7 @@ Bud grafting (T-budding, late summer to early autumn, when the bark peels easily
 
 *Figure: top, the position of the cambium; middle, the four steps of cleft grafting (panel ③ is shown cut open); bottom, T-budding and the post-graft check and cutting back of the rootstock; not to scale, see the steps above for values*
 
-For choosing and planting fruit-tree varieties see [Fruit Tree Growing](../../../docs/04-动植物培育/03-果树培育.md); for sharpening knives see [Woodworking and Tool Maintenance – Sharpening](../../../docs/07-日常生活技能/09-木工与工具维护.md#磨刀).
+For choosing and planting fruit-tree varieties see [Fruit Tree Growing](03-fruit-trees.md); for sharpening knives see [Woodworking and Tool Maintenance – Sharpening](../../../docs/07-日常生活技能/09-木工与工具维护.md#磨刀).
 
 ### Storing roots, tubers and bulbs
 
@@ -684,5 +684,5 @@ For stock management see [Record-keeping, Trade and Division of Labour – Stock
 
 ---
 
-**Next chapter**: [Firewood and Woodland Management](../../../docs/04-动植物培育/09-薪柴与林地管理.md)
-**Back**: [Chapter index](../../../docs/04-动植物培育/README.md) | [Main contents](../../README.md)
+**Next chapter**: [Firewood and Woodland Management](09-firewood-and-woodland-management.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

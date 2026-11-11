@@ -128,7 +128,7 @@ or sun reach them. If you cannot plant at once, dig a trench, lay the trees in i
 the roots and the lower half of the stem with moist soil (heeling in)
 ```
 
-For grafting, cuttings and layering, see [Seed saving and breeding - Vegetative propagation](../../../docs/04-动植物培育/08-留种与育种.md#无性繁殖); they are not repeated in this chapter.
+For grafting, cuttings and layering, see [Seed saving and breeding - Vegetative propagation](08-seed-saving-and-breeding.md#vegetative-propagation); they are not repeated in this chapter.
 
 ### Planting
 
@@ -527,7 +527,7 @@ protecting before the rainy season; the traditional spray is Bordeaux mixture (m
 and lime; follow specialist sources or instructions for the proportions)
 ```
 
-For cuttings and layering, see [Seed saving and breeding - Cuttings](../../../docs/04-动植物培育/08-留种与育种.md#扦插) and [Layering](../../../docs/04-动植物培育/08-留种与育种.md#压条); for burying vines for winter in the north, see "Winter frost protection and spring frost protection" in this chapter.
+For cuttings and layering, see [Seed saving and breeding - Cuttings](08-seed-saving-and-breeding.md#cuttings) and [Layering](08-seed-saving-and-breeding.md#layering); for burying vines for winter in the north, see "Winter frost protection and spring frost protection" in this chapter.
 
 **Harvest**: July-October (depending on variety)
 
@@ -1016,7 +1016,7 @@ Methods:
 ⚠️ It must be well rotted: raw manure burns roots and attracts soil pests
 ```
 
-For safe treatment of manure and urine and composting times, see [Sanitation - Using faeces and urine](../../../docs/07-日常生活技能/03-卫生设施.md#粪便与尿液的利用); for the roles of nitrogen, phosphorus and potassium, see [Farming and animal husbandry - Fertilising](../../../docs/04-动植物培育/README.md#施肥).
+For safe treatment of manure and urine and composting times, see [Sanitation - Using faeces and urine](../../../docs/07-日常生活技能/03-卫生设施.md#粪便与尿液的利用); for the roles of nitrogen, phosphorus and potassium, see [Farming and animal husbandry - Fertilising](README.md#fertilising).
 
 **Top-dressing** (growing season):
 ```
@@ -1180,7 +1180,7 @@ Hand pollination:
 4. Keep the pollen in a dry, cool place and use it within a few days
 ```
 
-For the general principles of hand pollination, see [Seed saving and breeding - Bagging and hand pollination](../../../docs/04-动植物培育/08-留种与育种.md#套袋和人工授粉).
+For the general principles of hand pollination, see [Seed saving and breeding - Bagging and hand pollination](08-seed-saving-and-breeding.md#bagging-and-hand-pollination).
 
 ### Pest and disease control
 
@@ -1265,7 +1265,7 @@ General principles:
    call 120, and take the pesticide packaging with you to the doctor
 ```
 
-For protection when spraying and first aid for pesticide poisoning, see [Poisoning - Pesticide and rat poison poisoning](../../../docs/01-日常疾病和伤害/12-中毒.md#农药和鼠药中毒).
+For protection when spraying and first aid for pesticide poisoning, see [Poisoning - Pesticide and rat poison poisoning](../01-first-aid-and-family-health/12-poisoning.md#pesticide-and-rat-poison-poisoning).
 
 **Identifying the main pests and diseases**:
 
@@ -1508,7 +1508,7 @@ Needs to be learned!
   virus diseases, jujube witches' broom and huanglongbing
 ```
 
-For the steps of cleft grafting and bud grafting, see [Seed saving and breeding - Vegetative propagation](../../../docs/04-动植物培育/08-留种与育种.md#无性繁殖).
+For the steps of cleft grafting and bud grafting, see [Seed saving and breeding - Vegetative propagation](08-seed-saving-and-breeding.md#vegetative-propagation).
 
 ### Summary of key points
 
@@ -1530,5 +1530,5 @@ For the steps of cleft grafting and bud grafting, see [Seed saving and breeding 
 
 ---
 
-**Next chapter**: [Medicinal Plants](../../../docs/04-动植物培育/04-药用植物.md)
-**Back**: [Chapter index](../../../docs/04-动植物培育/README.md) | [Main contents](../../README.md)
+**Next chapter**: [Medicinal Plants](04-medicinal-plants.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

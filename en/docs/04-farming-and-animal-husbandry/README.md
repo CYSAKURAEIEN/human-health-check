@@ -7,14 +7,14 @@ This part covers how to grow and raise common edible and useful plants and anima
 ### Chapters
 
 1. [Vegetable growing](01-vegetable-growing.md) - sowing times and germination temperatures, crop rotation and replant problems, preparing the ground, hotbeds and low tunnels, compost, raising and transplanting seedlings, pest and disease control, individual vegetables, the winter vegetable gap
-2. [Staple crops](../../../docs/04-动植物培育/02-粮食作物.md) - growing rice, wheat, maize, soya beans and sorghum, key points for potatoes and sweet potatoes as field crops, pests and diseases, estimating yields and the area needed for self-sufficiency, rotation
-3. [Fruit trees](../../../docs/04-动植物培育/03-果树培育.md) - choosing varieties and rootstocks, planting out, training and pruning, fertilising, pollination, frost protection, pests and diseases, years to bearing and yields
-4. [Medicinal plants](../../../docs/04-动植物培育/04-药用植物.md) - identification and poisonous look-alikes, growing, harvesting and drying, normal use and contraindications, warnings about using them alongside Western medicines
-5. [Poultry](../../../docs/04-动植物培育/05-家禽养殖.md) - keeping chickens, ducks and geese, brooding chicks, home-mixed feed, incubation, disease prevention and zoonoses, hygienic slaughter
-6. [Livestock](../../../docs/04-动植物培育/06-家畜养殖.md) - keeping and breeding pigs, sheep, goats and rabbits, key points for draught animals such as cattle and donkeys, disease prevention and zoonoses, hygienic slaughter, using manure
-7. [Fish farming](../../../docs/04-动植物培育/07-水产养殖.md) - ponds and pond cleaning, polyculture stocking densities, water quality and emergency action when fish gasp at the surface, feeding, fish and ducks in rice paddies, fish diseases, harvesting and keeping fish fresh
-8. [Seed saving and breeding](../../../docs/04-动植物培育/08-留种与育种.md) - self- and cross-pollination, isolation distances, hand pollination, saving seed from the main crops, seed storage and lifespan, germination tests, cuttings, division, layering and grafting, selection, community seed banks
-9. [Firewood and woodland management](../../../docs/04-动植物培育/09-薪柴与林地管理.md) - how much wood you burn and its heating value, drying wood, firewood yield from woodland, coppice rotation, tree planting, protecting forests, other fuels, saving fuel, safe tree felling
+2. [Staple crops](02-grain-crops.md) - growing rice, wheat, maize, soya beans and sorghum, key points for potatoes and sweet potatoes as field crops, pests and diseases, estimating yields and the area needed for self-sufficiency, rotation
+3. [Fruit trees](03-fruit-trees.md) - choosing varieties and rootstocks, planting out, training and pruning, fertilising, pollination, frost protection, pests and diseases, years to bearing and yields
+4. [Medicinal plants](04-medicinal-plants.md) - identification and poisonous look-alikes, growing, harvesting and drying, normal use and contraindications, warnings about using them alongside Western medicines
+5. [Poultry](05-poultry.md) - keeping chickens, ducks and geese, brooding chicks, home-mixed feed, incubation, disease prevention and zoonoses, hygienic slaughter
+6. [Livestock](06-livestock.md) - keeping and breeding pigs, sheep, goats and rabbits, key points for draught animals such as cattle and donkeys, disease prevention and zoonoses, hygienic slaughter, using manure
+7. [Fish farming](07-aquaculture.md) - ponds and pond cleaning, polyculture stocking densities, water quality and emergency action when fish gasp at the surface, feeding, fish and ducks in rice paddies, fish diseases, harvesting and keeping fish fresh
+8. [Seed saving and breeding](08-seed-saving-and-breeding.md) - self- and cross-pollination, isolation distances, hand pollination, saving seed from the main crops, seed storage and lifespan, germination tests, cuttings, division, layering and grafting, selection, community seed banks
+9. [Firewood and woodland management](09-firewood-and-woodland-management.md) - how much wood you burn and its heating value, drying wood, firewood yield from woodland, coppice rotation, tree planting, protecting forests, other fuels, saving fuel, safe tree felling
 
 ## 🌱 Growing basics
 
@@ -370,7 +370,7 @@ Garlic water:
 
 **Growing area**:
 - Vegetables: 50-100 m² (roughly self-sufficient)
-- Grain: a family of four needs about 3000-5000 m² (0.3-0.5 ha) of grain fields to be self-sufficient; see [Staple crops](../../../docs/04-动植物培育/02-粮食作物.md#自给自足配置1家4口)
+- Grain: a family of four needs about 3000-5000 m² (0.3-0.5 ha) of grain fields to be self-sufficient; see [Staple crops](02-grain-crops.md#self-sufficiency-plan-family-of-4)
 - Fruit trees: a few
 
 **Animals** (optional):

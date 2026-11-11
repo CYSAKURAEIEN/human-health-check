@@ -13,7 +13,7 @@
 - ☠️ **Zinc fumes and lead**: melting brass gives off white zinc fumes (metal fume fever); old copper scrap may contain lead
 - 🔥 **Burns**: the crucible is at around 1200°C; molten copper splashed on the feet causes extremely severe burns
 
-**If you can recover copper and copper alloys from ruins, recover them first (see [Scrap Metal Recycling and Aluminium Casting](../../../docs/05-冶金技术/05-废旧金属回收与铝铸造.md)); smelting from ore is the last resort.** For protective gear see [Metallurgy Basics – Essential protective equipment](../../../docs/05-冶金技术/00-基础冶金知识.md#61-必备防护装备).
+**If you can recover copper and copper alloys from ruins, recover them first (see [Scrap Metal Recycling and Aluminium Casting](05-scrap-metal-recycling-and-aluminium-casting.md)); smelting from ore is the last resort.** For protective gear see [Metallurgy Basics – Essential protective equipment](00-metallurgy-basics.md#61-essential-protective-gear).
 
 ---
 
@@ -211,7 +211,7 @@ Test: after hand-sorting, most of the ore is green and blue → good enough
       not get a solid lump of copper
 ```
 
-For washing methods see [Metallurgy Basics – Ore concentration](../../../docs/05-冶金技术/00-基础冶金知识.md#54-矿石富集).
+For washing methods see [Metallurgy Basics – Ore concentration](00-metallurgy-basics.md#54-ore-concentration).
 
 ---
 
@@ -256,7 +256,7 @@ Furnace is good enough: with the blast on, the charcoal bed is bright yellow, an
 piece of copper wire dropped in melts (>1085°C)
 ```
 
-For refractory clay recipes see [Iron Smelting – Making refractory material](../../../docs/05-冶金技术/01-铁的冶炼.md#22-耐火材料配制); for making bellows see [Bellows and Forges](../../../docs/05-冶金技术/08-鼓风设备与锻炉.md#三各种风箱的做法); for judging temperature by fire colour see [Metallurgy Basics – Judging temperature](../../../docs/05-冶金技术/00-基础冶金知识.md#41-判断温度).
+For refractory clay recipes see [Iron Smelting – Making refractory material](01-iron-smelting.md#22-making-refractory-material); for making bellows see [Bellows and Forges](08-bellows-and-forges.md#3-how-to-make-each-kind-of-bellows); for judging temperature by fire colour see [Metallurgy Basics – Judging temperature](00-metallurgy-basics.md#41-judging-temperature).
 
 **Crucible (container for melting copper):**
 ```
@@ -289,7 +289,7 @@ Notes:
   put a cold crucible straight into a fierce fire
 ```
 
-For making crucibles and crucible tongs in detail see [Advanced Casting – Crucibles](../../../docs/05-冶金技术/07-铸造进阶.md#22-坩埚).
+For making crucibles and crucible tongs in detail see [Advanced Casting – Crucibles](07-advanced-casting.md#22-crucibles).
 
 ### 2.2 Route A: direct smelting (for malachite and azurite)
 
@@ -439,7 +439,7 @@ Test: slag that runs out thin, like molten black glass → normal
       Slag thick, pulls into strings, will not run → not hot enough, or needs flux
 ```
 
-For controlling furnace temperature and the blast see [Metallurgy Basics – Temperature control](../../../docs/05-冶金技术/00-基础冶金知识.md#四温度控制).
+For controlling furnace temperature and the blast see [Metallurgy Basics – Temperature control](00-metallurgy-basics.md#4-temperature-control).
 
 ### 2.4 Route C: treating sulphide copper ores
 
@@ -585,7 +585,7 @@ it needs a blast — an ordinary open fire will not do.
 The slag often still holds tin and needs smelting a second time.
 ```
 
-For the detailed method see [Other Metals – Tin](../../../docs/05-冶金技术/10-其他金属.md#二锡).
+For the detailed method see [Other Metals – Tin](10-other-metals.md#2-tin).
 
 ```
 Finding tin in the ruins (much easier than smelting it):
@@ -645,7 +645,7 @@ Common problems:
   push it under the molten copper
 ```
 
-For running systems, sand moulds and casting defects see [Advanced Casting – Melting and pouring](../../../docs/05-冶金技术/07-铸造进阶.md#六熔炼与浇注) and [Advanced Casting – Casting defects and their causes](../../../docs/05-冶金技术/07-铸造进阶.md#八铸造缺陷和原因).
+For running systems, sand moulds and casting defects see [Advanced Casting – Melting and pouring](07-advanced-casting.md#6-melting-and-pouring) and [Advanced Casting – Casting defects and their causes](07-advanced-casting.md#8-casting-defects-and-their-causes).
 
 ![Melting copper in a crucible and pouring bronze: charging and blowing, melting copper and adding tin, skimming, pouring, and safety points](../../images/crucible-melting.svg)
 
@@ -677,7 +677,7 @@ Notes:
 - If the seal leaks, white zinc oxide fumes come out → move away; do not breathe them
 ```
 
-For sources of zinc and the difficulties see [Other Metals – Zinc in practice](../../../docs/05-冶金技术/10-其他金属.md#42-现实做法).
+For sources of zinc and the difficulties see [Other Metals – Zinc in practice](10-other-metals.md#42-what-to-do-in-practice).
 
 **The modern method:**
 - Remelt recycled brass items (simple!)
@@ -698,7 +698,7 @@ Remelting brass:
 
 ## 4. Casting techniques
 
-This section covers only the few simple casting methods most used at a copper-smelting site; for moulding boxes, running systems, risers, casting defects and so on see [Advanced Casting](../../../docs/05-冶金技术/07-铸造进阶.md).
+This section covers only the few simple casting methods most used at a copper-smelting site; for moulding boxes, running systems, risers, casting defects and so on see [Advanced Casting](07-advanced-casting.md).
 
 ### 4.1 Sand casting (the simplest)
 
@@ -714,7 +714,7 @@ Moisture test: squeeze a handful tight; it holds together, leaves no water on yo
                (makes a lot of steam when poured; may spatter)
 ```
 
-For preparing moulding sand and moulding in boxes see [Advanced Casting – Moulding sand and moulding](../../../docs/05-冶金技术/07-铸造进阶.md#四型砂与造型).
+For preparing moulding sand and moulding in boxes see [Advanced Casting – Moulding sand and moulding](07-advanced-casting.md#4-moulding-sand-and-moulding).
 
 **Making the mould:**
 ```
@@ -752,7 +752,7 @@ Notes:
 - Fill it in one pour without stopping; keep pouring until copper shows at the pouring cup
 ```
 
-For designing sprues and risers see [Advanced Casting – Running systems](../../../docs/05-冶金技术/07-铸造进阶.md#五浇注系统).
+For designing sprues and risers see [Advanced Casting – Running systems](07-advanced-casting.md#5-the-gating-system).
 
 ### 4.2 Lost-wax casting (precision casting)
 
@@ -853,7 +853,7 @@ Making bronze tools last longer:
   or must conduct electricity or heat
 ```
 
-For forging tools and dressing edges see [Forging Simple Tools](../../../docs/05-冶金技术/03-简易工具锻造.md).
+For forging tools and dressing edges see [Forging Simple Tools](03-forging-simple-tools.md).
 
 ### 5.2 Containers
 
@@ -869,8 +869,8 @@ For forging tools and dressing edges see [Forging Simple Tools](../../../docs/05
 - ⚠️ This antibacterial effect is slow and unreliable; it cannot replace boiling or other drinking-water disinfection
 
 **Other important uses:**
-- Copper wire: second only to silver in conductivity; generators, electric motors and the telegraph all depend on it (keep copper wire from ruins as wire wherever possible; see [Scrap Metal Recycling and Aluminium Casting](../../../docs/05-冶金技术/05-废旧金属回收与铝铸造.md))
-- Copper sheet and pipe: stills, heat exchangers, roofing (for copper sheet and wire drawing see [Sheet and Wire](../../../docs/05-冶金技术/11-板材与线材.md))
+- Copper wire: second only to silver in conductivity; generators, electric motors and the telegraph all depend on it (keep copper wire from ruins as wire wherever possible; see [Scrap Metal Recycling and Aluminium Casting](05-scrap-metal-recycling-and-aluminium-casting.md))
+- Copper sheet and pipe: stills, heat exchangers, roofing (for copper sheet and wire drawing see [Sheet and Wire](11-sheet-and-wire.md))
 
 ### 5.3 Ornaments and money
 
@@ -990,7 +990,7 @@ Notes:
   the more tin, the less it can be forged
 ```
 
-For annealing and quenching steel see [Metalworking](../../../docs/05-冶金技术/04-金属加工技术.md); for drawing copper wire and rolling copper sheet see [Sheet and Wire](../../../docs/05-冶金技术/11-板材与线材.md).
+For annealing and quenching steel see [Metalworking](04-metalworking.md); for drawing copper wire and rolling copper sheet see [Sheet and Wire](11-sheet-and-wire.md).
 
 ---
 
@@ -1011,7 +1011,7 @@ For annealing and quenching steel see [Metalworking](../../../docs/05-冶金技�
   → serious; get to hospital as soon as possible
 ```
 
-For the general handling of poisoning see [Poisoning – General principles of treating poisoning](../../../docs/01-日常疾病和伤害/12-中毒.md#中毒的通用处理原则).
+For the general handling of poisoning see [Poisoning – General principles of treating poisoning](../01-first-aid-and-family-health/12-poisoning.md#general-principles-for-handling-poisoning).
 
 **Prevention:**
 - Wash your hands after work
@@ -1077,7 +1077,7 @@ and see a doctor
    go to hospital
 ```
 
-For treating carbon monoxide poisoning and burns see [Metallurgy Basics – Preventing poisoning](../../../docs/05-冶金技术/00-基础冶金知识.md#63-中毒预防) and [Metallurgy Basics – Treating burns](../../../docs/05-冶金技术/00-基础冶金知识.md#64-烧伤处理).
+For treating carbon monoxide poisoning and burns see [Metallurgy Basics – Preventing poisoning](00-metallurgy-basics.md#63-preventing-poisoning) and [Metallurgy Basics – Treating burns](00-metallurgy-basics.md#64-treating-burns).
 
 ---
 
@@ -1122,16 +1122,16 @@ For treating carbon monoxide poisoning and burns see [Metallurgy Basics – Prev
 
 ## Related chapters
 
-- ⏮️ [Metallurgy Basics](../../../docs/05-冶金技术/00-基础冶金知识.md) - building furnaces, making fuel
-- ⏭️ [Forging Simple Tools](../../../docs/05-冶金技术/03-简易工具锻造.md) - working and using copper items
-- ⏭️ [Metalworking](../../../docs/05-冶金技术/04-金属加工技术.md) - casting and forging techniques
-- 🔗 [Scrap Metal Recycling and Aluminium Casting](../../../docs/05-冶金技术/05-废旧金属回收与铝铸造.md) - recovering copper wire, brass and bronze
-- 🔗 [Advanced Casting](../../../docs/05-冶金技术/07-铸造进阶.md) - crucible furnaces, moulding boxes, running systems, casting defects
-- 🔗 [Bellows and Forges](../../../docs/05-冶金技术/08-鼓风设备与锻炉.md) - bellows and nozzles
-- 🔗 [Other Metals](../../../docs/05-冶金技术/10-其他金属.md) - sources and smelting of tin and zinc
-- 🔗 [Sheet and Wire](../../../docs/05-冶金技术/11-板材与线材.md) - copper sheet, copper wire
+- ⏮️ [Metallurgy Basics](00-metallurgy-basics.md) - building furnaces, making fuel
+- ⏭️ [Forging Simple Tools](03-forging-simple-tools.md) - working and using copper items
+- ⏭️ [Metalworking](04-metalworking.md) - casting and forging techniques
+- 🔗 [Scrap Metal Recycling and Aluminium Casting](05-scrap-metal-recycling-and-aluminium-casting.md) - recovering copper wire, brass and bronze
+- 🔗 [Advanced Casting](07-advanced-casting.md) - crucible furnaces, moulding boxes, running systems, casting defects
+- 🔗 [Bellows and Forges](08-bellows-and-forges.md) - bellows and nozzles
+- 🔗 [Other Metals](10-other-metals.md) - sources and smelting of tin and zinc
+- 🔗 [Sheet and Wire](11-sheet-and-wire.md) - copper sheet, copper wire
 - 🔗 [Geology, Minerals and Soil](../../../docs/08-基础科学知识/06-地质矿物与土壤.md) - mineral identification and prospecting
-- 🔗 [Poisoning](../../../docs/01-日常疾病和伤害/12-中毒.md) - dealing with swallowed and inhaled poisons
+- 🔗 [Poisoning](../01-first-aid-and-family-health/12-poisoning.md) - dealing with swallowed and inhaled poisons
 
 ---
 

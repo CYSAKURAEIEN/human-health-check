@@ -24,8 +24,8 @@
 | Re-forging ready-made steel parts directly | ⭐ | Very good | Car leaf springs, files, rails: stable composition, far better than home-smelted iron |
 | Melting and recasting scrap aluminium | ⭐⭐ | Good | Melting point only about 660°C; a charcoal furnace with forced air can melt it |
 | Melting and casting scrap copper and brass | ⭐⭐⭐ | Good | Needs about 1100-1200°C |
-| Melting and casting scrap iron | ⭐⭐⭐⭐ | Fair | Needs about 1300-1400°C and coke; see [Advanced Casting](../../../docs/05-冶金技术/07-铸造进阶.md) |
-| Smelting from ore | ⭐⭐⭐⭐⭐ | Hard to guarantee | See [Iron Smelting](../../../docs/05-冶金技术/01-铁的冶炼.md), [Copper Smelting](../../../docs/05-冶金技术/02-铜的冶炼.md) |
+| Melting and casting scrap iron | ⭐⭐⭐⭐ | Fair | Needs about 1300-1400°C and coke; see [Advanced Casting](07-advanced-casting.md) |
+| Smelting from ore | ⭐⭐⭐⭐⭐ | Hard to guarantee | See [Iron Smelting](01-iron-smelting.md), [Copper Smelting](02-copper-smelting.md) |
 
 ```
 Order of priority:
@@ -107,7 +107,7 @@ File off a few chips, put them on a non-flammable stone and light them:
   then try it with a file. File will not bite → high carbon, can make cutting tools; file bites → mild steel
 ```
 
-For how to harden, see [Metalworking](../../../docs/05-冶金技术/04-金属加工技术.md).
+For how to harden, see [Metalworking](04-metalworking.md).
 
 ### 3.2 Non-ferrous metals
 
@@ -184,7 +184,7 @@ Crucible:
 - Try the crucible tongs and pouring fork empty beforehand, to make sure the grip is secure and you can hold it steady
 ```
 
-For preparing refractories, see [Iron Smelting – Preparing refractories](../../../docs/05-冶金技术/01-铁的冶炼.md#22-耐火材料配制); for building a crucible furnace in detail, see [Advanced Casting – Furnaces and crucibles](../../../docs/05-冶金技术/07-铸造进阶.md#二熔炉和坩埚).
+For preparing refractories, see [Iron Smelting – Preparing refractories](01-iron-smelting.md#22-making-refractory-material); for building a crucible furnace in detail, see [Advanced Casting – Furnaces and crucibles](07-advanced-casting.md#2-furnaces-and-crucibles).
 
 ### 5.2 Melting steps
 
@@ -212,7 +212,7 @@ Metal moulds (steel, cast iron): can be used again and again; good for simple sh
   → Work and pour over a layer of dry sand
 ```
 
-For a diagram of the whole sand-casting process, from making the pattern and moulding to pouring and knocking out, see [Advanced Casting – The basic casting process](../../../docs/05-冶金技术/07-铸造进阶.md#12-铸造的基本流程).
+For a diagram of the whole sand-casting process, from making the pattern and moulding to pouring and knocking out, see [Advanced Casting – The basic casting process](07-advanced-casting.md#12-the-basic-casting-process).
 
 ### 5.4 Finishing the casting
 
@@ -277,9 +277,9 @@ Zinc: melting point about 420°C, boiling point about 907°C; if it gets too hot
 
 ## Related chapters
 
-- ⏮️ [Metalworking](../../../docs/05-冶金技术/04-金属加工技术.md) - Heat treatment of salvaged steel
-- ⏭️ [Welding and Joining](../../../docs/05-冶金技术/06-焊接与连接.md) - Joining salvaged metal parts together
-- ⏭️ [Advanced Casting](../../../docs/05-冶金技术/07-铸造进阶.md) - Furnaces, crucibles, moulding sand, gating systems, cast iron
+- ⏮️ [Metalworking](04-metalworking.md) - Heat treatment of salvaged steel
+- ⏭️ [Welding and Joining](06-welding-and-joining.md) - Joining salvaged metal parts together
+- ⏭️ [Advanced Casting](07-advanced-casting.md) - Furnaces, crucibles, moulding sand, gating systems, cast iron
 - 🔗 [Technology Rebuilding Roadmap – Resources in the ruins](../../../docs/09-进阶科学与工程/00-技术重建路线图.md#四废墟里的资源-先利用再制造) - What else can be found in the ruins
 - 🔗 [Engineering Mechanics and Materials – Materials science](../../../docs/09-进阶科学与工程/01-工程力学与材料.md#十材料科学) - The composition and properties of steel
 

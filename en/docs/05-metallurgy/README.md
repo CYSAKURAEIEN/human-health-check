@@ -34,7 +34,7 @@ Basic concepts of metallurgy and the preparation work.
 
 ---
 
-### [01 Iron smelting](../../../docs/05-冶金技术/01-铁的冶炼.md)
+### [01 Iron smelting](01-iron-smelting.md)
 
 The whole process from iron ore to usable iron objects.
 
@@ -57,7 +57,7 @@ The whole process from iron ore to usable iron objects.
 
 ---
 
-### [02 Copper smelting](../../../docs/05-冶金技术/02-铜的冶炼.md)
+### [02 Copper smelting](02-copper-smelting.md)
 
 How to smelt copper and make bronze.
 
@@ -81,7 +81,7 @@ How to smelt copper and make bronze.
 
 ---
 
-### [03 Simple tool forging](../../../docs/05-冶金技术/03-简易工具锻造.md)
+### [03 Simple tool forging](03-forging-simple-tools.md)
 
 Making the basic tools most needed after a collapse.
 
@@ -106,7 +106,7 @@ Making the basic tools most needed after a collapse.
 
 ---
 
-### [04 Metalworking techniques](../../../docs/05-冶金技术/04-金属加工技术.md)
+### [04 Metalworking techniques](04-metalworking.md)
 
 Treatments that improve the properties of metal.
 
@@ -125,7 +125,7 @@ Treatments that improve the properties of metal.
 
 ---
 
-### [05 Scrap metal recovery and aluminium casting](../../../docs/05-冶金技术/05-废旧金属回收与铝铸造.md)
+### [05 Scrap metal recovery and aluminium casting](05-scrap-metal-recycling-and-aluminium-casting.md)
 
 The most realistic source of metal after civilisation collapses: the ruins.
 
@@ -143,7 +143,7 @@ The most realistic source of metal after civilisation collapses: the ruins.
 
 ---
 
-### [06 Welding and joining](../../../docs/05-冶金技术/06-焊接与连接.md)
+### [06 Welding and joining](06-welding-and-joining.md)
 
 Joining parts into larger, more complex things.
 
@@ -160,7 +160,7 @@ Joining parts into larger, more complex things.
 
 ---
 
-### [07 Advanced casting](../../../docs/05-冶金技术/07-铸造进阶.md)
+### [07 Advanced casting](07-advanced-casting.md)
 
 Casting complex shapes such as pots, wheels, gear blanks and valves.
 
@@ -178,7 +178,7 @@ Casting complex shapes such as pots, wheels, gear blanks and valves.
 
 ---
 
-### [08 Blowing equipment and forges](../../../docs/05-冶金技术/08-鼓风设备与锻炉.md)
+### [08 Blowing equipment and forges](08-bellows-and-forges.md)
 
 If the furnace will not get hot enough, nine times out of ten there is not enough air.
 
@@ -194,7 +194,7 @@ If the furnace will not get hot enough, nine times out of ten there is not enoug
 
 ---
 
-### [09 Fitting and machining](../../../docs/05-冶金技术/09-钳工与机械加工.md)
+### [09 Fitting and machining](09-bench-work-and-machining.md)
 
 Turning rough blanks into parts that fit together and are interchangeable.
 
@@ -211,7 +211,7 @@ Turning rough blanks into parts that fit together and are interchangeable.
 
 ---
 
-### [10 Other metals](../../../docs/05-冶金技术/10-其他金属.md)
+### [10 Other metals](10-other-metals.md)
 
 Sources, smelting principles and uses of tin, lead, zinc, gold and silver.
 
@@ -228,7 +228,7 @@ Sources, smelting principles and uses of tin, lead, zinc, gold and silver.
 
 ---
 
-### [11 Sheet and wire](../../../docs/05-冶金技术/11-板材与线材.md)
+### [11 Sheet and wire](11-sheet-and-wire.md)
 
 Making sheet-iron goods, iron wire and copper wire.
 
@@ -284,7 +284,7 @@ Making sheet-iron goods, iron wire and copper wire.
 
 ### Smelting equipment
 - [ ] Smelting furnace (clay / firebrick)
-- [ ] Blowing equipment (bellows; see [Blowing equipment and forges](../../../docs/05-冶金技术/08-鼓风设备与锻炉.md))
+- [ ] Blowing equipment (bellows; see [Blowing equipment and forges](08-bellows-and-forges.md))
 - [ ] Crucible (heat-resistant vessel)
 - [ ] Moulds (sand or stone)
 - [ ] Quench tank (a bucket)
@@ -323,7 +323,7 @@ Making sheet-iron goods, iron wire and copper wire.
 - Do not burst blisters
 - Do not apply grease, soy sauce, toothpaste or the like
 - Cover with a clean, damp gauze; for severe burns, get medical help at once
-- For details see [Wound and injury care – Scalds and burns](../../../docs/01-日常疾病和伤害/02-外伤处理.md#烫伤与烧伤)
+- For details see [Wound and injury care – Scalds and burns](../01-first-aid-and-family-health/02-wounds-and-injuries.md#scalds-and-burns)
 
 ---
 
@@ -349,7 +349,7 @@ Making sheet-iron goods, iron wire and copper wire.
 
 ### ✅ Recommended start
 1. **Start with copper**: low melting point, easy to work, high success rate
-2. **Collect scrap metal**: easier than smelting ore, and good for practising forging, melting and casting (see [Scrap metal recovery and aluminium casting](../../../docs/05-冶金技术/05-废旧金属回收与铝铸造.md))
+2. **Collect scrap metal**: easier than smelting ore, and good for practising forging, melting and casting (see [Scrap metal recovery and aluminium casting](05-scrap-metal-recycling-and-aluminium-casting.md))
 3. **Start with simple tools**: nails, blades and the like
 4. **Build a team**: metallurgy is heavy labour and needs a division of work
 
@@ -372,7 +372,7 @@ Making sheet-iron goods, iron wire and copper wire.
 When smelting is completely impossible:
 
 ### Salvage and reuse
-See [Scrap metal recovery and aluminium casting](../../../docs/05-冶金技术/05-废旧金属回收与铝铸造.md).
+See [Scrap metal recovery and aluminium casting](05-scrap-metal-recycling-and-aluminium-casting.md).
 - Collect discarded metal objects and remelt them
 - Old car parts (lots of steel)
 - Reinforcing bars from abandoned buildings
@@ -403,8 +403,8 @@ See [Scrap metal recovery and aluminium casting](../../../docs/05-冶金技术/0
 
 ## Related chapters
 
-- [Wilderness survival – Basic survival skills](../../../docs/03-野外生存/00-基础生存技能.md) - first uses of tools
-- [Wilderness survival – Long-term collapse survival](../../../docs/03-野外生存/06-末日求生.md) - long-term survival strategy
+- [Wilderness survival – Basic survival skills](../03-wilderness-survival/00-basic-survival-skills.md) - first uses of tools
+- [Wilderness survival – Long-term collapse survival](../03-wilderness-survival/06-long-term-collapse-survival.md) - long-term survival strategy
 - [Pharmaceuticals](../../../docs/06-制药技术/README.md) - the matching supply of medicines
 
 ---

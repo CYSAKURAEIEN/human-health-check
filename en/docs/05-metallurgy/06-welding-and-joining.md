@@ -80,7 +80,7 @@ No rivets, no welding: bend the edges of two sheets so they hook into each other
 
 ## 3. Forge welding
 
-Heat two pieces of iron to a white heat close to melting and hammer them together into one solid piece. It is one of the traditional blacksmith's core skills: lengthening, wrapping a steel edge (see [Forging Simple Tools – Inserting a steel edge](../../../docs/05-冶金技术/03-简易工具锻造.md#112-嵌钢刃)) and fold forging all depend on it.
+Heat two pieces of iron to a white heat close to melting and hammer them together into one solid piece. It is one of the traditional blacksmith's core skills: lengthening, wrapping a steel edge (see [Forging Simple Tools – Inserting a steel edge](03-forging-simple-tools.md#112-inserted-steel-edges)) and fold forging all depend on it.
 
 ### 3.1 Suitable materials
 
@@ -126,7 +126,7 @@ Common failures:
 
 ![Forge welding: scarf joint, flux, heating to welding heat, hammering together, reheating, bend test](../../images/forge-weld.svg)
 
-*Figure: Drawn following the steps in 3.2; the fire-colour bar follows the table in [Forging Simple Tools – Forging temperatures](../../../docs/05-冶金技术/03-简易工具锻造.md#12-锻造温度); all temperatures are approximate*
+*Figure: Drawn following the steps in 3.2; the fire-colour bar follows the table in [Forging Simple Tools – Forging temperatures](03-forging-simple-tools.md#12-forging-temperatures); all temperatures are approximate*
 
 ---
 
@@ -311,11 +311,11 @@ Bend test: weld a test piece of the same material by the same method, clamp it i
 
 ## Related chapters
 
-- ⏮️ [Scrap Metal Recycling and Aluminium Casting](../../../docs/05-冶金技术/05-废旧金属回收与铝铸造.md) - Identifying and preparing metals
-- ⏭️ [Advanced Casting](../../../docs/05-冶金技术/07-铸造进阶.md)
-- 🔗 [Forging Simple Tools](../../../docs/05-冶金技术/03-简易工具锻造.md) - Forging basics, wrapping a steel edge
+- ⏮️ [Scrap Metal Recycling and Aluminium Casting](05-scrap-metal-recycling-and-aluminium-casting.md) - Identifying and preparing metals
+- ⏭️ [Advanced Casting](07-advanced-casting.md)
+- 🔗 [Forging Simple Tools](03-forging-simple-tools.md) - Forging basics, wrapping a steel edge
 - 🔗 [Engineering Mechanics and Materials](../../../docs/09-进阶科学与工程/01-工程力学与材料.md) - Loads on joints and safety factors
-- 🔗 [Wound and Injury Care – Scalds and burns](../../../docs/01-日常疾病和伤害/02-外伤处理.md#烫伤与烧伤)
+- 🔗 [Wound and Injury Care – Scalds and burns](../01-first-aid-and-family-health/02-wounds-and-injuries.md#scalds-and-burns)
 
 ---
 

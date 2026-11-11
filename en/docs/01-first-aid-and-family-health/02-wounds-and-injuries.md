@@ -1093,7 +1093,7 @@ Common myths:
   bleeding and fractures first
 ```
 
-For avoiding dogs, monkeys and wild boar outdoors see [Wasps, Ticks and Dangerous Animals – Wild boar, dogs, monkeys and others](../03-wilderness-survival/10-wasps-ticks-and-dangerous-animals.md#wild-boar-dogs-monkeys-and-others); for preventing diseases passed from farm animals to people see [Livestock](../../../docs/04-动植物培育/06-家畜养殖.md).
+For avoiding dogs, monkeys and wild boar outdoors see [Wasps, Ticks and Dangerous Animals – Wild boar, dogs, monkeys and others](../03-wilderness-survival/10-wasps-ticks-and-dangerous-animals.md#wild-boar-dogs-monkeys-and-others); for preventing diseases passed from farm animals to people see [Livestock](../04-farming-and-animal-husbandry/06-livestock.md).
 
 ### Human bites
 

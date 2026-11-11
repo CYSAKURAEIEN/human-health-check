@@ -14,7 +14,7 @@ This chapter teaches you how to forge the most basic, most essential tools from 
 3. **Hoe, pick** - farming and mining
 4. **Nails** - essential for building
 
-**Where the material comes from:** After civilisation collapse, the most realistic raw material is not iron you smelt yourself but steel from the ruins: car leaf springs, files, rails, axle shafts, rebar. Which material suits which tool is covered in [Scrap Metal Recycling and Aluminium Casting - Iron and steel](../../../docs/05-冶金技术/05-废旧金属回收与铝铸造.md#31-钢铁); smelting your own wrought iron is covered in [Iron Smelting](../../../docs/05-冶金技术/01-铁的冶炼.md).
+**Where the material comes from:** After civilisation collapse, the most realistic raw material is not iron you smelt yourself but steel from the ruins: car leaf springs, files, rails, axle shafts, rebar. Which material suits which tool is covered in [Scrap Metal Recycling and Aluminium Casting - Iron and steel](05-scrap-metal-recycling-and-aluminium-casting.md#31-steel-and-iron); smelting your own wrought iron is covered in [Iron Smelting](01-iron-smelting.md).
 
 **The difference between wrought iron and steel decides how you forge:**
 - **Wrought iron, low-carbon steel** (rebar, sheet iron): soft, easy to forge, easy to forge-weld, but **cannot be hardened by quenching** → knife bodies, axe bodies, nails, chains, hoe blades
@@ -25,16 +25,16 @@ This chapter teaches you how to forge the most basic, most essential tools from 
 
 ## ⚠️ Safety first
 
-- ☠️ **Carbon monoxide**: a charcoal or coal fire indoors or in a closed shed can cause headache, unconsciousness and even death. The forge must stand under a well-ventilated, half-open shelter; see [Home and Traffic Accidents - Carbon monoxide poisoning](../../../docs/01-日常疾病和伤害/07-居家与交通意外.md#一氧化碳中毒)
+- ☠️ **Carbon monoxide**: a charcoal or coal fire indoors or in a closed shed can cause headache, unconsciousness and even death. The forge must stand under a well-ventilated, half-open shelter; see [Home and Traffic Accidents - Carbon monoxide poisoning](../01-first-aid-and-family-health/07-home-and-traffic-accidents.md#carbon-monoxide-poisoning)
 - 🔥 **"Not glowing" does not mean "not hot"**: iron that has cooled until you can no longer see any red is still several hundred degrees Celsius. Treat every piece of iron round the anvil and on the ground as hot; pick it up with tongs, never by hand
 - 👁️ **Wear safety goggles**: scale flies off when you hammer; once the head of a chisel or punch has spread into a "mushroom head", the curled rim breaks off and flies out. Eye injuries are the most common injury
 - 👕 Wear cotton, linen or leather clothing and an apron, not synthetics (sparks melt them onto your skin); wear shoes that cover the top of the foot; tie back long hair
 - 🛢️ **Quenching oil can catch fire**: keep the oil in a metal drum with a lid, and plunge the workpiece in completely in one go; if the oil catches fire, put the lid on or throw sand on it. **Never throw water on it**
-- ☠️ Galvanised parts (sheet iron with a white coating, water pipes, screws) give off white smoke when heated; breathing it in causes "metal fume fever". Remove the zinc coating before forging (see [Scrap Metal Recycling and Aluminium Casting - Dismantling and pre-treatment](../../../docs/05-冶金技术/05-废旧金属回收与铝铸造.md#四拆解与预处理)). Do not forge lead, cadmium-plated parts, or parts with coatings of unknown origin
+- ☠️ Galvanised parts (sheet iron with a white coating, water pipes, screws) give off white smoke when heated; breathing it in causes "metal fume fever". Remove the zinc coating before forging (see [Scrap Metal Recycling and Aluminium Casting - Dismantling and pre-treatment](05-scrap-metal-recycling-and-aluminium-casting.md#4-dismantling-and-preparation)). Do not forge lead, cadmium-plated parts, or parts with coatings of unknown origin
 - 🔨 When two people work with a sledgehammer, agree on spoken signals beforehand; the person holding the tongs must not stand in the line of the sledgehammer's swing
 - 🔇 Forging for long periods damages hearing; plug your ears with cotton wool or cork
 
-For treating burns see [Wound and Injury Care - Scalds and burns](../../../docs/01-日常疾病和伤害/02-外伤处理.md#烫伤与烧伤); for general protection in metallurgical work see [Metallurgy Basics - Safety and protection](../../../docs/05-冶金技术/00-基础冶金知识.md#六安全防护).
+For treating burns see [Wound and Injury Care - Scalds and burns](../01-first-aid-and-family-health/02-wounds-and-injuries.md#scalds-and-burns); for general protection in metallurgical work see [Metallurgy Basics - Safety and protection](00-metallurgy-basics.md#6-safety-and-protection).
 
 ---
 
@@ -50,7 +50,7 @@ For treating burns see [Wound and Injury Care - Scalds and burns](../../../docs/
 - After cooling it keeps the new shape
 - Repeated hammering makes metal denser and stronger
 
-Forging squeezes out slag and breaks up coarse grains, so forged parts are much tougher than cast ones: knives, axes, chisels and nails, which take impacts, must be forged; pots and ploughshares, which have complex shapes and do not take violent impacts, are cast (see [Advanced Casting](../../../docs/05-冶金技术/07-铸造进阶.md)). Forging only changes the shape; when working out how much material you need, allow about 1/5 more than the weight of the finished piece to cover scale and offcuts.
+Forging squeezes out slag and breaks up coarse grains, so forged parts are much tougher than cast ones: knives, axes, chisels and nails, which take impacts, must be forged; pots and ploughshares, which have complex shapes and do not take violent impacts, are cast (see [Advanced Casting](07-advanced-casting.md)). Forging only changes the shape; when working out how much material you need, allow about 1/5 more than the weight of the finished piece to cover scale and offcuts.
 
 ### 1.2 Forging temperatures
 
@@ -88,7 +88,7 @@ Simple forge:
 - Can be built temporarily from firebricks
 ```
 
-For the forge's construction, fuel, fire management and how to make various kinds of bellows, see [Bellows and Forges](../../../docs/05-冶金技术/08-鼓风设备与锻炉.md#五锻炉).
+For the forge's construction, fuel, fire management and how to make various kinds of bellows, see [Bellows and Forges](08-bellows-and-forges.md#5-the-forge).
 
 **2. Anvil:**
 ```
@@ -100,7 +100,7 @@ Substitutes:
 Requirements: flat, hard, stable
 ```
 
-For anvil mounting height and anvil materials found in the ruins, see [Bellows and Forges - The anvil](../../../docs/05-冶金技术/08-鼓风设备与锻炉.md#54-砧子).
+For anvil mounting height and anvil materials found in the ruins, see [Bellows and Forges - The anvil](08-bellows-and-forges.md#54-the-anvil).
 
 - The heavier the anvil the better: if the anvil "does not move" when you strike, your effort goes into the workpiece
 - Grind one edge of the anvil face to a rounded corner (radius about 5 mm) for bending and fullering, and keep the other edge square; fix a thick round steel bar beside it as a "horn" for bending rings and hooks
@@ -148,7 +148,7 @@ Material: two pieces of wrought iron or steel bar about 12-16 mm square, each ab
 Check: grip a workpiece and tap it with the hammer; it must not wobble, turn or slip out
 ```
 
-For the key points of riveting see [Welding and Joining - Riveting](../../../docs/05-冶金技术/06-焊接与连接.md#二铆接).
+For the key points of riveting see [Welding and Joining - Riveting](06-welding-and-joining.md#2-riveting).
 
 #### Making chisels and punches:
 
@@ -282,7 +282,7 @@ Cold cutting (thin stock, sheet):
 - If you have a hacksaw, it is easier to saw thin stock (see Bench Work and Machining)
 ```
 
-For sawing and filing see [Bench Work and Machining](../../../docs/05-冶金技术/09-钳工与机械加工.md#三锯削).
+For sawing and filing see [Bench Work and Machining](09-bench-work-and-machining.md#3-sawing).
 
 ![Basic forging operations: drawing out, upsetting, bending, punching, cutting and fire colours](../../images/forging-operations.svg)
 
@@ -290,7 +290,7 @@ For sawing and filing see [Bench Work and Machining](../../../docs/05-冶金技�
 
 **9. Forge welding:**
 
-Heat two pieces of wrought iron or low-carbon steel to bright yellow to white, sprinkle on borax (or fine quartz sand) as flux, quickly lay them together and hammer them, and they join into one piece. Lengthening bars, making iron rings and chains, and adding steel cutting edges all depend on it. For the full steps, judging the temperature and common failures, see [Welding and Joining - Forge welding](../../../docs/05-冶金技术/06-焊接与连接.md#三锻焊); here we stress only a few points:
+Heat two pieces of wrought iron or low-carbon steel to bright yellow to white, sprinkle on borax (or fine quartz sand) as flux, quickly lay them together and hammer them, and they join into one piece. Lengthening bars, making iron rings and chains, and adding steel cutting edges all depend on it. For the full steps, judging the temperature and common failures, see [Welding and Joining - Forge welding](06-welding-and-joining.md#3-forge-welding); here we stress only a few points:
 
 - Upset the joint first, then forge it into a bevel (scarf joint), so that after welding it is not thinner than the rest
 - Both pieces must reach welding temperature **at the same time**; work fast: no more than two or three seconds from leaving the fire to the first blow
@@ -299,7 +299,7 @@ Heat two pieces of wrought iron or low-carbon steel to bright yellow to white, s
 
 ### 1.5 Heat treatment: fire colours and temper colours
 
-After forging, tool steel (medium- and high-carbon steel) must be **quenched** to harden it, then **tempered** to remove the brittleness. The principles and full procedures are in [Metalworking](../../../docs/05-冶金技术/04-金属加工技术.md); the colours used for each tool in this chapter are standardised as follows:
+After forging, tool steel (medium- and high-carbon steel) must be **quenched** to harden it, then **tempered** to remove the brittleness. The principles and full procedures are in [Metalworking](04-metalworking.md); the colours used for each tool in this chapter are standardised as follows:
 
 **Quenching:**
 ```
@@ -337,7 +337,7 @@ Tempering essentials:
 - If the colour suddenly runs past (turns grey) → over-tempered, not hard enough; the only fix is to quench and temper again
 ```
 
-For tempering temperature tables for each kind of tool and methods of partial quenching, see [Metalworking - Tempering procedure](../../../docs/05-冶金技术/04-金属加工技术.md#32-回火操作) and [Metalworking - Selective quenching](../../../docs/05-冶金技术/04-金属加工技术.md#24-选择性淬火局部淬火).
+For tempering temperature tables for each kind of tool and methods of partial quenching, see [Metalworking - Tempering procedure](04-metalworking.md#32-tempering-procedure) and [Metalworking - Selective quenching](04-metalworking.md#24-selective-quenching-partial-quenching).
 
 **Wrought iron and low-carbon steel cannot be hardened**; quenching them is useless. For a hard edge you can only add steel (see [11.2](#112-inserted-steel-edges)) or case harden (see [11.3](#113-surface-hardening)).
 
@@ -390,7 +390,7 @@ Method B: drilling
 
 Make the eye an oval of about 15 mm × 30 mm (for a 1 kg head); drive the drift in some way from each side so that both ends of the hole flare slightly: once the wedge spreads the end of the handle, it locks inside and cannot come out. Leave the drift in the hole and hammer the bulging sides flat.
 
-For the general punching method see item 7 of [1.4](#14-basic-forging-techniques); for drilling see [Bench Work and Machining - Drilling](../../../docs/05-冶金技术/09-钳工与机械加工.md#五钻孔).
+For the general punching method see item 7 of [1.4](#14-basic-forging-techniques); for drilling see [Bench Work and Machining - Drilling](09-bench-work-and-machining.md#5-drilling).
 
 **4. Finishing:**
 - Striking face: flat and smooth
@@ -467,7 +467,7 @@ Method:
   - The "sandwiched steel" of traditional Chinese kitchen knives and axes works on this principle
 ```
 
-Add the steel before shaping; see [11.2 Inserted steel edges](#112-inserted-steel-edges) and [Welding and Joining - Forge welding](../../../docs/05-冶金技术/06-焊接与连接.md#三锻焊).
+Add the steel before shaping; see [11.2 Inserted steel edges](#112-inserted-steel-edges) and [Welding and Joining - Forge welding](06-welding-and-joining.md#3-forge-welding).
 
 **4. Grinding the edge:**
 - Grind on a whetstone
@@ -555,7 +555,7 @@ Wrapped-eye method (wrought iron with a steel edge):
 5. Once welded, forge the whole thing into an axe shape; the cutting edge is formed by the steel strip
 ```
 
-For forge-welding essentials see [Welding and Joining - Forge welding](../../../docs/05-冶金技术/06-焊接与连接.md#三锻焊). If you have a single solid piece of medium-carbon steel (such as an axle shaft), you can also punch the eye from both sides at the back and draw out and spread the front into the blade, with no forge welding.
+For forge-welding essentials see [Welding and Joining - Forge welding](06-welding-and-joining.md#3-forge-welding). If you have a single solid piece of medium-carbon steel (such as an axle shaft), you can also punch the eye from both sides at the back and draw out and spread the front into the blade, with no forge welding.
 
 **2. Forming the edge:**
 - Hammer the edge to thin it
@@ -740,7 +740,7 @@ Nail header: punch a hole slightly larger than the nail shank in a steel plate a
 - Once skilled: 2-5 minutes per nail
 - 100-200 nails a day!
 
-**Making rivets:** the same as nails, but without the point; both ends of the shank are flat. Cut to a length of "total thickness of the two plates + about 1.5 times the rivet diameter" (see [Welding and Joining - Rules of thumb for sizes](../../../docs/05-冶金技术/06-焊接与连接.md#21-尺寸经验)).
+**Making rivets:** the same as nails, but without the point; both ends of the shank are flat. Cut to a length of "total thickness of the two plates + about 1.5 times the rivet diameter" (see [Welding and Joining - Rules of thumb for sizes](06-welding-and-joining.md#21-rules-of-thumb-for-sizes)).
 
 ### 6.2 Iron rings and chains
 
@@ -767,7 +767,7 @@ Testing: a weld showing a seam line, a dent or black slag inclusions → cut it 
 ⚠️ Never lift people with home-made chain, and never suspend loads over anyone's head; a chain is only as strong as its worst link
 ```
 
-For joints without forge welding (riveting, cold-bent hooks and rings) see [Sheet and Wire - Uses of wire](../../../docs/05-冶金技术/11-板材与线材.md#45-线材的用途).
+For joints without forge welding (riveting, cold-bent hooks and rings) see [Sheet and Wire - Uses of wire](11-sheet-and-wire.md#45-uses-of-wire).
 
 ---
 
@@ -781,7 +781,7 @@ For joints without forge welding (riveting, cold-bent hooks and rings) see [Shee
 - Melt iron (or use pig iron)
 - Pour into a pot-shaped mould
 - Cool to shape
-- Molten iron needs a very high furnace temperature and suitable moulding sand, so in reality it is not simple; see [Advanced Casting](../../../docs/05-冶金技术/07-铸造进阶.md)
+- Molten iron needs a very high furnace temperature and suitable moulding sand, so in reality it is not simple; see [Advanced Casting](07-advanced-casting.md)
 
 **Forging (hard work):**
 1. A large iron plate
@@ -789,7 +789,7 @@ For joints without forge welding (riveting, cold-bent hooks and rings) see [Shee
 3. It forms a hollow
 4. Roll the rim outwards
 
-For the steps of raising see [Sheet and Wire - Raising](../../../docs/05-冶金技术/11-板材与线材.md#25-锤揲-把平板打成碗和盆). Heat the iron plate and hammer it; when it cools and stiffens, reheat it; work round and round from the outside inwards. Low-carbon steel plate about 1.5-2 mm thick is most suitable.
+For the steps of raising see [Sheet and Wire - Raising](11-sheet-and-wire.md#25-raising-hammering-flat-sheet-into-bowls-and-basins). Heat the iron plate and hammer it; when it cools and stiffens, reheat it; work round and round from the outside inwards. Low-carbon steel plate about 1.5-2 mm thick is most suitable.
 
 **Uses:** cooking, boiling water
 
@@ -805,7 +805,7 @@ A newly made iron pot: wipe on a thin layer of vegetable oil and heat it over a 
 2. Hammer-join or rivet the seam
 3. Weld on the bottom
 
-- The seams and bottom of sheet-iron buckets are most often made with a "lock seam" (both edges folded to hook into each other, then pressed flat), then sealed with soft solder against leaks; see [Welding and Joining - Lock seams in sheet iron](../../../docs/05-冶金技术/06-焊接与连接.md#24-铁皮的咬口)
+- The seams and bottom of sheet-iron buckets are most often made with a "lock seam" (both edges folded to hook into each other, then pressed flat), then sealed with soft solder against leaks; see [Welding and Joining - Lock seams in sheet iron](06-welding-and-joining.md#24-seaming-iron-sheet)
 - Roll a wire into the rim so the bucket does not get squashed when carried
 - Forge the handle from iron bar, with hooked ends hung in lugs riveted to the bucket
 
@@ -886,7 +886,7 @@ Note: do the file test **after quenching and before tempering**. After tempering
 | Cracks after quenching | Edge too thin, temperature too high, water quench too violent, not normalised | See Q6 |
 | Not hard after quenching | The material is wrought iron or low-carbon steel; not hot enough | See Q2 |
 | Bent after quenching | Entered the water at an angle, swung side to side, uneven thickness on the two sides | Straighten gently while tempering (while still hot); next time go straight down |
-| Forge weld will not take | Not hot enough, scale present, too slow, sulphur in the fuel | See [Welding and Joining - Forge welding](../../../docs/05-冶金技术/06-焊接与连接.md#三锻焊) |
+| Forge weld will not take | Not hot enough, scale present, too slow, sulphur in the fuel | See [Welding and Joining - Forge welding](06-welding-and-joining.md#3-forge-welding) |
 
 ### Q1: What do I do if the metal cracks while forging?
 
@@ -917,7 +917,7 @@ Note: do the file test **after quenching and before tempering**. After tempering
 - Or case harden the wrought iron (turn it into steel)
 - Quench correctly
 
-**How to tell whether it is steel:** cut off a small piece, heat it to cherry red and quench it in water, then try it with a file: if the file will not bite, it is steel; if it bites, it is wrought iron or low-carbon steel. You can also look at the sparks from a grinding wheel (see [Scrap Metal Recycling and Aluminium Casting - Spark testing](../../../docs/05-冶金技术/05-废旧金属回收与铝铸造.md#22-火花鉴别砂轮或粗锉打磨)).
+**How to tell whether it is steel:** cut off a small piece, heat it to cherry red and quench it in water, then try it with a file: if the file will not bite, it is steel; if it bites, it is wrought iron or low-carbon steel. You can also look at the sparks from a grinding wheel (see [Scrap Metal Recycling and Aluminium Casting - Spark testing](05-scrap-metal-recycling-and-aluminium-casting.md#22-spark-testing-on-a-grinding-wheel-or-with-a-coarse-file)).
 
 ### Q3: After quenching the tool is too brittle and breaks when struck?
 
@@ -959,7 +959,7 @@ Note: do the file test **after quenching and before tempering**. After tempering
 
 **Prevention:** follow the order in [1.5](#15-heat-treatment-fire-colours-and-temper-colours): normalise, leave the edge thick, judge the temperature with a magnet, quench thin edges in oil, temper immediately after quenching.
 
-**If it has already cracked:** quench cracks in high-carbon steel tools are basically impossible to repair. For a small crack, grind away the cracked part and make a smaller tool; a large crack means going back to the forge to make something else. For repair attempts see [Metalworking - Case studies](../../../docs/05-冶金技术/04-金属加工技术.md#十实战案例).
+**If it has already cracked:** quench cracks in high-carbon steel tools are basically impossible to repair. For a small crack, grind away the cracked part and make a smaller tool; a large crack means going back to the forge to make something else. For repair attempts see [Metalworking - Case studies](04-metalworking.md#10-case-studies).
 
 ---
 
@@ -973,7 +973,7 @@ Note: do the file test **after quenching and before tempering**. After tempering
 3. Wipe regularly
 4. Wrap in oiled paper or cloth
 
-Wash, dry and oil farm tools after each season's use. Bluing/blacking (forming a dense black oxide film on the surface) greatly reduces rusting; see [Metalworking - Bluing and blacking](../../../docs/05-冶金技术/04-金属加工技术.md#72-发蓝发黑防锈)
+Wash, dry and oil farm tools after each season's use. Bluing/blacking (forming a dense black oxide film on the surface) greatly reduces rusting; see [Metalworking - Bluing and blacking](04-metalworking.md#72-bluingblacking-rust-prevention)
 
 ### 10.2 Edge maintenance
 
@@ -990,7 +990,7 @@ Wash, dry and oil farm tools after each season's use. Bluing/blacking (forming a
 
 **When to reforge rather than keep grinding:** a large chip out of the edge (about 2 mm or more), or a hoe edge or pick point worn short → forge it again, then quench and temper; an edge that rolls and will not get sharp however you grind it → the hardness has gone; heat-treat it again.
 
-For sharpening technique and whetstone care see [Woodworking and Tool Maintenance - Sharpening](../../../docs/07-日常生活技能/09-木工与工具维护.md#磨刀); for using grinding wheels safely see [Bench Work and Machining - Grinding](../../../docs/05-冶金技术/09-钳工与机械加工.md#八磨削).
+For sharpening technique and whetstone care see [Woodworking and Tool Maintenance - Sharpening](../../../docs/07-日常生活技能/09-木工与工具维护.md#磨刀); for using grinding wheels safely see [Bench Work and Machining - Grinding](09-bench-work-and-machining.md#8-grinding).
 
 ### 10.3 Handle maintenance
 
@@ -1058,7 +1058,7 @@ Check: rub vinegar on the side of the edge; the steel and iron show different sh
        so you can see where the steel is; there should be no black line in the middle of the weld
 ```
 
-For general forge-welding essentials see [Welding and Joining - Forge welding](../../../docs/05-冶金技术/06-焊接与连接.md#三锻焊).
+For general forge-welding essentials see [Welding and Joining - Forge welding](06-welding-and-joining.md#3-forge-welding).
 
 ### 11.3 Surface hardening
 
@@ -1066,7 +1066,7 @@ For general forge-welding essentials see [Welding and Joining - Forge welding](.
 - Already covered in the steelmaking section
 - Hard outside, tough inside
 
-When you have no steel, bury wrought iron hoe edges, ploughshares, nail headers and the like in charcoal powder, seal them, and heat for several to a dozen or more hours; the surface turns into a layer of steel, which you then quench and temper. The carburised layer is only about 0.3-2 mm deep; once ground away the tool is soft again, so grind as little as possible. For the method see [Metalworking - Case hardening](../../../docs/05-冶金技术/04-金属加工技术.md#六渗碳技术) and [Iron Smelting - Carburising](../../../docs/05-冶金技术/01-铁的冶炼.md#52-方法-渗碳法)
+When you have no steel, bury wrought iron hoe edges, ploughshares, nail headers and the like in charcoal powder, seal them, and heat for several to a dozen or more hours; the surface turns into a layer of steel, which you then quench and temper. The carburised layer is only about 0.3-2 mm deep; once ground away the tool is soft again, so grind as little as possible. For the method see [Metalworking - Case hardening](04-metalworking.md#6-case-hardening) and [Iron Smelting - Carburising](01-iron-smelting.md#52-method-carburising)
 
 ---
 
@@ -1101,7 +1101,7 @@ When you have no steel, bury wrought iron hoe edges, ploughshares, nail headers 
 - **Needles, fish hooks**: make them from steel wire (high-carbon wire). First heat the wire to dark red over the fire and bury it in ashes to cool slowly (annealing); bend to shape, file the point, the eye or the barb, then heat to cherry red and quench in oil, and temper to dark blue (about 300°C, so it is springy rather than brittle)
 - **Scissors**: make the two blades the way you make a knife (faced with steel or all steel), temper to purple, and rivet them together; the two blades should curve slightly inwards so they press together as they close
 
-For filing, sawing, drilling and tapping see [Bench Work and Machining](../../../docs/05-冶金技术/09-钳工与机械加工.md); for using and caring for woodworking tools see [Woodworking and Tool Maintenance](../../../docs/07-日常生活技能/09-木工与工具维护.md).
+For filing, sawing, drilling and tapping see [Bench Work and Machining](09-bench-work-and-machining.md); for using and caring for woodworking tools see [Woodworking and Tool Maintenance](../../../docs/07-日常生活技能/09-木工与工具维护.md).
 
 ---
 
@@ -1120,14 +1120,14 @@ For filing, sawing, drilling and tapping see [Bench Work and Machining](../../..
 
 ## Related chapters
 
-- ⏮️ [Iron Smelting](../../../docs/05-冶金技术/01-铁的冶炼.md) - getting raw material for forging
-- ⏮️ [Copper Smelting](../../../docs/05-冶金技术/02-铜的冶炼.md) - bronze tools
-- ⏭️ [Metalworking](../../../docs/05-冶金技术/04-金属加工技术.md) - quenching, tempering, forging techniques
-- 🔗 [Scrap Metal Recycling and Aluminium Casting](../../../docs/05-冶金技术/05-废旧金属回收与铝铸造.md) - finding steel in the ruins, and which stock makes which tool
-- 🔗 [Welding and Joining](../../../docs/05-冶金技术/06-焊接与连接.md) - forge welding, riveting
-- 🔗 [Bellows and Forges](../../../docs/05-冶金技术/08-鼓风设备与锻炉.md) - forges, bellows, anvils
-- 🔗 [Bench Work and Machining](../../../docs/05-冶金技术/09-钳工与机械加工.md) - filing, sawing, drilling, grinding to finish forged blanks
-- 🔗 [Sheet and Wire](../../../docs/05-冶金技术/11-板材与线材.md) - sheet-iron goods, raising, wire
+- ⏮️ [Iron Smelting](01-iron-smelting.md) - getting raw material for forging
+- ⏮️ [Copper Smelting](02-copper-smelting.md) - bronze tools
+- ⏭️ [Metalworking](04-metalworking.md) - quenching, tempering, forging techniques
+- 🔗 [Scrap Metal Recycling and Aluminium Casting](05-scrap-metal-recycling-and-aluminium-casting.md) - finding steel in the ruins, and which stock makes which tool
+- 🔗 [Welding and Joining](06-welding-and-joining.md) - forge welding, riveting
+- 🔗 [Bellows and Forges](08-bellows-and-forges.md) - forges, bellows, anvils
+- 🔗 [Bench Work and Machining](09-bench-work-and-machining.md) - filing, sawing, drilling, grinding to finish forged blanks
+- 🔗 [Sheet and Wire](11-sheet-and-wire.md) - sheet-iron goods, raising, wire
 - 🔗 [Woodworking and Tool Maintenance](../../../docs/07-日常生活技能/09-木工与工具维护.md) - handles, sharpening, routine care
 
 ---

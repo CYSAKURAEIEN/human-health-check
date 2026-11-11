@@ -731,7 +731,7 @@ Using fire safely outdoors:
 ✓ At graves, honour the dead with fresh flowers, tree planting or similar instead
 ```
 
-For firebreaks and fire precautions around forest areas and villages see [Firewood and Woodland Management](../../../docs/04-动植物培育/09-薪柴与林地管理.md); for how to light a fire in the wild see [Basic Survival Skills – Fire-making](../03-wilderness-survival/00-basic-survival-skills.md#making-fire).
+For firebreaks and fire precautions around forest areas and villages see [Firewood and Woodland Management](../04-farming-and-animal-husbandry/09-firewood-and-woodland-management.md); for how to light a fire in the wild see [Basic Survival Skills – Fire-making](../03-wilderness-survival/00-basic-survival-skills.md#making-fire).
 
 ### When you discover a forest fire
 

@@ -12,7 +12,7 @@
 - ☠️ **Never use mercury (quicksilver) to extract gold**: mercury vapour is highly toxic, and it pollutes water and soil and harms people for generations
 - ✓ Do all smelting downwind and far from homes, water sources and fields; keep pregnant women and children away
 
-**Salvage these metals from ruins first (see [Scrap metal recycling and aluminium casting](../../../docs/05-冶金技术/05-废旧金属回收与铝铸造.md)); smelting from ore is the last resort.**
+**Salvage these metals from ruins first (see [Scrap metal recycling and aluminium casting](05-scrap-metal-recycling-and-aluminium-casting.md)); smelting from ore is the last resort.**
 
 ---
 
@@ -63,7 +63,7 @@ Refining (liquation):
   The pure tin melts first and runs off; impurities with higher melting points stay behind
 ```
 
-For blowing equipment, see [Bellows and forges](../../../docs/05-冶金技术/08-鼓风设备与锻炉.md).
+For blowing equipment, see [Bellows and forges](08-bellows-and-forges.md).
 
 ### 2.3 Uses
 
@@ -289,8 +289,8 @@ fluorescent tubes and old-style switches
 
 - ⏮️ [Bench work and machining](09-bench-work-and-machining.md)
 - ⏭️ [Sheet and wire](11-sheet-and-wire.md) - tinplate, copper wire
-- 🔗 [Copper smelting](../../../docs/05-冶金技术/02-铜的冶炼.md) - making bronze and brass
-- 🔗 [Metallurgy basics – Recognising and collecting ore](../../../docs/05-冶金技术/00-基础冶金知识.md#五矿石识别与采集)
+- 🔗 [Copper smelting](02-copper-smelting.md) - making bronze and brass
+- 🔗 [Metallurgy basics – Recognising and collecting ore](00-metallurgy-basics.md#5-identifying-and-collecting-ore)
 - 🔗 [Advanced chemistry – Electrochemistry](../../../docs/09-进阶科学与工程/05-化学进阶.md#五电化学) - reactivity of metals, corrosion and protection
 
 ---

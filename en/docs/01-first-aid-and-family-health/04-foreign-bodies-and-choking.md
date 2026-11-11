@@ -109,7 +109,7 @@ Prevention: wear safety goggles when grinding, chiselling, hammering
 or splitting wood.
 ```
 
-For safety protection when grinding and machining, see [Fitting and machining](../../../docs/05-冶金技术/09-钳工与机械加工.md).
+For safety protection when grinding and machining, see [Fitting and machining](../05-metallurgy/09-bench-work-and-machining.md).
 
 #### Eyeball pierced or object stuck in the eye
 

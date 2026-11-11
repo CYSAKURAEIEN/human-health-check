@@ -635,7 +635,7 @@ situations such as civilisation collapse or being unable to be rescued for a lon
 Being lost for a few days waiting for rescue does not call for hunting.
 ```
 
-For general methods of collecting insects and fishing see [Basic Survival Skills – Getting food](00-basic-survival-skills.md#getting-food); for raising animals and fisheries in long-term survival see [Aquaculture](../../../docs/04-动植物培育/07-水产养殖.md).
+For general methods of collecting insects and fishing see [Basic Survival Skills – Getting food](00-basic-survival-skills.md#getting-food); for raising animals and fisheries in long-term survival see [Aquaculture](../04-farming-and-animal-husbandry/07-aquaculture.md).
 
 ## Dangers
 

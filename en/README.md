@@ -76,7 +76,7 @@ From outdoor safety on a weekend hike to extreme environments and long-term surv
 **Long-term survival**
 - **Survival after civilisation collapse**: long-term survival strategy, stockpiling resources, building community
 
-### [IV. Growing Plants and Raising Animals](../docs/04-动植物培育/README.md)
+### [IV. Growing Plants and Raising Animals](docs/04-farming-and-animal-husbandry/README.md)
 
 How to grow and raise common edible and useful plants and animals.
 
@@ -90,7 +90,7 @@ How to grow and raise common edible and useful plants and animals.
 - **Seed saving and breeding**: self- and cross-pollination, isolation distances and hand pollination, saving seed from the main crops, drying and storing seed, germination tests, cuttings and grafting, selection year by year, community seed banks
 - **Firewood and woodland management**: how much wood a household and a kiln burn, heat value and drying, woodland yield, coppice rotation, tree planting, protecting forests, other fuels, saving fuel, felling safety
 
-### [V. Metallurgy](../docs/05-冶金技术/README.md)
+### [V. Metallurgy](docs/05-metallurgy/README.md)
 
 Smelting metal and making tools from scratch after a collapse.
 
@@ -301,7 +301,7 @@ Compound units use "/" to mean "per", e.g. m/s (metres per second), kg/ha (kilog
 | Which chapter a Chinese herb is in, and its other names | [Herb name index](../docs/10-中药材识别与采集/10-药名索引.md) |
 | Is the herb you dug up a poisonous plant? | [Comparison of easily confused poisonous plants](../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#四易混淆的有毒植物对照) (*Gouwen*, pokeweed, water hemlock, etc.; if you are not sure, do not pick it) |
 | Feeling unwell after taking self-collected herbs or herbal wine | [General treatment of poisoning](../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#五中毒的通用处理) (call 120 at once and take the remaining herbs with you) |
-| How to save seed, and whether it will germinate | [Seed saving and breeding](../docs/04-动植物培育/08-留种与育种.md#发芽率测试) |
+| How to save seed, and whether it will germinate | [Seed saving and breeding](docs/04-farming-and-animal-husbandry/08-seed-saving-and-breeding.md#germination-testing) |
 | The salt has run out | [Salt making](../docs/07-日常生活技能/15-制盐.md#海水取盐-基本道理) |
 | How to tie knots | [Common knots](../docs/07-日常生活技能/17-绳索与结绳.md#常用绳结) |
 | How much gradient to give an irrigation channel | [Levelling](../docs/08-基础科学知识/08-测量与制图.md#四水准测量) |
@@ -365,30 +365,30 @@ Compound units use "/" to mean "per", e.g. m/s (metres per second), kg/ha (kilog
 
 ### IV. Growing Plants and Raising Animals
 
-- **[蔬菜种植指南](../docs/04-动植物培育/01-蔬菜种植.md)**: [热堆肥的堆法](../docs/04-动植物培育/01-蔬菜种植.md#堆肥怎么做) · [育苗与移栽](../docs/04-动植物培育/01-蔬菜种植.md#移栽定植)
-- **[粮食作物种植指南](../docs/04-动植物培育/02-粮食作物.md)**: [水稻育苗移栽与水层管理](../docs/04-动植物培育/02-粮食作物.md#育苗移栽法常用)
-- **[果树培育指南](../docs/04-动植物培育/03-果树培育.md)**: [果树整形修剪: 剪法与常见树形](../docs/04-动植物培育/03-果树培育.md#整形修剪)
-- **[药用植物识别与种植指南](../docs/04-动植物培育/04-药用植物.md)**: [家庭药园的布局](../docs/04-动植物培育/04-药用植物.md#家庭药园配置)
-- **[家禽养殖指南](../docs/04-动植物培育/05-家禽养殖.md)**: [鸡舍布局](../docs/04-动植物培育/05-家禽养殖.md#鸡舍建设) · [照蛋与孵化要点(鸡蛋)](../docs/04-动植物培育/05-家禽养殖.md#孵化)
-- **[家畜养殖指南](../docs/04-动植物培育/06-家畜养殖.md)**: [猪舍建设](../docs/04-动植物培育/06-家畜养殖.md#猪舍建设) · [猪、羊接产要点](../docs/04-动植物培育/06-家畜养殖.md#羊的接产与羔羊护理) · [兔笼和产仔箱](../docs/04-动植物培育/06-家畜养殖.md#兔舍建设)
-- **[水产养殖指南](../docs/04-动植物培育/07-水产养殖.md)**: [家庭鱼塘: 剖面与放鱼前的准备](../docs/04-动植物培育/07-水产养殖.md#池塘条件)
-- **[留种与育种](../docs/04-动植物培育/08-留种与育种.md)**: [嫁接: 劈接与T形芽接](../docs/04-动植物培育/08-留种与育种.md#嫁接)
-- **[薪柴与林地管理](../docs/04-动植物培育/09-薪柴与林地管理.md)**: [萌生林: 怎么砍、怎么分块轮流砍](../docs/04-动植物培育/09-薪柴与林地管理.md#怎么砍) · [伐树: 缺口、铰链木和退路](../docs/04-动植物培育/09-薪柴与林地管理.md#伐树)
+- **[Vegetable Growing Guide](docs/04-farming-and-animal-husbandry/01-vegetable-growing.md)**: [Building a hot compost heap](docs/04-farming-and-animal-husbandry/01-vegetable-growing.md#how-to-make-compost) · [Raising and transplanting seedlings](docs/04-farming-and-animal-husbandry/01-vegetable-growing.md#transplanting)
+- **[Grain Crop Growing Guide](docs/04-farming-and-animal-husbandry/02-grain-crops.md)**: [Rice: seedlings, transplanting and water management](docs/04-farming-and-animal-husbandry/02-grain-crops.md#raising-seedlings-and-transplanting-the-usual-method)
+- **[Fruit Tree Growing Guide](docs/04-farming-and-animal-husbandry/03-fruit-trees.md)**: [Pruning fruit trees: cuts and common tree forms](docs/04-farming-and-animal-husbandry/03-fruit-trees.md#training-and-pruning)
+- **[Medicinal Plants: Identification and Growing Guide](docs/04-farming-and-animal-husbandry/04-medicinal-plants.md)**: [Family herb garden layout](docs/04-farming-and-animal-husbandry/04-medicinal-plants.md#a-home-herb-garden)
+- **[Poultry Keeping Guide](docs/04-farming-and-animal-husbandry/05-poultry.md)**: [Chicken coop layout](docs/04-farming-and-animal-husbandry/05-poultry.md#building-a-chicken-house) · [Candling and incubation (hen eggs)](docs/04-farming-and-animal-husbandry/05-poultry.md#hatching)
+- **[Livestock Keeping Guide](docs/04-farming-and-animal-husbandry/06-livestock.md)**: [Building a pigsty](docs/04-farming-and-animal-husbandry/06-livestock.md#building-a-pigsty) · [Birth assistance in pigs and sheep](docs/04-farming-and-animal-husbandry/06-livestock.md#lambing-and-lamb-care) · [Rabbit cage and nest box](docs/04-farming-and-animal-husbandry/06-livestock.md#building-a-rabbit-house)
+- **[Aquaculture Guide](docs/04-farming-and-animal-husbandry/07-aquaculture.md)**: [Family fish pond: cross-section and preparation before stocking](docs/04-farming-and-animal-husbandry/07-aquaculture.md#pond-conditions)
+- **[Seed Saving and Breeding](docs/04-farming-and-animal-husbandry/08-seed-saving-and-breeding.md)**: [Grafting: cleft grafting and T-budding](docs/04-farming-and-animal-husbandry/08-seed-saving-and-breeding.md#grafting)
+- **[Firewood and Woodland Management](docs/04-farming-and-animal-husbandry/09-firewood-and-woodland-management.md)**: [Coppice: how to cut, and cutting plot by plot in rotation](docs/04-farming-and-animal-husbandry/09-firewood-and-woodland-management.md#how-to-cut) · [Felling a tree: notch, hinge wood and escape routes](docs/04-farming-and-animal-husbandry/09-firewood-and-woodland-management.md#felling-trees)
 
 ### V. Metallurgy
 
-- **[基础冶金知识](../docs/05-冶金技术/00-基础冶金知识.md)**: [冶炼用矿石的识别](../docs/05-冶金技术/00-基础冶金知识.md#方铅矿-pbs)
-- **[铁的冶炼](../docs/05-冶金技术/01-铁的冶炼.md)**: [简易竖炉剖面](../docs/05-冶金技术/01-铁的冶炼.md#21-简易竖炉推荐) · [熟铁、钢、生铁: 含碳量决定性质](../docs/05-冶金技术/01-铁的冶炼.md#51-什么是钢)
-- **[铜的冶炼](../docs/05-冶金技术/02-铜的冶炼.md)**: [坩埚熔铜与浇注](../docs/05-冶金技术/02-铜的冶炼.md#33-青铜熔炼)
-- **[简易工具锻造](../docs/05-冶金技术/03-简易工具锻造.md)**: [基本锻打操作](../docs/05-冶金技术/03-简易工具锻造.md#握锤和站位)
-- **[金属加工技术](../docs/05-冶金技术/04-金属加工技术.md)**: [钢的淬火与回火](../docs/05-冶金技术/04-金属加工技术.md#32-回火操作)
-- **[废旧金属回收与铝铸造](../docs/05-冶金技术/05-废旧金属回收与铝铸造.md)**: [识别废旧金属](../docs/05-冶金技术/05-废旧金属回收与铝铸造.md#23-镁和铝的区分)
-- **[焊接与连接](../docs/05-冶金技术/06-焊接与连接.md)**: [铆接与铁皮咬口](../docs/05-冶金技术/06-焊接与连接.md#24-铁皮的咬口) · [锻焊的步骤](../docs/05-冶金技术/06-焊接与连接.md#32-步骤)
-- **[铸造进阶](../docs/05-冶金技术/07-铸造进阶.md)**: [砂型铸造的基本流程](../docs/05-冶金技术/07-铸造进阶.md#12-铸造的基本流程)
-- **[鼓风设备与锻炉](../docs/05-冶金技术/08-鼓风设备与锻炉.md)**: [双作用活塞风箱](../docs/05-冶金技术/08-鼓风设备与锻炉.md#33-双作用活塞风箱最推荐) · [锻炉的结构](../docs/05-冶金技术/08-鼓风设备与锻炉.md#51-锻炉的结构)
-- **[钳工与机械加工](../docs/05-冶金技术/09-钳工与机械加工.md)**: [台钳与锉削](../docs/05-冶金技术/09-钳工与机械加工.md#42-方法) · [钻孔步骤](../docs/05-冶金技术/09-钳工与机械加工.md#51-步骤)
-- **[其他金属: 锡、铅、锌、金、银](../docs/05-冶金技术/10-其他金属.md)**: [淘金: 只用重力法,绝不用汞](../docs/05-冶金技术/10-其他金属.md#51-淘金)
-- **[板材与线材](../docs/05-冶金技术/11-板材与线材.md)**: [拉丝板与拉丝](../docs/05-冶金技术/11-板材与线材.md#43-拉丝步骤)
+- **[Metallurgy Basics](docs/05-metallurgy/00-metallurgy-basics.md)**: [Identifying ores for smelting](docs/05-metallurgy/00-metallurgy-basics.md#galena-pbs)
+- **[Iron Smelting](docs/05-metallurgy/01-iron-smelting.md)**: [Simple shaft furnace in section](docs/05-metallurgy/01-iron-smelting.md#21-simple-shaft-furnace-recommended) · [Wrought iron, steel, pig iron: carbon content decides the properties](docs/05-metallurgy/01-iron-smelting.md#51-what-is-steel)
+- **[Copper Smelting](docs/05-metallurgy/02-copper-smelting.md)**: [Melting copper in a crucible and pouring](docs/05-metallurgy/02-copper-smelting.md#33-melting-bronze)
+- **[Forging Simple Tools](docs/05-metallurgy/03-forging-simple-tools.md)**: [Basic forging operations](docs/05-metallurgy/03-forging-simple-tools.md#holding-the-hammer-and-where-to-stand)
+- **[Metalworking](docs/05-metallurgy/04-metalworking.md)**: [Quenching and tempering steel](docs/05-metallurgy/04-metalworking.md#32-tempering-procedure)
+- **[Scrap Metal Recycling and Aluminium Casting](docs/05-metallurgy/05-scrap-metal-recycling-and-aluminium-casting.md)**: [Identifying scrap metal](docs/05-metallurgy/05-scrap-metal-recycling-and-aluminium-casting.md#23-telling-magnesium-from-aluminium)
+- **[Welding and Joining](docs/05-metallurgy/06-welding-and-joining.md)**: [Riveting and seaming iron sheet](docs/05-metallurgy/06-welding-and-joining.md#24-seaming-iron-sheet) · [Forge welding steps](docs/05-metallurgy/06-welding-and-joining.md#32-steps)
+- **[Advanced Casting](docs/05-metallurgy/07-advanced-casting.md)**: [The basic sand-casting process](docs/05-metallurgy/07-advanced-casting.md#12-the-basic-casting-process)
+- **[Bellows and Forges](docs/05-metallurgy/08-bellows-and-forges.md)**: [Double-acting piston bellows](docs/05-metallurgy/08-bellows-and-forges.md#33-double-acting-piston-bellows-most-recommended) · [Structure of a forge](docs/05-metallurgy/08-bellows-and-forges.md#51-how-a-forge-is-built)
+- **[Bench Work and Machining](docs/05-metallurgy/09-bench-work-and-machining.md)**: [The vice and filing](docs/05-metallurgy/09-bench-work-and-machining.md#42-method) · [Drilling steps](docs/05-metallurgy/09-bench-work-and-machining.md#51-steps)
+- **[Other Metals: Tin, Lead, Zinc, Gold, Silver](docs/05-metallurgy/10-other-metals.md)**: [Gold panning: gravity only, never mercury](docs/05-metallurgy/10-other-metals.md#51-panning-for-gold)
+- **[Sheet and Wire](docs/05-metallurgy/11-sheet-and-wire.md)**: [拉丝板与拉丝](docs/05-metallurgy/11-sheet-and-wire.md#43-drawing-steps)
 
 ### VI. Pharmaceuticals
 
@@ -472,12 +472,12 @@ Compound units use "/" to mean "per", e.g. m/s (metres per second), kg/ha (kilog
 ### Further study
 1. Master the basic principles of [Disaster response](docs/02-disaster-response/README.md)
 2. Learn the basic skills of [Wilderness survival](docs/03-wilderness-survival/README.md)
-3. Get to know the basics of [Growing plants and raising animals](../docs/04-动植物培育/README.md)
+3. Get to know the basics of [Growing plants and raising animals](docs/04-farming-and-animal-husbandry/README.md)
 4. Learn [Everyday living skills](../docs/07-日常生活技能/README.md): food preservation, nutrition, sanitation
 
 ### Preparing for collapse
 1. **Stockpile in advance**: medicines, wound-care supplies, seeds, tools (see [Pharmaceuticals – stockpiling advice](../docs/06-制药技术/02-抗生素制备.md#六储备建议))
-2. Learn [Metallurgy](../docs/05-冶金技术/README.md) to make basic tools
+2. Learn [Metallurgy](docs/05-metallurgy/README.md) to make basic tools
 3. Learn the feasible parts of [Pharmaceuticals](../docs/06-制药技术/README.md) (disinfectants, Chinese herbal medicine, natural antibacterial substances)
 4. Learn [Basic science](../docs/08-基础科学知识/README.md): measurement, mathematics, physics, chemistry, and the principles of biology and medicine, so that you can work things out for yourself when a situation is not covered in the book
 5. Read the [Technology rebuilding roadmap](../docs/09-进阶科学与工程/00-技术重建路线图.md) to understand the overall order of rebuilding technology and which things to preserve first

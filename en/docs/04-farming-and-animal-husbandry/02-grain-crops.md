@@ -347,7 +347,7 @@ Additional notes:
 - Do not use pesticides of unknown origin or with unclear labels (see Principles of pest and disease control)
 ```
 
-For keeping ducks, see [Poultry - Raising ducks](../../../docs/04-动植物培育/05-家禽养殖.md#鸭的养殖); for fish, see [Aquaculture - Fish in rice paddies](../../../docs/04-动植物培育/07-水产养殖.md#稻田养鱼).
+For keeping ducks, see [Poultry - Raising ducks](05-poultry.md#ducks); for fish, see [Aquaculture - Fish in rice paddies](07-aquaculture.md#fish-in-rice-paddies).
 
 ### Harvest and storage
 
@@ -480,7 +480,7 @@ Example: planned 250 plants per square metre, thousand-grain weight 40 g, germin
 - Sown on time, usually about 200-300 seedlings per square metre
 ```
 
-For germination testing, see [Seed saving and breeding - Germination test](../../../docs/04-动植物培育/08-留种与育种.md#发芽率测试).
+For germination testing, see [Seed saving and breeding - Germination test](08-seed-saving-and-breeding.md#germination-testing).
 
 ### Field management
 
@@ -707,7 +707,7 @@ Per hill:
 - Grow sweetcorn and waxy maize apart from field maize; cross-pollination changes the kernels
 ```
 
-For isolation distances, see [Seed saving and breeding - Isolation distances](../../../docs/04-动植物培育/08-留种与育种.md#隔离距离).
+For isolation distances, see [Seed saving and breeding - Isolation distances](08-seed-saving-and-breeding.md#isolation-distances).
 
 ### Field management
 
@@ -865,7 +865,7 @@ For shelling and grinding, see [Grain and oil processing - Maize](../../../docs/
 
 ## Potato
 
-See [Vegetable growing - Potato](../../../docs/04-动植物培育/01-蔬菜种植.md#土豆)
+See [Vegetable growing - Potato](01-vegetable-growing.md#potato)
 
 ```
 Cycle: 90-120 days
@@ -934,13 +934,13 @@ with crinkled, mottled leaves, and yield falls year by year
   from cool high-altitude areas
 ```
 
-For saving seed potatoes, see [Seed saving and breeding - Potatoes and sweet potatoes](../../../docs/04-动植物培育/08-留种与育种.md#土豆和红薯-用薯块繁殖); for cellar storage, see [Food processing and preservation - Cellar storage](../../../docs/07-日常生活技能/01-食物加工与保存.md#窖藏).
+For saving seed potatoes, see [Seed saving and breeding - Potatoes and sweet potatoes](08-seed-saving-and-breeding.md#potato-and-sweet-potato-propagating-from-tubers); for cellar storage, see [Food processing and preservation - Cellar storage](../../../docs/07-日常生活技能/01-食物加工与保存.md#窖藏).
 
 ---
 
 ## Sweet potato
 
-See [Vegetable growing - Sweet potato](../../../docs/04-动植物培育/01-蔬菜种植.md#红薯)
+See [Vegetable growing - Sweet potato](01-vegetable-growing.md#sweet-potato)
 
 ```
 Cycle: 120-150 days
@@ -1007,7 +1007,7 @@ Storage:
 - When storing large amounts is not practical, cut them into slices and sun-dry them, or grind them into flour
 ```
 
-For overwintering seed roots for slips, see [Seed saving and breeding - Potatoes and sweet potatoes](../../../docs/04-动植物培育/08-留种与育种.md#土豆和红薯-用薯块繁殖); for storage temperatures of roots and other vegetables, see [Food processing and preservation - Storage conditions for vegetables](../../../docs/07-日常生活技能/01-食物加工与保存.md#各类蔬菜的储存条件).
+For overwintering seed roots for slips, see [Seed saving and breeding - Potatoes and sweet potatoes](08-seed-saving-and-breeding.md#potato-and-sweet-potato-propagating-from-tubers); for storage temperatures of roots and other vegetables, see [Food processing and preservation - Storage conditions for vegetables](../../../docs/07-日常生活技能/01-食物加工与保存.md#各类蔬菜的储存条件).
 
 ---
 
@@ -1391,7 +1391,7 @@ Reading leaf colour to find what is lacking:
 - Acid soil (many crops grow poorly, beans have few nodules) → spread lime to improve it
 ```
 
-For the safe use of human waste, see [Sanitation - Using faeces and urine](../../../docs/07-日常生活技能/03-卫生设施.md#粪便与尿液的利用); for how to make compost, see [Farming and animal husbandry - Soil improvement](../../../docs/04-动植物培育/README.md#土壤改良); for liming soil, see [Lime and building materials - Improving acid soil](../../../docs/07-日常生活技能/16-石灰与建筑材料.md#改良酸性土); for the chemistry of nitrogen fertiliser, see [Chemistry - Nitrogen fertiliser and ammonia synthesis](../../../docs/08-基础科学知识/03-化学.md#410-氮肥和合成氨); for soil conservation, see [Geology, minerals and soil - Protecting the soil](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#55-保护土壤).
+For the safe use of human waste, see [Sanitation - Using faeces and urine](../../../docs/07-日常生活技能/03-卫生设施.md#粪便与尿液的利用); for how to make compost, see [Farming and animal husbandry - Soil improvement](README.md#improving-soil); for liming soil, see [Lime and building materials - Improving acid soil](../../../docs/07-日常生活技能/16-石灰与建筑材料.md#改良酸性土); for the chemistry of nitrogen fertiliser, see [Chemistry - Nitrogen fertiliser and ammonia synthesis](../../../docs/08-基础科学知识/03-化学.md#410-氮肥和合成氨); for soil conservation, see [Geology, minerals and soil - Protecting the soil](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#55-保护土壤).
 
 ### Principles of pest and disease control
 
@@ -1418,7 +1418,7 @@ When you have to use pesticides:
   wash, call 120 and get medical care
 ```
 
-For protection when spraying and first aid for pesticide poisoning, see [Poisoning - Protection when spraying pesticides](../../../docs/01-日常疾病和伤害/12-中毒.md#喷洒农药时的防护) and [Pesticide and rat poison poisoning](../../../docs/01-日常疾病和伤害/12-中毒.md#农药和鼠药中毒).
+For protection when spraying and first aid for pesticide poisoning, see [Poisoning - Protection when spraying pesticides](../01-first-aid-and-family-health/12-poisoning.md#protection-when-spraying-pesticides) and [Pesticide and rat poison poisoning](../01-first-aid-and-family-health/12-poisoning.md#pesticide-and-rat-poison-poisoning).
 
 ### Seed saving
 
@@ -1444,7 +1444,7 @@ Note:
 - Save at least one extra season's seed, in case you must re-sow after a disaster
 ```
 
-For seed-saving methods for each crop, isolation distances and germination tests, see [Seed saving and breeding](../../../docs/04-动植物培育/08-留种与育种.md); for threshing, winnowing, milling rice and grinding flour, see [Grain and oil processing](../../../docs/07-日常生活技能/14-粮油加工.md).
+For seed-saving methods for each crop, isolation distances and germination tests, see [Seed saving and breeding](08-seed-saving-and-breeding.md); for threshing, winnowing, milling rice and grinding flour, see [Grain and oil processing](../../../docs/07-日常生活技能/14-粮油加工.md).
 
 ### Storage essentials
 
@@ -1522,5 +1522,5 @@ Total about 30-45 working days a year
 
 ---
 
-**Next chapter**: [Growing Fruit Trees](../../../docs/04-动植物培育/03-果树培育.md)
-**Back**: [Chapter index](../../../docs/04-动植物培育/README.md) | [Main contents](../../README.md)
+**Next chapter**: [Growing Fruit Trees](03-fruit-trees.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

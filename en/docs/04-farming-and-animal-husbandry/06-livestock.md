@@ -64,7 +64,7 @@ Consider:
 **Crossbred pigs**:
 - Combine the advantages
 - Recommended for beginners
-- If you keep crossbred pigs for breeding, their offspring will segregate and be uneven. If you want to breed your own pigs in the long term, keep local sows or purebred sows (for the principles of selection see [Seed Saving and Breeding](../../../docs/04-动植物培育/08-留种与育种.md))
+- If you keep crossbred pigs for breeding, their offspring will segregate and be uneven. If you want to breed your own pigs in the long term, keep local sows or purebred sows (for the principles of selection see [Seed Saving and Breeding](08-seed-saving-and-breeding.md))
 
 ### Building a pigsty
 
@@ -1548,7 +1548,7 @@ Breeding:
   be bred by crossing donkeys and horses
 ```
 
-**Livestock zoonoses**: like sheep and goats, cattle can pass on brucellosis and anthrax, and cattle can also pass on tuberculosis (through raw milk); see [Diseases passed from animals to people](#diseases-passed-from-animals-to-people). Wounds, droppings and soil around horses, donkeys and mules often carry tetanus bacteria; people caring for these animals should pay attention to [tetanus prevention](../../../docs/01-日常疾病和伤害/02-外伤处理.md#破伤风预防) after any injury.
+**Livestock zoonoses**: like sheep and goats, cattle can pass on brucellosis and anthrax, and cattle can also pass on tuberculosis (through raw milk); see [Diseases passed from animals to people](#diseases-passed-from-animals-to-people). Wounds, droppings and soil around horses, donkeys and mules often carry tetanus bacteria; people caring for these animals should pay attention to [tetanus prevention](../01-first-aid-and-family-health/02-wounds-and-injuries.md#tetanus-prevention) after any injury.
 
 ---
 
@@ -1624,7 +1624,7 @@ People who keep livestock are more likely than others to catch diseases from ani
 | Hydatid disease | Dogs that ate diseased sheep or cattle offal pass worm eggs | Touching dogs; food and water contaminated with dog droppings | Cysts grow in the liver or lungs years later | Do not feed diseased offal to dogs; worm dogs; wash hands before eating |
 | Tapeworm/cysticercosis | Pigs, cattle | Eating undercooked "measly pork" or "measly beef" | Tapeworm in the gut; eggs that get into the body can form cysts in the brain and muscles, causing epilepsy | Cook meat right through; keep toilets and pigsties apart |
 | Trichinellosis | Pigs, wild boar | Eating raw or undercooked pork | Fever, severe muscle pain, swollen eyelids | Cook meat right through, especially wild boar |
-| Rabies | Dogs, cats and others | Bites, scratches | Once symptoms appear, almost 100% fatal | See [Wound and Injury Care – Rabies prevention](../../../docs/01-日常疾病和伤害/02-外伤处理.md#狂犬病预防关键) |
+| Rabies | Dogs, cats and others | Bites, scratches | Once symptoms appear, almost 100% fatal | See [Wound and Injury Care – Rabies prevention](../01-first-aid-and-family-health/02-wounds-and-injuries.md#rabies-prevention-critical) |
 
 **Protecting yourself against brucellosis**:
 ```
@@ -1787,7 +1787,7 @@ Other uses:
 - Dried cattle and donkey dung cakes can be used as fuel
 ```
 
-For composting principles and fertilising see [Farming and Animal Husbandry – Soil improvement](../../../docs/04-动植物培育/README.md#土壤改良); for human excreta and how long pathogens survive see [Sanitation – Using faeces and urine](../../../docs/07-日常生活技能/03-卫生设施.md#粪便与尿液的利用); for biogas safety see [Lighting and Energy – Biogas](../../../docs/07-日常生活技能/06-照明与能源.md#沼气); for dung cakes and other fuels see [Firewood and Woodland Management – Other fuels](../../../docs/04-动植物培育/09-薪柴与林地管理.md#其他燃料).
+For composting principles and fertilising see [Farming and Animal Husbandry – Soil improvement](README.md#improving-soil); for human excreta and how long pathogens survive see [Sanitation – Using faeces and urine](../../../docs/07-日常生活技能/03-卫生设施.md#粪便与尿液的利用); for biogas safety see [Lighting and Energy – Biogas](../../../docs/07-日常生活技能/06-照明与能源.md#沼气); for dung cakes and other fuels see [Firewood and Woodland Management – Other fuels](09-firewood-and-woodland-management.md#other-fuels).
 
 ---
 
@@ -1869,4 +1869,4 @@ Never:
 ---
 
 **Next chapter**: [Aquaculture](07-aquaculture.md)
-**Back**: [Chapter index](../../../docs/04-动植物培育/README.md) | [Main contents](../../README.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

@@ -117,7 +117,7 @@ For the concepts of heat and heating value see [Physics – Heat](../../../docs/
   before talking about smelting iron
 ```
 
-For how to make charcoal see [Basic Metallurgy – Making charcoal](../../../docs/05-冶金技术/00-基础冶金知识.md#32-木炭制作闷烧法); for kiln firing see [Pottery, Glass and Papermaking – Firing](../../../docs/07-日常生活技能/11-陶瓷玻璃与造纸.md#烧制).
+For how to make charcoal see [Basic Metallurgy – Making charcoal](../05-metallurgy/00-metallurgy-basics.md#32-making-charcoal-smouldering-method); for kiln firing see [Pottery, Glass and Papermaking – Firing](../../../docs/07-日常生活技能/11-陶瓷玻璃与造纸.md#烧制).
 
 ---
 
@@ -350,7 +350,7 @@ Aftercare:
   oaks longer, before the first cut of the rotation
 ```
 
-For seedling raising, grafting and other basic methods see also [Fruit Tree Growing – Planting out](../../../docs/04-动植物培育/03-果树培育.md#定植); for contour lines see [Trip Preparation and Calling for Help – Reading maps and contour lines](../../../docs/03-野外生存/07-户外出行准备与求救.md#看懂地图和等高线).
+For seedling raising, grafting and other basic methods see also [Fruit Tree Growing – Planting out](03-fruit-trees.md#planting); for contour lines see [Trip Preparation and Calling for Help – Reading maps and contour lines](../03-wilderness-survival/07-trip-preparation-and-calling-for-help.md#reading-maps-and-contour-lines).
 
 ---
 
@@ -392,7 +392,7 @@ No grazing in young woodland:
 ✓ Graze established woodland, grassland or dedicated pasture instead
 ```
 
-For preventing, escaping from and fighting forest fires see [Fire – Forest fires](../../../docs/02-灾难应对/04-火灾.md#森林火灾).
+For preventing, escaping from and fighting forest fires see [Fire – Forest fires](../02-disaster-response/04-fire.md#forest-fires).
 
 ---
 
@@ -416,7 +416,7 @@ Making dung cakes: mix fresh cow dung with some chopped straw, pat it into cakes
                    stack them under a shelter; wash your hands afterwards
 ```
 
-For biogas see [Lighting and Energy – Biogas](../../../docs/07-日常生活技能/06-照明与能源.md#沼气); for finding coal see [Geology, Minerals and Soil – Building and everyday materials](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#31-建筑和日用材料); for the difference between coal and charcoal in smelting see [Basic Metallurgy – Common problems](../../../docs/05-冶金技术/00-基础冶金知识.md#七常见问题).
+For biogas see [Lighting and Energy – Biogas](../../../docs/07-日常生活技能/06-照明与能源.md#沼气); for finding coal see [Geology, Minerals and Soil – Building and everyday materials](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#31-建筑和日用材料); for the difference between coal and charcoal in smelting see [Basic Metallurgy – Common problems](../05-metallurgy/00-metallurgy-basics.md#7-frequently-asked-questions).
 
 ---
 
@@ -517,9 +517,9 @@ Felling (the principle):
    hard iron wedges
 ```
 
-For axe and tool safety see [Woodworking and Tool Maintenance – Safety](../../../docs/07-日常生活技能/09-木工与工具维护.md#安全); for replacing axe handles and sharpening axes see [Replacing tool handles](../../../docs/07-日常生活技能/09-木工与工具维护.md#换工具柄斧锤锄) and [Sharpening](../../../docs/07-日常生活技能/09-木工与工具维护.md#磨刀) in the same chapter; for treating cuts and crush injuries see [Wound and Injury Care – Cuts and grazes](../../../docs/01-日常疾病和伤害/02-外伤处理.md#割伤与擦伤).
+For axe and tool safety see [Woodworking and Tool Maintenance – Safety](../../../docs/07-日常生活技能/09-木工与工具维护.md#安全); for replacing axe handles and sharpening axes see [Replacing tool handles](../../../docs/07-日常生活技能/09-木工与工具维护.md#换工具柄斧锤锄) and [Sharpening](../../../docs/07-日常生活技能/09-木工与工具维护.md#磨刀) in the same chapter; for treating cuts and crush injuries see [Wound and Injury Care – Cuts and grazes](../01-first-aid-and-family-health/02-wounds-and-injuries.md#cuts-and-grazes).
 
-For using fire in forest areas, and fighting and escaping a forest fire once you find one, see [Fire – Forest fires](../../../docs/02-灾难应对/04-火灾.md#森林火灾).
+For using fire in forest areas, and fighting and escaping a forest fire once you find one, see [Fire – Forest fires](../02-disaster-response/04-fire.md#forest-fires).
 
 ---
 
@@ -545,7 +545,7 @@ A well-managed woodland is more than a woodshed:
    leave enough for them to keep reproducing
 ```
 
-For edible and poisonous plants see [Forest Survival – Food](../../../docs/03-野外生存/02-森林求生.md#食物); for medicinal herbs see [Medicinal Plants](../../../docs/04-动植物培育/04-药用植物.md); for making lye from wood ash see [Soap Making](../../../docs/07-日常生活技能/04-制皂.md).
+For edible and poisonous plants see [Forest Survival – Food](../03-wilderness-survival/02-forest-survival.md#food); for medicinal herbs see [Medicinal Plants](04-medicinal-plants.md); for making lye from wood ash see [Soap Making](../../../docs/07-日常生活技能/04-制皂.md).
 
 ---
 
@@ -574,4 +574,4 @@ For edible and poisonous plants see [Forest Survival – Food](../../../docs/03-
 
 ---
 
-**Back**: [Chapter index](../../../docs/04-动植物培育/README.md) | [Main contents](../../README.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

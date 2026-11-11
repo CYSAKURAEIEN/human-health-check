@@ -775,7 +775,7 @@ Thick logs need not be cut up; put one end in the fire and push it further in as
 - Plastic, rubber (toxic smoke; use only when you need black smoke for a signal)
 ```
 
-For the heat value of firewood and drying it, see [Firewood and Woodland Management – Wood must be dry](../../../docs/04-动植物培育/09-薪柴与林地管理.md#柴要干).
+For the heat value of firewood and drying it, see [Firewood and Woodland Management – Wood must be dry](../04-farming-and-animal-husbandry/09-firewood-and-woodland-management.md#firewood-must-be-dry).
 
 ### Ways to make fire
 
@@ -1484,7 +1484,7 @@ Safety:
 ⚠️ In normal times: fishing with electricity, poison or explosives is banned; do not fish in closed seasons or closed areas
 ```
 
-For shellfish and sea fish at the coast, see [Desert Island Survival](01-desert-island-survival.md); for fish farming for long-term survival, see [Aquaculture](../../../docs/04-动植物培育/07-水产养殖.md).
+For shellfish and sea fish at the coast, see [Desert Island Survival](01-desert-island-survival.md); for fish farming for long-term survival, see [Aquaculture](../04-farming-and-animal-husbandry/07-aquaculture.md).
 
 ### Other animal foods
 
@@ -1536,7 +1536,7 @@ Knife safety:
 ✓ When not using the knife, put it away or stick it somewhere fixed; do not leave it lying on the ground
 ```
 
-For managing severe bleeding, see [Wound and Injury Care](../01-first-aid-and-family-health/02-wounds-and-injuries.md). For sharpening and looking after tools, see [Woodworking and Tool Maintenance](../../../docs/07-日常生活技能/09-木工与工具维护.md); for forging metal knives, see [Simple Tool Forging](../../../docs/05-冶金技术/03-简易工具锻造.md).
+For managing severe bleeding, see [Wound and Injury Care](../01-first-aid-and-family-health/02-wounds-and-injuries.md). For sharpening and looking after tools, see [Woodworking and Tool Maintenance](../../../docs/07-日常生活技能/09-木工与工具维护.md); for forging metal knives, see [Simple Tool Forging](../05-metallurgy/03-forging-simple-tools.md).
 
 ### Containers
 

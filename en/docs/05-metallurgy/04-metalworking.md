@@ -15,7 +15,7 @@ This chapter teaches you how to multiply the performance of metal goods through 
 - 🔄 Normalising - making the structure uniform
 - 🛡️ Case hardening (carburising) - surface hardening
 
-This chapter covers only heat treatment and surface treatment. For forging to shape see [Forging Simple Tools](../../../docs/05-冶金技术/03-简易工具锻造.md); for filing, drilling and grinding see [Bench Work and Machining](../../../docs/05-冶金技术/09-钳工与机械加工.md); for annealing copper, aluminium and other non-ferrous metals see [Sheet and Wire - Annealing](../../../docs/05-冶金技术/11-板材与线材.md#一退火-冷加工的关键); for why quenching makes steel hard (the phase-change principle) see [Engineering Mechanics and Materials - Principles of heat treating steel](../../../docs/09-进阶科学与工程/01-工程力学与材料.md#103-钢的热处理原理).
+This chapter covers only heat treatment and surface treatment. For forging to shape see [Forging Simple Tools](03-forging-simple-tools.md); for filing, drilling and grinding see [Bench Work and Machining](09-bench-work-and-machining.md); for annealing copper, aluminium and other non-ferrous metals see [Sheet and Wire - Annealing](11-sheet-and-wire.md#1-annealing-the-key-to-cold-working); for why quenching makes steel hard (the phase-change principle) see [Engineering Mechanics and Materials - Principles of heat treating steel](../../../docs/09-进阶科学与工程/01-工程力学与材料.md#103-钢的热处理原理).
 
 ## ⚠️ Safety first
 
@@ -26,7 +26,7 @@ This chapter covers only heat treatment and surface treatment. For forging to sh
 - ☠️ **Galvanised parts** (wire, water pipes and screws with a white coating): do not heat and quench them directly; zinc fumes cause metal fume fever. First soak them in vinegar for a day or two to dissolve the coating, or grind it off outdoors, upwind
 - ☠️ **Do not use**: molten lead baths, cyanide salt baths (used in factories for "liquid carburising" and "salt baths"; highly toxic), nitrate baths (burn and explode on contact with charcoal or oil), asbestos products
 
-For treating burns see [Wound and Injury Care - Scalds and burns](../../../docs/01-日常疾病和伤害/02-外伤处理.md#烫伤与烧伤); for carbon monoxide poisoning see [Home and Traffic Accidents - Carbon monoxide poisoning](../../../docs/01-日常疾病和伤害/07-居家与交通意外.md#一氧化碳中毒).
+For treating burns see [Wound and Injury Care - Scalds and burns](../01-first-aid-and-family-health/02-wounds-and-injuries.md#scalds-and-burns); for carbon monoxide poisoning see [Home and Traffic Accidents - Carbon monoxide poisoning](../01-first-aid-and-family-health/07-home-and-traffic-accidents.md#carbon-monoxide-poisoning).
 
 ---
 
@@ -228,7 +228,7 @@ if the file bites, try a water quench. Break the test piece and look at the frac
 ✗ Do not use petrol, diesel, alcohol or other low-flash-point liquids; they catch fire the moment they touch red-hot iron
 ```
 
-For the types and uses of salvaged steel see [Scrap Metal Recycling and Aluminium Casting](../../../docs/05-冶金技术/05-废旧金属回收与铝铸造.md).
+For the types and uses of salvaged steel see [Scrap Metal Recycling and Aluminium Casting](05-scrap-metal-recycling-and-aluminium-casting.md).
 
 ### 2.4 Selective quenching (partial quenching)
 
@@ -488,7 +488,7 @@ Copper, brass and aluminium are annealed completely differently from steel (copp
 do not apply this section to them; see the chapter on sheet and wire
 ```
 
-For annealing non-ferrous metals see [Sheet and Wire - Annealing](../../../docs/05-冶金技术/11-板材与线材.md#一退火-冷加工的关键); for treatment after welding see [Welding and Joining](../../../docs/05-冶金技术/06-焊接与连接.md).
+For annealing non-ferrous metals see [Sheet and Wire - Annealing](11-sheet-and-wire.md#1-annealing-the-key-to-cold-working); for treatment after welding see [Welding and Joining](06-welding-and-joining.md).
 
 ---
 
@@ -691,7 +691,7 @@ and exposes soft iron → the edge blunts quickly. For knives that need repeated
 it is better to use solid steel or "sandwiched steel" (a steel edge strip sandwiched in wrought iron)
 ```
 
-For forging sandwiched and inserted steel edges see [Forging Simple Tools - Inserted steel edges](../../../docs/05-冶金技术/03-简易工具锻造.md#112-嵌钢刃).
+For forging sandwiched and inserted steel edges see [Forging Simple Tools - Inserted steel edges](03-forging-simple-tools.md#112-inserted-steel-edges).
 
 ---
 
@@ -775,7 +775,7 @@ What the various platings really do:
 - Real electroplating needs a steady direct-current supply and properly made-up plating solution; it belongs to the electrochemical industry
 ```
 
-For making tinplate see [Sheet and Wire - Tinplate](../../../docs/05-冶金技术/11-板材与线材.md#三镀锡铁皮马口铁); for the principle of galvanising see [Other Metals - Zinc](../../../docs/05-冶金技术/10-其他金属.md#四锌) and [Advanced Chemistry - Corrosion and protection](../../../docs/09-进阶科学与工程/05-化学进阶.md#54-腐蚀和防护).
+For making tinplate see [Sheet and Wire - Tinplate](11-sheet-and-wire.md#3-tinplate); for the principle of galvanising see [Other Metals - Zinc](10-other-metals.md#4-zinc) and [Advanced Chemistry - Corrosion and protection](../../../docs/09-进阶科学与工程/05-化学进阶.md#54-腐蚀和防护).
 
 ### 7.4 Coatings and everyday rust prevention
 
@@ -800,7 +800,7 @@ The key to rust prevention is "dry + air shut out":
 ✗ Food utensils (pots, knives) only with cooking oil, never engine oil or bitumen
 ```
 
-For everyday tool care see [Forging Simple Tools - Preventing rust](../../../docs/05-冶金技术/03-简易工具锻造.md#101-防锈) and [Woodworking and Tool Maintenance - Tool care](../../../docs/07-日常生活技能/09-木工与工具维护.md#工具保养).
+For everyday tool care see [Forging Simple Tools - Preventing rust](03-forging-simple-tools.md#101-preventing-rust) and [Woodworking and Tool Maintenance - Tool care](../../../docs/07-日常生活技能/09-木工与工具维护.md#工具保养).
 
 ---
 
@@ -901,7 +901,7 @@ Rules for judging:
    - Fine on the outside, coarse in the centre → normal for a carburised piece, or a large piece not hardened through
 ```
 
-For safety when using a grinding wheel see [Bench Work and Machining - Grinding](../../../docs/05-冶金技术/09-钳工与机械加工.md#八磨削).
+For safety when using a grinding wheel see [Bench Work and Machining - Grinding](09-bench-work-and-machining.md#8-grinding).
 
 ### 8.2 Toughness testing
 
@@ -1048,15 +1048,15 @@ it may look closed, but there is usually still ash and scale trapped inside, and
 
 ## Related chapters
 
-- ⏮️ [Iron Smelting](../../../docs/05-冶金技术/01-铁的冶炼.md) - getting steel
-- ⏮️ [Forging Simple Tools](../../../docs/05-冶金技术/03-简易工具锻造.md) - making the workpieces to be treated
-- ⏭️ [Scrap Metal Recycling and Aluminium Casting](../../../docs/05-冶金技术/05-废旧金属回收与铝铸造.md) - good salvaged steel
-- ⏭️ [Welding and Joining](../../../docs/05-冶金技术/06-焊接与连接.md) - forge welding, brazing and post-weld treatment
-- ⏭️ [Bench Work and Machining](../../../docs/05-冶金技术/09-钳工与机械加工.md) - filing, drilling, grinding; making taps and punches
-- ⏭️ [Sheet and Wire](../../../docs/05-冶金技术/11-板材与线材.md) - annealing non-ferrous metals, tinplate
+- ⏮️ [Iron Smelting](01-iron-smelting.md) - getting steel
+- ⏮️ [Forging Simple Tools](03-forging-simple-tools.md) - making the workpieces to be treated
+- ⏭️ [Scrap Metal Recycling and Aluminium Casting](05-scrap-metal-recycling-and-aluminium-casting.md) - good salvaged steel
+- ⏭️ [Welding and Joining](06-welding-and-joining.md) - forge welding, brazing and post-weld treatment
+- ⏭️ [Bench Work and Machining](09-bench-work-and-machining.md) - filing, drilling, grinding; making taps and punches
+- ⏭️ [Sheet and Wire](11-sheet-and-wire.md) - annealing non-ferrous metals, tinplate
 - 🔗 [Engineering Mechanics and Materials - Principles of heat treating steel](../../../docs/09-进阶科学与工程/01-工程力学与材料.md#103-钢的热处理原理) - why quenching makes steel hard
 - 🔗 [Advanced Chemistry - Corrosion and protection](../../../docs/09-进阶科学与工程/05-化学进阶.md#54-腐蚀和防护) - why things rust
-- 🔗 [Wilderness Survival - Basic Survival Skills](../../../docs/03-野外生存/00-基础生存技能.md) - using tools
+- 🔗 [Wilderness Survival - Basic Survival Skills](../03-wilderness-survival/00-basic-survival-skills.md) - using tools
 
 ---
 

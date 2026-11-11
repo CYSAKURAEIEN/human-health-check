@@ -173,7 +173,7 @@ Why quicklime works well: with water it forms calcium hydroxide, which for a sho
 - Keep children away from lime heaps and slaking pits
 ```
 
-For burning, slaking and safe use of lime see [Lime and Building Materials](../../../docs/07-日常生活技能/16-石灰与建筑材料.md#先说清楚-本章的定位) and [Slaked lime powder](../../../docs/07-日常生活技能/16-石灰与建筑材料.md#消石灰粉撒地消毒改土用); for chemical burns see [Wound and Injury Care – Chemical burns](../../../docs/01-日常疾病和伤害/02-外伤处理.md#化学烧伤).
+For burning, slaking and safe use of lime see [Lime and Building Materials](../../../docs/07-日常生活技能/16-石灰与建筑材料.md#先说清楚-本章的定位) and [Slaked lime powder](../../../docs/07-日常生活技能/16-石灰与建筑材料.md#消石灰粉撒地消毒改土用); for chemical burns see [Wound and Injury Care – Chemical burns](../01-first-aid-and-family-health/02-wounds-and-injuries.md#chemical-burns).
 
 **Base fertiliser**:
 ```
@@ -527,7 +527,7 @@ Note:
   is weaker); ice is thinner near ice holes and inlets
 ```
 
-For self-rescue and rescuing others after falling through ice see [Snow and Polar Survival – Ice and falling through](../../../docs/03-野外生存/04-雪地极地求生.md#冰面与落入冰窟).
+For self-rescue and rescuing others after falling through ice see [Snow and Polar Survival – Ice and falling through](../03-wilderness-survival/04-snow-and-polar-survival.md#ice-and-falling-through).
 
 #### Disease prevention and treatment
 
@@ -651,7 +651,7 @@ Fish you cannot eat in time:
    half-raw fish slices (liver fluke)
 ```
 
-For how to salt, dry and smoke see [Food Processing and Preservation – Salting](../../../docs/07-日常生活技能/01-食物加工与保存.md#盐腌), [Sun-drying and air-drying](../../../docs/07-日常生活技能/01-食物加工与保存.md#晒干与风干) and [Smoking](../../../docs/07-日常生活技能/01-食物加工与保存.md#烟熏). If symptoms appear after swallowing fish gall, see a doctor at once; for general management of poisoning see [Poisoning](../../../docs/01-日常疾病和伤害/12-中毒.md#中毒的通用处理原则).
+For how to salt, dry and smoke see [Food Processing and Preservation – Salting](../../../docs/07-日常生活技能/01-食物加工与保存.md#盐腌), [Sun-drying and air-drying](../../../docs/07-日常生活技能/01-食物加工与保存.md#晒干与风干) and [Smoking](../../../docs/07-日常生活技能/01-食物加工与保存.md#烟熏). If symptoms appear after swallowing fish gall, see a doctor at once; for general management of poisoning see [Poisoning](../01-first-aid-and-family-health/12-poisoning.md#general-principles-for-handling-poisoning).
 
 ### Fish in rice paddies
 
@@ -723,7 +723,7 @@ General principles for pesticides (take extra care when keeping fish in paddies)
   pyrethroids are very toxic to fish
 ```
 
-For water levels and drying of rice paddies see [Grain Crops – Rice field management](../../../docs/04-动植物培育/02-粮食作物.md#田间管理); for protection when spraying and pesticide poisoning see [Poisoning – Pesticide and rat poison poisoning](../../../docs/01-日常疾病和伤害/12-中毒.md#农药和鼠药中毒).
+For water levels and drying of rice paddies see [Grain Crops – Rice field management](02-grain-crops.md#field-management); for protection when spraying and pesticide poisoning see [Poisoning – Pesticide and rat poison poisoning](../01-first-aid-and-family-health/12-poisoning.md#pesticide-and-rat-poison-poisoning).
 
 ### Ducks in rice paddies (rice-duck farming)
 
@@ -762,7 +762,7 @@ Note:
 - Too many ducks in a paddy trample the seedlings
 ```
 
-For brooding, breeds and day-to-day care of ducks see [Poultry Keeping – Ducks](../../../docs/04-动植物培育/05-家禽养殖.md#鸭的养殖).
+For brooding, breeds and day-to-day care of ducks see [Poultry Keeping – Ducks](05-poultry.md#ducks).
 
 ### Fish in tanks (barrels) (small scale)
 
@@ -848,7 +848,7 @@ Common problems:
   picking them off by hand and using insect netting
 ```
 
-For small-scale solar power see [Lighting and Energy – Small-scale solar power](../../../docs/07-日常生活技能/06-照明与能源.md#小型太阳能); for choosing vegetables see [Vegetable Growing](../../../docs/04-动植物培育/01-蔬菜种植.md).
+For small-scale solar power see [Lighting and Energy – Small-scale solar power](../../../docs/07-日常生活技能/06-照明与能源.md#小型太阳能); for choosing vegetables see [Vegetable Growing](01-vegetable-growing.md).
 
 ---
 
@@ -1079,7 +1079,7 @@ Working in water:
   possible
 ```
 
-For full coverage of drowning prevention see [Child Safety – Preventing drowning](../../../docs/01-日常疾病和伤害/14-儿童安全.md#防溺水); for first aid for drowning see [Acute Symptoms – Drowning](../../../docs/01-日常疾病和伤害/05-急性症状.md#溺水); for rescuing someone in the water see [River Crossing, Flash Floods and Hypothermia – Rescuing a companion from the water](../../../docs/03-野外生存/08-涉水山洪与野外失温.md#救落水的同伴).
+For full coverage of drowning prevention see [Child Safety – Preventing drowning](../01-first-aid-and-family-health/14-child-safety.md#preventing-drowning); for first aid for drowning see [Acute Symptoms – Drowning](../01-first-aid-and-family-health/05-acute-symptoms.md#drowning); for rescuing someone in the water see [River Crossing, Flash Floods and Hypothermia – Rescuing a companion from the water](../03-wilderness-survival/08-river-crossing-flash-floods-and-hypothermia.md#rescuing-a-companion-from-the-water).
 
 ---
 
@@ -1224,5 +1224,5 @@ Notes:
 
 ---
 
-**Next chapter**: [Seed Saving and Breeding](../../../docs/04-动植物培育/08-留种与育种.md)
-**Back**: [Chapter index](../../../docs/04-动植物培育/README.md) | [Main contents](../../README.md)
+**Next chapter**: [Seed Saving and Breeding](08-seed-saving-and-breeding.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

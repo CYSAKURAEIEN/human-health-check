@@ -75,7 +75,7 @@ Buying chicks / young birds:
 ❌ Do not buy birds that are dull, huddled and shivering, or with white droppings pasted on the vent
 ```
 
-For inbreeding see [Biology and Medicine Basics – The harm of inbreeding](../../../docs/08-基础科学知识/04-生物与医学基础.md#63-近亲繁殖的危害); for selection see [Seed Saving and Breeding – Selection](../../../docs/04-动植物培育/08-留种与育种.md#选育-让品种一年比一年好).
+For inbreeding see [Biology and Medicine Basics – The harm of inbreeding](../../../docs/08-基础科学知识/04-生物与医学基础.md#63-近亲繁殖的危害); for selection see [Seed Saving and Breeding – Selection](08-seed-saving-and-breeding.md#selection-making-a-variety-better-every-year).
 
 ### Building a chicken house
 
@@ -579,7 +579,7 @@ More:
    raw or runny eggs; wash your hands after handling raw eggs
 ```
 
-For storing eggs in limewater see [Lime and Building Materials – Other uses](../../../docs/07-日常生活技能/16-石灰与建筑材料.md#其他用途); for recognising food poisoning see [Common Illnesses – Food poisoning](../../../docs/01-日常疾病和伤害/01-常见疾病.md#食物中毒).
+For storing eggs in limewater see [Lime and Building Materials – Other uses](../../../docs/07-日常生活技能/16-石灰与建筑材料.md#其他用途); for recognising food poisoning see [Common Illnesses – Food poisoning](../01-first-aid-and-family-health/01-common-illnesses.md#food-poisoning).
 
 ### Hatching
 
@@ -713,7 +713,7 @@ Common causes of failure:
    first, then rinse with plenty of clean water
 ```
 
-For making milk of lime see [Lime and Building Materials – Disinfecting animal pens and latrines](../../../docs/07-日常生活技能/16-石灰与建筑材料.md#畜圈厕所消毒); for making chlorine disinfectant and its safety points see [Infectious Disease at Home – Making household disinfectant](../../../docs/01-日常疾病和伤害/15-传染病家庭防控.md#家用消毒液的配制).
+For making milk of lime see [Lime and Building Materials – Disinfecting animal pens and latrines](../../../docs/07-日常生活技能/16-石灰与建筑材料.md#畜圈厕所消毒); for making chlorine disinfectant and its safety points see [Infectious Disease at Home – Making household disinfectant](../01-first-aid-and-family-health/15-infectious-disease-at-home.md#making-household-disinfectant).
 
 **Common diseases**:
 ```
@@ -822,7 +822,7 @@ For the full requirements for disposing of animals that died of disease see [San
   under running water afterwards
 ```
 
-For handwashing see [Sanitation – How to wash](../../../docs/07-日常生活技能/03-卫生设施.md#怎么洗); for home care of fever and respiratory symptoms see [Infectious Disease at Home – Respiratory infections](../../../docs/01-日常疾病和伤害/15-传染病家庭防控.md#呼吸道传染病).
+For handwashing see [Sanitation – How to wash](../../../docs/07-日常生活技能/03-卫生设施.md#怎么洗); for home care of fever and respiratory symptoms see [Infectious Disease at Home – Respiratory infections](../01-first-aid-and-family-health/15-infectious-disease-at-home.md#respiratory-infections).
 
 ### Culling and replacement
 
@@ -872,7 +872,7 @@ Chicken manure is the most concentrated of farmyard manures (high in nitrogen an
   never put on the vegetable plot
 ```
 
-For composting see [Farming and Animal Husbandry – Soil improvement](../../../docs/04-动植物培育/README.md#土壤改良); for the hygiene rules on using manure see [Sanitation – Using faeces and urine](../../../docs/07-日常生活技能/03-卫生设施.md#粪便与尿液的利用).
+For composting see [Farming and Animal Husbandry – Soil improvement](README.md#improving-soil); for the hygiene rules on using manure see [Sanitation – Using faeces and urine](../../../docs/07-日常生活技能/03-卫生设施.md#粪便与尿液的利用).
 
 ### Slaughter and hygiene
 
@@ -930,7 +930,7 @@ Hygiene:
 ❌ Do not feed raw poultry offal to chickens or ducks (it keeps disease circulating)
 ```
 
-For preserving meat see [Food Processing and Preservation – Cured and salted meat](../../../docs/07-日常生活技能/01-食物加工与保存.md#腊肉咸肉) and [Smoking](../../../docs/07-日常生活技能/01-食物加工与保存.md#烟熏); for hygiene in cooking and storage see [Common Illnesses – Food poisoning](../../../docs/01-日常疾病和伤害/01-常见疾病.md#食物中毒).
+For preserving meat see [Food Processing and Preservation – Cured and salted meat](../../../docs/07-日常生活技能/01-食物加工与保存.md#腊肉咸肉) and [Smoking](../../../docs/07-日常生活技能/01-食物加工与保存.md#烟熏); for hygiene in cooking and storage see [Common Illnesses – Food poisoning](../01-first-aid-and-family-health/01-common-illnesses.md#food-poisoning).
 
 ---
 
@@ -1062,7 +1062,7 @@ More:
   prevent by vaccination; if it occurs, isolate and report, as for chicken diseases
 ```
 
-For combining with rice paddies see [Aquaculture – Fish in rice paddies](../../../docs/04-动植物培育/07-水产养殖.md#稻田养鱼).
+For combining with rice paddies see [Aquaculture – Fish in rice paddies](07-aquaculture.md#fish-in-rice-paddies).
 
 ---
 
@@ -1222,5 +1222,5 @@ The things that most often go wrong:
 
 ---
 
-**Next chapter**: [Livestock](../../../docs/04-动植物培育/06-家畜养殖.md)
-**Back**: [Chapter index](../../../docs/04-动植物培育/README.md) | [Main contents](../../README.md)
+**Next chapter**: [Livestock](06-livestock.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

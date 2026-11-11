@@ -53,7 +53,7 @@ Heat-tolerant crops: pumpkin, yardlong bean, sweet potato, amaranth, water spina
   - The mainstay of summer; the most heat-tolerant of the warm-season crops
 ```
 
-Without a thermometer, go by the local traditional farming calendar and your own record of the last frost date. **With warm-season crops, sow a few days late rather than early and lose them to frost.** Test germination before use; see [Seed saving and breeding – Germination test](../../../docs/04-动植物培育/08-留种与育种.md#发芽率测试).
+Without a thermometer, go by the local traditional farming calendar and your own record of the last frost date. **With warm-season crops, sow a few days late rather than early and lose them to frost.** Test germination before use; see [Seed saving and breeding – Germination test](08-seed-saving-and-breeding.md#germination-testing).
 
 ### Germination temperature and sowing depth
 
@@ -148,7 +148,7 @@ Principles for ordering crops:
   flooding kills large numbers of soil-borne pathogens and nematodes
 ```
 
-For the four-year rotation plan see [this part's README – Rotation plan](README.md#rotation-plan-4-years); for rotating grain crops see [Staple crops – Rotation schemes](../../../docs/04-动植物培育/02-粮食作物.md#轮作方案).
+For the four-year rotation plan see [this part's README – Rotation plan](README.md#rotation-plan-4-years); for rotating grain crops see [Staple crops – Rotation schemes](02-grain-crops.md#crop-rotation).
 
 ### Intercropping and relay cropping
 
@@ -703,7 +703,7 @@ Chilli water, garlic water: mainly repellents; see this part's README for how
   hospital, taking the pesticide bottle with you
 ```
 
-For personal protection when spraying and first aid for pesticide poisoning see [Poisoning – Protection when spraying pesticides](../../../docs/01-日常疾病和伤害/12-中毒.md#喷洒农药时的防护).
+For personal protection when spraying and first aid for pesticide poisoning see [Poisoning – Protection when spraying pesticides](../01-first-aid-and-family-health/12-poisoning.md#protection-when-spraying-pesticides).
 
 ---
 
@@ -1031,7 +1031,7 @@ Harvest:
   make it into sauce or pickles
 ```
 
-For saving tomato seed see [Seed saving and breeding – Crops whose seed comes from wet flesh](../../../docs/04-动植物培育/08-留种与育种.md#种子从湿果肉里取的作物番茄黄瓜).
+For saving tomato seed see [Seed saving and breeding – Crops whose seed comes from wet flesh](08-seed-saving-and-breeding.md#crops-whose-seeds-come-from-wet-flesh-tomato-cucumber).
 
 ### Pepper
 
@@ -1236,7 +1236,7 @@ Storage:
   flowers are also edible
 ```
 
-For details of hand pollination and saving seed see [Seed saving and breeding – Bagging and hand pollination](../../../docs/04-动植物培育/08-留种与育种.md#套袋和人工授粉).
+For details of hand pollination and saving seed see [Seed saving and breeding – Bagging and hand pollination](08-seed-saving-and-breeding.md#bagging-and-hand-pollination).
 
 ---
 
@@ -1319,7 +1319,7 @@ High yields and stores well!
 - Widely sprouted or green: throw the whole potato away
 ```
 
-For saving seed potatoes and true potato seed see [Seed saving and breeding – Potatoes and sweet potatoes](../../../docs/04-动植物培育/08-留种与育种.md#土豆和红薯-用薯块繁殖); for cellar storage see [Food processing and preservation – Storage conditions for vegetables](../../../docs/07-日常生活技能/01-食物加工与保存.md#各类蔬菜的储存条件).
+For saving seed potatoes and true potato seed see [Seed saving and breeding – Potatoes and sweet potatoes](08-seed-saving-and-breeding.md#potato-and-sweet-potato-propagating-from-tubers); for cellar storage see [Food processing and preservation – Storage conditions for vegetables](../../../docs/07-日常生活技能/01-食物加工与保存.md#各类蔬菜的储存条件).
 
 ### Sweet potato
 
@@ -1635,7 +1635,7 @@ Harvest:
   seasons")
 ```
 
-For dividing Chinese chives and chives see [Seed saving and breeding – Division](../../../docs/04-动植物培育/08-留种与育种.md#分株).
+For dividing Chinese chives and chives see [Seed saving and breeding – Division](08-seed-saving-and-breeding.md#division).
 
 ### Garlic
 
@@ -1684,7 +1684,7 @@ Harvest:
 - Green garlic: young plants grown close together and harvested early
 ```
 
-For the medicinal uses of garlic see [Medicinal plants – Garlic](../../../docs/04-动植物培育/04-药用植物.md#大蒜).
+For the medicinal uses of garlic see [Medicinal plants – Garlic](04-medicinal-plants.md#dasuan-garlic).
 
 ---
 
@@ -1777,7 +1777,7 @@ Blanched chives: in winter cover Chinese chive roots in a cold frame or indoors
 ⚠️ Smells bad, slimy or mouldy → throw the whole tray away
 ```
 
-For how to sprout beans see [Nutrition and deficiency diseases – Bean sprouts](../../../docs/07-日常生活技能/02-营养与营养缺乏病.md#维生素c-豆芽是最可靠的冬季来源); for the dangers of treated seed see [Seed saving and breeding – Why losing your seed means losing farming](../../../docs/04-动植物培育/08-留种与育种.md#为什么种子断了农业就断了).
+For how to sprout beans see [Nutrition and deficiency diseases – Bean sprouts](../../../docs/07-日常生活技能/02-营养与营养缺乏病.md#维生素c-豆芽是最可靠的冬季来源); for the dangers of treated seed see [Seed saving and breeding – Why losing your seed means losing farming](08-seed-saving-and-breeding.md#why-farming-stops-when-the-seed-runs-out).
 
 ### The summer gap
 
@@ -1794,7 +1794,7 @@ Pak choi, lettuce: shade with shade netting or under a trellis + insect netting,
   water to cool
 ```
 
-Wild greens can fill gaps in lean seasons, but you must be 100% sure of what you are eating; see [Poisonous mushrooms and wild plants – Rules for gathering wild greens and fruit](../../../docs/03-野外生存/09-毒蘑菇与野菜误食.md#采食野菜野果的原则).
+Wild greens can fill gaps in lean seasons, but you must be 100% sure of what you are eating; see [Poisonous mushrooms and wild plants – Rules for gathering wild greens and fruit](../03-wilderness-survival/09-poisonous-mushrooms-and-wild-plants.md#rules-for-gathering-wild-greens-and-fruit).
 
 ---
 
@@ -1846,5 +1846,5 @@ Safety:
 
 ---
 
-**Next chapter**: [Staple crops](../../../docs/04-动植物培育/02-粮食作物.md)
+**Next chapter**: [Staple crops](02-grain-crops.md)
 **Back to**: [Chapter list](README.md) | [Main contents](../../README.md)
