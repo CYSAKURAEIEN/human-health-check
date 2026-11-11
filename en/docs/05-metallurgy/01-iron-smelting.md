@@ -853,7 +853,7 @@ Steel can be hardened by quenching (heat to about 780-850°C, then cool rapidly)
 
 ![Wrought iron, steel and pig iron: how they are divided by carbon content, their properties and where they come from](../../images/iron-carbon.svg)
 
-*Figure: Wrought iron has <0.2% carbon, soft and tough, cannot be hardened; steel has 0.2-2% carbon and can be hardened by quenching (medium-carbon steel about 0.3-0.6%, high-carbon steel about 0.6-1.5%); pig iron has 2-4% carbon, very brittle, cannot be forged, only cast. The bloomery process gives sponge iron forged into wrought iron; the pig-iron route gives pig iron that is fined into wrought iron; wrought iron is carburised into steel*
+*Figure: Wrought iron has <0.2% carbon, soft and tough, cannot be hardened; steel has 0.2-2% carbon and can be hardened by quenching (medium-carbon steel about 0.3-0.6%, high-carbon steel about 0.6-2%); pig iron has 2-4% carbon, very brittle, cannot be forged, only cast. The bloomery process gives sponge iron forged into wrought iron; the pig-iron route gives pig iron that is fined into wrought iron; wrought iron is carburised into steel*
 
 ### 5.2 Method: carburising
 

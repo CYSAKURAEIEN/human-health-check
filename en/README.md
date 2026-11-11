@@ -388,7 +388,7 @@ Compound units use "/" to mean "per", e.g. m/s (metres per second), kg/ha (kilog
 - **[Bellows and Forges](docs/05-metallurgy/08-bellows-and-forges.md)**: [Double-acting piston bellows](docs/05-metallurgy/08-bellows-and-forges.md#33-double-acting-piston-bellows-most-recommended) · [Structure of a forge](docs/05-metallurgy/08-bellows-and-forges.md#51-how-a-forge-is-built)
 - **[Bench Work and Machining](docs/05-metallurgy/09-bench-work-and-machining.md)**: [The vice and filing](docs/05-metallurgy/09-bench-work-and-machining.md#42-method) · [Drilling steps](docs/05-metallurgy/09-bench-work-and-machining.md#51-steps)
 - **[Other Metals: Tin, Lead, Zinc, Gold, Silver](docs/05-metallurgy/10-other-metals.md)**: [Gold panning: gravity only, never mercury](docs/05-metallurgy/10-other-metals.md#51-panning-for-gold)
-- **[Sheet and Wire](docs/05-metallurgy/11-sheet-and-wire.md)**: [拉丝板与拉丝](docs/05-metallurgy/11-sheet-and-wire.md#43-drawing-steps)
+- **[Sheet and Wire](docs/05-metallurgy/11-sheet-and-wire.md)**: [The draw plate and wire drawing](docs/05-metallurgy/11-sheet-and-wire.md#43-drawing-steps)
 
 ### VI. Pharmaceuticals
 
