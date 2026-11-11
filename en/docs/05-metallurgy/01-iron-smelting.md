@@ -1121,7 +1121,7 @@ For how big a woodland you need and how to rotate cutting see [Firewood and Wood
 - Keep a steady rhythm
 
 **Proper proportions:**
-- Charcoal : ore : limestone = 2 : 2 : 0.2
+- Charcoal : ore : limestone = 2 : 2 : 0.1-0.15 (limestone about 5-8% of the ore)
 - Change only one thing per smelt and record it (ore and charcoal quality, blowing time, slag condition, iron produced); after three to five smelts you will find the proportions that suit your local ore
 
 ### 8.3 Using scrap iron
