@@ -1,0 +1,227 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1130" width="720" height="1130" role="img" aria-label="Forge welding steps: 1 Prepare the joint: upset the two ends a little first, to make up for metal hammered thin during welding, then forge each into a slope (a scarf), slightly domed so hammering squeezes scale out from the middle; 2 Cleaning and flux: knock off the scale and at bright red sprinkle on flux, borax is best, without borax use clean fine quartz sand; the melted flux coats the joint, stops further oxidation and dissolves the scale; 3 Heat to welding heat: heat both pieces together, joint faces down, buried in the centre of the fire, colour bright yellow to white, the surface shines as if sweating and the odd spark starts to fly, mild steel about 1250-1300°C; sparks bursting out in quantity mean it is already overheated, take it out; 4 Hammer together: take them out quickly, tap off anything on the surface, line up the two scarfs and lay them together, tap lightly first so they stick, then hammer hard from the middle outwards; work fast, within a few seconds the heat drops and they will not weld; 5 Heat again and hammer until the weld is fully joined, then dress to shape; 6 Test: once cool, bend at the weld; it is a success only if the weld does not open. Fire colours: dark red about 500-550°C, blood red about 650-700°C, cherry red about 780-850°C, bright red about 850-950°C, orange-yellow about 1000-1100°C, yellow about 1200°C, bright yellow to white about 1250-1300°C is welding heat. Common failures: not hot enough, scale or slag in the joint, sulphur in the fire when burning coal, working too slowly. Suits wrought iron and mild steel; cast iron cannot be forge welded. Safety: wear goggles; wear cotton, linen or leather clothes and an apron, no synthetics; sparks fly several m, so clear away flammables and check for smouldering sparks; do not touch the work until it has cooled" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Forge welding steps</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker>
+<marker id="arR2" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker>
+<linearGradient id="hotL" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#9aa3ad"/><stop offset="0.45" stop-color="#e8553a"/><stop offset="0.8" stop-color="#ffd84d"/><stop offset="1" stop-color="#fff6c8"/></linearGradient>
+<linearGradient id="hotR" x1="1" x2="0" y1="0" y2="0"><stop offset="0" stop-color="#9aa3ad"/><stop offset="0.45" stop-color="#e8553a"/><stop offset="0.8" stop-color="#ffd84d"/><stop offset="1" stop-color="#fff6c8"/></linearGradient>
+<linearGradient id="redL" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#9aa3ad"/><stop offset="0.45" stop-color="#e8553a"/><stop offset="1" stop-color="#e8553a"/></linearGradient>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" text-anchor="middle" font-weight="bold">Forge welding: scarf + flux + welding heat + fast hammering</text>
+
+<!-- 1 prepare the joint -->
+<g transform="translate(10,44)">
+<rect width="228" height="340" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="10" y="24" font-size="15" font-weight="bold">① Prepare the joint</text>
+<path d="M214,76 H132 Q128,76 124,82 H106 Q68,76 28,50 H124 Q128,56 132,56 H214" fill="#b8c2cc" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M14,110 H96 Q100,110 104,104 H122 Q160,110 200,136 H104 Q100,130 96,130 H14" fill="#b8c2cc" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<text x="14" y="162" font-size="12.5" fill="#0b5cad">upset a little</text>
+<line x1="80" y1="150" x2="108" y2="132" stroke="#0b5cad" stroke-width="1.2"/><circle cx="108" cy="132" r="2.2" fill="#0b5cad"/>
+<text x="128" y="162" font-size="12.5" fill="#0b5cad">scarf, domed</text>
+<text x="128" y="176" font-size="12.5" fill="#0b5cad">in the middle</text>
+<line x1="160" y1="150" x2="160" y2="117" stroke="#0b5cad" stroke-width="1.2"/><circle cx="160" cy="117" r="2.2" fill="#0b5cad"/>
+<g font-size="13">
+<text x="10" y="200">Forge each end into a slope</text>
+<text x="10" y="218">(a scarf). Upset the ends a</text>
+<text x="10" y="236">little first, to make up for</text>
+<text x="10" y="254">metal hammered thin when</text>
+<text x="10" y="272">welding. Make the scarf</text>
+<text x="10" y="290">slightly domed so hammering</text>
+<text x="10" y="308">squeezes scale out from the</text>
+<text x="10" y="326">middle</text>
+</g>
+</g>
+
+<!-- 2 cleaning and flux -->
+<g transform="translate(246,44)">
+<rect width="228" height="340" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="10" y="24" font-size="15" font-weight="bold">② Cleaning and flux</text>
+<path d="M30,116 H96 Q100,116 104,110 H122 Q160,116 200,142 H104 Q100,136 96,136 H30" fill="url(#redL)" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M124,112 Q160,118 196,140" fill="none" stroke="#fffbe6" stroke-width="3"/>
+<path d="M4,108 L34,122 M4,146 L34,130" stroke="#333" stroke-width="4" stroke-linecap="round"/>
+<path d="M206,40 L170,62" stroke="#8b6b3e" stroke-width="5" stroke-linecap="round"/>
+<path d="M140,62 Q156,82 174,62 Z" fill="#ccc" stroke="#333" stroke-width="1.8"/>
+<g fill="#f2f2f2" stroke="#666" stroke-width="1"><circle cx="152" cy="80" r="2.2"/><circle cx="160" cy="88" r="2.2"/><circle cx="150" cy="94" r="2.2"/><circle cx="158" cy="102" r="2.2"/><circle cx="146" cy="106" r="2.2"/></g>
+<text x="20" y="72" font-size="13" font-weight="bold" fill="#0b5cad">flux</text>
+<text x="20" y="88" font-size="12" fill="#0b5cad">(borax)</text>
+<line x1="60" y1="70" x2="140" y2="66" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="108" y="160" font-size="12.5" fill="#c33" font-weight="bold">sprinkle on</text>
+<text x="108" y="175" font-size="12.5" fill="#c33" font-weight="bold">at bright red</text>
+<g font-size="13">
+<text x="10" y="200">Knock off the scale. At bright</text>
+<text x="10" y="218">red, sprinkle on flux: borax</text>
+<text x="10" y="236">is best; without it, use clean</text>
+<text x="10" y="254">fine quartz sand. The melted</text>
+<text x="10" y="272">flux coats the joint, stops</text>
+<text x="10" y="290">further oxidation and</text>
+<text x="10" y="308">dissolves the scale</text>
+</g>
+</g>
+
+<!-- 3 heat to welding heat -->
+<g transform="translate(482,44)">
+<rect width="228" height="340" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="10" y="24" font-size="15" font-weight="bold">③ Heat to welding heat</text>
+<rect x="12" y="38" width="44" height="18" rx="3" fill="#fff6c8" stroke="#c9a400" stroke-width="1.5"/>
+<text x="62" y="47" font-size="12.5">bright yellow to white,</text>
+<text x="62" y="62" font-size="12.5">shining as if sweating</text>
+<path d="M10,160 Q26,118 70,110 Q114,102 158,110 Q202,118 218,160 Z" fill="#3d3d3d" stroke="#222" stroke-width="1.5"/>
+<ellipse cx="114" cy="124" rx="56" ry="14" fill="#f08a2a"/>
+<ellipse cx="114" cy="124" rx="28" ry="7" fill="#ffd84d"/>
+<path d="M8,116 H110 L80,128 H8 Z" fill="url(#hotL)" stroke="#333" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M220,119 H120 L150,131 H220 Z" fill="url(#hotR)" stroke="#333" stroke-width="1.8" stroke-linejoin="round"/>
+<g fill="#5e5e5e"><circle cx="30" cy="146" r="5"/><circle cx="56" cy="134" r="5"/><circle cx="92" cy="142" r="5"/><circle cx="136" cy="144" r="5"/><circle cx="172" cy="134" r="5"/><circle cx="196" cy="148" r="5"/><circle cx="114" cy="152" r="5"/></g>
+<g fill="#5e5e5e" stroke="#222" stroke-width="1"><circle cx="30" cy="114" r="6"/><circle cx="50" cy="112" r="5"/><circle cx="182" cy="117" r="6"/><circle cx="202" cy="116" r="5"/></g>
+<g stroke="#f5a000" stroke-width="2" stroke-linecap="round"><path d="M102,100 L98,90 M126,98 L132,88 M114,96 V86"/></g>
+<text x="138" y="88" font-size="12" fill="#555">the odd spark</text>
+<text x="14" y="178" font-size="12" fill="#555">joint faces down, buried</text>
+<text x="14" y="192" font-size="12" fill="#555">in the centre of the fire</text>
+<g font-size="13">
+<text x="10" y="214">Heat both pieces together;</text>
+<text x="10" y="232">the surface shines and the</text>
+<text x="10" y="250">odd spark starts to fly</text>
+<text x="10" y="268">(mild steel about 1250-1300°C)</text>
+<text x="10" y="292" fill="#c33" font-weight="bold">✗ Sparks bursting out in</text>
+<text x="10" y="310" fill="#c33" font-weight="bold">quantity = overheated;</text>
+<text x="10" y="328" fill="#c33">the steel is burning: take it out</text>
+</g>
+</g>
+
+<!-- 4 hammer together -->
+<g transform="translate(10,394)">
+<rect width="228" height="340" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="10" y="24" font-size="15" font-weight="bold">④ Hammer together (fast)</text>
+<path d="M40,140 H200 V152 H172 L162,168 H184 V182 H58 V168 H80 L70,152 H40 Z" fill="#666" stroke="#333" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M40,140 Q18,141 8,146 Q22,151 40,152 Z" fill="#666" stroke="#333" stroke-width="1.8"/>
+<path d="M16,118 H84 L90,114 Q128,116 170,140 H88 L84,134 H16" fill="#ffd84d" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M90,108 H172 L176,114 H212 V130 H176 L172,134 Q130,122 90,108 Z" fill="#ffd84d" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<rect x="104" y="44" width="52" height="24" rx="3" fill="#888" stroke="#333" stroke-width="1.8"/>
+<rect x="156" y="50" width="56" height="11" rx="3" fill="#c8a06a" stroke="#333" stroke-width="1.5"/>
+<path d="M130,72 V96" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<path d="M120,102 H86" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<path d="M140,102 H178" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="14" y="54" font-size="12.5" fill="#c33" font-weight="bold">light first,</text>
+<text x="14" y="68" font-size="12.5" fill="#c33" font-weight="bold">then hard</text>
+<text x="14" y="88" font-size="12.5" fill="#c33">from the middle</text>
+<text x="14" y="102" font-size="12.5" fill="#c33">outwards</text>
+<g font-size="13">
+<text x="10" y="204">Take them out quickly, tap off</text>
+<text x="10" y="222">anything on the surface, line</text>
+<text x="10" y="240">up the two scarfs and lay them</text>
+<text x="10" y="258">together. Tap lightly first so</text>
+<text x="10" y="276">they stick, then hammer hard</text>
+<text x="10" y="294">from the middle outwards</text>
+<text x="10" y="314" fill="#c33" font-weight="bold">Within a few seconds the heat</text>
+<text x="10" y="332" fill="#c33" font-weight="bold">drops and they will not weld</text>
+</g>
+</g>
+
+<!-- 5 reheat and hammer -->
+<g transform="translate(246,394)">
+<rect width="228" height="340" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="10" y="24" font-size="15" font-weight="bold">⑤ Reheat and hammer</text>
+<path d="M12,170 Q22,136 56,130 Q90,126 102,170 Z" fill="#3d3d3d" stroke="#222" stroke-width="1.5"/>
+<ellipse cx="57" cy="142" rx="30" ry="8" fill="#f08a2a"/>
+<path d="M124,140 H214 V150 H196 L188,164 H204 V176 H134 V164 H150 L142,150 H124 Z" fill="#666" stroke="#333" stroke-width="1.8" stroke-linejoin="round"/>
+<rect x="118" y="126" width="100" height="14" fill="#f39a2a" stroke="#333" stroke-width="2"/>
+<path d="M156,126 L176,140" stroke="#7a3a10" stroke-width="1.2" stroke-dasharray="3 2"/>
+<rect x="142" y="62" width="48" height="22" rx="3" fill="#888" stroke="#333" stroke-width="1.8"/>
+<rect x="190" y="68" width="30" height="10" rx="3" fill="#c8a06a" stroke="#333" stroke-width="1.5"/>
+<path d="M166,88 V118" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<path d="M112,108 Q88,72 60,118" fill="none" stroke="#c33" stroke-width="2.5" marker-start="url(#arR2)" marker-end="url(#arR2)"/>
+<text x="62" y="78" font-size="13" fill="#c33" font-weight="bold">repeat</text>
+<text x="14" y="190" font-size="12" fill="#555">back in the fire</text>
+<text x="146" y="194" font-size="12" fill="#555">hammer</text>
+<g font-size="13">
+<text x="10" y="220">Heat again and hammer</text>
+<text x="10" y="238">again until the weld is fully</text>
+<text x="10" y="256">joined, then dress to shape</text>
+</g>
+</g>
+
+<!-- 6 test -->
+<g transform="translate(482,394)">
+<rect width="228" height="340" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="10" y="24" font-size="15" font-weight="bold">⑥ Test</text>
+<path d="M28,64 L114,150 L200,64" fill="none" stroke="#333" stroke-width="18" stroke-linejoin="round"/>
+<path d="M28,64 L114,150 L200,64" fill="none" stroke="#b8c2cc" stroke-width="14" stroke-linejoin="round"/>
+<path d="M100,148 L128,148" stroke="#7a3a10" stroke-width="1.5" stroke-dasharray="3 2"/>
+<path d="M20,104 Q30,84 52,82" fill="none" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<path d="M208,104 Q198,84 176,82" fill="none" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="138" y="180" font-size="12.5" fill="#0b5cad">at the weld</text>
+<line x1="136" y1="174" x2="120" y2="154" stroke="#0b5cad" stroke-width="1.2"/>
+<path d="M30,166 l6,7 l11,-13" fill="none" stroke="#2a8a3a" stroke-width="3"/>
+<text x="52" y="172" font-size="13" fill="#2a8a3a" font-weight="bold">no crack</text>
+<g font-size="13">
+<text x="10" y="220">Once cool, bend at the weld;</text>
+<text x="10" y="238">it is a success only if the</text>
+<text x="10" y="256">weld does not open</text>
+</g>
+</g>
+
+<!-- fire colours -->
+<g transform="translate(0,100)">
+<rect x="10" y="644" width="700" height="118" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="24" y="668" font-size="15" font-weight="bold">Fire colours (view in the shade; all temperatures approximate)</text>
+<text x="646" y="668" font-size="13.5" fill="#c33" font-weight="bold" text-anchor="middle">welding heat</text>
+<g stroke="#333" stroke-width="1">
+<rect x="24" y="678" width="92" height="22" fill="#6e1b12"/>
+<rect x="120" y="678" width="92" height="22" fill="#9e2214"/>
+<rect x="216" y="678" width="92" height="22" fill="#c92a1a"/>
+<rect x="312" y="678" width="92" height="22" fill="#e8461f"/>
+<rect x="408" y="678" width="92" height="22" fill="#f39a2a"/>
+<rect x="504" y="678" width="92" height="22" fill="#f6cf3a"/>
+<rect x="600" y="678" width="92" height="22" fill="#fff6c8"/>
+</g>
+<rect x="597" y="675" width="98" height="81" rx="4" fill="none" stroke="#c33" stroke-width="2"/>
+<g font-size="13" text-anchor="middle">
+<text x="70" y="716">dark red</text><text x="166" y="716">blood red</text><text x="262" y="716">cherry red</text><text x="358" y="716">bright red</text><text x="454" y="716">orange-yellow</text><text x="550" y="716">yellow</text><text x="646" y="716" font-weight="bold">bright yellow</text><text x="646" y="731" font-weight="bold">to white</text>
+</g>
+<g font-size="12" text-anchor="middle" fill="#555">
+<text x="70" y="748">500-550°C</text><text x="166" y="748">650-700°C</text><text x="262" y="748">780-850°C</text><text x="358" y="748">850-950°C</text><text x="454" y="748">1000-1100°C</text><text x="550" y="748">about 1200°C</text><text x="646" y="748" fill="#c33">1250-1300°C</text>
+</g>
+</g>
+
+<!-- common failures -->
+<g transform="translate(0,118)">
+<rect x="10" y="754" width="344" height="248" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="24" y="780" font-size="16" font-weight="bold">Common failures</text>
+<g font-size="13.5">
+<text x="24" y="806"><tspan fill="#c33">✗</tspan> Not hot enough → does not stick;</text>
+<text x="40" y="824">comes apart at one blow</text>
+<text x="24" y="848"><tspan fill="#c33">✗</tspan> Scale or slag in the joint → slag</text>
+<text x="40" y="866">inclusions; cracks when bent</text>
+<text x="24" y="890"><tspan fill="#c33">✗</tspan> Sulphur in the fire (burning coal)</text>
+<text x="40" y="908">→ the iron goes brittle, welds badly</text>
+<text x="24" y="932"><tspan fill="#c33">✗</tspan> Working too slowly</text>
+</g>
+<g font-size="12.5" fill="#555">
+<text x="24" y="958">Suits wrought iron and mild steel; medium-</text>
+<text x="24" y="974">and high-carbon steel need a lower welding</text>
+<text x="24" y="990">heat; cast iron cannot be forge welded</text>
+</g>
+
+<!-- safety -->
+<rect x="366" y="754" width="344" height="248" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="380" y="780" font-size="16" font-weight="bold">Safety</text>
+<g font-size="13.5">
+<path d="M382,796 l5,6 l9,-11" fill="none" stroke="#2a8a3a" stroke-width="2.5"/>
+<text x="404" y="806">Wear goggles: scale flies off</text>
+<text x="404" y="824">when hammering</text>
+<path d="M382,838 l5,6 l9,-11" fill="none" stroke="#2a8a3a" stroke-width="2.5"/>
+<text x="404" y="848">Wear cotton, linen or leather</text>
+<text x="404" y="866">clothes and an apron, no synthetics</text>
+<text x="404" y="884">(sparks melt them onto your skin)</text>
+<path d="M382,898 l5,6 l9,-11" fill="none" stroke="#2a8a3a" stroke-width="2.5"/>
+<text x="404" y="908">Sparks fly several m: clear away</text>
+<text x="404" y="926">flammables; when finished, check</text>
+<text x="404" y="944">for smouldering sparks</text>
+<path d="M382,958 l5,6 l9,-11" fill="none" stroke="#2a8a3a" stroke-width="2.5"/>
+<text x="404" y="968">Do not touch the work with your</text>
+<text x="404" y="986">hands until it has cooled</text>
+</g>
+</g>
+</g>
+</svg>
