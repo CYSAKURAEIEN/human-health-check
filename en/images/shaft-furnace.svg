@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 894" width="720" height="894" role="img" aria-label="Simple shaft furnace in section: height 120-150 cm, walls 20-30 cm thick; inner diameter 30 cm at the top (charging mouth), 40 cm at the belly (widest point), narrowing to 25 cm at the bosh above the tuyere, 20 cm at the hearth below the tuyere; the tuyere is 20-30 cm above the furnace floor, a refractory clay pipe with an inner diameter of about 2-3 cm set in an 8-12 cm hole in the wall, sloping slightly down and reaching 3-5 cm into the furnace, with a gap between the pipe and the bellows; the slag hole and tap hole are at the front of the furnace floor, normally plugged with wet clay, with a lower sand pit dug in front of the furnace to catch the slag; a stone base raises the furnace 50 cm to keep out damp; charge from the top in batches, alternating 3-5 cm layers of charcoal and ore, with a small handful of limestone in each batch; the blue flames at the furnace mouth are carbon monoxide burning, so work only in the open or under a roof open on all four sides, standing upwind" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Simple shaft furnace in section</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="dimB" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,1 L10,5 L0,9 Z" fill="#0b5cad"/></marker>
+<clipPath id="wallClip"><rect x="96" y="100" width="208" height="361"/></clipPath>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Simple shaft furnace (section, roughly to scale)</text>
+
+<!-- ground and sand pit -->
+<rect x="0" y="591" width="720" height="35" fill="#ececec"/>
+<path d="M0,591 H384 M470,591 H720" stroke="#999" stroke-width="3"/>
+<path d="M384,591 Q388,618 427,618 Q466,618 470,591 Z" fill="#eadcb0" stroke="#999" stroke-width="2"/>
+<path d="M402,604 Q420,596 446,602 Q452,608 438,611 Q414,613 402,604 Z" fill="#5a2a1e"/>
+
+<!-- stone base -->
+<rect x="80" y="461" width="240" height="130" fill="#eee" stroke="#333" stroke-width="2"/>
+<g fill="#d6d6d6" stroke="#999" stroke-width="1.2">
+<rect x="83" y="464" width="44" height="21" rx="5"/><rect x="131" y="464" width="44" height="21" rx="5"/><rect x="179" y="464" width="44" height="21" rx="5"/><rect x="227" y="464" width="44" height="21" rx="5"/><rect x="275" y="464" width="42" height="21" rx="5"/>
+<rect x="83" y="490" width="20" height="21" rx="5"/><rect x="107" y="490" width="44" height="21" rx="5"/><rect x="155" y="490" width="44" height="21" rx="5"/><rect x="203" y="490" width="44" height="21" rx="5"/><rect x="251" y="490" width="44" height="21" rx="5"/><rect x="299" y="490" width="18" height="21" rx="5"/>
+<rect x="83" y="516" width="44" height="21" rx="5"/><rect x="131" y="516" width="44" height="21" rx="5"/><rect x="179" y="516" width="44" height="21" rx="5"/><rect x="227" y="516" width="44" height="21" rx="5"/><rect x="275" y="516" width="42" height="21" rx="5"/>
+<rect x="83" y="542" width="20" height="21" rx="5"/><rect x="107" y="542" width="44" height="21" rx="5"/><rect x="155" y="542" width="44" height="21" rx="5"/><rect x="203" y="542" width="44" height="21" rx="5"/><rect x="251" y="542" width="44" height="21" rx="5"/><rect x="299" y="542" width="18" height="21" rx="5"/>
+<rect x="83" y="567" width="44" height="21" rx="5"/><rect x="131" y="567" width="44" height="21" rx="5"/><rect x="179" y="567" width="44" height="21" rx="5"/><rect x="227" y="567" width="44" height="21" rx="5"/><rect x="275" y="567" width="42" height="21" rx="5"/>
+</g>
+<rect x="106" y="515" width="188" height="23" rx="4" fill="#fff" stroke="#999" stroke-width="1"/>
+<text x="200" y="532" font-size="14" text-anchor="middle">stone base (keeps out damp)</text>
+<path d="M60,461 H76 M60,591 H76" stroke="#0b5cad" stroke-width="1"/>
+<line x1="66" y1="463" x2="66" y2="589" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#dimB)" marker-end="url(#dimB)"/>
+<text x="56" y="522" font-size="13" fill="#0b5cad" text-anchor="end">raised</text>
+<text x="56" y="540" font-size="13" fill="#0b5cad" text-anchor="end" font-weight="bold">50 cm</text>
+
+<!-- furnace body: outer straw-clay, inner refractory clay -->
+<rect x="96" y="110" width="208" height="351" fill="#e2cfa6" stroke="#333" stroke-width="2.5"/>
+<path d="M148,461 L148,396 L141.5,396 L122,318 L122,292 L135,110 L265,110 L278,292 L278,318 L258.5,396 L252,396 L252,461 Z" fill="#efebe3" stroke="#a89f90" stroke-width="1.2"/>
+<!-- tuyere hole (through the wall) -->
+<g clip-path="url(#wallClip)"><rect x="70" y="385" width="108" height="26" fill="#7a6650" transform="rotate(10 178 398)"/></g>
+<!-- furnace interior -->
+<path d="M174,461 L174,396 L167.5,396 L148,318 L148,292 L161,110 L239,110 L252,292 L252,318 L232.5,396 L226,396 L226,461 Z" fill="#fffaf2" stroke="#333" stroke-width="2"/>
+<!-- slag hole / tap hole -->
+<rect x="226" y="447" width="78" height="14" fill="#8b6b4b" stroke="#333" stroke-width="1.5"/>
+<path d="M304,461 L392,590" stroke="#333" stroke-width="9" stroke-linecap="round"/>
+<path d="M304,461 L392,590" stroke="#b08d5a" stroke-width="5" stroke-linecap="round"/>
+
+<!-- tuyere pipe, bellows pipe -->
+<g transform="rotate(10 178 398)">
+<rect x="80" y="391" width="98" height="14" fill="#c9a27a" stroke="#333" stroke-width="1.5"/>
+<rect x="80" y="395.5" width="98" height="5" fill="#fff"/>
+<rect x="28" y="390" width="44" height="16" rx="2" fill="#9a9a9a" stroke="#333" stroke-width="1.5"/>
+<path d="M8,380 L60,380" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<path d="M182,398 L204,398" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+</g>
+
+<!-- flames at the mouth, charging arrow -->
+<path d="M168,110 Q166,98 174,90 Q174,100 180,104 Q182,94 190,86 Q190,100 196,106 Q200,96 206,92 Q206,102 212,104 Q216,96 222,94 Q220,104 228,110 Z" fill="#a9cdf2" stroke="#3b6fc0" stroke-width="1.5"/>
+<path d="M234,46 L234,100" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<text x="244" y="62" font-size="14" font-weight="bold" fill="#c33">charge from the top in batches (see right)</text>
+<text x="12" y="64" font-size="13" fill="#3b6fc0">blue flames at the</text>
+<text x="12" y="80" font-size="13" fill="#3b6fc0">mouth = carbon</text>
+<text x="12" y="96" font-size="13" fill="#3b6fc0">monoxide burning</text>
+<line x1="124" y1="92" x2="170" y2="98" stroke="#3b6fc0" stroke-width="1"/>
+<text x="200" y="214" font-size="15" fill="#888" text-anchor="middle">shaft</text>
+
+<!-- dimensions -->
+<g stroke="#0b5cad" stroke-width="1.5">
+<line x1="163" y1="120" x2="237" y2="120" marker-start="url(#dimB)" marker-end="url(#dimB)"/>
+<line x1="248" y1="200" x2="302" y2="200" marker-start="url(#dimB)" marker-end="url(#dimB)"/>
+<line x1="150" y1="305" x2="250" y2="305" marker-start="url(#dimB)" marker-end="url(#dimB)"/>
+<line x1="168" y1="389" x2="232" y2="389" marker-start="url(#dimB)" marker-end="url(#dimB)"/>
+<line x1="176" y1="432" x2="224" y2="432" marker-start="url(#dimB)" marker-end="url(#dimB)"/>
+<line x1="322" y1="112" x2="322" y2="459" marker-start="url(#dimB)" marker-end="url(#dimB)"/>
+</g>
+<g stroke="#0b5cad" stroke-width="1" stroke-dasharray="3 3">
+<path d="M239,120 H336 M304,200 H336 M252,305 H336 M234,389 H336 M226,432 H336"/>
+</g>
+<path d="M304,110 H330 M320,461 H330" stroke="#0b5cad" stroke-width="1"/>
+<g font-size="14" fill="#0b5cad">
+<text x="340" y="125">top (charging mouth) <tspan font-weight="bold">30 cm</tspan></text>
+<text x="340" y="205">wall <tspan font-weight="bold">20-30 cm</tspan> thick</text>
+<text x="340" y="262">height</text>
+<text x="340" y="280" font-weight="bold">120-150 cm</text>
+<text x="340" y="310">belly (widest) <tspan font-weight="bold">40 cm</tspan></text>
+<text x="340" y="394">bosh (narrowing) <tspan font-weight="bold">25 cm</tspan></text>
+<text x="340" y="437">hearth (below tuyere) <tspan font-weight="bold">20 cm</tspan></text>
+</g>
+
+<!-- tuyere labels -->
+<text x="12" y="300" font-size="15" font-weight="bold">Tuyere</text>
+<text x="12" y="319" font-size="13">above floor</text>
+<text x="12" y="337" font-size="13" fill="#0b5cad" font-weight="bold">20-30 cm</text>
+<line x1="74" y1="341" x2="100" y2="380" stroke="#555" stroke-width="1"/>
+<text x="14" y="402" font-size="12" fill="#555">to bellows</text>
+<text x="12" y="431" font-size="12" fill="#555">gap between</text>
+<text x="12" y="444" font-size="12" fill="#555">pipe and</text>
+<text x="12" y="457" font-size="12" fill="#555">bellows</text>
+<line x1="50" y1="417" x2="77" y2="388" stroke="#555" stroke-width="1"/>
+
+<!-- slag hole and sand pit labels -->
+<text x="352" y="478" font-size="14" font-weight="bold">slag hole / tap hole</text>
+<text x="352" y="496" font-size="13" fill="#555">(front of the furnace floor),</text>
+<text x="352" y="512" font-size="13" fill="#555">normally plugged with wet clay</text>
+<line x1="348" y1="474" x2="300" y2="454" stroke="#555" stroke-width="1"/>
+<text x="478" y="612" font-size="13" fill="#555">lower sand pit in front to catch slag</text>
+
+<!-- charging -->
+<rect x="566" y="96" width="146" height="404" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="576" y="120" font-size="14" font-weight="bold">Charging (batches)</text>
+<g stroke="#333" stroke-width="0.8">
+<rect x="580" y="140" width="36" height="12" fill="#3a3a3a"/><rect x="580" y="152" width="36" height="10" fill="#a0522d"/>
+<rect x="580" y="162" width="36" height="12" fill="#3a3a3a"/><rect x="580" y="174" width="36" height="10" fill="#a0522d"/>
+<rect x="580" y="184" width="36" height="12" fill="#3a3a3a"/><rect x="580" y="196" width="36" height="10" fill="#a0522d"/>
+<rect x="580" y="206" width="36" height="12" fill="#3a3a3a"/><rect x="580" y="218" width="36" height="10" fill="#a0522d"/>
+<rect x="580" y="228" width="36" height="12" fill="#3a3a3a"/><rect x="580" y="240" width="36" height="10" fill="#a0522d"/>
+<rect x="580" y="250" width="36" height="12" fill="#3a3a3a"/><rect x="580" y="262" width="36" height="10" fill="#a0522d"/>
+<rect x="580" y="272" width="36" height="12" fill="#3a3a3a"/><rect x="580" y="284" width="36" height="10" fill="#a0522d"/>
+<rect x="580" y="294" width="36" height="12" fill="#3a3a3a"/><rect x="580" y="306" width="36" height="10" fill="#a0522d"/>
+</g>
+<g fill="#fff" stroke="#777" stroke-width="0.6">
+<circle cx="588" cy="157" r="2"/><circle cx="607" cy="156" r="2"/><circle cx="596" cy="179" r="2"/><circle cx="610" cy="200" r="2"/><circle cx="590" cy="202" r="2"/><circle cx="600" cy="223" r="2"/><circle cx="586" cy="245" r="2"/><circle cx="609" cy="244" r="2"/><circle cx="597" cy="267" r="2"/><circle cx="590" cy="289" r="2"/><circle cx="608" cy="290" r="2"/><circle cx="598" cy="311" r="2"/>
+</g>
+<g font-size="13">
+<text x="626" y="150">charcoal</text><text x="626" y="166" fill="#0b5cad">3-5 cm</text>
+<line x1="624" y1="146" x2="617" y2="146" stroke="#555" stroke-width="1"/>
+<text x="626" y="188">ore</text><text x="626" y="204" fill="#0b5cad">3-5 cm</text>
+<line x1="624" y1="184" x2="617" y2="180" stroke="#555" stroke-width="1"/>
+<text x="626" y="230">limestone</text><text x="626" y="246">1 small</text><text x="626" y="262">handful</text>
+<line x1="624" y1="226" x2="611" y2="244" stroke="#555" stroke-width="1"/>
+</g>
+<g font-size="13" fill="#444">
+<text x="576" y="340">Alternate charcoal</text>
+<text x="576" y="356">and ore, slightly</text>
+<text x="576" y="372">more charcoal</text>
+<text x="576" y="392">Blow 5 minutes</text>
+<text x="576" y="408">after each batch</text>
+<text x="576" y="428">8-10 batches fill</text>
+<text x="576" y="444">the shaft</text>
+<text x="576" y="464">Top up as much as</text>
+<text x="576" y="480">the charge sinks</text>
+</g>
+
+<!-- legend and tuyere note -->
+<rect x="14" y="640" width="22" height="14" fill="#efebe3" stroke="#a89f90" stroke-width="1.2"/>
+<text x="44" y="652" font-size="14">inner layer of refractory clay, about 10 cm</text>
+<rect x="14" y="662" width="22" height="14" fill="#e2cfa6" stroke="#333" stroke-width="1.2"/>
+<text x="44" y="674" font-size="14">outer layer of ordinary straw-clay and stones, built thick for insulation</text>
+<text x="14" y="702" font-size="14">Tuyere: a refractory clay pipe (inner diameter about 2-3 cm) set in an 8-12 cm hole in the wall,</text>
+<text x="14" y="720" font-size="14">sloping slightly down and reaching 3-5 cm into the furnace</text>
+
+<!-- safety -->
+<rect x="10" y="734" width="700" height="150" rx="6" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<text x="24" y="758" font-size="15" font-weight="bold" fill="#c33">⚠ High heat: bloomery 1100-1300°C, molten iron 1300-1400°C</text>
+<text x="40" y="780" font-size="14">Molten iron and slag explode and spatter on contact with damp sand, tools, ground or rain</text>
+<text x="40" y="798" font-size="14">→ dry everything they will touch first</text>
+<text x="24" y="826" font-size="15" font-weight="bold" fill="#c33">⚠ Carbon monoxide: the blue flames at the furnace mouth are CO burning</text>
+<text x="40" y="848" font-size="14">Work only in the open or under a roof open on all four sides; stand upwind; stand to the side</text>
+<text x="40" y="866" font-size="14">of the mouth when charging; no firewood or straw within 3 m of the furnace</text>
+</g>
+</svg>

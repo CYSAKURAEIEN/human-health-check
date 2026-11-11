@@ -1,0 +1,236 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1306" width="720" height="1306" role="img" aria-label="Sand casting (two-part mould): 1 make a pattern of wood, wax, foam or an old part, enlarged for shrinkage (about 1.3% for aluminium), with 1-3° of draft on the sides, and complex ones in two halves; 2 put the drag on a flat board with half the pattern flat face down, dust on parting powder, fill with sand rammed in layers, strike off and turn it over; 3 put on the other half of the pattern and the cope, set the sprue pin and riser pin, fill with sand and ram, and pierce vents with fine wire (not into the pattern); 4 pull the pins, part the flasks, lift out the pattern, cut the channels and close the mould: the pouring basin, a sprue wider at the top and narrower below with a small well at the bottom, the runner, and the ingate entering the cavity from the side at a fairly low point; the riser sits above the thickest part of the casting; locating pins line up the cope and drag; weight the cope; stand the mould on dry sandy ground; 5 pour continuously, quickly and steadily, keeping the pouring basin full, until molten metal appears in the riser; 6 once cool, knock out, saw off the sprue and riser, clean up and grind. Safety: molten metal meeting water explodes; moulding sand must not be too wet, tools and charge must be preheated and dried, never pour on a concrete floor, and cover spilt metal with dry sand, never water; wear a face shield, leather gloves, a leather apron and high-topped leather boots, and cotton, wool or leather, not synthetics" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>The basic sand-casting process</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<pattern id="sand" width="14" height="14" patternUnits="userSpaceOnUse"><rect width="14" height="14" fill="#ecdcb4"/><circle cx="3" cy="4" r="1" fill="#c4a878"/><circle cx="10" cy="9" r="1" fill="#c4a878"/><circle cx="6" cy="12" r="0.8" fill="#c4a878"/></pattern>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Sand casting (two-part mould): the basic process</text>
+
+<!-- 1 make the pattern -->
+<rect x="8" y="44" width="228" height="300" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="66" font-size="15" font-weight="bold">① Make the pattern</text>
+<path d="M62,150 H232" stroke="#0b5cad" stroke-width="1.5" stroke-dasharray="5 3"/>
+<path d="M70,150 L72,136 H176 L178,120 H220 L222,150 L220,180 H178 L176,164 H72 Z" fill="#e2cfa6" stroke="#333" stroke-width="2"/>
+<path d="M70,150 H222" stroke="#0b5cad" stroke-width="1.5" stroke-dasharray="5 3"/>
+<text x="14" y="146" font-size="13" fill="#0b5cad">parting</text>
+<text x="14" y="161" font-size="13" fill="#0b5cad">line</text>
+<text x="100" y="112" font-size="13" fill="#555">pattern (wood)</text>
+<g font-size="13">
+<text x="18" y="206">Materials: wood, wax, foam,</text>
+<text x="18" y="224">old parts. Make it slightly</text>
+<text x="18" y="242">larger for shrinkage (about</text>
+<text x="18" y="260">1.3% for aluminium). Give the</text>
+<text x="18" y="278">sides 1-3° of draft so it lifts</text>
+<text x="18" y="296">out; make complex ones in two</text>
+<text x="18" y="314">halves (split pattern)</text>
+</g>
+
+<!-- 2 mould the drag -->
+<rect x="244" y="44" width="228" height="300" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="254" y="66" font-size="15" font-weight="bold">② Mould the drag</text>
+<rect x="282" y="130" width="156" height="66" fill="url(#sand)"/>
+<path d="M300,196 V187 H387 V177 H421 V196 Z" fill="#e2cfa6" stroke="#333" stroke-width="1.5"/>
+<rect x="272" y="130" width="10" height="66" fill="#c9a27a" stroke="#333" stroke-width="1.5"/>
+<rect x="438" y="130" width="10" height="66" fill="#c9a27a" stroke="#333" stroke-width="1.5"/>
+<rect x="260" y="196" width="200" height="8" fill="#c9a27a" stroke="#333" stroke-width="1.5"/>
+<text x="262" y="218" font-size="12" fill="#555">board</text>
+<line x1="360" y1="78" x2="360" y2="114" stroke="#8b6b4b" stroke-width="4"/>
+<rect x="346" y="114" width="28" height="9" rx="2" fill="#c9a27a" stroke="#333" stroke-width="1.5"/>
+<path d="M388,84 V114" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="396" y="104" font-size="12" fill="#555">ram</text>
+<text x="258" y="98" font-size="12" fill="#555">drag (no bottom)</text>
+<g font-size="13">
+<text x="254" y="242">Put the drag on the board, half</text>
+<text x="254" y="260">the pattern flat face down; dust</text>
+<text x="254" y="278">on parting powder, fill with sand</text>
+<text x="254" y="296">and ram it in layers; strike off</text>
+<text x="254" y="314">and turn it over</text>
+</g>
+
+<!-- 3 make the cope -->
+<rect x="480" y="44" width="232" height="300" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="490" y="66" font-size="15" font-weight="bold">③ Make the cope</text>
+<rect x="508" y="108" width="176" height="98" fill="url(#sand)"/>
+<path d="M508,156 H684" stroke="#0b5cad" stroke-width="1.5" stroke-dasharray="5 3"/>
+<path d="M548,147 H635 V137 H669 V175 H635 V165 H548 Z" fill="#e2cfa6" stroke="#333" stroke-width="1.5"/>
+<path d="M514,92 H530 L526,156 H518 Z" fill="#c9a27a" stroke="#333" stroke-width="1.5"/>
+<rect x="632" y="92" width="40" height="45" fill="#c9a27a" stroke="#333" stroke-width="1.5"/>
+<path d="M570,108 V140 M594,108 V140 M618,108 V140" stroke="#555" stroke-width="1.5"/>
+<rect x="498" y="108" width="10" height="48" fill="#c9a27a" stroke="#333" stroke-width="1.5"/>
+<rect x="684" y="108" width="10" height="48" fill="#c9a27a" stroke="#333" stroke-width="1.5"/>
+<rect x="498" y="156" width="10" height="50" fill="#c9a27a" stroke="#333" stroke-width="1.5"/>
+<rect x="684" y="156" width="10" height="50" fill="#c9a27a" stroke="#333" stroke-width="1.5"/>
+<rect x="490" y="206" width="212" height="8" fill="#c9a27a" stroke="#333" stroke-width="1.5"/>
+<text x="522" y="86" font-size="12" fill="#555" text-anchor="middle">sprue pin</text>
+<text x="652" y="86" font-size="12" fill="#555" text-anchor="middle">riser pin</text>
+<text x="594" y="102" font-size="12" fill="#555" text-anchor="middle">vents</text>
+<g font-size="13">
+<text x="490" y="236">Put on the other half of the</text>
+<text x="490" y="254">pattern and the cope; dust on</text>
+<text x="490" y="272">parting powder. Set the sprue</text>
+<text x="490" y="290">pin and riser pin, fill with sand</text>
+<text x="490" y="308">and ram. Pierce vents with fine</text>
+<text x="490" y="326">wire (not into the pattern)</text>
+</g>
+
+<!-- 4 closed mould in section -->
+<g transform="translate(0,66)">
+<rect x="8" y="288" width="704" height="398" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="312" font-size="15" font-weight="bold">④ Pull the pins, part the flasks and lift out the pattern; cut the channel to the cavity,</text>
+<text x="40" y="330" font-size="15" font-weight="bold">blow out loose sand and close the mould (section)</text>
+<g transform="translate(0,26)">
+<!-- dry sandy ground -->
+<rect x="10" y="540" width="462" height="14" fill="url(#sand)"/>
+<path d="M10,540 H472" stroke="#999" stroke-width="3"/>
+<text x="480" y="548" font-size="14" font-weight="bold">dry sandy ground</text>
+<text x="480" y="566" font-size="14" font-weight="bold">(not concrete)</text>
+<!-- moulding sand -->
+<rect x="50" y="360" width="380" height="180" fill="url(#sand)"/>
+<path d="M20,450 H472" stroke="#0b5cad" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="480" y="467" font-size="14" fill="#0b5cad" font-weight="bold">parting line</text>
+<!-- cavity and gating system (empty) -->
+<path d="M92,360 L112,378 L118,476 H134 V468 H180 V464 H344 V480 H396 V420 H402 V360 H338 V420 H344 V436 H210 V452 H180 V450 H130 L136,378 L156,360 Z" fill="#fff"/>
+<path d="M92,360 L112,378 L118,476 H134 V468 H180 V464 H344 V480 H396 V420 H402 V360 M338,360 V420 H344 V436 H210 V452 H180 V450 H130 L136,378 L156,360" fill="none" stroke="#333" stroke-width="1.8"/>
+<text x="277" y="455" font-size="13" text-anchor="middle">cavity (casting)</text>
+<!-- vents -->
+<path d="M244,360 V426 M276,360 V426 M308,360 V426" stroke="#555" stroke-width="1.5"/>
+<!-- flasks -->
+<rect x="40" y="360" width="10" height="90" fill="#c9a27a" stroke="#333" stroke-width="1.5"/>
+<rect x="430" y="360" width="10" height="90" fill="#c9a27a" stroke="#333" stroke-width="1.5"/>
+<rect x="40" y="450" width="10" height="90" fill="#c9a27a" stroke="#333" stroke-width="1.5"/>
+<rect x="430" y="450" width="10" height="90" fill="#c9a27a" stroke="#333" stroke-width="1.5"/>
+<rect x="22" y="438" width="18" height="12" fill="#c9a27a" stroke="#333" stroke-width="1.5"/>
+<rect x="22" y="450" width="18" height="12" fill="#c9a27a" stroke="#333" stroke-width="1.5"/>
+<rect x="440" y="438" width="18" height="12" fill="#c9a27a" stroke="#333" stroke-width="1.5"/>
+<rect x="440" y="450" width="18" height="12" fill="#c9a27a" stroke="#333" stroke-width="1.5"/>
+<rect x="28" y="430" width="6" height="40" fill="#777" stroke="#333" stroke-width="1"/>
+<rect x="446" y="430" width="6" height="40" fill="#777" stroke="#333" stroke-width="1"/>
+<!-- weight -->
+<rect x="172" y="336" width="52" height="24" fill="#999" stroke="#333" stroke-width="1.5"/>
+<text x="198" y="353" font-size="13" text-anchor="middle" fill="#fff" font-weight="bold">weight</text>
+<!-- top labels -->
+<text x="124" y="338" font-size="13" text-anchor="middle">pouring basin</text>
+<text x="124" y="352" font-size="13" text-anchor="middle">(funnel)</text>
+<text x="276" y="352" font-size="13" text-anchor="middle">vents</text>
+<text x="370" y="352" font-size="13" text-anchor="middle" font-weight="bold">riser</text>
+<!-- labels on the left and inside the flasks -->
+<g font-size="13">
+<rect x="54" y="370" width="36" height="18" fill="#fff" opacity="0.85"/>
+<text x="57" y="384">cope</text>
+<rect x="54" y="514" width="36" height="18" fill="#fff" opacity="0.85"/>
+<text x="57" y="528">drag</text>
+<rect x="54" y="400" width="44" height="18" fill="#fff" opacity="0.85"/>
+<text x="57" y="414">sprue</text>
+<line x1="98" y1="410" x2="114" y2="410" stroke="#555" stroke-width="1"/>
+<rect x="54" y="476" width="34" height="18" fill="#fff" opacity="0.85"/>
+<text x="58" y="490">well</text>
+<line x1="88" y1="484" x2="118" y2="474" stroke="#555" stroke-width="1"/>
+<rect x="134" y="494" width="48" height="18" fill="#fff" opacity="0.85"/>
+<text x="137" y="508">runner</text>
+<line x1="158" y1="494" x2="158" y2="468" stroke="#555" stroke-width="1"/>
+<rect x="190" y="494" width="46" height="18" fill="#fff" opacity="0.85"/>
+<text x="193" y="508">ingate</text>
+<line x1="198" y1="494" x2="196" y2="464" stroke="#555" stroke-width="1"/>
+</g>
+<!-- notes on the right -->
+<line x1="478" y1="372" x2="402" y2="384" stroke="#555" stroke-width="1"/>
+<g font-size="13.5">
+<text x="480" y="376"><tspan font-weight="bold">Riser</tspan>: thicker than the part it</text>
+<text x="480" y="393">feeds; set above the thickest</text>
+<text x="480" y="410">part of the casting, which</text>
+<text x="480" y="427">solidifies last; it feeds molten</text>
+<text x="480" y="444">metal as the casting shrinks</text>
+<text x="480" y="490"><tspan font-weight="bold">Locating pins</tspan>: line up the</text>
+<text x="480" y="507">cope and drag, prevent shift</text>
+</g>
+<line x1="478" y1="486" x2="452" y2="466" stroke="#555" stroke-width="1"/>
+<!-- notes below -->
+<g font-size="13.5">
+<text x="22" y="594">• The sprue is wider at the top and narrower below, with a small well at the bottom to absorb the impact</text>
+<text x="22" y="614">• The ingate leads the metal smoothly into the cavity from the side at a fairly low point, not jetting at the sand</text>
+<text x="22" y="634">• Vents let out the air in the cavity and the gas from the moulding sand; weight or clamp the cope so the</text>
+<text x="34" y="652">molten metal does not lift it</text>
+</g>
+</g>
+</g>
+
+<!-- 5 pouring -->
+<g transform="translate(0,112)">
+<rect x="8" y="648" width="348" height="290" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="672" font-size="15" font-weight="bold">⑤ Pouring</text>
+<rect x="18" y="816" width="328" height="10" fill="url(#sand)"/>
+<path d="M18,816 H346" stroke="#999" stroke-width="3"/>
+<rect x="150" y="756" width="160" height="60" fill="url(#sand)" stroke="#333" stroke-width="1.5"/>
+<path d="M150,786 H310" stroke="#0b5cad" stroke-width="1.2" stroke-dasharray="5 3"/>
+<rect x="214" y="738" width="36" height="18" fill="#999" stroke="#333" stroke-width="1.2"/>
+<path d="M172,756 L182,768 H190 L200,756 Z" fill="#f08a2a" stroke="#333" stroke-width="1.2"/>
+<path d="M268,756 V770 H292 V756" fill="#f08a2a" stroke="#333" stroke-width="1.2"/>
+<ellipse cx="280" cy="755" rx="13" ry="4" fill="#ffb347" stroke="#c33" stroke-width="1"/>
+<path d="M168,744 Q184,744 186,760" fill="none" stroke="#f08a2a" stroke-width="5" stroke-linecap="round"/>
+<g transform="translate(150,718) rotate(110)">
+<path d="M-18,-25 L18,-25 L14,22 Q0,28 -14,22 Z" fill="#b5835a" stroke="#333" stroke-width="2"/>
+<rect x="-20" y="-3" width="40" height="6" fill="#555"/>
+</g>
+<path d="M132,712 L30,698" stroke="#555" stroke-width="4" stroke-linecap="round"/>
+<text x="30" y="690" font-size="12" fill="#555">crucible tongs</text>
+<text x="88" y="764" font-size="12" fill="#555">crucible</text>
+<text x="222" y="698" font-size="13" fill="#c33" font-weight="bold">stop when metal</text>
+<text x="222" y="715" font-size="13" fill="#c33" font-weight="bold">shows in the riser</text>
+<line x1="262" y1="720" x2="278" y2="750" stroke="#c33" stroke-width="1"/>
+<text x="156" y="808" font-size="12" fill="#555">mould (cope weighted)</text>
+<g font-size="13">
+<text x="18" y="846">Stand the mould on dry sandy ground; bring</text>
+<text x="18" y="864">the crucible lip close to the pouring basin;</text>
+<text x="18" y="882">pour continuously, quickly and steadily,</text>
+<text x="18" y="900">keeping the basin full, never stopping part-</text>
+<text x="18" y="918">way; with two people, agree calls and moves first</text>
+</g>
+
+<!-- 6 knock out and clean up -->
+<rect x="364" y="648" width="348" height="290" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="374" y="672" font-size="15" font-weight="bold">⑥ Knock out and clean up</text>
+<rect x="374" y="816" width="328" height="10" fill="url(#sand)"/>
+<path d="M374,816 H702" stroke="#999" stroke-width="3"/>
+<path d="M378,816 L386,802 L398,800 L404,816 Z M660,816 L668,804 L684,806 L690,816 Z" fill="#ecdcb4" stroke="#999" stroke-width="1.2"/>
+<g transform="translate(326.4,431.2) scale(0.8)">
+<path d="M92,360 L112,378 L118,476 H134 V468 H180 V464 H344 V480 H396 V420 H402 V360 H338 V420 H344 V436 H210 V452 H180 V450 H130 L136,378 L156,360 Z" fill="#9a9a9a" stroke="#333" stroke-width="2.2" stroke-linejoin="round"/>
+</g>
+<path d="M490,780 V810" stroke="#c33" stroke-width="2.5" stroke-dasharray="5 3"/>
+<path d="M588,767 H658" stroke="#c33" stroke-width="2.5" stroke-dasharray="5 3"/>
+<text x="440" y="752" font-size="13" fill="#c33" font-weight="bold">saw off sprue</text>
+<line x1="486" y1="762" x2="490" y2="778" stroke="#c33" stroke-width="1"/>
+<text x="652" y="740" font-size="13" fill="#c33" font-weight="bold">saw off</text>
+<text x="652" y="756" font-size="13" fill="#c33" font-weight="bold">riser</text>
+<text x="520" y="800" font-size="12" fill="#fff" font-weight="bold">casting</text>
+<g font-size="13">
+<text x="374" y="846">Once cool, open the flasks and knock off</text>
+<text x="374" y="864">the sand; saw off the sprue and riser; file</text>
+<text x="374" y="882">and grind off fins and stuck sand;</text>
+<text x="374" y="900">let iron castings cool until dark before</text>
+<text x="374" y="918">knocking out</text>
+</g>
+</g>
+
+<!-- safety -->
+<g transform="translate(0,164)">
+<rect x="8" y="896" width="704" height="236" rx="6" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<text x="22" y="920" font-size="15" font-weight="bold" fill="#c33">⚠ The biggest danger in casting: molten metal meeting water explodes</text>
+<text x="40" y="938" font-size="15" font-weight="bold" fill="#c33">(a steam explosion throws molten metal everywhere)</text>
+<g font-size="13.5">
+<text x="36" y="960">→ Moulding sand must not be too wet: if it sticks to your hand or leaves damp marks when</text>
+<text x="50" y="977">squeezed, it is too wet and may explode during pouring</text>
+<text x="36" y="997">→ Preheat and dry the crucible, tongs, skimming ladle and any metal added; keep the charge</text>
+<text x="50" y="1014">dry, with no sealed parts mixed in</text>
+<text x="36" y="1034">→ Never pour on a concrete floor; work on a thick layer of dry sand; cover spilt molten metal</text>
+<text x="50" y="1051">with dry sand, never water</text>
+</g>
+<text x="22" y="1077" font-size="15" font-weight="bold" fill="#c33">⚠ Protection: face shield, leather gloves, leather apron, high-topped leather boots</text>
+<g font-size="13.5">
+<text x="36" y="1097">(trouser legs over the boots, not tucked in) → wear cotton, wool or leather (synthetics melt onto skin)</text>
+<text x="36" y="1117">→ Before pouring, check the crucible for cracks and try the tongs; keep the route clear, others away</text>
+</g>
+</g>
+</g>
+</svg>

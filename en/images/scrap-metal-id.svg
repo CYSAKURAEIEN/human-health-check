@@ -1,0 +1,294 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1510" width="720" height="1510" role="img" aria-label="Identifying scrap metal. 1 Magnet: steel, iron and cast iron (and some stainless steels) stick firmly; aluminium, copper, brass, lead, zinc and most stainless steels do not stick. 2 Colour: red is copper, golden yellow is brass (copper and zinc), dull gold or brown is bronze (copper and tin); weight in the hand: very light is aluminium (about 2.7 g/cm³) or the even lighter magnesium (about 1.7 g/cm³); very heavy and soft, marked by a fingernail, is lead (about 11.3 g/cm³). 3 File: if the file will not bite and skids it is hardened steel; if it cuts easily it is mild steel, wrought iron, cast iron or a non-ferrous metal; a clear ring when tapped means steel, a dull sound cast iron or lead; for steel of unknown origin, cut off a small piece, heat it to cherry red and quench in water; if a file will not bite, it is high in carbon and good for cutting tools; if the file bites, it is mild steel. 4 Spark testing (on a grinding wheel or with a coarse file): mild steel (reinforcing bar, iron sheet) gives long straw-yellow streams with very few forks; medium-carbon steel (shafts, gears) fairly long streams with clearly more forks; high-carbon steel (files, springs) shorter streams with many dense forks like clusters of little stars; cast iron short streams, dark red to orange, with a few small forks at the ends; stainless steel fairly short orange-yellow streams with few forks; aluminium, copper, brass and lead almost no sparks; the more the sparks burst, the higher the carbon; compare against a known steel. 5 Metals in a car: the battery is lead with sulphuric acid, not recommended to recycle yourself; the engine block is grey cast iron, pistons and cylinder heads aluminium; brake discs and drums are grey cast iron and cannot be forged; wheel rims are mostly aluminium, some magnesium alloy; the body is mild steel sheet; leaf and coil springs are spring steel (about 0.6% carbon) for knives, axes and chisels; shock absorbers and gas springs contain high-pressure gas and oil, never heat or cut them; leftover petrol vapour in the fuel tank explodes; drive shafts and half-shafts are medium-carbon alloy steel for hammer heads and crowbars. 6 Other sources: files (about 1.2% carbon), bearings (about 1% carbon, with chromium) and rails (about 0.7% carbon, cut a length for an anvil) are good steel; reinforcing bar is mild steel, wire rope is high-carbon steel wire; copper comes from electric wire and cable, motor and transformer windings and water pipes; brass from taps, valves, pipe fittings and cartridge cases; aluminium from window and door frames, cookware and drink cans; lead from wheel balance weights, old water pipes and cable sheaths. Dangers: never heat or cut gas cylinders, fire extinguishers, aerosol cans, lighters, shock absorbers, gas springs, sealed pipes and hollow parts or fuel tanks; galvanised parts give off zinc fumes when heated, causing metal fume fever, so grind the coating off or soak in vinegar for a day or two first; lead and cadmium are poisonous and old brake pads may contain asbestos; burning magnesium alloy gets fiercer with water and cannot be put out with water; damp scrap put into molten metal causes a steam explosion; capacitors, batteries and lithium batteries may discharge, leak acid or catch fire; do not burn the insulation off copper wire; work outdoors in a ventilated place, standing upwind" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Identifying scrap metal</title>
+<defs>
+<g id="mag">
+<path d="M-15,40 V12 Q-15,-4 0,-4 Q15,-4 15,12 V40 H6 V12 Q6,5 0,5 Q-6,5 -6,12 V40 Z" fill="#c33" stroke="#333" stroke-width="1.5"/>
+<rect x="-15" y="32" width="9" height="8" fill="#ddd" stroke="#333" stroke-width="1"/>
+<rect x="6" y="32" width="9" height="8" fill="#ddd" stroke="#333" stroke-width="1"/>
+</g>
+<g id="star" stroke-width="1.3" stroke-linecap="round">
+<path d="M0,0 L5,-5 M0,0 L6,0 M0,0 L5,5 M0,0 L0,-6 M0,0 L0,6 M0,0 L-4,-4 M0,0 L-4,4"/>
+</g>
+<g id="fork" stroke-width="1.2" stroke-linecap="round">
+<path d="M0,0 L6,-4 M0,0 L6,4"/>
+</g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Identifying scrap metal: identify first, then dismantle, then melt</text>
+
+<!-- 1 magnet -->
+<rect x="8" y="44" width="228" height="364" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="66" font-size="15" font-weight="bold">① Magnet</text>
+<use href="#mag" x="66" y="84"/>
+<rect x="36" y="124" width="60" height="22" fill="#8a8f96" stroke="#333" stroke-width="1.5"/>
+<text x="66" y="164" font-size="12" text-anchor="middle" fill="#c33" font-weight="bold">sticks firmly</text>
+<use href="#mag" x="176" y="80"/>
+<rect x="146" y="132" width="60" height="22" fill="#e3e7eb" stroke="#333" stroke-width="1.5"/>
+<path d="M164,122 L188,130 M188,122 L164,130" stroke="#999" stroke-width="1.5"/>
+<text x="176" y="172" font-size="12" text-anchor="middle" fill="#555" font-weight="bold">does not stick</text>
+<g font-size="13">
+<text x="18" y="200" font-weight="bold" fill="#c33">Sticks firmly:</text>
+<text x="18" y="220">steel, iron, cast iron</text>
+<text x="18" y="238">(and some stainless steels)</text>
+<text x="18" y="266" font-weight="bold" fill="#555">Does not stick:</text>
+<text x="18" y="286">aluminium, copper, brass,</text>
+<text x="18" y="304">lead, zinc, most stainless</text>
+<text x="18" y="322">steels</text>
+</g>
+
+<!-- 2 colour and weight -->
+<rect x="246" y="44" width="228" height="364" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="256" y="66" font-size="15" font-weight="bold">② Colour and weight</text>
+<g stroke="#333" stroke-width="1.2">
+<rect x="256" y="78" width="22" height="16" rx="2" fill="#c8643c"/>
+<rect x="256" y="102" width="22" height="16" rx="2" fill="#dcb43c"/>
+<rect x="256" y="138" width="22" height="16" rx="2" fill="#8c6b3a"/>
+</g>
+<g font-size="13">
+<text x="286" y="91">red → copper</text>
+<text x="286" y="115">golden yellow → brass</text>
+<text x="286" y="130" font-size="12" fill="#555">(copper + zinc)</text>
+<text x="286" y="151">dull gold, brown → bronze</text>
+<text x="286" y="166" font-size="12" fill="#555">(copper + tin)</text>
+<text x="256" y="192" font-weight="bold">Weight in the hand:</text>
+<text x="256" y="210">very light → aluminium (about</text>
+<text x="256" y="226">2.7 g/cm³) or the even lighter</text>
+<text x="256" y="242">magnesium (about 1.7 g/cm³;</text>
+<text x="256" y="258">the same size weighs about 2/3</text>
+<text x="256" y="274">as much as aluminium)</text>
+<text x="256" y="296">very heavy, soft, a fingernail</text>
+<text x="256" y="312">leaves a mark</text>
+<text x="256" y="328">→ lead (about 11.3 g/cm³)</text>
+</g>
+<text x="256" y="354" font-size="12" fill="#c33">⚠ Can't tell magnesium from</text>
+<text x="256" y="369" font-size="12" fill="#c33">aluminium? Don't melt it</text>
+<text x="256" y="384" font-size="12" fill="#c33">together with aluminium</text>
+
+<!-- 3 file and tap -->
+<rect x="484" y="44" width="228" height="364" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="494" y="66" font-size="15" font-weight="bold">③ File and tap</text>
+<!-- file icon -->
+<g transform="translate(616,64) rotate(-10)">
+<rect x="0" y="0" width="56" height="10" fill="#bbb" stroke="#333" stroke-width="1.2"/>
+<path d="M6,0 L2,10 M12,0 L8,10 M18,0 L14,10 M24,0 L20,10 M30,0 L26,10 M36,0 L32,10 M42,0 L38,10 M48,0 L44,10 M54,0 L50,10" stroke="#666" stroke-width="1"/>
+<rect x="56" y="1" width="20" height="8" rx="3" fill="#a0704a" stroke="#333" stroke-width="1.2"/>
+</g>
+<g font-size="13">
+<text x="494" y="96" font-weight="bold">File test:</text>
+<text x="494" y="114">won't bite, skids</text>
+<text x="494" y="130">→ hardened steel (hard)</text>
+<text x="494" y="150">cuts easily → mild steel,</text>
+<text x="494" y="166">wrought iron, cast iron,</text>
+<text x="494" y="182">non-ferrous metals</text>
+<text x="494" y="208" font-weight="bold">Tap and listen:</text>
+<text x="494" y="226">clear ring → steel</text>
+<text x="494" y="242">dull sound → cast iron, lead</text>
+<text x="494" y="270" font-weight="bold" fill="#0b5cad">Steel of unknown origin:</text>
+<text x="494" y="288" fill="#0b5cad">cut off a small piece, heat it to</text>
+<text x="494" y="304" fill="#0b5cad">cherry red, quench in water and</text>
+<text x="494" y="320" fill="#0b5cad">file it: file won't bite → high</text>
+<text x="494" y="336" fill="#0b5cad">carbon, good for cutting tools</text>
+</g>
+
+<!-- 4 sparks -->
+<g transform="translate(0,82)">
+<rect x="8" y="336" width="704" height="312" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="360" font-size="15" font-weight="bold">④ Spark testing (grinding wheel or coarse file): stream length, colour, forks</text>
+<!-- rows 36 apart, bands x=196..470 -->
+<g stroke="none">
+<rect x="196" y="372" width="276" height="30" rx="3" fill="#2b2b2b"/>
+<rect x="196" y="408" width="276" height="30" rx="3" fill="#2b2b2b"/>
+<rect x="196" y="444" width="276" height="30" rx="3" fill="#2b2b2b"/>
+<rect x="196" y="480" width="276" height="30" rx="3" fill="#2b2b2b"/>
+<rect x="196" y="516" width="276" height="30" rx="3" fill="#2b2b2b"/>
+<rect x="196" y="552" width="276" height="30" rx="3" fill="#2b2b2b"/>
+</g>
+<!-- grinding wheel (left of each row) -->
+<g fill="#9a9a9a" stroke="#666" stroke-width="1">
+<path d="M196,375 A12,12 0 0 1 196,399 Z"/>
+<path d="M196,411 A12,12 0 0 1 196,435 Z"/>
+<path d="M196,447 A12,12 0 0 1 196,471 Z"/>
+<path d="M196,483 A12,12 0 0 1 196,507 Z"/>
+<path d="M196,519 A12,12 0 0 1 196,543 Z"/>
+<path d="M196,555 A12,12 0 0 1 196,579 Z"/>
+</g>
+<!-- mild steel: long, straw-yellow, very few forks -->
+<g stroke="#fff2a8" stroke-width="1.6" stroke-linecap="round" fill="none">
+<path d="M208,387 L462,381 M208,387 L452,388 M208,387 L440,395 M208,387 L420,377"/>
+</g>
+<use href="#fork" x="380" y="388" stroke="#fff2a8"/>
+<!-- medium-carbon steel: fairly long, clearly more forks -->
+<g stroke="#ffe27a" stroke-width="1.5" stroke-linecap="round" fill="none">
+<path d="M208,423 L420,416 M208,423 L410,424 M208,423 L400,431 M208,423 L380,414"/>
+</g>
+<g stroke="#ffe27a">
+<use href="#fork" x="300" y="420"/><use href="#fork" x="350" y="418"/><use href="#fork" x="330" y="424"/><use href="#fork" x="380" y="424"/><use href="#fork" x="360" y="428"/><use href="#star" x="412" y="416"/><use href="#star" x="402" y="430"/>
+</g>
+<!-- high-carbon steel: shorter, many dense forks -->
+<g stroke="#fffbe0" stroke-width="1.4" stroke-linecap="round" fill="none">
+<path d="M208,459 L350,452 M208,459 L344,460 M208,459 L336,467 M208,459 L320,450"/>
+</g>
+<g stroke="#fffbe0">
+<use href="#star" x="260" y="456"/><use href="#star" x="282" y="462"/><use href="#star" x="298" y="453"/><use href="#star" x="314" y="464"/><use href="#star" x="326" y="452"/><use href="#star" x="338" y="460"/><use href="#star" x="350" y="452"/><use href="#star" x="342" y="468"/><use href="#star" x="366" y="458"/><use href="#star" x="306" y="459"/>
+</g>
+<!-- cast iron: short, dark red to orange, a few small forks at the ends -->
+<g stroke="#e0642a" stroke-width="1.3" stroke-linecap="round" fill="none">
+<path d="M208,495 L292,491 M208,495 L286,497 M208,495 L276,502"/>
+</g>
+<g stroke="#e8823a"><use href="#fork" x="292" y="491"/><use href="#fork" x="286" y="497"/></g>
+<!-- stainless steel: fairly short, orange-yellow, few forks -->
+<g stroke="#ffb347" stroke-width="1.4" stroke-linecap="round" fill="none">
+<path d="M208,531 L338,526 M208,531 L332,533 M208,531 L320,539"/>
+</g>
+<use href="#fork" x="300" y="532" stroke="#ffb347"/>
+<!-- non-ferrous metals: almost none -->
+<g fill="#ffb347"><circle cx="216" cy="565" r="1.4"/><circle cx="224" cy="570" r="1.2"/></g>
+<!-- names on the left -->
+<g font-size="14" font-weight="bold">
+<text x="18" y="386">Mild steel</text>
+<text x="18" y="422">Medium-carbon steel</text>
+<text x="18" y="458">High-carbon steel</text>
+<text x="18" y="494">Cast iron</text>
+<text x="18" y="530">Stainless steel</text>
+<text x="18" y="562">Aluminium, copper,</text>
+<text x="18" y="578">brass, lead</text>
+</g>
+<g font-size="12" fill="#555">
+<text x="18" y="400">(reinforcing bar, iron sheet)</text>
+<text x="18" y="436">(shafts, gears)</text>
+<text x="18" y="472">(files, springs)</text>
+</g>
+<!-- descriptions on the right -->
+<g font-size="13">
+<text x="482" y="385">long streams, straw-yellow</text><text x="482" y="400" fill="#555" font-size="12">very few forks</text>
+<text x="482" y="421">fairly long streams</text><text x="482" y="436" fill="#555" font-size="12">clearly more forks</text>
+<text x="482" y="457">shorter, many dense forks</text><text x="482" y="472" fill="#555" font-size="12">like clusters of little stars</text>
+<text x="482" y="493">short, dark red to orange</text><text x="482" y="508" fill="#555" font-size="12">a few small forks at the ends</text>
+<text x="482" y="529">fairly short, orange-yellow</text><text x="482" y="544" fill="#555" font-size="12">few forks</text>
+<text x="482" y="571">almost no sparks</text>
+</g>
+<g font-size="13">
+<text x="18" y="608" fill="#0b5cad" font-weight="bold">→ The more the sparks burst, the higher the carbon and the better for knives and tools</text>
+<text x="18" y="630" fill="#0b5cad">→ Compare against a piece of known steel (such as a file or reinforcing bar) for a more accurate judgement</text>
+</g>
+
+<!-- 5 car -->
+<rect x="8" y="658" width="704" height="236" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="682" font-size="15" font-weight="bold">⑤ The metals in a scrapped car</text>
+<!-- car body -->
+<path d="M200,786 V760 Q200,748 214,746 L282,740 L318,710 Q326,704 338,704 L418,704 Q428,704 434,712 L456,742 Q470,746 470,760 V786 Z" fill="#cfe0f0" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M292,740 L322,714 H372 V740 Z M380,714 H416 Q422,714 426,720 L442,740 H380 Z" fill="#eef5fc" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<!-- engine, battery -->
+<rect x="232" y="752" width="44" height="26" rx="2" fill="#8a8f96" stroke="#333" stroke-width="1.2" stroke-dasharray="3 2"/>
+<rect x="210" y="756" width="16" height="12" fill="#555" stroke="#333" stroke-width="1"/>
+<!-- drive shaft -->
+<path d="M262,792 H410" stroke="#555" stroke-width="4"/>
+<!-- fuel tank -->
+<rect x="356" y="768" width="40" height="14" rx="2" fill="#e9d9a6" stroke="#333" stroke-width="1.2"/>
+<!-- spring, shock absorber -->
+<path d="M414,748 L428,751 L414,754 L428,757 L414,760 L428,763" fill="none" stroke="#333" stroke-width="1.8"/>
+<rect x="434" y="746" width="7" height="20" fill="#888" stroke="#333" stroke-width="1"/>
+<!-- wheels -->
+<g stroke="#333" stroke-width="1.5">
+<circle cx="252" cy="790" r="24" fill="#333"/>
+<circle cx="252" cy="790" r="14" fill="#e3e7eb"/>
+<circle cx="252" cy="790" r="7" fill="#8a8f96"/>
+<circle cx="420" cy="790" r="24" fill="#333"/>
+<circle cx="420" cy="790" r="14" fill="#e3e7eb"/>
+<circle cx="420" cy="790" r="7" fill="#8a8f96"/>
+</g>
+<!-- leader lines -->
+<g stroke="#0b5cad" stroke-width="1.1" fill="none">
+<path d="M172,728 L218,758"/>
+<path d="M172,780 L240,764"/>
+<path d="M156,810 L246,792"/>
+<path d="M238,866 L240,800"/>
+<path d="M484,712 L404,706"/>
+<path d="M484,758 L428,756"/>
+<path d="M484,812 L440,762"/>
+<path d="M484,866 L392,778"/>
+<path d="M330,836 L330,796"/>
+</g>
+<g fill="#0b5cad">
+<circle cx="218" cy="758" r="2.2"/><circle cx="240" cy="764" r="2.2"/><circle cx="246" cy="792" r="2.2"/><circle cx="240" cy="800" r="2.2"/>
+<circle cx="404" cy="706" r="2.2"/><circle cx="428" cy="756" r="2.2"/><circle cx="440" cy="762" r="2.2"/><circle cx="392" cy="778" r="2.2"/><circle cx="330" cy="796" r="2.2"/>
+</g>
+<!-- labels on the left -->
+<g font-size="13">
+<text x="18" y="704" font-weight="bold">Battery</text>
+<text x="18" y="720" font-size="12">lead, sulphuric acid;</text>
+<text x="18" y="735" font-size="12" fill="#c33">do not recycle it yourself</text>
+<text x="18" y="756" font-weight="bold">Engine</text>
+<text x="18" y="772" font-size="12">block: grey cast iron</text>
+<text x="18" y="787" font-size="12">pistons, heads: aluminium</text>
+<text x="18" y="816" font-weight="bold">Brake discs, drums</text>
+<text x="18" y="832" font-size="12">grey cast iron, not forgeable</text>
+<text x="18" y="862" font-weight="bold">Wheel rims</text>
+<text x="18" y="878" font-size="12">mostly aluminium; <tspan fill="#c33">some magnesium alloy</tspan></text>
+</g>
+<!-- labels on the right -->
+<g font-size="13">
+<text x="488" y="708" font-weight="bold">Body, iron sheet</text>
+<text x="488" y="724" font-size="12">mild steel sheet: sheet-iron ware,</text>
+<text x="488" y="739" font-size="12">covers, stoves</text>
+<text x="488" y="762" font-weight="bold">Coil springs, leaf springs</text>
+<text x="488" y="778" font-size="12">spring steel (about 0.6% carbon):</text>
+<text x="488" y="793" font-size="12">knives, axes, chisels</text>
+<text x="488" y="816" font-weight="bold" fill="#c33">⚠ Shock absorbers, gas springs</text>
+<text x="488" y="832" font-size="12">high-pressure gas and oil inside:</text>
+<text x="488" y="847" font-size="12" fill="#c33">never heat or cut</text>
+<text x="488" y="870" font-weight="bold" fill="#c33">⚠ Fuel tank</text>
+<text x="488" y="886" font-size="12">leftover petrol vapour explodes</text>
+</g>
+<g font-size="13" text-anchor="middle">
+<text x="330" y="852" font-weight="bold">Drive shafts, half-shafts</text>
+<text x="330" y="868" font-size="12">medium-carbon alloy steel:</text>
+<text x="330" y="883" font-size="12">hammer heads, crowbars</text>
+</g>
+
+<!-- 6 other sources -->
+<rect x="8" y="904" width="704" height="236" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="928" font-size="15" font-weight="bold">⑥ Other easy sources</text>
+<g stroke="#333" stroke-width="1">
+<rect x="18" y="940" width="14" height="14" fill="#8a8f96"/>
+<rect x="18" y="978" width="14" height="14" fill="#b9c3cc"/>
+<rect x="18" y="1016" width="14" height="14" fill="#c8643c"/>
+<rect x="18" y="1054" width="14" height="14" fill="#dcb43c"/>
+<rect x="18" y="1076" width="14" height="14" fill="#e3e7eb"/>
+<rect x="18" y="1114" width="14" height="14" fill="#6b6f78"/>
+</g>
+<g font-size="13">
+<text x="40" y="952"><tspan font-weight="bold">Good steel (store separately): </tspan>files (about 1.2% carbon), bearings (about 1% carbon,</text>
+<text x="40" y="968">with chromium), rails (about 0.7%, for an anvil)</text>
+<text x="40" y="990"><tspan font-weight="bold">Ordinary steel: </tspan>reinforcing bar (mild steel, inconsistent composition, for things that</text>
+<text x="40" y="1006">need no hardening), wire rope (high-carbon steel wire)</text>
+<text x="40" y="1028"><tspan font-weight="bold">Copper: </tspan>electric wire and cable, motor and transformer windings, water pipes;</text>
+<text x="40" y="1044">keep anything that can stay as wire unmelted</text>
+<text x="40" y="1066"><tspan font-weight="bold">Brass: </tspan>taps, valves, pipe fittings, cartridge cases</text>
+<text x="40" y="1088"><tspan font-weight="bold">Aluminium: </tspan>window and door frames, cookware, drink cans (very thin, big melting losses;</text>
+<text x="40" y="1104">melt thick cast-aluminium parts first)</text>
+<text x="40" y="1126"><tspan font-weight="bold">Lead: </tspan>wheel balance weights, old water pipes, cable sheaths</text>
+</g>
+</g>
+
+<!-- dangers -->
+<g transform="translate(0,148)">
+<rect x="8" y="1084" width="704" height="270" rx="6" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<text x="18" y="1108" font-size="15" font-weight="bold" fill="#c33">⚠ Dangers in dismantling and melting</text>
+<g font-size="13">
+<text x="18" y="1132"><tspan font-weight="bold" fill="#c33">Never heat or cut sealed parts: </tspan>gas cylinders, fire extinguishers, aerosol cans, lighters,</text>
+<text x="18" y="1149">shock absorbers, gas springs, sealed pipes and hollow parts (they may hold water or gas), fuel tanks</text>
+<text x="18" y="1173"><tspan font-weight="bold" fill="#c33">Galvanised parts</tspan> (iron sheet, pipes, screws with a white coating) give off zinc fumes when heated</text>
+<text x="18" y="1190">→ metal fume fever (fever, chills, aching all over); before forging or welding, grind the coating off,</text>
+<text x="18" y="1207">or soak in vinegar for a day or two (in a ventilated place)</text>
+<text x="18" y="1231"><tspan font-weight="bold" fill="#c33">Lead, cadmium</tspan> (golden-yellow plating) and their fumes are poisonous; old brake pads may contain</text>
+<text x="18" y="1248">asbestos; do not burn the insulation off copper wire</text>
+<text x="18" y="1272"><tspan font-weight="bold" fill="#c33">Magnesium alloy</tspan> chips and melt burn fiercely, even more so with water: water cannot put them out</text>
+<text x="18" y="1296"><tspan font-weight="bold" fill="#c33">Damp scrap</tspan> put into molten metal → steam explosion; capacitors and batteries may discharge,</text>
+<text x="18" y="1313">leak acid or catch fire when dismantled</text>
+<text x="18" y="1338" font-weight="bold">Work outdoors in a ventilated place, stand upwind and wear protective gear</text>
+</g>
+</g>
+</g>
+</svg>
