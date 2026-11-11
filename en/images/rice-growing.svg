@@ -1,0 +1,206 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 842" width="720" height="842" role="img" aria-label="Raising and transplanting rice, and water management. 1 Seedbed: seedbed strips about 1.2-1.5 m wide with ditches about 25-30 cm wide between them; before one leaf and a second emerging keep the bed surface moist with water in the ditches, and do not flood the seedlings; after two leaves put on 2-3 cm of shallow water; sow once the daily mean temperature is steadily above 12°C for indica or 10°C for japonica; sowing rate on the seedbed about 75-100 g/m²; seedbed to main field area about 1:8-1:10; on cold nights flood deeper to protect the seedlings. 2 Strong seedlings: transplant at 4-5 leaves (seedling age about 25-35 days), about 15-20 cm tall, green leaves, flat and thick at the stem base, many white roots, 1-2 tillers. 3 Transplanting: 20-25 cm between rows, 15-20 cm between hills, 2-3 plants per hill, about 20-33 hills per square metre; keep about 3 cm of shallow water in the field and plant shallow, 2-3 cm deep. 4 Water management: about 3 cm at transplanting; for 3-5 days after planting slightly deeper, 3-5 cm, to protect the seedlings, recovery in about a week; tillering stage shallow water 3-5 cm; at the end of tillering (about 25-30 days after transplanting) drain and dry the field for 5-7 days; booting stage deep water 5-8 cm; heading and flowering shallow water and keep moist, when lack of water does most harm; ripening alternate wet and dry, and stop watering 7-10 days before harvest." font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Rice: seedlings, transplanting and water management</title>
+<defs>
+<pattern id="mud" width="16" height="16" patternUnits="userSpaceOnUse"><rect width="16" height="16" fill="#b5976e"/><circle cx="4" cy="5" r="1.1" fill="#8f7350"/><circle cx="12" cy="12" r="1.1" fill="#8f7350"/></pattern>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<marker id="arB0" viewBox="0 0 10 10" refX="2" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M10 0 L0 5 L10 10 Z" fill="#0b5cad"/></marker>
+<!-- rice tuft (origin at mud surface, about 44 high) -->
+<g id="tuft" fill="none" stroke="#4f8a2f" stroke-width="2" stroke-linecap="round"><path d="M0 0 Q-4 -20 -14 -38 M0 0 Q-2 -22 -6 -42 M0 0 V-44 M0 0 Q2 -22 6 -42 M0 0 Q4 -20 14 -38" vector-effect="non-scaling-stroke"/></g>
+<!-- small seedling (seedbed) -->
+<path id="sprout" d="M0 0 V-10 M0 -4 Q-5 -8 -6 -13 M0 -4 Q5 -8 6 -13" fill="none" stroke="#4f8a2f" stroke-width="1.6"/>
+<!-- one hill of seedlings (top view) -->
+<g id="hill" stroke="#4f8a2f" stroke-width="2" stroke-linecap="round"><path d="M0 0 L-6 -5 M0 0 L7 -3 M0 0 L1 7"/><circle r="2.2" fill="#3f6f24" stroke="none"/></g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Rice: seedlings, transplanting and water management</text>
+<text x="360" y="52" font-size="13" text-anchor="middle" fill="#555">Raise seedlings about 30 days → transplant at 4-5 leaves → manage water by growth stage (water is the key)</text>
+
+<!-- 1 seedbed -->
+<g transform="translate(10,64)">
+<rect x="0" y="0" width="230" height="380" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">① Seedbed</text>
+<!-- (a) before one leaf and a second emerging -->
+<text x="10" y="46" font-size="12" font-weight="bold">Before 1 leaf + a 2nd emerging</text>
+<path d="M10 100 V72 H92 L102 88 H128 L138 72 H220 V100 Z" fill="url(#mud)"/>
+<path d="M98.5 82 L102 88 H128 L131.5 82 Z" fill="#cfe5f5"/>
+<path d="M98.5 82 H131.5" stroke="#3a7fc0" stroke-width="1.5"/>
+<path d="M10 72 H92 L102 88 H128 L138 72 H220" fill="none" stroke="#333" stroke-width="2"/>
+<g><use href="#sprout" x="26" y="72"/><use href="#sprout" x="46" y="72"/><use href="#sprout" x="66" y="72"/><use href="#sprout" x="84" y="72"/><use href="#sprout" x="148" y="72"/><use href="#sprout" x="166" y="72"/><use href="#sprout" x="186" y="72"/><use href="#sprout" x="206" y="72"/></g>
+<text x="115" y="114" font-size="12" text-anchor="middle" fill="#0b5cad">bed moist, water in the ditches;</text>
+<text x="115" y="128" font-size="12" text-anchor="middle" fill="#0b5cad">do not flood the seedlings</text>
+<!-- (b) after two leaves -->
+<text x="10" y="146" font-size="12" font-weight="bold">After 2 leaves: <tspan fill="#0b5cad">2-3 cm shallow water</tspan></text>
+<path d="M10 196 V168 H92 L102 184 H128 L138 168 H220 V196 Z" fill="url(#mud)"/>
+<path d="M10 168 H92 L102 184 H128 L138 168 H220 V160 H10 Z" fill="#cfe5f5"/>
+<path d="M10 160 H220" stroke="#3a7fc0" stroke-width="1.5"/>
+<path d="M10 168 H92 L102 184 H128 L138 168 H220" fill="none" stroke="#333" stroke-width="2"/>
+<g transform="translate(0,168) scale(1,1.35) translate(0,-168)"><use href="#sprout" x="26" y="168"/><use href="#sprout" x="46" y="168"/><use href="#sprout" x="66" y="168"/><use href="#sprout" x="84" y="168"/><use href="#sprout" x="148" y="168"/><use href="#sprout" x="166" y="168"/><use href="#sprout" x="186" y="168"/><use href="#sprout" x="206" y="168"/></g>
+<!-- dimensions -->
+<path d="M12 206 H90" stroke="#0b5cad" stroke-width="1.2" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<path d="M104 206 H126" stroke="#0b5cad" stroke-width="1.2" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<path d="M102 186 V212 M128 186 V212" stroke="#0b5cad" stroke-width="1" stroke-dasharray="2 2"/>
+<g font-size="12" fill="#0b5cad"><text x="10" y="224">bed 1.2-1.5 m</text><text x="132" y="224">ditch 25-30 cm</text></g>
+<g font-size="13">
+<text x="10" y="248">Sow once the daily mean is</text>
+<text x="10" y="264">steadily above 12°C (indica)</text>
+<text x="10" y="280">or 10°C (japonica)</text>
+<text x="10" y="300">Sowing rate about 75-100 g/m²;</text>
+<text x="10" y="316">press the seed in after sowing</text>
+<text x="10" y="336">Seedbed : field about 1:8-1:10</text>
+<text x="10" y="352" fill="#c33">Cold night: flood deeper; lower</text>
+<text x="10" y="366" fill="#c33" font-size="12">the water next day once it warms</text>
+</g>
+</g>
+
+<!-- 2 strong seedling -->
+<g transform="translate(245,64)">
+<rect x="0" y="0" width="230" height="380" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">② A strong seedling</text>
+<rect x="20" y="196" width="150" height="34" fill="url(#mud)"/>
+<path d="M20 196 H170" stroke="#999" stroke-width="2.5"/>
+<!-- white roots -->
+<g fill="none" stroke-linecap="round"><path d="M92 198 Q82 210 74 226 M94 198 Q92 212 88 228 M96 198 Q102 212 108 226 M98 198 Q112 206 120 218 M90 198 Q78 204 68 212" stroke="#555" stroke-width="3.6"/><path d="M92 198 Q82 210 74 226 M94 198 Q92 212 88 228 M96 198 Q102 212 108 226 M98 198 Q112 206 120 218 M90 198 Q78 204 68 212" stroke="#fff" stroke-width="2"/></g>
+<!-- main stem -->
+<path d="M95 196 V100" stroke="#4f8a2f" stroke-width="5"/>
+<g fill="none" stroke="#4f8a2f" stroke-width="4" stroke-linecap="round">
+<path d="M95 178 Q120 166 136 150"/>
+<path d="M95 158 Q70 140 60 116"/>
+<path d="M95 136 Q122 112 128 84"/>
+<path d="M95 118 Q78 92 76 66"/>
+<path d="M95 100 Q98 80 104 58"/>
+</g>
+<!-- tiller -->
+<path d="M90 196 Q76 172 62 152" fill="none" stroke="#6fa344" stroke-width="3.5"/>
+<path d="M70 166 Q50 158 40 142 M62 152 Q58 136 52 124" fill="none" stroke="#6fa344" stroke-width="3" stroke-linecap="round"/>
+<!-- leaf numbers -->
+<g font-size="12" fill="#0b5cad" text-anchor="middle"><text x="142" y="150">1</text><text x="54" y="114">2</text><text x="134" y="84">3</text><text x="72" y="62">4</text><text x="108" y="54">5</text></g>
+<!-- height -->
+<path d="M190 194 V60" stroke="#0b5cad" stroke-width="1.2" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<path d="M174 196 H200 M108 56 H200" stroke="#0b5cad" stroke-width="0.8" stroke-dasharray="3 3"/>
+<g font-size="12" fill="#0b5cad"><text x="195" y="126">15-20</text><text x="195" y="142">cm</text></g>
+<g font-size="12">
+<text x="10" y="50" fill="#0b5cad" font-weight="bold">4-5 leaves</text>
+<text x="10" y="186">tiller</text><line x1="42" y1="180" x2="62" y2="170" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="126" y="242">white roots</text><line x1="134" y1="230" x2="114" y2="222" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="110" y="190">thick base</text><line x1="108" y1="186" x2="98" y2="188" stroke="#0b5cad" stroke-width="1.2"/>
+</g>
+<g font-size="13">
+<text x="10" y="264" font-weight="bold">25-35 days old, 4-5 leaves</text>
+<text x="10" y="282">✓ About 15-20 cm tall, green</text>
+<text x="10" y="298">leaves, flat and thick at the</text>
+<text x="10" y="314">base, 1-2 tillers, no spots</text>
+<text x="10" y="332" fill="#c33">✗ Thin, tall, yellow, black roots</text>
+<text x="10" y="348" fill="#c33">→ bed too dense, underfed or</text>
+<text x="10" y="364" fill="#c33">flooded too long</text>
+</g>
+</g>
+
+<!-- 3 transplanting -->
+<g transform="translate(480,64)">
+<rect x="0" y="0" width="230" height="380" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">③ Transplanting</text>
+<rect x="14" y="38" width="122" height="104" fill="#dcebf6" stroke="#9bbbd6" stroke-width="1"/>
+<g>
+<use href="#hill" x="32" y="56"/><use href="#hill" x="60" y="56"/><use href="#hill" x="88" y="56"/><use href="#hill" x="116" y="56"/>
+<use href="#hill" x="32" y="90"/><use href="#hill" x="60" y="90"/><use href="#hill" x="88" y="90"/><use href="#hill" x="116" y="90"/>
+<use href="#hill" x="32" y="124"/><use href="#hill" x="60" y="124"/><use href="#hill" x="88" y="124"/><use href="#hill" x="116" y="124"/>
+</g>
+<path d="M146 58 V88" stroke="#0b5cad" stroke-width="1.2" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<path d="M120 56 H150 M120 90 H150" stroke="#0b5cad" stroke-width="0.8" stroke-dasharray="3 3"/>
+<g font-size="12" fill="#0b5cad"><text x="156" y="70">rows</text><text x="156" y="86">20-25 cm</text></g>
+<path d="M34 152 H58" stroke="#0b5cad" stroke-width="1.2" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<path d="M32 128 V156 M60 128 V156" stroke="#0b5cad" stroke-width="0.8" stroke-dasharray="3 3"/>
+<text x="66" y="157" font-size="12" fill="#0b5cad">hills 15-20 cm</text>
+<text x="156" y="120" font-size="12" font-weight="bold">2-3 plants</text>
+<text x="156" y="136" font-size="12" font-weight="bold">per hill</text>
+<line x1="152" y1="122" x2="122" y2="122" stroke="#0b5cad" stroke-width="1.2"/>
+<!-- side view -->
+<rect x="14" y="210" width="200" height="30" fill="url(#mud)"/>
+<rect x="14" y="186" width="200" height="24" fill="#cfe5f5"/>
+<path d="M14 186 H214" stroke="#3a7fc0" stroke-width="1.5"/>
+<path d="M14 210 H214" stroke="#999" stroke-width="2.5"/>
+<g transform="translate(110,210)"><path d="M-2 20 V-36 M2 20 V-36" stroke="#4f8a2f" stroke-width="2"/><path d="M0 -16 Q-12 -26 -18 -38 M0 -20 Q12 -30 18 -40" fill="none" stroke="#4f8a2f" stroke-width="2"/><path d="M-2 20 Q-5 23 -7 27 M2 20 Q5 23 7 27" fill="none" stroke="#555" stroke-width="1.3"/></g>
+<path d="M28 188 V208" stroke="#0b5cad" stroke-width="1.2" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<text x="34" y="203" font-size="12" fill="#0b5cad" font-weight="bold">water ~3 cm</text>
+<path d="M124 211 V230 M120 230 H128" stroke="#c33" stroke-width="1.5"/>
+<path d="M106 230 H120" stroke="#c33" stroke-width="0.8" stroke-dasharray="3 3"/>
+<path d="M128 224 H140" stroke="#c33" stroke-width="1"/>
+<rect x="140" y="218" width="76" height="18" rx="3" fill="#fff" fill-opacity="0.85"/>
+<text x="144" y="232" font-size="12" fill="#c33" font-weight="bold">2-3 cm deep</text>
+<g font-size="13">
+<text x="10" y="262">About 20-33 hills per m²</text>
+<text x="10" y="280">Roots straight down, not hooked</text>
+<text x="10" y="298">Pull and plant at the same time;</text>
+<text x="10" y="314">finish the same day</text>
+<text x="10" y="332">Water too deep: seedlings float</text>
+<text x="10" y="350">Planted too deep: tillers come</text>
+<text x="10" y="366">late and few</text>
+</g>
+</g>
+
+<!-- 4 water management -->
+<g transform="translate(10,452)">
+<rect x="0" y="0" width="700" height="380" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">④ Water in the main field (transplanting to harvest)</text>
+<!-- mud -->
+<rect x="20" y="180" width="672" height="26" fill="url(#mud)"/>
+<!-- water depth: 7 px ≈ 1 cm -->
+<rect x="20" y="159" width="96" height="21" fill="#cfe5f5"/><path d="M20 159 H116" stroke="#3a7fc0" stroke-width="1.5"/>
+<rect x="116" y="152" width="96" height="28" fill="#cfe5f5"/><path d="M116 152 H212" stroke="#3a7fc0" stroke-width="1.5"/>
+<rect x="212" y="152" width="96" height="28" fill="#cfe5f5"/><path d="M212 152 H308" stroke="#3a7fc0" stroke-width="1.5"/>
+<rect x="404" y="134" width="96" height="46" fill="#cfe5f5"/><path d="M404 134 H500" stroke="#3a7fc0" stroke-width="1.5"/>
+<rect x="500" y="162" width="96" height="18" fill="#cfe5f5"/><path d="M500 162 H596" stroke="#3a7fc0" stroke-width="1.5"/>
+<rect x="596" y="170" width="44" height="10" fill="#cfe5f5"/><path d="M596 170 H640" stroke="#3a7fc0" stroke-width="1.5"/>
+<path d="M20 180 H692" stroke="#999" stroke-width="2.5"/>
+<!-- cracks from drying -->
+<g fill="none" stroke="#5e4128" stroke-width="1.6"><path d="M318 180 l4 8 l-3 6 l5 8"/><path d="M344 180 l-3 7 l4 6"/><path d="M372 180 l3 9 l-4 5 l3 7"/><path d="M394 180 l-2 6 l3 5"/></g>
+<g fill="none" stroke="#5e4128" stroke-width="1.6"><path d="M652 180 l3 7 l-3 6"/><path d="M676 180 l-3 8 l4 6"/></g>
+<!-- dividers -->
+<path d="M116 40 V206 M212 40 V206 M308 40 V206 M404 40 V206 M500 40 V206 M596 40 V206" stroke="#ccc" stroke-width="1" stroke-dasharray="4 3"/>
+<path d="M640 168 V206" stroke="#ccc" stroke-width="1" stroke-dasharray="2 2"/>
+<!-- rice plants -->
+<g transform="translate(68,180) scale(1,0.6)"><use href="#tuft"/></g>
+<g transform="translate(164,180) scale(1,0.75)"><use href="#tuft"/></g>
+<g transform="translate(252,180) scale(1,1)"><use href="#tuft"/></g><g transform="translate(270,180) scale(1,0.9)"><use href="#tuft"/></g>
+<g transform="translate(346,180) scale(1,1.2)"><use href="#tuft"/></g><g transform="translate(366,180) scale(1,1.1)"><use href="#tuft"/></g>
+<g transform="translate(442,180) scale(1,1.5)"><use href="#tuft"/></g><g transform="translate(462,180) scale(1,1.45)"><use href="#tuft"/></g>
+<g transform="translate(538,180) scale(1,1.7)"><use href="#tuft"/></g><g transform="translate(558,180) scale(1,1.65)"><use href="#tuft"/></g>
+<g fill="#b9cf6a" stroke="#6f8a2a" stroke-width="1"><ellipse cx="538" cy="99" rx="3" ry="7"/><ellipse cx="558" cy="101" rx="3" ry="7"/><ellipse cx="531" cy="108" rx="2.5" ry="5" transform="rotate(-25 531 108)"/><ellipse cx="565" cy="110" rx="2.5" ry="5" transform="rotate(25 565 110)"/></g>
+<g transform="translate(634,180) scale(1,1.7)"><use href="#tuft"/></g><g transform="translate(654,180) scale(1,1.65)"><use href="#tuft"/></g>
+<g fill="none" stroke="#c9a227" stroke-width="3" stroke-linecap="round"><path d="M634 106 Q644 104 646 118"/><path d="M654 108 Q664 106 666 120"/><path d="M630 112 Q620 112 618 124"/></g>
+<!-- stage names -->
+<g font-size="13" font-weight="bold" text-anchor="middle">
+<text x="68" y="50">Planting</text><text x="164" y="50">Recovery</text><text x="260" y="50">Tillering</text><text x="356" y="50">End of</text><text x="356" y="65">tillering</text><text x="452" y="50">Booting</text><text x="548" y="50">Heading,</text><text x="548" y="65">flowering</text><text x="644" y="50">Ripening</text>
+</g>
+<g font-size="12" text-anchor="middle" fill="#555">
+<text x="164" y="66">about 1 week</text><text x="356" y="82">25-30 days after</text><text x="356" y="96">transplanting</text>
+</g>
+<!-- water depth / what to do -->
+<g font-size="12" font-weight="bold" text-anchor="middle" fill="#0b5cad">
+<text x="68" y="224">shallow,</text><text x="68" y="238">about 3 cm</text>
+<text x="164" y="224">a bit deeper,</text><text x="164" y="238">3-5 cm</text>
+<text x="260" y="224">shallow,</text><text x="260" y="238">3-5 cm</text>
+<text x="356" y="224" fill="#c33">drain and</text><text x="356" y="238" fill="#c33">dry the field</text>
+<text x="452" y="224">deep,</text><text x="452" y="238">5-8 cm</text>
+<text x="548" y="224">shallow,</text><text x="548" y="238">keep moist</text>
+<text x="644" y="224">alternate</text><text x="644" y="238">wet and dry</text>
+</g>
+<g font-size="12" text-anchor="middle">
+<text x="68" y="258">too deep: floats;</text><text x="68" y="272">none: cut hands</text>
+<text x="164" y="258">3-5 days after,</text><text x="164" y="272">stops wilting</text>
+<text x="260" y="258">warms fast,</text><text x="260" y="272">more tillers</text>
+<text x="356" y="258" fill="#c33" font-weight="bold">5-7 days</text><text x="356" y="272">controls idle</text><text x="356" y="286">tillers</text>
+<text x="548" y="258" fill="#c33">worst time to</text><text x="548" y="272" fill="#c33">lack water: many</text><text x="548" y="286" fill="#c33">empty grains</text>
+<text x="644" y="258" fill="#c33" font-weight="bold">stop watering</text><text x="644" y="272" fill="#c33" font-weight="bold">7-10 days</text><text x="644" y="286" fill="#c33" font-weight="bold">before harvest</text>
+</g>
+<path d="M20 302 H686" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<text x="20" y="318" font-size="12" fill="#c33">transplanting</text>
+<text x="690" y="318" font-size="12" fill="#c33" text-anchor="end">harvest</text>
+<text x="350" y="338" font-size="12" text-anchor="middle" fill="#555">Drying must be finished before the young panicle starts to form (jointing);</text>
+<text x="350" y="354" font-size="12" text-anchor="middle" fill="#555">dry until fine cracks appear on the surface and you do not sink when you step.</text>
+<text x="350" y="370" font-size="12" text-anchor="middle" fill="#555">Cracks wide enough to put a finger in = dried too far: re-flood at once (shallow water first)</text>
+</g>
+</g>
+</svg>

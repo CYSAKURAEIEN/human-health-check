@@ -1171,7 +1171,7 @@ Afterwards:
 ✓ In orchards and vegetable plots that are often hit by hail, you can put up anti-hail nets
 ```
 
-For field management of different crops see [Grain crops](../../../docs/04-动植物培育/02-粮食作物.md) and [Vegetable growing](../../../docs/04-动植物培育/01-蔬菜种植.md).
+For field management of different crops see [Grain crops](../04-farming-and-animal-husbandry/02-grain-crops.md) and [Vegetable growing](../04-farming-and-animal-husbandry/01-vegetable-growing.md).
 
 ---
 

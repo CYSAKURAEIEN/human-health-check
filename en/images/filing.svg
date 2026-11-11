@@ -1,0 +1,158 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 964" width="720" height="964" role="img" aria-label="The vice and filing. 1 The vice is fixed at the edge of the bench with its jaws at about the user's elbow height; too high or too low makes the filing uneven and tiring. 2 A file cuts only on the forward stroke; on the return lift it slightly or use no pressure; use both hands, the front hand pressing on the tip and the back hand pushing the handle, keeping the file level as it moves forward; the most common cause of an uneven surface is the file rocking up and down during the stroke. 3 Cross filing: change direction from stroke to stroke, which shows where the high and low spots are. 4 Draw filing: for final finishing, hold the file crosswise and push and pull it along the length of the workpiece. 5 Checking flatness: hold the edge of a try square or straight edge against the workpiece and look for light through the gap. When clamping a finished surface, pad the jaws with copper or aluminium sheet or hardwood; keep the part of the workpiece sticking out of the jaws as short as possible; when filings clog the teeth, brush them out along the line of the teeth with a wire brush; do not oil the file and do not touch the filed surface with your hand; use a new file on copper, aluminium and other soft metals first, then on steel, and do not file hardened steel; metal chips and burrs are sharp, so do not wipe chips away by hand, use a brush or hook" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>The vice and filing</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<marker id="arB0" viewBox="0 0 10 10" refX="2" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M10,0 L0,5 L10,10 Z" fill="#0b5cad"/></marker>
+<pattern id="hA" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(35)"><path d="M0,0 V8" stroke="#0b5cad" stroke-width="1" opacity="0.6"/></pattern>
+<pattern id="hB" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(-35)"><path d="M0,0 V8" stroke="#c33" stroke-width="1" opacity="0.6"/></pattern>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Filing: cut only on the forward stroke, keep the file level</text>
+<text x="360" y="52" font-size="15" text-anchor="middle">Vice jaws at about elbow height; front hand presses the tip, back hand pushes the handle</text>
+
+<!-- 1 vice height -->
+<rect x="10" y="64" width="270" height="420" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="90" font-size="16" font-weight="bold">① Vice height</text>
+<line x1="20" y1="400" x2="270" y2="400" stroke="#999" stroke-width="2"/>
+<!-- workbench -->
+<rect x="150" y="253" width="124" height="12" fill="#d9b38c" stroke="#333" stroke-width="1.8"/>
+<rect x="160" y="265" width="10" height="135" fill="#d9b38c" stroke="#333" stroke-width="1.5"/>
+<rect x="254" y="265" width="10" height="135" fill="#d9b38c" stroke="#333" stroke-width="1.5"/>
+<text x="212" y="290" font-size="13" text-anchor="middle" fill="#555">workbench</text>
+<!-- vice -->
+<rect x="150" y="245" width="48" height="8" fill="#6f7983" stroke="#333" stroke-width="1.5"/>
+<rect x="156" y="220" width="38" height="25" fill="#8a949e" stroke="#333" stroke-width="1.8"/>
+<rect x="156" y="214" width="16" height="8" fill="#8a949e" stroke="#333" stroke-width="1.5"/>
+<rect x="178" y="214" width="16" height="8" fill="#8a949e" stroke="#333" stroke-width="1.5"/>
+<rect x="172" y="207" width="6" height="22" fill="#d6dde4" stroke="#333" stroke-width="1.2"/>
+<path d="M156,236 H134 M134,228 V244" stroke="#555" stroke-width="3"/>
+<text x="226" y="236" font-size="13" fill="#555">vice</text>
+<line x1="222" y1="232" x2="196" y2="230" stroke="#555" stroke-width="1"/>
+<!-- person -->
+<rect x="58" y="262" width="13" height="136" rx="5" fill="#9fb8d0" stroke="#333" stroke-width="2"/>
+<rect x="72" y="262" width="13" height="136" rx="5" fill="#9fb8d0" stroke="#333" stroke-width="2"/>
+<path d="M54,398 H72 M70,398 H92" stroke="#333" stroke-width="5" stroke-linecap="round"/>
+<rect x="54" y="146" width="36" height="122" rx="12" fill="#cfe0f0" stroke="#333" stroke-width="2"/>
+<circle cx="72" cy="124" r="16" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M76,158 L80,214 L156,205" fill="none" stroke="#333" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M76,158 L80,214 L150,206" fill="none" stroke="#cfe0f0" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- file -->
+<rect x="146" y="200" width="22" height="7" rx="3" fill="#c9a66b" stroke="#333" stroke-width="1.2"/>
+<path d="M168,201 H226 L234,203 V205 L226,207 H168 Z" fill="#aab2ba" stroke="#333" stroke-width="1.2"/>
+<circle cx="156" cy="204" r="7" fill="#f3e3d3" stroke="#333" stroke-width="1.8"/>
+<!-- height line -->
+<line x1="88" y1="214" x2="196" y2="214" stroke="#0b5cad" stroke-width="1.6" stroke-dasharray="5 3"/>
+<circle cx="80" cy="214" r="3.5" fill="#0b5cad"/>
+<text x="118" y="190" font-size="12" fill="#0b5cad" text-anchor="middle">elbow</text>
+<line x1="108" y1="194" x2="84" y2="210" stroke="#0b5cad" stroke-width="1"/>
+<text x="24" y="428" font-size="14" font-weight="bold" fill="#0b5cad">Vice jaws at about elbow height</text>
+<text x="24" y="450" font-size="13">Too high or too low makes the filing</text>
+<text x="24" y="467" font-size="13">uneven and tiring</text>
+
+<!-- 2 the filing stroke -->
+<rect x="290" y="64" width="420" height="420" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="304" y="90" font-size="16" font-weight="bold">② The file cuts only on the forward stroke</text>
+<text x="480" y="118" font-size="14" font-weight="bold" fill="#c33" text-anchor="middle">push forward: cuts</text>
+<line x1="400" y1="130" x2="560" y2="130" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<line x1="560" y1="154" x2="400" y2="154" stroke="#0b5cad" stroke-width="2.5" stroke-dasharray="7 4" marker-end="url(#arB)"/>
+<text x="480" y="176" font-size="14" fill="#0b5cad" text-anchor="middle">return: lift slightly or no pressure</text>
+<!-- vice and workpiece -->
+<rect x="430" y="232" width="180" height="70" fill="#8a949e" stroke="#333" stroke-width="2"/>
+<rect x="420" y="302" width="200" height="10" fill="#6f7983" stroke="#333" stroke-width="1.5"/>
+<rect x="444" y="220" width="152" height="40" fill="#d6dde4" stroke="#333" stroke-width="1.8"/>
+<text x="520" y="248" font-size="12" text-anchor="middle" fill="#555">workpiece (low in jaws)</text>
+<text x="520" y="290" font-size="13" text-anchor="middle" fill="#eee">vice</text>
+<!-- file -->
+<path d="M320,211 Q320,204 328,204 H380 V220 H328 Q320,220 320,213 Z" fill="#c9a66b" stroke="#333" stroke-width="1.8"/>
+<rect x="380" y="205" width="7" height="14" fill="#999" stroke="#333" stroke-width="1.2"/>
+<path d="M387,206 H640 L662,210 V216 L640,220 H387 Z" fill="#aab2ba" stroke="#333" stroke-width="1.8"/>
+<path d="M400,219 l4,-12 M416,219 l4,-12 M432,219 l4,-12 M448,219 l4,-12 M464,219 l4,-12 M480,219 l4,-12 M496,219 l4,-12 M512,219 l4,-12 M528,219 l4,-12 M544,219 l4,-12 M560,219 l4,-12 M576,219 l4,-12 M592,219 l4,-12 M608,219 l4,-12 M624,219 l4,-12" stroke="#777" stroke-width="1"/>
+<!-- hands -->
+<ellipse cx="350" cy="212" rx="22" ry="15" fill="#f3e3d3" stroke="#333" stroke-width="1.8"/>
+<ellipse cx="638" cy="198" rx="20" ry="9" fill="#f3e3d3" stroke="#333" stroke-width="1.8"/>
+<line x1="638" y1="150" x2="638" y2="184" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<text x="638" y="124" font-size="14" text-anchor="middle" font-weight="bold">front hand</text>
+<text x="638" y="142" font-size="14" text-anchor="middle" font-weight="bold">presses the tip</text>
+<line x1="306" y1="244" x2="352" y2="244" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<text x="300" y="268" font-size="14" font-weight="bold">back hand pushes</text>
+<text x="300" y="285" font-size="14" font-weight="bold">the handle</text>
+<text x="520" y="336" font-size="14" text-anchor="middle" fill="#0b5cad" font-weight="bold">Both hands together keep the file level</text>
+<!-- rocking -->
+<line x1="304" y1="352" x2="696" y2="352" stroke="#ddd" stroke-width="1.5"/>
+<path d="M330,444 V416 Q400,394 470,416 V444 Z" fill="#d6dde4" stroke="#333" stroke-width="1.8"/>
+<g transform="rotate(-9 400 400)"><path d="M318,396 H340 V404 H318 Z" fill="#c9a66b" stroke="#333" stroke-width="1.2"/><path d="M340,397 H470 L480,399 V401 L470,403 H340 Z" fill="#aab2ba" stroke="#333" stroke-width="1.2"/></g>
+<g transform="rotate(9 400 400)" opacity="0.45"><path d="M318,396 H340 V404 H318 Z" fill="#c9a66b" stroke="#333" stroke-width="1.2"/><path d="M340,397 H470 L480,399 V401 L470,403 H340 Z" fill="#aab2ba" stroke="#333" stroke-width="1.2"/></g>
+<path d="M486,368 Q500,400 486,428" fill="none" stroke="#c33" stroke-width="2.5" marker-start="url(#arR)" marker-end="url(#arR)"/>
+<text x="512" y="388" font-size="15" font-weight="bold" fill="#c33">✗ Rocking up and</text>
+<text x="512" y="406" font-size="15" font-weight="bold" fill="#c33">down in the stroke</text>
+<text x="512" y="428" font-size="14">→ uneven surface</text>
+<text x="512" y="448" font-size="13" fill="#555">(the most common cause)</text>
+
+<!-- 3 cross filing -->
+<g transform="translate(10,496)">
+<rect width="226" height="240" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="26" font-size="16" font-weight="bold">③ Cross filing</text>
+<text x="214" y="26" font-size="12" fill="#555" text-anchor="end">(top view)</text>
+<rect x="44" y="52" width="138" height="100" fill="#d6dde4" stroke="#333" stroke-width="1.8"/>
+<rect x="44" y="52" width="138" height="100" fill="url(#hA)"/>
+<rect x="44" y="52" width="138" height="100" fill="url(#hB)"/>
+<line x1="38" y1="146" x2="182" y2="62" stroke="#0b5cad" stroke-width="3" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<line x1="44" y1="62" x2="188" y2="146" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<text x="113" y="184" font-size="14" text-anchor="middle">Change direction from</text>
+<text x="113" y="203" font-size="14" text-anchor="middle">stroke to stroke: the high</text>
+<text x="113" y="222" font-size="14" text-anchor="middle">and low spots show up</text>
+</g>
+
+<!-- 4 draw filing -->
+<g transform="translate(247,496)">
+<rect width="226" height="240" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="26" font-size="16" font-weight="bold">④ Draw filing</text>
+<text x="214" y="26" font-size="12" fill="#555" text-anchor="end">(top view)</text>
+<rect x="18" y="88" width="190" height="28" fill="#d6dde4" stroke="#333" stroke-width="1.8"/>
+<path d="M106,48 H120 V156 L113,160 L106,156 Z" fill="#aab2ba" stroke="#333" stroke-width="1.6"/>
+<path d="M106,60 l14,6 M106,72 l14,6 M106,84 l14,6 M106,96 l14,6 M106,108 l14,6 M106,120 l14,6 M106,132 l14,6 M106,144 l14,6" stroke="#777" stroke-width="1"/>
+<ellipse cx="113" cy="56" rx="16" ry="10" fill="#f3e3d3" stroke="#333" stroke-width="1.6"/>
+<ellipse cx="113" cy="150" rx="16" ry="10" fill="#f3e3d3" stroke="#333" stroke-width="1.6"/>
+<line x1="60" y1="102" x2="96" y2="102" stroke="#0b5cad" stroke-width="3" marker-start="url(#arB0)"/>
+<line x1="130" y1="102" x2="168" y2="102" stroke="#0b5cad" stroke-width="3" marker-end="url(#arB)"/>
+<text x="113" y="184" font-size="14" text-anchor="middle">For final finishing, hold</text>
+<text x="113" y="203" font-size="14" text-anchor="middle">the file crosswise; push and</text>
+<text x="113" y="222" font-size="14" text-anchor="middle">pull it along the workpiece</text>
+</g>
+
+<!-- 5 checking flatness -->
+<g transform="translate(484,496)">
+<rect width="226" height="240" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="26" font-size="16" font-weight="bold">⑤ Checking flatness</text>
+<path d="M200,44 L184,64 M210,58 L188,70 M212,76 L190,78" stroke="#e0a800" stroke-width="2"/>
+<circle cx="206" cy="50" r="0" fill="none"/>
+<text x="178" y="58" font-size="12" fill="#555" text-anchor="end">light</text>
+<path d="M30,116 Q113,134 196,116 V150 H30 Z" fill="#d6dde4" stroke="#333" stroke-width="1.8"/>
+<path d="M30,116 Q113,134 196,116 Z" fill="#ffe28a"/>
+<rect x="22" y="104" width="182" height="12" fill="#c8cdd2" stroke="#333" stroke-width="1.6"/>
+<text x="113" y="98" font-size="12" text-anchor="middle" fill="#555">straight edge (edge down)</text>
+<text x="98" y="146" font-size="12" text-anchor="middle" fill="#555">workpiece</text>
+<line x1="150" y1="160" x2="122" y2="122" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="152" y="172" font-size="12" fill="#0b5cad">gap</text>
+<text x="113" y="192" font-size="13" text-anchor="middle">Hold the edge of a try square or</text>
+<text x="113" y="210" font-size="13" text-anchor="middle">straight edge on the work and</text>
+<text x="113" y="228" font-size="13" text-anchor="middle">look for light through the gap</text>
+</g>
+
+<!-- notes -->
+<g font-size="14">
+<text x="16" y="762">✓ When clamping a finished surface, pad the vice jaws with copper or aluminium</text>
+<text x="32" y="780">sheet or hardwood so they don't mark it</text>
+<text x="16" y="804">✓ When filings clog the teeth, brush them out along the line of the teeth</text>
+<text x="32" y="822">with a wire brush (file card)</text>
+<text x="16" y="846">✗ Don't oil the file and don't touch the filed surface with your hand</text>
+<text x="32" y="864">(both make the file slip)</text>
+<text x="16" y="888">✗ Use a new file on copper, aluminium and other soft metals first, then on steel;</text>
+<text x="32" y="906">don't file hardened steel (it wears the file out)</text>
+<text x="16" y="932" font-weight="bold" fill="#c33">⚠ Metal chips and burrs are sharp: don't wipe chips away by hand;</text>
+<text x="32" y="950" font-weight="bold" fill="#c33">use a brush or hook</text>
+</g>
+</g>
+</svg>

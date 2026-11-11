@@ -1,0 +1,158 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 572" width="720" height="572" role="img" aria-label="Candling eggs and incubator settings for hen eggs: in the dark, shine a torch into the large end of the egg; at around day 7, spidery blood vessels and a dark spot (the embryo) mean a normal fertile egg, a clear egg with nothing inside is infertile, and a blood ring means a dead embryo; remove both of the latter; at around day 18, an egg that is mostly dark inside with a sharp air-cell edge is normal. Hen eggs take 21 days to hatch; temperature 37.5-37.8°C with a fan, or 38.3-38.9°C measured at egg-top height without a fan; relative humidity 50-55% during incubation and 65-75% for the last 3 days before hatching; turn the eggs at least 3 times a day (ideally 5), about 180° each time, and stop turning on day 18">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Candling and incubation (hen eggs)</title>
+<defs>
+<radialGradient id="glow" cx="50%" cy="65%" r="60%"><stop offset="0" stop-color="#ffe9b0"/><stop offset="1" stop-color="#e8963a"/></radialGradient>
+<path id="egg" d="M0,-60 C27,-60 45,-28 45,6 C45,38 26,58 0,58 C-26,58 -45,38 -45,6 C-45,-28 -27,-60 0,-60 Z"/>
+<clipPath id="eggClip"><use href="#egg"/></clipPath>
+<g id="lamp"><ellipse cx="0" cy="56" rx="26" ry="7" fill="#ffe08a" fill-opacity="0.55"/></g>
+<g id="torch" transform="translate(0,58) rotate(28)"><path d="M-20,0 L20,0 L13,18 L-13,18 Z" fill="#777" stroke="#aaa" stroke-width="1.5"/><rect x="-11" y="18" width="22" height="50" rx="3" fill="#555" stroke="#aaa" stroke-width="1.5"/><rect x="-4" y="30" width="8" height="10" rx="2" fill="#888"/></g>
+<g id="cell"><path d="M-50,40 Q0,26 50,40 L50,70 L-50,70 Z" fill="#fff4d6" clip-path="url(#eggClip)"/><path d="M-50,40 Q0,26 50,40" fill="none" stroke="#c9852e" stroke-width="1.2" clip-path="url(#eggClip)"/></g>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+</defs>
+<g font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif" font-size="14" fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Candling and incubation (hen eggs)</text>
+
+<g transform="translate(10,42)">
+<rect x="0" y="0" width="230" height="262" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="14" y="24" font-size="16" font-weight="bold">How to candle</text>
+<rect x="12" y="34" width="206" height="170" rx="6" fill="#2b2b2b"/>
+<g transform="translate(130,88) scale(0.8)">
+<use href="#lamp"/>
+<use href="#torch"/>
+<use href="#egg" fill="url(#glow)" stroke="#c9852e" stroke-width="2"/>
+<use href="#cell"/>
+</g>
+<g font-size="13" fill="#9cc8f0">
+<text x="22" y="70">large end</text>
+<text x="22" y="86">to the torch</text>
+<line x1="70" y1="92" x2="104" y2="126" stroke="#9cc8f0" stroke-width="1"/>
+<text x="22" y="160">air cell</text>
+<line x1="74" y1="152" x2="114" y2="124" stroke="#9cc8f0" stroke-width="1"/>
+<text x="22" y="190">torch</text>
+<line x1="60" y1="186" x2="118" y2="178" stroke="#9cc8f0" stroke-width="1"/>
+</g>
+<text x="14" y="228">In the dark, shine a torch</text>
+<text x="14" y="248">into the large end</text>
+</g>
+
+<g transform="translate(250,42)">
+<rect x="0" y="0" width="460" height="262" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="14" y="24" font-size="16" font-weight="bold">Incubator settings (hen, 21 days to hatch)</text>
+<g stroke="#999" stroke-width="1" stroke-dasharray="3 3">
+<line x1="173" y1="52" x2="173" y2="164"/>
+<line x1="367" y1="52" x2="367" y2="164"/>
+<line x1="420" y1="52" x2="420" y2="164"/>
+</g>
+<g font-size="13" fill="#c33" text-anchor="middle">
+<text x="173" y="48">candle</text>
+<text x="367" y="48">candle</text>
+<text x="424" y="48">hatch</text>
+</g>
+<text x="12" y="81" font-size="13" font-weight="bold">Temp</text>
+<rect x="50" y="64" width="370" height="24" fill="#f8dccb" stroke="#999" stroke-width="1"/>
+<text x="235" y="81" text-anchor="middle">37.5-37.8°C (with fan, even temperature)</text>
+<text x="12" y="113" font-size="13" font-weight="bold">RH</text>
+<rect x="50" y="96" width="317" height="24" fill="#e3eef8" stroke="#999" stroke-width="1"/>
+<rect x="367" y="96" width="53" height="24" fill="#b9d3ec" stroke="#999" stroke-width="1"/>
+<text x="208" y="113" text-anchor="middle">relative humidity 50-55%</text>
+<text x="393.5" y="113" font-size="12" text-anchor="middle">65-75%</text>
+<text x="12" y="145" font-size="13" font-weight="bold">Turn</text>
+<rect x="50" y="128" width="317" height="24" fill="#efe6c9" stroke="#999" stroke-width="1"/>
+<rect x="367" y="128" width="53" height="24" fill="#fff" stroke="#999" stroke-width="1"/>
+<text x="208" y="145" text-anchor="middle" font-size="13">≥ 3 times a day (best 5), about 180° each</text>
+<text x="393.5" y="145" font-size="12" text-anchor="middle" fill="#c33">stop</text>
+<line x1="50" y1="164" x2="420" y2="164" stroke="#333" stroke-width="2"/>
+<g stroke="#333" stroke-width="2">
+<line x1="50" y1="158" x2="50" y2="170"/>
+<line x1="173" y1="158" x2="173" y2="170"/>
+<line x1="367" y1="158" x2="367" y2="170"/>
+<line x1="420" y1="158" x2="420" y2="170"/>
+</g>
+<g font-size="13" text-anchor="middle">
+<text x="50" y="186">set</text>
+<text x="173" y="186">day 7</text>
+<text x="363" y="186">day 18</text>
+<text x="426" y="186">day 21</text>
+</g>
+<text x="14" y="210">No fan: 38.3-38.9°C (thermometer at egg-top height)</text>
+<text x="14" y="230">Last 3 days: raise humidity; keep the lid shut at hatching</text>
+<text x="14" y="250">Mark “×” on one side, “○” on the other; check all turned</text>
+</g>
+
+<g transform="translate(10,314)">
+<rect x="0" y="0" width="172" height="248" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="22" font-size="15" font-weight="bold">Around day 7</text>
+<rect x="6" y="32" width="160" height="144" rx="6" fill="#2b2b2b"/>
+<g transform="translate(86,96) scale(0.85)">
+<use href="#lamp"/>
+<use href="#egg" fill="url(#glow)" stroke="#c9852e" stroke-width="2"/>
+<use href="#cell"/>
+<g fill="none" stroke="#b0281e" stroke-width="1.8" stroke-linecap="round" clip-path="url(#eggClip)">
+<path d="M6,-6 Q-8,-16 -22,-12 Q-30,-10 -34,-20"/>
+<path d="M-22,-12 Q-28,-2 -38,0"/>
+<path d="M6,-6 Q14,-22 26,-24 Q34,-26 36,-36"/>
+<path d="M26,-24 Q34,-16 40,-12"/>
+<path d="M6,-6 Q22,2 30,14 Q34,20 42,20"/>
+<path d="M30,14 Q24,22 26,30"/>
+<path d="M6,-6 Q-4,10 -18,16 Q-26,20 -30,30"/>
+<path d="M-18,16 Q-30,10 -40,14"/>
+<path d="M6,-6 Q2,-26 -6,-38 Q-10,-46 -4,-52"/>
+<path d="M-6,-38 Q-16,-40 -22,-46"/>
+</g>
+<circle cx="6" cy="-6" r="6" fill="#2a1a10"/>
+</g>
+<text x="12" y="198" font-size="15" font-weight="bold">✓ Fertile, normal</text>
+<text x="12" y="218" font-size="13">spidery blood vessels</text>
+<text x="12" y="236" font-size="13">and a dark spot (embryo)</text>
+</g>
+
+<g transform="translate(186,314)">
+<rect x="0" y="0" width="172" height="248" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="22" font-size="15" font-weight="bold">Around day 7</text>
+<rect x="6" y="32" width="160" height="144" rx="6" fill="#2b2b2b"/>
+<g transform="translate(86,96) scale(0.85)">
+<use href="#lamp"/>
+<use href="#egg" fill="url(#glow)" stroke="#c9852e" stroke-width="2"/>
+<use href="#cell"/>
+</g>
+<text x="12" y="198" font-size="15" font-weight="bold" fill="#c33">✗ Infertile</text>
+<text x="12" y="218" font-size="13">clear, nothing inside</text>
+<text x="12" y="236" font-size="13">→ remove</text>
+</g>
+
+<g transform="translate(362,314)">
+<rect x="0" y="0" width="172" height="248" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="22" font-size="15" font-weight="bold">Around day 7</text>
+<rect x="6" y="32" width="160" height="144" rx="6" fill="#2b2b2b"/>
+<g transform="translate(86,96) scale(0.85)">
+<use href="#lamp"/>
+<use href="#egg" fill="url(#glow)" stroke="#c9852e" stroke-width="2"/>
+<use href="#cell"/>
+<path d="M2,-30 Q26,-28 26,-4 Q27,20 0,22 Q-24,21 -25,-4 Q-24,-31 2,-30 Z" fill="none" stroke="#b0281e" stroke-width="3.5"/>
+</g>
+<text x="12" y="198" font-size="15" font-weight="bold" fill="#c33">✗ Dead embryo</text>
+<text x="12" y="218" font-size="13">blood ring → remove</text>
+<text x="12" y="236" font-size="13">(left in, it rots or bursts)</text>
+</g>
+
+<g transform="translate(538,314)">
+<rect x="0" y="0" width="172" height="248" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="22" font-size="15" font-weight="bold">Around day 18</text>
+<rect x="6" y="32" width="160" height="144" rx="6" fill="#2b2b2b"/>
+<g transform="translate(86,96) scale(0.85)">
+<use href="#lamp"/>
+<use href="#egg" fill="url(#glow)" stroke="#c9852e" stroke-width="2"/>
+<path d="M-50,-70 L50,-70 L50,40 Q0,26 -50,40 Z" fill="#3b2616" clip-path="url(#eggClip)"/>
+<use href="#egg" fill="none" stroke="#c9852e" stroke-width="2"/>
+<use href="#cell"/>
+</g>
+<text x="134" y="140" font-size="12" fill="#9cc8f0">air</text>
+<text x="134" y="154" font-size="12" fill="#9cc8f0">cell</text>
+<line x1="132" y1="136" x2="114" y2="126" stroke="#9cc8f0" stroke-width="1"/>
+<text x="12" y="198" font-size="15" font-weight="bold">✓ Normal</text>
+<text x="12" y="218" font-size="13">mostly dark inside,</text>
+<text x="12" y="236" font-size="13">sharp air-cell edge</text>
+</g>
+</g>
+</svg>

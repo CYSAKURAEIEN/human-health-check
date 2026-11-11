@@ -1,0 +1,204 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1170" width="720" height="1170" role="img" aria-label="Quenching and tempering steel: 1 Heat carbon steel slowly and evenly to about 780-850°C (cherry red), judging the colour in the shade; when a magnet just stops sticking (about 770°C), heat a little more, then soak to heat through: small parts 30 seconds-2 minutes, large parts 5-10 minutes; do not heat past bright red or leave it soaking in the fire; 2 grip the thick end firmly with tongs, edge down, and plunge it in upright, fast and all the way, moving it up and down along the edge, not side to side; 3 in water, after about 3-5 seconds it stops boiling hard and no longer glows; thin pieces can be lifted out, thick ones stay in the liquid to cool below about 100°C; take it out when you can just hold it (about 50-80°C) and temper at once; do not let it cool fully and stand overnight. Quenching liquids: room-temperature water about 20°C; brine with 5-10% salt; oil preheated to about 50°C; use at least 10 times the work's weight in liquid, about 10 L of water or 4-5 L of oil for a kitchen knife; never petrol, diesel or alcohol. Temper colours: 200-220°C pale straw for files, scrapers and razors; 230-240°C dark straw for kitchen knives, plane irons and drill bits; 250-260°C brown for axes and chisels; 270-280°C purple for scissors and punches; 290-300°C dark blue for saw blades and screwdrivers; 310-350°C light blue-grey for springs. To run the colours, heat from the back so the colours run towards the edge, and dip in water as soon as the target colour arrives. If quench oil catches fire, put the lid on to smother it; never throw water on it" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Quenching and tempering steel</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="arR2" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="arG" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#888"/></marker>
+<clipPath id="barClip"><path d="M60,728 H260 L304,744 L260,752 H60 Z"/></clipPath>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Quenching and tempering steel</text>
+
+<!-- 1 heating -->
+<rect x="8" y="44" width="228" height="340" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="66" font-size="15" font-weight="bold">① Heating</text>
+<path d="M22,182 Q36,150 70,142 Q100,134 130,142 Q160,150 170,182 Z" fill="#3d3d3d" stroke="#222" stroke-width="1.5"/>
+<g fill="#5e5e5e"><circle cx="44" cy="170" r="4"/><circle cx="66" cy="158" r="4"/><circle cx="146" cy="160" r="4"/><circle cx="158" cy="174" r="4"/><circle cx="90" cy="172" r="4"/><circle cx="120" cy="174" r="4"/></g>
+<ellipse cx="100" cy="152" rx="44" ry="9" fill="#f08a2a"/>
+<path d="M40,144 H226 V152 H40 Z" fill="#8a8a8a" stroke="#333" stroke-width="1.2"/>
+<rect x="41" y="145" width="112" height="6" fill="#d4372a"/>
+<path d="M150,72 V98" stroke="#555" stroke-width="1.2"/>
+<path d="M138,128 V108 Q138,98 150,98 Q162,98 162,108 V128 H156 V108 Q156,104 150,104 Q144,104 144,108 V128 Z" fill="#c33" stroke="#333" stroke-width="1.2"/>
+<rect x="138" y="122" width="6" height="6" fill="#ddd" stroke="#333" stroke-width="1"/>
+<rect x="156" y="122" width="6" height="6" fill="#ddd" stroke="#333" stroke-width="1"/>
+<text x="166" y="100" font-size="12" fill="#555">magnet:</text>
+<text x="166" y="114" font-size="12" fill="#c33" font-weight="bold">no longer</text>
+<text x="166" y="128" font-size="12" fill="#c33" font-weight="bold">sticks</text>
+<text x="24" y="196" font-size="12" fill="#555">charcoal fire</text>
+<g font-size="13">
+<text x="18" y="216" font-weight="bold" fill="#c33">Carbon steel: about</text>
+<text x="18" y="234" font-weight="bold" fill="#c33">780-850°C (cherry red)</text>
+<text x="18" y="254">Judge the colour in the shade;</text>
+<text x="18" y="272">when a magnet just stops</text>
+<text x="18" y="290">sticking (about 770°C), heat</text>
+<text x="18" y="308">a little more</text>
+<text x="18" y="326">Soak to heat through: small</text>
+<text x="18" y="344">parts 30 seconds-2 minutes,</text>
+<text x="18" y="362">large parts 5-10 minutes</text>
+</g>
+<text x="18" y="378" font-size="12" fill="#c33">✗ Do not heat past bright red</text>
+
+<!-- 2 into the liquid -->
+<rect x="244" y="44" width="228" height="340" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="254" y="66" font-size="15" font-weight="bold">② Into the liquid, upright</text>
+<rect x="301" y="140" width="98" height="96" fill="#a9cdf2"/>
+<path d="M298,118 V238 H402 V118" fill="none" stroke="#333" stroke-width="2.5"/>
+<path d="M301,140 H399" stroke="#0b5cad" stroke-width="1.2"/>
+<path d="M344,152 H356 L354,206 L350,220 L346,206 Z" fill="#555" stroke="#333" stroke-width="1.2"/>
+<path d="M346,80 L345,156 M354,80 L355,156" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+<text x="362" y="96" font-size="12" fill="#555">tongs</text>
+<path d="M378,162 V206" stroke="#c33" stroke-width="2.5" marker-start="url(#arR2)" marker-end="url(#arR2)"/>
+<path d="M306,188 H336" stroke="#888" stroke-width="2" marker-start="url(#arG)" marker-end="url(#arG)"/>
+<path d="M314,178 L328,198 M328,178 L314,198" stroke="#c33" stroke-width="2"/>
+<text x="406" y="190" font-size="12" fill="#c33" font-weight="bold">move up</text>
+<text x="406" y="205" font-size="12" fill="#c33" font-weight="bold">and down</text>
+<text x="294" y="110" font-size="12" fill="#555" text-anchor="end">deep</text>
+<text x="294" y="124" font-size="12" fill="#555" text-anchor="end">vessel</text>
+<text x="398" y="232" font-size="12" fill="#555" text-anchor="end">edge down</text>
+<g font-size="13">
+<text x="254" y="258">Grip the thick end, edge down;</text>
+<text x="254" y="276">plunge it in upright, fast and</text>
+<text x="254" y="294">all the way; move it up and</text>
+<text x="254" y="312">down along the edge, never</text>
+<text x="254" y="330">side to side (it would bend)</text>
+</g>
+
+<!-- 3 take out -->
+<rect x="480" y="44" width="232" height="340" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="490" y="66" font-size="15" font-weight="bold">③ Take out, temper at once</text>
+<rect x="503" y="168" width="84" height="56" fill="#a9cdf2"/>
+<path d="M500,150 V226 H590 V150" fill="none" stroke="#333" stroke-width="2.5"/>
+<path d="M539,104 H551 L549,150 L545,162 L541,150 Z" fill="#666" stroke="#333" stroke-width="1.2"/>
+<path d="M541,78 L540,108 M549,78 L550,108" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+<path d="M520,150 V104" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<path d="M564,150 Q558,140 564,130 Q570,120 564,110 M576,152 Q570,142 576,132" fill="none" stroke="#999" stroke-width="1.5"/>
+<rect x="604" y="90" width="102" height="108" rx="4" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<text x="655" y="110" font-size="14" font-weight="bold" fill="#c33" text-anchor="middle">Temper now</text>
+<text x="655" y="128" font-size="12" text-anchor="middle">do not let it</text>
+<text x="655" y="142" font-size="12" text-anchor="middle">cool fully and</text>
+<text x="655" y="156" font-size="12" text-anchor="middle">stand overnight</text>
+<text x="655" y="174" font-size="12" fill="#555" text-anchor="middle">(it can crack</text>
+<text x="655" y="188" font-size="12" fill="#555" text-anchor="middle">by itself)</text>
+<path d="M558,128 H600" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<g font-size="13">
+<text x="490" y="250">Water: after about 3-5 seconds</text>
+<text x="490" y="268">it stops boiling hard and no</text>
+<text x="490" y="286">longer glows: lift thin pieces</text>
+<text x="490" y="304">out; leave thick ones in to cool</text>
+<text x="490" y="322">below about 100°C; take it out</text>
+<text x="490" y="340">when you can just hold it</text>
+<text x="490" y="358">(about 50-80°C)</text>
+</g>
+
+<!-- quenching liquids -->
+<g transform="translate(0,82)">
+<rect x="8" y="312" width="704" height="200" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="336" font-size="15" font-weight="bold">Quenching liquids</text>
+<rect x="18" y="348" width="14" height="14" fill="#a9cdf2" stroke="#333"/>
+<rect x="250" y="348" width="14" height="14" fill="#cfe0f0" stroke="#333"/>
+<rect x="482" y="348" width="14" height="14" fill="#e8c860" stroke="#333"/>
+<g font-size="13">
+<text x="38" y="360" font-weight="bold">Water: fast, hard, may crack</text>
+<text x="18" y="380">use room-temperature water</text>
+<text x="18" y="398">(about 20°C), not iced water;</text>
+<text x="18" y="416">for simple shapes, small parts</text>
+<text x="270" y="360" font-weight="bold">Brine: fastest, cracks most</text>
+<text x="250" y="380">add 5-10% salt: cools faster</text>
+<text x="250" y="398">and more evenly; only for</text>
+<text x="250" y="416">simple shapes</text>
+<text x="502" y="360" font-weight="bold">Oil: slower, cracks less</text>
+<text x="482" y="380">preheat to about 50°C with a</text>
+<text x="482" y="398">red-hot piece of scrap iron; for</text>
+<text x="482" y="416">complex shapes and large parts;</text>
+<text x="482" y="434">use oil for high-carbon steel</text>
+<text x="18" y="460" font-size="14">Use at least 10 times the work's weight in liquid: a kitchen knife needs about</text>
+<text x="18" y="478" font-size="14">10 L of water or 4-5 L of oil; use a deep container</text>
+<text x="18" y="500" font-size="14" fill="#c33">✗ Never use petrol, diesel, alcohol or other low-flash-point liquids: they catch fire on red-hot iron</text>
+</g>
+</g>
+
+<!-- tempering -->
+<g transform="translate(0,134)">
+<rect x="8" y="470" width="704" height="428" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="494" font-size="15" font-weight="bold">④ Tempering (always temper after quenching)</text>
+<text x="18" y="514" font-size="13">Polish a bright face on the work, heat it slowly and watch the temper colours on the surface</text>
+<text x="18" y="532" font-size="13" fill="#555">Temper colours are oxide films on bright steel (the steel does not glow); oil and scale distort them</text>
+<g transform="translate(0,18)">
+<text x="24" y="536" font-size="13" fill="#0b5cad" font-weight="bold">← harder</text>
+<text x="696" y="536" font-size="13" fill="#0b5cad" font-weight="bold" text-anchor="end">tougher →</text>
+<text x="360" y="536" font-size="13" fill="#555" text-anchor="middle">colours appear in this order as it heats →</text>
+<g stroke="#333" stroke-width="1.2">
+<rect x="24" y="544" width="112" height="46" fill="#efe08a"/>
+<rect x="136" y="544" width="112" height="46" fill="#d9a521"/>
+<rect x="248" y="544" width="112" height="46" fill="#9b5a2a"/>
+<rect x="360" y="544" width="112" height="46" fill="#7b3f91"/>
+<rect x="472" y="544" width="112" height="46" fill="#23408e"/>
+<rect x="584" y="544" width="112" height="46" fill="#9db1c2"/>
+</g>
+<g text-anchor="middle">
+<g font-size="14" font-weight="bold">
+<text x="80" y="610">200-220°C</text><text x="192" y="610">230-240°C</text><text x="304" y="610">250-260°C</text><text x="416" y="610">270-280°C</text><text x="528" y="610">290-300°C</text><text x="640" y="610">310-350°C</text>
+</g>
+<g font-size="13">
+<text x="80" y="628">pale straw</text><text x="192" y="628">dark straw</text><text x="304" y="628">brown</text><text x="416" y="628">purple</text><text x="528" y="628">dark blue</text><text x="640" y="628">light blue-grey</text>
+</g>
+<g font-size="12" fill="#555">
+<text x="80" y="646">files, scrapers,</text><text x="80" y="661">razors</text>
+<text x="192" y="646">kitchen knives,</text><text x="192" y="661">plane irons,</text><text x="192" y="676">drill bits</text>
+<text x="304" y="646">axes, chisels</text>
+<text x="416" y="646">scissors,</text><text x="416" y="661">punches</text>
+<text x="528" y="646">saw blades,</text><text x="528" y="661">screwdrivers</text>
+<text x="640" y="646">springs</text>
+</g>
+</g>
+</g>
+<g transform="translate(0,44)">
+<text x="18" y="670" font-size="12" fill="#555">All temperatures are approximate: calibrate your eye by quenching test pieces and checking hardness with a file</text>
+<!-- running the colours -->
+<text x="18" y="696" font-size="14" font-weight="bold">Running the colours (knife, chisel)</text>
+<g clip-path="url(#barClip)">
+<rect x="60" y="720" width="50" height="40" fill="#23408e"/>
+<rect x="110" y="720" width="40" height="40" fill="#7b3f91"/>
+<rect x="150" y="720" width="40" height="40" fill="#9b5a2a"/>
+<rect x="190" y="720" width="40" height="40" fill="#d9a521"/>
+<rect x="230" y="720" width="40" height="40" fill="#efe08a"/>
+<rect x="270" y="720" width="40" height="40" fill="#e4e4e4"/>
+</g>
+<path d="M60,728 H260 L304,744 L260,752 H60 Z" fill="none" stroke="#333" stroke-width="1.5"/>
+<rect x="52" y="758" width="70" height="8" rx="2" fill="#d4372a" stroke="#333" stroke-width="1"/>
+<path d="M86,758 V754" stroke="#c33" stroke-width="2"/>
+<path d="M96,716 H250" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="258" y="712" font-size="12" fill="#c33">colours "run"</text>
+<text x="258" y="725" font-size="12" fill="#c33">to the edge</text>
+<text x="300" y="764" font-size="12" fill="#555">edge</text>
+<text x="30" y="786" font-size="13">A red-hot thick iron bar heats only</text>
+<text x="30" y="804" font-size="13">the back or tang;</text>
+<text x="30" y="822" font-size="13" fill="#c33" font-weight="bold">when the edge reaches the target</text>
+<text x="30" y="840" font-size="13" fill="#c33" font-weight="bold">colour, dip it in water at once</text>
+<g font-size="13">
+<text x="352" y="696">✓ At the target colour, take it off the heat at once;</text>
+<text x="368" y="713">cool in air or oil</text>
+<text x="352" y="735">✓ Tempering heat is far below quenching heat:</text>
+<text x="368" y="752">dipping in water will not harden it again</text>
+<text x="352" y="774">✗ Colour overshot (wanted yellow, got blue): quench</text>
+<text x="368" y="791">and temper again; you cannot "go back"</text>
+<text x="352" y="813">✓ Thick parts (over 10 mm): after reaching the colour,</text>
+<text x="368" y="830">leave 10-15 minutes in hot sand, or temper twice</text>
+</g>
+</g>
+</g>
+
+<!-- safety -->
+<g transform="translate(0,222)">
+<rect x="8" y="820" width="704" height="120" rx="6" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<g font-size="14">
+<text x="22" y="842"><tspan font-weight="bold" fill="#c33">⚠ Quench-oil fire:</tspan> keep the oil in a metal drum with a lid and dry sand nearby; if it catches</text>
+<text x="38" y="860">fire, put the lid on to smother it; <tspan font-weight="bold">never throw water on it</tspan></text>
+<text x="22" y="884"><tspan font-weight="bold" fill="#c33">⚠ Steam and hot water:</tspan> wear long sleeves, a leather apron and leather gloves;</text>
+<text x="38" y="902">keep your face away from the quench tank</text>
+<text x="22" y="926"><tspan font-weight="bold" fill="#c33">⚠ Iron that no longer looks red is still several hundred degrees:</tspan> always use tongs</text>
+</g>
+</g>
+</g>
+</svg>

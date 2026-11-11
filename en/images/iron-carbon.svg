@@ -1,0 +1,185 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 920" width="720" height="920" role="img" aria-label="Wrought iron, steel, pig iron: carbon content decides the properties. Wrought iron has less than 0.2% carbon; it is soft and tough and cannot be hardened; red hot it can be forged into any shape, and cold it bends 90° without breaking; good for nails, wire, chain links and hoops; it comes from forging together sponge iron from the bloomery or from fining pig iron to remove carbon. Steel has 0.2-2% carbon and is both hard and tough; heated to about 780-850°C and cooled rapidly it hardens by quenching; medium-carbon steel, about 0.3-0.6%, balances strength and toughness, for axes, hammers and hoes; high-carbon steel, about 0.6-2%, is very hard after quenching and rather brittle, for knives, chisels, files and springs; steel comes from carburising wrought iron, from stopping fining before it is complete, or from salvaged files, springs and leaf springs. Pig iron has 2-4% carbon; it is very hard and very brittle and shatters when struck; it cannot be forged; with about 4% carbon it melts at about 1150°C and can be melted and cast into cooking pots and ploughshares; a grey fracture means grey cast iron, which a file will cut, good for casting; a bright white fracture means white cast iron, good for fining into wrought iron. The less carbon, the higher the melting point; pure iron melts at about 1538°C. Where they come from: iron ore plus charcoal; in the bloomery process at 1100-1300°C the iron does not melt and gives sponge iron, forged together while hot into wrought iron; in the pig-iron route at 1300-1400°C the iron melts and runs out as pig iron, which fining or blowing turns into wrought iron; wrought iron is carburised into steel; stopping fining before it is complete gives steel directly" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Wrought iron, steel, pig iron: carbon content decides the properties</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="arK" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#555"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<linearGradient id="hard" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#0b5cad"/><stop offset="1" stop-color="#c33"/></linearGradient>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Wrought iron, steel, pig iron: carbon content decides the properties</text>
+
+<!-- 1 carbon-content axis -->
+<rect x="8" y="44" width="704" height="236" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="66" font-size="15" font-weight="bold">① Three classes by carbon content (horizontal axis to scale)</text>
+<text x="20" y="94" font-size="15" font-weight="bold">Wrought iron</text>
+<text x="20" y="112" font-size="13">&lt;0.2%</text>
+<g text-anchor="middle">
+<text x="216" y="94" font-size="15" font-weight="bold">Steel</text>
+<text x="216" y="112" font-size="13">0.2-2%</text>
+<text x="520" y="94" font-size="15" font-weight="bold">Pig iron</text>
+<text x="520" y="112" font-size="13">2-4%</text>
+</g>
+<!-- 1% = 160 px, 0 at x=40 -->
+<g stroke="#333" stroke-width="1.5">
+<rect x="40" y="118" width="32" height="30" fill="#e8eef4"/>
+<rect x="72" y="118" width="288" height="30" fill="#b9cfe6"/>
+<rect x="360" y="118" width="320" height="30" fill="#9aa3ad"/>
+</g>
+<text x="216" y="138" font-size="13" text-anchor="middle">above about 0.3%: hardens when quenched</text>
+<text x="520" y="138" font-size="13" text-anchor="middle" fill="#fff">brittle, cannot be forged; can be melted and cast</text>
+<!-- medium / high carbon -->
+<rect x="88" y="152" width="48" height="12" fill="#7fa6cf" stroke="#333" stroke-width="1"/>
+<rect x="136" y="152" width="224" height="12" fill="#3f6fa3" stroke="#333" stroke-width="1"/>
+<g font-size="13" text-anchor="middle">
+<text x="112" y="182" font-weight="bold">medium-carbon</text>
+<text x="112" y="198">about 0.3-0.6%</text>
+<text x="256" y="182" font-weight="bold">high-carbon</text>
+<text x="256" y="198">about 0.6-2%</text>
+</g>
+<!-- ticks -->
+<g stroke="#333" stroke-width="1.2">
+<path d="M40,148 V156 M72,148 V156 M360,148 V156 M680,148 V156"/>
+</g>
+<g font-size="12" fill="#555" text-anchor="middle">
+<text x="36" y="168">0</text>
+<text x="72" y="168">0.2%</text>
+<text x="360" y="168">2%</text>
+<text x="680" y="168">4%</text>
+</g>
+<text x="520" y="182" font-size="12" fill="#555" text-anchor="middle">carbon content →</text>
+<!-- trend -->
+<rect x="40" y="216" width="626" height="4" fill="url(#hard)"/>
+<path d="M664,212 L680,218 L664,224 Z" fill="#c33"/>
+<text x="40" y="242" font-size="13" fill="#0b5cad" font-weight="bold">Less carbon: soft, tough,</text>
+<text x="40" y="260" font-size="13" fill="#0b5cad" font-weight="bold">higher melting point (pure iron about 1538°C)</text>
+<text x="680" y="242" font-size="13" fill="#c33" font-weight="bold" text-anchor="end">More carbon: hard, brittle,</text>
+<text x="680" y="260" font-size="13" fill="#c33" font-weight="bold" text-anchor="end">lower melting point (about 1150°C)</text>
+
+<!-- 2-4 three cards -->
+<g transform="translate(0,22)">
+<!-- wrought iron -->
+<rect x="8" y="268" width="228" height="370" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="292" font-size="15" font-weight="bold">② Wrought iron</text>
+<!-- nail icon -->
+<g transform="translate(206,282)">
+<rect x="-12" y="-6" width="24" height="5" rx="1" fill="#e8eef4" stroke="#333" stroke-width="1.5"/>
+<path d="M-3,-1 V20 L0,26 L3,20 V-1" fill="#e8eef4" stroke="#333" stroke-width="1.5"/>
+</g>
+<g font-size="13">
+<text x="18" y="316" font-weight="bold" fill="#0b5cad">Carbon &lt;0.2%</text>
+<text x="18" y="338">Soft, tough, cannot be hardened</text>
+<text x="18" y="356">Red hot, it can be forged into</text>
+<text x="18" y="374">any shape</text>
+<text x="18" y="392">Bends 90° cold without breaking</text>
+<text x="18" y="418" font-weight="bold">Good for:</text>
+<text x="18" y="436">nails, wire, chain links, hoops</text>
+<text x="18" y="454">(a blade body can also be</text>
+<text x="18" y="472">wrought iron, with a strip of</text>
+<text x="18" y="490">steel forge-welded in as the edge)</text>
+<text x="18" y="516" font-weight="bold">How it is made:</text>
+<text x="18" y="534">forge sponge iron from the</text>
+<text x="18" y="552">bloomery together while hot;</text>
+<text x="18" y="570">or fine pig iron to remove carbon</text>
+</g>
+
+<!-- steel -->
+<rect x="246" y="268" width="228" height="370" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="256" y="292" font-size="15" font-weight="bold">③ Steel</text>
+<!-- knife icon -->
+<g transform="translate(400,284)">
+<path d="M0,-4 H50 L62,2 Q52,8 0,6 Z" fill="#b9cfe6" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="-26" y="-4" width="26" height="10" rx="3" fill="#a0704a" stroke="#333" stroke-width="1.5"/>
+</g>
+<g font-size="13">
+<text x="256" y="316" font-weight="bold" fill="#0b5cad">Carbon 0.2-2%</text>
+<text x="256" y="338">Hard and tough; can be hardened</text>
+<text x="256" y="356">by quenching (heat to about</text>
+<text x="256" y="374">780-850°C, then cool rapidly)</text>
+<text x="256" y="400" font-weight="bold">Medium-carbon, about 0.3-0.6%</text>
+<text x="256" y="418">balances strength and toughness</text>
+<text x="256" y="436">→ axes, hammers, hoes</text>
+<text x="256" y="462" font-weight="bold">High-carbon, about 0.6-2%</text>
+<text x="256" y="480">very hard after quenching, rather</text>
+<text x="256" y="498">brittle → knives, chisels, files,</text>
+<text x="256" y="516">springs</text>
+<text x="256" y="542" font-weight="bold">How it is made:</text>
+<text x="256" y="560">carburise wrought iron; stop</text>
+<text x="256" y="578">fining before it is complete;</text>
+<text x="256" y="596">salvage files, springs, leaf springs</text>
+</g>
+
+<!-- pig iron -->
+<rect x="484" y="268" width="228" height="370" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="494" y="292" font-size="15" font-weight="bold">④ Pig iron</text>
+<!-- cooking pot icon -->
+<g transform="translate(668,292) scale(0.8)">
+<path d="M-28,-6 H28 Q26,14 0,16 Q-26,14 -28,-6 Z" fill="#9aa3ad" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M-28,-6 H-36 M28,-6 H36" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+</g>
+<g font-size="13">
+<text x="494" y="316" font-weight="bold" fill="#0b5cad">Carbon 2-4%</text>
+<text x="494" y="338">Very hard, very brittle;</text>
+<text x="494" y="356">shatters when struck</text>
+<text x="494" y="376" fill="#c33" font-weight="bold">✗ Cannot be forged (shatters)</text>
+<text x="494" y="396">With about 4% carbon it melts</text>
+<text x="494" y="414">at about 1150°C → melt and</text>
+<text x="494" y="432">cast in moulds</text>
+<text x="494" y="458" font-weight="bold">Good for:</text>
+<text x="494" y="476">cooking pots, ploughshares</text>
+<text x="494" y="494">(wear-resistant)</text>
+<text x="494" y="520" font-weight="bold">Look at the fracture:</text>
+<text x="494" y="538">grey, coarse-grained → grey</text>
+<text x="494" y="556">cast iron</text>
+<text x="494" y="572" font-size="12" fill="#555">(a file cuts it; good for casting)</text>
+<text x="494" y="592">bright white, extremely hard →</text>
+<text x="494" y="610">white cast iron</text>
+<text x="494" y="626" font-size="12" fill="#555">(good for fining into wrought iron)</text>
+</g>
+</g>
+
+<!-- 5 where they come from -->
+<g transform="translate(0,92)">
+<rect x="8" y="578" width="704" height="232" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="602" font-size="15" font-weight="bold">⑤ From ore to wrought iron and steel</text>
+<g stroke="#333" stroke-width="1.5">
+<rect x="20" y="624" width="92" height="96" rx="6" fill="#d9b9a0"/>
+<rect x="290" y="616" width="86" height="40" rx="6" fill="#e8eef4"/>
+<rect x="290" y="690" width="86" height="40" rx="6" fill="#9aa3ad"/>
+<rect x="486" y="640" width="80" height="64" rx="6" fill="#e8eef4"/>
+<rect x="618" y="640" width="80" height="64" rx="6" fill="#b9cfe6"/>
+</g>
+<g font-size="14" text-anchor="middle" font-weight="bold">
+<text x="66" y="666">iron ore</text>
+<text x="66" y="686">+ charcoal</text>
+<text x="333" y="641" font-size="13">sponge iron</text>
+<text x="333" y="715" font-size="13">pig iron</text>
+<text x="526" y="669">wrought</text>
+<text x="526" y="686">iron</text>
+<text x="658" y="677">steel</text>
+</g>
+<!-- bloomery -->
+<path d="M112,646 H284" stroke="#555" stroke-width="2" marker-end="url(#arK)"/>
+<text x="198" y="636" font-size="13" text-anchor="middle" font-weight="bold">bloomery process</text>
+<text x="198" y="662" font-size="12" text-anchor="middle" fill="#555">1100-1300°C: does not melt</text>
+<!-- pig-iron route -->
+<path d="M112,702 H284" stroke="#555" stroke-width="2" marker-end="url(#arK)"/>
+<text x="198" y="692" font-size="13" text-anchor="middle" font-weight="bold">pig-iron route</text>
+<text x="198" y="718" font-size="12" text-anchor="middle" fill="#555">1300-1400°C: runs out molten</text>
+<!-- sponge iron to wrought iron -->
+<path d="M376,636 H430 Q440,636 446,646 L480,662" fill="none" stroke="#555" stroke-width="2" marker-end="url(#arK)"/>
+<text x="420" y="611" font-size="12" text-anchor="middle">forge together while hot</text>
+<!-- pig iron to wrought iron -->
+<path d="M376,710 H430 Q440,710 446,700 L480,684" fill="none" stroke="#555" stroke-width="2" marker-end="url(#arK)"/>
+<text x="420" y="736" font-size="12" text-anchor="middle">fining or blowing</text>
+<text x="420" y="751" font-size="12" text-anchor="middle">removes carbon</text>
+<!-- wrought iron to steel -->
+<path d="M566,672 H612" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="592" y="634" font-size="13" text-anchor="middle" fill="#c33" font-weight="bold">carburise</text>
+<!-- pig iron to steel (fining stopped early) -->
+<path d="M333,730 V766 Q333,778 345,778 H646 Q658,778 658,766 V710" fill="none" stroke="#0b5cad" stroke-width="1.8" stroke-dasharray="6 4" marker-end="url(#arB)"/>
+<text x="496" y="798" font-size="12" text-anchor="middle" fill="#0b5cad">stop fining before it is complete → steel directly (hard to control)</text>
+</g>
+</g>
+</svg>

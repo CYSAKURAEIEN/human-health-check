@@ -1,0 +1,183 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 820" width="720" height="820" role="img" aria-label="Cross-section of a chicken coop layout: back to the north, facing south, few windows in the north wall; coop 2-2.5 m high; exhaust vent at the ridge or under the eaves, air inlet low down, but no through-draught at bird height; windows and vents covered with metal mesh of about 1-1.5 cm; perches all at one height, 4-5 cm in diameter, 30-35 cm apart, about 50-60 cm off the ground, with a droppings board below cleaned weekly; nest boxes 30×30×30 cm with a front lip of about 10 cm, box floor about 30-40 cm off the ground, in a dark spot, lower than the perches; hard floor covered with litter; mesh buried 30-45 cm down along the wall footings, or a 50 cm wide strip of mesh laid flat outside the wall and covered with soil; run 2-3 times the coop area, fence about 1.8-2 m high, with shade and a dust-bath pit. By number of birds: indoors, light laying breeds 6-8 birds/m², native and dual-purpose breeds 4-6 birds/m²; perch 15-20 cm per bird (large breeds 20-25 cm); one nest box per 4-5 hens; feeder 8-10 cm per bird; water about 0.2-0.3 L per bird per day, double in hot weather; total window and vent area at least about 1/10 of the floor area" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Chicken coop layout</title>
+<defs>
+<pattern id="soil" width="16" height="16" patternUnits="userSpaceOnUse"><rect width="16" height="16" fill="#efe4cf"/><circle cx="4" cy="5" r="1.1" fill="#bba57a"/><circle cx="12" cy="12" r="1.1" fill="#bba57a"/><circle cx="11" cy="3" r="0.8" fill="#bba57a"/></pattern>
+<pattern id="mesh" width="6" height="6" patternUnits="userSpaceOnUse"><rect width="6" height="6" fill="#fff"/><path d="M0 0 H6 M0 0 V6" stroke="#777" stroke-width="1"/></pattern>
+<pattern id="straw" width="10" height="8" patternUnits="userSpaceOnUse"><rect width="10" height="8" fill="#f1dc9a"/><path d="M0 6 L6 2 M5 7 L10 4" stroke="#c9a94e" stroke-width="1"/></pattern>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<marker id="arB0" viewBox="0 0 10 10" refX="2" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M10 0 L0 5 L10 10 Z" fill="#0b5cad"/></marker>
+<g id="hen"><path d="M-14 -4 L-20 -16 L-9 -9 Z" fill="#a8652e" stroke="#333" stroke-width="1.2" stroke-linejoin="round"/><ellipse cx="0" cy="0" rx="14" ry="9" fill="#d89a5a" stroke="#333" stroke-width="1.5"/><path d="M-6 -1 Q0 5 7 0" fill="none" stroke="#a8652e" stroke-width="1.2"/><circle cx="11" cy="-10" r="5" fill="#d89a5a" stroke="#333" stroke-width="1.5"/><path d="M8 -15 Q10 -20 12 -15 Q14 -20 15 -14 Z" fill="#c33"/><path d="M16 -11 L20 -9 L16 -8 Z" fill="#e8a33a" stroke="#333" stroke-width="0.8"/><circle cx="12" cy="-11" r="0.9" fill="#222"/></g>
+<g id="henLeg"><use href="#hen"/><path d="M-2 8 V16 M4 8 V16 M-5 16 H1 M1 16 H7" stroke="#c9852e" stroke-width="1.6"/></g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Chicken coop layout (cross-section, not to scale)</text>
+<!-- orientation -->
+<path d="M70 58 H24" stroke="#0b5cad" stroke-width="2" marker-end="url(#arB)"/>
+<text x="76" y="63" font-size="15" font-weight="bold" fill="#0b5cad">N</text>
+<path d="M650 58 H696" stroke="#0b5cad" stroke-width="2" marker-end="url(#arB)"/>
+<text x="632" y="63" font-size="15" font-weight="bold" fill="#0b5cad">S</text>
+<text x="360" y="63" font-size="15" text-anchor="middle">Face south, away from winter wind (cold areas: few north windows)</text>
+<circle cx="672" cy="104" r="15" fill="#ffd866" stroke="#e0a020" stroke-width="2"/>
+<path d="M672 80 V84 M672 124 V128 M648 104 H652 M692 104 H696 M655 87 L658 90 M686 118 L689 121 M689 87 L686 90 M658 118 L655 121" stroke="#e0a020" stroke-width="2"/>
+
+<!-- underground -->
+<rect x="10" y="430" width="700" height="90" fill="url(#soil)"/>
+<path d="M10 430 H710" stroke="#999" stroke-width="3"/>
+
+<!-- walls, roof -->
+<rect x="110" y="200" width="12" height="230" fill="#d9c7a8" stroke="#333" stroke-width="2"/>
+<rect x="110" y="430" width="12" height="40" fill="#bfae90" stroke="#333" stroke-width="2"/>
+<rect x="438" y="200" width="12" height="230" fill="#d9c7a8" stroke="#333" stroke-width="2"/>
+<rect x="438" y="430" width="12" height="20" fill="#bfae90" stroke="#333" stroke-width="2"/>
+<path d="M88 214 L266 122 M294 122 L472 214" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+<path d="M258 116 L280 100 L302 116" fill="none" stroke="#333" stroke-width="3" stroke-linejoin="round"/>
+<path d="M266 122 V116 M294 122 V116" stroke="#333" stroke-width="2"/>
+<!-- vents under the eaves (north, south) -->
+<rect x="110" y="208" width="12" height="22" fill="url(#mesh)" stroke="#333" stroke-width="1.5"/>
+<rect x="438" y="208" width="12" height="22" fill="url(#mesh)" stroke="#333" stroke-width="1.5"/>
+<!-- low inlet window in the south wall -->
+<rect x="438" y="296" width="12" height="48" fill="url(#mesh)" stroke="#333" stroke-width="1.5"/>
+<!-- pop hole for the birds -->
+<rect x="438" y="390" width="12" height="40" fill="#fff" stroke="#333" stroke-width="1.5"/>
+<rect x="452" y="390" width="6" height="40" fill="#b98c4f" stroke="#333" stroke-width="1.5"/>
+<rect x="452" y="404" width="10" height="4" fill="#555"/>
+
+<!-- floor: hard surface + litter -->
+<rect x="122" y="430" width="316" height="10" fill="#c8c8c8" stroke="#333" stroke-width="1.5"/>
+<rect x="122" y="421" width="316" height="9" fill="url(#straw)"/>
+
+<!-- anti-dig mesh -->
+<path d="M106 430 V472" stroke="#c33" stroke-width="2.5" stroke-dasharray="5 3"/>
+<path d="M454 434 H504" stroke="#c33" stroke-width="2.5" stroke-dasharray="5 3"/>
+
+<!-- airflow -->
+<path d="M492 320 H456" stroke="#0b5cad" stroke-width="2" marker-end="url(#arB)"/>
+<path d="M432 316 C 380 300, 330 240, 284 132" fill="none" stroke="#0b5cad" stroke-width="1.8" stroke-dasharray="6 4" marker-end="url(#arB)"/>
+<path d="M280 98 V76" stroke="#0b5cad" stroke-width="2" marker-end="url(#arB)"/>
+<path d="M108 219 H94" stroke="#0b5cad" stroke-width="2" marker-end="url(#arB)"/>
+
+<!-- nest box (by the north wall, in the dark) -->
+<rect x="124" y="364" width="52" height="38" fill="#e6d2b0" stroke="#333" stroke-width="2"/>
+<rect x="128" y="388" width="44" height="14" fill="url(#straw)"/>
+<rect x="172" y="390" width="4" height="12" fill="#8b6b3e"/>
+<path d="M130 402 V421 M170 402 V421" stroke="#8b6b3e" stroke-width="3"/>
+<use href="#hen" transform="translate(148,384) scale(0.85)"/>
+<rect x="166" y="380" width="10" height="22" fill="#b98c4f" stroke="#333" stroke-width="1.5"/>
+
+<!-- perches -->
+<path d="M230 421 V336 M350 421 V336" stroke="#8b6b3e" stroke-width="4"/>
+<path d="M226 336 H354" stroke="#8b6b3e" stroke-width="4"/>
+<circle cx="250" cy="330" r="5" fill="#b98c4f" stroke="#333" stroke-width="1.5"/>
+<circle cx="290" cy="330" r="5" fill="#b98c4f" stroke="#333" stroke-width="1.5"/>
+<circle cx="330" cy="330" r="5" fill="#b98c4f" stroke="#333" stroke-width="1.5"/>
+<use href="#hen" transform="translate(250,317) scale(0.85)"/>
+<use href="#hen" transform="translate(290,317) scale(0.85)"/>
+<use href="#hen" transform="translate(330,317) scale(0.85)"/>
+<!-- droppings board -->
+<rect x="226" y="368" width="128" height="6" fill="#999" stroke="#333" stroke-width="1.5"/>
+<text x="290" y="392" font-size="13" text-anchor="middle">Droppings board,</text>
+<text x="290" y="408" font-size="13" text-anchor="middle">clean weekly</text>
+
+<!-- perch labels -->
+<text x="134" y="252" font-size="14" font-weight="bold">Perches</text>
+<text x="134" y="270" font-size="13">all at one height</text>
+<text x="134" y="287" font-size="13">Ø 4-5 cm</text>
+<line x1="196" y1="283" x2="244" y2="326" stroke="#0b5cad" stroke-width="1.3"/><circle cx="244" cy="326" r="2.6" fill="#0b5cad"/>
+<path d="M254 344 H286" stroke="#0b5cad" stroke-width="1.3" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<text x="290" y="360" font-size="13" fill="#0b5cad" text-anchor="middle">30-35 cm apart</text>
+<path d="M374 333 V418" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<path d="M336 330 H380" stroke="#0b5cad" stroke-width="1" stroke-dasharray="3 2"/>
+<text x="380" y="372" font-size="13" fill="#0b5cad">off floor</text>
+<text x="380" y="388" font-size="13" fill="#0b5cad">50-60 cm</text>
+
+<!-- height -->
+<path d="M84 228 V426" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<text x="16" y="320" font-size="14" font-weight="bold" fill="#0b5cad">Height</text>
+<text x="16" y="338" font-size="14" font-weight="bold" fill="#0b5cad">2-2.5 m</text>
+
+<!-- ventilation labels -->
+<text x="308" y="92" font-size="14" font-weight="bold">Exhaust vent</text>
+<text x="308" y="110" font-size="13" fill="#555">(ridge or under eaves)</text>
+<text x="472" y="160" font-size="13">Windows, vents: metal mesh</text>
+<text x="472" y="177" font-size="13">about 1-1.5 cm</text>
+<line x1="486" y1="182" x2="452" y2="222" stroke="#0b5cad" stroke-width="1.3"/><circle cx="452" cy="222" r="2.6" fill="#0b5cad"/>
+<text x="500" y="314" font-size="14" font-weight="bold">Air inlet low down</text>
+<text x="500" y="332" font-size="13" fill="#555">no draught at bird height</text>
+
+<!-- run -->
+<text x="490" y="226" font-size="15" font-weight="bold">Run</text>
+<text x="490" y="245" font-size="13">2-3 × coop area</text>
+<text x="490" y="262" font-size="13">split into 2-3 plots,</text>
+<text x="490" y="279" font-size="13">used in rotation</text>
+<path d="M694 246 V430" stroke="#555" stroke-width="3"/>
+<rect x="688" y="250" width="12" height="180" fill="url(#mesh)" fill-opacity="0.8"/>
+<path d="M694 246 V430" stroke="#555" stroke-width="3"/>
+<path d="M676 250 V426" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<text x="616" y="210" font-size="13" fill="#0b5cad">Fence</text>
+<text x="616" y="226" font-size="13" fill="#0b5cad">about</text>
+<text x="616" y="242" font-size="13" fill="#0b5cad">1.8-2 m</text>
+<!-- shade shelter -->
+<path d="M590 356 L668 344" stroke="#8b6b3e" stroke-width="5" stroke-linecap="round"/>
+<path d="M598 356 V430 M660 346 V430" stroke="#8b6b3e" stroke-width="3"/>
+<text x="608" y="380" font-size="13">shade</text>
+<use href="#henLeg" transform="translate(624,412)"/>
+<!-- dust bath -->
+<path d="M516 431 Q542 446 568 431 Z" fill="#cfcfcf" stroke="#333" stroke-width="1.5"/>
+<text x="514" y="422" font-size="13">dust bath</text>
+<!-- door -->
+<text x="468" y="358" font-size="13" font-weight="bold">Secure door</text>
+<text x="468" y="374" font-size="13">before dark: count,</text>
+<text x="468" y="390" font-size="13">shut, bolt</text>
+<line x1="474" y1="395" x2="460" y2="406" stroke="#0b5cad" stroke-width="1.3"/><circle cx="460" cy="406" r="2.6" fill="#0b5cad"/>
+
+<!-- underground labels -->
+<text x="16" y="458" font-size="13" fill="#c33">Mesh along</text>
+<text x="16" y="474" font-size="13" fill="#c33">footings,</text>
+<text x="16" y="490" font-size="13" fill="#c33">30-45 cm deep</text>
+<text x="134" y="460" font-size="13">Nest box 30×30×30 cm, front lip ~10 cm;</text>
+<text x="134" y="477" font-size="13">floor 30-40 cm up, dark, lower than perches</text>
+<text x="134" y="502" font-size="13">Hard floor (cement, lime-clay-sand), litter (straw, sawdust)</text>
+<line x1="150" y1="448" x2="150" y2="404" stroke="#0b5cad" stroke-width="1.3"/><circle cx="150" cy="404" r="2.6" fill="#0b5cad"/>
+<text x="476" y="462" font-size="13" fill="#c33">Or: lay a 50 cm strip of mesh</text>
+<text x="476" y="478" font-size="13" fill="#c33">flat outside the wall, cover with soil</text>
+<line x1="490" y1="449" x2="482" y2="437" stroke="#c33" stroke-width="1.3"/>
+
+<!-- below: numbers and key points -->
+<g transform="translate(10,534)">
+<rect x="0" y="0" width="420" height="276" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="14" y="24" font-size="16" font-weight="bold">By number of birds</text>
+<g font-size="13">
+<text x="14" y="50" font-weight="bold">Floor area</text><text x="110" y="50">light laying breeds 6-8 birds/m²;</text>
+<text x="110" y="66">native, dual-purpose 4-6 birds/m²</text>
+<text x="110" y="82" fill="#555">upper figure if out in the run by day,</text>
+<text x="110" y="98" fill="#555">lower if shut in all day</text>
+<text x="14" y="122" font-weight="bold">Perch length</text><text x="110" y="122">15-20 cm per bird (large 20-25 cm)</text>
+<text x="14" y="146" font-weight="bold">Nest boxes</text><text x="110" y="146">one per 4-5 hens</text>
+<text x="14" y="170" font-weight="bold">Feeder</text><text x="110" y="170">about 8-10 cm per bird</text>
+<text x="110" y="186" fill="#555">(half that if fed from both sides)</text>
+<text x="14" y="210" font-weight="bold">Water</text><text x="110" y="210">0.2-0.3 L per bird a day, double if hot</text>
+<text x="14" y="234" font-weight="bold">Vent area</text><text x="110" y="234">windows + vents ≥ about 1/10 of floor</text>
+<text x="14" y="258" font-weight="bold">Run</text><text x="110" y="258">2-3 times the coop area</text>
+</g>
+</g>
+<g transform="translate(440,534)">
+<rect x="0" y="0" width="270" height="276" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="2"/>
+<text x="14" y="24" font-size="16" font-weight="bold" fill="#c33">Predators, ventilation</text>
+<g font-size="13">
+<text x="14" y="48">Shut birds in a closed coop at night</text>
+<text x="14" y="68">Weasels get through gaps of about</text>
+<text x="14" y="84">3-4 cm, can kill several in one night</text>
+<text x="14" y="104">Ordinary hexagonal wire only keeps</text>
+<text x="14" y="120">hens in; weasels and rats get through</text>
+<text x="14" y="140">Store feed in lidded metal bins, jars</text>
+<text x="14" y="160">Winter: close the low windows, leave</text>
+<text x="14" y="176">only the top vents open</text>
+<text x="14" y="196">Strong ammonia smell, stinging eyes:</text>
+<text x="14" y="212">ventilate more, change the litter</text>
+<text x="14" y="232">At least 30 m from wells and water,</text>
+<text x="14" y="248">and downhill of the water source</text>
+</g>
+</g>
+</g>
+</svg>

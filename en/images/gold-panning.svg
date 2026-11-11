@@ -1,0 +1,177 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 940" width="720" height="940" role="img" aria-label="Gold panning: gravity only, never mercury. Gold hardly combines with other elements, so it occurs in nature as metal; it is also extremely heavy, density about 19.3, so water can separate it from sand and gravel. 1 Where to look: on the inside of river bends, downstream of large boulders and in cracks in the bedrock of the riverbed, where heavy material settles; downstream of mountain areas with quartz veins. 2 The gold pan, a shallow pan with a fairly flat bottom: fill it with river sand, sink it in the water, break it up by hand and remove large stones; shake the pan from side to side and swirl it under water so the heavy material sinks to the bottom; tilt the pan slightly and let the water slowly wash out the light sand on top; repeat, and at the end the bottom of the pan holds black sand (magnetite, cassiterite and other heavy minerals) and gold grains. Gold grains are golden yellow, and are not angular and brittle like pyrite (fool's gold). 3 The sluice: a long sloping wooden trough with cross-strips (riffles) nailed to the bottom or lined with coarse felt; pour sand, gravel and water in at the top; the riffles catch the heavy gold grains and the light sand is washed away; far more efficient than the pan. Never use mercury to extract gold: mercury vapour is highly toxic, causes serious nerve damage and pollutes rivers and fish for a long time" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Gold panning: gravity only, never mercury</title>
+<defs>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<marker id="arK" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#555"/></marker>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<!-- gold pan, side view (origin at centre of pan bottom) -->
+<path id="pan" d="M-62,-26 L-46,0 H46 L62,-26" fill="none" stroke="#333" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Gold panning: gravity only (pan, sluice), never mercury</text>
+<text x="360" y="50" font-size="13" fill="#555" text-anchor="middle">Gold occurs as metal and is extremely heavy (density about 19.3): water separates it from sand and gravel</text>
+
+<!-- 1 where to look -->
+<rect x="8" y="64" width="704" height="246" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="88" font-size="15" font-weight="bold">① Where to look: where heavy material settles</text>
+<!-- plan view -->
+<rect x="16" y="98" width="330" height="202" fill="#eef3e6" stroke="#ccc" stroke-width="1"/>
+<path d="M16,138 H200 A62,62 0 0 1 200,262 H16" fill="none" stroke="#999" stroke-width="48"/>
+<path d="M16,138 H200 A62,62 0 0 1 200,262 H16" fill="none" stroke="#cfe6f7" stroke-width="44"/>
+<path d="M40,138 h40 M120,138 h40" stroke="#0b5cad" stroke-width="1.8" marker-end="url(#arB)"/>
+<path d="M170,262 h-40 M90,262 h-30" stroke="#0b5cad" stroke-width="1.8" marker-end="url(#arB)"/>
+<text x="24" y="122" font-size="12" fill="#0b5cad">flow</text>
+<!-- deposit on the inside of the bend -->
+<path d="M204,164 A26,26 0 0 1 204,236" fill="none" stroke="#d9a400" stroke-width="7" stroke-linecap="round"/>
+<g fill="#d9a400"><circle cx="218" cy="180" r="2"/><circle cx="224" cy="196" r="2"/><circle cx="224" cy="210" r="2"/><circle cx="216" cy="224" r="2"/></g>
+<path d="M214,200 H172" stroke="#c33" stroke-width="1.5" marker-start="url(#arR)"/>
+<text x="168" y="184" font-size="13" font-weight="bold" fill="#c33" text-anchor="end">inside of</text>
+<text x="168" y="198" font-size="13" font-weight="bold" fill="#c33" text-anchor="end">the bend</text>
+<!-- boulder -->
+<path d="M106,252 Q112,244 122,246 Q132,250 130,260 Q126,270 114,270 Q104,266 106,252 Z" fill="#aaa" stroke="#333" stroke-width="1.5"/>
+<path d="M104,262 Q94,256 84,262 Q94,270 104,262 Z" fill="#d9a400"/>
+<path d="M88,258 L66,232" stroke="#c33" stroke-width="1.5" marker-start="url(#arR)"/>
+<text x="24" y="214" font-size="13" font-weight="bold" fill="#c33">downstream of</text>
+<text x="24" y="228" font-size="13" font-weight="bold" fill="#c33">large boulders</text>
+<!-- hills -->
+<path d="M290,262 L306,242 L318,254 L330,238 L346,258" fill="none" stroke="#777" stroke-width="2" stroke-linejoin="round"/>
+<path d="M300,252 L314,248 M322,250 L334,246" stroke="#fff" stroke-width="2"/>
+<text x="342" y="278" font-size="12" text-anchor="end" fill="#555">downstream of</text>
+<text x="342" y="294" font-size="12" text-anchor="end" fill="#555">quartz-vein hills</text>
+<!-- section -->
+<rect x="356" y="98" width="348" height="202" fill="#fff" stroke="#ccc" stroke-width="1"/>
+<text x="366" y="118" font-size="13" font-weight="bold">Riverbed in section</text>
+<path d="M356,140 H704 V200 H356 Z" fill="#cfe6f7"/>
+<path d="M356,140 H704" stroke="#0b5cad" stroke-width="1.5"/>
+<path d="M356,200 H704 V240 H356 Z" fill="#e8dcc0"/>
+<g fill="#b9a67e" stroke="#777" stroke-width="1"><circle cx="390" cy="214" r="7"/><circle cx="440" cy="222" r="9"/><circle cx="500" cy="212" r="6"/><circle cx="560" cy="224" r="8"/><circle cx="620" cy="214" r="7"/><circle cx="648" cy="226" r="8"/></g>
+<path d="M356,240 L420,240 L428,262 L436,240 L540,240 L546,266 L552,240 L640,240 L648,258 L656,240 L704,240 V300 H356 Z" fill="#9a9a9a" stroke="#555" stroke-width="1.5" stroke-linejoin="round"/>
+<g fill="#d9a400" stroke="#8a6a00" stroke-width="0.6"><circle cx="428" cy="254" r="3"/><circle cx="430" cy="246" r="2.5"/><circle cx="546" cy="258" r="3"/><circle cx="548" cy="249" r="2.5"/><circle cx="648" cy="250" r="3"/><circle cx="600" cy="237" r="2.2"/><circle cx="480" cy="237" r="2.2"/></g>
+<text x="690" y="160" font-size="12" text-anchor="end" fill="#0b5cad">water</text>
+<text x="690" y="216" font-size="12" text-anchor="end">gravel</text>
+<text x="696" y="262" font-size="12" text-anchor="end" fill="#fff">bedrock</text>
+<path d="M552,262 L590,284" stroke="#c33" stroke-width="1.5" marker-start="url(#arR)"/>
+<text x="366" y="290" font-size="13" font-weight="bold" fill="#fff">in cracks in the bedrock</text>
+<text x="596" y="292" font-size="12" fill="#fff">gold settles here</text>
+
+<!-- 2 gold pan -->
+<rect x="8" y="320" width="704" height="290" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="344" font-size="15" font-weight="bold">② The gold pan: a shallow pan with a fairly flat bottom (iron, wood or plastic)</text>
+<g stroke="#ccc" stroke-width="1.2" fill="#fff">
+<rect x="16" y="354" width="168" height="186" rx="5"/>
+<rect x="190" y="354" width="168" height="186" rx="5"/>
+<rect x="364" y="354" width="168" height="186" rx="5"/>
+<rect x="538" y="354" width="168" height="186" rx="5"/>
+</g>
+<g font-size="14" font-weight="bold">
+<text x="24" y="374">1</text><text x="198" y="374">2</text><text x="372" y="374">3</text><text x="546" y="374">4</text>
+</g>
+<!-- 1 add sand, remove stones -->
+<path d="M17,410 H183 V470 H17 Z" fill="#cfe6f7"/>
+<path d="M17,410 H183" stroke="#0b5cad" stroke-width="1.5"/>
+<path d="M58,450 Q80,432 100,436 Q122,432 142,450 Z" fill="#e8dcc0" stroke="#999" stroke-width="1"/>
+<g fill="#b9a67e"><circle cx="80" cy="444" r="2"/><circle cx="96" cy="440" r="2"/><circle cx="114" cy="444" r="2"/><circle cx="126" cy="446" r="2"/></g>
+<use href="#pan" x="100" y="450"/>
+<path d="M122,398 Q130,390 140,394 Q146,402 138,408 Q128,410 122,398 Z" fill="#aaa" stroke="#333" stroke-width="1.5"/>
+<path d="M130,388 V372" stroke="#555" stroke-width="1.8" marker-end="url(#arK)"/>
+<!-- 2 shake -->
+<path d="M191,410 H357 V470 H191 Z" fill="#cfe6f7"/>
+<path d="M191,410 H357" stroke="#0b5cad" stroke-width="1.5"/>
+<path d="M232,450 Q254,436 274,438 Q296,436 316,450 Z" fill="#efe6cf" stroke="#999" stroke-width="1"/>
+<path d="M230,450 H318 V446 H230 Z" fill="#444"/>
+<g fill="#d9a400"><circle cx="262" cy="447" r="2"/><circle cx="286" cy="447" r="2"/></g>
+<use href="#pan" x="274" y="450"/>
+<path d="M226,390 H322" stroke="#c33" stroke-width="2" marker-start="url(#arR)" marker-end="url(#arR)"/>
+<path d="M300,384 A26,8 0 1 0 248,384" fill="none" stroke="#c33" stroke-width="1.8" marker-end="url(#arR)"/>
+<!-- 3 tilt, wash out light sand -->
+<path d="M365,410 H531 V470 H365 Z" fill="#cfe6f7"/>
+<path d="M365,410 H531" stroke="#0b5cad" stroke-width="1.5"/>
+<g transform="translate(440,446) rotate(14)">
+<path d="M-46,0 H46 V-5 H-46 Z" fill="#444"/>
+<path d="M-48,-5 Q-20,-14 10,-10 Q34,-8 50,-14 L46,-5 Z" fill="#efe6cf" stroke="#999" stroke-width="1"/>
+<circle cx="-10" cy="-2" r="2" fill="#d9a400"/>
+<use href="#pan"/>
+</g>
+<path d="M410,396 Q460,388 500,412" fill="none" stroke="#0b5cad" stroke-width="2" marker-end="url(#arB)"/>
+<g fill="#b9a67e"><circle cx="506" cy="426" r="2"/><circle cx="514" cy="436" r="2"/><circle cx="508" cy="446" r="2"/><circle cx="518" cy="452" r="2"/></g>
+<text x="528" y="382" font-size="12" fill="#555" text-anchor="end">light sand</text>
+<!-- 4 pan bottom, top view -->
+<ellipse cx="622" cy="430" rx="64" ry="34" fill="#ddd" stroke="#333" stroke-width="3"/>
+<ellipse cx="622" cy="430" rx="48" ry="24" fill="#eee" stroke="#999" stroke-width="1"/>
+<path d="M580,436 Q600,452 640,450 Q662,446 666,432 Q646,442 618,440 Q594,440 580,436 Z" fill="#333"/>
+<g fill="#d9a400" stroke="#8a6a00" stroke-width="0.6"><circle cx="652" cy="434" r="3"/><circle cx="660" cy="428" r="2.4"/><circle cx="646" cy="426" r="2"/></g>
+<path d="M596,446 L574,462" stroke="#333" stroke-width="1.2"/>
+<text x="548" y="476" font-size="12">black sand</text>
+<path d="M660,428 L676,404" stroke="#c33" stroke-width="1.2"/>
+<text x="680" y="400" font-size="12" font-weight="bold" fill="#c33" text-anchor="middle">gold</text>
+<g font-size="12" text-anchor="middle">
+<text x="100" y="494">Fill with river sand and</text>
+<text x="100" y="510">sink it; break up by hand,</text>
+<text x="100" y="526">remove large stones</text>
+<text x="274" y="494">Shake from side to side</text>
+<text x="274" y="510">and swirl it under water:</text>
+<text x="274" y="526" font-weight="bold" fill="#0b5cad">heavy material sinks</text>
+<text x="448" y="494">Tilt the pan slightly and</text>
+<text x="448" y="510">let the water slowly wash</text>
+<text x="448" y="526">out the light sand on top</text>
+<text x="622" y="494">Repeat; at the end the</text>
+<text x="622" y="510">bottom of the pan holds</text>
+<text x="622" y="526" font-weight="bold" fill="#0b5cad">black sand + gold grains</text>
+</g>
+<!-- identification -->
+<g transform="translate(0,18)">
+<rect x="16" y="530" width="690" height="54" rx="4" fill="#fffbe8" stroke="#d9c98a" stroke-width="1"/>
+<g stroke="#8a6a00" stroke-width="1" fill="#e0b400"><path d="M36,556 Q40,548 48,551 Q54,556 48,562 Q40,564 36,556 Z"/><path d="M56,560 Q60,554 66,557 Q68,562 63,565 Q57,566 56,560 Z"/><path d="M60,546 Q64,542 69,545 Q70,550 65,551 Q60,551 60,546 Z"/></g>
+<text x="82" y="552" font-size="13" font-weight="bold">Gold grains: golden yellow</text>
+<text x="82" y="572" font-size="12" fill="#555">black sand: magnetite, cassiterite, other heavy minerals</text>
+<g transform="translate(32,0)" stroke="#555" stroke-width="1" fill="#d8c56a"><path d="M392,548 h14 v14 h-14 Z"/><path d="M392,548 l5,-5 h14 l-5,5 Z M406,548 l5,-5 v14 l-5,5 Z" fill="#bfae55"/><path d="M416,556 h10 v10 h-10 Z"/><path d="M416,556 l4,-4 h10 l-4,4 Z M426,556 l4,-4 v10 l-4,4 Z" fill="#bfae55"/></g>
+<text x="476" y="552" font-size="13" font-weight="bold" fill="#c33">Not like pyrite ("fool's gold"),</text>
+<text x="476" y="572" font-size="12" fill="#c33">which is angular and brittle</text>
+</g>
+
+<!-- 3 sluice -->
+<g transform="translate(0,18)">
+<rect x="8" y="602" width="704" height="200" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="626" font-size="15" font-weight="bold">③ The sluice: far more efficient than the pan</text>
+<path d="M16,780 H704" stroke="#999" stroke-width="2.5"/>
+<path d="M192,690 V780 M516,754 V780" stroke="#8a6a3a" stroke-width="5"/>
+<g transform="translate(150,654) rotate(11.31)">
+<path d="M0,10 H440 V26 H0 Z" fill="#cfe6f7" opacity="0.9"/>
+<g fill="#b9a67e"><circle cx="30" cy="16" r="2"/><circle cx="90" cy="14" r="2"/><circle cx="150" cy="18" r="2"/><circle cx="210" cy="14" r="2"/><circle cx="270" cy="17" r="2"/><circle cx="330" cy="14" r="2"/><circle cx="390" cy="17" r="2"/><circle cx="430" cy="15" r="2"/></g>
+<g fill="#8a6a3a" stroke="#333" stroke-width="1"><rect x="80" y="17" width="6" height="9"/><rect x="160" y="17" width="6" height="9"/><rect x="240" y="17" width="6" height="9"/><rect x="320" y="17" width="6" height="9"/><rect x="400" y="17" width="6" height="9"/></g>
+<g fill="#d9a400" stroke="#8a6a00" stroke-width="0.6"><circle cx="74" cy="23" r="3"/><circle cx="154" cy="23" r="3"/><circle cx="148" cy="23" r="2.4"/><circle cx="234" cy="23" r="2.6"/><circle cx="314" cy="23" r="2.4"/></g>
+<path d="M0,0 V34 H440 V0" fill="none" stroke="#333" stroke-width="2"/>
+<rect x="0" y="26" width="440" height="8" fill="#c9a56b" stroke="#333" stroke-width="1.5"/>
+<path d="M120,13 H200" stroke="#0b5cad" stroke-width="1.8" marker-end="url(#arB)"/>
+</g>
+<!-- outlet -->
+<path d="M584,746 Q598,750 604,772" fill="none" stroke="#0b5cad" stroke-width="1.8" stroke-dasharray="4 3" marker-end="url(#arB)"/>
+<g fill="#b9a67e"><circle cx="592" cy="756" r="2"/><circle cx="600" cy="766" r="2"/><circle cx="606" cy="760" r="2"/></g>
+<text x="616" y="752" font-size="13" font-weight="bold" fill="#0b5cad">light sand</text>
+<text x="616" y="770" font-size="13" font-weight="bold" fill="#0b5cad">washed away</text>
+<!-- inlet -->
+<path d="M96,640 L136,640 L132,670 L100,670 Z" fill="#ddd" stroke="#333" stroke-width="2" stroke-linejoin="round" transform="rotate(40 116 655)"/>
+<path d="M140,668 Q150,662 158,668" fill="none" stroke="#0b5cad" stroke-width="2"/>
+<text x="24" y="700" font-size="13" font-weight="bold">Pour sand, gravel</text>
+<text x="24" y="718" font-size="13" font-weight="bold">and water in</text>
+<text x="24" y="736" font-size="13" font-weight="bold">at the top</text>
+<!-- labels -->
+<text x="370" y="642" font-size="13">Long sloping wooden trough with</text>
+<text x="370" y="658" font-size="13">cross-strips (riffles) nailed to the</text>
+<text x="370" y="674" font-size="13">bottom, or lined with coarse felt</text>
+<path d="M398,680 L398,706" stroke="#333" stroke-width="1.2"/>
+<text x="230" y="762" font-size="13" font-weight="bold" fill="#c33">the riffles catch the heavy gold grains</text>
+<path d="M300,748 L297,713" stroke="#c33" stroke-width="1.2"/>
+</g>
+
+<!-- 4 no mercury -->
+<g transform="translate(0,18)">
+<rect x="8" y="812" width="704" height="100" rx="6" fill="#fbe9e9" stroke="#c33" stroke-width="2"/>
+<text x="20" y="838" font-size="16" font-weight="bold" fill="#c33">✗ Never use mercury to extract gold</text>
+<text x="20" y="860" font-size="13">Mixing mercury with gold grains into an "amalgam" and heating it to drive off the mercury is a common</text>
+<text x="20" y="879" font-size="13">crude method in many places, but mercury vapour is highly toxic: it causes serious nerve damage and</text>
+<text x="20" y="898" font-size="13">pollutes rivers and fish for a long time → <tspan font-weight="bold" fill="#c33">separate by gravity only (panning, sluice)</tspan></text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 620" width="720" height="620" role="img" aria-label="Layout of a family herb garden, small, about 10-20 m². Plan: jinyinhua (honeysuckle, on a trellis) and 1-2 gouqi (goji) bushes are perennial climbers and shrubs, placed on the north side or at the edges so they do not shade low plants; 2-3 juhua (chrysanthemum) plants and scattered pugongying (dandelion) in the sunny middle; bohe (mint, about 1 m²), 2-3 aicao (mugwort) plants and yuxingcao (houttuynia) spread by underground runners, so they are grown separately in a corner fenced off with barriers or in a large pot; ginger and garlic are grown in the vegetable plot. Barriers: buried about 30 cm deep all round; plants can also be grown in flowerpots or old bottomless buckets. Site: sunny, well drained, far from latrines and animal pens; the herb garden must not be downhill of a latrine or animal pen; latrines and pens at least 30 m from water sources. After planting: label each plant with its name and planting date; apply well-rotted compost or stable manure, about 2-3 kg per square metre, dug into the soil, never unrotted manure; grow mainly mild plants used as both food and medicine, and do not grow or keep toxic medicinal plants such as wutou and fuzi (aconite), banxia (pinellia), tiannanxing (arisaema), shanglu (pokeweed) or mantuoluo (datura)" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Family herb garden layout</title>
+<defs>
+<marker id="arK" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#333"/></marker>
+<g id="mum"><circle r="16" fill="#a8c98a" stroke="#4d7a2e" stroke-width="1.2"/><circle r="10" fill="#fff" stroke="#333" stroke-width="1.2"/><circle r="4" fill="#e8a33a" stroke="#333" stroke-width="1"/></g>
+<g id="dand"><path d="M-7,0 L0,-3 L7,0 L0,3 Z M0,-7 L3,0 L0,7 L-3,0 Z" fill="#8fbf6a" stroke="#4d7a2e" stroke-width="0.8"/><circle r="3" fill="#f5c518" stroke="#b08a10" stroke-width="0.8"/></g>
+<g id="mint"><ellipse cx="-5" rx="5" ry="3" fill="#6fae4a" stroke="#3d6e22" stroke-width="0.8"/><ellipse cx="5" rx="5" ry="3" fill="#6fae4a" stroke="#3d6e22" stroke-width="0.8"/></g>
+<g id="mug"><circle r="13" fill="#c3d1b8" stroke="#55704a" stroke-width="1.2"/><path d="M-8,-4 L0,0 L8,-5 M-6,6 L0,0 L7,6 M0,-10 V0" fill="none" stroke="#55704a" stroke-width="1.2"/></g>
+<path id="heart" d="M0,6 C-9,-1 -6,-8 0,-4 C6,-8 9,-1 0,6 Z" fill="#7aa85a" stroke="#3d6e22" stroke-width="0.8"/>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Family herb garden layout (small, about 10-20 m²)</text>
+<text x="360" y="50" font-size="13" fill="#555" text-anchor="middle">Growing your own is safer than gathering wild plants: you know the source, and no toxic plants get mixed in</text>
+
+<!-- 1 plan -->
+<rect x="8" y="64" width="444" height="402" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="88" font-size="15" font-weight="bold">① Plan (not to scale)</text>
+<path d="M434,104 V74" stroke="#333" stroke-width="2" marker-end="url(#arK)"/>
+<text x="424" y="96" font-size="13" font-weight="bold" text-anchor="end">N</text>
+<text x="28" y="108" font-size="12" fill="#0b5cad">North side or edges: perennial climbers, shrubs; won't shade low plants</text>
+<rect x="28" y="114" width="404" height="286" fill="#f4ede0" stroke="#8a6a3a" stroke-width="1.5"/>
+<!-- honeysuckle trellis -->
+<path d="M46,142 H262" stroke="#8a5a2b" stroke-width="3"/>
+<g fill="#8a5a2b"><rect x="43" y="139" width="6" height="6"/><rect x="115" y="139" width="6" height="6"/><rect x="187" y="139" width="6" height="6"/><rect x="259" y="139" width="6" height="6"/></g>
+<path d="M48,142 q9,-10 18,0 t18,0 t18,0 t18,0 t18,0 t18,0 t18,0 t18,0 t18,0 t18,0 t18,0 t18,0" fill="none" stroke="#4d7a2e" stroke-width="2"/>
+<g stroke="#333" stroke-width="0.8"><ellipse cx="66" cy="133" rx="5" ry="2.5" fill="#fff"/><ellipse cx="74" cy="134" rx="5" ry="2.5" fill="#f5d04a"/><ellipse cx="138" cy="133" rx="5" ry="2.5" fill="#fff"/><ellipse cx="146" cy="134" rx="5" ry="2.5" fill="#f5d04a"/><ellipse cx="210" cy="133" rx="5" ry="2.5" fill="#f5d04a"/><ellipse cx="218" cy="134" rx="5" ry="2.5" fill="#fff"/></g>
+<text x="154" y="170" font-size="13" font-weight="bold" text-anchor="middle">Jinyinhua (honeysuckle) on a trellis</text>
+<!-- goji -->
+<g stroke="#4d7a2e" stroke-width="1.2"><circle cx="340" cy="142" r="19" fill="#a8c98a"/><circle cx="398" cy="142" r="19" fill="#a8c98a"/></g>
+<g fill="#d0342c"><circle cx="333" cy="136" r="2.5"/><circle cx="346" cy="148" r="2.5"/><circle cx="338" cy="152" r="2.5"/><circle cx="392" cy="138" r="2.5"/><circle cx="405" cy="146" r="2.5"/><circle cx="399" cy="132" r="2.5"/></g>
+<text x="362" y="180" font-size="12" font-weight="bold" text-anchor="middle">Gouqi (goji), <tspan font-weight="normal">1-2 bushes</tspan></text>
+<!-- middle -->
+<text x="165" y="206" font-size="12" fill="#0b5cad" text-anchor="middle">Middle: full sun</text>
+<use href="#mum" x="112" y="238"/><use href="#mum" x="166" y="258"/><use href="#mum" x="220" y="238"/>
+<text x="166" y="286" font-size="13" font-weight="bold" text-anchor="middle">Juhua (chrysanthemum)</text>
+<text x="166" y="300" font-size="12" text-anchor="middle">2-3 plants</text>
+<use href="#dand" x="292" y="214"/><use href="#dand" x="330" y="228"/><use href="#dand" x="372" y="210"/><use href="#dand" x="408" y="232"/><use href="#dand" x="300" y="256"/><use href="#dand" x="348" y="262"/><use href="#dand" x="392" y="268"/><use href="#dand" x="286" y="282"/>
+<text x="352" y="198" font-size="13" font-weight="bold" text-anchor="middle">Pugongying (dandelion)</text>
+<text x="350" y="302" font-size="12" text-anchor="middle">scattered</text>
+<!-- fenced in with barriers -->
+<rect x="30" y="314" width="100" height="84" fill="#e6f0d8" stroke="#444" stroke-width="4"/>
+<text x="80" y="329" font-size="12" font-weight="bold" text-anchor="middle">Bohe (mint)</text>
+<text x="80" y="343" font-size="12" text-anchor="middle">about 1 m²</text>
+<use href="#mint" x="52" y="352"/><use href="#mint" x="80" y="350"/><use href="#mint" x="108" y="354"/><use href="#mint" x="58" y="374"/><use href="#mint" x="88" y="378"/><use href="#mint" x="112" y="380"/>
+<text x="230" y="318" font-size="13" font-weight="bold" text-anchor="middle">Yuxingcao (houttuynia)</text>
+<text x="268" y="380" font-size="12">big pot</text>
+<circle cx="230" cy="358" r="32" fill="#e6f0d8" stroke="#444" stroke-width="4"/>
+<use href="#heart" x="216" y="350"/><use href="#heart" x="238" y="344"/><use href="#heart" x="226" y="368"/><use href="#heart" x="246" y="366"/>
+<rect x="330" y="314" width="100" height="84" fill="#e6f0d8" stroke="#444" stroke-width="4"/>
+<text x="380" y="329" font-size="12" font-weight="bold" text-anchor="middle">Aicao (mugwort)</text>
+<text x="380" y="343" font-size="12" text-anchor="middle">2-3 plants</text>
+<use href="#mug" x="356" y="362"/><use href="#mug" x="404" y="358"/><use href="#mug" x="380" y="382"/>
+<!-- legend -->
+<circle cx="40" cy="420" r="8" fill="#f5c518" stroke="#333" stroke-width="1.2"/>
+<text x="54" y="425" font-size="13">S: sunny side</text>
+<path d="M150,420 H180" stroke="#444" stroke-width="4"/>
+<text x="188" y="425" font-size="13">barrier: fences in running roots</text>
+<text x="28" y="446" font-size="13">+ Ginger and garlic (vegetable and medicine): grow them</text>
+<text x="40" y="460" font-size="13">in the vegetable plot</text>
+
+<!-- 2 barrier -->
+<rect x="462" y="64" width="250" height="208" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="472" y="88" font-size="15" font-weight="bold">② Barrier (section)</text>
+<text x="472" y="108" font-size="12" fill="#555">mint, houttuynia, mugwort: roots run</text>
+<rect x="474" y="150" width="226" height="74" fill="#efe3cc"/>
+<path d="M474,150 H700" stroke="#999" stroke-width="3"/>
+<g stroke="#4d7a2e" stroke-width="2"><path d="M566,150 V118 M604,150 V122"/></g>
+<use href="#mint" x="566" y="124"/><use href="#mint" x="566" y="138"/><use href="#mint" x="604" y="128"/><use href="#mint" x="604" y="141"/>
+<path d="M530,168 H638 M552,168 q6,10 16,12 M610,168 q-4,10 -14,14 M566,150 V168 M604,150 V168" fill="none" stroke="#b8935a" stroke-width="4" stroke-linecap="round"/>
+<rect x="518" y="138" width="7" height="72" fill="#8a6a3a" stroke="#333" stroke-width="1"/>
+<rect x="642" y="138" width="7" height="72" fill="#8a6a3a" stroke="#333" stroke-width="1"/>
+<path d="M664,150 V210 M659,150 H669 M659,210 H669" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="672" y="176" font-size="12" fill="#0b5cad">~30</text>
+<text x="672" y="192" font-size="12" fill="#0b5cad">cm</text>
+<text x="584" y="242" font-size="13" text-anchor="middle">Sink barriers ~30 cm deep all round</text>
+<text x="584" y="262" font-size="12" fill="#555" text-anchor="middle">or use pots, old bottomless buckets</text>
+
+<!-- 3 site -->
+<rect x="462" y="282" width="250" height="184" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="472" y="306" font-size="15" font-weight="bold">③ Siting</text>
+<path d="M474,344 L700,394" stroke="#999" stroke-width="2.5"/>
+<!-- herb garden uphill -->
+<g fill="#6fae4a" stroke="#3d6e22" stroke-width="1"><circle cx="492" cy="342" r="6"/><circle cx="508" cy="345" r="6"/><circle cx="524" cy="349" r="6"/></g>
+<text x="508" y="330" font-size="12" font-weight="bold" fill="#0b5cad" text-anchor="middle">herbs ✓</text>
+<!-- latrine -->
+<path d="M584,369 V351 L596,341 L608,351 V374" fill="#e3d6c0" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="596" y="334" font-size="12" text-anchor="middle">latrine/pen</text>
+<path d="M612,376 Q630,384 650,386" fill="none" stroke="#c33" stroke-width="1.5" stroke-dasharray="4 3"/>
+<g fill="#6fae4a" stroke="#3d6e22" stroke-width="1"><circle cx="664" cy="384" r="6"/><circle cx="680" cy="388" r="6"/></g>
+<path d="M660,374 l24,-14 M660,360 l24,14" stroke="#c33" stroke-width="2.5"/>
+<g font-size="13">
+<text x="472" y="410"><tspan fill="#0b5cad" font-weight="bold">✓</tspan> Sunny, well drained, far from</text>
+<text x="486" y="425">latrines and animal pens</text>
+<text x="472" y="442"><tspan fill="#c33" font-weight="bold">✗</tspan> Not downhill of a latrine or pen</text>
+<text x="472" y="458" font-size="12" fill="#555">(latrines, pens ≥ 30 m from water)</text>
+</g>
+
+<!-- 4 after planting -->
+<rect x="8" y="476" width="704" height="136" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="500" font-size="15" font-weight="bold">④ After planting</text>
+<g transform="translate(26,512)"><path d="M6,8 V22" stroke="#8a5a2b" stroke-width="2"/><rect x="0" y="0" width="12" height="9" rx="1" fill="#fff" stroke="#333" stroke-width="1.2"/></g>
+<g font-size="13">
+<text x="46" y="526"><tspan font-weight="bold">Label each plant:</tspan> name and planting date (after a few years they are easily mixed up)</text>
+<path d="M24,556 Q32,538 40,556 Z" fill="#8a6a3a" stroke="#333" stroke-width="1.2"/>
+<text x="46" y="554"><tspan font-weight="bold">Feeding:</tspan> well-rotted compost or stable manure, about 2-3 kg per m², dug in; <tspan fill="#c33" font-weight="bold">never unrotted manure</tspan></text>
+<text x="30" y="582" font-weight="bold" fill="#c33" text-anchor="middle">✗</text>
+<text x="46" y="582"><tspan font-weight="bold">What to grow:</tspan> mild plants that are both food and medicine; <tspan fill="#c33" font-weight="bold">never grow or keep toxic medicinal plants</tspan></text>
+<text x="46" y="600">(e.g. aconite (wutou, fuzi), pinellia (banxia), arisaema (tiannanxing), pokeweed (shanglu), datura (mantuoluo))</text>
+</g>
+</g>
+</svg>

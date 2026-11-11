@@ -1,0 +1,184 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 976" width="720" height="976" role="img" aria-label="Identifying ores for smelting. Iron ores are all oxide ores, smelted directly with charcoal: magnetite, Fe₃O₄, is black with a metallic lustre and magnetic, identified by a magnet picking it up, 60-70% iron, found in hills and riverbeds; haematite, Fe₂O₃, is reddish-brown, red when powdered, and leaves a red streak on white porcelain, 50-60% iron; limonite, FeO(OH), is yellow-brown to brown, earthy or lumpy, fairly light and crumbly, 40-50% iron, found in weathered zones and marshes. Copper ores: malachite is bright green with a banded pattern, its unusual colour easy to spot, 55-60% copper, the easiest copper ore to smelt, an oxide ore smelted directly; chalcocite, Cu₂S, is lead-grey with a metallic lustre, fairly heavy and soft, a knife cut shows a copper sheen, 79% copper; chalcopyrite, CuFeS₂, is brassy yellow with a metallic lustre, looks like gold but is harder, 34% copper; chalcocite and chalcopyrite are sulphide ores that must be roasted to remove the sulphur before smelting. Cassiterite, SnO₂, is black or brown with a strong lustre and is smelted with copper into bronze; tin melts at 232°C, but reducing tin from cassiterite needs over about 1000°C and a blast. Galena, PbS, is lead-grey with a strong metallic lustre, very heavy, with cubic crystals; lead is poisonous, you learn to recognise it in order to avoid it, and this book advises against smelting lead. Pyrite, FeS₂, is golden yellow and cubic; although it contains iron, it has too much sulphur and the iron it gives is very brittle, so it is not a first choice. Worth collecting? For the same size, iron ore is clearly heavier than ordinary stone; black sediment in riverbeds often holds magnetite sand, which you can collect by dragging a magnet through the sand; green or blue stains on rock surfaces often signal copper ore below; a stone with only a rusty skin and ordinary stone inside has little iron and is not worth carrying home; white fumes and a garlic smell when roasting mean arsenic: get away from the downwind side at once and do not use this ore; do not enter abandoned mines or tunnels" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Identifying ores for smelting</title>
+<defs>
+<path id="lump" d="M-28,6 L-20,-14 L-4,-21 L16,-18 L28,-4 L24,15 L6,22 L-16,19 Z" stroke="#333" stroke-width="1.8" stroke-linejoin="round"/>
+<path id="glint" d="M-14,-8 l7,-4 M5,-13 l7,1 M13,4 l5,-5" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round"/>
+<g id="cube"><path d="M0,0 h18 v18 h-18 Z" stroke="#333" stroke-width="1.5"/><path d="M0,0 l7,-7 h18 l-7,7 Z M18,0 l7,-7 v18 l-7,7 Z" stroke="#333" stroke-width="1.5" stroke-linejoin="round" fill-opacity="0.75"/></g>
+<g id="oxide"><rect x="8" y="146" width="208" height="17" rx="8.5" fill="#e3eefa" stroke="#0b5cad" stroke-width="1"/><text x="112" y="159" font-size="12" fill="#0b5cad" text-anchor="middle">oxide: smelt directly with charcoal</text></g>
+<g id="sulfide"><rect x="8" y="146" width="208" height="17" rx="8.5" fill="#fbe9e9" stroke="#c33" stroke-width="1"/><text x="112" y="159" font-size="12" fill="#c33" text-anchor="middle">sulphide: roast first, then smelt</text></g>
+<g id="card"><rect width="224" height="168" rx="5" fill="#fff" stroke="#ccc" stroke-width="1.2"/></g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Identifying ores for smelting</text>
+<text x="360" y="50" font-size="14" text-anchor="middle">Look at colour and lustre, then check with a magnet, white porcelain, a knife and the hand</text>
+<text x="360" y="70" font-size="13" fill="#555" text-anchor="middle">In the first decades after civilisation collapse, recycle scrap metal first;</text>
+<text x="360" y="88" font-size="13" fill="#555" text-anchor="middle">smelting from ore is the long-term plan, and smelting is high-risk work</text>
+
+<g transform="translate(0,40)">
+<!-- 1 iron ores -->
+<rect x="8" y="64" width="704" height="214" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="88" font-size="15" font-weight="bold">① Iron ores</text>
+
+<g transform="translate(16,100)">
+<use href="#card"/>
+<text x="10" y="24"><tspan font-size="16" font-weight="bold">Magnetite</tspan><tspan font-size="13" fill="#555" dx="6">Fe₃O₄</tspan></text>
+<g transform="translate(186,36)"><use href="#lump" fill="#2a2a2a"/><use href="#glint"/></g>
+<g font-size="13">
+<text x="10" y="50">black, metallic lustre</text>
+<text x="10" y="70">found: hills, riverbeds</text>
+<g transform="translate(10,84)"><path d="M0,0 V9 A8,8 0 0 0 16,9 V0 H11 V9 A3,3 0 0 1 5,9 V0 Z" fill="#c33" stroke="#333" stroke-width="1"/><path d="M0,0 h5 v4 h-5 Z M11,0 h5 v4 h-5 Z" fill="#ddd" stroke="#333" stroke-width="1"/></g>
+<text x="34" y="98" font-weight="bold" fill="#0b5cad">magnetic: a magnet</text>
+<text x="34" y="114" font-weight="bold" fill="#0b5cad">picks it up (key test!)</text>
+<text x="10" y="137" font-weight="bold">iron 60-70%</text>
+</g>
+<use href="#oxide"/>
+</g>
+
+<g transform="translate(248,100)">
+<use href="#card"/>
+<text x="10" y="24"><tspan font-size="16" font-weight="bold">Haematite</tspan><tspan font-size="13" fill="#555" dx="6">Fe₂O₃</tspan></text>
+<g transform="translate(186,36)"><use href="#lump" fill="#8a3b2a"/></g>
+<g font-size="13">
+<text x="10" y="50">reddish-brown</text>
+<text x="10" y="66">red when powdered</text>
+<rect x="8" y="80" width="22" height="14" fill="#fff" stroke="#333" stroke-width="1.2"/>
+<path d="M11,90 L26,84" stroke="#b03a2e" stroke-width="3" stroke-linecap="round"/>
+<text x="36" y="88" font-weight="bold" fill="#0b5cad">red streak on white</text>
+<text x="36" y="103" font-weight="bold" fill="#0b5cad">porcelain</text>
+<text x="10" y="120">found: sedimentary rock areas</text>
+<text x="10" y="137" font-weight="bold">iron 50-60%</text>
+</g>
+<use href="#oxide"/>
+</g>
+
+<g transform="translate(480,100)">
+<use href="#card"/>
+<text x="10" y="24"><tspan font-size="16" font-weight="bold">Limonite</tspan><tspan font-size="13" fill="#555" dx="6">FeO(OH)</tspan></text>
+<g transform="translate(186,36)"><use href="#lump" fill="#b07a3a"/><g fill="#6e4a22"><circle cx="-12" cy="0" r="2"/><circle cx="4" cy="-10" r="1.6"/><circle cx="10" cy="8" r="2.2"/><circle cx="-4" cy="12" r="1.5"/><circle cx="18" cy="-4" r="1.5"/></g></g>
+<g font-size="13">
+<text x="10" y="50">yellow-brown to brown</text>
+<text x="10" y="70">earthy or lumpy</text>
+<text x="10" y="98" font-weight="bold" fill="#0b5cad">fairly light, crumbly</text>
+<text x="10" y="118">found: weathered zones, marshes</text>
+<text x="10" y="137" font-weight="bold">iron 40-50%</text>
+</g>
+<use href="#oxide"/>
+</g>
+
+<!-- 2 copper ores -->
+<rect x="8" y="288" width="704" height="214" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="312" font-size="15" font-weight="bold">② Copper ores</text>
+
+<g transform="translate(16,324)">
+<use href="#card"/>
+<text x="10" y="24"><tspan font-size="16" font-weight="bold">Malachite</tspan><tspan font-size="12" fill="#555" dx="5">Cu₂(OH)₂CO₃</tspan></text>
+<g transform="translate(194,44)"><use href="#lump" fill="#2e9e5b"/><path d="M-24,4 Q-4,-12 22,-10 M-20,12 Q0,-2 24,4 M-10,18 Q6,8 20,13" fill="none" stroke="#9fe0b8" stroke-width="2"/><path d="M-18,-6 Q0,-18 18,-14" fill="none" stroke="#1b6b3d" stroke-width="2"/></g>
+<g font-size="13">
+<text x="10" y="50">bright green</text>
+<text x="10" y="70">banded pattern</text>
+<text x="10" y="98" font-weight="bold" fill="#0b5cad">unusual colour, easy to spot</text>
+<text x="10" y="118" font-weight="bold">the easiest copper ore to smelt!</text>
+<text x="10" y="137" font-weight="bold">copper 55-60%</text>
+</g>
+<use href="#oxide"/>
+</g>
+
+<g transform="translate(248,324)">
+<use href="#card"/>
+<text x="10" y="24"><tspan font-size="16" font-weight="bold">Chalcocite</tspan><tspan font-size="13" fill="#555" dx="6">Cu₂S</tspan></text>
+<g transform="translate(186,36)"><use href="#lump" fill="#6b6f74"/><use href="#glint"/></g>
+<g font-size="13">
+<text x="10" y="50">lead-grey, metallic lustre</text>
+<text x="10" y="70">fairly heavy, soft</text>
+<path d="M8,97 L26,88 L30,90 L13,100 Z" fill="#ddd" stroke="#333" stroke-width="1.2" stroke-linejoin="round"/>
+<path d="M2,100 L9,96" stroke="#8a5a2b" stroke-width="3.5" stroke-linecap="round"/>
+<text x="36" y="98" font-weight="bold" fill="#0b5cad">a knife cut shows</text>
+<text x="36" y="114" font-weight="bold" fill="#0b5cad">a copper sheen</text>
+<text x="10" y="137" font-weight="bold">copper 79%</text>
+</g>
+<use href="#sulfide"/>
+</g>
+
+<g transform="translate(480,324)">
+<use href="#card"/>
+<text x="10" y="24"><tspan font-size="16" font-weight="bold">Chalcopyrite</tspan><tspan font-size="13" fill="#555" dx="6">CuFeS₂</tspan></text>
+<g transform="translate(186,36)"><use href="#lump" fill="#c9a227"/><use href="#glint"/></g>
+<g font-size="13">
+<text x="10" y="50">brassy yellow,</text>
+<text x="10" y="66">metallic lustre</text>
+<text x="10" y="98" font-weight="bold" fill="#0b5cad">looks like gold, but harder</text>
+<text x="10" y="137" font-weight="bold">copper 34%</text>
+</g>
+<use href="#sulfide"/>
+</g>
+
+<!-- 3 others -->
+<rect x="8" y="512" width="704" height="214" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="536" font-size="15" font-weight="bold">③ Cassiterite, plus galena and pyrite: know them, but do not use them</text>
+
+<g transform="translate(16,548)">
+<use href="#card"/>
+<text x="10" y="24"><tspan font-size="16" font-weight="bold">Cassiterite</tspan><tspan font-size="13" fill="#555" dx="6">SnO₂</tspan></text>
+<g transform="translate(186,36)"><use href="#lump" fill="#4a3426"/><use href="#glint"/></g>
+<g font-size="13">
+<text x="10" y="50">black or brown</text>
+<text x="10" y="70">strong lustre</text>
+<text x="10" y="94" font-weight="bold" fill="#0b5cad">use: with copper makes bronze</text>
+<text x="10" y="112" font-size="12.5">tin melts low (232°C), but getting</text>
+<text x="10" y="126" font-size="12.5">tin out of cassiterite needs over</text>
+<text x="10" y="140" font-size="12.5">about 1000°C and a blast</text>
+</g>
+<use href="#oxide"/>
+</g>
+
+<g transform="translate(248,548)">
+<rect width="224" height="168" rx="5" fill="#fff" stroke="#c33" stroke-width="2"/>
+<text x="10" y="24"><tspan font-size="16" font-weight="bold">Galena</tspan><tspan font-size="13" fill="#555" dx="6">PbS</tspan></text>
+<g fill="#7a7f86"><use href="#cube" x="166" y="30"/><use href="#cube" x="190" y="40"/></g>
+<g font-size="13">
+<text x="10" y="50">lead-grey, strong lustre</text>
+<text x="10" y="70">very heavy, cubic crystals</text>
+<text x="10" y="98" font-weight="bold" fill="#c33">✗ Lead is poisonous!</text>
+<text x="10" y="118" font-weight="bold" fill="#c33">know it so you can avoid it</text>
+<text x="10" y="136">we advise against smelting lead</text>
+</g>
+<rect x="8" y="146" width="208" height="17" rx="8.5" fill="#c33"/><text x="112" y="159" font-size="12" fill="#fff" text-anchor="middle" font-weight="bold">sulphide: no smelting, no lead</text>
+</g>
+
+<g transform="translate(480,548)">
+<use href="#card"/>
+<text x="10" y="24"><tspan font-size="16" font-weight="bold">Pyrite</tspan><tspan font-size="13" fill="#555" dx="6">FeS₂</tspan></text>
+<g fill="#d4b23a"><use href="#cube" x="166" y="30"/><use href="#cube" x="190" y="40"/></g>
+<g font-size="13">
+<text x="10" y="50">golden yellow, cubic</text>
+<text x="10" y="86">contains iron, but too much</text>
+<text x="10" y="102">sulphur: the iron it gives</text>
+<text x="10" y="118">is very brittle</text>
+<text x="10" y="136" font-weight="bold" fill="#c33">not a first choice</text>
+</g>
+<use href="#sulfide"/>
+</g>
+
+<!-- 4 worth collecting? -->
+<rect x="8" y="736" width="704" height="192" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="760" font-size="15" font-weight="bold">④ Worth collecting?</text>
+<g font-size="13">
+<text x="20" y="786"><tspan fill="#0b5cad" font-weight="bold">✓ Weigh it in your hand:</tspan> for the same size,</text>
+<text x="36" y="804">iron ore is clearly heavier than ordinary stone</text>
+<text x="20" y="830"><tspan fill="#0b5cad" font-weight="bold">✓ Black sediment in riverbeds</tspan> often holds</text>
+<text x="36" y="848">magnetite sand: drag a magnet through the</text>
+<text x="36" y="866">sand to collect it</text>
+<text x="20" y="892"><tspan fill="#0b5cad" font-weight="bold">✓ Green or blue stains on rock</tspan> (malachite,</text>
+<text x="36" y="910">azurite) often signal copper ore below</text>
+<text x="370" y="786"><tspan fill="#c33" font-weight="bold">✗ Only a rusty skin</tspan>, ordinary stone inside:</text>
+<text x="386" y="804">little iron, not worth carrying home</text>
+<text x="370" y="830"><tspan fill="#c33" font-weight="bold">✗ White fumes and a garlic smell when roasting</tspan></text>
+<text x="386" y="848">→ arsenic: get away from the downwind side</text>
+<text x="386" y="866">at once; do not use this ore</text>
+<text x="370" y="892"><tspan fill="#c33" font-weight="bold">✗ Never enter abandoned mines or tunnels</tspan></text>
+<text x="386" y="910">(roof falls, lack of oxygen, poison gas)</text>
+</g>
+</g>
+</g>
+</svg>
