@@ -1,0 +1,257 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1190" width="720" height="1190" role="img" aria-label="Basic forging operations: 1 Drawing out: draw out wrought iron and mild steel at orange-yellow (about 1000-1100°C), working over the rounded edge of the anvil so the metal only moves lengthwise; turn the work 90° after every blow to keep the section square, as hammering from one direction only gives a diamond section; work from the root to the end a section at a time. 2 Upsetting: heat only the part to be upset (about 2-3 times the diameter long) and dip the rest in water to keep it hard; stand the work upright on the anvil face, hot end up, and hammer straight down on the end; if it starts to bend, straighten it at once or it folds into a crack; upset no more than about 3 times the diameter. 3 Bending: heat only the part to bend; bend curves over the anvil horn or a round bar and right angles over the square edge of the anvil; the outside of the bend stretches thin, so for a strong right angle upset the corner a little first; afterwards tap it true on the flat anvil face. 4 Punching: heat to orange-yellow to yellow, hotter than ordinary forging; punch about 2/3 of the thickness, turn over and punch at the darker spot on the back, with the work over the anvil hole or an iron ring, to drive out the slug; pull the punch out every few blows to dip it in water and sprinkle a pinch of charcoal powder in the hole; punching right through from one side gives a crooked hole and a ragged burr on the back. 5 Hot cutting: cut while red hot, with a soft iron or copper plate under the work, never straight on the anvil face; cut about halfway in with the hot chisel, turn over, line up with the cut and cut again, and when only a thin skin is left lay it on the anvil edge and snap it off with light blows; to cut thin stock cold, chisel a deep groove with a cold chisel and snap it; the end flies off, so nobody stands in front. 6 Each heat: bury the work just above the centre of the fire and turn it to heat through; on taking it out brush off loose scale; shape with heavy blows first, lighter as it darkens, and put it back in the fire at blood red; a small piece gives only 20-40 seconds of work per heat; one job per heat. Fire colours: dark red about 500-550°C, light straightening only; blood red about 650-700°C, where wrought iron and mild steel go back in the fire; cherry red about 780-850°C, the lower limit for forging high-carbon steel, which goes back in the fire at cherry red; bright red about 850-950°C; orange-yellow about 1000-1100°C, the best forging heat; yellow about 1200°C; bright yellow to white about 1250-1300°C, for forge welding only. Wrought iron and mild steel forge best at orange-yellow to yellow; high-carbon steel is forged only between cherry red and orange-yellow. Never hit hard once it stops glowing; mild steel at about 200-400°C, with a blue oxide colour on the surface, is especially brittle. Wear goggles; tong jaws must fit the work" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Basic forging operations</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="arR2" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="arG" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#666"/></marker>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Basic forging: drawing out, upsetting, bending, punching, cutting</text>
+
+<!-- 1 drawing out -->
+<g transform="translate(10,44)">
+<rect width="228" height="380" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="10" y="24" font-size="15" font-weight="bold">① Drawing out</text>
+<path d="M44,136 Q44,128 54,128 H200 V146 H180 L172,164 H192 V178 H62 V164 H82 L74,146 H44 Z" fill="#666" stroke="#333" stroke-width="1.8" stroke-linejoin="round"/>
+<rect x="12" y="114" width="26" height="14" fill="#9aa3ad" stroke="#333" stroke-width="1.5"/>
+<path d="M38,114 H68 L72,118 L76,114 H92 L96,118 L100,114 H150 V128 H38 Z" fill="#f39a2a" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M2,112 L14,118 M2,130 L14,124" stroke="#333" stroke-width="3.5" stroke-linecap="round"/>
+<rect x="28" y="66" width="44" height="22" rx="3" fill="#888" stroke="#333" stroke-width="1.8"/>
+<rect x="72" y="72" width="64" height="10" rx="3" fill="#c8a06a" stroke="#333" stroke-width="1.5"/>
+<path d="M50,92 V108" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<path d="M104,104 H148" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="104" y="98" font-size="12" fill="#c33" font-weight="bold">longer</text>
+<rect x="164" y="40" width="16" height="16" fill="#f39a2a" stroke="#333" stroke-width="1.5"/>
+<path d="M188,40 Q200,48 188,58" fill="none" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<text x="214" y="74" font-size="12" fill="#c33" font-weight="bold" text-anchor="end">turn 90°</text>
+<text x="214" y="88" font-size="12" fill="#c33" font-weight="bold" text-anchor="end">every blow</text>
+<text x="96" y="196" font-size="12" fill="#0b5cad">rounded anvil edge</text>
+<line x1="94" y1="190" x2="48" y2="134" stroke="#0b5cad" stroke-width="1.2"/><circle cx="48" cy="134" r="2.2" fill="#0b5cad"/>
+<g font-size="13">
+<text x="10" y="220" fill="#c33" font-weight="bold">Wrought iron, mild steel:</text>
+<text x="10" y="238" fill="#c33" font-weight="bold">draw out at orange-yellow</text>
+<text x="10" y="258">Work over the rounded edge of</text>
+<text x="10" y="276">the anvil; the metal only moves</text>
+<text x="10" y="294">lengthwise. Turn it 90° after</text>
+<text x="10" y="312">every blow to keep the section</text>
+<text x="10" y="330">square. Work from the root to</text>
+<text x="10" y="348">the end, a section at a time</text>
+</g>
+</g>
+
+<!-- 2 upsetting -->
+<g transform="translate(246,44)">
+<rect width="228" height="380" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="10" y="24" font-size="15" font-weight="bold">② Upsetting</text>
+<path d="M50,128 H190 V146 H170 L162,164 H182 V178 H58 V164 H78 L70,146 H50 Z" fill="#666" stroke="#333" stroke-width="1.8" stroke-linejoin="round"/>
+<rect x="106" y="98" width="16" height="30" fill="#9aa3ad" stroke="#333" stroke-width="1.5"/>
+<path d="M106,98 Q98,90 100,80 Q102,72 106,70 H122 Q126,72 128,80 Q130,90 122,98 Z" fill="#f39a2a" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="92" y="36" width="44" height="22" rx="3" fill="#888" stroke="#333" stroke-width="1.8"/>
+<rect x="136" y="42" width="64" height="10" rx="3" fill="#c8a06a" stroke="#333" stroke-width="1.5"/>
+<path d="M114,59 V68" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<path d="M96,84 H84" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<path d="M132,84 H144" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<text x="148" y="88" font-size="12" fill="#c33" font-weight="bold">thicker</text>
+<text x="14" y="70" font-size="12" fill="#0b5cad">hot end up</text>
+<line x1="76" y1="72" x2="100" y2="82" stroke="#0b5cad" stroke-width="1.2"/><circle cx="100" cy="82" r="2.2" fill="#0b5cad"/>
+<text x="14" y="108" font-size="12" fill="#0b5cad">dipped in water</text>
+<text x="14" y="122" font-size="12" fill="#0b5cad">to stay hard</text>
+<line x1="84" y1="118" x2="106" y2="114" stroke="#0b5cad" stroke-width="1.2"/><circle cx="106" cy="114" r="2.2" fill="#0b5cad"/>
+<text x="138" y="106" font-size="12" fill="#555">upright on</text>
+<text x="138" y="120" font-size="12" fill="#555">the anvil face</text>
+<g font-size="13">
+<text x="10" y="202" fill="#c33" font-weight="bold">Wrought iron, mild steel:</text>
+<text x="10" y="220" fill="#c33" font-weight="bold">upset at orange-yellow</text>
+<text x="10" y="240">Heat only the part to upset</text>
+<text x="10" y="258">(about 2-3 times the diameter</text>
+<text x="10" y="276">long); hammer straight down on</text>
+<text x="10" y="294">the end. If it starts to bend,</text>
+<text x="10" y="312">straighten it at once (hammered</text>
+<text x="10" y="330">bent, it "folds" into a crack).</text>
+<text x="10" y="348">Upset no more than about</text>
+<text x="10" y="366">3 times the diameter</text>
+</g>
+</g>
+
+<!-- 3 bending -->
+<g transform="translate(482,44)">
+<rect width="228" height="380" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="10" y="24" font-size="15" font-weight="bold">③ Bending</text>
+<rect x="54" y="122" width="12" height="56" fill="#888" stroke="#333" stroke-width="1.5"/>
+<circle cx="60" cy="112" r="14" fill="#777" stroke="#333" stroke-width="1.8"/>
+<path d="M60,93 H112" stroke="#999" stroke-width="1.5" stroke-dasharray="4 3"/>
+<path d="M16,93 H60 A19,19 0 0 1 73.4,98.6 L100,125" fill="none" stroke="#333" stroke-width="11" stroke-linejoin="round"/>
+<path d="M30,93 H60 A19,19 0 0 1 73.4,98.6 L100,125" fill="none" stroke="#f39a2a" stroke-width="7.5" stroke-linejoin="round"/>
+<path d="M17,93 H30" stroke="#9aa3ad" stroke-width="7.5"/>
+<path d="M4,86 L16,90 M4,100 L16,96" stroke="#333" stroke-width="3.5" stroke-linecap="round"/>
+<rect x="82" y="50" width="40" height="20" rx="3" fill="#888" stroke="#333" stroke-width="1.8"/>
+<rect x="122" y="55" width="36" height="9" rx="3" fill="#c8a06a" stroke="#333" stroke-width="1.5"/>
+<path d="M98,74 V104" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<path d="M134,100 H198 V150 H134 Z" fill="#666" stroke="#333" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M130,95 H203.5 V150" fill="none" stroke="#333" stroke-width="11" stroke-linejoin="miter"/>
+<path d="M130,95 H203.5 V150" fill="none" stroke="#f39a2a" stroke-width="7.5" stroke-linejoin="miter"/>
+<circle cx="203" cy="95" r="9" fill="none" stroke="#c33" stroke-width="1.5" stroke-dasharray="3 2"/>
+<text x="214" y="42" font-size="12" fill="#c33" text-anchor="end">upset corner first</text>
+<text x="18" y="200" font-size="12" fill="#0b5cad">curve: horn or round bar</text>
+<text x="132" y="168" font-size="12" fill="#0b5cad">right angle:</text>
+<text x="132" y="182" font-size="12" fill="#0b5cad">square edge</text>
+<g font-size="13">
+<text x="10" y="222" fill="#c33" font-weight="bold">Heat only the part to bend</text>
+<text x="10" y="242">Bend curves over the anvil horn</text>
+<text x="10" y="260">or a round bar, right angles</text>
+<text x="10" y="278">over the square anvil edge.</text>
+<text x="10" y="296">The outside stretches thin →</text>
+<text x="10" y="314">upset the corner a little first.</text>
+<text x="10" y="332">Then tap it true on the flat</text>
+<text x="10" y="350">face of the anvil</text>
+</g>
+</g>
+
+<!-- 4 punching -->
+<g transform="translate(10,434)">
+<rect width="228" height="430" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="10" y="24" font-size="15" font-weight="bold">④ Punching (both sides)</text>
+<!-- a front -->
+<rect x="12" y="140" width="96" height="36" fill="#666" stroke="#333" stroke-width="1.8"/>
+<rect x="20" y="118" width="80" height="22" fill="#f39a2a" stroke="#333" stroke-width="1.5"/>
+<path d="M54,56 H66 L65,132 Q60,135 55,132 Z" fill="#9aa3ad" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="38" y="34" width="44" height="18" rx="3" fill="#888" stroke="#333" stroke-width="1.8"/>
+<rect x="82" y="38" width="32" height="9" rx="3" fill="#c8a06a" stroke="#333" stroke-width="1.5"/>
+<path d="M28,44 V60" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<path d="M88,118 V133" stroke="#0b5cad" stroke-width="1.2" marker-start="url(#arG)" marker-end="url(#arG)"/>
+<text x="72" y="112" font-size="12" fill="#0b5cad">≈2/3</text>
+<text x="12" y="194" font-size="12" fill="#555">a: punch about</text>
+<text x="12" y="208" font-size="12" fill="#555">2/3 deep</text>
+<!-- b turned over -->
+<rect x="120" y="140" width="38" height="36" fill="#666" stroke="#333" stroke-width="1.8"/>
+<rect x="176" y="140" width="40" height="36" fill="#666" stroke="#333" stroke-width="1.8"/>
+<path d="M127,118 H209 V140 H172 V125 H162 V140 H127 Z" fill="#f39a2a" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="162" y="118" width="10" height="7" fill="#7a3a10" stroke="#333" stroke-width="1"/>
+<path d="M161,56 H173 L172,114 H162 Z" fill="#9aa3ad" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="145" y="34" width="44" height="18" rx="3" fill="#888" stroke="#333" stroke-width="1.8"/>
+<rect x="189" y="38" width="32" height="9" rx="3" fill="#c8a06a" stroke="#333" stroke-width="1.5"/>
+<rect x="162" y="154" width="10" height="7" fill="#7a3a10" stroke="#333" stroke-width="1"/>
+<path d="M167,163 V178" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<text x="120" y="84" font-size="12" fill="#0b5cad">aim at</text>
+<text x="120" y="98" font-size="12" fill="#0b5cad">dark</text>
+<text x="120" y="112" font-size="12" fill="#0b5cad">spot</text>
+<line x1="148" y1="106" x2="162" y2="118" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="168" y="194" font-size="12" fill="#555" text-anchor="middle">b: turn over,</text>
+<text x="168" y="208" font-size="12" fill="#555" text-anchor="middle">punch out the slug</text>
+<g font-size="13">
+<text x="10" y="232" fill="#c33" font-weight="bold">Orange-yellow to yellow</text>
+<text x="10" y="250" fill="#c33" font-weight="bold">(hotter than ordinary forging)</text>
+<text x="10" y="270">Punch about 2/3 deep; turn over</text>
+<text x="10" y="288">and punch out the slug at the</text>
+<text x="10" y="306">dark spot (over the anvil hole or</text>
+<text x="10" y="324">an iron ring). Often pull the</text>
+<text x="10" y="342">punch out and dip it in water;</text>
+<text x="10" y="360">put a pinch of charcoal powder</text>
+<text x="10" y="378">in the hole</text>
+<text x="10" y="400" fill="#c33">✗ Punching right through from one</text>
+<text x="10" y="418" fill="#c33">side: crooked hole, ragged burr</text>
+</g>
+</g>
+
+<!-- 5 cutting -->
+<g transform="translate(246,434)">
+<rect width="228" height="430" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="10" y="24" font-size="15" font-weight="bold">⑤ Cutting (hot)</text>
+<path d="M22,148 H206 V164 H186 L180,176 H48 L42,164 H22 Z" fill="#666" stroke="#333" stroke-width="1.8" stroke-linejoin="round"/>
+<rect x="40" y="140" width="148" height="8" fill="#ccc" stroke="#333" stroke-width="1.2"/>
+<path d="M30,122 H104 L112,131 L120,122 H196 V140 H30 Z" fill="#f39a2a" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M104,62 H120 V104 L113,131 H111 L104,104 Z" fill="#9aa3ad" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="90" y="36" width="44" height="20" rx="3" fill="#888" stroke="#333" stroke-width="1.8"/>
+<rect x="134" y="41" width="60" height="10" rx="3" fill="#c8a06a" stroke="#333" stroke-width="1.5"/>
+<path d="M82,46 V62" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="134" y="84" font-size="12" fill="#0b5cad">hot chisel</text>
+<line x1="132" y1="80" x2="120" y2="86" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="16" y="92" font-size="12" fill="#0b5cad">cut about</text>
+<text x="16" y="106" font-size="12" fill="#0b5cad">halfway in</text>
+<line x1="78" y1="104" x2="106" y2="126" stroke="#0b5cad" stroke-width="1.2"/><circle cx="106" cy="126" r="2.2" fill="#0b5cad"/>
+<text x="40" y="196" font-size="12" fill="#0b5cad">soft iron or copper</text>
+<text x="40" y="210" font-size="12" fill="#0b5cad">plate underneath</text>
+<line x1="150" y1="184" x2="162" y2="146" stroke="#0b5cad" stroke-width="1.2"/><circle cx="162" cy="146" r="2.2" fill="#0b5cad"/>
+<g font-size="13">
+<text x="10" y="232" fill="#c33" font-weight="bold">Cut while red hot, never</text>
+<text x="10" y="250" fill="#c33" font-weight="bold">straight on the anvil face</text>
+<text x="10" y="270">Cut about halfway in → turn it</text>
+<text x="10" y="288">over, line up with the cut and</text>
+<text x="10" y="306">cut again → when only a thin skin</text>
+<text x="10" y="324">is left, lay it on the anvil edge</text>
+<text x="10" y="342">and snap it off with light blows</text>
+<text x="10" y="364">Cold cutting: chisel a deep groove,</text>
+<text x="10" y="382">then snap it; nobody in front</text>
+</g>
+</g>
+
+<!-- 6 rhythm of each heat -->
+<g transform="translate(482,434)">
+<rect width="228" height="430" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="10" y="24" font-size="15" font-weight="bold">⑥ The rhythm of each heat</text>
+<g font-size="12" text-anchor="middle">
+<rect x="6" y="38" width="102" height="78" rx="6" fill="#fff3e0" stroke="#f39a2a" stroke-width="1.5"/>
+<text x="57" y="56" font-weight="bold">Into the fire</text><text x="57" y="72">just above the</text><text x="57" y="87">centre; turn it</text><text x="57" y="102">to heat through</text>
+<rect x="120" y="38" width="102" height="78" rx="6" fill="#fafafa" stroke="#999" stroke-width="1.5"/>
+<text x="171" y="56" font-weight="bold">Out of the fire</text><text x="171" y="72">brush off</text><text x="171" y="87">loose scale</text>
+<rect x="120" y="130" width="102" height="78" rx="6" fill="#fafafa" stroke="#999" stroke-width="1.5"/>
+<text x="171" y="148" font-weight="bold">Hammer</text><text x="171" y="164">heavy blows to</text><text x="171" y="179">shape; lighter</text><text x="171" y="194">as it darkens</text>
+<rect x="6" y="130" width="102" height="78" rx="6" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<text x="57" y="148" font-weight="bold" fill="#c33">Back in</text><text x="57" y="164">at blood red,</text><text x="57" y="179">put it back</text><text x="57" y="194">in the fire</text>
+</g>
+<path d="M109,77 H118" stroke="#666" stroke-width="2" marker-end="url(#arG)"/>
+<path d="M171,117 V127" stroke="#666" stroke-width="2" marker-end="url(#arG)"/>
+<path d="M119,169 H110" stroke="#666" stroke-width="2" marker-end="url(#arG)"/>
+<path d="M57,129 V119" stroke="#666" stroke-width="2" marker-end="url(#arG)"/>
+<g font-size="13">
+<text x="10" y="232">A small piece gives only 20-40</text>
+<text x="10" y="250">seconds of work per heat.</text>
+<text x="10" y="270">One job per heat: draw out in</text>
+<text x="10" y="288">this heat, bend in the next.</text>
+<text x="10" y="308">Let the hammer face land flat,</text>
+<text x="10" y="326">right over the anvil (blows over</text>
+<text x="10" y="344">empty space bend the work)</text>
+<text x="10" y="366" fill="#c33" font-weight="bold">✗ Never hit hard once it</text>
+<text x="10" y="384" fill="#c33" font-weight="bold">stops glowing</text>
+</g>
+</g>
+
+<!-- fire colours -->
+<g transform="translate(0,210)">
+<rect x="10" y="664" width="700" height="306" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="24" y="688" font-size="15" font-weight="bold">Fire colours and forging heats (view in the shade; temperatures approximate)</text>
+<rect x="408" y="702" width="188" height="9" rx="2" fill="#c33"/>
+<text x="402" y="711" font-size="12.5" fill="#c33" font-weight="bold" text-anchor="end">best for wrought iron, mild steel →</text>
+<rect x="216" y="720" width="284" height="9" rx="2" fill="#0b5cad"/>
+<text x="210" y="729" font-size="12.5" fill="#0b5cad" font-weight="bold" text-anchor="end">high-carbon steel only here →</text>
+<g stroke="#333" stroke-width="1">
+<rect x="24" y="738" width="92" height="22" fill="#6e1b12"/>
+<rect x="120" y="738" width="92" height="22" fill="#9e2214"/>
+<rect x="216" y="738" width="92" height="22" fill="#c92a1a"/>
+<rect x="312" y="738" width="92" height="22" fill="#e8461f"/>
+<rect x="408" y="738" width="92" height="22" fill="#f39a2a"/>
+<rect x="504" y="738" width="92" height="22" fill="#f6cf3a"/>
+<rect x="600" y="738" width="92" height="22" fill="#fff6c8"/>
+</g>
+<g font-size="13" text-anchor="middle">
+<text x="70" y="776">dark red</text><text x="166" y="776">blood red</text><text x="262" y="776">cherry red</text><text x="358" y="776">bright red</text><text x="454" y="776">orange-yellow</text><text x="550" y="776">yellow</text><text x="646" y="776">bright yellow</text><text x="646" y="791">to white</text>
+</g>
+<g font-size="12" text-anchor="middle" fill="#555">
+<text x="70" y="808">500-550°C</text><text x="166" y="808">650-700°C</text><text x="262" y="808">780-850°C</text><text x="358" y="808">850-950°C</text><text x="454" y="808">1000-1100°C</text><text x="550" y="808">about 1200°C</text><text x="646" y="808">1250-1300°C</text>
+</g>
+<g font-size="12" text-anchor="middle">
+<text x="70" y="828" fill="#555">light</text><text x="70" y="842" fill="#555">straightening</text><text x="70" y="856" fill="#555">only</text>
+<text x="166" y="828" fill="#c33" font-weight="bold">▲ wrought iron,</text><text x="166" y="842" fill="#c33" font-weight="bold">mild steel:</text><text x="166" y="856" fill="#c33">back in the fire</text><text x="166" y="870" fill="#c33">at this colour</text>
+<text x="262" y="828" fill="#0b5cad" font-weight="bold">▲ high-carbon</text><text x="262" y="842" fill="#0b5cad" font-weight="bold">steel:</text><text x="262" y="856" fill="#0b5cad">back in the fire</text><text x="262" y="870" fill="#0b5cad">at this colour</text>
+<text x="646" y="828" fill="#555">forge welding</text><text x="646" y="842" fill="#555">only</text>
+</g>
+<g font-size="13">
+<text x="24" y="898"><tspan fill="#c33" font-weight="bold">✗ Never hit hard once it stops glowing:</tspan> mild steel at about 200-400°C (blue oxide</text>
+<text x="40" y="916">colour on the surface) is especially brittle and most easily cracks inside</text>
+<text x="24" y="940"><tspan fill="#c33" font-weight="bold">Safety:</tspan> wear goggles; tong jaws must fit the work; "not glowing" does not mean "not hot":</text>
+<text x="40" y="958">always pick up iron from the floor with tongs</text>
+</g>
+</g>
+</g>
+</svg>
