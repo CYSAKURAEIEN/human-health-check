@@ -21,7 +21,7 @@ Needs:
   the water, not with the fish)
 ```
 
-From the point of view of self-sufficiency after a disaster: a fish pond can produce fish without bought feed (through plankton grown with green grass and manure), though yields will be much lower than with intensive feeding. Pond mud is also a good fertiliser, and pond water can be used to water vegetables. All of this assumes a reliable water source — drinking water comes first; see [Water Sources and Water Supply](../../../docs/07-日常生活技能/10-水源工程与供水.md).
+From the point of view of self-sufficiency after a disaster: a fish pond can produce fish without bought feed (through plankton grown with green grass and manure), though yields will be much lower than with intensive feeding. Pond mud is also a good fertiliser, and pond water can be used to water vegetables. All of this assumes a reliable water source — drinking water comes first; see [Water Sources and Water Supply](../07-everyday-living-skills/10-water-supply.md).
 
 ---
 
@@ -173,7 +173,7 @@ Why quicklime works well: with water it forms calcium hydroxide, which for a sho
 - Keep children away from lime heaps and slaking pits
 ```
 
-For burning, slaking and safe use of lime see [Lime and Building Materials](../../../docs/07-日常生活技能/16-石灰与建筑材料.md#先说清楚-本章的定位) and [Slaked lime powder](../../../docs/07-日常生活技能/16-石灰与建筑材料.md#消石灰粉撒地消毒改土用); for chemical burns see [Wound and Injury Care – Chemical burns](../01-first-aid-and-family-health/02-wounds-and-injuries.md#chemical-burns).
+For burning, slaking and safe use of lime see [Lime and Building Materials](../07-everyday-living-skills/16-lime-and-building-materials.md#first-what-this-chapter-covers) and [Slaked lime powder](../07-everyday-living-skills/16-lime-and-building-materials.md#hydrated-lime-powder-for-spreading-on-the-ground-disinfection-and-soil-improvement); for chemical burns see [Wound and Injury Care – Chemical burns](../01-first-aid-and-family-health/02-wounds-and-injuries.md#chemical-burns).
 
 **Base fertiliser**:
 ```
@@ -197,7 +197,7 @@ filled to 50-80 cm):
   human faeces into a pond
 ```
 
-For how long excreta must be stored see [Sanitation – Faeces](../../../docs/07-日常生活技能/03-卫生设施.md#粪便必须长时间储存); for biogas slurry see [Lighting and Energy – Using biogas residue and slurry](../../../docs/07-日常生活技能/06-照明与能源.md#沼渣沼液的利用).
+For how long excreta must be stored see [Sanitation – Faeces](../07-everyday-living-skills/03-sanitation.md#faeces-must-be-stored-for-a-long-time); for biogas slurry see [Lighting and Energy – Using biogas residue and slurry](../07-everyday-living-skills/06-lighting-and-energy.md#using-the-sludge-and-liquid).
 
 #### Stocking fingerlings
 
@@ -437,7 +437,7 @@ spells of rain run it at midnight"
 - Switch off the power before repairs; keep away during thunderstorms
 ```
 
-See [Household Electrical Safety – Electricity in wet places](../../../docs/07-日常生活技能/08-家庭用电安全.md#潮湿环境用电) and [Lighting and Energy – Small-scale solar power](../../../docs/07-日常生活技能/06-照明与能源.md#小型太阳能).
+See [Household Electrical Safety – Electricity in wet places](../07-everyday-living-skills/08-household-electrical-safety.md#electricity-in-damp-places) and [Lighting and Energy – Small-scale solar power](../07-everyday-living-skills/06-lighting-and-energy.md#small-scale-solar-power).
 
 **Recognising gasping fish and emergency action**:
 
@@ -480,7 +480,7 @@ Emergency steps:
    fish that smell bad or died of unknown causes as dead animals
 ```
 
-For disposing of dead animals see [Sanitation – Disposing of dead animals](../../../docs/07-日常生活技能/03-卫生设施.md#病死动物处理); for reading the weather see [Weather Observation and Forecasting – Air pressure](../../../docs/08-基础科学知识/07-天气观测与预报.md#31-气压).
+For disposing of dead animals see [Sanitation – Disposing of dead animals](../07-everyday-living-skills/03-sanitation.md#disposing-of-diseased-animal-carcasses); for reading the weather see [Weather Observation and Forecasting – Air pressure](../../../docs/08-基础科学知识/07-天气观测与预报.md#31-气压).
 
 **Fertilising**:
 ```
@@ -651,7 +651,7 @@ Fish you cannot eat in time:
    half-raw fish slices (liver fluke)
 ```
 
-For how to salt, dry and smoke see [Food Processing and Preservation – Salting](../../../docs/07-日常生活技能/01-食物加工与保存.md#盐腌), [Sun-drying and air-drying](../../../docs/07-日常生活技能/01-食物加工与保存.md#晒干与风干) and [Smoking](../../../docs/07-日常生活技能/01-食物加工与保存.md#烟熏). If symptoms appear after swallowing fish gall, see a doctor at once; for general management of poisoning see [Poisoning](../01-first-aid-and-family-health/12-poisoning.md#general-principles-for-handling-poisoning).
+For how to salt, dry and smoke see [Food Processing and Preservation – Salting](../07-everyday-living-skills/01-food-processing-and-preservation.md#salting), [Sun-drying and air-drying](../07-everyday-living-skills/01-food-processing-and-preservation.md#sun-drying-and-air-drying) and [Smoking](../07-everyday-living-skills/01-food-processing-and-preservation.md#smoking). If symptoms appear after swallowing fish gall, see a doctor at once; for general management of poisoning see [Poisoning](../01-first-aid-and-family-health/12-poisoning.md#general-principles-for-handling-poisoning).
 
 ### Fish in rice paddies
 
@@ -848,7 +848,7 @@ Common problems:
   picking them off by hand and using insect netting
 ```
 
-For small-scale solar power see [Lighting and Energy – Small-scale solar power](../../../docs/07-日常生活技能/06-照明与能源.md#小型太阳能); for choosing vegetables see [Vegetable Growing](01-vegetable-growing.md).
+For small-scale solar power see [Lighting and Energy – Small-scale solar power](../07-everyday-living-skills/06-lighting-and-energy.md#small-scale-solar-power); for choosing vegetables see [Vegetable Growing](01-vegetable-growing.md).
 
 ---
 

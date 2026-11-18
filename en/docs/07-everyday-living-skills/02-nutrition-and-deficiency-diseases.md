@@ -67,7 +67,7 @@ Sprouting beans (soybeans, mung beans):
 ```
 
 **Other sources**:
-- Wild greens: shepherd's purse, purslane, young dandelion leaves and others (you must be 100% sure of them; see [Medicinal plants](../../../docs/04-动植物培育/04-药用植物.md))
+- Wild greens: shepherd's purse, purslane, young dandelion leaves and others (you must be 100% sure of them; see [Medicinal plants](../04-farming-and-animal-husbandry/04-medicinal-plants.md))
 - Pine-needle tea: chop fresh pine needles and steep them in hot water (do not boil them for long). ⚠️ Use only trees you are sure are pines; **yew (Taxus) is highly poisonous**, with flat needles and a similar appearance; do not confuse them. Pregnant women should not drink pine-needle tea
 - Chillies, Chinese cabbage, radishes and potatoes also contain some vitamin C
 
@@ -105,14 +105,14 @@ If you do not treat maize with alkali, you must also eat plenty of beans, peanut
 - When stockpiling, choose iodised salt and keep it sealed (iodine is lost with damp, heat and light)
 - ⚠️ People with thyroid disease should follow their doctor's advice; do not use povidone-iodine, tincture of iodine or other iodine products for external use in place of iodised salt
 
-Home-made salt contains almost no iodine; see [Salt making – iodine](../../../docs/07-日常生活技能/15-制盐.md#碘-自制盐最大的缺陷).
+Home-made salt contains almost no iodine; see [Salt making – iodine](15-salt-making.md#iodine-the-biggest-weakness-of-home-made-salt).
 
 ### Protein: beans are the most important plant protein
 
 - Soybeans and soy products (tofu, soy milk, bean sprouts); for how to make them see [Food processing and preservation – tofu](01-food-processing-and-preservation.md#tofu)
 - Grain + beans together (e.g. rice with tofu, mixed-grain porridge): the proteins complement each other
-- Eggs are the easiest good-quality protein to get; see [Poultry](../../../docs/04-动植物培育/05-家禽养殖.md)
-- Insects are also a source of protein (they must be cooked through); see [Basic survival skills](../../../docs/03-野外生存/00-基础生存技能.md)
+- Eggs are the easiest good-quality protein to get; see [Poultry](../04-farming-and-animal-husbandry/05-poultry.md)
+- Insects are also a source of protein (they must be cooked through); see [Basic survival skills](../03-wilderness-survival/00-basic-survival-skills.md)
 
 ---
 
@@ -131,7 +131,7 @@ Home-made salt contains almost no iodine; see [Salt making – iodine](../../../
 
 ### Babies and young children
 
-For feeding and care of a newborn in the first few days see [Emergency childbirth and newborn care – the newborn's first few days](../../../docs/01-日常疾病和伤害/11-紧急分娩与新生儿护理.md#新生儿最初几天).
+For feeding and care of a newborn in the first few days see [Emergency childbirth and newborn care – the newborn's first few days](../01-first-aid-and-family-health/11-emergency-childbirth-and-newborn-care.md#newborn-care-in-the-first-few-days).
 
 ```
 ✓ Under 6 months: breastfeeding is the safest choice (it does not depend on
@@ -176,7 +176,7 @@ Watch for: palpitations, shortness of breath, swelling, fits, changes in conscio
 
 ## What to stockpile
 
-In addition to the [Long-term collapse survival – stockpile list](../../../docs/03-野外生存/06-末日求生.md#储备清单), add:
+In addition to the [Long-term collapse survival – stockpile list](../03-wilderness-survival/06-long-term-collapse-survival.md#stockpile-list), add:
 
 ```
 - [ ] Iodised salt (kept sealed)
@@ -204,5 +204,5 @@ In addition to the [Long-term collapse survival – stockpile list](../../../doc
 
 ---
 
-**Next chapter**: [Sanitation](../../../docs/07-日常生活技能/03-卫生设施.md)
+**Next chapter**: [Sanitation](03-sanitation.md)
 **Back to**: [Part contents](README.md) | [Main contents](../../README.md)

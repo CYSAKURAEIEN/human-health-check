@@ -55,7 +55,7 @@ The simplest and safest way to preserve food.
 4. Storage: sealed, dry, safe from rats, in a cool place
 ```
 
-For long-term grain storage see [Grain crops – key points of storage](../../../docs/04-动植物培育/02-粮食作物.md#储存要点).
+For long-term grain storage see [Grain crops – key points of storage](../04-farming-and-animal-husbandry/02-grain-crops.md#storage-essentials).
 
 ### Vegetables and fruit
 
@@ -223,7 +223,7 @@ Sweet potatoes and pumpkins do not tolerate cold and cannot share the cellar wit
 | Pumpkins | 10-15°C | Dry and airy; do not stack them on top of each other |
 | Onions, garlic | 0-5°C | Dry and airy; hang them up |
 
-For what to do with sprouted or green potatoes see [Vegetable growing – potatoes](../../../docs/04-动植物培育/01-蔬菜种植.md#土豆).
+For what to do with sprouted or green potatoes see [Vegetable growing – potatoes](../04-farming-and-animal-husbandry/01-vegetable-growing.md#potato).
 
 ---
 
@@ -330,11 +330,11 @@ Okara: can be stir-fried or made into cakes, or fed to chickens and pigs, or com
 ### Others
 
 - **Nitrite**: wait more than 20 days before eating pickled vegetables (see above); do not mistake industrial salt for table salt
-- **Sprouted or green potatoes**: solanine; see [Vegetable growing – potatoes](../../../docs/04-动植物培育/01-蔬菜种植.md#土豆)
+- **Sprouted or green potatoes**: solanine; see [Vegetable growing – potatoes](../04-farming-and-animal-husbandry/01-vegetable-growing.md#potato)
 - **Undercooked green beans and long beans**: saponin poisoning; they must be stir-fried and cooked through until they lose their raw green colour
-- **Wild mushrooms**: never eat any you do not know; see [Forest survival](../../../docs/03-野外生存/02-森林求生.md)
+- **Wild mushrooms**: never eat any you do not know; see [Forest survival](../03-wilderness-survival/02-forest-survival.md)
 
-For general treatment of food poisoning see [Common illnesses – food poisoning](../../../docs/01-日常疾病和伤害/01-常见疾病.md#食物中毒).
+For general treatment of food poisoning see [Common illnesses – food poisoning](../01-first-aid-and-family-health/01-common-illnesses.md#food-poisoning).
 
 ---
 

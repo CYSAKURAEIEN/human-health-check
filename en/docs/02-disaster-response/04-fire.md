@@ -484,7 +484,7 @@ Options:
    rope around the anchor, lowers them slowly, then climbs down themselves
 ```
 
-For how to tie each knot see [Rope and Knots – Sheet bend](../../../docs/07-日常生活技能/17-绳索与结绳.md#接绳结-连接粗细不同的两根绳), [Fisherman's knot](../../../docs/07-日常生活技能/17-绳索与结绳.md#渔人结-连接两根绳子) and [Bowline](../../../docs/07-日常生活技能/17-绳索与结绳.md#单套结称人结-打一个不会收紧的绳圈); for why a reef knot must not be used to join ropes see [Reef knot](../../../docs/07-日常生活技能/17-绳索与结绳.md#平结-只用来捆扎).
+For how to tie each knot see [Rope and Knots – Sheet bend](../07-everyday-living-skills/17-rope-and-knots.md#sheet-bend-joining-two-ropes-of-different-thickness), [Fisherman's knot](../07-everyday-living-skills/17-rope-and-knots.md#fishermans-knot-joining-two-ropes) and [Bowline](../07-everyday-living-skills/17-rope-and-knots.md#bowline-a-loop-that-does-not-tighten); for why a reef knot must not be used to join ropes see [Reef knot](../07-everyday-living-skills/17-rope-and-knots.md#reef-knot-for-tying-up-only).
 
 ### If your clothes catch fire
 
@@ -899,7 +899,7 @@ Also: loose plugs and sockets and loose connections (joints that run hot for a l
   - Leave appliances on standby for long periods
 ```
 
-For choosing residual-current devices and circuit breakers, using extension leads and cables, precautions with high-power appliances and a monthly checklist, see [Household Electrical Safety](../../../docs/07-日常生活技能/08-家庭用电安全.md); it is not repeated here.
+For choosing residual-current devices and circuit breakers, using extension leads and cables, precautions with high-power appliances and a monthly checklist, see [Household Electrical Safety](../07-everyday-living-skills/08-household-electrical-safety.md); it is not repeated here.
 
 ### Putting it out
 
@@ -954,7 +954,7 @@ The key to prevention: e-bikes do not go in corridors, homes or lifts;
 charge them at a shared charging point; do not charge overnight
 ```
 
-For detailed rules on charging and parking see [Household Electrical Safety – Charging e-bikes](../../../docs/07-日常生活技能/08-家庭用电安全.md#电动自行车充电); for electric car fires see [Home and Traffic Accidents – Vehicle fires](../01-first-aid-and-family-health/07-home-and-traffic-accidents.md#vehicle-fire).
+For detailed rules on charging and parking see [Household Electrical Safety – Charging e-bikes](../07-everyday-living-skills/08-household-electrical-safety.md#charging-electric-bikes); for electric car fires see [Home and Traffic Accidents – Vehicle fires](../01-first-aid-and-family-health/07-home-and-traffic-accidents.md#vehicle-fire).
 
 Lithium batteries in phones, power banks and similar can also catch fire: do not crush, drop or pierce them; stop using one that has swollen; do not use one while it charges under your pillow or in the bed covers; do not leave it on the bed or sofa while it charges.
 

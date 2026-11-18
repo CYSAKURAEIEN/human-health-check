@@ -45,7 +45,7 @@ time and materials in a desperate situation on things that cannot succeed, or po
 
 ## 📚 Chapters
 
-### [00 Pharmacy basics](../../../docs/06-制药技术/00-基础制药知识.md)
+### [00 Pharmacy basics](00-pharmacy-basics.md)
 
 Basic concepts of making medicines and the safety requirements.
 
@@ -63,7 +63,7 @@ Basic concepts of making medicines and the safety requirements.
 
 ---
 
-### [01 Making disinfectants](../../../docs/06-制药技术/01-消毒剂制备.md)
+### [01 Making disinfectants](01-disinfectants.md)
 
 The most basic and most important category of medicine.
 
@@ -89,7 +89,7 @@ The most basic and most important category of medicine.
 
 ---
 
-### [02 Antibiotics](../../../docs/06-制药技术/02-抗生素制备.md)
+### [02 Antibiotics](02-antibiotics.md)
 
 The key medicines against bacterial infection.
 
@@ -115,7 +115,7 @@ The key medicines against bacterial infection.
 
 ---
 
-### [03 Fever and pain relievers](../../../docs/06-制药技术/03-解热镇痛药.md)
+### [03 Fever and pain relievers](03-fever-and-pain-relievers.md)
 
 The basic medicines for bringing down fever and relieving pain.
 
@@ -135,7 +135,7 @@ The basic medicines for bringing down fever and relieving pain.
 
 ---
 
-### [04 Chinese herbal preparations](../../../docs/06-制药技术/04-中药制剂.md)
+### [04 Chinese herbal preparations](04-herbal-preparations.md)
 
 Preparing and using traditional Chinese medicines.
 
@@ -186,11 +186,11 @@ Preparing and using traditional Chinese medicines.
 
 1. **Organise your stockpile systematically** (ongoing)
    - Stockpiling and rotating antibiotics and wound-care supplies
-   - See [Antibiotics – stockpiling advice](../../../docs/06-制药技术/02-抗生素制备.md#六储备建议)
+   - See [Antibiotics – stockpiling advice](02-antibiotics.md#6-stockpiling-advice)
 
 2. **Making and keeping natural antibacterials** (2-4 weeks)
    - Honey (first choice for external use), propolis tincture, tea tree oil
-   - See [Antibiotics – natural antibacterial substances](../../../docs/06-制药技术/02-抗生素制备.md#三天然抗菌物质)
+   - See [Antibiotics – natural antibacterial substances](02-antibiotics.md#3-natural-antibacterial-substances)
 
 ### ❌ Not on the learning path
 
@@ -401,9 +401,9 @@ Preparing and using traditional Chinese medicines.
 
 ## Related chapters
 
-- 🔗 [First Aid and Family Health](../../../docs/01-日常疾病和伤害/README.md) - where the medicines are used
-- 🔗 [Farming and Animal Husbandry – Medicinal plants](../../../docs/04-动植物培育/04-药用植物.md) - growing the raw materials
-- 🔗 [Wilderness Survival](../../../docs/03-野外生存/README.md) - collecting wild medicinal herbs
+- 🔗 [First Aid and Family Health](../01-first-aid-and-family-health/README.md) - where the medicines are used
+- 🔗 [Farming and Animal Husbandry – Medicinal plants](../04-farming-and-animal-husbandry/04-medicinal-plants.md) - growing the raw materials
+- 🔗 [Wilderness Survival](../03-wilderness-survival/README.md) - collecting wild medicinal herbs
 
 ---
 

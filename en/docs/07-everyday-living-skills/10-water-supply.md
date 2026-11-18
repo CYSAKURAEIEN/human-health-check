@@ -25,7 +25,7 @@ Three goals of water supply:
 3. Convenient: the further people walk for water, the less they use, and the worse hygiene gets
 ```
 
-For germ theory and intestinal infections see [Biology and Medicine Basics – Germ theory](../../../docs/08-基础科学知识/04-生物与医学基础.md#二病菌学说-改变人类命运的认识) and [Infectious Disease at Home – Diarrhoeal infections](../../../docs/01-日常疾病和伤害/15-传染病家庭防控.md#腹泻类传染病).
+For germ theory and intestinal infections see [Biology and Medicine Basics – Germ theory](../../../docs/08-基础科学知识/04-生物与医学基础.md#二病菌学说-改变人类命运的认识) and [Infectious Disease at Home – Diarrhoeal infections](../01-first-aid-and-family-health/15-infectious-disease-at-home.md#diarrhoeal-infections).
 
 ---
 
@@ -57,7 +57,7 @@ Example: a community of 50 people, at 20 L per person per day, needs at least 10
 ✓ Fence off the area upstream of the collection point at springs and streams
 ```
 
-For siting latrines see [Sanitation – Dry latrines](../../../docs/07-日常生活技能/03-卫生设施.md#旱厕).
+For siting latrines see [Sanitation – Dry latrines](03-sanitation.md#pit-latrines).
 
 ---
 
@@ -150,7 +150,7 @@ New wells, wells that have been flooded, wells suspected of contamination:
 
 *Figure: Diameter about 1-1.5 m, top 1-2 m of the wall sealed, dug below the dry-season water table and then a further 1-2 m; before going down, lower a flame to test, blow in air; if someone collapses do not go straight down to rescue them; disinfect at about 50-100 g of available chlorine per 1000 L of water and leave for at least 12 hours*
 
-For the strength of "84" bleach see [Infectious Disease at Home – Making household disinfectant](../../../docs/01-日常疾病和伤害/15-传染病家庭防控.md#家用消毒液的配制).
+For the strength of "84" bleach see [Infectious Disease at Home – Making household disinfectant](../01-first-aid-and-family-health/15-infectious-disease-at-home.md#making-household-disinfectant).
 
 ---
 
@@ -229,7 +229,7 @@ Effect: removes most bacteria and parasite eggs, but cannot be relied on to remo
 
 *Figure: Layer thicknesses as in the text; the outlet pipe bends upwards with its outlet higher than the sand surface; the biological film on the sand takes 2-3 weeks to grow, and the filtered water must still be boiled or chlorinated*
 
-For simple filters in the wild see [Basic Survival Skills – Finding and purifying water](../../../docs/03-野外生存/00-基础生存技能.md#水源获取与净化).
+For simple filters in the wild see [Basic Survival Skills – Finding and purifying water](../03-wilderness-survival/00-basic-survival-skills.md#finding-and-purifying-water).
 
 ### Disinfection
 
@@ -320,7 +320,7 @@ For the principles of water power and atmospheric pressure see [Physics – Pres
 ✓ Fill in standing puddles promptly (against mosquitoes)
 ```
 
-For dealing with faeces see [Sanitation](../../../docs/07-日常生活技能/03-卫生设施.md).
+For dealing with faeces see [Sanitation](03-sanitation.md).
 
 ---
 
@@ -339,5 +339,5 @@ For dealing with faeces see [Sanitation](../../../docs/07-日常生活技能/03-
 
 ---
 
-**Next chapter**: [Pottery, Glass and Papermaking](../../../docs/07-日常生活技能/11-陶瓷玻璃与造纸.md)
-**Back**: [Chapter index](../../../docs/07-日常生活技能/README.md) | [Main contents](../../../README.md)
+**Next chapter**: [Pottery, Glass and Papermaking](11-pottery-glass-and-papermaking.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

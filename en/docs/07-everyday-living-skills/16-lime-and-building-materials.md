@@ -19,7 +19,7 @@
 
 Cement has to be fired at about 1450°C, which a small community will find hard to do well; **lime needs only about 900°C, and a simple earth kiln can make it**. For thousands of years before cement became common, the mortar for laying walls, the white plaster for rendering them, the three-part earth for floors and the disinfectant wash for animal pens all depended on lime. It can also improve acid soil and help with papermaking and tanning.
 
-This chapter covers finding raw materials, burning lime and slaking it, and building with lime and other local materials. For how to build the walls themselves (adobe, rammed earth, earthquake resistance) see [Long-term Housing](../../../docs/07-日常生活技能/05-长期住所.md); for firing bricks and tiles see [Pottery, Glass and Papermaking – Bricks and tiles](../../../docs/07-日常生活技能/11-陶瓷玻璃与造纸.md#砖瓦); for load calculations see [Engineering Mechanics and Materials](../../../docs/09-进阶科学与工程/01-工程力学与材料.md).
+This chapter covers finding raw materials, burning lime and slaking it, and building with lime and other local materials. For how to build the walls themselves (adobe, rammed earth, earthquake resistance) see [Long-term Housing](05-long-term-shelter.md); for firing bricks and tiles see [Pottery, Glass and Papermaking – Bricks and tiles](11-pottery-glass-and-papermaking.md#bricks-and-tiles); for load calculations see [Engineering Mechanics and Materials](../../../docs/09-进阶科学与工程/01-工程力学与材料.md).
 
 ```
 ⚠️ Safety
@@ -34,7 +34,7 @@ This chapter covers finding raw materials, burning lime and slaking it, and buil
 ✓ Keep children away from lime pits, lime heaps and lime kilns
 ```
 
-If quicklime gets on the skin: **first brush (wipe) off the dry powder, then rinse with plenty of clean water**; do not splash a little water on first. If it gets in the eyes: wipe away any particles you can see around the eye, then at once hold the eyelids open and rinse continuously with plenty of clean water, and see a doctor as soon as possible. For treating chemical burns see [Wound and Injury Care – Chemical burns](../../../docs/01-日常疾病和伤害/02-外伤处理.md#化学烧伤).
+If quicklime gets on the skin: **first brush (wipe) off the dry powder, then rinse with plenty of clean water**; do not splash a little water on first. If it gets in the eyes: wipe away any particles you can see around the eye, then at once hold the eyelids open and rinse continuously with plenty of clean water, and see a doctor as soon as possible. For treating chemical burns see [Wound and Injury Care – Chemical burns](../01-first-aid-and-family-health/02-wounds-and-injuries.md#chemical-burns).
 
 ---
 
@@ -170,7 +170,7 @@ for each 1 kg of quicklime (batch kiln; a continuously fired shaft kiln uses les
 - Very dusty when emptying: wear goggles and a mask (a damp cloth will do) and stand upwind
 ```
 
-For kiln draught and refractory materials see [Pottery, Glass and Papermaking – Simple updraught kiln](../../../docs/07-日常生活技能/11-陶瓷玻璃与造纸.md#简易升焰窑) and [Crucibles and firebricks](../../../docs/07-日常生活技能/11-陶瓷玻璃与造纸.md#坩埚和耐火砖).
+For kiln draught and refractory materials see [Pottery, Glass and Papermaking – Simple updraught kiln](11-pottery-glass-and-papermaking.md#simple-updraft-kiln) and [Crucibles and firebricks](11-pottery-glass-and-papermaking.md#crucibles-and-firebricks).
 
 **Storing quicklime**: slake it as soon as possible after it comes out of the kiln, or put it in dry, lidded iron drums or earthenware jars kept off the ground; do not pile it on wooden floors or next to haystacks (damp lime heats up and can set them alight), and do not leave it open for long (it slowly loses its strength).
 
@@ -289,7 +289,7 @@ Uses: indoor floors, drying yards, the bed under foundations, roads, the bottom 
 ✓ Far more water-resistant than plain rammed earth; does not get dusty or grow weeds easily
 ```
 
-For judging the water content and ramming see [Long-term Housing – Rammed-earth walls](../../../docs/07-日常生活技能/05-长期住所.md#夯土墙); for foundations and footings see [Engineering Mechanics – Foundations](../../../docs/09-进阶科学与工程/01-工程力学与材料.md#九地基) and [Long-term Housing – Good boots: footings](../../../docs/07-日常生活技能/05-长期住所.md#好靴子-墙基); for the essentials of masonry see [Engineering Mechanics – Masonry walls](../../../docs/09-进阶科学与工程/01-工程力学与材料.md#72-砌体墙).
+For judging the water content and ramming see [Long-term Housing – Rammed-earth walls](05-long-term-shelter.md#rammed-earth-walls); for foundations and footings see [Engineering Mechanics – Foundations](../../../docs/09-进阶科学与工程/01-工程力学与材料.md#九地基) and [Long-term Housing – Good boots: footings](05-long-term-shelter.md#good-boots-the-wall-footing); for the essentials of masonry see [Engineering Mechanics – Masonry walls](../../../docs/09-进阶科学与工程/01-工程力学与材料.md#72-砌体墙).
 
 ---
 
@@ -327,7 +327,7 @@ Milk of lime: 1 kg slaked lime to 4-9 L water (about 10-20%), stirred well; mix 
 ⚠️ Human bodies do not need lime scattered on them; see handling bodies after a disaster
 ```
 
-For dry latrines see [Sanitation – Dry latrines](../../../docs/07-日常生活技能/03-卫生设施.md#旱厕); for dead animals see [Sanitation – Disposing of dead animals](../../../docs/07-日常生活技能/03-卫生设施.md#病死动物处理); for human bodies see [Handling Bodies After a Disaster](../../../docs/02-灾难应对/07-灾后遗体处理.md).
+For dry latrines see [Sanitation – Dry latrines](03-sanitation.md#pit-latrines); for dead animals see [Sanitation – Disposing of dead animals](03-sanitation.md#disposing-of-diseased-animal-carcasses); for human bodies see [Handling Bodies After a Disaster](../02-disaster-response/07-handling-the-dead-after-disasters.md).
 
 ---
 
@@ -358,7 +358,7 @@ The red and yellow soils of southern China are mostly acidic, and many crops gro
 
 Lime-sulphur (lime and sulphur boiled in water) is a traditional fungicide and insecticide for fruit trees; for how to make it and the strengths to use, follow specialist sources; this book does not go into it.
 
-For testing soil acidity see [Geology, Minerals and Soil – Acidity and alkalinity](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#53-酸碱性); for using quicklime to clean out fish ponds see [Aquaculture – Preparing the pond](../../../docs/04-动植物培育/07-水产养殖.md#池塘准备).
+For testing soil acidity see [Geology, Minerals and Soil – Acidity and alkalinity](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#53-酸碱性); for using quicklime to clean out fish ponds see [Aquaculture – Preparing the pond](../04-farming-and-animal-husbandry/07-aquaculture.md#pond-preparation).
 
 ### Other uses
 
@@ -372,7 +372,7 @@ For testing soil acidity see [Geology, Minerals and Soil – Acidity and alkalin
 | Century eggs (pidan) | Traditionally coated in a paste of quicklime, soda ash, salt and tea | ⚠️ Do not add litharge (contains lead) |
 | Glass | The lime in the batch makes glass insoluble in water | See links below |
 
-For water treatment see [Water Supply Engineering – Multi-stage treatment](../../../docs/07-日常生活技能/10-水源工程与供水.md#多级处理); for tanning see [Textiles, Mending and Tanning – Vegetable tanning](../../../docs/07-日常生活技能/07-纺织缝补与鞣皮.md#方法二-植物鞣适合去毛做皮革); for papermaking see [Pottery, Glass and Papermaking – Papermaking](../../../docs/07-日常生活技能/11-陶瓷玻璃与造纸.md#造纸); for maize see [Nutrition and Deficiency Diseases – Niacin](../../../docs/07-日常生活技能/02-营养与营养缺乏病.md#烟酸-吃玉米要用碱处理); for glass see [Pottery, Glass and Papermaking – Glass](../../../docs/07-日常生活技能/11-陶瓷玻璃与造纸.md#玻璃).
+For water treatment see [Water Supply Engineering – Multi-stage treatment](10-water-supply.md#multi-stage-treatment); for tanning see [Textiles, Mending and Tanning – Vegetable tanning](07-textiles-sewing-and-tanning.md#method-2-vegetable-tanning-for-leather-with-the-hair-removed); for papermaking see [Pottery, Glass and Papermaking – Papermaking](11-pottery-glass-and-papermaking.md#papermaking); for maize see [Nutrition and Deficiency Diseases – Niacin](02-nutrition-and-deficiency-diseases.md#niacin-treat-maize-with-alkali-before-eating-it); for glass see [Pottery, Glass and Papermaking – Glass](11-pottery-glass-and-papermaking.md#glass).
 
 ---
 
@@ -411,7 +411,7 @@ Uses:
   circulation in the fingers or toes regularly
 ```
 
-For immobilising fractures see [Bone and Joint Injuries – Immobilisation](../../../docs/01-日常疾病和伤害/03-骨骼损伤.md#4-固定); for setting tofu see [Food Processing and Preservation – Tofu](../../../docs/07-日常生活技能/01-食物加工与保存.md#豆腐).
+For immobilising fractures see [Bone and Joint Injuries – Immobilisation](../01-first-aid-and-family-health/03-bone-and-joint-injuries.md#4-immobilise); for setting tofu see [Food Processing and Preservation – Tofu](01-food-processing-and-preservation.md#tofu).
 
 ---
 
@@ -482,7 +482,7 @@ Wattle and daub: weave bamboo strips into wall panels, plaster both sides with s
   and limewash when dry; light, and relatively safe in earthquakes
 ```
 
-For adobe and rammed earth see [Long-term Housing – Adobe walls](../../../docs/07-日常生活技能/05-长期住所.md#土坯墙) and [Rammed-earth walls](../../../docs/07-日常生活技能/05-长期住所.md#夯土墙); for earthquake measures see [Long-term Housing – Earthquake resistance](../../../docs/07-日常生活技能/05-长期住所.md#抗震-生土房屋的生死线); for timber frames see [Long-term Housing – Simple timber frames](../../../docs/07-日常生活技能/05-长期住所.md#简易木结构); for timber see [Woodworking and Tool Maintenance – Timber](../../../docs/07-日常生活技能/09-木工与工具维护.md#木材); for bricks and tiles see [Pottery, Glass and Papermaking – Bricks and tiles](../../../docs/07-日常生活技能/11-陶瓷玻璃与造纸.md#砖瓦); for rendering outside walls see [Long-term Housing – Rendering outside walls](../../../docs/07-日常生活技能/05-长期住所.md#外墙抹面).
+For adobe and rammed earth see [Long-term Housing – Adobe walls](05-long-term-shelter.md#adobe-walls) and [Rammed-earth walls](05-long-term-shelter.md#rammed-earth-walls); for earthquake measures see [Long-term Housing – Earthquake resistance](05-long-term-shelter.md#earthquake-resistance-life-or-death-for-earth-houses); for timber frames see [Long-term Housing – Simple timber frames](05-long-term-shelter.md#simple-timber-framing); for timber see [Woodworking and Tool Maintenance – Timber](09-woodworking-and-tool-maintenance.md#timber); for bricks and tiles see [Pottery, Glass and Papermaking – Bricks and tiles](11-pottery-glass-and-papermaking.md#bricks-and-tiles); for rendering outside walls see [Long-term Housing – Rendering outside walls](05-long-term-shelter.md#rendering-the-outside-walls).
 
 ---
 
@@ -513,4 +513,4 @@ For adobe and rammed earth see [Long-term Housing – Adobe walls](../../../docs
 ---
 
 **Next chapter**: [Rope and Knots](17-rope-and-knots.md)
-**Back**: [Chapter index](../../../docs/07-日常生活技能/README.md) | [Main contents](../../../README.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

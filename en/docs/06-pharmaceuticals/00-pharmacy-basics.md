@@ -168,7 +168,7 @@ Example: adult dose 100 mg, child aged 5
 ```
 
 ⚠️ The two formulas above are rough historical conversions with large errors. Use them only as a last resort when there is no children's formulation and no leaflet at all:
-- Use a **children's formulation** first (drops, suspension, granules) and dose by the **body weight** column in the leaflet; for doses of common fever medicines see [Common illnesses – fever medicine dose chart](../../../docs/01-日常疾病和伤害/01-常见疾病.md#退烧药剂量速查)
+- Use a **children's formulation** first (drops, suspension, granules) and dose by the **body weight** column in the leaflet; for doses of common fever medicines see [Common illnesses – fever medicine dose chart](../01-first-aid-and-family-health/01-common-illnesses.md#fever-medicine-dose-chart)
 - A medicine whose leaflet says "not for children", or gives no children's dose, must not be scaled down by formula for a child (aspirin, for example, is not used for fever in children and teenagers)
 - A baby under 3 months with a fever or any illness goes straight to a doctor; do not give medicines yourself. Ibuprofen is for babies over 6 months
 - If a child is clearly much lighter or heavier than others of the same age, calculate by weight, not age
@@ -203,7 +203,7 @@ Liver and kidney patients
     doctor before using them
 ```
 
-Related chapter: [Chronic medication stockpile – medication card](../../../docs/01-日常疾病和伤害/08-慢性病用药储备.md#用药信息卡).
+Related chapter: [Chronic medication stockpile – medication card](../01-first-aid-and-family-health/08-chronic-medication-stockpile.md#medication-card).
 
 ### 2.4 Dose conversion and weighing errors
 
@@ -313,7 +313,7 @@ Use: medicinal wines, tinctures
 
 **Principle:** separating and purifying by different boiling points
 
-**Simple still:** a pot or bottle is heated from below; the vapour is led out through a tube from a hole in the lid, the tube passes through cold water where the vapour condenses into droplets, and these run into a receiving bottle. For a diagram, temperature control and discarding the heads, see [Making disinfectants – distillation](../../../docs/06-制药技术/01-消毒剂制备.md#13-蒸馏提纯).
+**Simple still:** a pot or bottle is heated from below; the vapour is led out through a tube from a hole in the lid, the tube passes through cold water where the vapour condenses into droplets, and these run into a receiving bottle. For a diagram, temperature control and discarding the heads, see [Making disinfectants – distillation](01-disinfectants.md#13-purifying-by-distillation).
 
 **Uses:**
 - Purifying alcohol
@@ -418,7 +418,7 @@ Potassium permanganate solution: soak
 Used for: items that cannot stand heat, skin disinfection
 ```
 
-Make potassium permanganate solution at 0.01%-0.1% according to use; for the concentration table see [Making disinfectants – making up potassium permanganate solution](../../../docs/06-制药技术/01-消毒剂制备.md#53-高锰酸钾溶液配制). Chlorine disinfectant ("84" bleach (sodium hypochlorite)) is for surfaces and the surroundings, not for skin or wounds; for the mixing ratios see [Infectious disease at home – "84" bleach](../../../docs/01-日常疾病和伤害/15-传染病家庭防控.md#84消毒液含氯消毒剂). Wash items clean before disinfecting them chemically: blood, pus and grease stop disinfectants from working.
+Make potassium permanganate solution at 0.01%-0.1% according to use; for the concentration table see [Making disinfectants – making up potassium permanganate solution](01-disinfectants.md#53-making-up-potassium-permanganate-solution). Chlorine disinfectant ("84" bleach (sodium hypochlorite)) is for surfaces and the surroundings, not for skin or wounds; for the mixing ratios see [Infectious disease at home – "84" bleach](../01-first-aid-and-family-health/15-infectious-disease-at-home.md#84-bleach-chlorine-based-disinfectant). Wash items clean before disinfecting them chemically: blood, pus and grease stop disinfectants from working.
 
 ### 4.3 Key points of aseptic technique
 
@@ -475,7 +475,7 @@ When your hands are not visibly dirty, you can rub them with 75% alcohol
 instead, until dry
 ```
 
-Related chapter: [Sanitation facilities – handwashing stations](../../../docs/07-日常生活技能/03-卫生设施.md#洗手点).
+Related chapter: [Sanitation facilities – handwashing stations](../07-everyday-living-skills/03-sanitation.md#handwashing-stations).
 
 **Taking out and using medicines:**
 ```
@@ -543,7 +543,7 @@ Storage points:
   clear out anything expired or spoiled
 ```
 
-For a detailed explanation of storage conditions see [Antibiotics – storage conditions](../../../docs/06-制药技术/02-抗生素制备.md#64-储存条件); for what to do with insulin and other refrigerated medicines in a power cut, see [Chronic medication stockpile – insulin and other medicines that need refrigerating](../../../docs/01-日常疾病和伤害/08-慢性病用药储备.md#胰岛素等需要冷藏的药).
+For a detailed explanation of storage conditions see [Antibiotics – storage conditions](02-antibiotics.md#64-storage-conditions); for what to do with insulin and other refrigerated medicines in a power cut, see [Chronic medication stockpile – insulin and other medicines that need refrigerating](../01-first-aid-and-family-health/08-chronic-medication-stockpile.md#insulin-and-other-medicines-that-need-refrigeration).
 
 ### 5.2 Recognising spoiled medicines
 
@@ -648,9 +648,9 @@ So:
 | Any change in appearance (colour change, caking, deliquescence, cloudiness, odd smell, mould) | Already spoiled, whether expired or not |
 | Damaged packaging, broken seal | No way to judge how much damp and contamination it has had |
 
-⚠️ One exception to know: in a severe allergic attack (anaphylactic shock), if all you have is an expired adrenaline (epinephrine) auto-injector and nothing else, most professional opinion is that you should still use it (unless the liquid is clearly discoloured or has particles in it), and call 120 at once. In normal times, still replace it on time; see [Acute symptoms – allergic reactions](../../../docs/01-日常疾病和伤害/05-急性症状.md#过敏反应).
+⚠️ One exception to know: in a severe allergic attack (anaphylactic shock), if all you have is an expired adrenaline (epinephrine) auto-injector and nothing else, most professional opinion is that you should still use it (unless the liquid is clearly discoloured or has particles in it), and call 120 at once. In normal times, still replace it on time; see [Acute symptoms – allergic reactions](../01-first-aid-and-family-health/05-acute-symptoms.md#allergic-reactions).
 
-For the research data on expired medicines and how to judge antibiotics specifically, see [Antibiotics – about expiry dates](../../../docs/06-制药技术/02-抗生素制备.md#65-关于有效期).
+For the research data on expired medicines and how to judge antibiotics specifically, see [Antibiotics – about expiry dates](02-antibiotics.md#65-about-expiry-dates).
 
 ### 5.6 Disposing of expired and spoiled medicines
 
@@ -713,7 +713,7 @@ If there is no take-back point: take the tablets out of the packaging, mix
    the way to the doctor
 ```
 
-For details see [Wound and injury care – chemical burns](../../../docs/01-日常疾病和伤害/02-外伤处理.md#化学烧伤) and [Foreign bodies – chemicals in the eye](../../../docs/01-日常疾病和伤害/04-异物处理.md#化学品入眼紧急).
+For details see [Wound and injury care – chemical burns](../01-first-aid-and-family-health/02-wounds-and-injuries.md#chemical-burns) and [Foreign bodies – chemicals in the eye](../01-first-aid-and-family-health/04-foreign-bodies-and-choking.md#chemicals-in-the-eye-emergency).
 
 **Breathing in toxic gas:**
 ```
@@ -742,7 +742,7 @@ For details see [Wound and injury care – chemical burns](../../../docs/01-日�
    hours later
 ```
 
-For details see [Poisoning – general principles of dealing with poisoning](../../../docs/01-日常疾病和伤害/12-中毒.md#中毒的通用处理原则).
+For details see [Poisoning – general principles of dealing with poisoning](../01-first-aid-and-family-health/12-poisoning.md#general-principles-for-handling-poisoning).
 
 ---
 
@@ -974,7 +974,7 @@ See [2.4 Dose conversion and weighing errors](#24-dose-conversion-and-weighing-e
 | Moderate | Local or widespread rash, itching, vomiting, frequent diarrhoea, marked palpitations | Stop the suspected medicine, record it and consult a doctor as soon as possible; watch whether it gets worse |
 | Severe (life-threatening) | Difficulty breathing, tight throat, swollen lips and face, dizziness and fainting; large areas of skin blistering and peeling; vomiting blood, black stools; convulsions, reduced consciousness; breathing becoming slow and shallow | **Stop the medicine at once and call 120** |
 
-Severe allergy (anaphylactic shock) can happen within minutes of taking a medicine; for how to recognise and treat it, see [Acute symptoms – allergic reactions](../../../docs/01-日常疾病和伤害/05-急性症状.md#过敏反应).
+Severe allergy (anaphylactic shock) can happen within minutes of taking a medicine; for how to recognise and treat it, see [Acute symptoms – allergic reactions](../01-first-aid-and-family-health/05-acute-symptoms.md#allergic-reactions).
 
 ### 11.2 Danger signs that are easily missed
 
@@ -1049,7 +1049,7 @@ Possible other causes:
 5. Take the medicine box and leaflet with you to the doctor
 ```
 
-Related chapters: [Chronic medication stockpile – the medicines most dangerous to stop suddenly](../../../docs/01-日常疾病和伤害/08-慢性病用药储备.md#突然停药最危险的几类药), [Poisoning – drug overdose and accidental swallowing](../../../docs/01-日常疾病和伤害/12-中毒.md#药物过量与误服).
+Related chapters: [Chronic medication stockpile – the medicines most dangerous to stop suddenly](../01-first-aid-and-family-health/08-chronic-medication-stockpile.md#the-most-dangerous-medicines-to-stop-suddenly), [Poisoning – drug overdose and accidental swallowing](../01-first-aid-and-family-health/12-poisoning.md#drug-overdose-and-accidental-swallowing).
 
 ### 11.5 Common dangerous combinations
 
@@ -1087,17 +1087,17 @@ Related chapters: [Chronic medication stockpile – the medicines most dangerous
 
 **When the medical system has broken down and no doctor can be reached:** the situations above still mean the illness is serious. Do everything you can to find a doctor, nurse, pharmacist or experienced person to help; meanwhile do what you can following the first-aid chapters, and keep a detailed record of how the illness changes. Do not stop looking for help because "we have home-made medicine".
 
-For the specific criteria for seeing a doctor for common illnesses, see the "when to see a doctor" section for each illness in [Common illnesses](../../../docs/01-日常疾病和伤害/01-常见疾病.md); for fever see [When to see a doctor for fever, by group](../../../docs/01-日常疾病和伤害/01-常见疾病.md#不同人群的发烧就医标准).
+For the specific criteria for seeing a doctor for common illnesses, see the "when to see a doctor" section for each illness in [Common illnesses](../01-first-aid-and-family-health/01-common-illnesses.md); for fever see [When to see a doctor for fever, by group](../01-first-aid-and-family-health/01-common-illnesses.md#when-to-see-a-doctor-for-fever-by-group).
 
 ---
 
 ## Related chapters
 
-- ⏭️ [Making disinfectants](../../../docs/06-制药技术/01-消毒剂制备.md) - start practising with alcohol
-- ⏭️ [Chinese herbal preparations](../../../docs/06-制药技术/04-中药制剂.md) - a safer starting point
-- 🔗 [Farming and Animal Husbandry – Medicinal plants](../../../docs/04-动植物培育/04-药用植物.md) - where the raw materials come from
-- 🔗 [Chronic medication stockpile](../../../docs/01-日常疾病和伤害/08-慢性病用药储备.md) - stockpiling, refrigerated medicines, medication card
-- 🔗 [Poisoning](../../../docs/01-日常疾病和伤害/12-中毒.md) - dealing with drug overdose and accidental swallowing
+- ⏭️ [Making disinfectants](01-disinfectants.md) - start practising with alcohol
+- ⏭️ [Chinese herbal preparations](04-herbal-preparations.md) - a safer starting point
+- 🔗 [Farming and Animal Husbandry – Medicinal plants](../04-farming-and-animal-husbandry/04-medicinal-plants.md) - where the raw materials come from
+- 🔗 [Chronic medication stockpile](../01-first-aid-and-family-health/08-chronic-medication-stockpile.md) - stockpiling, refrigerated medicines, medication card
+- 🔗 [Poisoning](../01-first-aid-and-family-health/12-poisoning.md) - dealing with drug overdose and accidental swallowing
 - 🔗 [Rebuilding measurement standards](../../../docs/08-基础科学知识/09-计量基准的重建.md) - balances, weights and weighing errors
 
 ---

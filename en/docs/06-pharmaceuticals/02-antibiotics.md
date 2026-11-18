@@ -91,7 +91,7 @@ Mouldy bread and fruit cannot be used as treatment either (see Q2).
   penicillins again; whether cephalosporins can be used must be decided by a doctor
 ```
 
-For how to fill in a medication card, see [Chronic Medication Stockpile – Medication card](../../../docs/01-日常疾病和伤害/08-慢性病用药储备.md#用药信息卡).
+For how to fill in a medication card, see [Chronic Medication Stockpile – Medication card](../01-first-aid-and-family-health/08-chronic-medication-stockpile.md#medication-card).
 
 ---
 
@@ -390,7 +390,7 @@ Do a skin test before first use:
 | Throat | High fever, marked sore throat, pus spots on the tonsils, painful swollen neck glands, no cough or runny nose | Viral sore throat usually comes with a runny nose and cough |
 | Teeth | Toothache with swelling of the cheek and gum, sometimes pus | Swelling spreading to around the eye or the neck, or difficulty opening the mouth, is an emergency |
 
-⚠️ These only help you decide "whether to see a doctor soon"; they are **not a basis for treating yourself**. For telling wound infection from normal healing in detail, see [Wound and Injury Care – Signs of infection](../../../docs/01-日常疾病和伤害/02-外伤处理.md#-感染迹象立即就医); for dental abscess, see [Dental Problems – Dental abscess and danger signs](../../../docs/01-日常疾病和伤害/09-口腔问题.md#牙脓肿与危险信号).
+⚠️ These only help you decide "whether to see a doctor soon"; they are **not a basis for treating yourself**. For telling wound infection from normal healing in detail, see [Wound and Injury Care – Signs of infection](../01-first-aid-and-family-health/02-wounds-and-injuries.md#-signs-of-infection-see-a-doctor-immediately); for dental abscess, see [Dental Problems – Dental abscess and danger signs](../01-first-aid-and-family-health/09-dental-problems.md#dental-abscess-and-danger-signs).
 
 ### 4.2 Principles of use
 
@@ -475,7 +475,7 @@ Putting two drugs together yourself has these problems:
 | Tight throat, difficulty breathing, swollen face and lips, dizziness and collapse | Anaphylactic shock | Treat as in 1.3, call 120 |
 | Yellow skin and whites of the eyes, urine as dark as strong tea, much less urine | Liver or kidney damage | Stop the drug, see a doctor as soon as possible |
 
-For replacing fluids during diarrhoea, see [Common Illnesses – Diarrhoea](../../../docs/01-日常疾病和伤害/01-常见疾病.md#腹泻).
+For replacing fluids during diarrhoea, see [Common Illnesses – Diarrhoea](../01-first-aid-and-family-health/01-common-illnesses.md#diarrhoea).
 
 ```
 Keep a record while taking the drug (helps the doctor judge):
@@ -544,7 +544,7 @@ Lower threshold for special groups:
   chemotherapy → see a doctor early; do not watch and wait
 ```
 
-For when to see a doctor about fever in different groups, see [Common Illnesses – When to see a doctor about fever, by group](../../../docs/01-日常疾病和伤害/01-常见疾病.md#不同人群的发烧就医标准); for recognising whole-body infection, see [Wound and Injury Care – Danger signs of whole-body infection](../../../docs/01-日常疾病和伤害/02-外伤处理.md#全身感染的危险信号立即拨打120); for tetanus, see [Wound and Injury Care – Tetanus prevention](../../../docs/01-日常疾病和伤害/02-外伤处理.md#破伤风预防).
+For when to see a doctor about fever in different groups, see [Common Illnesses – When to see a doctor about fever, by group](../01-first-aid-and-family-health/01-common-illnesses.md#when-to-see-a-doctor-for-fever-by-group); for recognising whole-body infection, see [Wound and Injury Care – Danger signs of whole-body infection](../01-first-aid-and-family-health/02-wounds-and-injuries.md#danger-signs-of-whole-body-infection-call-120-immediately); for tetanus, see [Wound and Injury Care – Tetanus prevention](../01-first-aid-and-family-health/02-wounds-and-injuries.md#tetanus-prevention).
 
 ⚠️ Even in extreme situations where you cannot reach a doctor at all, first read the package leaflet of the stocked drug carefully and check the contraindications and allergy history; this handbook gives no self-treatment regimens (see 6.1).
 
@@ -602,7 +602,7 @@ Wounds that need a doctor (do not just bandage them yourself):
 - Wounds badly contaminated with soil, faeces or rusty iron → also think about tetanus
 ```
 
-For full rinsing, disinfecting, dressing and dressing-change methods, see [Wound and Injury Care – Cuts and grazes](../../../docs/01-日常疾病和伤害/02-外伤处理.md#割伤与擦伤); for deciding about tetanus vaccine, see [Wound and Injury Care – Tetanus prevention](../../../docs/01-日常疾病和伤害/02-外伤处理.md#破伤风预防); for choosing disinfectants, see [Making Disinfectants](../../../docs/06-制药技术/01-消毒剂制备.md).
+For full rinsing, disinfecting, dressing and dressing-change methods, see [Wound and Injury Care – Cuts and grazes](../01-first-aid-and-family-health/02-wounds-and-injuries.md#cuts-and-grazes); for deciding about tetanus vaccine, see [Wound and Injury Care – Tetanus prevention](../01-first-aid-and-family-health/02-wounds-and-injuries.md#tetanus-prevention); for choosing disinfectants, see [Making Disinfectants](01-disinfectants.md).
 
 **Prevention beats rescue!**
 
@@ -650,7 +650,7 @@ Food:
 - When someone has fever, diarrhoea or a cough, have them sleep apart if possible; carers wear masks and wash their hands often
 - Bag dressings with pus or blood and burn or bury them deep
 
-For details, see [Sanitation – Handwashing stations](../../../docs/07-日常生活技能/03-卫生设施.md#洗手点), [Water Supply – Disinfection](../../../docs/07-日常生活技能/10-水源工程与供水.md#消毒) and [Infectious Disease at Home](../../../docs/01-日常疾病和伤害/15-传染病家庭防控.md).
+For details, see [Sanitation – Handwashing stations](../07-everyday-living-skills/03-sanitation.md#handwashing-stations), [Water Supply – Disinfection](../07-everyday-living-skills/10-water-supply.md#disinfection) and [Infectious Disease at Home](../01-first-aid-and-family-health/15-infectious-disease-at-home.md).
 
 ### 5.3 Nutrition and immunity
 
@@ -685,7 +685,7 @@ Nutrition:
   infection more likely
 ```
 
-For related content, see [Nutrition and Deficiency Diseases](../../../docs/07-日常生活技能/02-营养与营养缺乏病.md), [Infectious Disease at Home – Vaccines](../../../docs/01-日常疾病和伤害/15-传染病家庭防控.md#疫苗) and [Dental Problems](../../../docs/01-日常疾病和伤害/09-口腔问题.md).
+For related content, see [Nutrition and Deficiency Diseases](../07-everyday-living-skills/02-nutrition-and-deficiency-diseases.md), [Infectious Disease at Home – Vaccines](../01-first-aid-and-family-health/15-infectious-disease-at-home.md#vaccines) and [Dental Problems](../01-first-aid-and-family-health/09-dental-problems.md).
 
 **Immunity = the best antibiotic!**
 
@@ -702,7 +702,7 @@ Antibiotics are prescription drugs; stockpiling them starts with **obtaining the
 - Explain your real needs to the doctor, such as long trips away or living in a remote area
 - Do not buy through illegal channels (unknown source, wrong dose, possibly fake)
 - Most antibacterial drugs cannot be given on long-term prescriptions, so they are harder to stock than chronic-illness medicines and depend even more on building up a supply steadily over time
-  (see [Chronic Medication Stockpile – How to legally keep extra medicine](../../../docs/01-日常疾病和伤害/08-慢性病用药储备.md#怎样合法地多备一些药))
+  (see [Chronic Medication Stockpile – How to legally keep extra medicine](../01-first-aid-and-family-health/08-chronic-medication-stockpile.md#how-to-keep-extra-medicine-legally))
 
 ⚠️ **This handbook does not give dosing regimens for self-treatment.** The choice, dose and length of an antibiotic course depend on
 the site of infection, the germ, the patient's weight, liver and kidney function and allergy history; the wrong drug leads to treatment failure
@@ -955,13 +955,13 @@ Practical judgement:
 
 ## Related chapters
 
-- ⏮️ [Pharmacy Basics](../../../docs/06-制药技术/00-基础制药知识.md) - extraction, sterilisation techniques
-- ⏮️ [Making Disinfectants](../../../docs/06-制药技术/01-消毒剂制备.md) - preventing infection
-- ⏮️ [Herbal Preparations](../../../docs/06-制药技术/04-中药制剂.md) - natural antibacterial remedies
-- 🔗 [First Aid and Family Health – Wound and Injury Care](../../../docs/01-日常疾病和伤害/02-外伤处理.md) - preventing infection
-- 🔗 [First Aid and Family Health – Chronic Medication Stockpile](../../../docs/01-日常疾病和伤害/08-慢性病用药储备.md) - legal stockpiling, spreading the stock, medication card
-- 🔗 [First Aid and Family Health – Infectious Disease at Home](../../../docs/01-日常疾病和伤害/15-传染病家庭防控.md) - isolation, disinfection, when to see a doctor
-- 🔗 [Sanitation](../../../docs/07-日常生活技能/03-卫生设施.md) - handwashing, toilets, rubbish
+- ⏮️ [Pharmacy Basics](00-pharmacy-basics.md) - extraction, sterilisation techniques
+- ⏮️ [Making Disinfectants](01-disinfectants.md) - preventing infection
+- ⏮️ [Herbal Preparations](04-herbal-preparations.md) - natural antibacterial remedies
+- 🔗 [First Aid and Family Health – Wound and Injury Care](../01-first-aid-and-family-health/02-wounds-and-injuries.md) - preventing infection
+- 🔗 [First Aid and Family Health – Chronic Medication Stockpile](../01-first-aid-and-family-health/08-chronic-medication-stockpile.md) - legal stockpiling, spreading the stock, medication card
+- 🔗 [First Aid and Family Health – Infectious Disease at Home](../01-first-aid-and-family-health/15-infectious-disease-at-home.md) - isolation, disinfection, when to see a doctor
+- 🔗 [Sanitation](../07-everyday-living-skills/03-sanitation.md) - handwashing, toilets, rubbish
 - 🔗 [Biology and Medicine Basics – Antibiotics and resistance](../../../docs/08-基础科学知识/04-生物与医学基础.md#四抗生素和耐药) - how resistance arises
 
 ---

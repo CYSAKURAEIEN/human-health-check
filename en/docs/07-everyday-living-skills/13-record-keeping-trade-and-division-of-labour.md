@@ -30,7 +30,7 @@ Principles:
 ✓ Written: spoken agreements are easily forgotten and easily disputed; write important things down
 ```
 
-For the overall strategy for rebuilding a community see [Long-term Collapse Survival – Rebuilding the community](../../../docs/03-野外生存/06-末日求生.md#社区重建).
+For the overall strategy for rebuilding a community see [Long-term Collapse Survival – Rebuilding the community](../03-wilderness-survival/06-long-term-collapse-survival.md#rebuilding-the-community).
 
 ---
 
@@ -87,7 +87,7 @@ Write an IOU for every loan, borrowing and credit:
 ✓ Record medicine expiry dates; use those nearest to expiry first
 ```
 
-For storing food see [Food Processing and Preservation](../../../docs/07-日常生活技能/01-食物加工与保存.md).
+For storing food see [Food Processing and Preservation](01-food-processing-and-preservation.md).
 
 ### Working out how long it will last
 
@@ -137,7 +137,7 @@ Ration register (example):
 |------|------|------|------|------|------|
 | 3 March | Liu | 4 | 2.0 kg | 50 g | Liu |
 
-For nutritional needs see [Nutrition and Deficiency Diseases](../../../docs/07-日常生活技能/02-营养与营养缺乏病.md).
+For nutritional needs see [Nutrition and Deficiency Diseases](02-nutrition-and-deficiency-diseases.md).
 
 ---
 
@@ -264,7 +264,7 @@ Records to keep over the long term:
 Preservation: make several copies and store them separately (see Education and Knowledge Preservation)
 ```
 
-Related chapters: [Handling the Dead after Disasters](../../../docs/02-灾难应对/07-灾后遗体处理.md), [Surveying and Mapping – Land measurement and boundaries](../../../docs/08-基础科学知识/08-测量与制图.md#六土地丈量与边界), [Weather Observation and Forecasting – Weather diary](../../../docs/08-基础科学知识/07-天气观测与预报.md#62-天气日记), [Education and Knowledge Preservation – Copying and preserving records](../../../docs/07-日常生活技能/12-教育与知识传承.md#抄写和保存资料).
+Related chapters: [Handling the Dead after Disasters](../02-disaster-response/07-handling-the-dead-after-disasters.md), [Surveying and Mapping – Land measurement and boundaries](../../../docs/08-基础科学知识/08-测量与制图.md#六土地丈量与边界), [Weather Observation and Forecasting – Weather diary](../../../docs/08-基础科学知识/07-天气观测与预报.md#62-天气日记), [Education and Knowledge Preservation – Copying and preserving records](12-education-and-knowledge-preservation.md#copying-and-preserving-records).
 
 ---
 
@@ -284,5 +284,5 @@ Related chapters: [Handling the Dead after Disasters](../../../docs/02-灾难应
 
 ---
 
-**Next chapter**: [Grain and Oil Processing](../../../docs/07-日常生活技能/14-粮油加工.md)
-**Back**: [Chapter index](../../../docs/07-日常生活技能/README.md) | [Main contents](../../../README.md)
+**Next chapter**: [Grain and Oil Processing](14-grain-and-oil-processing.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

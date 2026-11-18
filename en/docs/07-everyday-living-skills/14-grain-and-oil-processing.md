@@ -21,7 +21,7 @@
 
 Growing the grain is only half the job. Between the ears of rice and wheat in the field and the rice, steamed buns and cooking oil in the pot lies a whole chain of work: cutting, threshing, winnowing, drying, hulling, grinding and pressing oil. Once the machines stop, all of this has to be done by human, animal and water power. And **if a spell of continuous rain arrives at harvest time, grain that cannot be dried will sprout and rot within days**; a whole year's work can be lost.
 
-For growing methods see [Grain Crops](../../../docs/04-动植物培育/02-粮食作物.md); for the basic requirements for drying and storage see [Food Processing and Preservation – Grain and pulses](../../../docs/07-日常生活技能/01-食物加工与保存.md#粮食和豆类). This chapter covers the processing from harvest to the point where the food can go into the pot.
+For growing methods see [Grain Crops](../04-farming-and-animal-husbandry/02-grain-crops.md); for the basic requirements for drying and storage see [Food Processing and Preservation – Grain and pulses](01-food-processing-and-preservation.md#grain-and-beans). This chapter covers the processing from harvest to the point where the food can go into the pot.
 
 ```
 ⚠️ Safety:
@@ -87,7 +87,7 @@ For reading the weather see [Weather Observation and Forecasting](../../../docs/
      sprouts and rots
 ```
 
-For sharpening sickles see [Woodworking and Tool Maintenance – Sharpening](../../../docs/07-日常生活技能/09-木工与工具维护.md#磨刀).
+For sharpening sickles see [Woodworking and Tool Maintenance – Sharpening](09-woodworking-and-tool-maintenance.md#sharpening).
 
 ---
 
@@ -214,7 +214,7 @@ Adjusting:
 
 *Figure: The winnowing fan, winnowing in the wind and the winnowing basket all let the wind blow away the light material and keep the heavy grain (schematic)*
 
-For making the wooden box and its joints see [Woodworking and Tool Maintenance](../../../docs/07-日常生活技能/09-木工与工具维护.md).
+For making the wooden box and its joints see [Woodworking and Tool Maintenance](09-woodworking-and-tool-maintenance.md).
 
 ---
 
@@ -271,7 +271,7 @@ Salt-bottle test (more reliable):
 
 ## Storing grain: preventing mould and insects
 
-For containers, stores and storage times see [Grain Crops – Storage essentials](../../../docs/04-动植物培育/02-粮食作物.md#储存要点). This section adds the specific methods against mould and insects.
+For containers, stores and storage times see [Grain Crops – Storage essentials](../04-farming-and-animal-husbandry/02-grain-crops.md#storage-essentials). This section adds the specific methods against mould and insects.
 
 ```
 Against mould:
@@ -310,7 +310,7 @@ Against insects:
 - Heat does not destroy aflatoxin, and it passes into people through meat, eggs and milk
 ```
 
-For aflatoxin see [Food Processing and Preservation – Aflatoxin](../../../docs/07-日常生活技能/01-食物加工与保存.md#黄曲霉毒素); for working out how long your stocks will last see [Record-keeping, Trade and Division of Labour – How long will it last?](../../../docs/07-日常生活技能/13-记账交易与社会分工.md#算一算够用多久).
+For aflatoxin see [Food Processing and Preservation – Aflatoxin](01-food-processing-and-preservation.md#aflatoxin); for working out how long your stocks will last see [Record-keeping, Trade and Division of Labour – How long will it last?](13-record-keeping-trade-and-division-of-labour.md#working-out-how-long-it-will-last).
 
 ---
 
@@ -374,7 +374,7 @@ Most of the vitamin B1 in rice is in the bran layer and the germ. The whiter it 
   mill it as you need it
 ```
 
-For details see [Nutrition and Deficiency Diseases – Vitamin B1](../../../docs/07-日常生活技能/02-营养与营养缺乏病.md#维生素b1-别把米碾得太白).
+For details see [Nutrition and Deficiency Diseases – Vitamin B1](02-nutrition-and-deficiency-diseases.md#vitamin-b1-do-not-mill-rice-too-white).
 
 ---
 
@@ -460,7 +460,7 @@ After a month or two the furrows become shallow and flat: the mill grinds slowly
    before cutting and wear a mask
 ```
 
-For forging and quenching chisels see [Bench Work and Machining](../../../docs/05-冶金技术/09-钳工与机械加工.md).
+For forging and quenching chisels see [Bench Work and Machining](../05-metallurgy/09-bench-work-and-machining.md).
 
 ### Animal-driven mills and watermills
 
@@ -477,7 +477,7 @@ Watermill: a waterwheel drives the millstone
   mills, and can serve the whole village
 ```
 
-For estimating water power see [Physics – Water power: waterwheels and watermills](../../../docs/08-基础科学知识/02-物理.md#33-水力-水车和水磨) and [Thermodynamics and Power Machinery – Water power](../../../docs/09-进阶科学与工程/03-热力学与动力机械.md#81-水力); for headrace channels see [Water Supply Engineering – Diverting water](../../../docs/07-日常生活技能/10-水源工程与供水.md#引水).
+For estimating water power see [Physics – Water power: waterwheels and watermills](../../../docs/08-基础科学知识/02-物理.md#33-水力-水车和水磨) and [Thermodynamics and Power Machinery – Water power](../../../docs/09-进阶科学与工程/03-热力学与动力机械.md#81-水力); for headrace channels see [Water Supply Engineering – Diverting water](10-water-supply.md#bringing-water-by-gravity).
 
 ---
 
@@ -522,7 +522,7 @@ Cooking maize in limewater (approximate amounts):
    (it gets violently hot and spatters)
 ```
 
-For the method and background see [Nutrition and Deficiency Diseases – Niacin](../../../docs/07-日常生活技能/02-营养与营养缺乏病.md#烟酸-吃玉米要用碱处理); for burning lime see [Chemistry – The lime cycle](../../../docs/08-基础科学知识/03-化学.md#44-石灰的循环-建筑的基础).
+For the method and background see [Nutrition and Deficiency Diseases – Niacin](02-nutrition-and-deficiency-diseases.md#niacin-treat-maize-with-alkali-before-eating-it); for burning lime see [Chemistry – The lime cycle](../../../docs/08-基础科学知识/03-化学.md#44-石灰的循环-建筑的基础).
 
 ---
 
@@ -553,7 +553,7 @@ Grinding to milk: soak, then grind with water on the millstone into a slurry for
    the whole family should avoid broad beans
 ```
 
-For making tofu see [Food Processing and Preservation – Tofu](../../../docs/07-日常生活技能/01-食物加工与保存.md#豆腐); for bean sprouts see [Nutrition and Deficiency Diseases – Vitamin C](../../../docs/07-日常生活技能/02-营养与营养缺乏病.md#维生素c-豆芽是最可靠的冬季来源).
+For making tofu see [Food Processing and Preservation – Tofu](01-food-processing-and-preservation.md#tofu); for bean sprouts see [Nutrition and Deficiency Diseases – Vitamin C](02-nutrition-and-deficiency-diseases.md#vitamin-c-bean-sprouts-are-the-most-reliable-winter-source).
 
 ### Minor grains
 
@@ -686,7 +686,7 @@ Sesame needs no press; water is used to "swap out" the oil:
    if the fat catches fire, put the lid on; never pour water on it
 ```
 
-For rendering purer fat see [Lighting and Energy – Rendering animal fat](../../../docs/07-日常生活技能/06-照明与能源.md#熬炼动物脂肪); for making soap from waste fat see [Soap Making – Step 2: Prepare the fat](../../../docs/07-日常生活技能/04-制皂.md#第二步-准备油脂).
+For rendering purer fat see [Lighting and Energy – Rendering animal fat](06-lighting-and-energy.md#rendering-animal-fat); for making soap from waste fat see [Soap Making – Step 2: Prepare the fat](04-soap-making.md#step-2-preparing-the-fat).
 
 ---
 
@@ -738,7 +738,7 @@ Flour, rice bran, cornmeal and sawdust all burn. In heaps they do not burn easil
 ✓ Keep doors and windows open for ventilation so dust can clear
 ```
 
-For the principle see [Advanced Chemistry – Reaction rates and catalysis](../../../docs/09-进阶科学与工程/05-化学进阶.md#四反应速率和催化); for what to do if fire breaks out see [Fire](../../../docs/02-灾难应对/04-火灾.md).
+For the principle see [Advanced Chemistry – Reaction rates and catalysis](../../../docs/09-进阶科学与工程/05-化学进阶.md#四反应速率和催化); for what to do if fire breaks out see [Fire](../02-disaster-response/04-fire.md).
 
 ### Entanglement in machinery and draught animals
 
@@ -786,5 +786,5 @@ For the principle see [Advanced Chemistry – Reaction rates and catalysis](../.
 
 ---
 
-**Next chapter**: [Salt Making](../../../docs/07-日常生活技能/15-制盐.md)
-**Back**: [Chapter index](../../../docs/07-日常生活技能/README.md) | [Main contents](../../../README.md)
+**Next chapter**: [Salt Making](15-salt-making.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

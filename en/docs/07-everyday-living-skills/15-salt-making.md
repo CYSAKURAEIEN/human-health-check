@@ -71,7 +71,7 @@ Replacing salt after sweating at work:
   (add no salt for babies under 1 year)
 ```
 
-For fluids in heat cramps and heat exhaustion see [Acute Symptoms – Heatstroke](../../../docs/01-日常疾病和伤害/05-急性症状.md#中暑); for the ORS recipe see [Common Illnesses – Diarrhoea](../../../docs/01-日常疾病和伤害/01-常见疾病.md#腹泻).
+For fluids in heat cramps and heat exhaustion see [Acute Symptoms – Heatstroke](../01-first-aid-and-family-health/05-acute-symptoms.md#heatstroke); for the ORS recipe see [Common Illnesses – Diarrhoea](../01-first-aid-and-family-health/01-common-illnesses.md#diarrhoea).
 
 ### Livestock
 
@@ -88,7 +88,7 @@ For fluids in heat cramps and heat exhaustion see [Acute Symptoms – Heatstroke
    (thirst, convulsions, walking in circles, death). Always provide plenty of water when feeding salt
 ```
 
-For details of animal husbandry see [Livestock Husbandry](../../../docs/04-动植物培育/06-家畜养殖.md) and [Poultry Keeping](../../../docs/04-动植物培育/05-家禽养殖.md).
+For details of animal husbandry see [Livestock Husbandry](../04-farming-and-animal-husbandry/06-livestock.md) and [Poultry Keeping](../04-farming-and-animal-husbandry/05-poultry.md).
 
 ### Curing and other uses
 
@@ -100,7 +100,7 @@ Salt fish: as much salt as for meat, or more
 Short-term storage of fresh hides: cover the flesh side with coarse salt, about a third to a half of the fresh hide weight
 ```
 
-For curing methods see [Food Processing and Preservation – Salting](../../../docs/07-日常生活技能/01-食物加工与保存.md#盐腌); for salting fresh hides see [Textiles, Mending and Tanning – Short-term storage](../../../docs/07-日常生活技能/07-纺织缝补与鞣皮.md#第二步-临时保存如果不能马上鞣制); for adding salt in soap making see [Soap Making – Adding salt to harden](../../../docs/07-日常生活技能/04-制皂.md#可选-加盐变硬).
+For curing methods see [Food Processing and Preservation – Salting](01-food-processing-and-preservation.md#salting); for salting fresh hides see [Textiles, Mending and Tanning – Short-term storage](07-textiles-sewing-and-tanning.md#step-2-temporary-storage-if-you-cannot-tan-straight-away); for adding salt in soap making see [Soap Making – Adding salt to harden](04-soap-making.md#optional-adding-salt-to-harden-it).
 
 ### How much salt a community needs in a year (estimate)
 
@@ -119,7 +119,7 @@ Total: about 700-800 kg, i.e. about 10-15 kg per person per year
 → A community needs to prepare several hundred kg to a tonne of salt a year; this is worth assigning people to specially
 ```
 
-For keeping accounts of stocks and rations see [Record-keeping, Trade and Division of Labour – Managing stores](../../../docs/07-日常生活技能/13-记账交易与社会分工.md#库存管理).
+For keeping accounts of stocks and rations see [Record-keeping, Trade and Division of Labour – Managing stores](13-record-keeping-trade-and-division-of-labour.md#managing-stores).
 
 ---
 
@@ -144,7 +144,7 @@ For keeping accounts of stocks and rations see [Record-keeping, Trade and Divisi
 If swallowed by mistake: blue lips, dizziness, difficulty breathing → call 120 at once and get to hospital as fast as possible (hospitals have a specific antidote)
 ```
 
-For nitrites and other food poisoning see [Food Processing and Preservation – High-risk foods and food poisoning](../../../docs/07-日常生活技能/01-食物加工与保存.md#高风险食品与食物中毒) and [Poisoning – Other poisoning](../../../docs/01-日常疾病和伤害/12-中毒.md#其他中毒).
+For nitrites and other food poisoning see [Food Processing and Preservation – High-risk foods and food poisoning](01-food-processing-and-preservation.md#high-risk-foods-and-food-poisoning) and [Poisoning – Other poisoning](../01-first-aid-and-family-health/12-poisoning.md#other-poisonings).
 
 **Wood ash cannot replace salt.** The lye from soaking wood ash is mainly potassium carbonate (potash), a strong alkali used for making soap and treating maize; eaten, it corrodes the mouth and digestive tract, and it does not supply sodium either. Some plants of the seashore and saline land (such as seepweed, *Suaeda*) taste salty and can be eaten in small amounts as wild vegetables, but the ash from burning them is also alkali, not salt.
 
@@ -172,7 +172,7 @@ As water evaporates, the salts come out one after another, least soluble first:
 
 For the principles of solubility and crystallisation by evaporation see [Chemistry – Solubility](../../../docs/08-基础科学知识/03-化学.md#53-溶解度) and [Chemistry – Separation and purification](../../../docs/08-基础科学知识/03-化学.md#八分离与提纯).
 
-**Do not drink seawater directly**; see [Desert Island Survival – Getting water on an island](../../../docs/03-野外生存/01-荒岛求生.md#海岛取水).
+**Do not drink seawater directly**; see [Desert Island Survival – Getting water on an island](../03-wilderness-survival/01-desert-island-survival.md#getting-water-on-an-island).
 
 ---
 
@@ -321,7 +321,7 @@ Fuel estimate (for brine of about 20%):
   - In ancient Zigong, Sichuan, salt was boiled with natural gas rising from underground; this is a special case
 ```
 
-For wood-saving stoves and firewood storage see [Lighting and Energy – Safe fuel storage](../../../docs/07-日常生活技能/06-照明与能源.md#燃料的安全储存).
+For wood-saving stoves and firewood storage see [Lighting and Energy – Safe fuel storage](06-lighting-and-energy.md#storing-fuel-safely).
 
 ---
 
@@ -434,7 +434,7 @@ Uses:
 ⚠️ If salt tastes bitter, the bittern has not been fully drained: wash or purify the salt again
 ```
 
-For setting tofu with bittern see [Food Processing and Preservation – Tofu](../../../docs/07-日常生活技能/01-食物加工与保存.md#豆腐).
+For setting tofu with bittern see [Food Processing and Preservation – Tofu](01-food-processing-and-preservation.md#tofu).
 
 ---
 
@@ -474,7 +474,7 @@ Storing iodised salt (iodine is lost over time):
 ✓ First in, first out; rotate stored iodised salt and use it up in time
 ```
 
-For the symptoms of iodine deficiency and other deficiency diseases see [Nutrition and Deficiency Diseases – Iodine](../../../docs/07-日常生活技能/02-营养与营养缺乏病.md#碘). For extracting elemental iodine from kelp (for disinfection) see [Disinfectant Preparation – Sources of iodine](../../../docs/06-制药技术/01-消毒剂制备.md#22-碘的来源); that is a disinfectant for external use, not a way of getting dietary iodine.
+For the symptoms of iodine deficiency and other deficiency diseases see [Nutrition and Deficiency Diseases – Iodine](02-nutrition-and-deficiency-diseases.md#iodine). For extracting elemental iodine from kelp (for disinfection) see [Disinfectant Preparation – Sources of iodine](../06-pharmaceuticals/01-disinfectants.md#22-sources-of-iodine); that is a disinfectant for external use, not a way of getting dietary iodine.
 
 ---
 
@@ -495,7 +495,7 @@ Ordinary (non-iodised) table salt keeps indefinitely as long as it stays dry
 For storing iodised salt see the previous section
 ```
 
-Salt is also an important trade good: communities with sea or salt springs can trade salt for grain, ironware and furs; see [Record-keeping, Trade and Division of Labour – Trade](../../../docs/07-日常生活技能/13-记账交易与社会分工.md#交易). For why salt water speeds up rusting of iron see [Chemistry – Rusting](../../../docs/08-基础科学知识/03-化学.md#43-生锈).
+Salt is also an important trade good: communities with sea or salt springs can trade salt for grain, ironware and furs; see [Record-keeping, Trade and Division of Labour – Trade](13-record-keeping-trade-and-division-of-labour.md#trade). For why salt water speeds up rusting of iron see [Chemistry – Rusting](../../../docs/08-基础科学知识/03-化学.md#43-生锈).
 
 ---
 
@@ -524,7 +524,7 @@ Other:
 ⚠️ Label brine, bittern and industrial salt; never store them with food or drinking water
 ```
 
-For treating scalds see [Wound and Injury Care – Scalds and burns](../../../docs/01-日常疾病和伤害/02-外伤处理.md#烫伤与烧伤); for heatstroke see [Acute Symptoms – Heatstroke](../../../docs/01-日常疾病和伤害/05-急性症状.md#中暑); for storm surges see [Ocean Disasters](../../../docs/02-灾难应对/03-海洋灾害.md).
+For treating scalds see [Wound and Injury Care – Scalds and burns](../01-first-aid-and-family-health/02-wounds-and-injuries.md#scalds-and-burns); for heatstroke see [Acute Symptoms – Heatstroke](../01-first-aid-and-family-health/05-acute-symptoms.md#heatstroke); for storm surges see [Ocean Disasters](../02-disaster-response/03-ocean-disasters.md).
 
 ---
 
@@ -545,5 +545,5 @@ For treating scalds see [Wound and Injury Care – Scalds and burns](../../../do
 
 ---
 
-**Next chapter**: [Lime and Building Materials](../../../docs/07-日常生活技能/16-石灰与建筑材料.md)
-**Back**: [Chapter index](../../../docs/07-日常生活技能/README.md) | [Main contents](../../../README.md)
+**Next chapter**: [Lime and Building Materials](16-lime-and-building-materials.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

@@ -423,7 +423,7 @@ Fitting:
 3. The wedge spreads the wood and locks it tight
 ```
 
-The wood must be thoroughly dry, straight-grained and free of knots; **if the hammer head is at all loose, stop using it and repair it**, because a flying hammer head can injure people. For the full steps see [Woodworking and Tool Maintenance - Replacing tool handles](../../../docs/07-日常生活技能/09-木工与工具维护.md#换工具柄斧锤锄).
+The wood must be thoroughly dry, straight-grained and free of knots; **if the hammer head is at all loose, stop using it and repair it**, because a flying hammer head can injure people. For the full steps see [Woodworking and Tool Maintenance - Replacing tool handles](../07-everyday-living-skills/09-woodworking-and-tool-maintenance.md#replacing-a-tool-handle-axe-hammer-hoe).
 
 ---
 
@@ -492,7 +492,7 @@ Add the steel before shaping; see [11.2 Inserted steel edges](#112-inserted-stee
 - Stick tang: forge the tang to a pointed taper; drill a smaller hole in a hardwood handle (about 12 cm long); wrap the blade in a wet cloth (to protect the temper), heat the tang and "burn" it into the hole; fit an iron ferrule on the front of the handle to stop it splitting
 - Full tang: forge the tang into a flat plate, put wooden scales on both sides and rivet them tight with 2-3 rivets
 
-**8. Final sharpening:** after tempering, sharpen on a whetstone (edge bevel about 15-20°); do not let the edge get hot while grinding. For sharpening technique see [Woodworking and Tool Maintenance - Sharpening](../../../docs/07-日常生活技能/09-木工与工具维护.md#磨刀).
+**8. Final sharpening:** after tempering, sharpen on a whetstone (edge bevel about 15-20°); do not let the edge get hot while grinding. For sharpening technique see [Woodworking and Tool Maintenance - Sharpening](../07-everyday-living-skills/09-woodworking-and-tool-maintenance.md#sharpening).
 
 ### 3.2 Machete/dagger
 
@@ -990,7 +990,7 @@ Wash, dry and oil farm tools after each season's use. Bluing/blacking (forming a
 
 **When to reforge rather than keep grinding:** a large chip out of the edge (about 2 mm or more), or a hoe edge or pick point worn short → forge it again, then quench and temper; an edge that rolls and will not get sharp however you grind it → the hardness has gone; heat-treat it again.
 
-For sharpening technique and whetstone care see [Woodworking and Tool Maintenance - Sharpening](../../../docs/07-日常生活技能/09-木工与工具维护.md#磨刀); for using grinding wheels safely see [Bench Work and Machining - Grinding](09-bench-work-and-machining.md#8-grinding).
+For sharpening technique and whetstone care see [Woodworking and Tool Maintenance - Sharpening](../07-everyday-living-skills/09-woodworking-and-tool-maintenance.md#sharpening); for using grinding wheels safely see [Bench Work and Machining - Grinding](09-bench-work-and-machining.md#8-grinding).
 
 ### 10.3 Handle maintenance
 
@@ -999,7 +999,7 @@ For sharpening technique and whetstone care see [Woodworking and Tool Maintenanc
 - Re-wedge promptly when loose
 - Replace at once if broken
 
-Do not soak a loose tool in water to "swell it tight"; once dry it will be looser than before. For replacing handles see [Woodworking and Tool Maintenance - Replacing tool handles](../../../docs/07-日常生活技能/09-木工与工具维护.md#换工具柄斧锤锄); for routine care see [Woodworking and Tool Maintenance - Tool care](../../../docs/07-日常生活技能/09-木工与工具维护.md#工具保养)
+Do not soak a loose tool in water to "swell it tight"; once dry it will be looser than before. For replacing handles see [Woodworking and Tool Maintenance - Replacing tool handles](../07-everyday-living-skills/09-woodworking-and-tool-maintenance.md#replacing-a-tool-handle-axe-hammer-hoe); for routine care see [Woodworking and Tool Maintenance - Tool care](../07-everyday-living-skills/09-woodworking-and-tool-maintenance.md#looking-after-tools)
 
 ---
 
@@ -1101,7 +1101,7 @@ When you have no steel, bury wrought iron hoe edges, ploughshares, nail headers 
 - **Needles, fish hooks**: make them from steel wire (high-carbon wire). First heat the wire to dark red over the fire and bury it in ashes to cool slowly (annealing); bend to shape, file the point, the eye or the barb, then heat to cherry red and quench in oil, and temper to dark blue (about 300°C, so it is springy rather than brittle)
 - **Scissors**: make the two blades the way you make a knife (faced with steel or all steel), temper to purple, and rivet them together; the two blades should curve slightly inwards so they press together as they close
 
-For filing, sawing, drilling and tapping see [Bench Work and Machining](09-bench-work-and-machining.md); for using and caring for woodworking tools see [Woodworking and Tool Maintenance](../../../docs/07-日常生活技能/09-木工与工具维护.md).
+For filing, sawing, drilling and tapping see [Bench Work and Machining](09-bench-work-and-machining.md); for using and caring for woodworking tools see [Woodworking and Tool Maintenance](../07-everyday-living-skills/09-woodworking-and-tool-maintenance.md).
 
 ---
 
@@ -1128,7 +1128,7 @@ For filing, sawing, drilling and tapping see [Bench Work and Machining](09-bench
 - 🔗 [Bellows and Forges](08-bellows-and-forges.md) - forges, bellows, anvils
 - 🔗 [Bench Work and Machining](09-bench-work-and-machining.md) - filing, sawing, drilling, grinding to finish forged blanks
 - 🔗 [Sheet and Wire](11-sheet-and-wire.md) - sheet-iron goods, raising, wire
-- 🔗 [Woodworking and Tool Maintenance](../../../docs/07-日常生活技能/09-木工与工具维护.md) - handles, sharpening, routine care
+- 🔗 [Woodworking and Tool Maintenance](../07-everyday-living-skills/09-woodworking-and-tool-maintenance.md) - handles, sharpening, routine care
 
 ---
 

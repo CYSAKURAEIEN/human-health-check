@@ -166,7 +166,7 @@ Removing embedded grit and fragments:
   numb the area and clean it out
 ```
 
-For making saline see [Disinfectants – Saline](../../../docs/06-制药技术/01-消毒剂制备.md#72-配制); for what to do in the wild without clean water see [Wilderness Casualty Care and Evacuation – Wounds](../03-wilderness-survival/11-wilderness-casualty-care-and-evacuation.md#wounds).
+For making saline see [Disinfectants – Saline](../06-pharmaceuticals/01-disinfectants.md#72-making-it-up); for what to do in the wild without clean water see [Wilderness Casualty Care and Evacuation – Wounds](../03-wilderness-survival/11-wilderness-casualty-care-and-evacuation.md#wounds).
 
 #### 3. Disinfect
 

@@ -10,22 +10,22 @@ These skills are useful in ordinary times, and they become critical when the wat
 
 1. [Food processing and preservation](01-food-processing-and-preservation.md) - sun-drying, salting, fermenting, smoking, cellar storage, canning, tofu; high-risk foods
 2. [Nutrition and deficiency diseases](02-nutrition-and-deficiency-diseases.md) - recognising and preventing scurvy, beriberi, pellagra and others; special groups
-3. [Sanitation](../../../docs/07-日常生活技能/03-卫生设施.md) - emergency toilets, dry toilets, handwashing stations, using excreta, waste disposal
-4. [Soap making](../../../docs/07-日常生活技能/04-制皂.md) - soap pods and soapnuts, making soap with plant-ash lye
-5. [Long-term housing](../../../docs/07-日常生活技能/05-长期住所.md) - choosing a site, keeping out damp, adobe and rammed-earth walls, timber frames, earthquake resistance, insulation, the *kang* (heated brick bed), stoves and chimneys
-6. [Lighting and energy](../../../docs/07-日常生活技能/06-照明与能源.md) - emergency lighting, home-made oil lamps and candles, fuel storage, generators, small-scale solar power, biogas
-7. [Textiles, mending and tanning](../../../docs/07-日常生活技能/07-纺织缝补与鞣皮.md) - mending stitches, spinning, knitting and weaving, tanning hides and furs
-8. [Household electrical safety](../../../docs/07-日常生活技能/08-家庭用电安全.md) - residual-current devices, power strips, high-power appliances, charging electric bikes, restoring power after a disaster
-9. [Woodworking and tool maintenance](../../../docs/07-日常生活技能/09-木工与工具维护.md) - stocking tools, drying timber, nails, screws and joints, replacing tool handles, repairing tables, chairs, doors and windows, sharpening, tool care
-10. [Water supply engineering](../../../docs/07-日常生活技能/10-水源工程与供水.md) - how much water you need, protecting water sources, spring boxes, digging wells safely and disinfecting well water, collecting rainwater, slow sand filters, disinfectant doses, storage, bringing water and the hydraulic ram pump, waste water
-11. [Pottery, glass and papermaking](../../../docs/07-日常生活技能/11-陶瓷玻璃与造纸.md) - choosing and preparing clay, shaping and drying, pit firing and simple updraught kilns, crucibles, glazes and waterproofing, bricks and tiles, recycling, remelting and annealing glass, papermaking, carbon-black ink
-12. [Teaching and knowledge preservation](../../../docs/07-日常生活技能/12-教育与知识传承.md) - what to teach first, teaching reading, writing and arithmetic, apprenticeship, running a small school, writing operating manuals, copying, proofreading and preserving records
-13. [Record-keeping, trade and division of labour](../../../docs/07-日常生活技能/13-记账交易与社会分工.md) - day books and stocktaking, IOUs, stock and days of supply left, rationing, standard measures and barter, work points, skills registers and division of labour, rules and decisions, preventing errors and fraud, community archives
-14. [Grain and oil processing](../../../docs/07-日常生活技能/14-粮油加工.md) - when to harvest, threshing, winnowing, safe moisture content, protecting stored grain from mould and insects, hulling and milling rice, grinding flour with millstones, treating maize with limewater, beans and other grains, pressing oil, clarifying and storing oil, workshop safety
-15. [Salt making](../../../docs/07-日常生活技能/15-制盐.md) - how much salt you need, "salts" you must not eat, brine strength, solar salt pans, leaching and boiling brine, inland salt, purification and bittern, iodine, storage
-16. [Lime and building materials](../../../docs/07-日常生活技能/16-石灰与建筑材料.md) - the lime cycle, raw materials, lime kilns, slaking and maturing, lime mortar and *sanhetu* (lime-clay-sand tamped earth), whitewashing walls to disinfect, improving acid soil, gypsum, recycling cement, other building materials
-17. [Rope and knots](../../../docs/07-日常生活技能/17-绳索与结绳.md) - fibre sources, twisting and making rope, strength and safety factors, common knots, finishing rope ends and splicing, lashing, building, hoisting and drawing water, care, safety
-18. [Vehicles, boats and roads](../../../docs/07-日常生活技能/18-车船与道路.md) - bicycles and handcarts, carrying by hand, wheels and axles, draught animals and harness, roads, bridges, rafts and boats, crossing rivers, comparing ways of transport
+3. [Sanitation](03-sanitation.md) - emergency toilets, dry toilets, handwashing stations, using excreta, waste disposal
+4. [Soap making](04-soap-making.md) - soap pods and soapnuts, making soap with plant-ash lye
+5. [Long-term housing](05-long-term-shelter.md) - choosing a site, keeping out damp, adobe and rammed-earth walls, timber frames, earthquake resistance, insulation, the *kang* (heated brick bed), stoves and chimneys
+6. [Lighting and energy](06-lighting-and-energy.md) - emergency lighting, home-made oil lamps and candles, fuel storage, generators, small-scale solar power, biogas
+7. [Textiles, mending and tanning](07-textiles-sewing-and-tanning.md) - mending stitches, spinning, knitting and weaving, tanning hides and furs
+8. [Household electrical safety](08-household-electrical-safety.md) - residual-current devices, power strips, high-power appliances, charging electric bikes, restoring power after a disaster
+9. [Woodworking and tool maintenance](09-woodworking-and-tool-maintenance.md) - stocking tools, drying timber, nails, screws and joints, replacing tool handles, repairing tables, chairs, doors and windows, sharpening, tool care
+10. [Water supply engineering](10-water-supply.md) - how much water you need, protecting water sources, spring boxes, digging wells safely and disinfecting well water, collecting rainwater, slow sand filters, disinfectant doses, storage, bringing water and the hydraulic ram pump, waste water
+11. [Pottery, glass and papermaking](11-pottery-glass-and-papermaking.md) - choosing and preparing clay, shaping and drying, pit firing and simple updraught kilns, crucibles, glazes and waterproofing, bricks and tiles, recycling, remelting and annealing glass, papermaking, carbon-black ink
+12. [Teaching and knowledge preservation](12-education-and-knowledge-preservation.md) - what to teach first, teaching reading, writing and arithmetic, apprenticeship, running a small school, writing operating manuals, copying, proofreading and preserving records
+13. [Record-keeping, trade and division of labour](13-record-keeping-trade-and-division-of-labour.md) - day books and stocktaking, IOUs, stock and days of supply left, rationing, standard measures and barter, work points, skills registers and division of labour, rules and decisions, preventing errors and fraud, community archives
+14. [Grain and oil processing](14-grain-and-oil-processing.md) - when to harvest, threshing, winnowing, safe moisture content, protecting stored grain from mould and insects, hulling and milling rice, grinding flour with millstones, treating maize with limewater, beans and other grains, pressing oil, clarifying and storing oil, workshop safety
+15. [Salt making](15-salt-making.md) - how much salt you need, "salts" you must not eat, brine strength, solar salt pans, leaching and boiling brine, inland salt, purification and bittern, iodine, storage
+16. [Lime and building materials](16-lime-and-building-materials.md) - the lime cycle, raw materials, lime kilns, slaking and maturing, lime mortar and *sanhetu* (lime-clay-sand tamped earth), whitewashing walls to disinfect, improving acid soil, gypsum, recycling cement, other building materials
+17. [Rope and knots](17-rope-and-knots.md) - fibre sources, twisting and making rope, strength and safety factors, common knots, finishing rope ends and splicing, lashing, building, hoisting and drawing water, care, safety
+18. [Vehicles, boats and roads](18-vehicles-boats-and-roads.md) - bicycles and handcarts, carrying by hand, wheels and axles, draught animals and harness, roads, bridges, rafts and boats, crossing rivers, comparing ways of transport
 
 ## ⚠️ The most important points
 
@@ -105,11 +105,11 @@ These skills are useful in ordinary times, and they become critical when the wat
 
 ## 🔗 Related chapters
 
-- [Farming and animal husbandry](../../../docs/04-动植物培育/README.md) - where food comes from
-- [Long-term collapse survival](../../../docs/03-野外生存/06-末日求生.md) - overall strategy for long-term survival
-- [Common illnesses – food poisoning](../../../docs/01-日常疾病和伤害/01-常见疾病.md#食物中毒), [Common illnesses – diarrhoea](../../../docs/01-日常疾病和伤害/01-常见疾病.md#腹泻)
+- [Farming and animal husbandry](../04-farming-and-animal-husbandry/README.md) - where food comes from
+- [Long-term collapse survival](../03-wilderness-survival/06-long-term-collapse-survival.md) - overall strategy for long-term survival
+- [Common illnesses – food poisoning](../01-first-aid-and-family-health/01-common-illnesses.md#food-poisoning), [Common illnesses – diarrhoea](../01-first-aid-and-family-health/01-common-illnesses.md#diarrhoea)
 - [Surveying and mapping](../../../docs/08-基础科学知识/08-测量与制图.md) - setting the fall of water channels, measuring land
-- [Antibiotics – preventing infection](../../../docs/06-制药技术/02-抗生素制备.md#五感染的预防)
+- [Antibiotics – preventing infection](../06-pharmaceuticals/02-antibiotics.md#5-preventing-infection)
 
 ---
 

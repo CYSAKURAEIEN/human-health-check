@@ -117,7 +117,7 @@ For the concepts of heat and heating value see [Physics – Heat](../../../docs/
   before talking about smelting iron
 ```
 
-For how to make charcoal see [Basic Metallurgy – Making charcoal](../05-metallurgy/00-metallurgy-basics.md#32-making-charcoal-smouldering-method); for kiln firing see [Pottery, Glass and Papermaking – Firing](../../../docs/07-日常生活技能/11-陶瓷玻璃与造纸.md#烧制).
+For how to make charcoal see [Basic Metallurgy – Making charcoal](../05-metallurgy/00-metallurgy-basics.md#32-making-charcoal-smouldering-method); for kiln firing see [Pottery, Glass and Papermaking – Firing](../07-everyday-living-skills/11-pottery-glass-and-papermaking.md#firing).
 
 ---
 
@@ -163,7 +163,7 @@ Stacking a woodpile:
    and do not put your bare hand into gaps
 ```
 
-For fire-safety requirements for storing firewood see [Lighting and Energy – Firewood](../../../docs/07-日常生活技能/06-照明与能源.md#木柴); wood for furniture and tool handles needs more careful drying, see [Woodworking and Tool Maintenance – Drying](../../../docs/07-日常生活技能/09-木工与工具维护.md#干燥).
+For fire-safety requirements for storing firewood see [Lighting and Energy – Firewood](../07-everyday-living-skills/06-lighting-and-energy.md#firewood); wood for furniture and tool handles needs more careful drying, see [Woodworking and Tool Maintenance – Drying](../07-everyday-living-skills/09-woodworking-and-tool-maintenance.md#drying).
 
 ---
 
@@ -267,7 +267,7 @@ Cutting plots in rotation:
 
 *Figure: cut in the winter dormant season, leaving stumps about 5-15 cm above the ground with the cut sloping to one side; one or two years after cutting keep 3-5 shoots; divide the woodland into plots by the rotation and cut one plot each year*
 
-For how to keep woodland records see [Record-keeping, Trade and Division of Labour](../../../docs/07-日常生活技能/13-记账交易与社会分工.md).
+For how to keep woodland records see [Record-keeping, Trade and Division of Labour](../07-everyday-living-skills/13-record-keeping-trade-and-division-of-labour.md).
 
 ---
 
@@ -416,7 +416,7 @@ Making dung cakes: mix fresh cow dung with some chopped straw, pat it into cakes
                    stack them under a shelter; wash your hands afterwards
 ```
 
-For biogas see [Lighting and Energy – Biogas](../../../docs/07-日常生活技能/06-照明与能源.md#沼气); for finding coal see [Geology, Minerals and Soil – Building and everyday materials](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#31-建筑和日用材料); for the difference between coal and charcoal in smelting see [Basic Metallurgy – Common problems](../05-metallurgy/00-metallurgy-basics.md#7-frequently-asked-questions).
+For biogas see [Lighting and Energy – Biogas](../07-everyday-living-skills/06-lighting-and-energy.md#biogas); for finding coal see [Geology, Minerals and Soil – Building and everyday materials](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#31-建筑和日用材料); for the difference between coal and charcoal in smelting see [Basic Metallurgy – Common problems](../05-metallurgy/00-metallurgy-basics.md#7-frequently-asked-questions).
 
 ---
 
@@ -451,7 +451,7 @@ Heating:
    a ventilation opening, to prevent carbon monoxide poisoning
 ```
 
-For more ways to save energy see [Lighting and Energy – Saving energy](../../../docs/07-日常生活技能/06-照明与能源.md#节约能源); for how *kang* and fuel-saving stoves are built see [Long-term Housing – Kang and stoves](../../../docs/07-日常生活技能/05-长期住所.md#火炕与炉灶); for wall and roof insulation see [Long-term Housing – Insulation](../../../docs/07-日常生活技能/05-长期住所.md#保温).
+For more ways to save energy see [Lighting and Energy – Saving energy](../07-everyday-living-skills/06-lighting-and-energy.md#saving-energy); for how *kang* and fuel-saving stoves are built see [Long-term Housing – Kang and stoves](../07-everyday-living-skills/05-long-term-shelter.md#kang-and-stoves); for wall and roof insulation see [Long-term Housing – Insulation](../07-everyday-living-skills/05-long-term-shelter.md#insulation).
 
 ---
 
@@ -517,7 +517,7 @@ Felling (the principle):
    hard iron wedges
 ```
 
-For axe and tool safety see [Woodworking and Tool Maintenance – Safety](../../../docs/07-日常生活技能/09-木工与工具维护.md#安全); for replacing axe handles and sharpening axes see [Replacing tool handles](../../../docs/07-日常生活技能/09-木工与工具维护.md#换工具柄斧锤锄) and [Sharpening](../../../docs/07-日常生活技能/09-木工与工具维护.md#磨刀) in the same chapter; for treating cuts and crush injuries see [Wound and Injury Care – Cuts and grazes](../01-first-aid-and-family-health/02-wounds-and-injuries.md#cuts-and-grazes).
+For axe and tool safety see [Woodworking and Tool Maintenance – Safety](../07-everyday-living-skills/09-woodworking-and-tool-maintenance.md#safety); for replacing axe handles and sharpening axes see [Replacing tool handles](../07-everyday-living-skills/09-woodworking-and-tool-maintenance.md#replacing-a-tool-handle-axe-hammer-hoe) and [Sharpening](../07-everyday-living-skills/09-woodworking-and-tool-maintenance.md#sharpening) in the same chapter; for treating cuts and crush injuries see [Wound and Injury Care – Cuts and grazes](../01-first-aid-and-family-health/02-wounds-and-injuries.md#cuts-and-grazes).
 
 For using fire in forest areas, and fighting and escaping a forest fire once you find one, see [Fire – Forest fires](../02-disaster-response/04-fire.md#forest-fires).
 
@@ -545,7 +545,7 @@ A well-managed woodland is more than a woodshed:
    leave enough for them to keep reproducing
 ```
 
-For edible and poisonous plants see [Forest Survival – Food](../03-wilderness-survival/02-forest-survival.md#food); for medicinal herbs see [Medicinal Plants](04-medicinal-plants.md); for making lye from wood ash see [Soap Making](../../../docs/07-日常生活技能/04-制皂.md).
+For edible and poisonous plants see [Forest Survival – Food](../03-wilderness-survival/02-forest-survival.md#food); for medicinal herbs see [Medicinal Plants](04-medicinal-plants.md); for making lye from wood ash see [Soap Making](../07-everyday-living-skills/04-soap-making.md).
 
 ---
 

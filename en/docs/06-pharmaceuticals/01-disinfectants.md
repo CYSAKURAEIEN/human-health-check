@@ -127,7 +127,7 @@ Condenser: a copper pipe coiled in a bucket of cold water; if you have no copper
 
 ![Simple still: a large pot filled about 70% with rice wine or fruit wine, heated gently over charcoal, temperature kept at 78-85°C; the vapour passes through a pipe in the lid into a condenser coiled in a bucket of cold water, condenses into droplets and runs into a receiving bottle; discard the heads, collect the middle, stop collecting at the tail above 85°C](../../images/simple-still.svg)
 
-*Figure: The fire is under the pot, and the vapour is led out through a pipe from a hole in the lid (see [Pharmacy basics – equipment you can make](../../../docs/06-制药技术/00-基础制药知识.md#71-可自制的器材)). For pipe materials see Q3 below; for flammable vapour and fire safety during distillation see [Pharmacy basics – ventilation](../../../docs/06-制药技术/00-基础制药知识.md#62-通风要求) and "Fire safety" in section 1.4*
+*Figure: The fire is under the pot, and the vapour is led out through a pipe from a hole in the lid (see [Pharmacy basics – equipment you can make](00-pharmacy-basics.md#71-equipment-you-can-make)). For pipe materials see Q3 below; for flammable vapour and fire safety during distillation see [Pharmacy basics – ventilation](00-pharmacy-basics.md#62-ventilation) and "Fire safety" in section 1.4*
 
 #### Procedure:
 
@@ -252,7 +252,7 @@ Check the concentration once it is mixed: if you have an alcohol meter, measure 
   fire with a wet cloth or a pot lid; do not blow on it, and do not throw
   water into a container holding alcohol
 ```
-For dealing with fires see [Fire](../../../docs/02-灾难应对/04-火灾.md).
+For dealing with fires see [Fire](../02-disaster-response/04-fire.md).
 
 ---
 
@@ -371,7 +371,7 @@ Potassium iodide (KI): 1.5 g
 **Common mistakes:**
 - ✗ Not removing the iodine after applying it, or bandaging or making wet compresses with tincture of iodine: the skin blisters and burns
 - ✗ Using it together with merbromin ("red medicine", mercurochrome): forms mercuric iodide, which is very irritant and damages the skin
-- ✗ Drinking tincture of iodine "to top up iodine" or to protect against radiation: it causes poisoning (see [Man-made disasters](../../../docs/02-灾难应对/05-人为灾难.md))
+- ✗ Drinking tincture of iodine "to top up iodine" or to protect against radiation: it causes poisoning (see [Man-made disasters](../02-disaster-response/05-man-made-disasters.md))
 
 **Storage and loss of strength:**
 - Dark glass bottle, cap screwed tight, in a cool place
@@ -430,7 +430,7 @@ instructions say they can be used on mucous membranes, diluted as instructed
 
 **Who should take care:** the same as for tincture of iodine (iodine allergy, newborns, pregnancy and breastfeeding, thyroid disease). Povidone-iodine is less irritant, but it still should not be used over large areas for long periods.
 
-For the full steps of wound care see [Wound and injury care – disinfecting](../../../docs/01-日常疾病和伤害/02-外伤处理.md#3-消毒).
+For the full steps of wound care see [Wound and injury care – disinfecting](../01-first-aid-and-family-health/02-wounds-and-injuries.md#3-disinfect).
 
 ---
 
@@ -557,7 +557,7 @@ Without a balance, judge by colour: better too pale than too dark. If the soluti
 **Do not:**
 - ✗ Mix it with glycerol, alcohol or other reducing substances (explosion!)
 - ✗ Use it too strong (damages skin)
-- ✗ Take it internally: swallowing crystals or strong solution corrodes the mouth, gullet and stomach; deal with it at once as in [Poisoning](../../../docs/01-日常疾病和伤害/12-中毒.md#误服清洁剂消毒液) and call 120
+- ✗ Take it internally: swallowing crystals or strong solution corrodes the mouth, gullet and stomach; deal with it at once as in [Poisoning](../01-first-aid-and-family-health/12-poisoning.md#swallowing-cleaning-products-or-disinfectant) and call 120
 
 ---
 
@@ -587,7 +587,7 @@ Uses:
   - Disinfecting areas with an epidemic
 ```
 
-Bleaching powder contains about 25-30% available chlorine (high-test bleaching powder about 60-70%; check the pack first), so the 1% bleaching powder solution above contains about 2500-3000 mg/L available chlorine. This is fairly strong and is only for toilets, epidemic areas and obviously contaminated places. For everyday wiping, dilute further as in the table below; the concentrations match those for ["84" bleach](../../../docs/01-日常疾病和伤害/15-传染病家庭防控.md#84消毒液含氯消毒剂):
+Bleaching powder contains about 25-30% available chlorine (high-test bleaching powder about 60-70%; check the pack first), so the 1% bleaching powder solution above contains about 2500-3000 mg/L available chlorine. This is fairly strong and is only for toilets, epidemic areas and obviously contaminated places. For everyday wiping, dilute further as in the table below; the concentrations match those for ["84" bleach](../01-first-aid-and-family-health/15-infectious-disease-at-home.md#84-bleach-chlorine-based-disinfectant):
 
 | Use | Target available chlorine | 1% bleaching powder solution : water | Contact time |
 |------|-----------|-----------------|----------|
@@ -619,13 +619,13 @@ Making it up: mix the bleaching powder to a paste with a little water first, the
 - Chlorine does not kill a few parasites such as Cryptosporidium; water for
   making up baby formula and for sick people is best boiled
 ```
-When using household bleach (about 5% available chlorine): **2 drops per litre of clear water, 4 drops for cloudy water; shake and wait 30 minutes**. For the chlorine doses for wells, cisterns and large stores of water, see [Water sources and supply – disinfection](../../../docs/07-日常生活技能/10-水源工程与供水.md#消毒).
+When using household bleach (about 5% available chlorine): **2 drops per litre of clear water, 4 drops for cloudy water; shake and wait 30 minutes**. For the chlorine doses for wells, cisterns and large stores of water, see [Water sources and supply – disinfection](../07-everyday-living-skills/10-water-supply.md#disinfection).
 
 ### 6.3 "84" bleach and household bleach
 
 The active ingredient of both "84" bleach and household bleach is sodium hypochlorite, usually about 5% available chlorine (it varies by brand; check the label). They are ready-made products and are easier to stockpile than bleaching powder.
 
-- **Mixing ratios**: everyday 1:100, contaminated 1:50, vomit and faeces about 1:9 to 1:4; see [Infectious disease at home – making household disinfectant](../../../docs/01-日常疾病和伤害/15-传染病家庭防控.md#家用消毒液的配制)
+- **Mixing ratios**: everyday 1:100, contaminated 1:50, vomit and faeces about 1:9 to 1:4; see [Infectious disease at home – making household disinfectant](../01-first-aid-and-family-health/15-infectious-disease-at-home.md#making-household-disinfectant)
 - **Mix with cold water and make it fresh**; use diluted solution the same day
 - **Contact time**: about 30 minutes after wiping or soaking, then wipe or rinse with clean water
 - **Drinking water**: use only plain products with no perfume and no detergent; scented or "kitchen degreasing" types must not be used for drinking water
@@ -668,7 +668,7 @@ The active ingredient of both "84" bleach and household bleach is sodium hypochl
 
 ⚠️ **Never give home-made saline into a vein or by injection**: it is not sterile and has not been tested for pyrogens; put into a blood vessel it can cause high fever, shock and sepsis. Intravenous fluids may only be given by medical staff using proper ready-made infusions.
 
-⚠️ **Do not drink normal saline to replace fluids lost through diarrhoea and vomiting**: it contains no sugar or potassium, rehydrates less well than oral rehydration salts, and drinking a lot of it makes thirst worse. Use oral rehydration salts (ORS); for how to make them up see [Common illnesses – rehydration](../../../docs/01-日常疾病和伤害/01-常见疾病.md#1-补液最重要).
+⚠️ **Do not drink normal saline to replace fluids lost through diarrhoea and vomiting**: it contains no sugar or potassium, rehydrates less well than oral rehydration salts, and drinking a lot of it makes thirst worse. Use oral rehydration salts (ORS); for how to make them up see [Common illnesses – rehydration](../01-first-aid-and-family-health/01-common-illnesses.md#1-fluids-most-important).
 
 ### 7.2 Making it up
 
@@ -751,7 +751,7 @@ Principle: use only one at a time; before changing to another, rinse or wipe
      the same cloth
 ```
 
-If you mix them by accident and smell a sharp smell, or start coughing or feel tight in the chest, leave at once and open the windows; see [Poisoning – cleaning product poisoning](../../../docs/01-日常疾病和伤害/12-中毒.md#清洁剂中毒).
+If you mix them by accident and smell a sharp smell, or start coughing or feel tight in the chest, leave at once and open the windows; see [Poisoning – cleaning product poisoning](../01-first-aid-and-family-health/12-poisoning.md#cleaning-product-poisoning).
 
 ---
 
@@ -804,7 +804,7 @@ If you mix them by accident and smell a sharp smell, or start coughing or feel t
 | "84" bleach, household bleach | About 1 year | Use diluted solution the same day | No chlorine smell |
 | Home-made normal saline | — | Use within 24 hours | Cloudy, sediment or odd smell |
 
-The shelf lives of alcohol and tincture of iodine match [Pharmacy basics – storing medicines](../../../docs/06-制药技术/00-基础制药知识.md#五药物保存).
+The shelf lives of alcohol and tincture of iodine match [Pharmacy basics – storing medicines](00-pharmacy-basics.md#5-storing-medicines).
 
 ### 9.4 Toxicity, swallowing and splashes in the eye
 
@@ -828,7 +828,7 @@ Danger signs after a child swallows something (go to hospital at once):
 - Drowsy, cannot be woken
 ```
 
-For detailed treatment see [Poisoning – swallowing cleaning products and disinfectants](../../../docs/01-日常疾病和伤害/12-中毒.md#误服清洁剂消毒液), [Poisoning – alcohol poisoning](../../../docs/01-日常疾病和伤害/12-中毒.md#酒精中毒) and [Poisoning – children swallowing things](../../../docs/01-日常疾病和伤害/12-中毒.md#儿童误服).
+For detailed treatment see [Poisoning – swallowing cleaning products and disinfectants](../01-first-aid-and-family-health/12-poisoning.md#swallowing-cleaning-products-or-disinfectant), [Poisoning – alcohol poisoning](../01-first-aid-and-family-health/12-poisoning.md#alcohol-poisoning) and [Poisoning – children swallowing things](../01-first-aid-and-family-health/12-poisoning.md#children-swallowing-things).
 
 ---
 
@@ -928,15 +928,15 @@ clean water;
 once there are signs of infection, no home remedy can replace antibacterial
 medicines and a doctor's treatment.
 ```
-For signs of infection and when to see a doctor, see [Wound and injury care – signs of infection](../../../docs/01-日常疾病和伤害/02-外伤处理.md#-感染迹象立即就医).
+For signs of infection and when to see a doctor, see [Wound and injury care – signs of infection](../01-first-aid-and-family-health/02-wounds-and-injuries.md#-signs-of-infection-see-a-doctor-immediately).
 
 ---
 
 ## Related chapters
 
-- ⏮️ [Pharmacy basics](../../../docs/06-制药技术/00-基础制药知识.md) - distillation and extraction techniques
-- ⏭️ [Chinese herbal preparations](../../../docs/06-制药技术/04-中药制剂.md) - natural antibacterial medicines
-- 🔗 [First Aid and Family Health – Wound and injury care](../../../docs/01-日常疾病和伤害/02-外伤处理.md) - using disinfectants
+- ⏮️ [Pharmacy basics](00-pharmacy-basics.md) - distillation and extraction techniques
+- ⏭️ [Chinese herbal preparations](04-herbal-preparations.md) - natural antibacterial medicines
+- 🔗 [First Aid and Family Health – Wound and injury care](../01-first-aid-and-family-health/02-wounds-and-injuries.md) - using disinfectants
 
 ---
 

@@ -15,7 +15,7 @@
 
 ## First, what this chapter covers
 
-Tying firewood, tethering animals, putting up shelters, raising well water, securing loads, hauling timber: rope is needed almost every day. [Basic Survival Skills](../../../docs/03-野外生存/00-基础生存技能.md#绳结技能) lists the few knots most used in the wild; this chapter is more systematic: where rope comes from, how much force it can take, how to tie a dozen or so common knots, and when not to use them.
+Tying firewood, tethering animals, putting up shelters, raising well water, securing loads, hauling timber: rope is needed almost every day. [Basic Survival Skills](../03-wilderness-survival/00-basic-survival-skills.md#knots) lists the few knots most used in the wild; this chapter is more systematic: where rope comes from, how much force it can take, how to tie a dozen or so common knots, and when not to use them.
 
 ```
 ⚠️ Safety:
@@ -30,7 +30,7 @@ Tying firewood, tethering animals, putting up shelters, raising well water, secu
 - Loops and running nooses around children and animals are a strangulation hazard
 ```
 
-For the principles of rescue and climbing in the wild see [Mountain Survival – Falls](../../../docs/03-野外生存/05-山地求生.md#坠落) and [Crossing rivers](../../../docs/03-野外生存/08-涉水山洪与野外失温.md#涉水过河) (do not tie the rope to someone crossing a river).
+For the principles of rescue and climbing in the wild see [Mountain Survival – Falls](../03-wilderness-survival/05-mountain-survival.md#falls) and [Crossing rivers](../03-wilderness-survival/08-river-crossing-flash-floods-and-hypothermia.md#wading-across-rivers) (do not tie the rope to someone crossing a river).
 
 The most realistic course: **salvage first**. Nylon rope, polyester rope, wire rope, electric cable and bicycle inner tubes from the ruins are all far stronger than anything you can twist yourself. Use home-made rope to cover everyday consumption.
 
@@ -67,7 +67,7 @@ Choosing material:
 ✗ Rotten, blackened bark that snaps when tugged: do not use it
 ```
 
-For retting and combing hemp and bark see [Textiles, Mending and Tanning – Preparing fibre](../../../docs/07-日常生活技能/07-纺织缝补与鞣皮.md#准备纤维); for treating hide strips see [Tanning](../../../docs/07-日常生活技能/07-纺织缝补与鞣皮.md#鞣皮); paper mulberry bark is also a papermaking material, see [Pottery, Glass and Papermaking – Papermaking](../../../docs/07-日常生活技能/11-陶瓷玻璃与造纸.md#造纸). ⚠️ Growing hemp is regulated in China; ramie or flax can be used instead.
+For retting and combing hemp and bark see [Textiles, Mending and Tanning – Preparing fibre](07-textiles-sewing-and-tanning.md#preparing-the-fibre); for treating hide strips see [Tanning](07-textiles-sewing-and-tanning.md#tanning); paper mulberry bark is also a papermaking material, see [Pottery, Glass and Papermaking – Papermaking](11-pottery-glass-and-papermaking.md#papermaking). ⚠️ Growing hemp is regulated in China; ramie or flax can be used instead.
 
 ---
 
@@ -86,7 +86,7 @@ Rule: the twist of the strands is opposite to the twist of the rope
   (the twist of the yarn is also opposite to that of the strand: the layers alternate)
 ```
 
-Spinning thread on a spindle and plying work the same way; see [Textiles, Mending and Tanning – Spinning](../../../docs/07-日常生活技能/07-纺织缝补与鞣皮.md#纺线).
+Spinning thread on a spindle and plying work the same way; see [Textiles, Mending and Tanning – Spinning](07-textiles-sewing-and-tanning.md#spinning).
 
 ### Hand-twisting two-strand cord (no tools at all)
 
@@ -256,7 +256,7 @@ How to tie:
    very slippery or shaken about, it capsizes and comes undone
 ```
 
-Use the reef knot only for tying up (as in [Basic Survival Skills – Knots](../../../docs/03-野外生存/00-基础生存技能.md#绳结技能)); to join ropes under load use the sheet bend or fisherman's knot below.
+Use the reef knot only for tying up (as in [Basic Survival Skills – Knots](../03-wilderness-survival/00-basic-survival-skills.md#knots)); to join ropes under load use the sheet bend or fisherman's knot below.
 
 ![Tying a reef knot: left over right and round once, right over left and round again, pull tight](../../images/knot-reef.svg)
 
@@ -574,7 +574,7 @@ Joining two ropes (short splice): unlay both ends, interlock them and tuck each 
   the ground so they cannot slide apart
 ```
 
-For joining timber in construction see [Woodworking and Tool Maintenance](../../../docs/07-日常生活技能/09-木工与工具维护.md#连接方法); for the overall structure of a dwelling see [Long-term Housing](../../../docs/07-日常生活技能/05-长期住所.md).
+For joining timber in construction see [Woodworking and Tool Maintenance](09-woodworking-and-tool-maintenance.md#ways-of-joining-wood); for the overall structure of a dwelling see [Long-term Housing](05-long-term-shelter.md).
 
 ### Hoisting
 
@@ -607,7 +607,7 @@ For calculating rope angles and tension see [Engineering Mechanics and Materials
   no dirt is carried into the well
 ```
 
-For building wells and water-lifting tools see [Water Supply Engineering – Lifting water](../../../docs/07-日常生活技能/10-水源工程与供水.md#提水).
+For building wells and water-lifting tools see [Water Supply Engineering – Lifting water](10-water-supply.md#lifting-water).
 
 ### Rescue
 
@@ -623,7 +623,7 @@ For building wells and water-lifting tools see [Water Supply Engineering – Lif
   there may be too little oxygen down there
 ```
 
-For water rescue see [Rescuing a companion from the water](../../../docs/03-野外生存/08-涉水山洪与野外失温.md#救落水的同伴); for self-rescue with rope when trapped by fire see [Fire](../../../docs/02-灾难应对/04-火灾.md#建筑火灾); for the dangers of working down wells see [Water Supply Engineering – Digging a well](../../../docs/07-日常生活技能/10-水源工程与供水.md#挖井); for moving casualties see [Field Care and Evacuation of the Sick and Injured – Moving casualties](../../../docs/03-野外生存/11-野外伤病处置与转运.md#搬运伤员).
+For water rescue see [Rescuing a companion from the water](../03-wilderness-survival/08-river-crossing-flash-floods-and-hypothermia.md#rescuing-a-companion-from-the-water); for self-rescue with rope when trapped by fire see [Fire](../02-disaster-response/04-fire.md#building-fires); for the dangers of working down wells see [Water Supply Engineering – Digging a well](10-water-supply.md#digging-wells); for moving casualties see [Field Care and Evacuation of the Sick and Injured – Moving casualties](../03-wilderness-survival/11-wilderness-casualty-care-and-evacuation.md#moving-the-casualty).
 
 ---
 
@@ -715,4 +715,4 @@ Cleaning:
 ---
 
 **Next chapter**: [Vehicles, Boats and Roads](18-vehicles-boats-and-roads.md)
-**Back**: [Chapter index](../../../docs/07-日常生活技能/README.md) | [Main contents](../../../README.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

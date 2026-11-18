@@ -86,7 +86,7 @@ If you smell gas, see [Gas leaks](../02-disaster-response/04-fire.md#gas-leaks);
 ✓ Use generators outdoors only, away from doors and windows
 ```
 
-For checking and maintaining *kang* (heated brick beds), stoves and chimneys, see [Long-term housing - Kang and stoves](../../../docs/07-日常生活技能/05-长期住所.md#火炕与炉灶).
+For checking and maintaining *kang* (heated brick beds), stoves and chimneys, see [Long-term housing - Kang and stoves](../07-everyday-living-skills/05-long-term-shelter.md#kang-and-stoves).
 
 ---
 

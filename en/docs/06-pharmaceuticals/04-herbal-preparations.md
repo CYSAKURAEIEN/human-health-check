@@ -36,7 +36,7 @@ How to read this chapter:
   do not switch to another formula and keep waiting
 ```
 
-For identifying and growing the herbs and the dose of each single herb, see [Medicinal plants: identification and growing guide](../../../docs/04-动植物培育/04-药用植物.md).
+For identifying and growing the herbs and the dose of each single herb, see [Medicinal plants: identification and growing guide](../04-farming-and-animal-husbandry/04-medicinal-plants.md).
 
 ---
 
@@ -78,7 +78,7 @@ Notes:
   → treat it as a fever
 ```
 
-See [Common mistakes in caring for a fever](../../../docs/01-日常疾病和伤害/01-常见疾病.md#发烧护理的常见误区) and [When to see a doctor for fever, by group](../../../docs/01-日常疾病和伤害/01-常见疾病.md#不同人群的发烧就医标准).
+See [Common mistakes in caring for a fever](../01-first-aid-and-family-health/01-common-illnesses.md#common-mistakes-in-fever-care) and [When to see a doctor for fever, by group](../01-first-aid-and-family-health/01-common-illnesses.md#when-to-see-a-doctor-for-fever-by-group).
 
 **Formula:** *Mahuang Tang* (Ephedra Decoction; classical)
 ```
@@ -201,7 +201,7 @@ In diarrhoea the most important thing is replacing fluids, not stopping the diar
   or a dozen or more bouts of diarrhoea a day → see a doctor immediately
 ```
 
-For how to replace fluids and when to see a doctor see [Diarrhoea](../../../docs/01-日常疾病和伤害/01-常见疾病.md#腹泻) and [Recognising dehydration](../../../docs/01-日常疾病和伤害/01-常见疾病.md#脱水症状识别).
+For how to replace fluids and when to see a doctor see [Diarrhoea](../01-first-aid-and-family-health/01-common-illnesses.md#diarrhoea) and [Recognising dehydration](../01-first-aid-and-family-health/01-common-illnesses.md#recognising-dehydration).
 
 ### 1.3 Injuries
 
@@ -247,7 +247,7 @@ Use:
    see the table of poisonous plants in the medicinal plants chapter
 ```
 
-See [Wound care – stopping bleeding](../../../docs/01-日常疾病和伤害/02-外伤处理.md#1-止血), [Cleaning the wound](../../../docs/01-日常疾病和伤害/02-外伤处理.md#2-清洁伤口) and [Poisonous plants (to avoid misuse)](../../../docs/04-动植物培育/04-药用植物.md#有毒植物避免误用); for telling *Sanqi* from *Jusanqi* see [Jusanqi ("tusanqi") vs Sanqi](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#45-菊三七土三七-vs-三七).
+See [Wound care – stopping bleeding](../01-first-aid-and-family-health/02-wounds-and-injuries.md#1-stop-the-bleeding), [Cleaning the wound](../01-first-aid-and-family-health/02-wounds-and-injuries.md#2-clean-the-wound) and [Poisonous plants (to avoid misuse)](../04-farming-and-animal-husbandry/04-medicinal-plants.md#poisonous-plants-do-not-misuse); for telling *Sanqi* from *Jusanqi* see [Jusanqi ("tusanqi") vs Sanqi](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#45-菊三七土三七-vs-三七).
 
 **Emergency use in the wild:**
 - *Aiye* (Artemisia argyi, Chinese mugwort leaf): crush and put on the wound to stop bleeding
@@ -271,7 +271,7 @@ Notes on emergency use in the wild:
   still bleeding after pinching for more than 20 minutes → see a doctor
 ```
 
-See [Nosebleeds](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#鼻出血), [Preventing tetanus](../../../docs/01-日常疾病和伤害/02-外伤处理.md#破伤风预防) and [Signs of infection](../../../docs/01-日常疾病和伤害/02-外伤处理.md#-感染迹象立即就医).
+See [Nosebleeds](../01-first-aid-and-family-health/00-basic-first-aid.md#nosebleeds), [Preventing tetanus](../01-first-aid-and-family-health/02-wounds-and-injuries.md#tetanus-prevention) and [Signs of infection](../01-first-aid-and-family-health/02-wounds-and-injuries.md#-signs-of-infection-see-a-doctor-immediately).
 
 #### Reducing inflammation
 
@@ -311,7 +311,7 @@ Notes:
     young children
 ```
 
-For judging wound infection see [Wound care – signs of infection](../../../docs/01-日常疾病和伤害/02-外伤处理.md#-感染迹象立即就医) and [Danger signs of whole-body infection](../../../docs/01-日常疾病和伤害/02-外伤处理.md#全身感染的危险信号立即拨打120).
+For judging wound infection see [Wound care – signs of infection](../01-first-aid-and-family-health/02-wounds-and-injuries.md#-signs-of-infection-see-a-doctor-immediately) and [Danger signs of whole-body infection](../01-first-aid-and-family-health/02-wounds-and-injuries.md#danger-signs-of-whole-body-infection-call-120-immediately).
 
 ---
 
@@ -649,13 +649,13 @@ Storage: sealed, in a cool place, 1-2 years
   which causes blindness and death
 ```
 
-For alcohol and methanol poisoning see [Poisoning – alcohol poisoning](../../../docs/01-日常疾病和伤害/12-中毒.md#酒精中毒) and [Counterfeit liquor (methanol) poisoning](../../../docs/01-日常疾病和伤害/12-中毒.md#-假酒甲醇中毒).
+For alcohol and methanol poisoning see [Poisoning – alcohol poisoning](../01-first-aid-and-family-health/12-poisoning.md#alcohol-poisoning) and [Counterfeit liquor (methanol) poisoning](../01-first-aid-and-family-health/12-poisoning.md#-counterfeit-liquor-methanol-poisoning).
 
 ---
 
 ## 4. Identifying and collecting common Chinese herbs
 
-Only brief features are listed here. For detailed identification comparisons, growing, harvesting and processing, and **the poisonous plants easily mistaken for them**, see [Medicinal plants: identification and growing guide](../../../docs/04-动植物培育/04-药用植物.md) and its section [Poisonous plants (to avoid misuse)](../../../docs/04-动植物培育/04-药用植物.md#有毒植物避免误用). **Do not pick or use any plant you cannot identify with 100% certainty.**
+Only brief features are listed here. For detailed identification comparisons, growing, harvesting and processing, and **the poisonous plants easily mistaken for them**, see [Medicinal plants: identification and growing guide](../04-farming-and-animal-husbandry/04-medicinal-plants.md) and its section [Poisonous plants (to avoid misuse)](../04-farming-and-animal-husbandry/04-medicinal-plants.md#poisonous-plants-do-not-misuse). **Do not pick or use any plant you cannot identify with 100% certainty.**
 
 For systematic herb identification, look-alikes and fakes, processing at the place of origin and Pharmacopoeia doses, see Part X, [Identifying and collecting Chinese medicinal herbs](../../../docs/10-中药材识别与采集/README.md). The herbs in this section correspond to: [Pugongying](../../../docs/10-中药材识别与采集/04-全草类.md#21-蒲公英), [Aiye](../../../docs/10-中药材识别与采集/05-花叶类.md#53-艾叶), [Cheqiancao](../../../docs/10-中药材识别与采集/04-全草类.md#32-车前草), [Jinyinhua](../../../docs/10-中药材识别与采集/05-花叶类.md#11-金银花), [Sangye](../../../docs/10-中药材识别与采集/05-花叶类.md#41-桑叶), [Juhua](../../../docs/10-中药材识别与采集/05-花叶类.md#12-菊花), [Shanzha](../../../docs/10-中药材识别与采集/03-果实种子类.md#35-山楂), [Shengjiang](../../../docs/10-中药材识别与采集/02-根及根茎类下.md#61-干姜与生姜), [Danggui](../../../docs/10-中药材识别与采集/01-根及根茎类上.md#21-当归).
 
@@ -1001,7 +1001,7 @@ More on medicines in pregnancy:
 
 ### 6.3 Medicines for children
 
-**Dose:** see [Basic pharmaceutical knowledge – adult vs child doses](../../../docs/06-制药技术/00-基础制药知识.md#23-成人vs儿童剂量); the formulas there are only rough estimates, and children's doses of Chinese medicine are best set by a doctor
+**Dose:** see [Basic pharmaceutical knowledge – adult vs child doses](00-pharmacy-basics.md#23-adult-vs-child-doses); the formulas there are only rough estimates, and children's doses of Chinese medicine are best set by a doctor
 
 **Do not use:**
 - Medicines containing heavy metals (*Zhusha* (cinnabar, mercury sulphide), *Xionghuang* (realgar, arsenic sulphide))
@@ -1026,7 +1026,7 @@ More:
   little urine, fits → see a doctor immediately; do not wait for the Chinese medicine to work
 ```
 
-For when to take children with fever, diarrhoea or cough to a doctor see [When to see a doctor for fever, by group](../../../docs/01-日常疾病和伤害/01-常见疾病.md#不同人群的发烧就医标准), [Diarrhoea in babies, young children, older people and pregnant women](../../../docs/01-日常疾病和伤害/01-常见疾病.md#婴幼儿老人和孕妇腹泻) and [Judging cough and fast breathing in children](../../../docs/01-日常疾病和伤害/01-常见疾病.md#儿童咳嗽和呼吸急促的判断).
+For when to take children with fever, diarrhoea or cough to a doctor see [When to see a doctor for fever, by group](../01-first-aid-and-family-health/01-common-illnesses.md#when-to-see-a-doctor-for-fever-by-group), [Diarrhoea in babies, young children, older people and pregnant women](../01-first-aid-and-family-health/01-common-illnesses.md#diarrhoea-in-infants-older-people-and-pregnant-women) and [Judging cough and fast breathing in children](../01-first-aid-and-family-health/01-common-illnesses.md#cough-and-fast-breathing-in-children).
 
 ### 6.4 Other people who should ask a doctor first
 
@@ -1042,7 +1042,7 @@ Besides pregnant women and children, the following people must ask a doctor befo
 | People about to have surgery or a tooth out | Blood-invigorating herbs increase bleeding | *Sanqi*, *Danggui*, *Honghua*, *Taoren*, *Chuanxiong*; stop them beforehand and tell the doctor |
 | People on long-term Western medicines | Possible interactions | See 6.5 |
 
-For more detail see [Medicinal plants – safe use of medicines](../../../docs/04-动植物培育/04-药用植物.md#用药安全).
+For more detail see [Medicinal plants – safe use of medicines](../04-farming-and-animal-husbandry/04-medicinal-plants.md#using-herbs-safely).
 
 ### 6.5 Taking them with Western medicines
 
@@ -1066,7 +1066,7 @@ Key points:
   supplements you are taking, and write them on your medication card
 ```
 
-For which herbs clash with which Western medicines see [Medicinal plants – warnings on use with Western medicines](../../../docs/04-动植物培育/04-药用植物.md#与西药同用的提醒); for the medication card and medicines that must not be stopped suddenly see [Chronic disease medication stockpile](../../../docs/01-日常疾病和伤害/08-慢性病用药储备.md#突然停药最危险的几类药).
+For which herbs clash with which Western medicines see [Medicinal plants – warnings on use with Western medicines](../04-farming-and-animal-husbandry/04-medicinal-plants.md#taking-herbs-with-western-medicines); for the medication card and medicines that must not be stopped suddenly see [Chronic disease medication stockpile](../01-first-aid-and-family-health/08-chronic-medication-stockpile.md#the-most-dangerous-medicines-to-stop-suddenly).
 
 ### 6.6 Toxic Chinese medicines
 
@@ -1102,7 +1102,7 @@ If these happen:
    watch at home
 ```
 
-For recognising common poisonous plants see [Medicinal plants – poisonous plants (to avoid misuse)](../../../docs/04-动植物培育/04-药用植物.md#有毒植物避免误用); for treatment see [What to do if a poisonous plant is eaten by mistake](../../../docs/04-动植物培育/04-药用植物.md#误食有毒植物怎么办) and [General principles for treating poisoning](../../../docs/01-日常疾病和伤害/12-中毒.md#中毒的通用处理原则).
+For recognising common poisonous plants see [Medicinal plants – poisonous plants (to avoid misuse)](../04-farming-and-animal-husbandry/04-medicinal-plants.md#poisonous-plants-do-not-misuse); for treatment see [What to do if a poisonous plant is eaten by mistake](../04-farming-and-animal-husbandry/04-medicinal-plants.md#what-to-do-if-someone-eats-a-poisonous-plant) and [General principles for treating poisoning](../01-first-aid-and-family-health/12-poisoning.md#general-principles-for-handling-poisoning).
 
 ### 6.7 When you must see a doctor
 
@@ -1122,7 +1122,7 @@ Chinese medicine is suitable for mild illness and for building up health. In the
 | Numb mouth and tongue, palpitations or fits after taking a medicine | Poisoning | Call 120 immediately (see 6.6) |
 | No improvement after 2-3 days of medicine, or getting worse | Wrong formula for the condition, or a more serious illness | Stop the medicine and see a doctor |
 
-For judging the various emergencies see [Acute symptoms](../../../docs/01-日常疾病和伤害/05-急性症状.md) and [Heart, stroke and sudden illness](../../../docs/01-日常疾病和伤害/06-心脑血管与突发病症.md).
+For judging the various emergencies see [Acute symptoms](../01-first-aid-and-family-health/05-acute-symptoms.md) and [Heart, stroke and sudden illness](../01-first-aid-and-family-health/06-heart-stroke-and-sudden-illness.md).
 
 ---
 
@@ -1271,13 +1271,13 @@ For drying and storing food and for aflatoxin see [Food processing and preservat
 
 ## Related chapters
 
-- ⏮️ [Basic pharmaceutical knowledge](../../../docs/06-制药技术/00-基础制药知识.md) - principles of extraction and processing
-- ⏮️ [Making disinfectants](../../../docs/06-制药技术/01-消毒剂制备.md) - use together
-- 🔗 [Farming and animal husbandry – medicinal plants](../../../docs/04-动植物培育/04-药用植物.md) - growing medicinal herbs
+- ⏮️ [Basic pharmaceutical knowledge](00-pharmacy-basics.md) - principles of extraction and processing
+- ⏮️ [Making disinfectants](01-disinfectants.md) - use together
+- 🔗 [Farming and animal husbandry – medicinal plants](../04-farming-and-animal-husbandry/04-medicinal-plants.md) - growing medicinal herbs
 - 🔗 [Identifying and collecting Chinese medicinal herbs](../../../docs/10-中药材识别与采集/README.md) - how to recognise herbs, when to collect them, poisonous look-alikes
-- 🔗 [First Aid and Family Health](../../../docs/01-日常疾病和伤害/README.md) - situations where medicines are used
-- 🔗 [Poisoning](../../../docs/01-日常疾病和伤害/12-中毒.md) - treating drug and plant poisoning
-- 🔗 [Chronic disease medication stockpile](../../../docs/01-日常疾病和伤害/08-慢性病用药储备.md) - long-term medicines cannot be replaced by Chinese herbs
+- 🔗 [First Aid and Family Health](../01-first-aid-and-family-health/README.md) - situations where medicines are used
+- 🔗 [Poisoning](../01-first-aid-and-family-health/12-poisoning.md) - treating drug and plant poisoning
+- 🔗 [Chronic disease medication stockpile](../01-first-aid-and-family-health/08-chronic-medication-stockpile.md) - long-term medicines cannot be replaced by Chinese herbs
 
 ---
 

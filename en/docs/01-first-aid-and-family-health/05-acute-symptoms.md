@@ -884,7 +884,7 @@ High voltage and fallen power lines:
   as you land, then hop away with feet together
 ```
 
-For residual-current devices and electrical safety at home, see [Household electrical safety](../../../docs/07-日常生活技能/08-家庭用电安全.md).
+For residual-current devices and electrical safety at home, see [Household electrical safety](../07-everyday-living-skills/08-household-electrical-safety.md).
 
 #### 2. Check the casualty
 

@@ -54,7 +54,7 @@ Hand tools do not need electricity and last for decades; they are a good choice
 for long-term stockpiling.
 ```
 
-If tools break and cannot be bought, see [Simple tool forging](../../../docs/05-冶金技术/03-简易工具锻造.md) for how to make them.
+If tools break and cannot be bought, see [Simple tool forging](../05-metallurgy/03-forging-simple-tools.md) for how to make them.
 
 ---
 
@@ -81,7 +81,7 @@ If tools break and cannot be bought, see [Simple tool forging](../../../docs/05-
    (it gives off toxic fumes)
 ```
 
-For treating cuts, see [Wound and injury care – Cuts and grazes](../../../docs/01-日常疾病和伤害/02-外伤处理.md#割伤与擦伤).
+For treating cuts, see [Wound and injury care – Cuts and grazes](../01-first-aid-and-family-health/02-wounds-and-injuries.md#cuts-and-grazes).
 
 ---
 
@@ -118,7 +118,7 @@ Air drying (seasoning):
 
 *Figure: remove the bark, saw into boards, coat both ends with paint, wax or mud; small sticks between each layer, airy, out of the rain and out of direct sun; as a rule about one year for every 2.5 cm of thickness*
 
-For using timber in house construction, see [Long-term shelter – Simple timber framing](../../../docs/07-日常生活技能/05-长期住所.md#简易木结构).
+For using timber in house construction, see [Long-term shelter – Simple timber framing](05-long-term-shelter.md#simple-timber-framing).
 
 ---
 
@@ -197,7 +197,7 @@ For joining table and chair legs to rails:
 
 *Figure: top, exploded view, assembled joint and end view of the tenon; bottom, the five steps*
 
-For the knots used in lashing, see [Basic survival skills – Cordage](../../../docs/03-野外生存/00-基础生存技能.md#绳索).
+For the knots used in lashing, see [Basic survival skills – Cordage](../03-wilderness-survival/00-basic-survival-skills.md#cordage).
 
 ---
 
@@ -295,7 +295,7 @@ Common angles (guide):
 
 *Figure: top, common angles; middle, the five steps of sharpening; bottom, using and flattening the stone*
 
-For sharpening and looking after forged tools, see [Simple tool forging – Tool maintenance](../../../docs/05-冶金技术/03-简易工具锻造.md#十工具保养).
+For sharpening and looking after forged tools, see [Simple tool forging – Tool maintenance](../05-metallurgy/03-forging-simple-tools.md#10-tool-care).
 
 ---
 
@@ -341,5 +341,5 @@ Farm tools:
 
 ---
 
-**Next chapter**: [Water supply](../../../docs/07-日常生活技能/10-水源工程与供水.md)
-**Back**: [Chapter index](../../../docs/07-日常生活技能/README.md) | [Main contents](../../README.md)
+**Next chapter**: [Water supply](10-water-supply.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

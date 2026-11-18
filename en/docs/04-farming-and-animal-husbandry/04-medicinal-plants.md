@@ -20,7 +20,7 @@ What this chapter cannot do:
    no herb can replace medical care: call 120 first or go to hospital
 ```
 
-For prescriptions, decoction methods, processing and incompatibilities see [Chinese Herbal Preparations](../../../docs/06-制药技术/04-中药制剂.md); they are not repeated here. For eating wild plants or poisonous mushrooms by mistake see [Poisonous Mushrooms and Wild Plant Poisoning](../03-wilderness-survival/09-poisonous-mushrooms-and-wild-plants.md).
+For prescriptions, decoction methods, processing and incompatibilities see [Chinese Herbal Preparations](../06-pharmaceuticals/04-herbal-preparations.md); they are not repeated here. For eating wild plants or poisonous mushrooms by mistake see [Poisonous Mushrooms and Wild Plant Poisoning](../03-wilderness-survival/09-poisonous-mushrooms-and-wild-plants.md).
 
 **How to read the doses in this chapter**: the "usual dose" given for each plant is the usual adult daily range of the dried herb in the Chinese Pharmacopoeia (checked against the 2020 edition; the current edition is 2025, and its text takes precedence). It is there only to remind you "do not exceed this", not to invite you to treat yourself. **Whether to use a herb, and how much, follows the Pharmacopoeia and the guidance of a practitioner of Chinese medicine**; children, older people and frail people need smaller doses, which a doctor must decide.
 
@@ -380,7 +380,7 @@ Storage:
   dried at low heat; its properties differ from fresh ginger
 ```
 
-For how to build a cellar see [Food Processing and Preservation – Cellar storage](../../../docs/07-日常生活技能/01-食物加工与保存.md#窖藏).
+For how to build a cellar see [Food Processing and Preservation – Cellar storage](../07-everyday-living-skills/01-food-processing-and-preservation.md#cellar-storage).
 
 **Use**:
 - Boiled in water: colds of the wind-cold type, nausea and vomiting
@@ -439,7 +439,7 @@ Correct use: mainly as food
   or medical care
 ```
 
-For more detail see [Making Antibiotics – Garlic](../../../docs/06-制药技术/02-抗生素制备.md#32-大蒜以食用为主).
+For more detail see [Making Antibiotics – Garlic](../06-pharmaceuticals/02-antibiotics.md#32-garlic-mainly-as-food).
 
 **Contraindications and warnings**:
 ```
@@ -829,7 +829,7 @@ For how to judge soil texture see [Geology, Minerals and Soil – Simple soil te
   do not decoct or chew it alone, for long periods, or in large amounts
 ```
 
-For the frying method see [Chinese Herbal Preparations – Frying with liquids](../../../docs/06-制药技术/04-中药制剂.md#炙制); for the incompatibility of liquorice with *Gansui* (Euphorbia kansui), *Daji* (Euphorbia pekinensis), *Yuanhua* (Daphne genkwa) and *Haizao* (Sargassum, seaweed) see [Chinese Herbal Preparations – The eighteen incompatibilities and nineteen antagonisms](../../../docs/06-制药技术/04-中药制剂.md#61-十八反十九畏配伍禁忌).
+For the frying method see [Chinese Herbal Preparations – Frying with liquids](../06-pharmaceuticals/04-herbal-preparations.md#frying-with-liquid-adjuvants); for the incompatibility of liquorice with *Gansui* (Euphorbia kansui), *Daji* (Euphorbia pekinensis), *Yuanhua* (Daphne genkwa) and *Haizao* (Sargassum, seaweed) see [Chinese Herbal Preparations – The eighteen incompatibilities and nineteen antagonisms](../06-pharmaceuticals/04-herbal-preparations.md#61-the-eighteen-incompatibilities-and-nineteen-antagonisms-combinations-to-avoid).
 
 **Contraindications and warnings**:
 ```
@@ -907,7 +907,7 @@ Layout suggestions:
   never use manure that has not fully rotted
 ```
 
-For safe use of manure see [Sanitation – Using faeces and urine](../../../docs/07-日常生活技能/03-卫生设施.md#粪便与尿液的利用); for soil acidity see [Geology, Minerals and Soil – Acidity and alkalinity](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#53-酸碱性).
+For safe use of manure see [Sanitation – Using faeces and urine](../07-everyday-living-skills/03-sanitation.md#using-faeces-and-urine); for soil acidity see [Geology, Minerals and Soil – Acidity and alkalinity](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#53-酸碱性).
 
 ![Home herb garden layout: climbers and shrubs on the north side, chrysanthemum and dandelion in the middle, mint, fish mint and mugwort enclosed by barriers](../../images/herb-garden-layout.svg)
 
@@ -967,7 +967,7 @@ More:
   within days
 ```
 
-For low-temperature drying in wet weather see [Food Processing and Preservation – Sun-drying and air-drying](../../../docs/07-日常生活技能/01-食物加工与保存.md#晒干与风干); for frying, honey-frying, steaming and other processing methods see [Chinese Herbal Preparations – Processing methods for Chinese herbs](../../../docs/06-制药技术/04-中药制剂.md#二中药炮制方法).
+For low-temperature drying in wet weather see [Food Processing and Preservation – Sun-drying and air-drying](../07-everyday-living-skills/01-food-processing-and-preservation.md#sun-drying-and-air-drying); for frying, honey-frying, steaming and other processing methods see [Chinese Herbal Preparations – Processing methods for Chinese herbs](../06-pharmaceuticals/04-herbal-preparations.md#2-processing-chinese-herbs).
 
 **Storage**:
 ```
@@ -1005,7 +1005,7 @@ How to do it:
   or lumps and discoloration inside when broken open
 ```
 
-For aflatoxin see [Food Processing and Preservation – Aflatoxin](../../../docs/07-日常生活技能/01-食物加工与保存.md#黄曲霉毒素).
+For aflatoxin see [Food Processing and Preservation – Aflatoxin](../07-everyday-living-skills/01-food-processing-and-preservation.md#aflatoxin).
 
 ---
 
@@ -1253,7 +1253,7 @@ For identifying the various toxic Chinese medicinals and easily confused poisono
   amounts of garlic and ginger in advance, and tell the doctor what you have been taking
 ```
 
-For contraindications in pregnancy see [Chinese Herbal Preparations – Contraindications in pregnancy](../../../docs/06-制药技术/04-中药制剂.md#62-孕妇禁忌); for children see [Chinese Herbal Preparations – Medicines for children](../../../docs/06-制药技术/04-中药制剂.md#63-儿童用药).
+For contraindications in pregnancy see [Chinese Herbal Preparations – Contraindications in pregnancy](../06-pharmaceuticals/04-herbal-preparations.md#62-contraindications-in-pregnancy); for children see [Chinese Herbal Preparations – Medicines for children](../06-pharmaceuticals/04-herbal-preparations.md#63-medicines-for-children).
 
 **How to try a herbal tea safely**:
 ```

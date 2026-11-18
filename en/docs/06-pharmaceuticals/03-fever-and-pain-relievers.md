@@ -163,7 +163,7 @@ Stop the drug and see a doctor if:
 - Ringing in the ears, reduced hearing → early signs of salicylate overdose
 ```
 
-For how to chew aspirin when a heart attack is suspected, and when it must not be used, see [Heart Attack, Stroke and Sudden Illness – Aspirin: when it can be used](../../../docs/01-日常疾病和伤害/06-心脑血管与突发病症.md#阿司匹林-何时可以用).
+For how to chew aspirin when a heart attack is suspected, and when it must not be used, see [Heart Attack, Stroke and Sudden Illness – Aspirin: when it can be used](../01-first-aid-and-family-health/06-heart-stroke-and-sudden-illness.md#aspirin-when-it-can-be-used).
 
 ---
 
@@ -236,7 +236,7 @@ Key points:
    inflammation, and does not treat the cause
 ```
 
-For a children's weight-based dose table and how to convert mg to mL, see [Common Illnesses – Quick dose guide for fever medicines](../../../docs/01-日常疾病和伤害/01-常见疾病.md#退烧药剂量速查).
+For a children's weight-based dose table and how to convert mg to mL, see [Common Illnesses – Quick dose guide for fever medicines](../01-first-aid-and-family-health/01-common-illnesses.md#fever-medicine-dose-chart).
 
 ### 2.4 The danger of overdose: liver damage
 
@@ -270,7 +270,7 @@ When going to hospital:
 ❌ Do not use folk remedies to "detoxify"
 ```
 
-For dealing with accidental ingestion and overdose, see [Poisoning – Drug overdose and accidental ingestion](../../../docs/01-日常疾病和伤害/12-中毒.md#药物过量与误服). If the overdose may have been deliberate, also pay attention to the person's mental state; see [Mental Health – Suicide risk](../../../docs/01-日常疾病和伤害/10-心理健康.md#自杀风险-识别与应对).
+For dealing with accidental ingestion and overdose, see [Poisoning – Drug overdose and accidental ingestion](../01-first-aid-and-family-health/12-poisoning.md#drug-overdose-and-accidental-swallowing). If the overdose may have been deliberate, also pay attention to the person's mental state; see [Mental Health – Suicide risk](../01-first-aid-and-family-health/10-mental-health.md#suicide-risk-recognition-and-response).
 
 ---
 
@@ -387,13 +387,13 @@ For:
 - Rash, vomiting or diarrhoea after taking them, or the illness getting worse → stop
 ```
 
-For identifying herbs and toxic plants that are easily confused with them, see [Medicinal Plants – Toxic plants (avoid mistakes)](../../../docs/04-动植物培育/04-药用植物.md#有毒植物避免误用).
+For identifying herbs and toxic plants that are easily confused with them, see [Medicinal Plants – Toxic plants (avoid mistakes)](../04-farming-and-animal-husbandry/04-medicinal-plants.md#poisonous-plants-do-not-misuse).
 
 ---
 
 ## 4. Physical cooling (supportive)
 
-> Physical cooling lowers body temperature only a little and only for a short time; it cannot replace fever medicine and cannot prevent febrile seizures. Its main purpose is to make the patient comfortable. For details, see [Common Illnesses – Fever](../../../docs/01-日常疾病和伤害/01-常见疾病.md#发烧).
+> Physical cooling lowers body temperature only a little and only for a short time; it cannot replace fever medicine and cannot prevent febrile seizures. Its main purpose is to make the patient comfortable. For details, see [Common Illnesses – Fever](../01-first-aid-and-family-health/01-common-illnesses.md#fever).
 
 ### 4.1 Tepid sponging
 
@@ -442,7 +442,7 @@ Do not:
   cannot keep fluids down or becoming more and more floppy → see a doctor
 ```
 
-For how to make oral rehydration salts, see [Common Illnesses – Diarrhoea](../../../docs/01-日常疾病和伤害/01-常见疾病.md#腹泻).
+For how to make oral rehydration salts, see [Common Illnesses – Diarrhoea](../01-first-aid-and-family-health/01-common-illnesses.md#diarrhoea).
 
 ### 4.4 Clothing and surroundings
 
@@ -461,7 +461,7 @@ For how to make oral rehydration salts, see [Common Illnesses – Diarrhoea](../
 
 ### 5.1 When should fever be brought down?
 
-**Temperature (armpit temperature; consistent with [Common Illnesses – When to bring down a fever](../../../docs/01-日常疾病和伤害/01-常见疾病.md#何时需要退烧)):**
+**Temperature (armpit temperature; consistent with [Common Illnesses – When to bring down a fever](../01-first-aid-and-family-health/01-common-illnesses.md#when-to-bring-a-fever-down)):**
 - Adults: medicine can be used at ≥38.5°C with discomfort; ≥38°C for people with underlying illness
 - Children: any fever under 3 months needs a doctor; do not give medicine yourself;
   3-6 months: armpit ≥38.2°C or clearly unwell (paracetamol only, ideally ask a doctor first); over 6 months: armpit ≥38.2°C or clearly unwell
@@ -504,7 +504,7 @@ For how to make oral rehydration salts, see [Common Illnesses – Diarrhoea](../
 - Pinpoint spots or bruises appearing on the skin
 - A listless baby or toddler
 
-For when to see a doctor at each age, see [Common Illnesses – When to see a doctor about fever, by group](../../../docs/01-日常疾病和伤害/01-常见疾病.md#不同人群的发烧就医标准).
+For when to see a doctor at each age, see [Common Illnesses – When to see a doctor about fever, by group](../01-first-aid-and-family-health/01-common-illnesses.md#when-to-see-a-doctor-for-fever-by-group).
 
 ### 5.4 Choosing common over-the-counter fever and pain medicines
 
@@ -624,7 +624,7 @@ Stop and see a doctor if:
 The real answer: treat the dental problem!
 ```
 
-For details, see [Dental Problems – Toothache](../../../docs/01-日常疾病和伤害/09-口腔问题.md#牙痛); swelling of the face or neck, or difficulty swallowing or breathing, is an emergency: see [Dental abscess and danger signs](../../../docs/01-日常疾病和伤害/09-口腔问题.md#牙脓肿与危险信号). Pain in the lower teeth or jaw with chest tightness and sweating may be a heart attack.
+For details, see [Dental Problems – Toothache](../01-first-aid-and-family-health/09-dental-problems.md#toothache); swelling of the face or neck, or difficulty swallowing or breathing, is an emergency: see [Dental abscess and danger signs](../01-first-aid-and-family-health/09-dental-problems.md#dental-abscess-and-danger-signs). Pain in the lower teeth or jaw with chest tightness and sweating may be a heart attack.
 
 ### 6.3 Abdominal pain
 
@@ -680,7 +680,7 @@ By mouth: ibuprofen usually works better than paracetamol for sprains and muscle
 pain (note the contraindications in 5.5)
 ```
 
-For full sprain care, see [Bone and Joint Injuries – RICE](../../../docs/01-日常疾病和伤害/03-骨骼损伤.md#rice处理i-ii度).
+For full sprain care, see [Bone and Joint Injuries – RICE](../01-first-aid-and-family-health/03-bone-and-joint-injuries.md#rice-grade-iii).
 
 ### 6.5 Non-drug pain relief
 
@@ -724,7 +724,7 @@ Painkillers are not the only option. The methods below relieve a lot of pain on 
      painful calf on one side (possibly a blood clot)
 ```
 
-For how to immobilise, see [Bone and Joint Injuries – Principles of emergency care](../../../docs/01-日常疾病和伤害/03-骨骼损伤.md#紧急处理原则).
+For how to immobilise, see [Bone and Joint Injuries – Principles of emergency care](../01-first-aid-and-family-health/03-bone-and-joint-injuries.md#emergency-principles).
 
 ### 6.6 Pain that must be seen by a doctor
 
@@ -753,7 +753,7 @@ Also see a doctor if:
   an arm or leg can all be signs of severe pain
 ```
 
-For on-the-spot care of chest pain, see [Heart Attack, Stroke and Sudden Illness – Heart attack and chest pain](../../../docs/01-日常疾病和伤害/06-心脑血管与突发病症.md#心梗与胸痛).
+For on-the-spot care of chest pain, see [Heart Attack, Stroke and Sudden Illness – Heart attack and chest pain](../01-first-aid-and-family-health/06-heart-stroke-and-sudden-illness.md#heart-attack-and-chest-pain).
 
 ---
 
@@ -793,7 +793,7 @@ Deciding whether a medicine can be used:
 - When in-date medicine is available, never use expired medicine
 ```
 
-For decisions about expired medicines in extreme situations, see [Making Antibiotics – About expiry dates](../../../docs/06-制药技术/02-抗生素制备.md#65-关于有效期).
+For decisions about expired medicines in extreme situations, see [Making Antibiotics – About expiry dates](02-antibiotics.md#65-about-expiry-dates).
 
 ### 7.2 Herbal stocks
 
@@ -918,12 +918,12 @@ For decisions about expired medicines in extreme situations, see [Making Antibio
 
 ## Related chapters
 
-- ⏮️ [Pharmacy Basics](../../../docs/06-制药技术/00-基础制药知识.md) - extraction and purification techniques
-- ⏮️ [Herbal Preparations](../../../docs/06-制药技术/04-中药制剂.md) - natural fever and pain remedies
-- 🔗 [First Aid and Family Health – Common Illnesses](../../../docs/01-日常疾病和伤害/01-常见疾病.md) - managing fever
-- 🔗 [First Aid and Family Health – Poisoning](../../../docs/01-日常疾病和伤害/12-中毒.md) - drug overdose and accidental ingestion
-- 🔗 [First Aid and Family Health – Dental Problems](../../../docs/01-日常疾病和伤害/09-口腔问题.md) - toothache and dental abscess
-- 🔗 [Farming and Animal Husbandry – Medicinal Plants](../../../docs/04-动植物培育/04-药用植物.md) - growing medicinal herbs
+- ⏮️ [Pharmacy Basics](00-pharmacy-basics.md) - extraction and purification techniques
+- ⏮️ [Herbal Preparations](04-herbal-preparations.md) - natural fever and pain remedies
+- 🔗 [First Aid and Family Health – Common Illnesses](../01-first-aid-and-family-health/01-common-illnesses.md) - managing fever
+- 🔗 [First Aid and Family Health – Poisoning](../01-first-aid-and-family-health/12-poisoning.md) - drug overdose and accidental ingestion
+- 🔗 [First Aid and Family Health – Dental Problems](../01-first-aid-and-family-health/09-dental-problems.md) - toothache and dental abscess
+- 🔗 [Farming and Animal Husbandry – Medicinal Plants](../04-farming-and-animal-husbandry/04-medicinal-plants.md) - growing medicinal herbs
 
 ---
 

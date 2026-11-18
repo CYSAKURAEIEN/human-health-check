@@ -114,7 +114,7 @@ Build one for long-term use.
 
 *Figure: top, cross-section of a pit latrine (vent pipe optional); bottom, siting (not to scale). For the values see the siting, building and use points above*
 
-For community water supply, well digging and water purification, see [Water supply](../../../docs/07-日常生活技能/10-水源工程与供水.md).
+For community water supply, well digging and water purification, see [Water supply](10-water-supply.md).
 
 ---
 
@@ -147,7 +147,7 @@ Next to it: soap, or a tin of wood ash
 
 **With no soap**: rubbing with wood ash, or just rubbing carefully under running water for 20 seconds, is far better than not washing. Do not use soil instead (the soil itself may be contaminated with faeces).
 
-For making your own soap, see [Soap making](../../../docs/07-日常生活技能/04-制皂.md).
+For making your own soap, see [Soap making](04-soap-making.md).
 
 ### When you must wash your hands
 
@@ -197,7 +197,7 @@ Method:
 ❌ Isolate faeces especially strictly during a diarrhoea outbreak
 ```
 
-For using animal manure, see [Farming and animal husbandry – Soil improvement](../../../docs/04-动植物培育/README.md#土壤改良).
+For using animal manure, see [Farming and animal husbandry – Soil improvement](../04-farming-and-animal-husbandry/README.md#improving-soil).
 
 ---
 
@@ -207,10 +207,10 @@ For using animal manure, see [Farming and animal husbandry – Soil improvement]
 
 | Type | What to do |
 |------|------|
-| Kitchen scraps (vegetable leaves, peel, leftovers) | Feed to chickens, ducks or pigs (⚠️ do not feed swill to pigs, see [Livestock](../../../docs/04-动植物培育/06-家畜养殖.md)); or compost |
+| Kitchen scraps (vegetable leaves, peel, leftovers) | Feed to chickens, ducks or pigs (⚠️ do not feed swill to pigs, see [Livestock](../04-farming-and-animal-husbandry/06-livestock.md)); or compost |
 | Combustibles (paper, wood, dry grass) | Kindling, fuel |
 | Plastics | Wash and reuse where possible; ❌ do not burn near where you live (the smoke is toxic) |
-| Metal, glass | Collect and reuse (metal can be remelted, see [Metallurgy](../../../docs/05-冶金技术/README.md)) |
+| Metal, glass | Collect and reuse (metal can be remelted, see [Metallurgy](../05-metallurgy/README.md)) |
 | Anything else that cannot be used | Bury deep |
 
 ### Rubbish pit
@@ -250,7 +250,7 @@ For using animal manure, see [Farming and animal husbandry – Soil improvement]
    (it may be avian influenza, African swine fever or another epidemic)
 ```
 
-Human remains are handled differently from diseased animals; see [Handling remains after a disaster](../../../docs/02-灾难应对/07-灾后遗体处理.md).
+Human remains are handled differently from diseased animals; see [Handling remains after a disaster](../02-disaster-response/07-handling-the-dead-after-disasters.md).
 
 ---
 
@@ -268,5 +268,5 @@ Human remains are handled differently from diseased animals; see [Handling remai
 
 ---
 
-**Next chapter**: [Soap making](../../../docs/07-日常生活技能/04-制皂.md)
-**Back**: [Chapter index](../../../docs/07-日常生活技能/README.md) | [Main contents](../../README.md)
+**Next chapter**: [Soap making](04-soap-making.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

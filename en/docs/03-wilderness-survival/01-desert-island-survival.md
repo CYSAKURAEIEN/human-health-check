@@ -268,7 +268,7 @@ Other clues:
   the tide cannot reach
 ```
 
-For purifying water see [Basic Survival Skills – Water purification](00-basic-survival-skills.md#water-purification); for rainwater collection when staying long-term see [Water Engineering and Supply – Collecting rainwater](../../../docs/07-日常生活技能/10-水源工程与供水.md#收集雨水).
+For purifying water see [Basic Survival Skills – Water purification](00-basic-survival-skills.md#water-purification); for rainwater collection when staying long-term see [Water Engineering and Supply – Collecting rainwater](../07-everyday-living-skills/10-water-supply.md#collecting-rainwater).
 
 **⚠️ Never**:
 ```
@@ -388,7 +388,7 @@ Where to sleep:
   in the tropics mosquitoes may carry malaria and dengue
 ```
 
-For building methods and knots see [Basic Survival Skills – Building shelters](00-basic-survival-skills.md#building-shelters) and [Rope and Knots](../../../docs/07-日常生活技能/17-绳索与结绳.md).
+For building methods and knots see [Basic Survival Skills – Building shelters](00-basic-survival-skills.md#building-shelters) and [Rope and Knots](../07-everyday-living-skills/17-rope-and-knots.md).
 
 ### Protection from storms and big waves
 
@@ -1034,7 +1034,7 @@ Salt:
   because you have salt, especially when water is short
 ```
 
-For sun-drying and smoking see [Food Processing and Preservation – Sun-drying and air-drying](../../../docs/07-日常生活技能/01-食物加工与保存.md#晒干与风干) and [Food Processing and Preservation – Smoking](../../../docs/07-日常生活技能/01-食物加工与保存.md#烟熏); for making salt from seawater see [Salt Making – Salt from seawater](../../../docs/07-日常生活技能/15-制盐.md#海水取盐-基本道理) and [Salt Making – Boiling salt](../../../docs/07-日常生活技能/15-制盐.md#煮盐-先浓缩再煮).
+For sun-drying and smoking see [Food Processing and Preservation – Sun-drying and air-drying](../07-everyday-living-skills/01-food-processing-and-preservation.md#sun-drying-and-air-drying) and [Food Processing and Preservation – Smoking](../07-everyday-living-skills/01-food-processing-and-preservation.md#smoking); for making salt from seawater see [Salt Making – Salt from seawater](../07-everyday-living-skills/15-salt-making.md#salt-from-seawater-the-basic-idea) and [Salt Making – Boiling salt](../07-everyday-living-skills/15-salt-making.md#boiling-salt-concentrate-first-then-boil).
 
 ### Staying healthy
 
@@ -1064,7 +1064,7 @@ In practice:
   clean water to rehydrate
 ```
 
-For diarrhoea and rehydration see [Common Illnesses – Diarrhoea](../01-first-aid-and-family-health/01-common-illnesses.md#diarrhoea); for where and how to make a latrine see [Sanitation](../../../docs/07-日常生活技能/03-卫生设施.md).
+For diarrhoea and rehydration see [Common Illnesses – Diarrhoea](../01-first-aid-and-family-health/01-common-illnesses.md#diarrhoea); for where and how to make a latrine see [Sanitation](../07-everyday-living-skills/03-sanitation.md).
 
 ```
 Mind:

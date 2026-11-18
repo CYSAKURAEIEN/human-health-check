@@ -165,14 +165,14 @@ One saucer of oil burns for several hours, about as bright as a small candle
 ✓ Keep only one day's supply indoors
 ```
 
-For chimney and stove safety, see [Long-term shelter – Chimneys](../../../docs/07-日常生活技能/05-长期住所.md#烟囱-防火与防一氧化碳).
+For chimney and stove safety, see [Long-term shelter – Chimneys](05-long-term-shelter.md#chimneys-preventing-fire-and-carbon-monoxide).
 
-For how much firewood you burn in a year, how to dry it and how to rotate cutting in woodland, see [Firewood and woodland management](../../../docs/04-动植物培育/09-薪柴与林地管理.md).
+For how much firewood you burn in a year, how to dry it and how to rotate cutting in woodland, see [Firewood and woodland management](../04-farming-and-animal-husbandry/09-firewood-and-woodland-management.md).
 
 ### Charcoal
 
 - Burning charcoal gives off large amounts of carbon monoxide; **never use it indoors with the doors and windows shut**
-- For how to make it, see [Metallurgy – Making charcoal](../../../docs/05-冶金技术/00-基础冶金知识.md#32-木炭制作闷烧法)
+- For how to make it, see [Metallurgy – Making charcoal](../05-metallurgy/00-metallurgy-basics.md#32-making-charcoal-smouldering-method)
 - Store it somewhere dry and away from fire; make sure freshly made charcoal is completely out and cold before putting it away (it may reignite)
 
 ### Petrol
@@ -210,7 +210,7 @@ For how much firewood you burn in a year, how to dry it and how to rotate cuttin
 ❌ Do not decant it yourself or pour out the residue
 ```
 
-For what to do when you smell gas, see [Gas leaks](../../../docs/02-灾难应对/04-火灾.md#燃气泄漏).
+For what to do when you smell gas, see [Gas leaks](../02-disaster-response/04-fire.md#gas-leaks).
 
 ### Kerosene, diesel, alcohol
 
@@ -238,7 +238,7 @@ For what to do when you smell gas, see [Gas leaks](../../../docs/02-灾难应对
      a proper changeover switch
 ```
 
-For recognising and treating carbon monoxide poisoning, see [Carbon monoxide poisoning](../../../docs/01-日常疾病和伤害/07-居家与交通意外.md#一氧化碳中毒).
+For recognising and treating carbon monoxide poisoning, see [Carbon monoxide poisoning](../01-first-aid-and-family-health/07-home-and-traffic-accidents.md#carbon-monoxide-poisoning).
 
 ---
 
@@ -349,7 +349,7 @@ If someone has collapsed inside the tank:
 ### Using the sludge and liquid
 
 - Fermented sludge and liquid are high-quality fertiliser, with clearly fewer pathogens and parasite eggs
-- But if the sludge comes from human excreta, still take care before using it on vegetables eaten raw; see [Sanitation – Using faeces and urine](../../../docs/07-日常生活技能/03-卫生设施.md#粪便与尿液的利用)
+- But if the sludge comes from human excreta, still take care before using it on vegetables eaten raw; see [Sanitation – Using faeces and urine](03-sanitation.md#using-faeces-and-urine)
 
 **Building a biogas digester needs professional design and construction** (sealing, pressure, leak-proofing). Hire a qualified team to build it to the standards of the local rural energy authority; do not improvise by digging a pit yourself.
 
@@ -377,7 +377,7 @@ Lighting:
 ✓ Use one lamp for everyone and gather round it
 ```
 
-For balancing insulation and ventilation, see [Long-term shelter – Insulation](../../../docs/07-日常生活技能/05-长期住所.md#保温); for fuel-saving stoves, see [Long-term shelter – Kang and stoves](../../../docs/07-日常生活技能/05-长期住所.md#火炕与炉灶).
+For balancing insulation and ventilation, see [Long-term shelter – Insulation](05-long-term-shelter.md#insulation); for fuel-saving stoves, see [Long-term shelter – Kang and stoves](05-long-term-shelter.md#kang-and-stoves).
 
 ---
 
@@ -400,5 +400,5 @@ For balancing insulation and ventilation, see [Long-term shelter – Insulation]
 
 ---
 
-**Next chapter**: [Textiles, sewing and tanning](../../../docs/07-日常生活技能/07-纺织缝补与鞣皮.md)
-**Back**: [Chapter index](../../../docs/07-日常生活技能/README.md) | [Main contents](../../README.md)
+**Next chapter**: [Textiles, sewing and tanning](07-textiles-sewing-and-tanning.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

@@ -114,7 +114,7 @@ Basic Survival Skills → Survival After Civilisation Collapse → Growing Plant
 
 - [Basic First Aid](../01-first-aid-and-family-health/00-basic-first-aid.md) - the foundation of first aid in the wild
 - [Disaster Response](../02-disaster-response/README.md) - responding to earthquakes, floods and other disasters
-- [Everyday Living Skills](../../../docs/07-日常生活技能/README.md) - food, hygiene, housing and energy for long-term survival
+- [Everyday Living Skills](../07-everyday-living-skills/README.md) - food, hygiene, housing and energy for long-term survival
 
 ---
 

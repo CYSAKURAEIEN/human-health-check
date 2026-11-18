@@ -221,7 +221,7 @@ Salt and minerals:
    prevention and treatment)
 ```
 
-Related chapters: for sources of bran and soybean cake see [Grain and Oil Processing](../../../docs/07-日常生活技能/14-粮油加工.md); for salt for livestock see [Salt Making](../../../docs/07-日常生活技能/15-制盐.md); for mouldy grain see [Food Processing and Preservation – Aflatoxin](../../../docs/07-日常生活技能/01-食物加工与保存.md#黄曲霉毒素).
+Related chapters: for sources of bran and soybean cake see [Grain and Oil Processing](../07-everyday-living-skills/14-grain-and-oil-processing.md); for salt for livestock see [Salt Making](../07-everyday-living-skills/15-salt-making.md); for mouldy grain see [Food Processing and Preservation – Aflatoxin](../07-everyday-living-skills/01-food-processing-and-preservation.md#aflatoxin).
 
 ### Feeding and management
 
@@ -482,7 +482,7 @@ Disinfecting an empty pen:
   then rinse with plenty of water
 ```
 
-For safe use of lime see [Lime and Building Materials](../../../docs/07-日常生活技能/16-石灰与建筑材料.md).
+For safe use of lime see [Lime and Building Materials](../07-everyday-living-skills/16-lime-and-building-materials.md).
 
 **Common diseases**:
 ```
@@ -546,7 +546,7 @@ Do:
 African swine fever does not infect people, but it can kill almost every pig in an area.
 ```
 
-For disposal of dead pigs see [Sanitation – Disposing of dead animals](../../../docs/07-日常生活技能/03-卫生设施.md#病死动物处理).
+For disposal of dead pigs see [Sanitation – Disposing of dead animals](../07-everyday-living-skills/03-sanitation.md#disposing-of-diseased-animal-carcasses).
 
 ```
 Others:
@@ -937,7 +937,7 @@ Afterwards:
 Goat cashmere: combed out with a fine-toothed comb in spring, not sheared
 ```
 
-For washing and spinning wool see [Textiles, Mending and Tanning – Spinning](../../../docs/07-日常生活技能/07-纺织缝补与鞣皮.md#纺线).
+For washing and spinning wool see [Textiles, Mending and Tanning – Spinning](../07-everyday-living-skills/07-textiles-sewing-and-tanning.md#spinning).
 
 **Hoof trimming**:
 ```
@@ -1065,7 +1065,7 @@ Advantages:
 Very well suited to small-scale household keeping!
 ```
 
-**After a disaster**: rabbits do not compete with people for grain; grass cut around the house is enough to raise them. A litter of several kits is ready to eat in two or three months, making rabbits the quickest way for a household to have a steady supply of meat. But rabbit meat is very lean. Eating only rabbit, without fat and other foods, leads to malnutrition ("rabbit starvation"); eat it with grain and fat (see [Nutrition and Deficiency Diseases](../../../docs/07-日常生活技能/02-营养与营养缺乏病.md)).
+**After a disaster**: rabbits do not compete with people for grain; grass cut around the house is enough to raise them. A litter of several kits is ready to eat in two or three months, making rabbits the quickest way for a household to have a steady supply of meat. But rabbit meat is very lean. Eating only rabbit, without fat and other foods, leads to malnutrition ("rabbit starvation"); eat it with grain and fat (see [Nutrition and Deficiency Diseases](../07-everyday-living-skills/02-nutrition-and-deficiency-diseases.md)).
 
 ### Breeds
 
@@ -1429,7 +1429,7 @@ Notes:
 
 ## Cattle, donkeys and other draught animals
 
-Ploughing, pulling carts and turning millstones need large animals. For their strength, harness, and care while working see [Vehicles, Boats and Roads – Animal power and harness](../../../docs/07-日常生活技能/18-车船与道路.md#畜力与挽具) and [Vehicles, Boats and Roads – Caring for draught animals](../../../docs/07-日常生活技能/18-车船与道路.md#牲畜的照料); this section covers day-to-day keeping.
+Ploughing, pulling carts and turning millstones need large animals. For their strength, harness, and care while working see [Vehicles, Boats and Roads – Animal power and harness](../07-everyday-living-skills/18-vehicles-boats-and-roads.md#draught-animals-and-harness) and [Vehicles, Boats and Roads – Caring for draught animals](../07-everyday-living-skills/18-vehicles-boats-and-roads.md#caring-for-working-animals); this section covers day-to-day keeping.
 
 ```
 Think first about whether to keep one:
@@ -1608,7 +1608,7 @@ Dead animals: bury at least 1.5 m deep, cover with quicklime, away from water; d
               sell or throw into rivers
 ```
 
-For how to dispose of dead animals see [Sanitation – Disposing of dead animals](../../../docs/07-日常生活技能/03-卫生设施.md#病死动物处理).
+For how to dispose of dead animals see [Sanitation – Disposing of dead animals](../07-everyday-living-skills/03-sanitation.md#disposing-of-diseased-animal-carcasses).
 
 ---
 
@@ -1662,7 +1662,7 @@ Do:
 ✓ In areas where anthrax is common, vaccinate livestock as local rules require
 ```
 
-Before handling hides, always read the safety notes at the start of [Textiles, Mending and Tanning](../../../docs/07-日常生活技能/07-纺织缝补与鞣皮.md#鞣皮): only process hides from healthy animals slaughtered for food; never skin animals that died of disease or of unknown causes.
+Before handling hides, always read the safety notes at the start of [Textiles, Mending and Tanning](../07-everyday-living-skills/07-textiles-sewing-and-tanning.md#tanning): only process hides from healthy animals slaughtered for food; never skin animals that died of disease or of unknown causes.
 
 ---
 
@@ -1744,7 +1744,7 @@ Trichinella cannot be seen with the naked eye → always cook pork and wild boar
   cooked food
 ```
 
-For preserving methods see [Food Processing and Preservation – Cured pork and salt pork](../../../docs/07-日常生活技能/01-食物加工与保存.md#腊肉咸肉) and [Food Processing and Preservation – Dried meat](../../../docs/07-日常生活技能/01-食物加工与保存.md#肉干). For rendering lard see [Grain and Oil Processing – Rendering animal fat](../../../docs/07-日常生活技能/14-粮油加工.md#熬炼动物油).
+For preserving methods see [Food Processing and Preservation – Cured pork and salt pork](../07-everyday-living-skills/01-food-processing-and-preservation.md#cured-and-salted-pork) and [Food Processing and Preservation – Dried meat](../07-everyday-living-skills/01-food-processing-and-preservation.md#dried-meat). For rendering lard see [Grain and Oil Processing – Rendering animal fat](../07-everyday-living-skills/14-grain-and-oil-processing.md#rendering-animal-fat).
 
 ---
 
@@ -1787,7 +1787,7 @@ Other uses:
 - Dried cattle and donkey dung cakes can be used as fuel
 ```
 
-For composting principles and fertilising see [Farming and Animal Husbandry – Soil improvement](README.md#improving-soil); for human excreta and how long pathogens survive see [Sanitation – Using faeces and urine](../../../docs/07-日常生活技能/03-卫生设施.md#粪便与尿液的利用); for biogas safety see [Lighting and Energy – Biogas](../../../docs/07-日常生活技能/06-照明与能源.md#沼气); for dung cakes and other fuels see [Firewood and Woodland Management – Other fuels](09-firewood-and-woodland-management.md#other-fuels).
+For composting principles and fertilising see [Farming and Animal Husbandry – Soil improvement](README.md#improving-soil); for human excreta and how long pathogens survive see [Sanitation – Using faeces and urine](../07-everyday-living-skills/03-sanitation.md#using-faeces-and-urine); for biogas safety see [Lighting and Energy – Biogas](../07-everyday-living-skills/06-lighting-and-energy.md#biogas); for dung cakes and other fuels see [Firewood and Woodland Management – Other fuels](09-firewood-and-woodland-management.md#other-fuels).
 
 ---
 

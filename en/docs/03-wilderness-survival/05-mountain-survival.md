@@ -466,7 +466,7 @@ In practice:
   a single rope
 ```
 
-For what rope can and cannot be used for, see [Rope and Knots](../../../docs/07-日常生活技能/17-绳索与结绳.md).
+For what rope can and cannot be used for, see [Rope and Knots](../07-everyday-living-skills/17-rope-and-knots.md).
 
 ### When you trip or slide
 

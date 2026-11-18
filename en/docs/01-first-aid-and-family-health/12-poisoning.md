@@ -202,7 +202,7 @@ Call 120 at once if any of these appear:
 - After drinking loose liquor of unknown origin or home-brewed liquor, symptoms appear within several hours to a day: **blurred vision, as if looking through a layer of snow**, severe headache, nausea, difficulty breathing
 - This is methanol poisoning. It can cause blindness and death. **See a doctor at once**
 - Everyone who drank from the same batch must go to hospital to be checked
-- For methanol in home-made alcohol, see [Disinfectant preparation - purification by distillation](../../../docs/06-制药技术/01-消毒剂制备.md#13-蒸馏提纯)
+- For methanol in home-made alcohol, see [Disinfectant preparation - purification by distillation](../06-pharmaceuticals/01-disinfectants.md#13-purifying-by-distillation)
 
 ---
 
@@ -247,7 +247,7 @@ Rule: use only one cleaning product at a time; read the label before use; open t
 |------|------|
 | Carbon monoxide poisoning | [Home and traffic accidents - carbon monoxide poisoning](07-home-and-traffic-accidents.md#carbon-monoxide-poisoning) |
 | Food poisoning | [Common illnesses - food poisoning](01-common-illnesses.md#food-poisoning) |
-| Bongkrekic acid, botulism, aflatoxin, nitrite | [Food processing and preservation - high-risk foods and food poisoning](../../../docs/07-日常生活技能/01-食物加工与保存.md#高风险食品与食物中毒) |
+| Bongkrekic acid, botulism, aflatoxin, nitrite | [Food processing and preservation - high-risk foods and food poisoning](../07-everyday-living-skills/01-food-processing-and-preservation.md#high-risk-foods-and-food-poisoning) |
 | Poisonous mushrooms, poisonous plants | Never eat anything you cannot identify; everyone who ate it must see a doctor, taking the leftover mushrooms or plants |
 | Venomous snake bites | [Wounds and injuries - snake bites](02-wounds-and-injuries.md#snakebites) |
 | Chemical spills | [Man-made disasters - chemical spills](../02-disaster-response/05-man-made-disasters.md#chemical-spills) |

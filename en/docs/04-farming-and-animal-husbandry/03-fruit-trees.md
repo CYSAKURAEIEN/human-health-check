@@ -70,7 +70,7 @@ Considerations:
    (poplar, willow, elm, black locust) on the windward side as a windbreak
 ```
 
-For judging soil texture and acidity, see [Geology, minerals and soil - Simple soil texture tests](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#52-简单的土壤质地判断) and [Acidity and alkalinity](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#53-酸碱性); for improving acid soil with lime, see [Lime and building materials - Improving acid soil](../../../docs/07-日常生活技能/16-石灰与建筑材料.md#改良酸性土); for late frost patterns, see [Weather observation and forecasting - Frost](../../../docs/08-基础科学知识/07-天气观测与预报.md#五霜冻).
+For judging soil texture and acidity, see [Geology, minerals and soil - Simple soil texture tests](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#52-简单的土壤质地判断) and [Acidity and alkalinity](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#53-酸碱性); for improving acid soil with lime, see [Lime and building materials - Improving acid soil](../07-everyday-living-skills/16-lime-and-building-materials.md#improving-acid-soil); for late frost patterns, see [Weather observation and forecasting - Frost](../../../docs/08-基础科学知识/07-天气观测与预报.md#五霜冻).
 
 ### Choosing varieties and rootstocks
 
@@ -687,7 +687,7 @@ Girdling (kaijia):
   do not feel sticky when squeezed
 ```
 
-For general drying requirements, see [Food processing and preservation - Vegetables and fruit](../../../docs/07-日常生活技能/01-食物加工与保存.md#蔬菜和水果).
+For general drying requirements, see [Food processing and preservation - Vegetables and fruit](../07-everyday-living-skills/01-food-processing-and-preservation.md#vegetables-and-fruit).
 
 ### Pomegranate
 
@@ -854,7 +854,7 @@ Converting to "how many people it can feed" (roughly):
   around the house will in a normal year have enough fruit for the whole year, and can dry some for winter
 ```
 
-For the nutritional value of different fruits, see [Nutrition and deficiency diseases](../../../docs/07-日常生活技能/02-营养与营养缺乏病.md).
+For the nutritional value of different fruits, see [Nutrition and deficiency diseases](../07-everyday-living-skills/02-nutrition-and-deficiency-diseases.md).
 
 ---
 
@@ -1016,7 +1016,7 @@ Methods:
 ⚠️ It must be well rotted: raw manure burns roots and attracts soil pests
 ```
 
-For safe treatment of manure and urine and composting times, see [Sanitation - Using faeces and urine](../../../docs/07-日常生活技能/03-卫生设施.md#粪便与尿液的利用); for the roles of nitrogen, phosphorus and potassium, see [Farming and animal husbandry - Fertilising](README.md#fertilising).
+For safe treatment of manure and urine and composting times, see [Sanitation - Using faeces and urine](../07-everyday-living-skills/03-sanitation.md#using-faeces-and-urine); for the roles of nitrogen, phosphorus and potassium, see [Farming and animal husbandry - Fertilising](README.md#fertilising).
 
 **Top-dressing** (growing season):
 ```
@@ -1089,7 +1089,7 @@ Notes:
   be no water standing on the surface
 ```
 
-For water channels and water storage, see [Water engineering and supply](../../../docs/07-日常生活技能/10-水源工程与供水.md).
+For water channels and water storage, see [Water engineering and supply](../07-everyday-living-skills/10-water-supply.md).
 
 ### Thinning flowers and fruit
 
@@ -1342,7 +1342,7 @@ still greenish-white → alive. In years of severe frost damage, save the tree a
 do not abandon care just because there is no fruit this year
 ```
 
-For late frost weather patterns, see [Weather observation and forecasting - Frost](../../../docs/08-基础科学知识/07-天气观测与预报.md#五霜冻); for safe handling of quicklime, see [Lime and building materials - Slaking and seasoning](../../../docs/07-日常生活技能/16-石灰与建筑材料.md#熟化与陈伏).
+For late frost weather patterns, see [Weather observation and forecasting - Frost](../../../docs/08-基础科学知识/07-天气观测与预报.md#五霜冻); for safe handling of quicklime, see [Lime and building materials - Slaking and seasoning](../07-everyday-living-skills/16-lime-and-building-materials.md#slaking-and-maturing).
 
 ---
 
@@ -1465,7 +1465,7 @@ Long term:
 - Sort through stored fruit once a month
 ```
 
-For cellars, drying and jam, see [Food processing and preservation - Cellar storage](../../../docs/07-日常生活技能/01-食物加工与保存.md#窖藏), [Sun-drying and air-drying](../../../docs/07-日常生活技能/01-食物加工与保存.md#晒干与风干) and [Jam](../../../docs/07-日常生活技能/01-食物加工与保存.md#果酱酸性沸水浴).
+For cellars, drying and jam, see [Food processing and preservation - Cellar storage](../07-everyday-living-skills/01-food-processing-and-preservation.md#cellar-storage), [Sun-drying and air-drying](../07-everyday-living-skills/01-food-processing-and-preservation.md#sun-drying-and-air-drying) and [Jam](../07-everyday-living-skills/01-food-processing-and-preservation.md#jam-acidic-boiling-water-bath).
 
 ### Propagation methods
 

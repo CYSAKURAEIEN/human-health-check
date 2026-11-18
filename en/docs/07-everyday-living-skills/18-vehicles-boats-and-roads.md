@@ -106,7 +106,7 @@ Fuel goes off:
 → Motor vehicles can only be a stopgap; do not rely on fuel for long-term transport
 ```
 
-For the rules on storing petrol see [Lighting and Energy – Petrol](../../../docs/07-日常生活技能/06-照明与能源.md#汽油); for solar charging see [Lighting and Energy – Small-scale solar](../../../docs/07-日常生活技能/06-照明与能源.md#小型太阳能).
+For the rules on storing petrol see [Lighting and Energy – Petrol](06-lighting-and-energy.md#petrol); for solar charging see [Lighting and Energy – Small-scale solar](06-lighting-and-energy.md#small-scale-solar-power).
 
 ---
 
@@ -212,7 +212,7 @@ Spoked wheel (light and strong, but laborious):
   swell the wood tight
 ```
 
-For choosing timber and mortise-and-tenon joints see [Woodworking and Tool Maintenance – Timber](../../../docs/07-日常生活技能/09-木工与工具维护.md#木材) and [Simple mortise and tenon: the right-angle joint](../../../docs/07-日常生活技能/09-木工与工具维护.md#简单的榫卯-直角榫); for forging iron tyres see [Metalworking](../../../docs/05-冶金技术/04-金属加工技术.md).
+For choosing timber and mortise-and-tenon joints see [Woodworking and Tool Maintenance – Timber](09-woodworking-and-tool-maintenance.md#timber) and [Simple mortise and tenon: the right-angle joint](09-woodworking-and-tool-maintenance.md#a-simple-mortise-and-tenon-the-right-angle-joint); for forging iron tyres see [Metalworking](../05-metallurgy/04-metalworking.md).
 
 ### Axles and bushings
 
@@ -264,7 +264,7 @@ the axle or slightly in front of it:
 
 ## Draught animals and harness
 
-One animal working steadily does roughly the work of 5-10 people. But animals need feed, pasture, housing and care, so they pay only once the community is large enough and has enough feed. For keeping cattle, donkeys, horses and mules see [Livestock – Cattle, donkeys and other working animals](../../../docs/04-动植物培育/06-家畜养殖.md#牛驴等役用牲畜); best of all, find someone with experience to learn from.
+One animal working steadily does roughly the work of 5-10 people. But animals need feed, pasture, housing and care, so they pay only once the community is large enough and has enough feed. For keeping cattle, donkeys, horses and mules see [Livestock – Cattle, donkeys and other working animals](../04-farming-and-animal-husbandry/06-livestock.md#cattle-donkeys-and-other-draught-animals); best of all, find someone with experience to learn from.
 
 | Animal | Sustained pull (as a fraction of body weight) | Speed | Pack load | Characteristics |
 |------|------------------|------|------|------|
@@ -318,7 +318,7 @@ Horses, mules, donkeys:
   runs from the shoulder back and down at a slant
 ```
 
-For making and caring for leather see [Textiles, Mending and Tanning – Making leather softer and waterproof](../../../docs/07-日常生活技能/07-纺织缝补与鞣皮.md#让皮子更柔软防水).
+For making and caring for leather see [Textiles, Mending and Tanning – Making leather softer and waterproof](07-textiles-sewing-and-tanning.md#making-skins-softer-and-waterproof).
 
 ### Caring for working animals
 
@@ -368,7 +368,7 @@ For making and caring for leather see [Textiles, Mending and Tanning – Making 
   level to set a peg every 20 m
 ```
 
-For the method see [Surveying and Mapping – A simple level](../../../docs/08-基础科学知识/08-测量与制图.md#42-简易水准仪) and [Setting out the gradient of a channel](../../../docs/08-基础科学知识/08-测量与制图.md#44-给水渠放坡); for the inclined plane see [Physics – The inclined plane](../../../docs/08-基础科学知识/02-物理.md#23-斜面); for the warning signs of landslides see [Geological Disasters – Landslides](../../../docs/02-灾难应对/01-地质灾害.md#山体滑坡).
+For the method see [Surveying and Mapping – A simple level](../../../docs/08-基础科学知识/08-测量与制图.md#42-简易水准仪) and [Setting out the gradient of a channel](../../../docs/08-基础科学知识/08-测量与制图.md#44-给水渠放坡); for the inclined plane see [Physics – The inclined plane](../../../docs/08-基础科学知识/02-物理.md#23-斜面); for the warning signs of landslides see [Geological Disasters – Landslides](../02-disaster-response/01-geological-disasters.md#landslides).
 
 ### Camber and drainage ditches
 
@@ -430,7 +430,7 @@ For small streams and seasonal gullies where a bridge is not worth building, the
    about 30 cm deep can push a vehicle off
 ```
 
-For judging whether water can be waded see [Wading, Flash Floods and Hypothermia in the Wild – Deciding whether you can cross](../../../docs/03-野外生存/08-涉水山洪与野外失温.md#判断能不能过).
+For judging whether water can be waded see [Wading, Flash Floods and Hypothermia in the Wild – Deciding whether you can cross](../03-wilderness-survival/08-river-crossing-flash-floods-and-hypothermia.md#deciding-whether-you-can-cross).
 
 ### Maintenance
 
@@ -528,7 +528,7 @@ in the middle, with the deck hung from them or laid on them
   worn or mouldy
 ```
 
-For the forces in suspension cables see [Engineering Mechanics and Materials – Suspension cables and ropes](../../../docs/09-进阶科学与工程/01-工程力学与材料.md#八悬索和绳索); for knots see [Basic Survival Skills – Knots](../../../docs/03-野外生存/00-基础生存技能.md#绳结技能).
+For the forces in suspension cables see [Engineering Mechanics and Materials – Suspension cables and ropes](../../../docs/09-进阶科学与工程/01-工程力学与材料.md#八悬索和绳索); for knots see [Basic Survival Skills – Knots](../03-wilderness-survival/00-basic-survival-skills.md#knots).
 
 ### ⚠️ Testing and using bridges
 
@@ -551,7 +551,7 @@ New bridges, bridges unused for a long time, bridges after floods:
    the water to go down
 ```
 
-For the warning signs of flash floods see [Wading, Flash Floods and Hypothermia in the Wild – Flash floods](../../../docs/03-野外生存/08-涉水山洪与野外失温.md#山洪-溪谷里最大的危险).
+For the warning signs of flash floods see [Wading, Flash Floods and Hypothermia in the Wild – Flash floods](../03-wilderness-survival/08-river-crossing-flash-floods-and-hypothermia.md#flash-floods-the-biggest-danger-in-stream-valleys).
 
 ![Key points of three kinds of bridge: abutments, timber beams and deck planks of a simple beam bridge; the wooden centring and keystone of a stone arch bridge; anchorage and sag of a rope bridge; and testing a bridge](../../images/bridges.svg)
 
@@ -579,7 +579,7 @@ For the warning signs of flash floods see [Wading, Flash Floods and Hypothermia 
 ✓ Before setting off, tell someone on shore where you are going and when you will be back
 ```
 
-For what to do on falling into cold water see [Wading, Flash Floods and Hypothermia in the Wild – Falling into cold water](../../../docs/03-野外生存/08-涉水山洪与野外失温.md#落入冷水); for rescuing others see [Rescuing a companion from the water](../../../docs/03-野外生存/08-涉水山洪与野外失温.md#救落水的同伴) and [Acute Symptoms – Drowning](../../../docs/01-日常疾病和伤害/05-急性症状.md#溺水).
+For what to do on falling into cold water see [Wading, Flash Floods and Hypothermia in the Wild – Falling into cold water](../03-wilderness-survival/08-river-crossing-flash-floods-and-hypothermia.md#falling-into-cold-water); for rescuing others see [Rescuing a companion from the water](../03-wilderness-survival/08-river-crossing-flash-floods-and-hypothermia.md#rescuing-a-companion-from-the-water) and [Acute Symptoms – Drowning](../01-first-aid-and-family-health/05-acute-symptoms.md#drowning).
 
 ### Rafts: working out the load from buoyancy
 
@@ -697,7 +697,7 @@ Rope-guided ferry (cable ferry):
 ✓ Always keep life jackets, floats and a bailer on board
 ```
 
-For wading across on foot see [Wading, Flash Floods and Hypothermia in the Wild – Wading across rivers](../../../docs/03-野外生存/08-涉水山洪与野外失温.md#涉水过河).
+For wading across on foot see [Wading, Flash Floods and Hypothermia in the Wild – Wading across rivers](../03-wilderness-survival/08-river-crossing-flash-floods-and-hypothermia.md#wading-across-rivers).
 
 ---
 
@@ -758,4 +758,4 @@ For calculating work and power see [Physics – Work and power](../../../docs/08
 
 ---
 
-**Back**: [Chapter index](../../../docs/07-日常生活技能/README.md) | [Main contents](../../../README.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

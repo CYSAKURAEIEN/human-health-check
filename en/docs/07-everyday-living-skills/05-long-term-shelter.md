@@ -17,7 +17,7 @@
 
 ## First, be clear: what this chapter is for
 
-[Wilderness survival](../../../docs/03-野外生存/00-基础生存技能.md#庇护所建造) covers temporary shelters for a few days to a few weeks. This chapter covers a house you will **live in for years**: built from local materials such as earth, timber and stone, able to keep out wind and rain, get you through winter, and not collapse in the next rainstorm or earthquake.
+[Wilderness survival](../03-wilderness-survival/00-basic-survival-skills.md#building-shelters) covers temporary shelters for a few days to a few weeks. This chapter covers a house you will **live in for years**: built from local materials such as earth, timber and stone, able to keep out wind and rain, get you through winter, and not collapse in the next rainstorm or earthquake.
 
 ```
 ⚠️ Collapsing buildings are the main cause of death in earthquakes
@@ -51,9 +51,9 @@ so that the house does not kill you":
 - Hillsides that already have cracks or leaning trees (signs of a coming landslide)
 ```
 
-For recognising each kind of geological hazard, see [Geological hazards](../../../docs/02-灾难应对/01-地质灾害.md).
+For recognising each kind of geological hazard, see [Geological hazards](../02-disaster-response/01-geological-disasters.md).
 
-⚠️ Wells and springs used for household water must be at least 30 m from toilets; see [Sanitation – Pit latrines](../../../docs/07-日常生活技能/03-卫生设施.md#旱厕).
+⚠️ Wells and springs used for household water must be at least 30 m from toilets; see [Sanitation – Pit latrines](03-sanitation.md#pit-latrines).
 
 ---
 
@@ -88,7 +88,7 @@ Earth walls fear water more than anything. The wisdom of traditional houses is *
 - Earth walls can be rendered outside with straw-clay or lime-sand mortar, to protect them from being washed away by rain
 - Repair cracked or fallen render promptly
 
-For lime mortar and limewash, see [Lime and building materials](../../../docs/07-日常生活技能/16-石灰与建筑材料.md#石灰砂浆和三合土).
+For lime mortar and limewash, see [Lime and building materials](16-lime-and-building-materials.md#lime-mortar-and-three-part-earth).
 
 ---
 
@@ -234,7 +234,7 @@ Key points:
 
 **In high earthquake-risk areas, choose timber framing first, or build under professional guidance.** Existing old earth houses can be strengthened by adding timber ring beams, reinforcing the corners and lightening the roof.
 
-For what to do in an earthquake, see [Geological hazards – Earthquakes](../../../docs/02-灾难应对/01-地质灾害.md#地震).
+For what to do in an earthquake, see [Geological hazards – Earthquakes](../02-disaster-response/01-geological-disasters.md#earthquakes).
 
 ---
 
@@ -256,7 +256,7 @@ For what to do in an earthquake, see [Geological hazards – Earthquakes](../../
    still be ventilated (see the kang and chimney sections below)
 ```
 
-For recognising and treating carbon monoxide poisoning, see [Carbon monoxide poisoning](../../../docs/01-日常疾病和伤害/07-居家与交通意外.md#一氧化碳中毒).
+For recognising and treating carbon monoxide poisoning, see [Carbon monoxide poisoning](../01-first-aid-and-family-health/07-home-and-traffic-accidents.md#carbon-monoxide-poisoning).
 
 ### Hot southern areas
 
@@ -403,5 +403,5 @@ At any time:
 
 ---
 
-**Next chapter**: [Lighting and energy](../../../docs/07-日常生活技能/06-照明与能源.md)
-**Back**: [Chapter index](../../../docs/07-日常生活技能/README.md) | [Main contents](../../README.md)
+**Next chapter**: [Lighting and energy](06-lighting-and-energy.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

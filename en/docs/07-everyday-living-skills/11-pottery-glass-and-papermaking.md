@@ -143,7 +143,7 @@ Orange-yellow → about 1000-1100°C
 Yellow to yellowish-white → above about 1200°C
 ```
 
-For judging temperature by colour see [Basic Metallurgy – Judging temperature](../../../docs/05-冶金技术/00-基础冶金知识.md#41-判断温度).
+For judging temperature by colour see [Basic Metallurgy – Judging temperature](../05-metallurgy/00-metallurgy-basics.md#41-judging-temperature).
 
 ### Open (pit) firing: the simplest
 
@@ -186,7 +186,7 @@ Firing the kiln:
 
 *Figure: Structure of a simple updraft kiln (firebox, kiln floor, chamber, flue) and the three firing stages: warm slowly with a small fire → build up the fire once the white smoke has gone → seal the kiln and cool slowly; below, judging temperature by the colour of the fire*
 
-For refractory materials for kiln bricks and furnace linings see [Engineering Mechanics and Materials – Ceramics and refractories](../../../docs/09-进阶科学与工程/01-工程力学与材料.md#105-陶瓷和耐火材料); for blowing see [Bellows and Forges](../../../docs/05-冶金技术/08-鼓风设备与锻炉.md).
+For refractory materials for kiln bricks and furnace linings see [Engineering Mechanics and Materials – Ceramics and refractories](../../../docs/09-进阶科学与工程/01-工程力学与材料.md#105-陶瓷和耐火材料); for blowing see [Bellows and Forges](../05-metallurgy/08-bellows-and-forges.md).
 
 ### Crucibles and firebricks
 
@@ -241,9 +241,9 @@ Tiles: form a clay slab round a wooden cylinder, cut it into several pieces when
 Unfired mud bricks can also build houses: see Long-term shelter
 ```
 
-For mud bricks and walls see [Long-term Shelter – Mud-brick walls](../../../docs/07-日常生活技能/05-长期住所.md#土坯墙).
+For mud bricks and walls see [Long-term Shelter – Mud-brick walls](05-long-term-shelter.md#adobe-walls).
 
-For lime mortar for bricklaying see [Lime and Building Materials](../../../docs/07-日常生活技能/16-石灰与建筑材料.md#石灰砂浆和三合土).
+For lime mortar for bricklaying see [Lime and Building Materials](16-lime-and-building-materials.md#lime-mortar-and-three-part-earth).
 
 ---
 
@@ -376,7 +376,7 @@ Simple version (recycling waste paper):
 
 *Figure: The steps of papermaking from soaking and cooking in lye to forming, pressing and drying the sheet (bleaching and sizing optional), and the simple version using waste paper*
 
-For making lye see [Soap Making – Making lye](../../../docs/07-日常生活技能/04-制皂.md#第一步-制碱水).
+For making lye see [Soap Making – Making lye](04-soap-making.md#step-1-making-the-lye).
 
 ### Making paper last longer
 
@@ -386,7 +386,7 @@ For making lye see [Soap Making – Making lye](../../../docs/07-日常生活技
 ✓ Copy important content several times and store the copies in separate places
 ```
 
-For preserving records see [Education and Knowledge Preservation – Copying and preserving records](../../../docs/07-日常生活技能/12-教育与知识传承.md#抄写和保存资料).
+For preserving records see [Education and Knowledge Preservation – Copying and preserving records](12-education-and-knowledge-preservation.md#copying-and-preserving-records).
 
 ---
 
@@ -433,5 +433,5 @@ Glue (bone glue, hide glue): wash scraps of hide and bones, simmer in water over
 
 ---
 
-**Next chapter**: [Education and Knowledge Preservation](../../../docs/07-日常生活技能/12-教育与知识传承.md)
-**Back**: [Chapter index](../../../docs/07-日常生活技能/README.md) | [Main contents](../../../README.md)
+**Next chapter**: [Education and Knowledge Preservation](12-education-and-knowledge-preservation.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

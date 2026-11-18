@@ -24,7 +24,7 @@ Order of priority:
 4. Only as a last resort, spin and weave cloth from raw materials
 ```
 
-For the principles of dressing to keep warm, see [Snow and polar survival – Keeping warm](../../../docs/03-野外生存/04-雪地极地求生.md#保暖-最关键).
+For the principles of dressing to keep warm, see [Snow and polar survival – Keeping warm](../03-wilderness-survival/04-snow-and-polar-survival.md#keeping-warm-the-most-critical).
 
 ---
 
@@ -62,7 +62,7 @@ Thread:
 - Thread unpicked from old clothes and old woven sacks
 ```
 
-For more ways to make cordage, see [Basic survival skills – Cordage](../../../docs/03-野外生存/00-基础生存技能.md#绳索).
+For more ways to make cordage, see [Basic survival skills – Cordage](../03-wilderness-survival/00-basic-survival-skills.md#cordage).
 
 ### Basic stitches
 
@@ -133,7 +133,7 @@ How to backstitch:
 | Material | How to get it | Characteristics |
 |------|----------|------|
 | Cotton | Grow it; pick the fluff from the bolls | Soft and absorbs sweat; seeds must be removed |
-| Sheep's wool | Shear in spring (see [Livestock](../../../docs/04-动植物培育/06-家畜养殖.md)) | Warm, and stays warm when wet; must be washed |
+| Sheep's wool | Shear in spring (see [Livestock](../04-farming-and-animal-husbandry/06-livestock.md)) | Warm, and stays warm when wet; must be washed |
 | Bast fibres (ramie, hemp, flax) | Grow them; strip the bark from the stems | Strong and hard-wearing; must be retted |
 | Rabbit fur | Comb or shear Angora rabbits | Extremely soft and warm; short fibres, often blended with wool |
 
@@ -419,5 +419,5 @@ than tawed skins
 
 ---
 
-**Next chapter**: [Household electrical safety](../../../docs/07-日常生活技能/08-家庭用电安全.md)
-**Back**: [Chapter index](../../../docs/07-日常生活技能/README.md) | [Main contents](../../README.md)
+**Next chapter**: [Household electrical safety](08-household-electrical-safety.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

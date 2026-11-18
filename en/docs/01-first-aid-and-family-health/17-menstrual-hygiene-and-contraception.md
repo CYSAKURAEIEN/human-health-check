@@ -48,7 +48,7 @@ After a disaster or during a long break in supplies, menstrual products are a re
 Simplest version: fold several layers of cotton cloth or towel into a long strip and put it in the underwear
 ```
 
-For sewing stitches, see [Textiles, mending and tanning - mending](../../../docs/07-日常生活技能/07-纺织缝补与鞣皮.md#缝补).
+For sewing stitches, see [Textiles, mending and tanning - mending](../07-everyday-living-skills/07-textiles-sewing-and-tanning.md#mending).
 
 ### Washing and storage (the most important part)
 
@@ -113,7 +113,7 @@ Prevention: change at the time stated in the leaflet; do not leave a tampon in o
    → may be a ruptured ectopic pregnancy, which is life-threatening; call 120 at once
 ```
 
-Related chapter: [Nutrition and nutritional deficiency diseases](../../../docs/07-日常生活技能/02-营养与营养缺乏病.md).
+Related chapter: [Nutrition and nutritional deficiency diseases](../07-everyday-living-skills/02-nutrition-and-deficiency-diseases.md).
 
 For period pain, apply warmth to the lower abdomen and rest; for painkiller use, see the medicines part of [Common illnesses - fever](01-common-illnesses.md#fever).
 

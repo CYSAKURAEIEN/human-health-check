@@ -65,7 +65,7 @@ For the usual doses of painkillers and precautions, see the "Medicines to bring 
      The real fix is a filling, root canal treatment or extraction
 ```
 
-For how raw garlic causes burns, see [Antibiotic production - Garlic](../../../docs/06-制药技术/02-抗生素制备.md#32-大蒜以食用为主).
+For how raw garlic causes burns, see [Antibiotic production - Garlic](../06-pharmaceuticals/02-antibiotics.md#32-garlic-mainly-as-food).
 
 ---
 
@@ -106,7 +106,7 @@ When none of the danger signs above are present:
 ❌ Do not prick or squeeze the abscess yourself (you may push the infection deeper)
 ```
 
-For stockpiling antibiotics, see [Antibiotic production - Stockpiling advice](../../../docs/06-制药技术/02-抗生素制备.md#六储备建议).
+For stockpiling antibiotics, see [Antibiotic production - Stockpiling advice](../06-pharmaceuticals/02-antibiotics.md#6-stockpiling-advice).
 
 ---
 
@@ -193,7 +193,7 @@ For the first 24 hours:
 ### Bleeding gums
 
 - The most common cause is gingivitis: brush carefully and use floss, and it usually improves within 1-2 weeks
-- **After a long time without fresh fruit and vegetables, swollen and bleeding gums may be an early sign of scurvy**; see [Nutrition and deficiency diseases](../../../docs/07-日常生活技能/02-营养与营养缺乏病.md)
+- **After a long time without fresh fruit and vegetables, swollen and bleeding gums may be an early sign of scurvy**; see [Nutrition and deficiency diseases](../07-everyday-living-skills/02-nutrition-and-deficiency-diseases.md)
 - With other bleeding such as skin bruising or nosebleeds that will not stop, or if you take anticoagulants → see a doctor
 
 ### Mouth ulcers

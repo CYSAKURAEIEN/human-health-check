@@ -312,7 +312,7 @@ For recognising emotional problems and suicide risk after birth, see [Mental Hea
 ❌ Do not give sugar water, rice water or honey (no honey under 1 year old) instead of breast milk
 ```
 
-For nutrition, see [Nutrition and deficiency diseases - Special groups](../../../docs/07-日常生活技能/02-营养与营养缺乏病.md#特殊人群).
+For nutrition, see [Nutrition and deficiency diseases - Special groups](../07-everyday-living-skills/02-nutrition-and-deficiency-diseases.md#special-groups).
 
 ### Cord care
 

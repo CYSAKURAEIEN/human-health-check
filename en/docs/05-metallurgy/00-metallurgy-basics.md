@@ -120,7 +120,7 @@ For the basics of chemical reactions see [Chemistry](../../../docs/08-基础科�
 - Rice straw / hay: 1-2 kg (prevents cracking)
 - Stones: a number of them (for the furnace base)
 
-**Which soil will do:** soil that is sticky when wet and can be rolled into a coil as thick as a chopstick and bent into a ring without breaking will do. If there is too much sand it will not roll into a coil; pure clay that is too sticky cracks easily as it dries, so mix in more sand. For how to find clay see [Pottery, glass and papermaking – What kind of soil makes pottery](../../../docs/07-日常生活技能/11-陶瓷玻璃与造纸.md#什么样的土能做陶).
+**Which soil will do:** soil that is sticky when wet and can be rolled into a coil as thick as a chopstick and bent into a ring without breaking will do. If there is too much sand it will not roll into a coil; pure clay that is too sticky cracks easily as it dries, so mix in more sand. For how to find clay see [Pottery, glass and papermaking – What kind of soil makes pottery](../07-everyday-living-skills/11-pottery-glass-and-papermaking.md#what-kind-of-earth-makes-pottery).
 
 #### Building steps:
 
@@ -307,7 +307,7 @@ Why taller and thicker:
   tapping slag
 ```
 
-For the dimensions of the shaft furnace, two refractory clay recipes and a building schedule see [Iron smelting – Simple shaft furnace](01-iron-smelting.md#21-simple-shaft-furnace-recommended) and [Iron smelting – Preparing refractory materials](01-iron-smelting.md#22-making-refractory-material); for firing firebricks and crucibles see [Pottery, glass and papermaking – Crucibles and firebricks](../../../docs/07-日常生活技能/11-陶瓷玻璃与造纸.md#坩埚和耐火砖).
+For the dimensions of the shaft furnace, two refractory clay recipes and a building schedule see [Iron smelting – Simple shaft furnace](01-iron-smelting.md#21-simple-shaft-furnace-recommended) and [Iron smelting – Preparing refractory materials](01-iron-smelting.md#22-making-refractory-material); for firing firebricks and crucibles see [Pottery, glass and papermaking – Crucibles and firebricks](../07-everyday-living-skills/11-pottery-glass-and-papermaking.md#crucibles-and-firebricks).
 
 ---
 

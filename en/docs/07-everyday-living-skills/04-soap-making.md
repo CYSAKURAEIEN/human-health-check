@@ -10,7 +10,7 @@
 
 ## Why you should know how to make soap
 
-This handbook says again and again that "frequent handwashing is the most important way to prevent infection" (see [Sanitation](../../../docs/07-日常生活技能/03-卫生设施.md) and [Making antibiotics – Preventing infection](../../../docs/06-制药技术/02-抗生素制备.md#五感染的预防)). Stockpiled soap always runs out, but the raw materials for soap – wood ash and fat – are easy to come by in the countryside and in long-term survival conditions.
+This handbook says again and again that "frequent handwashing is the most important way to prevent infection" (see [Sanitation](03-sanitation.md) and [Making antibiotics – Preventing infection](../06-pharmaceuticals/02-antibiotics.md#5-preventing-infection)). Stockpiled soap always runs out, but the raw materials for soap – wood ash and fat – are easy to come by in the countryside and in long-term survival conditions.
 
 **Principle**: fat + alkali → soap + glycerol (saponification). One end of a soap molecule attracts water and the other attracts oil, so soap wraps up grease, together with the bacteria and viruses stuck to the skin, and lets you rinse them away.
 
@@ -77,7 +77,7 @@ If you get it on you:
 - Swallowed: do not make the person vomit; call 120 immediately
 ```
 
-For full treatment of chemicals in the eye, see [Foreign bodies – Chemicals in the eye](../../../docs/01-日常疾病和伤害/04-异物处理.md#化学品入眼紧急).
+For full treatment of chemicals in the eye, see [Foreign bodies – Chemicals in the eye](../01-first-aid-and-family-health/04-foreign-bodies-and-choking.md#chemicals-in-the-eye-emergency).
 
 ### Step 1: making the lye
 
@@ -203,5 +203,5 @@ Dishes:
 
 ---
 
-**Next chapter**: [Long-term shelter](../../../docs/07-日常生活技能/05-长期住所.md)
-**Back**: [Chapter index](../../../docs/07-日常生活技能/README.md) | [Main contents](../../README.md)
+**Next chapter**: [Long-term shelter](05-long-term-shelter.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

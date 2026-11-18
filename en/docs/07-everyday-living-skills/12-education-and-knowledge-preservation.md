@@ -26,7 +26,7 @@ For knowledge to be passed on, you need three things:
 
 After a disaster and through long hard times, **children's learning must not stop**: regular lessons in themselves help children regain a sense of safety (see Mental Health), and after a few years without school a whole generation's literacy falls markedly.
 
-For psychological support see [Mental Health](../../../docs/01-日常疾病和伤害/10-心理健康.md); for the role of "people" in rebuilding technology see [Technology-Rebuilding Roadmap – People](../../../docs/09-进阶科学与工程/00-技术重建路线图.md#36-人).
+For psychological support see [Mental Health](../01-first-aid-and-family-health/10-mental-health.md); for the role of "people" in rebuilding technology see [Technology-Rebuilding Roadmap – People](../../../docs/09-进阶科学与工程/00-技术重建路线图.md#36-人).
 
 ---
 
@@ -150,7 +150,7 @@ Stages of an apprenticeship:
 - Record accidents and near misses and discuss together how to avoid them
 ```
 
-For child safety see [Child Safety](../../../docs/01-日常疾病和伤害/14-儿童安全.md).
+For child safety see [Child Safety](../01-first-aid-and-family-health/14-child-safety.md).
 
 ---
 
@@ -229,7 +229,7 @@ Copying:
 ✓ Note on the copy: where it was copied from, who copied it, who checked it, and the date
 ```
 
-For making paper and ink see [Pottery, Glass and Papermaking – Papermaking](../../../docs/07-日常生活技能/11-陶瓷玻璃与造纸.md#造纸); for the lifespan of digital records see [Computing and Information – Preserving knowledge](../../../docs/09-进阶科学与工程/08-计算与信息.md#八保存知识-数字资料不可靠).
+For making paper and ink see [Pottery, Glass and Papermaking – Papermaking](11-pottery-glass-and-papermaking.md#papermaking); for the lifespan of digital records see [Computing and Information – Preserving knowledge](../../../docs/09-进阶科学与工程/08-计算与信息.md#八保存知识-数字资料不可靠).
 
 ![Copying and preserving records: what to preserve first, copying and checking, storing in several places, protecting against damp and insects](../../images/knowledge-preservation.svg)
 
@@ -264,5 +264,5 @@ For making paper and ink see [Pottery, Glass and Papermaking – Papermaking](..
 
 ---
 
-**Next chapter**: [Record-keeping, Trade and Division of Labour](../../../docs/07-日常生活技能/13-记账交易与社会分工.md)
-**Back**: [Chapter index](../../../docs/07-日常生活技能/README.md) | [Main contents](../../../README.md)
+**Next chapter**: [Record-keeping, Trade and Division of Labour](13-record-keeping-trade-and-division-of-labour.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

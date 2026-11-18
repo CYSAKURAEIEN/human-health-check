@@ -342,7 +342,7 @@ For severe bleeding, apply pressure first; see [Basic first aid – Stopping ble
   * Put out small fires at once; if the fire spreads, leave and call 119
 ```
 
-For full handling of gas leaks see [Fire – Gas leaks](04-fire.md#gas-leaks); for how to restore power safely once supply returns see [Household electrical safety – Restoring power after a disaster](../../../docs/07-日常生活技能/08-家庭用电安全.md#灾后恢复用电).
+For full handling of gas leaks see [Fire – Gas leaks](04-fire.md#gas-leaks); for how to restore power safely once supply returns see [Household electrical safety – Restoring power after a disaster](../07-everyday-living-skills/08-household-electrical-safety.md#restoring-power-after-a-disaster).
 
 **3. Be ready for aftershocks**:
 ```
@@ -402,7 +402,7 @@ Even if you judge the damage to be minor, when you go back in:
 ❌ Do not go into the rubble of collapsed parts to search for belongings
 ```
 
-**Mud-brick houses, old brick houses and houses on hillsides** are often more damaged after an earthquake than they look; it is better to wait a few more days. For earthquake-resistant methods when building your own house, see [Long-term housing – Earthquake resistance](../../../docs/07-日常生活技能/05-长期住所.md#抗震-生土房屋的生死线).
+**Mud-brick houses, old brick houses and houses on hillsides** are often more damaged after an earthquake than they look; it is better to wait a few more days. For earthquake-resistant methods when building your own house, see [Long-term housing – Earthquake resistance](../07-everyday-living-skills/05-long-term-shelter.md#earthquake-resistance-life-or-death-for-earth-houses).
 
 #### If you are trapped
 
@@ -620,7 +620,7 @@ In a drill, really do it: shout "Earthquake!" → everyone takes cover where the
 ✓ If you find cracks in walls or a sinking foundation, have a professional assess it
 ```
 
-For earthquake-resistant measures when building your own earth-and-timber house (ring beams, ties at wall corners, light roofs, etc.) see [Long-term housing – Earthquake resistance](../../../docs/07-日常生活技能/05-长期住所.md#抗震-生土房屋的生死线).
+For earthquake-resistant measures when building your own earth-and-timber house (ring beams, ties at wall corners, light roofs, etc.) see [Long-term housing – Earthquake resistance](../07-everyday-living-skills/05-long-term-shelter.md#earthquake-resistance-life-or-death-for-earth-houses).
 
 **Know your building's structure**:
 - Where the load-bearing walls are
@@ -718,7 +718,7 @@ In the rainy season:
 ✓ Agree the village's danger signals (gong, whistle, loudspeaker) in advance
 ```
 
-For more principles on choosing a campsite and on dealing with flash floods see [River crossings, flash floods and hypothermia in the wild](../03-wilderness-survival/08-river-crossing-flash-floods-and-hypothermia.md#flash-floods-the-biggest-danger-in-stream-valleys); for choosing a site for a long-term home see [Long-term housing – Choosing a site](../../../docs/07-日常生活技能/05-长期住所.md#选址).
+For more principles on choosing a campsite and on dealing with flash floods see [River crossings, flash floods and hypothermia in the wild](../03-wilderness-survival/08-river-crossing-flash-floods-and-hypothermia.md#flash-floods-the-biggest-danger-in-stream-valleys); for choosing a site for a long-term home see [Long-term housing – Choosing a site](../07-everyday-living-skills/05-long-term-shelter.md#choosing-a-site).
 
 #### When it happens
 
@@ -941,7 +941,7 @@ If someone has fallen into a collapse hole:
   distance; the rescuer must also be tied on with a rope
 ```
 
-When choosing a site for a home or well, avoid known cave areas and mined-out areas; see [Long-term housing – Choosing a site](../../../docs/07-日常生活技能/05-长期住所.md#选址).
+When choosing a site for a home or well, avoid known cave areas and mined-out areas; see [Long-term housing – Choosing a site](../07-everyday-living-skills/05-long-term-shelter.md#choosing-a-site).
 
 ---
 

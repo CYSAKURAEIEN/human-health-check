@@ -30,7 +30,7 @@ You can do yourself:
 - Any work on live circuits
 ```
 
-For first aid after an electric shock, see [Acute symptoms – Electrical injuries](../../../docs/01-日常疾病和伤害/05-急性症状.md#电击伤).
+For first aid after an electric shock, see [Acute symptoms – Electrical injuries](../01-first-aid-and-family-health/05-acute-symptoms.md#electric-shock-injuries).
 
 ---
 
@@ -126,7 +126,7 @@ electric ovens, rice cookers, etc.:
 ✓ Switch appliances off after use; unplug them if they will not be used for a long time
 ```
 
-For fighting electrical fires (cut the power first; never use water), see [Fire – Electrical fires](../../../docs/02-灾难应对/04-火灾.md#电气火灾).
+For fighting electrical fires (cut the power first; never use water), see [Fire – Electrical fires](../02-disaster-response/04-fire.md#electrical-fires).
 
 ---
 
@@ -203,7 +203,7 @@ When using a generator:
 
 *Figure: after a disaster, keep the power off and have an electrician check the wiring before switching the main switch back on; if you smell burning, see smoke or hear sparking, switch off the main switch at once*
 
-For detailed generator safety rules, see [Lighting and energy – Generators](../../../docs/07-日常生活技能/06-照明与能源.md#发电机).
+For detailed generator safety rules, see [Lighting and energy – Generators](06-lighting-and-energy.md#generators).
 
 ---
 
@@ -244,5 +244,5 @@ Always keep at home:
 
 ---
 
-**Next chapter**: [Woodworking and tool maintenance](../../../docs/07-日常生活技能/09-木工与工具维护.md)
-**Back**: [Chapter index](../../../docs/07-日常生活技能/README.md) | [Main contents](../../README.md)
+**Next chapter**: [Woodworking and tool maintenance](09-woodworking-and-tool-maintenance.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)
