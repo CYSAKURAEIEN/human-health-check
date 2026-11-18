@@ -1,0 +1,161 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1222" width="720" height="1222" role="img" aria-label="Wheels and axles: dragging something along the ground means overcoming sliding friction, and dragging on earth needs a pull of about 30%-60% of the weight; on wheels you only overcome rolling resistance and the friction at the axle, about 2%-5% for wheels on a gravel road. The harder and smoother the road, the greater the advantage of wheels: a flat cart weighing 500 kg with its load needs about 500 × 0.02 ≈ the weight of 10 kg (about 100 N) on a hard road, which one person pulls easily, and about 500 × 0.2 = the weight of 100 kg (about 1000 N) in deep mud, hard going even for several people. A solid wheel is made of 2-3 hardwood planks about 5-8 cm thick, with a cross batten on each face whose grain is at right angles to the planks, an axle hole in the centre and the area round it thickened or covered with sheet iron; its drawbacks are that it is heavy and splits easily along the grain. A spoked wheel has a hub, spokes, a rim and an iron tyre, which is fitted hot so it has expanded, then cooled with water so it shrinks and binds the wheel tight. The larger the wheel, the less effort and the more easily it crosses holes; animal carts commonly use about 1-1.5 m. Bushings: an iron pipe or ring fitted in the hub hole and sheet iron on the matching part of the axle; pins or retaining rings at both ends of the axle stop the wheels coming off; lubricate often" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Wheels and axles</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<clipPath id="disc"><circle cx="150" cy="650" r="85"/></clipPath>
+<!-- flat cart, side view: wheel centre at (0,0) -->
+<g id="cart">
+<path d="M70,-38 L170,-30" stroke="#8f6d2e" stroke-width="6" stroke-linecap="round"/>
+<rect x="-72" y="-102" width="130" height="60" rx="3" fill="#b5a58a" stroke="#333" stroke-width="2"/>
+<rect x="-84" y="-44" width="158" height="10" fill="#b8955a" stroke="#333" stroke-width="2"/>
+<circle r="30" fill="#e8eef5" stroke="#333" stroke-width="3"/>
+<path d="M0,-30 V30 M-30,0 H30 M-21,-21 L21,21 M-21,21 L21,-21" stroke="#999" stroke-width="1.5"/>
+<circle r="5" fill="#333"/>
+</g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Wheels and axles: why wheels save effort, how to make wooden wheels</text>
+
+<!-- 1 dragging vs wheels -->
+<rect x="10" y="44" width="700" height="210" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="70" font-size="16" font-weight="bold">① Dragging vs on wheels (pull needed, as a fraction of the weight)</text>
+<line x1="360" y1="84" x2="360" y2="244" stroke="#ddd" stroke-width="1.5"/>
+<path d="M24,190 H346 M374,190 H696" stroke="#999" stroke-width="3"/>
+<rect x="70" y="124" width="110" height="66" rx="3" fill="#b5a58a" stroke="#333" stroke-width="2"/>
+<path d="M70,190 H180" stroke="#c33" stroke-width="5"/>
+<path d="M180,150 L262,134" stroke="#5a4320" stroke-width="2.5"/>
+<path d="M262,134 L340,119" stroke="#c33" stroke-width="5" marker-end="url(#arR)"/>
+<text x="125" y="212" font-size="14" font-weight="bold" fill="#c33" text-anchor="middle">sliding friction</text>
+<text x="185" y="236" font-size="13" text-anchor="middle">Dragging on earth: <tspan font-weight="bold">30%-60%</tspan>; short distances only</text>
+<rect x="420" y="108" width="110" height="56" rx="3" fill="#b5a58a" stroke="#333" stroke-width="2"/>
+<rect x="408" y="164" width="134" height="8" fill="#b8955a" stroke="#333" stroke-width="2"/>
+<circle cx="430" cy="178" r="12" fill="#e8eef5" stroke="#333" stroke-width="2.5"/>
+<circle cx="520" cy="178" r="12" fill="#e8eef5" stroke="#333" stroke-width="2.5"/>
+<g fill="#333"><circle cx="430" cy="178" r="3"/><circle cx="520" cy="178" r="3"/></g>
+<path d="M542,168 L600,156" stroke="#5a4320" stroke-width="2.5"/>
+<path d="M600,156 L626,151" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<text x="600" y="120" font-size="14" font-weight="bold" fill="#0b5cad" text-anchor="middle">rolling resistance</text>
+<text x="600" y="138" font-size="14" font-weight="bold" fill="#0b5cad" text-anchor="middle">+ axle friction</text>
+<text x="535" y="212" font-size="14" font-weight="bold" fill="#0b5cad" text-anchor="middle">much smaller</text>
+<text x="535" y="236" font-size="13" text-anchor="middle">Wheels on a gravel road: <tspan font-weight="bold">2%-5%</tspan></text>
+
+<!-- 2 road surface -->
+<rect x="10" y="266" width="700" height="246" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="292" font-size="16" font-weight="bold">② The harder and smoother the road, the greater the advantage of wheels</text><text x="24" y="310" font-size="13" fill="#555">Example: a flat cart weighing 500 kg with its load</text>
+<line x1="360" y1="306" x2="360" y2="502" stroke="#ddd" stroke-width="1.5"/>
+<path d="M24,426 H346" stroke="#999" stroke-width="3"/>
+<use href="#cart" transform="translate(110,403.5) scale(0.75)"/>
+<path d="M240,381 L262,382" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<text x="185" y="452" font-size="13" font-weight="bold" text-anchor="middle">Hard road: 500 × 0.02 ≈ the weight of 10 kg</text>
+<text x="185" y="472" font-size="13" text-anchor="middle">(about 100 N); one person pulls it easily</text>
+<path d="M374,416 Q420,412 460,418 Q520,426 580,416 Q640,410 696,416 V438 H374 Z" fill="#8a7357" opacity="0.45"/>
+<use href="#cart" transform="translate(470,418) scale(0.75)"/>
+<path d="M374,416 Q420,412 460,418 Q520,426 580,416 Q640,410 696,416 V438 H374 Z" fill="#8a7357" opacity="0.6"/>
+<path d="M374,416 Q420,412 460,418 Q520,426 580,416 Q640,410 696,416" fill="none" stroke="#5a4320" stroke-width="2.5"/>
+<path d="M600,396 L692,398" stroke="#c33" stroke-width="5" marker-end="url(#arR)"/>
+<text x="535" y="456" font-size="13" font-weight="bold" text-anchor="middle">Deep mud: 500 × 0.2 = the weight of 100 kg</text>
+<text x="535" y="476" font-size="13" text-anchor="middle">(about 1000 N); hard going even for several people</text>
+<text x="535" y="498" font-size="13" fill="#555" text-anchor="middle">the wheels sink and much of the advantage is lost</text>
+<text x="185" y="498" font-size="13" fill="#555" text-anchor="middle">→ a good road is like several extra draught animals</text>
+<g transform="translate(0,20)">
+<!-- 3 solid wheel -->
+<rect x="10" y="504" width="345" height="350" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="530" font-size="16" font-weight="bold">③ Solid wheel (simplest)</text>
+<g clip-path="url(#disc)">
+<rect x="60" y="560" width="62" height="180" fill="#e2c995" stroke="#333" stroke-width="2"/>
+<rect x="122" y="560" width="56" height="180" fill="#d9bd85" stroke="#333" stroke-width="2"/>
+<rect x="178" y="560" width="62" height="180" fill="#e2c995" stroke="#333" stroke-width="2"/>
+<path d="M82,560 V740 M100,560 V740 M140,560 V740 M160,560 V740 M198,560 V740 M220,560 V740" stroke="#b08d4e" stroke-width="1"/>
+<rect x="60" y="676" width="180" height="18" fill="none" stroke="#333" stroke-width="1.5" stroke-dasharray="5 4"/>
+</g>
+<circle cx="150" cy="650" r="85" fill="none" stroke="#333" stroke-width="3"/>
+<rect x="76" y="598" width="148" height="20" rx="2" fill="#a8844a" stroke="#333" stroke-width="2"/>
+<path d="M80,608 H220" stroke="#7a5a28" stroke-width="1"/>
+<g fill="#333"><circle cx="91" cy="608" r="2.5"/><circle cx="150" cy="608" r="2.5"/><circle cx="209" cy="608" r="2.5"/></g>
+<circle cx="150" cy="650" r="19" fill="#bbb" stroke="#333" stroke-width="2"/>
+<circle cx="150" cy="650" r="9" fill="#fff" stroke="#333" stroke-width="2"/>
+<text x="182" y="552" font-size="12" text-anchor="middle">2-3 hardwood planks about 5-8 cm thick, side by side</text>
+<path d="M226,606 L244,596" stroke="#555" stroke-width="1"/>
+<text x="246" y="594" font-size="14" font-weight="bold">cross batten</text>
+<text x="246" y="611" font-size="12">one on each face;</text>
+<text x="246" y="626" font-size="12">grain at right</text><text x="246" y="640" font-size="12">angles to planks</text>
+<path d="M222,690 L244,704" stroke="#555" stroke-width="1"/>
+<text x="246" y="710" font-size="12" fill="#555">batten on</text><text x="246" y="724" font-size="12" fill="#555">the back</text>
+<path d="M166,660 L190,754" stroke="#555" stroke-width="1"/>
+<text x="182" y="770" font-size="13" text-anchor="middle">Axle hole in the centre; thicken the area</text><text x="182" y="787" font-size="13" text-anchor="middle">round it or cover it with sheet iron</text>
+<text x="182" y="814" font-size="13" font-weight="bold" fill="#c33" text-anchor="middle">Drawbacks: heavy; splits easily along the grain</text>
+
+<!-- 4 spoked wheel -->
+<rect x="365" y="504" width="345" height="350" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="379" y="530" font-size="16" font-weight="bold">④ Spoked wheel (light, strong, laborious)</text>
+<g stroke="#333" stroke-width="2">
+<circle cx="476" cy="650" r="80" fill="#d9c29a"/>
+<circle cx="476" cy="650" r="64" fill="#fff"/>
+<g stroke="#8f6d2e" stroke-width="7" stroke-linecap="butt">
+<path d="M476,630 V587 M476,670 V713 M456,650 H413 M496,650 H539 M462,636 L431,605 M490,664 L521,695 M462,664 L431,695 M490,636 L521,605"/>
+</g>
+<circle cx="476" cy="650" r="20" fill="#b8955a"/>
+<circle cx="476" cy="650" r="7" fill="#fff"/>
+<path d="M476,570 V586 M545,610 L531,618 M545,690 L531,682 M476,730 V714 M407,690 L421,682 M407,610 L421,618" stroke-width="1.5"/>
+<circle cx="476" cy="650" r="83" fill="none" stroke="#555" stroke-width="6"/>
+</g>
+<g stroke="#555" stroke-width="1">
+<path d="M555,630 L590,616 M545,656 L590,650 M528,684 L590,690 M490,658 L590,724"/>
+</g>
+<text x="594" y="620" font-size="14" font-weight="bold">iron tyre</text>
+<text x="594" y="652" font-size="14" font-weight="bold">rim</text>
+<text x="594" y="669" font-size="12" fill="#555">curved segments</text>
+<text x="594" y="694" font-size="14" font-weight="bold">spokes</text>
+<text x="594" y="711" font-size="12" fill="#555">straight-grained</text>
+<text x="594" y="728" font-size="14" font-weight="bold">hub</text>
+<text x="379" y="754" font-size="13">Hub: thick hardwood (elm, pagoda tree, oak etc.),</text><text x="379" y="770" font-size="13">with an axle hole and mortises for the spokes</text>
+<text x="379" y="790" font-size="13">Iron tyre: heat it so it expands, fit it on, pour</text><text x="379" y="806" font-size="13">water on: it shrinks and binds the wheel tight</text>
+<text x="379" y="826" font-size="13" fill="#555">Wooden wheels loosen when dry: in the old days</text><text x="379" y="842" font-size="13" fill="#555">carts were soaked in water to swell the wood tight</text>
+
+<g transform="translate(0,34)">
+<!-- 5 wheel size -->
+<rect x="10" y="832" width="345" height="322" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="858" font-size="16" font-weight="bold">⑤ Bigger wheels roll over stones</text>
+<path d="M24,1020 H342" stroke="#999" stroke-width="3"/>
+<circle cx="70" cy="998" r="22" fill="#e8eef5" stroke="#333" stroke-width="3"/>
+<circle cx="70" cy="998" r="4" fill="#333"/>
+<path d="M96,1020 Q94,1004 104,1001 Q114,998 120,1006 L122,1020 Z" fill="#aaa" stroke="#333" stroke-width="2"/>
+<circle cx="236" cy="955" r="65" fill="#e8eef5" stroke="#333" stroke-width="3"/>
+<path d="M236,890 V1020 M171,955 H301 M190,909 L282,1001 M190,1001 L282,909" stroke="#999" stroke-width="1.5"/>
+<circle cx="236" cy="955" r="5" fill="#333"/>
+<path d="M306,1020 Q304,1004 314,1001 Q324,998 330,1006 L332,1020 Z" fill="#aaa" stroke="#333" stroke-width="2"/>
+<text x="70" y="1046" font-size="14" text-anchor="middle">small wheel</text>
+<text x="236" y="1046" font-size="14" text-anchor="middle">large wheel</text>
+<text x="109" y="992" font-size="12" fill="#555" text-anchor="middle">stone</text>
+<text x="319" y="992" font-size="12" fill="#555" text-anchor="middle">stone</text>
+<text x="182" y="1074" font-size="13" text-anchor="middle">The larger the wheel, the less effort and</text><text x="182" y="1091" font-size="13" text-anchor="middle">the more easily it crosses holes</text>
+<text x="182" y="1116" font-size="14" text-anchor="middle" font-weight="bold">Animal carts commonly use about 1-1.5 m</text>
+
+<!-- 6 axle and bushing -->
+<rect x="365" y="832" width="345" height="322" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="379" y="858" font-size="16" font-weight="bold">⑥ Axle and bushing (cross-section)</text>
+<path d="M512,876 V912 M532,876 V912 M512,988 V1004 M532,988 V1004" stroke="#8f6d2e" stroke-width="5"/>
+<rect x="472" y="912" width="100" height="76" fill="#d9c29a" stroke="#333" stroke-width="2"/>
+<path d="M482,912 L472,922 M502,912 L472,942 M522,912 L492,942 M542,912 L512,942 M562,912 L532,942 M572,922 L552,942 M482,988 L472,978 M502,988 L478,964 M522,988 L498,964 M542,988 L518,964 M562,988 L538,964 M572,988 L548,964" stroke="#b08d4e" stroke-width="1"/>
+<rect x="472" y="936" width="100" height="6" fill="#888" stroke="#333" stroke-width="1"/>
+<rect x="472" y="958" width="100" height="6" fill="#888" stroke="#333" stroke-width="1"/>
+<rect x="384" y="942" width="214" height="16" fill="#d9c29a" stroke="#333" stroke-width="2"/>
+<rect x="466" y="942" width="112" height="16" fill="#bbb" stroke="#333" stroke-width="1.5"/>
+<rect x="586" y="930" width="7" height="40" rx="2" fill="#555" stroke="#333" stroke-width="1.5"/>
+<g stroke="#555" stroke-width="1">
+<path d="M478,926 L440,900 M406,950 L406,982 M520,962 L480,1010"/>
+</g>
+<text x="386" y="898" font-size="14" font-weight="bold">hub</text>
+<text x="380" y="996" font-size="13">axle</text>
+<text x="474" y="1024" font-size="13">bushing: iron pipe or ring</text>
+<text x="474" y="1040" font-size="12" fill="#555">sheet iron on the axle there</text>
+<text x="604" y="946" font-size="13">pin: keeps</text>
+<text x="604" y="962" font-size="13">the wheel on</text>
+<text x="379" y="1064" font-size="13">Lubricant: animal fat (beef and mutton fat last</text><text x="379" y="1080" font-size="13">longest), vegetable oil, used engine oil; mixed with</text>
+<text x="379" y="1096" font-size="13">graphite powder it withstands pressure and is</text><text x="379" y="1112" font-size="13">not easily squeezed out</text>
+<text x="379" y="1132" font-size="13" font-weight="bold" fill="#c33">Check before setting out: axle ends hot</text><text x="379" y="1148" font-size="13" font-weight="bold" fill="#c33">or squeaking → short of grease</text>
+</g>
+</g>
+</g>
+</svg>

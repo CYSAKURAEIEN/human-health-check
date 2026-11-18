@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 816" width="720" height="816" role="img" aria-label="Restoring power after a disaster: after floods, typhoons and earthquakes the wiring may have been under water or damaged, and accidents after the power comes back on are not uncommon. Before or during a disaster: if flooding is expected, switch off the main switch in advance; do not wade into a room that has electrical appliances in it; if a room is flooded, do not stand in the water to switch off the main switch. After the disaster: do not switch on appliances, sockets or a consumer unit that have been under water until an electrician has checked them, even if they look dry; have an electrician check the wiring before switching the main switch back on; where walls have cracked or the house is damaged, cables may have been pulled apart or crushed, so have them checked first too; if you smell burning, see smoke or hear sparking, switch off the main switch at once. When using a generator: never use it indoors, in a garage or near windows (carbon monoxide poisoning); do not connect a generator to a household socket or the consumer unit to backfeed the house, as it can kill repair workers" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Restoring power after a disaster</title>
+<defs>
+<marker id="arK" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#555"/></marker>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<g id="ok"><circle r="13" fill="#0b5cad"/><path d="M-6 0 L-2 5 L7 -5" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g id="no"><circle r="13" fill="#c33"/><path d="M-5.5 -5.5 L5.5 5.5 M5.5 -5.5 L-5.5 5.5" stroke="#fff" stroke-width="3" stroke-linecap="round"/></g>
+<g id="p">
+<path d="M-3 -12 L-5 0 M3 -12 L5 0" stroke="#333" stroke-width="3.5" stroke-linecap="round"/>
+<rect x="-7" y="-31" width="14" height="20" rx="4" fill="#cfe0f0" stroke="#333" stroke-width="2"/>
+<circle cx="0" cy="-38" r="7" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+</g>
+<g id="box">
+<rect x="0" y="0" width="80" height="96" rx="4" fill="#f2f2f2" stroke="#333" stroke-width="2.5"/>
+<rect x="10" y="14" width="20" height="44" rx="2" fill="#ddd" stroke="#333" stroke-width="1.5"/>
+<rect x="38" y="14" width="10" height="44" rx="2" fill="#ddd" stroke="#333" stroke-width="1.2"/>
+<rect x="52" y="14" width="10" height="44" rx="2" fill="#ddd" stroke="#333" stroke-width="1.2"/>
+<rect x="66" y="14" width="8" height="44" rx="2" fill="#ddd" stroke="#333" stroke-width="1.2"/>
+<g fill="#333"><rect x="40" y="18" width="6" height="16"/><rect x="54" y="18" width="6" height="16"/><rect x="68" y="18" width="4" height="16"/></g>
+</g>
+<path id="wave" d="M0 0 q10 -6 20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0"/>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Restoring power after a disaster: check first, then switch on</text>
+<text x="360" y="50" font-size="13" fill="#555" text-anchor="middle">After floods, typhoons and earthquakes the wiring may have been under water or damaged;</text>
+<text x="360" y="67" font-size="13" fill="#555" text-anchor="middle">accidents after the power comes back on are not uncommon</text>
+<g transform="translate(0,18)">
+
+<!-- before or during -->
+<rect x="10" y="66" width="700" height="262" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="92" font-size="16" font-weight="bold">Before or during a disaster</text>
+
+<g transform="translate(24,104)">
+<rect width="214" height="212" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<g transform="translate(62,12)"><use href="#box"/><rect x="12" y="38" width="16" height="18" rx="2" fill="#333"/></g>
+<path d="M50 30 V66" stroke="#0b5cad" stroke-width="2.5" marker-end="url(#arB)"/>
+<text x="84" y="128" font-size="12" text-anchor="middle" fill="#0b5cad">main switch (off)</text>
+<use href="#ok" x="186" y="26"/>
+<text x="12" y="156" font-size="14" font-weight="bold">If flooding is expected,</text>
+<text x="12" y="176" font-size="14" font-weight="bold">switch off the main</text>
+<text x="12" y="196" font-size="14" font-weight="bold">switch in advance</text>
+</g>
+
+<g transform="translate(253,104)">
+<rect width="214" height="212" rx="6" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<rect x="14" y="10" width="186" height="118" fill="#fafafa" stroke="#999" stroke-width="1.5"/>
+<rect x="34" y="62" width="24" height="18" rx="3" fill="#fff" stroke="#333" stroke-width="1.5"/>
+<path d="M42 68 V74 M50 68 V74" stroke="#333" stroke-width="2"/>
+<rect x="150" y="38" width="38" height="90" rx="3" fill="#e8e8e8" stroke="#333" stroke-width="1.5"/>
+<path d="M150 70 H188" stroke="#333" stroke-width="1.2"/>
+<rect x="15" y="92" width="184" height="35" fill="#cfe0f0" fill-opacity="0.85"/>
+<use href="#wave" x="15" y="92" fill="none" stroke="#7aa6cc" stroke-width="2"/>
+<g transform="translate(104,124) scale(1.3)"><use href="#p"/></g>
+<use href="#no" x="186" y="24"/>
+<text x="12" y="156" font-size="14" font-weight="bold">Do not wade into a room</text>
+<text x="12" y="176" font-size="14" font-weight="bold">that has electrical</text>
+<text x="12" y="196" font-size="14" font-weight="bold">appliances in it</text>
+</g>
+
+<g transform="translate(482,104)">
+<rect width="214" height="212" rx="6" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<rect x="14" y="10" width="186" height="118" fill="#fafafa" stroke="#999" stroke-width="1.5"/>
+<g transform="translate(118,22) scale(0.6)"><use href="#box"/><rect x="12" y="16" width="16" height="18" rx="2" fill="#333"/></g>
+<rect x="15" y="92" width="184" height="35" fill="#cfe0f0" fill-opacity="0.85"/>
+<use href="#wave" x="15" y="92" fill="none" stroke="#7aa6cc" stroke-width="2"/>
+<g transform="translate(88,124) scale(1.3)"><use href="#p"/></g>
+<path d="M94 82 L126 42" stroke="#333" stroke-width="3.5" stroke-linecap="round"/>
+<use href="#no" x="186" y="24"/>
+<text x="12" y="156" font-size="14" font-weight="bold">If the room is flooded,</text>
+<text x="12" y="176" font-size="14" font-weight="bold">do not stand in the water</text>
+<text x="12" y="196" font-size="14" font-weight="bold">to switch off the mains</text>
+</g>
+
+<!-- after the disaster -->
+<g transform="translate(0,14)">
+<rect x="10" y="326" width="700" height="286" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="352" font-size="16" font-weight="bold">After the disaster: in this order</text>
+
+<rect x="24" y="366" width="440" height="80" rx="6" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<use href="#no" x="48" y="406"/>
+<text x="72" y="390" font-size="14" font-weight="bold">① Appliances, sockets, consumer unit under water:</text>
+<text x="72" y="411" font-size="14" font-weight="bold" fill="#c33">do not switch on until an electrician has</text>
+<text x="72" y="432" font-size="14"><tspan font-weight="bold" fill="#c33">checked them</tspan> (even if they look dry)</text>
+<path d="M244 448 V464" stroke="#555" stroke-width="2" marker-end="url(#arK)"/>
+<rect x="24" y="468" width="440" height="80" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<use href="#ok" x="48" y="508"/>
+<text x="72" y="492" font-size="14" font-weight="bold">② Have an electrician check the wiring</text>
+<text x="72" y="513" font-size="13">Where walls have cracked or the house is damaged,</text>
+<text x="72" y="532" font-size="13">cables may be pulled apart or crushed: check them too</text>
+<path d="M244 550 V562" stroke="#555" stroke-width="2" marker-end="url(#arK)"/>
+<rect x="24" y="566" width="440" height="34" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<use href="#ok" x="48" y="583"/>
+<text x="72" y="588" font-size="14" font-weight="bold">③ Only then switch the main switch back on</text>
+
+<rect x="480" y="366" width="216" height="234" rx="6" fill="#fff" stroke="#c33" stroke-width="2"/>
+<text x="494" y="392" font-size="15" font-weight="bold" fill="#c33">⚠️ The moment you</text>
+<text x="494" y="420" font-size="14">• smell burning</text>
+<text x="494" y="444" font-size="14">• see smoke</text>
+<text x="494" y="468" font-size="14">• hear sparking</text>
+<path d="M494 492 H520" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="528" y="498" font-size="16" font-weight="bold" fill="#c33">switch off the</text>
+<text x="528" y="518" font-size="16" font-weight="bold" fill="#c33">main switch</text>
+<text x="528" y="538" font-size="16" font-weight="bold" fill="#c33">at once</text>
+<g transform="translate(600,540) scale(0.5)"><use href="#box"/><rect x="12" y="38" width="16" height="18" rx="2" fill="#333"/></g>
+
+<!-- generator -->
+<rect x="10" y="622" width="700" height="150" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="648" font-size="16" font-weight="bold">When using a generator</text>
+<use href="#no" x="40" y="678"/>
+<text x="62" y="683" font-size="14"><tspan font-weight="bold">Never use it indoors, in a garage or near windows</tspan> (carbon monoxide poisoning)</text>
+<use href="#no" x="40" y="722"/>
+<text x="62" y="718" font-size="14" font-weight="bold">Do not connect a generator to a household socket or the consumer unit</text>
+<text x="62" y="738" font-size="14" font-weight="bold">to "backfeed" the house</text>
+<text x="62" y="758" font-size="14" fill="#c33">it can kill repair workers</text>
+</g>
+</g>
+</g>
+</svg>

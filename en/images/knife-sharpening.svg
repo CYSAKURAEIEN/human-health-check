@@ -1,0 +1,152 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 832" width="720" height="832" role="img" aria-label="Sharpening: first form the edge on a coarse stone, then polish it on a fine stone; soak the stone in water before use (oil for an oilstone), keep it wet while working, and set it on a wet cloth so it does not slip. Find the original angle of the edge, lay the bevel flat on the stone, and push back and forth keeping that angle constant (if the angle rocks up and down you will round the edge); sharpen until you can feel a tiny curled lip (burr) on the other side of the edge, turn it over, lay the back flat on the stone and rub lightly a few times to remove the burr, then repeat on the fine stone. Common angles (guide): kitchen and pocket knives, bevel about 15-20° to the face of the blade; chisels and plane irons, bevel about 25-30°; a splitting axe has a larger angle (blunter and thicker), a felling axe a smaller one. A stone wears hollow in the middle with use; flatten it by rubbing on a flat concrete floor with water and sand" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Sharpening</title>
+<defs><marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker><marker id="arR0" viewBox="0 0 10 10" refX="2" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M10 0 L0 5 L10 10 Z" fill="#c33"/></marker><marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker></defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" text-anchor="middle" font-weight="bold">Sharpening: bevel flat on the stone, angle kept constant</text>
+<rect x="10" y="44" width="230" height="252" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<rect x="246" y="44" width="230" height="252" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<rect x="482" y="44" width="228" height="252" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="24" y="68" font-size="16" font-weight="bold">Kitchen, pocket knives</text>
+<text x="260" y="68" font-size="16" font-weight="bold">Chisels, plane irons</text>
+<text x="496" y="68" font-size="16" font-weight="bold">Axes</text>
+<text x="24" y="88" font-size="13" fill="#555">(blade cross-section)</text>
+<text x="260" y="88" font-size="13" fill="#555">(side view)</text>
+<text x="496" y="88" font-size="13" fill="#555">(axe cross-section, edge down)</text>
+<rect x="24" y="212" width="202" height="18" rx="3" fill="#bdb6a8" stroke="#333" stroke-width="2"/>
+<polygon points="51.1,212 76,212 219.1,166.9 214.5,152.6 71.5,197.7" fill="#d6dde4" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M51.1 212 H76" stroke="#c33" stroke-width="3.5"/>
+<path d="M134 212 A58 58 0 0 0 131.3 194.6" fill="none" stroke="#0b5cad" stroke-width="1.8"/>
+<text x="138" y="210" font-size="14" fill="#0b5cad" font-weight="bold">about 15-20°</text>
+<text x="24" y="254" font-size="14" font-weight="bold">Bevel to the blade face:</text>
+<text x="24" y="272" font-size="14" font-weight="bold" fill="#0b5cad">about 15-20°</text>
+<text x="118" y="124" font-size="13" fill="#555">blade face</text>
+<line x1="140" y1="128" x2="150" y2="182" stroke="#0b5cad" stroke-width="1.3"/><circle cx="150" cy="182" r="2.6" fill="#0b5cad"/>
+<text x="20" y="176" font-size="13" fill="#c33">bevel flat</text>
+<line x1="46" y1="182" x2="60" y2="211" stroke="#0b5cad" stroke-width="1.3"/><circle cx="60" cy="211" r="2.6" fill="#0b5cad"/>
+<rect x="260" y="212" width="202" height="18" rx="3" fill="#bdb6a8" stroke="#333" stroke-width="2"/>
+<polygon points="286.5,212 306,212 387.6,169.5 383.4,161.5" fill="#d6dde4" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="389.7,173.5 381.4,157.5 443.5,125.2 451.8,141.2" fill="#c8a06a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M286.5 212 H306" stroke="#c33" stroke-width="3.5"/>
+<path d="M356 212 A50 50 0 0 0 350.4 188.9" fill="none" stroke="#0b5cad" stroke-width="1.8"/>
+<text x="362" y="206" font-size="14" fill="#0b5cad" font-weight="bold">about 25-30°</text>
+<text x="260" y="254" font-size="14" font-weight="bold" fill="#0b5cad">Bevel about 25-30°</text>
+<text x="262" y="176" font-size="13" fill="#c33">bevel flat</text>
+<line x1="288" y1="182" x2="296" y2="211" stroke="#0b5cad" stroke-width="1.3"/><circle cx="296" cy="211" r="2.6" fill="#0b5cad"/>
+<polygon points="519,110 573,110 573,166 546,196 519,166" fill="#d6dde4" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M519 166 L546 196 L573 166" fill="none" stroke="#c33" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="633,110 667,110 667,144 650,226 633,144" fill="#d6dde4" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M633 144 L650 226 L667 144" fill="none" stroke="#c33" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="546" y="254" font-size="14" font-weight="bold" text-anchor="middle">Splitting axe</text>
+<text x="546" y="272" font-size="13" text-anchor="middle" fill="#0b5cad">larger angle</text>
+<text x="546" y="288" font-size="12" text-anchor="middle" fill="#0b5cad">(blunter, thicker)</text>
+<text x="650" y="254" font-size="14" font-weight="bold" text-anchor="middle">Felling axe</text>
+<text x="650" y="272" font-size="13" text-anchor="middle" fill="#0b5cad">smaller angle</text>
+<g transform="translate(0,16)">
+<rect x="10" y="292" width="135" height="284" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<rect x="151" y="292" width="135" height="284" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<rect x="292" y="292" width="135" height="284" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<rect x="433" y="292" width="135" height="284" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<rect x="574" y="292" width="135" height="284" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="20" y="316" font-size="15" font-weight="bold">① Lay it flat</text>
+<text x="161" y="316" font-size="15" font-weight="bold">② Push</text>
+<text x="302" y="316" font-size="15" font-weight="bold">③ Feel the burr</text>
+<text x="443" y="316" font-size="15" font-weight="bold">④ Turn over</text>
+<text x="584" y="316" font-size="15" font-weight="bold">⑤ Fine stone</text>
+<g font-size="13">
+<text x="20" y="482">Find the edge's</text>
+<text x="20" y="499">original angle; lay</text>
+<text x="20" y="516">the bevel flat on</text>
+<text x="20" y="533">the stone</text>
+<text x="161" y="482">Keep that angle</text>
+<text x="161" y="499">constant; push back</text>
+<text x="161" y="516">and forth</text>
+<text x="161" y="536" fill="#c33">Rocking the angle</text>
+<text x="161" y="553" fill="#c33">rounds the edge</text>
+<text x="302" y="482">Sharpen until you</text>
+<text x="302" y="499">feel a tiny curled</text>
+<text x="302" y="516">lip (burr) on the</text>
+<text x="302" y="533">other side</text>
+<text x="443" y="482">Turn over to</text>
+<text x="443" y="499">remove the burr:</text>
+<text x="443" y="517" font-size="12">chisel, plane: rub</text>
+<text x="443" y="532" font-size="12">the back flat, lightly</text>
+<text x="443" y="550" font-size="12">knife, axe: other side</text>
+<text x="443" y="565" font-size="12">at the same angle</text>
+<text x="584" y="482">Repeat on the fine</text>
+<text x="584" y="499">stone for a finer</text>
+<text x="584" y="516">edge</text>
+</g>
+<rect x="22" y="422" width="112" height="16" rx="3" fill="#bdb6a8" stroke="#333" stroke-width="2"/>
+<polygon points="40.8,422 56,422 95,401.7 91.8,395.5" fill="#d6dde4" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="96.6,404.8 90.2,392.4 116.8,378.5 123.3,390.9" fill="#c8a06a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M40.8 422 H56" stroke="#c33" stroke-width="3.5"/>
+<text x="20" y="360" font-size="13" fill="#c33">bevel flat</text>
+<line x1="40" y1="366" x2="46" y2="421" stroke="#0b5cad" stroke-width="1.3"/><circle cx="46" cy="421" r="2.6" fill="#0b5cad"/>
+<rect x="163" y="422" width="112" height="16" rx="3" fill="#bdb6a8" stroke="#333" stroke-width="2"/>
+<polygon points="181.8,422 197,422 236,401.7 232.8,395.5" fill="#d6dde4" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="237.6,404.8 231.2,392.4 257.8,378.5 264.3,390.9" fill="#c8a06a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M181.8 422 H197" stroke="#c33" stroke-width="3.5"/>
+<path d="M231 422 A34 34 0 0 0 227.2 406.3" fill="none" stroke="#0b5cad" stroke-width="1.8"/>
+<text x="232" y="414" font-size="12" fill="#0b5cad" font-weight="bold">fixed</text>
+<path d="M172 452 H266" stroke="#c33" stroke-width="2.5" marker-start="url(#arR0)" marker-end="url(#arR)"/>
+<circle cx="362" cy="384" r="50" fill="#f7f7f7" stroke="#0b5cad" stroke-width="1.5"/>
+<polygon points="328,376 408,376 408,406 366,406" fill="#d6dde4" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M328 376 q-6 -4 -4 -12" fill="none" stroke="#c33" stroke-width="3" stroke-linecap="round"/>
+<text x="360" y="362" font-size="13" fill="#c33" font-weight="bold">burr</text>
+<line x1="358" y1="357" x2="325" y2="366" stroke="#0b5cad" stroke-width="1.3"/><circle cx="325" cy="366" r="2.6" fill="#0b5cad"/>
+<text x="368" y="393" font-size="12" fill="#555">back</text>
+<text x="344" y="422" font-size="12" fill="#555">bevel</text>
+<text x="362" y="450" font-size="12" fill="#555" text-anchor="middle">(edge section,</text>
+<text x="362" y="464" font-size="12" fill="#555" text-anchor="middle">enlarged)</text>
+<rect x="445" y="422" width="112" height="16" rx="3" fill="#bdb6a8" stroke="#333" stroke-width="2"/>
+<polygon points="466,422 528,422 528,413 478,413" fill="#d6dde4" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<rect x="528" y="409" width="22" height="16" fill="#c8a06a" stroke="#333" stroke-width="2"/>
+<path d="M466 422 H528" stroke="#0b5cad" stroke-width="3.5"/>
+<text x="440" y="382" font-size="13" fill="#0b5cad">back flat</text>
+<line x1="474" y1="387" x2="496" y2="420" stroke="#0b5cad" stroke-width="1.3"/><circle cx="496" cy="420" r="2.6" fill="#0b5cad"/>
+<path d="M540 346 q-8 22 -24 30" fill="none" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<text x="500" y="340" font-size="13" fill="#c33">turn over</text>
+<path d="M454 452 H514" stroke="#c33" stroke-width="2" marker-start="url(#arR0)" marker-end="url(#arR)"/>
+<text x="519" y="457" font-size="12" fill="#c33">lightly</text>
+<rect x="586" y="422" width="112" height="16" rx="3" fill="#e4dfd3" stroke="#333" stroke-width="2"/>
+<polygon points="604.8,422 620,422 659,401.7 655.8,395.5" fill="#d6dde4" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="660.6,404.8 654.2,392.4 680.8,378.5 687.3,390.9" fill="#c8a06a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M604.8 422 H620" stroke="#c33" stroke-width="3.5"/>
+<text x="642" y="456" font-size="13" font-weight="bold" text-anchor="middle">fine stone</text>
+<g transform="translate(0,16)">
+<rect x="10" y="572" width="700" height="218" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="24" y="598" font-size="16" font-weight="bold">Sharpening stones</text>
+<rect x="30" y="642" width="96" height="26" rx="3" fill="#a79f8e" stroke="#333" stroke-width="2"/>
+<g fill="#6f6758"><circle cx="38" cy="648" r="1.8"/><circle cx="51" cy="655" r="1.8"/><circle cx="64" cy="662" r="1.8"/><circle cx="77" cy="653" r="1.8"/><circle cx="90" cy="660" r="1.8"/><circle cx="103" cy="651" r="1.8"/><circle cx="116" cy="658" r="1.8"/><circle cx="45" cy="649" r="1.8"/><circle cx="58" cy="656" r="1.8"/><circle cx="71" cy="663" r="1.8"/><circle cx="84" cy="654" r="1.8"/><circle cx="97" cy="661" r="1.8"/><circle cx="110" cy="652" r="1.8"/><circle cx="39" cy="659" r="1.8"/></g>
+<path d="M134 655 H168" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<rect x="176" y="642" width="96" height="26" rx="3" fill="#e4dfd3" stroke="#333" stroke-width="2"/>
+<text x="78" y="692" font-size="14" font-weight="bold" text-anchor="middle">coarse stone</text>
+<text x="78" y="710" font-size="13" text-anchor="middle">form the edge first</text>
+<text x="224" y="692" font-size="14" font-weight="bold" text-anchor="middle">fine stone</text>
+<text x="224" y="710" font-size="13" text-anchor="middle">then polish</text>
+<path d="M318 676 q30 6 60 0 t60 0 l4 12 h-128 z" fill="#cfe0f0" stroke="#333" stroke-width="1.6"/>
+<rect x="334" y="642" width="96" height="30" rx="3" fill="#bdb6a8" stroke="#333" stroke-width="2"/>
+<path d="M352 622 q-5 7 0 10 q5 -3 0 -10 z" fill="#5b8fc7"/>
+<path d="M380 616 q-5 7 0 10 q5 -3 0 -10 z" fill="#5b8fc7"/>
+<path d="M408 624 q-5 7 0 10 q5 -3 0 -10 z" fill="#5b8fc7"/>
+<text x="386" y="712" font-size="12" text-anchor="middle">Soak before use (oil on an oilstone)</text>
+<text x="386" y="729" font-size="12" text-anchor="middle">and keep it wet while working;</text>
+<text x="386" y="746" font-size="12" text-anchor="middle">set it firmly on a wet cloth</text>
+<text x="452" y="696" font-size="12" fill="#555">wet cloth</text>
+<line x1="450" y1="692" x2="432" y2="682" stroke="#0b5cad" stroke-width="1.3"/><circle cx="432" cy="682" r="2.6" fill="#0b5cad"/>
+<path d="M490 642 Q542 658 594 642 V672 H490 Z" fill="#bdb6a8" stroke="#333" stroke-width="2"/>
+<text x="542" y="634" font-size="13" fill="#c33" text-anchor="middle">hollow in the middle</text>
+<path d="M604 657 H630" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<rect x="638" y="642" width="60" height="22" rx="2" fill="#bdb6a8" stroke="#333" stroke-width="2"/>
+<rect x="628" y="664" width="78" height="10" fill="#ccc" stroke="#999" stroke-width="1.5"/>
+<g fill="#b08c4a"><circle cx="632" cy="662" r="1.6"/><circle cx="639" cy="662" r="1.6"/><circle cx="646" cy="662" r="1.6"/><circle cx="653" cy="662" r="1.6"/><circle cx="660" cy="662" r="1.6"/><circle cx="667" cy="662" r="1.6"/><circle cx="674" cy="662" r="1.6"/><circle cx="681" cy="662" r="1.6"/><circle cx="688" cy="662" r="1.6"/><circle cx="695" cy="662" r="1.6"/><circle cx="702" cy="662" r="1.6"/></g>
+<text x="590" y="704" font-size="12" text-anchor="middle">Worn hollow with use: rub it</text>
+<text x="590" y="720" font-size="12" text-anchor="middle">flat on a flat concrete floor</text>
+<text x="590" y="736" font-size="12" text-anchor="middle">with water and sand</text>
+<text x="668" y="688" font-size="12" fill="#555" text-anchor="middle">concrete</text>
+<text x="360" y="778" font-size="15" text-anchor="middle" font-weight="bold" fill="#c33">Sharpen as soon as it goes blunt: the blunter it gets, the harder it is to sharpen</text>
+</g>
+</g>
+</g>
+</svg>

@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 782" width="720" height="782" role="img" aria-label="Air drying timber (seasoning). Freshly felled green wood must not be used straight away for furniture or tool handles: as it dries it shrinks, splits and warps. Steps: remove the bark (against insects); saw into boards or lengths and coat both ends with paint, wax or mud (to stop the ends splitting); keep somewhere airy, out of the rain and out of direct sun; put small sticks between each layer of timber so air can circulate; as a rule it takes about one year for every 2.5 cm of thickness. If you need wood urgently, use well-seasoned old timber first (from old furniture, old doors and windows); freshly felled wood can be split into small pieces and dried as firewood">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Air drying timber</title>
+<defs>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker>
+<!-- board end (sealed) -->
+<rect id="bd" width="52" height="18" fill="#c98b5a" stroke="#333" stroke-width="1.5"/>
+<!-- sticks -->
+<rect id="st" width="300" height="12" fill="#e9d3a8" stroke="#a88a5a" stroke-width="1" stroke-dasharray="3 2"/>
+<path id="drop" d="M0 0 Q-4 7 0 10 Q4 7 0 0 Z" fill="#7aaad6"/>
+</defs>
+<g font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif" font-size="13" fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Air drying timber (seasoning)</text>
+<text x="360" y="50" font-size="14" text-anchor="middle" fill="#555">Do not use green wood straight away for furniture or tool handles: as it dries it shrinks, splits and warps</text>
+
+<!-- 1 remove the bark -->
+<g transform="translate(10,64)">
+<rect width="226" height="150" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">① Remove the bark</text><text x="30" y="42" font-size="13" fill="#555">(against insects)</text>
+<path d="M30 56 H120 L124 62 L118 70 L125 80 L119 90 L124 98 L120 104 H30 Q20 80 30 56 Z" fill="#8a5a2b" stroke="#333" stroke-width="2"/>
+<g stroke="#5e3b1a" stroke-width="1.5"><path d="M40 64 H70 M52 74 H98 M36 86 H80 M60 96 H110"/></g>
+<path d="M120 56 H190 M120 104 H190" stroke="#333" stroke-width="2"/>
+<path d="M124 62 L118 70 L125 80 L119 90 L124 98 L120 104 H190 V56 H120 Z" fill="#f0dcb4"/>
+<path d="M120 56 H190 M120 104 H190" stroke="#333" stroke-width="2"/>
+<ellipse cx="190" cy="80" rx="10" ry="24" fill="#f0dcb4" stroke="#333" stroke-width="2"/>
+<ellipse cx="190" cy="80" rx="5" ry="12" fill="none" stroke="#c9a46a" stroke-width="1.2"/>
+<text x="113" y="132" text-anchor="middle" font-size="12" fill="#555">left: with bark; right: bark removed</text>
+</g>
+
+<!-- 2 saw into boards -->
+<g transform="translate(247,64)">
+<rect width="226" height="150" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="14" font-weight="bold">② Saw into boards or lengths</text>
+<circle cx="66" cy="82" r="40" fill="#f0dcb4" stroke="#333" stroke-width="2"/>
+<circle cx="66" cy="82" r="26" fill="none" stroke="#c9a46a" stroke-width="1.2"/>
+<circle cx="66" cy="82" r="12" fill="none" stroke="#c9a46a" stroke-width="1.2"/>
+<g stroke="#c33" stroke-width="1.5" stroke-dasharray="4 3"><path d="M30 66 H102 M26 82 H106 M30 98 H102"/></g>
+<path d="M114 82 H144" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<g fill="#f0dcb4" stroke="#333" stroke-width="1.5"><rect x="152" y="58" width="60" height="14"/><rect x="152" y="76" width="60" height="14"/><rect x="152" y="94" width="60" height="14"/></g>
+<text x="113" y="140" text-anchor="middle" font-size="12" fill="#555">(end view)</text>
+</g>
+
+<!-- 3 seal the ends -->
+<g transform="translate(484,64)">
+<rect width="226" height="150" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">③ Coat both ends</text><text x="30" y="42" font-size="13" fill="#555">with paint, wax or mud</text>
+<path d="M24 76 L44 62 H184 L164 76 Z" fill="#f5e6c8" stroke="#333" stroke-width="1.5"/>
+<rect x="24" y="76" width="140" height="20" fill="#f0dcb4" stroke="#333" stroke-width="1.5"/>
+<path d="M164 76 L184 62 V82 L164 96 Z" fill="#c98b5a" stroke="#333" stroke-width="1.5"/>
+<path d="M24 76 V96" stroke="#c98b5a" stroke-width="5"/>
+<path d="M204 44 L184 66" stroke="#8a5a2b" stroke-width="4" stroke-linecap="round"/>
+<path d="M186 60 L178 70 L184 76 L192 66 Z" fill="#c98b5a" stroke="#333" stroke-width="1.2"/>
+<text x="113" y="122" text-anchor="middle">to stop the ends splitting</text>
+<text x="113" y="140" text-anchor="middle" font-size="12" fill="#555">(coat both ends)</text>
+</g>
+
+<!-- 4 stacking to dry (end view) -->
+<g transform="translate(10,224)">
+<rect width="700" height="392" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">④ Keep it airy, out of the rain and out of direct sun, with small sticks between each layer</text>
+<text x="12" y="44" font-size="12" fill="#555">(looking at the ends of the timber)</text>
+<!-- sun and rain -->
+<g transform="translate(636,66)">
+<circle r="16" fill="#f6d36b" stroke="#f2a33a" stroke-width="2"/>
+<g stroke="#f2a33a" stroke-width="2" stroke-linecap="round"><path d="M0 -24 V-30 M0 24 V30 M-24 0 H-30 M24 0 H30 M-17 -17 L-21 -21 M17 17 L21 21 M17 -17 L21 -21 M-17 17 L-21 21"/></g>
+</g>
+<use href="#drop" x="140" y="60"/><use href="#drop" x="180" y="74"/><use href="#drop" x="220" y="58"/><use href="#drop" x="260" y="72"/><use href="#drop" x="300" y="60"/>
+<!-- roof and posts -->
+<path d="M110 340 V112 M530 340 V136" stroke="#8a5a2b" stroke-width="6"/>
+<path d="M84 108 L556 138" stroke="#666" stroke-width="10" stroke-linecap="round"/>
+<!-- ground -->
+<path d="M40 340 H600" stroke="#999" stroke-width="3"/>
+<!-- stack: 5 layers of 5 boards, sticks between the layers -->
+<g transform="translate(170,0)">
+<use href="#st" y="328"/>
+<g transform="translate(0,310)"><use href="#bd"/><use href="#bd" x="62"/><use href="#bd" x="124"/><use href="#bd" x="186"/><use href="#bd" x="248"/></g>
+<use href="#st" y="298"/>
+<g transform="translate(0,280)"><use href="#bd"/><use href="#bd" x="62"/><use href="#bd" x="124"/><use href="#bd" x="186"/><use href="#bd" x="248"/></g>
+<use href="#st" y="268"/>
+<g transform="translate(0,250)"><use href="#bd"/><use href="#bd" x="62"/><use href="#bd" x="124"/><use href="#bd" x="186"/><use href="#bd" x="248"/></g>
+<use href="#st" y="238"/>
+<g transform="translate(0,220)"><use href="#bd"/><use href="#bd" x="62"/><use href="#bd" x="124"/><use href="#bd" x="186"/><use href="#bd" x="248"/></g>
+<use href="#st" y="208"/>
+<g transform="translate(0,190)"><use href="#bd"/><use href="#bd" x="62"/><use href="#bd" x="124"/><use href="#bd" x="186"/><use href="#bd" x="248"/></g>
+</g>
+<!-- airflow -->
+<g stroke="#0b5cad" stroke-width="2" marker-end="url(#arB)">
+<path d="M126 214 H162"/><path d="M126 244 H162"/><path d="M126 274 H162"/><path d="M126 304 H162"/>
+<path d="M476 214 H514"/><path d="M476 244 H514"/><path d="M476 274 H514"/><path d="M476 304 H514"/>
+</g>
+<!-- labels -->
+<g stroke="#0b5cad" stroke-width="1">
+<line x1="420" y1="125" x2="470" y2="96"/>
+<line x1="514" y1="244" x2="560" y2="244"/>
+<line x1="440" y1="274" x2="560" y2="282"/>
+<line x1="408" y1="196" x2="560" y2="184"/>
+</g>
+<text x="474" y="100" fill="#0b5cad">out of the rain,</text><text x="474" y="116" fill="#0b5cad">out of direct sun</text>
+<text x="564" y="238" fill="#0b5cad">airy: air flows</text>
+<text x="564" y="256" fill="#0b5cad">between layers</text>
+<text x="564" y="278" fill="#0b5cad">small sticks</text>
+<text x="564" y="296" fill="#0b5cad">between layers</text>
+<text x="564" y="180" fill="#0b5cad">ends coated with</text>
+<text x="564" y="198" fill="#0b5cad">paint, wax or mud</text>
+<text x="350" y="370" text-anchor="middle">Put small sticks between each layer of timber so air can circulate</text>
+</g>
+
+<!-- time -->
+<g transform="translate(10,626)">
+<rect width="330" height="146" rx="8" fill="none" stroke="#c33" stroke-width="2"/>
+<text x="12" y="24" font-size="15" font-weight="bold">⑤ How long</text>
+<rect x="24" y="52" width="110" height="30" fill="#f0dcb4" stroke="#333" stroke-width="1.5"/>
+<path d="M144 52 H156 M144 82 H156 M150 52 V82" stroke="#c33" stroke-width="1.5"/>
+<text x="162" y="62" fill="#c33" font-weight="bold">2.5 cm thick</text>
+<path d="M164 78 H188" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<text x="194" y="83" fill="#c33" font-weight="bold">about one year</text>
+<text x="12" y="112">As a rule it takes about one year</text><text x="12" y="130">for every 2.5 cm of thickness</text>
+</g>
+
+<!-- when you cannot wait -->
+<g transform="translate(350,626)">
+<rect width="360" height="146" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">When you cannot wait</text>
+<text x="12" y="52">✓ If you need wood urgently, use well-seasoned</text>
+<text x="28" y="70">old timber first (from old furniture, old</text><text x="28" y="88">doors and windows)</text>
+<text x="12" y="112">✓ Freshly felled wood can be split into small</text>
+<text x="28" y="130">pieces and dried as firewood</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,168 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 808" width="720" height="808" role="img" aria-label="Copying and preserving records. Preserve first: medicine (first aid, common illnesses, childbirth, medicine doses); agriculture (growing crops, raising animals, saving seed); water purification and sanitation; engineering and crafts; the basics of mathematics and science; the community's own records (population, births and deaths, weather, harvests, land boundaries). Copying: write neatly, with numbers above all clear, since one wrong digit in a medicine dose is a tenfold difference; when the copy is finished, have another person check it against the original, especially numbers, units and doses; note on the copy where it was copied from, who copied it, who checked it and the date. Keep several copies in different places, so that if one burns or floods, others remain. Preserving: against damp, use oiled paper, wax seals, sealed pottery jars or metal boxes, kept high up, off the ground; against insects, camphor-wood chests, Sichuan pepper, mugwort, and air them regularly; guard against fire and rats; write in carbon-black ink, not inks that fade easily; check regularly and recopy anything damaged without delay" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Copying and preserving records</title>
+<defs>
+<marker id="arK" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#555"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<g id="doc"><path d="M0,0 H40 L52,12 V68 H0 Z" fill="#fff" stroke="#333" stroke-width="1.8" stroke-linejoin="round"/><path d="M40,0 V12 H52" fill="none" stroke="#333" stroke-width="1.2"/><path d="M8,22 H44 M8,32 H44 M8,42 H38 M8,52 H44" stroke="#555" stroke-width="1.5"/></g>
+<g id="house"><path d="M-44,0 V-56 H44 V0 Z" fill="#f3ead9" stroke="#333" stroke-width="2"/><path d="M-54,-54 L0,-92 L54,-54 Z" fill="#b9a68a" stroke="#333" stroke-width="2" stroke-linejoin="round"/><path d="M-18,-34 Q-9,-39 0,-34 Q9,-39 18,-34 V-12 Q9,-17 0,-12 Q-9,-17 -18,-12 Z" fill="#fff" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/><path d="M0,-34 V-12 M-13,-28 H-4 M-13,-22 H-4 M4,-28 H13 M4,-22 H13" stroke="#555" stroke-width="1"/></g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Preserving records: several copies, stored apart, checked regularly</text>
+<text x="360" y="50" font-size="13" fill="#555" text-anchor="middle">Knowledge kept in only one or two heads vanishes as soon as that person falls ill or leaves</text>
+
+<!-- 1 what to preserve first -->
+<rect x="8" y="64" width="282" height="298" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="88" font-size="15" font-weight="bold">① What to preserve first</text>
+<g stroke="#333" stroke-width="1.5">
+<rect x="20" y="100" width="256" height="48" rx="3" fill="#f6d8d8"/>
+<rect x="26" y="150" width="250" height="48" rx="3" fill="#dfeccf"/>
+<rect x="18" y="200" width="252" height="30" rx="3" fill="#d6e8f5"/>
+<rect x="24" y="232" width="254" height="30" rx="3" fill="#eadfcf"/>
+<rect x="20" y="264" width="250" height="30" rx="3" fill="#e6e0f0"/>
+<rect x="26" y="296" width="252" height="56" rx="3" fill="#f5ecc8"/>
+</g>
+<g stroke="#333" stroke-width="1"><path d="M40,100 V148 M46,150 V198 M38,200 V230 M44,232 V262 M40,264 V294 M46,296 V352"/></g>
+<g font-size="13" font-weight="bold">
+<text x="50" y="116">Medicine</text>
+<text x="56" y="166">Agriculture</text>
+<text x="48" y="220">Water purification, sanitation</text>
+<text x="54" y="252">Engineering and crafts</text>
+<text x="50" y="284">Basics of maths and science</text>
+<text x="56" y="312">The community's own records</text>
+</g>
+<g font-size="12" fill="#444">
+<text x="50" y="130">first aid, common illnesses,</text>
+<text x="50" y="143">childbirth, medicine doses</text>
+<text x="56" y="180">growing crops, raising animals,</text>
+<text x="56" y="193">saving seed</text>
+<text x="56" y="327">population, births and deaths,</text>
+<text x="56" y="341">weather, harvests, land boundaries</text>
+</g>
+
+<!-- 2 copying and checking -->
+<rect x="300" y="64" width="412" height="298" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="310" y="88" font-size="15" font-weight="bold">② Copying and checking</text>
+<use href="#doc" x="322" y="104"/>
+<use href="#doc" x="446" y="104"/>
+<text x="348" y="190" font-size="13" font-weight="bold" text-anchor="middle">original</text>
+<text x="472" y="190" font-size="13" font-weight="bold" text-anchor="middle">copy</text>
+<path d="M382,138 H438" stroke="#555" stroke-width="2.5" marker-end="url(#arK)"/>
+<text x="410" y="130" font-size="13" text-anchor="middle">copy</text>
+<path d="M472,198 V208 Q472,214 466,214 H354 Q348,214 348,208 V200" fill="none" stroke="#0b5cad" stroke-width="2" marker-end="url(#arB)"/>
+<text x="410" y="232" font-size="13" fill="#0b5cad" font-weight="bold" text-anchor="middle">another person checks it</text>
+<text x="410" y="248" font-size="13" fill="#0b5cad" font-weight="bold" text-anchor="middle">against the original</text>
+<!-- note on the copy -->
+<path d="M514,100 H700 V210 H514 Z" fill="#fffbe8" stroke="#333" stroke-width="1.5"/>
+<text x="524" y="120" font-size="13" font-weight="bold">Note on the copy:</text>
+<g font-size="13">
+<text x="530" y="142">· where it was copied from</text>
+<text x="530" y="162">· who copied it</text>
+<text x="530" y="182">· who checked it</text>
+<text x="530" y="202">· the date</text>
+</g>
+<g font-size="13">
+<text x="314" y="274"><tspan fill="#0b5cad" font-weight="bold">✓</tspan> Write neatly; numbers above all must be clear</text>
+<text x="314" y="296"><tspan fill="#c33" font-weight="bold">✗ One wrong digit in a medicine dose is a</tspan></text>
+<text x="330" y="313"><tspan fill="#c33" font-weight="bold">tenfold difference</tspan></text>
+<text x="314" y="335"><tspan fill="#0b5cad" font-weight="bold">✓</tspan> When checking, look especially at numbers,</text>
+<text x="330" y="352">units and doses</text>
+</g>
+
+<g transform="translate(0,30)">
+<!-- 3 several copies -->
+<rect x="8" y="344" width="704" height="160" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="368" font-size="15" font-weight="bold">③ Several copies, kept in different places</text>
+<path d="M20,470 H700" stroke="#999" stroke-width="2.5"/>
+<use href="#house" x="140" y="470"/>
+<use href="#house" x="360" y="470"/>
+<use href="#house" x="580" y="470"/>
+<!-- fire -->
+<path d="M110,420 C100,402 118,396 114,380 C126,392 132,388 128,376 C144,392 150,404 142,420 Z" fill="#f2a33a" stroke="#c33" stroke-width="1.5"/>
+<path d="M156,420 C150,408 160,402 158,392 C168,402 172,410 166,420 Z" fill="#f2a33a" stroke="#c33" stroke-width="1.5"/>
+<!-- flood -->
+<path d="M306,444 q10,-6 20,0 t20,0 t20,0 t20,0 t20,0 t20,0 V470 H306 Z" fill="#9cc3e6" fill-opacity="0.8" stroke="#0b5cad" stroke-width="1.5"/>
+<g font-size="13" text-anchor="middle">
+<text x="140" y="492" fill="#c33" font-weight="bold">one place burns</text>
+<text x="360" y="492" fill="#0b5cad" font-weight="bold">one place floods</text>
+<text x="580" y="492" font-weight="bold">✓ copies elsewhere survive</text>
+</g>
+
+<!-- 4 how to store -->
+<rect x="8" y="514" width="704" height="256" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="538" font-size="15" font-weight="bold">④ How to store them</text>
+
+<g transform="translate(16,548)">
+<rect width="131" height="212" rx="5" fill="#fff" stroke="#ccc" stroke-width="1.2"/>
+<path d="M50,54 Q42,40 48,26 H84 Q90,40 82,54 Z" fill="#d9b38c" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="46" y="16" width="40" height="10" rx="2" fill="#c33" stroke="#333" stroke-width="1.2"/>
+<path d="M24,54 H108" stroke="#8a5a2b" stroke-width="4"/>
+<path d="M30,54 L40,64 M102,54 L92,64" stroke="#8a5a2b" stroke-width="2"/>
+<path d="M16,78 H116" stroke="#999" stroke-width="2"/>
+<path d="M112,74 V60" stroke="#0b5cad" stroke-width="1.5" marker-end="url(#arB)"/>
+<g font-size="12" text-anchor="middle">
+<text x="65" y="100" font-size="14" font-weight="bold">Against damp</text>
+<text x="65" y="120">oiled paper, wax</text>
+<text x="65" y="136">seals, sealed</text>
+<text x="65" y="152">pottery jars or</text>
+<text x="65" y="168">metal boxes</text>
+<text x="65" y="188" fill="#0b5cad">keep high up,</text>
+<text x="65" y="204" fill="#0b5cad">off the ground</text>
+</g>
+</g>
+
+<g transform="translate(155,548)">
+<rect width="131" height="212" rx="5" fill="#fff" stroke="#ccc" stroke-width="1.2"/>
+<rect x="28" y="30" width="76" height="40" rx="2" fill="#c89a62" stroke="#333" stroke-width="1.5"/>
+<path d="M28,40 H104" stroke="#333" stroke-width="1.2"/>
+<rect x="60" y="44" width="12" height="8" fill="#8a5a2b" stroke="#333" stroke-width="1"/>
+<g fill="#c33" stroke="#7a1f1f" stroke-width="0.6"><circle cx="40" cy="24" r="3"/><circle cx="46" cy="21" r="3"/><circle cx="45" cy="27" r="3"/></g>
+<path d="M78,28 C82,14 96,10 100,8 C98,18 90,26 78,28 Z" fill="#9fb98a" stroke="#4d7a2e" stroke-width="1.2"/>
+<g font-size="12" text-anchor="middle">
+<text x="65" y="100" font-size="14" font-weight="bold">Against insects</text>
+<text x="65" y="120">camphor-wood</text>
+<text x="65" y="136">chests, Sichuan</text>
+<text x="65" y="152">pepper, mugwort</text>
+<text x="65" y="172" fill="#0b5cad">air them regularly</text>
+</g>
+</g>
+
+<g transform="translate(294,548)">
+<rect width="131" height="212" rx="5" fill="#fff" stroke="#ccc" stroke-width="1.2"/>
+<path d="M34,62 C24,48 36,40 34,26 C44,36 50,32 48,22 C60,36 62,50 54,62 Z" fill="#f2a33a" stroke="#c33" stroke-width="1.5"/>
+<ellipse cx="94" cy="52" rx="16" ry="10" fill="#aaa" stroke="#333" stroke-width="1.5"/>
+<circle cx="84" cy="42" r="5" fill="#ccc" stroke="#333" stroke-width="1.2"/>
+<path d="M110,54 Q120,60 116,68" fill="none" stroke="#333" stroke-width="1.5"/>
+<g fill="none" stroke="#c33" stroke-width="2.5"><circle cx="44" cy="44" r="24"/><path d="M27,27 L61,61"/><circle cx="94" cy="50" r="24"/><path d="M77,33 L111,67"/></g>
+<g font-size="14" text-anchor="middle" font-weight="bold">
+<text x="65" y="100">Against fire</text>
+<text x="65" y="118">and rats</text>
+</g>
+</g>
+
+<g transform="translate(433,548)">
+<rect width="131" height="212" rx="5" fill="#fff" stroke="#ccc" stroke-width="1.2"/>
+<rect x="26" y="44" width="66" height="24" rx="6" fill="#999" stroke="#333" stroke-width="1.5"/>
+<ellipse cx="48" cy="56" rx="14" ry="6" fill="#111"/>
+<rect x="84" y="10" width="14" height="46" rx="2" fill="#222" stroke="#333" stroke-width="1" transform="rotate(20 91 33)"/>
+<g font-size="12" text-anchor="middle">
+<text x="65" y="100" font-size="14" font-weight="bold">Carbon-black ink</text>
+<text x="65" y="120">not inks that</text>
+<text x="65" y="136">fade easily</text>
+</g>
+</g>
+
+<g transform="translate(572,548)">
+<rect width="132" height="212" rx="5" fill="#fff" stroke="#ccc" stroke-width="1.2"/>
+<g transform="translate(66,66)"><path d="M-18,-34 Q-9,-39 0,-34 Q9,-39 18,-34 V-12 Q9,-17 0,-12 Q-9,-17 -18,-12 Z" fill="#fff" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/><path d="M0,-34 V-12 M-13,-28 H-4 M-13,-22 H-4 M4,-28 H13 M4,-22 H13" stroke="#555" stroke-width="1"/></g>
+<path d="M38,34 A30,30 0 0 1 90,22" fill="none" stroke="#0b5cad" stroke-width="2" marker-end="url(#arB)"/>
+<path d="M94,52 A30,30 0 0 1 42,64" fill="none" stroke="#0b5cad" stroke-width="2" marker-end="url(#arB)"/>
+<g font-size="12" text-anchor="middle">
+<text x="66" y="100" font-size="14" font-weight="bold">Check regularly</text>
+<text x="66" y="120">recopy anything</text>
+<text x="66" y="136">damaged at once</text>
+</g>
+</g>
+</g>
+</g>
+</svg>
