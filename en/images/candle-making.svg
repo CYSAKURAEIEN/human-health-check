@@ -1,0 +1,171 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 862" width="720" height="862" role="img" aria-label="Making candles. Materials: beeswax (burns cleanly, little smoke); animal fat (beef or mutton tallow is best), which must first be rendered and purified; recycled candle stubs and wax; wicks twisted or braided from pure cotton thread, dipped in melted wax and dried before use. Always heat in a water bath: put the jar of wax in a pot of hot water, never straight on the fire; wax and fat heated directly can get too hot and catch fire by themselves. Dipping (no mould needed): hold the wick by one end, dip it in the melted wax, lift it out and let it cool a little; dip again and again, building it up layer by layer to the thickness you need; hang up to dry and trim the bottom flat. Moulding: use a bamboo tube, paper tube or tin can as the mould; fix the wick in the centre, its top end tied to a chopstick laid across the top and its bottom end passed out through a small hole in the base or held down; pour in the melted wax and unmould when cool. Safety: keep a pot lid nearby; never pour water on a burning wax or oil fire: turn off the heat and put the lid on, or smother it with a wet towel or sand; keep children away from the work area. In a power cut use battery lamps first, oil lamps and candles only second; always put them out before leaving the room or going to sleep">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Making candles</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<g id="fl"><path d="M0 0 Q-8 -8 -4 -18 Q-1 -24 0 -30 Q1 -24 4 -18 Q8 -8 0 0 Z" fill="#f6d36b" stroke="#f2a33a" stroke-width="1.5"/></g>
+<g id="no"><circle r="12" fill="#c33"/><path d="M-5 -5 L5 5 M5 -5 L-5 5" stroke="#fff" stroke-width="3" stroke-linecap="round"/></g>
+<g id="ok"><circle r="12" fill="#0b5cad"/><path d="M-5.5 0 L-2 4.5 L6 -4.5" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+</defs>
+<g font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif" font-size="13" fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Making candles</text>
+<text x="360" y="50" font-size="13" text-anchor="middle" fill="#555">In a power cut use battery lamps first; candles are second best, and need open-flame safety</text>
+
+<!-- materials -->
+<g transform="translate(10,64)">
+<rect width="290" height="256" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">Materials</text>
+<text x="12" y="50"><tspan font-weight="bold">Beeswax</tspan>: burns cleanly, little smoke,</text>
+<text x="28" y="67">smells good</text>
+<text x="12" y="90"><tspan font-weight="bold">Animal fat</tspan> (beef or mutton tallow best):</text>
+<text x="28" y="107">render and purify it first; it smells</text>
+<text x="28" y="124">a little when burning</text>
+<text x="12" y="147"><tspan font-weight="bold">Recycled</tspan> candle stubs and wax</text>
+<text x="12" y="172" font-weight="bold">Wicks</text>
+<text x="12" y="190">pure cotton thread, twisted or braided;</text>
+<text x="12" y="207">dip in melted wax and dry before use</text>
+<!-- braided wick -->
+<g transform="translate(40,228)" fill="none" stroke-width="3" stroke-linecap="round">
+<path d="M0 0 q10 -8 20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0" stroke="#777"/>
+<path d="M0 0 q10 8 20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0" stroke="#bbb"/>
+</g>
+<text x="145" y="250" text-anchor="middle" font-size="12" fill="#555">braided cotton wick</text>
+</g>
+
+<!-- water bath -->
+<g transform="translate(310,64)">
+<rect width="400" height="256" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">Melting wax or fat: always use a water bath</text>
+<!-- right: pot of hot water -->
+<use href="#ok" x="22" y="56"/>
+<path d="M30 92 H190 M30 92 V172 Q30 186 44 186 H176 Q190 186 190 172 V92" fill="none" stroke="#333" stroke-width="2.5"/>
+<path d="M32 110 H188 V172 Q188 184 176 184 H44 Q32 184 32 172 Z" fill="#d6e9f8"/>
+<path d="M32 110 H188" stroke="#7aaad6" stroke-width="1.5"/>
+<path d="M18 100 H30 M190 100 H202" stroke="#333" stroke-width="4" stroke-linecap="round"/>
+<rect x="86" y="74" width="48" height="104" rx="2" fill="#eef2f5" stroke="#333" stroke-width="2"/>
+<rect x="88" y="104" width="44" height="72" fill="#f3d27a"/>
+<path d="M88 104 H132" stroke="#c9962e" stroke-width="1.5"/>
+<path d="M14 196 H206" stroke="#999" stroke-width="3"/>
+<use href="#fl" x="70" y="220"/><use href="#fl" x="110" y="220"/><use href="#fl" x="150" y="220"/>
+<g stroke="#0b5cad" stroke-width="1"><line x1="136" y1="80" x2="196" y2="54"/><line x1="176" y1="150" x2="222" y2="150"/><line x1="112" y1="140" x2="222" y2="128"/></g>
+<text x="198" y="52" fill="#0b5cad">jar of wax</text>
+<text x="226" y="132" fill="#0b5cad">wax or fat</text>
+<text x="226" y="154" fill="#0b5cad">hot water</text>
+<!-- wrong: straight on the fire -->
+<path d="M282 168 H392" stroke="#ccc" stroke-width="1" stroke-dasharray="3 3"/>
+<use href="#no" x="339" y="114"/>
+<rect x="318" y="128" width="42" height="60" rx="2" fill="#eef2f5" stroke="#333" stroke-width="2"/>
+<rect x="320" y="146" width="38" height="40" fill="#f3d27a"/>
+<path d="M300 196 H380" stroke="#999" stroke-width="3"/>
+<use href="#fl" x="330" y="220"/><use href="#fl" x="350" y="220"/>
+<text x="390" y="52" text-anchor="end" fill="#c33" font-weight="bold">Never put it</text>
+<text x="390" y="68" text-anchor="end" fill="#c33" font-weight="bold">straight on the fire</text>
+<text x="390" y="83" text-anchor="end" font-size="12" fill="#c33">direct heat can overheat it</text>
+<text x="390" y="97" text-anchor="end" font-size="12" fill="#c33">and it catches fire by itself</text>
+</g>
+
+<!-- dipping -->
+<g transform="translate(10,330)">
+<rect width="420" height="290" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">Dipping (no mould needed)</text>
+<text x="70" y="50" text-anchor="middle" font-weight="bold">①</text>
+<text x="210" y="50" text-anchor="middle" font-weight="bold">②</text>
+<text x="350" y="50" text-anchor="middle" font-weight="bold">③</text>
+<path d="M140 40 V276 M280 40 V276" stroke="#e3e3e3" stroke-width="1"/>
+<!-- 1 dip -->
+<path d="M70 60 V172" stroke="#777" stroke-width="2.5"/>
+<rect x="64" y="58" width="12" height="10" rx="3" fill="#f3e3d3" stroke="#333" stroke-width="1.5"/>
+<path d="M98 116 V82" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<path d="M104 82 V116" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<rect x="34" y="128" width="72" height="62" rx="2" fill="#eef2f5" stroke="#333" stroke-width="2"/>
+<rect x="36" y="140" width="68" height="48" fill="#f3d27a"/>
+<path d="M36 140 H104" stroke="#c9962e" stroke-width="1.5"/>
+<text x="70" y="214" text-anchor="middle">Hold the wick by</text>
+<text x="70" y="231" text-anchor="middle">one end, dip it in</text>
+<text x="70" y="248" text-anchor="middle">melted wax, lift,</text>
+<text x="70" y="265" text-anchor="middle">let it cool a little</text>
+<!-- 2 build up layers -->
+<g stroke="#777" stroke-width="2"><path d="M170 66 V82"/><path d="M210 66 V82"/><path d="M250 66 V82"/></g>
+<rect x="166" y="82" width="8" height="100" rx="3" fill="#f7e7b0" stroke="#333" stroke-width="1.5"/>
+<rect x="202" y="82" width="16" height="100" rx="5" fill="#f7e7b0" stroke="#333" stroke-width="1.5"/>
+<rect x="238" y="82" width="24" height="100" rx="7" fill="#f7e7b0" stroke="#333" stroke-width="1.5"/>
+<path d="M180 194 H232" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<text x="210" y="214" text-anchor="middle">Dip again and again,</text>
+<text x="210" y="231" text-anchor="middle">building up layer</text>
+<text x="210" y="248" text-anchor="middle">by layer to the</text>
+<text x="210" y="265" text-anchor="middle">thickness you need</text>
+<!-- 3 hang to dry -->
+<path d="M296 70 H404" stroke="#8a5a2b" stroke-width="5" stroke-linecap="round"/>
+<g stroke="#777" stroke-width="2"><path d="M326 70 V86"/><path d="M374 70 V86"/></g>
+<path d="M314 86 H338 V182 H314 Z" fill="#f7e7b0" stroke="#333" stroke-width="1.5"/>
+<path d="M362 86 H386 V176 Q380 186 374 182 Q368 188 362 180 Z" fill="#f7e7b0" stroke="#333" stroke-width="1.5"/>
+<path d="M354 182 H394" stroke="#c33" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="350" y="222" text-anchor="middle">Hang up to dry;</text>
+<text x="350" y="239" text-anchor="middle">trim the bottom</text>
+<text x="350" y="256" text-anchor="middle">flat</text>
+<text x="326" y="200" text-anchor="middle" font-size="12" fill="#555">trimmed</text>
+<text x="396" y="186" font-size="12" fill="#c33">cut</text>
+</g>
+
+<!-- moulding -->
+<g transform="translate(440,330)">
+<rect width="270" height="290" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">Moulding</text>
+<!-- mould -->
+<path d="M70 70 V172 Q70 180 78 180 H122 Q130 180 130 172 V70" fill="#eef2f5" stroke="#333" stroke-width="2.5"/>
+<path d="M72 112 H128 V172 Q128 178 122 178 H78 Q72 178 72 172 Z" fill="#f3d27a"/>
+<path d="M72 112 H128" stroke="#c9962e" stroke-width="1.5"/>
+<!-- chopstick -->
+<path d="M50 64 H150" stroke="#8a5a2b" stroke-width="5" stroke-linecap="round"/>
+<!-- wick -->
+<path d="M100 61 V192" stroke="#777" stroke-width="2.5"/>
+<circle cx="100" cy="64" r="4" fill="none" stroke="#777" stroke-width="2"/>
+<!-- pouring wax -->
+<path d="M150 54 Q118 66 116 108" fill="none" stroke="#e7b94a" stroke-width="4" stroke-linecap="round"/>
+<path d="M150 46 L176 34 L186 54 L160 66 Z" fill="#eef2f5" stroke="#333" stroke-width="2"/>
+<g stroke="#0b5cad" stroke-width="1"><line x1="56" y1="64" x2="38" y2="48"/><line x1="130" y1="150" x2="146" y2="150"/><line x1="100" y1="188" x2="146" y2="198"/></g>
+<text x="12" y="44" fill="#0b5cad">chopstick laid across</text>
+<text x="190" y="36" fill="#c33">pour in</text>
+<text x="190" y="52" fill="#c33">melted wax</text>
+<text x="150" y="140" font-size="12" fill="#0b5cad">mould: bamboo</text>
+<text x="150" y="154" font-size="12" fill="#0b5cad">tube, paper tube</text>
+<text x="150" y="168" font-size="12" fill="#0b5cad">or tin can</text>
+<text x="150" y="194" font-size="12" fill="#0b5cad">end out through</text>
+<text x="150" y="208" font-size="12" fill="#0b5cad">a hole in the base,</text>
+<text x="150" y="222" font-size="12" fill="#0b5cad">or held down</text>
+<text x="12" y="246">Fix the wick in the centre, top end</text>
+<text x="12" y="263">tied to the chopstick</text>
+<text x="12" y="280">Unmould when cool</text>
+</g>
+
+<!-- safety -->
+<g transform="translate(10,630)">
+<rect width="360" height="222" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="2"/>
+<text x="12" y="24" font-size="15" font-weight="bold" fill="#c33">⚠️ Safety when melting wax</text>
+<text x="12" y="50">✓ Always use a water bath</text>
+<text x="12" y="70">✓ Keep a pot lid nearby</text>
+<text x="12" y="90">✓ Keep children away from the work area</text>
+<text x="12" y="118" font-weight="bold" fill="#c33">❌ Never pour water on a wax or oil fire!</text>
+<text x="32" y="136" font-size="12" fill="#c33">(it spatters and the fire flares up)</text>
+<text x="32" y="158">→ turn off the heat and put the lid on</text>
+<text x="48" y="176">to cut off the air; or smother it with</text>
+<text x="48" y="194">a wet towel or sand</text>
+</g>
+
+<!-- lighting -->
+<g transform="translate(380,630)">
+<rect width="330" height="222" rx="8" fill="none" stroke="#0b5cad" stroke-width="2"/>
+<text x="12" y="24" font-size="15" font-weight="bold" fill="#0b5cad">Power-cut lighting: battery lamps</text>
+<text x="12" y="42" font-size="15" font-weight="bold" fill="#0b5cad">first, not candles</text>
+<text x="12" y="68">First choice: LED torch, head torch,</text>
+<text x="12" y="86">LED camping lantern, wind-up or</text>
+<text x="12" y="104">solar-charged lamp</text>
+<text x="12" y="126">Second: oil lamps, candles</text>
+<text x="12" y="148" font-size="12" fill="#555">Power cuts are a peak time for candle fires</text>
+<text x="12" y="172">✓ On a stable, non-flammable base</text>
+<text x="12" y="194">✓ <tspan font-weight="bold" fill="#c33">Always put out before leaving</tspan></text>
+<text x="28" y="210" font-weight="bold" fill="#c33">the room or going to sleep</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,245 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1760" width="720" height="1760" role="img" aria-label="Bridges. 1, simple timber beam bridge: build an abutment on each bank, of stone masonry or a timber crib filled with stone, bedded deep in firm ground; lay timber beams on top and planks across the beams, with gaps between the planks and railings on both sides; rest the beam ends on stone, do not bury them in earth; doubling the span doubles the bending moment, or makes it 4 times if the load per metre stays the same; a beam set on edge is stronger than one laid flat; two pine beams about 30 cm in diameter side by side, spanning about 5 m, carry a fully loaded handcart with margin to spare; for spans over about 6-8 m add a pier in the middle or use a truss. 2, stone arch bridge: first build heavy abutments, put up timber centring, lay wedge-shaped stones up from both sides at once, set the keystone last, fill the haunches with stone and earth, and remove the centring slowly once the mortar has hardened; the arch pushes outwards to both sides. 3, suspension bridge: anchor both ends of the main cables to the roots of big trees, boulders or deep-buried logs; the sag is about 1/10 of the span; add handrail ropes on both sides and net them together. 4, testing: inspect first, then load-test by piling heavy weights in the middle of the bridge; first an empty cart, then half load, then full load, one cart at a time; do not cross during a flood" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Bridges: beam, arch and suspension bridges, and testing</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="dimB" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,1 L10,5 L0,9 Z" fill="#0b5cad"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<pattern id="plank" x="180" y="166" width="10" height="6" patternUnits="userSpaceOnUse"><rect width="7" height="6" fill="#b8955a"/></pattern>
+<g id="abut"><rect width="40" height="80" fill="#d8d8d8" stroke="#333" stroke-width="2"/><path d="M0,20 H40 M0,40 H40 M0,60 H40 M20,0 V20 M10,20 V40 M30,20 V40 M20,40 V60 M10,60 V80 M30,60 V80" stroke="#888" stroke-width="1"/></g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Bridges: beam, arch, suspension, and testing (schematic, not to scale)</text>
+
+<!-- 1 simple timber beam bridge -->
+<rect x="10" y="44" width="700" height="478" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="70" font-size="16" font-weight="bold">① Simple beam bridge: abutment on each bank, timber beams, cross planks</text>
+<path d="M11.5,210 L216,210 L252,286 L468,286 L504,210 L708.5,210 V300 H11.5 Z" fill="#e8e8e8"/>
+<path d="M11.5,210 L216,210 L252,286 L468,286 L504,210 L708.5,210" fill="none" stroke="#999" stroke-width="3"/>
+<path d="M233,246 L487,246 L468,286 L252,286 Z" fill="#d6e8f5"/>
+<path d="M233,246 H487" stroke="#7fb6e0" stroke-width="2"/>
+<use href="#abut" x="176" y="192"/><use href="#abut" x="504" y="192"/>
+<rect x="182" y="184" width="28" height="8" fill="#aaa" stroke="#333" stroke-width="1.5"/>
+<rect x="510" y="184" width="28" height="8" fill="#aaa" stroke="#333" stroke-width="1.5"/>
+<rect x="180" y="172" width="360" height="12" rx="6" fill="#d9c29a" stroke="#333" stroke-width="2"/>
+<rect x="180" y="166" width="360" height="6" fill="url(#plank)"/>
+<path d="M190,134 V166 M260,134 V166 M330,134 V166 M400,134 V166 M470,134 V166 M530,134 V166 M186,134 H534 M186,150 H534" stroke="#8f6d2e" stroke-width="3"/>
+<line x1="218" y1="228" x2="502" y2="228" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#dimB)" marker-end="url(#dimB)"/>
+<text x="360" y="222" font-size="14" font-weight="bold" fill="#0b5cad" text-anchor="middle">span</text>
+<text x="360" y="202" font-size="13" text-anchor="middle">timber beams</text>
+<g stroke="#555" stroke-width="1"><path d="M98,142 H186"/><path d="M152,236 H176"/><path d="M558,120 L522,167"/><path d="M554,228 L538,191"/></g>
+<text x="24" y="138" font-size="13">railings on</text>
+<text x="24" y="154" font-size="13">both sides</text>
+<g font-size="12"><text x="20" y="222">Abutment: stone</text><text x="20" y="237">masonry, or a timber</text><text x="20" y="252">crib filled with stone;</text><text x="20" y="267">bed it deep in firm</text><text x="20" y="282">ground so floods</text><text x="20" y="297">can't scour it out</text>
+<text x="562" y="92">gaps between the deck</text><text x="562" y="106">planks let rain drain</text><text x="562" y="120">through</text>
+<text x="558" y="232">rest beam ends on stone;</text><text x="558" y="247">don't bury them in earth</text><text x="558" y="262" fill="#555">(the ends rot first)</text></g>
+<!-- cross-section -->
+<path d="M54,316 V343 M170,316 V343" stroke="#8f6d2e" stroke-width="3"/>
+<rect x="50" y="343" width="124" height="6" fill="#b8955a"/>
+<circle cx="78" cy="366" r="17" fill="#d9c29a" stroke="#333" stroke-width="2"/>
+<circle cx="146" cy="366" r="17" fill="#d9c29a" stroke="#333" stroke-width="2"/>
+<circle cx="78" cy="366" r="6" fill="none" stroke="#8f6d2e" stroke-width="1"/><circle cx="146" cy="366" r="6" fill="none" stroke="#8f6d2e" stroke-width="1"/>
+<line x1="62" y1="394" x2="94" y2="394" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#dimB)" marker-end="url(#dimB)"/>
+<path d="M61,370 V398 M95,370 V398" stroke="#0b5cad" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="104" y="399" font-size="13" fill="#0b5cad">about 30 cm</text>
+<text x="112" y="424" font-size="13" text-anchor="middle">Section: two log</text>
+<text x="112" y="440" font-size="13" text-anchor="middle">beams side by side</text>
+<!-- on edge / flat -->
+<path d="M222,370 H336" stroke="#999" stroke-width="2"/>
+<rect x="234" y="334" width="18" height="36" fill="#d9c29a" stroke="#333" stroke-width="2"/>
+<rect x="290" y="352" width="36" height="18" fill="#d9c29a" stroke="#333" stroke-width="2"/>
+<text x="243" y="390" font-size="13" text-anchor="middle" font-weight="bold">on edge ✓</text>
+<text x="308" y="390" font-size="13" text-anchor="middle" fill="#555">flat</text>
+<text x="278" y="412" font-size="12" text-anchor="middle">taller than wide: on edge</text>
+<text x="278" y="427" font-size="12" text-anchor="middle">is much stronger than flat</text>
+<g font-size="13">
+<text x="372" y="330">• The longer the span, the thicker the beam:</text>
+<text x="386" y="348">for the same load, doubling the span doubles</text>
+<text x="386" y="366">the bending moment in the middle (4 times if</text>
+<text x="386" y="384">the load per metre stays the same)</text>
+<text x="372" y="408">• Example: two pine beams about 30 cm across</text>
+<text x="386" y="426">side by side, spanning about 5 m, carry a fully</text>
+<text x="386" y="444">loaded handcart with margin to spare (wood rots</text>
+<text x="386" y="462">and has knots: leave plenty of margin)</text>
+<text x="372" y="490" font-weight="bold">• Span over about 6-8 m: add a pier in the</text>
+<text x="386" y="508" font-weight="bold">middle, or use a truss</text>
+</g>
+
+<!-- 2 stone arch bridge -->
+<g transform="translate(0,90)">
+<rect x="10" y="444" width="700" height="440" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="470" font-size="16" font-weight="bold">② Stone arch bridge: the arch turns weight into compression to both ends</text>
+<rect x="11.5" y="508" width="28.5" height="192" fill="#e8e8e8"/><rect x="424" y="508" width="16" height="192" fill="#e8e8e8"/>
+<rect x="11.5" y="700" width="428.5" height="22" fill="#e2ddd3"/>
+<path d="M11.5,700 H440" stroke="#999" stroke-width="2"/>
+<text x="232" y="716" font-size="13" fill="#555" text-anchor="middle">firm foundation or rock</text>
+<path d="M40,508 H424 V640 H360 A128,128 0 0 0 104,640 H40 Z" fill="#f1ead9" stroke="#333" stroke-width="2"/>
+<rect x="11.5" y="500" width="428.5" height="8" fill="#cfcfcf" stroke="#333" stroke-width="1.5"/>
+<rect x="40" y="640" width="92" height="60" fill="#d8d8d8" stroke="#333" stroke-width="2"/>
+<rect x="332" y="640" width="92" height="60" fill="#d8d8d8" stroke="#333" stroke-width="2"/>
+<path d="M132,672 H332 V700 H132 Z" fill="#d6e8f5"/>
+<path d="M132,672 H332" stroke="#7fb6e0" stroke-width="2"/>
+<g fill="#e3e0da" stroke="#333" stroke-width="1.5">
+<path d="M104.0,640.0 A128,128 0 0 1 109.2,603.9 L136.1,611.8 A100,100 0 0 0 132.0,640.0 Z"/>
+<path d="M109.2,603.9 A128,128 0 0 1 124.3,570.8 L147.9,585.9 A100,100 0 0 0 136.1,611.8 Z"/>
+<path d="M124.3,570.8 A128,128 0 0 1 148.2,543.3 L166.5,564.4 A100,100 0 0 0 147.9,585.9 Z"/>
+<path d="M148.2,543.3 A128,128 0 0 1 178.8,523.6 L190.5,549.0 A100,100 0 0 0 166.5,564.4 Z"/>
+<path d="M178.8,523.6 A128,128 0 0 1 213.8,513.3 L217.8,541.0 A100,100 0 0 0 190.5,549.0 Z"/>
+<path d="M250.2,513.3 A128,128 0 0 1 285.2,523.6 L273.5,549.0 A100,100 0 0 0 246.2,541.0 Z"/>
+<path d="M285.2,523.6 A128,128 0 0 1 315.8,543.3 L297.5,564.4 A100,100 0 0 0 273.5,549.0 Z"/>
+<path d="M315.8,543.3 A128,128 0 0 1 339.7,570.8 L316.1,585.9 A100,100 0 0 0 297.5,564.4 Z"/>
+<path d="M339.7,570.8 A128,128 0 0 1 354.8,603.9 L327.9,611.8 A100,100 0 0 0 316.1,585.9 Z"/>
+<path d="M354.8,603.9 A128,128 0 0 1 360.0,640.0 L332.0,640.0 A100,100 0 0 0 327.9,611.8 Z"/>
+</g>
+<path d="M213.8,513.3 A128,128 0 0 1 250.2,513.3 L246.2,541.0 A100,100 0 0 0 217.8,541.0 Z" fill="#f3d0d0" stroke="#c33" stroke-width="2.5"/>
+<!-- timber centring -->
+<g stroke="#8f6d2e" stroke-width="3" fill="none">
+<path d="M134,640 A98,98 0 0 1 330,640" stroke-width="4"/>
+<path d="M134,640 H330 M182,640 V556 M232,640 V542 M282,640 V556 M232,640 L160,574 M232,640 L304,574 M160,640 V700 M304,640 V700"/>
+</g>
+<path d="M150,476 V496" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<text x="144" y="490" font-size="13" fill="#c33" text-anchor="end">load on the bridge</text>
+<path d="M240,494 L234,526" stroke="#555" stroke-width="1"/>
+<text x="184" y="491" font-size="12" font-weight="bold" fill="#c33">Keystone: goes in last, locks the arch</text>
+<path d="M100,576 L130,583" stroke="#555" stroke-width="1"/>
+<text x="46" y="574" font-size="12">wedge</text>
+<text x="46" y="588" font-size="12">stones</text>
+<text x="324" y="524" font-size="12">haunches filled</text>
+<text x="324" y="539" font-size="12">with stone, earth</text>
+<path d="M98,616 A136,136 0 0 1 154,529" fill="none" stroke="#0b5cad" stroke-width="2" marker-end="url(#arB)"/>
+<path d="M366,616 A136,136 0 0 0 310,529" fill="none" stroke="#0b5cad" stroke-width="2" marker-end="url(#arB)"/>
+<text x="232" y="688" font-size="13" text-anchor="middle" fill="#8f6d2e" font-weight="bold">timber centring (formwork)</text>
+<text x="86" y="654" font-size="12" text-anchor="middle">abutment</text>
+<text x="86" y="667" font-size="12" text-anchor="middle">(springing)</text>
+<text x="378" y="654" font-size="12" text-anchor="middle">abutment</text>
+<text x="378" y="667" font-size="12" text-anchor="middle">(springing)</text>
+<path d="M120,677 H58" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<path d="M344,677 H406" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<text x="86" y="695" font-size="13" text-anchor="middle" fill="#c33" font-weight="bold">pushes out</text>
+<text x="378" y="695" font-size="13" text-anchor="middle" fill="#c33" font-weight="bold">pushes out</text>
+<text x="46" y="520" font-size="12" fill="#0b5cad">build both</text>
+<text x="46" y="534" font-size="12" fill="#0b5cad">sides up</text>
+<text x="46" y="548" font-size="12" fill="#0b5cad">together</text>
+<g font-size="13">
+<text x="452" y="498" font-weight="bold">How it is built (principle):</text>
+<text x="452" y="520">1. First build heavy abutments</text>
+<text x="470" y="537">(springings) on both sides, on</text>
+<text x="470" y="554">firm foundation or rock</text>
+<text x="452" y="576">2. Put up timber centring shaped</text>
+<text x="470" y="593">to the arch's inner curve</text>
+<text x="452" y="615">3. Lay wedge-shaped stones up from</text>
+<text x="470" y="632">both springings at once, keeping</text>
+<text x="470" y="649">both sides level and symmetrical</text>
+<text x="452" y="671">4. Finally set the keystone in the</text>
+<text x="470" y="688">middle</text>
+<text x="452" y="710">5. Fill the haunches with stone and</text>
+<text x="470" y="727">earth; lay the deck</text>
+<text x="452" y="749">6. When the mortar has hardened,</text>
+<text x="470" y="766">remove the centring slowly and</text>
+<text x="470" y="783">evenly</text>
+</g>
+<g font-size="14" fill="#c33" font-weight="bold">
+<text x="24" y="810">⚠ The arch pushes outwards: if the abutments aren't heavy enough, the springings</text>
+<text x="42" y="828">slide outwards and the whole bridge collapses</text>
+<text x="24" y="850">⚠ Without experience build only small spans (a few m); never stand under the arch</text>
+<text x="42" y="868">while the centring is removed</text>
+</g>
+</g>
+
+<!-- 3 suspension bridge -->
+<g transform="translate(0,986)">
+<rect x="10" y="0" width="700" height="380" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="26" font-size="16" font-weight="bold">③ Suspension bridge: cables in tension, anchored at both ends, sagging</text>
+<path d="M11.5,122 L92,122 L124,212 L324,212 L356,122 L440,122 V240 H11.5 Z" fill="#e8e8e8"/>
+<path d="M115,186 L333,186 L324,212 L124,212 Z" fill="#d6e8f5"/>
+<path d="M115,186 H333" stroke="#7fb6e0" stroke-width="2"/>
+<path d="M11.5,122 L92,122 L124,212 L324,212 L356,122 L440,122" fill="none" stroke="#999" stroke-width="3"/>
+<rect x="44" y="70" width="14" height="52" fill="#b08a55" stroke="#333" stroke-width="2"/>
+<circle cx="51" cy="58" r="20" fill="#cfe3c4" stroke="#333" stroke-width="2"/>
+<circle cx="414" cy="180" r="8" fill="#d9c29a" stroke="#333" stroke-width="2"/>
+<g fill="none" stroke-linejoin="round">
+<path d="M58,123 Q224,189 390,123" stroke="#b8955a" stroke-width="7" stroke-dasharray="5 3"/>
+<path d="M58,90 L71.8,127.3 L85.7,100.1 L99.5,136.4 L113.3,108.3 L127.2,143.8 L141,114.8 L154.8,149.3 L168.7,119.3 L182.5,152.9 L196.3,122.1 L210.2,154.8 L224,123 L237.8,154.8 L251.7,122.1 L265.5,152.9 L279.3,119.3 L293.2,149.3 L307,114.8 L320.8,143.8 L334.7,108.3 L348.5,136.4 L362.3,100.1 L376.2,127.3 L390,90" stroke="#a88a5a" stroke-width="1"/>
+<path d="M58,120 Q224,186 390,120 L412,174" stroke="#8f6d2e" stroke-width="3"/>
+<path d="M58,90 Q224,156 390,90 L410,174" stroke="#8f6d2e" stroke-width="2.5"/>
+</g>
+<path d="M58,120 H390" stroke="#0b5cad" stroke-width="1" stroke-dasharray="5 4"/>
+<line x1="224" y1="122" x2="224" y2="151" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#dimB)" marker-end="url(#dimB)"/>
+<text x="232" y="166" font-size="13" fill="#0b5cad" font-weight="bold">sag about 1/10</text>
+<text x="232" y="181" font-size="13" fill="#0b5cad" font-weight="bold">of the span</text>
+<path d="M58,124 V236 M390,124 V236" stroke="#0b5cad" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="60" y1="230" x2="388" y2="230" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#dimB)" marker-end="url(#dimB)"/>
+<text x="224" y="226" font-size="13" fill="#0b5cad" font-weight="bold" text-anchor="middle">span</text>
+<g stroke="#555" stroke-width="1"><path d="M290,100 V114"/><path d="M168,62 L168,128"/><path d="M150,164 V148"/></g>
+<g font-size="13">
+<text x="290" y="96" text-anchor="middle">handrail rope</text>
+<text x="176" y="64">rope net</text>
+<text x="104" y="176">main cables</text>
+<text x="104" y="191" font-size="12">(deck on top)</text>
+<text x="14" y="180" font-size="12">anchor: base</text>
+<text x="14" y="194" font-size="12">of a big tree</text>
+<text x="438" y="208" font-size="12" text-anchor="end">deep-buried log</text>
+</g>
+<g font-size="13">
+<text x="452" y="52">• Main cables: two or more thick</text>
+<text x="466" y="69">ropes or (salvaged) wire ropes</text>
+<text x="452" y="92" font-weight="bold">• Sag about 1/10 of the span:</text>
+<text x="466" y="109">the flatter it is pulled, the greater</text>
+<text x="466" y="126">the tension in the cable</text>
+<text x="452" y="149">• Anchors: big tree roots, boulders</text>
+<text x="466" y="166">or deep-buried logs; they must take</text>
+<text x="466" y="183">the cables' full pull</text>
+<text x="452" y="206">• Add handrail ropes on both sides,</text>
+<text x="466" y="223">netted to the deck with rope so</text>
+<text x="466" y="240">nobody falls off</text>
+<text x="452" y="263">✓ It sways when walked on: only a</text>
+<text x="466" y="280">few people at a time; don't march</text>
+<text x="466" y="297">in step</text>
+<text x="452" y="320">✓ Plant-fibre rope rots and gets</text>
+<text x="466" y="337">eaten by insects: inspect regularly;</text>
+<text x="466" y="354">replace it if worn or mouldy</text>
+</g>
+</g>
+
+<!-- 4 testing -->
+<g transform="translate(0,1378)">
+<rect x="10" y="0" width="700" height="370" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="26" font-size="16" font-weight="bold">④ Testing and using a bridge (new, long unused, or after a flood)</text>
+<path d="M11.5,132 H300 V162 H11.5 Z" fill="#e8e8e8"/>
+<path d="M11.5,132 H300" stroke="#999" stroke-width="2"/>
+<rect x="40" y="104" width="24" height="46" fill="#d8d8d8" stroke="#333" stroke-width="2"/>
+<rect x="260" y="104" width="24" height="46" fill="#d8d8d8" stroke="#333" stroke-width="2"/>
+<rect x="44" y="92" width="236" height="12" rx="6" fill="#d9c29a" stroke="#333" stroke-width="2"/>
+<g fill="#e6dcc0" stroke="#333" stroke-width="1.5">
+<rect x="136" y="78" width="26" height="14" rx="5"/><rect x="162" y="78" width="26" height="14" rx="5"/><rect x="149" y="64" width="26" height="14" rx="5"/>
+</g>
+<path d="M64,106 Q162,130 260,106" fill="none" stroke="#c33" stroke-width="2" stroke-dasharray="5 4"/>
+<text x="162" y="42" font-size="13" text-anchor="middle">stones or sandbags heavier</text>
+<text x="162" y="57" font-size="13" text-anchor="middle">than the planned load</text>
+<text x="162" y="184" font-size="13" text-anchor="middle" fill="#c33" font-weight="bold">How far does the beam sag?</text>
+<text x="162" y="201" font-size="13" text-anchor="middle" fill="#c33" font-weight="bold">Any creaking? Does it spring</text>
+<text x="162" y="218" font-size="13" text-anchor="middle" fill="#c33" font-weight="bold">back when unloaded?</text>
+<text x="162" y="246" font-size="14" text-anchor="middle" font-weight="bold">empty → half load → full load</text>
+<g font-size="13">
+<text x="316" y="56">1. Inspect first: are the abutments scoured out or</text>
+<text x="334" y="73">tilting? Are the beams cracked or rotten? (Stab with</text>
+<text x="334" y="90">a knife: if it goes in easily, the wood is rotten)</text>
+<text x="316" y="113">2. Load-test slowly: pile stones or sandbags heavier</text>
+<text x="334" y="130">than the planned load in the middle of the bridge;</text>
+<text x="334" y="147">watch how far the beam sags, listen for creaking,</text>
+<text x="334" y="164">and check it springs back when unloaded</text>
+<text x="316" y="187">3. First an empty cart, then half load, then full load</text>
+<text x="316" y="210">4. One cart or one animal at a time; don't crowd</text>
+<text x="334" y="227">people and animals onto the bridge</text>
+<text x="316" y="250">✓ Put up a sign at the bridge stating the load limit</text>
+<text x="316" y="273">✓ Inspect once a year, and at once after a flood</text>
+</g>
+<rect x="20" y="290" width="680" height="70" rx="6" fill="#fbeaea" stroke="#c33" stroke-width="1.5"/>
+<g font-size="14" fill="#c33" font-weight="bold">
+<text x="32" y="311">☠ Don't cross during a flood: piers and abutments may already be scoured</text>
+<text x="50" y="330">out, which you can't see from the surface; drifting trees can knock the</text>
+<text x="50" y="349">bridge down. Better to wait for the water to go down</text>
+</g>
+</g>
+</g>
+</svg>

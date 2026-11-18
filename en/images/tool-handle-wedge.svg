@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 822" width="720" height="822" role="img" aria-label="Replacing a tool handle (axe, hammer, hoe): 1 remove the old handle: saw off the broken handle, then drill into what is left from the wedge side and knock it out; 2 choose well-seasoned hardwood with the grain running along the length of the handle, free of knots and cracks; 3 rough it out first, then shave and test-fit repeatedly until the head end can just be knocked tightly into the tool's eye; 4 knock the head end of the handle into the eye, leaving a little sticking out, saw a slot down into the top of the handle (about 2/3 of the depth of the eye), knock a hardwood wedge into the slot (a little glue can be added) to spread the handle tight, and saw off the part that sticks out flush; 5 swing it and tap it, there must be no looseness at all. Stop using an axe or hammer at once if its head is loose and repair it, as a flying head injures people; do not soak a dry tool handle in water to make it swell tight, as once it dries it will be looser than before" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Replacing a tool handle</title>
+<defs><marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker><marker id="arS" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker><marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker><marker id="arB0" viewBox="0 0 10 10" refX="2" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M10 0 L0 5 L10 10 Z" fill="#0b5cad"/></marker><pattern id="hat" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#b8c2cc"/><path d="M0 0 V6" stroke="#7d8894" stroke-width="1"/></pattern><pattern id="cut" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#fbe9e9"/><path d="M0 0 V6" stroke="#c33" stroke-width="1.2"/></pattern></defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" text-anchor="middle" font-weight="bold">Replacing a tool handle (axe, hammer, hoe): knock in, then wedge tight</text>
+<rect x="10" y="44" width="172" height="320" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<rect x="186" y="44" width="172" height="320" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<rect x="362" y="44" width="172" height="320" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<rect x="538" y="44" width="172" height="320" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<rect x="10" y="372" width="172" height="320" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<rect x="186" y="372" width="172" height="320" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<rect x="362" y="372" width="172" height="320" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<rect x="538" y="372" width="172" height="320" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="20" y="68" font-size="15" font-weight="bold">① Remove</text>
+<text x="196" y="68" font-size="15" font-weight="bold">② Choose wood</text>
+<text x="372" y="68" font-size="15" font-weight="bold">③ Shape</text>
+<text x="548" y="68" font-size="15" font-weight="bold">④ Knock in</text>
+<text x="20" y="396" font-size="15" font-weight="bold">⑤ Saw a slot</text>
+<text x="196" y="396" font-size="15" font-weight="bold">⑥ Wedge</text>
+<text x="372" y="396" font-size="15" font-weight="bold">⑦ Saw flush</text>
+<text x="548" y="396" font-size="15" font-weight="bold">⑧ Check</text>
+<g font-size="12" fill="#555" text-anchor="end">
+<text x="172" y="68">(section)</text><text x="524" y="68">(section)</text><text x="700" y="68">(section)</text>
+<text x="172" y="396">(section)</text><text x="348" y="396">(section)</text><text x="524" y="396">(section)</text>
+</g>
+<g font-size="13">
+<text x="20" y="290">Saw off the broken</text>
+<text x="20" y="307">handle; drill into the</text>
+<text x="20" y="324">rest from the wedge</text>
+<text x="20" y="341">side and knock it out</text>
+<text x="196" y="290">Well-seasoned</text>
+<text x="196" y="307">hardwood, grain along</text>
+<text x="196" y="324">the handle's length; no</text>
+<text x="196" y="341">knots or cracks</text>
+<text x="372" y="290">Rough it out, then shave</text>
+<text x="372" y="307">and test-fit until the</text>
+<text x="372" y="324">head end can just be</text>
+<text x="372" y="341">knocked tightly into</text>
+<text x="372" y="358">the tool's eye</text>
+<text x="548" y="290">Knock the head end of</text>
+<text x="548" y="307">the handle into the eye,</text>
+<text x="548" y="324">leaving a little</text>
+<text x="548" y="341">sticking out</text>
+<text x="20" y="618">Saw a slot down into</text>
+<text x="20" y="635">the top of the handle</text>
+<text x="20" y="652">(about 2/3 of the</text>
+<text x="20" y="669">depth of the eye)</text>
+<text x="196" y="618">Knock a hardwood</text>
+<text x="196" y="635">wedge into the slot</text>
+<text x="196" y="652">(a little glue can be</text>
+<text x="196" y="669">added) to spread the</text>
+<text x="196" y="686">handle tight</text>
+<text x="372" y="618">Saw off the part that</text>
+<text x="372" y="635">sticks out flush</text>
+<text x="548" y="618">Swing it and tap it;</text>
+<text x="548" y="635">there must be no</text>
+<text x="548" y="652">looseness at all</text>
+</g>
+<path d="M83.0 128 H59.0 V192 H83.0 Z M109.0 128 H133.0 V192 H109.0 Z" fill="url(#hat)" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<rect x="83.0" y="128" width="26" height="64" fill="#e3c491" stroke="#333" stroke-width="2"/>
+<polygon points="91,128 101,128 96,168" fill="#a8773f" stroke="#333" stroke-width="1.5"/>
+<text x="114" y="92" font-size="12" fill="#555">old wedge</text>
+<line x1="130" y1="96" x2="98" y2="134" stroke="#0b5cad" stroke-width="1.3"/><circle cx="98" cy="134" r="2.6" fill="#0b5cad"/>
+<path d="M89 130 V190" stroke="#c33" stroke-width="1.6" stroke-dasharray="4 3"/>
+<path d="M103 130 V190" stroke="#c33" stroke-width="1.6" stroke-dasharray="4 3"/>
+<text x="22" y="94" font-size="12" fill="#c33">drill</text>
+<line x1="40" y1="98" x2="89" y2="138" stroke="#0b5cad" stroke-width="1.3"/><circle cx="89" cy="138" r="2.6" fill="#0b5cad"/>
+<path d="M77.0 195 H115.0" stroke="#c33" stroke-width="2" stroke-dasharray="5 3"/>
+<path d="M83.0 206 H109.0 V236 l-6 8 l-5 -6 l-6 9 l-4 -7 l-5 5 Z" fill="#e3c491" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<text x="118" y="200" font-size="12" fill="#c33">saw off</text>
+<text x="116" y="222" font-size="12" fill="#555">broken</text><text x="116" y="236" font-size="12" fill="#555">handle</text>
+<rect x="230" y="94" width="28" height="150" rx="4" fill="#e3c491" stroke="#333" stroke-width="2"/>
+<path d="M237 100 V238 M244 100 V238 M251 100 V238" stroke="#b08c4a" stroke-width="1.2"/>
+<path d="M244 142 l-6 8 l4 0 l0 30 l4 0 l0 -30 l4 0 z" fill="#0b5cad"/>
+<text x="204" y="262" font-size="12" fill="#0b5cad">straight grain</text>
+<path d="M220 90 l6 8 l12 -16" fill="none" stroke="#2a8a3a" stroke-width="3"/>
+<rect x="296" y="94" width="28" height="150" rx="4" fill="#e3c491" stroke="#333" stroke-width="2"/>
+<path d="M302 100 C302 134 318 154 318 238 M310 100 C310 114 322 164 322 194" fill="none" stroke="#b08c4a" stroke-width="1.2"/>
+<ellipse cx="306" cy="136" rx="6" ry="8" fill="#7a5a32" stroke="#333" stroke-width="1.3"/>
+<path d="M314 194 l-4 10 l5 8 l-4 12" fill="none" stroke="#333" stroke-width="2"/>
+<text x="326" y="140" font-size="12" fill="#c33">knot</text>
+<text x="323" y="214" font-size="12" fill="#c33">crack</text>
+<path d="M292 80 l14 14 M306 80 l-14 14" stroke="#c33" stroke-width="3"/>
+<path d="M435.0 100 H411.0 V164 H435.0 Z M461.0 100 H485.0 V164 H461.0 Z" fill="url(#hat)" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M432 188 L435 248 H461 L464 188 Z" fill="#e3c491" stroke="#333" stroke-width="2"/>
+<path d="M430 248 L429 268 M466 248 L467 268" stroke="#333" stroke-width="2"/>
+<path d="M435 248 H430 M461 248 H466" stroke="#333" stroke-width="2"/>
+<path d="M436 198 l6 8 M452 202 l6 8" stroke="#b08c4a" stroke-width="1.3"/>
+<path d="M436 214 l6 8 M452 218 l6 8" stroke="#b08c4a" stroke-width="1.3"/>
+<path d="M436 230 l6 8 M452 234 l6 8" stroke="#b08c4a" stroke-width="1.3"/>
+<path d="M492 220 V172" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="498" y="202" font-size="13" fill="#c33">test</text>
+<text x="370" y="224" font-size="13" fill="#555">shave</text>
+<line x1="414" y1="220" x2="434" y2="216" stroke="#0b5cad" stroke-width="1.3"/><circle cx="434" cy="216" r="2.6" fill="#0b5cad"/>
+<path d="M611.0 134 H587.0 V198 H611.0 Z M637.0 134 H661.0 V198 H637.0 Z" fill="url(#hat)" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<rect x="611.0" y="120" width="26" height="128" fill="#e3c491" stroke="#333" stroke-width="2"/>
+<path d="M617.5 124 V244 M630.5 124 V244" stroke="#b08c4a" stroke-width="1.2"/>
+<path d="M669.0 120 H639.0" stroke="#0b5cad" stroke-width="1.3"/>
+<text x="644" y="94" font-size="12" fill="#0b5cad">a little</text><text x="644" y="108" font-size="12" fill="#0b5cad">sticks out</text>
+<path d="M594 248 V208" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="550" y="226" font-size="13" fill="#c33">knock</text><text x="550" y="241" font-size="13" fill="#c33">in</text>
+<g transform="translate(0,20)">
+<path d="M83.0 442 H59.0 V506 H83.0 Z M109.0 442 H133.0 V506 H109.0 Z" fill="url(#hat)" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<rect x="83.0" y="428" width="26" height="128" fill="#e3c491" stroke="#333" stroke-width="2"/>
+<path d="M89.5 432 V552 M102.5 432 V552" stroke="#b08c4a" stroke-width="1.2"/>
+<path d="M96 428 V485" stroke="#333" stroke-width="2.4"/>
+<path d="M139.0 442 H151.0 M139.0 506 H151.0" stroke="#0b5cad" stroke-width="1"/>
+<path d="M145.0 443 V505" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<text x="150" y="472" font-size="12" fill="#0b5cad">eye</text><text x="150" y="486" font-size="12" fill="#0b5cad">depth</text>
+<path d="M41.0 442 H53.0 M41.0 485 H53.0" stroke="#c33" stroke-width="1"/>
+<path d="M47.0 443 V484" stroke="#c33" stroke-width="1.5" marker-start="url(#arR)" marker-end="url(#arR)"/>
+<path d="M53.0 485 H94" stroke="#c33" stroke-width="1" stroke-dasharray="3 2"/>
+<text x="18" y="502" font-size="12" fill="#c33">about</text>
+<text x="18" y="516" font-size="12" fill="#c33" font-weight="bold">2/3</text>
+<text x="104" y="412" font-size="12" fill="#555">slot</text>
+<line x1="104" y1="416" x2="97" y2="436" stroke="#0b5cad" stroke-width="1.3"/><circle cx="97" cy="436" r="2.6" fill="#0b5cad"/>
+<path d="M259.0 442 H235.0 V506 H259.0 Z M285.0 442 H309.0 V506 H285.0 Z" fill="url(#hat)" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M259.0 556 V442 L256.0 428 H288.0 L285.0 442 V556 Z" fill="#e3c491" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M265 512 V552 M279 512 V552" stroke="#b08c4a" stroke-width="1.2"/>
+<polygon points="266,418 278,418 272,485" fill="#a8773f" stroke="#333" stroke-width="1.6" stroke-linejoin="round"/>
+<path d="M272 384 V412" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<path d="M269 468 H259" stroke="#c33" stroke-width="2" marker-end="url(#arS)"/>
+<path d="M269 482 H259" stroke="#c33" stroke-width="2" marker-end="url(#arS)"/>
+<path d="M275 468 H285" stroke="#c33" stroke-width="2" marker-end="url(#arS)"/>
+<path d="M275 482 H285" stroke="#c33" stroke-width="2" marker-end="url(#arS)"/>
+<text x="290" y="390" font-size="12" fill="#555">hardwood</text><text x="290" y="403" font-size="12" fill="#555">wedge</text>
+<line x1="290" y1="408" x2="275" y2="424" stroke="#0b5cad" stroke-width="1.3"/><circle cx="275" cy="424" r="2.6" fill="#0b5cad"/>
+<text x="196" y="402" font-size="13" fill="#c33" font-weight="bold">spread</text><text x="196" y="416" font-size="13" fill="#c33" font-weight="bold">tight</text>
+<line x1="214" y1="421" x2="261" y2="468" stroke="#0b5cad" stroke-width="1.3"/><circle cx="261" cy="468" r="2.6" fill="#0b5cad"/>
+<path d="M435.0 442 H411.0 V506 H435.0 Z M461.0 442 H485.0 V506 H461.0 Z" fill="url(#hat)" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<rect x="435.0" y="442" width="26" height="114" fill="#e3c491" stroke="#333" stroke-width="2"/>
+<path d="M441.5 446 V552 M454.5 446 V552" stroke="#b08c4a" stroke-width="1.2"/>
+<rect x="432.0" y="428" width="32" height="14" fill="url(#cut)" stroke="#c33" stroke-width="1.3" stroke-dasharray="4 3"/>
+<polygon points="443,442 453,442 448,485" fill="#a8773f" stroke="#333" stroke-width="1.5"/>
+<path d="M388 442 H508" stroke="#c33" stroke-width="1.6" stroke-dasharray="6 3"/>
+<text x="468" y="420" font-size="13" fill="#c33" font-weight="bold">saw flush</text>
+<g transform="translate(640 470) rotate(-20)">
+<rect x="-9" y="-80" width="18" height="170" rx="6" fill="#e3c491" stroke="#333" stroke-width="2"/>
+<path d="M-9 -80 H9 V-48 H-9 Z M-9 -76 L-56 -92 L-56 -36 L-9 -52 Z M9 -76 H24 V-52 H9 Z" fill="#9aa5b0" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+</g>
+<path d="M588 404 A120 120 0 0 1 658 374" fill="none" stroke="#c33" stroke-width="2.2" marker-end="url(#arR)"/>
+<path d="M580 420 A140 140 0 0 1 600 398" fill="none" stroke="#c33" stroke-width="2.2"/>
+<text x="664" y="386" font-size="13" fill="#c33">swing</text>
+<path d="M692 540 l8 -6 M694 551 h10 M692 562 l8 6" stroke="#c33" stroke-width="2"/>
+<text x="682" y="528" font-size="13" fill="#c33">tap</text>
+</g>
+<rect x="10" y="704" width="700" height="108" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<path d="M24 716 l12 20 h-24 z" fill="#c33"/><text x="24" y="733" font-size="13" fill="#fff" text-anchor="middle" font-weight="bold">!</text>
+<text x="44" y="731" font-size="14.5" font-weight="bold" fill="#c33">Stop using an axe or hammer at once if its head is loose, and repair it:</text>
+<text x="44" y="750" font-size="14.5" font-weight="bold" fill="#c33">a flying head injures people</text>
+<circle cx="24" cy="776" r="9" fill="none" stroke="#c33" stroke-width="2.4"/><path d="M18 770 l12 12" stroke="#c33" stroke-width="2.4"/>
+<text x="44" y="782" font-size="14.5" font-weight="bold">Do not soak a dry tool handle in water “to make it swell tight”:</text>
+<text x="44" y="801" font-size="14.5" font-weight="bold">once it dries, it will be looser than before</text>
+</g>
+</svg>

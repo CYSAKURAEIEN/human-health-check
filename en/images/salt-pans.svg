@@ -1,0 +1,150 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 920" width="720" height="920" role="img" aria-label="Solar salt pans. From the sea inland: 1 intake: open the wooden board sluice at high tide to let seawater into the reservoir, close it before the tide ebbs; 2 the evaporating pans are in several stages, with brine flowing from one stage to the next and growing stronger each time; each pan is shallow (water about 5-15 cm deep) and large in area; silt and gypsum settle on the bottom of the first few stages, clear them out regularly; 3 crystallising pan: brine goes in only when it reaches about 26% (1 L weighs about 1.20 kg), about 3-5 cm deep, and after a few days white crystals appear on the bottom; 4 harvesting: rake into heaps with a wooden rake, pile on high ground to drain off the brine, then carry to the store; 5 draining the bittern: drain off the sticky, bitter mother liquor promptly and store it separately. Brine strength: seawater about 3.5%, 1 L about 1.02-1.03 kg; at about 13% gypsum and silt settle first, 1 L about 1.10 kg; at about 26% saturated, sodium chloride crystallises in quantity, 1 L about 1.20 kg; further concentration brings out magnesium and potassium salts and the salt turns bitter. Floating egg: a fresh raw egg sinks in seawater, begins to float at about 10-15%, with about a coin-sized patch showing the specific gravity is about 1.10-1.13, and near saturation (specific gravity about 1.20) more shows. Before rain, run the concentrated brine into a covered brine pit or deep hole">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Solar salt pans</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<pattern id="silt" width="8" height="6" patternUnits="userSpaceOnUse"><rect width="8" height="6" fill="#e2dccd"/><circle cx="2" cy="2" r="0.9" fill="#8a7a5a"/><circle cx="6" cy="4.5" r="0.9" fill="#fff"/></pattern>
+<linearGradient id="conc" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#7fb2df"/><stop offset="0.8" stop-color="#eef3f6"/><stop offset="1" stop-color="#e8dcb8"/></linearGradient>
+<g id="egg"><ellipse rx="10" ry="13" fill="#f6ecd8" stroke="#333" stroke-width="1.5"/></g>
+<path id="jar" d="M-28 0 V64 Q-28 72 -20 72 H20 Q28 72 28 64 V0"/>
+<path id="liq" d="M-26 14 V64 Q-26 70 -20 70 H20 Q26 70 26 64 V14 Z"/>
+</defs>
+<g font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif" font-size="13" fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Solar salt: salt pans</text>
+<text x="360" y="50" font-size="14" text-anchor="middle" fill="#555">Almost no fuel and the largest output, but demanding about place and weather</text>
+
+<!-- salt works cross-section -->
+<rect x="10" y="62" width="700" height="338" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="22" y="86" font-size="15" font-weight="bold">Layout of a salt works (from the sea inland)</text>
+<!-- ground -->
+<path d="M96 170 H100 V204 H180 V170 H192 V186 H270 V170 H280 V186 H358 V170 H368 V186 H446 V170 H462 V182 H562 V170 H586 L600 146 H700 V218 H96 Z" fill="#d9c7a5"/>
+<path d="M96 170 H100 V204 H180 V170 H192 V186 H270 V170 H280 V186 H358 V170 H368 V186 H446 V170 H462 V182 H562 V170 H586 L600 146 H700" fill="none" stroke="#8b6b3e" stroke-width="2"/>
+<!-- sea -->
+<path d="M20 160 H92 V218 H20 Z" fill="#7fb2df"/>
+<path d="M20 160 q6 -5 12 0 t12 0 t12 0 t12 0 t12 0 t12 0" fill="none" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="50" y="196" text-anchor="middle" font-size="15" font-weight="bold" fill="#fff">sea</text>
+<rect x="90" y="188" width="10" height="30" fill="#d9c7a5"/>
+<!-- sluice -->
+<rect x="91" y="132" width="8" height="60" fill="#b98c4f" stroke="#333" stroke-width="1.5"/>
+<!-- reservoir -->
+<rect x="100" y="174" width="80" height="30" fill="#7fb2df"/>
+<!-- evaporating pans -->
+<rect x="192" y="176" width="78" height="10" fill="#a3c7e6"/>
+<rect x="280" y="176" width="78" height="10" fill="#c3d9ec"/>
+<rect x="368" y="176" width="78" height="10" fill="#dce7f0"/>
+<rect x="192" y="182" width="78" height="4" fill="url(#silt)"/>
+<rect x="280" y="183" width="78" height="3" fill="url(#silt)"/>
+<g font-size="12" fill="#555" text-anchor="middle"><text x="231" y="168">stage 1</text><text x="319" y="168">stage 2</text><text x="407" y="168">stage 3…</text></g>
+<!-- crystallising pan -->
+<rect x="462" y="177" width="100" height="5" fill="#eef3f6"/>
+<g fill="#fff" stroke="#888" stroke-width="0.8"><rect x="468" y="178" width="4" height="4"/><rect x="476" y="179" width="4" height="3"/><rect x="485" y="178" width="4" height="4"/><rect x="494" y="179" width="4" height="3"/><rect x="503" y="178" width="4" height="4"/><rect x="512" y="179" width="4" height="3"/><rect x="521" y="178" width="4" height="4"/><rect x="530" y="179" width="4" height="3"/><rect x="539" y="178" width="4" height="4"/><rect x="548" y="179" width="4" height="3"/></g>
+<path d="M462 182 H562" stroke="#6b5236" stroke-width="3"/>
+<!-- salt heap -->
+<path d="M612 146 L640 108 L668 146 Z" fill="#fff" stroke="#333" stroke-width="2"/>
+<g fill="#bbb"><circle cx="634" cy="132" r="1.2"/><circle cx="644" cy="124" r="1.2"/><circle cx="650" cy="138" r="1.2"/><circle cx="628" cy="140" r="1.2"/><circle cx="640" cy="116" r="1.2"/></g>
+<path d="M696 92 L682 142" stroke="#8b6b3e" stroke-width="3" stroke-linecap="round"/><path d="M672 142 H692 M674 142 V146 M680 142 V146 M686 142 V146 M692 142 V146" stroke="#6b5236" stroke-width="2"/>
+<!-- flow -->
+<g fill="none" stroke="#0b5cad" stroke-width="2" marker-end="url(#arB)">
+<path d="M70 152 Q95 112 122 166"/>
+<path d="M170 168 Q186 148 202 170"/>
+<path d="M260 168 Q275 150 290 170"/>
+<path d="M348 168 Q363 150 378 170"/>
+<path d="M436 168 Q454 148 472 172"/>
+</g>
+<path d="M556 168 Q586 120 614 128" fill="none" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<!-- labels above -->
+<text x="95" y="108" text-anchor="middle" font-size="12">sluice</text>
+<text x="95" y="122" text-anchor="middle" font-size="12">(wooden board)</text>
+<text x="140" y="187" text-anchor="middle" font-size="12" fill="#08427a">seawater</text><text x="140" y="200" text-anchor="middle" font-size="12" fill="#08427a">about 3.5%</text>
+<text x="319" y="124" text-anchor="middle" font-size="12" fill="#0b5cad">brine flows from one stage to the next,</text>
+<text x="319" y="138" text-anchor="middle" font-size="12" fill="#0b5cad">growing stronger each time →</text>
+<text x="512" y="152" text-anchor="middle" font-size="12" fill="#0b5cad">about 26%</text>
+<!-- labels below -->
+<g font-size="12">
+<text x="140" y="238" text-anchor="middle" font-size="13" font-weight="bold">① Intake</text>
+<text x="140" y="256" text-anchor="middle">reservoir:</text>
+<text x="140" y="272" text-anchor="middle">open the sluice at</text>
+<text x="140" y="288" text-anchor="middle">high tide to let</text>
+<text x="140" y="304" text-anchor="middle">seawater in; close</text>
+<text x="140" y="320" text-anchor="middle">it before the tide</text>
+<text x="140" y="336" text-anchor="middle">ebbs</text>
+<text x="319" y="238" text-anchor="middle" font-size="13" font-weight="bold">② Evaporating pans (stages)</text>
+<text x="319" y="256" text-anchor="middle">each pan shallow (water about</text>
+<text x="319" y="272" text-anchor="middle">5-15 cm deep) and large in</text>
+<text x="319" y="288" text-anchor="middle">area, so it evaporates fast;</text>
+<text x="319" y="304" text-anchor="middle">silt and gypsum settle in the</text>
+<text x="319" y="320" text-anchor="middle">first few stages: clear them</text>
+<text x="319" y="336" text-anchor="middle">out regularly</text>
+<text x="512" y="238" text-anchor="middle" font-size="13" font-weight="bold">③ Crystallising pan</text>
+<text x="512" y="256" text-anchor="middle">brine goes in only at</text>
+<text x="512" y="272" text-anchor="middle">about 26% (1 L weighs</text>
+<text x="512" y="288" text-anchor="middle">about 1.20 kg);</text>
+<text x="512" y="304" text-anchor="middle">brine about 3-5 cm</text>
+<text x="512" y="320" text-anchor="middle">deep; after a few days</text>
+<text x="512" y="336" text-anchor="middle">white crystals appear</text>
+<text x="512" y="352" text-anchor="middle">on the bottom</text>
+<text x="650" y="238" text-anchor="middle" font-size="13" font-weight="bold">④ Harvesting</text>
+<text x="650" y="256" text-anchor="middle">rake into heaps</text>
+<text x="650" y="272" text-anchor="middle">with a wooden</text>
+<text x="650" y="288" text-anchor="middle">rake, pile on high</text>
+<text x="650" y="304" text-anchor="middle">ground to drain</text>
+<text x="650" y="320" text-anchor="middle">off the brine, then</text>
+<text x="650" y="336" text-anchor="middle">carry to the store</text>
+</g>
+<text x="22" y="384" font-size="12" fill="#555">Crystallising pan bottom: level, rammed hard and smoothed; ideally a layer of compacted clay, potsherds or brick</text>
+
+<!-- strength -->
+<rect x="10" y="410" width="700" height="326" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<g transform="translate(0,20)">
+<text x="22" y="414" font-size="15" font-weight="bold">Brine grows stronger in the sun: weigh 1 L of brine (minus the container)</text>
+<rect x="50" y="468" width="620" height="14" rx="3" fill="url(#conc)" stroke="#999" stroke-width="1"/>
+<path d="M670 475 H690" stroke="#999" stroke-width="2" marker-end="url(#arB)"/>
+<g stroke="#333" stroke-width="2"><path d="M120 462 V488"/><path d="M310 462 V488"/><path d="M540 462 V488"/></g>
+<g text-anchor="middle">
+<text x="120" y="440" font-weight="bold">seawater about 3.5%</text>
+<text x="120" y="456" font-size="12">(reservoir)</text>
+<text x="120" y="506" fill="#0b5cad">1 L about 1.02-1.03 kg</text>
+<text x="310" y="440" font-weight="bold">about 13%</text>
+<text x="310" y="456" font-size="12">gypsum and silt settle first</text>
+<text x="310" y="506" fill="#0b5cad">1 L about 1.10 kg</text>
+<text x="540" y="440" font-weight="bold">about 26%, saturated</text>
+<text x="540" y="456" font-size="12">salt crystallises ← harvest here</text>
+<text x="540" y="506" fill="#0b5cad">1 L about 1.20 kg</text>
+</g>
+<text x="702" y="506" text-anchor="end" font-size="12" fill="#c33">further: salt</text>
+<text x="702" y="522" text-anchor="end" font-size="12" fill="#c33">turns bitter</text>
+
+<text x="22" y="548" font-size="15" font-weight="bold">Floating egg (simplest): put in a fresh raw egg</text>
+<g transform="translate(0,4)">
+<g transform="translate(110,552)"><use href="#liq" fill="#a3c7e6"/><use href="#egg" y="56"/><use href="#jar" fill="none" stroke="#333" stroke-width="2.5"/></g>
+<g transform="translate(270,552)"><use href="#liq" fill="#c3d9ec"/><use href="#egg" y="26"/><use href="#jar" fill="none" stroke="#333" stroke-width="2.5"/></g>
+<g transform="translate(440,552)"><use href="#liq" fill="#dce7f0"/><use href="#egg" y="18"/><path d="M-26 14 H-9 M9 14 H26" stroke="#7aa6cc" stroke-width="1.5"/><use href="#jar" fill="none" stroke="#333" stroke-width="2.5"/></g>
+<g transform="translate(610,552)"><use href="#liq" fill="#eef3f6"/><use href="#egg" y="10"/><path d="M-26 14 H-10 M10 14 H26" stroke="#7aa6cc" stroke-width="1.5"/><use href="#jar" fill="none" stroke="#333" stroke-width="2.5"/></g>
+<g text-anchor="middle">
+<text x="110" y="644" font-weight="bold">seawater: sinks</text>
+<text x="270" y="644" font-weight="bold">about 10-15%: floats</text>
+<text x="270" y="662" font-size="12">(3-4 times seawater)</text>
+<text x="440" y="644" font-weight="bold">coin-sized patch shows</text>
+<text x="440" y="662" font-size="12">specific gravity about 1.10-1.13</text>
+<text x="610" y="644" font-weight="bold">more shows</text>
+<text x="610" y="662" font-size="12">near saturation</text>
+<text x="610" y="677" font-size="12">(specific gravity about 1.20)</text>
+</g>
+</g>
+<text x="22" y="702" font-size="12" fill="#555">Test with the same egg each time so results are easier to compare (eggs differ slightly in density)</text>
+</g>
+
+<!-- notes -->
+<rect x="10" y="746" width="700" height="164" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<g transform="translate(0,40)">
+<text x="22" y="730" font-size="15" font-weight="bold">⑤ Draining the bittern · Before rain · Choosing a site</text>
+<text x="22" y="754"><tspan font-weight="bold" fill="#c33">Bittern</tspan>: drain off the sticky, bitter mother liquor (bittern) left in the crystallising pan</text>
+<text x="40" y="772">promptly, or its salts also come out and make the salt bitter; store the bittern separately</text>
+<text x="22" y="796"><tspan font-weight="bold">Before rain</tspan>: run the strong brine into a covered brine pit or deep hole (straw mats or boards</text>
+<text x="40" y="814">on top); put it back after the rain</text>
+<text x="22" y="838"><tspan font-weight="bold">Site</tspan>: flat, low-lying, impermeable clay or mud flats (sand lets water through too fast); away from</text>
+<text x="40" y="856">river mouths; high evaporation, little rain, many sunny and windy days: not rainy regions or seasons</text>
+</g>
+</g>
+</svg>

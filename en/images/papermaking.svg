@@ -1,0 +1,197 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 896" width="720" height="896" role="img" aria-label="The steps of papermaking. Raw materials: paper mulberry bark (strip off the white inner bark), mulberry bark, blue sandalwood bark; hemp, old hemp cloth, old cotton cloth; bamboo (young shoots), rice straw, wheat straw; recycled waste paper is simplest. 1 Soaking: cut into short pieces and soak in water for a few days; 2 Cooking: boil with limewater or wood-ash lye (alkaline water) for several hours to a day, until the fibres are soft and can be rubbed apart between your fingers; 3 Washing: rinse repeatedly in clean water to remove the alkali and impurities; 4 Bleaching (optional): spread in the sun and water repeatedly; 5 Beating: pound repeatedly with a wooden mallet on a stone slab until the fibres separate into fine fluff; 6 Mixing the vat: stir with water in a large vat into a very thin pulp, formation aid can be added; 7 Forming the sheet: dip the mould in at an angle and lift it out level, shake gently, and the water drains through the mesh; 8 Pressing: stack the wet sheets and squeeze out the water with a board and weights; 9 Drying: peel off the half-dry sheets and brush them onto a wall or board to dry in the sun; 10 Sizing (optional): brush on thin starch paste or bone glue solution. Lye burns skin and eyes: wear gloves and goggles. Simple version: tear up waste paper and soak in hot water overnight, pound to pulp, stir into water, lift out a layer with window-screen mesh on a wooden frame, turn it out onto a cloth, press out the water and let it dry">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>The steps of papermaking</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<pattern id="pulp" width="12" height="10" patternUnits="userSpaceOnUse"><rect width="12" height="10" fill="#d6ebf8"/><path d="M1 3 q3 -2 5 0 M6 8 q3 -2 5 0" fill="none" stroke="#b9a77e" stroke-width="1"/></pattern>
+<pattern id="mesh" width="5" height="5" patternUnits="userSpaceOnUse"><rect width="5" height="5" fill="#fff"/><path d="M0 0.5 H5 M0.5 0 V5" stroke="#999" stroke-width="0.8"/></pattern>
+<g id="sun"><circle r="9" fill="#f6d36b" stroke="#c9962e" stroke-width="1.5"/><path d="M0 -13 V-17 M0 13 V17 M-13 0 H-17 M13 0 H17 M-9 -9 L-12 -12 M9 9 L12 12 M-9 9 L-12 12 M9 -9 L12 -12" stroke="#c9962e" stroke-width="1.5"/></g>
+<g id="vat"><path d="M10 70 V118 H124 V70" fill="url(#pulp)" stroke="#8b6b3e" stroke-width="3"/></g>
+</defs>
+<g font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif" font-size="13" fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">The steps of papermaking</text>
+<rect x="10" y="42" width="700" height="82" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="22" y="64"><tspan font-weight="bold">Raw materials</tspan>: paper mulberry bark (strip off the white inner bark), mulberry bark, blue sandalwood</text>
+<text x="22" y="83">bark; hemp, old hemp cloth, old cotton cloth (easiest); bamboo (young shoots), rice straw, wheat straw</text>
+<text x="22" y="102">(short fibres, coarser paper); recycled waste paper (simplest)</text>
+
+<!-- ① Soaking -->
+<g transform="translate(10,134)">
+<rect width="134" height="272" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="22" font-size="15" font-weight="bold">① Soaking</text>
+<path d="M24.1 90 L30 118 H104 L109.9 90 Z" fill="#d6ebf8"/>
+<g fill="#b98c4f" stroke="#333" stroke-width="1"><rect x="38" y="96" width="22" height="5" rx="2" transform="rotate(-12 49 98)"/><rect x="66" y="104" width="22" height="5" rx="2" transform="rotate(10 77 106)"/><rect x="50" y="108" width="20" height="5" rx="2"/><rect x="80" y="94" width="20" height="5" rx="2" transform="rotate(-6 90 96)"/></g>
+<path d="M22 80 L30 118 H104 L112 80" fill="none" stroke="#333" stroke-width="2.5"/>
+<text x="10" y="140">Cut into short</text>
+<text x="10" y="157">pieces and soak</text>
+<text x="10" y="174">in water for a</text>
+<text x="10" y="191">few days</text>
+</g>
+<!-- ② Cooking -->
+<g transform="translate(151.5,134)">
+<rect width="134" height="272" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="22" font-size="15" font-weight="bold">② Cooking</text>
+<path d="M50 52 q-6 -6 0 -12 q6 -6 0 -12 M67 52 q-6 -6 0 -12 q6 -6 0 -12 M84 52 q-6 -6 0 -12 q6 -6 0 -12" fill="none" stroke="#888" stroke-width="1.5"/>
+<path d="M28 60 H106 V90 Q106 104 92 104 H42 Q28 104 28 90 Z" fill="#bbb" stroke="#333" stroke-width="2.5"/>
+<path d="M30 68 H104" stroke="#8a7a5a" stroke-width="2"/>
+<text x="67" y="90" font-size="14" font-weight="bold" text-anchor="middle">lye</text>
+<path d="M40 118 Q44 104 50 112 Q56 100 64 112 Q70 102 78 112 Q84 104 92 118 Z" fill="#f2a33a" stroke="#c33" stroke-width="1"/>
+<path d="M24 120 H110" stroke="#999" stroke-width="3"/>
+<text x="10" y="140">Boil with limewater</text>
+<text x="10" y="157">or wood-ash lye</text>
+<text x="10" y="174">(alkaline water) for</text>
+<text x="10" y="191">several hours to a</text>
+<text x="10" y="208">day, until the fibres</text>
+<text x="10" y="225">rub apart between</text>
+<text x="10" y="242">your fingers</text>
+</g>
+<!-- ③ Washing -->
+<g transform="translate(293,134)">
+<rect width="134" height="272" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="22" font-size="15" font-weight="bold">③ Washing</text>
+<path d="M8 84 H126 V118 H8 Z" fill="#d6ebf8"/>
+<path d="M8 84 H126 M8 118 H126" stroke="#999" stroke-width="2"/>
+<path d="M14 96 H36 M14 108 H32 M98 100 H120" stroke="#0b5cad" stroke-width="1.5" marker-end="url(#arB)"/>
+<path d="M48 54 L62 62 M62 62 L58 44" stroke="#8b6b3e" stroke-width="3"/>
+<path d="M60 66 Q46 70 46 92 Q46 112 66 112 Q88 112 88 92 Q88 70 72 66 Z" fill="#e8dcc0" stroke="#333" stroke-width="2"/>
+<path d="M58 66 H74" stroke="#333" stroke-width="3"/>
+<text x="10" y="140">Rinse repeatedly in</text>
+<text x="10" y="157">clean water to</text>
+<text x="10" y="174">remove the alkali</text>
+<text x="10" y="191">and impurities</text>
+<text x="10" y="208" fill="#555">(can be put in a</text>
+<text x="10" y="225" fill="#555">cloth bag in</text>
+<text x="10" y="242" fill="#555">running water)</text>
+</g>
+<!-- ④ Bleaching -->
+<g transform="translate(434.5,134)">
+<rect width="134" height="272" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="22" font-size="15" font-weight="bold">④ Bleaching</text>
+<text x="10" y="38" font-size="12" fill="#555">(optional)</text>
+<use href="#sun" x="104" y="52"/>
+<path d="M14 114 H120" stroke="#999" stroke-width="3"/>
+<path d="M20 110 H114" stroke="#c9a26a" stroke-width="6"/>
+<path d="M24 104 q20 -6 40 0 t44 0 M28 98 q18 -5 36 0 t36 0" fill="none" stroke="#e4d7b4" stroke-width="3"/>
+<path d="M34 70 q-3 6 0 8 q3 -2 0 -8 Z M50 78 q-3 6 0 8 q3 -2 0 -8 Z M66 68 q-3 6 0 8 q3 -2 0 -8 Z" fill="#7aa6cc"/>
+<text x="10" y="140">Spread it in the</text>
+<text x="10" y="157">sun and water it</text>
+<text x="10" y="174">repeatedly; the</text>
+<text x="10" y="191">fibres gradually</text>
+<text x="10" y="208">whiten</text>
+</g>
+<!-- ⑤ Beating -->
+<g transform="translate(576,134)">
+<rect width="134" height="272" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="22" font-size="15" font-weight="bold">⑤ Beating</text>
+<rect x="18" y="100" width="98" height="18" rx="3" fill="#bbb" stroke="#333" stroke-width="2"/>
+<path d="M38 100 Q42 90 56 92 Q70 86 84 92 Q96 92 98 100 Z" fill="#f3ecd8" stroke="#333" stroke-width="1.5"/>
+<path d="M108 40 L76 70" stroke="#8b6b3e" stroke-width="5" stroke-linecap="round"/>
+<rect x="56" y="62" width="34" height="18" rx="4" fill="#b98c4f" stroke="#333" stroke-width="2" transform="rotate(-42 73 71)"/>
+<path d="M44 58 Q40 74 50 84" fill="none" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<text x="10" y="140">Pound repeatedly</text>
+<text x="10" y="157">with a wooden</text>
+<text x="10" y="174">mallet on a stone</text>
+<text x="10" y="191">slab until the</text>
+<text x="10" y="208">fibres separate</text>
+<text x="10" y="225">into fine fluff</text>
+<text x="10" y="242" fill="#555">More beating gives</text>
+<text x="10" y="259" fill="#555">finer paper</text>
+</g>
+
+<!-- ⑥ Mixing -->
+<g transform="translate(10,414)">
+<rect width="134" height="272" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="22" font-size="15" font-weight="bold">⑥ Mixing</text>
+<use href="#vat"/>
+<path d="M96 40 L64 108" stroke="#8b6b3e" stroke-width="4" stroke-linecap="round"/>
+<path d="M40 84 q10 -6 20 0 q10 6 20 0" fill="none" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="10" y="140">Fill a large vat</text>
+<text x="10" y="157">with water; stir in</text>
+<text x="10" y="174">the pulp, very thin</text>
+<text x="10" y="191">(like thin rice</text>
+<text x="10" y="208">gruel); you can add</text>
+<text x="10" y="225">"formation aid"</text>
+</g>
+<!-- ⑦ Forming -->
+<g transform="translate(151.5,414)">
+<rect width="134" height="272" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="22" font-size="15" font-weight="bold">⑦ Forming</text>
+<use href="#vat"/>
+<rect x="30" y="44" width="74" height="8" fill="url(#mesh)" stroke="#8b6b3e" stroke-width="2.5"/>
+<path d="M33 48 H101" stroke="#f3ecd8" stroke-width="3"/>
+<path d="M44 58 v6 M60 60 v6 M76 58 v6 M92 60 v6" stroke="#7aa6cc" stroke-width="2"/>
+<path d="M20 40 Q16 70 30 90 Q44 100 56 74" fill="none" stroke="#c33" stroke-width="2" stroke-dasharray="4 3" marker-end="url(#arR)"/>
+<text x="112" y="40" font-size="12" fill="#0b5cad" text-anchor="end">mould</text>
+<text x="10" y="140">Dip the mould in at</text>
+<text x="10" y="157">an angle, lift it out</text>
+<text x="10" y="174">level, shake gently</text>
+<text x="10" y="191">so the fibres spread</text>
+<text x="10" y="208">evenly; the water</text>
+<text x="10" y="225">drains through</text>
+<text x="10" y="242">the mesh</text>
+</g>
+<!-- ⑧ Pressing -->
+<g transform="translate(293,414)">
+<rect width="134" height="272" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="22" font-size="15" font-weight="bold">⑧ Pressing</text>
+<path d="M14 118 H120" stroke="#999" stroke-width="3"/>
+<g fill="#f3ecd8" stroke="#333" stroke-width="1"><rect x="30" y="110" width="74" height="6"/><rect x="30" y="104" width="74" height="6"/><rect x="30" y="98" width="74" height="6"/><rect x="30" y="92" width="74" height="6"/></g>
+<rect x="24" y="82" width="86" height="10" fill="#b98c4f" stroke="#333" stroke-width="2"/>
+<path d="M44 82 Q40 58 64 56 Q92 56 90 82 Z" fill="#aaa" stroke="#333" stroke-width="2"/>
+<path d="M16 50 V74 M118 50 V74" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<path d="M26 104 q-3 6 0 8 q3 -2 0 -8 Z M108 104 q-3 6 0 8 q3 -2 0 -8 Z" fill="#7aa6cc"/>
+<text x="10" y="140">Stack the wet</text>
+<text x="10" y="157">sheets (cloth can</text>
+<text x="10" y="174">go between them),</text>
+<text x="10" y="191">put a board and</text>
+<text x="10" y="208">weights on top to</text>
+<text x="10" y="225">squeeze out</text>
+<text x="10" y="242">the water</text>
+</g>
+<!-- ⑨ Drying -->
+<g transform="translate(434.5,414)">
+<rect width="134" height="272" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="22" font-size="15" font-weight="bold">⑨ Drying</text>
+<use href="#sun" x="108" y="50"/>
+<rect x="14" y="36" width="72" height="82" fill="#e4d2b4" stroke="#333" stroke-width="2"/>
+<rect x="22" y="46" width="26" height="34" fill="#fff" stroke="#333" stroke-width="1.2"/>
+<rect x="54" y="46" width="26" height="34" fill="#fff" stroke="#333" stroke-width="1.2"/>
+<rect x="22" y="84" width="26" height="30" fill="#fff" stroke="#333" stroke-width="1.2"/>
+<path d="M14 118 H124" stroke="#999" stroke-width="3"/>
+<text x="10" y="140">Peel off the half-</text>
+<text x="10" y="157">dry sheets and</text>
+<text x="10" y="174">brush them onto a</text>
+<text x="10" y="191">smooth wall or</text>
+<text x="10" y="208">board to dry in</text>
+<text x="10" y="225">the sun</text>
+</g>
+<!-- ⑩ Sizing -->
+<g transform="translate(576,414)">
+<rect width="134" height="272" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="22" font-size="15" font-weight="bold">⑩ Sizing</text>
+<text x="10" y="38" font-size="12" fill="#555">(optional)</text>
+<path d="M20 112 L36 72 H116 L104 112 Z" fill="#fff" stroke="#333" stroke-width="2"/>
+<path d="M38 104 L48 80 H72 L62 104 Z" fill="#f4ecd0"/>
+<path d="M98 44 L74 84" stroke="#8b6b3e" stroke-width="4" stroke-linecap="round"/>
+<path d="M70 82 L80 88 L72 98 L62 94 Z" fill="#c9a26a" stroke="#333" stroke-width="1.2"/>
+<text x="10" y="140">Brush on thin</text>
+<text x="10" y="157">starch paste or</text>
+<text x="10" y="174">bone glue; once</text>
+<text x="10" y="191">dry, ink does not</text>
+<text x="10" y="208">bleed so easily</text>
+</g>
+
+<!-- safety -->
+<rect x="10" y="696" width="700" height="84" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="2"/>
+<text x="22" y="720" font-size="15" font-weight="bold" fill="#c33">⚠️ Lye (limewater, wood-ash lye) burns skin and eyes: wear gloves and goggles;</text>
+<text x="22" y="740" font-size="15" font-weight="bold" fill="#c33">see the safety notes in the soap-making chapter</text>
+<text x="22" y="766" font-size="14" fill="#555">What the alkali does: dissolves the gums and lignin that bind the fibres together in plants</text>
+<!-- simple version -->
+<rect x="10" y="790" width="700" height="96" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="22" y="814" font-size="15" font-weight="bold">Simple version (recycling waste paper)</text>
+<text x="22" y="836" font-size="14">Tear up waste paper, soak in hot water overnight → pound to pulp (without tools, rub it by</text>
+<text x="22" y="856" font-size="14">hand) → stir into a basin of water → lift out a layer of pulp with a mould of window-screen</text>
+<text x="22" y="876" font-size="14">mesh stretched on a wooden frame → turn it out onto a cloth, press out the water, let it dry</text>
+</g>
+</svg>

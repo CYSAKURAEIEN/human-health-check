@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 854" width="720" height="854" role="img" aria-label="Sawing wood: measure twice, cut once; draw right angles with a try square and snap long straight lines with a chalk line; saw on the waste side of the line, because the saw cut itself has a width. 1 rest your thumb against the blade and draw it back gently a few times to start a small cut; 2 once the cut is started, saw back and forth with long strokes and even force; 3 do not press down hard, let the teeth do the cutting; 4 slow down when nearly through and support the end about to come off so the wood does not tear. Safety: hold the work firmly in a clamp or vice; keep the saw sharp, as blunt tools need more force and slip more easily, causing injuries; wear a mask when sawing and where possible open the windows or work outdoors; do not wear loose sleeves or gloves when using power saws or other rotating tools; oil saw blades and hang them up so they do not bend" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Sawing wood</title>
+<defs><marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker><marker id="arR0" viewBox="0 0 10 10" refX="2" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M10 0 L0 5 L10 10 Z" fill="#c33"/></marker><marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker><marker id="arB0" viewBox="0 0 10 10" refX="2" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M10 0 L0 5 L10 10 Z" fill="#0b5cad"/></marker><pattern id="cut" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#fbe9e9"/><path d="M0 0 V6" stroke="#c33" stroke-width="1.2"/></pattern></defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" text-anchor="middle" font-weight="bold">Sawing wood: saw on the waste side of the line; let the teeth do the cutting</text>
+<rect x="10" y="44" width="344" height="212" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<rect x="366" y="44" width="344" height="212" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="24" y="70" font-size="16" font-weight="bold">Measuring and marking out (top view)</text>
+<text x="380" y="70" font-size="16" font-weight="bold">Saw on the waste side (top view)</text>
+<rect x="40" y="116" width="280" height="70" fill="#f1dcb5" stroke="#333" stroke-width="2"/>
+<path d="M46 140 H314 M46 164 H314" stroke="#c9a66b" stroke-width="1"/>
+<path d="M120 186 H178 V200 H120 Z" fill="#8b6b3e" stroke="#333" stroke-width="1.8"/>
+<path d="M170 186 V102 H178 V186 Z" fill="#c0c8d0" stroke="#333" stroke-width="1.8"/>
+<path d="M182 116 V186" stroke="#333" stroke-width="2"/>
+<path d="M200 98 L186 122" stroke="#555" stroke-width="5" stroke-linecap="round"/>
+<text x="206" y="106" font-size="12" fill="#555">pencil</text>
+<text x="30" y="98" font-size="13" fill="#555">try square</text>
+<line x1="98" y1="96" x2="172" y2="108" stroke="#0b5cad" stroke-width="1.3"/><circle cx="172" cy="108" r="2.6" fill="#0b5cad"/>
+<text x="24" y="218" font-size="13">Draw right angles with a</text>
+<text x="24" y="234" font-size="13">try square; snap long straight</text>
+<text x="24" y="250" font-size="13">lines with a chalk line</text>
+<rect x="222" y="204" width="124" height="44" rx="6" fill="#fff4d6" stroke="#e0b400" stroke-width="1.5"/>
+<text x="284" y="222" font-size="13" font-weight="bold" text-anchor="middle">Measure twice,</text>
+<text x="284" y="240" font-size="13" font-weight="bold" text-anchor="middle">cut once</text>
+<rect x="390" y="108" width="150" height="70" fill="#f1dcb5" stroke="#333" stroke-width="2"/>
+<rect x="540" y="108" width="150" height="70" fill="url(#cut)" stroke="#333" stroke-width="2"/>
+<rect x="541" y="102" width="9" height="82" fill="#666" stroke="#333" stroke-width="1"/>
+<path d="M540 96 V190" stroke="#222" stroke-width="2"/>
+<text x="465" y="148" font-size="14" text-anchor="middle" font-weight="bold">part to keep</text>
+<text x="620" y="148" font-size="14" text-anchor="middle" font-weight="bold" fill="#c33">waste</text>
+<text x="534" y="90" font-size="12" fill="#555" text-anchor="end">marked line</text>
+<line x1="530" y1="86" x2="539" y2="98" stroke="#0b5cad" stroke-width="1.3"/><circle cx="539" cy="98" r="2.6" fill="#0b5cad"/>
+<text x="562" y="90" font-size="12" fill="#0b5cad">saw cut</text>
+<line x1="562" y1="86" x2="547" y2="104" stroke="#0b5cad" stroke-width="1.3"/><circle cx="547" cy="104" r="2.6" fill="#0b5cad"/>
+<path d="M526 200 H540" stroke="#0b5cad" stroke-width="1.5" marker-end="url(#arB)"/>
+<path d="M564 200 H550" stroke="#0b5cad" stroke-width="1.5" marker-end="url(#arB)"/>
+<text x="380" y="222" font-size="14">The saw cut itself has a width,</text>
+<text x="380" y="242" font-size="14">so saw on the waste side of the line</text>
+<rect x="10" y="268" width="172" height="340" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<rect x="186" y="268" width="172" height="340" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<rect x="362" y="268" width="172" height="340" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<rect x="538" y="268" width="172" height="340" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="20" y="292" font-size="15" font-weight="bold">① Starting the cut</text>
+<text x="196" y="292" font-size="15" font-weight="bold">② Long strokes</text>
+<text x="372" y="292" font-size="15" font-weight="bold">③ No pressing</text>
+<text x="548" y="292" font-size="15" font-weight="bold">④ Nearly through</text>
+<g font-size="12" fill="#555"><text x="20" y="308">(top view)</text><text x="196" y="308">(side view)</text><text x="372" y="308">(side view)</text><text x="548" y="308">(side view)</text></g>
+<g font-size="13">
+<text x="20" y="530">Rest your thumb</text>
+<text x="20" y="546">against the blade;</text>
+<text x="20" y="562">draw back gently a</text>
+<text x="20" y="578">few times to start</text>
+<text x="20" y="594">a small cut</text>
+<text x="196" y="536">Once the cut is</text>
+<text x="196" y="553">started, saw back</text>
+<text x="196" y="570">and forth with long</text>
+<text x="196" y="587">strokes, even force</text>
+<text x="372" y="536">Do not press down</text>
+<text x="372" y="553">hard; let the teeth</text>
+<text x="372" y="570">do the cutting</text>
+<text x="548" y="536">Slow down; support</text>
+<text x="548" y="553">the end about to</text>
+<text x="548" y="570">come off so the</text>
+<text x="548" y="587">wood does not tear</text>
+</g>
+<g transform="translate(0,22)">
+<rect x="30" y="318" width="132" height="80" fill="#f1dcb5" stroke="#333" stroke-width="2"/>
+<path d="M36 344 H156 M36 372 H156" stroke="#c9a66b" stroke-width="1"/>
+<rect x="96" y="318" width="66" height="80" fill="url(#cut)" stroke="#333" stroke-width="2"/>
+<text x="129" y="350" font-size="12" fill="#c33" text-anchor="middle" font-weight="bold">waste</text>
+<path d="M96 318 V398" stroke="#222" stroke-width="2"/>
+<rect x="98" y="364" width="5" height="80" fill="#888" stroke="#333" stroke-width="1"/>
+<rect x="94" y="440" width="13" height="24" rx="3" fill="#c8a06a" stroke="#333" stroke-width="1.8"/>
+<path d="M50 426 C56 400 88 390 96 400 C100 408 94 420 82 426 Z" fill="#f3e3d3" stroke="#333" stroke-width="1.8"/>
+<path d="M84 400 q-2 7 4 10" fill="none" stroke="#333" stroke-width="1.2"/>
+<path d="M120 408 V464" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="126" y="432" font-size="12" fill="#c33">draw</text><text x="126" y="446" font-size="12" fill="#c33">back</text>
+<text x="126" y="460" font-size="12" fill="#c33">gently</text>
+<text x="20" y="454" font-size="12" fill="#555">thumb</text>
+<line x1="40" y1="442" x2="66" y2="416" stroke="#0b5cad" stroke-width="1.3"/><circle cx="66" cy="416" r="2.6" fill="#0b5cad"/>
+<text x="126" y="312" font-size="12" fill="#555">line</text>
+<line x1="124" y1="308" x2="97" y2="326" stroke="#0b5cad" stroke-width="1.3"/><circle cx="97" cy="326" r="2.6" fill="#0b5cad"/>
+<text x="36" y="486" font-size="12" fill="#555">blade</text>
+<line x1="70" y1="475" x2="98" y2="436" stroke="#0b5cad" stroke-width="1.3"/><circle cx="98" cy="436" r="2.6" fill="#0b5cad"/>
+<rect x="200" y="422" width="144" height="12" fill="#bbb" stroke="#333" stroke-width="1.8"/>
+<path d="M208 434 V462 M336 434 V462" stroke="#333" stroke-width="5"/>
+<polygon points="259,418 321.8,378.8 309,358.4 252.6,407.8" fill="#d6dde4" stroke="#333" stroke-width="1.8" stroke-linejoin="round"/>
+<polyline points="259,418 263.1,419 264.1,414.8 268.2,415.8 269.2,411.6 273.3,412.6 274.3,408.5 278.4,409.4 279.4,405.3 283.5,406.2 284.4,402.1 288.6,403.1 289.5,398.9 293.7,399.9 294.6,395.7 298.8,396.7 299.7,392.6 303.8,393.5 304.8,389.4 308.9,390.3 309.9,386.2 314,387.2 315,383 319.1,384" fill="none" stroke="#333" stroke-width="1.2"/>
+<polygon points="320.5,384.3 352.7,364.2 337.7,328.8 302,351" fill="#c8a06a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="326.4,371.2 341.7,361.6 333.6,343.1 317.5,353.1" fill="#fff" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="198" y="406" width="150" height="16" fill="#f1dcb5" stroke="#333" stroke-width="2"/>
+<path d="M202 411.0 H344 M202 417.0 H344" stroke="#c9a66b" stroke-width="1"/>
+<rect x="276" y="406" width="4" height="7" fill="#555"/>
+<path d="M216 398 V442" stroke="#555" stroke-width="4"/>
+<path d="M216 398 H234 M216 442 H234" stroke="#555" stroke-width="4"/>
+<rect x="228" y="402" width="10" height="5" fill="#555"/>
+<path d="M242 366 L313.2 321.5" stroke="#c33" stroke-width="2.5" marker-start="url(#arR0)" marker-end="url(#arR)"/>
+<text x="198" y="318" font-size="12" fill="#c33">long strokes, even force</text>
+<text x="226" y="490" font-size="12" fill="#0b5cad">work clamped firmly</text>
+<line x1="232" y1="478" x2="220" y2="442" stroke="#0b5cad" stroke-width="1.3"/><circle cx="220" cy="442" r="2.6" fill="#0b5cad"/>
+<rect x="376" y="422" width="144" height="12" fill="#bbb" stroke="#333" stroke-width="1.8"/>
+<path d="M384 434 V462 M512 434 V462" stroke="#333" stroke-width="5"/>
+<polygon points="435,418 497.8,378.8 485,358.4 428.6,407.8" fill="#d6dde4" stroke="#333" stroke-width="1.8" stroke-linejoin="round"/>
+<polyline points="435,418 439.1,419 440.1,414.8 444.2,415.8 445.2,411.6 449.3,412.6 450.3,408.5 454.4,409.4 455.4,405.3 459.5,406.2 460.4,402.1 464.6,403.1 465.5,398.9 469.7,399.9 470.6,395.7 474.8,396.7 475.7,392.6 479.8,393.5 480.8,389.4 484.9,390.3 485.9,386.2 490,387.2 491,383 495.1,384" fill="none" stroke="#333" stroke-width="1.2"/>
+<polygon points="496.5,384.3 528.7,364.2 513.7,328.8 478,351" fill="#c8a06a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="502.4,371.2 517.7,361.6 509.6,343.1 493.5,353.1" fill="#fff" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="374" y="406" width="150" height="16" fill="#f1dcb5" stroke="#333" stroke-width="2"/>
+<path d="M378 411.0 H520 M378 417.0 H520" stroke="#c9a66b" stroke-width="1"/>
+<rect x="452" y="406" width="4" height="7" fill="#555"/>
+<path d="M392 398 V442" stroke="#555" stroke-width="4"/>
+<path d="M392 398 H410 M392 442 H410" stroke="#555" stroke-width="4"/>
+<rect x="404" y="402" width="10" height="5" fill="#555"/>
+<path d="M402 334 V374" stroke="#c33" stroke-width="5" marker-end="url(#arR)"/>
+<circle cx="402" cy="354" r="22" fill="none" stroke="#c33" stroke-width="2.5"/><path d="M387 339 L417 369" stroke="#c33" stroke-width="2.5"/>
+<text x="374" y="318" font-size="13" fill="#c33" font-weight="bold">Do not press down</text>
+<text x="452" y="490" font-size="12" fill="#0b5cad" text-anchor="middle">teeth do the cutting</text>
+<line x1="458" y1="478" x2="452" y2="410" stroke="#0b5cad" stroke-width="1.3"/><circle cx="452" cy="410" r="2.6" fill="#0b5cad"/>
+<rect x="552" y="422" width="74" height="12" fill="#bbb" stroke="#333" stroke-width="1.8"/>
+<path d="M560 434 V462 M618 434 V462" stroke="#333" stroke-width="5"/>
+<polygon points="611,418 673.8,378.8 661,358.4 604.6,407.8" fill="#d6dde4" stroke="#333" stroke-width="1.8" stroke-linejoin="round"/>
+<polyline points="611,418 615.1,419 616.1,414.8 620.2,415.8 621.2,411.6 625.3,412.6 626.3,408.5 630.4,409.4 631.4,405.3 635.5,406.2 636.4,402.1 640.6,403.1 641.5,398.9 645.7,399.9 646.6,395.7 650.8,396.7 651.7,392.6 655.8,393.5 656.8,389.4 660.9,390.3 661.9,386.2 666,387.2 667,383 671.1,384" fill="none" stroke="#333" stroke-width="1.2"/>
+<polygon points="672.5,384.3 704.7,364.2 689.7,328.8 654,351" fill="#c8a06a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="678.4,371.2 693.7,361.6 685.6,343.1 669.5,353.1" fill="#fff" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="550" y="406" width="150" height="16" fill="#f1dcb5" stroke="#333" stroke-width="2"/>
+<path d="M554 411.0 H696 M554 417.0 H696" stroke="#c9a66b" stroke-width="1"/>
+<rect x="628" y="406" width="4" height="7" fill="#555"/>
+<path d="M568 398 V442" stroke="#555" stroke-width="4"/>
+<path d="M568 398 H586 M568 442 H586" stroke="#555" stroke-width="4"/>
+<rect x="580" y="402" width="10" height="5" fill="#555"/>
+<rect x="628" y="406" width="4" height="13" fill="#555"/>
+<path d="M648 423 h36 q6 0 6 6 v18 q0 12 -12 14 h-26 q-10 -2 -10 -14 v-18 q0 -6 6 -6 z" fill="#f3e3d3" stroke="#333" stroke-width="1.8"/>
+<path d="M658 423 v10 M668 423 v10 M678 423 v10" stroke="#333" stroke-width="1.2"/>
+<path d="M662 461 l-5 18 M680 461 l5 18" stroke="#333" stroke-width="2"/>
+<path d="M700 472 V426" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="694" y="490" font-size="13" fill="#c33" font-weight="bold" text-anchor="end">support it</text>
+<text x="550" y="318" font-size="13" fill="#c33" font-weight="bold">Slow down</text>
+</g>
+<g transform="translate(0,40)">
+<rect x="10" y="580" width="700" height="224" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="24" y="606" font-size="16" font-weight="bold">Safety</text>
+<path d="M26 632 l6 7 l11 -13" fill="none" stroke="#2a8a3a" stroke-width="3"/>
+<text x="52" y="638" font-size="14.5">Hold the work firmly in a clamp or vice</text>
+<path d="M26 666 l6 7 l11 -13" fill="none" stroke="#2a8a3a" stroke-width="3"/>
+<text x="52" y="672" font-size="14.5">Keep the saw sharp: blunt tools need more force and slip more easily, causing injuries</text>
+<path d="M26 700 l6 7 l11 -13" fill="none" stroke="#2a8a3a" stroke-width="3"/>
+<text x="52" y="706" font-size="14.5">Wear a mask when sawing (wood dust); where possible open the windows or work outdoors</text>
+<path d="M26 727 l14 14 M40 727 l-14 14" stroke="#c33" stroke-width="3"/>
+<text x="52" y="740" font-size="14.5" fill="#c33">Do not wear loose sleeves or gloves when using power saws or other rotating tools</text>
+<text x="52" y="758" font-size="14.5" fill="#c33">(they can get caught and pull you in)</text>
+<path d="M26 786 l6 7 l11 -13" fill="none" stroke="#2a8a3a" stroke-width="3"/>
+<text x="52" y="792" font-size="14.5">Oil saw blades and hang them up so they do not bend</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,191 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1187" width="720" height="1187" role="img" aria-label="Common deficiency diseases: early signs and the foods that prevent them. Enough calories is not enough nutrition: living only on polished white rice gives too little vitamin B1 and beriberi; only maize gives too little niacin and pellagra; no fresh vegetables or fruit gives too little vitamin C and scurvy; no iodised salt gives too little iodine, goitre and mental impairment in children. Scurvy, lack of vitamin C, about 1-3 months: tiredness, swollen bleeding gums, pinpoint bleeding under the skin, wounds that do not heal; prevent with fresh vegetables and fruit, bean sprouts, pine-needle tea, wild greens. Beriberi, lack of vitamin B1, weeks to months: numbness and weakness in the legs, swelling, palpitations and shortness of breath; brown rice, wholewheat, beans, lean pork. Pellagra, lack of niacin, months: symmetrical dermatitis on exposed skin, diarrhoea, failing memory; beans, peanuts, meat, fish, treat maize with alkali. Night blindness, lack of vitamin A, months: cannot see well at dusk, dry eyes, children catch infections easily; dark green and orange-yellow vegetables (carrot, pumpkin, spinach), animal liver, egg yolk. Rickets or osteomalacia, lack of vitamin D and calcium, months in children: children have bent bones and late teething, adults bone pain; sunshine, fish, egg yolk, soy products; bone broth contains little calcium and cannot replace them. Goitre, lack of iodine, months to years: swelling of the neck, iodine deficiency in pregnancy can cause mental impairment in the baby; iodised salt, kelp, nori. Iron-deficiency anaemia, lack of iron, months: pale face, tiredness, palpitations, thinning nails; animal blood, liver, red meat; beans are absorbed better together with vitamin C. Protein-energy malnutrition, lack of protein and calories, weeks: wasting, swelling (especially in children), thin yellowish hair; beans, eggs, fish, meat, milk. Making up the shortfall: sprout beans for vitamin C in winter; do not mill rice too white; cook maize in limewater or plant-ash lye; keep eating iodised salt. If these symptoms appear, especially in children and pregnant women, see a doctor as early as possible while also improving the diet" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Common deficiency diseases: early signs and the foods that prevent them</title>
+<defs>
+<marker id="arK" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#555"/></marker>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Common deficiency diseases: early signs and preventive foods</text>
+<text x="360" y="50" font-size="13" text-anchor="middle" fill="#555">Stored staple food only solves “hunger”; you also need beans, vegetables (including wild greens</text>
+<text x="360" y="67" font-size="13" text-anchor="middle" fill="#555">and bean sprouts) and a little animal food to prevent “disease”</text>
+<g transform="translate(10,80)">
+<rect x="0" y="0" width="700" height="148" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">① Enough calories ≠ enough nutrition</text>
+<g font-size="14">
+<text x="14" y="56">Only polished white rice</text>
+<path d="M214 51 H240" stroke="#555" stroke-width="1.8" marker-end="url(#arK)"/>
+<text x="248" y="56" fill="#0b5cad">too little vitamin B1</text>
+<path d="M402 51 H428" stroke="#555" stroke-width="1.8" marker-end="url(#arK)"/>
+<text x="436" y="56" fill="#c33" font-weight="bold">beriberi</text>
+<text x="14" y="82">Only maize</text>
+<path d="M214 77 H240" stroke="#555" stroke-width="1.8" marker-end="url(#arK)"/>
+<text x="248" y="82" fill="#0b5cad">too little niacin</text>
+<path d="M402 77 H428" stroke="#555" stroke-width="1.8" marker-end="url(#arK)"/>
+<text x="436" y="82" fill="#c33" font-weight="bold">pellagra</text>
+<text x="14" y="108">No fresh vegetables or fruit</text>
+<path d="M214 103 H240" stroke="#555" stroke-width="1.8" marker-end="url(#arK)"/>
+<text x="248" y="108" fill="#0b5cad">too little vitamin C</text>
+<path d="M402 103 H428" stroke="#555" stroke-width="1.8" marker-end="url(#arK)"/>
+<text x="436" y="108" fill="#c33" font-weight="bold">scurvy</text>
+<text x="14" y="134">No iodised salt</text>
+<path d="M214 129 H240" stroke="#555" stroke-width="1.8" marker-end="url(#arK)"/>
+<text x="248" y="134" fill="#0b5cad">too little iodine</text>
+<path d="M402 129 H428" stroke="#555" stroke-width="1.8" marker-end="url(#arK)"/>
+<text x="436" y="134" fill="#c33" font-weight="bold">goitre, mental impairment in children</text>
+</g></g>
+<g transform="translate(10,238)">
+<rect x="0" y="0" width="700" height="609" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">② Common deficiency diseases</text>
+<rect x="6" y="36" width="688" height="26" fill="#f3f7fb"/>
+<g font-size="13" font-weight="bold" fill="#555">
+<text x="14" y="54">Disease / <tspan fill="#0b5cad">lack of</tspan></text>
+<text x="158" y="54">How soon</text>
+<text x="248" y="54">Early signs</text>
+<text x="478" y="54">Foods that prevent it</text></g>
+<g stroke="#e3e3e3" stroke-width="1">
+<path d="M6 127 H694 M6 192 H694 M6 257 H694 M6 322 H694 M6 404 H694 M6 469 H694 M6 534 H694"/>
+<path d="M150 36 V599 M240 36 V599 M470 36 V599"/></g>
+<g font-size="13">
+<!-- 1 Scurvy -->
+<text x="14" y="81" font-size="14" font-weight="bold">Scurvy</text>
+<text x="14" y="98" fill="#0b5cad" font-weight="bold">Vitamin C</text>
+<text x="158" y="81">About</text>
+<text x="158" y="98">1-3 months</text>
+<text x="248" y="81">Tiredness, swollen bleeding gums,</text>
+<text x="248" y="98">pinpoint bleeding under the skin,</text>
+<text x="248" y="115">wounds that do not heal</text>
+<text x="478" y="81">Fresh vegetables and fruit,</text>
+<text x="478" y="98">bean sprouts, pine-needle tea,</text>
+<text x="478" y="115">wild greens</text>
+<!-- 2 Beriberi -->
+<text x="14" y="146" font-size="14" font-weight="bold">Beriberi</text>
+<text x="14" y="163" fill="#0b5cad" font-weight="bold">Vitamin B1</text>
+<text x="158" y="146">Weeks to</text>
+<text x="158" y="163">months</text>
+<text x="248" y="146">Numbness and weakness in the</text>
+<text x="248" y="163">legs, swelling (oedema),</text>
+<text x="248" y="180">palpitations, short of breath</text>
+<text x="478" y="146">Brown rice, wholewheat, beans,</text>
+<text x="478" y="163">lean pork</text>
+<!-- 3 Pellagra -->
+<text x="14" y="211" font-size="14" font-weight="bold">Pellagra</text>
+<text x="14" y="228" fill="#0b5cad" font-weight="bold">Niacin</text>
+<text x="158" y="211">Months</text>
+<text x="248" y="211">Symmetrical dermatitis on</text>
+<text x="248" y="228">exposed skin, diarrhoea,</text>
+<text x="248" y="245">failing memory</text>
+<text x="478" y="211">Beans, peanuts, meat, fish;</text>
+<text x="478" y="228">treat maize with alkali</text>
+<!-- 4 Night blindness -->
+<text x="14" y="276" font-size="14" font-weight="bold">Night blindness</text>
+<text x="14" y="293" fill="#0b5cad" font-weight="bold">Vitamin A</text>
+<text x="158" y="276">Months</text>
+<text x="248" y="276">Cannot see well at dusk, dry eyes,</text>
+<text x="248" y="293">children catch infections easily</text>
+<text x="478" y="276">Dark green and orange-yellow</text>
+<text x="478" y="293">vegetables (carrot, pumpkin,</text>
+<text x="478" y="310">spinach), animal liver, egg yolk</text>
+<!-- 5 Rickets / -->
+<text x="14" y="341" font-size="14" font-weight="bold">Rickets /</text>
+<text x="14" y="358" font-size="14" font-weight="bold">osteomalacia</text>
+<text x="14" y="375" fill="#0b5cad" font-weight="bold">Vitamin D, calcium</text>
+<text x="158" y="341">Months</text>
+<text x="158" y="358">(children)</text>
+<text x="248" y="341">Children: bent bones, late</text>
+<text x="248" y="358">teething; adults: bone pain</text>
+<text x="478" y="341">Sunshine, fish, egg yolk,</text>
+<text x="478" y="358">soy products</text>
+<text x="478" y="375" fill="#555">Bone broth (little calcium;</text>
+<text x="478" y="392" fill="#555">cannot replace them)</text>
+<!-- 6 Goitre -->
+<text x="14" y="423" font-size="14" font-weight="bold">Goitre</text>
+<text x="14" y="440" fill="#0b5cad" font-weight="bold">Iodine</text>
+<text x="158" y="423">Months to</text>
+<text x="158" y="440">years</text>
+<text x="248" y="423">Swelling of the neck; iodine</text>
+<text x="248" y="440">deficiency in pregnancy can cause</text>
+<text x="248" y="457">mental impairment in the baby</text>
+<text x="478" y="423">Iodised salt, kelp, nori</text>
+<!-- 7 Iron-deficiency -->
+<text x="14" y="488" font-size="14" font-weight="bold">Iron-deficiency</text>
+<text x="14" y="505" font-size="14" font-weight="bold">anaemia</text>
+<text x="14" y="522" fill="#0b5cad" font-weight="bold">Iron</text>
+<text x="158" y="488">Months</text>
+<text x="248" y="488">Pale face, tiredness,</text>
+<text x="248" y="505">palpitations, thinning nails</text>
+<text x="478" y="488">Animal blood, liver, red meat;</text>
+<text x="478" y="505">beans are absorbed better</text>
+<text x="478" y="522">together with vitamin C</text>
+<!-- 8 Protein-energy -->
+<text x="14" y="553" font-size="14" font-weight="bold">Protein-energy</text>
+<text x="14" y="570" font-size="14" font-weight="bold">malnutrition</text>
+<text x="14" y="587" fill="#0b5cad" font-weight="bold">Protein and calories</text>
+<text x="158" y="553">Weeks</text>
+<text x="248" y="553">Wasting, swelling (oedema,</text>
+<text x="248" y="570">especially in children),</text>
+<text x="248" y="587">thin, yellowish hair</text>
+<text x="478" y="553">Beans, eggs, fish, meat, milk</text>
+</g></g>
+<g transform="translate(10,857)">
+<rect x="0" y="0" width="700" height="220" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">③ Make up the shortfall with food around you (methods in the text)</text>
+<g font-size="12">
+<g transform="translate(8,36)">
+<rect x="0" y="0" width="168" height="176" rx="6" fill="#f3f7fb"/>
+<text x="8" y="18" font-size="13" font-weight="bold" fill="#0b5cad">Vitamin C:</text>
+<text x="8" y="34" font-size="13" font-weight="bold">sprout beans</text>
+<text x="8" y="56">Most reliable winter source</text>
+<text x="8" y="72">Soak 8-12 hours; cover</text>
+<text x="8" y="88">with a wet cloth, keep dark</text>
+<text x="8" y="104">Water 2-3 times a day;</text>
+<text x="8" y="120">eat after 3-5 days</text>
+<text x="8" y="136" fill="#c33">Smelly, slimy, mouldy</text>
+<text x="8" y="152" fill="#c33">→ throw them away</text>
+</g>
+<g transform="translate(180,36)">
+<rect x="0" y="0" width="168" height="176" rx="6" fill="#f3f7fb"/>
+<text x="8" y="18" font-size="13" font-weight="bold" fill="#0b5cad">Vitamin B1:</text>
+<text x="8" y="34" font-size="13" font-weight="bold">do not over-mill rice</text>
+<text x="8" y="56">Brown or half-polished</text>
+<text x="8" y="72">rice beats white rice</text>
+<text x="8" y="88">Do not scrub rice hard</text>
+<text x="8" y="104">when washing it</text>
+<text x="8" y="120">Eat with beans, wholewheat</text>
+<text x="8" y="136">and other grains</text>
+<text x="8" y="152" fill="#c33">✗ Alkali in porridge</text>
+<text x="8" y="168" fill="#c33">destroys vitamin B1</text>
+</g>
+<g transform="translate(352,36)">
+<rect x="0" y="0" width="168" height="176" rx="6" fill="#f3f7fb"/>
+<text x="8" y="18" font-size="13" font-weight="bold" fill="#0b5cad">Niacin:</text>
+<text x="8" y="34" font-size="13" font-weight="bold">treat maize with alkali</text>
+<text x="8" y="56">Boil the kernels in</text>
+<text x="8" y="72">limewater or plant-ash lye</text>
+<text x="8" y="88">Soak overnight, rinse</text>
+<text x="8" y="104">well, remove the skins</text>
+<text x="8" y="120">No alkali treatment: also</text>
+<text x="8" y="136">eat plenty of beans,</text>
+<text x="8" y="152">peanuts, meat and fish</text>
+</g>
+<g transform="translate(524,36)">
+<rect x="0" y="0" width="168" height="176" rx="6" fill="#f3f7fb"/>
+<text x="8" y="18" font-size="13" font-weight="bold" fill="#0b5cad">Iodine:</text>
+<text x="8" y="34" font-size="13" font-weight="bold">keep eating iodised salt</text>
+<text x="8" y="56">Stockpile iodised salt,</text>
+<text x="8" y="72">keep it sealed</text>
+<text x="8" y="88">Near the coast: kelp, nori</text>
+<text x="8" y="104" fill="#c33">✗ Do not use povidone-</text>
+<text x="8" y="120" fill="#c33">iodine or iodine tincture</text>
+<text x="8" y="136" fill="#c33">instead</text>
+<text x="8" y="152" fill="#555">Thyroid disease: follow</text>
+<text x="8" y="168" fill="#555">your doctor's advice</text>
+</g>
+</g></g>
+<g transform="translate(10,1087)">
+<rect x="0" y="0" width="700" height="88" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<text x="14" y="26" font-size="15" font-weight="bold" fill="#c33">⚠ If these symptoms appear, especially in children and pregnant women,</text>
+<text x="14" y="46" font-size="15" font-weight="bold" fill="#c33">see a doctor as early as possible while also improving the diet</text>
+<text x="14" y="72" font-size="13">Scurvy and beriberi usually improve quickly once the missing nutrient is supplied</text>
+</g>
+</g>
+</svg>

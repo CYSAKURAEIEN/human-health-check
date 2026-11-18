@@ -1,0 +1,181 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 974" width="720" height="974" role="img" aria-label="Spinning with a drop spindle. How the spindle is made: a straight wooden stick about 30 cm long and as thick as a chopstick; a weighted disc fitted on the lower part of the stick (a potsherd, piece of wood, potato or flat stone with a hole drilled through the middle); a small notch cut or a small hook fixed at the top. 1, tie a length of existing thread to the spindle stick as a leader and pass it over the hook at the top; 2, draw a small tuft from the combed fibres and overlap it with the leader; 3, pinch the fibres in one hand, spin the spindle one way with the other, then let go so it hangs and turns; the spin twists the fibres into thread; 4, the pinching hand slowly lets the fibres out upwards, keeping the thickness even; 5, give the spindle another spin when it is about to stop; when the thread is long enough, wind it onto the spindle stick, then repeat. Plying: twist two single threads that were spun the same way together in the opposite direction to make a stronger two-ply yarn">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Spinning with a drop spindle</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<pattern id="twZ" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(30)"><rect width="6" height="6" fill="#e6c98f"/><path d="M3 0 V6" stroke="#8b6b3e" stroke-width="1.2"/></pattern>
+<pattern id="ply" width="14" height="14" patternUnits="userSpaceOnUse" patternTransform="rotate(-35)"><rect width="7" height="14" fill="#e6c98f"/><rect x="7" width="7" height="14" fill="#c8995a"/><path d="M0 0 V14 M7 0 V14" stroke="#8b6b3e" stroke-width="1"/></pattern>
+<!-- spindle: origin at the top of the stick (base of the hook), stick 150 long -->
+<g id="sp">
+<path d="M-26 118 V125 A26 7 0 0 0 26 125 V118" fill="#a8763f" stroke="#333" stroke-width="1.5"/>
+<ellipse cx="0" cy="118" rx="26" ry="7" fill="#c8995a" stroke="#333" stroke-width="1.5"/>
+<path d="M0 0 V118 M0 132 V150" stroke="#8b6b3e" stroke-width="4" stroke-linecap="round"/>
+<path d="M0 1 V-7 Q0 -13 -5 -13 Q-9 -13 -9 -9" fill="none" stroke="#333" stroke-width="1.8" stroke-linecap="round"/>
+</g>
+<!-- combed fibres -->
+<g id="fib">
+<path d="M-38 4 Q-44 -10 -28 -14 Q-22 -26 -4 -20 Q10 -28 22 -16 Q40 -14 36 2 Q40 16 22 16 Q8 24 -8 16 Q-28 22 -32 12 Q-44 12 -38 4 Z" fill="#f6ecd8" stroke="#b9a77e" stroke-width="1.5"/>
+<path d="M-28 -2 Q-10 -10 8 -4 Q20 0 30 -6 M-24 8 Q-6 2 12 8 M-14 -12 Q2 -16 16 -10" fill="none" stroke="#c9b48a" stroke-width="1"/>
+</g>
+<!-- hand (pinching the fibres, pinch point at the origin) -->
+<g id="hand">
+<path d="M-14 -34 Q-22 -14 -12 -2 Q-6 4 0 2 Q10 0 14 -10 L16 -34 Z" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+<path d="M15 -22 Q22 -12 4 0" fill="#f3e3d3" stroke="#333" stroke-width="2"/>
+</g>
+</defs>
+<g font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif" font-size="13" fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Spinning with a drop spindle (the simplest tool)</text>
+
+<!-- construction -->
+<g transform="translate(10,44)">
+<rect width="226" height="350" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">How the spindle is made</text>
+<use href="#sp" transform="translate(96,58) scale(1.3)"/>
+<path d="M40 58 V253 M34 58 H46 M34 253 H46" stroke="#0b5cad" stroke-width="1"/>
+<text transform="translate(32,156) rotate(-90)" text-anchor="middle" fill="#0b5cad">about 30 cm</text>
+<g stroke="#0b5cad" stroke-width="1"><line x1="120" y1="46" x2="94" y2="45"/><line x1="120" y1="124" x2="100" y2="124"/><line x1="134" y1="214" x2="126" y2="210"/></g>
+<text x="124" y="44" font-size="12">top: small hook</text>
+<text x="124" y="58" font-size="12">or a notch</text>
+<text x="124" y="122" font-size="12">straight stick</text>
+<text x="124" y="136" font-size="12">(as thick as</text>
+<text x="124" y="150" font-size="12">a chopstick)</text>
+<text x="138" y="218" font-size="12">whorl (disc)</text>
+<text x="138" y="232" font-size="12">fitted low</text>
+<text x="138" y="246" font-size="12">on the stick</text>
+<text x="12" y="286">A weighted disc fits on the</text>
+<text x="12" y="303">lower part: a potsherd, wood,</text>
+<text x="12" y="320">potato or flat stone with a</text>
+<text x="12" y="337">hole drilled through the middle</text>
+</g>
+
+<!-- 1 tie on a leader -->
+<g transform="translate(247,44)">
+<rect width="226" height="350" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">① Tie on a leader</text>
+<use href="#sp" transform="translate(113,130)"/>
+<path d="M116 236 L119 231 V127 L108 120 L112 54" fill="none" stroke="#a0723e" stroke-width="2"/>
+<path d="M109 230 L118 236 M109 236 L118 242" stroke="#a0723e" stroke-width="2"/>
+<circle cx="119" cy="236" r="3" fill="#a0723e"/>
+<g stroke="#0b5cad" stroke-width="1"><line x1="100" y1="76" x2="111" y2="80"/><line x1="128" y1="116" x2="112" y2="120"/><line x1="128" y1="234" x2="122" y2="235"/></g>
+<text x="12" y="66" font-size="12">existing</text>
+<text x="12" y="80" font-size="12">thread as</text>
+<text x="12" y="94" font-size="12">the leader</text>
+<text x="132" y="110">over the</text>
+<text x="132" y="126">hook at</text>
+<text x="132" y="142">the top</text>
+<text x="132" y="232">tied to</text>
+<text x="132" y="248">the stick</text>
+<text x="12" y="296">First tie a length of existing</text>
+<text x="12" y="313">thread to the spindle stick as a</text>
+<text x="12" y="330">leader; pass it over the hook</text>
+</g>
+
+<!-- 2 join the fibres -->
+<g transform="translate(484,44)">
+<rect width="226" height="350" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">② Join on the fibres</text>
+<use href="#fib" transform="translate(60,62)"/>
+<use href="#sp" transform="translate(113,130)"/>
+<path d="M119 231 V127 L108 120 L112 74" fill="none" stroke="#a0723e" stroke-width="2"/>
+<path d="M92 66 Q104 76 110 100 M96 64 Q108 74 114 100 M90 70 Q100 82 112 102" fill="none" stroke="#c9b48a" stroke-width="1.5"/>
+<path d="M124 76 H130 V100 H124" fill="none" stroke="#0b5cad" stroke-width="1"/>
+<g stroke="#0b5cad" stroke-width="1"><line x1="62" y1="104" x2="96" y2="84"/><line x1="52" y1="146" x2="109" y2="144"/></g>
+<text x="12" y="116" fill="#0b5cad" font-size="12">small tuft</text>
+<text x="12" y="130" fill="#0b5cad" font-size="12">of fibres</text>
+<text x="12" y="150" fill="#0b5cad" font-size="12">leader</text>
+<text x="134" y="86">overlap</text>
+<text x="134" y="102">them</text>
+<text x="108" y="52" font-size="12" fill="#555">combed fibres</text>
+<text x="12" y="296">Draw a small tuft from the</text>
+<text x="12" y="313">combed fibres and overlap it</text>
+<text x="12" y="330">with the leader</text>
+</g>
+
+<!-- 3 spin the spindle -->
+<g transform="translate(10,404)">
+<rect width="226" height="366" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">③ Spin the spindle</text>
+<use href="#fib" transform="translate(70,48) scale(0.8)"/>
+<path d="M98 54 Q108 60 112 70" fill="none" stroke="#c9b48a" stroke-width="2"/>
+<use href="#hand" transform="translate(113,104)"/>
+<rect x="110" y="106" width="5" height="16" fill="url(#twZ)" stroke="#a0723e" stroke-width="0.8"/>
+<use href="#sp" transform="translate(113,130)"/>
+<path d="M110 122 L112 124" stroke="#a0723e" stroke-width="2"/>
+<path d="M85 200 A28 8 0 0 0 141 200" fill="none" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<g stroke="#0b5cad" stroke-width="1"><line x1="146" y1="112" x2="118" y2="114"/><line x1="146" y1="84" x2="130" y2="88"/></g>
+<text x="150" y="80" font-size="12">pinch the</text>
+<text x="150" y="93" font-size="12">fibres</text>
+<text x="150" y="116" font-size="12">twists into</text>
+<text x="150" y="129" font-size="12">thread</text>
+<text x="150" y="192" fill="#c33" font-size="12">spin in</text>
+<text x="150" y="206" fill="#c33" font-size="12">one</text>
+<text x="150" y="220" fill="#c33" font-size="12">direction</text>
+<text x="12" y="294" font-size="12">Pinch the fibres in one hand;</text>
+<text x="12" y="309" font-size="12">with the other, spin the spindle</text>
+<text x="12" y="324" font-size="12">one way, then let go so it hangs</text>
+<text x="12" y="339" font-size="12">and turns: the spin twists the</text>
+<text x="12" y="354" font-size="12">fibres into thread</text>
+</g>
+
+<!-- 4 let the fibres out upwards -->
+<g transform="translate(247,404)">
+<rect width="226" height="366" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">④ Let out the fibres</text>
+<use href="#fib" transform="translate(56,66) scale(0.7)"/>
+<path d="M80 62 Q96 52 106 54" fill="none" stroke="#c9b48a" stroke-width="2"/>
+<use href="#hand" transform="translate(113,82)"/>
+<path d="M109 84 Q110 94 112 104 M117 84 Q116 94 114 104 M113 84 V104" fill="none" stroke="#c9b48a" stroke-width="1.5"/>
+<rect x="110" y="102" width="5" height="22" fill="url(#twZ)" stroke="#a0723e" stroke-width="0.8"/>
+<use href="#sp" transform="translate(113,130)"/>
+<path d="M150 82 V48" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<path d="M85 200 A28 8 0 0 0 141 200" fill="none" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<g stroke="#0b5cad" stroke-width="1"><line x1="146" y1="98" x2="118" y2="94"/><line x1="146" y1="122" x2="118" y2="118"/></g>
+<text x="160" y="62" fill="#c33">slowly</text>
+<text x="160" y="78" fill="#c33">upwards</text>
+<text x="150" y="102" font-size="12">fibres</text>
+<text x="150" y="126" font-size="12">spun thread</text>
+<text x="12" y="296">The pinching hand slowly lets</text>
+<text x="12" y="313">the fibres out upwards, keeping</text>
+<text x="12" y="330">the thickness even</text>
+</g>
+
+<!-- 5 wind onto the stick -->
+<g transform="translate(484,404)">
+<rect width="226" height="366" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">⑤ Wind onto the stick</text>
+<use href="#sp" transform="translate(113,130)"/>
+<path d="M106 244 Q94 214 108 176 H118 Q132 214 120 244 Z" fill="#e6c98f" stroke="#a0723e" stroke-width="1.5"/>
+<path d="M104 236 L122 228 M101 224 L124 214 M101 212 L125 202 M102 200 L124 190 M105 188 L120 182" stroke="#a0723e" stroke-width="1"/>
+<path d="M118 178 L119 128 L108 120 L112 50" fill="none" stroke="#a0723e" stroke-width="2"/>
+<path d="M85 160 A28 8 0 0 0 141 160" fill="none" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<g stroke="#0b5cad" stroke-width="1"><line x1="84" y1="216" x2="98" y2="214"/></g>
+<text x="12" y="206" fill="#0b5cad" font-size="12">spun thread</text>
+<text x="12" y="220" fill="#0b5cad" font-size="12">wound on</text>
+<text x="12" y="234" fill="#0b5cad" font-size="12">the stick</text>
+<text x="150" y="156" fill="#c33" font-size="12">spin again</text>
+<text x="150" y="170" fill="#c33" font-size="12">as it slows</text>
+<text x="12" y="296">Spin it again as it slows down;</text>
+<text x="12" y="313">when the thread is long enough,</text>
+<text x="12" y="330">wind it onto the stick; repeat</text>
+</g>
+
+<!-- plying -->
+<g transform="translate(10,780)">
+<rect width="700" height="184" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">Plying: a stronger two-ply yarn</text>
+<rect x="40" y="56" width="210" height="9" rx="4" fill="url(#twZ)" stroke="#a0723e" stroke-width="1"/>
+<rect x="40" y="88" width="210" height="9" rx="4" fill="url(#twZ)" stroke="#a0723e" stroke-width="1"/>
+<path d="M266 51 A5 9.5 0 1 1 266 70" fill="none" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<path d="M266 83 A5 9.5 0 1 1 266 102" fill="none" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<text x="145" y="118" text-anchor="middle">two single threads,</text>
+<text x="145" y="134" text-anchor="middle">twisted the same way</text>
+<path d="M300 77 H350" stroke="#0b5cad" stroke-width="2.5" marker-end="url(#arB)"/>
+<rect x="380" y="68" width="240" height="18" rx="9" fill="url(#ply)" stroke="#a0723e" stroke-width="1"/>
+<path d="M642 87 A5 10 0 1 1 642 67" fill="none" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<text x="500" y="112" text-anchor="middle">twist together <tspan fill="#c33" font-weight="bold">the opposite way</tspan> → two-ply</text>
+<text x="12" y="152">Twist two singles spun the same way together in the opposite direction</text>
+<text x="12" y="170">to make a stronger two-ply yarn</text>
+</g>
+</g>
+</svg>

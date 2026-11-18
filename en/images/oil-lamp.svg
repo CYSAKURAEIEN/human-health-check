@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 882" width="720" height="882" role="img" aria-label="Saucer oil lamp. Materials: a shallow, non-flammable container (china saucer, small bowl, tin can); lamp oil is cooking oil (rapeseed oil, peanut oil, used frying oil) or animal fat (lard, beef fat, melted first); the wick is pure cotton thread, strips of cotton cloth (rolled into a strand) or cotton string. Method: pour oil into the container to a depth of about 1-2 cm; put one end of the wick in the oil with the other end about 0.5 cm above the surface; a small tube rolled or a stand folded from a scrap of tin (a can lid) holds the wick upright; light the exposed end; if the flame is too big and gives off black smoke, pull the wick down a little shorter. One saucer of oil burns for several hours, about as bright as a small candle. Never use as lamp oil: petrol, alcohol, diesel, engine oil, industrial or waste oils of unknown origin; use kerosene only in a lamp designed for kerosene and only where there is good ventilation. Naked-flame safety: stand it on a stable, non-flammable base, away from curtains, bedding, paper and clothes, out of reach of children and pets, and always put it out before leaving the room or going to sleep; in a power cut use battery lights first">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Saucer oil lamp</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+</defs>
+<g font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif" font-size="13" fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Saucer oil lamp</text>
+<text x="360" y="50" font-size="14" text-anchor="middle" fill="#555">The simplest way to make light, using materials almost every household has</text>
+
+<!-- cross-section -->
+<g transform="translate(10,62)">
+<rect width="430" height="390" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">Cross-section</text>
+<g transform="translate(-40,-46) scale(1.2)">
+<!-- oil -->
+<path d="M79 205 L102 242 H258 L281 205 Z" fill="#f3d27a"/>
+<path d="M79 205 H281" stroke="#c9962e" stroke-width="1.5"/>
+<!-- wick (part in the oil) -->
+<path d="M190 240 Q170 241 150 239 T112 238" fill="none" stroke="#777" stroke-width="7" stroke-linecap="round"/>
+<path d="M190 240 Q170 241 150 239 T112 238" fill="none" stroke="#f5f0e6" stroke-width="4.5" stroke-linecap="round"/>
+<!-- tin tube holder -->
+<path d="M176 242 H204" stroke="#888" stroke-width="3"/>
+<rect x="185" y="207" width="10" height="34" fill="#c8c8c8" stroke="#555" stroke-width="1.5"/>
+<!-- wick (upright in the tube, above the oil) -->
+<path d="M190 236 V193" stroke="#777" stroke-width="7"/>
+<path d="M190 236 V194" stroke="#f5f0e6" stroke-width="4.5"/>
+<rect x="186.5" y="190" width="7" height="5" rx="1.5" fill="#444"/>
+<!-- saucer -->
+<path d="M50 174 L94 250 H266 L310 174 H300 L258 242 H102 L60 174 Z" fill="#eef2f5" stroke="#333" stroke-width="2.2" stroke-linejoin="round"/>
+<path d="M40 252 H345" stroke="#999" stroke-width="2.5"/>
+<!-- flame -->
+<path d="M190 192 Q174 176 181 156 Q186 144 190 128 Q194 144 199 156 Q206 176 190 192 Z" fill="#f6d36b" stroke="#f2a33a" stroke-width="1.8"/>
+<path d="M190 188 Q183 180 186 170 Q188 164 190 158 Q192 164 194 170 Q197 180 190 188 Z" fill="#fff6d6"/>
+</g>
+<!-- dimension: above the oil -->
+<path d="M198 185.6 H212 M198 200 H212 M205 185.6 V200" stroke="#c33" stroke-width="1.2"/>
+<line x1="212" y1="192" x2="226" y2="158" stroke="#c33" stroke-width="1"/>
+<text x="222" y="154" fill="#c33" font-weight="bold">about 0.5 cm above the oil</text>
+<!-- dimension: oil depth -->
+<path d="M300 200 H362 M271 244.4 H362" stroke="#0b5cad" stroke-width="1" stroke-dasharray="3 3"/>
+<path d="M356 200 V244.4 M351 200 H361 M351 244.4 H361" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="362" y="212" font-size="12" fill="#0b5cad">oil depth</text>
+<text x="362" y="227" font-size="12" fill="#0b5cad">about</text>
+<text x="362" y="242" font-size="12" fill="#0b5cad">1-2 cm</text>
+<text x="232" y="231" font-size="12">oil</text>
+<!-- leader labels -->
+<g stroke="#0b5cad" stroke-width="1"><line x1="104" y1="80" x2="185" y2="220"/><line x1="64" y1="110" x2="116" y2="238"/><line x1="362" y1="136" x2="334" y2="165"/></g>
+<text x="16" y="58" fill="#0b5cad">Tube rolled from tin (a can lid)</text>
+<text x="16" y="74" fill="#0b5cad">or a folded stand holds the wick up</text>
+<text x="16" y="104" fill="#0b5cad">One end of the wick in the oil</text>
+<text x="420" y="130" text-anchor="end" fill="#0b5cad">Shallow, non-flammable container</text>
+<!-- method -->
+<text x="12" y="282"><tspan font-weight="bold">1.</tspan> Pour oil into the container about 1-2 cm deep</text>
+<text x="12" y="300"><tspan font-weight="bold">2.</tspan> Put one end of the wick in the oil, with the other</text>
+<text x="28" y="318">end about 0.5 cm above the surface</text>
+<text x="12" y="336"><tspan font-weight="bold">3.</tspan> Light the exposed end</text>
+<text x="12" y="360" fill="#555">One saucer of oil burns for several hours,</text>
+<text x="12" y="377" fill="#555">about as bright as a small candle</text>
+</g>
+
+<!-- materials -->
+<g transform="translate(450,62)">
+<rect width="260" height="390" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">Materials</text>
+<text x="12" y="52" font-weight="bold">Container</text>
+<text x="12" y="72">Shallow and non-flammable:</text>
+<text x="12" y="90">china saucer, small bowl, tin can</text>
+<text x="12" y="122" font-weight="bold">Lamp oil</text>
+<text x="12" y="142">Cooking oil: rapeseed oil,</text>
+<text x="12" y="160">peanut oil, used frying oil</text>
+<text x="12" y="180">Animal fat: lard, beef fat</text>
+<text x="12" y="198">(melted first)</text>
+<text x="12" y="230" font-weight="bold">Wick</text>
+<text x="12" y="250">Pure cotton thread, strips of</text>
+<text x="12" y="268">cotton cloth (rolled into a</text>
+<text x="12" y="286">strand), cotton string</text>
+<text x="12" y="318" font-weight="bold">Wick holder (optional)</text>
+<text x="12" y="338">A scrap of tin (a can lid) rolled</text>
+<text x="12" y="356">into a small tube or folded</text>
+<text x="12" y="374">into a stand</text>
+</g>
+
+<g transform="translate(0,40)">
+<!-- flame too big -->
+<g transform="translate(10,422)">
+<rect width="345" height="200" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">Flame too big, black smoke</text>
+<!-- too long -->
+<path d="M70 94 Q60 80 66 68 Q60 58 68 50 Q66 44 72 38" fill="none" stroke="#555" stroke-width="2.5" stroke-dasharray="1 4" stroke-linecap="round"/>
+<path d="M78 128 Q54 104 64 78 Q70 62 78 44 Q86 62 92 78 Q102 104 78 128 Z" fill="#f6d36b" stroke="#f2a33a" stroke-width="2"/>
+<path d="M30 150 H126" stroke="#c9962e" stroke-width="2"/>
+<path d="M78 150 V126" stroke="#777" stroke-width="7"/>
+<path d="M78 150 V127" stroke="#f5f0e6" stroke-width="4.5"/>
+<rect x="74.5" y="124" width="7" height="6" rx="1.5" fill="#444"/>
+<text x="78" y="172" text-anchor="middle" fill="#c33">wick sticks out</text>
+<text x="78" y="187" text-anchor="middle" fill="#c33">too far</text>
+<path d="M146 100 H196" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="171" y="88" text-anchor="middle" font-size="12" fill="#c33">pull it down shorter</text>
+<!-- normal -->
+<path d="M268 142 Q256 130 261 116 Q265 106 268 96 Q271 106 275 116 Q280 130 268 142 Z" fill="#f6d36b" stroke="#f2a33a" stroke-width="2"/>
+<path d="M220 150 H316" stroke="#c9962e" stroke-width="2"/>
+<path d="M268 150 V142" stroke="#777" stroke-width="7"/>
+<rect x="264.5" y="140" width="7" height="5" rx="1.5" fill="#444"/>
+<text x="268" y="172" text-anchor="middle" fill="#0b5cad">after shortening</text>
+</g>
+
+<!-- never use as lamp oil -->
+<g transform="translate(365,422)">
+<rect width="345" height="200" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="2"/>
+<text x="12" y="24" font-size="15" font-weight="bold" fill="#c33">❌ Never use these as lamp oil</text>
+<text x="12" y="50"><tspan font-weight="bold">Petrol</tspan>: its vapour flashes into flame</text>
+<text x="12" y="70"><tspan font-weight="bold">Alcohol</tspan>: flame almost invisible in daylight,</text>
+<text x="28" y="88">easy to touch by mistake; spills and spreads</text>
+<text x="12" y="108"><tspan font-weight="bold">Diesel, engine oil</tspan>: thick, toxic smoke</text>
+<text x="12" y="128">Industrial or waste oils <tspan font-weight="bold">of unknown origin</tspan></text>
+<text x="12" y="156"><tspan font-weight="bold">Kerosene</tspan>: only in a lamp designed for</text>
+<text x="28" y="174">kerosene, and only with good ventilation</text>
+</g>
+
+<!-- naked-flame safety -->
+<g transform="translate(10,632)">
+<rect width="700" height="200" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">Safety rules for naked-flame lighting</text>
+<text x="20" y="50">✓ Stand it on a stable, non-flammable base</text>
+<text x="36" y="68">(a plate, a tin) with space around it</text>
+<text x="20" y="88">✓ Keep it away from curtains, bedding,</text>
+<text x="36" y="106">paper and clothes</text>
+<text x="20" y="126">✓ Keep it out of reach of children and pets</text>
+<text x="20" y="146">✓ <tspan font-weight="bold" fill="#c33">Always put it out before leaving the</tspan></text>
+<text x="36" y="164" font-weight="bold" fill="#c33">room or going to sleep</text>
+<text x="366" y="50">✓ Do not carry a candle to search for things</text>
+<text x="382" y="68">(especially in cupboards or under beds)</text>
+<text x="366" y="88">✓ Never use a naked flame to check for a gas</text>
+<text x="382" y="106">leak or look into a fuel tank</text>
+<text x="366" y="126">✓ Smell gas in the room? Never light anything</text>
+<text x="366" y="154" font-weight="bold" fill="#0b5cad">In a power cut, use battery lights first</text>
+<text x="366" y="172" font-size="12" fill="#555">(LED torches, head torches, camping lanterns);</text>
+<text x="366" y="188" font-size="12" fill="#555">oil lamps and candles only after that</text>
+</g>
+</g>
+</g>
+</svg>
