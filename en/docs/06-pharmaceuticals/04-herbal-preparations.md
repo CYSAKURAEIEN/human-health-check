@@ -374,8 +374,8 @@ Purpose:
   - Strengthens its effect on the spleen and stomach
   - Easier to grind (crisp after frying)
 
-Herbs: Baizhu, Huangqi (Astragalus membranaceus, astragalus),
-Shanyao (Dioscorea opposita, Chinese yam) and others
+Herbs: Baizhu, Shanyao (Dioscorea opposita, Chinese yam) and others
+(Huangqi (Astragalus membranaceus, astragalus) is usually honey-fried)
 ```
 
 **Frying with bran:**
@@ -793,4 +793,494 @@ For systematic herb identification, look-alikes and fakes, processing at the pla
 
 ---
 
-PART2_PLACEHOLDER
+## 5. How to decoct Chinese herbs
+
+### 5.1 Choosing the pot
+
+**Best:**
+- Earthenware pots, clay jars (do not react with the herbs)
+
+**Acceptable:**
+- Stainless-steel pans
+- Enamel pans
+
+**Do not use:**
+- Iron or aluminium pans (react with the herbs)
+- Copper pans
+
+```
+Why not iron, aluminium or copper pans:
+- Many herbs contain tannins and organic acids; reacting with iron turns the liquid black
+  and astringent and changes its ingredients
+- Acidic decoctions dissolve aluminium and copper out of the pan, which is bad for you if
+  you drink it for a long time
+- If you have no earthenware pot: stainless-steel and enamel pans (with the enamel
+  undamaged) are both fine;
+  boil a home-fired clay pot once with plain water first, to make sure it does not leak or
+  shed bits of glaze
+- Boil a new earthenware pot once with rice water or plain water first, so it cracks less;
+  do not put a hot pot down on cold, wet ground, and do not heat it empty
+- Keep the pot for herbs only if you can; wash and dry it after use,
+  and do not use it for cooking as well (especially if toxic herbs have been decocted in it)
+```
+
+### 5.2 Decocting step by step
+
+**Standard method:**
+
+```
+1. Soaking:
+   - Put the herbs in the pot
+   - Add cold water to 3-5 cm above the herbs
+   - Soak for 30 minutes (1-2 hours for seeds)
+
+2. Bringing to the boil:
+   - Bring to the boil over a high heat
+
+3. Simmering gently:
+   - Once boiling, turn the heat down low
+   - Herbs that release the exterior: 15-20 minutes
+   - Ordinary herbs: 25-30 minutes
+   - Tonics: 40-60 minutes
+
+4. Second decoction:
+   - Add water to the residue and decoct again for 20-30 minutes
+
+5. Combining the liquid:
+   - Mix the liquid from both decoctions
+   - Total about 400-600 mL
+   - Take in 2-3 portions
+```
+
+**Special methods:**
+
+**Decocted first:**
+- Minerals and shells (*Shigao*, *Longgu*, etc.)
+- Put into the pot 30 minutes ahead of the others
+
+**Added last:**
+- Aromatic herbs (*Bohe*, *Huoxiang*, etc.)
+- Put into the pot for the last 5-10 minutes
+
+**Wrapped:**
+- Tiny seeds, pollen
+- Wrap in gauze and decoct
+
+**Decocted separately:**
+- Precious herbs (*Renshen* (Panax ginseng, ginseng), etc.)
+- Decoct separately for 2-3 hours and add the liquid to the rest
+
+![Steps for decocting Chinese herbs at home: choosing the pot, soaking in cold water, high heat then low heat, special methods, second decoction and combining, taking and precautions](../../images/herbal-decoction.svg)
+
+*Figure: Decocting Chinese herbs at home — soak in cold water in an earthenware pot for 30 minutes, bring to the boil over a high heat, then simmer gently; decoct twice and combine; do not process, decoct or take toxic herbs yourself*
+
+#### How much water and how much liquid
+
+```
+One dose of herbs is usually decocted twice and drunk within one day:
+- First decoction: add water to 3-5 cm above the herbs; flowers, leaves and light, spongy
+  herbs soak up a lot of water, so the water level should be higher (about 5 cm);
+  one dose of herbs usually takes about 600-800 mL of water
+- Second decoction: add water to 2-3 cm above the residue
+- Each time, boil down to about 200-300 mL (about one bowl); the two together make
+  about 400-600 mL
+- For children, make the decoction stronger and smaller in volume so it is easier to give;
+  for children's doses see 6.3; do not estimate them yourself
+- If the water is nearly boiled away part-way through: you can add a little boiling water;
+  do not add cold water
+  (sudden cooling hinders extraction, and an earthenware pot may crack)
+```
+
+#### How to tell it has been decocted properly
+
+```
+✓ The liquid is an even colour and smells of the herbs, with no burnt smell
+✓ The residue is cooked through: roots and rhizomes broken open have no dry core
+✓ The amount of liquid is close to the range above; too little means the heat was too high
+  or the time too long
+❌ Scorched or burnt: pour away the whole pot; do not add water and decoct again —
+   burnt liquid may be harmful, and the properties of the herbs have changed
+❌ The liquid smells mouldy or strange, or the herbs themselves have mould spots: do not drink it
+❌ Soaking in boiling water and then decocting straight away, or boiling hard over a high
+   heat the whole time: the ingredients are not extracted well
+```
+
+### 5.3 How to take it
+
+**Taken warm:**
+- Ordinary medicines, taken warm
+
+**Taken hot:**
+- Medicines for "wind-cold" colds
+- To induce sweating and release the exterior
+
+**Taken cold:**
+- Heat-clearing medicines (in summer)
+- Medicines to stop vomiting
+
+**Timing:**
+- Before meals: tonics
+- After meals: medicines for food stagnation, and medicines that irritate the stomach
+- Before bed: calming medicines
+
+#### Keeping the decoction and how long it lasts
+
+```
+- Ideally decoct it and drink it all on the same day; do not spread one dose over several days
+- Liquid you are not drinking straight away: let it cool, cover it, and keep it in the
+  fridge if you have one, generally for no more than 1-2 days; without a fridge,
+  drink it all on the same day
+- Before taking it again, warm it up (in a water bath, or over a low heat until it just simmers)
+- The liquid turns sour, bubbles, goes mouldy or smells strange → pour it away
+- Usually take 2-3 doses of a formula first to see whether it works:
+  if better, you can take a few more doses of the same formula; no better or worse
+  → stop and see a doctor
+- While taking the medicine, eat plain food, with little raw, cold, greasy or spicy food;
+  after taking medicines that release the exterior and induce sweating, avoid wind and chills
+- After taking it, rash, itching, abdominal pain and diarrhoea, palpitations, dizziness,
+  or numbness of the mouth, tongue or limbs → stop the medicine; if severe,
+  see a doctor immediately (see 6.6)
+```
+
+---
+
+## 6. Safety precautions
+
+### 6.1 The "eighteen incompatibilities" and "nineteen antagonisms" (combinations to avoid)
+
+**The eighteen incompatibilities (must not be used together; simplified):**
+- *Gancao* is incompatible with *Gansui* (Euphorbia kansui), *Daji* (Euphorbia pekinensis), *Yuanhua* (Daphne genkwa), *Haizao* (Sargassum, seaweed)
+- *Wutou* (aconite) is incompatible with *Banxia*, *Gualou* (Trichosanthes kirilowii, snake gourd fruit), *Beimu* (Fritillaria, fritillary bulb), *Bailian* (Ampelopsis japonica, ampelopsis root), *Baiji*
+- *Lilu* (Veratrum nigrum, black false hellebore) is incompatible with *Renshen*, *Shashen* (Adenophora, ladybell root), *Danshen* (Salvia miltiorrhiza, red sage root), *Xuanshen* (Scrophularia ningpoensis, figwort root), *Xixin* (Asarum, Chinese wild ginger), *Shaoyao* (Paeonia lactiflora, peony root)
+
+**The nineteen antagonisms (avoid using together):**
+- *Liuhuang* (sulphur) antagonises *Puxiao* (crude mirabilite, sodium sulphate)
+- *Shuiyin* (mercury) antagonises *Pishuang* (arsenic trioxide)
+- *Langdu* (Stellera chamaejasme) antagonises *Mituoseng* (litharge, lead oxide)
+- *Badou* (Croton tiglium, croton seed) antagonises *Qianniuzi* (Ipomoea nil, morning glory seed)
+- *Dingxiang* (Syzygium aromaticum, clove) antagonises *Yujin* (Curcuma, turmeric tuber)
+- *Chuanwu* and *Caowu* antagonise *Xijiao* (rhinoceros horn; now banned and replaced by water-buffalo horn)
+- *Yaxiao* (refined mirabilite) antagonises *Sanleng* (Sparganium stoloniferum, bur-reed rhizome)
+- *Guangui* (Cinnamomum cassia, cassia bark) antagonises *Shizhi* (halloysite clay)
+- *Renshen* antagonises *Wulingzhi* (Trogopterus droppings, flying squirrel faeces)
+
+**Rule: if you are not sure, do not combine them!**
+
+### 6.2 Contraindications in pregnancy
+
+**Absolutely forbidden (highly toxic or cause miscarriage):**
+- *Badou*, *Qianniuzi*, *Daji*
+- *Banmao* (Mylabris, blister beetle), *Shanglu* (Phytolacca acinosa, pokeweed root), *Shexiang* (musk)
+- *Shuizhi* (leech), *Mengchong* (Tabanus, horsefly), *Sanleng*, *Ezhu* (Curcuma phaeocaulis, zedoary), *Tubiechong*
+- *Wutou*, *Fuzi*
+
+**Use with caution:**
+- Blood-invigorating herbs: *Honghua*, *Taoren* (Prunus persica, peach kernel), *Niuxi* (Achyranthes bidentata, achyranthes root)
+- Purgatives: *Dahuang* (Rheum palmatum, rhubarb root), *Mangxiao* (mirabilite, sodium sulphate), *Fanxieye* (Cassia angustifolia, senna leaf)
+- Qi-regulating herbs: *Zhishi* (Citrus aurantium, immature bitter orange), *Zhiqiao*
+- Others: *Guizhi*, *Houpo*, *Chuanxiong*, *Ruxiang*, *Moyao* (Commiphora myrrha, myrrh), *Danggui* (only under a doctor's guidance)
+
+**Relatively safe herbs:**
+- *Dangshen* (Codonopsis pilosula, codonopsis root), *Huangqi*, *Baizhu*
+- *Shudi* (small amounts)
+- *Chenpi*, *Sharen* (Amomum villosum, amomum fruit)
+
+```
+More on medicines in pregnancy:
+- "Relatively safe" is only by comparison; using any Chinese medicine in pregnancy needs
+  the guidance of a practitioner of Chinese medicine or a doctor;
+  avoid medicines as far as possible in the first 3 months of pregnancy
+- Others in this chapter that pregnant women must avoid: Sanqi (by mouth), Mahuang,
+  Shanzha (large amounts), medicinal wines, plasters containing red lead
+- Breastfeeding women: most medicines pass into breast milk; ask a doctor before using any;
+  Damaiya and Chaomaiya (germinated barley, raw or stir-fried) may reduce milk supply
+- Vaginal bleeding, abdominal pain, headache with blurred vision, worsening swelling or
+  fewer foetal movements in pregnancy → see a doctor immediately;
+  do not delay by relying on "pregnancy-calming" herbs
+```
+
+### 6.3 Medicines for children
+
+**Dose:** see [Basic pharmaceutical knowledge – adult vs child doses](../../../docs/06-制药技术/00-基础制药知识.md#23-成人vs儿童剂量); the formulas there are only rough estimates, and children's doses of Chinese medicine are best set by a doctor
+
+**Do not use:**
+- Medicines containing heavy metals (*Zhusha* (cinnabar, mercury sulphide), *Xionghuang* (realgar, arsenic sulphide))
+- Toxic herbs (*Fuzi*, *Banxia*, etc.)
+
+**First choice:**
+- Mild medicines
+- Mainly food-based remedies
+
+```
+More:
+- Do not give Chinese medicines on your own to children under 3; do not give babies herbal
+  water in place of milk feeds or rehydration
+- Children must not have these either: Mahuang (speeds up the heart), medicinal wines,
+  bitter Xingren (poisons easily), plasters containing red lead, and ready-made medicines
+  of unknown origin such as "infant convulsion powder" or "Baoying Dan"
+  (some contain cinnabar, lead or other heavy metals)
+- Chinese medicine is bitter; if a child spits some out, do not immediately give a whole
+  extra dose, or they may get too much
+- Keep herbs, medicinal wines and powders where children cannot reach them
+- Children's illnesses change quickly: high fever, listlessness, fast breathing,
+  little urine, fits → see a doctor immediately; do not wait for the Chinese medicine to work
+```
+
+For when to take children with fever, diarrhoea or cough to a doctor see [When to see a doctor for fever, by group](../../../docs/01-日常疾病和伤害/01-常见疾病.md#不同人群的发烧就医标准), [Diarrhoea in babies, young children, older people and pregnant women](../../../docs/01-日常疾病和伤害/01-常见疾病.md#婴幼儿老人和孕妇腹泻) and [Judging cough and fast breathing in children](../../../docs/01-日常疾病和伤害/01-常见疾病.md#儿童咳嗽和呼吸急促的判断).
+
+### 6.4 Other people who should ask a doctor first
+
+Besides pregnant women and children, the following people must ask a doctor before using any Chinese medicine (including herbal teas, medicinal wines and medicinal foods):
+
+| Group | Why | Medicines in this chapter to watch especially |
+|------|--------|-----------------|
+| Older people | Liver and kidney function declines; they often take several medicines at once, so build-up and interactions are more likely | Use the lower dose; *Mahuang*, medicinal wines |
+| People with liver or kidney disease | Most medicines are broken down by the liver and excreted by the kidneys; some herbs themselves damage the liver or kidneys | *Heshouwu*, *Yinyanghuo*, herbs containing aristolochic acid, medicinal wines |
+| People with high blood pressure or heart disease | Some herbs raise blood pressure and speed up the heart | *Mahuang*, *Gancao* (large amounts over long periods) |
+| People with diabetes | Formulas often add brown sugar or honey; honey pills contain a lot of sugar | Spring onion, ginger and brown sugar soup; honey pills; honey-fried herbs |
+| People prone to allergies | Especially those allergic to plants of the daisy family | *Juhua*, *Yejuhua*, *Pugongying*, *Aiye* |
+| People about to have surgery or a tooth out | Blood-invigorating herbs increase bleeding | *Sanqi*, *Danggui*, *Honghua*, *Taoren*, *Chuanxiong*; stop them beforehand and tell the doctor |
+| People on long-term Western medicines | Possible interactions | See 6.5 |
+
+For more detail see [Medicinal plants – safe use of medicines](../../../docs/04-动植物培育/04-药用植物.md#用药安全).
+
+### 6.5 Taking them with Western medicines
+
+```
+Key points:
+- People on long-term blood-pressure medicines, diabetes medicines, anticoagulants
+  (warfarin), antiplatelet drugs (aspirin, clopidogrel), digoxin, diuretics, steroids,
+  anti-epileptic drugs or immunosuppressants should ask a doctor or pharmacist before
+  using Chinese medicines
+- Do not cut down or stop your Western medicines on your own because you have started
+  taking Chinese medicine
+- Chinese and Western medicines are usually taken 1-2 hours apart,
+  but this only reduces some of the interaction; it does not remove the risk
+- Many ready-made Chinese medicines contain Western drug ingredients: for example, some
+  Chinese cold remedies contain paracetamol (acetaminophen) and chlorphenamine
+  (chlorpheniramine); taking them with Western cold remedies or fever medicines
+  gives an overdose of the same ingredient (paracetamol overdose can cause liver failure);
+  read the "ingredients" section of the leaflet before taking them
+- No medicinal wine while taking cephalosporins or metronidazole (see 3.4)
+- When you see a doctor, tell them about all the Chinese medicines, medicinal wines and
+  supplements you are taking, and write them on your medication card
+```
+
+For which herbs clash with which Western medicines see [Medicinal plants – warnings on use with Western medicines](../../../docs/04-动植物培育/04-药用植物.md#与西药同用的提醒); for the medication card and medicines that must not be stopped suddenly see [Chronic disease medication stockpile](../../../docs/01-日常疾病和伤害/08-慢性病用药储备.md#突然停药最危险的几类药).
+
+### 6.6 Toxic Chinese medicines
+
+The toxic herbs you will meet in this chapter and in common folk remedies: **do not process or make up any of them yourself at home**:
+
+| Herb | Main risk | Key points |
+|------|---------|------|
+| *Fuzi*, *Chuanwu*, *Caowu* | Aconitine: abnormal heart rhythm, cardiac arrest | You cannot tell whether processing and decocting have removed the toxin; do not steep in alcohol or stew with meat |
+| *Maqianzi* | Fits, respiratory paralysis | The therapeutic dose and the toxic dose are very close |
+| *Leigongteng* | Toxic to the liver, kidneys, blood and reproductive system | Only under a doctor's monitoring |
+| Raw *Banxia*, raw *Tiannanxing* (Arisaema erubescens, arisaema) | Severe numbness and burning pain of the mouth, tongue and throat; swelling of the larynx | Use only processed herb from a pharmacy, on prescription |
+| Bitter *Xingren*, *Taoren* | Contain cyanogenic glycosides; too much can cause difficulty breathing and coma | Do not exceed the dose, do not chew large amounts raw, do not give to children |
+| *Zhusha*, *Xionghuang*, *Huangdan* (contain mercury, arsenic, lead) | Heavy-metal poisoning; the damage is hard to reverse | Do not take by mouth, do not give to children; do not make plasters containing red lead |
+| *Guanmutong* (Aristolochia manshuriensis), *Guangfangji* (Aristolochia fangchi), *Qingmuxiang* (Aristolochia debilis root), *Madouling* (Aristolochia fruit, birthwort) | Aristolochic acid causes kidney failure and cancer | Do not gather plants yourself whose names contain "*mutong*" or "*fangji*" |
+| *Heshouwu* (especially raw) | Liver damage | Do not take it on your own for long periods; people with liver disease should not use it |
+| *Xixin* | Marked slightly toxic in the Pharmacopoeia; too much can cause fits and depressed breathing | Use only the root and rhizome, not the whole plant with leaves (the leaves contain aristolochic acid); the dose is very small; only on the prescription of a practitioner of Chinese medicine |
+| *Shanglu*, *Mantuoluo* (*Yangjinhua*, Datura metel flower), *Gansui*, *Daji*, *Yuanhua*, *Badou*, *Banmao* | Highly toxic or violently purgative | Do not use |
+
+```
+Signs of poisoning (appear minutes to hours after taking the medicine):
+- Numbness of the mouth, tongue, hands and feet, palpitations, very slow or very irregular
+  heartbeat → typical of aconite poisoning
+- Severe vomiting, abdominal pain and diarrhoea
+- Dizziness, blurred vision, talking nonsense, fits, coma
+- Difficulty breathing, tight throat, blue lips
+
+If these happen:
+1. Stop the medicine immediately; call 120 or get to hospital as fast as possible
+2. Take the remaining herbs, residue or liquid with you, or photograph them, and tell the
+   doctor what was taken, how much and when
+3. Unresponsive and not breathing → CPR
+❌ Do not use folk "antidotes" such as mung bean soup or liquorice water and then just
+   watch at home
+```
+
+For recognising common poisonous plants see [Medicinal plants – poisonous plants (to avoid misuse)](../../../docs/04-动植物培育/04-药用植物.md#有毒植物避免误用); for treatment see [What to do if a poisonous plant is eaten by mistake](../../../docs/04-动植物培育/04-药用植物.md#误食有毒植物怎么办) and [General principles for treating poisoning](../../../docs/01-日常疾病和伤害/12-中毒.md#中毒的通用处理原则).
+
+### 6.7 When you must see a doctor
+
+Chinese medicine is suitable for mild illness and for building up health. In the following situations **do not delay by relying on Chinese medicine**: see a doctor as soon as possible or call 120:
+
+| Situation | Possible cause | What to do |
+|------|-----------|--------|
+| Chest pain, difficulty breathing, weakness on one side of the body or a drooping corner of the mouth, sudden severe headache | Heart attack, pulmonary embolism, stroke | Call 120 immediately |
+| High fever that will not come down, or with a stiff neck, pinpoint bleeding in the skin or confusion | Severe infection, meningitis | See a doctor immediately |
+| Fever in a baby, or a child who is listless or breathing fast | Children's illnesses progress quickly | See a doctor immediately |
+| Diarrhoea or vomiting with little urine and listlessness, or blood in the stool or black stools | Dehydration, bleeding in the digestive tract | See a doctor as soon as possible |
+| Severe abdominal pain, especially pain in the lower right abdomen, or a rigid abdomen | Appendicitis or another acute abdomen | See a doctor immediately; do not take laxatives |
+| Deep wound, bleeding that pressure will not stop, animal bite, puncture by a rusty object | Major bleeding, rabies, tetanus | See a doctor as soon as possible for injections |
+| A boil whose redness and swelling spread, a red streak, fever and chills | Spreading infection | See a doctor as soon as possible |
+| Cough with phlegm for more than 2 weeks, or blood in the phlegm, with low fever, night sweats and weight loss | Tuberculosis and others | See a doctor for tests |
+| Rash, swollen lips or tongue, tight throat after taking a medicine | Allergy | Stop the medicine; if breathing is difficult, call 120 |
+| Numb mouth and tongue, palpitations or fits after taking a medicine | Poisoning | Call 120 immediately (see 6.6) |
+| No improvement after 2-3 days of medicine, or getting worse | Wrong formula for the condition, or a more serious illness | Stop the medicine and see a doctor |
+
+For judging the various emergencies see [Acute symptoms](../../../docs/01-日常疾病和伤害/05-急性症状.md) and [Heart, stroke and sudden illness](../../../docs/01-日常疾病和伤害/06-心脑血管与突发病症.md).
+
+---
+
+## 7. Common questions
+
+### Q1: Do Chinese medicines always have to be made up from a formula?
+
+**A: Not necessarily**
+- Common illnesses: single herbs work well too
+  - Colds: *Shengjiang* and *Congbai* are enough
+  - Indigestion: *Shanzha*, *Chenpi*
+  - Injuries: *Sanqi*, *Baiji*
+- Complicated illnesses: herbs need combining to work better
+
+### Q2: Do Chinese medicines have side effects?
+
+**A: Yes, but relatively small ones**
+- Toxic herbs: do not use them at home (see 6.6)
+- Ordinary herbs: at the usual dose and for a short time, most are fairly safe;
+  the risk rises clearly when the wrong herb is used, too much is taken, it is taken for a long time, or it is taken with Western medicines
+- Herbs that are also foods: generally safe in ordinary food amounts, but large amounts over long periods can also cause problems
+  (for example, *Gancao* can raise blood pressure and lower blood potassium)
+
+**Rule: every medicine is partly a poison!**
+
+### Q3: Is the longer the decoction, the better?
+
+**A: No**
+- Herbs that release the exterior: long decoction loses the volatile oils
+- Tonics: need long decoction to extract them fully
+- In general: 25-30 minutes
+- Decocted too long: the liquid becomes too little and too strong, and burns easily; if it burns, pour it away (see 5.2)
+
+### Q4: Can I decoct herbs in an electric kettle cup?
+
+**A: Not ideal, but usable in an emergency**
+- An earthenware pot over a gentle heat is best
+- The temperature of an electric cup is hard to control
+- It burns easily
+
+### Q5: Can Chinese medicine replace Western medicine?
+
+**A: It depends**
+- Mild common illnesses (ordinary colds, mild indigestion): Chinese medicine and food remedies can mostly be tried first
+- Acute, dangerous or serious illness: you must see a doctor; Western medicine and surgery are faster and more reliable (see 6.7)
+- Chronic disease: long-term Western medicines for high blood pressure, diabetes, heart disease, epilepsy and so on cannot be replaced by Chinese medicine,
+  and do not stop them on your own; Chinese medicine can only help and support
+- Infections: antibiotics are more reliable, Chinese medicine helps; when a bacterial infection is getting worse, do not rely on Chinese medicine alone
+
+**Advice for after a collapse: combine Chinese and Western medicine!**
+
+---
+
+## 8. Recommended stockpile
+
+### 8.1 The most basic herbs (10)
+
+**Exterior-releasing:**
+1. *Shengjiang* - releases the exterior and dispels cold
+2. *Jinyinhua* - clears heat and removes toxins
+
+**Digestive:**
+3. *Shanzha* - relieves food stagnation
+4. *Chenpi* - regulates qi
+
+**Tonics:**
+5. *Huangqi* - tonifies qi
+6. *Danggui* - nourishes the blood
+
+**External use:**
+7. *Sanqi* (powder) - stops bleeding
+8. *Aiye* - warms the channels and stops bleeding
+
+**Others:**
+9. *Gancao* - harmonises the other herbs, stops coughs
+10. *Dazao* (Ziziphus jujuba, jujube) - tonifies the spleen, harmonises
+
+### 8.2 Further stockpile (30)
+
+Add to the basic list:
+- Exterior-releasing: *Mahuang*, *Guizhi*, *Bohe*, *Chaihu* (Bupleurum chinense, bupleurum root)
+- Heat-clearing: *Huanglian* (Coptis chinensis, coptis rhizome), *Huangqin* (Scutellaria baicalensis, Baikal skullcap root), *Banlangen* (Isatis indigotica, isatis root), *Pugongying*
+- Food stagnation: *Shenqu*, *Laifuzi*
+- Qi-regulating: *Muxiang* (Aucklandia lappa, costus root), *Zhiqiao*
+- Blood-invigorating: *Chuanxiong*, *Honghua*, *Taoren*
+- Tonics: *Renshen*, *Dangshen*, *Gouqi*, *Shudi*, *Baizhu*, *Fuling*
+- Cough and phlegm: *Xingren*, *Baibu*, *Jiegeng*
+- External use: *Baiji*, *Ruxiang*, *Moyao*
+
+```
+Reminders about stockpiling:
+- First stockpile ready-made medicines your family can use (fever medicines, oral
+  rehydration salts, long-term medicines for chronic illnesses); Chinese herbs are a
+  supplement, not a replacement
+- In the further list, Mahuang, Xingren, Taoren, Honghua and others have clear
+  contraindications; read 6.2-6.6 before using them; in China Mahuang is sold only on
+  prescription and in limited amounts
+- Toxic herbs are not part of a household stockpile
+```
+
+### 8.3 Storing herbs and how long they keep
+
+Badly stored herbs at best lose their effect and at worst go mouldy and produce toxins (such as aflatoxin, which cannot be boiled away).
+
+```
+How to store them:
+1. Dry them in the sun or the shade before storing: dry enough to snap crisply, not bend
+   (dry flowers and leaves in the shade, so that strong sun does not drive off the aroma)
+2. Pack separately: each herb in its own bag or jar,
+   in lidded clay, glass or tin jars, or thick plastic bags tied tightly shut
+3. Label: name, source (gathered yourself / bought), date gathered or bought
+4. Keep in a cool, dry, dark place, off the floor and away from the walls;
+   in humid seasons (the plum-rain season, the damp "huinantian" spells in southern China)
+   check them once a month
+5. Against insects: you can put a few Sichuan peppercorns in the jar; deal separately with
+   anything insect-eaten
+6. Toxic herbs, medicinal wines, herb powders: store separately, label clearly, lock away
+   or put up high, out of children's reach
+```
+
+| Type | Usual keeping time (dry and sealed) | Common problems |
+|------|------------------|--------------|
+| Flowers and leaves (*Jinyinhua*, *Juhua*, *Bohe*, *Aiye*) | About 1 year | Discolour, lose their aroma, get damp and mouldy |
+| Roots and rhizomes (*Danggui*, *Huangqi*, *Gancao*) | About 1-2 years | Insect damage, "oil seepage" (surface turns sticky and dark) |
+| Fruits and seeds (*Shanzha*, *Gouqi*, *Xingren*) | About 1 year | Oil seepage, mould, insect damage; seeds go rancid easily |
+| Herb powders | 6 months-1 year | Absorb moisture and cake, go mouldy |
+| Honey pills | 1-2 years | Go mouldy, harden |
+| Water pills | Shorter; must be thoroughly dried | Go mouldy |
+| Medicinal wines | 1-2 years | Cloudiness, unusual sediment, strange smell |
+
+```
+Do not use herbs that show any of the following:
+❌ Mould: mould spots, mouldy smell, white or green fuzz — throw away the whole bag;
+   do not pick out the bad bits, wash the rest and use it
+❌ Badly insect-eaten, crumbling to powder
+❌ Obvious oil seepage, stickiness, rancid smell
+❌ Colour or smell clearly different from before
+❌ Label lost; you cannot tell what herb it is
+Herbs kept a long time lose some of their active ingredients, but you cannot make up for
+this by "taking more" — the risk of overdosing is greater than that of a weaker effect.
+```
+
+For drying and storing food and for aflatoxin see [Food processing and preservation – sun-drying and air-drying](../07-everyday-living-skills/01-food-processing-and-preservation.md#sun-drying-and-air-drying) and [Aflatoxin](../07-everyday-living-skills/01-food-processing-and-preservation.md#aflatoxin).
+
+---
+
+## Related chapters
+
+- ⏮️ [Basic pharmaceutical knowledge](../../../docs/06-制药技术/00-基础制药知识.md) - principles of extraction and processing
+- ⏮️ [Making disinfectants](../../../docs/06-制药技术/01-消毒剂制备.md) - use together
+- 🔗 [Farming and animal husbandry – medicinal plants](../../../docs/04-动植物培育/04-药用植物.md) - growing medicinal herbs
+- 🔗 [Identifying and collecting Chinese medicinal herbs](../../../docs/10-中药材识别与采集/README.md) - how to recognise herbs, when to collect them, poisonous look-alikes
+- 🔗 [First Aid and Family Health](../../../docs/01-日常疾病和伤害/README.md) - situations where medicines are used
+- 🔗 [Poisoning](../../../docs/01-日常疾病和伤害/12-中毒.md) - treating drug and plant poisoning
+- 🔗 [Chronic disease medication stockpile](../../../docs/01-日常疾病和伤害/08-慢性病用药储备.md) - long-term medicines cannot be replaced by Chinese herbs
+
+---
+
+**Remember: Chinese medicine is a treasure house handed down over thousands of years, its raw materials are easy to obtain, and it is the main route for making medicines after a collapse; but "natural" does not mean non-toxic: identify herbs correctly, use the right amounts, and see a doctor whenever you can!**
+
+**Know the herbs, collect the herbs, prepare the herbs, use the herbs - master this craft and you will become your tribe's healer!**
