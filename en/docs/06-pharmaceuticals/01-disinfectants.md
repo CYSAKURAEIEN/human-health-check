@@ -760,9 +760,9 @@ If you mix them by accident and smell a sharp smell, or start coughing or feel t
 ### 9.1 Disinfectant stockpile list
 
 **Minimum stockpile (family of 4, 3 months):**
-- [ ] 95% alcohol: 5 L (can be diluted to 6.7 L of 75%)
-- [ ] Iodine: 20 g (makes 2 L tincture of iodine)
-- [ ] Potassium permanganate: 500 g (makes 5000 L disinfectant solution)
+- [ ] 95% alcohol: 5 L (can be diluted to about 6.3 L of 75%)
+- [ ] Iodine: 20 g (makes 1 L of 2% tincture of iodine)
+- [ ] Potassium permanganate: 500 g (makes about 2500 L of 0.02% solution)
 - [ ] Bleaching powder: 5 kg
 - [ ] Table salt: 10 kg (normal saline)
 

@@ -789,7 +789,7 @@ Without a thermometer:
 - Water boiling = 100°C (at sea level)
 - Hot water you can keep your hand in = 40-50°C
 - Hot water you cannot keep your hand in = 60-80°C
-- Steaming = >80°C
+- Steaming hard, small bubbles on the bottom = about 80-90°C
 - Wood starts to burn = about 300°C
 ```
 
