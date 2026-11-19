@@ -546,7 +546,7 @@ Commercial outdoor water filters:
 
 *Figure: A plastic bottle with the bottom cut off, hung upside down, with layers from bottom to top of small pebbles, coarse sand, fine sand, charcoal and cloth; filtering is only pre-treatment, and the water still needs boiling or disinfecting*
 
-For a long-term slow sand filter, see [Water Sources and Supply – Purification](../../../docs/07-日常生活技能/10-水源工程与供水.md#净化-从浑水到可以喝的水).
+For a long-term slow sand filter, see [Water Sources and Supply – Purification](../07-everyday-living-skills/10-water-supply.md#purification-from-muddy-water-to-drinking-water).
 
 #### Chemical disinfection
 
@@ -651,7 +651,7 @@ For other ways to get fresh water on an island, see [Desert Island Survival – 
 - Alcohol (speeds up dehydration and hypothermia)
 ```
 
-For how to deal with chemically contaminated water, see [Water Sources and Supply – Water that ordinary methods cannot treat](../../../docs/07-日常生活技能/10-水源工程与供水.md#不能用一般方法处理的水). For diarrhoea after drinking dirty water, see [Treating and Evacuating the Sick and Injured in the Wild – Diarrhoea and vomiting](11-wilderness-casualty-care-and-evacuation.md#diarrhoea-and-vomiting).
+For how to deal with chemically contaminated water, see [Water Sources and Supply – Water that ordinary methods cannot treat](../07-everyday-living-skills/10-water-supply.md#water-ordinary-methods-cannot-treat). For diarrhoea after drinking dirty water, see [Treating and Evacuating the Sick and Injured in the Wild – Diarrhoea and vomiting](11-wilderness-casualty-care-and-evacuation.md#diarrhoea-and-vomiting).
 
 ---
 
@@ -1133,7 +1133,7 @@ With a tarpaulin (or raincoat, large plastic sheet, bin bags), you can put one u
   it is very light but tears easily; it can also line the inside of a shelter roof
 ```
 
-For the taut-line hitch and bowline for tying lines, see [Rope and Knots – Common knots](../../../docs/07-日常生活技能/17-绳索与结绳.md#常用绳结).
+For the taut-line hitch and bowline for tying lines, see [Rope and Knots – Common knots](../07-everyday-living-skills/17-rope-and-knots.md#common-knots).
 
 #### Debris hut
 
@@ -1232,7 +1232,7 @@ For sun shelters in the desert, see [Desert Survival – Sun protection (daytime
   - Do not burn charcoal or use a stove in an enclosed space; if you must, open doors and windows and have someone stay awake to watch
 ```
 
-For dwellings for a few days to several weeks or longer, see [Long-term Housing](../../../docs/07-日常生活技能/05-长期住所.md).
+For dwellings for a few days to several weeks or longer, see [Long-term Housing](../07-everyday-living-skills/05-long-term-shelter.md).
 
 ---
 
@@ -1536,7 +1536,7 @@ Knife safety:
 ✓ When not using the knife, put it away or stick it somewhere fixed; do not leave it lying on the ground
 ```
 
-For managing severe bleeding, see [Wound and Injury Care](../01-first-aid-and-family-health/02-wounds-and-injuries.md). For sharpening and looking after tools, see [Woodworking and Tool Maintenance](../../../docs/07-日常生活技能/09-木工与工具维护.md); for forging metal knives, see [Simple Tool Forging](../05-metallurgy/03-forging-simple-tools.md).
+For managing severe bleeding, see [Wound and Injury Care](../01-first-aid-and-family-health/02-wounds-and-injuries.md). For sharpening and looking after tools, see [Woodworking and Tool Maintenance](../07-everyday-living-skills/09-woodworking-and-tool-maintenance.md); for forging metal knives, see [Simple Tool Forging](../05-metallurgy/03-forging-simple-tools.md).
 
 ### Containers
 
@@ -1588,7 +1588,7 @@ Key points:
 - The strength of home-made cord is hard to judge; never use it to lower or hold a person or for climbing
 ```
 
-For detailed ways of twisting and making cord, see [Rope and Knots](../../../docs/07-日常生活技能/17-绳索与结绳.md).
+For detailed ways of twisting and making cord, see [Rope and Knots](../07-everyday-living-skills/17-rope-and-knots.md).
 
 ### Other simple tools
 
@@ -1647,7 +1647,7 @@ Rope safety:
 ✗ Do not use unknown or home-made rope to lower or hold a person, for climbing or for crossing rapids
 ```
 
-For step-by-step instructions for more knots, rope strength and safe use, see [Rope and Knots](../../../docs/07-日常生活技能/17-绳索与结绳.md).
+For step-by-step instructions for more knots, rope strength and safe use, see [Rope and Knots](../07-everyday-living-skills/17-rope-and-knots.md).
 
 ---
 

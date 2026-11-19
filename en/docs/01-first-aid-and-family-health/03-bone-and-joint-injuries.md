@@ -731,7 +731,7 @@ Stages of rehabilitation:
   → may be a blood clot; see a doctor immediately
 ```
 
-For ensuring protein and vitamins on long-term stored food see [Nutrition and Deficiency Diseases](../../../docs/07-日常生活技能/02-营养与营养缺乏病.md).
+For ensuring protein and vitamins on long-term stored food see [Nutrition and Deficiency Diseases](../07-everyday-living-skills/02-nutrition-and-deficiency-diseases.md).
 
 ```
 When no medical care can be obtained (remote areas, long-term isolation after a disaster):

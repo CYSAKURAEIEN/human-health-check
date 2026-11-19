@@ -405,7 +405,7 @@ See [Scrap metal recovery and aluminium casting](05-scrap-metal-recycling-and-al
 
 - [Wilderness survival – Basic survival skills](../03-wilderness-survival/00-basic-survival-skills.md) - first uses of tools
 - [Wilderness survival – Long-term collapse survival](../03-wilderness-survival/06-long-term-collapse-survival.md) - long-term survival strategy
-- [Pharmaceuticals](../../../docs/06-制药技术/README.md) - the matching supply of medicines
+- [Pharmaceuticals](../06-pharmaceuticals/README.md) - the matching supply of medicines
 
 ---
 

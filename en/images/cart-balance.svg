@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 910" width="720" height="910" role="img" aria-label="Balancing a two-wheeled handcart: the axle of a two-wheeled cart is the pivot, and the load's centre of gravity should be over the axle or slightly forward of it, so there is slight downward pressure on the shafts, the person or animal can control the cart easily and it does not wobble; after loading, lift the shafts to test: about 5-15 kg of pressure at the hands is right. Centre of gravity too far forward: the person or animal pulling has to carry a lot of extra weight and soon tires. Centre of gravity behind the axle: the shafts tip up, going uphill the whole cart may tip over backwards, and the harness on the animal hoists it upwards. Going uphill move the load forward a little, going downhill move it back a little; tie the load down so it cannot shift on the way and change the centre of gravity" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Balancing a two-wheeled handcart</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<!-- cart side view: axle at (0,0), shafts at the right end (262,-41) -->
+<g id="cart">
+<path d="M100,-41 L262,-41" stroke="#8f6d2e" stroke-width="7" stroke-linecap="round"/>
+<line x1="244" y1="-41" x2="268" y2="-41" stroke="#333" stroke-width="11" stroke-linecap="round"/>
+<rect x="-112" y="-48" width="224" height="12" fill="#b8955a" stroke="#333" stroke-width="2"/>
+<circle r="34" fill="#e8eef5" stroke="#333" stroke-width="3"/>
+<path d="M0,-34 V34 M-34,0 H34 M-24,-24 L24,24 M-24,24 L24,-24" stroke="#999" stroke-width="1.5"/>
+<circle r="6" fill="#0b5cad" stroke="#333" stroke-width="1.5"/>
+</g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Balancing a two-wheeled handcart: the axle is the pivot</text>
+
+<!-- 1 correct -->
+<rect x="10" y="44" width="700" height="268" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="70" font-size="16" font-weight="bold">① ✓ The load's centre of gravity over the axle or slightly forward</text>
+<path d="M30,270 H520" stroke="#999" stroke-width="3"/>
+<g transform="translate(180,236)">
+<rect x="-40" y="-128" width="104" height="80" rx="3" fill="#b5a58a" stroke="#333" stroke-width="2"/>
+<use href="#cart"/>
+<circle cx="12" cy="-88" r="6" fill="#c33"/>
+<path d="M12,-82 V40" stroke="#c33" stroke-width="2" stroke-dasharray="6 4"/>
+<path d="M0,6 V40" stroke="#0b5cad" stroke-width="2" stroke-dasharray="3 3"/>
+<path d="M265,-74 V-50" stroke="#c33" stroke-width="3.5" marker-end="url(#arR)"/>
+</g>
+<text x="190" y="294" font-size="13" fill="#c33">centre of gravity</text>
+<text x="176" y="294" font-size="13" fill="#0b5cad" text-anchor="end">axle (pivot)</text>
+<text x="424" y="98" font-size="14" font-weight="bold" fill="#c33" text-anchor="middle">slight downward</text>
+<text x="424" y="115" font-size="14" font-weight="bold" fill="#c33" text-anchor="middle">pressure</text>
+<text x="424" y="134" font-size="13" fill="#c33" text-anchor="middle">about 5-15 kg</text>
+<text x="424" y="150" font-size="13" fill="#c33" text-anchor="middle">at the hands is right</text>
+<rect x="514" y="84" width="188" height="164" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="524" y="106" font-size="13">Slight downward pressure</text>
+<text x="524" y="124" font-size="13">on the shafts: easy for a</text>
+<text x="524" y="142" font-size="13">person or animal to control,</text>
+<text x="524" y="160" font-size="13">and the cart doesn't wobble</text>
+<text x="524" y="194" font-size="13" font-weight="bold" fill="#0b5cad">Load up, then lift the</text>
+<text x="524" y="212" font-size="13" font-weight="bold" fill="#0b5cad">shafts to test</text>
+
+<!-- 2 too far forward -->
+<rect x="10" y="324" width="345" height="250" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="350" font-size="16" font-weight="bold" fill="#c33">② ✗ Centre of gravity too far forward</text>
+<path d="M24,486 H342" stroke="#999" stroke-width="3"/>
+<g transform="translate(110,462) scale(0.7)">
+<rect x="18" y="-128" width="104" height="80" rx="3" fill="#b5a58a" stroke="#333" stroke-width="2"/>
+<use href="#cart"/>
+<circle cx="70" cy="-88" r="8" fill="#c33"/>
+<path d="M70,-80 V34" stroke="#c33" stroke-width="2.5" stroke-dasharray="7 5"/>
+<path d="M0,8 V34" stroke="#0b5cad" stroke-width="2.5" stroke-dasharray="4 4"/>
+<path d="M265,-140 V-56" stroke="#c33" stroke-width="5" marker-end="url(#arR)"/>
+</g>
+<text x="288" y="384" font-size="12" fill="#c33" text-anchor="end">heavy load</text>
+<text x="288" y="398" font-size="12" fill="#c33" text-anchor="end">on the shafts</text>
+<text x="182" y="512" font-size="14" text-anchor="middle">The person or animal pulling</text>
+<text x="182" y="532" font-size="14" text-anchor="middle">must carry a lot of extra</text>
+<text x="182" y="552" font-size="14" text-anchor="middle">weight and soon tires</text>
+
+<!-- 3 behind the axle -->
+<rect x="365" y="324" width="345" height="250" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="379" y="350" font-size="15" font-weight="bold" fill="#c33">③ ✗ Centre of gravity behind the axle</text>
+<path d="M379,486 H697" stroke="#999" stroke-width="3"/>
+<g transform="translate(490,462) rotate(-10) scale(0.7)">
+<rect x="-110" y="-128" width="104" height="80" rx="3" fill="#b5a58a" stroke="#333" stroke-width="2"/>
+<use href="#cart"/>
+<circle cx="-58" cy="-88" r="8" fill="#c33"/>
+<path d="M265,-20 V-80" stroke="#c33" stroke-width="5" marker-end="url(#arR)" transform="rotate(10 265 -41)"/>
+</g>
+<path d="M439,414 V484" stroke="#c33" stroke-width="2" stroke-dasharray="5 4"/>
+<path d="M490,468 V484" stroke="#0b5cad" stroke-width="2" stroke-dasharray="3 3"/>
+<text x="654" y="380" font-size="13" fill="#c33" text-anchor="end">shafts tip up</text>
+<text x="537" y="512" font-size="14" text-anchor="middle">Uphill, the whole cart may tip</text>
+<text x="537" y="532" font-size="14" text-anchor="middle">over backwards; the harness</text>
+<text x="537" y="552" font-size="14" text-anchor="middle">hoists the animal upwards</text>
+
+<!-- 4 uphill, downhill -->
+<rect x="10" y="586" width="700" height="310" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="612" font-size="16" font-weight="bold">④ Shift the load on slopes</text>
+<line x1="360" y1="626" x2="360" y2="856" stroke="#ddd" stroke-width="1.5"/>
+<!-- uphill: travelling up to the right -->
+<path d="M24,820 L346,715 V820 Z" fill="#eee"/>
+<path d="M24,820 L346,715" stroke="#999" stroke-width="3"/>
+<g transform="translate(130,760.4) rotate(-18) scale(0.7)">
+<rect x="10" y="-128" width="100" height="80" rx="3" fill="#b5a58a" stroke="#333" stroke-width="2"/>
+<rect x="-104" y="-128" width="100" height="80" rx="3" fill="none" stroke="#999" stroke-width="2" stroke-dasharray="6 5"/>
+<use href="#cart"/>
+<path d="M-40,-150 H76" stroke="#c33" stroke-width="5" marker-end="url(#arR)"/>
+</g>
+<path d="M290,656 L328,644" stroke="#0b5cad" stroke-width="3" marker-end="url(#arB)"/>
+<text x="300" y="636" font-size="13" fill="#0b5cad" text-anchor="middle">going uphill</text>
+<text x="182" y="846" font-size="15" font-weight="bold" text-anchor="middle">Uphill: move the load forward a little</text>
+<!-- downhill: travelling down to the right -->
+<path d="M374,715 L696,820 H374 Z" fill="#eee"/>
+<path d="M374,715 L696,820" stroke="#999" stroke-width="3"/>
+<g transform="translate(470,721.5) rotate(18) scale(0.7)">
+<rect x="-104" y="-128" width="100" height="80" rx="3" fill="#b5a58a" stroke="#333" stroke-width="2"/>
+<rect x="10" y="-128" width="100" height="80" rx="3" fill="none" stroke="#999" stroke-width="2" stroke-dasharray="6 5"/>
+<use href="#cart"/>
+<path d="M76,-150 H-40" stroke="#c33" stroke-width="5" marker-end="url(#arR)"/>
+</g>
+<path d="M610,680 L650,693" stroke="#0b5cad" stroke-width="3" marker-end="url(#arB)"/>
+<text x="630" y="664" font-size="13" fill="#0b5cad" text-anchor="middle">going downhill</text>
+<text x="537" y="846" font-size="15" font-weight="bold" text-anchor="middle">Downhill: move the load back a little</text>
+<text x="360" y="882" font-size="14" text-anchor="middle">✓ Tie the load down so it can't shift on the way and change the centre of gravity</text>
+</g>
+</svg>

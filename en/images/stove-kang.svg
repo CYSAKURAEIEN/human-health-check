@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 966" width="720" height="966" role="img" aria-label="Cross-section of a kang and stove: smoke and heat from the firebox (the cooking stove) first pass through the kang flues (the flues under the kang), warming the kang surface, and then leave through the chimney; the kang surface is adobe slabs or stone slabs plastered with mud, with a mat laid on top once dry; the kang flues are built of adobe or brick as winding flues so the hot smoke stays longer under the kang; a damper at the base of the chimney may be turned down but never shut completely; the chimney stands about 1 m above the point where it passes through the roof, and about 0.6 m higher than the highest point (ridge, wall, etc.) within 3 m, with a rain cap and spark-arrester mesh on top, and brick, stone or earth around it where it passes through the roof. Preventing carbon monoxide poisoning: do not shut the damper completely before bed, check for cracks every year before winter and seal them with mud, clear out ash regularly, leave a ventilation opening in the room, fit a carbon monoxide alarm, and if anyone gets a headache, dizziness or nausea open the windows and leave the room at once" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Cross-section of a kang and stove</title>
+<defs>
+<pattern id="soil" width="16" height="16" patternUnits="userSpaceOnUse"><rect width="16" height="16" fill="#efe4cf"/><circle cx="4" cy="5" r="1.1" fill="#bba57a"/><circle cx="12" cy="12" r="1.1" fill="#bba57a"/><circle cx="11" cy="3" r="0.8" fill="#bba57a"/></pattern>
+<pattern id="screen" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="#fff"/><path d="M0 0 L4 4 M4 0 L0 4" stroke="#666" stroke-width="0.7"/></pattern>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<marker id="arB0" viewBox="0 0 10 10" refX="2" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M10 0 L0 5 L10 10 Z" fill="#0b5cad"/></marker>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker>
+<marker id="arG" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#888"/></marker>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Kang and stove: firebox → kang flues → chimney</text>
+
+<!-- 1 cross-section -->
+<rect x="10" y="44" width="700" height="406" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="70" font-size="16" font-weight="bold">① Cross-section (schematic, not to scale)</text>
+<rect x="11.5" y="400" width="697" height="36" fill="url(#soil)"/>
+<path d="M11.5 400 L708.5 400" stroke="#999" stroke-width="3"/>
+
+<!-- roof (part) -->
+<rect x="300" y="160" width="408.5" height="12" fill="#b98c4f" stroke="#333" stroke-width="2"/>
+<path d="M300 160 L294 166 L300 172" fill="none" stroke="#333" stroke-width="1.5"/>
+
+<!-- stove, kang and chimney -->
+<rect x="40" y="260" width="110" height="140" fill="#dcc39a" stroke="#333" stroke-width="2.5"/>
+<rect x="150" y="254" width="300" height="146" fill="#dcc39a" stroke="#333" stroke-width="2.5"/>
+<rect x="150" y="254" width="300" height="4" fill="#e8d28a"/>
+<rect x="150" y="258" width="300" height="8" fill="#b89a70"/>
+<path d="M150 266 H450 M150 280 H450 M200 266 V280 M260 266 V280 M320 266 V280 M380 266 V280" stroke="#333" stroke-width="1.2"/>
+<rect x="450" y="92" width="44" height="308" fill="#dcc39a" stroke="#333" stroke-width="2.5"/>
+<path d="M450 120 H494 M450 150 H494 M450 210 H494 M450 240 H494 M482 320 H494 M482 350 H494" stroke="#a88b5c" stroke-width="1"/>
+<!-- insulation where it passes through the roof -->
+<rect x="440" y="156" width="10" height="20" fill="#c9c9c9" stroke="#555" stroke-width="1.2"/>
+<rect x="494" y="156" width="10" height="20" fill="#c9c9c9" stroke="#555" stroke-width="1.2"/>
+<!-- spark-arrester mesh, rain cap -->
+<rect x="450" y="80" width="44" height="12" fill="url(#screen)" stroke="#333" stroke-width="1.5"/>
+<path d="M436 76 L472 58 L508 76 Z" fill="#9a9a9a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M452 76 V80 M492 76 V80" stroke="#333" stroke-width="2"/>
+
+<!-- cavities: firebox, kang flues, chimney flue -->
+<rect x="56" y="282" width="80" height="90" fill="#fff" stroke="#333" stroke-width="2"/>
+<rect x="152" y="280" width="330" height="108" fill="#fff" stroke="#333" stroke-width="2"/>
+<rect x="462" y="92" width="20" height="190" fill="#fff" stroke="#333" stroke-width="2"/>
+<rect x="463.5" y="276" width="17" height="10" fill="#fff"/>
+<rect x="134" y="292" width="20" height="36" fill="#fff"/>
+<path d="M136 292 H152 M136 328 H152" stroke="#333" stroke-width="2"/>
+<rect x="38" y="334" width="20" height="36" fill="#fff"/>
+<path d="M40 334 H56 M40 370 H56" stroke="#333" stroke-width="2"/>
+
+<!-- pot -->
+<rect x="66" y="257" width="60" height="27" fill="#fff"/>
+<path d="M60 262 Q96 322 132 262 Z" fill="#8a8a8a" stroke="#333" stroke-width="2"/>
+<path d="M54 262 H138" stroke="#333" stroke-width="4" stroke-linecap="round"/>
+
+<!-- firewood and fire -->
+<path d="M16 356 L100 362 M18 366 L96 368" stroke="#8b6b3e" stroke-width="5" stroke-linecap="round"/>
+<path d="M70 372 Q76 344 86 354 Q92 326 102 350 Q110 334 120 372 Z" fill="#e8873a" stroke="#c33" stroke-width="1.5"/>
+<text x="96" y="318" font-size="15" text-anchor="middle" font-weight="bold">firebox</text>
+
+<!-- smoke path -->
+<path d="M106 336 Q128 300 156 308 C 220 318, 250 298, 320 318 S 420 340, 466 336" fill="none" stroke="#c33" stroke-width="2.5" stroke-dasharray="7 4"/>
+<path d="M466 336 V98" fill="none" stroke="#888" stroke-width="2.5" stroke-dasharray="7 4" marker-end="url(#arG)"/>
+<path d="M452 86 L430 80" stroke="#888" stroke-width="2" marker-end="url(#arG)"/>
+
+<!-- damper -->
+<rect x="470" y="246" width="40" height="6" fill="#555" stroke="#333" stroke-width="1"/>
+<rect x="510" y="242" width="6" height="14" rx="2" fill="#333"/>
+
+<!-- kang surface heated -->
+<path d="M245 250 Q239 243 245 236 T245 220" fill="none" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<path d="M285 250 Q279 243 285 236 T285 220" fill="none" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<text x="304" y="240" font-size="13" fill="#c33">kang surface heats up</text>
+
+<!-- crack leaking smoke -->
+<path d="M410 254 L414 262 L408 270 L413 280" fill="none" stroke="#333" stroke-width="1.6"/>
+<path d="M410 252 Q404 244 410 238 T410 222" fill="none" stroke="#888" stroke-width="2" stroke-dasharray="3 3"/>
+<text x="436" y="196" font-size="13" fill="#c33" text-anchor="end">a cracked kang surface</text>
+<text x="436" y="212" font-size="13" fill="#c33" text-anchor="end">leaks smoke into the room</text>
+
+<!-- labels -->
+<text x="20" y="178" font-size="14">Kang surface: adobe or stone</text>
+<text x="20" y="195" font-size="14">slabs, plastered with mud,</text>
+<text x="20" y="212" font-size="14">a mat on top once dry</text>
+<line x1="170" y1="218" x2="226" y2="262" stroke="#0b5cad" stroke-width="1.3"/><circle cx="226" cy="262" r="2.6" fill="#0b5cad"/>
+<text x="16" y="246" font-size="14">pot</text>
+<line x1="40" y1="244" x2="66" y2="266" stroke="#0b5cad" stroke-width="1.3"/><circle cx="66" cy="266" r="2.6" fill="#0b5cad"/>
+<text x="317" y="364" font-size="15" text-anchor="middle" font-weight="bold">kang flues (flues under the kang)</text>
+<text x="317" y="381" font-size="12" text-anchor="middle" fill="#555">for the winding flues see plan ② below</text>
+
+<text x="524" y="60" font-size="12">rain cap and</text>
+<text x="524" y="74" font-size="12">spark-arrester mesh</text>
+<line x1="522" y1="70" x2="496" y2="84" stroke="#0b5cad" stroke-width="1.3"/><circle cx="496" cy="84" r="2.6" fill="#0b5cad"/>
+<path d="M506 92 L506 158" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<text x="514" y="98" font-size="12" fill="#0b5cad" font-weight="bold">about 1 m above where it</text>
+<text x="514" y="111" font-size="12" fill="#0b5cad" font-weight="bold">passes through the roof</text>
+<text x="514" y="126" font-size="12" fill="#0b5cad">and about 0.6 m higher than</text>
+<text x="514" y="139" font-size="12" fill="#0b5cad">the highest point (ridge,</text>
+<text x="514" y="152" font-size="12" fill="#0b5cad">wall, etc.) within 3 m</text>
+<text x="520" y="192" font-size="13">brick, stone or earth around</text>
+<text x="520" y="208" font-size="13">it where it passes through</text>
+<text x="520" y="224" font-size="13">the roof; no timber contact</text>
+<line x1="518" y1="188" x2="500" y2="174" stroke="#0b5cad" stroke-width="1.3"/><circle cx="500" cy="174" r="2.6" fill="#0b5cad"/>
+<text x="524" y="252" font-size="14" font-weight="bold">damper (chimney base)</text>
+<text x="524" y="270" font-size="13" fill="#c33" font-weight="bold">may be turned down,</text>
+<text x="524" y="286" font-size="13" fill="#c33" font-weight="bold">never shut completely</text>
+<text x="524" y="324" font-size="15" font-weight="bold">chimney</text>
+<line x1="522" y1="320" x2="494" y2="320" stroke="#0b5cad" stroke-width="1.3"/><circle cx="494" cy="320" r="2.6" fill="#0b5cad"/>
+
+<!-- 2 plan -->
+<rect x="10" y="462" width="700" height="228" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="488" font-size="16" font-weight="bold">② Plan of the kang flues (top view, kang surface removed)</text>
+<rect x="40" y="520" width="110" height="130" fill="#dcc39a" stroke="#333" stroke-width="2.5"/>
+<circle cx="92" cy="580" r="30" fill="#8a8a8a" stroke="#333" stroke-width="2"/>
+<text x="95" y="640" font-size="14" text-anchor="middle" font-weight="bold">stove</text>
+<rect x="150" y="500" width="300" height="170" fill="#dcc39a" stroke="#333" stroke-width="2.5"/>
+<rect x="162" y="512" width="276" height="146" fill="#fff" stroke="#333" stroke-width="2"/>
+<rect x="222" y="512" width="12" height="108" fill="#dcc39a" stroke="#333" stroke-width="2"/>
+<rect x="294" y="550" width="12" height="108" fill="#dcc39a" stroke="#333" stroke-width="2"/>
+<rect x="366" y="512" width="12" height="108" fill="#dcc39a" stroke="#333" stroke-width="2"/>
+<rect x="438" y="560" width="52" height="52" fill="#dcc39a" stroke="#333" stroke-width="2.5"/>
+<rect x="452" y="574" width="24" height="24" fill="#fff" stroke="#333" stroke-width="2"/>
+<rect x="436" y="576" width="18" height="20" fill="#fff"/>
+<path d="M436 576 H452 M436 596 H452" stroke="#333" stroke-width="2"/>
+<rect x="146" y="570" width="20" height="30" fill="#fff"/>
+<path d="M146 570 H162 M146 600 H162" stroke="#333" stroke-width="2"/>
+<path d="M124 585 H192 V638 H264 V530 H336 V638 H408 V586 H458" fill="none" stroke="#c33" stroke-width="2.5" stroke-dasharray="7 4" stroke-linejoin="round" marker-end="url(#arR)"/>
+<text x="453" y="554" font-size="13" font-weight="bold">chimney</text>
+<text x="300" y="686" font-size="13" text-anchor="middle" fill="#555">partition walls of adobe or brick</text>
+<line x1="300" y1="673" x2="300" y2="652" stroke="#0b5cad" stroke-width="1.3"/><circle cx="300" cy="652" r="2.6" fill="#0b5cad"/>
+<text x="516" y="524" font-size="14" font-weight="bold">Kang flues:</text>
+<text x="516" y="542" font-size="14">build winding flues from</text>
+<text x="516" y="560" font-size="14">adobe or brick so the hot</text>
+<text x="516" y="578" font-size="14">smoke stays longer under</text>
+<text x="516" y="596" font-size="14">the kang</text>
+<text x="516" y="622" font-size="13" fill="#555">Regularly clear the ash from</text>
+<text x="516" y="638" font-size="13" fill="#555">the kang flues and chimney</text>
+<text x="516" y="654" font-size="13" fill="#555">(blocked flues push smoke</text>
+<text x="516" y="670" font-size="13" fill="#555">back into the room)</text>
+
+<!-- 3 carbon monoxide -->
+<rect x="10" y="702" width="700" height="250" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="2"/>
+<text x="24" y="728" font-size="16" font-weight="bold" fill="#c33">Carbon monoxide poisoning: kang and stoves are one of the main</text>
+<text x="24" y="748" font-size="16" font-weight="bold" fill="#c33">sources of carbon monoxide poisoning in northern China in winter</text>
+<text x="24" y="776" font-size="14">• Do not shut the chimney damper completely before bed; take special care on windy,</text>
+<text x="36" y="794" font-size="14">overcast or rainy days and in low air pressure</text>
+<text x="24" y="818" font-size="14">• Every year before winter, check the kang surface, stove, flues and chimney; seal cracks with mud</text>
+<text x="24" y="842" font-size="14">• Leave a ventilation opening in the room; fit a carbon monoxide alarm</text>
+<text x="36" y="860" font-size="14">(a gas alarm cannot detect carbon monoxide)</text>
+<text x="24" y="884" font-size="14">• Keep firewood, straw and other flammables more than 1 m from the stove; do not burn</text>
+<text x="36" y="902" font-size="14">charcoal braziers or coal stoves without a chimney indoors</text>
+<text x="24" y="928" font-size="15" font-weight="bold" fill="#c33">• Anyone sleeping on the kang gets a headache, dizziness or nausea →</text>
+<text x="36" y="946" font-size="15" font-weight="bold" fill="#c33">open the windows and leave the room at once</text>
+</g>
+</svg>

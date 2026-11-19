@@ -245,7 +245,7 @@ These crops grow leaves, roots or bulbs in the first year. They need a winter's 
    harvest in time
 ```
 
-For cellar temperature and humidity see [Food Processing and Preservation – Cellar storage](../../../docs/07-日常生活技能/01-食物加工与保存.md#窖藏).
+For cellar temperature and humidity see [Food Processing and Preservation – Cellar storage](../07-everyday-living-skills/01-food-processing-and-preservation.md#cellar-storage).
 
 ### Potato and sweet potato: propagating from tubers
 
@@ -375,7 +375,7 @@ germination may drop sharply within a year
   within its useful life
 ```
 
-For drying and insect-proof storage of grain see [Food Processing and Preservation – Grain and beans](../../../docs/07-日常生活技能/01-食物加工与保存.md#粮食和豆类).
+For drying and insect-proof storage of grain see [Food Processing and Preservation – Grain and beans](../07-everyday-living-skills/01-food-processing-and-preservation.md#grain-and-beans).
 
 ---
 
@@ -534,11 +534,11 @@ Bud grafting (T-budding, late summer to early autumn, when the bark peels easily
 
 *Figure: top, the position of the cambium; middle, the four steps of cleft grafting (panel ③ is shown cut open); bottom, T-budding and the post-graft check and cutting back of the rootstock; not to scale, see the steps above for values*
 
-For choosing and planting fruit-tree varieties see [Fruit Tree Growing](03-fruit-trees.md); for sharpening knives see [Woodworking and Tool Maintenance – Sharpening](../../../docs/07-日常生活技能/09-木工与工具维护.md#磨刀).
+For choosing and planting fruit-tree varieties see [Fruit Tree Growing](03-fruit-trees.md); for sharpening knives see [Woodworking and Tool Maintenance – Sharpening](../07-everyday-living-skills/09-woodworking-and-tool-maintenance.md#sharpening).
 
 ### Storing roots, tubers and bulbs
 
-Store seed tubers, roots and bulbs apart from those for eating and label them separately. Before they go into the cellar, pick out any that are damaged or have disease spots, and check them over once a month during storage. For the storage temperature of each see [Food Processing and Preservation – Storage conditions for different vegetables](../../../docs/07-日常生活技能/01-食物加工与保存.md#各类蔬菜的储存条件).
+Store seed tubers, roots and bulbs apart from those for eating and label them separately. Before they go into the cellar, pick out any that are damaged or have disease spots, and check them over once a month during storage. For the storage temperature of each see [Food Processing and Preservation – Storage conditions for different vegetables](../07-everyday-living-skills/01-food-processing-and-preservation.md#storage-conditions-for-different-vegetables).
 
 ---
 
@@ -602,7 +602,7 @@ One page per variety; record every year:
 → After a few years it will be obvious which varieties suit your area
 ```
 
-For how to keep records see [Record-keeping, Trade and Division of Labour – Community archives](../../../docs/07-日常生活技能/13-记账交易与社会分工.md#社区档案).
+For how to keep records see [Record-keeping, Trade and Division of Labour – Community archives](../07-everyday-living-skills/13-record-keeping-trade-and-division-of-labour.md#community-records).
 
 ### Preventing mixing and keeping diversity
 
@@ -653,7 +653,7 @@ How to organise it:
    one or two people who know how
 ```
 
-For stock management see [Record-keeping, Trade and Division of Labour – Stock management](../../../docs/07-日常生活技能/13-记账交易与社会分工.md#库存管理); for teaching skills see [Education and Knowledge Preservation – How to teach a craft](../../../docs/07-日常生活技能/12-教育与知识传承.md#怎样教手艺).
+For stock management see [Record-keeping, Trade and Division of Labour – Stock management](../07-everyday-living-skills/13-record-keeping-trade-and-division-of-labour.md#managing-stores); for teaching skills see [Education and Knowledge Preservation – How to teach a craft](../07-everyday-living-skills/12-education-and-knowledge-preservation.md#how-to-teach-a-craft).
 
 ---
 

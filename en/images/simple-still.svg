@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 880" width="720" height="880" role="img" aria-label="A simple still: fill a large pot (the still) about 70% full with rice wine or fruit wine, put the lid on, and lead a copper pipe or bamboo tube out of a hole in the lid; heat slowly on a low charcoal fire underneath, keeping the temperature at 78-85°C (alcohol boils at 78°C); the vapour passes through the pipe into a condenser coil wound inside a bucket of cold water, with cold water coming in at the bottom of the bucket and warmed water overflowing at the top, and condenses into drops that fall into the receiving bottle. Collect in fractions: the heads that come out first contain methanol, acetaldehyde and more, so discard at least about 100 mL or more for every 10 L of starting liquid; collect the middle fraction; the tails above 85°C are water boiling off, so stop collecting. Pipe material: copper pipe is best, then stainless steel pipe, bamboo tube and ceramic pipe; never plastic or lead pipe. Methanol is highly toxic: home-made alcohol is for external use only, never drink it; alcohol vapour is flammable, so ventilate well and preferably work outdoors" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>A simple still</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">A simple still (schematic): weak wine → strong alcohol</text>
+
+<!-- ground -->
+<rect x="0" y="430" width="720" height="14" fill="#ececec"/>
+<path d="M0,430 H720" stroke="#999" stroke-width="3"/>
+
+<!-- stove and fire -->
+<rect x="52" y="336" width="30" height="94" rx="4" fill="#d6d6d6" stroke="#999" stroke-width="2"/>
+<rect x="218" y="336" width="30" height="94" rx="4" fill="#d6d6d6" stroke="#999" stroke-width="2"/>
+<path d="M118,410 Q114,392 126,382 Q126,396 134,398 Q134,384 146,374 Q146,392 154,396 Q160,384 170,380 Q168,396 180,410 Z" fill="#f5a623" stroke="#c33" stroke-width="1.5"/>
+<g fill="#3d3d3d"><circle cx="108" cy="420" r="8"/><circle cx="126" cy="414" r="8"/><circle cx="146" cy="418" r="9"/><circle cx="166" cy="414" r="8"/><circle cx="186" cy="420" r="8"/><circle cx="136" cy="425" r="6"/><circle cx="160" cy="425" r="6"/></g>
+
+<!-- large pot -->
+<path d="M50,210 V300 Q50,345 150,345 Q250,345 250,300 V210 Z" fill="#fff" stroke="#333" stroke-width="2.5"/>
+<path d="M52,250 H248 V300 Q248,343 150,343 Q52,343 52,300 Z" fill="#f5e6b8"/>
+<path d="M52,250 H248" stroke="#b8a060" stroke-width="1.5"/>
+<rect x="44" y="198" width="212" height="12" rx="4" fill="#c9c9c9" stroke="#333" stroke-width="2"/>
+<g fill="none" stroke="#7d93a8" stroke-width="1.5">
+<path d="M90,244 Q84,236 90,228 Q96,220 90,214"/><path d="M130,244 Q124,236 130,228 Q136,220 130,214"/><path d="M170,244 Q164,236 170,228 Q176,220 170,214"/><path d="M210,244 Q204,236 210,228 Q216,220 210,214"/>
+</g>
+<text x="150" y="284" font-size="14" text-anchor="middle">rice wine / fruit wine</text>
+<text x="150" y="302" font-size="14" text-anchor="middle" fill="#0b5cad">about <tspan font-weight="bold">70%</tspan> full</text>
+<text x="40" y="190" font-size="14" font-weight="bold">Large pot (the still)</text>
+
+<!-- pipe -->
+<path d="M200,204 V150 Q200,137 214,137 L364,148 Q376,149 376,162 V202" fill="none" stroke="#333" stroke-width="11" stroke-linejoin="round"/>
+<path d="M200,204 V150 Q200,137 214,137 L364,148 Q376,149 376,162 V202" fill="none" stroke="#c98a4b" stroke-width="7" stroke-linejoin="round"/>
+<path d="M232,124 L318,130" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="234" y="116" font-size="14" fill="#c33">vapour</text>
+<text x="212" y="170" font-size="13" fill="#555">pipe through a</text>
+<text x="212" y="186" font-size="13" fill="#555">hole in the lid</text>
+
+<!-- cold-water bucket and condenser coil -->
+<rect x="362" y="360" width="30" height="70" fill="#d6d6d6" stroke="#999" stroke-width="2"/>
+<rect x="468" y="360" width="30" height="70" fill="#d6d6d6" stroke="#999" stroke-width="2"/>
+<path d="M352,174 L358,358 H502 L508,174 Z" fill="#cfe6f7"/>
+<path d="M350,160 L358,360 H502 L510,160" fill="none" stroke="#333" stroke-width="2.5"/>
+<path d="M486,214 Q430,205 374,228 M486,242 Q430,233 374,256 M486,270 Q430,261 374,284 M486,298 Q430,289 374,312" fill="none" stroke="#d9b48a" stroke-width="5"/>
+<path d="M374,200 Q430,223 486,214 M374,228 Q430,251 486,242 M374,256 Q430,279 486,270 M374,284 Q430,307 486,298 M374,312 Q430,335 486,326 V340 H566 Q574,340 574,348 V356" fill="none" stroke="#a8652a" stroke-width="5" stroke-linejoin="round"/>
+<path d="M354,348 H332 V356" fill="none" stroke="#777" stroke-width="5"/>
+<path d="M332,386 V366" stroke="#0b5cad" stroke-width="2.5" marker-end="url(#arB)"/>
+<text x="324" y="380" font-size="14" fill="#0b5cad" text-anchor="end">cold water in</text>
+<text x="324" y="398" font-size="14" fill="#0b5cad" text-anchor="end">at the bottom</text>
+<path d="M506,166 Q522,142 552,136" fill="none" stroke="#c33" stroke-width="2.5"/>
+<text x="556" y="140" font-size="14" fill="#c33">warm water</text>
+<text x="556" y="158" font-size="14" fill="#c33">overflows at the top</text>
+<text x="430" y="400" font-size="13" fill="#555" text-anchor="middle">cold-water bucket</text>
+<text x="390" y="74" font-size="14" font-weight="bold">Condenser: coiled in cold water</text>
+<text x="390" y="92" font-size="13" fill="#555">(pipe materials: see bottom right)</text>
+<line x1="440" y1="98" x2="452" y2="216" stroke="#555" stroke-width="1"/>
+
+<!-- receiving bottle -->
+<g fill="#0b5cad"><path d="M574,362 Q570,368 574,370 Q578,368 574,362 Z"/><path d="M574,372 Q570,378 574,380 Q578,378 574,372 Z"/></g>
+<path d="M566,384 V394 Q548,398 548,410 V428 H600 V410 Q600,398 582,394 V384" fill="#fff" stroke="#333" stroke-width="2"/>
+<path d="M550,412 H598 V427 H550 Z" fill="#e8f1fb"/>
+<text x="584" y="374" font-size="13" fill="#555">drops</text>
+<text x="606" y="404" font-size="14" font-weight="bold">receiving bottle</text>
+<text x="606" y="422" font-size="14">strong alcohol</text>
+
+<!-- heating, temperature -->
+<text x="16" y="72" font-size="14" font-weight="bold">Heat slowly on a low fire</text>
+<text x="16" y="92" font-size="14" fill="#0b5cad">keep it at <tspan font-weight="bold">78-85°C</tspan></text>
+<text x="16" y="110" font-size="13" fill="#0b5cad">(alcohol boils at 78°C)</text>
+<text x="150" y="464" font-size="14" text-anchor="middle">charcoal fire</text>
+
+<!-- collect in fractions -->
+<rect x="10" y="478" width="430" height="192" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="500" font-size="15" font-weight="bold">Collect in fractions: temperature control is key</text>
+<g stroke="#333" stroke-width="1.5">
+<path d="M98,512 V518 Q86,521 86,530 V548 H122 V530 Q122,521 110,518 V512" fill="#fff"/>
+<path d="M246,512 V518 Q234,521 234,530 V548 H270 V530 Q270,521 258,518 V512" fill="#fff"/>
+<path d="M366,512 V518 Q354,521 354,530 V548 H390 V530 Q390,521 378,518 V512" fill="#fff"/>
+</g>
+<rect x="87" y="538" width="34" height="9" fill="#f5d0d0"/>
+<rect x="235" y="530" width="34" height="17" fill="#e8f1fb"/>
+<rect x="355" y="538" width="34" height="9" fill="#eee"/>
+<path d="M82,514 L126,552 M126,514 L82,552" stroke="#c33" stroke-width="3"/>
+<g font-size="13" text-anchor="middle">
+<text x="104" y="572" font-size="14" font-weight="bold" fill="#c33">① Heads (first out)</text>
+<text x="104" y="590">contain methanol,</text>
+<text x="104" y="606">acetaldehyde etc.</text>
+<text x="104" y="624" font-weight="bold" fill="#c33">→ discard!</text>
+<text x="104" y="642">Discard at least about</text>
+<text x="104" y="658">100 mL per 10 L of wine</text>
+<text x="252" y="572" font-size="14" font-weight="bold">② Middle</text>
+<text x="252" y="590">strong alcohol</text>
+<text x="252" y="624" font-weight="bold" fill="#0b5cad">→ collect</text>
+<text x="372" y="572" font-size="14" font-weight="bold">③ Tails</text>
+<text x="372" y="590">&gt;85°C: water</text>
+<text x="372" y="606">boiling off</text>
+<text x="372" y="624" font-weight="bold">→ stop collecting</text>
+</g>
+
+<!-- pipe material -->
+<rect x="450" y="478" width="260" height="192" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="464" y="500" font-size="15" font-weight="bold">Pipe material (best first)</text>
+<g font-size="13">
+<text x="464" y="522">1. Copper pipe (best: conducts</text>
+<text x="480" y="538">heat well, non-toxic)</text>
+<text x="464" y="558">2. Stainless steel pipe</text>
+<text x="464" y="578">3. Bamboo tube (nodes</text>
+<text x="480" y="594">knocked through)</text>
+<text x="464" y="614">4. Ceramic pipe</text>
+<text x="464" y="638" font-weight="bold" fill="#c33">✗ Plastic pipe (toxins leach!)</text>
+<text x="464" y="658" font-weight="bold" fill="#c33">✗ Lead pipe (highly toxic!)</text>
+</g>
+
+<!-- safety -->
+<rect x="10" y="680" width="700" height="190" rx="6" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<text x="24" y="704" font-size="15" font-weight="bold" fill="#c33">⚠ Methanol is highly toxic: it can cause blindness and death</text>
+<text x="40" y="726" font-size="14">Home-made alcohol is for external use only: never drink it or mix it into drinks</text>
+<text x="24" y="754" font-size="15" font-weight="bold" fill="#c33">⚠ Distilling alcohol gives off flammable vapour: ventilate well,</text>
+<text x="40" y="772" font-size="15" font-weight="bold" fill="#c33">preferably work outdoors</text>
+<text x="40" y="794" font-size="14">Alcohol vapour is heavier than air, drifts along the ground to a flame and ignites</text>
+<text x="40" y="812" font-size="14">at an open flame or spark</text>
+<text x="24" y="838" font-size="15" font-weight="bold" fill="#c33">⚠ Burning alcohol has an almost invisible flame in daylight</text>
+<text x="40" y="860" font-size="14">Smother a small fire with a wet cloth or a lid; don't blow on it; don't pour water into the alcohol container</text>
+</g>
+</svg>

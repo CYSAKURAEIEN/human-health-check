@@ -20,7 +20,7 @@
 | Blood, body fluids | Hepatitis B, HIV/AIDS | Do not share razors or toothbrushes; wear gloves when dealing with wounds |
 | Mosquitoes and insects | Malaria, dengue, Japanese encephalitis | Prevent mosquito bites, get rid of standing water |
 
-**Handwashing** is the simplest and most effective way to stop most infectious diseases; for how, see [Sanitation - handwashing stations](../../../docs/07-日常生活技能/03-卫生设施.md#洗手点).
+**Handwashing** is the simplest and most effective way to stop most infectious diseases; for how, see [Sanitation - handwashing stations](../07-everyday-living-skills/03-sanitation.md#handwashing-stations).
 
 ---
 
@@ -114,7 +114,7 @@ Related chapter: [Poisoning - cleaning product poisoning](12-poisoning.md#cleani
 | 75% alcohol | Wipe hands, small items, phones | Flammable; do not spray over large areas; **works poorly against norovirus** |
 | Sunlight | Expose bedding and clothes to strong sunlight for several hours | Only a supplement; cannot replace disinfection |
 
-For making alcohol yourself and its strength, see [Disinfectant preparation](../../../docs/06-制药技术/01-消毒剂制备.md).
+For making alcohol yourself and its strength, see [Disinfectant preparation](../06-pharmaceuticals/01-disinfectants.md).
 
 ---
 
@@ -141,7 +141,7 @@ When someone has diarrhoea or is vomiting:
 ⚠️ Several people in the same household or group with diarrhoea at the same time → report to the local disease control centre or township health centre
 ```
 
-Related chapters: [Sanitation](../../../docs/07-日常生活技能/03-卫生设施.md), [Common illnesses - diarrhoea](01-common-illnesses.md#diarrhoea).
+Related chapters: [Sanitation](../07-everyday-living-skills/03-sanitation.md), [Common illnesses - diarrhoea](01-common-illnesses.md#diarrhoea).
 
 ---
 

@@ -295,7 +295,7 @@ Take care:
   people working together, to prevent falls and injuries from falling objects
 ```
 
-For cleaning and disinfecting a house after flooding see [After a flood](#after-a-flood) below; for checks before the power comes back on see [Household electrical safety – Restoring power after a disaster](../../../docs/07-日常生活技能/08-家庭用电安全.md#灾后恢复用电).
+For cleaning and disinfecting a house after flooding see [After a flood](#after-a-flood) below; for checks before the power comes back on see [Household electrical safety – Restoring power after a disaster](../07-everyday-living-skills/08-household-electrical-safety.md#restoring-power-after-a-disaster).
 
 ---
 
@@ -655,7 +655,7 @@ Health:
    mouldy rooms
 ```
 
-For making up disinfectant and its strength see ["84" bleach (chlorine disinfectant)](../01-first-aid-and-family-health/15-infectious-disease-at-home.md#84-bleach-chlorine-based-disinfectant); for checks before the power comes back on see [Restoring power after a disaster](../../../docs/07-日常生活技能/08-家庭用电安全.md#灾后恢复用电).
+For making up disinfectant and its strength see ["84" bleach (chlorine disinfectant)](../01-first-aid-and-family-health/15-infectious-disease-at-home.md#84-bleach-chlorine-based-disinfectant); for checks before the power comes back on see [Restoring power after a disaster](../07-everyday-living-skills/08-household-electrical-safety.md#restoring-power-after-a-disaster).
 
 #### Food and drinking water
 
@@ -674,7 +674,7 @@ For making up disinfectant and its strength see ["84" bleach (chlorine disinfect
   them or soak them in disinfectant
 ```
 
-For how to disinfect a well see [Water sources and supply – Disinfecting well water](../../../docs/07-日常生活技能/10-水源工程与供水.md#井水消毒).
+For how to disinfect a well see [Water sources and supply – Disinfecting well water](../07-everyday-living-skills/10-water-supply.md#disinfecting-well-water).
 
 #### Preventing disease
 
@@ -1255,7 +1255,7 @@ When water is short, secure it in this order:
   of water sources, and look after older people, children and sick people first
 ```
 
-For estimating how much water each person uses, see [Water sources and supply – How much water you need](../../../docs/07-日常生活技能/10-水源工程与供水.md#需要多少水).
+For estimating how much water each person uses, see [Water sources and supply – How much water you need](../07-everyday-living-skills/10-water-supply.md#how-much-water-you-need).
 
 **Saving water**:
 ```
@@ -1291,7 +1291,7 @@ For details see "Farming in drought" below
   and build a small basin to store water
 ```
 
-For how to dig wells, find springs and collect rain, see [Water sources and supply](../../../docs/07-日常生活技能/10-水源工程与供水.md).
+For how to dig wells, find springs and collect rain, see [Water sources and supply](../07-everyday-living-skills/10-water-supply.md).
 
 ### Safe drinking water in drought
 
@@ -1309,7 +1309,7 @@ For how to dig wells, find springs and collect rain, see [Water sources and supp
   used by several people in turn, and the leftover water can still flush the toilet
 ```
 
-For water that ordinary methods cannot make safe, see [Water sources and supply – Water that ordinary methods cannot treat](../../../docs/07-日常生活技能/10-水源工程与供水.md#不能用一般方法处理的水).
+For water that ordinary methods cannot make safe, see [Water sources and supply – Water that ordinary methods cannot treat](../07-everyday-living-skills/10-water-supply.md#water-ordinary-methods-cannot-treat).
 
 ### Farming in drought
 
@@ -1365,7 +1365,7 @@ Adjusting:
   if the fire is large or the wind strong, leave at once; do not try to fight it
 ```
 
-For siting toilets and hygiene see [Sanitation](../../../docs/07-日常生活技能/03-卫生设施.md); for preventing nutritional deficiencies see [Nutrition and deficiency diseases](../../../docs/07-日常生活技能/02-营养与营养缺乏病.md).
+For siting toilets and hygiene see [Sanitation](../07-everyday-living-skills/03-sanitation.md); for preventing nutritional deficiencies see [Nutrition and deficiency diseases](../07-everyday-living-skills/02-nutrition-and-deficiency-diseases.md).
 
 For preventing and escaping wildfires see [Forest fires](04-fire.md#forest-fires).
 

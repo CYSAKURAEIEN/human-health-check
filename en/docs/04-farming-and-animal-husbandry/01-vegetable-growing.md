@@ -209,7 +209,7 @@ Solutions:
 
 ## Preparing the ground, making beds and high yields from small plots
 
-For judging soil texture, acidity and fertility see [Geology, minerals and soil – Soil texture](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#52-简单的土壤质地判断), [Acidity](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#53-酸碱性) and [Soil fertility](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#54-土壤肥力). For liming acid soil see [Lime and building materials – Improving acid soil](../../../docs/07-日常生活技能/16-石灰与建筑材料.md#改良酸性土).
+For judging soil texture, acidity and fertility see [Geology, minerals and soil – Soil texture](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#52-简单的土壤质地判断), [Acidity](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#53-酸碱性) and [Soil fertility](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#54-土壤肥力). For liming acid soil see [Lime and building materials – Improving acid soil](../07-everyday-living-skills/16-lime-and-building-materials.md#improving-acid-soil).
 
 ### Flat beds, raised beds and ridges
 
@@ -430,7 +430,7 @@ Human faeces and urine (strictly follow the Sanitation chapter):
 ✗ Never use human faeces on vegetables eaten raw (lettuce, cucumber, tomato, etc.)
 ```
 
-For using human faeces and urine safely see [Sanitation – Using faeces and urine](../../../docs/07-日常生活技能/03-卫生设施.md#粪便与尿液的利用).
+For using human faeces and urine safely see [Sanitation – Using faeces and urine](../07-everyday-living-skills/03-sanitation.md#using-faeces-and-urine).
 
 ### Wood ash and other fertilisers
 
@@ -588,7 +588,7 @@ Saving water:
   the wall to the roots around it
 ```
 
-For storing and bringing water see [Water sources and supply](../../../docs/07-日常生活技能/10-水源工程与供水.md).
+For storing and bringing water see [Water sources and supply](../07-everyday-living-skills/10-water-supply.md).
 
 ### Top-dressing
 
@@ -1319,7 +1319,7 @@ High yields and stores well!
 - Widely sprouted or green: throw the whole potato away
 ```
 
-For saving seed potatoes and true potato seed see [Seed saving and breeding – Potatoes and sweet potatoes](08-seed-saving-and-breeding.md#potato-and-sweet-potato-propagating-from-tubers); for cellar storage see [Food processing and preservation – Storage conditions for vegetables](../../../docs/07-日常生活技能/01-食物加工与保存.md#各类蔬菜的储存条件).
+For saving seed potatoes and true potato seed see [Seed saving and breeding – Potatoes and sweet potatoes](08-seed-saving-and-breeding.md#potato-and-sweet-potato-propagating-from-tubers); for cellar storage see [Food processing and preservation – Storage conditions for vegetables](../07-everyday-living-skills/01-food-processing-and-preservation.md#storage-conditions-for-different-vegetables).
 
 ### Sweet potato
 
@@ -1475,7 +1475,7 @@ Advantages:
 - Legumes fix nitrogen (improve the soil)
 ```
 
-For poisoning from undercooked beans see [Food processing and preservation – High-risk foods and food poisoning](../../../docs/07-日常生活技能/01-食物加工与保存.md#高风险食品与食物中毒).
+For poisoning from undercooked beans see [Food processing and preservation – High-risk foods and food poisoning](../07-everyday-living-skills/01-food-processing-and-preservation.md#high-risk-foods-and-food-poisoning).
 
 ### Pea
 
@@ -1703,7 +1703,7 @@ Going without fresh vegetables for a long time causes scurvy (vitamin C deficien
   overwinter, and sprout beans in winter
 ```
 
-For recognising and treating nutritional deficiencies see [Nutrition and deficiency diseases](../../../docs/07-日常生活技能/02-营养与营养缺乏病.md).
+For recognising and treating nutritional deficiencies see [Nutrition and deficiency diseases](../07-everyday-living-skills/02-nutrition-and-deficiency-diseases.md).
 
 ### Growing over winter
 
@@ -1741,7 +1741,7 @@ Dried vegetables: beans, radish strips, Chinese cabbage, aubergine and pumpkin
   strips can all be sun-dried
 ```
 
-For cellar storage see [Food processing and preservation – Cellar storage](../../../docs/07-日常生活技能/01-食物加工与保存.md#窖藏); for pickling see [Pickles and sauerkraut](../../../docs/07-日常生活技能/01-食物加工与保存.md#泡菜酸菜) and [Nitrite](../../../docs/07-日常生活技能/01-食物加工与保存.md#-亚硝酸盐-腌菜要等够时间); for drying see [Vegetables and fruit](../../../docs/07-日常生活技能/01-食物加工与保存.md#蔬菜和水果).
+For cellar storage see [Food processing and preservation – Cellar storage](../07-everyday-living-skills/01-food-processing-and-preservation.md#cellar-storage); for pickling see [Pickles and sauerkraut](../07-everyday-living-skills/01-food-processing-and-preservation.md#pickled-vegetables-and-sauerkraut) and [Nitrite](../07-everyday-living-skills/01-food-processing-and-preservation.md#-nitrite-give-pickles-enough-time); for drying see [Vegetables and fruit](../07-everyday-living-skills/01-food-processing-and-preservation.md#vegetables-and-fruit).
 
 ### Sprouts and microgreens
 
@@ -1777,7 +1777,7 @@ Blanched chives: in winter cover Chinese chive roots in a cold frame or indoors
 ⚠️ Smells bad, slimy or mouldy → throw the whole tray away
 ```
 
-For how to sprout beans see [Nutrition and deficiency diseases – Bean sprouts](../../../docs/07-日常生活技能/02-营养与营养缺乏病.md#维生素c-豆芽是最可靠的冬季来源); for the dangers of treated seed see [Seed saving and breeding – Why losing your seed means losing farming](08-seed-saving-and-breeding.md#why-farming-stops-when-the-seed-runs-out).
+For how to sprout beans see [Nutrition and deficiency diseases – Bean sprouts](../07-everyday-living-skills/02-nutrition-and-deficiency-diseases.md#vitamin-c-bean-sprouts-are-the-most-reliable-winter-source); for the dangers of treated seed see [Seed saving and breeding – Why losing your seed means losing farming](08-seed-saving-and-breeding.md#why-farming-stops-when-the-seed-runs-out).
 
 ### The summer gap
 

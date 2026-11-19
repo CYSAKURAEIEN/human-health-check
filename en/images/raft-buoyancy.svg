@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 928" width="720" height="928" role="img" aria-label="Rafts: working out the load from buoyancy. Principle: displacing 1 m³ of water supports about 1 t (about 1000 kg in fresh water); the load a raft can carry is the volume under water times 1000 kg/m³, minus the raft's own weight. Example 1, log raft: 10 pine logs, each 3 m long and 25 cm in diameter; the volume of each is about 3.14×0.125²×3≈0.15 m³, about 1.5 m³ in all; dry pine is about 500 kg/m³, so the raft weighs about 750 kg; buoyancy fully submerged is about 1500 kg, so at most about 750 kg; in practice use only half, about 350 kg; logs soaked for a long time absorb water and get heavier. Example 2, drum raft: an empty 200 L oil drum gives about 200 kg of buoyancy, less about 20 kg for the drum; a 20 L plastic jerrycan about 20 kg; 4 × 200 L oil drums with a timber frame tied on top and planked over carry at most about 700 kg, safe load about 300 kg. Bamboo raft: each thick bamboo pole gives about 20-30 kg of net buoyancy; the nodes must be intact; trim both ends to a point and turn them up; bind into a row with cross pieces and rattan or rope; stack several layers" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Rafts: working out the load from buoyancy</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="dimB" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,1 L10,5 L0,9 Z" fill="#0b5cad"/></marker>
+<pattern id="lash" x="50" y="316" width="104" height="18" patternUnits="userSpaceOnUse"><path d="M2,5 l8,8 m0,-8 l-8,8" stroke="#5a4320" stroke-width="1.5"/></pattern>
+<pattern id="plank" x="40" y="606" width="12" height="10" patternUnits="userSpaceOnUse"><rect width="10" height="10" fill="#b8955a"/></pattern>
+<g id="drum"><circle r="26" fill="#9fb4c8" stroke="#333" stroke-width="2"/><circle r="18" fill="none" stroke="#333" stroke-width="1.2"/><circle cx="8" cy="-8" r="3" fill="#333"/></g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Rafts: working out the load from buoyancy</text>
+
+<!-- 1 principle -->
+<rect x="10" y="44" width="700" height="192" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="70" font-size="16" font-weight="bold">① Principle</text>
+<g fill="#d9c29a" stroke="#333" stroke-width="2">
+<circle cx="80" cy="160" r="20"/><circle cx="120" cy="160" r="20"/><circle cx="160" cy="160" r="20"/><circle cx="200" cy="160" r="20"/><circle cx="240" cy="160" r="20"/>
+</g>
+<rect x="114" y="106" width="92" height="34" rx="3" fill="#cfcfcf" stroke="#333" stroke-width="2"/>
+<text x="160" y="128" font-size="14" text-anchor="middle">load</text>
+<rect x="11.5" y="170" width="308" height="64.5" fill="#7fb6e0" fill-opacity="0.35"/>
+<path d="M11.5,170 H320" stroke="#3d86c6" stroke-width="2"/>
+<path d="M160,78 V102" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<text x="168" y="92" font-size="13" fill="#c33">load + raft weight</text>
+<path d="M100,226 V188 M220,226 V188" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<text x="160" y="214" font-size="13" fill="#c33" font-weight="bold" text-anchor="middle">buoyancy</text>
+<path d="M262,176 L284,192" stroke="#0b5cad" stroke-width="1"/>
+<text x="250" y="208" font-size="13" fill="#0b5cad">volume</text>
+<text x="250" y="224" font-size="13" fill="#0b5cad">under water</text>
+<rect x="336" y="84" width="362" height="138" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="517" y="106" font-size="15" font-weight="bold" text-anchor="middle">Displacing 1 m³ of water</text>
+<text x="517" y="125" font-size="15" font-weight="bold" text-anchor="middle">supports about 1 t</text>
+<text x="517" y="144" font-size="13" text-anchor="middle" fill="#555">(about 1000 kg in fresh water)</text>
+<text x="517" y="170" font-size="15" font-weight="bold" text-anchor="middle">Load a raft can carry =</text>
+<text x="517" y="190" font-size="15" text-anchor="middle">volume under water × 1000 kg/m³</text>
+<text x="517" y="210" font-size="15" text-anchor="middle">− the raft's own weight</text>
+
+<!-- 2 example 1: log raft -->
+<rect x="10" y="248" width="700" height="300" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="274" font-size="16" font-weight="bold">② Example 1: log raft (top view)</text>
+<g fill="#d9c29a" stroke="#333" stroke-width="1.5">
+<rect x="40" y="316" width="240" height="18" rx="9"/><rect x="40" y="334" width="240" height="18" rx="9"/><rect x="40" y="352" width="240" height="18" rx="9"/><rect x="40" y="370" width="240" height="18" rx="9"/><rect x="40" y="388" width="240" height="18" rx="9"/>
+<rect x="40" y="406" width="240" height="18" rx="9"/><rect x="40" y="424" width="240" height="18" rx="9"/><rect x="40" y="442" width="240" height="18" rx="9"/><rect x="40" y="460" width="240" height="18" rx="9"/><rect x="40" y="478" width="240" height="18" rx="9"/>
+</g>
+<g fill="#b08a55" stroke="#333" stroke-width="1.5">
+<rect x="50" y="310" width="12" height="192"/><rect x="154" y="310" width="12" height="192"/><rect x="258" y="310" width="12" height="192"/>
+</g>
+<rect x="50" y="316" width="220" height="180" fill="url(#lash)"/>
+<rect x="50" y="316" width="220" height="180" fill="none"/>
+<path d="M40,302 V312 M280,302 V312" stroke="#0b5cad" stroke-width="1"/>
+<line x1="42" y1="304" x2="278" y2="304" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#dimB)" marker-end="url(#dimB)"/>
+<text x="80" y="298" font-size="14" fill="#0b5cad" font-weight="bold" text-anchor="middle">3 m long</text>
+<text x="160" y="520" font-size="13" text-anchor="middle">10 pine logs side by side,</text>
+<text x="160" y="537" font-size="13" text-anchor="middle">each 25 cm in diameter</text>
+<text x="124" y="298" font-size="12" fill="#555">cross pieces + rope</text>
+<path d="M246,300 L262,312" stroke="#555" stroke-width="1"/>
+<g font-size="14">
+<text x="300" y="306">Volume of each ≈ 3.14 × 0.125² × 3 ≈ 0.15 m³</text>
+<text x="300" y="328">10 logs: about 1.5 m³ in all</text>
+<text x="300" y="356">Dry pine about 500 kg/m³: own weight about 750 kg</text>
+<text x="300" y="384">Buoyancy fully submerged: about 1500 kg</text>
+<text x="300" y="406" font-weight="bold">→ At most about 750 kg (1500 − 750)</text>
+<text x="300" y="436" font-weight="bold" fill="#c33">In practice use only half: about 350 kg</text>
+<text x="300" y="456" fill="#555">(leave margin for the deck to stay above water)</text>
+<text x="300" y="490" fill="#c33">⚠ Logs soaked for a long time absorb water and</text>
+<text x="318" y="509" fill="#c33">get heavier; buoyancy keeps falling</text>
+</g>
+
+<g transform="translate(0,12)">
+<!-- 3 drum raft -->
+<rect x="10" y="548" width="700" height="356" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<line x1="360" y1="562" x2="360" y2="890" stroke="#ddd" stroke-width="1.5"/>
+<text x="24" y="574" font-size="16" font-weight="bold">③ Example 2: drum raft (end view)</text>
+<rect x="40" y="606" width="240" height="10" fill="url(#plank)"/>
+<rect x="40" y="616" width="240" height="8" fill="#b08a55" stroke="#333" stroke-width="1.5"/>
+<use href="#drum" x="70" y="650"/><use href="#drum" x="130" y="650"/><use href="#drum" x="190" y="650"/><use href="#drum" x="250" y="650"/>
+<path d="M50,624 L43,650 A27,27 0 0 0 97,650 L90,624 M110,624 L103,650 A27,27 0 0 0 157,650 L150,624 M170,624 L163,650 A27,27 0 0 0 217,650 L210,624 M230,624 L223,650 A27,27 0 0 0 277,650 L270,624" fill="none" stroke="#8f6d2e" stroke-width="1.8"/>
+<rect x="11.5" y="652" width="340" height="44" fill="#7fb6e0" fill-opacity="0.35"/>
+<path d="M11.5,652 H352" stroke="#3d86c6" stroke-width="2"/>
+<g font-size="13">
+<text x="292" y="612">planks</text><text x="292" y="628">frame</text>
+<text x="290" y="676" fill="#333">200 L</text><text x="290" y="692" fill="#333">drums ×4</text>
+</g>
+<g font-size="14">
+<text x="24" y="722">• Empty 200 L oil drum: about 200 kg of</text>
+<text x="38" y="741">buoyancy, less about 20 kg for the drum</text>
+<text x="24" y="764">• 20 L plastic jerrycan: about 20 kg</text>
+<text x="24" y="787">• 4 × 200 L oil drums, timber frame tied</text>
+<text x="38" y="806">on top and planked over:</text>
+<text x="38" y="825" font-weight="bold">at most about 700 kg,</text>
+<text x="38" y="844" font-weight="bold">safe load about 300 kg</text>
+<text x="24" y="870">✓ Screw the bungs tight to seal them;</text>
+<text x="38" y="889">lash drums together and to the frame</text>
+</g>
+
+<!-- 4 bamboo raft -->
+<text x="374" y="574" font-size="16" font-weight="bold">④ Bamboo raft (side view)</text>
+<g transform="translate(0,10)">
+<g fill="#cfe0b0" stroke="#333" stroke-width="1.5">
+<path d="M410,634 H650 Q668,632 684,614 Q668,646 650,648 H410 Q392,646 376,614 Q392,632 410,634 Z"/>
+<path d="M414,620 H646 Q662,618 676,602 Q662,632 646,634 H414 Q398,632 384,602 Q398,618 414,620 Z"/>
+</g>
+<path d="M468,620 V648 M471,620 V648 M568,620 V648 M571,620 V648 M618,620 V648 M621,620 V648 M418,620 V648 M421,620 V648" stroke="#5f7a3a" stroke-width="1.2"/>
+<path d="M518,620 V648 M521,620 V648" stroke="#c33" stroke-width="2"/>
+<path d="M431,605 L449,649 M449,605 L431,649 M531,605 L549,649 M549,605 L531,649 M631,605 L649,649 M649,605 L631,649" stroke="#8f6d2e" stroke-width="1.5"/>
+<g fill="#b08a55" stroke="#333" stroke-width="1.5"><circle cx="440" cy="613" r="7"/><circle cx="540" cy="613" r="7"/><circle cx="640" cy="613" r="7"/></g>
+</g>
+<rect x="365.5" y="650" width="343" height="46" fill="#7fb6e0" fill-opacity="0.35"/>
+<path d="M365.5,650 H708.5" stroke="#3d86c6" stroke-width="2"/>
+<g stroke="#555" stroke-width="1"><path d="M500,678 L516,656"/><path d="M690,598 L685,622"/><path d="M448,601 L442,614"/></g>
+<g font-size="13">
+<text x="452" y="600">cross piece</text>
+<text x="702" y="580" text-anchor="end">ends pointed and</text>
+<text x="702" y="595" text-anchor="end">turned up: less drag</text>
+<text x="380" y="690" fill="#c33" font-weight="bold">nodes must be intact (water gets in)</text>
+</g>
+<g font-size="14">
+<text x="374" y="722">• Thick bamboo (e.g. moso): hollow, light;</text>
+<text x="388" y="741" font-weight="bold">about 20-30 kg net buoyancy per pole</text>
+<text x="388" y="760" font-size="13" fill="#555">(rule of thumb; varies a lot with the</text>
+<text x="388" y="777" font-size="13" fill="#555">thickness and length of the bamboo)</text>
+<text x="374" y="800">• Bind into a row with cross pieces and</text>
+<text x="388" y="819">rattan or rope</text>
+<text x="374" y="842">• Stack layers for more buoyancy (two here)</text>
+<text x="374" y="868">✓ Nodes intact: if broken, water gets in</text>
+<text x="374" y="889">✓ Ends pointed and turned up: less drag</text>
+</g>
+</g>
+</g>
+</svg>

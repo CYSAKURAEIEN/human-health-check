@@ -1,0 +1,240 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1140" width="720" height="1140" role="img" aria-label="Making a herbal decoction at home. 1, choosing a pot: a clay pot or earthenware pot is best; stainless steel and enamel pots can be used; do not use iron, aluminium or copper pots (tannins and organic acids turn the brew black and astringent with iron, and an acidic brew dissolves aluminium and copper). 2, soaking: add cold water to cover the herbs by 3-5 cm (about 5 cm for flowers and leaves); one dose usually takes about 600-800 mL of water; soak for 30 minutes, seeds for 1-2 hours. 3, bring to the boil on high heat, then turn to low heat and simmer: exterior-releasing remedies 15-20 minutes, general remedies 25-30 minutes, tonics 40-60 minutes. 4, special methods: decoct first (minerals and shells) goes in 30 minutes early; add late (aromatic herbs) goes in for the last 5-10 minutes; decoct in a bag (tiny seeds, pollen) is wrapped in gauze; decoct separately (precious herbs) is boiled on its own for 2-3 hours and the liquid added in. 5, second decoction: add water to the dregs to cover them by 2-3 cm and boil again for 20-30 minutes; combine the two liquids, about 400-600 mL in total, and take in 2-3 doses. 6, take most remedies warm, remedies for wind-cold colds hot, and heat-clearing remedies (in summer) and anti-vomiting remedies cold; make it and finish it the same day. 7, if it burns, throw the whole pot away; top up only with a little boiling water; do not drink it if mouldy; never process or decoct toxic herbs yourself; if you feel unwell after taking it, stop and see a doctor." font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Making a herbal decoction at home</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<marker id="arB0" viewBox="0 0 10 10" refX="2" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M10 0 L0 5 L10 10 Z" fill="#0b5cad"/></marker>
+<!-- clay pot (origin at the centre of the rim, about 88 wide) -->
+<g id="claypot">
+<path d="M-40 6 Q-46 44 -24 56 H24 Q46 44 40 6 Z" fill="#c98a5a" stroke="#333" stroke-width="2"/>
+<path d="M40 14 L66 6" stroke="#8b5a34" stroke-width="6" stroke-linecap="round"/>
+<rect x="-44" y="0" width="88" height="8" rx="3" fill="#b77a4c" stroke="#333" stroke-width="2"/>
+<path d="M-36 0 Q0 -22 36 0 Z" fill="#b77a4c" stroke="#333" stroke-width="2"/>
+<circle cx="0" cy="-14" r="4.5" fill="#8b5a34" stroke="#333" stroke-width="1.5"/>
+</g>
+<!-- medicine bowl -->
+<g id="bowl"><path d="M-30 0 H30 Q28 26 0 28 Q-28 26 -30 0 Z" fill="#f4f1ea" stroke="#333" stroke-width="2"/><path d="M-27 4 H27 Q24 14 0 15 Q-24 14 -27 4 Z" fill="#7a4a24"/><path d="M-10 28 H10 V32 H-10 Z" fill="#f4f1ea" stroke="#333" stroke-width="1.5"/></g>
+<!-- flame -->
+<path id="flame" d="M0 0 Q-9 -10 -4 -22 Q-2 -14 2 -12 Q0 -24 6 -30 Q6 -18 10 -12 Q12 -6 8 0 Z" fill="#f08a24" stroke="#c33" stroke-width="1.2"/>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Making a herbal decoction at home</text>
+<text x="360" y="50" font-size="13" text-anchor="middle" fill="#c33">Herbs and doses: follow a practitioner's prescription or the Pharmacopoeia;</text>
+<text x="360" y="67" font-size="13" text-anchor="middle" fill="#c33">never process or decoct toxic herbs yourself</text>
+
+<!-- 1 choosing a pot -->
+<g transform="translate(10,80)">
+<rect x="0" y="0" width="230" height="406" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">① Choose a pot</text>
+<use href="#claypot" x="62" y="70"/>
+<g transform="translate(176,70)">
+<path d="M-34 10 H34 Q32 50 0 50 Q-32 50 -34 10 Z" fill="#555" stroke="#333" stroke-width="2"/>
+<path d="M-40 10 H40" stroke="#333" stroke-width="3"/>
+<path d="M-28 4 L28 56 M28 4 L-28 56" stroke="#c33" stroke-width="4" stroke-linecap="round"/>
+</g>
+<g font-size="13" font-weight="bold" text-anchor="middle">
+<text x="62" y="148" fill="#0b5cad">✓ Clay pot,</text>
+<text x="62" y="164" fill="#0b5cad">earthenware</text>
+<text x="176" y="148" fill="#c33">✗ Iron pot</text>
+</g>
+<text x="176" y="164" font-size="12" text-anchor="middle" fill="#c33">no aluminium or</text>
+<text x="176" y="179" font-size="12" text-anchor="middle" fill="#c33">copper pots either</text>
+<g font-size="13">
+<text x="10" y="206">Can use: stainless steel, enamel</text>
+<text x="24" y="223" fill="#555" font-size="12">(enamel surface not chipped)</text>
+<text x="10" y="246">Iron: tannins and organic acids</text>
+<text x="10" y="263">turn black and astringent</text>
+<text x="10" y="286">Aluminium, copper: an acidic</text>
+<text x="10" y="303">brew dissolves them</text>
+<text x="10" y="326">Boil a new clay pot once with rice</text>
+<text x="10" y="343">water or plain water; never heat it</text>
+<text x="10" y="360">empty or put it down hot on cold,</text>
+<text x="10" y="377">wet ground</text>
+<text x="10" y="398" font-size="12" fill="#555">Keep the pot for medicine, not cooking</text>
+</g>
+</g>
+
+<!-- 2 soaking -->
+<g transform="translate(245,80)">
+<rect x="0" y="0" width="230" height="406" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">② Soak in cold water</text>
+<!-- clock -->
+<circle cx="206" cy="52" r="15" fill="#fff" stroke="#333" stroke-width="2"/>
+<path d="M206 52 V42 M206 52 L213 56" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+<text x="186" y="57" font-size="13" font-weight="bold" fill="#c33" text-anchor="end">30 minutes</text>
+<!-- pot in section -->
+<path d="M53 92 H177 L174 148 Q171 158 158 158 H72 Q59 158 56 148 Z" fill="#cfe5f5"/>
+<path d="M53 92 H177" stroke="#3a7fc0" stroke-width="1.5"/>
+<g stroke="#5e3b1c" stroke-width="1.2">
+<path d="M60 150 Q80 138 100 146 L98 154 Q80 150 62 156 Z" fill="#a87a4a"/>
+<path d="M96 140 L130 132 L134 140 L100 148 Z" fill="#c9a06a"/>
+<ellipse cx="146" cy="146" rx="18" ry="7" fill="#8b5a34" transform="rotate(-10 146 146)"/>
+<path d="M70 132 Q88 124 104 132 Q88 140 70 132 Z" fill="#7d8f4a"/>
+<path d="M120 126 L152 124 L158 132 L124 136 Z" fill="#a87a4a"/>
+<circle cx="88" cy="146" r="4" fill="#d9b77a"/><circle cx="118" cy="150" r="4" fill="#d9b77a"/><circle cx="160" cy="152" r="3.5" fill="#d9b77a"/>
+<path d="M140 120 Q156 114 166 122 Q154 128 140 120 Z" fill="#7d8f4a"/>
+</g>
+<path d="M50 70 L56 148 Q60 162 72 162 H158 Q170 162 174 148 L180 70" fill="none" stroke="#333" stroke-width="3"/>
+<path d="M44 70 H186" stroke="#333" stroke-width="3"/>
+<path d="M178 94 L177 92" stroke="#333"/>
+<!-- dimension -->
+<path d="M154 94 V118" stroke="#0b5cad" stroke-width="1.4" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<path d="M136 120 H170" stroke="#0b5cad" stroke-width="0.8" stroke-dasharray="3 3"/>
+<text x="148" y="112" font-size="13" font-weight="bold" fill="#0b5cad" text-anchor="end">3-5 cm</text>
+<text x="60" y="112" font-size="12" fill="#0b5cad">cold</text>
+<text x="115" y="180" font-size="12" text-anchor="middle" fill="#555">water 3-5 cm above the herbs</text>
+<g font-size="13">
+<text x="10" y="206">Flowers, leaves and light, loose</text>
+<text x="10" y="223">herbs soak up more water, so</text>
+<text x="10" y="240">use a higher level (about 5 cm)</text>
+<text x="10" y="263">One dose usually takes about</text>
+<text x="10" y="280">600-800 mL of water</text>
+<text x="10" y="303" font-weight="bold">Soak 30 minutes;</text>
+<text x="10" y="320" font-weight="bold">seeds 1-2 hours</text>
+<text x="10" y="343" fill="#c33">✗ Soaking in boiling water and</text>
+<text x="24" y="360" fill="#c33">decocting straight away:</text>
+<text x="24" y="377" fill="#c33" font-size="12">the ingredients don't come out well</text>
+</g>
+</g>
+
+<!-- 3 heat -->
+<g transform="translate(480,80)">
+<rect x="0" y="0" width="230" height="406" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">③ High heat, then low</text>
+<!-- high heat -->
+<g transform="translate(48,84) scale(0.8)"><use href="#claypot"/></g>
+<path d="M36 64 Q32 58 38 50 M50 62 Q46 54 52 46 M64 64 Q60 58 66 50" fill="none" stroke="#999" stroke-width="1.5"/>
+<g transform="translate(48,154)"><use href="#flame" x="-18"/><use href="#flame" x="-4" transform="scale(1,1.15)"/><use href="#flame" x="10"/></g>
+<path d="M12 154 H84" stroke="#555" stroke-width="3"/>
+<!-- low heat -->
+<g transform="translate(160,84) scale(0.8)"><use href="#claypot"/></g>
+<g transform="translate(160,154) scale(0.5)"><use href="#flame" x="-14"/><use href="#flame" x="8"/></g>
+<path d="M124 154 H196" stroke="#555" stroke-width="3"/>
+<path d="M100 118 H118" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<g font-size="13" font-weight="bold" text-anchor="middle">
+<text x="48" y="176" fill="#c33">Boil on high</text>
+<text x="160" y="176" fill="#0b5cad">then low heat</text>
+</g>
+<text x="10" y="204" font-size="13" font-weight="bold">Simmering time after boiling</text>
+<text x="10" y="221" font-size="13" font-weight="bold">(first decoction):</text>
+<g font-size="13">
+<text x="16" y="246">Exterior-releasing</text><text x="214" y="246" font-weight="bold" text-anchor="end">15-20 min</text>
+<text x="16" y="270">General remedies</text><text x="214" y="270" font-weight="bold" text-anchor="end">25-30 min</text>
+<text x="16" y="294">Tonics</text><text x="214" y="294" font-weight="bold" text-anchor="end">40-60 min</text>
+</g>
+<path d="M14 230 H216 M14 254 H216 M14 278 H216 M14 302 H216" stroke="#ddd" stroke-width="1"/>
+<g font-size="12" fill="#555">
+<text x="10" y="326">Exterior-releasing (cold and flu)</text>
+<text x="10" y="342">remedies lose volatile oils if boiled</text>
+<text x="10" y="358">long; tonics need long boiling to</text>
+<text x="10" y="374">extract fully</text>
+</g>
+</g>
+
+<!-- 4 special methods -->
+<g transform="translate(10,494)">
+<rect x="0" y="0" width="465" height="322" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">④ Special methods (as marked on the prescription)</text>
+<!-- timeline -->
+<path d="M310 50 V198 M430 50 V198" stroke="#999" stroke-width="1" stroke-dasharray="4 3"/>
+<rect x="190" y="62" width="240" height="16" rx="3" fill="#c9a06a" stroke="#333" stroke-width="1.2"/>
+<rect x="310" y="104" width="120" height="16" rx="3" fill="#a87a4a" stroke="#333" stroke-width="1.2"/>
+<rect x="390" y="146" width="20" height="16" fill="#cfe3b8" stroke="#333" stroke-width="1" stroke-dasharray="3 2"/>
+<rect x="410" y="146" width="20" height="16" fill="#7d8f4a" stroke="#333" stroke-width="1.2"/>
+<path d="M192 56 V50 H308 V56" fill="none" stroke="#c33" stroke-width="1.5"/>
+<text x="250" y="45" font-size="13" font-weight="bold" fill="#c33" text-anchor="middle">in 30 minutes early</text>
+<path d="M392 168 V174 H428 V168" fill="none" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="384" y="159" font-size="12" font-weight="bold" fill="#0b5cad" text-anchor="end">in for the last 5-10 minutes</text>
+<g font-size="14" font-weight="bold">
+<text x="12" y="70">Decoct first</text><text x="12" y="116">Other herbs</text><text x="12" y="154">Add late</text>
+</g>
+<g font-size="12" fill="#555">
+<text x="12" y="86">minerals, shells</text><text x="12" y="100">(gypsum, dragon bone etc.)</text>
+<text x="12" y="170">aromatic herbs</text><text x="12" y="184">(mint, patchouli etc.)</text>
+</g>
+<path d="M170 212 H452" stroke="#333" stroke-width="1.5" marker-end="url(#arR)"/>
+<path d="M190 206 V218 M310 206 V218 M430 206 V218" stroke="#333" stroke-width="1.5"/>
+<g font-size="12" text-anchor="middle">
+<text x="190" y="232">first herbs in</text><text x="310" y="232">other herbs in</text><text x="430" y="232">heat off</text>
+</g>
+<!-- in a bag -->
+<g transform="translate(26,254)">
+<path d="M-12 -2 Q-16 14 0 16 Q16 14 12 -2 Q6 -6 0 -6 Q-6 -6 -12 -2 Z" fill="#f4f1ea" stroke="#333" stroke-width="1.5"/>
+<path d="M-6 -6 L-4 -14 M6 -6 L4 -14 M-4 -14 Q0 -18 4 -14" fill="none" stroke="#333" stroke-width="1.5"/>
+<path d="M-8 2 H8 M-9 8 H9 M-4 -2 V14 M4 -2 V14" stroke="#bbb" stroke-width="0.8"/>
+</g>
+<g font-size="13">
+<text x="46" y="258"><tspan font-weight="bold">Decoct in a bag:</tspan> tiny seeds and pollen, wrapped in gauze</text>
+</g>
+<!-- separately -->
+<g transform="translate(26,288) scale(0.32)"><use href="#claypot"/></g>
+<g font-size="13">
+<text x="46" y="292"><tspan font-weight="bold">Decoct separately:</tspan> precious herbs (ginseng etc.) boiled</text>
+<text x="46" y="309">on their own for 2-3 hours; add the liquid to the rest</text>
+</g>
+</g>
+
+<!-- 5 second decoction, combine -->
+<g transform="translate(480,494)">
+<rect x="0" y="0" width="230" height="322" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">⑤ Decoct twice, combine</text>
+<g transform="translate(58,62) scale(0.62)"><use href="#claypot"/></g>
+<g transform="translate(168,62) scale(0.62)"><use href="#claypot"/></g>
+<g font-size="13" font-weight="bold" text-anchor="middle"><text x="54" y="112">1st</text><text x="164" y="112">2nd</text></g>
+<g font-size="12" text-anchor="middle" fill="#555">
+<text x="164" y="130">add water to cover</text><text x="164" y="146">the dregs by 2-3 cm,</text><text x="164" y="162">boil 20-30 minutes</text>
+</g>
+<path d="M58 120 Q70 160 98 194" fill="none" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<path d="M134 172 Q130 184 128 194" fill="none" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<use href="#bowl" x="115" y="202"/>
+<g font-size="13" text-anchor="middle">
+<text x="115" y="256" font-weight="bold">Mix both liquids: about</text>
+<text x="115" y="273" font-weight="bold">400-600 mL in total</text>
+<text x="115" y="292">take in 2-3 doses</text>
+</g>
+</g>
+
+<!-- 6 how to take -->
+<g transform="translate(10,824)">
+<rect x="0" y="0" width="230" height="306" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="10" y="24" font-size="16" font-weight="bold">⑥ How to take it</text>
+<use href="#bowl" x="180" y="38"/>
+<path d="M170 32 Q166 26 170 20 M180 30 Q176 24 180 18 M190 32 Q186 26 190 20" fill="none" stroke="#999" stroke-width="1.5"/>
+<g font-size="13">
+<text x="10" y="56" font-weight="bold">Most remedies: warm</text>
+<text x="10" y="84">Wind-cold colds, sweat-</text>
+<text x="10" y="101">inducing remedies: hot</text>
+<text x="10" y="124">Heat-clearing (summer),</text>
+<text x="10" y="141">anti-vomiting remedies: cold</text>
+<text x="10" y="166">Before meals: tonics</text>
+<text x="10" y="186">After meals: digestive and</text>
+<text x="10" y="203">irritating remedies</text>
+<text x="10" y="223">At bedtime: calming remedies</text>
+<text x="10" y="248" font-weight="bold">Make and finish it the same day</text>
+<text x="10" y="268" font-size="12" fill="#555">Cool, cover and refrigerate any you</text>
+<text x="10" y="283" font-size="12" fill="#555">can't drink yet, usually 1-2 days at</text>
+<text x="10" y="298" font-size="12" fill="#555">most; no fridge: finish it that day</text>
+</g>
+</g>
+
+<!-- 7 cautions -->
+<g transform="translate(245,824)">
+<rect x="0" y="0" width="465" height="306" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<text x="12" y="26" font-size="16" font-weight="bold" fill="#c33">⑦ Cautions</text>
+<g font-size="14">
+<text x="14" y="56"><tspan fill="#c33" font-weight="bold">✗ Burnt or scorched:</tspan> throw the whole pot away;</text>
+<text x="30" y="75">don't add water and boil it again</text>
+<text x="14" y="104"><tspan fill="#c33" font-weight="bold">✗ Nearly boiled dry:</tspan> add only a little boiling</text>
+<text x="30" y="123">water, never cold water</text>
+<text x="14" y="152"><tspan fill="#c33" font-weight="bold">✗ Mouldy or odd smell, mould spots on</tspan></text>
+<text x="30" y="171"><tspan fill="#c33" font-weight="bold">the herbs:</tspan> don't drink it</text>
+<text x="14" y="200"><tspan fill="#c33" font-weight="bold">✗ Toxic herbs:</tspan> don't process or decoct them at home</text>
+<text x="14" y="230">Take 2-3 doses first: no better, or worse → stop, see a doctor</text>
+<text x="14" y="259">Rash, palpitations, dizziness, numb mouth, tongue or</text>
+<text x="14" y="278">limbs after taking it</text>
+<text x="14" y="296"><tspan fill="#c33" font-weight="bold">→ stop; if it is serious, see a doctor at once</tspan></text>
+</g>
+</g>
+</g>
+</svg>

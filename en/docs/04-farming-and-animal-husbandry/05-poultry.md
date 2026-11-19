@@ -203,7 +203,7 @@ More:
   reducing the build-up of parasite eggs
 ```
 
-For hard earth floors see [Lime and Building Materials – *Sanhetu* and lime-soil](../../../docs/07-日常生活技能/16-石灰与建筑材料.md#三合土和灰土); for general rat control see [Sanitation – Getting rid of flies and rats](../../../docs/07-日常生活技能/03-卫生设施.md#消灭苍蝇和老鼠).
+For hard earth floors see [Lime and Building Materials – *Sanhetu* and lime-soil](../07-everyday-living-skills/16-lime-and-building-materials.md#three-part-earth-and-lime-stabilised-soil); for general rat control see [Sanitation – Getting rid of flies and rats](../07-everyday-living-skills/03-sanitation.md#getting-rid-of-flies-and-rats).
 
 ![Cross-section of a chicken house layout: facing south, outlet at the ridge and inlets lower down; sizes of perches, nest boxes, predator mesh and run, and floor area, perch length and number of nest boxes by number of birds](../../images/chicken-coop.svg)
 
@@ -579,7 +579,7 @@ More:
    raw or runny eggs; wash your hands after handling raw eggs
 ```
 
-For storing eggs in limewater see [Lime and Building Materials – Other uses](../../../docs/07-日常生活技能/16-石灰与建筑材料.md#其他用途); for recognising food poisoning see [Common Illnesses – Food poisoning](../01-first-aid-and-family-health/01-common-illnesses.md#food-poisoning).
+For storing eggs in limewater see [Lime and Building Materials – Other uses](../07-everyday-living-skills/16-lime-and-building-materials.md#other-uses); for recognising food poisoning see [Common Illnesses – Food poisoning](../01-first-aid-and-family-health/01-common-illnesses.md#food-poisoning).
 
 ### Hatching
 
@@ -713,7 +713,7 @@ Common causes of failure:
    first, then rinse with plenty of clean water
 ```
 
-For making milk of lime see [Lime and Building Materials – Disinfecting animal pens and latrines](../../../docs/07-日常生活技能/16-石灰与建筑材料.md#畜圈厕所消毒); for making chlorine disinfectant and its safety points see [Infectious Disease at Home – Making household disinfectant](../01-first-aid-and-family-health/15-infectious-disease-at-home.md#making-household-disinfectant).
+For making milk of lime see [Lime and Building Materials – Disinfecting animal pens and latrines](../07-everyday-living-skills/16-lime-and-building-materials.md#disinfecting-animal-pens-and-latrines); for making chlorine disinfectant and its safety points see [Infectious Disease at Home – Making household disinfectant](../01-first-aid-and-family-health/15-infectious-disease-at-home.md#making-household-disinfectant).
 
 **Common diseases**:
 ```
@@ -800,7 +800,7 @@ Disposing of birds that died of disease (key points):
   litter and droppings with them, or compost them at high temperature
 ```
 
-For the full requirements for disposing of animals that died of disease see [Sanitation – Disposing of animals that died of disease](../../../docs/07-日常生活技能/03-卫生设施.md#病死动物处理); for how vaccines and antibiotic resistance work see [Biology and Medicine Basics – Immunity and vaccines](../../../docs/08-基础科学知识/04-生物与医学基础.md#三免疫和疫苗) and [Antibiotics and resistance](../../../docs/08-基础科学知识/04-生物与医学基础.md#四抗生素和耐药).
+For the full requirements for disposing of animals that died of disease see [Sanitation – Disposing of animals that died of disease](../07-everyday-living-skills/03-sanitation.md#disposing-of-diseased-animal-carcasses); for how vaccines and antibiotic resistance work see [Biology and Medicine Basics – Immunity and vaccines](../../../docs/08-基础科学知识/04-生物与医学基础.md#三免疫和疫苗) and [Antibiotics and resistance](../../../docs/08-基础科学知识/04-生物与医学基础.md#四抗生素和耐药).
 
 **Diseases that pass between birds and people**:
 
@@ -822,7 +822,7 @@ For the full requirements for disposing of animals that died of disease see [San
   under running water afterwards
 ```
 
-For handwashing see [Sanitation – How to wash](../../../docs/07-日常生活技能/03-卫生设施.md#怎么洗); for home care of fever and respiratory symptoms see [Infectious Disease at Home – Respiratory infections](../01-first-aid-and-family-health/15-infectious-disease-at-home.md#respiratory-infections).
+For handwashing see [Sanitation – How to wash](../07-everyday-living-skills/03-sanitation.md#how-to-wash); for home care of fever and respiratory symptoms see [Infectious Disease at Home – Respiratory infections](../01-first-aid-and-family-health/15-infectious-disease-at-home.md#respiratory-infections).
 
 ### Culling and replacement
 
@@ -872,7 +872,7 @@ Chicken manure is the most concentrated of farmyard manures (high in nitrogen an
   never put on the vegetable plot
 ```
 
-For composting see [Farming and Animal Husbandry – Soil improvement](README.md#improving-soil); for the hygiene rules on using manure see [Sanitation – Using faeces and urine](../../../docs/07-日常生活技能/03-卫生设施.md#粪便与尿液的利用).
+For composting see [Farming and Animal Husbandry – Soil improvement](README.md#improving-soil); for the hygiene rules on using manure see [Sanitation – Using faeces and urine](../07-everyday-living-skills/03-sanitation.md#using-faeces-and-urine).
 
 ### Slaughter and hygiene
 
@@ -930,7 +930,7 @@ Hygiene:
 ❌ Do not feed raw poultry offal to chickens or ducks (it keeps disease circulating)
 ```
 
-For preserving meat see [Food Processing and Preservation – Cured and salted meat](../../../docs/07-日常生活技能/01-食物加工与保存.md#腊肉咸肉) and [Smoking](../../../docs/07-日常生活技能/01-食物加工与保存.md#烟熏); for hygiene in cooking and storage see [Common Illnesses – Food poisoning](../01-first-aid-and-family-health/01-common-illnesses.md#food-poisoning).
+For preserving meat see [Food Processing and Preservation – Cured and salted meat](../07-everyday-living-skills/01-food-processing-and-preservation.md#cured-and-salted-pork) and [Smoking](../07-everyday-living-skills/01-food-processing-and-preservation.md#smoking); for hygiene in cooking and storage see [Common Illnesses – Food poisoning](../01-first-aid-and-family-health/01-common-illnesses.md#food-poisoning).
 
 ---
 

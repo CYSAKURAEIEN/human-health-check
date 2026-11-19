@@ -1,0 +1,171 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 972" width="720" height="972" role="img" aria-label="Biogas digester in section, and its dangers: human and animal manure and straw go in at the inlet to ferment in the sealed digester; the biogas produced (mostly methane) collects at the top of the pit and runs through the gas pipe and valve to the biogas stove; the digested slurry and liquid are taken out at the outlet and pressure chamber and make good fertiliser; keep tight lids on the inlet, outlet and pressure chamber. Never go into the pit: there is almost no oxygen inside, and highly toxic hydrogen sulphide; anyone who goes in can collapse and die within minutes; the worst case is that one person goes in and collapses, family members go in one after another to help, and all of them die. Methane at about 5%-15% in air explodes on contact with a flame: no flames or smoking near the pit opening, outlet or gas pipe, and never test for gas with a flame. Empty and clean out the pit with a pump or long-handled tools from outside; if someone really must go in for repairs, trained staff must follow the rules: open every cover and ventilate for a long time, test the air with an instrument, wear a safety rope, and have someone watching from outside. If someone has collapsed in the pit: do not go straight in to help; call 120 and 119 at once; open every cover and blow fresh air in with a blower or fan; go in to rescue only with a safety rope, professional protection (breathing apparatus) and someone above holding the rope" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Biogas digester in section, and its dangers</title>
+<defs>
+<pattern id="soil" width="16" height="16" patternUnits="userSpaceOnUse"><rect width="16" height="16" fill="#efe4cf"/><circle cx="4" cy="5" r="1.1" fill="#bba57a"/><circle cx="12" cy="12" r="1.1" fill="#bba57a"/><circle cx="11" cy="3" r="0.8" fill="#bba57a"/></pattern>
+<pattern id="slurry" width="14" height="10" patternUnits="userSpaceOnUse"><rect width="14" height="10" fill="#8a6a3a"/><circle cx="3" cy="3" r="1.2" fill="#6e5228"/><circle cx="10" cy="7" r="1.2" fill="#a2824e"/></pattern>
+<clipPath id="below"><rect x="0" y="220" width="720" height="240"/></clipPath>
+<clipPath id="pit"><path d="M190 312 Q190 256 320 252 Q450 256 450 312 V400 Q320 434 190 400 Z"/></clipPath>
+<marker id="arG" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#555"/></marker>
+<g id="noFire"><circle r="12" fill="#fff" stroke="#c33" stroke-width="2.5"/><path d="M0 7 Q-6 5 -5 -1 Q-4 -5 0 -9 Q1 -4 4 -2 Q6 3 0 7 Z" fill="#f2a33a" stroke="#c33" stroke-width="1"/><path d="M-8.5 -8.5 L8.5 8.5" stroke="#c33" stroke-width="2.5"/></g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Biogas digester (section, not to scale)</text>
+<rect x="10" y="40" width="700" height="36" rx="6" fill="#c33"/>
+<text x="360" y="64" font-size="17" font-weight="bold" fill="#fff" text-anchor="middle">⚠ Never go into the pit! Anyone who goes in can collapse and die in minutes</text>
+
+<!-- key: no naked flames -->
+<use href="#noFire" x="30" y="100"/>
+<text x="50" y="105" font-size="13">= no flames or smoking near the pit opening, outlet or gas pipe;</text>
+<text x="62" y="121" font-size="13">never test for gas with a flame</text>
+
+<!-- soil -->
+<rect x="10" y="220" width="700" height="232" fill="url(#soil)"/>
+<path d="M10 220 H710" stroke="#999" stroke-width="3"/>
+
+<!-- inlet pipe (outer wall) -->
+<g clip-path="url(#below)"><path d="M70 190 L212 378" stroke="#333" stroke-width="30"/>
+<path d="M70 190 L123.6 261" stroke="#fff" stroke-width="24"/></g>
+
+<!-- digester -->
+<path d="M190 312 Q190 256 320 252 Q450 256 450 312 V400 Q320 434 190 400 Z" fill="url(#slurry)"/>
+<rect x="180" y="240" width="280" height="60" fill="#fff4c8" clip-path="url(#pit)"/>
+<path d="M190 300 Q210 296 230 300 T270 300 T310 300 T350 300 T390 300 T430 300 T470 300" fill="none" stroke="#6e5228" stroke-width="1.5" clip-path="url(#pit)"/>
+<path d="M190 312 Q190 256 320 252 Q450 256 450 312 V400 Q320 434 190 400 Z" fill="none" stroke="#333" stroke-width="3.5"/>
+<!-- inlet pipe (inside) -->
+<path d="M123.6 261 L215.8 383" stroke="#8a6a3a" stroke-width="24"/>
+<path d="M109 261 H138" stroke="#6e5228" stroke-width="1.5"/>
+<rect x="60" y="213" width="52" height="7" fill="#999" stroke="#333" stroke-width="1.5"/>
+
+<!-- outlet / pressure chamber -->
+<rect x="444" y="352" width="46" height="30" fill="#8a6a3a"/>
+<rect x="488" y="262" width="78" height="120" fill="#8a6a3a"/>
+<path d="M450 352 H488 V220 M450 382 H488 M488 382 H566 V220" fill="none" stroke="#333" stroke-width="3.5"/>
+<path d="M489 262 H565" stroke="#6e5228" stroke-width="1.5"/>
+<rect x="482" y="213" width="90" height="7" fill="#999" stroke="#333" stroke-width="1.5"/>
+
+<!-- gas pipe -->
+<path d="M320 252 V160 H616 V192 H636" fill="none" stroke="#666" stroke-width="5" stroke-linejoin="round"/>
+<path d="M534 152 L546 160 L534 168 Z M558 152 L546 160 L558 168 Z" fill="#c9a640" stroke="#333" stroke-width="1.3"/>
+<path d="M546 160 V146 M540 146 H552" stroke="#333" stroke-width="2"/>
+
+<!-- room and stove -->
+<path d="M596 150 L655 114 L714 150" fill="none" stroke="#333" stroke-width="3" stroke-linejoin="round"/>
+<rect x="604" y="146" width="102" height="74" fill="none" stroke="#333" stroke-width="2.5"/>
+<rect x="682" y="158" width="18" height="24" fill="#e3eef8" stroke="#333" stroke-width="1.5"/>
+<path d="M684 170 H708" stroke="#0b5cad" stroke-width="1.5" marker-end="url(#arG)"/>
+<rect x="626" y="196" width="48" height="5" fill="#8b6b3e"/>
+<path d="M630 201 V220 M670 201 V220" stroke="#8b6b3e" stroke-width="3"/>
+<rect x="636" y="188" width="24" height="8" fill="#555"/>
+<path d="M642 188 Q644 180 648 176 Q652 180 654 188 Z" fill="#6aa8e8" stroke="#0b5cad" stroke-width="1"/>
+
+<!-- no-entry sign -->
+<g transform="translate(76,372)">
+<circle r="34" fill="#fff" stroke="#c33" stroke-width="5"/>
+<path d="M-10 -24 V24 M10 -24 V24 M-10 -14 H10 M-10 -2 H10 M-10 10 H10" stroke="#8b6b3e" stroke-width="2.5"/>
+<circle cx="0" cy="-18" r="5" fill="#333"/>
+<path d="M0 -13 V3 M0 3 L-6 14 M0 3 L6 12 M0 -9 L-8 -2 M0 -9 L8 -4" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+<path d="M-24 -24 L24 24" stroke="#c33" stroke-width="5"/>
+</g>
+<text x="76" y="428" font-size="14" font-weight="bold" fill="#c33" text-anchor="middle">Never go</text>
+<text x="76" y="444" font-size="14" font-weight="bold" fill="#c33" text-anchor="middle">into the pit</text>
+
+<!-- no-flame signs -->
+<use href="#noFire" x="30" y="190"/>
+<use href="#noFire" x="592" y="248"/>
+<use href="#noFire" x="300" y="190"/>
+
+<!-- labels -->
+<text x="20" y="141" font-size="13">human and animal</text>
+<text x="20" y="155" font-size="13">manure, straw</text>
+<path d="M66 160 L80 204" stroke="#555" stroke-width="2" marker-end="url(#arG)"/>
+<text x="114" y="206" font-size="14" font-weight="bold">Inlet</text>
+<text x="154" y="206" font-size="13" fill="#555">(lid on tight)</text>
+<text x="328" y="148" font-size="14" font-weight="bold">Gas pipe</text>
+<text x="330" y="186" font-size="12" fill="#555">check for leaks</text>
+<text x="330" y="201" font-size="12" fill="#555">with soapy water</text>
+<text x="532" y="140" font-size="13" text-anchor="end">valve</text>
+<text x="712" y="90" font-size="12" fill="#555" text-anchor="end">ventilate the room</text>
+<text x="712" y="104" font-size="12" fill="#555" text-anchor="end">where gas is used</text>
+<text x="676" y="214" font-size="12">stove</text>
+<text x="440" y="178" font-size="13" font-weight="bold">Outlet and</text>
+<text x="440" y="193" font-size="13" font-weight="bold">pressure chamber</text>
+<text x="488" y="208" font-size="12" fill="#555">(lid on tight)</text>
+<text x="320" y="276" font-size="13" font-weight="bold" text-anchor="middle">Biogas (mostly methane)</text>
+<text x="320" y="292" font-size="13" font-weight="bold" text-anchor="middle">collects at the top</text>
+<text x="320" y="322" font-size="15" font-weight="bold" fill="#fff" text-anchor="middle">Digester (sealed)</text>
+<text x="320" y="340" font-size="13" fill="#fff" text-anchor="middle">manure and straw ferment inside</text>
+<rect x="208" y="354" width="224" height="38" rx="4" fill="#c33"/>
+<text x="320" y="369" font-size="12" font-weight="bold" fill="#fff" text-anchor="middle">almost no oxygen, and highly</text>
+<text x="320" y="385" font-size="12" font-weight="bold" fill="#fff" text-anchor="middle">toxic hydrogen sulphide</text>
+<text x="610" y="290" font-size="12">digestate is</text>
+<text x="610" y="305" font-size="12">good fertiliser</text>
+<line x1="606" y1="296" x2="562" y2="300" stroke="#0b5cad" stroke-width="1.3"/><circle cx="562" cy="300" r="2.6" fill="#0b5cad"/>
+<text x="584" y="340" font-size="12" fill="#555">empty and clean out</text>
+<text x="584" y="355" font-size="12" fill="#555">with a pump or long-</text>
+<text x="584" y="370" font-size="12" fill="#555">handled tools from</text>
+<text x="584" y="385" font-size="12" fill="#555">outside the pit</text>
+
+<!-- danger panel -->
+<rect x="10" y="466" width="700" height="430" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="3"/>
+<path d="M10 474 Q10 466 18 466 H702 Q710 466 710 474 V502 H10 Z" fill="#c33"/>
+<text x="360" y="491" font-size="17" font-weight="bold" fill="#fff" text-anchor="middle">⚠ The dangers of a biogas digester: people die from them every year</text>
+<path d="M242 512 V886 M478 512 V886" stroke="#e8b4b4" stroke-width="1.5"/>
+<g font-size="13">
+<text x="24" y="530" font-size="15" font-weight="bold" fill="#c33">1. Suffocation, poisoning</text>
+<text x="24" y="549">There is almost no oxygen in the</text>
+<text x="24" y="568">pit, and highly toxic hydrogen</text>
+<text x="24" y="587">sulphide. Anyone who goes in can</text>
+<text x="24" y="606">collapse and die within minutes</text>
+<text x="24" y="633" font-weight="bold">The worst case: one person goes</text>
+<text x="24" y="652" font-weight="bold">in and collapses; family members</text>
+<text x="24" y="671" font-weight="bold">go in one after another to help,</text>
+<text x="24" y="690" font-weight="bold">and all of them die</text>
+<text x="24" y="725" font-size="15" font-weight="bold" fill="#c33">2. Explosion</text>
+<text x="24" y="744">At about 5%-15% methane in air,</text>
+<text x="24" y="763">a flame causes an explosion</text>
+<text x="24" y="782">Around the pit, at the outlet and</text>
+<text x="24" y="801">in a closed kitchen the gas can</text>
+<text x="24" y="820">reach this level</text>
+<text x="256" y="530" font-size="15" font-weight="bold" fill="#c33">✗ Never go into the pit!</text>
+<text x="256" y="549">Empty and clean it from outside,</text>
+<text x="256" y="568">with a pump or long-handled tools</text>
+<text x="256" y="595" font-weight="bold">If someone must go in for repairs,</text>
+<text x="256" y="614" font-weight="bold">trained staff must follow the rules:</text>
+<text x="264" y="633">· open every cover and ventilate</text>
+<text x="272" y="652">for a long time</text>
+<text x="264" y="671">· test the air with an instrument</text>
+<text x="264" y="690">· wear a safety rope</text>
+<text x="264" y="709">· someone watches from outside</text>
+<text x="256" y="736" font-weight="bold" fill="#c33">✗ No flames or smoking near the</text>
+<text x="256" y="755" font-weight="bold" fill="#c33">pit opening, outlet or gas pipe</text>
+<text x="256" y="774">Never use a flame to “see if</text>
+<text x="256" y="793">there is gas” (light it only at</text>
+<text x="256" y="812">the stove)</text>
+<text x="256" y="839">✓ Regularly check the gas pipe,</text>
+<text x="256" y="858">valve and joints for leaks with</text>
+<text x="256" y="877">soapy water</text>
+<text x="492" y="530" font-size="15" font-weight="bold" fill="#c33">Someone has collapsed</text>
+<text x="492" y="549" font-size="15" font-weight="bold" fill="#c33">in the pit</text>
+<text x="492" y="576" font-size="15" font-weight="bold" fill="#c33">1. ✗ Don't go straight in</text>
+<text x="508" y="595" font-size="15" font-weight="bold" fill="#c33">to help!</text>
+<text x="492" y="614">2. Call 120 and 119 at once</text>
+<text x="492" y="633">3. Open every cover; blow fresh</text>
+<text x="508" y="652">air in with a blower or fan</text>
+<text x="492" y="671">4. Go in to rescue only with a</text>
+<text x="508" y="690">safety rope, professional</text>
+<text x="508" y="709">protection (breathing apparatus)</text>
+<text x="508" y="728">and someone above on the rope</text>
+<text x="492" y="755" font-weight="bold">Smell of biogas (rotten eggs):</text>
+<text x="492" y="774">close the valve, open windows;</text>
+<text x="492" y="793">don't switch electrics on or off;</text>
+<text x="492" y="812">no flames</text>
+<text x="492" y="839">✓ Keep lids tight on the inlet,</text>
+<text x="492" y="858">outlet and pressure chamber so</text>
+<text x="492" y="877">children and animals can't fall in</text>
+</g>
+<text x="360" y="920" font-size="13" text-anchor="middle">Building a digester needs professional design and construction (sealing, pressure, leak-proofing):</text>
+<text x="360" y="939" font-size="13" text-anchor="middle">have a qualified team build it to the standards of the local rural energy department;</text>
+<text x="360" y="958" font-size="13" text-anchor="middle">don't dig a makeshift pit yourself</text>
+</g>
+</svg>

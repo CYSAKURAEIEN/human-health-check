@@ -1,0 +1,252 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1400" width="720" height="1400" role="img" aria-label="Soap from wood-ash lye. Principle: fat + alkali → soap + glycerol (saponification). Safety first: lye is a strongly corrosive liquid; wear goggles (lye splashed in the eyes can cause blindness), gloves and long sleeves, work outdoors or somewhere well ventilated, keep children and pets away, and have a large bucket of clean water beside you; use stainless steel, enamel, ceramic, wooden or heat-resistant plastic containers, not aluminium pans (they react with the alkali, giving off hydrogen, and corrode right through); on the skin rinse under plenty of running water for 30 minutes or more and do not neutralise with vinegar; in the eyes hold the eyelids open and rinse under running water for 30 minutes or more, on the way to hospital; if swallowed do not make the person vomit, call 120 at once. 1 Making lye: a bucket with small holes in the bottom, gravel then straw in the bottom, filled with fine white or pale grey hardwood ash; pour in rainwater or soft water that has been boiled and cooled slowly; the brown liquid that drips out is the lye; pour it back over the ash several times to make it stronger; do not use ash from painted wood, plastic, rubbish or coal. 2 Testing the strength: put in a fresh egg or a piece of potato; if it sinks the lye is too weak, boil it down over a low heat; if it floats with about a coin-sized patch showing the strength is right; if it floats too high it is too strong, add a little water. 3 Preparing the fat: boil the fat with an equal amount of water and when cool take the clean fat that sets on top. 4 Cooking: melt the fat over a low heat, slowly add the lye while stirring, starting with about as much lye as fat; keep it just bubbling over a low heat and keep stirring for several hours until it thickens like thin porridge or honey. 5 Checking it is done: a drop on a cold plate sets into a soft lump, and a little stirred into clean water dissolves with no oil floating; oil floating means not enough alkali, add more lye and keep cooking; the result is a brown, paste-like soft soap. 6 Optional, harden with salt: add a large handful of salt while hot, the soap floats to the top, scoop it into a mould and cut when cool. 7 Curing: 2-6 weeks in a dry, airy place. 8 Testing (you must do this): pH 9-10 is right, above 11 means too much alkali; only use it on your hands if the back-of-hand test gives no stinging and no redness; do not taste it with your tongue" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Soap from wood-ash lye</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<pattern id="ash" width="8" height="8" patternUnits="userSpaceOnUse"><rect width="8" height="8" fill="#ddd"/><circle cx="2" cy="2" r="0.9" fill="#999"/><circle cx="6" cy="6" r="0.9" fill="#999"/></pattern>
+<g id="egg"><ellipse rx="12" ry="15" fill="#f6ecd8" stroke="#333" stroke-width="1.5"/></g>
+<path id="jar" d="M-34 0 V82 Q-34 92 -24 92 H24 Q34 92 34 82 V0"/>
+<path id="liq" d="M-32 16 V82 Q-32 90 -24 90 H24 Q32 90 32 82 V16 Z"/>
+<g id="fire"><path d="M-22 0 Q-18 -14 -10 -6 Q-4 -18 2 -6 Q8 -16 14 -6 Q20 -12 22 0 Z" fill="#f2a33a" stroke="#c33" stroke-width="1"/></g>
+</defs>
+<g font-size="13" fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Soap from wood-ash lye</text>
+<text x="360" y="50" font-size="14" text-anchor="middle" fill="#555">fat + alkali → soap + glycerol (saponification)</text>
+
+<!-- safety -->
+<rect x="10" y="62" width="700" height="202" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="2"/>
+<text x="22" y="86" font-size="16" font-weight="bold" fill="#c33">⚠️ Safety first (read before you start): lye is a strongly corrosive liquid</text>
+<text x="22" y="110" font-size="14" font-weight="bold">Protection</text>
+<text x="22" y="130">✓ Wear goggles (lye splashed in</text>
+<text x="22" y="147">   the eyes can cause blindness)</text>
+<text x="22" y="164">✓ Wear gloves and long sleeves</text>
+<text x="22" y="181">✓ Work outdoors or somewhere</text>
+<text x="22" y="198">   well ventilated</text>
+<text x="22" y="215">✓ Keep children and pets away</text>
+<text x="22" y="232">✓ Have a large bucket of clean</text>
+<text x="22" y="249">   water ready beside you</text>
+<text x="262" y="110" font-size="14" font-weight="bold">Containers</text>
+<text x="262" y="130">✓ Stainless steel, enamel,</text>
+<text x="262" y="147">   ceramic, wooden or heat-</text>
+<text x="262" y="164">   resistant plastic</text>
+<text x="262" y="181" fill="#c33" font-weight="bold">❌ No aluminium pans:</text>
+<text x="262" y="198">   they react with the alkali,</text>
+<text x="262" y="215">   giving off hydrogen, and</text>
+<text x="262" y="232">   corrode right through</text>
+<text x="462" y="110" font-size="14" font-weight="bold">If you get it on you</text>
+<text x="462" y="130"><tspan font-weight="bold">Skin:</tspan> rinse under plenty of running</text>
+<text x="462" y="147">   water for 30+ minutes; do not</text>
+<text x="462" y="164">   neutralise it with vinegar</text>
+<text x="462" y="181"><tspan font-weight="bold">Eyes:</tspan> hold the eyelids open and</text>
+<text x="462" y="198">   rinse 30+ min under running water,</text>
+<text x="462" y="215">   keep rinsing on the way to hospital</text>
+<text x="462" y="232"><tspan font-weight="bold">Swallowed:</tspan> do not make the</text>
+<text x="462" y="249">   person vomit; call 120 at once</text>
+
+<!-- 1 making lye -->
+<g transform="translate(10,274)">
+<rect width="226" height="350" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">① Making the lye</text>
+<path d="M98 36 q-3 6 0 8 q3 -2 0 -8 Z M112 42 q-3 6 0 8 q3 -2 0 -8 Z M126 36 q-3 6 0 8 q3 -2 0 -8 Z" fill="#7aa6cc"/>
+<path d="M67.2 58 L71.8 102 H152.2 L156.8 58 Z" fill="url(#ash)"/>
+<path d="M71.8 102 L72.8 112 H151.2 L152.2 102 Z" fill="#e8cf6a"/>
+<path d="M72.8 112 L74 124 H150 L151.2 112 Z" fill="#aaa"/>
+<path d="M90 102 l8 -4 M104 106 l10 -5 M124 104 l8 4 M138 108 l8 -5" stroke="#b8962e" stroke-width="1.2"/>
+<path d="M66 44 L74 124 H150 L158 44" fill="none" stroke="#333" stroke-width="2.5"/>
+<path d="M98 130 q-3 6 0 8 q3 -2 0 -8 Z M124 136 q-3 6 0 8 q3 -2 0 -8 Z" fill="#a0723e"/>
+<path d="M82 148 H142 Q140 168 112 168 Q84 168 82 148 Z" fill="#fff" stroke="#333" stroke-width="2"/>
+<path d="M84 154 H140 Q136 166 112 166 Q88 166 84 154 Z" fill="#c8995a"/>
+<g stroke="#0b5cad" stroke-width="1"><line x1="160" y1="74" x2="140" y2="78"/><line x1="160" y1="98" x2="146" y2="107"/><line x1="160" y1="122" x2="146" y2="118"/><line x1="160" y1="158" x2="138" y2="158"/></g>
+<g font-size="12" fill="#0b5cad"><text x="164" y="78">wood ash</text><text x="164" y="100">straw</text><text x="164" y="124">gravel</text><text x="164" y="162">lye</text><text x="10" y="80">small</text><text x="10" y="94">holes in</text><text x="10" y="108">bottom</text></g>
+<line x1="58" y1="110" x2="80" y2="124" stroke="#0b5cad" stroke-width="1"/>
+<g transform="translate(0,14)">
+<text x="12" y="170">Use fine white or pale grey</text>
+<text x="12" y="187">hardwood ash; slowly pour in</text>
+<text x="12" y="204">rainwater or boiled, cooled soft</text>
+<text x="12" y="221">water; the brown liquid that</text>
+<text x="12" y="238">drips out is the lye; pour it back</text>
+<text x="12" y="255">over the ash several times to</text>
+<text x="12" y="272">make it stronger</text>
+<text x="12" y="294" fill="#c33">❌ No ash from painted wood,</text>
+<text x="12" y="311" fill="#c33">    plastic, rubbish or coal</text>
+<text x="12" y="328" fill="#c33">    (harmful substances)</text>
+</g>
+</g>
+
+<!-- 2 testing strength -->
+<g transform="translate(247,274)">
+<rect width="463" height="350" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">② Testing the strength (traditional method)</text>
+<text x="12" y="46" font-size="14" fill="#555">Put in a fresh egg or a piece of potato:</text>
+<g transform="translate(80,74)">
+<use href="#liq" fill="#e3c79a"/><use href="#egg" x="0" y="74"/><use href="#jar" fill="none" stroke="#333" stroke-width="2.5"/>
+</g>
+<g transform="translate(231,74)">
+<use href="#liq" fill="#e3c79a"/><use href="#egg" x="0" y="24"/><path d="M-32 16 H32" stroke="#a0723e" stroke-width="1.5"/><use href="#jar" fill="none" stroke="#333" stroke-width="2.5"/>
+<line x1="12" y1="12" x2="46" y2="-8" stroke="#0b5cad" stroke-width="1"/><circle cx="8" cy="13" r="2.4" fill="#0b5cad"/>
+</g>
+<g transform="translate(382,74)">
+<use href="#liq" fill="#e3c79a"/><use href="#egg" x="0" y="10"/><path d="M-32 16 H-11 M11 16 H32" stroke="#a0723e" stroke-width="1.5"/><use href="#jar" fill="none" stroke="#333" stroke-width="2.5"/>
+</g>
+<text x="80" y="196" text-anchor="middle" font-size="14" font-weight="bold">Sinks</text>
+<text x="80" y="216" text-anchor="middle">too weak;</text>
+<text x="80" y="234" text-anchor="middle">boil it down a</text>
+<text x="80" y="252" text-anchor="middle">little over a</text>
+<text x="80" y="270" text-anchor="middle">low heat</text>
+<text x="231" y="196" text-anchor="middle" font-size="14" font-weight="bold" fill="#0b5cad">✓ Right strength</text>
+<text x="231" y="216" text-anchor="middle">floats with a small</text>
+<text x="231" y="234" text-anchor="middle">patch showing</text>
+<text x="231" y="252" text-anchor="middle">(about the size</text>
+<text x="231" y="270" text-anchor="middle">of a coin)</text>
+<text x="382" y="196" text-anchor="middle" font-size="14" font-weight="bold">Floats too high</text>
+<text x="382" y="216" text-anchor="middle">too strong;</text>
+<text x="382" y="234" text-anchor="middle">add a little</text>
+<text x="382" y="252" text-anchor="middle">water</text>
+<text x="290" y="64" font-size="12" fill="#0b5cad">about coin-sized</text>
+</g>
+
+<!-- 3 preparing fat -->
+<g transform="translate(10,634)">
+<rect width="226" height="350" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">③ Preparing the fat</text>
+<path d="M30 50 V128 Q30 140 42 140 H98 Q110 140 110 128 V50" fill="#d6ebf8"/>
+<rect x="30" y="56" width="80" height="20" fill="#f3e6b0"/>
+<g fill="#6b5236"><circle cx="46" cy="134" r="2"/><circle cx="62" cy="136" r="1.6"/><circle cx="80" cy="133" r="2"/><circle cx="96" cy="136" r="1.6"/><circle cx="70" cy="131" r="1.4"/></g>
+<path d="M30 46 V128 Q30 140 42 140 H98 Q110 140 110 128 V46" fill="none" stroke="#333" stroke-width="2.5"/>
+<g stroke="#0b5cad" stroke-width="1"><line x1="122" y1="64" x2="100" y2="66"/><line x1="122" y1="132" x2="98" y2="134"/></g>
+<g font-size="12" fill="#0b5cad"><text x="126" y="56">clean fat floats</text><text x="126" y="70">to the top</text><text x="126" y="84">and sets</text><text x="126" y="124">impurities sink</text><text x="126" y="138">into the water</text></g>
+<g transform="translate(0,4)">
+<text x="12" y="168">Usable: lard, beef or mutton fat,</text>
+<text x="12" y="185">chicken fat, rapeseed oil, peanut</text>
+<text x="12" y="202">oil, used frying oil</text>
+<text x="12" y="222" fill="#555">Animal fat makes harder soap,</text>
+<text x="12" y="239" fill="#555">vegetable oil softer; strain used</text>
+<text x="12" y="256" fill="#555">oil first to remove the bits</text>
+<text x="12" y="280" font-weight="bold">Cleaning: boil the fat with an</text>
+<text x="12" y="297" font-weight="bold">equal amount of water; when</text>
+<text x="12" y="314" font-weight="bold">cool, lift off the top layer of fat</text>
+</g>
+</g>
+
+<!-- 4 cooking -->
+<g transform="translate(247,634)">
+<rect width="226" height="350" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">④ Cooking</text>
+<rect x="30" y="40" width="26" height="18" rx="2" fill="#fff" stroke="#333" stroke-width="2" transform="rotate(35 43 49)"/>
+<path d="M52 58 Q62 66 64 84" fill="none" stroke="#a0723e" stroke-width="3"/>
+<path d="M44 76 H184 V112 Q184 128 168 128 H60 Q44 128 44 112 Z" fill="#bbb" stroke="#333" stroke-width="2.5"/>
+<path d="M47 86 H181 V112 Q181 125 168 125 H60 Q47 125 47 112 Z" fill="#e6c98f"/>
+<g fill="none" stroke="#a0723e" stroke-width="1"><circle cx="80" cy="84" r="3"/><circle cx="104" cy="83" r="2.5"/><circle cx="150" cy="84" r="3"/></g>
+<path d="M170 38 L128 104" stroke="#8b6b3e" stroke-width="4" stroke-linecap="round"/>
+<path d="M176 56 Q190 72 172 84" fill="none" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<use href="#fire" x="114" y="142"/>
+<path d="M60 144 H168" stroke="#999" stroke-width="3"/>
+<g font-size="12" fill="#0b5cad"><text x="70" y="44">lye</text><text x="140" y="142">low heat</text></g>
+<text x="12" y="168">Melt the fat over a low heat;</text>
+<text x="12" y="185">slowly add the lye, stirring as</text>
+<text x="12" y="202">you go</text>
+<text x="12" y="222" font-weight="bold">Start with about as much</text>
+<text x="12" y="239" font-weight="bold">lye as fat</text>
+<text x="12" y="259">Keep it just bubbling over a</text>
+<text x="12" y="276">low heat and keep stirring;</text>
+<text x="12" y="293">this takes several hours</text>
+<text x="12" y="313">It thickens gradually, like thin</text>
+<text x="12" y="330">porridge or honey</text>
+</g>
+
+<!-- 5 checking it is done -->
+<g transform="translate(484,634)">
+<rect width="226" height="350" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">⑤ Checking it is done</text>
+<ellipse cx="58" cy="104" rx="44" ry="12" fill="#eee" stroke="#333" stroke-width="2"/>
+<path d="M44 104 Q46 88 58 88 Q70 88 72 104 Z" fill="#c8995a" stroke="#333" stroke-width="1.2"/>
+<text x="58" y="136" text-anchor="middle" font-size="12" fill="#0b5cad">cold plate:</text>
+<text x="58" y="150" text-anchor="middle" font-size="12" fill="#0b5cad">sets soft</text>
+<path d="M140 62 V116 Q140 122 146 122 H190 Q196 122 196 116 V62" fill="none" stroke="#333" stroke-width="2"/>
+<path d="M142 74 V116 Q142 120 146 120 H190 Q194 120 194 116 V74 Z" fill="#e3edf3"/>
+<path d="M142 74 H194" stroke="#7aa6cc" stroke-width="1.5"/>
+<path d="M178 46 L160 112" stroke="#8b6b3e" stroke-width="3" stroke-linecap="round"/>
+<text x="168" y="136" text-anchor="middle" font-size="12" fill="#0b5cad">clean water:</text>
+<text x="168" y="150" text-anchor="middle" font-size="12" fill="#0b5cad">no oil floats</text>
+<g transform="translate(0,6)">
+<text x="12" y="168">A drop on a cold plate sets into</text>
+<text x="12" y="185">a soft lump; a little stirred into</text>
+<text x="12" y="202">clean water dissolves with no</text>
+<text x="12" y="219">oil floating on the surface</text>
+<text x="12" y="239" fill="#c33">Oil floating → not enough</text>
+<text x="12" y="256" fill="#c33">alkali; add more lye and</text>
+<text x="12" y="273" fill="#c33">keep cooking</text>
+<text x="12" y="297" font-weight="bold">→ a brown, paste-like</text>
+<text x="12" y="314" font-weight="bold">   "soft soap"</text>
+</g>
+</g>
+
+<!-- 6 optional: harden with salt -->
+<g transform="translate(10,994)">
+<rect width="226" height="350" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="14" font-weight="bold">⑥ Optional: salt to harden it</text>
+<g fill="#fff" stroke="#888" stroke-width="1"><circle cx="64" cy="44" r="2.2"/><circle cx="74" cy="52" r="2.2"/><circle cx="60" cy="58" r="2.2"/><circle cx="70" cy="64" r="2.2"/></g>
+<text x="84" y="54" font-size="12" fill="#0b5cad">salt</text>
+<path d="M20 76 H130 V112 Q130 128 114 128 H36 Q20 128 20 112 Z" fill="#bbb" stroke="#333" stroke-width="2.5"/>
+<path d="M23 96 H127 V112 Q127 125 114 125 H36 Q23 125 23 112 Z" fill="#dfe8ec"/>
+<path d="M23 96 V86 Q30 80 40 86 Q50 78 62 86 Q74 80 86 86 Q98 78 110 86 Q120 80 127 86 V96 Z" fill="#ead7a2" stroke="#a0723e" stroke-width="1"/>
+<path d="M138 102 H162" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<rect x="168" y="92" width="44" height="30" fill="#ead7a2" stroke="#8b6b3e" stroke-width="3"/>
+<path d="M182 92 V122 M196 92 V122" stroke="#a0723e" stroke-width="1" stroke-dasharray="3 2"/>
+<text x="190" y="140" font-size="12" fill="#0b5cad" text-anchor="middle">wooden box</text>
+<text x="190" y="154" font-size="12" fill="#0b5cad" text-anchor="middle">or mould</text>
+<g transform="translate(0,6)">
+<text x="12" y="168">When the soft soap is done, stir</text>
+<text x="12" y="185">in a large handful of salt while</text>
+<text x="12" y="202">still hot</text>
+<text x="12" y="222">The soap clumps and floats to</text>
+<text x="12" y="239">the top; underneath is salt water</text>
+<text x="12" y="256">holding impurities and glycerol</text>
+<text x="12" y="276">Scoop off the soap, pour it into</text>
+<text x="12" y="293">a wooden box or mould, and cut</text>
+<text x="12" y="310">into bars when cool</text>
+</g>
+</g>
+
+<!-- 7 curing -->
+<g transform="translate(247,994)">
+<rect width="226" height="350" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">⑦ Curing</text>
+<path d="M50 70 H176 M50 112 H176 M54 70 V134 M172 70 V134" stroke="#8b6b3e" stroke-width="3"/>
+<g fill="#ead7a2" stroke="#333" stroke-width="1.3"><rect x="62" y="56" width="28" height="14"/><rect x="98" y="56" width="28" height="14"/><rect x="134" y="56" width="28" height="14"/><rect x="62" y="98" width="28" height="14"/><rect x="98" y="98" width="28" height="14"/><rect x="134" y="98" width="28" height="14"/></g>
+<g stroke="#0b5cad" stroke-width="1.5" marker-end="url(#arB)"><path d="M18 84 H46"/><path d="M18 124 H46"/><path d="M180 84 H208"/><path d="M180 124 H208"/></g>
+<text x="113" y="156" font-size="18" font-weight="bold" fill="#c33" text-anchor="middle">2-6 weeks</text>
+<text x="12" y="186">Leave in a dry, airy place for</text>
+<text x="12" y="203">2-6 weeks</text>
+<text x="12" y="223">During this time the leftover</text>
+<text x="12" y="240">alkali keeps reacting and the</text>
+<text x="12" y="257">soap becomes milder</text>
+</g>
+
+<!-- 8 testing -->
+<g transform="translate(484,994)">
+<rect width="226" height="350" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">⑧ Testing (you must)</text>
+<path d="M36 70 V122 Q36 128 42 128 H86 Q92 128 92 122 V70" fill="none" stroke="#333" stroke-width="2"/>
+<path d="M38 82 V122 Q38 126 42 126 H86 Q90 126 90 122 V82 Z" fill="#eef0e4"/>
+<rect x="66" y="42" width="10" height="70" fill="#fff" stroke="#333" stroke-width="1.3" transform="rotate(10 71 77)"/>
+<rect x="66" y="94" width="10" height="18" fill="#4f7fb8" transform="rotate(10 71 77)"/>
+<text x="106" y="64" font-size="14" font-weight="bold">pH 9-10</text>
+<text x="106" y="81" font-size="13" font-weight="bold" fill="#0b5cad">right</text>
+<text x="106" y="104" font-size="14" font-weight="bold">above 11</text>
+<text x="106" y="121" font-size="13" font-weight="bold" fill="#c33">too much alkali</text>
+<text x="12" y="168" font-weight="bold">Skin test: wash the back of</text>
+<text x="12" y="185" font-weight="bold">your hand once with a little</text>
+<text x="12" y="205">No stinging, no redness →</text>
+<text x="12" y="222">   fine for washing hands</text>
+<text x="12" y="242">Stinging, redness, slippery or</text>
+<text x="12" y="259">rough → too much alkali; only</text>
+<text x="12" y="276">for washing clothes and floors,</text>
+<text x="12" y="293">keep it off skin</text>
+<text x="12" y="318" fill="#c33" font-weight="bold">❌ Never "taste" it for alkali</text>
+</g>
+<text x="20" y="1366" font-size="13" fill="#555">Wood-ash lye is mainly potassium carbonate and potassium hydroxide, so it makes soft soap (a paste).</text>
+<text x="20" y="1386" font-size="13" fill="#555">It is not as hard as shop soap, but you use it in exactly the same way.</text>
+</g>
+</svg>

@@ -70,7 +70,7 @@ For more on choosing a shelter site, see [Basic Survival Skills – Choosing a s
 
 **If you can avoid crossing, do not cross.** Wading is one of the most underestimated dangers in the wild: fast water about 15 cm deep can knock a person over, you can barely stand in knee-deep fast water, and once you are knocked over your rucksack drags you under.
 
-If you need to cross the same river regularly over a long period, see [Vehicles, Boats and Roads](../../../docs/07-日常生活技能/18-车船与道路.md#桥) for building a bridge, making a raft or setting up a cable ferry.
+If you need to cross the same river regularly over a long period, see [Vehicles, Boats and Roads](../07-everyday-living-skills/18-vehicles-boats-and-roads.md#bridges) for building a bridge, making a raft or setting up a cable ferry.
 
 ### Deciding whether you can cross
 

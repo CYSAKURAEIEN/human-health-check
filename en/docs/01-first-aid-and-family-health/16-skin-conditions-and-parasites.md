@@ -166,7 +166,7 @@ What to do:
 - ❌ Do not squeeze them, especially around the nose and upper lip (the "danger triangle"; squeezing can carry the infection into the skull)
 - Keeps coming back, spreading, or with fever → see a doctor
 
-For danger signs of serious infections such as cellulitis, see [Antibiotic preparation - natural antibacterial substances](../../../docs/06-制药技术/02-抗生素制备.md#三天然抗菌物质).
+For danger signs of serious infections such as cellulitis, see [Antibiotic preparation - natural antibacterial substances](../06-pharmaceuticals/02-antibiotics.md#3-natural-antibacterial-substances).
 
 ---
 

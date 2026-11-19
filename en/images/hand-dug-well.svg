@@ -1,0 +1,239 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1384" width="720" height="1384" role="img" aria-label="Hand-dug well in section, and safety: the well is about 1-1.5 m in diameter; line it as you dig, building a ring about every 1 m; seal the top 1-2 m of the shaft wall with mortar or clay; dig 1-2 m below the lowest dry-season water table, and line the water-bearing layer with dry-laid brick or stone or with rings that have holes, so water can seep in; lay coarse sand and gravel on the bottom; raise the well head above the ground, build a watertight apron round it sloping outwards, and cover the well; latrines, cesspits, animal pens and rubbish pits must be at least 30 m from the well and downhill of it. Dangers of digging: collapse, lack of oxygen and toxic gas, falling objects, falls; before going down, lower a lit oil lamp or candle to the bottom on a rope: if the flame weakens or goes out there is not enough oxygen, never go down; blow air in to ventilate; the person going down wears a safety rope, at least two people watch at the top, wear a helmet; if someone collapses, do not climb straight down to help. Disinfecting the well: add about 50-100 g of available chlorine per 1000 L of water (about 1-2 L of 84 bleach), leave for at least 12 hours, then draw water until there is no obvious chlorine smell" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Hand-dug well in section, and safety</title>
+<defs>
+<pattern id="soil" width="16" height="16" patternUnits="userSpaceOnUse"><rect width="16" height="16" fill="#f3ead8"/><circle cx="4" cy="5" r="1" fill="#c9b48a"/><circle cx="12" cy="12" r="1" fill="#c9b48a"/></pattern>
+<pattern id="wet" width="16" height="16" patternUnits="userSpaceOnUse"><rect width="16" height="16" fill="#e3eef5"/><circle cx="4" cy="5" r="1" fill="#9db8c9"/><circle cx="12" cy="12" r="1" fill="#9db8c9"/></pattern>
+<pattern id="brick" width="12" height="10" patternUnits="userSpaceOnUse"><rect width="12" height="10" fill="#c98b6b"/><path d="M0 9.5 L12 9.5 M6 0 L6 5" stroke="#eee" stroke-width="1"/></pattern>
+<pattern id="dry" width="12" height="12" patternUnits="userSpaceOnUse"><rect width="12" height="12" fill="#d8ebf7"/><rect x="0" y="0" width="12" height="7" fill="#c98b6b" stroke="#333" stroke-width="0.6"/></pattern>
+<pattern id="seal" width="6" height="6" patternUnits="userSpaceOnUse"><rect width="6" height="6" fill="#b8b8b8"/><circle cx="3" cy="3" r="0.8" fill="#777"/></pattern>
+<pattern id="gravel" width="12" height="8" patternUnits="userSpaceOnUse"><rect width="12" height="8" fill="#d8ebf7"/><g fill="#bdbdbd" stroke="#666" stroke-width="0.7"><ellipse cx="3" cy="4" rx="3" ry="2.2"/><ellipse cx="9" cy="5" rx="2.6" ry="2"/></g></pattern>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<marker id="arB0" viewBox="0 0 10 10" refX="2" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M10 0 L0 5 L10 10 Z" fill="#0b5cad"/></marker>
+</defs>
+<g fill="#222">
+<text x="360" y="30" font-size="18" font-weight="bold" text-anchor="middle">Hand-dug well in section (schematic, not to scale)</text>
+
+<!-- ground and soil -->
+<path d="M20 200 L440 200 L540 250 L700 250 L700 440 L20 440 Z" fill="url(#soil)"/>
+<rect x="20" y="440" width="680" height="120" fill="url(#wet)"/>
+<path d="M20 200 L440 200 L540 250 L700 250" fill="none" stroke="#999" stroke-width="2.5"/>
+<path d="M20 440 L700 440" stroke="#0b5cad" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="695" y="432" font-size="14" fill="#0b5cad" text-anchor="end">lowest dry-season water table</text>
+
+<!-- shaft -->
+<rect x="215" y="200" width="70" height="330" fill="#fff"/>
+<rect x="215" y="440" width="70" height="74" fill="#d8ebf7"/>
+<path d="M215 440 L285 440" stroke="#0b5cad" stroke-width="1.5"/>
+<rect x="215" y="514" width="70" height="16" fill="url(#gravel)"/>
+<!-- lining: sealed top + curb, mortared rings, dry-laid bottom -->
+<rect x="203" y="160" width="12" height="110" fill="url(#seal)"/>
+<rect x="285" y="160" width="12" height="110" fill="url(#seal)"/>
+<rect x="203" y="270" width="12" height="170" fill="url(#brick)"/>
+<rect x="285" y="270" width="12" height="170" fill="url(#brick)"/>
+<rect x="203" y="440" width="12" height="90" fill="url(#dry)"/>
+<rect x="285" y="440" width="12" height="90" fill="url(#dry)"/>
+<path d="M203 160 L203 530 L297 530 L297 160 M215 160 L215 530 M285 160 L285 530" fill="none" stroke="#333" stroke-width="2"/>
+<g stroke="#333" stroke-width="2"><path d="M203 320 L215 320 M285 320 L297 320 M203 370 L215 370 M285 370 L297 370 M203 420 L215 420 M285 420 L297 420"/></g>
+<!-- apron -->
+<path d="M203 186 L118 197 L118 202 L203 202 Z" fill="#a8a8a8" stroke="#333" stroke-width="1.5"/>
+<path d="M297 186 L382 197 L382 202 L297 202 Z" fill="#a8a8a8" stroke="#333" stroke-width="1.5"/>
+<path d="M190 182 L140 188" stroke="#0b5cad" stroke-width="1.5" marker-end="url(#arB)"/>
+<path d="M310 182 L360 188" stroke="#0b5cad" stroke-width="1.5" marker-end="url(#arB)"/>
+<!-- cover -->
+<rect x="196" y="149" width="108" height="11" fill="#c8a46e" stroke="#333" stroke-width="2"/>
+<path d="M240 149 L240 142 L260 142 L260 149" fill="none" stroke="#333" stroke-width="2"/>
+<!-- seepage arrows -->
+<g stroke="#0b5cad" stroke-width="1.6" fill="none"><path d="M318 470 L292 470" marker-end="url(#arB)"/><path d="M318 500 L292 500" marker-end="url(#arB)"/></g>
+<!-- diameter -->
+<path d="M219 300 L281 300" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<text x="310" y="296" font-size="15">diameter about 1-1.5 m</text>
+<text x="310" y="315" font-size="13" fill="#555">(room for one person to work)</text>
+
+<!-- latrine downhill -->
+<rect x="605" y="196" width="60" height="54" fill="#fff" stroke="#333" stroke-width="2"/>
+<path d="M598 198 L635 176 L672 198 Z" fill="#cfcfcf" stroke="#333" stroke-width="2"/>
+<rect x="626" y="214" width="18" height="36" fill="#e6e6e6" stroke="#333" stroke-width="1.5"/>
+<rect x="615" y="250" width="40" height="44" fill="#fff" stroke="#333" stroke-width="2"/>
+<rect x="616" y="276" width="38" height="17" fill="#a98a5a"/>
+<text x="635" y="318" font-size="14" text-anchor="middle">latrine</text>
+<!-- 30 m dimension -->
+<path d="M250 140 L250 104 M635 170 L635 104" stroke="#0b5cad" stroke-width="1" stroke-dasharray="3 3"/>
+<path d="M254 110 L631 110" stroke="#c33" stroke-width="2" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<text x="442" y="80" font-size="14" fill="#c33" font-weight="bold" text-anchor="middle">at least 30 m from latrines, cesspits,</text>
+<text x="442" y="98" font-size="14" fill="#c33" font-weight="bold" text-anchor="middle">animal pens and rubbish pits</text>
+<text x="442" y="130" font-size="14" fill="#c33" text-anchor="middle">well uphill, latrine downhill of the well</text>
+<path d="M470 222 L520 247" stroke="#888" stroke-width="1.5" marker-end="url(#arB)"/>
+<text x="512" y="224" font-size="13" fill="#555">downhill</text>
+
+<!-- left labels -->
+<text x="20" y="62" font-size="14">Cover the well: keep out people,</text>
+<text x="20" y="80" font-size="14">animals, rubbish and rain</text>
+<line x1="150" y1="90" x2="212" y2="150" stroke="#0b5cad" stroke-width="1.3"/><circle cx="212" cy="152" r="2.6" fill="#0b5cad"/>
+<text x="20" y="146" font-size="13">well head raised</text>
+<text x="20" y="162" font-size="13">above ground</text>
+<line x1="118" y1="157" x2="203" y2="172" stroke="#0b5cad" stroke-width="1.3"/><circle cx="203" cy="172" r="2.6" fill="#0b5cad"/>
+
+<path d="M196 204 L190 204 L190 268 L196 268" fill="none" stroke="#0b5cad" stroke-width="1.5"/>
+<g font-size="13" text-anchor="end">
+<text x="182" y="212">Top 1-2 m of the</text>
+<text x="182" y="228">shaft wall sealed</text>
+<text x="182" y="244">(mortar or clay) so</text>
+<text x="182" y="260">dirty surface water</text>
+<text x="182" y="276">can't seep down</text>
+<text x="182" y="292">the wall</text>
+</g>
+
+<path d="M196 300 L190 300 L190 436 L196 436" fill="none" stroke="#0b5cad" stroke-width="1.5"/>
+<g font-size="13" text-anchor="end">
+<text x="182" y="320">Line as you dig:</text>
+<text x="182" y="336">about every 1 m,</text>
+<text x="182" y="352">build a ring of</text>
+<text x="182" y="368">brick, stone or</text>
+<text x="182" y="384">concrete; in soft</text>
+<text x="182" y="400">ground, line it</text>
+<text x="182" y="416">without delay</text>
+
+<text x="182" y="464">In the water-bearing</text>
+<text x="182" y="480">layer: dry-laid brick</text>
+<text x="182" y="496">or stone, or rings</text>
+<text x="182" y="512">with holes, so water</text>
+<text x="182" y="528">can seep in</text>
+</g>
+
+<!-- right labels -->
+<path d="M304 444 L310 444 L310 528 L304 528" fill="none" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="330" y="462" font-size="14">Dig below the water</text>
+<text x="330" y="480" font-size="14">table, then 1-2 m</text>
+<text x="330" y="498" font-size="14">deeper, so there is</text>
+<text x="330" y="516" font-size="14">water all year round</text>
+<text x="330" y="542" font-size="13">Coarse sand and gravel on the bottom: less mud</text>
+<text x="330" y="557" font-size="13">is stirred up when drawing water</text>
+<line x1="326" y1="538" x2="272" y2="524" stroke="#0b5cad" stroke-width="1.3"/><circle cx="272" cy="523" r="2.6" fill="#0b5cad"/>
+<text x="324" y="152" font-size="13">Apron: watertight (cement, stone slabs,</text>
+<text x="324" y="167" font-size="13">rammed clay), sloping outwards so</text>
+<text x="324" y="182" font-size="13">spilt water and rain run away</text>
+<line x1="330" y1="186" x2="350" y2="192" stroke="#0b5cad" stroke-width="1.3"/><circle cx="352" cy="193" r="2.6" fill="#0b5cad"/>
+
+<rect x="20" y="568" width="680" height="46" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="360" y="587" font-size="14" text-anchor="middle">Finally build the apron and cover, and fit a windlass or hand pump;</text>
+<text x="360" y="605" font-size="14" text-anchor="middle">clean and disinfect a new well before use (see below)</text>
+
+<g transform="translate(0,14)">
+<!-- danger panel -->
+<rect x="20" y="612" width="680" height="474" rx="6" fill="#fff8f8" stroke="#c33" stroke-width="2"/>
+<text x="360" y="636" font-size="16" font-weight="bold" fill="#c33" text-anchor="middle">⚠ Dangers of digging a well: collapse, lack of oxygen and</text>
+<text x="360" y="655" font-size="16" font-weight="bold" fill="#c33" text-anchor="middle">toxic gas, falling objects, falls</text>
+<text x="360" y="677" font-size="13" text-anchor="middle">Carbon dioxide (heavier than air) and hydrogen sulphide can collect at the bottom;</text>
+<text x="360" y="694" font-size="13" text-anchor="middle">anyone who goes down can pass out and die within minutes</text>
+<line x1="360" y1="706" x2="360" y2="1050" stroke="#e5b5b5" stroke-width="1"/>
+<line x1="30" y1="894" x2="690" y2="894" stroke="#e5b5b5" stroke-width="1"/>
+
+<g transform="translate(0,26)">
+<!-- cell 1: flame test -->
+<path d="M36 700 L150 700" stroke="#999" stroke-width="2"/>
+<path d="M50 700 L50 800 L82 800 L82 700 M104 700 L104 800 L136 800 L136 700" fill="none" stroke="#333" stroke-width="2"/>
+<rect x="105" y="782" width="30" height="17" fill="#ddd"/>
+<path d="M66 686 L66 774 M120 686 L120 774" stroke="#8a6a3a" stroke-width="1.3"/>
+<rect x="62" y="774" width="8" height="18" fill="#f5f0dc" stroke="#333" stroke-width="1.2"/>
+<path d="M66 772 Q60 764 66 754 Q72 764 66 772 Z" fill="#f0a030" stroke="#c33" stroke-width="1"/>
+<rect x="116" y="774" width="8" height="18" fill="#f5f0dc" stroke="#333" stroke-width="1.2"/>
+<path d="M120 772 Q118 769 120 766 Q122 769 120 772 Z" fill="#f0a030"/>
+<path d="M120 764 q-4 -6 0 -12 q4 -6 0 -12" fill="none" stroke="#999" stroke-width="1.2"/>
+<text x="66" y="818" font-size="13" fill="#555" text-anchor="middle">normal</text>
+<text x="120" y="818" font-size="12" fill="#c33" text-anchor="middle">weak / out</text>
+<text x="160" y="696" font-size="15" font-weight="bold">① Flame test first</text>
+<text x="160" y="716" font-size="13">Lower a lit oil lamp or candle</text>
+<text x="160" y="733" font-size="13">on a rope to the bottom:</text>
+<text x="160" y="753" font-size="13" fill="#c33" font-weight="bold">flame weakens or goes out</text>
+<text x="160" y="770" font-size="13" fill="#c33" font-weight="bold">→ not enough oxygen:</text>
+<text x="160" y="787" font-size="13" fill="#c33" font-weight="bold">never go down</text>
+<text x="160" y="807" font-size="12" fill="#555">A normal flame does not fully</text>
+<text x="160" y="822" font-size="12" fill="#555">guarantee safety; use a gas</text>
+<text x="160" y="837" font-size="12" fill="#555">detector if you have one</text>
+
+<!-- cell 2: ventilation -->
+<path d="M368 712 L478 712" stroke="#999" stroke-width="2"/>
+<path d="M402 712 L402 812 L442 812 L442 712" fill="none" stroke="#333" stroke-width="2"/>
+<path d="M376 680 L404 690 L404 698 L376 708 Z" fill="#e8d3b0" stroke="#333" stroke-width="1.5"/>
+<path d="M382 682 L386 694 L382 706 M390 685 L394 694 L390 703 M397 688 L400 694 L397 700" fill="none" stroke="#8a6a3a" stroke-width="1.2"/>
+<path d="M370 676 L404 688 M370 712 L404 700" stroke="#333" stroke-width="3"/>
+<path d="M404 694 L414 694 L420 708" fill="none" stroke="#333" stroke-width="3"/>
+<text x="385" y="730" font-size="13" fill="#555" text-anchor="middle">bellows</text>
+<g stroke="#0b5cad" stroke-width="2" fill="none" stroke-dasharray="5 4"><path d="M418 712 L418 796" marker-end="url(#arB)"/><path d="M432 800 L432 722" marker-end="url(#arB)"/></g>
+<text x="492" y="696" font-size="15" font-weight="bold">② Blow air in first</text>
+<text x="492" y="716" font-size="13">Use a fan, bellows, or a large</text>
+<text x="492" y="733" font-size="13">cloth raised and lowered again</text>
+<text x="492" y="750" font-size="13">and again, to blow air down</text>
+<text x="492" y="774" font-size="13" fill="#c33" font-weight="bold">Never use a petrol engine or</text>
+<text x="492" y="791" font-size="13" fill="#c33" font-weight="bold">generator in or near the well</text>
+<text x="492" y="808" font-size="13" fill="#c33">(carbon monoxide)</text>
+</g>
+
+<g transform="translate(0,64)">
+<!-- cell 3: rope + two watchers + helmet -->
+<path d="M36 868 L76 868 M116 868 L152 868" stroke="#999" stroke-width="2"/>
+<path d="M76 868 L76 978 M116 868 L116 978" stroke="#333" stroke-width="2"/>
+<g stroke="#333" stroke-width="1.8" fill="#cfe0f0">
+<circle cx="48" cy="836" r="6" fill="#f3e3d3"/><rect x="42" y="843" width="12" height="15" rx="4"/><path d="M45 858 L43 868 M51 858 L53 868" fill="none"/>
+<circle cx="140" cy="836" r="6" fill="#f3e3d3"/><rect x="134" y="843" width="12" height="15" rx="4"/><path d="M137 858 L135 868 M143 858 L145 868" fill="none"/>
+</g>
+<path d="M54 850 L78 866 L96 934 M134 850 L114 866" fill="none" stroke="#8a6a3a" stroke-width="1.5"/>
+<g stroke="#333" stroke-width="1.8">
+<circle cx="96" cy="928" r="6" fill="#f3e3d3"/><path d="M89 926 A7 7 0 0 1 103 926 Z" fill="#e0a020"/><rect x="90" y="935" width="12" height="16" rx="4" fill="#cfe0f0"/><path d="M93 951 L91 962 M99 951 L101 962" fill="none"/>
+</g>
+<path d="M90 941 L102 941" stroke="#8a6a3a" stroke-width="2"/>
+<text x="160" y="852" font-size="15" font-weight="bold">③ Rope and watchers</text>
+<text x="160" y="872" font-size="13">The person going down wears a</text>
+<text x="160" y="889" font-size="13">safety rope; at least two people</text>
+<text x="160" y="906" font-size="13">watch at the top, ready to pull</text>
+<text x="160" y="923" font-size="13">them up at any time; the person</text>
+<text x="160" y="940" font-size="13">below wears a helmet; keep tools</text>
+<text x="160" y="957" font-size="13">and loose stones away from the</text>
+<text x="160" y="974" font-size="13">well head (falling objects)</text>
+
+<!-- cell 4: collapsed person -->
+<path d="M368 868 L400 868 M450 868 L478 868" stroke="#999" stroke-width="2"/>
+<path d="M400 868 L400 978 L450 978 L450 868" fill="none" stroke="#333" stroke-width="2"/>
+<g stroke="#333" stroke-width="1.8"><circle cx="410" cy="970" r="5.5" fill="#f3e3d3"/><rect x="417" y="965" width="26" height="11" rx="4" fill="#cfe0f0"/></g>
+<path d="M432 852 L432 950" stroke="#8a6a3a" stroke-width="1.5"/>
+<path d="M432 950 L432 958 Q432 964 426 963" fill="none" stroke="#333" stroke-width="2"/>
+<text x="492" y="852" font-size="15" font-weight="bold" fill="#c33">④ Someone passes out</text>
+<text x="492" y="872" font-size="13" fill="#c33" font-weight="bold">Never climb straight down</text>
+<text x="492" y="889" font-size="13" fill="#c33" font-weight="bold">to help!</text>
+<text x="492" y="910" font-size="13">Blow air in first, and go down only</text>
+<text x="492" y="927" font-size="13">with a safety rope; or pull them up</text>
+<text x="492" y="944" font-size="13">with a rope and hook</text>
+<text x="492" y="964" font-size="12" fill="#555">Rescuers who go down often die</text>
+<text x="492" y="979" font-size="12" fill="#555">one after another</text>
+</g>
+
+<text x="360" y="1072" font-size="14" text-anchor="middle">Preventing collapse: line the walls as you dig; in soft ground, line them without delay</text>
+
+<g transform="translate(0,64)">
+<!-- disinfection panel -->
+<rect x="20" y="1036" width="680" height="258" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="360" y="1062" font-size="16" font-weight="bold" text-anchor="middle">Disinfecting a well (new, flooded, or suspected of contamination)</text>
+<path d="M60 1100 L60 1200 A45 10 0 0 0 150 1200 L150 1100" fill="#fff" stroke="#333" stroke-width="2"/>
+<path d="M60 1130 A45 10 0 0 0 150 1130 L150 1200 A45 10 0 0 1 60 1200 Z" fill="#d8ebf7"/>
+<ellipse cx="105" cy="1130" rx="45" ry="10" fill="#c4def0" stroke="#0b5cad" stroke-width="1.2"/>
+<path d="M60 1100 L60 1200 A45 10 0 0 0 150 1200 L150 1100" fill="none" stroke="#333" stroke-width="2"/>
+<ellipse cx="105" cy="1100" rx="45" ry="10" fill="none" stroke="#333" stroke-width="2"/>
+<path d="M105 1130 L148 1130" stroke="#c33" stroke-width="1.8"/>
+<circle cx="105" cy="1130" r="2.5" fill="#c33"/>
+<text x="126" y="1150" font-size="13" fill="#c33" text-anchor="middle">radius</text>
+<path d="M48 1132 L48 1208" stroke="#c33" stroke-width="1.5" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<text x="44" y="1176" font-size="13" fill="#c33" text-anchor="end">depth</text>
+<text x="166" y="1092" font-size="14">1. Estimate the volume:</text>
+<text x="184" y="1110" font-size="14">volume (L) ≈ 3.14 × radius² (m²) × water depth (m) × 1000</text>
+<text x="184" y="1128" font-size="13" fill="#555">e.g. radius 0.6 m, depth 2 m → about 3.14 × 0.36 × 2 × 1000 ≈ 2260 L</text>
+<text x="166" y="1152" font-size="14">2. Add about 50-100 g of available chlorine per 1000 L of water</text>
+<text x="184" y="1170" font-size="13" fill="#555">(e.g. “84” bleach is about 5% available chlorine: about 1-2 L)</text>
+<text x="184" y="1188" font-size="13" fill="#555">Dilute it in a bucket of water first, pour it into the well, stir the water</text>
+<text x="166" y="1212" font-size="14">3. Leave for at least 12 hours; <tspan fill="#c33" font-weight="bold">don't draw water meanwhile</tspan></text>
+<text x="166" y="1236" font-size="14">4. Then pump or draw water out until there is no obvious</text>
+<text x="184" y="1254" font-size="14">chlorine smell; only then use the well</text>
+<text x="166" y="1278" font-size="13">5. Afterwards, still boil drinking water or disinfect it at the normal dose</text>
+</g>
+</g>
+</g></svg>

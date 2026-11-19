@@ -380,7 +380,7 @@ Brown rice / paddy rice keeps 1-2 years
 - Brown and white rice go stale and get insects easily after milling; do not mill too much at once
 ```
 
-For judging ripeness, threshing and drying, see [Grain and oil processing - Harvest](../../../docs/07-日常生活技能/14-粮油加工.md#收获-什么时候割怎么割) and [Drying to a safe moisture content](../../../docs/07-日常生活技能/14-粮油加工.md#干燥到安全水分); for husking and milling, see [Rice - Husking and milling](../../../docs/07-日常生活技能/14-粮油加工.md#稻谷-去壳和碾米).
+For judging ripeness, threshing and drying, see [Grain and oil processing - Harvest](../07-everyday-living-skills/14-grain-and-oil-processing.md#harvest-when-and-how-to-cut) and [Drying to a safe moisture content](../07-everyday-living-skills/14-grain-and-oil-processing.md#drying-to-a-safe-moisture-content); for husking and milling, see [Rice - Husking and milling](../07-everyday-living-skills/14-grain-and-oil-processing.md#rice-hulling-and-milling).
 
 ---
 
@@ -626,7 +626,7 @@ Drying:
 ✓ Keeps 1-2 years
 ```
 
-For judging when to cut, threshing and drying, see [Grain and oil processing - Harvest](../../../docs/07-日常生活技能/14-粮油加工.md#收获-什么时候割怎么割); for milling flour, see [Wheat - Stone milling](../../../docs/07-日常生活技能/14-粮油加工.md#小麦-石磨磨面).
+For judging when to cut, threshing and drying, see [Grain and oil processing - Harvest](../07-everyday-living-skills/14-grain-and-oil-processing.md#harvest-when-and-how-to-cut); for milling flour, see [Wheat - Stone milling](../07-everyday-living-skills/14-grain-and-oil-processing.md#wheat-grinding-flour-with-a-millstone).
 
 ---
 
@@ -859,7 +859,7 @@ Kernels:
    feed it to livestock (aflatoxin, not destroyed by heating)
 ```
 
-For shelling and grinding, see [Grain and oil processing - Maize](../../../docs/07-日常生活技能/14-粮油加工.md#玉米). **If maize is your main staple for a long time, first boil it with lime water or plant-ash lye**, or pellagra can easily result; see [Nutrition and deficiency diseases - Niacin](../../../docs/07-日常生活技能/02-营养与营养缺乏病.md#烟酸-吃玉米要用碱处理). For mould, see [Food processing and preservation - Aflatoxin](../../../docs/07-日常生活技能/01-食物加工与保存.md#黄曲霉毒素).
+For shelling and grinding, see [Grain and oil processing - Maize](../07-everyday-living-skills/14-grain-and-oil-processing.md#maize). **If maize is your main staple for a long time, first boil it with lime water or plant-ash lye**, or pellagra can easily result; see [Nutrition and deficiency diseases - Niacin](../07-everyday-living-skills/02-nutrition-and-deficiency-diseases.md#niacin-treat-maize-with-alkali-before-eating-it). For mould, see [Food processing and preservation - Aflatoxin](../07-everyday-living-skills/01-food-processing-and-preservation.md#aflatoxin).
 
 ---
 
@@ -934,7 +934,7 @@ with crinkled, mottled leaves, and yield falls year by year
   from cool high-altitude areas
 ```
 
-For saving seed potatoes, see [Seed saving and breeding - Potatoes and sweet potatoes](08-seed-saving-and-breeding.md#potato-and-sweet-potato-propagating-from-tubers); for cellar storage, see [Food processing and preservation - Cellar storage](../../../docs/07-日常生活技能/01-食物加工与保存.md#窖藏).
+For saving seed potatoes, see [Seed saving and breeding - Potatoes and sweet potatoes](08-seed-saving-and-breeding.md#potato-and-sweet-potato-propagating-from-tubers); for cellar storage, see [Food processing and preservation - Cellar storage](../07-everyday-living-skills/01-food-processing-and-preservation.md#cellar-storage).
 
 ---
 
@@ -1007,7 +1007,7 @@ Storage:
 - When storing large amounts is not practical, cut them into slices and sun-dry them, or grind them into flour
 ```
 
-For overwintering seed roots for slips, see [Seed saving and breeding - Potatoes and sweet potatoes](08-seed-saving-and-breeding.md#potato-and-sweet-potato-propagating-from-tubers); for storage temperatures of roots and other vegetables, see [Food processing and preservation - Storage conditions for vegetables](../../../docs/07-日常生活技能/01-食物加工与保存.md#各类蔬菜的储存条件).
+For overwintering seed roots for slips, see [Seed saving and breeding - Potatoes and sweet potatoes](08-seed-saving-and-breeding.md#potato-and-sweet-potato-propagating-from-tubers); for storage temperatures of roots and other vegetables, see [Food processing and preservation - Storage conditions for vegetables](../07-everyday-living-skills/01-food-processing-and-preservation.md#storage-conditions-for-different-vegetables).
 
 ---
 
@@ -1101,7 +1101,7 @@ Conditions for good nodules:
 ✓ Well-aerated soil, not waterlogged for long
 ```
 
-For improving acid soil, see [Lime and building materials - Improving acid soil](../../../docs/07-日常生活技能/16-石灰与建筑材料.md#改良酸性土); for testing acidity, see [Geology, minerals and soil - Acidity and alkalinity](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#53-酸碱性).
+For improving acid soil, see [Lime and building materials - Improving acid soil](../07-everyday-living-skills/16-lime-and-building-materials.md#improving-acid-soil); for testing acidity, see [Geology, minerals and soil - Acidity and alkalinity](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#53-酸碱性).
 
 ```
 Pests, diseases and continuous cropping:
@@ -1134,7 +1134,7 @@ Dry, then thresh and store
    Beware of "false boiling" with soya milk – keep it boiling for a few more minutes after it boils
 ```
 
-For making tofu and soya milk, see [Food processing and preservation - Tofu](../../../docs/07-日常生活技能/01-食物加工与保存.md#豆腐); for threshing and storing beans, see [Grain and oil processing - Beans](../../../docs/07-日常生活技能/14-粮油加工.md#豆类); for the role of beans in the diet, see [Nutrition and deficiency diseases - Protein](../../../docs/07-日常生活技能/02-营养与营养缺乏病.md#蛋白质-豆类是最重要的植物蛋白).
+For making tofu and soya milk, see [Food processing and preservation - Tofu](../07-everyday-living-skills/01-food-processing-and-preservation.md#tofu); for threshing and storing beans, see [Grain and oil processing - Beans](../07-everyday-living-skills/14-grain-and-oil-processing.md#pulses); for the role of beans in the diet, see [Nutrition and deficiency diseases - Protein](../07-everyday-living-skills/02-nutrition-and-deficiency-diseases.md#protein-beans-are-the-most-important-plant-protein).
 
 ---
 
@@ -1214,7 +1214,7 @@ Tannin:
 - White and light sorghum taste better and suit food use, but suffer more from birds
 ```
 
-For dehulling and eating, see [Grain and oil processing - Coarse grains](../../../docs/07-日常生活技能/14-粮油加工.md#杂粮).
+For dehulling and eating, see [Grain and oil processing - Coarse grains](../07-everyday-living-skills/14-grain-and-oil-processing.md#minor-grains).
 
 ---
 
@@ -1286,7 +1286,7 @@ For the first few years after a disaster, plan on the "low input" column:
    grown or two crops a year are possible
 ```
 
-For working out how long stocks will last, see [Record-keeping, trade and division of labour - Working out how long it will last](../../../docs/07-日常生活技能/13-记账交易与社会分工.md#算一算够用多久).
+For working out how long stocks will last, see [Record-keeping, trade and division of labour - Working out how long it will last](../07-everyday-living-skills/13-record-keeping-trade-and-division-of-labour.md#working-out-how-long-it-will-last).
 
 ### Self-sufficiency plan (family of 4)
 
@@ -1391,7 +1391,7 @@ Reading leaf colour to find what is lacking:
 - Acid soil (many crops grow poorly, beans have few nodules) → spread lime to improve it
 ```
 
-For the safe use of human waste, see [Sanitation - Using faeces and urine](../../../docs/07-日常生活技能/03-卫生设施.md#粪便与尿液的利用); for how to make compost, see [Farming and animal husbandry - Soil improvement](README.md#improving-soil); for liming soil, see [Lime and building materials - Improving acid soil](../../../docs/07-日常生活技能/16-石灰与建筑材料.md#改良酸性土); for the chemistry of nitrogen fertiliser, see [Chemistry - Nitrogen fertiliser and ammonia synthesis](../../../docs/08-基础科学知识/03-化学.md#410-氮肥和合成氨); for soil conservation, see [Geology, minerals and soil - Protecting the soil](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#55-保护土壤).
+For the safe use of human waste, see [Sanitation - Using faeces and urine](../07-everyday-living-skills/03-sanitation.md#using-faeces-and-urine); for how to make compost, see [Farming and animal husbandry - Soil improvement](README.md#improving-soil); for liming soil, see [Lime and building materials - Improving acid soil](../07-everyday-living-skills/16-lime-and-building-materials.md#improving-acid-soil); for the chemistry of nitrogen fertiliser, see [Chemistry - Nitrogen fertiliser and ammonia synthesis](../../../docs/08-基础科学知识/03-化学.md#410-氮肥和合成氨); for soil conservation, see [Geology, minerals and soil - Protecting the soil](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#55-保护土壤).
 
 ### Principles of pest and disease control
 
@@ -1444,7 +1444,7 @@ Note:
 - Save at least one extra season's seed, in case you must re-sow after a disaster
 ```
 
-For seed-saving methods for each crop, isolation distances and germination tests, see [Seed saving and breeding](08-seed-saving-and-breeding.md); for threshing, winnowing, milling rice and grinding flour, see [Grain and oil processing](../../../docs/07-日常生活技能/14-粮油加工.md).
+For seed-saving methods for each crop, isolation distances and germination tests, see [Seed saving and breeding](08-seed-saving-and-breeding.md); for threshing, winnowing, milling rice and grinding flour, see [Grain and oil processing](../07-everyday-living-skills/14-grain-and-oil-processing.md).
 
 ### Storage essentials
 
@@ -1476,7 +1476,7 @@ Note:
 - ☠️ Do not fumigate grain yourself with aluminium phosphide tablets (they release a highly toxic gas)
 ```
 
-For judging dryness, airtight oxygen-free storage, low-temperature insect control and other methods, see [Grain and oil processing - Drying to a safe moisture content](../../../docs/07-日常生活技能/14-粮油加工.md#干燥到安全水分) and [Grain storage - Preventing mould and insects](../../../docs/07-日常生活技能/14-粮油加工.md#储粮-防霉和防虫).
+For judging dryness, airtight oxygen-free storage, low-temperature insect control and other methods, see [Grain and oil processing - Drying to a safe moisture content](../07-everyday-living-skills/14-grain-and-oil-processing.md#drying-to-a-safe-moisture-content) and [Grain storage - Preventing mould and insects](../07-everyday-living-skills/14-grain-and-oil-processing.md#storing-grain-preventing-mould-and-insects).
 
 ### Tools and equipment
 
@@ -1499,7 +1499,7 @@ Next level:
 - Tarpaulins, straw mats (keeping rain off the drying floor)
 ```
 
-For repairing and sharpening tools, see [Woodworking and tool maintenance](../../../docs/07-日常生活技能/09-木工与工具维护.md); for water channels and lifting water, see [Water engineering and supply - Conveying and lifting water](../../../docs/07-日常生活技能/10-水源工程与供水.md#输水和提水).
+For repairing and sharpening tools, see [Woodworking and tool maintenance](../07-everyday-living-skills/09-woodworking-and-tool-maintenance.md); for water channels and lifting water, see [Water engineering and supply - Conveying and lifting water](../07-everyday-living-skills/10-water-supply.md#carrying-and-lifting-water).
 
 ### Time required
 

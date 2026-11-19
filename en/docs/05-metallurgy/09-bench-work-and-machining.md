@@ -228,7 +228,7 @@ Salvaged grinding wheels:
   means the temper has been drawn (it has gone soft)
 ```
 
-For sharpening edge tools, see [Woodworking and tool maintenance – Sharpening](../../../docs/07-日常生活技能/09-木工与工具维护.md#磨刀).
+For sharpening edge tools, see [Woodworking and tool maintenance – Sharpening](../07-everyday-living-skills/09-woodworking-and-tool-maintenance.md#sharpening).
 
 ---
 

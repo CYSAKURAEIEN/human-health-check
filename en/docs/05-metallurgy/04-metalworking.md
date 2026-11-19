@@ -800,7 +800,7 @@ The key to rust prevention is "dry + air shut out":
 ✗ Food utensils (pots, knives) only with cooking oil, never engine oil or bitumen
 ```
 
-For everyday tool care see [Forging Simple Tools - Preventing rust](03-forging-simple-tools.md#101-preventing-rust) and [Woodworking and Tool Maintenance - Tool care](../../../docs/07-日常生活技能/09-木工与工具维护.md#工具保养).
+For everyday tool care see [Forging Simple Tools - Preventing rust](03-forging-simple-tools.md#101-preventing-rust) and [Woodworking and Tool Maintenance - Tool care](../07-everyday-living-skills/09-woodworking-and-tool-maintenance.md#looking-after-tools).
 
 ---
 

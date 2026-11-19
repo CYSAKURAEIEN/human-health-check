@@ -75,7 +75,7 @@ Rest:
     - How: put a bowl of water just off the boil on a table, keep your face about 30 cm above the water, cover your head with a towel, close your eyes and breathe in the steam
     - ⚠️ Do not use a bowl of hot water for children (knocking it over and getting scalded is common); instead, sit with the child for a while in the bathroom while a hot shower is running
   - Saline nasal spray
-    - You can also use 0.9% salt water (1 L of cooled boiled water + 9 g of salt) as nose drops or a rinse. Water for rinsing must be boiled and then cooled - never use unboiled water. For how to make it, see [Disinfectants - Saline](../../../docs/06-制药技术/01-消毒剂制备.md#七生理盐水)
+    - You can also use 0.9% salt water (1 L of cooled boiled water + 9 g of salt) as nose drops or a rinse. Water for rinsing must be boiled and then cooled - never use unboiled water. For how to make it, see [Disinfectants - Saline](../06-pharmaceuticals/01-disinfectants.md#7-normal-saline)
     - When a blocked nose stops an infant feeding: put 1-2 drops of salt water in each nostril, wait a minute or two, then gently suck it out with a nasal aspirator
   - Sleep with your head raised on extra pillows
 
@@ -143,7 +143,7 @@ High-risk groups for flu (children under 5, especially under 2; adults over 65; 
 ✓ Get a flu vaccine
 ```
 
-For how to wash your hands, see [Sanitation - How to Wash](../../../docs/07-日常生活技能/03-卫生设施.md#怎么洗); for isolation and disinfection when someone at home has a respiratory infection, see [Infectious Disease at Home](15-infectious-disease-at-home.md#respiratory-infections).
+For how to wash your hands, see [Sanitation - How to Wash](../07-everyday-living-skills/03-sanitation.md#how-to-wash); for isolation and disinfection when someone at home has a respiratory infection, see [Infectious Disease at Home](15-infectious-disease-at-home.md#respiratory-infections).
 
 ### ⚠️ When to See a Doctor
 
@@ -585,7 +585,7 @@ How to give it:
 
 *Figure: How to make and give oral rehydration solution, how much to give, and when to see a doctor; ORS III from a pharmacy is the first choice, and the home mix is only for emergencies when there is none*
 
-For salt intake and why "you must not add more salt", see [Salt Making](../../../docs/07-日常生活技能/15-制盐.md).
+For salt intake and why "you must not add more salt", see [Salt Making](../07-everyday-living-skills/15-salt-making.md).
 
 **Other fluids**:
 - Clear soup
@@ -691,7 +691,7 @@ Pregnant women:
 ✓ Clean and disinfect eating utensils
 ```
 
-For disinfecting drinking water, see [Water Supply Engineering](../../../docs/07-日常生活技能/10-水源工程与供水.md); for toilets and managing human waste, see [Sanitation](../../../docs/07-日常生活技能/03-卫生设施.md).
+For disinfecting drinking water, see [Water Supply Engineering](../07-everyday-living-skills/10-water-supply.md); for toilets and managing human waste, see [Sanitation](../07-everyday-living-skills/03-sanitation.md).
 
 ### ⚠️ When to See a Doctor
 
@@ -995,7 +995,7 @@ Non-bacterial food poisoning (often comes on fast and is more dangerous):
 - Pufferfish, poisonous shellfish: numb lips and limbs → see a doctor immediately
 ```
 
-Related chapters: [Food Processing and Preservation - High-Risk Foods and Food Poisoning](../../../docs/07-日常生活技能/01-食物加工与保存.md#高风险食品与食物中毒), [Poisoning - Other Poisonings](12-poisoning.md#other-poisonings), [Infectious Disease at Home - Diarrhoeal Infections](15-infectious-disease-at-home.md#diarrhoeal-infections).
+Related chapters: [Food Processing and Preservation - High-Risk Foods and Food Poisoning](../07-everyday-living-skills/01-food-processing-and-preservation.md#high-risk-foods-and-food-poisoning), [Poisoning - Other Poisonings](12-poisoning.md#other-poisonings), [Infectious Disease at Home - Diarrhoeal Infections](15-infectious-disease-at-home.md#diarrhoeal-infections).
 
 ### Prevention
 
@@ -1037,7 +1037,7 @@ Related chapters: [Food Processing and Preservation - High-Risk Foods and Food P
 ✓ Food you are unsure about: "If in doubt, throw it out"
 ```
 
-For keeping food without a fridge, see [Food Processing and Preservation](../../../docs/07-日常生活技能/01-食物加工与保存.md).
+For keeping food without a fridge, see [Food Processing and Preservation](../07-everyday-living-skills/01-food-processing-and-preservation.md).
 
 ### ⚠️ Emergency Care
 

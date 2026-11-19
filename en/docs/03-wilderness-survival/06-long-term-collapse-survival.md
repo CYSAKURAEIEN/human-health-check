@@ -107,7 +107,7 @@ For household preparation for ordinary disasters, see [Disaster Response – Hou
 5. Keep records: daily consumption, what happened, new people who joined
 ```
 
-Related chapters: [First aid](../01-first-aid-and-family-health/README.md), [Emergency Communication and Finding Family – Family communication plan](../02-disaster-response/06-emergency-communication-and-family-reunification.md#before-a-disaster-family-communication-plan), [Large-scale power and water cuts](../02-disaster-response/05-man-made-disasters.md#widespread-power-and-water-cuts), [Chronic Medication Stockpile – During a power cut](../01-first-aid-and-family-health/08-chronic-medication-stockpile.md#during-a-power-cut), [Sanitation – Two-bucket method](../../../docs/07-日常生活技能/03-卫生设施.md#双桶法).
+Related chapters: [First aid](../01-first-aid-and-family-health/README.md), [Emergency Communication and Finding Family – Family communication plan](../02-disaster-response/06-emergency-communication-and-family-reunification.md#before-a-disaster-family-communication-plan), [Large-scale power and water cuts](../02-disaster-response/05-man-made-disasters.md#widespread-power-and-water-cuts), [Chronic Medication Stockpile – During a power cut](../01-first-aid-and-family-health/08-chronic-medication-stockpile.md#during-a-power-cut), [Sanitation – Two-bucket method](../07-everyday-living-skills/03-sanitation.md#two-bucket-method).
 
 ### Immediate action
 
@@ -183,7 +183,7 @@ little urine, dry mouth and dizziness mean you are short of water
    origin, seawater, urine
 ```
 
-For how much water you need, see [Water Supply – How much water you need](../../../docs/07-日常生活技能/10-水源工程与供水.md#需要多少水); for purifying water, see [Water Supply – Purification](../../../docs/07-日常生活技能/10-水源工程与供水.md#净化-从浑水到可以喝的水) and [Basic Survival Skills – Water purification](00-basic-survival-skills.md#water-purification).
+For how much water you need, see [Water Supply – How much water you need](../07-everyday-living-skills/10-water-supply.md#how-much-water-you-need); for purifying water, see [Water Supply – Purification](../07-everyday-living-skills/10-water-supply.md#purification-from-muddy-water-to-drinking-water) and [Basic Survival Skills – Water purification](00-basic-survival-skills.md#water-purification).
 
 **Food**:
 ```
@@ -209,7 +209,7 @@ Order: fresh food from the fridge → fresh fruit and vegetables → short-life 
    (bongkrekic acid poisoning, extremely hard to treat)
 ```
 
-For deficiency diseases caused by stored food, see [Nutrition and Deficiency Diseases](../../../docs/07-日常生活技能/02-营养与营养缺乏病.md#为什么储备粮会让人生病); for food poisoning, see [Food Processing and Preservation – High-risk foods and food poisoning](../../../docs/07-日常生活技能/01-食物加工与保存.md#高风险食品与食物中毒).
+For deficiency diseases caused by stored food, see [Nutrition and Deficiency Diseases](../07-everyday-living-skills/02-nutrition-and-deficiency-diseases.md#why-stored-food-can-make-people-ill); for food poisoning, see [Food Processing and Preservation – High-risk foods and food poisoning](../07-everyday-living-skills/01-food-processing-and-preservation.md#high-risk-foods-and-food-poisoning).
 
 **Shelter**:
 ```
@@ -229,7 +229,7 @@ Keeping cool: shut windows and shade them by day, ventilate morning and evening;
   drink plenty, avoid working in the hottest hours
 ```
 
-For long-term housing, see [Long-term Housing](../../../docs/07-日常生活技能/05-长期住所.md); for temporary shelters in the wild, see [Basic Survival Skills – Building a shelter](00-basic-survival-skills.md#building-shelters).
+For long-term housing, see [Long-term Housing](../07-everyday-living-skills/05-long-term-shelter.md); for temporary shelters in the wild, see [Basic Survival Skills – Building a shelter](00-basic-survival-skills.md#building-shelters).
 
 ### Safety
 
@@ -291,7 +291,7 @@ Defusing conflict:
 ❌ Do not fight or give chase to keep your supplies
 ```
 
-For carbon monoxide poisoning, see [Home and Traffic Accidents – Carbon monoxide poisoning](../01-first-aid-and-family-health/07-home-and-traffic-accidents.md#carbon-monoxide-poisoning); for fire prevention, see [Fire – Fire prevention](../02-disaster-response/04-fire.md#preventing-fires); for open-flame lighting, see [Lighting and Energy – Safety rules for open-flame lighting](../../../docs/07-日常生活技能/06-照明与能源.md#使用明火照明的安全规则); for staying safe in war, see [Human-made Disasters – War and armed conflict](../02-disaster-response/05-man-made-disasters.md#war-and-armed-conflict).
+For carbon monoxide poisoning, see [Home and Traffic Accidents – Carbon monoxide poisoning](../01-first-aid-and-family-health/07-home-and-traffic-accidents.md#carbon-monoxide-poisoning); for fire prevention, see [Fire – Fire prevention](../02-disaster-response/04-fire.md#preventing-fires); for open-flame lighting, see [Lighting and Energy – Safety rules for open-flame lighting](../07-everyday-living-skills/06-lighting-and-energy.md#safety-rules-for-lighting-with-a-naked-flame); for staying safe in war, see [Human-made Disasters – War and armed conflict](../02-disaster-response/05-man-made-disasters.md#war-and-armed-conflict).
 
 ## Middle stage (1-6 months)
 
@@ -332,7 +332,7 @@ If supplies have still not returned after a month, you need to switch from "usin
    of them
 ```
 
-For details, see [Water Supply](../../../docs/07-日常生活技能/10-水源工程与供水.md) (collecting rainwater, digging wells, slow sand filters, storage).
+For details, see [Water Supply](../07-everyday-living-skills/10-water-supply.md) (collecting rainwater, digging wells, slow sand filters, storage).
 
 **Food production**:
 ```
@@ -390,7 +390,7 @@ Related chapters: [Vegetable Growing – Fast-growing vegetables](../04-farming-
   - In areas with a *kang* (heated brick bed), the cooking fire also heats the *kang*
 ```
 
-Related chapters: [Firewood and Woodland Management – How much wood you need](../04-farming-and-animal-husbandry/09-firewood-and-woodland-management.md#how-much-firewood-you-need), [Lighting and Energy](../../../docs/07-日常生活技能/06-照明与能源.md), [Long-term Housing – Kang and stoves](../../../docs/07-日常生活技能/05-长期住所.md#火炕与炉灶).
+Related chapters: [Firewood and Woodland Management – How much wood you need](../04-farming-and-animal-husbandry/09-firewood-and-woodland-management.md#how-much-firewood-you-need), [Lighting and Energy](../07-everyday-living-skills/06-lighting-and-energy.md), [Long-term Housing – Kang and stoves](../07-everyday-living-skills/05-long-term-shelter.md#kang-and-stoves).
 
 ### Developing skills
 
@@ -413,7 +413,7 @@ How to learn:
 - Write down what you learn and leave it for those who come after
 ```
 
-For details of food preservation, nutrition, sanitation and soap making, see [Everyday Living Skills](../../../docs/07-日常生活技能/README.md). For repairs and tools, see [Woodworking and Tool Maintenance](../../../docs/07-日常生活技能/09-木工与工具维护.md) and [Rope and Knots](../../../docs/07-日常生活技能/17-绳索与结绳.md); for how to teach a craft, see [Teaching and Knowledge Preservation – How to teach a craft](../../../docs/07-日常生活技能/12-教育与知识传承.md#怎样教手艺).
+For details of food preservation, nutrition, sanitation and soap making, see [Everyday Living Skills](../07-everyday-living-skills/README.md). For repairs and tools, see [Woodworking and Tool Maintenance](../07-everyday-living-skills/09-woodworking-and-tool-maintenance.md) and [Rope and Knots](../07-everyday-living-skills/17-rope-and-knots.md); for how to teach a craft, see [Teaching and Knowledge Preservation – How to teach a craft](../07-everyday-living-skills/12-education-and-knowledge-preservation.md#how-to-teach-a-craft).
 
 ### Managing supplies
 
@@ -447,7 +447,7 @@ Common mistakes:
 ❌ Mixing seed grain with food grain
 ```
 
-For details of record-keeping, inventory, rationing and trade, see [Record-keeping, Trade and Division of Labour](../../../docs/07-日常生活技能/13-记账交易与社会分工.md) (especially [Inventory management](../../../docs/07-日常生活技能/13-记账交易与社会分工.md#库存管理), [Rationing](../../../docs/07-日常生活技能/13-记账交易与社会分工.md#配给) and [Trade](../../../docs/07-日常生活技能/13-记账交易与社会分工.md#交易)).
+For details of record-keeping, inventory, rationing and trade, see [Record-keeping, Trade and Division of Labour](../07-everyday-living-skills/13-record-keeping-trade-and-division-of-labour.md) (especially [Inventory management](../07-everyday-living-skills/13-record-keeping-trade-and-division-of-labour.md#managing-stores), [Rationing](../07-everyday-living-skills/13-record-keeping-trade-and-division-of-labour.md#rationing) and [Trade](../07-everyday-living-skills/13-record-keeping-trade-and-division-of-labour.md#trade)).
 
 ## Long term (6 months+)
 
@@ -497,7 +497,7 @@ Common mistakes:
    vet and observe them according to the rules instead of refusing everyone
 ```
 
-For details of division of labour, rules, preventing unfairness and community records, see [Record-keeping, Trade and Division of Labour](../../../docs/07-日常生活技能/13-记账交易与社会分工.md) (especially [Division of labour and cooperation](../../../docs/07-日常生活技能/13-记账交易与社会分工.md#分工与协作), [Rules and decision-making](../../../docs/07-日常生活技能/13-记账交易与社会分工.md#规则和决策) and [Preventing mistakes and unfairness](../../../docs/07-日常生活技能/13-记账交易与社会分工.md#防止错误和不公)); for the technology communities of different sizes can sustain, see [Technology Rebuilding Roadmap – What a small community can achieve](../../../docs/09-进阶科学与工程/00-技术重建路线图.md#六小社区能做到什么).
+For details of division of labour, rules, preventing unfairness and community records, see [Record-keeping, Trade and Division of Labour](../07-everyday-living-skills/13-record-keeping-trade-and-division-of-labour.md) (especially [Division of labour and cooperation](../07-everyday-living-skills/13-record-keeping-trade-and-division-of-labour.md#division-of-labour-and-cooperation), [Rules and decision-making](../07-everyday-living-skills/13-record-keeping-trade-and-division-of-labour.md#rules-and-decisions) and [Preventing mistakes and unfairness](../07-everyday-living-skills/13-record-keeping-trade-and-division-of-labour.md#preventing-errors-and-unfairness)); for the technology communities of different sizes can sustain, see [Technology Rebuilding Roadmap – What a small community can achieve](../../../docs/09-进阶科学与工程/00-技术重建路线图.md#六小社区能做到什么).
 
 ### Sustainable survival
 
@@ -546,7 +546,7 @@ For details of division of labour, rules, preventing unfairness and community re
   - Make several handwritten copies of important material and store them in separate places
 ```
 
-Related chapters: [Seed Saving and Breeding](../04-farming-and-animal-husbandry/08-seed-saving-and-breeding.md), [Sanitation – Using faeces and urine](../../../docs/07-日常生活技能/03-卫生设施.md#粪便与尿液的利用), [Livestock Keeping](../04-farming-and-animal-husbandry/06-livestock.md), [Teaching and Knowledge Preservation](../../../docs/07-日常生活技能/12-教育与知识传承.md), [Technology Rebuilding Roadmap – Knowledge and items to preserve first](../../../docs/09-进阶科学与工程/00-技术重建路线图.md#七优先保存的知识和物品), [Weather Observation and Forecasting](../../../docs/08-基础科学知识/07-天气观测与预报.md).
+Related chapters: [Seed Saving and Breeding](../04-farming-and-animal-husbandry/08-seed-saving-and-breeding.md), [Sanitation – Using faeces and urine](../07-everyday-living-skills/03-sanitation.md#using-faeces-and-urine), [Livestock Keeping](../04-farming-and-animal-husbandry/06-livestock.md), [Teaching and Knowledge Preservation](../07-everyday-living-skills/12-education-and-knowledge-preservation.md), [Technology Rebuilding Roadmap – Knowledge and items to preserve first](../../../docs/09-进阶科学与工程/00-技术重建路线图.md#七优先保存的知识和物品), [Weather Observation and Forecasting](../../../docs/08-基础科学知识/07-天气观测与预报.md).
 
 ### Health
 
@@ -604,7 +604,7 @@ Without hospitals, **prevention matters far more than treatment**: in famines an
 ✓ Set goals
 ```
 
-Related chapters: [Sanitation](../../../docs/07-日常生活技能/03-卫生设施.md), [Nutrition and Deficiency Diseases](../../../docs/07-日常生活技能/02-营养与营养缺乏病.md), [First Aid and Family Health](../01-first-aid-and-family-health/README.md), [Elder Care](../01-first-aid-and-family-health/13-elder-care.md), [Child Safety](../01-first-aid-and-family-health/14-child-safety.md), [Emergency Childbirth and Newborn Care](../01-first-aid-and-family-health/11-emergency-childbirth-and-newborn-care.md), [Menstrual Hygiene and Contraception](../01-first-aid-and-family-health/17-menstrual-hygiene-and-contraception.md), [Medicinal Plants](../04-farming-and-animal-husbandry/04-medicinal-plants.md), [Pharmaceutical Technology](../../../docs/06-制药技术/README.md) (for reference only after civilisation collapse, when medicines cannot be obtained at all). For mental health, see "Psychological preparation" below.
+Related chapters: [Sanitation](../07-everyday-living-skills/03-sanitation.md), [Nutrition and Deficiency Diseases](../07-everyday-living-skills/02-nutrition-and-deficiency-diseases.md), [First Aid and Family Health](../01-first-aid-and-family-health/README.md), [Elder Care](../01-first-aid-and-family-health/13-elder-care.md), [Child Safety](../01-first-aid-and-family-health/14-child-safety.md), [Emergency Childbirth and Newborn Care](../01-first-aid-and-family-health/11-emergency-childbirth-and-newborn-care.md), [Menstrual Hygiene and Contraception](../01-first-aid-and-family-health/17-menstrual-hygiene-and-contraception.md), [Medicinal Plants](../04-farming-and-animal-husbandry/04-medicinal-plants.md), [Pharmaceutical Technology](../06-pharmaceuticals/README.md) (for reference only after civilisation collapse, when medicines cannot be obtained at all). For mental health, see "Psychological preparation" below.
 
 ## Special situations
 
@@ -756,7 +756,7 @@ Prepare in order: **3 days → 2 weeks → 3 months**. Most households should ha
 Storage: sealed, dry, rat-proof, cool; label containers with the date; first in, first out
 ```
 
-For nutritional additions on top of this, see [Nutrition and Deficiency Diseases – Stockpile recommendations](../../../docs/07-日常生活技能/02-营养与营养缺乏病.md#储备建议); for working out how long it will last, see [Record-keeping, Trade and Division of Labour – How long will it last?](../../../docs/07-日常生活技能/13-记账交易与社会分工.md#算一算够用多久).
+For nutritional additions on top of this, see [Nutrition and Deficiency Diseases – Stockpile recommendations](../07-everyday-living-skills/02-nutrition-and-deficiency-diseases.md#what-to-stockpile); for working out how long it will last, see [Record-keeping, Trade and Division of Labour – How long will it last?](../07-everyday-living-skills/13-record-keeping-trade-and-division-of-labour.md#working-out-how-long-it-will-last).
 
 **Water**:
 ```
@@ -768,7 +768,7 @@ For nutritional additions on top of this, see [Nutrition and Deficiency Diseases
 - A pot for boiling water, and fuel
 ```
 
-For water containers and storage, see [Water Supply – Storage](../../../docs/07-日常生活技能/10-水源工程与供水.md#储存).
+For water containers and storage, see [Water Supply – Storage](../07-everyday-living-skills/10-water-supply.md#storage).
 
 **Medical**:
 ```

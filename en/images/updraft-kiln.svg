@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 910" width="720" height="910" role="img" aria-label="Cross-section of a simple updraft kiln: a firebox below and a chamber for the pots above, separated by a perforated kiln floor (grate); walls of mud bricks or fired bricks, plastered with mud inside and out, with a flue opening at the top; the fire passes up through the pots and leaves through the flue at the top. The pots are stacked on the kiln floor with gaps between them so the fire can pass. Firing: 1 warm slowly with a small fire for several hours, first letting the remaining moisture and the chemically bound water in the clay come out slowly; while white smoke (steam) shows at the flue keep the fire small, as raising the temperature too fast at this stage is the commonest cause of bursting pots; 2 when the white smoke has gone, gradually build up the fire, fire to the colour you need and hold it for an hour or two; 3 seal the firing mouth and the flue and let the kiln cool slowly for a day or two, never opening it early, as cooling too fast makes pottery crack. Judging temperature by the colour of the fire: dark red about 500-550°C, deep red about 650-700°C, cherry red about 780-850°C, bright red about 850-950°C, orange-yellow about 1000-1100°C, yellow to yellowish-white above about 1200°C; above about 600°C clay becomes ceramic, ordinary earthenware about 800-1000°C, stoneware and porcelain above about 1200-1300°C">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Simple updraft kiln</title>
+<defs>
+<pattern id="brick" width="24" height="12" patternUnits="userSpaceOnUse"><rect width="24" height="12" fill="#d9a07a"/><path d="M0 0.5 H24 M0 6.5 H24 M6 0.5 V6.5 M18 6.5 V12" stroke="#a0623e" stroke-width="1"/></pattern>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker>
+<path id="pot" d="M-16 0 Q-25 -22 -12 -38 L-10 -46 H10 L12 -38 Q25 -22 16 0 Z"/>
+<g id="log"><rect x="-22" y="-5" width="44" height="10" rx="4" fill="#8b6b3e" stroke="#333" stroke-width="1.3"/><ellipse cx="22" cy="0" rx="3" ry="5" fill="#c9a26a" stroke="#333" stroke-width="1"/></g>
+<g id="mk">
+<path d="M-42 50 V-4 Q-42 -36 -7 -42 M42 50 V-4 Q42 -36 7 -42" fill="none" stroke="#a0623e" stroke-width="9"/>
+<path d="M-46.5 50 V-4 Q-46.5 -40.5 -7 -46.5 M46.5 50 V-4 Q46.5 -40.5 7 -46.5 M-37.5 50 V-4 Q-37.5 -31.5 -7 -37.5 M37.5 50 V-4 Q37.5 -31.5 7 -37.5" fill="none" stroke="#333" stroke-width="1.5"/>
+<path d="M-60 50 H60" stroke="#999" stroke-width="3"/>
+<path d="M-37.5 16 H37.5" stroke="#c98b5a" stroke-width="5" stroke-dasharray="9 4"/>
+<use href="#pot" transform="translate(-16,13.5) scale(0.42)" fill="#e7c9a3" stroke="#333" stroke-width="3"/>
+<use href="#pot" transform="translate(16,13.5) scale(0.42)" fill="#e7c9a3" stroke="#333" stroke-width="3"/>
+</g>
+</defs>
+<g font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif" font-size="14" fill="#222">
+<text x="232" y="28" font-size="18" font-weight="bold">Simple updraft kiln (schematic, not to scale)</text>
+
+<!-- cross-section -->
+<path d="M94 370 V156 Q200 56 306 156 V370 Z" fill="#fff8ef"/>
+<rect x="186" y="70" width="28" height="40" fill="#fff8ef"/>
+<path d="M70 370 V150 Q128 96.5 186 90.7 L186 106.9 Q140 112.6 94 156 V370 Z" fill="url(#brick)" stroke="#333" stroke-width="2"/>
+<path d="M330 370 V150 Q272 96.5 214 90.7 L214 106.9 Q260 112.6 306 156 V370 Z" fill="url(#brick)" stroke="#333" stroke-width="2"/>
+<rect x="176" y="70" width="10" height="34" fill="url(#brick)" stroke="#333" stroke-width="1.5"/>
+<rect x="214" y="70" width="10" height="34" fill="url(#brick)" stroke="#333" stroke-width="1.5"/>
+<!-- firing mouth -->
+<rect x="68" y="324" width="28" height="45" fill="#fff8ef"/>
+<path d="M69 369 V330 Q82 318 95 330 V369" fill="none" stroke="#333" stroke-width="1.5"/>
+<!-- wood and fire in the firebox -->
+<path d="M110 356 Q122 300 140 330 Q150 282 170 322 Q186 270 202 320 Q218 286 230 326 Q248 296 262 336 Q280 310 290 356 Z" fill="#f2a33a" fill-opacity="0.85" stroke="#c33" stroke-width="1.5"/>
+<path d="M150 356 Q160 326 176 342 Q190 314 206 340 Q222 322 240 356 Z" fill="#f6d36b"/>
+<use href="#log" x="100" y="360"/><use href="#log" x="150" y="360"/><use href="#log" x="196" y="356"/><use href="#log" x="244" y="360"/>
+<path d="M20 370 H380" stroke="#999" stroke-width="3"/>
+<!-- kiln floor (grate) -->
+<rect x="94" y="268" width="212" height="12" fill="#c98b5a" stroke="#333" stroke-width="1.5"/>
+<g fill="#fbe3c8" stroke="#333" stroke-width="1">
+<rect x="101.5" y="268" width="8" height="12"/><rect x="133" y="268" width="8" height="12"/><rect x="164.5" y="268" width="8" height="12"/><rect x="196" y="268" width="8" height="12"/><rect x="227.5" y="268" width="8" height="12"/><rect x="259" y="268" width="8" height="12"/><rect x="290.5" y="268" width="8" height="12"/>
+</g>
+<!-- pots -->
+<g fill="#e7c9a3" stroke="#333" stroke-width="1.6">
+<use href="#pot" x="137" y="268"/><use href="#pot" x="200" y="268"/><use href="#pot" x="263" y="268"/>
+<use href="#pot" x="137" y="222"/><use href="#pot" x="200" y="222"/><use href="#pot" x="263" y="222"/>
+</g>
+<!-- fire path -->
+<g fill="none" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)">
+<path d="M168.5 300 V190 Q168.5 150 194 120 V62"/>
+<path d="M231.5 300 V190 Q231.5 150 206 120 V62"/>
+<path d="M105.5 300 V200 Q105.5 160 140 140"/>
+<path d="M294.5 300 V200 Q294.5 160 260 140"/>
+</g>
+<path d="M196 56 Q186 46 196 38 Q206 30 198 20" fill="none" stroke="#888" stroke-width="2"/>
+
+<!-- labels -->
+<g stroke="#0b5cad" stroke-width="1.2">
+<line x1="356" y1="62" x2="226" y2="78"/><line x1="356" y1="150" x2="318" y2="190"/><line x1="356" y1="204" x2="286" y2="236"/><line x1="356" y1="270" x2="300" y2="274"/><line x1="356" y1="326" x2="286" y2="340"/><line x1="44" y1="384" x2="74" y2="350"/>
+</g>
+<g fill="#0b5cad"><circle cx="226" cy="78" r="2.6"/><circle cx="318" cy="190" r="2.6"/><circle cx="286" cy="236" r="2.6"/><circle cx="300" cy="274" r="2.6"/><circle cx="286" cy="340" r="2.6"/><circle cx="74" cy="350" r="2.6"/></g>
+<text x="362" y="60" font-size="15" font-weight="bold">Flue</text>
+<text x="402" y="60">fire and smoke leave at the top</text>
+<text x="362" y="148" font-size="15" font-weight="bold">Walls</text>
+<text x="414" y="148">mud bricks or fired bricks,</text>
+<text x="414" y="166">plastered with mud inside and out</text>
+<text x="362" y="202" font-size="15" font-weight="bold">Chamber</text>
+<text x="434" y="202">pots stacked on the kiln floor</text>
+<text x="434" y="222">with gaps so the fire can pass</text>
+<text x="362" y="268" font-size="15" font-weight="bold">Kiln floor (grate)</text>
+<text x="362" y="286" font-size="13">perforated; separates the upper and lower parts</text>
+<text x="362" y="330" font-size="15" font-weight="bold">Firebox</text>
+<text x="20" y="400" font-size="15" font-weight="bold">firing mouth</text>
+<path d="M440 100 H476" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="484" y="88" font-size="13" fill="#c33">the fire passes up through</text>
+<text x="484" y="104" font-size="13" fill="#c33">the pots and leaves through</text>
+<text x="484" y="120" font-size="13" fill="#c33">the flue at the top</text>
+
+<!-- three firing stages -->
+<text x="20" y="432" font-size="16" font-weight="bold">Firing the kiln</text>
+<g transform="translate(10,444)">
+<rect x="0" y="0" width="226" height="250" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">① Warm slowly, small fire</text>
+<g transform="translate(113,98)">
+<use href="#mk"/>
+<path d="M-14 46 Q-8 30 -2 40 Q4 26 10 40 Q14 34 16 46 Z" fill="#f2a33a" stroke="#c33" stroke-width="1"/>
+<path d="M-10 -52 q-8 -4 -2 -10 q2 -8 10 -4 q8 -6 12 2 q8 2 2 10 q-2 6 -10 4 q-6 4 -12 -2 Z" fill="#fff" stroke="#888" stroke-width="1.5"/>
+</g>
+
+<text x="150" y="40" font-size="12" fill="#555">white smoke</text>
+<text x="150" y="54" font-size="12" fill="#555">(steam)</text>
+<text x="12" y="172" font-size="13">For several hours: first let the</text>
+<text x="12" y="189" font-size="13">remaining moisture and the</text>
+<text x="12" y="206" font-size="13">bound water in the clay come</text>
+<text x="12" y="223" font-size="13">out slowly; while "white smoke"</text>
+<text x="12" y="240" font-size="13">shows at the flue, keep it small</text>
+</g>
+<g transform="translate(247,444)">
+<rect x="0" y="0" width="226" height="250" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">② Then build up the fire</text>
+<g transform="translate(113,98)">
+<path d="M-37.5 50 V-4 Q-37.5 -31.5 -7 -37.5 H7 Q37.5 -31.5 37.5 -4 V50 Z" fill="#f08a24" fill-opacity="0.35"/>
+<use href="#mk"/>
+<path d="M-34 46 Q-28 22 -18 34 Q-10 14 0 32 Q10 12 18 34 Q28 22 34 46 Z" fill="#f2a33a" stroke="#c33" stroke-width="1"/>
+<path d="M0 -10 V-56" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+</g>
+
+<text x="12" y="172" font-size="13">When the white smoke has gone,</text>
+<text x="12" y="189" font-size="13">gradually build up the fire to</text>
+<text x="12" y="206" font-size="13">the colour you need (see below)</text>
+<text x="12" y="223" font-size="13">and hold it for an hour or two</text>
+</g>
+<g transform="translate(484,444)">
+<rect x="0" y="0" width="226" height="250" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="12" y="24" font-size="15" font-weight="bold">③ Seal mouth and flue</text>
+<g transform="translate(113,98)">
+<use href="#mk"/>
+<rect x="-16" y="-52" width="32" height="9" fill="url(#brick)" stroke="#333" stroke-width="1.5"/>
+<rect x="-51" y="24" width="18" height="26" fill="url(#brick)" stroke="#333" stroke-width="1.5"/>
+<text x="-58" y="20" font-size="12" fill="#0b5cad" text-anchor="end">seal</text>
+<text x="22" y="-48" font-size="12" fill="#0b5cad">seal</text>
+</g>
+
+<text x="12" y="172" font-size="13">Let the kiln cool slowly for</text>
+<text x="12" y="189" font-size="13">a day or two; cooling too fast</text>
+<text x="12" y="206" font-size="13">makes pottery crack (dunting)</text>
+</g>
+<text x="20" y="720" font-size="14" font-weight="bold" fill="#c33">⚠️ Step ①: raising the temperature too fast is the commonest cause of bursting pots;</text>
+<text x="44" y="738" font-size="14" font-weight="bold" fill="#c33">step ③: never open the kiln early</text>
+
+<!-- fire colours -->
+<text x="20" y="768" font-size="15" font-weight="bold">Judging temperature by the colour of the fire</text>
+<g font-size="13">
+<rect x="20" y="780" width="108" height="22" fill="#6e1212" stroke="#333"/>
+<rect x="134" y="780" width="108" height="22" fill="#9c1c1c" stroke="#333"/>
+<rect x="248" y="780" width="108" height="22" fill="#c8202a" stroke="#333"/>
+<rect x="362" y="780" width="108" height="22" fill="#ec3a2c" stroke="#333"/>
+<rect x="476" y="780" width="108" height="22" fill="#f39a2a" stroke="#333"/>
+<rect x="590" y="780" width="108" height="22" fill="#fff3b0" stroke="#333"/>
+<text x="74" y="820" text-anchor="middle">dark red</text>
+<text x="74" y="852" text-anchor="middle" font-size="12">about 500-550°C</text>
+<text x="188" y="820" text-anchor="middle">deep red</text>
+<text x="188" y="852" text-anchor="middle" font-size="12">about 650-700°C</text>
+<text x="302" y="820" text-anchor="middle">cherry red</text>
+<text x="302" y="852" text-anchor="middle" font-size="12">about 780-850°C</text>
+<text x="416" y="820" text-anchor="middle">bright red</text>
+<text x="416" y="852" text-anchor="middle" font-size="12">about 850-950°C</text>
+<text x="530" y="820" text-anchor="middle">orange-yellow</text>
+<text x="530" y="852" text-anchor="middle" font-size="12">about 1000-1100°C</text>
+<text x="644" y="820" text-anchor="middle">yellow to</text>
+<text x="644" y="835" text-anchor="middle">yellowish-white</text>
+<text x="644" y="852" text-anchor="middle" font-size="12">above about 1200°C</text>
+<text x="20" y="878" fill="#555">Above about 600°C clay becomes ceramic; ordinary earthenware about 800-1000°C; stoneware</text>
+<text x="20" y="896" fill="#555">and porcelain above about 1200-1300°C, needing a good kiln and refractories</text>
+</g>
+</g>
+</svg>

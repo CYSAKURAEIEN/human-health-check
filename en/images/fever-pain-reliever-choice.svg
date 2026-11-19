@@ -1,0 +1,179 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1282" width="720" height="1282" role="img" aria-label="Common fever and pain relievers: who can use them and how to use them safely. Doses follow the leaflet of the product you are using; dose children by body weight, with the measuring cup or tube supplied with the medicine; do not give medicine yourself to a baby under 3 months with a fever, go straight to a doctor; when danger signs appear, no medicine replaces seeing a doctor. 1, three common over-the-counter drugs: paracetamol (acetaminophen), adult 500 mg per dose, at least 4 hours apart, daily maximum 2000 mg, can be used in children from 3 months, first choice for fever in pregnancy (short term), no anti-inflammatory effect, main risk liver damage from overdose, better for people with stomach problems, a bleeding tendency, on anticoagulants, with kidney disease, dehydration or asthma; ibuprofen, adult 200-400 mg per dose, 4-6 hours apart, daily maximum 1200 mg, can be used in children from 6 months, avoid in pregnancy, especially after week 20, anti-inflammatory, main risks stomach bleeding and kidney harm, better for sprains, toothache, period pain and other pain with redness, swelling and inflammation; aspirin, as per the leaflet, not under 18, not in pregnancy, anti-inflammatory, main risks stomach bleeding, bleeding that will not stop and Reye's syndrome, not usually first choice for fever or pain, its most important use is to be chewed in a suspected heart attack. The adult doses are those commonly written on over-the-counter leaflets; higher doses only as a doctor directs. 2, shared rules: one drug at a time, do not combine or alternate them; read the ingredients first, many combination cold remedies contain paracetamol or aspirin, so count them in the total; wait the full interval, a fall of 1-1.5°C and feeling more comfortable means it is working, do not take an extra dose early because the temperature is not yet normal; write down the time and dose each time; for fever no more than 3 days, for pain no more than 5 days, then see a doctor if not better; no alcohol while taking paracetamol, people with liver disease or who drink heavily should ask a doctor first; lock all medicines away. 3, paracetamol overdose: for the first 1-2 days there may be no symptoms at all, or only nausea, vomiting, sweating and tiredness; only after 2-4 days do pain in the upper right abdomen, yellow skin or whites of the eyes, drowsiness or confusion appear, by which time the liver is already badly damaged; hospitals have a specific antidote, which works better the earlier it is given, best within 8 hours of taking the drug; if an overdose is possible, see a doctor at once, take the pack, note the time, do not induce vomiting, do not watch and wait at home. 4, see a doctor at once for: temperature of 40°C or more, high fever lasting more than 3 days, change in consciousness, seizures, difficulty breathing, severe headache and vomiting, pinpoint spots or bruises on the skin, a baby or toddler who is very listless; also see a doctor if a painkiller used as the leaflet says has not helped after 5 days" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Common fever and pain relievers: who can use them, and how to use them safely</title>
+<defs>
+<marker id="arK" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#555"/></marker>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Fever and pain relievers: who can use them, and how to use them safely</text>
+
+<!-- warning -->
+<rect x="8" y="42" width="704" height="80" rx="6" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<g font-size="13">
+<text x="20" y="62"><tspan font-weight="bold" fill="#c33">⚠ Doses follow the leaflet of the product you use.</tspan> Dose children by body weight, using</text>
+<text x="20" y="80">the measuring cup or tube supplied with the medicine.</text>
+<text x="20" y="102"><tspan font-weight="bold" fill="#c33">Baby under 3 months with a fever: don't give medicine yourself; see a doctor straight away.</tspan></text>
+<text x="20" y="118">When danger signs appear, no medicine replaces seeing a doctor.</text>
+</g>
+
+<!-- 1 comparison table -->
+<rect x="8" y="132" width="704" height="446" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="156" font-size="15" font-weight="bold">① Choosing between three common over-the-counter drugs</text>
+<!-- header -->
+<g stroke="#333" stroke-width="1.5">
+<rect x="146" y="168" width="180" height="50" rx="8" fill="#cfe0f0"/>
+<rect x="334" y="168" width="180" height="50" rx="8" fill="#cfe0f0"/>
+<rect x="522" y="168" width="180" height="50" rx="8" fill="#f4e0e0"/>
+</g>
+<g text-anchor="middle">
+<text x="236" y="190" font-size="15" font-weight="bold">Paracetamol</text>
+<text x="236" y="209" font-size="12" fill="#555">(acetaminophen)</text>
+<text x="424" y="199" font-size="15" font-weight="bold">Ibuprofen</text>
+<text x="612" y="190" font-size="15" font-weight="bold">Aspirin</text>
+<text x="612" y="209" font-size="12" fill="#555">(acetylsalicylic acid)</text>
+</g>
+<!-- row shading -->
+<g fill="#eef2f6">
+<rect x="18" y="222" width="684" height="30"/>
+<rect x="18" y="282" width="684" height="30"/>
+<rect x="18" y="342" width="684" height="46"/>
+<rect x="18" y="418" width="684" height="46"/>
+</g>
+<g font-size="13" font-weight="bold">
+<text x="24" y="242">Adult dose *</text>
+<text x="24" y="272">Interval</text>
+<text x="24" y="302">Daily max *</text>
+<text x="24" y="332">Children</text>
+<text x="24" y="370">Pregnancy</text>
+<text x="24" y="446">Main risk</text>
+<text x="24" y="500">Better for</text>
+</g>
+<text x="24" y="408" font-size="12" font-weight="bold">Anti-inflammatory</text>
+<g font-size="13" text-anchor="middle">
+<text x="236" y="242" font-weight="bold">500 mg</text>
+<text x="424" y="242" font-weight="bold">200-400 mg</text>
+<text x="612" y="242">as per leaflet</text>
+<text x="236" y="272" font-weight="bold">≥4 hours</text>
+<text x="424" y="272" font-weight="bold">4-6 hours</text>
+<text x="612" y="272">as per leaflet</text>
+<text x="236" y="302" font-weight="bold">2000 mg</text>
+<text x="424" y="302" font-weight="bold">1200 mg</text>
+<text x="612" y="302">as per leaflet</text>
+<text x="236" y="332">from 3 months</text>
+<text x="424" y="332">from 6 months</text>
+<text x="612" y="332" fill="#c33" font-weight="bold">✗ not under 18</text>
+<text x="236" y="362">first choice for fever</text>
+<text x="236" y="380">(short term)</text>
+<text x="424" y="362" fill="#c33">avoid, especially</text>
+<text x="424" y="380" fill="#c33">after week 20</text>
+<text x="612" y="370" fill="#c33" font-weight="bold">✗ do not use</text>
+<text x="236" y="408">none</text>
+<text x="424" y="408">yes</text>
+<text x="612" y="408">yes</text>
+<text x="236" y="438" fill="#c33" font-weight="bold">liver damage</text>
+<text x="236" y="456" fill="#c33" font-weight="bold">from overdose</text>
+<text x="424" y="438" fill="#c33">stomach bleeding,</text>
+<text x="424" y="456" fill="#c33">kidney harm</text>
+<text x="612" y="430" fill="#c33">stomach bleeding,</text>
+<text x="612" y="446" fill="#c33">bleeding that won't stop,</text>
+<text x="612" y="462" fill="#c33">Reye's syndrome</text>
+<text x="236" y="484">stomach problems, bleeding</text>
+<text x="236" y="502">tendency, anticoagulants,</text>
+<text x="236" y="520">kidney disease, dehydration,</text>
+<text x="236" y="538">asthma</text>
+<text x="424" y="484">sprains, toothache,</text>
+<text x="424" y="502">period pain and other</text>
+<text x="424" y="520">pain with inflammation</text>
+<text x="424" y="538">(redness, swelling)</text>
+<text x="612" y="484">not usually first choice</text>
+<text x="612" y="502">for fever or pain;</text>
+<text x="612" y="520">chew it for a suspected</text>
+<text x="612" y="538">heart attack</text>
+</g>
+<g stroke="#ccc" stroke-width="1">
+<path d="M330,222 V546 M518,222 V546"/>
+</g>
+<text x="18" y="558" font-size="12" fill="#555">* Usual adult dose on OTC leaflets; higher doses only as a doctor directs. Adults who drink heavily, or with liver</text>
+<text x="18" y="572" font-size="12" fill="#555">disease, malnutrition or body weight &lt;50 kg, need a lower daily total: ask a doctor first</text>
+
+<!-- 2 shared rules -->
+<rect x="8" y="588" width="704" height="234" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="612" font-size="15" font-weight="bold">② Rules for all of them</text>
+<g font-size="13">
+<text x="22" y="638"><tspan fill="#0b5cad" font-weight="bold">1</tspan>  One drug at a time: don't combine them, and don't “alternate” them</text>
+<text x="38" y="656">(it is easy to miscount the doses and the total)</text>
+<text x="22" y="678"><tspan fill="#0b5cad" font-weight="bold">2</tspan>  Read the ingredients first: many combination cold remedies contain paracetamol (Chinese</text>
+<text x="38" y="696">names often include 氨酚, 酚麻 or 氨咖) or aspirin (listed as acetylsalicylic acid); count them</text>
+<text x="38" y="714">in the total. Already taking such a cold remedy? Don't add another fever reducer</text>
+<text x="22" y="736"><tspan fill="#0b5cad" font-weight="bold">3</tspan>  Wait the full interval. A fall of 1-1.5°C and feeling better means it works; don't take</text>
+<text x="38" y="754">an extra dose early just because the temperature isn't back to normal</text>
+<text x="22" y="776"><tspan fill="#0b5cad" font-weight="bold">4</tspan>  Write down the time and dose each time (especially when several people care for the patient)</text>
+<text x="22" y="796"><tspan fill="#0b5cad" font-weight="bold">5</tspan>  Fever: no more than 3 days; pain: no more than 5 days. Still not better: see a doctor</text>
+<text x="22" y="816"><tspan fill="#0b5cad" font-weight="bold">6</tspan>  No alcohol while taking paracetamol; lock all medicines away out of children's reach</text>
+</g>
+
+<!-- 3 overdose -->
+<g transform="translate(0,106)">
+<rect x="8" y="726" width="704" height="262" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="750" font-size="15" font-weight="bold">③ Paracetamol overdose: often no early symptoms, so don't wait</text>
+<!-- 8-hour bracket -->
+<path d="M60,790 V782 H200 V790" fill="none" stroke="#0b5cad" stroke-width="2"/>
+<text x="60" y="774" font-size="12" fill="#0b5cad" font-weight="bold">best time to give the antidote</text>
+<!-- timeline -->
+<path d="M50,806 H692" stroke="#555" stroke-width="2.5" marker-end="url(#arK)"/>
+<path d="M440,806 H688" stroke="#c33" stroke-width="4"/>
+<g stroke="#333" stroke-width="2">
+<path d="M60,798 V814 M200,798 V814 M320,798 V814 M440,798 V814"/>
+</g>
+<g font-size="12" text-anchor="middle">
+<text x="60" y="830" font-weight="bold">taken</text>
+<text x="200" y="830" font-weight="bold">8 hours</text>
+<text x="320" y="830" font-weight="bold">1-2 days</text>
+<text x="440" y="830" font-weight="bold">after 2-4 days</text>
+</g>
+<path d="M60,838 H320" stroke="#999" stroke-width="1.2" stroke-dasharray="3 3"/>
+<path d="M440,838 H688" stroke="#c33" stroke-width="1.2" stroke-dasharray="3 3"/>
+<text x="690" y="790" font-size="12" text-anchor="end" fill="#555">(timeline not to scale)</text>
+<g font-size="12">
+<text x="60" y="854">First 1-2 days: maybe no symptoms at all,</text>
+<text x="60" y="870">or only nausea, vomiting, sweating, tiredness</text>
+<text x="440" y="854" fill="#c33">Upper-right abdominal pain, yellow skin</text>
+<text x="440" y="870" fill="#c33">or whites of eyes, drowsiness or confusion</text>
+<text x="440" y="886" fill="#c33">→ the liver is already badly damaged</text>
+</g>
+<g font-size="13">
+<text x="18" y="914"><tspan font-weight="bold" fill="#c33">Possible overdose? See a doctor at once:</tspan> take the pack, count the tablets left,</text>
+<text x="18" y="932">note roughly when they were taken</text>
+<text x="18" y="956"><tspan fill="#c33">✗</tspan> Don't induce vomiting  <tspan fill="#c33">✗</tspan> Don't watch at home because there are “no symptoms now”</text>
+<text x="18" y="976"><tspan fill="#c33">✗</tspan> Don't use folk remedies to “detoxify”</text>
+</g>
+</g>
+
+<!-- 4 danger signs -->
+<g transform="translate(0,172)">
+<rect x="8" y="936" width="704" height="164" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="960" font-size="15" font-weight="bold">④ See a doctor at once for any of these (if possible)</text>
+<g fill="#fdf3f3" stroke="#c33" stroke-width="1.5">
+<rect x="20" y="972" width="150" height="28" rx="14"/>
+<rect x="180" y="972" width="220" height="28" rx="14"/>
+<rect x="410" y="972" width="186" height="28" rx="14"/>
+<rect x="606" y="972" width="94" height="28" rx="14"/>
+<rect x="20" y="1008" width="166" height="28" rx="14"/>
+<rect x="196" y="1008" width="206" height="28" rx="14"/>
+<rect x="412" y="1008" width="288" height="28" rx="14"/>
+<rect x="20" y="1044" width="270" height="28" rx="14"/>
+</g>
+<g font-size="13" text-anchor="middle" fill="#c33" font-weight="bold">
+<text x="95" y="991">Temperature ≥40°C</text>
+<text x="290" y="991">High fever for more than 3 days</text>
+<text x="503" y="991">Change in consciousness</text>
+<text x="653" y="991">Seizures</text>
+<text x="103" y="1027">Difficulty breathing</text>
+<text x="299" y="1027">Severe headache, vomiting</text>
+<text x="556" y="1027">Pinpoint spots or bruises on the skin</text>
+<text x="155" y="1063">Baby or toddler very listless</text>
+</g>
+<text x="18" y="1086" font-size="13">A painkiller used as the leaflet says that hasn't helped after 5 days: see a doctor too</text>
+</g>
+</g>
+</svg>

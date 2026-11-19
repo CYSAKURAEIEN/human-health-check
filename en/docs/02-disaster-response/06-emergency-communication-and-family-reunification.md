@@ -127,7 +127,7 @@ Charging:
   well-ventilated place, to avoid carbon monoxide poisoning)
 ```
 
-Related chapter: [Lighting and Energy – Small-scale solar power](../../../docs/07-日常生活技能/06-照明与能源.md#小型太阳能).
+Related chapter: [Lighting and Energy – Small-scale solar power](../07-everyday-living-skills/06-lighting-and-energy.md#small-scale-solar-power).
 
 ---
 

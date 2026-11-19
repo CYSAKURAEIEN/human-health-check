@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 754" width="720" height="754" role="img" aria-label="How long will the food last: days available = total stock ÷ daily consumption. Example: a granary holds 2000 kg of grain for 40 people, each eating about 0.5 kg a day. 1, daily consumption = 40 × 0.5 = 20 kg. 2, days available = 2000 ÷ 20 = 100 days; the next harvest is 150 days away, so the shortfall = 50 days × 20 kg = 1000 kg. 3, act now: save, sow fast-maturing crops, forage, trade; start rationing early, because rationing only when the food is nearly gone is too late; store and record seed grain separately and never eat it as food. Rough grain needs: with grain as the staple, an adult needs about 0.5 kg of grain a day, about 1700-1800 kcal; heavy labour and breastfeeding women need more, children and the elderly less; a community of 100 people needs about 18 t of grain a year; allow for losses and next year's seed" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>How long will the food last?</title>
+<defs>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="arK" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#555"/></marker>
+<g id="person" stroke="#333" stroke-width="1.5"><circle cx="0" cy="-22" r="6" fill="#f3e3d3"/><path d="M-8,0 V-10 Q-8,-14 -4,-14 H4 Q8,-14 8,-10 V0 Z" fill="#cfe0f0"/></g>
+<g id="sack" stroke="#333" stroke-width="2" stroke-linejoin="round"><path d="M-22,24 Q-28,0 -14,-16 L-8,-22 H8 L14,-16 Q28,0 22,24 Z" fill="#e8dcc0"/><path d="M-10,-18 H10" fill="none"/></g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">How long will it last? Days = total stock ÷ daily consumption</text>
+<text x="360" y="50" font-size="13" fill="#555" text-anchor="middle">Example: a granary holds 2000 kg of grain; 40 people, each about 0.5 kg a day</text>
+
+<!-- 1 daily consumption -->
+<rect x="8" y="64" width="704" height="116" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="88" font-size="15" font-weight="bold">① First work out daily consumption</text>
+<g transform="translate(60,140)">
+<use href="#person" x="-20"/><use href="#person"/><use href="#person" x="20"/>
+</g>
+<text x="60" y="166" font-size="14" font-weight="bold" text-anchor="middle">40 people</text>
+<text x="128" y="134" font-size="24" text-anchor="middle">×</text>
+<g transform="translate(196,128)" stroke="#333" stroke-width="2">
+<path d="M-26,-6 H26 Q24,20 0,22 Q-24,20 -26,-6 Z" fill="#fff"/>
+<path d="M-22,-6 Q-14,-16 0,-14 Q14,-16 22,-6 Z" fill="#f5ecc8" stroke-width="1.5"/>
+</g>
+<text x="196" y="157" font-size="14" font-weight="bold" text-anchor="middle">about 0.5 kg per</text>
+<text x="196" y="172" font-size="14" font-weight="bold" text-anchor="middle">person per day</text>
+<text x="282" y="134" font-size="24" text-anchor="middle">=</text>
+<use href="#sack" x="340" y="124"/>
+<text x="340" y="132" font-size="12" font-weight="bold" text-anchor="middle">20 kg</text>
+<text x="345" y="166" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b5cad">20 kg a day</text>
+<rect x="420" y="100" width="282" height="70" rx="4" fill="#e3eefa" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="561" y="126" font-size="14" text-anchor="middle">daily use = 40 × 0.5 = 20 kg</text>
+<text x="561" y="152" font-size="14" font-weight="bold" fill="#0b5cad" text-anchor="middle">days = 2000 ÷ 20 = 100 days</text>
+
+<!-- 2 timeline -->
+<rect x="8" y="190" width="704" height="290" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="214" font-size="15" font-weight="bold">② Compare with the next harvest</text>
+<!-- axes: day 0..150 → x 100..640 (3.6 px/day); stock 2000 → y 240, 0 → y 380, -1000 → y 450 -->
+<path d="M100,240 V450" stroke="#555" stroke-width="1.5"/>
+<path d="M100,380 H660" stroke="#555" stroke-width="1.5" marker-end="url(#arK)"/>
+<g stroke="#ddd" stroke-width="1"><path d="M100,240 H640 M100,310 H640"/></g>
+<g font-size="12" text-anchor="end" fill="#555">
+<text x="94" y="244">2000 kg</text>
+<text x="94" y="314">1000 kg</text>
+<text x="94" y="384">0</text>
+</g>
+<text x="672" y="398" font-size="12" text-anchor="end" fill="#555">days</text>
+<!-- stock falling -->
+<path d="M100,240 L460,380 L100,380 Z" fill="#f5ecc8"/>
+<path d="M100,240 L460,380" stroke="#0b5cad" stroke-width="3"/>
+<!-- shortfall -->
+<path d="M460,380 L640,450 L640,380 Z" fill="#fbe9e9"/>
+<path d="M460,380 L640,450" stroke="#c33" stroke-width="3" stroke-dasharray="8 5"/>
+<path d="M640,234 V462" stroke="#2e7d32" stroke-width="2"/>
+<!-- ticks -->
+<g font-size="12" text-anchor="middle" fill="#555">
+<text x="100" y="398">0</text>
+</g>
+<path d="M460,376 V384 M640,376 V384" stroke="#555" stroke-width="1.5"/>
+<text x="452" y="400" font-size="13" font-weight="bold" fill="#0b5cad" text-anchor="end">runs out on day 100</text>
+<!-- harvest -->
+<g transform="translate(640,230)" stroke="#2e7d32" stroke-width="2" fill="none">
+<path d="M0,0 V-14 M0,-14 q-6,-4 -6,-10 M0,-14 q6,-4 6,-10 M0,-6 q-7,-3 -8,-9 M0,-6 q7,-3 8,-9"/>
+</g>
+<text x="632" y="256" font-size="13" font-weight="bold" fill="#2e7d32" text-anchor="end">day 150: next harvest</text>
+<text x="200" y="268" font-size="13" fill="#0b5cad">stock 2000 kg, down 20 kg a day</text>
+<!-- dimension lines -->
+<path d="M102,424 H458" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB)" marker-end="url(#arB)"/>
+<text x="280" y="418" font-size="13" font-weight="bold" fill="#0b5cad" text-anchor="middle">enough for 100 days</text>
+<path d="M462,466 H638" stroke="#c33" stroke-width="1.5" marker-start="url(#arR)" marker-end="url(#arR)"/>
+<text x="550" y="460" font-size="13" font-weight="bold" fill="#c33" text-anchor="middle">50 days short</text>
+<text x="550" y="318" font-size="13" font-weight="bold" fill="#c33" text-anchor="middle">shortfall =</text>
+<text x="550" y="335" font-size="13" font-weight="bold" fill="#c33" text-anchor="middle">50 days × 20 kg</text>
+<text x="550" y="354" font-size="14" font-weight="bold" fill="#c33" text-anchor="middle">= 1000 kg</text>
+
+<!-- 3 act now -->
+<rect x="8" y="490" width="704" height="254" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="514" font-size="15" font-weight="bold">③ Found a shortfall? Act now</text>
+<g stroke="#0b5cad" stroke-width="1.2" fill="#e3eefa">
+<rect x="18" y="526" width="80" height="32" rx="16"/>
+<rect x="106" y="526" width="128" height="32" rx="16"/>
+<rect x="242" y="526" width="80" height="32" rx="16"/>
+<rect x="330" y="526" width="80" height="32" rx="16"/>
+</g>
+<g font-size="14" font-weight="bold" fill="#0b5cad" text-anchor="middle">
+<text x="58" y="547">Save</text>
+<text x="170" y="547">Sow fast crops</text>
+<text x="282" y="547">Forage</text>
+<text x="370" y="547">Trade</text>
+</g>
+<g font-size="13">
+<text x="20" y="584" font-weight="bold" fill="#c33">⚠ Start rationing early: rationing only when</text>
+<text x="38" y="600" font-weight="bold" fill="#c33">the food is nearly gone is too late</text>
+<text x="20" y="624" font-weight="bold" fill="#c33">⚠ Store and record seed grain separately;</text>
+<text x="38" y="640" font-weight="bold" fill="#c33">never eat it as food</text>
+<text x="38" y="656" font-size="12" fill="#555">(eat the seed and there is no next year)</text>
+<text x="20" y="680">Share rations by need, with beans, vegetables</text>
+<text x="20" y="697">and oil as well; the sick, elderly and disabled</text>
+<text x="20" y="714">must not get less because they cannot work</text>
+</g>
+<rect x="420" y="526" width="282" height="208" rx="4" fill="#fffbe8" stroke="#d9c98a" stroke-width="1"/>
+<g font-size="13">
+<text x="432" y="548" font-weight="bold">Rough grain needs</text>
+<text x="432" y="570">· With grain as the staple, an adult</text>
+<text x="444" y="588">needs about <tspan font-weight="bold">0.5 kg</tspan> grain a day</text>
+<text x="444" y="606">(about 1700-1800 kcal)</text>
+<text x="432" y="628">· Heavy labour and breastfeeding</text>
+<text x="444" y="646">women need more; children and</text>
+<text x="444" y="664">the elderly less</text>
+<text x="432" y="686">· A community of 100 needs about</text>
+<text x="444" y="704"><tspan font-weight="bold">18 t</tspan> of grain a year</text>
+<text x="432" y="726">· Allow for losses and next year's seed</text>
+</g>
+</g>
+</svg>

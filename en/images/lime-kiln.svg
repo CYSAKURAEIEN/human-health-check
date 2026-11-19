@@ -1,0 +1,252 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1524" width="720" height="1524" role="img" aria-label="Lime kiln and slaking quicklime: a simple shaft kiln (earth kiln) is dug into a hillside, loaded from the top of the slope and emptied at the bottom; the kiln chamber is cylindrical or egg-shaped, about 1.5-2.5 m inside diameter and about 2-4 m high; the earth bank is the insulation; the inside is lined with fire-resistant stones or bricks, with the joints sealed with clay; at one side of the base is the fire door / draw hole for adding fuel and air and for raking out the lime when the firing is done; stones laid across the bottom form a grate so air comes in from below; the top opening is for loading and letting smoke out. Mixed firing: lay kindling at the bottom, then load alternate layers of fuel (coal, coke, charcoal) and limestone upwards. Separate firing: build an arch of large limestone blocks laid dry at the bottom of the kiln, with the firebox under the arch; keep feeding wood at the fire door and the flames pass up through the stone. Firing: a low, slow fire on the first day; increase the fire gradually and keep the inside of the kiln bright red to orange-yellow, about 900-1000°C; dull red means the temperature is too low; a wood-fired kiln is kept at full fire for 2-4 days without letting the fire die; when done, close the fire door and cool slowly for 1-2 days before emptying; do not throw water into a hot kiln; rake the lime out through the draw hole with a long-handled rake; do not go into the kiln or stand on its top; there is carbon monoxide on top of the kiln and downwind. Slaking: quicklime plus water becomes slaked lime and gives off a lot of heat; put the water in first, then add lumps of quicklime in batches, using about 3-4 times as much water as quicklime by weight; stir with a long-handled wooden rake, standing well back with your face turned away; do not pour a little water onto a big heap of lime, as it boils locally and spatters; do not use plastic buckets or tubs, as the temperature can approach 100°C; strain out the grit into the storage pit and keep a layer of water over the putty; maturing: at least 2 weeks for masonry, at least 1 month for plastering and limewash. Safety: wear goggles, gloves and long sleeves and keep a bucket of clean water beside you; if it gets in the eyes, wipe away particles around the eye, then at once hold the eyelids open and rinse continuously with plenty of clean water, and see a doctor as soon as possible; on the skin, first brush off the dry powder, then rinse with plenty of clean water" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Lime kiln and slaking quicklime</title>
+<defs>
+<pattern id="brick" width="14" height="12" patternUnits="userSpaceOnUse"><rect width="14" height="12" fill="#d9a07a"/><path d="M0 0.5 H14 M0 6.5 H14 M4 0.5 V6.5 M11 6.5 V12" stroke="#a0623e" stroke-width="1"/></pattern>
+<pattern id="soil" width="16" height="16" patternUnits="userSpaceOnUse"><rect width="16" height="16" fill="#efe4cf"/><circle cx="4" cy="5" r="1.1" fill="#bba57a"/><circle cx="12" cy="12" r="1.1" fill="#bba57a"/><circle cx="11" cy="3" r="0.8" fill="#bba57a"/></pattern>
+<pattern id="ls" width="26" height="15" patternUnits="userSpaceOnUse"><rect width="26" height="15" fill="#efefe9"/><ellipse cx="13" cy="7.5" rx="11.5" ry="6.4" fill="#d3d3ca" stroke="#666" stroke-width="1"/></pattern>
+<pattern id="coal" width="10" height="12" patternUnits="userSpaceOnUse"><rect width="10" height="12" fill="#3a3a3a"/><circle cx="3" cy="4" r="1.6" fill="#6a6a6a"/><circle cx="8" cy="9" r="1.3" fill="#6a6a6a"/></pattern>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<marker id="arB0" viewBox="0 0 10 10" refX="2" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M10 0 L0 5 L10 10 Z" fill="#0b5cad"/></marker>
+<marker id="arG" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#888"/></marker>
+<g id="log"><rect x="-14" y="-4" width="28" height="8" rx="3" fill="#8b6b3e" stroke="#333" stroke-width="1"/><ellipse cx="14" cy="0" rx="2.5" ry="4" fill="#c9a26a" stroke="#333" stroke-width="0.8"/></g>
+<path id="lump" d="M-8 2 L-6 -5 L1 -7 L7 -3 L8 4 L1 7 L-6 6 Z"/>
+<rect id="lb" x="-3" y="-11" width="6" height="16" rx="2" fill="#fff" stroke="none"/>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Lime kiln and slaking quicklime (schematic, not to scale)</text>
+
+<!-- 1 shaft kiln in section -->
+<rect x="10" y="44" width="700" height="444" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="70" font-size="16" font-weight="bold">① Simple shaft kiln (earth kiln) in section</text>
+<text x="24" y="90" font-size="13" fill="#555">Dug into a hillside: loaded from the top of the slope, emptied at the bottom</text>
+<g transform="translate(0,20)">
+<path d="M11.5 130 H330 Q342 270 360 400 H11.5 Z" fill="url(#soil)"/>
+<rect x="11.5" y="400" width="697" height="54" fill="url(#soil)"/>
+<!-- kiln chamber -->
+<rect x="170" y="130" width="130" height="270" fill="#fff"/>
+<rect x="300" y="360" width="60" height="40" fill="#fff"/>
+<rect x="156" y="130" width="14" height="270" fill="url(#brick)" stroke="#333" stroke-width="1.5"/>
+<rect x="300" y="130" width="14" height="230" fill="url(#brick)" stroke="#333" stroke-width="1.5"/>
+<path d="M300 360 H354" stroke="#333" stroke-width="2"/>
+<!-- mixed firing charge: alternate layers of fuel and limestone -->
+<g transform="translate(170,150)"><rect width="130" height="30" fill="url(#ls)"/></g>
+<g transform="translate(170,180)"><rect width="130" height="12" fill="url(#coal)"/></g>
+<g transform="translate(170,192)"><rect width="130" height="30" fill="url(#ls)"/></g>
+<g transform="translate(170,222)"><rect width="130" height="12" fill="url(#coal)"/></g>
+<g transform="translate(170,234)"><rect width="130" height="30" fill="url(#ls)"/></g>
+<g transform="translate(170,264)"><rect width="130" height="12" fill="url(#coal)"/></g>
+<g transform="translate(170,276)"><rect width="130" height="30" fill="url(#ls)"/></g>
+<g transform="translate(170,306)"><rect width="130" height="12" fill="url(#coal)"/></g>
+<g transform="translate(170,318)"><rect width="130" height="30" fill="url(#ls)"/></g>
+<g transform="translate(170,348)"><rect width="130" height="12" fill="url(#coal)"/></g>
+<use href="#log" x="190" y="368"/><use href="#log" x="222" y="366"/><use href="#log" x="254" y="368"/><use href="#log" x="282" y="366"/>
+<!-- burning zone -->
+<rect x="170" y="276" width="130" height="98" fill="#f08a24" fill-opacity="0.4"/>
+<path d="M176 362 Q182 340 190 352 Q196 330 206 350 Q214 336 222 356 M240 356 Q248 334 258 350 Q266 330 274 352 Q282 342 292 362" fill="none" stroke="#c33" stroke-width="1.6"/>
+<!-- grate -->
+<g fill="#b9b9b0" stroke="#333" stroke-width="1.2">
+<rect x="172" y="386" width="10" height="14"/><rect x="230" y="386" width="10" height="14"/><rect x="288" y="386" width="10" height="14"/>
+<rect x="172" y="374" width="22" height="12" rx="4"/><rect x="199" y="374" width="22" height="12" rx="4"/><rect x="226" y="374" width="22" height="12" rx="4"/><rect x="253" y="374" width="22" height="12" rx="4"/><rect x="278" y="374" width="20" height="12" rx="4"/>
+</g>
+<path d="M11.5 130 H330 Q342 270 360 400 H708.5" fill="none" stroke="#999" stroke-width="3"/>
+<!-- air, smoke, loading -->
+<path d="M384 393 H186" fill="none" stroke="#0b5cad" stroke-width="2.2" marker-end="url(#arB)"/>
+<path d="M210 393 V380 M260 393 V380" fill="none" stroke="#0b5cad" stroke-width="2" marker-end="url(#arB)"/>
+<path d="M218 140 Q210 126 218 114 T216 88" fill="none" stroke="#888" stroke-width="2.2" marker-end="url(#arG)"/>
+<path d="M254 140 Q262 126 254 114 T256 88" fill="none" stroke="#888" stroke-width="2.2" marker-end="url(#arG)"/>
+<path d="M112 102 Q150 100 178 142" fill="none" stroke="#c33" stroke-width="2.4" marker-end="url(#arR)"/>
+<text x="24" y="98" font-size="14" fill="#c33" font-weight="bold">Load from</text>
+<text x="24" y="115" font-size="14" fill="#c33" font-weight="bold">uphill</text>
+
+<!-- labels on the left (on the earth bank) -->
+<g fill="#fff" fill-opacity="0.85"><rect x="18" y="168" width="132" height="62" rx="3"/><rect x="30" y="246" width="104" height="42" rx="3"/><rect x="18" y="308" width="132" height="62" rx="3"/><rect x="104" y="424" width="252" height="24" rx="3"/></g>
+<text x="24" y="185" font-size="14" font-weight="bold">The earth bank</text>
+<text x="24" y="202" font-size="14" font-weight="bold">is the insulation</text>
+<text x="24" y="220" font-size="13" fill="#555">easiest: dig into it</text>
+<path d="M140 134 V396" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<text x="36" y="264" font-size="14" fill="#0b5cad" font-weight="bold">about 2-4 m</text>
+<text x="36" y="281" font-size="14" fill="#0b5cad" font-weight="bold">high</text>
+<text x="24" y="326" font-size="14" font-weight="bold">Grate: stones</text>
+<text x="24" y="343" font-size="13">raise the charge;</text>
+<text x="24" y="360" font-size="13">air enters below</text>
+<line x1="150" y1="352" x2="190" y2="380" stroke="#0b5cad" stroke-width="1.2"/><circle cx="190" cy="380" r="2.6" fill="#0b5cad"/>
+<path d="M174 414 H296" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#arB0)" marker-end="url(#arB)"/>
+<text x="230" y="441" font-size="14" fill="#0b5cad" font-weight="bold" text-anchor="middle">about 1.5-2.5 m inside diameter</text>
+<text x="366" y="441" font-size="13" fill="#555">Chamber: cylindrical or egg-shaped</text>
+
+<!-- labels on the right -->
+<g stroke="#0b5cad" stroke-width="1.2">
+<line x1="396" y1="96" x2="292" y2="132"/><line x1="396" y1="156" x2="308" y2="150"/><line x1="396" y1="210" x2="284" y2="186"/><line x1="396" y1="248" x2="284" y2="250"/><line x1="396" y1="296" x2="284" y2="300"/><line x1="396" y1="342" x2="282" y2="366"/><line x1="396" y1="372" x2="344" y2="378"/>
+</g>
+<g fill="#0b5cad"><circle cx="292" cy="132" r="2.6"/><circle cx="308" cy="150" r="2.6"/><circle cx="284" cy="186" r="2.6"/><circle cx="284" cy="250" r="2.6"/><circle cx="284" cy="300" r="2.6"/><circle cx="282" cy="366" r="2.6"/><circle cx="344" cy="378" r="2.6"/></g>
+<text x="402" y="100" font-size="15" font-weight="bold">Top opening</text>
+<text x="500" y="100" font-size="14">loading, smoke out</text>
+<text x="402" y="160" font-size="15" font-weight="bold">Lining</text>
+<text x="456" y="160" font-size="14">fire-resistant stone or brick,</text>
+<text x="456" y="178" font-size="14">joints sealed with clay</text>
+<text x="402" y="214" font-size="15" font-weight="bold">Fuel</text>
+<text x="444" y="214" font-size="14">coal, coke, charcoal</text>
+<text x="402" y="252" font-size="15" font-weight="bold">Limestone</text>
+<text x="486" y="252" font-size="14">fist size to 10-20 cm</text>
+<text x="402" y="296" font-size="15" font-weight="bold" fill="#c33">Burning zone</text>
+<text x="510" y="296" font-size="14" fill="#c33">about 900-1000°C</text>
+<text x="402" y="314" font-size="14" fill="#c33">keep it bright red to orange-yellow</text>
+<text x="402" y="346" font-size="15" font-weight="bold">Kindling</text>
+<text x="474" y="346" font-size="14">laid at the bottom</text>
+<text x="402" y="376" font-size="15" font-weight="bold">Fire door / draw hole (downhill)</text>
+<text x="402" y="394" font-size="13">add fuel and air; rake the lime out here</text>
+<text x="502" y="121" font-size="12" fill="#555">Mixed firing: load alternate</text>
+<text x="502" y="137" font-size="12" fill="#555">layers of fuel and limestone</text>
+</g>
+
+<!-- 2 separate firing -->
+<g transform="translate(0,20)">
+<rect x="10" y="480" width="250" height="438" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="506" font-size="15" font-weight="bold">② Separate firing</text>
+<text x="24" y="524" font-size="13" fill="#555">own firebox, suits wood fuel</text>
+<g transform="translate(0,22)">
+<rect x="70" y="530" width="130" height="160" fill="#fff"/>
+<rect x="58" y="530" width="12" height="122" fill="url(#brick)" stroke="#333" stroke-width="1.5"/>
+<rect x="200" y="530" width="12" height="160" fill="url(#brick)" stroke="#333" stroke-width="1.5"/>
+<path d="M50 652 H70" stroke="#333" stroke-width="1.5"/>
+<g fill="#d3d3ca" stroke="#555" stroke-width="1">
+<circle cx="78" cy="561" r="7"/><circle cx="93" cy="561" r="7"/><circle cx="108" cy="561" r="7"/><circle cx="123" cy="561" r="7"/><circle cx="138" cy="561" r="7"/><circle cx="153" cy="561" r="7"/><circle cx="168" cy="561" r="7"/><circle cx="183" cy="561" r="7"/><circle cx="195" cy="561" r="5"/>
+<circle cx="80" cy="580" r="9"/><circle cx="99" cy="580" r="9"/><circle cx="118" cy="580" r="9"/><circle cx="137" cy="580" r="9"/><circle cx="156" cy="580" r="9"/><circle cx="175" cy="580" r="9"/><circle cx="192" cy="580" r="8"/>
+<circle cx="82" cy="604" r="12"/><circle cx="107" cy="604" r="12"/><circle cx="132" cy="604" r="12"/><circle cx="157" cy="604" r="12"/><circle cx="182" cy="604" r="12"/>
+</g>
+<g fill="#c4c4ba" stroke="#333" stroke-width="1.6">
+<circle cx="81" cy="675.5" r="13"/><circle cx="95.4" cy="650.4" r="13"/><circle cx="120.5" cy="635.9" r="13"/><circle cx="149.5" cy="635.9" r="13"/><circle cx="174.6" cy="650.4" r="13"/><circle cx="189" cy="675.5" r="13"/>
+</g>
+<path d="M98 688 Q104 662 114 674 Q120 650 132 670 Q142 652 150 674 Q160 662 168 688 Z" fill="#f2a33a" stroke="#c33" stroke-width="1.3"/>
+<use href="#log" x="40" y="682"/><use href="#log" x="66" y="684"/><use href="#log" x="120" y="684"/><use href="#log" x="150" y="684"/>
+<path d="M30 690 H240" stroke="#999" stroke-width="3"/>
+<g fill="none" stroke="#c33" stroke-width="2" marker-end="url(#arR)">
+<path d="M108 662 Q100 636 108 620 V540"/><path d="M135 656 V616 Q130 590 135 540"/><path d="M162 662 Q170 636 162 620 V540"/>
+</g>
+<text x="135" y="524" font-size="12" fill="#555" text-anchor="middle">limestone on top (big pieces lower)</text>
+<text x="34" y="634" font-size="12" fill="#0b5cad" text-anchor="middle">fire</text>
+<text x="34" y="647" font-size="12" fill="#0b5cad" text-anchor="middle">door</text>
+</g>
+<text x="24" y="738" font-size="13">Big limestone blocks laid dry</text>
+<text x="24" y="757" font-size="13">form an arch; the firebox is</text>
+<text x="24" y="776" font-size="13">underneath. Keep feeding wood</text>
+<text x="24" y="795" font-size="13">at the fire door; the flames</text>
+<text x="24" y="814" font-size="13">pass up through the stone</text>
+<text x="24" y="844" font-size="13" fill="#555">The lime is not mixed with</text>
+<text x="24" y="863" font-size="13" fill="#555">fuel ash: fairly clean</text>
+
+<!-- 3 the firing -->
+<rect x="270" y="480" width="440" height="438" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="284" y="506" font-size="15" font-weight="bold">③ The firing</text>
+<g font-size="14">
+<text x="284" y="534" font-weight="bold">1. First day: low, slow fire</text>
+<text x="304" y="553" font-size="13">drives the water out of the stones and kiln walls;</text>
+<text x="304" y="571" font-size="13">a fierce fire will crack the stone and the walls</text>
+<text x="284" y="600" font-weight="bold">2. Increase the fire gradually</text>
+<rect x="304" y="608" width="26" height="16" fill="#8b1a1a" stroke="#333"/>
+<text x="338" y="621" font-size="13">dull red: temperature too low</text>
+<path d="M317 626 V638" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<rect x="304" y="642" width="13" height="16" fill="#ec3a2c" stroke="#333"/>
+<rect x="317" y="642" width="13" height="16" fill="#f39a2a" stroke="#333"/>
+<text x="338" y="655" font-size="13" fill="#c33" font-weight="bold">keep it bright red to orange-yellow: about 900-1000°C</text>
+<text x="304" y="680" font-size="13">A wood-fired kiln is kept at full fire for 2-4 days</text>
+<text x="304" y="698" font-size="13">(depending on kiln and stone size); never let the fire die</text>
+<text x="284" y="728" font-weight="bold">3. When done, close the fire door and cool</text>
+<text x="284" y="746" font-weight="bold">    slowly for 1-2 days before emptying</text>
+<text x="304" y="765" font-size="13" fill="#c33">✗ Do not throw water into a hot kiln</text>
+<text x="284" y="794" font-weight="bold">4. Rake the lime out through the draw hole</text>
+<text x="304" y="812" font-size="13">with a long-handled rake</text>
+<text x="304" y="831" font-size="13" fill="#c33">✗ Do not go into the kiln or stand on its top</text>
+</g>
+<rect x="282" y="844" width="416" height="64" rx="5" fill="#fdf3f3"/>
+<text x="292" y="862" font-size="13" fill="#c33" font-weight="bold">⚠️ Carbon monoxide: do not linger on top of the kiln,</text>
+<text x="292" y="879" font-size="13" fill="#c33" font-weight="bold">downwind of it or in low-lying ground</text>
+<text x="292" y="898" font-size="13" fill="#c33">The charge can "hang": poke only with a long pole from outside</text>
+</g>
+
+<!-- 4 slaking -->
+<g transform="translate(0,142)">
+<rect x="10" y="808" width="700" height="370" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="834" font-size="16" font-weight="bold">④ Slaking: quicklime + water → slaked lime + lots of heat</text>
+<text x="696" y="834" font-size="14" fill="#555" text-anchor="end">CaO + H₂O → Ca(OH)₂</text>
+
+<g transform="translate(20,846)">
+<rect width="220" height="252" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="10" y="22" font-size="14" font-weight="bold" fill="#0b5cad">✓ Water in first, then add</text>
+<text x="10" y="40" font-size="14" font-weight="bold" fill="#0b5cad">quicklime lumps in batches</text>
+<g transform="translate(0,18)">
+<path d="M28 60 L36 128 H128 L136 60" fill="#a9a9a9" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M32 74 L38 124 H126 L132 74 Z" fill="#d8ebf7"/>
+<path d="M32 74 H132" stroke="#0b5cad" stroke-width="1.5"/>
+<g fill="#d3d3ca" stroke="#333" stroke-width="1.2"><use href="#lump" x="72" y="44"/><use href="#lump" x="94" y="34"/></g>
+<path d="M82 52 V68" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<path d="M52 70 Q46 60 52 52 T50 38 M112 70 Q118 60 112 52 T114 38" fill="none" stroke="#888" stroke-width="1.6"/>
+<path d="M206 38 L120 112" stroke="#8b6b3e" stroke-width="4" stroke-linecap="round"/>
+<path d="M112 106 L128 120 M110 112 L122 122" stroke="#8b6b3e" stroke-width="3" stroke-linecap="round"/>
+<text x="146" y="122" font-size="12" fill="#555">long wooden</text>
+<text x="146" y="136" font-size="12" fill="#555">rake</text>
+</g>
+<text x="10" y="170" font-size="13">Water: about 3-4 times the</text>
+<text x="10" y="188" font-size="13">weight of quicklime</text>
+<text x="10" y="206" font-size="13">Stir with a long-handled rake,</text>
+<text x="10" y="224" font-size="13">stand back, face turned away</text>
+<text x="10" y="242" font-size="13" fill="#555">It steams, boils and spatters</text>
+</g>
+
+<g transform="translate(250,846)">
+<rect width="220" height="252" rx="6" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<text x="10" y="22" font-size="14" font-weight="bold" fill="#c33">✗ Pouring a little water</text>
+<text x="10" y="40" font-size="14" font-weight="bold" fill="#c33">onto a big heap of lime</text>
+<g transform="translate(0,18)">
+<path d="M50 126 Q110 52 170 126 Z" fill="#e2e2da" stroke="#333" stroke-width="2"/>
+<g fill="#d3d3ca" stroke="#555" stroke-width="1"><use href="#lump" x="86" y="112"/><use href="#lump" x="110" y="104"/><use href="#lump" x="134" y="114"/><use href="#lump" x="98" y="94"/><use href="#lump" x="122" y="92"/></g>
+<path d="M30 44 L52 36 L58 52 L38 60 Z" fill="#cfe0f0" stroke="#333" stroke-width="1.5"/>
+<path d="M56 46 Q84 46 104 78" fill="none" stroke="#7aa6cc" stroke-width="3"/>
+<g stroke="#c33" stroke-width="2" stroke-linecap="round"><path d="M112 74 L118 58 M124 78 L140 66 M100 72 L94 56 M130 88 L150 86"/></g>
+<g fill="#c33"><circle cx="122" cy="50" r="2.6"/><circle cx="146" cy="58" r="2.6"/><circle cx="90" cy="48" r="2.2"/><circle cx="158" cy="78" r="2.2"/></g>
+<path d="M170 64 Q164 54 170 46 T168 32" fill="none" stroke="#888" stroke-width="1.6"/>
+</g>
+<text x="10" y="170" font-size="13" fill="#c33" font-weight="bold">It boils locally and spatters</text>
+<text x="10" y="188" font-size="13">(for hydrated lime powder in</text>
+<text x="10" y="206" font-size="13">bulk see the text: spread it</text>
+<text x="10" y="224" font-size="13">thin and sprinkle a little</text>
+<text x="10" y="242" font-size="13">water as you turn it)</text>
+</g>
+
+<g transform="translate(480,846)">
+<rect width="220" height="252" rx="6" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<text x="10" y="22" font-size="14" font-weight="bold" fill="#c33">✗ Plastic buckets or tubs</text>
+<g transform="translate(0,18)">
+<path d="M60 56 Q56 80 64 96 Q58 112 66 128 H130 Q138 110 132 96 Q142 78 136 56 Z" fill="#7aa6cc" stroke="#333" stroke-width="2"/>
+<path d="M54 56 H142" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+<path d="M84 128 L88 116 L84 108 M116 56 L112 70 L118 78" fill="none" stroke="#333" stroke-width="1.6"/>
+<path d="M84 50 Q78 42 84 34 T82 22 M112 50 Q118 42 112 34 T114 22" fill="none" stroke="#888" stroke-width="1.6"/>
+<text x="148" y="88" font-size="13" fill="#c33" font-weight="bold">softens</text>
+<text x="148" y="120" font-size="13" fill="#c33" font-weight="bold">cracks</text>
+</g>
+<text x="10" y="170" font-size="13">The temperature can</text>
+<text x="10" y="188" font-size="13">approach 100°C</text>
+<text x="10" y="206" font-size="13">→ use a brick or stone pit,</text>
+<text x="10" y="224" font-size="13">an iron drum or an old</text>
+<text x="10" y="242" font-size="13">iron pan</text>
+</g>
+
+<text x="24" y="1124" font-size="14">Strain out unslaked grit → into the storage pit, keep a layer of water on top → <tspan font-weight="bold">mature</tspan></text>
+<text x="24" y="1146" font-size="14">Maturing: at least 2 weeks for masonry, at least 1 month for plastering and limewash</text>
+<text x="24" y="1166" font-size="13" fill="#555">(lets overburnt particles finish slaking in the pit, so they do not "pop" in the wall)</text>
+
+<!-- safety -->
+<rect x="10" y="1190" width="700" height="180" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="2"/>
+<text x="24" y="1216" font-size="15" font-weight="bold" fill="#c33">⚠️ Quicklime gets violently hot with water and can boil it;</text>
+<text x="24" y="1236" font-size="15" font-weight="bold" fill="#c33">dust or slurry in the eyes can cause blindness</text>
+<text x="24" y="1260" font-size="14">✓ When handling quicklime, slaking it or mixing mortar, wear goggles, gloves and</text>
+<text x="24" y="1278" font-size="14">long sleeves, and keep a bucket of clean water beside you</text>
+<text x="24" y="1302" font-size="14"><tspan font-weight="bold" fill="#c33">In the eyes:</tspan> wipe away particles around the eye, then at once hold the eyelids</text>
+<text x="24" y="1320" font-size="14">open and rinse continuously with plenty of clean water; see a doctor as soon as possible</text>
+<text x="24" y="1344" font-size="14"><tspan font-weight="bold" fill="#c33">On the skin:</tspan> first brush (wipe) off the dry powder, then rinse with plenty of clean</text>
+<text x="24" y="1362" font-size="14">water; do not splash a little water on first</text>
+</g>
+</g>
+</svg>

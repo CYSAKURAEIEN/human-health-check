@@ -109,7 +109,7 @@ Smelting metal and making tools from scratch after a collapse.
 - **Other metals**: sources of tin, lead, zinc, gold and silver, the principles of smelting them, and protection
 - **Sheet and wire**: annealing, rolling and spreading, tinplate, wire drawing and electrical wire
 
-### [VI. Pharmaceuticals](../docs/06-制药技术/README.md)
+### [VI. Pharmaceuticals](docs/06-pharmaceuticals/README.md)
 
 What to do when civilisation has collapsed and commercial medicines cannot be obtained. **The focus is on stockpiling in advance and workable alternatives, not on making medicines yourself.**
 
@@ -121,7 +121,7 @@ What to do when civilisation has collapsed and commercial medicines cannot be ob
 - **Fever and pain medicines**: willow bark decoction; why aspirin and paracetamol cannot be made at home; principles, contraindications and when-to-see-a-doctor criteria for using ready-made medicines
 - **Traditional Chinese medicine preparations**: processing and decocting common Chinese herbs (doses according to the Chinese Pharmacopoeia), people who must not take them, toxic Chinese herbs, warnings about using them alongside Western medicines
 
-### [VII. Everyday Living Skills](../docs/07-日常生活技能/README.md)
+### [VII. Everyday Living Skills](docs/07-everyday-living-skills/README.md)
 
 The most basic skills for long-term living, and the easiest to overlook.
 
@@ -302,13 +302,13 @@ Compound units use "/" to mean "per", e.g. m/s (metres per second), kg/ha (kilog
 | Is the herb you dug up a poisonous plant? | [Comparison of easily confused poisonous plants](../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#四易混淆的有毒植物对照) (*Gouwen*, pokeweed, water hemlock, etc.; if you are not sure, do not pick it) |
 | Feeling unwell after taking self-collected herbs or herbal wine | [General treatment of poisoning](../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#五中毒的通用处理) (call 120 at once and take the remaining herbs with you) |
 | How to save seed, and whether it will germinate | [Seed saving and breeding](docs/04-farming-and-animal-husbandry/08-seed-saving-and-breeding.md#germination-testing) |
-| The salt has run out | [Salt making](../docs/07-日常生活技能/15-制盐.md#海水取盐-基本道理) |
-| How to tie knots | [Common knots](../docs/07-日常生活技能/17-绳索与结绳.md#常用绳结) |
+| The salt has run out | [Salt making](docs/07-everyday-living-skills/15-salt-making.md#salt-from-seawater-the-basic-idea) |
+| How to tie knots | [Common knots](docs/07-everyday-living-skills/17-rope-and-knots.md#common-knots) |
 | How much gradient to give an irrigation channel | [Levelling](../docs/08-基础科学知识/08-测量与制图.md#四水准测量) |
-| How long the food will last | [Stock management](../docs/07-日常生活技能/13-记账交易与社会分工.md#库存管理) |
-| Using the toilet when the water is off | [Sanitation – emergency toilets](../docs/07-日常生活技能/03-卫生设施.md#应急厕所) |
-| Breaker tripping, socket getting hot | [Household electrical safety](../docs/07-日常生活技能/08-家庭用电安全.md#漏电保护器和空气开关) |
-| Can flooded appliances be used after a disaster? | [Restoring power after a disaster](../docs/07-日常生活技能/08-家庭用电安全.md#灾后恢复用电) |
+| How long the food will last | [Stock management](docs/07-everyday-living-skills/13-record-keeping-trade-and-division-of-labour.md#managing-stores) |
+| Using the toilet when the water is off | [Sanitation – emergency toilets](docs/07-everyday-living-skills/03-sanitation.md#emergency-toilets) |
+| Breaker tripping, socket getting hot | [Household electrical safety](docs/07-everyday-living-skills/08-household-electrical-safety.md#rcds-and-circuit-breakers) |
+| Can flooded appliances be used after a disaster? | [Restoring power after a disaster](docs/07-everyday-living-skills/08-household-electrical-safety.md#restoring-power-after-a-disaster) |
 | Finding the body of a disaster victim | [Handling the dead after disasters](docs/02-disaster-response/07-handling-the-dead-after-disasters.md#first-of-all-what-this-chapter-is-for) |
 
 ## 🖼️ Diagram index
@@ -392,32 +392,32 @@ Compound units use "/" to mean "per", e.g. m/s (metres per second), kg/ha (kilog
 
 ### VI. Pharmaceuticals
 
-- **[基础制药知识](../docs/06-制药技术/00-基础制药知识.md)**: [剂量单位与量取液体药](../docs/06-制药技术/00-基础制药知识.md#24-剂量换算与称量误差)
-- **[消毒剂制备](../docs/06-制药技术/01-消毒剂制备.md)**: [简易蒸馏装置](../docs/06-制药技术/01-消毒剂制备.md#简易蒸馏装置)
-- **[抗生素制备](../docs/06-制药技术/02-抗生素制备.md)**: [抗生素使用原则与耐药](../docs/06-制药技术/02-抗生素制备.md#44-耐药-为什么每一片都要用对)
-- **[解热镇痛药](../docs/06-制药技术/03-解热镇痛药.md)**: [常用退烧止痛药: 谁能用、怎样用才安全](../docs/06-制药技术/03-解热镇痛药.md#54-常用非处方退烧止痛药怎么选)
-- **[中药制剂](../docs/06-制药技术/04-中药制剂.md)**: [家庭煎中药的方法](../docs/06-制药技术/04-中药制剂.md#52-煎煮步骤)
+- **[Pharmacy Basics](docs/06-pharmaceuticals/00-pharmacy-basics.md)**: [Dose units and measuring liquid medicine](docs/06-pharmaceuticals/00-pharmacy-basics.md#24-dose-conversion-and-weighing-errors)
+- **[Making Disinfectants](docs/06-pharmaceuticals/01-disinfectants.md)**: [A simple still](docs/06-pharmaceuticals/01-disinfectants.md#simple-still)
+- **[Making Antibiotics](docs/06-pharmaceuticals/02-antibiotics.md)**: [Antibiotic use and resistance](docs/06-pharmaceuticals/02-antibiotics.md#44-resistance-why-every-tablet-must-be-used-correctly)
+- **[Fever and Pain Relievers](docs/06-pharmaceuticals/03-fever-and-pain-relievers.md)**: [Common fever and pain relievers: who can use them, and how to use them safely](docs/06-pharmaceuticals/03-fever-and-pain-relievers.md#54-choosing-common-over-the-counter-fever-and-pain-medicines)
+- **[Traditional Chinese Medicine Preparations](docs/06-pharmaceuticals/04-herbal-preparations.md)**: [Making a herbal decoction at home](docs/06-pharmaceuticals/04-herbal-preparations.md#52-decocting-step-by-step)
 
 ### VII. Everyday Living Skills
 
-- **[食物加工与保存](../docs/07-日常生活技能/01-食物加工与保存.md)**: [地窖剖面](../docs/07-日常生活技能/01-食物加工与保存.md#地窖)
-- **[营养与营养缺乏病](../docs/07-日常生活技能/02-营养与营养缺乏病.md)**: [常见营养缺乏病: 早期表现与预防食物](../docs/07-日常生活技能/02-营养与营养缺乏病.md#常见营养缺乏病)
-- **[卫生设施: 厕所、粪便与垃圾](../docs/07-日常生活技能/03-卫生设施.md)**: [旱厕剖面与选址](../docs/07-日常生活技能/03-卫生设施.md#使用和维护) · [洗手: 什么时候洗、怎么洗](../docs/07-日常生活技能/03-卫生设施.md#必须洗手的时刻)
-- **[制皂](../docs/07-日常生活技能/04-制皂.md)**: [草木灰碱水制皂](../docs/07-日常生活技能/04-制皂.md#第四步-熟化与检验)
-- **[长期住所](../docs/07-日常生活技能/05-长期住所.md)**: [火炕与炉灶剖面](../docs/07-日常生活技能/05-长期住所.md#炉灶)
-- **[照明与能源](../docs/07-日常生活技能/06-照明与能源.md)**: [碟子油灯](../docs/07-日常生活技能/06-照明与能源.md#碟子油灯) · [自制蜡烛](../docs/07-日常生活技能/06-照明与能源.md#-安全) · [沼气池剖面与危险](../docs/07-日常生活技能/06-照明与能源.md#安全规则)
-- **[纺织、缝补与鞣皮](../docs/07-日常生活技能/07-纺织缝补与鞣皮.md)**: [纺锤纺线](../docs/07-日常生活技能/07-纺织缝补与鞣皮.md#纺锤纺线最简单的工具)
-- **[家庭用电安全](../docs/07-日常生活技能/08-家庭用电安全.md)**: [漏电保护器和空气开关](../docs/07-日常生活技能/08-家庭用电安全.md#漏电保护器和空气开关) · [灾后恢复用电](../docs/07-日常生活技能/08-家庭用电安全.md#灾后恢复用电)
-- **[木工与工具维护](../docs/07-日常生活技能/09-木工与工具维护.md)**: [木材自然干燥](../docs/07-日常生活技能/09-木工与工具维护.md#干燥) · [锯木头](../docs/07-日常生活技能/09-木工与工具维护.md#锯) · [直角榫](../docs/07-日常生活技能/09-木工与工具维护.md#简单的榫卯-直角榫) · [换工具柄](../docs/07-日常生活技能/09-木工与工具维护.md#换工具柄斧锤锄) · [磨刀](../docs/07-日常生活技能/09-木工与工具维护.md#磨刀)
-- **[水源工程与供水](../docs/07-日常生活技能/10-水源工程与供水.md)**: [手挖井剖面与安全](../docs/07-日常生活技能/10-水源工程与供水.md#井水消毒) · [屋顶雨水收集](../docs/07-日常生活技能/10-水源工程与供水.md#收集雨水) · [慢砂过滤池剖面](../docs/07-日常生活技能/10-水源工程与供水.md#慢砂过滤池)
-- **[陶瓷、玻璃与造纸](../docs/07-日常生活技能/11-陶瓷玻璃与造纸.md)**: [简易升焰窑](../docs/07-日常生活技能/11-陶瓷玻璃与造纸.md#简易升焰窑) · [造纸的步骤](../docs/07-日常生活技能/11-陶瓷玻璃与造纸.md#步骤)
-- **[教育与知识传承](../docs/07-日常生活技能/12-教育与知识传承.md)**: [抄写和保存资料](../docs/07-日常生活技能/12-教育与知识传承.md#抄写和保存资料)
-- **[记账、交易与社会分工](../docs/07-日常生活技能/13-记账交易与社会分工.md)**: [粮食够吃多久](../docs/07-日常生活技能/13-记账交易与社会分工.md#算一算够用多久)
-- **[粮油加工](../docs/07-日常生活技能/14-粮油加工.md)**: [扬场与风选: 风车、扬场和簸箕](../docs/07-日常生活技能/14-粮油加工.md#风车扇车)
-- **[制盐](../docs/07-日常生活技能/15-制盐.md)**: [晒盐的盐田](../docs/07-日常生活技能/15-制盐.md#晒盐-盐田)
-- **[石灰与建筑材料](../docs/07-日常生活技能/16-石灰与建筑材料.md)**: [石灰窑与生石灰熟化](../docs/07-日常生活技能/16-石灰与建筑材料.md#烧制过程)
-- **[绳索与结绳](../docs/07-日常生活技能/17-绳索与结绳.md)**: [平结](../docs/07-日常生活技能/17-绳索与结绳.md#平结-只用来捆扎) · [单套结(称人结)](../docs/07-日常生活技能/17-绳索与结绳.md#单套结称人结-打一个不会收紧的绳圈) · [八字结](../docs/07-日常生活技能/17-绳索与结绳.md#八字结-止索结和八字绳圈) · [双套结](../docs/07-日常生活技能/17-绳索与结绳.md#双套结-系在柱子上) · [卡车司机结](../docs/07-日常生活技能/17-绳索与结绳.md#卡车司机结货运结-把绳子勒紧)
-- **[车船与道路](../docs/07-日常生活技能/18-车船与道路.md)**: [为什么独轮车省力](../docs/07-日常生活技能/18-车船与道路.md#为什么独轮车省力) · [车轮与车轴](../docs/07-日常生活技能/18-车船与道路.md#轴和轴套) · [双轮板车的平衡](../docs/07-日常生活技能/18-车船与道路.md#双轮板车的平衡) · [桥: 梁桥、拱桥、索桥和检验](../docs/07-日常生活技能/18-车船与道路.md#-桥的检验和使用) · [筏: 用浮力算载重](../docs/07-日常生活技能/18-车船与道路.md#筏-用浮力算载重)
+- **[Food Processing and Preservation](docs/07-everyday-living-skills/01-food-processing-and-preservation.md)**: [Root cellar cross-section](docs/07-everyday-living-skills/01-food-processing-and-preservation.md#root-cellar)
+- **[Nutrition and Deficiency Diseases](docs/07-everyday-living-skills/02-nutrition-and-deficiency-diseases.md)**: [Common deficiency diseases: early signs and the foods that prevent them](docs/07-everyday-living-skills/02-nutrition-and-deficiency-diseases.md#common-deficiency-diseases)
+- **[Sanitation: Toilets, Excreta and Rubbish](docs/07-everyday-living-skills/03-sanitation.md)**: [Pit latrine cross-section and siting](docs/07-everyday-living-skills/03-sanitation.md#use-and-maintenance) · [Handwashing: when and how](docs/07-everyday-living-skills/03-sanitation.md#when-you-must-wash-your-hands)
+- **[Soap Making](docs/07-everyday-living-skills/04-soap-making.md)**: [Soap from wood-ash lye](docs/07-everyday-living-skills/04-soap-making.md#step-4-curing-and-testing)
+- **[Long-term Shelter](docs/07-everyday-living-skills/05-long-term-shelter.md)**: [Cross-section of a kang and stove](docs/07-everyday-living-skills/05-long-term-shelter.md#stoves)
+- **[Lighting and Energy](docs/07-everyday-living-skills/06-lighting-and-energy.md)**: [Saucer oil lamp](docs/07-everyday-living-skills/06-lighting-and-energy.md#saucer-oil-lamp) · [Making candles](docs/07-everyday-living-skills/06-lighting-and-energy.md#-safety) · [Biogas digester in section, and its dangers](docs/07-everyday-living-skills/06-lighting-and-energy.md#safety-rules)
+- **[Textiles, Sewing and Tanning](docs/07-everyday-living-skills/07-textiles-sewing-and-tanning.md)**: [Spinning with a drop spindle](docs/07-everyday-living-skills/07-textiles-sewing-and-tanning.md#spinning-with-a-drop-spindle-the-simplest-tool)
+- **[Household Electrical Safety](docs/07-everyday-living-skills/08-household-electrical-safety.md)**: [RCDs and circuit breakers](docs/07-everyday-living-skills/08-household-electrical-safety.md#rcds-and-circuit-breakers) · [Restoring power after a disaster](docs/07-everyday-living-skills/08-household-electrical-safety.md#restoring-power-after-a-disaster)
+- **[Woodworking and Tool Maintenance](docs/07-everyday-living-skills/09-woodworking-and-tool-maintenance.md)**: [Air drying timber](docs/07-everyday-living-skills/09-woodworking-and-tool-maintenance.md#drying) · [Sawing wood](docs/07-everyday-living-skills/09-woodworking-and-tool-maintenance.md#sawing) · [Right-angle mortise and tenon](docs/07-everyday-living-skills/09-woodworking-and-tool-maintenance.md#a-simple-mortise-and-tenon-the-right-angle-joint) · [Replacing a tool handle](docs/07-everyday-living-skills/09-woodworking-and-tool-maintenance.md#replacing-a-tool-handle-axe-hammer-hoe) · [Sharpening](docs/07-everyday-living-skills/09-woodworking-and-tool-maintenance.md#sharpening)
+- **[Water Sources and Water Supply](docs/07-everyday-living-skills/10-water-supply.md)**: [Hand-dug well in section, and safety](docs/07-everyday-living-skills/10-water-supply.md#disinfecting-well-water) · [Roof rainwater collection](docs/07-everyday-living-skills/10-water-supply.md#collecting-rainwater) · [Cross-section of a slow sand filter](docs/07-everyday-living-skills/10-water-supply.md#slow-sand-filter)
+- **[Pottery, Glass and Papermaking](docs/07-everyday-living-skills/11-pottery-glass-and-papermaking.md)**: [Simple updraft kiln](docs/07-everyday-living-skills/11-pottery-glass-and-papermaking.md#simple-updraft-kiln) · [The steps of papermaking](docs/07-everyday-living-skills/11-pottery-glass-and-papermaking.md#steps)
+- **[Education and Knowledge Preservation](docs/07-everyday-living-skills/12-education-and-knowledge-preservation.md)**: [Copying and preserving records](docs/07-everyday-living-skills/12-education-and-knowledge-preservation.md#copying-and-preserving-records)
+- **[Record-keeping, Trade and Division of Labour](docs/07-everyday-living-skills/13-record-keeping-trade-and-division-of-labour.md)**: [How long will the food last?](docs/07-everyday-living-skills/13-record-keeping-trade-and-division-of-labour.md#working-out-how-long-it-will-last)
+- **[Grain and Oil Processing](docs/07-everyday-living-skills/14-grain-and-oil-processing.md)**: [Winnowing: winnowing fan, winnowing in the wind and winnowing basket](docs/07-everyday-living-skills/14-grain-and-oil-processing.md#winnowing-fan-fanning-mill)
+- **[Salt Making](docs/07-everyday-living-skills/15-salt-making.md)**: [Solar salt pans](docs/07-everyday-living-skills/15-salt-making.md#solar-salt-salt-pans)
+- **[Lime and Building Materials](docs/07-everyday-living-skills/16-lime-and-building-materials.md)**: [Lime kiln and slaking quicklime](docs/07-everyday-living-skills/16-lime-and-building-materials.md#the-firing)
+- **[Rope and Knots](docs/07-everyday-living-skills/17-rope-and-knots.md)**: [Reef knot](docs/07-everyday-living-skills/17-rope-and-knots.md#reef-knot-for-tying-up-only) · [Bowline](docs/07-everyday-living-skills/17-rope-and-knots.md#bowline-a-loop-that-does-not-tighten) · [Figure-of-eight knot](docs/07-everyday-living-skills/17-rope-and-knots.md#figure-of-eight-stopper-knot-and-figure-of-eight-loop) · [Clove hitch](docs/07-everyday-living-skills/17-rope-and-knots.md#clove-hitch-tying-to-a-post) · [Trucker's hitch](docs/07-everyday-living-skills/17-rope-and-knots.md#truckers-hitch-cinching-a-rope-tight)
+- **[Vehicles, Boats and Roads](docs/07-everyday-living-skills/18-vehicles-boats-and-roads.md)**: [Why a wheelbarrow saves effort](docs/07-everyday-living-skills/18-vehicles-boats-and-roads.md#why-a-wheelbarrow-saves-effort) · [Wheels and axles](docs/07-everyday-living-skills/18-vehicles-boats-and-roads.md#axles-and-bushings) · [Balancing a two-wheeled handcart](docs/07-everyday-living-skills/18-vehicles-boats-and-roads.md#balancing-a-two-wheeled-cart) · [Bridges: beam, arch and suspension bridges, and testing](docs/07-everyday-living-skills/18-vehicles-boats-and-roads.md#-testing-and-using-bridges) · [Rafts: working out the load from buoyancy](docs/07-everyday-living-skills/18-vehicles-boats-and-roads.md#rafts-working-out-the-load-from-buoyancy)
 
 ### VIII. Basic Science
 
@@ -473,12 +473,12 @@ Compound units use "/" to mean "per", e.g. m/s (metres per second), kg/ha (kilog
 1. Master the basic principles of [Disaster response](docs/02-disaster-response/README.md)
 2. Learn the basic skills of [Wilderness survival](docs/03-wilderness-survival/README.md)
 3. Get to know the basics of [Growing plants and raising animals](docs/04-farming-and-animal-husbandry/README.md)
-4. Learn [Everyday living skills](../docs/07-日常生活技能/README.md): food preservation, nutrition, sanitation
+4. Learn [Everyday living skills](docs/07-everyday-living-skills/README.md): food preservation, nutrition, sanitation
 
 ### Preparing for collapse
-1. **Stockpile in advance**: medicines, wound-care supplies, seeds, tools (see [Pharmaceuticals – stockpiling advice](../docs/06-制药技术/02-抗生素制备.md#六储备建议))
+1. **Stockpile in advance**: medicines, wound-care supplies, seeds, tools (see [Pharmaceuticals – stockpiling advice](docs/06-pharmaceuticals/02-antibiotics.md#6-stockpiling-advice))
 2. Learn [Metallurgy](docs/05-metallurgy/README.md) to make basic tools
-3. Learn the feasible parts of [Pharmaceuticals](../docs/06-制药技术/README.md) (disinfectants, Chinese herbal medicine, natural antibacterial substances)
+3. Learn the feasible parts of [Pharmaceuticals](docs/06-pharmaceuticals/README.md) (disinfectants, Chinese herbal medicine, natural antibacterial substances)
 4. Learn [Basic science](../docs/08-基础科学知识/README.md): measurement, mathematics, physics, chemistry, and the principles of biology and medicine, so that you can work things out for yourself when a situation is not covered in the book
 5. Read the [Technology rebuilding roadmap](../docs/09-进阶科学与工程/00-技术重建路线图.md) to understand the overall order of rebuilding technology and which things to preserve first
 6. Build up a body of knowledge for long-term survival

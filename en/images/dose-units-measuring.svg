@@ -1,0 +1,245 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1240" width="720" height="1240" role="img" aria-label="Dose units and measuring liquid medicine. A wrong dose calculation means no effect, or death; wherever possible use stored finished drugs and dose by the strength on the original pack; after calculating, have a second person redo the calculation independently, and use it only if both results agree. 1, units: 1 g = 1000 mg, 1 mg = 1000 μg; misreading mg as μg, or mg as g, is a 1000-fold error; write μg out as micrograms so it is not confused with mg. 2, writing doses: always put a 0 before a decimal point, write 0.5 mg, not .5 mg, a decimal point one place out is a 10-fold error; no decimal after a whole number, write 5 mg, not 5.0 mg, which is easily read as 50. 3, converting a liquid medicine from milligrams to millilitres: the volume to measure (mL) equals the dose needed (mg) divided by the concentration (mg/mL). Example: a children's suspension labelled 100 mg/5 mL contains 20 mg in each mL; the leaflet's body-weight table gives 150 mg per dose; 150 divided by 20 is 7.5 mL. Drops and suspensions of the same drug often differ in strength, so confirm the concentration units first, and check the result against the millilitres in the leaflet. 4, measuring tools: the measuring cup, spoon or oral syringe supplied with the medicine has a small error and is the first choice; use it by its markings and do not swap them between medicines; a graduated syringe with the needle removed measures small volumes most accurately; household teaspoons and spoons vary in size by 20-50%, so do not use them to measure medicine; droppers give 15-25 drops per mL, so use only the dropper supplied with the medicine; measuring powder by the spoonful can vary several-fold in weight and cannot replace weighing. 5, tablets: a plain tablet with a score line may be broken along the score if the leaflet allows; sustained-release, controlled-release and enteric-coated tablets must not be broken, chewed or crushed, because all the drug is released at once and may poison or damage the stomach; when a small tablet without a score line is broken, the two halves may contain very different amounts. If the result is several times the usual dose in the leaflet, something has been miscalculated: stop and recalculate; do not try to weigh milligram doses yourself" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Dose units and measuring liquid medicine</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="arK" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#555"/></marker>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Dose units and liquid doses: beware 10-fold and 1000-fold errors</text>
+
+<!-- warning -->
+<rect x="8" y="42" width="704" height="88" rx="6" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<g font-size="13">
+<text x="20" y="62" font-weight="bold" fill="#c33">⚠ A wrong dose calculation = no effect, or death.</text>
+<text x="20" y="81">Wherever possible use stored finished drugs; dose by the original pack strength and the leaflet.</text>
+<text x="20" y="100">After calculating, have a second person redo it independently; use it only if both agree.</text>
+<text x="20" y="119">Drugs with a narrow therapeutic window: only as a doctor directs.</text>
+</g>
+
+<g transform="translate(0,30)">
+<!-- 1 units -->
+<rect x="8" y="110" width="348" height="210" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="134" font-size="15" font-weight="bold">① Units: each step is 1000-fold</text>
+<g stroke="#333" stroke-width="1.5">
+<rect x="22" y="148" width="72" height="46" rx="6" fill="#cfe0f0"/>
+<rect x="140" y="148" width="72" height="46" rx="6" fill="#cfe0f0"/>
+<rect x="258" y="148" width="72" height="46" rx="6" fill="#cfe0f0"/>
+</g>
+<g text-anchor="middle">
+<text x="58" y="171" font-size="18" font-weight="bold">g</text>
+<text x="58" y="188" font-size="12">gram</text>
+<text x="176" y="171" font-size="18" font-weight="bold">mg</text>
+<text x="176" y="188" font-size="12">milligram</text>
+<text x="294" y="171" font-size="18" font-weight="bold">μg</text>
+<text x="294" y="188" font-size="12">microgram</text>
+<text x="117" y="164" font-size="12" fill="#0b5cad" font-weight="bold">×1000</text>
+<text x="235" y="164" font-size="12" fill="#0b5cad" font-weight="bold">×1000</text>
+</g>
+<path d="M96,172 H136" stroke="#0b5cad" stroke-width="2" marker-end="url(#arK)"/>
+<path d="M214,172 H254" stroke="#0b5cad" stroke-width="2" marker-end="url(#arK)"/>
+<g font-size="13">
+<text x="22" y="218">1 g = 1000 mg</text>
+<text x="190" y="218">1 mg = 1000 μg</text>
+<text x="22" y="244" fill="#c33">✗ mg misread as μg → 1000-fold error</text>
+<text x="22" y="264" fill="#c33">✗ mg misread as g → 1000-fold error</text>
+<text x="22" y="290">✓ Write μg out as “micrograms” so it</text>
+<text x="36" y="308">is not confused with mg</text>
+</g>
+
+<!-- 2 writing -->
+<rect x="364" y="110" width="348" height="210" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="374" y="134" font-size="15" font-weight="bold">② Rules for writing doses</text>
+<text x="374" y="158" font-size="13" font-weight="bold">Always put a 0 before a decimal point</text>
+<text x="384" y="186" font-size="20" font-weight="bold">✓ 0.5 mg</text>
+<text x="540" y="186" font-size="20" fill="#c33">✗ .5 mg</text>
+<path d="M560,179 H612" stroke="#c33" stroke-width="1.5"/>
+<text x="374" y="206" font-size="12" fill="#555">Decimal point one place out → 10-fold error</text>
+<text x="374" y="221" font-size="12" fill="#555">(0.5 mg becomes 5 mg)</text>
+<text x="374" y="248" font-size="13" font-weight="bold">No decimal after a whole number</text>
+<text x="384" y="276" font-size="20" font-weight="bold">✓ 5 mg</text>
+<text x="540" y="276" font-size="20" fill="#c33">✗ 5.0 mg</text>
+<path d="M562,270 H632" stroke="#c33" stroke-width="1.5"/>
+<text x="374" y="300" font-size="12" fill="#555">“5.0” is easily misread as 50</text>
+</g>
+
+<g transform="translate(0,44)">
+<!-- 3 liquid -->
+<rect x="8" y="316" width="704" height="270" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="340" font-size="15" font-weight="bold">③ Liquid medicine: converting milligrams to millilitres</text>
+<rect x="18" y="352" width="684" height="32" rx="4" fill="#eef5fc" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="360" y="374" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b5cad">Volume to measure (mL) = dose needed (mg) ÷ concentration (mg/mL)</text>
+<!-- bottle -->
+<g stroke="#333" stroke-width="1.8" stroke-linejoin="round">
+<rect x="52" y="398" width="40" height="16" rx="2" fill="#fff"/>
+<path d="M30,420 Q30,414 38,414 H106 Q114,414 114,420 V516 Q114,524 106,524 H38 Q30,524 30,516 Z" fill="#f6e2c6"/>
+</g>
+<rect x="34" y="440" width="76" height="52" fill="#fff" stroke="#333" stroke-width="1"/>
+<g text-anchor="middle" font-size="12">
+<text x="72" y="456">Suspension</text>
+<text x="72" y="472" font-weight="bold" fill="#c33">100 mg</text>
+<text x="72" y="486" font-weight="bold" fill="#c33">/5 mL</text>
+</g>
+<text x="72" y="542" font-size="12" text-anchor="middle" fill="#555">check the strength</text>
+<text x="72" y="557" font-size="12" text-anchor="middle" fill="#555">on the label</text>
+<!-- steps -->
+<g font-size="13">
+<text x="142" y="414" font-weight="bold">1. Confirm the concentration units</text>
+<text x="142" y="432">Label: 100 mg/5 mL</text>
+<text x="142" y="458" font-weight="bold">2. Convert to mg in each mL</text>
+<text x="142" y="476">100 ÷ 5 = 20 mg/mL</text>
+<text x="142" y="502" font-weight="bold">3. Find the dose in the leaflet's</text>
+<text x="142" y="520" font-weight="bold">body-weight table</text>
+<text x="142" y="538">150 mg per dose</text>
+<text x="142" y="568" font-size="15" font-weight="bold" fill="#c33">150 ÷ 20 = 7.5 mL</text>
+</g>
+<path d="M290,563 Q370,560 410,486" fill="none" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<!-- oral syringe: 0 at x=470, 18 px per mL -->
+<g stroke="#333" stroke-width="1.6" stroke-linejoin="round">
+<path d="M444,456 H460 V466 H444 Z" fill="#fff"/>
+<rect x="460" y="446" width="196" height="30" rx="2" fill="#fff"/>
+</g>
+<rect x="461" y="447" width="144" height="28" fill="#f6e2c6"/>
+<rect x="605" y="446" width="8" height="30" fill="#555" stroke="#333" stroke-width="1"/>
+<path d="M613,461 H690" stroke="#333" stroke-width="5"/>
+<rect x="690" y="442" width="7" height="38" rx="2" fill="#bbb" stroke="#333" stroke-width="1.2"/>
+<path d="M656,442 V480" stroke="#333" stroke-width="2"/>
+<g stroke="#333" stroke-width="1">
+<path d="M470,446 V458 M488,446 V454 M506,446 V454 M524,446 V454 M542,446 V454 M560,446 V458 M578,446 V454 M596,446 V454 M614,446 V454 M632,446 V454 M650,446 V458"/>
+<path d="M479,446 V451 M497,446 V451 M515,446 V451 M533,446 V451 M551,446 V451 M569,446 V451 M587,446 V451 M605,446 V451 M623,446 V451 M641,446 V451"/>
+</g>
+<g font-size="12" text-anchor="middle" fill="#555">
+<text x="470" y="440">0</text><text x="560" y="440">5</text><text x="650" y="440">10 mL</text>
+</g>
+<path d="M605,486 V502" stroke="#c33" stroke-width="2"/>
+<text x="605" y="518" font-size="15" text-anchor="middle" font-weight="bold" fill="#c33">7.5 mL</text>
+<text x="560" y="414" font-size="13" text-anchor="middle">Oral syringe (no needle)</text>
+<g font-size="12" fill="#555">
+<text x="430" y="540">⚠ Drops and suspensions of the same drug</text>
+<text x="430" y="556">often differ in strength; check the result</text>
+<text x="430" y="572">against the mL in the leaflet</text>
+</g>
+</g>
+
+<g transform="translate(0,62)">
+<!-- 4 tools -->
+<rect x="8" y="578" width="704" height="246" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="602" font-size="15" font-weight="bold">④ What to measure with</text>
+<!-- 1 cup -->
+<g stroke="#333" stroke-width="1.6" stroke-linejoin="round">
+<path d="M52,620 L56,666 H88 L92,620" fill="#fff"/>
+<path d="M54.5,646 L56,666 H88 L89.5,646 Z" fill="#f6e2c6" stroke="none"/>
+<path d="M52,620 L56,666 H88 L92,620" fill="none"/>
+</g>
+<path d="M60,632 H68 M60,642 H68 M60,652 H68" stroke="#333" stroke-width="1"/>
+<!-- 2 syringe -->
+<g stroke="#333" stroke-width="1.5">
+<rect x="178" y="636" width="64" height="16" rx="2" fill="#fff"/>
+<rect x="179" y="637" width="34" height="14" fill="#f6e2c6" stroke="none"/>
+<path d="M170,641 H178 V647 H170 Z" fill="#fff"/>
+<path d="M213,636 V652 M213,644 H256 M256,636 V652" fill="none" stroke-width="2"/>
+</g>
+<!-- 3 spoon -->
+<g stroke="#333" stroke-width="1.6">
+<ellipse cx="320" cy="646" rx="20" ry="12" fill="#e3e7eb"/>
+<path d="M340,644 L384,636" stroke-width="5" stroke-linecap="round"/>
+</g>
+<!-- 4 dropper -->
+<g stroke="#333" stroke-width="1.5" stroke-linejoin="round">
+<rect x="456" y="616" width="16" height="16" rx="6" fill="#c33"/>
+<path d="M458,632 H470 V660 L465,672 H463 L458,660 Z" fill="#fff"/>
+</g>
+<circle cx="464" cy="680" r="3" fill="#f6e2c6" stroke="#333" stroke-width="1"/>
+<!-- 5 powder by the spoonful -->
+<g stroke="#333" stroke-width="1.6">
+<ellipse cx="596" cy="648" rx="18" ry="10" fill="#e3e7eb"/>
+<path d="M580,646 Q596,628 612,646 Z" fill="#fff" stroke-dasharray="2 2"/>
+<path d="M614,646 L652,638" stroke-width="5" stroke-linecap="round"/>
+</g>
+<g font-size="13" text-anchor="middle">
+<text x="76" y="700" font-weight="bold">Cup or spoon</text>
+<text x="76" y="718" font-weight="bold">supplied with</text>
+<text x="76" y="736" font-weight="bold">the medicine</text>
+<text x="76" y="760">✓ First choice</text>
+<text x="76" y="780" font-size="12" fill="#555">use the markings;</text>
+<text x="76" y="796" font-size="12" fill="#555">don't swap between</text>
+<text x="76" y="812" font-size="12" fill="#555">medicines</text>
+<text x="214" y="700" font-weight="bold">Oral syringe, or</text>
+<text x="214" y="718" font-weight="bold">graduated syringe</text>
+<text x="214" y="736" font-weight="bold">needle removed</text>
+<text x="214" y="760">✓ Most accurate</text>
+<text x="214" y="778">for small volumes</text>
+<text x="356" y="700" font-weight="bold">Household</text>
+<text x="356" y="718" font-weight="bold">teaspoon, spoon</text>
+<text x="356" y="760" fill="#c33">✗ Don't use</text>
+<text x="356" y="778" fill="#c33">for medicine</text>
+<text x="356" y="798" font-size="12" fill="#555">sizes vary,</text>
+<text x="356" y="814" font-size="12" fill="#555">by 20-50%</text>
+<text x="498" y="700" font-weight="bold">Counting drops</text>
+<text x="498" y="760" fill="#c33">⚠ Use only the</text>
+<text x="498" y="778" fill="#c33">dropper supplied</text>
+<text x="498" y="796" fill="#c33">with the medicine</text>
+<text x="498" y="814" font-size="12" fill="#555">15-25 drops per mL</text>
+<text x="640" y="700" font-weight="bold">Powder by</text>
+<text x="640" y="718" font-weight="bold">the spoonful</text>
+<text x="640" y="760" fill="#c33">✗ No substitute</text>
+<text x="640" y="778" fill="#c33">for weighing</text>
+<text x="640" y="798" font-size="12" fill="#555">weight can vary</text>
+<text x="640" y="814" font-size="12" fill="#555">several-fold</text>
+</g>
+<g stroke="#ddd" stroke-width="1">
+<path d="M143,614 V810 M285,614 V810 M427,614 V810 M569,614 V810"/>
+</g>
+</g>
+
+<g transform="translate(0,104)">
+<!-- 5 tablets -->
+<rect x="8" y="794" width="704" height="236" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="818" font-size="15" font-weight="bold">⑤ Can a tablet be broken or crushed?</text>
+<!-- scored -->
+<g stroke="#333" stroke-width="1.6">
+<circle cx="126" cy="866" r="24" fill="#fff"/>
+<path d="M126,842 V890" stroke-width="2.5"/>
+</g>
+<g font-size="13" text-anchor="middle">
+<text x="126" y="920" font-weight="bold">Plain tablet with a score line</text>
+<text x="126" y="940">if the leaflet allows:</text>
+<text x="126" y="958">✓ break along the score</text>
+</g>
+<!-- sustained-release -->
+<g stroke="#333" stroke-width="1.6">
+<rect x="332" y="850" width="56" height="30" rx="15" fill="#cfe0f0"/>
+</g>
+<path d="M326,844 L394,886 M394,844 L326,886" stroke="#c33" stroke-width="2.5"/>
+<g font-size="13" text-anchor="middle">
+<text x="360" y="920" font-weight="bold">Sustained-release, controlled-</text>
+<text x="360" y="938" font-weight="bold">release, enteric-coated tablets</text>
+<text x="360" y="958" fill="#c33">✗ don't break, chew or crush</text>
+</g>
+<!-- unscored -->
+<g stroke="#333" stroke-width="1.6" fill="#fff">
+<path d="M584,850 A16,16 0 0 0 584,882 L590,866 Z"/>
+<path d="M596,850 A16,16 0 0 1 596,882 L602,870 L594,862 Z"/>
+</g>
+<g font-size="13" text-anchor="middle">
+<text x="592" y="920" font-weight="bold">Small tablet with no score line</text>
+<text x="592" y="940" fill="#c33">✗ the two halves may contain</text>
+<text x="592" y="958" fill="#c33">very different amounts</text>
+</g>
+<g stroke="#ddd" stroke-width="1">
+<path d="M244,836 V964 M476,836 V964"/>
+</g>
+<text x="18" y="994" font-size="12" fill="#555">Crushed sustained-release, controlled-release or enteric-coated tablets release all the drug at once:</text>
+<text x="18" y="1012" font-size="12" fill="#555">this may cause poisoning or damage the stomach</text>
+</g>
+
+<!-- bottom -->
+<rect x="8" y="1144" width="704" height="88" rx="6" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<g font-size="13">
+<text x="20" y="1164" font-weight="bold" fill="#c33">Result several times the leaflet's usual dose → something is miscalculated:</text>
+<text x="20" y="1183" font-weight="bold" fill="#c33">stop and recalculate</text>
+<text x="20" y="1205">Don't try to weigh milligram doses yourself: home-made balances and weights</text>
+<text x="20" y="1223">are accurate only above a gram</text>
+</g>
+</g>
+</svg>
