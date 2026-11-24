@@ -1,0 +1,213 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 976" width="800" height="976" role="img" aria-label="Technology rebuilding roadmap (technology tree), built from the bottom up. Stage 0 Survival: water, food, shelter, hygiene, first aid, fire; knowledge shortcut: germ theory (hand washing, boiling, disinfection, isolation) saves lives already at stage 0. Stage 1 Farming and basic crafts: crops and livestock, seed saving, food preservation, charcoal, woodwork, lime, pottery, soap making, textiles. Stage 2 Metallurgy and machinery: copper and bronze, iron, steel, water wheels, windmills, lathes, gears, standard gauges. Stage 3 Basic chemicals and materials: sulphuric acid, alkali, glass, cement, paper and printing, refractory materials. Stage 4 Power: boilers, steam engines, Stirling engines. Stage 5 Electricity: generators, batteries, electric motors, telegraph, electric light. Stage 6 Advanced chemistry and medicine: electrolysis (chlor-alkali), fertiliser, microscopes and microbiology, drug purification. Stage 7 Electronics: vacuum tubes, semiconductors, radio, computers; making these from scratch is extremely hard, and in practice you use preserved devices. Prerequisites stated in the text: iron needs charcoal (large forests); glass needs lime; boilers need steel plate and steam engines need precision-machined cylinders; generators need copper wire and magnets; fertiliser needs sulphuric acid; electrolysis needs electricity; glass makes lenses and vacuum tubes. Shortcut: knowing electromagnetic induction, you can generate electricity from water or wind without waiting for the steam engine. The stages are not a strict sequence. Realistic goal: secure survival first, then gradually recover to about late-19th-century technology; use the steel, copper wire and books in the ruins first, then make your own" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Technology rebuilding roadmap</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<marker id="arG" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#999"/></marker>
+</defs>
+<g fill="#222">
+<text x="400" y="28" font-size="18" font-weight="bold" text-anchor="middle">Technology rebuilding roadmap (technology tree)</text>
+<text x="400" y="51" font-size="14" text-anchor="middle" fill="#555">Every technology stands on others: build it up from the bottom, one step at a time</text>
+
+<!-- stage bands: stage k top edge y = 66 + (7-k)×92, height 62 -->
+<g fill="#f5f8fc" stroke="#ccd6e0" stroke-width="1.5">
+<rect x="10" y="66" width="780" height="62" rx="8"/>
+<rect x="10" y="158" width="780" height="62" rx="8"/>
+<rect x="10" y="250" width="780" height="62" rx="8"/>
+<rect x="10" y="342" width="780" height="62" rx="8"/>
+<rect x="10" y="434" width="780" height="62" rx="8"/>
+<rect x="10" y="526" width="780" height="62" rx="8"/>
+<rect x="10" y="618" width="780" height="62" rx="8"/>
+<rect x="10" y="710" width="780" height="62" rx="8"/>
+</g>
+<g stroke="#ccd6e0" stroke-width="1.5"><path d="M120,710 v62 M120,618 v62 M120,526 v62 M120,434 v62 M120,342 v62 M120,250 v62 M120,158 v62 M120,66 v62"/></g>
+
+<!-- stage names -->
+<g font-size="14" font-weight="bold">
+<text x="20" y="85">Stage 7</text>
+<text x="20" y="174">Stage 6</text>
+<text x="20" y="269">Stage 5</text>
+<text x="20" y="361">Stage 4</text>
+<text x="20" y="453">Stage 3</text>
+<text x="20" y="545">Stage 2</text>
+<text x="20" y="637">Stage 1</text>
+<text x="20" y="729">Stage 0</text>
+</g>
+<g font-size="12" fill="#333">
+<text x="20" y="100">Electronics</text>
+<text x="20" y="188">Advanced</text>
+<text x="20" y="201">chemistry and</text>
+<text x="20" y="214">medicine</text>
+<text x="20" y="284">Electricity</text>
+<text x="20" y="376">Power</text>
+<text x="20" y="468">Basic chemicals</text>
+<text x="20" y="483">and materials</text>
+<text x="20" y="560">Metallurgy and</text>
+<text x="20" y="575">machinery</text>
+<text x="20" y="652">Farming and</text>
+<text x="20" y="667">basic crafts</text>
+<text x="20" y="744">Survival</text>
+</g>
+<!-- rough order (grey) -->
+<g stroke="#999" stroke-width="2" marker-end="url(#arG)">
+<path d="M60,709 V683"/><path d="M60,617 V591"/><path d="M60,525 V499"/><path d="M60,433 V407"/><path d="M60,341 V315"/><path d="M60,249 V223"/><path d="M60,157 V131"/>
+</g>
+
+<!-- dependency arrows (drawn first, under the boxes) -->
+<g stroke="#c33" stroke-width="2" fill="none" marker-end="url(#arR)">
+<path d="M375,636 V573"/>
+<path d="M470,636 V481"/>
+<path d="M435,544 V389"/>
+<path d="M560,544 V389"/>
+<path d="M285,537 L240,297"/>
+<path d="M345,452 V205"/>
+<path d="M220,268 V212"/>
+<path d="M470,452 V113"/>
+<path d="M470,189 H542.02"/>
+</g>
+<g stroke="#0b5cad" stroke-width="2" fill="none">
+<path d="M152,537 L187,521 L222,544"/>
+<path d="M187,521 L204,298" stroke-dasharray="6 4" marker-end="url(#arB)"/>
+</g>
+<g font-size="12" fill="#c33">
+<text x="369" y="600" text-anchor="end">charcoal</text>
+<text x="369" y="613" text-anchor="end">(large forests)</text>
+<text x="429" y="416" text-anchor="end">steel</text>
+<text x="429" y="429" text-anchor="end">plate</text>
+<text x="566" y="416">precision-machined</text>
+<text x="566" y="429">cylinders</text>
+<text x="254" y="324">copper wire,</text>
+<text x="254" y="337">magnets</text>
+<text x="476" y="324">lenses,</text>
+<text x="476" y="337">vacuum tubes</text>
+</g>
+<text x="190" y="378" font-size="13" font-weight="bold" fill="#0b5cad" text-anchor="end">shortcut</text>
+
+<!-- technology boxes -->
+<g fill="#fff" stroke="#333" stroke-width="1.5">
+<rect x="423.7" y="84" width="92.7" height="26" rx="5"/>
+<rect x="523.6" y="84" width="102.8" height="26" rx="5"/>
+<rect x="639.6" y="84" width="40.8" height="26" rx="5"/>
+<rect x="698.8" y="84" width="72.5" height="26" rx="5"/>
+<rect x="178.7" y="169" width="82.6" height="40" rx="5"/>
+<rect x="316.3" y="176" width="57.4" height="26" rx="5"/>
+<rect x="545.0" y="169" width="110.0" height="40" rx="5"/>
+<rect x="684.7" y="169" width="74.7" height="40" rx="5"/>
+<rect x="183.0" y="268" width="73.9" height="26" rx="5"/>
+<rect x="369.2" y="268" width="61.7" height="26" rx="5"/>
+<rect x="563.5" y="261" width="53.1" height="40" rx="5"/>
+<rect x="635.0" y="268" width="66.0" height="26" rx="5"/>
+<rect x="719.5" y="261" width="53.1" height="40" rx="5"/>
+<rect x="409.9" y="360" width="50.2" height="26" rx="5"/>
+<rect x="511.9" y="360" width="96.3" height="26" rx="5"/>
+<rect x="645.4" y="360" width="109.3" height="26" rx="5" stroke-dasharray="4 3"/>
+<rect x="135.2" y="452" width="41.5" height="26" rx="5"/>
+<rect x="299.4" y="452" width="91.2" height="26" rx="5"/>
+<rect x="448.9" y="452" width="42.3" height="26" rx="5"/>
+<rect x="500.8" y="452" width="54.5" height="26" rx="5"/>
+<rect x="586.8" y="445" width="70.4" height="40" rx="5"/>
+<rect x="684.6" y="445" width="66.7" height="40" rx="5"/>
+<rect x="125.8" y="537" width="52.3" height="40" rx="5"/>
+<rect x="189.7" y="544" width="64.6" height="26" rx="5"/>
+<rect x="261.6" y="537" width="76.8" height="40" rx="5"/>
+<rect x="358.2" y="544" width="33.6" height="26" rx="5"/>
+<rect x="415.3" y="544" width="39.4" height="26" rx="5"/>
+<rect x="536.7" y="544" width="46.6" height="26" rx="5"/>
+<rect x="617.8" y="544" width="44.4" height="26" rx="5"/>
+<rect x="698.8" y="537" width="62.4" height="40" rx="5"/>
+<rect x="131.5" y="629" width="68.9" height="40" rx="5"/>
+<rect x="209.3" y="629" width="49.5" height="40" rx="5"/>
+<rect x="267.8" y="636" width="70.4" height="26" rx="5"/>
+<rect x="344.5" y="636" width="61.0" height="26" rx="5"/>
+<rect x="452.1" y="636" width="35.8" height="26" rx="5"/>
+<rect x="503.3" y="629" width="83.3" height="40" rx="5"/>
+<rect x="598.2" y="636" width="51.6" height="26" rx="5"/>
+<rect x="661.1" y="629" width="53.8" height="40" rx="5"/>
+<rect x="725.8" y="636" width="52.3" height="26" rx="5"/>
+<rect x="136.2" y="728" width="43.7" height="26" rx="5"/>
+<rect x="193.4" y="728" width="37.2" height="26" rx="5"/>
+<rect x="248.6" y="728" width="50.9" height="26" rx="5"/>
+<rect x="316.3" y="728" width="57.4" height="26" rx="5"/>
+<rect x="395.1" y="728" width="53.8" height="26" rx="5"/>
+<rect x="473.0" y="728" width="30.0" height="26" rx="5"/>
+</g>
+<g font-size="12" text-anchor="middle">
+<text x="470" y="101">vacuum tubes</text>
+<text x="575" y="101">semiconductors</text>
+<text x="660" y="101">radio</text>
+<text x="735" y="101">computers</text>
+<text x="220" y="185">electrolysis</text><text x="220" y="200">(chlor-alkali)</text>
+<text x="345" y="193">fertiliser</text>
+<text x="600" y="185">microscopes and</text><text x="600" y="200">microbiology</text>
+<text x="722" y="185">drug</text><text x="722" y="200">purification</text>
+<text x="220" y="285">generators</text>
+<text x="400" y="285">batteries</text>
+<text x="590" y="277">electric</text><text x="590" y="292">motors</text>
+<text x="668" y="285">telegraph</text>
+<text x="746" y="277">electric</text><text x="746" y="292">light</text>
+<text x="435" y="377">boilers</text>
+<text x="560" y="377">steam engines</text>
+<text x="700" y="377">(Stirling engines)</text>
+<text x="156" y="469">alkali</text>
+<text x="345" y="469">sulphuric acid</text>
+<text x="470" y="469">glass</text>
+<text x="528" y="469">cement</text>
+<text x="622" y="461">paper and</text><text x="622" y="476">printing</text>
+<text x="718" y="461">refractory</text><text x="718" y="476">materials</text>
+<text x="152" y="553">water</text><text x="152" y="568">wheels</text>
+<text x="222" y="561">windmills</text>
+<text x="300" y="553">copper and</text><text x="300" y="568">bronze</text>
+<text x="375" y="561">iron</text>
+<text x="435" y="561">steel</text>
+<text x="560" y="561">lathes</text>
+<text x="640" y="561">gears</text>
+<text x="730" y="553">standard</text><text x="730" y="568">gauges</text>
+<text x="166" y="645">crops and</text><text x="166" y="660">livestock</text>
+<text x="234" y="645">seed</text><text x="234" y="660">saving</text>
+<text x="303" y="653">woodwork</text>
+<text x="375" y="653">charcoal</text>
+<text x="470" y="653">lime</text>
+<text x="545" y="645">food</text><text x="545" y="660">preservation</text>
+<text x="624" y="653">pottery</text>
+<text x="688" y="645">soap</text><text x="688" y="660">making</text>
+<text x="752" y="653">textiles</text>
+<text x="158" y="745">water</text>
+<text x="212" y="745">food</text>
+<text x="274" y="745">shelter</text>
+<text x="345" y="745">hygiene</text>
+<text x="422" y="745">first aid</text>
+<text x="488" y="745">fire</text>
+</g>
+<!-- copper → iron → steel -->
+<g font-size="14" fill="#333" text-anchor="middle">
+<text x="348.3" y="562">→</text>
+<text x="403.6" y="562">→</text>
+</g>
+
+<!-- stage 7 note -->
+<g font-size="12" fill="#c33">
+<text x="130" y="92">Very hard to make from scratch;</text>
+<text x="130" y="110">in practice, use preserved devices</text>
+</g>
+<!-- stage 0 knowledge shortcut -->
+<rect x="530" y="715" width="252" height="52" rx="6" fill="#fff" stroke="#0b5cad" stroke-width="1.5" stroke-dasharray="5 3"/>
+<text x="540" y="730" font-size="12" fill="#0b5cad" font-weight="bold">Knowledge shortcut: germ theory</text>
+<text x="540" y="745" font-size="12" fill="#0b5cad" font-weight="bold">saves lives already at stage 0:</text>
+<text x="540" y="760" font-size="12" fill="#0b5cad">wash hands, boil, disinfect, isolate</text>
+
+<!-- legend -->
+<rect x="10" y="786" width="780" height="180" rx="8" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<path d="M24,803 H62" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<text x="74" y="808" font-size="13">Prerequisite stated in the text (e.g. iron needs charcoal, glass needs lime,</text>
+<text x="74" y="825" font-size="13">generators need copper wire and magnets)</text>
+<path d="M24,845 H62" stroke="#0b5cad" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#arB)"/>
+<text x="74" y="850" font-size="13">Shortcut: if you know electromagnetic induction, you need not wait for the steam engine:</text>
+<text x="74" y="867" font-size="13">generate electricity from water or wind</text>
+<path d="M43,893 V877" stroke="#999" stroke-width="2" marker-end="url(#arG)"/>
+<text x="74" y="892" font-size="13">Rough order; the stages are not a strict sequence, and only the main dependencies are shown</text>
+<text x="24" y="918" font-size="13" font-weight="bold">Realistic goal: secure survival first, then gradually recover to about late-19th-century technology</text>
+<text x="24" y="939" font-size="13" fill="#0b5cad">The steel, copper wire and books in the ruins are far better than anything you can make yourself:</text>
+<text x="24" y="956" font-size="13" fill="#0b5cad">preserve and use them first, then make your own</text>
+</g>
+</svg>

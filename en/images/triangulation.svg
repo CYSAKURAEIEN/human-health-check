@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 956" width="720" height="956" role="img" aria-label="Triangulation: measure a baseline AB accurately on flat ground, at A measure the angle ∠A between the target C and the baseline, at B measure ∠B; ∠C equals 180° minus ∠A minus ∠B, then work out AC and BC with the sine rule. Example: AB equals 100 m, ∠A equals 60°, ∠B equals 70°, so ∠C equals 50°, AC is about 122.7 m, BC about 113.1 m, and the perpendicular distance from C to the baseline about 106.2 m. Special case, measuring river width: measure a baseline AB along the river, make ∠ABC equal 90° at B, measure ∠A at A; river width BC equals AB times tan ∠A, e.g. AB equals 50 m and ∠A equals 40°, BC is about 42 m" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Triangulation</title>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Triangulation: measure one baseline and two angles, work out a distant point</text>
+
+<!-- 1 general triangulation -->
+<rect x="10" y="44" width="700" height="592" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="70" font-size="16" font-weight="bold">① Triangulation (seen from above, drawn to scale)</text>
+
+<!-- calculated sides -->
+<path d="M60,420 L244,101.3 L360,420" fill="none" stroke="#0b5cad" stroke-width="2.5" stroke-linejoin="round"/>
+<!-- perpendicular distance -->
+<path d="M244,140 L244,420" stroke="#555" stroke-width="1.5" stroke-dasharray="6 4"/>
+<path d="M244,410 L234,410 L234,420" fill="none" stroke="#555" stroke-width="1.2"/>
+<!-- baseline -->
+<path d="M60,420 L360,420" stroke="#c33" stroke-width="4"/>
+<!-- angles -->
+<path d="M100,420 A40,40 0 0 0 80,385.36" fill="none" stroke="#c33" stroke-width="2"/>
+<path d="M320,420 A40,40 0 0 1 346.32,382.41" fill="none" stroke="#c33" stroke-width="2"/>
+<path d="M227,130.74 A34,34 0 0 0 255.63,133.25" fill="none" stroke="#0b5cad" stroke-width="2"/>
+<!-- points -->
+<circle cx="60" cy="420" r="6" fill="#fff" stroke="#333" stroke-width="2.5"/>
+<circle cx="360" cy="420" r="6" fill="#fff" stroke="#333" stroke-width="2.5"/>
+<circle cx="244" cy="101.3" r="9" fill="none" stroke="#c33" stroke-width="2"/>
+<circle cx="244" cy="101.3" r="4" fill="#c33"/>
+<text x="42" y="426" font-size="18" font-weight="bold" text-anchor="end">A</text>
+<text x="374" y="426" font-size="18" font-weight="bold">B</text>
+<text x="260" y="98" font-size="16" font-weight="bold">Target C (distant point)</text>
+<text x="266" y="134" font-size="14" fill="#0b5cad">∠C = 50° (calculated)</text>
+
+<text x="106" y="410" font-size="14" fill="#c33" font-weight="bold">∠A = 60°</text>
+<text x="252" y="410" font-size="14" fill="#c33" font-weight="bold">∠B = 70°</text>
+<text x="210" y="446" font-size="14" fill="#c33" font-weight="bold" text-anchor="middle">Baseline AB = 100 m (measured accurately)</text>
+
+<text x="140" y="262" font-size="15" fill="#0b5cad" font-weight="bold" text-anchor="end">AC ≈ 122.7 m</text>
+<text x="314" y="262" font-size="15" fill="#0b5cad" font-weight="bold">BC ≈ 113.1 m</text>
+<text x="236" y="302" font-size="13" fill="#555" text-anchor="end">perpendicular</text>
+<text x="236" y="318" font-size="13" fill="#555" text-anchor="end">distance from C</text>
+<text x="236" y="334" font-size="13" fill="#555" text-anchor="end">to the baseline</text>
+<text x="236" y="350" font-size="13" fill="#555" text-anchor="end">≈ 106.2 m</text>
+
+<!-- steps -->
+<text x="440" y="164" font-size="15" font-weight="bold">Steps</text>
+<text x="440" y="188" font-size="14">1. Choose a baseline AB and measure</text>
+<text x="459" y="205" font-size="14">it accurately (there and back</text>
+<text x="459" y="222" font-size="14">several times, take the average)</text>
+<text x="440" y="244" font-size="14">2. At A measure ∠A, at B measure ∠B</text>
+<text x="440" y="266" font-size="14">3. ∠C = 180° − ∠A − ∠B</text>
+<text x="440" y="288" font-size="14">4. Work out AC and BC with the</text>
+<text x="459" y="305" font-size="14">sine rule:</text>
+<text x="452" y="326" font-size="14">a / sin A = b / sin B = c / sin C</text>
+<text x="452" y="344" font-size="13" fill="#555">(a = BC, b = AC, c = AB)</text>
+<text x="440" y="368" font-size="13" fill="#555">Angles are much easier to measure,</text>
+<text x="440" y="384" font-size="13" fill="#555">and far more accurately, than long</text>
+<text x="440" y="400" font-size="13" fill="#555">distances: measure only one baseline</text>
+<path d="M440,418 H470" stroke="#c33" stroke-width="4"/>
+<text x="478" y="423" font-size="13" fill="#555">measured on the ground</text>
+<path d="M440,440 H470" stroke="#0b5cad" stroke-width="2.5"/>
+<text x="478" y="445" font-size="13" fill="#555">calculated</text>
+
+<!-- calculation -->
+<rect x="20" y="464" width="680" height="160" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="32" y="486" font-size="15" font-weight="bold">Example: AB = 100 m, ∠A = 60°, ∠B = 70°</text>
+<text x="32" y="507" font-size="14">∠C = 180° − 60° − 70° = 50°</text>
+<text x="32" y="527" font-size="14">AC = AB × sin B ÷ sin C = 100 × 0.940 ÷ 0.766 ≈ 122.7 m</text>
+<text x="32" y="547" font-size="14">BC = AB × sin A ÷ sin C = 100 × 0.866 ÷ 0.766 ≈ 113.1 m</text>
+<text x="32" y="567" font-size="14">Perpendicular distance from C to the baseline = AC × sin A ≈ 122.67 × 0.866 ≈ 106.2 m</text>
+<text x="32" y="594" font-size="13" fill="#c33">The triangle is best close to equilateral: if one angle is less than about 20°,</text>
+<text x="32" y="611" font-size="13" fill="#c33">a small error in measuring the angle makes the result much worse</text>
+
+<!-- 2 river width -->
+<g transform="translate(0,40)">
+<rect x="10" y="608" width="700" height="296" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="634" font-size="16" font-weight="bold">② Special case: measuring river width (∠B = 90°, see 2.1 above)</text>
+<path d="M11.5,650 L708.5,650 L708.5,703.2 L11.5,703.2 Z" fill="#e8e8e8"/>
+<path d="M11.5,703.2 L708.5,703.2 L708.5,850 L11.5,850 Z" fill="#dcecf8"/>
+<path d="M11.5,850 L708.5,850 L708.5,896 Q708.5,902.5 702,902.5 L18,902.5 Q11.5,902.5 11.5,896 Z" fill="#e8e8e8"/>
+<path d="M11.5,703.2 H708.5 M11.5,850 H708.5" stroke="#999" stroke-width="2.5"/>
+<text x="600" y="696" font-size="13" fill="#555">far bank</text>
+<text x="600" y="870" font-size="13" fill="#555">this bank</text>
+<text x="30" y="780" font-size="14" fill="#0b5cad">river</text>
+
+<path d="M90,850 L265,703.2 L265,850" fill="none" stroke="#0b5cad" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M90,850 L265,850" stroke="#c33" stroke-width="4"/>
+<path d="M135,850 A45,45 0 0 0 124.47,821.07" fill="none" stroke="#c33" stroke-width="2"/>
+<path d="M251,850 L251,836 L265,836" fill="none" stroke="#c33" stroke-width="2"/>
+<circle cx="90" cy="850" r="6" fill="#fff" stroke="#333" stroke-width="2.5"/>
+<circle cx="265" cy="850" r="6" fill="#fff" stroke="#333" stroke-width="2.5"/>
+<circle cx="265" cy="703.2" r="9" fill="none" stroke="#c33" stroke-width="2"/>
+<circle cx="265" cy="703.2" r="4" fill="#c33"/>
+<text x="72" y="856" font-size="18" font-weight="bold" text-anchor="end">A</text>
+<text x="276" y="872" font-size="18" font-weight="bold">B</text>
+<text x="281" y="690" font-size="15" font-weight="bold">Target C on the far bank</text>
+<text x="142" y="840" font-size="14" fill="#c33" font-weight="bold">∠A = 40°</text>
+<text x="244" y="830" font-size="13" fill="#c33" text-anchor="end">90°</text>
+<text x="178" y="890" font-size="14" fill="#c33" font-weight="bold" text-anchor="middle">Baseline AB = 50 m (along the bank)</text>
+<text x="276" y="774" font-size="15" fill="#0b5cad" font-weight="bold">River</text>
+<text x="276" y="792" font-size="15" fill="#0b5cad" font-weight="bold">width BC</text>
+
+<text x="380" y="730" font-size="14">Fix B by standing directly opposite C,</text>
+<text x="380" y="748" font-size="14">so that ∠ABC = 90°; at A measure ∠A</text>
+<text x="380" y="766" font-size="14">with an angle-measuring instrument</text>
+<text x="380" y="790" font-size="15" font-weight="bold">River width BC = AB × tan(∠A)</text>
+<text x="380" y="812" font-size="14">e.g. AB = 50 m, ∠A = 40°, tan 40° ≈ 0.839</text>
+<text x="380" y="834" font-size="15" font-weight="bold" fill="#0b5cad">→ BC ≈ 42 m</text>
+</g>
+</g>
+</svg>

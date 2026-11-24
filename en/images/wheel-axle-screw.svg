@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 690" width="720" height="690" role="img" aria-label="Wheel and axle, and the screw: the rule for a wheel and axle is effort times wheel radius equals load times axle radius; the crank of a windlass is the wheel and the wooden axle the rope winds on is the axle; the hand turns on a big circle while the rope winds onto the thin axle, so it takes less force but the hand must travel further; uses: windlasses (drawing water from a well), capstans, door handles, steering wheels. A screw is an inclined plane wrapped round a cylinder: wrap a triangular inclined plane round a cylinder and its sloping edge becomes the thread; uses: screws, jacks, oil presses, presses" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Wheel and axle, and the screw</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="arG" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#555"/></marker>
+<marker id="dimB" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,1 L10,5 L0,9 Z" fill="#0b5cad"/></marker>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Wheel and axle, and the screw: save force, pay in distance</text>
+
+<!-- 1 wheel and axle -->
+<rect x="10" y="44" width="700" height="372" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="70" font-size="16" font-weight="bold">① Wheel and axle (windlass)</text>
+<rect x="170" y="82" width="380" height="40" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="360" y="108" font-size="16" font-weight="bold" text-anchor="middle">effort × wheel radius = load × axle radius</text>
+<line x1="330" y1="136" x2="330" y2="370" stroke="#ddd" stroke-width="1.5"/>
+
+<!-- side view: windlass over a well -->
+<text x="30" y="146" font-size="14" fill="#555">side view</text>
+<path d="M20,330 H316" stroke="#999" stroke-width="3"/>
+<g transform="translate(16,0)">
+<rect x="70" y="298" width="170" height="32" fill="#d8d8d8" stroke="#333" stroke-width="2"/>
+<path d="M70,314 H240 M100,298 V314 M140,298 V314 M180,298 V314 M220,298 V314 M85,314 V330 M120,314 V330 M160,314 V330 M200,314 V330" stroke="#888" stroke-width="1"/>
+<rect x="84" y="170" width="12" height="128" fill="#b8955a" stroke="#333" stroke-width="2"/>
+<rect x="214" y="170" width="12" height="128" fill="#b8955a" stroke="#333" stroke-width="2"/>
+<line x1="226" y1="200" x2="262" y2="200" stroke="#333" stroke-width="5"/>
+<rect x="96" y="186" width="118" height="28" rx="3" fill="#d9c29a" stroke="#333" stroke-width="2"/>
+<path d="M112,186 L104,214 M124,186 L116,214 M136,186 L128,214 M148,186 L140,214 M160,186 L152,214" stroke="#8f6d2e" stroke-width="2.5"/>
+<line x1="258" y1="200" x2="258" y2="260" stroke="#8f6d2e" stroke-width="7" stroke-linecap="round"/>
+<line x1="258" y1="260" x2="286" y2="260" stroke="#333" stroke-width="7" stroke-linecap="round"/>
+<path d="M150,214 V246" stroke="#8f6d2e" stroke-width="2.5"/>
+<path d="M132,246 H168 L163,282 H137 Z" fill="#cfe0f0" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M138,246 Q150,236 162,246" fill="none" stroke="#333" stroke-width="1.5"/>
+<g stroke="#555" stroke-width="1"><path d="M272,194 L260,212"/><path d="M190,262 L166,262"/></g>
+<text x="155" y="164" font-size="14" text-anchor="middle">wooden axle (rope wound on it)</text>
+<text x="262" y="190" font-size="14">crank</text>
+<text x="194" y="267" font-size="14">bucket</text>
+</g>
+<text x="170" y="358" font-size="13" text-anchor="middle" fill="#555">The crank turns a big circle (the wheel);</text>
+<text x="170" y="375" font-size="13" text-anchor="middle" fill="#555">the wooden axle is thin (the axle)</text>
+
+<!-- end view: the principle -->
+<text x="346" y="154" font-size="14" fill="#555">end view of the axle</text>
+<g transform="translate(20,12)">
+<circle cx="540" cy="220" r="95" fill="none" stroke="#999" stroke-width="1.5" stroke-dasharray="5 5"/>
+<line x1="540" y1="220" x2="445" y2="220" stroke="#8f6d2e" stroke-width="8" stroke-linecap="round"/>
+<circle cx="445" cy="220" r="7" fill="#333"/>
+<circle cx="540" cy="220" r="22" fill="#d9c29a" stroke="#333" stroke-width="2"/>
+<circle cx="540" cy="220" r="4" fill="#333"/>
+<path d="M562,220 V300" stroke="#8f6d2e" stroke-width="2.5"/>
+<path d="M544,300 H580 L575,334 H549 Z" fill="#cfe0f0" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M445,230 V284" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<text x="436" y="268" font-size="14" font-weight="bold" fill="#c33" text-anchor="end">effort</text>
+<text x="436" y="286" font-size="13" fill="#c33" text-anchor="end">(hand)</text>
+<path d="M562,338 V364" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<text x="574" y="358" font-size="14" font-weight="bold" fill="#c33">load (bucket)</text>
+<path d="M479.2,133.2 A106,106 0 0 0 435.6,201.6" fill="none" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<path d="M447,196 V212 M540,196 V212" stroke="#0b5cad" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="447" y1="202" x2="538" y2="202" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#dimB)" marker-end="url(#dimB)"/>
+<text x="492" y="194" font-size="14" font-weight="bold" fill="#0b5cad" text-anchor="middle">wheel radius</text>
+<path d="M540,244 V262 M562,244 V262" stroke="#0b5cad" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="541" y1="256" x2="561" y2="256" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#dimB)" marker-end="url(#dimB)"/>
+<text x="534" y="284" font-size="14" font-weight="bold" fill="#0b5cad" text-anchor="end">axle radius</text>
+</g>
+<text x="520" y="390" font-size="13" text-anchor="middle" fill="#555">The hand goes round a big circle, the rope winds onto</text>
+<text x="520" y="407" font-size="13" text-anchor="middle" fill="#555">a thin axle: less force, but the hand travels further</text>
+
+<!-- 2 screw -->
+<rect x="10" y="428" width="700" height="250" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="454" font-size="16" font-weight="bold">② Screw: an inclined plane wrapped round a cylinder</text>
+<path d="M50,610 H290 V490 Z" fill="#f3ead8" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M50,610 L290,490" stroke="#c33" stroke-width="3.5"/>
+<text x="150" y="534" font-size="14" fill="#c33" font-weight="bold" text-anchor="middle">sloping edge</text>
+<text x="210" y="600" font-size="14" text-anchor="middle">inclined plane</text>
+<path d="M314,550 H378" stroke="#555" stroke-width="2.5" marker-end="url(#arG)"/>
+<text x="346" y="524" font-size="13" text-anchor="middle" fill="#555">wrap round</text>
+<text x="346" y="540" font-size="13" text-anchor="middle" fill="#555">a cylinder</text>
+<rect x="420" y="476" width="60" height="140" fill="#eee" stroke="none"/>
+<path d="M420,476 V616 A30,8 0 0 0 480,616 V476" fill="none" stroke="#333" stroke-width="2"/>
+<ellipse cx="450" cy="476" rx="30" ry="8" fill="#f7f7f7" stroke="#333" stroke-width="2"/>
+<path d="M480,590 L420,570 M480,550 L420,530 M480,510 L420,490" stroke="#c33" stroke-width="1.5" stroke-dasharray="4 3" opacity="0.6"/>
+<path d="M420,610 L480,590 M420,570 L480,550 M420,530 L480,510 M420,490 L452,479" stroke="#c33" stroke-width="3.5"/>
+<text x="450" y="642" font-size="14" text-anchor="middle">the sloping edge becomes the thread</text>
+<!-- screw -->
+<path d="M580,470 H640 L634,482 H586 Z" fill="#cfcfcf" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M596,482 L590,494 L600,500 L590,512 L600,518 L590,530 L600,536 L590,548 L600,554 L590,566 L600,572 L610,604 L620,572 L630,566 L620,554 L630,548 L620,536 L630,530 L620,518 L630,512 L620,500 L630,494 L624,482 Z" fill="#e6e6e6" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<text x="610" y="626" font-size="14" text-anchor="middle">screw</text>
+<text x="360" y="666" font-size="14" text-anchor="middle">Uses: screws, jacks, oil presses, presses</text>
+</g>
+</svg>

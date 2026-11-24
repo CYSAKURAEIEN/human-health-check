@@ -1,0 +1,167 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 989" width="720" height="989" role="img" aria-label="The periodic table: its structure and the elements most used in rebuilding. The elements are arranged in order of atomic number (number of protons); the rows are periods, 7 in all, and an atom in period n has n electron shells; the columns are groups, 18 in all, and the last digit of a main-group number equals the number of outer electrons. Metals lie in the lower left and middle and are the great majority; non-metals lie in the upper right; along the staircase line between them are the metalloids (boron, silicon, germanium, arsenic, antimony, tellurium), many of them semiconductors; the far right column is the noble gases, which hardly take part in chemical reactions; the lanthanides and actinides are placed separately below the table. Across a period from left to right, atoms get smaller, metallic character weakens and non-metallic character strengthens; down a group, atoms get larger, metals get more reactive and non-metals less reactive. The elements most used in rebuilding and their main uses: hydrogen, fuel, chemical industry; carbon, fuel, reducing agent for iron, a component of steel; nitrogen, fertiliser; oxygen, burning, breathing; sodium, salt, soda ash, caustic soda, soap; magnesium, light alloys, fire-starting; aluminium, casting, utensils; silicon, glass, cement, ceramics; phosphorus, fertiliser; sulphur, sulphuric acid, vulcanising rubber, killing germs; chlorine, disinfectants; potassium, fertiliser, alkali, soap; calcium, lime, cement, improving soil; iron, tools, machines, building; copper, wire, bronze, brass; zinc, brass, galvanising, batteries; tin, bronze, solder, tin plating; lead, solder, weights, shielding; silver, solder, contacts, mirrors; gold, contacts, exchange; iodine, iodised salt, tincture of iodine for disinfection; tungsten, cutting tools, lamp filaments; chromium and nickel, corrosion-resistant materials; mercury, highly toxic, avoid using it; arsenic, highly toxic, do not use" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>The periodic table: structure and the elements most used in rebuilding</title>
+<defs>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">The periodic table: structure and the elements most used in rebuilding</text>
+<text x="360" y="52" font-size="13" text-anchor="middle" fill="#555">Ordered by atomic number (number of protons); rows are periods (7 in all), columns are groups (18 in all)</text>
+<!-- group and period numbers -->
+<g font-size="12" fill="#0b5cad" text-anchor="middle"><text x="47" y="82">1</text><text x="85" y="82">2</text><text x="123" y="82">3</text><text x="161" y="82">4</text><text x="199" y="82">5</text><text x="237" y="82">6</text><text x="275" y="82">7</text><text x="313" y="82">8</text><text x="351" y="82">9</text><text x="389" y="82">10</text><text x="427" y="82">11</text><text x="465" y="82">12</text><text x="503" y="82">13</text><text x="541" y="82">14</text><text x="579" y="82">15</text><text x="617" y="82">16</text><text x="655" y="82">17</text><text x="693" y="82">18</text></g>
+<g font-size="13" font-weight="bold" fill="#0b5cad" text-anchor="middle"><text x="14" y="117">1</text><text x="14" y="165">2</text><text x="14" y="213">3</text><text x="14" y="261">4</text><text x="14" y="309">5</text><text x="14" y="357">6</text><text x="14" y="405">7</text></g>
+<!-- cells: top-left corner (28, 88), each 38 × 48 -->
+<!-- cell colours: metals, metalloids, non-metals, noble gases, superheavy elements -->
+<g fill="#dbe7f4" stroke="#fff" stroke-width="1.5"><rect x="28" y="136" width="38" height="48"/><rect x="66" y="136" width="38" height="48"/><rect x="28" y="184" width="38" height="48"/><rect x="66" y="184" width="38" height="48"/><rect x="484" y="184" width="38" height="48"/><rect x="28" y="232" width="38" height="48"/><rect x="66" y="232" width="38" height="48"/><rect x="104" y="232" width="38" height="48"/><rect x="142" y="232" width="38" height="48"/><rect x="180" y="232" width="38" height="48"/><rect x="218" y="232" width="38" height="48"/><rect x="256" y="232" width="38" height="48"/><rect x="294" y="232" width="38" height="48"/><rect x="332" y="232" width="38" height="48"/><rect x="370" y="232" width="38" height="48"/><rect x="408" y="232" width="38" height="48"/><rect x="446" y="232" width="38" height="48"/><rect x="484" y="232" width="38" height="48"/><rect x="28" y="280" width="38" height="48"/><rect x="66" y="280" width="38" height="48"/><rect x="104" y="280" width="38" height="48"/><rect x="142" y="280" width="38" height="48"/><rect x="180" y="280" width="38" height="48"/><rect x="218" y="280" width="38" height="48"/><rect x="256" y="280" width="38" height="48"/><rect x="294" y="280" width="38" height="48"/><rect x="332" y="280" width="38" height="48"/><rect x="370" y="280" width="38" height="48"/><rect x="408" y="280" width="38" height="48"/><rect x="446" y="280" width="38" height="48"/><rect x="484" y="280" width="38" height="48"/><rect x="522" y="280" width="38" height="48"/><rect x="28" y="328" width="38" height="48"/><rect x="66" y="328" width="38" height="48"/><rect x="142" y="328" width="38" height="48"/><rect x="180" y="328" width="38" height="48"/><rect x="218" y="328" width="38" height="48"/><rect x="256" y="328" width="38" height="48"/><rect x="294" y="328" width="38" height="48"/><rect x="332" y="328" width="38" height="48"/><rect x="370" y="328" width="38" height="48"/><rect x="408" y="328" width="38" height="48"/><rect x="446" y="328" width="38" height="48"/><rect x="484" y="328" width="38" height="48"/><rect x="522" y="328" width="38" height="48"/><rect x="560" y="328" width="38" height="48"/><rect x="598" y="328" width="38" height="48"/><rect x="28" y="376" width="38" height="48"/><rect x="66" y="376" width="38" height="48"/></g>
+<g fill="#d9eecf" stroke="#fff" stroke-width="1.5"><rect x="484" y="136" width="38" height="48"/><rect x="522" y="184" width="38" height="48"/><rect x="522" y="232" width="38" height="48"/><rect x="560" y="232" width="38" height="48"/><rect x="560" y="280" width="38" height="48"/><rect x="598" y="280" width="38" height="48"/></g>
+<g fill="#fbeec0" stroke="#fff" stroke-width="1.5"><rect x="28" y="88" width="38" height="48"/><rect x="522" y="136" width="38" height="48"/><rect x="560" y="136" width="38" height="48"/><rect x="598" y="136" width="38" height="48"/><rect x="636" y="136" width="38" height="48"/><rect x="560" y="184" width="38" height="48"/><rect x="598" y="184" width="38" height="48"/><rect x="636" y="184" width="38" height="48"/><rect x="598" y="232" width="38" height="48"/><rect x="636" y="232" width="38" height="48"/><rect x="636" y="280" width="38" height="48"/><rect x="636" y="328" width="38" height="48"/></g>
+<g fill="#ebdff3" stroke="#fff" stroke-width="1.5"><rect x="674" y="88" width="38" height="48"/><rect x="674" y="136" width="38" height="48"/><rect x="674" y="184" width="38" height="48"/><rect x="674" y="232" width="38" height="48"/><rect x="674" y="280" width="38" height="48"/><rect x="674" y="328" width="38" height="48"/></g>
+<g fill="#e6e6e6" stroke="#fff" stroke-width="1.5"><rect x="142" y="376" width="38" height="48"/><rect x="180" y="376" width="38" height="48"/><rect x="218" y="376" width="38" height="48"/><rect x="256" y="376" width="38" height="48"/><rect x="294" y="376" width="38" height="48"/><rect x="332" y="376" width="38" height="48"/><rect x="370" y="376" width="38" height="48"/><rect x="408" y="376" width="38" height="48"/><rect x="446" y="376" width="38" height="48"/><rect x="484" y="376" width="38" height="48"/><rect x="522" y="376" width="38" height="48"/><rect x="560" y="376" width="38" height="48"/><rect x="598" y="376" width="38" height="48"/><rect x="636" y="376" width="38" height="48"/><rect x="674" y="376" width="38" height="48"/></g>
+<!-- atomic number and symbol; elements most used in rebuilding in dark bold, the rest grey -->
+<g fill="#222">
+<g font-size="12"><text x="31" y="101">1</text><text x="525" y="149">6</text><text x="563" y="149">7</text><text x="601" y="149">8</text><text x="31" y="197">11</text><text x="69" y="197">12</text><text x="487" y="197">13</text><text x="525" y="197">14</text><text x="563" y="197">15</text><text x="601" y="197">16</text><text x="639" y="197">17</text><text x="31" y="245">19</text><text x="69" y="245">20</text><text x="221" y="245">24</text><text x="297" y="245">26</text><text x="373" y="245">28</text><text x="411" y="245">29</text><text x="449" y="245">30</text><text x="563" y="245">33</text><text x="411" y="293">47</text><text x="525" y="293">50</text><text x="639" y="293">53</text><text x="221" y="341">74</text><text x="411" y="341">79</text><text x="449" y="341">80</text><text x="525" y="341">82</text></g>
+<g font-size="16" text-anchor="middle" font-weight="bold"><text x="47" y="126">H</text><text x="541" y="174">C</text><text x="579" y="174">N</text><text x="617" y="174">O</text><text x="47" y="222">Na</text><text x="85" y="222">Mg</text><text x="503" y="222">Al</text><text x="541" y="222">Si</text><text x="579" y="222">P</text><text x="617" y="222">S</text><text x="655" y="222">Cl</text><text x="47" y="270">K</text><text x="85" y="270">Ca</text><text x="237" y="270">Cr</text><text x="313" y="270">Fe</text><text x="389" y="270">Ni</text><text x="427" y="270">Cu</text><text x="465" y="270">Zn</text><text x="579" y="270">As</text><text x="427" y="318">Ag</text><text x="541" y="318">Sn</text><text x="655" y="318">I</text><text x="237" y="366">W</text><text x="427" y="366">Au</text><text x="465" y="366">Hg</text><text x="541" y="366">Pb</text></g>
+</g>
+<g fill="#8a8a8a">
+<g font-size="12"><text x="677" y="101">2</text><text x="31" y="149">3</text><text x="69" y="149">4</text><text x="487" y="149">5</text><text x="639" y="149">9</text><text x="677" y="149">10</text><text x="677" y="197">18</text><text x="107" y="245">21</text><text x="145" y="245">22</text><text x="183" y="245">23</text><text x="259" y="245">25</text><text x="335" y="245">27</text><text x="487" y="245">31</text><text x="525" y="245">32</text><text x="601" y="245">34</text><text x="639" y="245">35</text><text x="677" y="245">36</text><text x="31" y="293">37</text><text x="69" y="293">38</text><text x="107" y="293">39</text><text x="145" y="293">40</text><text x="183" y="293">41</text><text x="221" y="293">42</text><text x="259" y="293">43</text><text x="297" y="293">44</text><text x="335" y="293">45</text><text x="373" y="293">46</text><text x="449" y="293">48</text><text x="487" y="293">49</text><text x="563" y="293">51</text><text x="601" y="293">52</text><text x="677" y="293">54</text><text x="31" y="341">55</text><text x="69" y="341">56</text><text x="145" y="341">72</text><text x="183" y="341">73</text><text x="259" y="341">75</text><text x="297" y="341">76</text><text x="335" y="341">77</text><text x="373" y="341">78</text><text x="487" y="341">81</text><text x="563" y="341">83</text><text x="601" y="341">84</text><text x="639" y="341">85</text><text x="677" y="341">86</text><text x="31" y="389">87</text><text x="69" y="389">88</text><text x="145" y="389">104</text><text x="183" y="389">105</text><text x="221" y="389">106</text><text x="259" y="389">107</text><text x="297" y="389">108</text><text x="335" y="389">109</text><text x="373" y="389">110</text><text x="411" y="389">111</text><text x="449" y="389">112</text><text x="487" y="389">113</text><text x="525" y="389">114</text><text x="563" y="389">115</text><text x="601" y="389">116</text><text x="639" y="389">117</text><text x="677" y="389">118</text></g>
+<g font-size="16" text-anchor="middle"><text x="693" y="126">He</text><text x="47" y="174">Li</text><text x="85" y="174">Be</text><text x="503" y="174">B</text><text x="655" y="174">F</text><text x="693" y="174">Ne</text><text x="693" y="222">Ar</text><text x="123" y="270">Sc</text><text x="161" y="270">Ti</text><text x="199" y="270">V</text><text x="275" y="270">Mn</text><text x="351" y="270">Co</text><text x="503" y="270">Ga</text><text x="541" y="270">Ge</text><text x="617" y="270">Se</text><text x="655" y="270">Br</text><text x="693" y="270">Kr</text><text x="47" y="318">Rb</text><text x="85" y="318">Sr</text><text x="123" y="318">Y</text><text x="161" y="318">Zr</text><text x="199" y="318">Nb</text><text x="237" y="318">Mo</text><text x="275" y="318">Tc</text><text x="313" y="318">Ru</text><text x="351" y="318">Rh</text><text x="389" y="318">Pd</text><text x="465" y="318">Cd</text><text x="503" y="318">In</text><text x="579" y="318">Sb</text><text x="617" y="318">Te</text><text x="693" y="318">Xe</text><text x="47" y="366">Cs</text><text x="85" y="366">Ba</text><text x="161" y="366">Hf</text><text x="199" y="366">Ta</text><text x="275" y="366">Re</text><text x="313" y="366">Os</text><text x="351" y="366">Ir</text><text x="389" y="366">Pt</text><text x="503" y="366">Tl</text><text x="579" y="366">Bi</text><text x="617" y="366">Po</text><text x="655" y="366">At</text><text x="693" y="366">Rn</text><text x="47" y="414">Fr</text><text x="85" y="414">Ra</text><text x="161" y="414">Rf</text><text x="199" y="414">Db</text><text x="237" y="414">Sg</text><text x="275" y="414">Bh</text><text x="313" y="414">Hs</text><text x="351" y="414">Mt</text><text x="389" y="414">Ds</text><text x="427" y="414">Rg</text><text x="465" y="414">Cn</text><text x="503" y="414">Nh</text><text x="541" y="414">Fl</text><text x="579" y="414">Mc</text><text x="617" y="414">Lv</text><text x="655" y="414">Ts</text><text x="693" y="414">Og</text></g>
+</g>
+<!-- heavy frame: most used in rebuilding; red frame: highly toxic -->
+<g fill="none" stroke="#333" stroke-width="2.5"><rect x="29.5" y="89.5" width="35" height="45"/><rect x="523.5" y="137.5" width="35" height="45"/><rect x="561.5" y="137.5" width="35" height="45"/><rect x="599.5" y="137.5" width="35" height="45"/><rect x="29.5" y="185.5" width="35" height="45"/><rect x="67.5" y="185.5" width="35" height="45"/><rect x="485.5" y="185.5" width="35" height="45"/><rect x="523.5" y="185.5" width="35" height="45"/><rect x="561.5" y="185.5" width="35" height="45"/><rect x="599.5" y="185.5" width="35" height="45"/><rect x="637.5" y="185.5" width="35" height="45"/><rect x="29.5" y="233.5" width="35" height="45"/><rect x="67.5" y="233.5" width="35" height="45"/><rect x="219.5" y="233.5" width="35" height="45"/><rect x="295.5" y="233.5" width="35" height="45"/><rect x="371.5" y="233.5" width="35" height="45"/><rect x="409.5" y="233.5" width="35" height="45"/><rect x="447.5" y="233.5" width="35" height="45"/><rect x="409.5" y="281.5" width="35" height="45"/><rect x="523.5" y="281.5" width="35" height="45"/><rect x="637.5" y="281.5" width="35" height="45"/><rect x="219.5" y="329.5" width="35" height="45"/><rect x="409.5" y="329.5" width="35" height="45"/><rect x="523.5" y="329.5" width="35" height="45"/></g>
+<g fill="none" stroke="#c33" stroke-width="2.5"><rect x="561.5" y="233.5" width="35" height="45"/><rect x="447.5" y="329.5" width="35" height="45"/></g>
+
+<!-- lanthanide and actinide placeholders -->
+<g fill="#dbe7f4" stroke="#fff" stroke-width="1.5"><rect x="104" y="328" width="38" height="48"/><rect x="104" y="376" width="38" height="48"/></g>
+<g fill="#8a8a8a" text-anchor="middle">
+<text x="123" y="349" font-size="12">57-71</text><text x="123" y="368" font-size="12">La-Lu</text>
+<text x="123" y="397" font-size="12" textLength="35" lengthAdjust="spacingAndGlyphs">89-103</text><text x="123" y="416" font-size="12">Ac-Lr</text>
+</g>
+
+<!-- legend (in the empty space above the table) -->
+<g stroke="#999" stroke-width="1">
+<rect x="76" y="100" width="22" height="16" fill="#dbe7f4"/>
+<rect x="170" y="100" width="22" height="16" fill="#d9eecf"/>
+<rect x="280" y="100" width="22" height="16" fill="#fbeec0"/>
+<rect x="390" y="100" width="22" height="16" fill="#ebdff3"/>
+<rect x="510" y="100" width="22" height="16" fill="#e6e6e6"/>
+</g>
+<g font-size="13">
+<text x="104" y="113">Metals</text>
+<text x="198" y="113">Metalloids</text>
+<text x="308" y="113">Non-metals</text>
+<text x="418" y="113">Noble gases</text>
+<text x="538" y="113">Superheavy</text>
+</g>
+<rect x="110" y="144" width="22" height="16" fill="none" stroke="#333" stroke-width="2.5"/>
+<rect x="340" y="144" width="22" height="16" fill="none" stroke="#c33" stroke-width="2.5"/>
+<path d="M110,184 h10 v-10 h12" fill="none" stroke="#0b5cad" stroke-width="3"/>
+<g font-size="12">
+<text x="138" y="157">Most used in rebuilding (see below)</text>
+<text x="368" y="157" fill="#c33">Highly toxic, avoid</text>
+<text x="138" y="182">Staircase line: metals lower left and middle (the</text>
+<text x="138" y="196">great majority), non-metals upper right; along the</text>
+<text x="138" y="210">line, metalloids, many of them semiconductors</text>
+<text x="138" y="224">Far right column: noble gases, hardly react at all</text>
+</g>
+<!-- staircase line: boundary between metals and metalloids/non-metals -->
+<path d="M484,136 V184 H522 V280 H560 V328 H636 V376" fill="none" stroke="#0b5cad" stroke-width="3.5" stroke-linejoin="round"/>
+<text x="28" y="442" font-size="12" fill="#555">The lanthanides (57-71) and actinides (89-103) belong in column 3 of periods 6 and 7; they are too long,</text>
+<text x="28" y="457" font-size="12" fill="#555">so they are placed separately below the table (omitted here)</text>
+
+<!-- how to read it -->
+<g transform="translate(0,16)">
+<rect x="10" y="454" width="700" height="118" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="24" y="478" font-size="15" font-weight="bold">How to read the periodic table</text>
+<path d="M28,497 H62" stroke="#0b5cad" stroke-width="2.5" marker-end="url(#arB)"/>
+<text x="72" y="502" font-size="13.5"><tspan font-weight="bold">Across a period, left to right:</tspan> atoms get smaller; less metallic, more non-metallic</text>
+<text x="72" y="521" font-size="13" fill="#555">e.g. Na (a very reactive metal) → Mg → Al → Si → P → S → Cl (a very reactive non-metal)</text>
+<path d="M45,528 V560" stroke="#0b5cad" stroke-width="2.5" marker-end="url(#arB)"/>
+<text x="72" y="544" font-size="13.5"><tspan font-weight="bold">Down a group:</tspan> atoms get larger; metals more reactive, non-metals less reactive</text>
+<text x="72" y="563" font-size="13" fill="#555">e.g. Li &lt; Na &lt; K &lt; Rb &lt; Cs; F &gt; Cl &gt; Br &gt; I</text>
+</g>
+<!-- common elements and their uses -->
+<rect x="10" y="600" width="700" height="379" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="24" y="624" font-size="15" font-weight="bold">The elements most used in rebuilding and their main uses</text>
+<line x1="360" y1="636" x2="360" y2="967" stroke="#ddd" stroke-width="1.5"/>
+<text x="28" y="652" font-size="14" font-weight="bold" fill="#0b5cad">H</text>
+<text x="68" y="652" font-size="13">hydrogen</text>
+<text x="150" y="652" font-size="13" fill="#333">fuel, chemical industry</text>
+<text x="28" y="674" font-size="14" font-weight="bold" fill="#0b5cad">C</text>
+<text x="68" y="674" font-size="13">carbon</text>
+<text x="150" y="674" font-size="13" fill="#333">fuel, reducing agent for iron, a</text>
+<text x="150" y="691" font-size="13" fill="#333">component of steel</text>
+<text x="28" y="713" font-size="14" font-weight="bold" fill="#0b5cad">N</text>
+<text x="68" y="713" font-size="13">nitrogen</text>
+<text x="150" y="713" font-size="13" fill="#333">fertiliser</text>
+<text x="28" y="735" font-size="14" font-weight="bold" fill="#0b5cad">O</text>
+<text x="68" y="735" font-size="13">oxygen</text>
+<text x="150" y="735" font-size="13" fill="#333">burning, breathing</text>
+<text x="28" y="757" font-size="14" font-weight="bold" fill="#0b5cad">Na</text>
+<text x="68" y="757" font-size="13">sodium</text>
+<text x="150" y="757" font-size="13" fill="#333">salt, soda ash, caustic soda, soap</text>
+<text x="28" y="779" font-size="14" font-weight="bold" fill="#0b5cad">Mg</text>
+<text x="68" y="779" font-size="13">magnesium</text>
+<text x="150" y="779" font-size="13" fill="#333">light alloys, fire-starting</text>
+<text x="28" y="801" font-size="14" font-weight="bold" fill="#0b5cad">Al</text>
+<text x="68" y="801" font-size="13">aluminium</text>
+<text x="150" y="801" font-size="13" fill="#333">casting, utensils</text>
+<text x="28" y="823" font-size="14" font-weight="bold" fill="#0b5cad">Si</text>
+<text x="68" y="823" font-size="13">silicon</text>
+<text x="150" y="823" font-size="13" fill="#333">glass, cement, ceramics</text>
+<text x="28" y="845" font-size="14" font-weight="bold" fill="#0b5cad">P</text>
+<text x="68" y="845" font-size="13">phosphorus</text>
+<text x="150" y="845" font-size="13" fill="#333">fertiliser</text>
+<text x="28" y="867" font-size="14" font-weight="bold" fill="#0b5cad">S</text>
+<text x="68" y="867" font-size="13">sulphur</text>
+<text x="150" y="867" font-size="13" fill="#333">sulphuric acid, vulcanising rubber,</text>
+<text x="150" y="884" font-size="13" fill="#333">killing germs</text>
+<text x="28" y="906" font-size="14" font-weight="bold" fill="#0b5cad">Cl</text>
+<text x="68" y="906" font-size="13">chlorine</text>
+<text x="150" y="906" font-size="13" fill="#333">disinfectants</text>
+<text x="28" y="928" font-size="14" font-weight="bold" fill="#0b5cad">K</text>
+<text x="68" y="928" font-size="13">potassium</text>
+<text x="150" y="928" font-size="13" fill="#333">fertiliser, alkali, soap</text>
+<text x="28" y="950" font-size="14" font-weight="bold" fill="#0b5cad">Ca</text>
+<text x="68" y="950" font-size="13">calcium</text>
+<text x="150" y="950" font-size="13" fill="#333">lime, cement, improving soil</text>
+<text x="372" y="652" font-size="14" font-weight="bold" fill="#0b5cad">Fe</text>
+<text x="412" y="652" font-size="13">iron</text>
+<text x="494" y="652" font-size="13" fill="#333">tools, machines, building</text>
+<text x="372" y="674" font-size="14" font-weight="bold" fill="#0b5cad">Cu</text>
+<text x="412" y="674" font-size="13">copper</text>
+<text x="494" y="674" font-size="13" fill="#333">wire, bronze, brass</text>
+<text x="372" y="696" font-size="14" font-weight="bold" fill="#0b5cad">Zn</text>
+<text x="412" y="696" font-size="13">zinc</text>
+<text x="494" y="696" font-size="13" fill="#333">brass, galvanising, batteries</text>
+<text x="372" y="718" font-size="14" font-weight="bold" fill="#0b5cad">Sn</text>
+<text x="412" y="718" font-size="13">tin</text>
+<text x="494" y="718" font-size="13" fill="#333">bronze, solder, tin plating</text>
+<text x="372" y="740" font-size="14" font-weight="bold" fill="#0b5cad">Pb</text>
+<text x="412" y="740" font-size="13">lead</text>
+<text x="494" y="740" font-size="13" fill="#333">solder, weights, shielding</text>
+<text x="372" y="762" font-size="14" font-weight="bold" fill="#0b5cad">Ag</text>
+<text x="412" y="762" font-size="13">silver</text>
+<text x="494" y="762" font-size="13" fill="#333">solder, contacts, mirrors</text>
+<text x="372" y="784" font-size="14" font-weight="bold" fill="#0b5cad">Au</text>
+<text x="412" y="784" font-size="13">gold</text>
+<text x="494" y="784" font-size="13" fill="#333">contacts, exchange</text>
+<text x="372" y="806" font-size="14" font-weight="bold" fill="#0b5cad">I</text>
+<text x="412" y="806" font-size="13">iodine</text>
+<text x="494" y="806" font-size="13" fill="#333">iodised salt, tincture of iodine for</text>
+<text x="494" y="823" font-size="13" fill="#333">disinfection</text>
+<text x="372" y="845" font-size="14" font-weight="bold" fill="#0b5cad">W</text>
+<text x="412" y="845" font-size="13">tungsten</text>
+<text x="494" y="845" font-size="13" fill="#333">cutting tools, lamp filaments</text>
+<text x="372" y="867" font-size="14" font-weight="bold" fill="#0b5cad">Cr, Ni</text>
+<text x="420" y="867" font-size="13">chromium,</text>
+<text x="420" y="884" font-size="13">nickel</text>
+<text x="494" y="867" font-size="13" fill="#333">corrosion-resistant materials</text>
+<text x="372" y="906" font-size="14" font-weight="bold" fill="#c33">Hg</text>
+<text x="412" y="906" font-size="13">mercury</text>
+<text x="494" y="906" font-size="13" fill="#c33">avoid using it (highly toxic)</text>
+<text x="372" y="928" font-size="14" font-weight="bold" fill="#c33">As</text>
+<text x="412" y="928" font-size="13">arsenic</text>
+<text x="494" y="928" font-size="13" fill="#c33">do not use (highly toxic; take care</text>
+<text x="494" y="945" font-size="13" fill="#c33">when roasting ores)</text>
+</g>
+</svg>

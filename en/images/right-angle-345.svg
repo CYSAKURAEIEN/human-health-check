@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 520" width="720" height="520" role="img" aria-label="Laying out a right angle with a 3-4-5 rope: tie 13 equally spaced knots in a rope, dividing it into 12 sections; pull it into a triangle whose sides are 3, 4 and 5 sections long; the angle between the 3-section and 4-section sides is a right angle (90°); the principle is Pythagoras' theorem, 3²+4²=5²" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Laying out a right angle with a 3-4-5 rope</title>
+<defs>
+<g id="knot"><circle r="6.5" fill="#8f6d2e" stroke="#333" stroke-width="1.5"/></g>
+<g id="stake"><circle r="12" fill="#d9c29a" stroke="#333" stroke-width="2"/><circle r="5" fill="none" stroke="#8f6d2e" stroke-width="1.2"/></g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Laying out a right angle with a 3-4-5 rope</text>
+
+<text x="20" y="64" font-size="16" font-weight="bold">① Tie 13 equally spaced knots in a rope, dividing it into 12 sections</text>
+<path d="M60,100 L660,100" stroke="#333" stroke-width="7" stroke-linecap="round"/>
+<path d="M60,100 L660,100" stroke="#c8a165" stroke-width="4" stroke-linecap="round"/>
+<use href="#knot" x="60" y="100"/><use href="#knot" x="110" y="100"/><use href="#knot" x="160" y="100"/><use href="#knot" x="210" y="100"/><use href="#knot" x="260" y="100"/><use href="#knot" x="310" y="100"/><use href="#knot" x="360" y="100"/><use href="#knot" x="410" y="100"/><use href="#knot" x="460" y="100"/><use href="#knot" x="510" y="100"/><use href="#knot" x="560" y="100"/><use href="#knot" x="610" y="100"/><use href="#knot" x="660" y="100"/>
+<g font-size="12" fill="#555" text-anchor="middle">
+<text x="60" y="88">1</text><text x="110" y="88">2</text><text x="160" y="88">3</text><text x="210" y="88">4</text><text x="260" y="88">5</text><text x="310" y="88">6</text><text x="360" y="88">7</text><text x="410" y="88">8</text><text x="460" y="88">9</text><text x="510" y="88">10</text><text x="560" y="88">11</text><text x="610" y="88">12</text><text x="660" y="88">13</text>
+</g>
+<path d="M62,116 L62,124 L208,124 L208,116 M212,116 L212,124 L408,124 L408,116 M412,116 L412,124 L658,124 L658,116" fill="none" stroke="#0b5cad" stroke-width="1.5"/>
+<g font-size="15" fill="#0b5cad" text-anchor="middle" font-weight="bold">
+<text x="135" y="144">3 sections</text><text x="310" y="144">4 sections</text><text x="535" y="144">5 sections</text>
+</g>
+<text x="690" y="104" font-size="13" fill="#555" text-anchor="middle">knot</text>
+
+<text x="20" y="190" font-size="16" font-weight="bold">② Pull it into a triangle whose sides are 3, 4 and 5 sections long</text>
+
+<g transform="translate(0,-36)">
+<!-- triangle (seen from above) -->
+<path d="M200,290 L200,470 L440,470 Z" fill="#f6f1e6" stroke="none"/>
+<path d="M200,290 L200,470 L440,470 L200,290" fill="none" stroke="#333" stroke-width="7" stroke-linejoin="round"/>
+<path d="M200,290 L200,470 L440,470 L200,290" fill="none" stroke="#c8a165" stroke-width="4" stroke-linejoin="round"/>
+<path d="M200,446 L224,446 L224,470" fill="none" stroke="#c33" stroke-width="2.5"/>
+<text x="232" y="440" font-size="18" font-weight="bold" fill="#c33">90°</text>
+<use href="#stake" x="200" y="290"/><use href="#stake" x="200" y="470"/><use href="#stake" x="440" y="470"/>
+<use href="#knot" x="200" y="290"/><use href="#knot" x="200" y="470"/><use href="#knot" x="440" y="470"/>
+<use href="#knot" x="200" y="350"/><use href="#knot" x="200" y="410"/>
+<use href="#knot" x="260" y="470"/><use href="#knot" x="320" y="470"/><use href="#knot" x="380" y="470"/>
+<use href="#knot" x="392" y="434"/><use href="#knot" x="344" y="398"/><use href="#knot" x="296" y="362"/><use href="#knot" x="248" y="326"/>
+<g font-size="17" font-weight="bold" fill="#0b5cad">
+<text x="180" y="381" text-anchor="end">3 sections</text>
+<text x="320" y="504" text-anchor="middle">4 sections</text>
+<text x="334" y="360">5 sections</text>
+</g>
+<g font-size="13" fill="#555">
+<text x="200" y="268" text-anchor="middle">1st and 13th knots (the two ends of the rope)</text>
+<text x="186" y="498" text-anchor="middle">4th knot</text>
+<text x="454" y="498" text-anchor="middle">8th knot</text>
+</g>
+<text x="470" y="458" font-size="13" fill="#555">stake</text>
+<line x1="468" y1="454" x2="451" y2="466" stroke="#555" stroke-width="1"/>
+</g>
+
+<text x="20" y="500" font-size="16" font-weight="bold">③ The angle between the 3-section and 4-section sides is a right angle (90°)</text>
+
+<rect x="490" y="214" width="215" height="172" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="504" y="238" font-size="15" font-weight="bold">Principle:</text>
+<text x="504" y="257" font-size="15" font-weight="bold">Pythagoras' theorem</text>
+<text x="504" y="283" font-size="16">3² + 4² = 5²</text>
+<text x="504" y="303" font-size="13" fill="#555">(9 + 16 = 25)</text>
+<text x="504" y="331" font-size="14">Uses: setting out the</text>
+<text x="504" y="351" font-size="14">lines for a house,</text>
+<text x="504" y="371" font-size="14">clearing square fields</text>
+</g>
+</svg>
