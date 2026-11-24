@@ -1,0 +1,189 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 830" width="720" height="830" role="img" aria-label="Common area and volume formulas. Area: rectangle = length × width, square = side²; triangle = base × height ÷ 2, where the height is the perpendicular distance from the apex to the base; parallelogram = base × height; trapezium = (top + bottom) × height ÷ 2; circle = πr², circumference = 2πr = πd. Volume: cuboid = length × width × height; cylinder = πr²h; cone = πr²h ÷ 3, pyramid = base area × height ÷ 3; sphere = 4πr³ ÷ 3, surface area 4πr². Uses: how much a granary, tank or water jar holds: measure the sizes in m to get m³, 1 m³ = 1000 L; for a conical heap of grain or sand, measure the base circumference and the height, r = circumference ÷ 2π, volume = πr²h ÷ 3; double the size and the area becomes 4 times, the volume 8 times. π ≈ 3.14159; for rough work use 3.14 or 22/7" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Common area and volume formulas</title>
+<defs>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Common area and volume formulas</text>
+
+<!-- area -->
+<rect x="10" y="42" width="700" height="236" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="24" y="66" font-size="16" font-weight="bold">Area</text>
+<g stroke="#333" stroke-width="2" stroke-linejoin="round">
+<!-- rectangle -->
+<rect x="32" y="92" width="96" height="58" fill="#cfe0f0"/>
+<!-- triangle -->
+<path d="M156,150 H260 L186,88 Z" fill="#cfe0f0"/>
+<!-- parallelogram -->
+<path d="M294,150 H368 L396,88 H322 Z" fill="#cfe0f0"/>
+<!-- trapezium -->
+<path d="M432,150 H540 L512,88 H460 Z" fill="#cfe0f0"/>
+<!-- circle -->
+<circle cx="636" cy="119" r="34" fill="#cfe0f0"/>
+</g>
+<g stroke="#c33" stroke-width="1.5" stroke-dasharray="4 3" fill="none">
+<path d="M186,88 V150"/>
+<path d="M322,88 V150"/>
+<path d="M460,88 V150"/>
+</g>
+<g stroke="#c33" stroke-width="1.2" fill="none">
+<path d="M186,142 h8 v8"/>
+<path d="M322,142 h8 v8"/>
+<path d="M460,142 h8 v8"/>
+</g>
+<path d="M636,119 H670" stroke="#0b5cad" stroke-width="2"/>
+<circle cx="636" cy="119" r="2.5" fill="#0b5cad"/>
+<g font-size="12" fill="#0b5cad" text-anchor="middle">
+<text x="80" y="168">length</text><text x="24" y="121" transform="rotate(-90 24 121)">width</text>
+<text x="208" y="168">base</text><text x="190" y="134" fill="#c33" text-anchor="start">height</text>
+<text x="331" y="168">base</text><text x="326" y="125" fill="#c33" text-anchor="start">height</text>
+<text x="486" y="82">top</text><text x="486" y="168">bottom</text><text x="464" y="125" fill="#c33" text-anchor="start">height</text>
+<text x="654" y="113" font-size="13">r</text>
+</g>
+<g font-size="14" text-anchor="middle">
+<text x="80" y="196" font-weight="bold">Rectangle</text>
+<text x="208" y="196" font-weight="bold">Triangle</text>
+<text x="345" y="196" font-weight="bold">Parallelogram</text>
+<text x="486" y="196" font-weight="bold">Trapezium</text>
+<text x="636" y="196" font-weight="bold">Circle</text>
+</g>
+<g font-size="13.5" text-anchor="middle" fill="#c33" font-weight="bold">
+<text x="80" y="220">length × width</text>
+<text x="208" y="220">base × height ÷ 2</text>
+<text x="345" y="220">base × height</text>
+<text x="486" y="220">(top + bottom)</text>
+<text x="486" y="238">× height ÷ 2</text>
+<text x="636" y="220">πr²</text>
+</g>
+<g font-size="12" text-anchor="middle" fill="#555">
+<text x="80" y="242">square: side²</text>
+<text x="208" y="242">height: perpendicular</text>
+<text x="208" y="257">from apex to base</text>
+<text x="345" y="242">height: perpendicular</text>
+<text x="345" y="257">distance between bases</text>
+<text x="636" y="242">circumference</text>
+<text x="636" y="257">= 2πr = πd</text>
+<text x="636" y="272">(d is the diameter)</text>
+</g>
+
+<!-- volume -->
+<rect x="10" y="288" width="700" height="236" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="24" y="312" font-size="16" font-weight="bold">Volume</text>
+<g stroke="#333" stroke-width="2" stroke-linejoin="round">
+<!-- cuboid -->
+<path d="M40,350 H124 V404 H40 Z" fill="#cfe0f0"/>
+<path d="M40,350 L66,330 H150 L124,350 Z" fill="#e3eef8"/>
+<path d="M124,350 L150,330 V384 L124,404 Z" fill="#b7cfe6"/>
+<!-- cylinder -->
+<path d="M222,340 V396 A46,12 0 0 0 314,396 V340" fill="#cfe0f0"/>
+<ellipse cx="268" cy="340" rx="46" ry="12" fill="#e3eef8"/>
+<!-- cone -->
+<path d="M402,396 L448,324 L494,396 A46,12 0 0 1 402,396 Z" fill="#cfe0f0"/>
+<!-- sphere -->
+<circle cx="618" cy="366" r="40" fill="#cfe0f0"/>
+</g>
+<path d="M222,396 A46,12 0 0 1 314,396" fill="none" stroke="#333" stroke-width="1.2" stroke-dasharray="4 3"/>
+<path d="M402,396 A46,12 0 0 1 494,396" fill="none" stroke="#333" stroke-width="1.2" stroke-dasharray="4 3"/>
+<path d="M578,366 A40,10 0 0 0 658,366" fill="none" stroke="#333" stroke-width="1.2"/>
+<path d="M578,366 A40,10 0 0 1 658,366" fill="none" stroke="#333" stroke-width="1.2" stroke-dasharray="4 3"/>
+<g stroke="#c33" stroke-width="1.5" stroke-dasharray="4 3" fill="none">
+<path d="M448,324 V396"/>
+</g>
+<path d="M268,340 H314" stroke="#0b5cad" stroke-width="2"/>
+<path d="M448,396 H494" stroke="#0b5cad" stroke-width="2"/>
+<path d="M618,366 H658" stroke="#0b5cad" stroke-width="2"/>
+<path d="M330,340 V396" stroke="#c33" stroke-width="1.5" marker-start="url(#arR)" marker-end="url(#arR)"/>
+<g font-size="12" fill="#0b5cad" text-anchor="middle">
+<text x="82" y="422">length</text><text x="142" y="408" text-anchor="start">width</text><text x="30" y="377" fill="#c33" transform="rotate(-90 30 377)">height</text>
+</g>
+<g font-size="13" fill="#0b5cad" text-anchor="middle">
+<text x="292" y="366">r</text><text x="342" y="372" fill="#c33">h</text>
+<text x="506" y="400">r</text><text x="440" y="370" fill="#c33">h</text>
+<text x="640" y="392">r</text>
+</g>
+<g font-size="14" text-anchor="middle">
+<text x="94" y="442" font-weight="bold">Cuboid</text>
+<text x="268" y="442" font-weight="bold">Cylinder</text>
+<text x="448" y="442" font-weight="bold">Cone</text>
+<text x="618" y="442" font-weight="bold">Sphere</text>
+</g>
+<g font-size="13.5" text-anchor="middle" fill="#c33" font-weight="bold">
+<text x="94" y="466">length × width</text>
+<text x="94" y="484">× height</text>
+<text x="268" y="466">πr²h</text>
+<text x="448" y="466">πr²h ÷ 3</text>
+<text x="618" y="466">4πr³ ÷ 3</text>
+</g>
+<g font-size="12" text-anchor="middle" fill="#555">
+<text x="268" y="488">(base area πr² × height)</text>
+<text x="448" y="488">pyramid:</text>
+<text x="448" y="503">base area × height ÷ 3</text>
+<text x="618" y="488">surface area 4πr²</text>
+</g>
+
+<!-- uses -->
+<!-- 1 water jar -->
+<rect x="10" y="534" width="262" height="256" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="24" y="558" font-size="15" font-weight="bold">① How much a jar or tank holds</text>
+<path d="M60,592 V672 A50,13 0 0 0 160,672 V592" fill="#fff" stroke="#333" stroke-width="2"/>
+<path d="M62,612 V672 A48,12 0 0 0 158,672 V612 Z" fill="#a9cdf2"/>
+<ellipse cx="110" cy="612" rx="48" ry="12" fill="#cfe4f8" stroke="#0b5cad" stroke-width="1.2"/>
+<ellipse cx="110" cy="592" rx="50" ry="13" fill="none" stroke="#333" stroke-width="2"/>
+<path d="M110,612 H158" stroke="#0b5cad" stroke-width="2"/>
+<text x="134" y="628" font-size="13" fill="#0b5cad" text-anchor="middle">r</text>
+<path d="M176,612 V684" stroke="#c33" stroke-width="1.5" marker-start="url(#arR)" marker-end="url(#arR)"/>
+<text x="186" y="652" font-size="13" fill="#c33">h</text>
+<g font-size="13">
+<text x="24" y="714">Cylinder: V = πr²h</text>
+<text x="24" y="734">Measure all sizes in m to get m³</text>
+<text x="24" y="758" fill="#c33" font-weight="bold">1 m³ = 1000 L</text>
+<text x="24" y="778">Square tank: length × width × height</text>
+</g>
+
+<!-- 2 grain heap -->
+<rect x="282" y="534" width="262" height="256" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="296" y="558" font-size="15" font-weight="bold">② Conical heap of grain or sand</text>
+<path d="M316,664 Q374,596 413,580 Q452,596 510,664 A97,16 0 0 1 316,664 Z" fill="#e8c56a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M316,664 A97,16 0 0 1 510,664" fill="none" stroke="#333" stroke-width="1.2" stroke-dasharray="4 3"/>
+<path d="M316,664 A97,16 0 0 0 510,664" fill="none" stroke="#8b6b3e" stroke-width="3.5"/>
+<path d="M413,580 V664" stroke="#c33" stroke-width="1.5" stroke-dasharray="4 3"/>
+<path d="M413,664 H510" stroke="#0b5cad" stroke-width="2"/>
+<text x="402" y="628" font-size="13" fill="#c33" text-anchor="end">h</text>
+<text x="462" y="660" font-size="13" fill="#0b5cad" text-anchor="middle">r</text>
+<text x="536" y="700" font-size="12" fill="#8b6b3e" text-anchor="end">measure circumference C with a rope</text>
+<g font-size="13">
+<text x="296" y="722">1. Measure base circumference C</text>
+<text x="296" y="738">    and height h</text>
+<text x="296" y="758">2. r = C ÷ 2π</text>
+<text x="296" y="778" fill="#c33" font-weight="bold">3. V = πr²h ÷ 3</text>
+</g>
+
+<!-- 3 double the size -->
+<rect x="554" y="534" width="156" height="256" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="566" y="558" font-size="14" font-weight="bold">③ Double the size</text>
+<g stroke="#333" stroke-width="1.8" stroke-linejoin="round">
+<path d="M572,650 H596 V674 H572 Z" fill="#cfe0f0"/>
+<path d="M572,650 L582,642 H606 L596,650 Z" fill="#e3eef8"/>
+<path d="M596,650 L606,642 V666 L596,674 Z" fill="#b7cfe6"/>
+<path d="M624,626 H672 V674 H624 Z" fill="#cfe0f0"/>
+<path d="M624,626 L644,610 H692 L672,626 Z" fill="#e3eef8"/>
+<path d="M672,626 L692,610 V658 L672,674 Z" fill="#b7cfe6"/>
+</g>
+<g stroke="#333" stroke-width="0.8" fill="none">
+<path d="M648,626 V674 M624,650 H672"/>
+</g>
+<text x="589" y="694" font-size="12" text-anchor="middle" fill="#555">side 1</text>
+<text x="652" y="694" font-size="12" text-anchor="middle" fill="#555">side 2</text>
+<g font-size="13.5">
+<text x="568" y="716">area → <tspan fill="#c33" font-weight="bold">4 times</tspan></text>
+<text x="568" y="736">volume → <tspan fill="#c33" font-weight="bold">8 times</tspan></text>
+<text x="568" y="756" font-size="12" fill="#555">A big pot loses</text>
+<text x="568" y="770" font-size="12" fill="#555">heat more slowly</text>
+<text x="568" y="784" font-size="12" fill="#555">than a small one</text>
+</g>
+
+<text x="360" y="816" font-size="13" text-anchor="middle" fill="#555">π ≈ 3.14159; for rough work use 3.14 or 22/7</text>
+</g>
+</svg>

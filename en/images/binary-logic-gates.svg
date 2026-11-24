@@ -1,0 +1,188 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 866" width="720" height="866" role="img" aria-label="Binary and logic circuits. 1 Binary carries at two; the place values from right to left are 1, 2, 4, 8: 1011 = 1×8 + 0×4 + 1×2 + 1×1 = 11; to convert decimal to binary, divide by 2 repeatedly and write the remainders in reverse order: 13 → 1101. 2 Logic with switches: AND is two switches in series, the lamp lights only when both are closed; OR is two switches in parallel, the lamp lights when either is closed; NOT is the normally closed contact of a relay, which opens when the coil is energised; with truth tables. 3 Half adder: Sum = A XOR B, Carry = A AND B, 1 + 1 = 10; example 0110 + 0011 = 1001, that is 6 + 3 = 9; a full adder also adds the carry from the lower bit" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Binary and logic circuits</title>
+<defs>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<marker id="arK" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#333"/></marker>
+<!-- cell (on a vertical wire; the long line is the positive terminal) -->
+<g id="cell">
+<rect x="-14" y="-8" width="28" height="16" fill="#fff"/>
+<path d="M-12 -4 H12" stroke="#333" stroke-width="2"/>
+<path d="M-6 4 H6" stroke="#333" stroke-width="4"/>
+</g>
+<!-- lamp (on a vertical wire) -->
+<g id="lamp">
+<circle r="12" fill="#fff8d0" stroke="#333" stroke-width="2"/>
+<path d="M-8.5 -8.5 L8.5 8.5 M-8.5 8.5 L8.5 -8.5" stroke="#333" stroke-width="1.5"/>
+</g>
+<!-- switch (on a horizontal wire; origin at the left end, length 30, drawn open) -->
+<g id="sw">
+<path d="M0 0 L27 -13" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="0" cy="0" r="3" fill="#fff" stroke="#333" stroke-width="1.5"/>
+<circle cx="30" cy="0" r="3" fill="#fff" stroke="#333" stroke-width="1.5"/>
+</g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Binary and logic circuits</text>
+
+<!-- 1 binary -->
+<rect x="10" y="42" width="700" height="172" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="24" y="68" font-size="16" font-weight="bold">① Binary: only 0 and 1; carry at two</text>
+<text x="22" y="91" font-size="12" fill="#0b5cad">place</text><text x="22" y="105" font-size="12" fill="#0b5cad">value</text>
+<g font-size="15" fill="#0b5cad" text-anchor="middle" font-weight="bold">
+<text x="92" y="98">8</text><text x="144" y="98">4</text><text x="196" y="98">2</text><text x="248" y="98">1</text>
+</g>
+<g fill="#f2f2f2" stroke="#333" stroke-width="2">
+<rect x="70" y="106" width="44" height="44" rx="4"/><rect x="122" y="106" width="44" height="44" rx="4"/>
+<rect x="174" y="106" width="44" height="44" rx="4"/><rect x="226" y="106" width="44" height="44" rx="4"/>
+</g>
+<g font-size="24" font-weight="bold" text-anchor="middle">
+<text x="92" y="137">1</text><text x="144" y="137">0</text><text x="196" y="137">1</text><text x="248" y="137">1</text>
+</g>
+<g font-size="14" text-anchor="middle" fill="#555">
+<text x="92" y="172">1×8</text><text x="144" y="172">0×4</text><text x="196" y="172">1×2</text><text x="248" y="172">1×1</text>
+</g>
+<text x="30" y="198" font-size="15">1011 = 8 + 0 + 2 + 1 = <tspan font-weight="bold" fill="#c33">11</tspan>(decimal)</text>
+<!-- decimal to binary -->
+<path d="M352 84 V200" stroke="#ddd" stroke-width="1.5"/>
+<text x="368" y="90" font-size="14" font-weight="bold">Decimal to binary: divide by 2 repeatedly,</text><text x="368" y="107" font-size="14" font-weight="bold">then read the remainders in reverse</text>
+<g font-size="15">
+<text x="380" y="130">13 ÷ 2 = 6 rem.</text>
+<text x="388" y="152">6 ÷ 2 = 3 rem.</text>
+<text x="388" y="174">3 ÷ 2 = 1 rem.</text>
+<text x="388" y="196">1 ÷ 2 = 0 rem.</text>
+</g>
+<g font-size="16" font-weight="bold" fill="#c33" text-anchor="middle">
+<text x="516" y="130">1</text><text x="516" y="152">0</text><text x="516" y="174">1</text><text x="516" y="196">1</text>
+</g>
+<path d="M536 194 V120" stroke="#0b5cad" stroke-width="2" fill="none" marker-end="url(#arB)"/>
+<text x="552" y="150" font-size="14" fill="#0b5cad">read from the</text><text x="552" y="166" font-size="14" fill="#0b5cad">bottom up</text>
+<text x="552" y="192" font-size="16">13 → <tspan font-weight="bold" fill="#c33">1101</tspan></text>
+
+<!-- 2 switches and logic -->
+<rect x="10" y="228" width="700" height="372" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="24" y="254" font-size="16" font-weight="bold">② Logic with switches</text>
+<text x="696" y="254" font-size="13" fill="#0b5cad" text-anchor="end">1 = closed, current flows, lamp on; 0 = open, lamp off</text>
+<path d="M243 270 V576 M476 270 V576" stroke="#eee" stroke-width="1.5"/>
+<g font-size="16" font-weight="bold">
+<text x="30" y="284">AND</text><text x="263" y="284">OR</text><text x="496" y="284">NOT</text>
+</g>
+
+<!-- AND: series -->
+<g fill="none" stroke="#333" stroke-width="2">
+<path d="M60 350 V310 H90 M120 310 H150 M180 310 H210 V390 H60 V350"/>
+</g>
+<use href="#sw" x="90" y="310"/><use href="#sw" x="150" y="310"/>
+<use href="#cell" x="60" y="350"/>
+<use href="#lamp" x="210" y="350"/>
+<g font-size="15" font-weight="bold" fill="#c33" text-anchor="middle"><text x="105" y="290">A</text><text x="165" y="290">B</text></g>
+<text x="194" y="372" font-size="13" text-anchor="end">lamp</text>
+<text x="126" y="452" font-size="13" text-anchor="middle">Two switches in series:</text>
+<text x="126" y="470" font-size="13" text-anchor="middle">on only when both closed</text>
+
+<!-- OR: parallel -->
+<g fill="none" stroke="#333" stroke-width="2">
+<path d="M293 350 V300 H345 M375 300 H443 V390 H293 V350"/>
+<path d="M320 300 V336 H345 M375 336 H400 V300"/>
+</g>
+<circle cx="320" cy="300" r="3.5" fill="#333"/><circle cx="400" cy="300" r="3.5" fill="#333"/>
+<use href="#sw" x="345" y="300"/><use href="#sw" x="345" y="336"/>
+<use href="#cell" x="293" y="350"/>
+<use href="#lamp" x="443" y="350"/>
+<g font-size="15" font-weight="bold" fill="#c33" text-anchor="middle"><text x="360" y="280">A</text><text x="360" y="318">B</text></g>
+<text x="427" y="372" font-size="13" text-anchor="end">lamp</text>
+<text x="359" y="452" font-size="13" text-anchor="middle">Two switches in parallel:</text>
+<text x="359" y="470" font-size="13" text-anchor="middle">on when either is closed</text>
+
+<!-- NOT: relay normally closed contact -->
+<g fill="none" stroke="#333" stroke-width="2">
+<path d="M516 330 V300 H676 V360 H610 M580 360 H516 V330"/>
+</g>
+<use href="#cell" x="516" y="330"/>
+<use href="#lamp" x="676" y="330"/>
+<text x="660" y="352" font-size="13" text-anchor="end">lamp</text>
+<!-- normally closed contact (drawn closed) -->
+<path d="M580 360 L611 357" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="580" cy="360" r="3" fill="#fff" stroke="#333" stroke-width="1.5"/>
+<circle cx="610" cy="360" r="3" fill="#fff" stroke="#333" stroke-width="1.5"/>
+<text x="568" y="344" font-size="12" text-anchor="middle" fill="#0b5cad">normally closed</text>
+<!-- coil circuit -->
+<g fill="none" stroke="#333" stroke-width="2">
+<path d="M530 409 V392 H546 M576 392 H580 M610 392 H660 V426 H530 V409"/>
+</g>
+<use href="#sw" x="546" y="392"/>
+<use href="#cell" x="530" y="409"/>
+<rect x="580" y="384" width="30" height="16" fill="#e8d2b0" stroke="#333" stroke-width="1.5"/>
+<path d="M584 384 V400 M590 384 V400 M596 384 V400 M602 384 V400" stroke="#8a5a2b" stroke-width="1.2"/>
+<path d="M595 382 V364" stroke="#0b5cad" stroke-width="1.5" stroke-dasharray="3 3"/>
+<text x="561" y="377" font-size="15" font-weight="bold" fill="#c33" text-anchor="middle">A</text>
+<text x="635" y="414" font-size="12" text-anchor="middle">coil</text>
+<text x="592" y="452" font-size="13" text-anchor="middle">Relay normally closed contact:</text>
+<text x="592" y="470" font-size="13" text-anchor="middle">opens when the coil is energised</text>
+
+<!-- truth tables -->
+<g font-size="14" text-anchor="middle">
+<g font-weight="bold">
+<text x="86" y="500">A</text><text x="126" y="500">B</text><text x="170" y="500">Lamp</text>
+<text x="319" y="500">A</text><text x="359" y="500">B</text><text x="403" y="500">Lamp</text>
+<text x="572" y="500">A</text><text x="622" y="500">Lamp</text>
+</g>
+<path d="M66 506 H190 M299 506 H423 M552 506 H642" stroke="#999" stroke-width="1"/>
+<text x="86" y="524">0</text><text x="126" y="524">0</text><text x="170" y="524">0</text>
+<text x="86" y="543">0</text><text x="126" y="543">1</text><text x="170" y="543">0</text>
+<text x="86" y="562">1</text><text x="126" y="562">0</text><text x="170" y="562">0</text>
+<text x="86" y="581">1</text><text x="126" y="581">1</text><text x="170" y="581" font-weight="bold" fill="#c33">1</text>
+<text x="319" y="524">0</text><text x="359" y="524">0</text><text x="403" y="524">0</text>
+<text x="319" y="543">0</text><text x="359" y="543">1</text><text x="403" y="543" font-weight="bold" fill="#c33">1</text>
+<text x="319" y="562">1</text><text x="359" y="562">0</text><text x="403" y="562" font-weight="bold" fill="#c33">1</text>
+<text x="319" y="581">1</text><text x="359" y="581">1</text><text x="403" y="581" font-weight="bold" fill="#c33">1</text>
+<text x="572" y="524">0</text><text x="622" y="524" font-weight="bold" fill="#c33">1</text>
+<text x="572" y="543">1</text><text x="622" y="543">0</text>
+</g>
+
+<!-- 3 half adder -->
+<g transform="translate(0 14)">
+<rect x="10" y="602" width="700" height="236" rx="10" fill="none" stroke="#ddd" stroke-width="1.5"/>
+<text x="24" y="628" font-size="16" font-weight="bold">③ Half adder: adding two 1-bit numbers</text>
+<g font-size="16" font-weight="bold" fill="#c33" text-anchor="middle"><text x="36" y="677">A</text><text x="36" y="753">B</text></g>
+<g fill="none" stroke="#333" stroke-width="2">
+<path d="M48 672 H150 M100 672 V732 H150"/>
+<path d="M48 748 H150 M125 748 V688 H150"/>
+<path d="M230 680 H256 M230 740 H256"/>
+</g>
+<circle cx="100" cy="672" r="3.5" fill="#333"/><circle cx="125" cy="748" r="3.5" fill="#333"/>
+<g fill="#cfe0f0" stroke="#333" stroke-width="2">
+<rect x="150" y="660" width="80" height="40" rx="6"/>
+<rect x="150" y="720" width="80" height="40" rx="6"/>
+</g>
+<g font-size="15" font-weight="bold" text-anchor="middle"><text x="190" y="685">XOR</text><text x="190" y="745">AND</text></g>
+<g font-size="15" font-weight="bold"><text x="262" y="685">Sum</text><text x="262" y="745">Carry</text></g>
+<text x="30" y="790" font-size="13" fill="#0b5cad">Sum = A XOR B, Carry = A AND B</text>
+<!-- half adder truth table -->
+<g font-size="14" text-anchor="middle">
+<g font-weight="bold"><text x="344" y="652">A</text><text x="376" y="652">B</text><text x="418" y="652">Carry</text><text x="466" y="652">Sum</text></g>
+<path d="M330 658 H480" stroke="#999" stroke-width="1"/>
+<text x="344" y="678">0</text><text x="376" y="678">0</text><text x="420" y="678">0</text><text x="464" y="678">0</text>
+<text x="344" y="700">0</text><text x="376" y="700">1</text><text x="420" y="700">0</text><text x="464" y="700">1</text>
+<text x="344" y="722">1</text><text x="376" y="722">0</text><text x="420" y="722">0</text><text x="464" y="722">1</text>
+<text x="344" y="744">1</text><text x="376" y="744">1</text><text x="420" y="744" font-weight="bold" fill="#c33">1</text><text x="464" y="744" font-weight="bold" fill="#c33">0</text>
+</g>
+<text x="404" y="772" font-size="13" text-anchor="middle">1 + 1 = 10 (write 0, carry 1)</text>
+<!-- multi-bit addition -->
+<path d="M510 640 V800" stroke="#eee" stroke-width="1.5"/>
+<text x="560" y="662" font-size="12" fill="#c33" text-anchor="end">carry</text>
+<g font-size="13" font-weight="bold" fill="#c33" text-anchor="middle"><text x="600" y="662">1</text><text x="624" y="662">1</text></g>
+<g font-size="20" text-anchor="middle">
+<text x="600" y="688">0</text><text x="624" y="688">1</text><text x="648" y="688">1</text><text x="672" y="688">0</text>
+<text x="572" y="714">+</text>
+<text x="600" y="714">0</text><text x="624" y="714">0</text><text x="648" y="714">1</text><text x="672" y="714">1</text>
+</g>
+<path d="M560 724 H688" stroke="#333" stroke-width="2"/>
+<g font-size="20" font-weight="bold" text-anchor="middle">
+<text x="600" y="748">1</text><text x="624" y="748">0</text><text x="648" y="748">0</text><text x="672" y="748">1</text>
+</g>
+<text x="616" y="776" font-size="14" text-anchor="middle">6 + 3 = 9</text>
+<text x="360" y="822" font-size="13" text-anchor="middle" fill="#555">A full adder also adds the carry from the lower bit; chain full adders to add binary numbers of any length</text>
+</g>
+</g>
+</svg>

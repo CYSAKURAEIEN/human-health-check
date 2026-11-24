@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 950" width="720" height="950" role="img" aria-label="Drugs in the body: dose, half-life and dosing interval (schematic; does not represent any real drug). This figure only explains the principle; doses must follow your doctor's instructions or the package leaflet; liver disease, kidney disease, older people, infants and pregnant women often need different doses or different drugs. 1 Dose and effect: too little has no effect, the right dose works, too much is toxic; the therapeutic index is the toxic dose divided by the effective dose; a high therapeutic index means the effective and toxic doses are far apart, which is fairly safe; a low therapeutic index means they are close together, which is dangerous, e.g. digoxin and some antiepileptic drugs; the dose makes the poison: an overdose of paracetamol (acetaminophen) causes severe liver damage, many cold remedies contain it, and taking several at once easily leads to an overdose. 2 Single dose: the half-life is the time for the drug concentration in the body to fall by half; each half-life the concentration halves, 100%, 50%, 25%, 12.5%; after about 5 half-lives the drug is mostly cleared from the body. 3 With repeated doses at fixed intervals, the concentration in the body becomes stable after about 4-5 half-lives; this is called steady state. 4 Missed doses and extra doses both make the concentration swing up and down: miss a dose and it drops and may not work; take a double dose and it shoots up and may be toxic; take the drug on time at the interval given by the leaflet or your doctor" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Drugs in the body: dose, half-life and dosing interval</title>
+<defs>
+<marker id="arK" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#555"/></marker>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Drugs in the body: dose, half-life and dosing interval</text>
+
+<!-- warning -->
+<rect x="8" y="42" width="704" height="74" rx="6" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<g font-size="13">
+<text x="20" y="64"><tspan font-weight="bold" fill="#c33">⚠ Schematic: it does not represent any real drug.</tspan> It only explains the principle;</text>
+<text x="20" y="84">always take the dose your doctor or the package leaflet gives.</text>
+<text x="20" y="104">Liver or kidney disease, older people, infants and pregnant women often need different doses or drugs</text>
+</g>
+<g transform="translate(0,16)">
+
+<!-- 1 dose and effect -->
+<rect x="8" y="110" width="704" height="234" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="134" font-size="15" font-weight="bold">① Dose and effect: the dose makes the poison</text>
+<g stroke="#333" stroke-width="1.5">
+<rect x="30" y="146" width="220" height="32" fill="#e3e7eb"/>
+<rect x="250" y="146" width="220" height="32" fill="#cfe0f0"/>
+<rect x="470" y="146" width="220" height="32" fill="#f4c7c7"/>
+</g>
+<g font-size="14" font-weight="bold" text-anchor="middle">
+<text x="140" y="167">Too little → no effect</text>
+<text x="360" y="167" fill="#0b5cad">Right dose → effective</text>
+<text x="580" y="167" fill="#c33">Too much → toxic</text>
+</g>
+<path d="M30,190 H686" stroke="#555" stroke-width="1.5" marker-end="url(#arK)"/>
+<text x="690" y="204" font-size="12" text-anchor="end" fill="#555">dose increasing</text>
+<text x="24" y="214" font-size="14" font-weight="bold" fill="#0b5cad">Therapeutic index = toxic dose ÷ effective dose</text>
+<!-- high therapeutic index -->
+<text x="24" y="246" font-size="13" font-weight="bold">High index</text>
+<path d="M130,241 H690" stroke="#bbb" stroke-width="2"/>
+<circle cx="170" cy="241" r="6" fill="#0b5cad"/>
+<circle cx="650" cy="241" r="6" fill="#c33"/>
+<path d="M180,241 H640" stroke="#0b5cad" stroke-width="1.2" stroke-dasharray="4 3"/>
+<g font-size="12">
+<text x="170" y="230" text-anchor="middle" fill="#0b5cad">effective dose</text>
+<text x="650" y="230" text-anchor="middle" fill="#c33">toxic dose</text>
+<text x="410" y="236" text-anchor="middle">far apart → fairly safe</text>
+</g>
+<!-- low therapeutic index -->
+<text x="24" y="284" font-size="13" font-weight="bold">Low index</text>
+<path d="M130,279 H690" stroke="#bbb" stroke-width="2"/>
+<circle cx="170" cy="279" r="6" fill="#0b5cad"/>
+<circle cx="214" cy="279" r="6" fill="#c33"/>
+<g font-size="12">
+<text x="166" y="266" text-anchor="end" fill="#0b5cad">effective dose</text>
+<text x="218" y="266" fill="#c33">toxic dose</text>
+<text x="292" y="274" fill="#c33">very close → dangerous (e.g. digoxin, some antiepileptic drugs)</text>
+</g>
+<text x="24" y="312" font-size="12" fill="#555">An overdose of paracetamol (acetaminophen) causes severe liver damage; many cold remedies contain it,</text>
+<text x="24" y="328" font-size="12" fill="#555">so taking several of them at once can easily lead to an overdose</text>
+<g transform="translate(0,16)">
+
+<!-- 2 single dose -->
+<rect x="8" y="338" width="348" height="250" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="362" font-size="15" font-weight="bold">② Single dose: half-life</text>
+<text x="18" y="382" font-size="12" fill="#555">Half-life: time for the drug level in the body to halve</text>
+<g transform="translate(0,28)">
+<path d="M50,370 V520 H336" fill="none" stroke="#555" stroke-width="1.5"/>
+<g stroke="#ddd" stroke-width="1"><path d="M106,520 V445 M162,520 V482.5 M218,520 V501 M274,520 V511"/></g>
+<path d="M50,370 L57.0,382.4 L64.0,393.9 L71.0,404.3 L78.0,413.9 L85.0,422.7 L92.0,430.8 L99.0,438.2 L106.0,445.0 L113.0,451.2 L120.0,456.9 L127.0,462.2 L134.0,467.0 L141.0,471.4 L148.0,475.4 L155.0,479.1 L162.0,482.5 L169.0,485.6 L176.0,488.5 L183.0,491.1 L190.0,493.5 L197.0,495.7 L204.0,497.7 L211.0,499.6 L218.0,501.2 L225.0,502.8 L232.0,504.2 L239.0,505.5 L246.0,506.7 L253.0,507.8 L260.0,508.9 L267.0,509.8 L274.0,510.6 L281.0,511.4 L288.0,512.1 L295.0,512.8 L302.0,513.4 L309.0,513.9 L316.0,514.4 L323.0,514.9 L330.0,515.3" fill="none" stroke="#0b5cad" stroke-width="2.5"/>
+<g fill="#0b5cad"><circle cx="50" cy="370" r="4"/><circle cx="106" cy="445" r="4"/><circle cx="162" cy="482.5" r="4"/><circle cx="218" cy="501" r="4"/><circle cx="330" cy="515.3" r="4"/></g>
+<g font-size="12" font-weight="bold">
+<text x="60" y="368">100%</text>
+<text x="114" y="440">50%</text>
+<text x="170" y="477">25%</text>
+<text x="226" y="494">12.5%</text>
+<text x="330" y="504" text-anchor="end">about 3%</text>
+</g>
+<g font-size="12" text-anchor="middle" fill="#555">
+<text x="50" y="535">0</text><text x="106" y="535">1</text><text x="162" y="535">2</text><text x="218" y="535">3</text><text x="274" y="535">4</text><text x="330" y="535">5</text>
+</g>
+<text x="190" y="552" font-size="12" text-anchor="middle" fill="#555">number of half-lives</text>
+<text x="180" y="410" font-size="13" fill="#0b5cad">after about 5 half-lives</text>
+<text x="180" y="428" font-size="13" fill="#0b5cad">the drug is mostly</text>
+<text x="180" y="446" font-size="13" fill="#0b5cad">cleared from the body</text>
+</g>
+
+<!-- 3 repeated doses -->
+<rect x="364" y="338" width="348" height="250" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="374" y="362" font-size="15" font-weight="bold">③ Repeated doses at fixed intervals</text>
+<text x="374" y="382" font-size="12" fill="#555">Each dose: level jumps, then slowly falls (schematic)</text>
+<g transform="translate(0,28)">
+<path d="M400,380 V520 H694" fill="none" stroke="#555" stroke-width="1.5"/>
+<path d="M400,410 H690" stroke="#c33" stroke-width="1.2" stroke-dasharray="5 4"/>
+<text x="404" y="426" font-size="12" fill="#c33">steady state</text>
+<path d="M400,520 L400,465.0 L406.0,469.6 L412.0,473.8 L418.0,477.6 L424.0,481.1 L430.0,484.3 L436.0,487.3 L442.0,490.0 L448.0,492.5 L448,437.5 L454.0,444.3 L460.0,450.6 L466.0,456.4 L472.0,461.7 L478.0,466.5 L484.0,470.9 L490.0,475.0 L496.0,478.8 L496,423.8 L502.0,431.7 L508.0,439.1 L514.0,445.8 L520.0,451.9 L526.0,457.6 L532.0,462.8 L538.0,467.5 L544.0,471.9 L544,416.9 L550.0,425.4 L556.0,433.3 L562.0,440.5 L568.0,447.1 L574.0,453.1 L580.0,458.7 L586.0,463.8 L592.0,468.4 L592,413.4 L598.0,422.3 L604.0,430.4 L610.0,437.8 L616.0,444.6 L622.0,450.9 L628.0,456.6 L634.0,461.9 L640.0,466.7 L640,411.7 L646.0,420.7 L652.0,428.9 L658.0,436.5 L664.0,443.4 L670.0,449.8 L676.0,455.6 L682.0,461.0 L688.0,465.9" fill="none" stroke="#0b5cad" stroke-width="2.5" stroke-linejoin="round"/>
+<g fill="#0b5cad"><path d="M400,524 l-5,9 h10 Z M448,524 l-5,9 h10 Z M496,524 l-5,9 h10 Z M544,524 l-5,9 h10 Z M592,524 l-5,9 h10 Z M640,524 l-5,9 h10 Z"/></g>
+<text x="400" y="550" font-size="12" fill="#555">▲ dose (here: one dose every half-life)</text>
+<!-- 4-5 half-lives -->
+<path d="M592,404 V397 H640 V404" fill="none" stroke="#c33" stroke-width="1.5"/>
+<text x="586" y="402" font-size="12" text-anchor="end" fill="#c33">steady after about 4-5 half-lives</text>
+</g>
+
+<!-- 4 missed and extra doses -->
+<rect x="8" y="598" width="704" height="246" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="622" font-size="15" font-weight="bold">④ Missed or extra doses: the level swings up and down</text>
+<g transform="translate(0,14)">
+<!-- bands: no effect / effective / toxic (schematic) -->
+<rect x="60" y="626" width="580" height="29.2" fill="#fbe3e3"/>
+<rect x="60" y="655.2" width="580" height="86.4" fill="#e6f0fa"/>
+<rect x="60" y="741.6" width="580" height="38.4" fill="#eceef0"/>
+<g font-size="13" font-weight="bold">
+<text x="648" y="637" fill="#c33">may be</text><text x="648" y="650" fill="#c33">toxic</text>
+<text x="648" y="703" fill="#0b5cad">effective</text>
+<text x="648" y="758" fill="#555">may not</text><text x="648" y="772" fill="#555">work</text>
+</g>
+<path d="M60,626 V780 H640" fill="none" stroke="#555" stroke-width="1.5"/>
+<path d="M60,732.0 L60.0,684.0 L66.6,692.0 L73.2,699.3 L79.8,706.0 L86.4,712.1 L93.0,717.8 L99.5,722.9 L106.1,727.7 L112.7,732.0 L112.7,684.0 L119.3,692.0 L125.9,699.3 L132.5,706.0 L139.1,712.1 L145.7,717.8 L152.3,722.9 L158.9,727.7 L165.5,732.0 L165.5,684.0 L172.1,692.0 L178.6,699.3 L185.2,706.0 L191.8,712.1 L198.4,717.8 L205.0,722.9 L211.6,727.7 L218.2,732.0 L224.8,736.0 L231.4,739.6 L238.0,743.0 L244.6,746.1 L251.1,748.9 L257.7,751.5 L264.3,753.8 L270.9,756.0 L270.9,708.0 L277.5,714.0 L284.1,719.5 L290.7,724.5 L297.3,729.1 L303.9,733.3 L310.5,737.2 L317.1,740.7 L323.6,744.0 L323.6,696.0 L330.2,703.0 L336.8,709.4 L343.4,715.2 L350.0,720.6 L356.6,725.5 L363.2,730.1 L369.8,734.2 L376.4,738.0 L376.4,642.0 L383.0,653.5 L389.6,664.0 L396.2,673.6 L402.7,682.4 L409.3,690.5 L415.9,697.9 L422.5,704.8 L429.1,711.0 L429.1,663.0 L435.7,672.7 L442.3,681.6 L448.9,689.8 L455.5,697.3 L462.1,704.1 L468.7,710.4 L475.2,716.2 L481.8,721.5 L481.8,673.5 L488.4,682.3 L495.0,690.4 L501.6,697.9 L508.2,704.7 L514.8,710.9 L521.4,716.7 L528.0,721.9 L534.6,726.8 L534.6,678.8 L541.2,687.2 L547.8,694.9 L554.3,701.9 L560.9,708.4 L567.5,714.3 L574.1,719.8 L580.7,724.8 L587.3,729.4 L587.3,681.4 L593.9,689.6 L600.5,697.1 L607.1,703.9 L613.7,710.3 L620.3,716.0 L626.8,721.4 L633.4,726.2 L640.0,730.7" fill="none" stroke="#333" stroke-width="2.2" stroke-linejoin="round"/>
+<!-- dose markers -->
+<g fill="#0b5cad"><path d="M60,784 l-5,9 h10 Z M112.7,784 l-5,9 h10 Z M165.5,784 l-5,9 h10 Z M270.9,784 l-5,9 h10 Z M323.6,784 l-5,9 h10 Z M429.1,784 l-5,9 h10 Z M481.8,784 l-5,9 h10 Z M534.6,784 l-5,9 h10 Z M587.3,784 l-5,9 h10 Z"/></g>
+<path d="M376.4,784 l-5,9 h10 Z M376.4,795 l-5,9 h10 Z" fill="#c33"/>
+<path d="M218.2,784 l-5,9 h10 Z" fill="none" stroke="#c33" stroke-width="1.5" stroke-dasharray="2 2"/>
+<!-- labels -->
+<circle cx="270.9" cy="756" r="9" fill="none" stroke="#c33" stroke-width="2"/>
+<g font-size="13" fill="#c33" font-weight="bold">
+<text x="218" y="818" text-anchor="middle">missed one dose</text>
+<text x="376" y="818" text-anchor="middle">double dose</text>
+</g>
+<g font-size="12" fill="#c33">
+<text x="200" y="770" text-anchor="end">level drops</text>
+<text x="364" y="646" text-anchor="end">level shoots up</text>
+</g>
+<circle cx="376.4" cy="642" r="9" fill="none" stroke="#c33" stroke-width="2"/>
+</g>
+
+<!-- footer -->
+<rect x="8" y="852" width="704" height="58" rx="6" fill="#eef5fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="360" y="876" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b5cad">Take the dose at the interval the leaflet or your doctor gives, on time;</text>
+<text x="360" y="896" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b5cad">missed or extra doses make the level swing up and down</text>
+</g>
+</g>
+</g>
+</svg>
