@@ -479,7 +479,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 - **Distribution and habitat**: throughout China; shallow water and wetlands of rivers, lakes, ponds and marshes, growing in large stands
 - **Identification**:
   - Plant: a tall grass, 1-3 m; stems hollow and jointed; leaves broadly linear; in autumn large terminal panicles ("reed flowers"), purplish-brown to greyish-white
-  - Dried herb (fresh Lugen): long cylindrical, 1-2 cm in diameter; surface yellowish-white, glossy, the outer skin loose and peelable; nodes ring-shaped, with remains of roots and bud scars
+  - Herb (fresh Lugen): long cylindrical, 1-2 cm in diameter; surface yellowish-white, glossy, the outer skin loose and peelable; nodes ring-shaped, with remains of roots and bud scars
   - Light, tough, hard to break; **cut surface hollow**, wall 1-2 mm thick, with small holes arranged in a ring; faint smell; sweet taste
 - **How it differs from Baimaogen**: Lugen is thick (1-2 cm in diameter), hollow and grows by water; Baimaogen is thin (0.2-0.4 cm in diameter), solid and grows on dry land
 - **Harvesting and processing**: can be dug all year; remove the buds, fibrous roots and papery leaves; use fresh or sun-dry
@@ -504,3 +504,279 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 - **Actions**: promotes urination and drains damp, drains heat, resolves turbidity and lowers lipids. Used for difficult urination, oedema and abdominal distension, diarrhoea with scanty urine, dizziness from phlegm and fluid retention, hot, painful urination, and high blood lipids
 - **Amount**: 6-10 g (use under the guidance of a practitioner of Chinese medicine)
 - **Cautions**: not suitable for people without damp-heat or with kidney deficiency and spermatorrhoea (traditional experience); oedema has many causes (heart, liver and kidney disease), so **see a doctor first to find the cause**; do not combine it yourself with diuretics
+
+---
+
+## 5. Herbs that resolve phlegm, open the orifices and soothe the throat
+
+### 5.1 Shichangpu (grass-leaved sweet flag rhizome)
+
+- **Pinyin (aliases in Pinyin)**: Shichangpu (Jiujiechangpu is a different medicine, see below); Chinese 石菖蒲; Acorus tatarinowii Schott
+- **Source**: the dried rhizome of *Acorus tatarinowii* Schott, arum family
+- **Distribution and habitat**: the Yangtze basin and southwards; **on wet rocks beside mountain streams and in shallow water**, often growing in clumps pressed against the rocks
+- **Identification**:
+  - Plant: an evergreen herb, 20-40 cm tall; leaves basal, long, narrow and sword-shaped, less than 1 cm wide, **without a distinct midrib**, **strongly fragrant when crushed**; the flower spike is a thin cylinder, jutting out at an angle from among the leaves
+  - Dried herb: flattened cylindrical, often curved and branched, 3-20 cm long, 0.3-1 cm in diameter; surface brownish-black or greyish-brown, rough, with unevenly spaced rings, internodes 0.2-0.8 cm long; **triangular leaf scars alternating left and right**
+  - Hard; cut surface fibrous, whitish or slightly reddish, endodermis ring distinct, with many small dots of vascular bundles and brown oil dots; **aromatic**; taste bitter, slightly pungent
+- **Look-alikes**:
+  - Zangchangpu (Shuichangpu, sweet flag): leaves broad, **with a distinct midrib**, rhizome thick; listed separately in the Pharmacopoeia, not interchangeable
+  - Jiujiechangpu: the rhizome of *Anemone altaica* (buttercup family); there are reports of toxicity; completely different from Shichangpu
+  - Irises: the leaves are also sword-shaped, but broader and **without fragrance**, and the rhizomes are toxic; other members of the arum family (Banxia, Tiannanxing, giant taro) have broad leaves and are poisonous throughout
+- **Harvesting and processing**: dig in autumn and winter, remove the fibrous roots and soil, and sun-dry
+- **Storage**: contains volatile oil; protect from damp and from loss of aroma
+- **Actions**: opens the orifices and clears phlegm, restores consciousness and sharpens the mind, resolves damp and stimulates the appetite. Used for clouded consciousness and epilepsy, forgetfulness and insomnia, ringing in the ears and deafness, fullness in the upper abdomen without hunger, and dysentery with inability to eat
+- **Amount**: 3-10 g (use under the guidance of a practitioner of Chinese medicine)
+- **Cautions**: there are research reports of toxicity of β-asarone in its volatile oil, so **do not take large amounts for a long time**; pregnant women should ask a doctor before use; unconsciousness and convulsions are emergencies: call 120 first, see [Acute symptoms](../../../docs/01-日常疾病和伤害/05-急性症状.md)
+
+### 5.2 Chuanbeimu (Sichuan fritillary bulb)
+
+- **Pinyin (aliases in Pinyin)**: Chuanbeimu (Chuanbei; by appearance divided into Songbei, Qingbei, Lubei); Chinese 川贝母; Fritillaria cirrhosa D. Don and others (see Source)
+- **Source**: the dried bulb of *Fritillaria cirrhosa* D. Don, *F. unibracteata* Hsiao et K. C. Hsia, *F. przewalskii* Maxim., *F. delavayi* Franch., *F. taipaiensis* P. Y. Li or *F. unibracteata* Hsiao et K. C. Hsia var. *wabuensis* (S. Y. Tang et S. C. Yue) Z. D. Liu, S. Wang et S. C. Chen, lily family. According to appearance they are traditionally called "Songbei", "Qingbei", "Lubei" and "cultivated material"
+- **Distribution and habitat**: Sichuan, Tibet, Qinghai, Gansu, Yunnan; **alpine meadows, thickets and scree slopes at about 3000-5000 m above sea level**
+- **Identification**:
+  - Plant: small, 15-50 cm tall; leaves opposite or whorled, linear, the upper leaves often with curled tips; a single flower at the top of the stem, **bell-shaped and drooping**, yellowish-green to purple, with **a purple chequered pattern**
+  - Songbei: roughly conical or nearly spherical, 0.3-0.8 cm tall; 2 outer scales, **very unequal in size, the large one tightly embracing the small one**, the unembraced part crescent-shaped, traditionally called *huaizhong baoyue* ("**holding the moon in its arms**"); top closed, base flat so that it stands steady ("Guanyin sitting on a lotus")
+  - Qingbei: roughly flattened-spherical; 2 outer scales **of similar size, clasping each other face to face**; top split open
+  - Lubei: long conical; surface whitish or pale brownish-yellow, some with brown spots, traditionally called "**tiger-skin spots**"
+  - Hard and brittle; cut surface white, very starchy; faint smell; taste slightly bitter
+- **Look-alikes and fakes**: cheaper fritillaries such as Pingbeimu, Yibeimu and Hubeibeimu are often passed off as Chuanbeimu; more dangerous are fakes made from the bulbs of **Lijiangshancigu** (colchicum family, contains colchicine, poisonous) and Guangcigu (Laoyaban); these fakes lack the two-scale "holding the moon in its arms" structure. **Chuanbeimu is expensive; do not buy loose material from unknown sources yourself**
+- **Harvesting and processing**: dig in summer and autumn, or after the snow melts; remove the fibrous roots, rough skin and soil; sun-dry or dry at low temperature
+- **Storage**: very starchy, **easily attacked by insects and mouldy from damp**; keep sealed against insects
+- **Actions**: clears heat and moistens the lungs, resolves phlegm and stops cough, dissipates nodules and reduces abscesses. Used for dry cough from lung heat, dry cough with little phlegm, chronic cough from yin deficiency, blood-streaked phlegm, scrofula, breast abscess and lung abscess
+- **Amount**: 3-10 g; ground to powder and taken mixed with water, 1-2 g each time (use under the guidance of a practitioner of Chinese medicine)
+- **Cautions**: **do not use with Chuanwu, processed Chuanwu, Caowu, processed Caowu or Fuzi** (eighteen incompatibilities); not suitable for cold phlegm or damp phlegm; see a doctor for a cough lasting more than 3 weeks, coughing up blood, or fever that does not go away
+- 🛡️ **Protection note**: Chuanbeimu is a Class III protected species in the *List of Wild Medicinal Species under Key State Protection*; wild populations of *F. cirrhosa*, *F. unibracteata*, *F. przewalskii*, *F. delavayi* and several other *Fritillaria* species are listed in the 2021 *List of Wild Plants under Key State Protection* (Class II) (the original text of the lists takes precedence). Wild Chuanbei grows extremely slowly (more than 5 years from seed to harvest), and over-collection has severely depleted it. **Do not dig wild fritillaries**; for medicine buy cultivated material
+
+### 5.3 Zhebeimu (Zhejiang fritillary bulb)
+
+- **Pinyin (aliases in Pinyin)**: Zhebeimu (Zhebei, Xiangbei, Dabei, Zhubei); Chinese 浙贝母; Fritillaria thunbergii Miq.
+- **Source**: the dried bulb of *Fritillaria thunbergii* Miq., lily family
+- **Distribution and habitat**: mainly Ningbo and Pan'an in Zhejiang (one of the "Eight Zhejiang Herbs"), also Jiangsu and Anhui; mainly cultivated
+- **Identification**:
+  - Plant: 50-80 cm tall; leaves stalkless, opposite low on the stem, whorled or alternate higher up, narrowly lanceolate, **the tips curled into tendrils**; flowers bell-shaped and drooping, pale yellowish-green, with a purple chequered pattern inside
+  - Dabei: single outer scales of the bulb, roughly **crescent-shaped**, 1-2 cm tall, 2-3.5 cm in diameter; outer surface whitish to pale yellow, inner surface white or pale brown, dusted with white powder
+  - Zhubei: whole bulbs, flattened-round, 1-1.5 cm tall, 1-2.5 cm in diameter
+  - Zhebei slices: transverse slices of the bulb, elliptic or roughly round
+  - Hard and brittle; cut surface white to yellowish-white, very starchy; faint smell; taste slightly bitter
+- **How it differs from Chuanbeimu**: Zhebei is **large**, single scales or flattened-round bulbs, more bitter, and is used more to clear heat, resolve phlegm and dissipate nodules; Chuanbei is **small** (mostly under 1 cm), two scales clasping, slightly bitter, and is used more to moisten the lungs and stop cough
+- **Harvesting and processing**: dig in early summer when the plants wither, and wash; sort by size: remove the central buds from large ones, traditionally called "Dabei"; leave the buds in small ones, traditionally called "Zhubei"; rub off the outer skin by tumbling, mix with calcined shell powder to absorb the juice, and dry; or remove the central buds, cut into thick slices while fresh and dry, traditionally called "Zhebei slices"
+- **Storage**: easily attacked by insects and damaged by damp; keep sealed
+- **Actions**: clears heat, resolves phlegm and stops cough, resolves toxicity, dissipates nodules and reduces abscesses. Used for wind-heat cough, cough from phlegm-fire, lung abscess, breast abscess, scrofula and toxic sores
+- **Amount**: 5-10 g (use under the guidance of a practitioner of Chinese medicine)
+- **Cautions**: **do not use with Chuanwu, processed Chuanwu, Caowu, processed Caowu or Fuzi** (eighteen incompatibilities); not suitable for cold phlegm or damp phlegm
+- 🛡️ **Protection note**: several wild *Fritillaria* species are under key state protection; if you see a fritillary with chequered bell-shaped flowers in the wild, never dig it
+
+### 5.4 Shegan (blackberry lily rhizome)
+
+- **Pinyin (aliases in Pinyin)**: Shegan (Wushan, Bianzhu); Chinese 射干; Belamcanda chinensis (L.) DC.
+- **Source**: the dried rhizome of *Belamcanda chinensis* (L.) DC. (blackberry lily), iris family
+- **Distribution and habitat**: Hubei, Henan, Jiangsu, Anhui and most other parts of China; hillsides, grassland, woodland edges; also often grown as an ornamental
+- **Identification**:
+  - Plant: 1-1.5 m tall; leaves sword-shaped, **in two rows overlapping each other in a fan**, with no midrib; flowers **orange-red with purplish-brown spots**, 6 tepals; capsules obovoid, splitting to reveal glossy black seeds
+  - Dried herb: irregular knobbly pieces, 3-10 cm long, 1-2 cm in diameter; surface yellowish-brown, brown or blackish-brown, shrivelled, with fairly close rings; several disc-shaped sunken stem scars on top, remains of fine roots and root scars underneath
+  - Hard; **cut surface yellow, granular**; faint smell; taste bitter, slightly pungent
+- **Look-alikes**: the rhizome of iris (blue-violet flowers) is "Chuanshegan", listed separately in the Pharmacopoeia, and must not be mixed up with Shegan; there are many wild *Iris* species, some of them poisonous. **If the flower is not orange-red with spots, do not collect it as Shegan**
+- **Harvesting and processing**: dig in early spring just as the shoots appear, or in late autumn when the stems and leaves wither; remove the fibrous roots and soil, and dry
+- **Storage**: protect from damp and insects
+- **Actions**: clears heat and resolves toxicity, resolves phlegm, soothes the throat. Used for stagnation of toxic heat and phlegm-fire, sore swollen throat, copious phlegm and saliva, and cough and wheezing
+- **Amount**: 3-10 g (use under the guidance of a practitioner of Chinese medicine)
+- **Cautions**: cold in nature, not suitable for people with a weak spleen and loose stools; pregnant women should ask a doctor before use (traditional experience); a sore swollen throat with difficulty breathing, drooling or inability to swallow is an emergency: see a doctor at once
+
+### 5.5 Shandougen (Vietnamese sophora root)
+
+- **Pinyin (aliases in Pinyin)**: Shandougen (Guangdougen); Chinese 山豆根; Sophora tonkinensis Gagnep.
+- **Source**: the dried root and rhizome of *Sophora tonkinensis* Gagnep., pea family
+- **Distribution and habitat**: Guangxi, Guangdong, Guizhou, Yunnan; rock crevices and thickets in limestone mountains
+- **Identification**:
+  - Plant: a small shrub, 1-2 m tall; odd-pinnate compound leaves, leaflets elliptic, with short greyish-brown hairs underneath; terminal racemes of yellowish-white pea flowers; pods constricted like a string of beads
+  - Dried herb: the rhizome is irregular and knobbly, often with remains of the stem base on top and several roots below; roots long cylindrical, often branched, 0.7-1.5 cm in diameter; surface brown to brownish-black, with lengthwise wrinkles and horizontal lenticel-like bumps
+  - Very hard, difficult to break; on the cut surface the bark is pale brown and the wood pale yellow; **a beany smell, extremely bitter taste** (do not taste it to identify it)
+- **Look-alikes**: "Beidougen" is the rhizome of Asian moonseed (*bianfuge*, moonseed family), a different medicine, also slightly toxic; several other plants are also popularly called "Shandougen". A matching name does not mean a matching plant
+- **Toxicity** (important):
+  - The Pharmacopoeia marks it "**toxic**". The toxic constituents are mainly alkaloids such as matrine, oxymatrine and cytisine
+  - Signs of poisoning: dizziness, headache, nausea, vomiting, abdominal pain, diarrhoea, palpitations, weakness or numbness of the limbs, unsteady walking, muscle twitching; in severe cases convulsions, coma and respiratory failure
+  - The therapeutic and toxic doses are close, and people vary widely; there are reports of severe brain damage in children and of mass poisoning after Shandougen was steeped as tea to treat sore throats or prevent "internal heat"
+- **Harvesting and processing**: dig in autumn, remove debris, wash and dry
+- **Storage**: store separately with a clear "toxic" label, out of reach of children
+- **Actions**: clears heat and resolves toxicity, reduces swelling and soothes the throat. Used for accumulated fire-toxin, tonsillitis and throat obstruction, sore swollen throat, swollen painful gums, and mouth and tongue sores
+- **Amount**: the Pharmacopoeia specifies 3-6 g. **Toxic: keep strictly to the Pharmacopoeia amount and do not use it on your own**; it may only be prescribed by a practitioner of Chinese medicine and obtained from a regular pharmacy
+- **Cautions**: **do not steep it as tea, do not take it long-term, do not give it to children, do not increase the amount yourself**; not suitable for people with a cold, weak spleen and stomach, poor appetite and loose stools; not for pregnant women. If any of the signs of poisoning above appear, call 120 at once and take the herb and the dregs with you, see [General management of poisoning](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#五中毒的通用处理)
+
+### 5.6 Yuanzhi (polygala root)
+
+- **Pinyin (aliases in Pinyin)**: Yuanzhi (Yuanzhitong, Yuanzhirou, Xiaocaogen); Chinese 远志; Polygala tenuifolia Willd., P. sibirica L.
+- **Source**: the dried root of *Polygala tenuifolia* Willd. (thinleaf milkwort) or *P. sibirica* L. (Siberian milkwort), milkwort family
+- **Distribution and habitat**: Shanxi, Shaanxi, Hebei, Henan, Jilin, Inner Mongolia; sunny hillsides, grassland, roadsides
+- **Identification**:
+  - Plant: a small herb, 15-50 cm tall; *P. tenuifolia* has alternate, **very narrow linear leaves** (*P. sibirica* has broader, ovate-lanceolate leaves); racemes of small **pale blue-violet** flowers, two sepals on the sides look like petals, and the keel petal in the middle carries a **fringed, crest-like appendage** at its tip; capsules flattened-round, narrowly winged
+  - Dried herb: cylindrical, slightly curved, 2-30 cm long, 0.2-1 cm in diameter; surface greyish-yellow to greyish-brown, **with fairly close, deep transverse wrinkles**; old roots somewhat knobbly
+  - Hard and brittle, breaks easily; on the cut surface the bark is brownish-yellow and the wood yellowish-white, and **the bark peels easily from the wood**; faint smell; taste bitter, slightly pungent, with a scratchy feeling in the throat when chewed
+- **Harvesting and processing**: dig in spring and autumn, remove the fibrous roots and soil, and sun-dry; or pull out the woody core and sun-dry (with the core removed it forms a tube, traditionally called "Yuanzhitong")
+- **Storage**: protect from damp and insects
+- **Actions**: calms the mind and sharpens the intellect, restores communication between heart and kidneys, expels phlegm, reduces swelling. Used for insomnia with much dreaming, forgetfulness, palpitations and confused state of mind from disharmony between heart and kidneys, cough with difficult expectoration, sores and swellings, and breast swelling and pain
+- **Amount**: 3-10 g (use under the guidance of a practitioner of Chinese medicine)
+- **Cautions**: irritates the stomach, **use with caution in people with gastritis or stomach ulcers**; too much can cause nausea and vomiting (traditionally honey-fried Yuanzhi is mostly used, see [Chinese herbal preparations](../../../docs/06-制药技术/04-中药制剂.md)); pregnant women should ask a doctor before use
+- 🛡️ **Protection note**: Yuanzhi is a Class III protected species in the *List of Wild Medicinal Species under Key State Protection* (the original text of the list takes precedence); wild stocks have clearly declined, and digging wild plants requires a herb-collecting permit; for household use buy cultivated material
+
+---
+
+## 6. Interior-warming, anti-rheumatic and other herbs
+
+### 6.1 Ganjiang and Shengjiang (dried and fresh ginger)
+
+- **Pinyin (aliases in Pinyin)**: Ganjiang (Ganjiangpian); Shengjiang (Xianjiang); Chinese 干姜, 生姜; Zingiber officinale Rosc.
+- **Source**: the dried rhizome (Ganjiang) or fresh rhizome (Shengjiang) of *Zingiber officinale* Rosc. (ginger), ginger family. The same plant, but dried and fresh forms have different actions
+- **Distribution and habitat**: cultivated in most parts of China; the best Ganjiang comes from Qianwei in Sichuan, Guizhou and elsewhere. For growing it see [Medicinal plants – Ginger](../../../docs/04-动植物培育/04-药用植物.md#生姜)
+- **Identification**:
+  - Plant: 50-100 cm tall; leaves alternate, lanceolate, in two rows, with the pungent smell of ginger when crushed; seldom flowers
+  - Ganjiang: flat lumps **with finger-like branches**, 3-7 cm long, 1-2 cm thick; surface greyish-yellow or pale greyish-brown, rough, with lengthwise wrinkles and distinct rings; firm; cut surface yellowish-white or greyish-white, starchy or granular, endodermis ring distinct, with scattered yellow oil dots; **distinctive fragrance, pungent hot taste**
+  - Shengjiang: irregular lumps, slightly flattened, with finger-like branches; surface yellowish-brown or greyish-brown, with rings; cut surface pale yellow, endodermis ring distinct, vascular bundles scattered; distinctive fragrance, pungent hot taste
+- **Harvesting and processing**: Ganjiang: dig in winter, remove the fibrous roots and soil, sun-dry or dry at low temperature; sliced while fresh and then sun-dried or dried at low temperature it is called "Ganjiangpian" (dried ginger slices). Shengjiang: dig in autumn and winter, remove the fibrous roots and soil, use fresh
+- **Storage**:
+  - Ganjiang: protect from damp and insects
+  - Shengjiang: bury in slightly moist sandy soil or keep in a cellar at about 12-15°C; too cold and it gets frost damage, too warm and it sprouts and rots; **do not eat or use as medicine any ginger that is rotten or mouldy** (cutting off the rotten part is not enough either), as it may produce toxic substances
+- **Actions**:
+  - Ganjiang: warms the middle and dispels cold, restores yang and unblocks the pulse, warms the lungs and resolves fluid retention. Used for cold pain in the upper abdomen, vomiting and diarrhoea, cold limbs with a faint pulse, and wheezing and cough from cold fluid retention
+  - Shengjiang: releases the exterior and dispels cold, warms the middle and stops vomiting, resolves phlegm and stops cough, counteracts fish and crab poisoning. Used for wind-cold common cold, vomiting from stomach cold, cough with cold phlegm, and fish and crab poisoning
+- **Amount**: Ganjiang 3-10 g; Shengjiang 3-10 g (use under the guidance of a practitioner of Chinese medicine; ordinary amounts used in cooking are not included in this)
+- **Cautions**: warm and hot in nature; not suitable for people with internal heat from yin deficiency, dry mouth and sore throat, or bleeding disorders (traditional experience). Stir-fried Ganjiang, "Paojiang", has different actions, see [Chinese herbal preparations](../../../docs/06-制药技术/04-中药制剂.md)
+
+### 6.2 Weilingxian (Chinese clematis root)
+
+- **Pinyin (aliases in Pinyin)**: Weilingxian (Tiejiaoweilingxian, Lingxian); Chinese 威灵仙; Clematis chinensis Osbeck, C. hexapetala Pall., C. manshurica Rupr.
+- **Source**: the dried root and rhizome of *Clematis chinensis* Osbeck, *C. hexapetala* Pall. or *C. manshurica* Rupr., buttercup family
+- **Distribution and habitat**: *C. chinensis* grows in the Yangtze basin and southwards; *C. hexapetala* in the North-east and North; *C. manshurica* in the North-east; hillsides, woodland edges, thickets
+- **Identification**:
+  - Plant: *C. chinensis* is a woody climber; pinnate compound leaves opposite, 5 ovate leaflets; flowers white, **with only 4 petal-like sepals and no true petals**; the achenes keep **long feathery tails** (persistent styles), and in clusters they look like white fluffy balls. *C. hexapetala* is an upright herb
+  - Dried herb (*C. chinensis*): rhizome column-shaped, 1.5-10 cm long, pale brownish-yellow, with remains of the stem base on top and many thin roots below; roots long, thin and cylindrical, 7-15 cm long, 0.1-0.3 cm in diameter, **surface blackish-brown**, in some the bark has come off to show yellowish-white wood
+  - Roots hard and brittle, break easily; on the cut surface the bark is fairly broad and **the wood pale yellow, roughly square**, often with a crack between bark and wood; faint smell; taste bland
+- **Look-alikes**: there are many *Clematis* species, and **the sap of fresh plants irritates the skin and can cause redness and blisters**, so wear gloves when digging; the buttercup family also includes extremely poisonous plants such as aconite, so do not dig if you cannot identify the above-ground parts with certainty
+- **Harvesting and processing**: dig in autumn, remove the soil, and sun-dry
+- **Storage**: protect from damp
+- **Actions**: dispels wind-damp, unblocks the channels. Used for rheumatic pain, numbness of the limbs, cramped sinews, and difficulty bending and stretching
+- **Amount**: 6-10 g (use under the guidance of a practitioner of Chinese medicine)
+- **Cautions**: not suitable for people with weak qi and blood (traditional experience). There is a folk remedy of "Weilingxian boiled in vinegar for a fish bone stuck in the throat"; **do not delay over folk remedies when a fish bone is stuck in the throat**, and do not force it down by swallowing a lump of rice; see [Foreign bodies](../../../docs/01-日常疾病和伤害/04-异物处理.md)
+
+### 6.3 Qinjiao (large-leaf gentian root)
+
+- **Pinyin (aliases in Pinyin)**: Qinjiao (Qinjiao, Mahuajiao, Xiaoqinjiao); Chinese 秦艽; Gentiana macrophylla Pall., G. straminea Maxim., G. crassicaulis Duthie ex Burk., G. dahurica Fisch.
+- **Source**: the dried root of *Gentiana macrophylla* Pall. (large-leaf gentian), *G. straminea* Maxim., *G. crassicaulis* Duthie ex Burk. or *G. dahurica* Fisch. (Dahurian gentian), gentian family. According to appearance the first three are traditionally called "Qinjiao" and "Mahuajiao", and the last "Xiaoqinjiao"
+- **Distribution and habitat**: North-west, North, North-east and South-west China; alpine grassland, meadows, woodland edges
+- **Identification**:
+  - Plant: 30-60 cm tall; basal leaves in a rosette, lanceolate, **with 5 distinct lengthwise veins**; stem leaves opposite; **flowers tubular, deep blue-violet**, clustered at the top of the stem or in the upper leaf axils
+  - Qinjiao: roughly cylindrical, thick at the top and thin at the bottom, **twisted rather than straight**, 10-30 cm long, 1-3 cm in diameter; surface yellowish-brown or greyish-yellow, with lengthwise or twisted wrinkles; remains of the stem base and fibrous leaf sheaths at the top
+  - Hard and brittle, breaks easily; cut surface slightly oily, bark yellow or brownish-yellow, wood yellow; **distinctive smell, taste bitter and slightly astringent**
+  - Mahuajiao: roughly conical, made of several small roots twisted together, often with a net-like pattern of holes; loose and brittle
+- **Harvesting and processing**: dig in spring and autumn and remove the soil; Qinjiao and Mahuajiao are sun-dried until soft, piled up to "sweat" until the surface turns reddish-yellow or greyish-yellow, then spread out and sun-dried, or sun-dried directly without sweating; Xiaoqinjiao has the black skin rubbed off while fresh and is then sun-dried
+- **Storage**: protect from damp and mould
+- **Actions**: dispels wind-damp, clears damp-heat, relieves rheumatic pain, relieves deficiency heat. Used for rheumatic pain, hemiplegia after stroke, cramped sinews, aching joints, damp-heat jaundice, steaming-bone tidal fever, and fever from malnutrition in children
+- **Amount**: 3-10 g (use under the guidance of a practitioner of Chinese medicine)
+- **Cautions**: not suitable for people weakened by long illness or with loose stools (traditional experience)
+- 🛡️ **Protection note**: Qinjiao is a Class III protected species in the *List of Wild Medicinal Species under Key State Protection* (the original text of the list takes precedence); wild stocks have declined, and digging wild plants requires a herb-collecting permit; for household use buy cultivated material
+
+### 6.4 Fenfangji (stephania root)
+
+- **Pinyin (aliases in Pinyin)**: Fangji (Fenfangji, Hanfangji); Chinese 防己 (粉防己); Stephania tetrandra S. Moore
+- **Source**: the dried root of *Stephania tetrandra* S. Moore, moonseed family. Its official name in the Pharmacopoeia is simply "Fangji"
+- **Distribution and habitat**: Zhejiang, Anhui, Jiangxi, Fujian, Hubei, Hunan, Guangdong, Guangxi; hillsides, low hills, grassy places, edges of scrub woodland
+- **Identification**:
+  - Plant: a perennial twining vine; leaves alternate, triangular-broadly ovate, with short soft hairs on both sides; **the leaf stalk does not join the leaf at its edge but on the underside near the base** (called "peltate", like an umbrella); flowers very small, yellowish-green, male and female on separate plants; drupes round, red when ripe
+  - Dried herb: irregular cylindrical, half-cylindrical or lumpy, often curved, 5-10 cm long, 1-5 cm in diameter; surface pale greyish-yellow; at the bends there are often **deep transverse grooves forming knobbly lumps**
+  - Heavy and firm; **cut surface flat, greyish-white, very starchy**, with sparse radiating lines (like a cartwheel); faint smell; taste bitter
+- **Look-alikes** (important): **Guangfangji** is the root of a plant of the Dutchman's pipe family; it contains aristolochic acid, can cause irreversible kidney failure and urinary tract cancers, and its standard as a medicine was withdrawn from 2004. The two dried herbs are **very hard to tell apart by eye**; they can only be told apart by the plant:
+  - Fenfangji: leaves **peltate**; flowers tiny, yellowish-green, inconspicuous; fruits are small red balls
+  - *Aristolochia* (Guangfangji and others): the leaf stalk joins at the edge of the leaf base, leaves often heart-shaped or oblong; **flowers curved like a tobacco pipe or trumpet**, swollen at the base; fruits are hanging capsules
+  - For details see [Guanmutong vs Chuanmutong, Guangfangji vs Fenfangji](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#47-关木通-vs-川木通广防己-vs-粉防己), [How to recognise plants of the Dutchman's pipe family](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#34-怎样认出马兜铃科植物) and [Herbs containing aristolochic acid](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#三含马兜铃酸的药材)
+  - **Use any herb with "Fangji" in its name only from a regular pharmacy and only on prescription**; Mufangji (*Cocculus*, moonseed family) is yet another plant
+- **Harvesting and processing**: dig in autumn, wash, remove the rough bark, sun-dry until half dry, cut into sections, split large ones lengthwise, and dry
+- **Storage**: protect from damp and insects
+- **Actions**: dispels wind and relieves pain, promotes urination and reduces swelling. Used for rheumatic pain, oedema and beriberi, difficult urination, and eczema and toxic sores
+- **Amount**: 5-10 g (use under the guidance of a practitioner of Chinese medicine)
+- **Cautions**: bitter and cold in nature; not suitable for people with poor appetite or who are weak from yin deficiency (traditional experience); for oedema, see a doctor first to find the cause; people with kidney disease must not use any "Fangji" on their own
+
+### 6.5 Baiji (bletilla tuber)
+
+- **Pinyin (aliases in Pinyin)**: Baiji (Baiji, written with a variant character); Chinese 白及 (白芨); Bletilla striata (Thunb.) Reichb. f.
+- **Source**: the dried tuber of *Bletilla striata* (Thunb.) Reichb. f. (hyacinth orchid), orchid family
+- **Distribution and habitat**: Guizhou, Sichuan, Hunan, Hubei, Anhui, Henan, Zhejiang, Shaanxi, Yunnan; grassy hillsides, open woodland, rock crevices in ravines; now mostly cultivated, also grown as an ornamental flower
+- **Identification**:
+  - Plant: 18-60 cm tall; 3-5 leaves, narrowly oblong or lanceolate, **with many parallel lengthwise pleats**; terminal raceme of **purplish-red or pink** flowers of typical orchid shape (the lip has 5 lengthwise ridges)
+  - The underground tubers are flat with 2-3 claw-like branches, and the tubers of successive years are joined one after another
+  - Dried herb: irregular flattened-round, mostly with 2-3 **claw-like branches**, 1.5-6 cm long, 0.5-3 cm thick; surface greyish-white to greyish-brown or yellowish-white, with several **concentric rings** and brown dot-like root scars
+  - Very hard, difficult to break; cut surface whitish, horn-like; faint smell; taste bitter, **sticky when chewed**
+- **Look-alikes**: false hellebore (Lilu) also has pleated leaves, but they are broad and elliptic, there are brown fibrous remains around the stem base, and the flowers are small, blackish-purple or yellowish-green, in a large panicle; see [Lilu](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#218-藜芦). If you cannot identify it with certainty when it is not in flower, do not dig
+- **Harvesting and processing**: dig in summer and autumn, remove the fibrous roots, wash, boil or steam until no white core remains, sun-dry until half dry, remove the outer skin, and sun-dry
+- **Storage**: protect from damp and insects
+- **Actions**: astringes and stops bleeding, reduces swelling and promotes healing. Used for coughing up blood, vomiting blood, bleeding from wounds, sores and swellings, and chapped skin
+- **Amount**: 6-15 g; ground to powder and swallowed, 3-6 g; an appropriate amount for external use (use under the guidance of a practitioner of Chinese medicine)
+- **Cautions**: **do not use with Chuanwu, processed Chuanwu, Caowu, processed Caowu or Fuzi** (eighteen incompatibilities); **coughing up or vomiting blood is an emergency**: see a doctor first and do not rely only on styptic herbs; for bleeding from a wound, first apply pressure as in [Wounds and injuries](../../../docs/01-日常疾病和伤害/02-外伤处理.md)
+- 🛡️ **Protection note**: wild Baiji is listed in the 2021 *List of Wild Plants under Key State Protection* (Class II) (the original text of the list takes precedence); all orchids are listed in the CITES appendices. Wild Baiji has become rare through over-collection; **do not dig wild plants**; for medicine and for growing use cultivated seedlings
+
+### 6.6 Xianmao (golden eye-grass rhizome)
+
+- **Pinyin (aliases in Pinyin)**: Xianmao (Dumao, Dizong); Chinese 仙茅; Curculigo orchioides Gaertn.
+- **Source**: the dried rhizome of *Curculigo orchioides* Gaertn., amaryllis family
+- **Distribution and habitat**: Sichuan, Yunnan, Guizhou, Guangxi, Guangdong, Fujian and other southern regions; under woodland, grassland, waste hillsides
+- **Identification**:
+  - Plant: 10-40 cm tall; rhizome cylindrical, growing straight down; leaves basal, linear or lanceolate, **pleated lengthwise like a folding fan**, like a small palm seedling; flowering stalk very short, hidden in the leaf sheaths; flowers **yellow, star-shaped with 6 lobes**, opening close to the ground
+  - Dried herb: cylindrical, slightly curved, 3-10 cm long, 0.4-1.2 cm in diameter; surface brown to dark brown, rough, with small hole-like root scars and transverse wrinkles
+  - Hard and brittle, breaks easily; cut surface uneven, greyish-white to brownish-black, darker near the centre; faintly fragrant; taste slightly bitter and pungent
+- **Look-alikes**: the bulbs of red spider lily, narcissus and others in the same family (amaryllis family) are poisonous; large-leaved Xianmao and other species of the same genus are local medicines and cannot be substituted
+- **Toxicity**: the Pharmacopoeia marks it "**toxic**". Too much, or long-term use, can cause numbness of the mouth and tongue, palpitations, restlessness and sweating; animal experiments and clinical reports suggest that long-term use of large amounts may damage the liver, kidneys and reproductive system
+- **Harvesting and processing**: dig in autumn and winter, remove the root head and fibrous roots, wash and dry
+- **Storage**: store separately with a "toxic" label, out of reach of children; protect from damp and insects
+- **Actions**: tonifies kidney yang, strengthens sinews and bones, dispels cold-damp. Used for impotence and cold semen, weak sinews and bones, cold pain in the lower back and knees, and cold diarrhoea from yang deficiency
+- **Amount**: the Pharmacopoeia specifies 3-10 g. **Toxic: keep strictly to the Pharmacopoeia amount and do not use it on your own**; do not steep it in medicinal wine to drink long-term
+- **Cautions**: not suitable for people with yin deficiency and excess fire (dry mouth, hot palms and soles, prone to "internal heat"); not for pregnant women or children; not for people with liver or kidney disease
+
+---
+
+## 📝 Key points of this chapter
+
+```
+□ Identify the whole plant before digging the root: dig only when leaves,
+  flowers and fruit all match; looking only at the underground part is the
+  easiest way to get it wrong
+□ Yuzhu, Huangjing: an above-ground stem, leaves on the stem, flowers hanging
+  below the leaf axils;
+  do not dig plants whose leaves grow straight out of the ground and whose
+  fruit is red (lily of the valley, Rohdea)
+□ Muxiang ≠ Qingmuxiang, Fangji (Fenfangji) ≠ Guangfangji: the latter two
+  contain aristolochic acid, which damages the kidneys and causes cancer
+□ Shandougen and Xianmao are toxic: only on a practitioner's prescription,
+  from a regular pharmacy; no tea, no medicinal wine, never for children
+□ Dahuang: use with caution in pregnancy, during periods and while
+  breastfeeding; not a long-term "laxative tea" or "slimming tea"
+□ Ezhu is forbidden in pregnancy; Niuxi, Chuanniuxi and Huzhang are to be used
+  with caution in pregnancy; with Jianghuang, Yujin and Yanhusuo, pregnant
+  women should ask a doctor first
+□ Beimu and Baiji are incompatible with aconite, Xuanshen with Lilu;
+  Yujin is antagonised by Dingxiang
+□ Chuanbeimu, Baiji, Cibotium (Gouji), Tiandong, Yuanzhi, Qinjiao:
+  do not dig wild plants, use cultivated material
+□ Lugen, Baimaogen, Xiangfu: do not collect from polluted water, beside
+  highways, or in fields that have just been sprayed
+```
+
+| Type of herb | Difficulty of identification | Risk of wrong picking or wrong use |
+|---------|---------|------------|
+| Xiangfu, Baimaogen, Lugen, Shengjiang (common, distinctive) | ⭐⭐ | ☠️ (pollution, weeds mixed in) |
+| Maidong, Baihe, Niuxi, Xuduan, Huzhang | ⭐⭐⭐ | ☠️☠️ |
+| Yuzhu, Huangjing (must rule out lily of the valley, Rohdea, Lilu) | ⭐⭐⭐ | ☠️☠️☠️ |
+| Fritillaries, Muxiang, Fenfangji (many fakes, easily confused with poisonous plants) | ⭐⭐⭐⭐ | ☠️☠️☠️☠️ |
+| Shandougen, Xianmao (toxic in themselves) | Not suitable for collecting and using yourself | ☠️☠️☠️☠️ |
+
+---
+
+## Related chapters
+
+- ⏮️ [Roots and Rhizomes (Part 1)](../../../docs/10-中药材识别与采集/01-根及根茎类上.md) - Renshen, Huangqi, Gancao, Danggui, Sanqi, Tianma and others (Chapter 01)
+- 🔗 [General principles of identifying and collecting Chinese medicinal herbs](../../../docs/10-中药材识别与采集/00-总论.md) - general methods for identification, harvesting, processing, storage, safety and the law
+- 🔗 [Toxic herbs and poisonous look-alikes](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md) - Lilu, herbs containing aristolochic acid, comparisons of easily confused poisonous plants
+- 🔗 [Medicinal plants: identification and growing guide](../../../docs/04-动植物培育/04-药用植物.md) - growing ginger and other medicinal plants, the home herb garden
+- 🔗 [Chinese herbal preparations](../../../docs/06-制药技术/04-中药制剂.md) - processing, decocting, formulas and safe use of medicines
+- 🔗 [Poisoning](../../../docs/01-日常疾病和伤害/12-中毒.md) - what to do after eating a poisonous plant or taking too much medicine
+
+---
+
+**Root medicines are hard to identify, so identify the whole plant first. Names are not reliable; the cut surface and the smell are the evidence. If you cannot identify it, do not dig it; if it is toxic, do not touch it; if it is a protected wild plant, do not collect it.**
