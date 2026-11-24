@@ -49,7 +49,7 @@ This chapter continues Chapter 01, "Roots and Rhizomes (Part 1)". General method
 |------|---------|---------|----------|-----|
 | Zhimu | Rhizome | Clears heat and drains fire, nourishes yin and moistens dryness | — | [1.1](#11-zhimu-anemarrhena-rhizome) |
 | Xuanshen | Root | Clears heat and cools blood, nourishes yin and resolves toxicity | Incompatible with Lilu | [1.2](#12-xuanshen-figwort-root) |
-| Maidong | Root tuber | Nourishes yin and moistens the lungs, benefits the stomach and generates fluids | — | [1.3](#13-maidong-dwarf-lilyturf-tuber) |
+| Maidong | Root tuber | Nourishes yin and generates fluids, moistens the lungs and clears heart heat | — | [1.3](#13-maidong-dwarf-lilyturf-tuber) |
 | Tiandong | Root tuber | Nourishes yin and moistens dryness, clears the lungs and generates fluids | 🛡️ | [1.4](#14-tiandong-chinese-asparagus-tuber) |
 | Yuzhu | Rhizome | Nourishes yin and moistens dryness, generates fluids and relieves thirst | Easily confused with lily of the valley and others | [1.5](#15-yuzhu-fragrant-solomons-seal-rhizome) |
 | Huangjing | Rhizome | Tonifies qi and nourishes yin, strengthens the spleen, moistens the lungs and benefits the kidneys | Easily confused with Rohdea and others | [1.6](#16-huangjing-polygonatum-rhizome) |
@@ -659,7 +659,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 
 ### 6.3 Qinjiao (large-leaf gentian root)
 
-- **Pinyin (aliases in Pinyin)**: Qinjiao (Qinjiao, Mahuajiao, Xiaoqinjiao); Chinese 秦艽; Gentiana macrophylla Pall., G. straminea Maxim., G. crassicaulis Duthie ex Burk., G. dahurica Fisch.
+- **Pinyin (aliases in Pinyin)**: Qinjiao (Mahuajiao, Xiaoqinjiao); Chinese 秦艽; Gentiana macrophylla Pall., G. straminea Maxim., G. crassicaulis Duthie ex Burk., G. dahurica Fisch.
 - **Source**: the dried root of *Gentiana macrophylla* Pall. (large-leaf gentian), *G. straminea* Maxim., *G. crassicaulis* Duthie ex Burk. or *G. dahurica* Fisch. (Dahurian gentian), gentian family. According to appearance the first three are traditionally called "Qinjiao" and "Mahuajiao", and the last "Xiaoqinjiao"
 - **Distribution and habitat**: North-west, North, North-east and South-west China; alpine grassland, meadows, woodland edges
 - **Identification**:
