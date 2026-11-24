@@ -97,18 +97,18 @@
 <text x="380" y="466" font-size="12" fill="#c33" text-anchor="middle">Cu²⁺</text>
 <text x="325" y="534" font-size="12" font-weight="bold" text-anchor="middle">crude copper</text>
 <text x="325" y="549" font-size="12" font-weight="bold" text-anchor="middle">(anode +)</text>
-<text x="434" y="534" font-size="12" font-weight="bold" text-anchor="middle">pure copper</text>
-<text x="434" y="549" font-size="12" font-weight="bold" text-anchor="middle">(cathode −)</text>
+<text x="426" y="534" font-size="12" font-weight="bold" text-anchor="middle">pure copper</text>
+<text x="426" y="549" font-size="12" font-weight="bold" text-anchor="middle">(cathode −)</text>
 <g font-size="12">
 <text x="472" y="396" font-weight="bold">Refining: crude copper as anode,</text>
-<text x="472" y="412" font-weight="bold">pure copper as cathode</text>
-<text x="472" y="428" font-weight="bold">→ high-purity copper</text>
-<text x="472" y="448">Mass deposited = (charge ÷ F)</text>
-<text x="484" y="464">× (molar mass ÷ ionic charge)</text>
-<text x="472" y="480">F ≈ 96485 C/mol</text>
-<text x="472" y="500" fill="#0b5cad" font-weight="bold">e.g. copper plating, 1 A, 1 hour</text>
-<text x="472" y="516" fill="#0b5cad">3600 C → about 0.0373 mol e⁻</text>
-<text x="472" y="532" fill="#0b5cad">→ 0.0187 mol Cu × 64 ≈ 1.2 g</text>
+<text x="472" y="411" font-weight="bold">pure copper as cathode</text>
+<text x="472" y="426" font-weight="bold">→ high-purity copper</text>
+<text x="472" y="444">Mass deposited = (charge ÷ F)</text>
+<text x="484" y="459">× (molar mass ÷ ionic charge)</text>
+<text x="472" y="474">F ≈ 96485 C/mol</text>
+<text x="472" y="492" fill="#0b5cad" font-weight="bold">e.g. copper plating, 1 A, 1 hour</text>
+<text x="472" y="507" fill="#0b5cad">3600 C → about 0.0373 mol e⁻</text>
+<text x="472" y="522" fill="#0b5cad">→ 0.0187 mol Cu × 64 ≈ 1.2 g</text>
 </g>
 
 </g>

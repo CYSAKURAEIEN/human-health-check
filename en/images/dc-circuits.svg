@@ -1,0 +1,158 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 864" width="720" height="864" role="img" aria-label="DC circuits: ① Ohm's law U = I × R, voltage equals current times resistance; voltage is like water pressure, current like water flow, resistance like the resistance of the pipe; electrical power P = U × I, e.g. a 220 V, 1100 W electric kettle, current = 1100 ÷ 220 = 5 A. ② Series (one path): the current is the same everywhere, total resistance = R₁ + R₂ + …; by Kirchhoff's voltage law the voltage raised by the source equals the sum of the voltages dropped across the resistors, U = U₁ + U₂; if one lamp fails, they all go out. ③ Parallel (several paths): every branch has the same voltage, 1/R total = 1/R₁ + 1/R₂ + …; by Kirchhoff's current law the current flowing into a node equals the current flowing out, I = I₁ + I₂; household appliances are all connected in parallel and do not affect each other; the more appliances in parallel, the larger the total current, and a power strip can overload and overheat. ④ Internal resistance of the source: every real battery has an internal resistance r, terminal voltage = EMF − current × r; the larger the output current, the more the terminal voltage drops, and a nearly flat battery has a higher internal resistance. A lead-acid battery is about 2 V per cell, 6 cells in series = 12 V" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>DC circuits: Ohm's law, series and parallel</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b5cad"/></marker>
+<!-- cell symbol (on a vertical wire, origin at centre; long line is the positive terminal) -->
+<g id="cell">
+<rect x="-18" y="-10" width="36" height="20" fill="#fff"/>
+<path d="M-16 -6 H16" stroke="#333" stroke-width="2.5"/>
+<path d="M-8 6 H8" stroke="#333" stroke-width="5"/>
+</g>
+<!-- resistor (horizontal) -->
+<rect id="resH" x="-26" y="-9" width="52" height="18" fill="#f2f2f2" stroke="#333" stroke-width="2"/>
+<!-- resistor (vertical) -->
+<rect id="resV" x="-9" y="-26" width="18" height="52" fill="#f2f2f2" stroke="#333" stroke-width="2"/>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">DC circuits: Ohm's law, series and parallel</text>
+
+<!-- 1 Ohm's law -->
+<rect x="10" y="42" width="700" height="188" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="68" font-size="16" font-weight="bold">① Ohm's law</text>
+<path d="M60 96 H200 V196 H60 Z" fill="none" stroke="#333" stroke-width="2.5"/>
+<use href="#cell" x="60" y="146"/>
+<text x="84" y="132" font-size="14" font-weight="bold">+</text>
+<text x="84" y="168" font-size="16" font-weight="bold">−</text>
+<text x="40" y="152" font-size="17" font-weight="bold" fill="#0b5cad" text-anchor="middle">U</text>
+<use href="#resV" x="200" y="146"/>
+<text x="220" y="152" font-size="17" font-weight="bold">R</text>
+<path d="M104 112 H156" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="130" y="134" font-size="17" font-weight="bold" fill="#c33" text-anchor="middle">I</text>
+<text x="376" y="104" font-size="26" font-weight="bold" text-anchor="middle">U = I × R</text>
+<text x="376" y="128" font-size="14" text-anchor="middle">voltage = current × resistance</text>
+<g font-size="13.5">
+<text x="256" y="160"><tspan fill="#0b5cad" font-weight="bold">Voltage U</tspan> (V) ≈ water pressure</text>
+<text x="256" y="182"><tspan fill="#c33" font-weight="bold">Current I</tspan> (A) ≈ water flow</text>
+<text x="256" y="204"><tspan font-weight="bold">Resistance R</tspan> (Ω) ≈ pipe resistance</text>
+</g>
+<line x1="500" y1="80" x2="500" y2="214" stroke="#ddd" stroke-width="1.5"/>
+<text x="512" y="96" font-size="15" font-weight="bold">Power: P = U × I</text>
+<rect x="512" y="110" width="186" height="104" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<g font-size="13.5">
+<text x="522" y="132">e.g. a 220 V, 1100 W</text>
+<text x="522" y="152">electric kettle:</text>
+<text x="522" y="178">current = 1100 ÷ 220</text>
+<text x="522" y="202">= <tspan font-size="16" font-weight="bold" fill="#c33">5 A</tspan></text>
+</g>
+
+<!-- 2 series -->
+<rect x="10" y="242" width="350" height="374" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="268" font-size="16" font-weight="bold">② Series (one path)</text>
+<path d="M60 316 H320 V416 H60 Z" fill="none" stroke="#333" stroke-width="2.5"/>
+<use href="#cell" x="60" y="366"/>
+<text x="84" y="352" font-size="14" font-weight="bold">+</text>
+<text x="84" y="388" font-size="16" font-weight="bold">−</text>
+<text x="40" y="372" font-size="17" font-weight="bold" fill="#0b5cad" text-anchor="middle">U</text>
+<use href="#resH" x="150" y="316"/>
+<use href="#resH" x="250" y="316"/>
+<text x="150" y="344" font-size="15" font-weight="bold" text-anchor="middle">R₁</text>
+<text x="250" y="344" font-size="15" font-weight="bold" text-anchor="middle">R₂</text>
+<path d="M124 292 V300 H176 V292 M224 292 V300 H276 V292" fill="none" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="150" y="290" font-size="15" font-weight="bold" fill="#0b5cad" text-anchor="middle">U₁</text>
+<text x="250" y="290" font-size="15" font-weight="bold" fill="#0b5cad" text-anchor="middle">U₂</text>
+<path d="M80 306 H112" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="96" y="300" font-size="15" font-weight="bold" fill="#c33" text-anchor="middle">I</text>
+<path d="M332 346 V386" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="342" y="372" font-size="15" font-weight="bold" fill="#c33">I</text>
+<path d="M210 428 H170" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="190" y="446" font-size="15" font-weight="bold" fill="#c33" text-anchor="middle">I</text>
+<g font-size="14">
+<text x="24" y="476">✓ Same current everywhere (all <tspan fill="#c33" font-weight="bold">I</tspan>)</text>
+<text x="24" y="500">✓ Total resistance = <tspan font-weight="bold">R₁ + R₂ + …</tspan></text>
+<text x="24" y="524">✓ Voltage law: <tspan fill="#0b5cad" font-weight="bold">U = U₁ + U₂</tspan></text>
+<text x="40" y="543" font-size="12" fill="#555">(voltage raised by the source = sum of the</text>
+<text x="40" y="558" font-size="12" fill="#555">voltages dropped across the resistors)</text>
+</g>
+<text x="24" y="590" font-size="14" fill="#c33" font-weight="bold">✗ If one lamp fails, they all go out</text>
+
+<!-- 3 parallel -->
+<rect x="370" y="242" width="340" height="374" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="384" y="268" font-size="16" font-weight="bold">③ Parallel (several paths)</text>
+<path d="M410 306 H670 V426 H410 Z M560 306 V426" fill="none" stroke="#333" stroke-width="2.5"/>
+<circle cx="560" cy="306" r="4.5" fill="#333"/>
+<circle cx="560" cy="426" r="4.5" fill="#333"/>
+<use href="#cell" x="410" y="366"/>
+<text x="434" y="352" font-size="14" font-weight="bold">+</text>
+<text x="434" y="388" font-size="16" font-weight="bold">−</text>
+<text x="390" y="372" font-size="17" font-weight="bold" fill="#0b5cad" text-anchor="middle">U</text>
+<use href="#resV" x="560" y="366"/>
+<use href="#resV" x="670" y="366"/>
+<text x="574" y="372" font-size="15" font-weight="bold">R₁</text>
+<text x="684" y="372" font-size="15" font-weight="bold">R₂</text>
+<text x="536" y="372" font-size="15" font-weight="bold" fill="#0b5cad" text-anchor="middle">U</text>
+<text x="646" y="372" font-size="15" font-weight="bold" fill="#0b5cad" text-anchor="middle">U</text>
+<path d="M466 296 H512" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="489" y="290" font-size="15" font-weight="bold" fill="#c33" text-anchor="middle">I</text>
+<path d="M590 296 H636" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="613" y="290" font-size="15" font-weight="bold" fill="#c33" text-anchor="middle">I₂</text>
+<path d="M548 316 V334" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="536" y="330" font-size="15" font-weight="bold" fill="#c33" text-anchor="middle">I₁</text>
+<text x="560" y="294" font-size="12" fill="#555" text-anchor="middle">node</text>
+<g font-size="14">
+<text x="384" y="452">✓ Same voltage on every branch (all <tspan fill="#0b5cad" font-weight="bold">U</tspan>)</text>
+<text x="384" y="476">✓ <tspan font-weight="bold">1/R<tspan font-size="12" baseline-shift="sub">total</tspan> = 1/R₁ + 1/R₂ + …</tspan></text>
+<text x="384" y="500">✓ Current law: <tspan fill="#c33" font-weight="bold">I = I₁ + I₂</tspan></text>
+<text x="400" y="518" font-size="12" fill="#555">(current into a node = current out of it)</text>
+<text x="384" y="542" font-size="13">Household appliances are all in parallel</text>
+<text x="384" y="558" font-size="13">and do not affect each other</text>
+<text x="384" y="582" font-size="13" fill="#c33" font-weight="bold">⚠ More appliances in parallel → larger</text>
+<text x="400" y="599" font-size="13" fill="#c33" font-weight="bold">total current → power strip overheats</text>
+</g>
+
+<!-- 4 internal resistance and batteries -->
+<g transform="translate(0,54)">
+<rect x="10" y="574" width="700" height="226" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="600" font-size="16" font-weight="bold">④ Real batteries: internal resistance; cells can be connected in series</text>
+<rect x="34" y="620" width="74" height="132" rx="6" fill="#fafafa" stroke="#555" stroke-width="1.5" stroke-dasharray="5 3"/>
+<text x="71" y="770" font-size="12" fill="#555" text-anchor="middle">real battery</text>
+<path d="M70 632 H170 V740 H70 Z" fill="none" stroke="#333" stroke-width="2.5"/>
+<use href="#cell" x="70" y="660"/>
+<use href="#resV" x="70" y="708" transform="translate(70 708) scale(0.7) translate(-70 -708)"/>
+<text x="88" y="714" font-size="15" font-weight="bold">r</text>
+<circle cx="108" cy="632" r="4" fill="#fff" stroke="#333" stroke-width="2"/>
+<circle cx="108" cy="740" r="4" fill="#fff" stroke="#333" stroke-width="2"/>
+<use href="#resV" x="170" y="686"/>
+<text x="186" y="692" font-size="13" font-weight="bold">load</text>
+<path d="M120 646 H154" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="136" y="666" font-size="14" font-weight="bold" fill="#c33" text-anchor="middle">I</text>
+<g font-size="13">
+<text x="232" y="636" font-size="14" font-weight="bold">Terminal voltage</text>
+<text x="232" y="654" font-size="14" font-weight="bold">= EMF − current × r</text>
+<text x="232" y="680">→ The more current drawn,</text>
+<text x="246" y="697">the more the terminal</text>
+<text x="246" y="714">voltage drops</text>
+<text x="232" y="738">→ A nearly flat battery has a higher r:</text>
+<text x="246" y="755">the voltage falls as soon as</text>
+<text x="246" y="772">a load is connected</text>
+</g>
+<line x1="466" y1="612" x2="466" y2="786" stroke="#ddd" stroke-width="1.5"/>
+<text x="480" y="626" font-size="14" font-weight="bold">Lead-acid battery (car battery)</text>
+<g transform="translate(8,0)">
+<rect x="470" y="666" width="216" height="58" rx="4" fill="#f2f2f2" stroke="#333" stroke-width="2.5"/>
+<rect x="482" y="652" width="20" height="14" fill="#c33" stroke="#333" stroke-width="1.5"/>
+<rect x="654" y="652" width="20" height="14" fill="#555" stroke="#333" stroke-width="1.5"/>
+<text x="492" y="646" font-size="15" font-weight="bold" text-anchor="middle" fill="#c33">+</text>
+<text x="664" y="646" font-size="17" font-weight="bold" text-anchor="middle">−</text>
+<path d="M506 666 V724 M542 666 V724 M578 666 V724 M614 666 V724 M650 666 V724" stroke="#555" stroke-width="1.5"/>
+<g font-size="13" text-anchor="middle">
+<text x="488" y="700">2 V</text><text x="524" y="700">2 V</text><text x="560" y="700">2 V</text><text x="596" y="700">2 V</text><text x="632" y="700">2 V</text><text x="668" y="700">2 V</text>
+</g>
+<text x="578" y="748" font-size="14" text-anchor="middle">About 2 V per cell;</text>
+<text x="578" y="767" font-size="14" text-anchor="middle" font-weight="bold">6 cells in series = 12 V</text>
+<text x="578" y="787" font-size="13" fill="#555" text-anchor="middle">Series: voltages add up</text>
+</g>
+</g>
+</g>
+</svg>
