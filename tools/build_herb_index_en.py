@@ -80,7 +80,7 @@ class Target:
 
     def resolve(self, zh_file, anchor, zh_name):
         c = self.chapter(zh_file)
-        if not c['ok']:
+        if not c['ok'] or len(c['zh_slugs']) != len(c['en_slugs']) or anchor not in c['zh_slugs']:
             return f'../../../{c["zh"]}#{anchor}', f'{pinyin(zh_name)}', None
         k = c['zh_slugs'].index(anchor)
         name = re.sub(r'^[\d.]+\s+', '', c['texts'][k]).replace('*', '')

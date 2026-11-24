@@ -1,0 +1,146 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 980" width="720" height="980" role="img" aria-label="Renshen (ginseng) compared with Shanglu (pokeweed): a thick forked root dug up by a roadside, on waste ground or near a village is often taken for wild ginseng, but it is almost never ginseng; it is poisonous pokeweed root. Ginseng is a short herb, about 30-60 cm tall, with palmately compound leaves whorled at the stem tip (usually 3-6, each mostly with 5 leaflets) and a terminal umbel that bears a cluster of small, flattened, bright red berries; the top of the root has a lutou neck (the rhizome) with bowl-shaped stem scars, the main root is spindle-shaped or cylindrical with 2-3 branch roots lower down, and the fine roots have wart-like bumps (pearl dots); the cut surface is pale yellowish-white and starchy, with a brownish-yellow cambium ring, and the bark has yellowish-brown dots and radial cracks. Pokeweed is poisonous in every part; it is a tall herb, about 1-2 m tall, with a stout stem that is often purplish-red, large, elliptic, smooth-edged, alternate simple leaves, and purple-black berries in grape-like bunches (fruit spikes upright in shanglu, drooping in American pokeweed); the root is thick, fleshy and conical, often forked, with pale yellow or greyish-brown skin and no lutou neck, and its cross-section shows many concentric rings (compass rings), a key identification point. Wild ginseng is protected by the state: do not dig, buy or sell it; if you cannot identify it for sure, do not dig it up or eat it" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Ginseng vs pokeweed</title>
+<defs>
+<g id="pleaf"><path d="M0 0 L40 0" stroke="#4d6b2a" stroke-width="2.5"/><g fill="#bcd68e" stroke="#333" stroke-width="1.2"><path transform="translate(40 0) rotate(-60)" d="M0 0 C4.8 -3.5 12 -5.5 19.2 -4 Q24.5 -2 24 0 Q24.5 2 19.2 4 C12 5.5 4.8 3.5 0 0Z"/><path transform="translate(40 0) rotate(-30)" d="M0 0 C7.2 -5.3 18 -8.3 28.8 -6 Q36.7 -3 36 0 Q36.7 3 28.8 6 C18 8.3 7.2 5.3 0 0Z"/><path transform="translate(40 0)" d="M0 0 C8.8 -6.5 22 -10.2 35.2 -7.4 Q44.9 -3.7 44 0 Q44.9 3.7 35.2 7.4 C22 10.2 8.8 6.5 0 0Z"/><path transform="translate(40 0) rotate(30)" d="M0 0 C7.2 -5.3 18 -8.3 28.8 -6 Q36.7 -3 36 0 Q36.7 3 28.8 6 C18 8.3 7.2 5.3 0 0Z"/><path transform="translate(40 0) rotate(60)" d="M0 0 C4.8 -3.5 12 -5.5 19.2 -4 Q24.5 -2 24 0 Q24.5 2 19.2 4 C12 5.5 4.8 3.5 0 0Z"/></g></g>
+<g id="umbel"><path d="M0 10 L0 -2 M0 10 L-9 -2 M0 10 L-7.3 -6.8 M0 10 L-2.8 -9.7 M0 10 L2.8 -9.7 M0 10 L7.3 -6.8 M0 10 L9 -2 M0 10 L-17 -2 M0 10 L-15.7 -7.9 M0 10 L-12 -12.8 M0 10 L-6.5 -16.1 M0 10 L0 -17.3 M0 10 L6.5 -16.1 M0 10 L12 -12.8 M0 10 L15.7 -7.9 M0 10 L17 -2" stroke="#4d6b2a" stroke-width="1" fill="none"/><g fill="#d62a2a" stroke="#7a1a1a" stroke-width="0.8"><circle cx="-17" cy="-2" r="4.3"/><circle cx="-15.7" cy="-7.9" r="4.3"/><circle cx="-12" cy="-12.8" r="4.3"/><circle cx="-6.5" cy="-16.1" r="4.3"/><circle cx="0" cy="-17.3" r="4.3"/><circle cx="6.5" cy="-16.1" r="4.3"/><circle cx="12" cy="-12.8" r="4.3"/><circle cx="15.7" cy="-7.9" r="4.3"/><circle cx="17" cy="-2" r="4.3"/><circle cx="-9" cy="-2" r="4.3"/><circle cx="-7.3" cy="-6.8" r="4.3"/><circle cx="-2.8" cy="-9.7" r="4.3"/><circle cx="2.8" cy="-9.7" r="4.3"/><circle cx="7.3" cy="-6.8" r="4.3"/><circle cx="9" cy="-2" r="4.3"/><circle cx="0" cy="-2" r="4.3"/></g></g>
+<g id="pkleaf"><path d="M0 0 L12 0" stroke="#4d6b2a" stroke-width="2.5"/><path d="M10 0 C22 -18 58 -20 82 0 C58 20 22 18 10 0Z" fill="#a9c77c" stroke="#333" stroke-width="1.4"/><path d="M12 0 H78 M30 0 L42 -12 M30 0 L42 12 M50 0 L60 -11 M50 0 L60 11" stroke="#5f7f36" stroke-width="1" fill="none"/></g>
+</defs>
+<g fill="#222">
+<text x="360" y="30" font-size="18" font-weight="bold" text-anchor="middle">Renshen (ginseng) vs Shanglu (pokeweed): key identification points (schematic)</text>
+<text x="360" y="50" font-size="13" fill="#555" text-anchor="middle">Almost every "wild ginseng" dug up by a roadside or on waste ground is not ginseng.</text>
+<text x="360" y="66" font-size="13" fill="#555" text-anchor="middle">Check the plant above ground first, then the root (the two plants are not drawn to the same scale)</text>
+<g transform="translate(0 16)">
+<rect x="10" y="64" width="345" height="640" rx="8" fill="none" stroke="#999" stroke-width="1.5"/>
+<rect x="365" y="64" width="345" height="640" rx="8" fill="none" stroke="#c33" stroke-width="2"/>
+
+<!-- 1 ginseng -->
+<text x="26" y="92" font-size="18" font-weight="bold">① Renshen<tspan font-size="14" font-weight="normal"> (ginseng)</tspan></text>
+<text x="26" y="112" font-size="14" font-style="italic" fill="#555">Panax ginseng</text>
+<text x="26" y="136" font-size="15"><tspan font-weight="bold">Short</tspan> herb, about 30-60 cm tall</text>
+<line x1="20" y1="372" x2="345" y2="372" stroke="#999" stroke-width="2"/>
+<text x="343" y="366" font-size="12" fill="#888" text-anchor="end">ground</text>
+<path d="M150 372 V262 M150 262 V206" stroke="#4d6b2a" stroke-width="3" fill="none"/>
+<use href="#pleaf" transform="translate(150 262) rotate(-150) scale(0.8)"/>
+<use href="#pleaf" transform="translate(150 262) rotate(-30) scale(0.8)"/>
+<use href="#pleaf" transform="translate(150 262) rotate(172)"/>
+<use href="#pleaf" transform="translate(150 262) rotate(8)"/>
+<use href="#umbel" x="150" y="196"/>
+<!-- ginseng root -->
+<path d="M145 372 V398 C128 408 130 440 140 462 C134 476 126 488 118 500 L124 503 C132 492 140 480 146 470 C148 482 149 494 149 506 L155 506 C155 494 156 482 157 470 C164 480 172 490 180 499 L185 495 C178 484 170 472 162 462 C172 440 172 408 155 398 V372 Z" fill="#e6d7a8" stroke="#333" stroke-width="1.6" stroke-linejoin="round"/>
+<g fill="none" stroke="#333" stroke-width="1.2"><path d="M146 380 q4 3 8 0 M146 388 q4 3 8 0 M146 396 q4 3 8 0"/></g>
+<g fill="none" stroke="#8a7a5a" stroke-width="1"><path d="M121 501 Q110 516 98 528 M152 506 Q154 524 148 542 M182 497 Q190 512 194 530 M134 446 Q118 452 106 452 M166 444 Q182 448 192 446"/></g>
+<g fill="#8a7a5a"><circle cx="110" cy="517" r="1.8"/><circle cx="102" cy="525" r="1.8"/><circle cx="153" cy="522" r="1.8"/><circle cx="150" cy="535" r="1.8"/><circle cx="189" cy="511" r="1.8"/><circle cx="193" cy="523" r="1.8"/><circle cx="116" cy="451" r="1.8"/><circle cx="182" cy="447" r="1.8"/></g>
+<!-- ginseng labels -->
+<g stroke="#0b5cad" stroke-width="1" fill="none"><path d="M166 190 L204 176"/><path d="M96 286 L84 292"/><path d="M155 388 L205 388"/><path d="M168 434 L205 456"/><path d="M174 486 L205 494"/><path d="M193 520 L209 530"/></g>
+<g fill="#0b5cad"><circle cx="166" cy="190" r="2.5"/><circle cx="96" cy="286" r="2.5"/><circle cx="155" cy="388" r="2.5"/><circle cx="168" cy="434" r="2.5"/><circle cx="174" cy="486" r="2.5"/><circle cx="193" cy="520" r="2.5"/></g>
+<text x="208" y="162" font-size="14">Umbel at the tip:</text>
+<text x="208" y="179" font-size="14">a cluster of small</text>
+<text x="208" y="196" font-size="14"><tspan font-weight="bold" fill="#c33">bright red</tspan> berries</text>
+<text x="22" y="305" font-size="14" font-weight="bold">Palmately</text>
+<text x="22" y="320" font-size="14" font-weight="bold">compound leaves</text>
+<text x="22" y="335" font-size="13">whorled at stem tip;</text>
+<text x="22" y="350" font-size="13">usually 3-6, each</text>
+<text x="22" y="365" font-size="13">mostly 5 leaflets</text>
+<text x="209" y="392" font-size="14" font-weight="bold">Has a "lutou" neck</text>
+<text x="209" y="407" font-size="13">(the rhizome), with</text>
+<text x="209" y="421" font-size="13">bowl-shaped stem scars</text>
+<text x="209" y="456" font-size="14">Main root spindle-</text>
+<text x="209" y="471" font-size="14">shaped or cylindrical</text>
+<text x="209" y="494" font-size="14">2-3 branch roots</text>
+<text x="209" y="509" font-size="14">on the lower part</text>
+<text x="213" y="534" font-size="13">Wart-like bumps on</text>
+<text x="213" y="549" font-size="13">the fine roots</text>
+<text x="213" y="564" font-size="13">("pearl dots")</text>
+<!-- ginseng cross-section -->
+<g transform="translate(0 30)">
+<line x1="22" y1="542" x2="343" y2="542" stroke="#ccc" stroke-dasharray="4 3"/>
+<text x="26" y="562" font-size="14" fill="#0b5cad">Root cross-section (enlarged, schematic)</text>
+<g transform="translate(80 610)">
+<circle r="36" fill="#f6eed6" stroke="#333" stroke-width="1.6"/>
+<circle r="22" fill="none" stroke="#b07a2a" stroke-width="2.5"/>
+<g stroke="#9a8a6a" stroke-width="1"><path d="M0 -24 V-33 M17 -17 L24 -24 M24 0 H33 M17 17 L24 24 M0 24 V33 M-17 17 L-24 24 M-24 0 H-33 M-17 -17 L-24 -24"/></g>
+<g fill="#a8742a"><circle cx="9" cy="-27" r="1.6"/><circle cx="27" cy="-10" r="1.6"/><circle cx="28" cy="10" r="1.6"/><circle cx="10" cy="28" r="1.6"/><circle cx="-11" cy="27" r="1.6"/><circle cx="-28" cy="9" r="1.6"/><circle cx="-27" cy="-11" r="1.6"/><circle cx="-10" cy="-28" r="1.6"/></g>
+</g>
+<g stroke="#0b5cad" stroke-width="1" fill="none"><path d="M99 599 L132 598"/><path d="M108 620 L132 630"/></g>
+<g fill="#0b5cad"><circle cx="99" cy="599" r="2.5"/><circle cx="108" cy="620" r="2.5"/></g>
+<text x="136" y="582" font-size="13">Pale yellowish-white, starchy</text>
+<text x="136" y="600" font-size="14">A <tspan font-weight="bold">brownish-yellow</tspan></text>
+<text x="136" y="616" font-size="14" font-weight="bold">cambium ring</text>
+<text x="136" y="634" font-size="13">Bark has yellowish-brown</text>
+<text x="136" y="649" font-size="13">dots and radial cracks</text>
+</g>
+
+<!-- 2 pokeweed -->
+<text x="381" y="92" font-size="18" font-weight="bold" fill="#c33">② Shanglu<tspan font-size="14" font-weight="normal"> (pokeweed)</tspan></text>
+<text x="381" y="112" font-size="14" font-style="italic" fill="#555">Phytolacca</text>
+<rect x="580" y="74" width="118" height="30" rx="5" fill="#c33"/>
+<text x="639" y="95" font-size="16" font-weight="bold" fill="#fff" text-anchor="middle">☠️ Poisonous</text>
+<text x="698" y="122" font-size="13" fill="#c33" text-anchor="end">Every part is poisonous; the root</text>
+<text x="698" y="137" font-size="13" fill="#c33" text-anchor="end">and unripe fruit are the most toxic</text>
+<text x="381" y="160" font-size="15"><tspan font-weight="bold">Tall</tspan> herb,</text>
+<text x="381" y="178" font-size="15">about 1-2 m tall</text>
+<line x1="375" y1="372" x2="700" y2="372" stroke="#999" stroke-width="2"/>
+<path d="M480 372 C481 330 479 280 480 236 M480 266 C468 250 452 232 436 220 M480 244 C496 228 516 214 534 200" stroke="#9a2f6a" stroke-width="5" fill="none" stroke-linecap="round"/>
+<use href="#pkleaf" transform="translate(480 350) rotate(196)"/>
+<use href="#pkleaf" transform="translate(480 322) rotate(-14)"/>
+<use href="#pkleaf" transform="translate(480 292) rotate(192)"/>
+<use href="#pkleaf" transform="translate(452 234) rotate(206) scale(0.8)"/>
+<use href="#pkleaf" transform="translate(508 222) rotate(-6) scale(0.8)"/>
+<!-- upright fruit spike -->
+<path d="M534 200 L540 152" stroke="#4d6b2a" stroke-width="2" fill="none"/>
+<g fill="#3d1f45" stroke="#1a0a1f" stroke-width="0.8"><ellipse cx="528" cy="194" rx="5.5" ry="4.5"/><ellipse cx="543" cy="190" rx="5.5" ry="4.5"/><ellipse cx="530" cy="184" rx="5.5" ry="4.5"/><ellipse cx="544" cy="179" rx="5.5" ry="4.5"/><ellipse cx="531" cy="173" rx="5.5" ry="4.5"/><ellipse cx="545" cy="168" rx="5.5" ry="4.5"/><ellipse cx="533" cy="163" rx="5" ry="4"/><ellipse cx="546" cy="158" rx="5" ry="4"/><ellipse cx="538" cy="152" rx="4.5" ry="3.8"/></g>
+<!-- pokeweed root -->
+<path d="M458 372 H502 C510 400 504 430 494 452 C500 470 508 490 512 508 L504 511 C498 494 490 478 484 464 C482 482 480 500 477 518 L469 517 C471 498 472 480 472 462 C462 478 452 494 440 506 L434 500 C446 486 456 470 463 452 C452 430 450 400 458 372 Z" fill="#dcc994" stroke="#333" stroke-width="1.6" stroke-linejoin="round"/>
+<g fill="none" stroke="#9a8a5a" stroke-width="1"><path d="M466 392 q14 3 28 0 M464 412 q16 3 32 0 M466 432 q13 3 26 0"/><path d="M437 503 Q426 512 418 516 M473 517 Q472 528 468 536 M508 510 Q514 520 522 524"/></g>
+<!-- pokeweed labels -->
+<g stroke="#0b5cad" stroke-width="1" fill="none"><path d="M552 172 L578 168"/><path d="M548 300 L578 284"/><path d="M483 342 L578 344"/><path d="M500 378 L578 386"/><path d="M500 424 L578 426"/></g>
+<g fill="#0b5cad"><circle cx="552" cy="172" r="2.5"/><circle cx="548" cy="300" r="2.5"/><circle cx="483" cy="342" r="2.5"/><circle cx="500" cy="378" r="2.5"/><circle cx="500" cy="424" r="2.5"/></g>
+<text x="582" y="162" font-size="14">Berries <tspan font-weight="bold">purple-</tspan></text>
+<text x="582" y="178" font-size="14"><tspan font-weight="bold">black</tspan>, in grape-</text>
+<text x="582" y="194" font-size="14">like bunches</text>
+<text x="582" y="210" font-size="12" fill="#555">Spikes upright in</text>
+<text x="582" y="224" font-size="12" fill="#555">shanglu, drooping in</text>
+<text x="582" y="238" font-size="12" fill="#555">American pokeweed</text>
+<text x="582" y="270" font-size="14"><tspan font-weight="bold">Simple</tspan> leaves,</text>
+<text x="582" y="286" font-size="14">large, elliptic,</text>
+<text x="582" y="302" font-size="14">smooth-edged,</text>
+<text x="582" y="318" font-size="14">alternate</text>
+<text x="582" y="340" font-size="14">Stem stout, often</text>
+<text x="582" y="356" font-size="14" font-weight="bold">purplish-red</text>
+<text x="582" y="391" font-size="14" font-weight="bold" fill="#c33">No "lutou" neck</text>
+<text x="582" y="422" font-size="14">Thick and fleshy,</text>
+<text x="582" y="438" font-size="14">conical, <tspan font-weight="bold">often</tspan></text>
+<text x="582" y="454" font-size="14" font-weight="bold">forked</text>
+<text x="582" y="478" font-size="13">Skin pale yellow</text>
+<text x="582" y="493" font-size="13">or greyish-brown</text>
+<!-- pokeweed cross-section -->
+<g transform="translate(0 30)">
+<line x1="377" y1="542" x2="698" y2="542" stroke="#ccc" stroke-dasharray="4 3"/>
+<text x="381" y="562" font-size="14" fill="#0b5cad">Root cross-section (enlarged, schematic)</text>
+<g transform="translate(435 610)">
+<circle r="36" fill="#efe2b8" stroke="#333" stroke-width="1.6"/>
+<g fill="none" stroke="#8a6a2a" stroke-width="1.8"><path d="M0 -30 Q16 -29 25 -17 Q32 -2 27 13 Q20 28 2 30 Q-15 31 -25 18 Q-32 3 -28 -12 Q-19 -29 0 -30Z"/><path d="M0 -23 Q13 -22 19 -12 Q24 1 19 12 Q12 22 -1 23 Q-13 22 -19 12 Q-24 -1 -20 -11 Q-13 -22 0 -23Z"/><path d="M0 -16 Q10 -15 14 -6 Q16 5 11 11 Q4 16 -3 15 Q-12 13 -14 4 Q-15 -7 -9 -12 Q-5 -16 0 -16Z"/><path d="M0 -9 Q7 -8 8 -1 Q8 7 1 8 Q-7 8 -8 1 Q-7 -8 0 -9Z"/></g>
+</g>
+<g stroke="#0b5cad" stroke-width="1" fill="none"><path d="M462 597 L487 600"/></g>
+<circle cx="462" cy="597" r="2.5" fill="#0b5cad"/>
+<text x="491" y="584" font-size="14">The cross-section shows</text>
+<text x="491" y="604" font-size="15" font-weight="bold" fill="#c33">many concentric rings</text>
+<text x="491" y="624" font-size="13">(known as "compass rings")</text>
+<text x="491" y="642" font-size="13">a key identification point</text>
+</g>
+
+<!-- bottom -->
+<rect x="10" y="716" width="700" height="232" rx="8" fill="#fdecec" stroke="#c33" stroke-width="2"/>
+<text x="360" y="744" font-size="17" font-weight="bold" fill="#c33" text-anchor="middle">A "ginseng" dug up by a roadside, on waste ground or near a village</text>
+<text x="360" y="766" font-size="17" font-weight="bold" fill="#c33" text-anchor="middle">is almost certainly not ginseng</text>
+<text x="360" y="794" font-size="15" text-anchor="middle">Palmately compound leaves + a cluster of bright red berries + a lutou neck → ginseng</text>
+<text x="360" y="818" font-size="15" text-anchor="middle">Simple leaves + purple-black berry bunches + no neck + concentric rings → pokeweed</text>
+<text x="360" y="844" font-size="14" fill="#555" text-anchor="middle">"Tu renshen" (local ginseng) may be edible Lulan (fameflower), or it may be pokeweed root:</text>
+<text x="360" y="862" font-size="14" fill="#555" text-anchor="middle">do not buy it to steep in liquor</text>
+<text x="360" y="890" font-size="16" font-weight="bold" fill="#c33" text-anchor="middle">Wild ginseng is protected by the state: do not dig it up, buy or sell it</text>
+<text x="360" y="914" font-size="16" font-weight="bold" fill="#c33" text-anchor="middle">Treat a piece of root on its own as "of unknown origin";</text>
+<text x="360" y="936" font-size="16" font-weight="bold" fill="#c33" text-anchor="middle">if you cannot identify it for sure, do not dig it up or eat it</text>
+</g>
+</g>
+</svg>
