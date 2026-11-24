@@ -68,7 +68,7 @@ Human knowledge can accumulate only because it is recorded and passed on.
 
 Without ready-made measuring tools, you can set up new standards using stable things found in nature. **The most important thing is that the whole community uses the same standard**: make one "standard rule" and one "standard weight", and copy every other measuring tool from them.
 
-This section gives the short method; for how to calibrate the second by the stars, the accuracy each method can reach, calibrating electrical and other units, ready-made references in the ruins and keeping the standards, see [Rebuilding measurement standards](../../../docs/08-基础科学知识/09-计量基准的重建.md).
+This section gives the short method; for how to calibrate the second by the stars, the accuracy each method can reach, calibrating electrical and other units, ready-made references in the ruins and keeping the standards, see [Rebuilding measurement standards](09-rebuilding-measurement-standards.md).
 
 ### 2.1 Length: the metre (m)
 
@@ -272,7 +272,7 @@ Distance of lightning:
 - Seconds ÷ 3 ≈ distance (km) (sound travels about 340 m per second)
 ```
 
-For protection from lightning see [Weather disasters – lightning](../../../docs/02-灾难应对/02-气象灾害.md).
+For protection from lightning see [Weather disasters – lightning](../02-disaster-response/02-weather-disasters.md).
 
 ---
 
@@ -295,9 +295,9 @@ For protection from lightning see [Weather disasters – lightning](../../../doc
 
 - ⏭️ [Mathematics](01-mathematics.md) - arithmetic, geometry, trigonometry, logarithms, probability and statistics
 - ⏭️ [Physics](02-physics.md) - mechanics, fluids, heat, sound and light, electromagnetism, astronomy
-- ⏭️ [Chemistry](../../../docs/08-基础科学知识/03-化学.md) - elements, chemical reactions, acids, bases and salts, solution concentration
-- 🔗 [Metallurgy Basics – judging temperature](../../../docs/05-冶金技术/00-基础冶金知识.md) - judging furnace temperature by colour when there is no thermometer
-- 🔗 [Pharmaceutical Basics](../../../docs/06-制药技术/00-基础制药知识.md) - why doses and concentrations must be exact
+- ⏭️ [Chemistry](03-chemistry.md) - elements, chemical reactions, acids, bases and salts, solution concentration
+- 🔗 [Metallurgy Basics – judging temperature](../05-metallurgy/00-metallurgy-basics.md) - judging furnace temperature by colour when there is no thermometer
+- 🔗 [Pharmaceutical Basics](../06-pharmaceuticals/00-pharmacy-basics.md) - why doses and concentrations must be exact
 
 ---
 

@@ -13,7 +13,7 @@
 
 **This chapter explains principles and estimation methods to help you understand engines.** Building and using pressure vessels (boilers) must follow professional design and inspection codes; where that is not possible, use only equipment that works at atmospheric pressure or very low pressure.
 
-For basic heat physics see [Physics – Heat](../../../docs/08-基础科学知识/02-物理.md#五热学).
+For basic heat physics see [Physics – Heat](../08-basic-science/02-physics.md#5-heat).
 
 ---
 
@@ -261,7 +261,7 @@ Wood gas (producer gas):
 Biogas: mainly methane; can be used as engine fuel
 ```
 
-For biogas safety see [Lighting and Energy – Biogas](../../../docs/07-日常生活技能/06-照明与能源.md#沼气); for carbon monoxide poisoning see [Home and Traffic Accidents – Carbon monoxide poisoning](../../../docs/01-日常疾病和伤害/07-居家与交通意外.md#一氧化碳中毒).
+For biogas safety see [Lighting and Energy – Biogas](../07-everyday-living-skills/06-lighting-and-energy.md#biogas); for carbon monoxide poisoning see [Home and Traffic Accidents – Carbon monoxide poisoning](../01-first-aid-and-family-health/07-home-and-traffic-accidents.md#carbon-monoxide-poisoning).
 
 ---
 
@@ -309,7 +309,7 @@ Example: a 50 m² brick wall, 30 cm thick, with a 20°C difference between insid
 ✓ Draughts through gaps around doors and windows also lose a lot of heat: seal the gaps first
 ```
 
-For practical insulation methods see [Long-term Shelter – Insulation](../../../docs/07-日常生活技能/05-长期住所.md#保温).
+For practical insulation methods see [Long-term Shelter – Insulation](../07-everyday-living-skills/05-long-term-shelter.md#insulation).
 
 ### 6.4 Convection and radiation
 
@@ -395,7 +395,7 @@ Types of waterwheel and their efficiency (roughly):
   suits high head and small flow
 ```
 
-For a worked example see [Physics – Water power: waterwheels and water mills](../../../docs/08-基础科学知识/02-物理.md#33-水力-水车和水磨).
+For a worked example see [Physics – Water power: waterwheels and water mills](../08-basic-science/02-physics.md#33-water-power-waterwheels-and-watermills).
 
 ### 8.2 Wind power
 
@@ -453,13 +453,13 @@ Ways of storing energy, from easiest to hardest:
 
 ## Related chapters
 
-- ⏮️ [Technology Rebuilding Roadmap](../../../docs/09-进阶科学与工程/00-技术重建路线图.md) - where power fits in the whole picture
-- ⏮️ [Engineering Mechanics and Materials](../../../docs/09-进阶科学与工程/01-工程力学与材料.md) - pressure vessels, bearings, flywheels
-- ⏮️ [Electrical Engineering and Electronics](../../../docs/09-进阶科学与工程/02-电气工程与电子学.md) - using engines to drive generators
-- ⏭️ [Higher Mathematics](../../../docs/09-进阶科学与工程/04-高等数学.md) - differential equations, statistical inference
-- 🔗 [Physics – Heat](../../../docs/08-基础科学知识/02-物理.md#五热学)
-- 🔗 [Lighting and Energy](../../../docs/07-日常生活技能/06-照明与能源.md) - using fuel, generators and biogas in practice
-- 🔗 [Long-term Shelter](../../../docs/07-日常生活技能/05-长期住所.md) - insulation, *kang*, chimneys
+- ⏮️ [Technology Rebuilding Roadmap](00-technology-rebuilding-roadmap.md) - where power fits in the whole picture
+- ⏮️ [Engineering Mechanics and Materials](01-engineering-mechanics-and-materials.md) - pressure vessels, bearings, flywheels
+- ⏮️ [Electrical Engineering and Electronics](02-electrical-engineering-and-electronics.md) - using engines to drive generators
+- ⏭️ [Higher Mathematics](04-higher-mathematics.md) - differential equations, statistical inference
+- 🔗 [Physics – Heat](../08-basic-science/02-physics.md#5-heat)
+- 🔗 [Lighting and Energy](../07-everyday-living-skills/06-lighting-and-energy.md) - using fuel, generators and biogas in practice
+- 🔗 [Long-term Shelter](../07-everyday-living-skills/05-long-term-shelter.md) - insulation, *kang*, chimneys
 
 ---
 

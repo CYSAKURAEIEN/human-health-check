@@ -311,8 +311,8 @@ To get grey cast iron that can be machined:
 - ⏮️ [Copper Smelting](02-copper-smelting.md) - Melting bronze, sand moulds and lost-wax basics
 - ⏭️ [Bellows and Forges](08-bellows-and-forges.md) - The strong blast a crucible furnace needs
 - 🔗 [Metallurgy Basics](00-metallurgy-basics.md) - Furnaces, fuel, judging temperature
-- 🔗 [Engineering Mechanics and Materials – Materials science](../../../docs/09-进阶科学与工程/01-工程力学与材料.md#十材料科学) - Properties of cast iron and alloys
-- 🔗 [Technology Rebuilding Roadmap](../../../docs/09-进阶科学与工程/00-技术重建路线图.md) - Where casting and machine tools fit in rebuilding technology
+- 🔗 [Engineering Mechanics and Materials – Materials science](../09-advanced-science-and-engineering/01-engineering-mechanics-and-materials.md#10-materials-science) - Properties of cast iron and alloys
+- 🔗 [Technology Rebuilding Roadmap](../09-advanced-science-and-engineering/00-technology-rebuilding-roadmap.md) - Where casting and machine tools fit in rebuilding technology
 
 ---
 

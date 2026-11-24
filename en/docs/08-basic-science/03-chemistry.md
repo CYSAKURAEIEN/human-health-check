@@ -75,7 +75,7 @@ Use: working out from an equation how much raw material you need and how
 
 ### 2.1 Table of common elements
 
-The table lists only the most commonly used elements; for the full periodic table and data for all 118 elements see [The periodic table](../../../docs/08-基础科学知识/05-元素周期表.md).
+The table lists only the most commonly used elements; for the full periodic table and data for all 118 elements see [The periodic table](05-periodic-table.md).
 
 | Element | Symbol | Relative atomic mass | Common uses and occurrence |
 |------|------|-------------|---------------|
@@ -135,7 +135,7 @@ Uses:
      produce a voltage
 ```
 
-For how smelting is actually done see [Metallurgy basics](../../../docs/05-冶金技术/00-基础冶金知识.md).
+For how smelting is actually done see [Metallurgy basics](../05-metallurgy/00-metallurgy-basics.md).
 
 ---
 
@@ -189,7 +189,7 @@ The three things fire needs: fuel + oxygen + reaching the ignition point
   (smother it), cool it (pour water on it), take away the fuel
 ```
 
-For carbon monoxide poisoning see [Home and traffic accidents – Carbon monoxide poisoning](../../../docs/01-日常疾病和伤害/07-居家与交通意外.md#一氧化碳中毒).
+For carbon monoxide poisoning see [Home and traffic accidents – Carbon monoxide poisoning](../01-first-aid-and-family-health/07-home-and-traffic-accidents.md#carbon-monoxide-poisoning).
 
 ### 4.2 Smelting: from ore to metal
 
@@ -205,7 +205,7 @@ Limestone is added as a flux; it combines with impurities in the ore
 (mainly silica) to form slag
 ```
 
-For details see [Iron smelting](../../../docs/05-冶金技术/01-铁的冶炼.md) and [Copper smelting](../../../docs/05-冶金技术/02-铜的冶炼.md).
+For details see [Iron smelting](../05-metallurgy/01-iron-smelting.md) and [Copper smelting](../05-metallurgy/02-copper-smelting.md).
 
 ### 4.3 Rusting
 
@@ -242,7 +242,7 @@ Uses: lime mortar for laying walls, limewash for walls (limewater has
   (see below)
 ```
 
-For how to fire a kiln, slake lime and make mortar in practice see [Lime and building materials](../../../docs/07-日常生活技能/16-石灰与建筑材料.md).
+For how to fire a kiln, slake lime and make mortar in practice see [Lime and building materials](../07-everyday-living-skills/16-lime-and-building-materials.md).
 
 ### 4.5 Alkali and soap
 
@@ -259,7 +259,7 @@ Saponification (making soap):
   so it can "pull" grease into the water and wash it away
 ```
 
-For how to do it see [Soap making](../../../docs/07-日常生活技能/04-制皂.md).
+For how to do it see [Soap making](../07-everyday-living-skills/04-soap-making.md).
 
 ### 4.6 Fermentation
 
@@ -279,7 +279,7 @@ Lactic fermentation (lactic acid bacteria, no oxygen):
   growing, so the food keeps
 ```
 
-For fermenting food see [Food processing and preservation](../../../docs/07-日常生活技能/01-食物加工与保存.md); for distilling alcohol and using it as a disinfectant see [Disinfectants](../../../docs/06-制药技术/01-消毒剂制备.md).
+For fermenting food see [Food processing and preservation](../07-everyday-living-skills/01-food-processing-and-preservation.md); for distilling alcohol and using it as a disinfectant see [Disinfectants](../06-pharmaceuticals/01-disinfectants.md).
 
 ### 4.7 Photosynthesis and respiration
 
@@ -311,7 +311,7 @@ viruses
    chlorine gas
 ```
 
-For making up disinfectant solutions see [Infectious disease at home – Making household disinfectant](../../../docs/01-日常疾病和伤害/15-传染病家庭防控.md#家用消毒液的配制).
+For making up disinfectant solutions see [Infectious disease at home – Making household disinfectant](../01-first-aid-and-family-health/15-infectious-disease-at-home.md#making-household-disinfectant).
 
 ### 4.9 Cement and glass
 
@@ -353,7 +353,7 @@ Ammonia synthesis (the Haber process, early 20th century):
     manure and urine
 ```
 
-For using fertilisers in practice see [Grain crops](../../../docs/04-动植物培育/02-粮食作物.md) and [Sanitation – Using faeces and urine](../../../docs/07-日常生活技能/03-卫生设施.md#粪便与尿液的利用).
+For using fertilisers in practice see [Grain crops](../04-farming-and-animal-husbandry/02-grain-crops.md) and [Sanitation – Using faeces and urine](../07-everyday-living-skills/03-sanitation.md#using-faeces-and-urine).
 
 ### 4.11 Other important basic chemical industries
 
@@ -475,7 +475,7 @@ Baking soda gives off carbon dioxide with acid:
    alkali (this gives off heat and makes the burn worse)
 ```
 
-For treating chemical burns see [Wound and injury care – Chemical burns](../../../docs/01-日常疾病和伤害/02-外伤处理.md#化学烧伤).
+For treating chemical burns see [Wound and injury care – Chemical burns](../01-first-aid-and-family-health/02-wounds-and-injuries.md#chemical-burns).
 
 ### 6.4 Diluting concentrated acid: acid into water
 
@@ -505,7 +505,7 @@ Common organic substances:
 - Ethanoic acid CH₃COOH: acetic acid
 ```
 
-For methanol poisoning see the section on counterfeit liquor (methanol) poisoning in [Poisoning](../../../docs/01-日常疾病和伤害/12-中毒.md).
+For methanol poisoning see the section on counterfeit liquor (methanol) poisoning in [Poisoning](../01-first-aid-and-family-health/12-poisoning.md).
 
 ### 7.2 Esterification
 
@@ -532,7 +532,7 @@ Proteins: made of amino acids; contain nitrogen
   → why heavy metals poison
 ```
 
-For nutritional needs see [Nutrition and deficiency diseases](../../../docs/07-日常生活技能/02-营养与营养缺乏病.md).
+For nutritional needs see [Nutrition and deficiency diseases](../07-everyday-living-skills/02-nutrition-and-deficiency-diseases.md).
 
 ---
 
@@ -584,7 +584,7 @@ Chlorine (Cl₂): yellow-green, choking smell
   in; do not rush down to rescue someone
 ```
 
-For the dangers of biogas digesters see [Lighting and energy – Biogas](../../../docs/07-日常生活技能/06-照明与能源.md#沼气).
+For the dangers of biogas digesters see [Lighting and energy – Biogas](../07-everyday-living-skills/06-lighting-and-energy.md#biogas).
 
 ### 9.3 Heavy metals
 
@@ -599,7 +599,7 @@ Mercury: if a mercury thermometer breaks, open the windows, gather the
   do not use a vacuum cleaner, and do not sweep it about
 ```
 
-For treating poisoning see [Poisoning](../../../docs/01-日常疾病和伤害/12-中毒.md).
+For treating poisoning see [Poisoning](../01-first-aid-and-family-health/12-poisoning.md).
 
 ---
 
@@ -628,13 +628,13 @@ For treating poisoning see [Poisoning](../../../docs/01-日常疾病和伤害/12
 
 ## Related chapters
 
-- ⏮️ [Measurement and the scientific method](../../../docs/08-基础科学知识/00-度量衡与科学方法.md) - weighing and keeping records
-- ⏮️ [Physics](../../../docs/08-基础科学知识/02-物理.md) - heat, batteries, atomic structure
-- ⏭️ [Biology and medical basics](../../../docs/08-基础科学知识/04-生物与医学基础.md) - microbes, immunity, nutrition, heredity
-- ⏭️ [The periodic table](../../../docs/08-基础科学知识/05-元素周期表.md) - the full periodic table, data for 118 elements, periodic trends
-- 🔗 [Metallurgy basics](../../../docs/05-冶金技术/00-基础冶金知识.md) - smelting chemistry in practice
-- 🔗 [Pharmacy basics](../../../docs/06-制药技术/00-基础制药知识.md) - extraction, purification and preparations
-- 🔗 [Soap making](../../../docs/07-日常生活技能/04-制皂.md) - saponification in practice
+- ⏮️ [Measurement and the scientific method](00-measurement-and-scientific-method.md) - weighing and keeping records
+- ⏮️ [Physics](02-physics.md) - heat, batteries, atomic structure
+- ⏭️ [Biology and medical basics](04-biology-and-medical-basics.md) - microbes, immunity, nutrition, heredity
+- ⏭️ [The periodic table](05-periodic-table.md) - the full periodic table, data for 118 elements, periodic trends
+- 🔗 [Metallurgy basics](../05-metallurgy/00-metallurgy-basics.md) - smelting chemistry in practice
+- 🔗 [Pharmacy basics](../06-pharmaceuticals/00-pharmacy-basics.md) - extraction, purification and preparations
+- 🔗 [Soap making](../07-everyday-living-skills/04-soap-making.md) - saponification in practice
 
 ---
 

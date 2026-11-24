@@ -4,7 +4,7 @@
 
 ## ⚠️ What this chapter is for
 
-This chapter contains the complete periodic table and basic data for all 118 elements, and explains how to read patterns from the table. For chemical reactions, solutions, acids and bases see [Chemistry](../../../docs/08-基础科学知识/03-化学.md); for more advanced material on atomic structure and chemical bonding see [Advanced chemistry](../../../docs/09-进阶科学与工程/05-化学进阶.md).
+This chapter contains the complete periodic table and basic data for all 118 elements, and explains how to read patterns from the table. For chemical reactions, solutions, acids and bases see [Chemistry](03-chemistry.md); for more advanced material on atomic structure and chemical bonding see [Advanced chemistry](../09-advanced-science-and-engineering/05-advanced-chemistry.md).
 
 ```
 ⚠️ Do not try to make or touch the elements marked "highly toxic" or
@@ -199,7 +199,7 @@ Relative atomic mass: mass relative to 1/12 of the mass of a carbon-12 atom (it 
 | 117 | Ts | Tennessine | 鿬 tián | [294] | Superheavy element | Synthetic, extremely unstable |
 | 118 | Og | Oganesson | 鿫 ào | [294] | Superheavy element | Synthetic, extremely unstable; the highest atomic number so far |
 
-For how to use moles and relative atomic mass see [Chemistry – The mole](../../../docs/08-基础科学知识/03-化学.md#14-摩尔-化学计算的单位).
+For how to use moles and relative atomic mass see [Chemistry – The mole](03-chemistry.md#14-the-mole-the-unit-of-chemical-calculation).
 
 ---
 
@@ -264,7 +264,7 @@ A: Group 16, below sulphur → chemically like sulphur; can form H₂Se and
    SeO₂; valences -2, +4, +6
 ```
 
-For the reactivity series of metals see [Chemistry – The reactivity series of metals](../../../docs/08-基础科学知识/03-化学.md#22-金属活动性顺序); for the physical explanation of the periodic patterns see [Modern physics – Electron configuration and the periodic table](../../../docs/09-进阶科学与工程/06-现代物理.md#23-电子排布和元素周期表).
+For the reactivity series of metals see [Chemistry – The reactivity series of metals](03-chemistry.md#22-the-reactivity-series-of-metals); for the physical explanation of the periodic patterns see [Modern physics – Electron configuration and the periodic table](../09-advanced-science-and-engineering/06-modern-physics.md#23-electron-arrangement-and-the-periodic-table).
 
 ---
 
@@ -327,7 +327,7 @@ The other half of the character usually gives the sound:
 
 *Figure: Heavy frames mark the elements in this section's table that are most used in rebuilding, with their main uses listed below; the lanthanides and actinides are omitted*
 
-For the related smelting and chemistry see [Metallurgy](../../../docs/05-冶金技术/README.md) and [Chemistry](../../../docs/08-基础科学知识/03-化学.md).
+For the related smelting and chemistry see [Metallurgy](../05-metallurgy/README.md) and [Chemistry](03-chemistry.md).
 
 ---
 
@@ -359,18 +359,18 @@ also discovered in turn, with properties matching his predictions
   search for and understand new substances with a sense of direction
 ```
 
-For the scientific method see [Measurement and the scientific method – The scientific method](../../../docs/08-基础科学知识/00-度量衡与科学方法.md#一科学方法).
+For the scientific method see [Measurement and the scientific method – The scientific method](00-measurement-and-scientific-method.md#1-the-scientific-method).
 
 ---
 
 ## Related chapters
 
-- ⏮️ [Chemistry](../../../docs/08-基础科学知识/03-化学.md) - chemical reactions, solutions, acids and bases, chemical safety
-- ⏮️ [Biology and medical basics](../../../docs/08-基础科学知识/04-生物与医学基础.md)
-- ⏭️ [Geology, minerals and soil](../../../docs/08-基础科学知识/06-地质矿物与土壤.md) - which elements minerals are made of
-- 🔗 [Advanced chemistry – Atomic structure and periodicity](../../../docs/09-进阶科学与工程/05-化学进阶.md#一原子结构和周期律) - electron configuration, chemical bonds
-- 🔗 [Modern physics – Atomic structure](../../../docs/09-进阶科学与工程/06-现代物理.md#二原子结构) - energy levels and spectra
-- 🔗 [Metallurgy](../../../docs/05-冶金技术/README.md) - smelting metals
+- ⏮️ [Chemistry](03-chemistry.md) - chemical reactions, solutions, acids and bases, chemical safety
+- ⏮️ [Biology and medical basics](04-biology-and-medical-basics.md)
+- ⏭️ [Geology, minerals and soil](06-geology-minerals-and-soil.md) - which elements minerals are made of
+- 🔗 [Advanced chemistry – Atomic structure and periodicity](../09-advanced-science-and-engineering/05-advanced-chemistry.md#1-atomic-structure-and-the-periodic-law) - electron configuration, chemical bonds
+- 🔗 [Modern physics – Atomic structure](../09-advanced-science-and-engineering/06-modern-physics.md#2-atomic-structure) - energy levels and spectra
+- 🔗 [Metallurgy](../05-metallurgy/README.md) - smelting metals
 
 ---
 

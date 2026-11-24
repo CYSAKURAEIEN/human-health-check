@@ -45,7 +45,7 @@ This has happened again and again in history:
 - Woodpiles, charcoal kilns and chimneys all carry fire and carbon monoxide risks
 ```
 
-For fuel as a bottleneck in rebuilding technology see [Technology Rebuilding Roadmap – Fuel and energy](../../../docs/09-进阶科学与工程/00-技术重建路线图.md#31-燃料和能源); for soil erosion and soil protection see [Geology, Minerals and Soil – Protecting the soil](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#55-保护土壤).
+For fuel as a bottleneck in rebuilding technology see [Technology Rebuilding Roadmap – Fuel and energy](../09-advanced-science-and-engineering/00-technology-rebuilding-roadmap.md#31-fuel-and-energy); for soil erosion and soil protection see [Geology, Minerals and Soil – Protecting the soil](../08-basic-science/06-geology-minerals-and-soil.md#55-protecting-the-soil).
 
 ---
 
@@ -92,7 +92,7 @@ more, burns longer and gives more charcoal
 Pine is resinous: it lights easily, but gives a lot of smoke and tar; clean the chimney often
 ```
 
-For the concepts of heat and heating value see [Physics – Heat](../../../docs/08-基础科学知识/02-物理.md#五热学).
+For the concepts of heat and heating value see [Physics – Heat](../08-basic-science/02-physics.md#5-heat).
 
 ### Firewood for crafts (order-of-magnitude estimates)
 
@@ -197,7 +197,7 @@ Example: a southern household that only cooks uses about 2.5 t a year;
     fast-growing plantation at 10 t per hectare per year → about 0.25 ha is enough
 ```
 
-1 ha = 10000 m², that is, 100 m × 100 m. For measuring area see [Surveying and Mapping](../../../docs/08-基础科学知识/08-测量与制图.md).
+1 ha = 10000 m², that is, 100 m × 100 m. For measuring area see [Surveying and Mapping](../08-basic-science/08-surveying-and-mapping.md).
 
 ---
 
@@ -416,7 +416,7 @@ Making dung cakes: mix fresh cow dung with some chopped straw, pat it into cakes
                    stack them under a shelter; wash your hands afterwards
 ```
 
-For biogas see [Lighting and Energy – Biogas](../07-everyday-living-skills/06-lighting-and-energy.md#biogas); for finding coal see [Geology, Minerals and Soil – Building and everyday materials](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#31-建筑和日用材料); for the difference between coal and charcoal in smelting see [Basic Metallurgy – Common problems](../05-metallurgy/00-metallurgy-basics.md#7-frequently-asked-questions).
+For biogas see [Lighting and Energy – Biogas](../07-everyday-living-skills/06-lighting-and-energy.md#biogas); for finding coal see [Geology, Minerals and Soil – Building and everyday materials](../08-basic-science/06-geology-minerals-and-soil.md#31-building-and-household-materials); for the difference between coal and charcoal in smelting see [Basic Metallurgy – Common problems](../05-metallurgy/00-metallurgy-basics.md#7-frequently-asked-questions).
 
 ---
 

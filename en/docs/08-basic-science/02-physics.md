@@ -303,7 +303,7 @@ Measuring density and volume:
     (pure gold 19.3 g/cm³, iron 7.9, copper 8.9, aluminium 2.7)
 ```
 
-For calculating the load a raft can carry see [Vehicles, boats and roads – on the water](../../../docs/07-日常生活技能/18-车船与道路.md#水上-筏和船).
+For calculating the load a raft can carry see [Vehicles, boats and roads – on the water](../07-everyday-living-skills/18-vehicles-boats-and-roads.md#on-the-water-rafts-and-boats).
 
 ### 4.6 Moving fluids
 
@@ -364,7 +364,7 @@ the higher the boiling point
   and more bacteria are killed
 ```
 
-For how long to boil drinking water at high altitude see [Basic survival skills – finding and purifying water](../../../docs/03-野外生存/00-基础生存技能.md#水源获取与净化).
+For how long to boil drinking water at high altitude see [Basic survival skills – finding and purifying water](../03-wilderness-survival/00-basic-survival-skills.md#finding-and-purifying-water).
 
 ### 5.4 Heat transfer
 
@@ -385,7 +385,7 @@ Heating value of fuels (heat released by burning 1 kg completely, approximate):
   petrol and diesel about 45 MJ; biogas (mainly methane) about 20 MJ/m³
 ```
 
-For practical insulation see [Long-term housing – insulation](../../../docs/07-日常生活技能/05-长期住所.md#保温).
+For practical insulation see [Long-term housing – insulation](../07-everyday-living-skills/05-long-term-shelter.md#insulation).
 
 ### 5.5 Thermal expansion
 
@@ -538,7 +538,7 @@ Parallel (several paths): every branch has the same voltage;
 
 ![Direct-current circuits: Ohm's law U = I × R; in series the current is the same everywhere and the resistances add; in parallel every branch has the same voltage and 1/R(total) = 1/R₁ + 1/R₂; a lead-acid battery is about 2 V per cell, 6 cells in series = 12 V](../../images/dc-circuits.svg)
 
-*Figure: Ohm's law, series and parallel; for the voltage law, current law and battery internal resistance shown in the figure see [Electrical engineering and electronics – more on DC circuits](../../../docs/09-进阶科学与工程/02-电气工程与电子学.md#一直流电路进阶)*
+*Figure: Ohm's law, series and parallel; for the voltage law, current law and battery internal resistance shown in the figure see [Electrical engineering and electronics – more on DC circuits](../09-advanced-science-and-engineering/02-electrical-engineering-and-electronics.md#1-further-dc-circuits)*
 
 ### 7.4 Resistance of wires
 
@@ -555,7 +555,7 @@ R = ρ × L ÷ S
   and the smaller the loss in the line (I² × R)
 ```
 
-For safety rules for household electricity see [Household electrical safety](../../../docs/07-日常生活技能/08-家庭用电安全.md).
+For safety rules for household electricity see [Household electrical safety](../07-everyday-living-skills/08-household-electrical-safety.md).
 
 ### 7.5 Batteries
 
@@ -573,7 +573,7 @@ Lead-acid battery (car battery): about 2 V per cell, 6 cells in series = 12 V;
   it can be recharged again and again
 ```
 
-For using batteries safely see [Lighting and energy – battery safety](../../../docs/07-日常生活技能/06-照明与能源.md#蓄电池安全).
+For using batteries safely see [Lighting and energy – battery safety](../07-everyday-living-skills/06-lighting-and-energy.md#battery-safety).
 
 ### 7.6 Electricity makes magnetism, magnetism makes electricity
 
@@ -607,7 +607,7 @@ Transformer: U₁ ÷ U₂ = N₁ ÷ N₂ (ratio of voltages = ratio of turns in 
   lay it on a leaf floating on water and it will turn to point north-south
 ```
 
-For using a compass see [Basic survival skills – navigation and finding direction](../../../docs/03-野外生存/00-基础生存技能.md#导航与定向).
+For using a compass see [Basic survival skills – navigation and finding direction](../03-wilderness-survival/00-basic-survival-skills.md#navigation-and-orientation).
 
 ### 7.8 Electrical safety
 
@@ -648,7 +648,7 @@ Three rules of protection:
 - Shielding: shelter behind thick walls or in a basement
 ```
 
-For dealing with a nuclear accident see [Man-made disasters](../../../docs/02-灾难应对/05-人为灾难.md).
+For dealing with a nuclear accident see [Man-made disasters](../02-disaster-response/05-man-made-disasters.md).
 
 ### 8.3 Mass–energy equivalence
 
@@ -692,7 +692,7 @@ The 24 solar terms (*jieqi*): each 15° the sun moves through in the year
   and guide sowing and harvesting
 ```
 
-For planning the farming year see [Grain crops](../../../docs/04-动植物培育/02-粮食作物.md).
+For planning the farming year see [Grain crops](../04-farming-and-animal-husbandry/02-grain-crops.md).
 
 ### 9.3 Measuring latitude and longitude
 
@@ -709,7 +709,7 @@ Longitude:
 - You need a clock that keeps the reference place's time accurately
 ```
 
-For finding the Pole Star and telling direction by the sun see [Basic survival skills – navigation and finding direction](../../../docs/03-野外生存/00-基础生存技能.md#导航与定向).
+For finding the Pole Star and telling direction by the sun see [Basic survival skills – navigation and finding direction](../03-wilderness-survival/00-basic-survival-skills.md#navigation-and-orientation).
 
 ### 9.4 Tides
 
@@ -745,9 +745,9 @@ For finding the Pole Star and telling direction by the sun see [Basic survival s
 
 - ⏮️ [Measurement and scientific method](00-measurement-and-scientific-method.md) - units and measuring
 - ⏮️ [Mathematics](01-mathematics.md) - the mathematical tools physics calculations need
-- ⏭️ [Chemistry](../../../docs/08-基础科学知识/03-化学.md) - the chemical reactions behind combustion, smelting and batteries
-- 🔗 [Lighting and Energy](../../../docs/07-日常生活技能/06-照明与能源.md) - generators, solar power and biogas in practice
-- 🔗 [Metallurgy Basics](../../../docs/05-冶金技术/00-基础冶金知识.md) - heat and high temperatures in smelting
+- ⏭️ [Chemistry](03-chemistry.md) - the chemical reactions behind combustion, smelting and batteries
+- 🔗 [Lighting and Energy](../07-everyday-living-skills/06-lighting-and-energy.md) - generators, solar power and biogas in practice
+- 🔗 [Metallurgy Basics](../05-metallurgy/00-metallurgy-basics.md) - heat and high temperatures in smelting
 
 ---
 

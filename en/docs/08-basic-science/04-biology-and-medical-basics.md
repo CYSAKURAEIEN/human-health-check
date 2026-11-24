@@ -4,7 +4,7 @@
 
 ## ⚠️ What this chapter is for
 
-This chapter is about **principles**: why people fall ill, why washing hands and boiling work, why vaccines and antibiotics are effective, why seed must be selected and saved. For treating specific illnesses and for first-aid procedures see the [First aid and family health](../../../docs/01-日常疾病和伤害/README.md) part; for using medicines see the [Pharmaceuticals](../../../docs/06-制药技术/README.md) part.
+This chapter is about **principles**: why people fall ill, why washing hands and boiling work, why vaccines and antibiotics are effective, why seed must be selected and saved. For treating specific illnesses and for first-aid procedures see the [First aid and family health](../01-first-aid-and-family-health/README.md) part; for using medicines see the [Pharmaceuticals](../06-pharmaceuticals/README.md) part.
 
 ```
 The insights that did most for human lifespan (roughly in order of impact):
@@ -113,7 +113,7 @@ do more good than almost any medicine.
 
 *Figure: Germs pass from sick people, faeces, dirty water, dirty hands and so on to healthy people, and every route has simple barriers; once each case infects fewer than one other person on average, the outbreak dies away (see Section 9).*
 
-For what to do in practice see [Infectious disease at home](../../../docs/01-日常疾病和伤害/15-传染病家庭防控.md) and [Sanitation](../../../docs/07-日常生活技能/03-卫生设施.md).
+For what to do in practice see [Infectious disease at home](../01-first-aid-and-family-health/15-infectious-disease-at-home.md) and [Sanitation](../07-everyday-living-skills/03-sanitation.md).
 
 ### 2.3 How to kill and hold back microbes
 
@@ -135,7 +135,7 @@ For what to do in practice see [Infectious disease at home](../../../docs/01-日
    → Without a pressure cooker, do not can vegetables or meat at home
 ```
 
-For preserving food see [Food processing and preservation](../../../docs/07-日常生活技能/01-食物加工与保存.md); for disinfection and sterilisation procedures see [Pharmacy basics](../../../docs/06-制药技术/00-基础制药知识.md).
+For preserving food see [Food processing and preservation](../07-everyday-living-skills/01-food-processing-and-preservation.md); for disinfection and sterilisation procedures see [Pharmacy basics](../06-pharmaceuticals/00-pharmacy-basics.md).
 
 ---
 
@@ -186,7 +186,7 @@ Herd immunity: when enough people are vaccinated, the pathogen cannot find
   vaccine as needed
 ```
 
-For vaccination see [Infectious disease at home – Vaccines](../../../docs/01-日常疾病和伤害/15-传染病家庭防控.md#疫苗).
+For vaccination see [Infectious disease at home – Vaccines](../01-first-aid-and-family-health/15-infectious-disease-at-home.md#vaccines).
 
 ---
 
@@ -217,7 +217,7 @@ So:
   treating it
 ```
 
-For why you cannot make antibiotics at home, and what natural antibacterial substances can and cannot do, see [Antibiotics](../../../docs/06-制药技术/02-抗生素制备.md).
+For why you cannot make antibiotics at home, and what natural antibacterial substances can and cannot do, see [Antibiotics](../06-pharmaceuticals/02-antibiotics.md).
 
 ---
 
@@ -257,7 +257,7 @@ history:
   the scientific method)
 ```
 
-For practical prevention see [Nutrition and deficiency diseases](../../../docs/07-日常生活技能/02-营养与营养缺乏病.md).
+For practical prevention see [Nutrition and deficiency diseases](../07-everyday-living-skills/02-nutrition-and-deficiency-diseases.md).
 
 ---
 
@@ -298,7 +298,7 @@ knowing how they worked:
      whose seed can be saved
 ```
 
-For how to save seed see [Grain crops – Seed storage](../../../docs/04-动植物培育/02-粮食作物.md#种子保存).
+For how to save seed see [Grain crops – Seed storage](../04-farming-and-animal-husbandry/02-grain-crops.md#seed-saving).
 
 ### 6.3 The harm of inbreeding
 
@@ -358,7 +358,7 @@ Some important facts:
   (hypothermia) is life-threatening
 ```
 
-For normal body temperature and fever grades see [Common illnesses – Fever](../../../docs/01-日常疾病和伤害/01-常见疾病.md#发烧); for checking vital signs see [Basic first aid – Assessing vital signs](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#生命体征评估).
+For normal body temperature and fever grades see [Common illnesses – Fever](../01-first-aid-and-family-health/01-common-illnesses.md#fever); for checking vital signs see [Basic first aid – Assessing vital signs](../01-first-aid-and-family-health/00-basic-first-aid.md#assessing-vital-signs).
 
 ### 7.2 Blood groups
 
@@ -374,7 +374,7 @@ which can kill
   medication information card
 ```
 
-For the medication information card see [Stockpiling medicines for chronic conditions](../../../docs/01-日常疾病和伤害/08-慢性病用药储备.md).
+For the medication information card see [Stockpiling medicines for chronic conditions](../01-first-aid-and-family-health/08-chronic-medication-stockpile.md).
 
 ---
 
@@ -393,7 +393,7 @@ Nitrogen cycle: nitrogen in the air → fixed into a form plants can use
   → this is why growing beans and spreading manure both enrich the soil
 ```
 
-For the chemistry see [Chemistry – Nitrogen fertiliser and ammonia synthesis](../../../docs/08-基础科学知识/03-化学.md#410-氮肥和合成氨).
+For the chemistry see [Chemistry – Nitrogen fertiliser and ammonia synthesis](03-chemistry.md#410-nitrogen-fertiliser-and-ammonia-synthesis).
 
 ### 8.2 Biology in farming
 
@@ -420,7 +420,7 @@ Food chain: at each step up, only a small part of the energy (about one
     than if it grows feed for livestock that are then eaten
 ```
 
-For using faeces see [Sanitation – Using faeces and urine](../../../docs/07-日常生活技能/03-卫生设施.md#粪便与尿液的利用).
+For using faeces see [Sanitation – Using faeces and urine](../07-everyday-living-skills/03-sanitation.md#using-faeces-and-urine).
 
 ---
 
@@ -480,13 +480,13 @@ Isolation and quarantine:
 
 ## Related chapters
 
-- ⏮️ [Chemistry](../../../docs/08-基础科学知识/03-化学.md) - the chemistry of protein denaturation, fermentation and photosynthesis
-- ⏮️ [Measurement and the scientific method](../../../docs/08-基础科学知识/00-度量衡与科学方法.md) - controlled experiments
-- ⏭️ [The periodic table](../../../docs/08-基础科学知识/05-元素周期表.md)
-- 🔗 [Infectious disease at home](../../../docs/01-日常疾病和伤害/15-传染病家庭防控.md) - germ theory in practice
-- 🔗 [Nutrition and deficiency diseases](../../../docs/07-日常生活技能/02-营养与营养缺乏病.md) - preventing deficiency diseases
-- 🔗 [Farming and animal husbandry](../../../docs/04-动植物培育/README.md) - selection and breeding, crop rotation, fertilising
-- 🔗 [Pharmaceuticals](../../../docs/06-制药技术/README.md) - disinfection, antibiotics, medicines
+- ⏮️ [Chemistry](03-chemistry.md) - the chemistry of protein denaturation, fermentation and photosynthesis
+- ⏮️ [Measurement and the scientific method](00-measurement-and-scientific-method.md) - controlled experiments
+- ⏭️ [The periodic table](05-periodic-table.md)
+- 🔗 [Infectious disease at home](../01-first-aid-and-family-health/15-infectious-disease-at-home.md) - germ theory in practice
+- 🔗 [Nutrition and deficiency diseases](../07-everyday-living-skills/02-nutrition-and-deficiency-diseases.md) - preventing deficiency diseases
+- 🔗 [Farming and animal husbandry](../04-farming-and-animal-husbandry/README.md) - selection and breeding, crop rotation, fertilising
+- 🔗 [Pharmaceuticals](../06-pharmaceuticals/README.md) - disinfection, antibiotics, medicines
 
 ---
 

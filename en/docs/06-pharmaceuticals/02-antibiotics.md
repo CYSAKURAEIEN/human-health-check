@@ -510,7 +510,7 @@ After collapse, resistance costs even more:
 
 *Figure: Antibiotics work only against bacterial infections; when a drug is used, the few bacteria that are naturally not affected survive and multiply, and that is resistance. If you can see a doctor, do so first; this figure gives no doses.*
 
-For the biology of resistance, see [Biology and Medicine Basics – Antibiotics and resistance](../../../docs/08-基础科学知识/04-生物与医学基础.md#四抗生素和耐药); for why doses, half-lives and dosing intervals must be followed strictly, see [Advanced Biomedicine – Principles of pharmacology](../../../docs/09-进阶科学与工程/07-生物医学进阶.md#四药理学原理).
+For the biology of resistance, see [Biology and Medicine Basics – Antibiotics and resistance](../08-basic-science/04-biology-and-medical-basics.md#4-antibiotics-and-resistance); for why doses, half-lives and dosing intervals must be followed strictly, see [Advanced Biomedicine – Principles of pharmacology](../09-advanced-science-and-engineering/07-advanced-biomedicine.md#4-principles-of-pharmacology).
 
 ### 4.5 When you must see a doctor
 
@@ -962,7 +962,7 @@ Practical judgement:
 - 🔗 [First Aid and Family Health – Chronic Medication Stockpile](../01-first-aid-and-family-health/08-chronic-medication-stockpile.md) - legal stockpiling, spreading the stock, medication card
 - 🔗 [First Aid and Family Health – Infectious Disease at Home](../01-first-aid-and-family-health/15-infectious-disease-at-home.md) - isolation, disinfection, when to see a doctor
 - 🔗 [Sanitation](../07-everyday-living-skills/03-sanitation.md) - handwashing, toilets, rubbish
-- 🔗 [Biology and Medicine Basics – Antibiotics and resistance](../../../docs/08-基础科学知识/04-生物与医学基础.md#四抗生素和耐药) - how resistance arises
+- 🔗 [Biology and Medicine Basics – Antibiotics and resistance](../08-basic-science/04-biology-and-medical-basics.md#4-antibiotics-and-resistance) - how resistance arises
 
 ---
 

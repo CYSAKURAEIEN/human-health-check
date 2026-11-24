@@ -15,7 +15,7 @@ This chapter gives the basics of recognising rocks, minerals, groundwater and so
 - Hillsides slide easily after rain and during the thaw; watch for the warning signs of geological disasters
 ```
 
-For geological disasters see [Geological Disasters](../../../docs/02-灾难应对/01-地质灾害.md); for identifying specific metal ores see [Metallurgy Basics – Identifying and collecting ores](../../../docs/05-冶金技术/00-基础冶金知识.md#五矿石识别与采集).
+For geological disasters see [Geological Disasters](../02-disaster-response/01-geological-disasters.md); for identifying specific metal ores see [Metallurgy Basics – Identifying and collecting ores](../05-metallurgy/00-metallurgy-basics.md#5-identifying-and-collecting-ore).
 
 ---
 
@@ -98,7 +98,7 @@ How to use: if A can scratch B, A is harder than B
   Pyrite: very hard, greenish-black streak, shatters into small pieces when hammered
 ```
 
-For the various metal ores see [Iron Smelting](../../../docs/05-冶金技术/01-铁的冶炼.md), [Copper Smelting](../../../docs/05-冶金技术/02-铜的冶炼.md) and [Other Metals](../../../docs/05-冶金技术/10-其他金属.md).
+For the various metal ores see [Iron Smelting](../05-metallurgy/01-iron-smelting.md), [Copper Smelting](../05-metallurgy/02-copper-smelting.md) and [Other Metals](../05-metallurgy/10-other-metals.md).
 
 ---
 
@@ -169,7 +169,7 @@ Places where it is hard to find:
   causes disease → if the area has a history of such local diseases, take special care
 ```
 
-For digging wells, drawing water and purifying it see [Water Supply Engineering](../../../docs/07-日常生活技能/10-水源工程与供水.md).
+For digging wells, drawing water and purifying it see [Water Supply Engineering](../07-everyday-living-skills/10-water-supply.md).
 
 ---
 
@@ -213,7 +213,7 @@ Jar (settling) test (more accurate):
 
 *Figure: for the ribbon test, first add water and knead the soil until it is like modelling clay; in the jar test the layer thicknesses shown are only illustrative – the actual proportions come from the thicknesses you measure*
 
-For choosing soil for adobe and rammed earth see [Long-Term Housing – Choosing soil](../../../docs/07-日常生活技能/05-长期住所.md#选土).
+For choosing soil for adobe and rammed earth see [Long-Term Housing – Choosing soil](../07-everyday-living-skills/05-long-term-shelter.md#choosing-the-soil).
 
 ### 5.3 Acidity and alkalinity
 
@@ -226,9 +226,9 @@ Test: mix soil with water and test with red cabbage juice or test paper (see Che
 - Most crops prefer soil close to neutral
 ```
 
-For the red cabbage indicator see [Chemistry – pH](../../../docs/08-基础科学知识/03-化学.md#61-ph).
+For the red cabbage indicator see [Chemistry – pH](03-chemistry.md#61-ph).
 
-For how much lime to use on acid soil see [Lime and Building Materials – Agricultural and other uses](../../../docs/07-日常生活技能/16-石灰与建筑材料.md#农业和其他用途).
+For how much lime to use on acid soil see [Lime and Building Materials – Agricultural and other uses](../07-everyday-living-skills/16-lime-and-building-materials.md#farming-and-other-uses).
 
 ### 5.4 Soil fertility
 
@@ -243,7 +243,7 @@ hold water and nutrients, feeds the microbes
 Judging: dark, loose soil with lots of earthworms is usually fairly fertile
 ```
 
-For fertilisers and compost see [Grain Crops](../../../docs/04-动植物培育/02-粮食作物.md) and [Sanitation – Using faeces and urine](../../../docs/07-日常生活技能/03-卫生设施.md#粪便与尿液的利用).
+For fertilisers and compost see [Grain Crops](../04-farming-and-animal-husbandry/02-grain-crops.md) and [Sanitation – Using faeces and urine](../07-everyday-living-skills/03-sanitation.md#using-faeces-and-urine).
 
 ### 5.5 Protecting the soil
 
@@ -257,7 +257,7 @@ and one rainstorm can wash it away
 ✓ Plant trees along riverbanks and ditch edges to hold the soil
 ```
 
-For contour lines see [Trip Preparation and Calling for Help – Reading maps and contour lines](../../../docs/03-野外生存/07-户外出行准备与求救.md#看懂地图和等高线).
+For contour lines see [Trip Preparation and Calling for Help – Reading maps and contour lines](../03-wilderness-survival/07-trip-preparation-and-calling-for-help.md#reading-maps-and-contour-lines).
 
 ---
 
@@ -274,18 +274,18 @@ For contour lines see [Trip Preparation and Calling for Help – Reading maps an
   pass through here
 ```
 
-For the warning signs of landslides and debris flows see [Geological Disasters](../../../docs/02-灾难应对/01-地质灾害.md).
+For the warning signs of landslides and debris flows see [Geological Disasters](../02-disaster-response/01-geological-disasters.md).
 
 ---
 
 ## Related chapters
 
-- ⏮️ [The Periodic Table](../../../docs/08-基础科学知识/05-元素周期表.md) - which elements minerals are made of
+- ⏮️ [The Periodic Table](05-periodic-table.md) - which elements minerals are made of
 - ⏭️ [Weather Observation and Forecasting](07-weather-observation-and-forecasting.md)
-- 🔗 [Metallurgy Basics – Identifying and collecting ores](../../../docs/05-冶金技术/00-基础冶金知识.md#五矿石识别与采集)
-- 🔗 [Water Supply Engineering](../../../docs/07-日常生活技能/10-水源工程与供水.md) - once you have found groundwater
-- 🔗 [Long-Term Housing](../../../docs/07-日常生活技能/05-长期住所.md) - choosing a site, choosing soil, building materials
-- 🔗 [Farming and Animal Husbandry](../../../docs/04-动植物培育/README.md) - soil and growing crops
+- 🔗 [Metallurgy Basics – Identifying and collecting ores](../05-metallurgy/00-metallurgy-basics.md#5-identifying-and-collecting-ore)
+- 🔗 [Water Supply Engineering](../07-everyday-living-skills/10-water-supply.md) - once you have found groundwater
+- 🔗 [Long-Term Housing](../07-everyday-living-skills/05-long-term-shelter.md) - choosing a site, choosing soil, building materials
+- 🔗 [Farming and Animal Husbandry](../04-farming-and-animal-husbandry/README.md) - soil and growing crops
 
 ---
 

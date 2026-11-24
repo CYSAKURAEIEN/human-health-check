@@ -4,7 +4,7 @@
 
 ## ⚠️ What this chapter covers
 
-[Measurement and the Scientific Method](../../../docs/08-基础科学知识/00-度量衡与科学方法.md#二重建长度质量体积时间) gave the basic idea of rebuilding units. This chapter covers it systematically:
+[Measurement and the Scientific Method](00-measurement-and-scientific-method.md#2-rebuilding-length-mass-volume-and-time) gave the basic idea of rebuilding units. This chapter covers it systematically:
 
 - Where each base unit comes from, the most reliable way to rebuild it, and how accurate it can be
 - How the other units used in this book (N, J, W, Pa, V, A...) are derived from the base units, how big they really are, and how to calibrate them
@@ -91,7 +91,7 @@ A simpler way: from a fixed observing position, watch when a star disappears beh
   have to be north–south)
 ```
 
-For finding true north and south see [Advanced Celestial Navigation – Finding direction precisely](../../../docs/09-进阶科学与工程/09-天文导航进阶.md#二精确定方向).
+For finding true north and south see [Advanced Celestial Navigation – Finding direction precisely](../09-advanced-science-and-engineering/09-celestial-navigation.md#2-finding-direction-precisely).
 
 ### 2.3 Calibrating a pendulum by the sidereal day
 
@@ -120,7 +120,7 @@ Method 2 (no clock): several people take turns counting swings, moving one abacu
 ✓ Seconds pendulum: swings from one side to the other in exactly 1 second (full period 2 seconds)
 ```
 
-For how a pendulum works see [Physics – Circular motion and the pendulum](../../../docs/08-基础科学知识/02-物理.md#15-圆周运动和单摆).
+For how a pendulum works see [Physics – Circular motion and the pendulum](02-physics.md#15-circular-motion-and-the-pendulum).
 
 ### 2.4 How accurate it can be
 
@@ -166,7 +166,7 @@ Accuracy: about one part in a thousand (around 1 mm), mainly from measuring the 
 For measuring latitude see Advanced Celestial Navigation – measuring latitude
 ```
 
-For measuring latitude see [Advanced Celestial Navigation – Measuring latitude](../../../docs/09-进阶科学与工程/09-天文导航进阶.md#三测纬度).
+For measuring latitude see [Advanced Celestial Navigation – Measuring latitude](../09-advanced-science-and-engineering/09-celestial-navigation.md#3-measuring-latitude).
 
 ![Seconds pendulum: length measured from the point of suspension to the centre of the bob, 0.9931 m at 40° N; swing no more than about 5° from vertical, exactly 1 s from one side to the other; add about 6.9 mm to get 1 m](../../images/seconds-pendulum.svg)
 
@@ -295,7 +295,7 @@ How to use: put a small piece of pure metal in the furnace and see whether it me
 ⚠️ Lead is toxic; use it only for this test and do not melt it casually
 ```
 
-For judging temperature by the colour of the fire see [Metallurgy Basics – Judging temperature](../../../docs/05-冶金技术/00-基础冶金知识.md#41-判断温度).
+For judging temperature by the colour of the fire see [Metallurgy Basics – Judging temperature](../05-metallurgy/00-metallurgy-basics.md#41-judging-temperature).
 
 ### 5.3 Making a thermometer
 
@@ -385,7 +385,7 @@ Only for estimating; never for making up medicines or for engineering
 | kWh (kilowatt-hour) | 3600000 J | Lifting 1 t about 367 m; commonly called "1 unit (*du*) of electricity" | Calculated from W and h |
 | Hz (hertz) | Once per second | A seconds pendulum going there and back (one full period) is 0.5 Hz | Count the vibrations per second |
 
-For measuring air pressure see [Physics – Pressure and fluids](../../../docs/08-基础科学知识/02-物理.md#四压强与流体); for heat calculations see [Physics – Heat](../../../docs/08-基础科学知识/02-物理.md#五热学).
+For measuring air pressure see [Physics – Pressure and fluids](02-physics.md#4-pressure-and-fluids); for heat calculations see [Physics – Heat](02-physics.md#5-heat).
 
 ### 7.2 Electricity
 
@@ -438,7 +438,7 @@ Another convenient standard: copper wire
   resistance rises by about 4% for every 10°C rise in temperature
 ```
 
-For cells and Faraday's law see [Advanced Chemistry – Electrochemistry](../../../docs/09-进阶科学与工程/05-化学进阶.md#五电化学); for wire resistance see [Physics – Resistance of wires](../../../docs/08-基础科学知识/02-物理.md#74-导线的电阻); for making meters see [Electrical Engineering and Electronics – Electrical measurement](../../../docs/09-进阶科学与工程/02-电气工程与电子学.md#九电气测量); for unglazed fired clay pots see [Pottery, Glass and Papermaking](../../../docs/07-日常生活技能/11-陶瓷玻璃与造纸.md).
+For cells and Faraday's law see [Advanced Chemistry – Electrochemistry](../09-advanced-science-and-engineering/05-advanced-chemistry.md#5-electrochemistry); for wire resistance see [Physics – Resistance of wires](02-physics.md#74-resistance-of-wires); for making meters see [Electrical Engineering and Electronics – Electrical measurement](../09-advanced-science-and-engineering/02-electrical-engineering-and-electronics.md#9-electrical-measurement); for unglazed fired clay pots see [Pottery, Glass and Papermaking](../07-everyday-living-skills/11-pottery-glass-and-papermaking.md).
 
 ### 7.3 Chemistry and atoms
 
@@ -452,7 +452,7 @@ eV (electronvolt): a unit of energy on the atomic scale, about 1.6 × 10⁻¹⁹
 theoretical calculations
 ```
 
-For atomic masses see [The Periodic Table](../../../docs/08-基础科学知识/05-元素周期表.md).
+For atomic masses see [The Periodic Table](05-periodic-table.md).
 
 ### 7.4 Units you cannot make
 
@@ -471,7 +471,7 @@ Other precise quantities (e.g. drug doses in milligrams or micrograms): home-mad
   packaging and their leaflets
 ```
 
-For protection in a nuclear disaster see [Man-Made Disasters](../../../docs/02-灾难应对/05-人为灾难.md) and [Long-Term Collapse Survival – Nuclear disaster](../../../docs/03-野外生存/06-末日求生.md#核灾难).
+For protection in a nuclear disaster see [Man-Made Disasters](../02-disaster-response/05-man-made-disasters.md) and [Long-Term Collapse Survival – Nuclear disaster](../03-wilderness-survival/06-long-term-collapse-survival.md#nuclear-disaster).
 
 ---
 
@@ -516,7 +516,7 @@ How to compare:
 ✓ The whole community uses the same set of standards for all trade, engineering and medicines
 ```
 
-For standard measures and trade see [Record-Keeping, Trade and Division of Labour – Trade](../../../docs/07-日常生活技能/13-记账交易与社会分工.md#交易).
+For standard measures and trade see [Record-Keeping, Trade and Division of Labour – Trade](../07-everyday-living-skills/13-record-keeping-trade-and-division-of-labour.md#trade).
 
 ---
 
@@ -544,7 +544,7 @@ The *chi* (Chinese foot), *jin* (Chinese pound) and *sheng* (Chinese pint) varie
 - Imperial units: see Measurement and the Scientific Method – Chinese market and imperial units
 ```
 
-For converting Chinese market and imperial units see [Measurement and the Scientific Method – Chinese market and imperial units](../../../docs/08-基础科学知识/00-度量衡与科学方法.md#32-市制和英制); for herbal doses see [Herbal Preparations](../../../docs/06-制药技术/04-中药制剂.md).
+For converting Chinese market and imperial units see [Measurement and the Scientific Method – Chinese market and imperial units](00-measurement-and-scientific-method.md#32-traditional-chinese-and-imperial-units); for herbal doses see [Herbal Preparations](../06-pharmaceuticals/04-herbal-preparations.md).
 
 ---
 
@@ -564,11 +564,11 @@ For converting Chinese market and imperial units see [Measurement and the Scient
 ## Related chapters
 
 - ⏮️ [Surveying and Mapping](08-surveying-and-mapping.md)
-- 🔗 [Measurement and the Scientific Method](../../../docs/08-基础科学知识/00-度量衡与科学方法.md) - unit conversion, measuring without instruments
-- 🔗 [Advanced Celestial Navigation](../../../docs/09-进阶科学与工程/09-天文导航进阶.md) - finding direction, measuring latitude, timekeeping
-- 🔗 [Advanced Chemistry – Electrochemistry](../../../docs/09-进阶科学与工程/05-化学进阶.md#五电化学) - cells and electrolysis
-- 🔗 [Electrical Engineering and Electronics](../../../docs/09-进阶科学与工程/02-电气工程与电子学.md) - meters
-- 🔗 [Main contents – Unit symbols](../../../README.md#-单位符号说明) - the unit symbols used throughout the book
+- 🔗 [Measurement and the Scientific Method](00-measurement-and-scientific-method.md) - unit conversion, measuring without instruments
+- 🔗 [Advanced Celestial Navigation](../09-advanced-science-and-engineering/09-celestial-navigation.md) - finding direction, measuring latitude, timekeeping
+- 🔗 [Advanced Chemistry – Electrochemistry](../09-advanced-science-and-engineering/05-advanced-chemistry.md#5-electrochemistry) - cells and electrolysis
+- 🔗 [Electrical Engineering and Electronics](../09-advanced-science-and-engineering/02-electrical-engineering-and-electronics.md) - meters
+- 🔗 [Main contents – Unit symbols](../../README.md#-unit-symbols) - the unit symbols used throughout the book
 
 ---
 

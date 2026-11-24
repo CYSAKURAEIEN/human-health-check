@@ -75,7 +75,7 @@ Buying chicks / young birds:
 ❌ Do not buy birds that are dull, huddled and shivering, or with white droppings pasted on the vent
 ```
 
-For inbreeding see [Biology and Medicine Basics – The harm of inbreeding](../../../docs/08-基础科学知识/04-生物与医学基础.md#63-近亲繁殖的危害); for selection see [Seed Saving and Breeding – Selection](08-seed-saving-and-breeding.md#selection-making-a-variety-better-every-year).
+For inbreeding see [Biology and Medicine Basics – The harm of inbreeding](../08-basic-science/04-biology-and-medical-basics.md#63-the-harm-of-inbreeding); for selection see [Seed Saving and Breeding – Selection](08-seed-saving-and-breeding.md#selection-making-a-variety-better-every-year).
 
 ### Building a chicken house
 
@@ -800,7 +800,7 @@ Disposing of birds that died of disease (key points):
   litter and droppings with them, or compost them at high temperature
 ```
 
-For the full requirements for disposing of animals that died of disease see [Sanitation – Disposing of animals that died of disease](../07-everyday-living-skills/03-sanitation.md#disposing-of-diseased-animal-carcasses); for how vaccines and antibiotic resistance work see [Biology and Medicine Basics – Immunity and vaccines](../../../docs/08-基础科学知识/04-生物与医学基础.md#三免疫和疫苗) and [Antibiotics and resistance](../../../docs/08-基础科学知识/04-生物与医学基础.md#四抗生素和耐药).
+For the full requirements for disposing of animals that died of disease see [Sanitation – Disposing of animals that died of disease](../07-everyday-living-skills/03-sanitation.md#disposing-of-diseased-animal-carcasses); for how vaccines and antibiotic resistance work see [Biology and Medicine Basics – Immunity and vaccines](../08-basic-science/04-biology-and-medical-basics.md#3-immunity-and-vaccines) and [Antibiotics and resistance](../08-basic-science/04-biology-and-medical-basics.md#4-antibiotics-and-resistance).
 
 **Diseases that pass between birds and people**:
 

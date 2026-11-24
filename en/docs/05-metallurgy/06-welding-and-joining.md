@@ -262,7 +262,7 @@ Some people connect 3 car batteries in series (about 36 V) to weld in an emergen
    and they may explode from the hydrogen they give off; keep the batteries away from the arc and sparks, and make the connections secure
 ```
 
-For battery safety, see [Electrical Engineering and Electronics – Batteries and energy storage](../../../docs/09-进阶科学与工程/02-电气工程与电子学.md#七电池和储能).
+For battery safety, see [Electrical Engineering and Electronics – Batteries and energy storage](../09-advanced-science-and-engineering/02-electrical-engineering-and-electronics.md#7-batteries-and-energy-storage).
 
 ---
 
@@ -314,7 +314,7 @@ Bend test: weld a test piece of the same material by the same method, clamp it i
 - ⏮️ [Scrap Metal Recycling and Aluminium Casting](05-scrap-metal-recycling-and-aluminium-casting.md) - Identifying and preparing metals
 - ⏭️ [Advanced Casting](07-advanced-casting.md)
 - 🔗 [Forging Simple Tools](03-forging-simple-tools.md) - Forging basics, wrapping a steel edge
-- 🔗 [Engineering Mechanics and Materials](../../../docs/09-进阶科学与工程/01-工程力学与材料.md) - Loads on joints and safety factors
+- 🔗 [Engineering Mechanics and Materials](../09-advanced-science-and-engineering/01-engineering-mechanics-and-materials.md) - Loads on joints and safety factors
 - 🔗 [Wound and Injury Care – Scalds and burns](../01-first-aid-and-family-health/02-wounds-and-injuries.md#scalds-and-burns)
 
 ---

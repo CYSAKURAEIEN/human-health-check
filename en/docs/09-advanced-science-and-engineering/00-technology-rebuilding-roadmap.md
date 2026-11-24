@@ -75,14 +75,14 @@ The stages do not follow one another strictly. Knowing about electromagnetic ind
 
 | Stage | Key technologies | Prerequisites | Main bottleneck | Related chapters in this handbook |
 |------|---------|---------|---------|---------------|
-| 0 Survival | Water purification, shelter, first aid | None | Knowledge | [Wilderness Survival](../../../docs/03-野外生存/README.md), [First Aid and Family Health](../../../docs/01-日常疾病和伤害/README.md) |
-| 1 Agriculture and crafts | Grain, seed saving, preservation, pottery, woodworking | Seed, land, tools | Seed (traditional varieties), soil fertility | [Growing Plants and Raising Animals](../../../docs/04-动植物培育/README.md), [Everyday Living Skills](../../../docs/07-日常生活技能/README.md) |
-| 2 Metallurgy and machinery | Iron and steel making, forging, waterwheels, lathes | Charcoal (large forests), ore, refractories | Fuel, precision machining | [Metallurgy](../../../docs/05-冶金技术/README.md), [Engineering Mechanics and Materials](../../../docs/09-进阶科学与工程/01-工程力学与材料.md) |
-| 3 Basic chemicals | Alkali, acid, glass, cement, paper | High-temperature kilns and furnaces, raw materials | Sulphuric acid, high temperature | [Chemistry](../../../docs/08-基础科学知识/03-化学.md) |
-| 4 Power | Boilers, steam engines | Steel plate, precisely machined cylinders | Boiler safety, machining accuracy | [Thermodynamics and Engines](../../../docs/09-进阶科学与工程/03-热力学与动力机械.md) |
-| 5 Electricity | Generators, batteries, telegraph | Copper wire, insulating materials, magnets | Copper, insulation | [Electrical Engineering and Electronics](../../../docs/09-进阶科学与工程/02-电气工程与电子学.md) |
-| 6 Chemicals and medicine | Chlor-alkali, fertiliser, purification | Electricity, glassware | Scale, purity | [Pharmaceuticals](../../../docs/06-制药技术/README.md) |
-| 7 Electronics | Semiconductors, radio | Materials of extremely high purity, vacuum | Almost everything | [Electrical Engineering and Electronics](../../../docs/09-进阶科学与工程/02-电气工程与电子学.md) |
+| 0 Survival | Water purification, shelter, first aid | None | Knowledge | [Wilderness Survival](../03-wilderness-survival/README.md), [First Aid and Family Health](../01-first-aid-and-family-health/README.md) |
+| 1 Agriculture and crafts | Grain, seed saving, preservation, pottery, woodworking | Seed, land, tools | Seed (traditional varieties), soil fertility | [Growing Plants and Raising Animals](../04-farming-and-animal-husbandry/README.md), [Everyday Living Skills](../07-everyday-living-skills/README.md) |
+| 2 Metallurgy and machinery | Iron and steel making, forging, waterwheels, lathes | Charcoal (large forests), ore, refractories | Fuel, precision machining | [Metallurgy](../05-metallurgy/README.md), [Engineering Mechanics and Materials](01-engineering-mechanics-and-materials.md) |
+| 3 Basic chemicals | Alkali, acid, glass, cement, paper | High-temperature kilns and furnaces, raw materials | Sulphuric acid, high temperature | [Chemistry](../08-basic-science/03-chemistry.md) |
+| 4 Power | Boilers, steam engines | Steel plate, precisely machined cylinders | Boiler safety, machining accuracy | [Thermodynamics and Engines](03-thermodynamics-and-engines.md) |
+| 5 Electricity | Generators, batteries, telegraph | Copper wire, insulating materials, magnets | Copper, insulation | [Electrical Engineering and Electronics](02-electrical-engineering-and-electronics.md) |
+| 6 Chemicals and medicine | Chlor-alkali, fertiliser, purification | Electricity, glassware | Scale, purity | [Pharmaceuticals](../06-pharmaceuticals/README.md) |
+| 7 Electronics | Semiconductors, radio | Materials of extremely high purity, vacuum | Almost everything | [Electrical Engineering and Electronics](02-electrical-engineering-and-electronics.md) |
 
 ---
 
@@ -107,9 +107,9 @@ What to do:
 ✓ Save energy: good stoves and furnaces, insulation, using waste heat
 ```
 
-For the calorific values of fuels see [Physics – Heat](../../../docs/08-基础科学知识/02-物理.md#五热学); for woodland and charcoal see [Lighting and Energy – Storing fuel safely](../../../docs/07-日常生活技能/06-照明与能源.md#燃料的安全储存).
+For the calorific values of fuels see [Physics – Heat](../08-basic-science/02-physics.md#5-heat); for woodland and charcoal see [Lighting and Energy – Storing fuel safely](../07-everyday-living-skills/06-lighting-and-energy.md#storing-fuel-safely).
 
-For estimating firewood use and woodland area, and coppice rotation, see [Firewood and Woodland Management](../../../docs/04-动植物培育/09-薪柴与林地管理.md).
+For estimating firewood use and woodland area, and coppice rotation, see [Firewood and Woodland Management](../04-farming-and-animal-husbandry/09-firewood-and-woodland-management.md).
 
 ### 3.2 Precision machining: the "mother machine" of machines
 
@@ -141,7 +141,7 @@ all of these need precision. And precision is "bootstrapped":
      instead of rebuilding the whole machine
 ```
 
-For hands-on filing, drilling, tapping, scraping and lathe work see [Bench Work and Machining](../../../docs/05-冶金技术/09-钳工与机械加工.md); for setting up measurement standards see [Measurement and the Scientific Method](../../../docs/08-基础科学知识/00-度量衡与科学方法.md); for machine elements see [Engineering Mechanics and Materials – Machine elements](../../../docs/09-进阶科学与工程/01-工程力学与材料.md#十一机械元件).
+For hands-on filing, drilling, tapping, scraping and lathe work see [Bench Work and Machining](../05-metallurgy/09-bench-work-and-machining.md); for setting up measurement standards see [Measurement and the Scientific Method](../08-basic-science/00-measurement-and-scientific-method.md); for machine elements see [Engineering Mechanics and Materials – Machine elements](01-engineering-mechanics-and-materials.md#11-machine-elements).
 
 ### 3.3 Sulphuric acid
 
@@ -163,7 +163,7 @@ glassware, thermometers, vacuum tubes, or sealed medicine bottles
 Needs: quartz sand, soda ash (or plant ash), lime, and a kiln reaching about 1400-1500°C
 ```
 
-For how to make it see [Pottery, Glass and Papermaking](../../../docs/07-日常生活技能/11-陶瓷玻璃与造纸.md#玻璃).
+For how to make it see [Pottery, Glass and Papermaking](../07-everyday-living-skills/11-pottery-glass-and-papermaking.md#glass).
 
 ### 3.5 Paper and printing: spreading knowledge
 
@@ -175,7 +175,7 @@ Knowledge that exists only in a few people's heads is very fragile
 ✓ Education: get more people able to read, do arithmetic and understand scientific principles
 ```
 
-For paper and ink see [Pottery, Glass and Papermaking – Papermaking](../../../docs/07-日常生活技能/11-陶瓷玻璃与造纸.md#造纸); for teaching and preserving records see [Education and Knowledge Preservation](../../../docs/07-日常生活技能/12-教育与知识传承.md).
+For paper and ink see [Pottery, Glass and Papermaking – Papermaking](../07-everyday-living-skills/11-pottery-glass-and-papermaking.md#papermaking); for teaching and preserving records see [Education and Knowledge Preservation](../07-everyday-living-skills/12-education-and-knowledge-preservation.md).
 
 ### 3.6 People
 
@@ -187,7 +187,7 @@ In the end, technology lives in people. More important than any machine are:
 - Apprenticeship: experienced people training the young is how crafts survive
 ```
 
-See [Education and Knowledge Preservation](../../../docs/07-日常生活技能/12-教育与知识传承.md) and [Record-keeping, Trade and Division of Labour](../../../docs/07-日常生活技能/13-记账交易与社会分工.md).
+See [Education and Knowledge Preservation](../07-everyday-living-skills/12-education-and-knowledge-preservation.md) and [Record-keeping, Trade and Division of Labour](../07-everyday-living-skills/13-record-keeping-trade-and-division-of-labour.md).
 
 ---
 
@@ -195,7 +195,7 @@ See [Education and Knowledge Preservation](../../../docs/07-日常生活技能/1
 
 For a long time after civilisation collapses, **the modern materials preserved in the ruins are better than anything you can make yourself**.
 
-For identifying, sorting, safely dismantling and melting down metals, see [Scrap Metal Recycling and Aluminium Casting](../../../docs/05-冶金技术/05-废旧金属回收与铝铸造.md).
+For identifying, sorting, safely dismantling and melting down metals, see [Scrap Metal Recycling and Aluminium Casting](../05-metallurgy/05-scrap-metal-recycling-and-aluminium-casting.md).
 
 | Resource | Source | Use |
 |------|------|------|
@@ -293,12 +293,12 @@ Items:
 
 ## Related chapters
 
-- ⏭️ [Engineering Mechanics and Materials](../../../docs/09-进阶科学与工程/01-工程力学与材料.md) - structures, materials, machine elements
-- ⏭️ [Electrical Engineering and Electronics](../../../docs/09-进阶科学与工程/02-电气工程与电子学.md) - generation, transmission, telegraph, semiconductors
-- ⏭️ [Thermodynamics and Engines](../../../docs/09-进阶科学与工程/03-热力学与动力机械.md) - steam engines, internal combustion engines, refrigeration, wind and water power
-- ⏭️ [Higher Mathematics](../../../docs/09-进阶科学与工程/04-高等数学.md), [Advanced Chemistry](../../../docs/09-进阶科学与工程/05-化学进阶.md), [Modern Physics](../../../docs/09-进阶科学与工程/06-现代物理.md) - deeper theoretical tools
-- 🔗 [Basic Science](../../../docs/08-基础科学知识/README.md) - the foundations of mathematics, physics, chemistry and biology
-- 🔗 [Long-term Collapse Survival](../../../docs/03-野外生存/06-末日求生.md) - the overall strategy for long-term survival
+- ⏭️ [Engineering Mechanics and Materials](01-engineering-mechanics-and-materials.md) - structures, materials, machine elements
+- ⏭️ [Electrical Engineering and Electronics](02-electrical-engineering-and-electronics.md) - generation, transmission, telegraph, semiconductors
+- ⏭️ [Thermodynamics and Engines](03-thermodynamics-and-engines.md) - steam engines, internal combustion engines, refrigeration, wind and water power
+- ⏭️ [Higher Mathematics](04-higher-mathematics.md), [Advanced Chemistry](05-advanced-chemistry.md), [Modern Physics](06-modern-physics.md) - deeper theoretical tools
+- 🔗 [Basic Science](../08-basic-science/README.md) - the foundations of mathematics, physics, chemistry and biology
+- 🔗 [Long-term Collapse Survival](../03-wilderness-survival/06-long-term-collapse-survival.md) - the overall strategy for long-term survival
 
 ---
 

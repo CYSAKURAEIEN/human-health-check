@@ -32,7 +32,7 @@ Aluminium: needs a much lower temperature (about 300-400°C) and must not be hea
   and brushing it off (pickling)
 ```
 
-For the theory of work hardening, see [Engineering mechanics and materials – Why metal can be forged](../../../docs/09-进阶科学与工程/01-工程力学与材料.md#101-金属为什么能锻打).
+For the theory of work hardening, see [Engineering mechanics and materials – Why metal can be forged](../09-advanced-science-and-engineering/01-engineering-mechanics-and-materials.md#101-why-metals-can-be-forged).
 
 ---
 
@@ -89,7 +89,7 @@ Example: a funnel (the cone part) 20 cm across the mouth (r = 10 cm) and 12 cm h
   → On the sheet draw a circle of radius 15.6 cm, cut out a 231° sector, roll it up and join the seam
 ```
 
-For the mathematics, see [Mathematics – Geometry](../../../docs/08-基础科学知识/01-数学.md#四几何).
+For the mathematics, see [Mathematics – Geometry](../08-basic-science/01-mathematics.md#4-geometry).
 
 ### 2.4 Seams
 
@@ -209,7 +209,7 @@ Generators, motors, telegraphs and electric lights all need copper wire:
   wiring and protection)
 ```
 
-For choosing wire, see [Electrical engineering and electronics – Wiring and protection](../../../docs/09-进阶科学与工程/02-电气工程与电子学.md#62-导线和保护).
+For choosing wire, see [Electrical engineering and electronics – Wiring and protection](../09-advanced-science-and-engineering/02-electrical-engineering-and-electronics.md#62-wires-and-protection).
 
 ### 4.5 Uses of wire
 
@@ -253,8 +253,8 @@ For making chain, see [Forging simple tools – Iron rings and chain](03-forging
 - ⏮️ [Other metals](10-other-metals.md) - where tin and zinc come from
 - ⏮️ [Welding and joining](06-welding-and-joining.md) - folded seams, soft soldering, brazing
 - 🔗 [Forging simple tools](03-forging-simple-tools.md) - forging basics
-- 🔗 [Electrical engineering and electronics](../../../docs/09-进阶科学与工程/02-电气工程与电子学.md) - uses of copper wire
-- 🔗 [Engineering mechanics and materials](../../../docs/09-进阶科学与工程/01-工程力学与材料.md) - the theory of work hardening and annealing
+- 🔗 [Electrical engineering and electronics](../09-advanced-science-and-engineering/02-electrical-engineering-and-electronics.md) - uses of copper wire
+- 🔗 [Engineering mechanics and materials](../09-advanced-science-and-engineering/01-engineering-mechanics-and-materials.md) - the theory of work hardening and annealing
 
 ---
 

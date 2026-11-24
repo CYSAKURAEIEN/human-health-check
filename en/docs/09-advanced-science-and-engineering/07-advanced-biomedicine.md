@@ -18,7 +18,7 @@ This chapter explains the science behind medicine, to help you understand why do
   at home (for the reasons see the Pharmaceuticals part)
 ```
 
-For the basics see [Biology and Medicine Basics](../../../docs/08-基础科学知识/04-生物与医学基础.md).
+For the basics see [Biology and Medicine Basics](../08-basic-science/04-biology-and-medical-basics.md).
 
 ---
 
@@ -104,7 +104,7 @@ Autoimmune disease: the immune system attacks the body's own tissues (rheumatoid
 Immunodeficiency: weakened immunity, with repeated infections
 ```
 
-For handling anaphylactic shock see [Acute Symptoms – Allergic reactions](../../../docs/01-日常疾病和伤害/05-急性症状.md#过敏反应).
+For handling anaphylactic shock see [Acute Symptoms – Allergic reactions](../01-first-aid-and-family-health/05-acute-symptoms.md#allergic-reactions).
 
 ---
 
@@ -154,7 +154,7 @@ Oral rehydration salts: contain glucose and salt in a set ratio; the glucose hel
     medical advances of the 20th century
 ```
 
-For using oral rehydration salts see [Common Illnesses – Diarrhoea](../../../docs/01-日常疾病和伤害/01-常见疾病.md#腹泻).
+For using oral rehydration salts see [Common Illnesses – Diarrhoea](../01-first-aid-and-family-health/01-common-illnesses.md#diarrhoea).
 
 ### 3.4 Temperature regulation
 
@@ -168,7 +168,7 @@ Heatstroke: heat produced and absorbed exceeds the body's ability to lose it, an
   temperature rises out of control (a different mechanism from fever)
 ```
 
-For fever grades see [Common Illnesses – Fever](../../../docs/01-日常疾病和伤害/01-常见疾病.md#发烧).
+For fever grades see [Common Illnesses – Fever](../01-first-aid-and-family-health/01-common-illnesses.md#fever).
 
 ### 3.5 Blood sugar
 
@@ -181,7 +181,7 @@ Low blood sugar (hypoglycaemia): most common in people with diabetes taking
   If the person is conscious, give sugar at once
 ```
 
-For handling low blood sugar see [Cardiovascular and Sudden Illness – Low blood sugar](../../../docs/01-日常疾病和伤害/06-心脑血管与突发病症.md#低血糖).
+For handling low blood sugar see [Cardiovascular and Sudden Illness – Low blood sugar](../01-first-aid-and-family-health/06-heart-stroke-and-sudden-illness.md#hypoglycaemia-low-blood-sugar).
 
 ---
 
@@ -227,7 +227,7 @@ Half-life: the time it takes for the drug concentration in the body to fall by h
 → For some drugs a larger first "loading dose" is given so they work sooner
 ```
 
-For calculating half-lives see [Mathematics – Exponential decay and half-life](../../../docs/08-基础科学知识/01-数学.md#72-指数衰减和半衰期).
+For calculating half-lives see [Mathematics – Exponential decay and half-life](../08-basic-science/01-mathematics.md#72-exponential-decay-and-half-life).
 
 ![Dose and effect, half-life, and concentration with repeated dosing](../../images/drug-dose-half-life.svg)
 
@@ -256,7 +256,7 @@ body weight
 ✓ Take a list of all the medicines you are on to every medical appointment
 ```
 
-For medication information cards see [Chronic Disease Medication Stockpile](../../../docs/01-日常疾病和伤害/08-慢性病用药储备.md).
+For medication information cards see [Chronic Disease Medication Stockpile](../01-first-aid-and-family-health/08-chronic-medication-stockpile.md).
 
 ---
 
@@ -340,7 +340,7 @@ with the symptoms
   difficulty breathing, blood in the stool)
 ```
 
-For danger signs of all kinds see "When to seek medical help immediately" in the [First Aid and Family Health](../../../docs/01-日常疾病和伤害/README.md) part.
+For danger signs of all kinds see "When to seek medical help immediately" in the [First Aid and Family Health](../01-first-aid-and-family-health/README.md) part.
 
 ---
 
@@ -381,7 +381,7 @@ For danger signs of all kinds see "When to seek medical help immediately" in the
   treatment known to work
 ```
 
-For statistical methods see [Higher Mathematics – Statistical inference](../../../docs/09-进阶科学与工程/04-高等数学.md#八统计推断-判断结果是不是巧合).
+For statistical methods see [Higher Mathematics – Statistical inference](04-higher-mathematics.md#8-statistical-inference-is-the-result-a-fluke).
 
 ### 7.4 Assessing a claim about a treatment
 
@@ -414,18 +414,18 @@ Factors that hinder healing: infection, foreign bodies, poor blood supply,
   malnutrition (protein, vitamin C), diabetes, smoking, repeated rubbing
 ```
 
-For wound care see [Wound and Injury Care](../../../docs/01-日常疾病和伤害/02-外伤处理.md).
+For wound care see [Wound and Injury Care](../01-first-aid-and-family-health/02-wounds-and-injuries.md).
 
 ---
 
 ## Related chapters
 
-- ⏮️ [Biology and Medicine Basics](../../../docs/08-基础科学知识/04-生物与医学基础.md) - background for this chapter
-- ⏮️ [Higher Mathematics](../../../docs/09-进阶科学与工程/04-高等数学.md) - the mathematics of statistical inference and pharmacokinetics
-- ⏮️ [Advanced Chemistry](../../../docs/09-进阶科学与工程/05-化学进阶.md) - enzymes, proteins, organic chemistry
-- ⏭️ [Computing and Information](../../../docs/09-进阶科学与工程/08-计算与信息.md)
-- 🔗 [First Aid and Family Health](../../../docs/01-日常疾病和伤害/README.md) - handling specific illnesses
-- 🔗 [Pharmaceuticals](../../../docs/06-制药技术/README.md) - where medicines come from and their limits
+- ⏮️ [Biology and Medicine Basics](../08-basic-science/04-biology-and-medical-basics.md) - background for this chapter
+- ⏮️ [Higher Mathematics](04-higher-mathematics.md) - the mathematics of statistical inference and pharmacokinetics
+- ⏮️ [Advanced Chemistry](05-advanced-chemistry.md) - enzymes, proteins, organic chemistry
+- ⏭️ [Computing and Information](08-computing-and-information.md)
+- 🔗 [First Aid and Family Health](../01-first-aid-and-family-health/README.md) - handling specific illnesses
+- 🔗 [Pharmaceuticals](../06-pharmaceuticals/README.md) - where medicines come from and their limits
 
 ---
 

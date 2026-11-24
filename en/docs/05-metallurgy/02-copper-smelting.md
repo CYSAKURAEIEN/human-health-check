@@ -75,7 +75,7 @@ lichens can all fool you. Do three simple tests:
 Passes all three → almost certainly a copper carbonate ore; it can be smelted
 ```
 
-For general identification methods see [Geology, Minerals and Soil – Identification methods](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#21-鉴定方法).
+For general identification methods see [Geology, Minerals and Soil – Identification methods](../08-basic-science/06-geology-minerals-and-soil.md#21-identification-methods).
 
 **Properties:**
 - Copper content: 55-60%
@@ -96,7 +96,7 @@ In the field:
   heaps (black, glassy, very heavy lumps) are all clues
 ```
 
-For clues to finding ore see [Geology, Minerals and Soil – Common clues to metal ore deposits](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#32-金属矿床的常见线索).
+For clues to finding ore see [Geology, Minerals and Soil – Common clues to metal ore deposits](../08-basic-science/06-geology-minerals-and-soil.md#32-common-clues-to-metal-deposits).
 
 ### 1.2 Azurite Cu₃(OH)₂(CO₃)₂
 
@@ -190,7 +190,7 @@ the surface is usually covered with green copper patina.
    lead fumes are toxic
 ```
 
-For the hazards of lead and arsenic see [Chemistry – Heavy metals](../../../docs/08-基础科学知识/03-化学.md#93-重金属) and [7. Safety notes](#7-safety-notes) in this chapter.
+For the hazards of lead and arsenic see [Chemistry – Heavy metals](../08-basic-science/03-chemistry.md#93-heavy-metals) and [7. Safety notes](#7-safety-notes) in this chapter.
 
 ### 1.7 Collecting and hand-sorting
 
@@ -1038,7 +1038,7 @@ For the general handling of poisoning see [Poisoning – General principles of t
   upstream of a water source
 ```
 
-For general information on toxic gases see [Chemistry – Toxic gases](../../../docs/08-基础科学知识/03-化学.md#92-有毒气体).
+For general information on toxic gases see [Chemistry – Toxic gases](../08-basic-science/03-chemistry.md#92-toxic-gases).
 
 ### Arsenic: the associated poison to watch most closely
 
@@ -1130,7 +1130,7 @@ For treating carbon monoxide poisoning and burns see [Metallurgy Basics – Prev
 - 🔗 [Bellows and Forges](08-bellows-and-forges.md) - bellows and nozzles
 - 🔗 [Other Metals](10-other-metals.md) - sources and smelting of tin and zinc
 - 🔗 [Sheet and Wire](11-sheet-and-wire.md) - copper sheet, copper wire
-- 🔗 [Geology, Minerals and Soil](../../../docs/08-基础科学知识/06-地质矿物与土壤.md) - mineral identification and prospecting
+- 🔗 [Geology, Minerals and Soil](../08-basic-science/06-geology-minerals-and-soil.md) - mineral identification and prospecting
 - 🔗 [Poisoning](../01-first-aid-and-family-health/12-poisoning.md) - dealing with swallowed and inhaled poisons
 
 ---

@@ -20,7 +20,7 @@ Note:
 - The nuclear section covers principles only and contains nothing related to weapons
 ```
 
-For the basics see [Basic Science – Physics](../../../docs/08-基础科学知识/02-物理.md).
+For the basics see [Basic Science – Physics](../08-basic-science/02-physics.md).
 
 ---
 
@@ -102,7 +102,7 @@ energy equals the difference between the two levels
 1 eV (electronvolt) ≈ 1.6 × 10⁻¹⁹ J, the energy unit commonly used at atomic scale
 ```
 
-For flame tests see [Advanced Chemistry – Flame tests](../../../docs/09-进阶科学与工程/05-化学进阶.md#71-焰色反应).
+For flame tests see [Advanced Chemistry – Flame tests](05-advanced-chemistry.md#71-flame-tests).
 
 ### 2.3 Electron arrangement and the periodic table
 
@@ -165,7 +165,7 @@ Doping produces N-type and P-type semiconductors; where they meet they form a PN
 - Transistor: uses a small signal to control a large current
 ```
 
-For specific devices see [Electrical Engineering and Electronics – Semiconductors and electronics](../../../docs/09-进阶科学与工程/02-电气工程与电子学.md#十半导体和电子学).
+For specific devices see [Electrical Engineering and Electronics – Semiconductors and electronics](02-electrical-engineering-and-electronics.md#10-semiconductors-and-electronics).
 
 ### 4.3 Lasers
 
@@ -278,7 +278,7 @@ Carbon-14 dating:
   Works for organic material (wood, bone, seeds) up to about 50000 years old
 ```
 
-For the calculation see [Mathematics – Exponential decay and half-life](../../../docs/08-基础科学知识/01-数学.md#72-指数衰减和半衰期).
+For the calculation see [Mathematics – Exponential decay and half-life](../08-basic-science/01-mathematics.md#72-exponential-decay-and-half-life).
 
 ### 6.4 Radiation dose
 
@@ -304,7 +304,7 @@ underground)
 
 *Figure: α radiation is stopped by a sheet of paper, β needs a few mm of aluminium, γ needs thick lead, thick concrete or a thick layer of earth; protection relies on time, distance and shielding; after each half-life, half remains*
 
-For responding to nuclear accidents see [Man-made Disasters](../../../docs/02-灾难应对/05-人为灾难.md).
+For responding to nuclear accidents see [Man-made Disasters](../02-disaster-response/05-man-made-disasters.md).
 
 ### 6.5 Nuclear fission and nuclear power (principles)
 
@@ -397,7 +397,7 @@ its absolute temperature ≈ 2.9 × 10⁻³ m·K
     red-hot iron
 ```
 
-For judging temperature by colour see [Metalworking](../../../docs/05-冶金技术/04-金属加工技术.md).
+For judging temperature by colour see [Metalworking](../05-metallurgy/04-metalworking.md).
 
 ---
 
@@ -423,12 +423,12 @@ For judging temperature by colour see [Metalworking](../../../docs/05-冶金技�
 
 ## Related chapters
 
-- ⏮️ [Basic Science – Physics](../../../docs/08-基础科学知识/02-物理.md) - background for this chapter
-- ⏮️ [Advanced Chemistry](../../../docs/09-进阶科学与工程/05-化学进阶.md) - atomic structure and chemical bonds
-- ⏮️ [Electrical Engineering and Electronics](../../../docs/09-进阶科学与工程/02-电气工程与电子学.md) - semiconductor devices
-- ⏭️ [Advanced Biomedicine](../../../docs/09-进阶科学与工程/07-生物医学进阶.md)
-- 🔗 [Man-made Disasters](../../../docs/02-灾难应对/05-人为灾难.md) - responding to nuclear accidents
-- 🔗 [Technology Rebuilding Roadmap](../../../docs/09-进阶科学与工程/00-技术重建路线图.md) - where modern technology fits in rebuilding
+- ⏮️ [Basic Science – Physics](../08-basic-science/02-physics.md) - background for this chapter
+- ⏮️ [Advanced Chemistry](05-advanced-chemistry.md) - atomic structure and chemical bonds
+- ⏮️ [Electrical Engineering and Electronics](02-electrical-engineering-and-electronics.md) - semiconductor devices
+- ⏭️ [Advanced Biomedicine](07-advanced-biomedicine.md)
+- 🔗 [Man-made Disasters](../02-disaster-response/05-man-made-disasters.md) - responding to nuclear accidents
+- 🔗 [Technology Rebuilding Roadmap](00-technology-rebuilding-roadmap.md) - where modern technology fits in rebuilding
 
 ---
 

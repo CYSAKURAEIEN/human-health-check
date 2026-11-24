@@ -10,7 +10,7 @@
 - 🔥 Wires that are too thin and loose connections heat up and cause fires
 - ✓ When modifying or connecting household wiring, or connecting a generator, always disconnect from the outside grid (to stop power feeding back and injuring others)
 
-For everyday electrical safety see [Household Electrical Safety](../../../docs/07-日常生活技能/08-家庭用电安全.md); for the basics of voltage, current and Ohm's law see [Physics – Electricity and magnetism](../../../docs/08-基础科学知识/02-物理.md#七电与磁).
+For everyday electrical safety see [Household Electrical Safety](../07-everyday-living-skills/08-household-electrical-safety.md); for the basics of voltage, current and Ohm's law see [Physics – Electricity and magnetism](../08-basic-science/02-physics.md#7-electricity-and-magnetism).
 
 ---
 
@@ -158,7 +158,7 @@ Power sources: waterwheels, windmills, bicycles (human power about 75-100 W,
 only enough for a little lighting and charging)
 ```
 
-For estimating water and wind power see [Thermodynamics and Engines – Other power sources](../../../docs/09-进阶科学与工程/03-热力学与动力机械.md#八水力风力和畜力).
+For estimating water and wind power see [Thermodynamics and Engines – Other power sources](03-thermodynamics-and-engines.md#8-water-wind-and-animal-power).
 
 ![Generator principle: a magnet and a coil turning relative to each other give alternating current; a commutator turns AC into current that always flows the same way; frequency equals pole pairs times revolutions per minute divided by 60; a permanent-magnet DC motor run backwards generates electricity, with a diode to stop battery current flowing back](../../images/generator-principle.svg)
 
@@ -234,7 +234,7 @@ Example: send 10 kW over two copper wires, each 1 km long and 10 mm²
 ✓ A residual-current device (30 mA) protects against electric shock
 ```
 
-For practical household wiring see [Household Electrical Safety](../../../docs/07-日常生活技能/08-家庭用电安全.md).
+For practical household wiring see [Household Electrical Safety](../07-everyday-living-skills/08-household-electrical-safety.md).
 
 ### 6.3 Small off-grid power systems
 
@@ -249,7 +249,7 @@ Estimating energy: daily use (Wh) = Σ (power of each appliance × hours used pe
   Battery capacity must cover several days of use when it is cloudy and windless
 ```
 
-For installing a solar system see [Lighting and Energy – Small-scale solar power](../../../docs/07-日常生活技能/06-照明与能源.md#小型太阳能).
+For installing a solar system see [Lighting and Energy – Small-scale solar power](../07-everyday-living-skills/06-lighting-and-energy.md#small-scale-solar-power).
 
 ---
 
@@ -272,7 +272,7 @@ Charging voltage for lead-acid batteries: about 13.8-14.4 V (12 V battery)
    wear gloves and goggles when removing or fitting them
 ```
 
-For battery safety see [Lighting and Energy – Battery safety](../../../docs/07-日常生活技能/06-照明与能源.md#蓄电池安全).
+For battery safety see [Lighting and Energy – Battery safety](../07-everyday-living-skills/06-lighting-and-energy.md#battery-safety).
 
 ---
 
@@ -322,7 +322,7 @@ corresponds to a four-digit number, and the digits are sent in Morse code
 Morse code can also be sent by light, flag signals, tapping or whistle
 ```
 
-For distress signals see [Basic Survival Skills – Distress signals](../../../docs/03-野外生存/00-基础生存技能.md#求救信号).
+For distress signals see [Basic Survival Skills – Distress signals](../03-wilderness-survival/00-basic-survival-skills.md#distress-signals).
 
 ### 8.3 How the telephone works
 
@@ -360,7 +360,7 @@ Crystal radio (needs no power supply):
    such as aviation and emergency services
 ```
 
-For emergency communication see [Emergency Communication and Family Reunification](../../../docs/02-灾难应对/06-应急通信与寻亲.md).
+For emergency communication see [Emergency Communication and Family Reunification](../02-disaster-response/06-emergency-communication-and-family-reunification.md).
 
 ---
 
@@ -381,7 +381,7 @@ very useful)
      is a direct short circuit
 ```
 
-If you have no meter you can trust, calibrate current by electrolytic copper deposition and voltage with a Daniell cell or by electrical heating; see [Rebuilding Measurement Standards – Electrical](../../../docs/08-基础科学知识/09-计量基准的重建.md#72-电学).
+If you have no meter you can trust, calibrate current by electrolytic copper deposition and voltage with a Daniell cell or by electrical heating; see [Rebuilding Measurement Standards – Electrical](../08-basic-science/09-rebuilding-measurement-standards.md#72-electricity).
 
 ---
 
@@ -444,7 +444,7 @@ Relays (switches worked by electromagnets) are slow but simple, and are an optio
   for building logic circuits when there are no semiconductors
 ```
 
-For binary see [Mathematics – Practical algorithms](../../../docs/08-基础科学知识/01-数学.md#十实用算法).
+For binary see [Mathematics – Practical algorithms](../08-basic-science/01-mathematics.md#10-practical-algorithms).
 
 ### 10.5 Vacuum tubes
 
@@ -459,13 +459,13 @@ Needs: glassworking, a vacuum pump, metal wire, sealing techniques
 
 ## Related chapters
 
-- ⏮️ [Technology Rebuilding Roadmap](../../../docs/09-进阶科学与工程/00-技术重建路线图.md) - where electric power fits in the whole picture; electrical equipment that can be salvaged from the ruins
-- ⏮️ [Engineering Mechanics and Materials](../../../docs/09-进阶科学与工程/01-工程力学与材料.md)
-- ⏭️ [Thermodynamics and Engines](../../../docs/09-进阶科学与工程/03-热力学与动力机械.md) - power to drive generators
-- 🔗 [Physics – Electricity and magnetism](../../../docs/08-基础科学知识/02-物理.md#七电与磁) - Ohm's law, basics of electromagnetic induction
-- 🔗 [Lighting and Energy](../../../docs/07-日常生活技能/06-照明与能源.md) - using generators, solar power and batteries in practice
-- 🔗 [Household Electrical Safety](../../../docs/07-日常生活技能/08-家庭用电安全.md)
-- 🔗 [Sheet and Wire – Wire](../../../docs/05-冶金技术/11-板材与线材.md#四线材) - drawing copper wire, insulating electric wire
+- ⏮️ [Technology Rebuilding Roadmap](00-technology-rebuilding-roadmap.md) - where electric power fits in the whole picture; electrical equipment that can be salvaged from the ruins
+- ⏮️ [Engineering Mechanics and Materials](01-engineering-mechanics-and-materials.md)
+- ⏭️ [Thermodynamics and Engines](03-thermodynamics-and-engines.md) - power to drive generators
+- 🔗 [Physics – Electricity and magnetism](../08-basic-science/02-physics.md#7-electricity-and-magnetism) - Ohm's law, basics of electromagnetic induction
+- 🔗 [Lighting and Energy](../07-everyday-living-skills/06-lighting-and-energy.md) - using generators, solar power and batteries in practice
+- 🔗 [Household Electrical Safety](../07-everyday-living-skills/08-household-electrical-safety.md)
+- 🔗 [Sheet and Wire – Wire](../05-metallurgy/11-sheet-and-wire.md#4-wire) - drawing copper wire, insulating electric wire
 
 ---
 

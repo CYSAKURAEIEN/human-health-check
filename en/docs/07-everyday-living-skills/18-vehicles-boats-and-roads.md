@@ -154,7 +154,7 @@ pushes at the handle end
 ✓ Add a shoulder strap between the two handles to take some of the load off your hands
 ```
 
-For the lever principle see [Physics – Levers](../../../docs/08-基础科学知识/02-物理.md#21-杠杆).
+For the lever principle see [Physics – Levers](../08-basic-science/02-physics.md#21-levers).
 
 ![A wheelbarrow is a lever: the wheel is the fulcrum, the load in the middle, the person pushes at the handle end; on a builders' barrow load the heavy items nearest the wheel; the traditional Chinese wheelbarrow has a big wheel in the middle with the load on both sides, its centre of gravity almost directly above the wheel](../../images/wheelbarrow-lever.svg)
 
@@ -186,7 +186,7 @@ Example: a flat cart weighing 500 kg with its load
 → Building a good road is like gaining several extra draught animals
 ```
 
-For the principle of friction see [Physics – Friction](../../../docs/08-基础科学知识/02-物理.md#14-摩擦力).
+For the principle of friction see [Physics – Friction](../08-basic-science/02-physics.md#14-friction).
 
 ### Wooden wheels
 
@@ -235,7 +235,7 @@ Lubrication:
 ✓ Fit pins or retaining rings at both ends of the axle so the wheels cannot come off
 ```
 
-For how bearings work see [Engineering Mechanics and Materials – Shafts and bearings](../../../docs/09-进阶科学与工程/01-工程力学与材料.md#111-轴和轴承).
+For how bearings work see [Engineering Mechanics and Materials – Shafts and bearings](../09-advanced-science-and-engineering/01-engineering-mechanics-and-materials.md#111-shafts-and-bearings).
 
 ![Wheels and axles: dragging means overcoming sliding friction, on wheels only rolling resistance and axle friction; the pull needed for a 500 kg flat cart on a hard road and in deep mud; how solid and spoked wheels are built; larger wheels cross stones and holes more easily; bushings, pins and lubrication](../../images/wheel-axle.svg)
 
@@ -281,7 +281,7 @@ Rough orders of magnitude:
 - An ox cart covers about 15-20 km a day; a horse cart on a good road about 30-40 km a day
 ```
 
-For the power of draught animals see [Thermodynamics and Power Machinery – Animal and human power](../../../docs/09-进阶科学与工程/03-热力学与动力机械.md#83-畜力和人力).
+For the power of draught animals see [Thermodynamics and Power Machinery – Animal and human power](../09-advanced-science-and-engineering/03-thermodynamics-and-engines.md#83-animal-and-human-power).
 
 ### Harness: letting the animal use its strength
 
@@ -368,7 +368,7 @@ For making and caring for leather see [Textiles, Mending and Tanning – Making 
   level to set a peg every 20 m
 ```
 
-For the method see [Surveying and Mapping – A simple level](../../../docs/08-基础科学知识/08-测量与制图.md#42-简易水准仪) and [Setting out the gradient of a channel](../../../docs/08-基础科学知识/08-测量与制图.md#44-给水渠放坡); for the inclined plane see [Physics – The inclined plane](../../../docs/08-基础科学知识/02-物理.md#23-斜面); for the warning signs of landslides see [Geological Disasters – Landslides](../02-disaster-response/01-geological-disasters.md#landslides).
+For the method see [Surveying and Mapping – A simple level](../08-basic-science/08-surveying-and-mapping.md#42-simple-levels) and [Setting out the gradient of a channel](../08-basic-science/08-surveying-and-mapping.md#44-setting-the-gradient-of-a-channel); for the inclined plane see [Physics – The inclined plane](../08-basic-science/02-physics.md#23-inclined-planes); for the warning signs of landslides see [Geological Disasters – Landslides](../02-disaster-response/01-geological-disasters.md#landslides).
 
 ### Camber and drainage ditches
 
@@ -485,7 +485,7 @@ Key points:
 - Leave gaps between the deck planks so rain drains through; add railings on both sides
 ```
 
-For calculating timber beams see [Engineering Mechanics and Materials – Estimating how much a timber beam can carry](../../../docs/09-进阶科学与工程/01-工程力学与材料.md#53-估算一根木梁能承受多少); for trusses see [Triangles and trusses](../../../docs/09-进阶科学与工程/01-工程力学与材料.md#六三角形和桁架); for abutment foundations see [Foundations](../../../docs/09-进阶科学与工程/01-工程力学与材料.md#九地基).
+For calculating timber beams see [Engineering Mechanics and Materials – Estimating how much a timber beam can carry](../09-advanced-science-and-engineering/01-engineering-mechanics-and-materials.md#53-estimating-how-much-a-timber-beam-can-carry); for trusses see [Triangles and trusses](../09-advanced-science-and-engineering/01-engineering-mechanics-and-materials.md#6-triangles-and-trusses); for abutment foundations see [Foundations](../09-advanced-science-and-engineering/01-engineering-mechanics-and-materials.md#9-foundations).
 
 ### Stone arch bridges
 
@@ -510,7 +510,7 @@ How it is built (in principle):
    the arch while removing the centring
 ```
 
-For the forces in an arch see [Engineering Mechanics and Materials – Arches](../../../docs/09-进阶科学与工程/01-工程力学与材料.md#71-拱).
+For the forces in an arch see [Engineering Mechanics and Materials – Arches](../09-advanced-science-and-engineering/01-engineering-mechanics-and-materials.md#71-arches).
 
 ### Rope bridges
 
@@ -528,7 +528,7 @@ in the middle, with the deck hung from them or laid on them
   worn or mouldy
 ```
 
-For the forces in suspension cables see [Engineering Mechanics and Materials – Suspension cables and ropes](../../../docs/09-进阶科学与工程/01-工程力学与材料.md#八悬索和绳索); for knots see [Basic Survival Skills – Knots](../03-wilderness-survival/00-basic-survival-skills.md#knots).
+For the forces in suspension cables see [Engineering Mechanics and Materials – Suspension cables and ropes](../09-advanced-science-and-engineering/01-engineering-mechanics-and-materials.md#8-suspension-cables-and-ropes); for knots see [Basic Survival Skills – Knots](../03-wilderness-survival/00-basic-survival-skills.md#knots).
 
 ### ⚠️ Testing and using bridges
 
@@ -615,7 +615,7 @@ Bamboo raft:
 
 *Figure: How to work out the load from buoyancy, with the calculations for examples 1 and 2; the net buoyancy per bamboo pole is a rule of thumb*
 
-For the principle of buoyancy see [Physics – Buoyancy: Archimedes' principle](../../../docs/08-基础科学知识/02-物理.md#45-浮力-阿基米德原理).
+For the principle of buoyancy see [Physics – Buoyancy: Archimedes' principle](../08-basic-science/02-physics.md#45-buoyancy-archimedes-principle).
 
 ### Dugout canoes
 
@@ -728,7 +728,7 @@ Conclusions:
    deal of carrying
 ```
 
-For calculating work and power see [Physics – Work and power](../../../docs/08-基础科学知识/02-物理.md#31-功和功率).
+For calculating work and power see [Physics – Work and power](../08-basic-science/02-physics.md#31-work-and-power).
 
 ---
 

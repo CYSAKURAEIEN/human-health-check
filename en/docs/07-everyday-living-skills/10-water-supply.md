@@ -25,7 +25,7 @@ Three goals of water supply:
 3. Convenient: the further people walk for water, the less they use, and the worse hygiene gets
 ```
 
-For germ theory and intestinal infections see [Biology and Medicine Basics – Germ theory](../../../docs/08-基础科学知识/04-生物与医学基础.md#二病菌学说-改变人类命运的认识) and [Infectious Disease at Home – Diarrhoeal infections](../01-first-aid-and-family-health/15-infectious-disease-at-home.md#diarrhoeal-infections).
+For germ theory and intestinal infections see [Biology and Medicine Basics – Germ theory](../08-basic-science/04-biology-and-medical-basics.md#2-germ-theory-the-insight-that-changed-human-destiny) and [Infectious Disease at Home – Diarrhoeal infections](../01-first-aid-and-family-health/15-infectious-disease-at-home.md#diarrhoeal-infections).
 
 ---
 
@@ -75,7 +75,7 @@ Spring box (protecting the spring):
 5. Fence the uphill side to stop people and animals trampling it and fouling it with faeces
 ```
 
-For finding springs and groundwater see [Geology, Minerals and Soil – Groundwater](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#四地下水).
+For finding springs and groundwater see [Geology, Minerals and Soil – Groundwater](../08-basic-science/06-geology-minerals-and-soil.md#4-groundwater).
 
 ---
 
@@ -106,7 +106,7 @@ Safety rules:
   blow in air first and go down on a safety rope, or pull them up with a rope and hook
 ```
 
-For toxic gases see [Chemistry – Chemical safety](../../../docs/08-基础科学知识/03-化学.md#九化学安全).
+For toxic gases see [Chemistry – Chemical safety](../08-basic-science/03-chemistry.md#9-chemical-safety).
 
 ### Hand-dug wells
 
@@ -181,7 +181,7 @@ Key points:
 
 *Figure: The dirty water from the first few minutes of each rain flows into the first-flush container first, and only when it is full does water overflow into the tank; 1 mm of rain on 1 m² of roof is 1 L of water, so 20 mm of rain on a 50 m² roof collects about 800 L; still boil or disinfect before drinking*
 
-For measuring rainfall see [Weather Observation and Forecasting – Making your own observations](../../../docs/08-基础科学知识/07-天气观测与预报.md#六自己做观测).
+For measuring rainfall see [Weather Observation and Forecasting – Making your own observations](../08-basic-science/07-weather-observation-and-forecasting.md#6-making-your-own-observations).
 
 ---
 
@@ -282,7 +282,7 @@ Solar disinfection: put clear water in transparent plastic bottles and leave the
 - Covered channels and closed pipes stay cleaner than open channels
 ```
 
-For ways of finding level see [Measurement and Scientific Method – Finding level](../../../docs/08-基础科学知识/00-度量衡与科学方法.md#42-找水平).
+For ways of finding level see [Measurement and Scientific Method – Finding level](../08-basic-science/00-measurement-and-scientific-method.md#42-finding-the-level).
 
 ### Lifting water
 
@@ -305,7 +305,7 @@ Example: inflow 100 L per minute, fall 2 m, delivered to a height of 20 m
   → about 100 × 2 ÷ 20 × 0.6 = 6 L/min, about 8600 L a day
 ```
 
-For the principles of water power and atmospheric pressure see [Physics – Pressure and fluids](../../../docs/08-基础科学知识/02-物理.md#四压强与流体).
+For the principles of water power and atmospheric pressure see [Physics – Pressure and fluids](../08-basic-science/02-physics.md#4-pressure-and-fluids).
 
 ---
 

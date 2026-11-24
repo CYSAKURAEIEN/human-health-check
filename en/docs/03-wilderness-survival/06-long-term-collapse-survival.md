@@ -497,7 +497,7 @@ Common mistakes:
    vet and observe them according to the rules instead of refusing everyone
 ```
 
-For details of division of labour, rules, preventing unfairness and community records, see [Record-keeping, Trade and Division of Labour](../07-everyday-living-skills/13-record-keeping-trade-and-division-of-labour.md) (especially [Division of labour and cooperation](../07-everyday-living-skills/13-record-keeping-trade-and-division-of-labour.md#division-of-labour-and-cooperation), [Rules and decision-making](../07-everyday-living-skills/13-record-keeping-trade-and-division-of-labour.md#rules-and-decisions) and [Preventing mistakes and unfairness](../07-everyday-living-skills/13-record-keeping-trade-and-division-of-labour.md#preventing-errors-and-unfairness)); for the technology communities of different sizes can sustain, see [Technology Rebuilding Roadmap – What a small community can achieve](../../../docs/09-进阶科学与工程/00-技术重建路线图.md#六小社区能做到什么).
+For details of division of labour, rules, preventing unfairness and community records, see [Record-keeping, Trade and Division of Labour](../07-everyday-living-skills/13-record-keeping-trade-and-division-of-labour.md) (especially [Division of labour and cooperation](../07-everyday-living-skills/13-record-keeping-trade-and-division-of-labour.md#division-of-labour-and-cooperation), [Rules and decision-making](../07-everyday-living-skills/13-record-keeping-trade-and-division-of-labour.md#rules-and-decisions) and [Preventing mistakes and unfairness](../07-everyday-living-skills/13-record-keeping-trade-and-division-of-labour.md#preventing-errors-and-unfairness)); for the technology communities of different sizes can sustain, see [Technology Rebuilding Roadmap – What a small community can achieve](../09-advanced-science-and-engineering/00-technology-rebuilding-roadmap.md#6-what-a-small-community-can-achieve).
 
 ### Sustainable survival
 
@@ -546,7 +546,7 @@ For details of division of labour, rules, preventing unfairness and community re
   - Make several handwritten copies of important material and store them in separate places
 ```
 
-Related chapters: [Seed Saving and Breeding](../04-farming-and-animal-husbandry/08-seed-saving-and-breeding.md), [Sanitation – Using faeces and urine](../07-everyday-living-skills/03-sanitation.md#using-faeces-and-urine), [Livestock Keeping](../04-farming-and-animal-husbandry/06-livestock.md), [Teaching and Knowledge Preservation](../07-everyday-living-skills/12-education-and-knowledge-preservation.md), [Technology Rebuilding Roadmap – Knowledge and items to preserve first](../../../docs/09-进阶科学与工程/00-技术重建路线图.md#七优先保存的知识和物品), [Weather Observation and Forecasting](../../../docs/08-基础科学知识/07-天气观测与预报.md).
+Related chapters: [Seed Saving and Breeding](../04-farming-and-animal-husbandry/08-seed-saving-and-breeding.md), [Sanitation – Using faeces and urine](../07-everyday-living-skills/03-sanitation.md#using-faeces-and-urine), [Livestock Keeping](../04-farming-and-animal-husbandry/06-livestock.md), [Teaching and Knowledge Preservation](../07-everyday-living-skills/12-education-and-knowledge-preservation.md), [Technology Rebuilding Roadmap – Knowledge and items to preserve first](../09-advanced-science-and-engineering/00-technology-rebuilding-roadmap.md#7-knowledge-and-items-to-preserve-first), [Weather Observation and Forecasting](../08-basic-science/07-weather-observation-and-forecasting.md).
 
 ### Health
 
@@ -663,7 +663,7 @@ Long term:
   - Fear of radiation and uncertainty often affect more people than the radiation itself
 ```
 
-For the full procedure (steps for sheltering in place, evacuation, what to do in a nuclear explosion, what iodine tablets do and who must not take them), [Human-made Disasters – Nuclear radiation](../02-disaster-response/05-man-made-disasters.md#nuclear-radiation) is authoritative; for the physics of radiation dose, see [Modern Physics – Radiation dose](../../../docs/09-进阶科学与工程/06-现代物理.md#64-辐射剂量).
+For the full procedure (steps for sheltering in place, evacuation, what to do in a nuclear explosion, what iodine tablets do and who must not take them), [Human-made Disasters – Nuclear radiation](../02-disaster-response/05-man-made-disasters.md#nuclear-radiation) is authoritative; for the physics of radiation dose, see [Modern Physics – Radiation dose](../09-advanced-science-and-engineering/06-modern-physics.md#64-radiation-dose).
 
 ### Epidemics
 

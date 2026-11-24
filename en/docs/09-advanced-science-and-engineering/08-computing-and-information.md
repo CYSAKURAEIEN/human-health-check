@@ -20,7 +20,7 @@ and knowledge of computing principles and algorithms lets later generations walk
 this road again
 ```
 
-For the basics of binary see [Mathematics – Practical algorithms](../../../docs/08-基础科学知识/01-数学.md#十实用算法); for transistor and logic gate circuits see [Electrical Engineering and Electronics – Semiconductors and electronics](../../../docs/09-进阶科学与工程/02-电气工程与电子学.md#十半导体和电子学).
+For the basics of binary see [Mathematics – Practical algorithms](../08-basic-science/01-mathematics.md#10-practical-algorithms); for transistor and logic gate circuits see [Electrical Engineering and Electronics – Semiconductors and electronics](02-electrical-engineering-and-electronics.md#10-semiconductors-and-electronics).
 
 ---
 
@@ -56,7 +56,7 @@ Before electronic calculators became common, engineers and scientists designed
 bridges, aircraft and rockets with slide rules
 ```
 
-For the properties of logarithms see [Mathematics – Logarithms](../../../docs/08-基础科学知识/01-数学.md#73-对数).
+For the properties of logarithms see [Mathematics – Logarithms](../08-basic-science/01-mathematics.md#73-logarithms).
 
 ### 1.3 Tables
 
@@ -289,7 +289,7 @@ Record repeated content once, plus the number of repeats
 ⚠️ An error in compressed data affects a larger area
 ```
 
-For Morse code see [Electrical Engineering and Electronics – Morse code](../../../docs/09-进阶科学与工程/02-电气工程与电子学.md#82-莫尔斯电码).
+For Morse code see [Electrical Engineering and Electronics – Morse code](02-electrical-engineering-and-electronics.md#82-morse-code).
 
 ### 6.3 Error detection and correction
 
@@ -347,7 +347,7 @@ The same ideas work without electricity:
   relay posts passing messages on, numbered letters, asking for receipts and read-backs
 ```
 
-For emergency communication see [Emergency Communication and Family Tracing](../../../docs/02-灾难应对/06-应急通信与寻亲.md).
+For emergency communication see [Emergency Communication and Family Tracing](../02-disaster-response/06-emergency-communication-and-family-reunification.md).
 
 ---
 
@@ -374,18 +374,18 @@ So:
 ✓ Teach more people to read, write and do arithmetic: people are the longest-lasting storage
 ```
 
-For a list of books to preserve first see [Technology Rebuilding Roadmap – Knowledge and items to preserve first](../../../docs/09-进阶科学与工程/00-技术重建路线图.md#七优先保存的知识和物品).
+For a list of books to preserve first see [Technology Rebuilding Roadmap – Knowledge and items to preserve first](00-technology-rebuilding-roadmap.md#7-knowledge-and-items-to-preserve-first).
 
 ---
 
 ## Related chapters
 
-- ⏮️ [Electrical Engineering and Electronics](../../../docs/09-进阶科学与工程/02-电气工程与电子学.md) - transistors, logic gates, the telegraph
-- ⏮️ [Higher Mathematics](../../../docs/09-进阶科学与工程/04-高等数学.md) - series, numerical methods
-- ⏮️ [Advanced Biomedicine](../../../docs/09-进阶科学与工程/07-生物医学进阶.md)
-- ⏭️ [Advanced Celestial Navigation](../../../docs/09-进阶科学与工程/09-天文导航进阶.md)
-- 🔗 [Basic Science – Mathematics](../../../docs/08-基础科学知识/01-数学.md) - binary, logarithms
-- 🔗 [Technology Rebuilding Roadmap](../../../docs/09-进阶科学与工程/00-技术重建路线图.md) - where electronics fits in rebuilding
+- ⏮️ [Electrical Engineering and Electronics](02-electrical-engineering-and-electronics.md) - transistors, logic gates, the telegraph
+- ⏮️ [Higher Mathematics](04-higher-mathematics.md) - series, numerical methods
+- ⏮️ [Advanced Biomedicine](07-advanced-biomedicine.md)
+- ⏭️ [Advanced Celestial Navigation](09-celestial-navigation.md)
+- 🔗 [Basic Science – Mathematics](../08-basic-science/01-mathematics.md) - binary, logarithms
+- 🔗 [Technology Rebuilding Roadmap](00-technology-rebuilding-roadmap.md) - where electronics fits in rebuilding
 
 ---
 

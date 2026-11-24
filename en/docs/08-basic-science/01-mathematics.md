@@ -108,7 +108,7 @@ Dilution formula: concentration₁ × volume₁ = concentration₂ × volume₂
   V₁ = 10 mL of concentrate, topped up with water to 1 L
 ```
 
-For actually mixing "84" bleach (sodium hypochlorite) see [Infectious disease control at home – mixing household disinfectant](../../../docs/01-日常疾病和伤害/15-传染病家庭防控.md#家用消毒液的配制); for calculating concentrations chemically see [Chemistry – solutions and concentration](../../../docs/08-基础科学知识/03-化学.md#五溶液与浓度).
+For actually mixing "84" bleach (sodium hypochlorite) see [Infectious disease control at home – mixing household disinfectant](../01-first-aid-and-family-health/15-infectious-disease-at-home.md#making-household-disinfectant); for calculating concentrations chemically see [Chemistry – solutions and concentration](03-chemistry.md#5-solutions-and-concentration).
 
 ### 2.3 Map scale
 
@@ -387,7 +387,7 @@ Example: iodine-131 has a half-life of about 8 days;
   after 80 days (1/2)¹⁰ ≈ one thousandth is left
 ```
 
-For protection from nuclear radiation see [Man-made disasters](../../../docs/02-灾难应对/05-人为灾难.md).
+For protection from nuclear radiation see [Man-made disasters](../02-disaster-response/05-man-made-disasters.md).
 
 ### 7.3 Logarithms
 
@@ -562,8 +562,8 @@ Importance: a switch or a circuit has only two states, "on" and "off";
 
 - ⏮️ [Measurement and scientific method](00-measurement-and-scientific-method.md) - units, measuring, controlled experiments
 - ⏭️ [Physics](02-physics.md) - mathematics applied to mechanics, heat and electricity
-- ⏭️ [Chemistry](../../../docs/08-基础科学知识/03-化学.md) - chemical calculations, concentration
-- 🔗 [Long-term Housing](../../../docs/07-日常生活技能/05-长期住所.md) - measuring and calculating when building a house
+- ⏭️ [Chemistry](03-chemistry.md) - chemical calculations, concentration
+- 🔗 [Long-term Housing](../07-everyday-living-skills/05-long-term-shelter.md) - measuring and calculating when building a house
 
 ---
 

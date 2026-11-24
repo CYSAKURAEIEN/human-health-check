@@ -26,7 +26,7 @@ For knowledge to be passed on, you need three things:
 
 After a disaster and through long hard times, **children's learning must not stop**: regular lessons in themselves help children regain a sense of safety (see Mental Health), and after a few years without school a whole generation's literacy falls markedly.
 
-For psychological support see [Mental Health](../01-first-aid-and-family-health/10-mental-health.md); for the role of "people" in rebuilding technology see [Technology-Rebuilding Roadmap – People](../../../docs/09-进阶科学与工程/00-技术重建路线图.md#36-人).
+For psychological support see [Mental Health](../01-first-aid-and-family-health/10-mental-health.md); for the role of "people" in rebuilding technology see [Technology-Rebuilding Roadmap – People](../09-advanced-science-and-engineering/00-technology-rebuilding-roadmap.md#36-people).
 
 ---
 
@@ -108,7 +108,7 @@ Teaching adults:
 ✓ Estimate first, then calculate exactly, and check that the result is sensible
 ```
 
-For mathematics see [Mathematics](../../../docs/08-基础科学知识/01-数学.md); for the abacus see [Computing and Information – Abacus](../../../docs/09-进阶科学与工程/08-计算与信息.md#11-算盘).
+For mathematics see [Mathematics](../08-basic-science/01-mathematics.md); for the abacus see [Computing and Information – Abacus](../09-advanced-science-and-engineering/08-computing-and-information.md#11-the-abacus).
 
 ---
 
@@ -199,7 +199,7 @@ Recording experience:
 - Records of failures are just as important
 ```
 
-For record-keeping methods see [Measurement and Scientific Method – Recording](../../../docs/08-基础科学知识/00-度量衡与科学方法.md#13-记录).
+For record-keeping methods see [Measurement and Scientific Method – Recording](../08-basic-science/00-measurement-and-scientific-method.md#13-records).
 
 ---
 
@@ -229,7 +229,7 @@ Copying:
 ✓ Note on the copy: where it was copied from, who copied it, who checked it, and the date
 ```
 
-For making paper and ink see [Pottery, Glass and Papermaking – Papermaking](11-pottery-glass-and-papermaking.md#papermaking); for the lifespan of digital records see [Computing and Information – Preserving knowledge](../../../docs/09-进阶科学与工程/08-计算与信息.md#八保存知识-数字资料不可靠).
+For making paper and ink see [Pottery, Glass and Papermaking – Papermaking](11-pottery-glass-and-papermaking.md#papermaking); for the lifespan of digital records see [Computing and Information – Preserving knowledge](../09-advanced-science-and-engineering/08-computing-and-information.md#8-preserving-knowledge-digital-data-is-unreliable).
 
 ![Copying and preserving records: what to preserve first, copying and checking, storing in several places, protecting against damp and insects](../../images/knowledge-preservation.svg)
 

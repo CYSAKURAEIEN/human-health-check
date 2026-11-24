@@ -12,7 +12,7 @@
 - ☠️ Never store oxidisers (nitrates, chlorates, potassium permanganate, concentrated nitric acid, etc.) together with combustibles (oil, paper, sawdust, sulphur, carbon powder)
 - ✓ For any reaction you do not know well: read up first, test a small amount, wear protection and work outdoors
 
-For the basics see [Basic Science – Chemistry](../../../docs/08-基础科学知识/03-化学.md).
+For the basics see [Basic Science – Chemistry](../08-basic-science/03-chemistry.md).
 
 ---
 
@@ -121,7 +121,7 @@ with temperature on one chart (the Ellingham diagram) shows that:
   in which humans came to use metals
 ```
 
-For the reactivity series see [Chemistry – The reactivity series of metals](../../../docs/08-基础科学知识/03-化学.md#22-金属活动性顺序).
+For the reactivity series see [Chemistry – The reactivity series of metals](../08-basic-science/03-chemistry.md#22-the-reactivity-series-of-metals).
 
 ---
 
@@ -446,12 +446,12 @@ Oil refining: fractional distillation by boiling point into petrol, kerosene, di
 
 ## Related chapters
 
-- ⏮️ [Basic Science – Chemistry](../../../docs/08-基础科学知识/03-化学.md) - background for this chapter
-- ⏮️ [Higher Mathematics](../../../docs/09-进阶科学与工程/04-高等数学.md) - calculations on equilibrium and rates
-- ⏭️ [Modern Physics](../../../docs/09-进阶科学与工程/06-现代物理.md) - the physical basis of atomic structure
-- 🔗 [Technology Rebuilding Roadmap](../../../docs/09-进阶科学与工程/00-技术重建路线图.md) - where the chemical industry fits in rebuilding technology
-- 🔗 [Metallurgy](../../../docs/05-冶金技术/README.md) - the chemistry behind smelting
-- 🔗 [Pharmaceuticals](../../../docs/06-制药技术/README.md) - extraction and purification
+- ⏮️ [Basic Science – Chemistry](../08-basic-science/03-chemistry.md) - background for this chapter
+- ⏮️ [Higher Mathematics](04-higher-mathematics.md) - calculations on equilibrium and rates
+- ⏭️ [Modern Physics](06-modern-physics.md) - the physical basis of atomic structure
+- 🔗 [Technology Rebuilding Roadmap](00-technology-rebuilding-roadmap.md) - where the chemical industry fits in rebuilding technology
+- 🔗 [Metallurgy](../05-metallurgy/README.md) - the chemistry behind smelting
+- 🔗 [Pharmaceuticals](../06-pharmaceuticals/README.md) - extraction and purification
 
 ---
 

@@ -4,7 +4,7 @@
 
 ## ⚠️ What this chapter covers
 
-This chapter carries on from [Basic Science – Mathematics](../../../docs/08-基础科学知识/01-数学.md) and roughly matches the first-year university mathematics course for science and engineering students. The focus is on **methods and uses**, and every section comes with examples you can work out by hand.
+This chapter carries on from [Basic Science – Mathematics](../08-basic-science/01-mathematics.md) and roughly matches the first-year university mathematics course for science and engineering students. The focus is on **methods and uses**, and every section comes with examples you can work out by hand.
 
 ```
 Quick guide to uses:
@@ -276,7 +276,7 @@ Conclusions:
   Example: with R₀ = 4, about 75% of people need to be immune
 ```
 
-For the related concepts see [Biology and Medicine Basics – Basic epidemiology](../../../docs/08-基础科学知识/04-生物与医学基础.md#九流行病学基础).
+For the related concepts see [Biology and Medicine Basics – Basic epidemiology](../08-basic-science/04-biology-and-medical-basics.md#9-basics-of-epidemiology).
 
 ### 5.6 Euler's method: solving numerically step by step
 
@@ -316,7 +316,7 @@ Uses:
 - Calculations on oscillations and waves
 ```
 
-For AC circuits see [Electrical Engineering and Electronics – Alternating current](../../../docs/09-进阶科学与工程/02-电气工程与电子学.md#二交流电).
+For AC circuits see [Electrical Engineering and Electronics – Alternating current](02-electrical-engineering-and-electronics.md#2-alternating-current).
 
 ---
 
@@ -471,17 +471,17 @@ Example: two seed varieties, each sown on 10 plots, average 3900 kg/ha and 3600 
 ❌ Too small a sample: even a method that really works may show no difference
 ```
 
-For the basic idea of controlled experiments see [Measurement and the Scientific Method – The scientific method](../../../docs/08-基础科学知识/00-度量衡与科学方法.md#一科学方法).
+For the basic idea of controlled experiments see [Measurement and the Scientific Method – The scientific method](../08-basic-science/00-measurement-and-scientific-method.md#1-the-scientific-method).
 
 ---
 
 ## Related chapters
 
-- ⏮️ [Basic Science – Mathematics](../../../docs/08-基础科学知识/01-数学.md) - background for this chapter
-- ⏮️ [Engineering Mechanics and Materials](../../../docs/09-进阶科学与工程/01-工程力学与材料.md) - calculations for beams, buckling and so on
-- ⏮️ [Electrical Engineering and Electronics](../../../docs/09-进阶科学与工程/02-电气工程与电子学.md) - AC circuits need complex numbers
-- ⏭️ [Advanced Chemistry](../../../docs/09-进阶科学与工程/05-化学进阶.md)
-- ⏭️ [Modern Physics](../../../docs/09-进阶科学与工程/06-现代物理.md)
+- ⏮️ [Basic Science – Mathematics](../08-basic-science/01-mathematics.md) - background for this chapter
+- ⏮️ [Engineering Mechanics and Materials](01-engineering-mechanics-and-materials.md) - calculations for beams, buckling and so on
+- ⏮️ [Electrical Engineering and Electronics](02-electrical-engineering-and-electronics.md) - AC circuits need complex numbers
+- ⏭️ [Advanced Chemistry](05-advanced-chemistry.md)
+- ⏭️ [Modern Physics](06-modern-physics.md)
 
 ---
 

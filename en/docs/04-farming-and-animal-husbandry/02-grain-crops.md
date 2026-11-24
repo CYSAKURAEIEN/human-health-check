@@ -36,7 +36,7 @@ Rules for choosing crops:
   without a stone mill or roller, maize, potato and sweet potato are easier to eat directly
 ```
 
-To judge soil quality, see [Geology, minerals and soil - Soil fertility](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#54-土壤肥力). For frost dates and the farming calendar, see [Weather observation and forecasting - Frost](../../../docs/08-基础科学知识/07-天气观测与预报.md#五霜冻) and [Physics - Calendars](../../../docs/08-基础科学知识/02-物理.md#92-历法) (the 24 solar terms).
+To judge soil quality, see [Geology, minerals and soil - Soil fertility](../08-basic-science/06-geology-minerals-and-soil.md#54-soil-fertility). For frost dates and the farming calendar, see [Weather observation and forecasting - Frost](../08-basic-science/07-weather-observation-and-forecasting.md#5-frost) and [Physics - Calendars](../08-basic-science/02-physics.md#92-calendars) (the 24 solar terms).
 
 ---
 
@@ -1101,7 +1101,7 @@ Conditions for good nodules:
 ✓ Well-aerated soil, not waterlogged for long
 ```
 
-For improving acid soil, see [Lime and building materials - Improving acid soil](../07-everyday-living-skills/16-lime-and-building-materials.md#improving-acid-soil); for testing acidity, see [Geology, minerals and soil - Acidity and alkalinity](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#53-酸碱性).
+For improving acid soil, see [Lime and building materials - Improving acid soil](../07-everyday-living-skills/16-lime-and-building-materials.md#improving-acid-soil); for testing acidity, see [Geology, minerals and soil - Acidity and alkalinity](../08-basic-science/06-geology-minerals-and-soil.md#53-acidity-and-alkalinity).
 
 ```
 Pests, diseases and continuous cropping:
@@ -1357,7 +1357,7 @@ Common combinations:
   growing either alone
 ```
 
-For the reasons behind rotation, see [Biology and medicine basics - Biology in agriculture](../../../docs/08-基础科学知识/04-生物与医学基础.md#82-农业中的生物学).
+For the reasons behind rotation, see [Biology and medicine basics - Biology in agriculture](../08-basic-science/04-biology-and-medical-basics.md#82-biology-in-farming).
 
 ### Fertilising and soil fertility
 
@@ -1391,7 +1391,7 @@ Reading leaf colour to find what is lacking:
 - Acid soil (many crops grow poorly, beans have few nodules) → spread lime to improve it
 ```
 
-For the safe use of human waste, see [Sanitation - Using faeces and urine](../07-everyday-living-skills/03-sanitation.md#using-faeces-and-urine); for how to make compost, see [Farming and animal husbandry - Soil improvement](README.md#improving-soil); for liming soil, see [Lime and building materials - Improving acid soil](../07-everyday-living-skills/16-lime-and-building-materials.md#improving-acid-soil); for the chemistry of nitrogen fertiliser, see [Chemistry - Nitrogen fertiliser and ammonia synthesis](../../../docs/08-基础科学知识/03-化学.md#410-氮肥和合成氨); for soil conservation, see [Geology, minerals and soil - Protecting the soil](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#55-保护土壤).
+For the safe use of human waste, see [Sanitation - Using faeces and urine](../07-everyday-living-skills/03-sanitation.md#using-faeces-and-urine); for how to make compost, see [Farming and animal husbandry - Soil improvement](README.md#improving-soil); for liming soil, see [Lime and building materials - Improving acid soil](../07-everyday-living-skills/16-lime-and-building-materials.md#improving-acid-soil); for the chemistry of nitrogen fertiliser, see [Chemistry - Nitrogen fertiliser and ammonia synthesis](../08-basic-science/03-chemistry.md#410-nitrogen-fertiliser-and-ammonia-synthesis); for soil conservation, see [Geology, minerals and soil - Protecting the soil](../08-basic-science/06-geology-minerals-and-soil.md#55-protecting-the-soil).
 
 ### Principles of pest and disease control
 

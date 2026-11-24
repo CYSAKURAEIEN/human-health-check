@@ -21,7 +21,7 @@ Note:
   astronomical tables and a great deal of practice
 ```
 
-For basic ways of finding direction see [Basic Survival Skills – Navigation and orientation](../../../docs/03-野外生存/00-基础生存技能.md#导航与定向); for the basics of the seasons, the calendar and measuring latitude see [Physics – Astronomy and the Earth](../../../docs/08-基础科学知识/02-物理.md#九天文与地球).
+For basic ways of finding direction see [Basic Survival Skills – Navigation and orientation](../03-wilderness-survival/00-basic-survival-skills.md#navigation-and-orientation); for the basics of the seasons, the calendar and measuring latitude see [Physics – Astronomy and the Earth](../08-basic-science/02-physics.md#9-astronomy-and-the-earth).
 
 ---
 
@@ -277,7 +277,7 @@ At sea: throw a board tied to a line knotted at equal intervals into the sea and
    celestial bodies at every leg whenever you can
 ```
 
-For pacing see [Measurement and the Scientific Method – Estimating distance](../../../docs/08-基础科学知识/00-度量衡与科学方法.md#44-估算距离).
+For pacing see [Measurement and the Scientific Method – Estimating distance](../08-basic-science/00-measurement-and-scientific-method.md#44-estimating-distance).
 
 ---
 
@@ -396,12 +396,12 @@ Saros cycle: about 18 years 11 days; eclipses repeat roughly on this cycle
 
 ## Related chapters
 
-- ⏮️ [Computing and Information](../../../docs/09-进阶科学与工程/08-计算与信息.md)
-- ⏮️ [Higher Mathematics](../../../docs/09-进阶科学与工程/04-高等数学.md) - trigonometric functions, series
-- ⏮️ [Modern Physics](../../../docs/09-进阶科学与工程/06-现代物理.md) - spectra, stars
-- 🔗 [Physics – Astronomy and the Earth](../../../docs/08-基础科学知识/02-物理.md#九天文与地球) - basics of the seasons, the calendar and measuring latitude
-- 🔗 [Trip Preparation and Calling for Rescue – Reading maps and contour lines](../../../docs/03-野外生存/07-户外出行准备与求救.md#看懂地图和等高线)
-- 🔗 [Technology Rebuilding Roadmap](../../../docs/09-进阶科学与工程/00-技术重建路线图.md)
+- ⏮️ [Computing and Information](08-computing-and-information.md)
+- ⏮️ [Higher Mathematics](04-higher-mathematics.md) - trigonometric functions, series
+- ⏮️ [Modern Physics](06-modern-physics.md) - spectra, stars
+- 🔗 [Physics – Astronomy and the Earth](../08-basic-science/02-physics.md#9-astronomy-and-the-earth) - basics of the seasons, the calendar and measuring latitude
+- 🔗 [Trip Preparation and Calling for Rescue – Reading maps and contour lines](../03-wilderness-survival/07-trip-preparation-and-calling-for-help.md#reading-maps-and-contour-lines)
+- 🔗 [Technology Rebuilding Roadmap](00-technology-rebuilding-roadmap.md)
 
 ---
 

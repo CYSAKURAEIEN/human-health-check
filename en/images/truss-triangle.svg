@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 864" width="720" height="864" role="img" aria-label="Triangles and trusses: the triangle is the only polygon whose shape cannot change as long as its side lengths stay the same; a four-sided frame turns into a parallelogram with one push; add one diagonal brace to split it into two triangles and it becomes stable. A truss is a structure made of many triangles (roof trusses, bridge trusses, towers); its members are only in tension or only in compression, never in bending, so thin members can span a long distance; the joints must be firmly connected; in the simplest triangular roof truss loaded from the top, the two diagonals are in compression and the bottom tie is in tension, holding the two feet so that the truss cannot spread outwards. Brace the wall frames and roof frames of timber houses; add triangular blocks in the corners of door frames and wooden boxes" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Triangles and trusses</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<marker id="arK" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#333"/></marker>
+<pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="8" height="8" fill="#e6e6e6"/><line x1="0" y1="0" x2="0" y2="8" stroke="#999" stroke-width="2"/></pattern>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Triangles and trusses: a triangle keeps its shape</text>
+
+<!-- 1 four-sided frame and triangle -->
+<rect x="10" y="44" width="700" height="292" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="70" font-size="15" font-weight="bold">① The triangle is the only polygon whose shape cannot change</text>
+<text x="48" y="89" font-size="15" font-weight="bold">as long as its side lengths stay the same</text>
+<g transform="translate(0,18)">
+<line x1="243" y1="86" x2="243" y2="300" stroke="#ddd" stroke-width="1.5"/>
+<line x1="477" y1="86" x2="477" y2="300" stroke="#ddd" stroke-width="1.5"/>
+<g fill="url(#hatch)" stroke="#999" stroke-width="1"><rect x="50" y="240" width="160" height="10"/><rect x="284" y="240" width="152" height="10"/><rect x="518" y="240" width="152" height="10"/></g>
+<!-- four-sided frame -->
+<path d="M66,240 V120 H186 V240" fill="none" stroke="#999" stroke-width="2" stroke-dasharray="5 4"/>
+<path d="M66,240 L107,127 H227 L186,240" fill="none" stroke="#8f6d2e" stroke-width="5" stroke-linejoin="round"/>
+<g fill="#fff" stroke="#333" stroke-width="2"><circle cx="66" cy="240" r="5"/><circle cx="186" cy="240" r="5"/><circle cx="107" cy="127" r="5"/><circle cx="227" cy="127" r="5"/></g>
+<path d="M28,110 H90" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<text x="28" y="100" font-size="14" font-weight="bold" fill="#c33">push</text>
+<text x="126" y="274" font-size="15" font-weight="bold" text-anchor="middle" fill="#c33">✗ Four-sided frame</text>
+<text x="126" y="293" font-size="14" text-anchor="middle">one push turns it</text>
+<text x="126" y="311" font-size="14" text-anchor="middle">into a parallelogram</text>
+<!-- triangle -->
+<path d="M300,240 L360,136 L420,240 Z" fill="none" stroke="#8f6d2e" stroke-width="5" stroke-linejoin="round"/>
+<g fill="#fff" stroke="#333" stroke-width="2"><circle cx="300" cy="240" r="5"/><circle cx="420" cy="240" r="5"/><circle cx="360" cy="136" r="5"/></g>
+<path d="M290,124 H346" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<text x="290" y="114" font-size="14" font-weight="bold" fill="#c33">push</text>
+<text x="360" y="274" font-size="15" font-weight="bold" text-anchor="middle" fill="#2a7a2a">✓ Triangle</text>
+<text x="360" y="293" font-size="14" text-anchor="middle">sides keep their length,</text>
+<text x="360" y="311" font-size="14" text-anchor="middle">so the shape holds</text>
+<!-- add a brace -->
+<path d="M534,240 V120 H654 V240 Z" fill="none" stroke="#8f6d2e" stroke-width="5" stroke-linejoin="round"/>
+<path d="M534,240 L654,120" stroke="#c33" stroke-width="5"/>
+<g fill="#fff" stroke="#333" stroke-width="2"><circle cx="534" cy="240" r="5"/><circle cx="654" cy="240" r="5"/><circle cx="534" cy="120" r="5"/><circle cx="654" cy="120" r="5"/></g>
+<path d="M484,104 H528" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<text x="484" y="96" font-size="14" font-weight="bold" fill="#c33">push</text>
+<text x="604" y="198" font-size="14" font-weight="bold" fill="#c33">brace</text>
+<text x="594" y="274" font-size="15" font-weight="bold" text-anchor="middle" fill="#2a7a2a">✓ Add one diagonal brace</text>
+<text x="594" y="293" font-size="14" text-anchor="middle">it splits into two</text>
+<text x="594" y="311" font-size="14" text-anchor="middle">triangles: now stable</text>
+
+<!-- 2 trusses -->
+<rect x="10" y="324" width="700" height="306" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="350" font-size="16" font-weight="bold">② Truss: a structure made of many triangles (roofs, bridges, towers)</text>
+<line x1="360" y1="366" x2="360" y2="560" stroke="#ddd" stroke-width="1.5"/>
+<!-- roof truss -->
+<g fill="#ddd" stroke="#333" stroke-width="1.5"><path d="M60,524 L48,546 H72 Z"/><path d="M320,524 L308,546 H332 Z"/></g>
+<path d="M60,520 L190,420 L320,520" fill="none" stroke="#c33" stroke-width="6" stroke-linejoin="round"/>
+<path d="M60,520 H320" stroke="#0b5cad" stroke-width="6"/>
+<g fill="#fff" stroke="#333" stroke-width="2"><circle cx="60" cy="520" r="5"/><circle cx="320" cy="520" r="5"/><circle cx="190" cy="420" r="5"/></g>
+<path d="M190,370 V410" stroke="#333" stroke-width="3" marker-end="url(#arK)"/>
+<text x="200" y="384" font-size="14" font-weight="bold">load</text>
+<g stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"><path d="M68.4,493.3 L102.2,467.3"/><path d="M162.0,421.3 L128.2,447.3"/><path d="M218.0,421.3 L251.8,447.3"/><path d="M311.6,493.3 L277.8,467.3"/></g>
+<g stroke="#0b5cad" stroke-width="2.5" marker-end="url(#arB)"><path d="M170,504 H104"/><path d="M210,504 H276"/></g>
+<text x="150" y="402" font-size="13" font-weight="bold" fill="#c33" text-anchor="end">diagonal</text>
+<text x="150" y="418" font-size="13" font-weight="bold" fill="#c33" text-anchor="end">in compression</text>
+<text x="232" y="402" font-size="13" font-weight="bold" fill="#c33">diagonal</text>
+<text x="232" y="418" font-size="13" font-weight="bold" fill="#c33">in compression</text>
+<text x="190" y="572" font-size="14" font-weight="bold" fill="#0b5cad" text-anchor="middle">bottom tie in tension</text>
+<text x="190" y="590" font-size="13" text-anchor="middle" fill="#555">(holds the two feet so the truss</text>
+<text x="190" y="606" font-size="13" text-anchor="middle" fill="#555">cannot spread outwards)</text>
+<!-- bridge truss -->
+<g fill="#ddd" stroke="#333" stroke-width="1.5"><path d="M400,524 L388,546 H412 Z"/><path d="M690,524 L678,546 H702 Z"/></g>
+<path d="M400,520 H690 M436,440 H654 M400,520 L436,440 L472.5,520 L508.75,440 L545,520 L581.25,440 L617.5,520 L653.75,440 L690,520" fill="none" stroke="#8f6d2e" stroke-width="4" stroke-linejoin="round"/>
+<g fill="#fff" stroke="#333" stroke-width="2"><circle cx="400" cy="520" r="4.5"/><circle cx="472.5" cy="520" r="4.5"/><circle cx="545" cy="520" r="4.5"/><circle cx="617.5" cy="520" r="4.5"/><circle cx="690" cy="520" r="4.5"/><circle cx="436" cy="440" r="4.5"/><circle cx="508.75" cy="440" r="4.5"/><circle cx="581.25" cy="440" r="4.5"/><circle cx="653.75" cy="440" r="4.5"/></g>
+<text x="545" y="394" font-size="14" text-anchor="middle">bridge truss: many triangles joined</text>
+<path d="M596,416 L585,436" stroke="#555" stroke-width="1"/>
+<text x="572" y="414" font-size="14">joints must be firm</text>
+<text x="545" y="572" font-size="14" text-anchor="middle">members carry only tension or</text>
+<text x="545" y="590" font-size="14" text-anchor="middle">only compression, never bending</text>
+<text x="545" y="608" font-size="14" text-anchor="middle">→ thin members can span a long way</text>
+
+<g transform="translate(0,16)">
+<!-- 3 in practice -->
+<rect x="10" y="626" width="700" height="194" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="652" font-size="16" font-weight="bold">③ In practice</text>
+<path d="M50,760 H330" stroke="#999" stroke-width="3"/>
+<g fill="#d9c29a" stroke="#333" stroke-width="2">
+<rect x="60" y="672" width="260" height="10"/><rect x="60" y="746" width="260" height="10"/>
+<rect x="60" y="682" width="10" height="64"/><rect x="185" y="682" width="10" height="64"/><rect x="310" y="682" width="10" height="64"/>
+</g>
+<path d="M72,744 L183,684 M308,744 L197,684" stroke="#c33" stroke-width="6"/>
+<text x="190" y="786" font-size="14" text-anchor="middle">Timber houses: brace every</text>
+<text x="190" y="804" font-size="14" text-anchor="middle">wall frame and roof frame</text>
+<g fill="#d9c29a" stroke="#333" stroke-width="2">
+<rect x="450" y="672" width="180" height="12"/><rect x="450" y="684" width="12" height="76"/><rect x="618" y="684" width="12" height="76"/>
+<path d="M462,684 H500 L462,722 Z" fill="#e9b8b8"/><path d="M618,684 H580 L618,722 Z" fill="#e9b8b8"/>
+</g>
+<text x="540" y="786" font-size="14" text-anchor="middle">Add triangular blocks in the corners</text>
+<text x="540" y="804" font-size="14" text-anchor="middle">of door frames and wooden boxes</text>
+</g>
+</g>
+</g>
+</svg>

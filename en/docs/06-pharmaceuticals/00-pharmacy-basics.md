@@ -265,8 +265,8 @@ Steps:
 
 **When you have no accurate weighing equipment:**
 - Wherever possible, use stored ready-made medicines and give them by the strength on the original packaging (mg per tablet). This is more reliable than any home-made weighing
-- Do not try to weigh milligram-level medicines yourself; for how to make a balance and weights, the accuracy they can reach and the sources of error, see [Rebuilding measurement standards – factors affecting accuracy](../../../docs/08-基础科学知识/09-计量基准的重建.md#41-影响精度的因素) and [how accurate you can be](../../../docs/08-基础科学知识/09-计量基准的重建.md#43-能做到多准)
-- A balance can be checked against the net weight of unopened packaged food or medicines; see [Rebuilding measurement standards – mass and volume](../../../docs/08-基础科学知识/09-计量基准的重建.md#62-质量和容积)
+- Do not try to weigh milligram-level medicines yourself; for how to make a balance and weights, the accuracy they can reach and the sources of error, see [Rebuilding measurement standards – factors affecting accuracy](../08-basic-science/09-rebuilding-measurement-standards.md#41-what-affects-accuracy) and [how accurate you can be](../08-basic-science/09-rebuilding-measurement-standards.md#43-how-accurate-it-can-be)
+- A balance can be checked against the net weight of unopened packaged food or medicines; see [Rebuilding measurement standards – mass and volume](../08-basic-science/09-rebuilding-measurement-standards.md#62-mass-and-volume)
 
 ![Dose units, how to write doses, converting liquid medicines from milligrams to millilitres, choosing a measuring device, and whether tablets can be split](../../images/dose-units-measuring.svg)
 
@@ -1098,7 +1098,7 @@ For the specific criteria for seeing a doctor for common illnesses, see the "whe
 - 🔗 [Farming and Animal Husbandry – Medicinal plants](../04-farming-and-animal-husbandry/04-medicinal-plants.md) - where the raw materials come from
 - 🔗 [Chronic medication stockpile](../01-first-aid-and-family-health/08-chronic-medication-stockpile.md) - stockpiling, refrigerated medicines, medication card
 - 🔗 [Poisoning](../01-first-aid-and-family-health/12-poisoning.md) - dealing with drug overdose and accidental swallowing
-- 🔗 [Rebuilding measurement standards](../../../docs/08-基础科学知识/09-计量基准的重建.md) - balances, weights and weighing errors
+- 🔗 [Rebuilding measurement standards](../08-basic-science/09-rebuilding-measurement-standards.md) - balances, weights and weighing errors
 
 ---
 

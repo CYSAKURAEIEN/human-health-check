@@ -4,7 +4,7 @@
 
 ## ⚠️ What this chapter covers
 
-[Measurement and the Scientific Method](../../../docs/08-基础科学知识/00-度量衡与科学方法.md#四没有仪器时的测量) covered single techniques such as setting out a right angle, finding level and measuring height. This chapter links them together: how to fix the position of a distant point (triangulation), how to measure the height difference between two places (levelling), how to draw a map, and how to measure land and record boundaries.
+[Measurement and the Scientific Method](00-measurement-and-scientific-method.md#4-measuring-without-instruments) covered single techniques such as setting out a right angle, finding level and measuring height. This chapter links them together: how to fix the position of a distant point (triangulation), how to measure the height difference between two places (levelling), how to draw a map, and how to measure land and record boundaries.
 
 ```
 ⚠️ Safety and care:
@@ -15,7 +15,7 @@
   and confirm and sign the results on the spot
 ```
 
-The mathematics you need: [Scale](../../../docs/08-基础科学知识/01-数学.md#23-比例尺), [Pythagoras' theorem and area](../../../docs/08-基础科学知识/01-数学.md#四几何), [Trigonometric functions](../../../docs/08-基础科学知识/01-数学.md#五三角函数).
+The mathematics you need: [Scale](01-mathematics.md#23-map-scale), [Pythagoras' theorem and area](01-mathematics.md#4-geometry), [Trigonometric functions](01-mathematics.md#5-trigonometry).
 
 ---
 
@@ -72,7 +72,7 @@ Measuring elevation angle: use a quadrant – a quarter-circle scale with a plum
   from it (see Advanced Celestial Navigation – angle-measuring instruments)
 ```
 
-For magnetic declination see [Advanced Celestial Navigation – Magnetic declination](../../../docs/09-进阶科学与工程/09-天文导航进阶.md#24-磁偏角); for the quadrant see [Advanced Celestial Navigation – Angle-measuring instruments](../../../docs/09-进阶科学与工程/09-天文导航进阶.md#五测角仪器).
+For magnetic declination see [Advanced Celestial Navigation – Magnetic declination](../09-advanced-science-and-engineering/09-celestial-navigation.md#24-magnetic-declination); for the quadrant see [Advanced Celestial Navigation – Angle-measuring instruments](../09-advanced-science-and-engineering/09-celestial-navigation.md#5-angle-measuring-instruments).
 
 ### 1.4 Finding level
 
@@ -112,7 +112,7 @@ Using trigonometry (needs an angle-measuring instrument):
   Example: AB = 50 m, ∠A = 40°, tan 40° ≈ 0.839 → BC ≈ 42 m
 ```
 
-For the basic methods of measuring river width and tree height see [Measurement and the Scientific Method – Measuring height and width](../../../docs/08-基础科学知识/00-度量衡与科学方法.md#43-测高度和宽度).
+For the basic methods of measuring river width and tree height see [Measurement and the Scientific Method – Measuring height and width](00-measurement-and-scientific-method.md#43-measuring-heights-and-widths).
 
 ### 2.2 Measuring height
 
@@ -248,7 +248,7 @@ Steps for setting the gradient:
 5. Let water in as a test, find where it ponds or scours, and correct those places
 ```
 
-For how to bring water in see [Water Supply Engineering – Conveying and lifting water](../../../docs/07-日常生活技能/10-水源工程与供水.md#输水和提水).
+For how to bring water in see [Water Supply Engineering – Conveying and lifting water](../07-everyday-living-skills/10-water-supply.md#carrying-and-lifting-water).
 
 ---
 
@@ -265,7 +265,7 @@ Every map must have:
 ✓ Contour lines (when the terrain needs to be shown)
 ```
 
-For converting scales see [Mathematics – Scale](../../../docs/08-基础科学知识/01-数学.md#23-比例尺); for reading maps and contour lines see [Trip Preparation and Calling for Help – Reading maps and contour lines](../../../docs/03-野外生存/07-户外出行准备与求救.md#看懂地图和等高线).
+For converting scales see [Mathematics – Scale](01-mathematics.md#23-map-scale); for reading maps and contour lines see [Trip Preparation and Calling for Help – Reading maps and contour lines](../03-wilderness-survival/07-trip-preparation-and-calling-for-help.md#reading-maps-and-contour-lines).
 
 ### 5.2 Traversing: mapping along a route
 
@@ -314,7 +314,7 @@ Example: starting from (0, 0), bearing 30°, distance 100 m
 Latitude and longitude: found by astronomical methods (see Advanced Celestial Navigation)
 ```
 
-For measuring latitude and longitude see [Advanced Celestial Navigation – Measuring latitude](../../../docs/09-进阶科学与工程/09-天文导航进阶.md#三测纬度); for the mathematics of coordinates see [Mathematics – Coordinates](../../../docs/08-基础科学知识/01-数学.md#61-坐标).
+For measuring latitude and longitude see [Advanced Celestial Navigation – Measuring latitude](../09-advanced-science-and-engineering/09-celestial-navigation.md#3-measuring-latitude); for the mathematics of coordinates see [Mathematics – Coordinates](01-mathematics.md#61-coordinates).
 
 ---
 
@@ -348,7 +348,7 @@ Sloping land: state clearly whether horizontal distance or distance along the sl
 and agree on one method for everyone
 ```
 
-For area formulas see [Mathematics – Area formulas](../../../docs/08-基础科学知识/01-数学.md#44-面积公式).
+For area formulas see [Mathematics – Area formulas](01-mathematics.md#44-area-formulas).
 
 ### 6.2 Marking boundaries
 
@@ -376,7 +376,7 @@ Plot record (one page per plot):
 ✓ In a dispute, look for the boundary markers and the records first, rather than relying on memory
 ```
 
-For community records see [Record-Keeping, Trade and Division of Labour – Community records](../../../docs/07-日常生活技能/13-记账交易与社会分工.md#社区档案).
+For community records see [Record-Keeping, Trade and Division of Labour – Community records](../07-everyday-living-skills/13-record-keeping-trade-and-division-of-labour.md#community-records).
 
 ---
 
@@ -392,7 +392,7 @@ For community records see [Record-Keeping, Trade and Division of Labour – Comm
 | Finding a place again (water source, store, ore site) | Coordinates, bearing and distance |
 | Measuring bridge spans and river widths | Trigonometry |
 
-For terraces and contour planting see [Geology, Minerals and Soil – Protecting the soil](06-geology-minerals-and-soil.md#55-protecting-the-soil); for setting out a house see [Long-Term Housing](../../../docs/07-日常生活技能/05-长期住所.md).
+For terraces and contour planting see [Geology, Minerals and Soil – Protecting the soil](06-geology-minerals-and-soil.md#55-protecting-the-soil); for setting out a house see [Long-Term Housing](../07-everyday-living-skills/05-long-term-shelter.md).
 
 ---
 
@@ -400,11 +400,11 @@ For terraces and contour planting see [Geology, Minerals and Soil – Protecting
 
 - ⏮️ [Weather Observation and Forecasting](07-weather-observation-and-forecasting.md)
 - ⏭️ [Rebuilding Measurement Standards](09-rebuilding-measurement-standards.md)
-- 🔗 [Measurement and the Scientific Method](../../../docs/08-基础科学知识/00-度量衡与科学方法.md) - units, right angles, level, measuring height
-- 🔗 [Mathematics](../../../docs/08-基础科学知识/01-数学.md) - trigonometry, coordinates, area
-- 🔗 [Advanced Celestial Navigation](../../../docs/09-进阶科学与工程/09-天文导航进阶.md) - finding direction, measuring latitude and longitude, angle-measuring instruments
-- 🔗 [Water Supply Engineering](../../../docs/07-日常生活技能/10-水源工程与供水.md) - irrigation channels
-- 🔗 [Trip Preparation and Calling for Help](../../../docs/03-野外生存/07-户外出行准备与求救.md) - reading maps, using a compass
+- 🔗 [Measurement and the Scientific Method](00-measurement-and-scientific-method.md) - units, right angles, level, measuring height
+- 🔗 [Mathematics](01-mathematics.md) - trigonometry, coordinates, area
+- 🔗 [Advanced Celestial Navigation](../09-advanced-science-and-engineering/09-celestial-navigation.md) - finding direction, measuring latitude and longitude, angle-measuring instruments
+- 🔗 [Water Supply Engineering](../07-everyday-living-skills/10-water-supply.md) - irrigation channels
+- 🔗 [Trip Preparation and Calling for Help](../03-wilderness-survival/07-trip-preparation-and-calling-for-help.md) - reading maps, using a compass
 
 ---
 

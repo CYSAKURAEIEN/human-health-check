@@ -692,7 +692,7 @@ High-risk areas:
 - Earthquake-hit areas
 ```
 
-How to recognise a "debris-flow gully": at the mouth of the gully there is a fan-shaped deposit of mud and rock (an alluvial fan) with stones of all sizes jumbled together; there are huge boulders in the gully bed; tree trunks on both banks have scars where mud and rock have scraped them. For how to read the landscape see [Geology, minerals and soil – Reading landforms and strata](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#六读懂地形和地层).
+How to recognise a "debris-flow gully": at the mouth of the gully there is a fan-shaped deposit of mud and rock (an alluvial fan) with stones of all sizes jumbled together; there are huge boulders in the gully bed; tree trunks on both banks have scars where mud and rock have scraped them. For how to read the landscape see [Geology, minerals and soil – Reading landforms and strata](../08-basic-science/06-geology-minerals-and-soil.md#6-reading-landforms-and-rock-layers).
 
 **Avoid**:
 - Do not linger in gullies during heavy rain
@@ -849,7 +849,7 @@ Houses and use of sloping land:
 ✓ Plant deep-rooted trees and grasses on the slope; do not cut and dig at random
 ```
 
-Also note that **not every steep slope is dangerous, and not every gentle slope is safe**: gentle slopes with loose soil, seeping water or a weak layer underneath can slide too. For judging slopes and soil see [Geology, minerals and soil – Reading landforms and strata](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#六读懂地形和地层).
+Also note that **not every steep slope is dangerous, and not every gentle slope is safe**: gentle slopes with loose soil, seeping water or a weak layer underneath can slide too. For judging slopes and soil see [Geology, minerals and soil – Reading landforms and strata](../08-basic-science/06-geology-minerals-and-soil.md#6-reading-landforms-and-rock-layers).
 
 #### When it happens
 

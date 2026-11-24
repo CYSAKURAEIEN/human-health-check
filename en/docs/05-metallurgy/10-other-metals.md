@@ -122,7 +122,7 @@ Protection:
 ✗ Keep pregnant women and children away
 ```
 
-For preventing lead poisoning, see [Chemistry – Heavy metals](../../../docs/08-基础科学知识/03-化学.md#93-重金属).
+For preventing lead poisoning, see [Chemistry – Heavy metals](../08-basic-science/03-chemistry.md#93-heavy-metals).
 
 ---
 
@@ -291,7 +291,7 @@ fluorescent tubes and old-style switches
 - ⏭️ [Sheet and wire](11-sheet-and-wire.md) - tinplate, copper wire
 - 🔗 [Copper smelting](02-copper-smelting.md) - making bronze and brass
 - 🔗 [Metallurgy basics – Recognising and collecting ore](00-metallurgy-basics.md#5-identifying-and-collecting-ore)
-- 🔗 [Advanced chemistry – Electrochemistry](../../../docs/09-进阶科学与工程/05-化学进阶.md#五电化学) - reactivity of metals, corrosion and protection
+- 🔗 [Advanced chemistry – Electrochemistry](../09-advanced-science-and-engineering/05-advanced-chemistry.md#5-electrochemistry) - reactivity of metals, corrosion and protection
 
 ---
 

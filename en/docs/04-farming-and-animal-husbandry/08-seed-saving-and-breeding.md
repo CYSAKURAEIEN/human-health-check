@@ -52,7 +52,7 @@ So:
   new stable variety (see "Selection" below), but yields will be lower for the first few years
 ```
 
-For the principles of heredity and segregation see [Biology and Medicine Basics – Heredity](../../../docs/08-基础科学知识/04-生物与医学基础.md#61-遗传) and [Seed selection and breeding](../../../docs/08-基础科学知识/04-生物与医学基础.md#62-选种育种). A short checklist for saving grain-crop seed is in [Grain Crops – Seed storage](02-grain-crops.md#seed-saving).
+For the principles of heredity and segregation see [Biology and Medicine Basics – Heredity](../08-basic-science/04-biology-and-medical-basics.md#61-heredity) and [Seed selection and breeding](../08-basic-science/04-biology-and-medical-basics.md#62-selecting-and-breeding). A short checklist for saving grain-crop seed is in [Grain Crops – Seed storage](02-grain-crops.md#seed-saving).
 
 ---
 
@@ -177,7 +177,7 @@ Why cross-pollinating crops need so many:
 ✓ Collect and mix seed from all the seed plants; do not take seed only from the one or two biggest
 ```
 
-For the dangers of inbreeding see [Biology and Medicine Basics – The dangers of inbreeding](../../../docs/08-基础科学知识/04-生物与医学基础.md#63-近亲繁殖的危害).
+For the dangers of inbreeding see [Biology and Medicine Basics – The dangers of inbreeding](../08-basic-science/04-biology-and-medical-basics.md#63-the-harm-of-inbreeding).
 
 ---
 

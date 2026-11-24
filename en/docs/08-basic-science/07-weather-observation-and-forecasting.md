@@ -16,7 +16,7 @@ This chapter covers ways to judge the weather for the next day or two by your ow
   rather than late
 ```
 
-For dealing with the various weather disasters see [Weather Disasters](../../../docs/02-灾难应对/02-气象灾害.md).
+For dealing with the various weather disasters see [Weather Disasters](../02-disaster-response/02-weather-disasters.md).
 
 ---
 
@@ -81,7 +81,7 @@ A cold front passing (the weather changes suddenly):
 → Leave hilltops, water's edges and open ground at once; keep away from isolated large trees
 ```
 
-For staying safe in lightning see [Weather Disasters – Lightning](../../../docs/02-灾难应对/02-气象灾害.md).
+For staying safe in lightning see [Weather Disasters – Lightning](../02-disaster-response/02-weather-disasters.md).
 
 ---
 
@@ -219,7 +219,7 @@ Wind vane: a rod that turns freely, with one big end and one small end (the big 
 Barometer: see 3.2
 ```
 
-For rainfall and calculating rainwater collection see [Water Supply Engineering – Collecting rainwater](../../../docs/07-日常生活技能/10-水源工程与供水.md#收集雨水).
+For rainfall and calculating rainwater collection see [Water Supply Engineering – Collecting rainwater](../07-everyday-living-skills/10-water-supply.md#collecting-rainwater).
 
 ### 6.2 Weather diary
 
@@ -237,7 +237,7 @@ Keep records for a few years and you can work out the local patterns:
 → These patterns suit your area better than any saying
 ```
 
-For the 24 solar terms see [Physics – Calendars](../../../docs/08-基础科学知识/02-物理.md#92-历法); for telling time by the stars see [Advanced Celestial Navigation](../../../docs/09-进阶科学与工程/09-天文导航进阶.md).
+For the 24 solar terms see [Physics – Calendars](02-physics.md#92-calendars); for telling time by the stars see [Advanced Celestial Navigation](../09-advanced-science-and-engineering/09-celestial-navigation.md).
 
 ---
 
@@ -266,10 +266,10 @@ Main hazardous weather:
 
 - ⏮️ [Geology, Minerals and Soil](06-geology-minerals-and-soil.md)
 - ⏭️ [Surveying and Mapping](08-surveying-and-mapping.md)
-- 🔗 [Weather Disasters](../../../docs/02-灾难应对/02-气象灾害.md) - dealing with typhoons, rainstorms, lightning and cold waves
-- 🔗 [Physics – Heat](../../../docs/08-基础科学知识/02-物理.md#五热学) - evaporation, condensation, air pressure
-- 🔗 [River Crossing, Flash Floods and Hypothermia](../../../docs/03-野外生存/08-涉水山洪与野外失温.md) - the dangers of mountain weather
-- 🔗 [Grain Crops](../../../docs/04-动植物培育/02-粮食作物.md) - the farming calendar
+- 🔗 [Weather Disasters](../02-disaster-response/02-weather-disasters.md) - dealing with typhoons, rainstorms, lightning and cold waves
+- 🔗 [Physics – Heat](02-physics.md#5-heat) - evaporation, condensation, air pressure
+- 🔗 [River Crossing, Flash Floods and Hypothermia](../03-wilderness-survival/08-river-crossing-flash-floods-and-hypothermia.md) - the dangers of mountain weather
+- 🔗 [Grain Crops](../04-farming-and-animal-husbandry/02-grain-crops.md) - the farming calendar
 
 ---
 

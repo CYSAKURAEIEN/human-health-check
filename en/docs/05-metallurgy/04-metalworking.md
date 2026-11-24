@@ -15,7 +15,7 @@ This chapter teaches you how to multiply the performance of metal goods through 
 - 🔄 Normalising - making the structure uniform
 - 🛡️ Case hardening (carburising) - surface hardening
 
-This chapter covers only heat treatment and surface treatment. For forging to shape see [Forging Simple Tools](03-forging-simple-tools.md); for filing, drilling and grinding see [Bench Work and Machining](09-bench-work-and-machining.md); for annealing copper, aluminium and other non-ferrous metals see [Sheet and Wire - Annealing](11-sheet-and-wire.md#1-annealing-the-key-to-cold-working); for why quenching makes steel hard (the phase-change principle) see [Engineering Mechanics and Materials - Principles of heat treating steel](../../../docs/09-进阶科学与工程/01-工程力学与材料.md#103-钢的热处理原理).
+This chapter covers only heat treatment and surface treatment. For forging to shape see [Forging Simple Tools](03-forging-simple-tools.md); for filing, drilling and grinding see [Bench Work and Machining](09-bench-work-and-machining.md); for annealing copper, aluminium and other non-ferrous metals see [Sheet and Wire - Annealing](11-sheet-and-wire.md#1-annealing-the-key-to-cold-working); for why quenching makes steel hard (the phase-change principle) see [Engineering Mechanics and Materials - Principles of heat treating steel](../09-advanced-science-and-engineering/01-engineering-mechanics-and-materials.md#103-principles-of-heat-treating-steel).
 
 ## ⚠️ Safety first
 
@@ -775,7 +775,7 @@ What the various platings really do:
 - Real electroplating needs a steady direct-current supply and properly made-up plating solution; it belongs to the electrochemical industry
 ```
 
-For making tinplate see [Sheet and Wire - Tinplate](11-sheet-and-wire.md#3-tinplate); for the principle of galvanising see [Other Metals - Zinc](10-other-metals.md#4-zinc) and [Advanced Chemistry - Corrosion and protection](../../../docs/09-进阶科学与工程/05-化学进阶.md#54-腐蚀和防护).
+For making tinplate see [Sheet and Wire - Tinplate](11-sheet-and-wire.md#3-tinplate); for the principle of galvanising see [Other Metals - Zinc](10-other-metals.md#4-zinc) and [Advanced Chemistry - Corrosion and protection](../09-advanced-science-and-engineering/05-advanced-chemistry.md#54-corrosion-and-protection).
 
 ### 7.4 Coatings and everyday rust prevention
 
@@ -1054,8 +1054,8 @@ it may look closed, but there is usually still ash and scale trapped inside, and
 - ⏭️ [Welding and Joining](06-welding-and-joining.md) - forge welding, brazing and post-weld treatment
 - ⏭️ [Bench Work and Machining](09-bench-work-and-machining.md) - filing, drilling, grinding; making taps and punches
 - ⏭️ [Sheet and Wire](11-sheet-and-wire.md) - annealing non-ferrous metals, tinplate
-- 🔗 [Engineering Mechanics and Materials - Principles of heat treating steel](../../../docs/09-进阶科学与工程/01-工程力学与材料.md#103-钢的热处理原理) - why quenching makes steel hard
-- 🔗 [Advanced Chemistry - Corrosion and protection](../../../docs/09-进阶科学与工程/05-化学进阶.md#54-腐蚀和防护) - why things rust
+- 🔗 [Engineering Mechanics and Materials - Principles of heat treating steel](../09-advanced-science-and-engineering/01-engineering-mechanics-and-materials.md#103-principles-of-heat-treating-steel) - why quenching makes steel hard
+- 🔗 [Advanced Chemistry - Corrosion and protection](../09-advanced-science-and-engineering/05-advanced-chemistry.md#54-corrosion-and-protection) - why things rust
 - 🔗 [Wilderness Survival - Basic Survival Skills](../03-wilderness-survival/00-basic-survival-skills.md) - using tools
 
 ---

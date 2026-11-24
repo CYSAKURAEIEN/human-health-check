@@ -130,7 +130,7 @@ Key points:
 - The furnace has to be built by the water; watch out for the flood season
 ```
 
-For estimating water power, see [Physics – Water power: waterwheels and watermills](../../../docs/08-基础科学知识/02-物理.md#33-水力-水车和水磨).
+For estimating water power, see [Physics – Water power: waterwheels and watermills](../08-basic-science/02-physics.md#33-water-power-waterwheels-and-watermills).
 
 ### 3.5 Salvaged electric blowers
 
@@ -262,7 +262,7 @@ For the anvil, hammers, tongs and other tools, see [Forging Simple Tools](03-for
 - ⏭️ [Bench Work and Machining](09-bench-work-and-machining.md)
 - 🔗 [Metallurgy Basics](00-metallurgy-basics.md) - Smelting furnaces, charcoal, judging temperature
 - 🔗 [Forging Simple Tools](03-forging-simple-tools.md) - Forging techniques
-- 🔗 [Thermodynamics and Power Machinery](../../../docs/09-进阶科学与工程/03-热力学与动力机械.md) - Water power, fuel heat values, heat transfer
+- 🔗 [Thermodynamics and Power Machinery](../09-advanced-science-and-engineering/03-thermodynamics-and-engines.md) - Water power, fuel heat values, heat transfer
 
 ---
 

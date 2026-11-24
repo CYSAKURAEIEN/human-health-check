@@ -17,7 +17,7 @@ This chapter explains the principles and basic calculations behind structural an
   iron, salvaged old material, and timber with knots) may be much weaker
 ```
 
-For the mathematics and physics you need, see [Mathematics](../../../docs/08-基础科学知识/01-数学.md) and [Physics – Motion and force](../../../docs/08-基础科学知识/02-物理.md#一运动与力).
+For the mathematics and physics you need, see [Mathematics](../08-basic-science/01-mathematics.md) and [Physics – Motion and force](../08-basic-science/02-physics.md#1-motion-and-force).
 
 ---
 
@@ -238,7 +238,7 @@ Truss: a structure made of many triangles (roof trusses, bridge trusses, towers)
 ✓ Add triangular wooden blocks to the corners of door frames and wooden boxes
 ```
 
-For timber construction methods see [Long-term Shelter – Simple timber framing](../../../docs/07-日常生活技能/05-长期住所.md#简易木结构).
+For timber construction methods see [Long-term Shelter – Simple timber framing](../07-everyday-living-skills/05-long-term-shelter.md#simple-timber-framing).
 
 ![Triangles and trusses: a four-sided frame turns into a parallelogram when pushed; a triangle keeps its shape as long as its sides stay the same length; adding a diagonal brace divides the frame into two triangles and makes it stable; in a triangular roof truss the sloping members are in compression and the tie is in tension; a bridge truss is made of many triangles](../../images/truss-triangle.svg)
 
@@ -282,7 +282,7 @@ Zhaozhou Bridge (Sui dynasty, about 1400 years ago): a single-span stone arch wi
   (see Long-term Shelter – earthquake resistance)
 ```
 
-For earthquake-resistance measures see [Long-term Shelter – Earthquake resistance: life or death for earth houses](../../../docs/07-日常生活技能/05-长期住所.md#抗震-生土房屋的生死线).
+For earthquake-resistance measures see [Long-term Shelter – Earthquake resistance: life or death for earth houses](../07-everyday-living-skills/05-long-term-shelter.md#earthquake-resistance-life-or-death-for-earth-houses).
 
 ---
 
@@ -325,7 +325,7 @@ Foundation base area = total weight carried down from the building ÷ bearing ca
   its bearing capacity drops sharply
 ```
 
-For choosing a site and wall foundations see [Long-term Shelter](../../../docs/07-日常生活技能/05-长期住所.md).
+For choosing a site and wall foundations see [Long-term Shelter](../07-everyday-living-skills/05-long-term-shelter.md).
 
 ---
 
@@ -380,7 +380,7 @@ A handy trick for judging the quenching temperature:
     the temperature is close to the quenching temperature
 ```
 
-For the hands-on procedure and tempering colours see [Metalworking](../../../docs/05-冶金技术/04-金属加工技术.md).
+For the hands-on procedure and tempering colours see [Metalworking](../05-metallurgy/04-metalworking.md).
 
 ### 10.4 Common alloys
 
@@ -429,7 +429,7 @@ Reinforced concrete: concrete takes the compression, steel bars take the tension
   simply supported beam), so the two work together
 ```
 
-For salvaging cement and recycled aggregate see [Lime and Building Materials – Cement and concrete](../../../docs/07-日常生活技能/16-石灰与建筑材料.md#水泥和混凝土-先回收).
+For salvaging cement and recycled aggregate see [Lime and Building Materials – Cement and concrete](../07-everyday-living-skills/16-lime-and-building-materials.md#cement-and-concrete-salvage-first).
 
 ### 10.7 Timber
 
@@ -443,7 +443,7 @@ For salvaging cement and recycled aggregate see [Lime and Building Materials –
   (stand wooden posts on stone bases)
 ```
 
-For drying timber see [Woodworking and Tool Maintenance – Timber](../../../docs/07-日常生活技能/09-木工与工具维护.md#木材).
+For drying timber see [Woodworking and Tool Maintenance – Timber](../07-everyday-living-skills/09-woodworking-and-tool-maintenance.md#timber).
 
 ---
 
@@ -502,18 +502,18 @@ Only a common thread standard lets bolts and nuts be interchanged
   and make standard taps and dies
 ```
 
-For bootstrapping precision machining (lapping three plates against each other, the lathe) see [Technology Rebuilding Roadmap – Precision machining](../../../docs/09-进阶科学与工程/00-技术重建路线图.md#32-精密加工-机器的母机).
+For bootstrapping precision machining (lapping three plates against each other, the lathe) see [Technology Rebuilding Roadmap – Precision machining](00-technology-rebuilding-roadmap.md#32-precision-machining-the-mother-machine-of-machines).
 
 ---
 
 ## Related chapters
 
-- ⏮️ [Technology Rebuilding Roadmap](../../../docs/09-进阶科学与工程/00-技术重建路线图.md) - where structures and machinery fit in the whole picture
-- ⏭️ [Electrical Engineering and Electronics](../../../docs/09-进阶科学与工程/02-电气工程与电子学.md)
-- ⏭️ [Thermodynamics and Engines](../../../docs/09-进阶科学与工程/03-热力学与动力机械.md)
-- 🔗 [Metalworking](../../../docs/05-冶金技术/04-金属加工技术.md) - hands-on heat treatment
-- 🔗 [Long-term Shelter](../../../docs/07-日常生活技能/05-长期住所.md) - building houses
-- 🔗 [Physics](../../../docs/08-基础科学知识/02-物理.md) - forces, levers, simple machines
+- ⏮️ [Technology Rebuilding Roadmap](00-technology-rebuilding-roadmap.md) - where structures and machinery fit in the whole picture
+- ⏭️ [Electrical Engineering and Electronics](02-electrical-engineering-and-electronics.md)
+- ⏭️ [Thermodynamics and Engines](03-thermodynamics-and-engines.md)
+- 🔗 [Metalworking](../05-metallurgy/04-metalworking.md) - hands-on heat treatment
+- 🔗 [Long-term Shelter](../07-everyday-living-skills/05-long-term-shelter.md) - building houses
+- 🔗 [Physics](../08-basic-science/02-physics.md) - forces, levers, simple machines
 
 ---
 
