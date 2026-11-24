@@ -571,7 +571,7 @@ This group comes from mixed sources: *Shenjincao* is a fern ally, *Shihu* is an 
 - **Identification**:
   - Plant: perennial evergreen fern ally (clubmoss), **with no flowers**; **creeping stems thin and long, running along the ground, up to 2 m**, sending up upright branches; **leaves tiny, needle- or awl-shaped, densely spiralled around the stem**, so that the plant looks like a row of small pine twigs; the upright branches carry 2-8 **cylindrical spore cones** at their tips, which shed large amounts of yellow powder when ripe (lycopodium powder, extremely flammable)
   - Dried herb: creeping stems thin and round, slightly bent, with fine yellowish-white roots underneath; upright stems forking in two; leaves dense, spiralled, shrivelled and curved, linear or needle-shaped, yellowish green to pale yellowish brown, tip bristle-like; soft; broken surface with a light yellow outer layer and a whitish woody core; smell faint, taste bland
-- **Look-alikes**: **toothed clubmoss** (*Huperzia serrata*, *Qianceng ta*) is also a clubmoss, but it **stands upright in clumps, has no long creeping stems, and has broader, lanceolate leaves with toothed edges**. It contains huperzine A, and taking too much by mistake can cause nausea, sweating and a slow heartbeat; do not let it get mixed in. *Palhinhaea cernua* (*Pudiwugong*), common in the south, is also often used as *Shenjincao*
+- **Look-alikes**: **toothed clubmoss** (*Huperzia serrata*, *Qiancengta*) is also a clubmoss, but it **stands upright in clumps, has no long creeping stems, and has broader, lanceolate leaves with toothed edges**. It contains huperzine A, and taking too much by mistake can cause nausea, sweating and a slow heartbeat; do not let it get mixed in. *Palhinhaea cernua* (*Pudiwugong*), common in the south, is also often used as *Shenjincao*
 - **Harvesting and processing**: collect in summer and autumn when stems and leaves are lush, remove impurities and dry in the sun; cut only some of the creeping stems; do not strip a whole patch
 - **Storage**: keep in a ventilated, dry place
 - **Actions**: dispels wind and damp, relaxes the sinews and frees the channels
@@ -663,3 +663,81 @@ This group comes from mixed sources: *Shenjincao* is a fern ally, *Shihu* is an 
 
 ---
 
+## 6. Look-alike summary and self-check
+
+### 6.1 Summary of look-alikes and risks
+
+| Herb in this chapter | Main risk | How to avoid it |
+|---------|---------|---------|
+| Mint | "False mints" such as pennyroyal (liver damage); wild plants with no mint smell | Crushed, it must have a cooling mint smell; do not use any "mint" you do not know as medicine or tea |
+| Purslane | Spurges such as spotted spurge and sun spurge (white milky sap) | Snap it and look at the sap: only clear slime means purslane |
+| Dandelion | Sow thistle and Oriental hawksbeard mixed in; buttercup and groundsel picked by mistake | No stem above ground, hollow flower stalk, one flower per stalk, white milky sap |
+| Qinghao | Used as an antimalarial | Malaria must be seen by a doctor; a decoction cannot treat malaria |
+| Xiakucao | Used to "dissipate lumps", delaying a check of the lump | If you feel a lump, go to hospital first |
+| Plantain | False hellebore, lily of the valley (curving parallel veins) | Flat rosette on the ground, long leaf stalks, thin, long green flower spikes |
+| Jinqiancao, Baijiangcao, Diding | Many different plants under the same name | Get the herb by the name on the prescription and by local custom |
+| Peilan, Yinyanghuo | Large amounts taken for long may damage the liver | Do not take them yourself for long; not with liver disease |
+| Motherwort, Zelan, Banzhilian | Can cause miscarriage in pregnancy; increase bleeding risk | Not in pregnancy; people taking anticoagulants should ask a doctor first |
+| Shenjincao | Toothed clubmoss (*Huperzia serrata*) mixed in | Check for long creeping stems and needle-shaped leaves |
+| Ephedra | Raises blood pressure, heart rhythm problems; state-controlled | Do not collect, buy, transport or use it yourself |
+| Xixin | Kidney damage from aristolochic acid; poisoning from overdose | Use only root and rhizome from a proper pharmacy, as a doctor directs |
+| Shihu, cistanche, Suoyang | Wild resources protected or scarce | Use only cultivated herb |
+| Baihuasheshecao, Banzhilian | Used as "anti-cancer herbs", delaying treatment | Cannot replace surgery, chemotherapy or radiotherapy |
+
+### 6.2 Self-check
+
+Before collecting whole herbs, confirm each point:
+
+- [ ] I checked at least 3 features: round or square stem, opposite or alternate leaves, flower shape and colour, smell, milky sap or not
+- [ ] I have ruled out the poisonous plants most easily confused with this group (spurges, buttercups, the carrot family, false hellebore and others)
+- [ ] The collecting site is away from roads, factories, mines and fields that have just been sprayed with pesticide
+- [ ] It is not a controlled or protected plant such as ephedra, Xixin, Shihu or cistanche
+- [ ] I cut only part of the aerial parts and left the roots and seed plants
+- [ ] After bringing it back I spread it out to dry; those with volatile oils (mint, Huoxiang, Jingjie, Xiangru, Qinghao) are dried in the shade, not in strong sun
+- [ ] I know the Pharmacopoeia dose and cautions; pregnant women, children, people with liver or kidney disease and people taking anticoagulants ask a doctor first
+
+| Task | Difficulty | Risk of getting it wrong |
+|------|------|----------|
+| Recognising common whole herbs (dandelion, plantain, purslane, houttuynia) | ⭐⭐ | ☠️☠️ (spurges and others mixed in) |
+| Recognising fragrant mint-family herbs (mint, Jingjie, Huoxiang, Xiangru) | ⭐⭐⭐ | ☠️ (different actions; poisoning very rare) |
+| Telling apart different plants under the same name (Jinqiancao, Baijiangcao, Diding) | ⭐⭐⭐⭐ | ☠️ (wrong herb) |
+| Recognising desert parasites and epiphytic orchids (cistanche, Suoyang, Shihu) | ⭐⭐⭐ | Illegally digging protected wild plants |
+| Using ephedra or Xixin yourself | Not allowed | ☠️☠️☠️☠️ (heart rhythm problems, kidney damage) |
+| Using whole herbs instead of proper treatment (malaria, cancer, stones, jaundice) | Not allowed | ☠️☠️☠️☠️☠️ (delayed treatment) |
+
+## 📝 Key points of this chapter
+
+```
+□ Before picking a whole herb, check 3 features: stem shape, leaf
+  arrangement, flowers, smell, milky sap
+□ Mint must have a cooling smell; do not pick a "wild mint" without it
+□ Purslane gives clear slime when snapped; white milky sap means a spurge.
+  Do not pick
+□ Dandelion: one hollow flower stalk carries only one flower
+□ Ephedra is state-controlled: do not collect or use it; forbidden with
+  high blood pressure or heart disease
+□ Xixin: use only the root and rhizome; slightly toxic; the aerial parts
+  contain aristolochic acid; do not collect or use it yourself
+□ A Qinghao decoction cannot treat malaria; malaria must be seen by a doctor
+□ Wild Shihu and cistanche are state-protected; use only cultivated herb
+□ Motherwort and Zelan: not in pregnancy; people taking anticoagulants
+  ask a doctor before using blood-moving or bleeding-stopping herbs
+□ Jaundice, stones, lumps, bleeding: find the cause first; do not rely
+  only on herbs
+```
+
+---
+
+## Related chapters
+
+- ⏮️ [Fruits and Seeds](../../../docs/10-中药材识别与采集/03-果实种子类.md) - goji berries, hawthorn, schisandra, aged tangerine peel, plantain seed and other fruit, peel and seed herbs
+- ⏭️ [Flowers and Leaves](../../../docs/10-中药材识别与采集/05-花叶类.md) - honeysuckle, chrysanthemum, mugwort leaf, mulberry leaf, perilla leaf and other flower and leaf herbs
+- 🔗 [General Principles of Identifying and Collecting Chinese Medicinal Herbs](../../../docs/10-中药材识别与采集/00-总论.md) - general methods for identification, harvesting, processing, storage, safety and the law
+- 🔗 [Toxic Herbs and Poisonous Look-alikes](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md) - identification and poisoning signs of herbs containing aristolochic acid, water hemlock, datura and others
+- 🔗 [Medicinal Plants: Identification and Growing](../../../docs/04-动植物培育/04-药用植物.md) - growing mint, dandelion, houttuynia, plantain, purslane, self-heal and motherwort, and the home herb garden
+- 🔗 [Traditional Chinese Medicine Preparations](../../../docs/06-制药技术/04-中药制剂.md) - processing, decoction, common formulas and safe use
+- 🔗 [Poisonous Mushrooms and Wild Plant Poisoning](../../../docs/03-野外生存/09-毒蘑菇与野菜误食.md) - the risks of gathering wild vegetables and weeds, and what to do after eating the wrong thing
+
+---
+
+**Whole herbs are the closest to hand and the easiest to pull up and use without thinking: rub, smell, snap, and pick only when all three match. If in doubt, do not use it.**
