@@ -1,0 +1,191 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 860" width="760" height="860" role="img" aria-label="Medicinal parts of plants and the best time to harvest them: flowers in bud or just opening; leaves while the plant grows vigorously, as flowers are about to open or at full bloom; fruits when ripe or nearly ripe; seeds when fully ripe; whole herbs, meaning the parts above ground or the whole plant with its root, mostly at flowering or before flowering when leafy and lush; roots and rhizomes, including roots, rhizomes, tubers, corms and bulbs, after the parts above ground wither in autumn or winter, or before buds break in early spring; tree bark from late spring to early summer, about early April to late June, stripping one side only and never ring-barking; root bark mostly in autumn, stripped when the roots are dug; stems and woods, including vine stems, twigs and heartwood, after leaf fall in autumn or winter, or all year. Sustainable collecting: take only part of each patch, usually no more than about a third, leave the parent plants and those that are flowering or setting seed, take big plants and leave small ones, and fill in the holes after digging roots; there are many exceptions, and the later chapters decide" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Medicinal plant parts and harvest times</title>
+<defs>
+<g id="lf"><path d="M0,0 C6,-16 28,-15 62,0 C28,15 6,16 0,0 Z" fill="#cfe3b0" stroke="#333" stroke-width="1.5"/><path d="M2,0 L58,0" stroke="#6a8a3a" stroke-width="1"/></g>
+<g id="bd"><path d="M0,0 C-6,-6 -6,-16 0,-22 C6,-16 6,-6 0,0 Z" fill="#f5d6e6" stroke="#333" stroke-width="1.5"/><path d="M-4,-2 L0,4 L4,-2" fill="#7a9a4a"/></g>
+<g id="pt"><ellipse cx="0" cy="-14" rx="8" ry="13" fill="#f7d0e2" stroke="#333" stroke-width="1.5"/></g>
+</defs>
+<g font-size="13" fill="#222">
+<text x="380" y="30" font-size="18" font-weight="bold" text-anchor="middle">Medicinal parts of plants and the best time to harvest them</text>
+<text x="380" y="52" fill="#555" text-anchor="middle">(Schematic: all parts are drawn on one plant for illustration; for individual herbs, follow the later chapters)</text>
+
+<!-- soil -->
+<rect x="10" y="440" width="740" height="190" fill="#f3eadb"/>
+<line x1="10" y1="440" x2="750" y2="440" stroke="#999" stroke-width="3"/>
+
+<!-- ===== herbaceous plant ===== -->
+<!-- extent of the whole herb -->
+<rect x="148" y="70" width="190" height="372" rx="10" fill="none" stroke="#0b5cad" stroke-width="1.5" stroke-dasharray="7 4"/>
+<rect x="151" y="420" width="72" height="18" rx="3" fill="#0b5cad"/>
+<text x="187" y="433" font-size="12" fill="#fff" font-weight="bold" text-anchor="middle">whole herb</text>
+<!-- stem -->
+<path d="M230,440 C226,360 234,260 230,112" fill="none" stroke="#4d6b2a" stroke-width="3.5"/>
+<!-- leaves -->
+<use href="#lf" transform="translate(231,396) rotate(-18)"/>
+<use href="#lf" transform="translate(229,396) scale(-1,1) rotate(-18)"/>
+<use href="#lf" transform="translate(231,342) rotate(-24) scale(0.9)"/>
+<use href="#lf" transform="translate(229,342) scale(-1,1) rotate(-24) scale(0.9)"/>
+<use href="#lf" transform="translate(229,278) scale(-1,1) rotate(-28) scale(0.8)"/>
+<!-- bud branch -->
+<path d="M230,222 Q206,200 186,176" fill="none" stroke="#4d6b2a" stroke-width="2.5"/>
+<path d="M190,180 L176,170 M200,192 L194,174" stroke="#4d6b2a" stroke-width="2"/>
+<use href="#bd" transform="translate(186,176) rotate(-40)"/>
+<use href="#bd" transform="translate(176,170) rotate(-70)"/>
+<use href="#bd" transform="translate(194,174) rotate(-10)"/>
+<!-- flower at the tip -->
+<g transform="translate(230,108)">
+<use href="#pt"/><use href="#pt" transform="rotate(72)"/><use href="#pt" transform="rotate(144)"/><use href="#pt" transform="rotate(216)"/><use href="#pt" transform="rotate(288)"/>
+<circle r="6" fill="#f5c518" stroke="#333" stroke-width="1.2"/>
+</g>
+<!-- fruit branch -->
+<path d="M231,250 Q262,232 290,214" fill="none" stroke="#4d6b2a" stroke-width="2.5"/>
+<path d="M276,222 L278,236 M290,214 L298,226 M290,214 L306,214" stroke="#4d6b2a" stroke-width="1.5"/>
+<circle cx="278" cy="244" r="9" fill="#d9534f" stroke="#333" stroke-width="1.5"/>
+<circle cx="299" cy="234" r="9" fill="#d9534f" stroke="#333" stroke-width="1.5"/>
+<circle cx="314" cy="216" r="9" fill="#e8a33a" stroke="#333" stroke-width="1.5"/>
+<!-- seeds (ripe pod splitting open) -->
+<path d="M231,306 Q258,298 280,298" fill="none" stroke="#4d6b2a" stroke-width="2.5"/>
+<path d="M280,298 C292,284 314,282 322,290 C312,292 296,298 284,302 Z" fill="#c9a46a" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M280,298 C292,310 314,308 322,300 C312,300 296,300 284,302 Z" fill="#c9a46a" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<g fill="#5a3a1a"><ellipse cx="300" cy="318" rx="3" ry="4"/><ellipse cx="310" cy="330" rx="3" ry="4"/><ellipse cx="296" cy="336" rx="3" ry="4"/></g>
+<!-- underground: main root -->
+<path d="M223,442 Q226,500 230,540 Q234,500 237,442 Z" fill="#e8cfa0" stroke="#333" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M226,470 L208,486 M234,482 L254,496 M228,505 L214,516 M232,516 L246,526" stroke="#8a6a3a" stroke-width="1.2"/>
+<!-- bulb -->
+<path d="M50,452 C28,468 30,494 50,496 C70,494 72,468 50,452 Z" fill="#f6efd9" stroke="#333" stroke-width="1.8"/>
+<path d="M50,456 C38,468 40,490 50,494 M50,456 C62,468 60,490 50,494" fill="none" stroke="#8a6a3a" stroke-width="1"/>
+<path d="M42,496 L38,510 M50,497 L50,512 M58,496 L62,510" stroke="#8a6a3a" stroke-width="1.2"/>
+<!-- corm -->
+<ellipse cx="108" cy="478" rx="20" ry="14" fill="#e6d2a8" stroke="#333" stroke-width="1.8"/>
+<path d="M90,474 Q108,480 126,474 M92,484 Q108,490 124,484" fill="none" stroke="#8a6a3a" stroke-width="1"/>
+<path d="M108,464 L108,452" stroke="#6a8a3a" stroke-width="3" stroke-linecap="round"/>
+<path d="M100,492 L96,506 M116,492 L120,506" stroke="#8a6a3a" stroke-width="1.2"/>
+<!-- tuber -->
+<path d="M150,470 C160,458 186,460 194,472 C202,486 188,500 170,498 C152,498 142,484 150,470 Z" fill="#e0c49a" stroke="#333" stroke-width="1.8"/>
+<g fill="#8a6a3a"><circle cx="164" cy="474" r="1.8"/><circle cx="182" cy="480" r="1.8"/><circle cx="170" cy="490" r="1.8"/></g>
+<!-- rhizome -->
+<path d="M282,466 L420,462" stroke="#333" stroke-width="15" stroke-linecap="round"/>
+<path d="M282,466 L420,462" stroke="#e8cfa0" stroke-width="11" stroke-linecap="round"/>
+<path d="M312,459 L312,472 M344,458 L344,471 M376,457 L376,470 M406,456 L406,469" stroke="#8a6a3a" stroke-width="1.5"/>
+<path d="M312,472 L306,488 M344,471 L350,488 M376,470 L370,486 M406,469 L412,484" stroke="#8a6a3a" stroke-width="1.2"/>
+<path d="M424,456 Q430,446 426,440" fill="none" stroke="#6a8a3a" stroke-width="3" stroke-linecap="round"/>
+<g text-anchor="middle" font-size="14" font-weight="bold">
+<text x="50" y="532">Bulb</text>
+<text x="108" y="532">Corm</text>
+<text x="172" y="532">Tuber</text>
+<text x="276" y="532">Root</text>
+<text x="350" y="512">Rhizome</text>
+</g>
+<line x1="256" y1="526" x2="238" y2="518" stroke="#0b5cad" stroke-width="1"/>
+<!-- harvest time for roots and rhizomes -->
+<text x="20" y="568" font-size="15" font-weight="bold">Roots &amp; rhizomes <tspan font-size="13" font-weight="normal" fill="#555">(roots, rhizomes, tubers, corms, bulbs)</tspan></text>
+<text x="20" y="592" font-size="14" fill="#0b5cad" font-weight="bold">After the parts above ground wither in autumn or winter,</text>
+<text x="20" y="612" font-size="14" fill="#0b5cad" font-weight="bold">or before buds break in early spring</text>
+<text x="290" y="612" fill="#555">(nutrients are stored underground; content is highest)</text>
+
+<!-- left labels -->
+<text x="16" y="92" font-size="15" font-weight="bold">Flowers</text>
+<text x="16" y="108" font-size="12" fill="#555">· Flowers &amp; leaves</text>
+<text x="16" y="125" fill="#0b5cad">In bud or just</text>
+<text x="16" y="141" fill="#0b5cad">opening</text>
+<line x1="78" y1="90" x2="208" y2="106" stroke="#0b5cad" stroke-width="1"/>
+<line x1="72" y1="138" x2="172" y2="170" stroke="#0b5cad" stroke-width="1"/>
+<text x="104" y="170" font-size="12" fill="#555">buds</text>
+
+<text x="16" y="236" font-size="15" font-weight="bold">Leaves</text>
+<text x="16" y="252" font-size="12" fill="#555">· Flowers &amp; leaves</text>
+<text x="16" y="269" fill="#0b5cad">In vigorous growth,</text>
+<text x="16" y="285" fill="#0b5cad">as flowers are about</text>
+<text x="16" y="301" fill="#0b5cad">to open or in full</text>
+<text x="16" y="317" fill="#0b5cad">bloom</text>
+<line x1="58" y1="313" x2="198" y2="330" stroke="#0b5cad" stroke-width="1"/>
+
+<text x="16" y="346" font-size="15" font-weight="bold">Whole herb</text>
+<text x="16" y="361" font-size="12" fill="#555">· Whole herbs</text>
+<text x="16" y="377" fill="#555">Above-ground parts or</text>
+<text x="16" y="392" fill="#555">whole plant with root</text>
+<text x="16" y="409" fill="#0b5cad">Mostly in flower, or</text>
+<text x="16" y="424" fill="#0b5cad">before, when leafy</text>
+
+<!-- right labels -->
+<text x="346" y="176" font-size="15" font-weight="bold">Fruits</text>
+<text x="346" y="192" font-size="12" fill="#555">· Fruits &amp; seeds</text>
+<text x="346" y="209" fill="#0b5cad">Ripe or nearly ripe</text>
+<line x1="344" y1="204" x2="324" y2="219" stroke="#0b5cad" stroke-width="1"/>
+
+<text x="346" y="296" font-size="15" font-weight="bold">Seeds</text>
+<text x="346" y="312" font-size="12" fill="#555">· Fruits &amp; seeds</text>
+<text x="346" y="329" fill="#0b5cad">When fully ripe</text>
+<line x1="344" y1="324" x2="316" y2="326" stroke="#0b5cad" stroke-width="1"/>
+
+<!-- ===== tree ===== -->
+<line x1="486" y1="70" x2="486" y2="430" stroke="#ddd" stroke-width="1.5"/>
+<!-- tree roots -->
+<path d="M548,442 Q536,470 512,492 M560,442 Q562,480 556,520 M570,442 Q590,470 618,486" fill="none" stroke="#8a5a2b" stroke-width="6" stroke-linecap="round"/>
+<path d="M556,470 L556,500" stroke="#f3e3c3" stroke-width="3" stroke-linecap="round"/>
+<!-- trunk -->
+<path d="M546,442 L548,200 L572,200 L574,442 Z" fill="#8a5a2b" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M552,420 L552,380 M566,360 L566,320 M553,280 L553,240 M568,250 L568,215" stroke="#5a3a1a" stroke-width="1.2"/>
+<!-- stripped area: one side only -->
+<rect x="556" y="292" width="14" height="70" rx="3" fill="#f3e3c3" stroke="#333" stroke-width="1.5"/>
+<!-- branches -->
+<path d="M572,236 L622,206" stroke="#8a5a2b" stroke-width="7" stroke-linecap="round"/>
+<path d="M548,250 L512,226" stroke="#8a5a2b" stroke-width="6" stroke-linecap="round"/>
+<!-- crown -->
+<path d="M510,180 C490,160 500,112 530,110 C536,82 584,78 592,104 C622,102 632,146 612,168 C622,192 590,210 566,198 C548,214 516,206 510,180 Z" fill="#cfe3b0" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M560,200 L560,160 M560,170 L540,150 M560,176 L584,152" stroke="#8a5a2b" stroke-width="3" stroke-linecap="round" fill="none"/>
+
+<!-- bark labels -->
+<text x="590" y="318" font-size="15" font-weight="bold">Tree bark <tspan font-size="12" font-weight="normal" fill="#555">· Barks</tspan></text>
+<text x="590" y="338" fill="#0b5cad">Late spring to early</text>
+<text x="590" y="355" fill="#0b5cad">summer (about early</text>
+<text x="590" y="372" fill="#0b5cad">April to late June)</text>
+<text x="590" y="391" fill="#c33">Strip one side only;</text>
+<text x="590" y="408" fill="#c33">never ring-bark</text>
+<line x1="588" y1="334" x2="571" y2="330" stroke="#0b5cad" stroke-width="1"/>
+<!-- stems and woods labels -->
+<line x1="628" y1="210" x2="618" y2="208" stroke="#0b5cad" stroke-width="1"/>
+<text x="630" y="214" font-size="15" font-weight="bold">Stems &amp; woods</text>
+<text x="630" y="232" font-size="12" fill="#555">vine stems, twigs,</text>
+<text x="630" y="247" font-size="12" fill="#555">heartwood</text>
+<text x="630" y="264" fill="#0b5cad">After leaf fall in</text>
+<text x="630" y="281" fill="#0b5cad">autumn-winter, or</text>
+<text x="630" y="298" fill="#0b5cad">all year</text>
+<!-- root bark labels -->
+<text x="590" y="512" font-size="15" font-weight="bold">Root bark <tspan font-size="12" font-weight="normal" fill="#555">· Barks</tspan></text>
+<text x="590" y="532" fill="#0b5cad">Mostly in autumn,</text>
+<text x="590" y="549" fill="#0b5cad">stripped when the</text>
+<text x="590" y="566" fill="#0b5cad">roots are dug</text>
+<line x1="588" y1="506" x2="560" y2="496" stroke="#0b5cad" stroke-width="1"/>
+
+<!-- ===== bottom ===== -->
+<g transform="translate(10,642)">
+<rect x="0" y="0" width="365" height="206" rx="8" fill="#eef6ea" stroke="#6a8a3a" stroke-width="1.5"/>
+<text x="16" y="26" font-size="16" font-weight="bold" fill="#4d6b2a">Sustainable collecting:</text>
+<text x="16" y="46" font-size="15" font-weight="bold" fill="#4d6b2a">never dig out a whole stand</text>
+<g font-size="14">
+<text x="16" y="72">· Take only part of each patch</text>
+<text x="28" y="90">(usually no more than about a third)</text>
+<text x="16" y="114">· Leave the parent plants and those that</text>
+<text x="28" y="132">are flowering or setting seed</text>
+<text x="16" y="156">· Digging roots: take the big plants, leave</text>
+<text x="28" y="174">the small ones; fill the holes in afterwards</text>
+<text x="16" y="198">· Above-ground parts: cut, do not pull up roots</text>
+</g>
+</g>
+<g transform="translate(385,642)">
+<rect x="0" y="0" width="365" height="206" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<text x="16" y="26" font-size="16" font-weight="bold" fill="#c33">⚠️ Harvesting notes</text>
+<g font-size="14">
+<text x="16" y="56">· <tspan font-weight="bold">Many exceptions: the later chapters decide</tspan></text>
+<text x="16" y="82">· Do not collect by roads, near factories or</text>
+<text x="28" y="100">mines, or where pesticide was just sprayed</text>
+<text x="16" y="126">· Collect on sunny days, in the morning</text>
+<text x="28" y="144">once the dew has dried</text>
+<text x="16" y="170">· One herb at a time: pack and label each</text>
+<text x="28" y="188">kind separately</text>
+</g>
+</g>
+</g>
+</svg>
