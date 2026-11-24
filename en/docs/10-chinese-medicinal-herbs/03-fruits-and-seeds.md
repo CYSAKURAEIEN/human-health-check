@@ -99,7 +99,7 @@ Most herbs in this group are "both food and medicine", and they are the most lik
 
 ### 1.1 Gouqizi (goji berry)
 
-- **Name (aliases)**: *Gouqizi* (*Gouqi*, *Ningxia Gouqi*, *Xigouqi*); Chinese 枸杞子 (枸杞、宁夏枸杞、西枸杞)
+- **Gouqizi (Gouqi, Ningxia Gouqi, Xigouqi)**: Chinese 枸杞子 (枸杞、宁夏枸杞、西枸杞)
 - **Source**: the dried ripe fruit of *Lycium barbarum* L. (Ningxia wolfberry), Solanaceae
 - **Distribution and habitat**: mainly Ningxia, Gansu, Qinghai, Xinjiang and Inner Mongolia; widely cultivated. The related Chinese wolfberry *L. chinense* is common on field banks, roadsides and around villages throughout China; its fruit, commonly called "local goji", is not the Pharmacopoeia herb
 - **Identification**:
@@ -115,7 +115,7 @@ Most herbs in this group are "both food and medicine", and they are the most lik
 
 ### 1.2 Nüzhenzi (glossy privet fruit)
 
-- **Name (aliases)**: *Nüzhenzi* (*Nüzhenshi*, *Dongqingzi*); Chinese 女贞子 (女贞实、冬青子)
+- **Nüzhenzi (Nüzhenshi, Dongqingzi)**: Chinese 女贞子 (女贞实、冬青子)
 - **Source**: the dried ripe fruit of *Ligustrum lucidum* Ait. (glossy privet), Oleaceae
 - **Distribution and habitat**: the Yangtze basin and southwards; widely planted as a street tree and hedge, very common in cities
 - **Identification**:
@@ -130,7 +130,7 @@ Most herbs in this group are "both food and medicine", and they are the most lik
 
 ### 1.3 Tusizi (dodder seed)
 
-- **Name (aliases)**: *Tusizi* (*Tusizi* written 吐丝子, *Huangsizi*); Chinese 菟丝子 (吐丝子、黄丝子)
+- **Tusizi (Tusizi written 吐丝子, Huangsizi)**: Chinese 菟丝子 (吐丝子、黄丝子)
 - **Source**: the dried ripe seed of *Cuscuta australis* R. Br. (southern dodder) or *C. chinensis* Lam. (Chinese dodder), Convolvulaceae
 - **Distribution and habitat**: throughout China; **parasitic** on soya beans, lucerne, plants of the daisy family and shrubs; a common parasitic weed of farmland
 - **Identification**:
@@ -146,7 +146,7 @@ Most herbs in this group are "both food and medicine", and they are the most lik
 
 ### 1.4 Buguzhi (psoralea fruit)
 
-- **Name (aliases)**: *Buguzhi* (*Poguzhi*, *Heiguzi*); Chinese 补骨脂 (破故纸、黑故子)
+- **Buguzhi (Poguzhi, Heiguzi)**: Chinese 补骨脂 (破故纸、黑故子)
 - **Source**: the dried ripe fruit of *Psoralea corylifolia* L. (psoralea), Fabaceae
 - **Distribution and habitat**: cultivated in Henan, Sichuan, Anhui, Shaanxi and elsewhere; rare in the wild
 - **Identification**:
@@ -164,7 +164,7 @@ Most herbs in this group are "both food and medicine", and they are the most lik
 
 ### 1.5 Dazao (jujube)
 
-- **Name (aliases)**: *Dazao* (*Hongzao*, *Ganzao*); Chinese 大枣 (红枣、干枣)
+- **Dazao (Hongzao, Ganzao)**: Chinese 大枣 (红枣、干枣)
 - **Source**: the dried ripe fruit of *Ziziphus jujuba* Mill. (jujube), Rhamnaceae
 - **Distribution and habitat**: cultivated in most of China; the main producing areas are Xinjiang, Hebei, Shandong, Shanxi, Henan and Shaanxi
 - **Identification**:
@@ -179,7 +179,7 @@ Most herbs in this group are "both food and medicine", and they are the most lik
 
 ### 1.6 Baibiandou (white hyacinth bean)
 
-- **Name (aliases)**: *Baibiandou* (*Biandou*, *Baimeidou*); Chinese 白扁豆 (扁豆、白眉豆)
+- **Baibiandou (Biandou, Baimeidou)**: Chinese 白扁豆 (扁豆、白眉豆)
 - **Source**: the dried ripe seed of *Dolichos lablab* L. (hyacinth bean), Fabaceae
 - **Distribution and habitat**: cultivated throughout China as a vegetable and medicine; for medicinal use, the variety with white flowers and white seeds is taken
 - **Identification**:
@@ -201,7 +201,7 @@ Astringent herbs are used for conditions where things "slip out and cannot be he
 
 ### 2.1 Shanzhuyu (cornus fruit)
 
-- **Name (aliases)**: *Shanzhuyu* (*Shanyurou*, *Zaopi*, *Yurou*); Chinese 山茱萸 (山萸肉、枣皮、萸肉)
+- **Shanzhuyu (Shanyurou, Zaopi, Yurou)**: Chinese 山茱萸 (山萸肉、枣皮、萸肉)
 - **Source**: the dried ripe **fruit flesh** of *Cornus officinalis* Sieb. et Zucc. (Asiatic cornelian cherry), Cornaceae
 - **Distribution and habitat**: hillsides and forest edges in Zhejiang, Henan, Anhui, Shaanxi and elsewhere; mostly cultivated
 - **Identification**:
@@ -216,7 +216,7 @@ Astringent herbs are used for conditions where things "slip out and cannot be he
 
 ### 2.2 Wuweizi (schisandra berry)
 
-- **Name (aliases)**: *Wuweizi* (*Bei Wuweizi*, *Liao Wuweizi*); Chinese 五味子 (北五味子、辽五味子)
+- **Wuweizi (Bei Wuweizi, Liao Wuweizi)**: Chinese 五味子 (北五味子、辽五味子)
 - **Source**: the dried ripe fruit of *Schisandra chinensis* (Turcz.) Baill. (schisandra), Magnoliaceae, traditionally called "northern *Wuweizi*". The fruit of the related *S. sphenanthera* is "southern *Wuweizi*", which has its own entry in the Pharmacopoeia
 - **Distribution and habitat**: forest edges, thickets and valleys in the mountains of north-east and north China; cultivated in the north-east
 - **Identification**:
@@ -233,7 +233,7 @@ Astringent herbs are used for conditions where things "slip out and cannot be he
 
 ### 2.3 Wumei (smoked plum)
 
-- **Name (aliases)**: *Wumei* (*Suanmei*, *Xunmei*); Chinese 乌梅 (酸梅、熏梅)
+- **Wumei (Suanmei, Xunmei)**: Chinese 乌梅 (酸梅、熏梅)
 - **Source**: the dried nearly ripe fruit of *Prunus mume* (Sieb.) Sieb. et Zucc. (mume plum), Rosaceae
 - **Distribution and habitat**: cultivated in Sichuan, Zhejiang, Fujian, Hunan, Yunnan and elsewhere
 - **Identification**:
@@ -248,7 +248,7 @@ Astringent herbs are used for conditions where things "slip out and cannot be he
 
 ### 2.4 Jinyingzi (Cherokee rose hip)
 
-- **Name (aliases)**: *Jinyingzi* (*Tangguanzi*, *Cilizi*, *Shanshiliu*); Chinese 金樱子 (糖罐子、刺梨子、山石榴)
+- **Jinyingzi (Tangguanzi, Cilizi, Shanshiliu)**: Chinese 金樱子 (糖罐子、刺梨子、山石榴)
 - **Source**: the dried ripe fruit of *Rosa laevigata* Michx. (Cherokee rose), Rosaceae
 - **Distribution and habitat**: sunny hillsides, field edges and thickets in east, south and south-west China
 - **Identification**:
@@ -263,7 +263,7 @@ Astringent herbs are used for conditions where things "slip out and cannot be he
 
 ### 2.5 Fupenzi (Chinese raspberry)
 
-- **Name (aliases)**: *Fupenzi* (*Huadong Fupenzi*, *Zhangye Fupenzi*); Chinese 覆盆子 (华东覆盆子、掌叶覆盆子)
+- **Fupenzi (Huadong Fupenzi, Zhangye Fupenzi)**: Chinese 覆盆子 (华东覆盆子、掌叶覆盆子)
 - **Source**: the dried fruit of *Rubus chingii* Hu (palm-leaf raspberry), Rosaceae
 - **Distribution and habitat**: hillsides, forest edges and roadside thickets in Zhejiang, Fujian, Jiangxi, Anhui and elsewhere
 - **Identification**:
@@ -278,7 +278,7 @@ Astringent herbs are used for conditions where things "slip out and cannot be he
 
 ### 2.6 Lianzi (lotus seed)
 
-- **Name (aliases)**: *Lianzi* (*Lianrou*, *Lianmi*); Chinese 莲子 (莲肉、莲米)
+- **Lianzi (Lianrou, Lianmi)**: Chinese 莲子 (莲肉、莲米)
 - **Source**: the dried ripe seed of *Nelumbo nucifera* Gaertn. (sacred lotus), Nymphaeaceae
 - **Distribution and habitat**: ponds and lakes throughout China; widely cultivated in Hunan (Xiang lotus), Fujian (Jian lotus), Jiangxi, Hubei and elsewhere
 - **Identification**:
@@ -293,7 +293,7 @@ Astringent herbs are used for conditions where things "slip out and cannot be he
 
 ### 2.7 Qianshi (euryale seed)
 
-- **Name (aliases)**: *Qianshi* (*Jitoumi*, *Jitoushi*); Chinese 芡实 (鸡头米、鸡头实)
+- **Qianshi (Jitoumi, Jitoushi)**: Chinese 芡实 (鸡头米、鸡头实)
 - **Source**: the dried ripe kernel of *Euryale ferox* Salisb. (prickly water lily), Nymphaeaceae
 - **Distribution and habitat**: ponds, lakes and marshes in Jiangsu, Shandong, Hunan, Hubei, Anhui and elsewhere; cultivated as food around Suzhou
 - **Identification**:
@@ -308,7 +308,7 @@ Astringent herbs are used for conditions where things "slip out and cannot be he
 
 ### 2.8 Suanzaoren (sour jujube seed)
 
-- **Name (aliases)**: *Suanzaoren* (*Zaoren*, *Shanzaoren*); Chinese 酸枣仁 (枣仁、山枣仁)
+- **Suanzaoren (Zaoren, Shanzaoren)**: Chinese 酸枣仁 (枣仁、山枣仁)
 - **Source**: the dried ripe seed of *Ziziphus jujuba* Mill. var. *spinosa* (Bunge) Hu ex H. F. Chou (sour jujube), Rhamnaceae
 - **Distribution and habitat**: sunny, dry hillsides, low hills and roadsides in Hebei, Shaanxi, Liaoning, Henan, Shanxi, Shandong and elsewhere
 - **Identification**:
@@ -329,7 +329,7 @@ Qi-regulating herbs are mostly pungent, aromatic and dispersing, and are used fo
 
 ### 3.1 Chenpi (dried tangerine peel)
 
-- **Name (aliases)**: *Chenpi* (*Jupi*, *Guang Chenpi*, *Xinhuipi*); Chinese 陈皮 (橘皮、广陈皮、新会皮)
+- **Chenpi (Jupi, Guang Chenpi, Xinhuipi)**: Chinese 陈皮 (橘皮、广陈皮、新会皮)
 - **Source**: the dried ripe peel of *Citrus reticulata* Blanco (mandarin orange) and its cultivars, Rutaceae. The herb is divided into "*Chenpi*" and "*Guang Chenpi*" (the peel of the Chachi mandarin from the Xinhui area of Guangdong)
 - **Distribution and habitat**: widely cultivated south of the Yangtze
 - **Identification**:
@@ -345,7 +345,7 @@ Qi-regulating herbs are mostly pungent, aromatic and dispersing, and are used fo
 
 ### 3.2 Qingpi (green tangerine peel)
 
-- **Name (aliases)**: *Qingpi* (*Ge Qingpi*, *Sihua Qingpi*); Chinese 青皮 (个青皮、四花青皮)
+- **Qingpi (Ge Qingpi, Sihua Qingpi)**: Chinese 青皮 (个青皮、四花青皮)
 - **Source**: the dried young fruit, or the peel of the unripe fruit, of *Citrus reticulata* Blanco (mandarin orange) and its cultivars, Rutaceae
 - **Distribution and habitat**: as for *Chenpi*
 - **Identification**:
@@ -360,7 +360,7 @@ Qi-regulating herbs are mostly pungent, aromatic and dispersing, and are used fo
 
 ### 3.3 Zhishi (immature bitter orange)
 
-- **Name (aliases)**: *Zhishi* (*Jiang Zhishi*, *E'yan Zhishi*); Chinese 枳实 (江枳实、鹅眼枳实)
+- **Zhishi (Jiang Zhishi, E'yan Zhishi)**: Chinese 枳实 (江枳实、鹅眼枳实)
 - **Source**: the dried **young fruit** of *Citrus aurantium* L. (bitter orange) and its cultivars, or of *C. sinensis* Osbeck (sweet orange), Rutaceae
 - **Distribution and habitat**: cultivated in Jiangxi, Sichuan, Hunan, Hubei, Zhejiang and elsewhere
 - **Identification**:
@@ -375,7 +375,7 @@ Qi-regulating herbs are mostly pungent, aromatic and dispersing, and are used fo
 
 ### 3.4 Zhiqiao (bitter orange)
 
-- **Name (aliases)**: *Zhiqiao* (*Jiang Zhiqiao*, *Chuan Zhiqiao*); Chinese 枳壳 (江枳壳、川枳壳)
+- **Zhiqiao (Jiang Zhiqiao, Chuan Zhiqiao)**: Chinese 枳壳 (江枳壳、川枳壳)
 - **Source**: the dried **unripe fruit** of *Citrus aurantium* L. (bitter orange) and its cultivars, Rutaceae
 - **Distribution and habitat**: as for *Zhishi*
 - **Identification**:
@@ -389,7 +389,7 @@ Qi-regulating herbs are mostly pungent, aromatic and dispersing, and are used fo
 
 ### 3.5 Shanzha (hawthorn fruit)
 
-- **Name (aliases)**: *Shanzha* (*Bei Shanzha*, *Shanlihong*, *Hongguo*); Chinese 山楂 (北山楂、山里红、红果)
+- **Shanzha (Bei Shanzha, Shanlihong, Hongguo)**: Chinese 山楂 (北山楂、山里红、红果)
 - **Source**: the dried ripe fruit of *Crataegus pinnatifida* Bge. var. *major* N. E. Br. (large-fruited Chinese hawthorn) or *C. pinnatifida* Bge. (Chinese hawthorn), Rosaceae
 - **Distribution and habitat**: Shandong, Hebei, Henan, Liaoning, Shanxi and elsewhere; mostly cultivated; wild on hillsides and forest edges
 - **Identification**:
@@ -404,7 +404,7 @@ Qi-regulating herbs are mostly pungent, aromatic and dispersing, and are used fo
 
 ### 3.6 Laifuzi (radish seed)
 
-- **Name (aliases)**: *Laifuzi* (*Luobozi*, written 萝卜子 or 萝卜籽); Chinese 莱菔子 (萝卜子、萝卜籽)
+- **Laifuzi (Luobozi, written 萝卜子 or 萝卜籽)**: Chinese 莱菔子 (萝卜子、萝卜籽)
 - **Source**: the dried ripe seed of *Raphanus sativus* L. (radish), Brassicaceae
 - **Distribution and habitat**: cultivated throughout China
 - **Identification**:
@@ -419,7 +419,7 @@ Qi-regulating herbs are mostly pungent, aromatic and dispersing, and are used fo
 
 ### 3.7 Chuanlianzi (toosendan fruit)
 
-- **Name (aliases)**: *Chuanlianzi* (*Jinlingzi*, *Chuanlianshi*); Chinese 川楝子 (金铃子、川楝实)
+- **Chuanlianzi (Jinlingzi, Chuanlianshi)**: Chinese 川楝子 (金铃子、川楝实)
 - **Source**: the dried ripe fruit of *Melia toosendan* Sieb. et Zucc. (Sichuan chinaberry), Meliaceae
 - **Distribution and habitat**: Sichuan, Yunnan, Guizhou, Hubei, Hunan and elsewhere; plains, low hills and around villages
 - **Identification**:
@@ -443,7 +443,7 @@ Most herbs in this group are cool in nature and are used for fever, sore throat,
 
 ### 4.1 Zhizi (gardenia fruit)
 
-- **Name (aliases)**: *Zhizi* (*Shanzhi*, *Huangzhizi*, *Shanzhizi*); Chinese 栀子 (山栀、黄栀子、山栀子)
+- **Zhizi (Shanzhi, Huangzhizi, Shanzhizi)**: Chinese 栀子 (山栀、黄栀子、山栀子)
 - **Source**: the dried ripe fruit of *Gardenia jasminoides* Ellis (gardenia), Rubiaceae
 - **Distribution and habitat**: hillside thickets and forest edges in Jiangxi, Hunan, Hubei, Zhejiang, Fujian, Sichuan and elsewhere; widely cultivated (it is the gardenia flower)
 - **Identification**:
@@ -459,7 +459,7 @@ Most herbs in this group are cool in nature and are used for fever, sore throat,
 
 ### 4.2 Lianqiao (forsythia fruit)
 
-- **Name (aliases)**: *Lianqiao* (*Qingqiao*, *Laoqiao*, *Huangqiao*); Chinese 连翘 (青翘、老翘、黄翘)
+- **Lianqiao (Qingqiao, Laoqiao, Huangqiao)**: Chinese 连翘 (青翘、老翘、黄翘)
 - **Source**: the dried fruit of *Forsythia suspensa* (Thunb.) Vahl (weeping forsythia), Oleaceae
 - **Distribution and habitat**: hillside thickets and forest edges in Shanxi, Henan, Shaanxi, Hebei, Shandong and elsewhere; often planted in cities as an early-spring ornamental shrub
 - **Identification**:
@@ -478,7 +478,7 @@ Most herbs in this group are cool in nature and are used for fever, sore throat,
 
 ### 4.3 Juemingzi (cassia seed)
 
-- **Name (aliases)**: *Juemingzi* (*Caojueming*, *Mati Jueming*); Chinese 决明子 (草决明、马蹄决明)
+- **Juemingzi (Caojueming, Mati Jueming)**: Chinese 决明子 (草决明、马蹄决明)
 - **Source**: the dried ripe seed of *Cassia obtusifolia* L. (sicklepod) or *C. tora* L. (sickle senna, "small *Jueming*"), Fabaceae
 - **Distribution and habitat**: wild or cultivated south of the Yangtze; also cultivated in the north
 - **Identification**:
@@ -495,7 +495,7 @@ Most herbs in this group are cool in nature and are used for fever, sore throat,
 
 ### 4.4 Niubangzi (burdock fruit)
 
-- **Name (aliases)**: *Niubangzi* (*Dalizi*, *Shunianzi*, *Eshi*); Chinese 牛蒡子 (大力子、鼠粘子、恶实)
+- **Niubangzi (Dalizi, Shunianzi, Eshi)**: Chinese 牛蒡子 (大力子、鼠粘子、恶实)
 - **Source**: the dried ripe fruit of *Arctium lappa* L. (greater burdock), Asteraceae
 - **Distribution and habitat**: hillsides, roadsides, villages and forest edges throughout China; cultivated in the north-east, Zhejiang and elsewhere (the root is eaten as the vegetable "burdock")
 - **Identification**:
@@ -514,7 +514,7 @@ Most herbs in this group are cool in nature and are used for fever, sore throat,
 
 ### 4.5 Manjingzi (vitex fruit)
 
-- **Name (aliases)**: *Manjingzi* (*Jingzi*, *Wanjingzi*); Chinese 蔓荆子 (荆子、万荆子)
+- **Manjingzi (Jingzi, Wanjingzi)**: Chinese 蔓荆子 (荆子、万荆子)
 - **Source**: the dried ripe fruit of *Vitex trifolia* L. var. *simplicifolia* Cham. (simple-leaf chaste tree) or *V. trifolia* L. (three-leaf chaste tree), Verbenaceae
 - **Distribution and habitat**: simple-leaf chaste tree grows on **sandy beaches by the sea** in Shandong, Jiangsu, Zhejiang, Fujian, Guangdong and elsewhere; three-leaf chaste tree is found in south China
 - **Identification**:
@@ -522,3 +522,381 @@ Most herbs in this group are cool in nature and are used for fever, sore throat,
   - Crude herb: spherical, 4-6 mm across; surface greyish-black or blackish-brown, covered with greyish-white frost-like down, with 4 shallow lengthwise grooves; **a greyish-white persistent calyx at the base**, 1/3-2/3 the length of the fruit, densely downy; light, tough; 4 chambers in cross-section; **peculiar aromatic smell**, bland and slightly pungent taste
 - **Look-alikes**: the fruits of the related *Huangjing* (*Vitex negundo*) and *Mujing* (*Vitex negundo* var. *cannabifolia*) – common shrubs on hillsides – are smaller; they are local substitutes and cannot replace *Manjingzi*
 - **Harvest and processing**: pick in autumn when the fruit is ripe, remove impurities and sun-dry
+- **Storage**: keep dry; protect from mould
+- **Actions**: disperses wind-heat, clears the head and eyes
+- **Dose**: 5-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
+- **Contraindications**: use with caution for headache and dizziness caused by blood deficiency; repeated severe headaches need a doctor to find the cause first
+
+### 4.6 Luohanguo (monk fruit)
+
+- **Luohanguo (Lahanguo, Jiakugua)**: Chinese 罗汉果 (拉汗果、假苦瓜)
+- **Source**: the dried fruit of *Siraitia grosvenorii* (Swingle) C. Jeffrey ex A. M. Lu et Z. Y. Zhang (monk fruit), Cucurbitaceae
+- **Distribution and habitat**: the main producing area is around Guilin (Yongfu, Lingui) in Guangxi, almost all cultivated; wild in mountain forests of south China
+- **Identification**:
+  - Plant: perennial herbaceous climber with tendrils; leaves heart-shaped to ovate; male and female plants separate; fruit round or elliptical, with yellow soft hairs
+  - Crude herb: ovoid, elliptical or spherical, 4.5-8.5 cm long, 3.5-6 cm across; surface **brown, yellowish-brown or greenish-brown**, with darker patches and yellow soft hairs; **light, brittle, the skin thin and easily broken**; pulp spongy, light brown; many seeds, flattened round, light red to brownish-red, grooved at the edge; **tastes sweet**
+- **Look-alikes**: not easily confused; choose fruit that is large, whole, does not rattle when shaken, and is undamaged and free of mould
+- **Harvest and processing**: pick in autumn when the fruit turns from light green to deep green, air for a few days, then dry at low heat
+- **Storage**: the skin is thin and brittle, so handle gently; prone to mould when damp; seal and keep dry
+- **Actions**: clears heat and moistens the lung, soothes the throat and restores the voice, lubricates the intestines and relieves constipation
+- **Dose**: 9-15 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
+- **Contraindications**: use with caution in people with a cold, weak digestion or diarrhoea
+
+### 4.7 Pangdahai (malva nut)
+
+- **Pangdahai (Annanzi, Dahaizi, Tongdahai)**: Chinese 胖大海 (安南子、大海子、通大海)
+- **Source**: the dried ripe seed of *Sterculia lychnophora* Hance (malva nut tree), Sterculiaceae
+- **Distribution and habitat**: mainly Vietnam, Thailand, Cambodia, Indonesia and other countries of South-East Asia, and most of the herb on the market is imported; small amounts are grown in Hainan and Guangxi
+- **Identification**:
+  - Crude herb: **spindle-shaped or elliptical**, 2-3 cm long, 1-1.5 cm across; tip bluntly rounded, base slightly pointed and skewed; surface **brown or dark brown**, slightly glossy, with irregular shrinkage wrinkles; the outer seed coat is very thin and falls off easily; the middle seed coat is fairly thick, blackish-brown, loose and crumbly, and **swells into a sponge in water**; bland taste, slimy when chewed
+  - Water test: put in hot water, it swells quickly to several times its volume, forming a brown, translucent, spongy mass – one that does not swell is fake or old
+- **Look-alikes**: seeds of other plants in the same genus have been passed off as it (they swell poorly)
+- **Harvest and processing**: collect the seeds when the fruit is ripe and splits open; sun-dry
+- **Storage**: keep dry; protect from mould and insects
+- **Actions**: clears heat and moistens the lung, soothes the throat and restores the voice, moistens the intestines and relieves constipation
+- **Dose**: 2-3 seeds, steeped in boiling water and drunk, or decocted (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
+- **Contraindications**: **do not drink it as a tea long-term**: it is cold in nature and loosens the bowels, and long-term use can cause diarrhoea and loss of appetite, especially in people with a cold, weak digestion; allergic reactions have been reported. Not suitable for a sore throat or hoarseness caused by a wind-cold common cold. **If hoarseness has not improved after 2 weeks, go to hospital to have your larynx examined** – do not keep relying on *Pangdahai*
+
+---
+
+## 5. Damp-resolving and diuretic herbs
+
+*Sharen*, *Doukou* and *Caoguo* are aromatic fruits of the ginger family, and **their smell is the key to identifying them and judging their quality** – a faint aroma means they have been stored too long and lost their volatile oil. *Yiyiren* and *Cheqianzi* promote urination and drain damp, and *Mugua* relaxes the sinews and resolves damp; they are placed in this group.
+
+### 5.1 Sharen (amomum fruit)
+
+- **Sharen (Yangchunsha, Chunsharen, Suosharen)**: Chinese 砂仁 (阳春砂、春砂仁、缩砂仁)
+- **Source**: the dried ripe fruit of *Amomum villosum* Lour. (Yangchun amomum), *A. villosum* Lour. var. *xanthioides* T. L. Wu et Senjen (green-shell amomum) or *A. longiligulare* T. L. Wu (Hainan amomum), Zingiberaceae
+- **Distribution and habitat**: Yangchun in Guangdong, Guangxi, Yunnan, Hainan and elsewhere; shady, damp places under forest in valleys; mostly cultivated
+- **Identification**:
+  - Plant: perennial herb, 1.5-3 m tall, with creeping rhizomes; leaves in two rows, lanceolate, like ginger leaves; **flower spikes rise from the rhizome, close to the ground**; capsules elliptical with soft spines
+  - Crude herb (Yangchun and green-shell amomum): elliptical or ovoid, faintly three-angled, 1.5-2 cm long, 1-1.5 cm across; surface dark brown, **densely covered with spine-like bumps**; skin thin and soft; seeds clumped in a mass, divided into 3 sections by white membranes, 5-26 seeds per section; seeds irregular polyhedra, 2-3 mm across, brownish-red or dark brown, wrapped in a light brown membranous aril; **strong aromatic smell, pungent and cooling, slightly bitter taste**
+  - Hainan amomum: long-elliptical, **clearly three-angled**, with flaky, branched soft spines; skin thick and hard; smell and taste somewhat weaker
+- **Look-alikes/fakes**: fruits of *Alpinia* species ("local *Sharen*"), red-shell *Sharen* and others are passed off as it, with a weaker or different smell. When buying, break one open, smell it, and check that the seed mass is divided into 3 sections
+- **Harvest and processing**: pick in summer and autumn when the fruit is ripe; sun-dry or dry at low heat
+- **Storage**: contains volatile oil; **seal to stop the aroma escaping**; do not store for long
+- **Actions**: resolves damp and opens the appetite, warms the spleen and stops diarrhoea, regulates qi and calms the foetus
+- **Dose**: 3-6 g, **added towards the end of decoction** (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
+- **Contraindications**: use with caution in people with yin deficiency with dry blood or strong internal fire-heat; "calming the foetus" must be decided by a doctor
+
+### 5.2 Doukou (round cardamom)
+
+- **Doukou (Baidoukou, Baikou, Zikou)**: Chinese 豆蔻 (白豆蔻、白蔻、紫蔻)
+- **Source**: the dried ripe fruit of *Amomum kravanh* Pierre ex Gagnep. (Siam cardamom) or *A. compactum* Soland ex Maton (Java cardamom), Zingiberaceae. By origin it is divided into "original *Doukou*" and "Indonesian white *Doukou*"
+- **Distribution and habitat**: mainly Thailand, Cambodia and Indonesia, and most of the herb on the market is imported; introduced to Yunnan and Hainan
+- **Identification**:
+  - Original *Doukou*: **roughly spherical**, 1.2-1.8 cm across; surface **yellowish-white to pale yellowish-brown**, with 3 fairly deep lengthwise grooves and light brown hairs at both ends; the shell is light and brittle and splits easily lengthwise, with 3 chambers inside and about 10 seeds per chamber; seeds irregular polyhedra, 3-4 mm across, dark brown; **aromatic smell, pungent and cooling taste, a little like camphor**
+  - Indonesian white *Doukou*: slightly smaller, surface yellowish-white, some slightly purplish-brown; shell thinner, seeds thin and shrivelled; weaker smell and taste
+- **Look-alikes**: several herbs have "*kou*" in their names, and they cannot replace one another:
+  - **Nutmeg** (*Roudoukou*; Myristicaceae; the kernel, ovoid with a net of grooves on the surface): a different herb, **toxic in large amounts** (can cause hallucinations and palpitations); do not use large amounts as a spice
+  - *Caodoukou* (the seed mass of an *Alpinia* species, ginger family) and *Hongdoukou* (galangal fruit): both are different herbs
+- **Harvest and processing**: pick when the fruit is ripe; sun-dry
+- **Storage**: as for *Sharen*: seal so the aroma does not escape
+- **Actions**: resolves damp and moves qi, warms the middle and stops vomiting, opens the appetite and aids digestion
+- **Dose**: 3-6 g, **added towards the end of decoction** (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
+- **Contraindications**: use with caution in people with yin deficiency and dry blood
+
+### 5.3 Caoguo (tsaoko fruit)
+
+- **Caoguo (Caoguoren, Laokou)**: Chinese 草果 (草果仁、老蔻)
+- **Source**: the dried ripe fruit of *Amomum tsao-ko* Crevost et Lemaire (tsaoko), Zingiberaceae
+- **Distribution and habitat**: shady, damp places under forest in valleys in Yunnan, Guangxi and Guizhou; mostly cultivated; also a common spice
+- **Identification**:
+  - Plant: perennial clump-forming herb, 2-3 m tall; leaves in two rows, long-elliptical; flower spikes rise from the rhizome; capsules densely clustered in spikes, red when ripe
+  - Crude herb: **long-elliptical with three blunt angles**, 2-4 cm long, 1-2.5 cm across; surface **greyish-brown to reddish-brown**, with lengthwise grooves and ridge lines, and a round raised style base at the tip; shell tough, tears easily lengthwise; inside, yellowish-brown membranes divide the seed mass into 3 sections, mostly 8-11 seeds per section; seeds conical polyhedra, about 5 mm across, reddish-brown, wrapped in a greyish-white membranous aril; **peculiar aroma**, pungent and slightly bitter taste
+- **Look-alikes**: much bigger than *Sharen* and *Doukou*, not easily confused; watch for mould
+- **Harvest and processing**: pick in autumn when the fruit is ripe, remove impurities, and sun-dry or dry at low heat
+- **Storage**: seal against damp and loss of aroma
+- **Actions**: dries damp and warms the middle, checks malaria and dispels phlegm
+- **Dose**: 3-6 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
+- **Contraindications**: use with caution in people with yin deficiency, blood deficiency, or no cold-damp. "Checking malaria" is an ancient use: **malaria must be treated by a doctor with antimalarial drugs**; *Caoguo* will not cure it
+
+### 5.4 Yiyiren (coix seed)
+
+- **Yiyiren (Yimi, Yiren, Liugumi)**: Chinese 薏苡仁 (薏米、苡仁、六谷米)
+- **Source**: the dried ripe kernel of *Coix lacryma-jobi* L. var. *ma-yuen* (Roman.) Stapf (cultivated Job's tears), Poaceae
+- **Distribution and habitat**: cultivated in Guizhou, Guangxi, Fujian, Zhejiang, Yunnan and elsewhere; wild relatives (wild Job's tears, "grass beads") grow by streams and in wetlands
+- **Identification**:
+  - Plant: stout annual herb, 1-2 m tall, like a maize seedling; leaf blades broad and linear; the fruit is enclosed in a **bony, glossy involucre** (in wild Job's tears the involucre is very hard and white, grey or black, and children often thread them as beads; in cultivated coix the involucre is thinner and breaks easily)
+  - Crude herb: broadly ovoid or long-elliptical, 4-8 mm long, 3-6 mm wide; surface **milky white**, smooth, sometimes with remnants of yellowish-brown seed coat; one end bluntly rounded, the other broader and slightly hollowed, with a light brown dot-like hilum; **1 broad, deep lengthwise groove on the front face**; hard, white and starchy inside; tastes slightly sweet
+- **Look-alikes/fakes**: processed pearl barley or sorghum grains passed off as it (they lack the broad, deep groove); the kernels of wild Job's tears are smaller and are not used as *Yiyiren*
+- **Harvest and processing**: in autumn when the fruit is ripe, cut the plants, sun-dry, thresh out the fruit, sun-dry again, remove the husks, the yellowish-brown seed coat and impurities, and collect the kernels
+- **Storage**: rich in starch, **very prone to insect damage and mould**; **do not eat any that is mouldy, yellowed or smells musty** (it may contain aflatoxin, which damages the liver and causes cancer)
+- **Actions**: promotes urination and drains damp, strengthens the spleen and stops diarrhoea, relieves painful obstruction, expels pus, removes toxins and dissipates lumps
+- **Dose**: 9-30 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner); eating small amounts as a grain is generally safe
+- **Contraindications**: **use with caution in pregnancy**; people short of body fluids or with dry, hard stools should not use much
+
+### 5.5 Cheqianzi (plantain seed)
+
+- **Cheqianzi (Cheqianshi, Fengyan Qianren)**: Chinese 车前子 (车前实、凤眼前仁)
+- **Source**: the dried ripe seed of *Plantago asiatica* L. (Asian plantain) or *P. depressa* Willd. (depressed plantain), Plantaginaceae
+- **Distribution and habitat**: roadsides, field banks, grassland and around houses throughout China; extremely common
+- **Identification**:
+  - Plant: herb, **all leaves basal in a rosette**, ovate or elliptical, with **5-7 arching veins** (tear the leaf stalk and you can see the stringy veins); flower spikes long, thin and upright; when ripe the capsule **splits around the middle and the top half comes off like a lid**. Asian plantain has many fibrous roots; depressed plantain has a straight taproot and narrower leaves
+  - Crude herb: elliptical, irregularly oblong or triangular-oblong, slightly flattened, about 2 mm long and 1 mm wide; surface **yellowish-brown to blackish-brown**, finely wrinkled, with a greyish-white pitted hilum on one face; hard; bland taste
+  - Water test: put in water, the surface quickly produces **mucilage**, and a transparent layer of mucilage forms around each seed
+- **Look-alikes**: other small seeds such as *Tinglizi* (descurainia seed) and *Jingjiezi* (schizonepeta seed); the one that produces mucilage in water and has a greyish-white hilum is *Cheqianzi*
+- **Harvest and processing**: in summer and autumn when the seeds are ripe, collect the spikes, sun-dry, rub out the seeds and remove impurities. Plantain by the road may be contaminated by exhaust, dust and herbicides; collect in clean places
+- **Storage**: the seeds are tiny and easily mixed with soil and sand; keep dry
+- **Actions**: clears heat, promotes urination and relieves painful urination, drains damp and stops diarrhoea, brightens the eyes, dispels phlegm
+- **Dose**: 9-15 g, **decocted wrapped** (put in a gauze bag before boiling; otherwise the mucilage makes the decoction thick and it burns easily) (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
+- **Contraindications**: use with caution in people with kidney deficiency and seminal emission, or no damp-heat; people taking diuretics should ask a doctor first. With frequent or painful urination or blood in the urine, see a doctor first. For the whole plant, see [Whole herbs – Cheqiancao](../../../docs/10-中药材识别与采集/04-全草类.md#32-车前草)
+
+### 5.6 Mugua (Chinese flowering quince)
+
+- **Mugua (Zhoupi Mugua, Xuan Mugua, Tiegeng Haitang)**: Chinese 木瓜 (皱皮木瓜、宣木瓜、贴梗海棠)
+- **Source**: the dried nearly ripe fruit of *Chaenomeles speciosa* (Sweet) Nakai (Chinese flowering quince), Rosaceae
+- **Distribution and habitat**: cultivated in Anhui (Xuancheng, "*Xuan Mugua*"), Hubei, Sichuan, Zhejiang and elsewhere; also often grown as an ornamental shrub in gardens
+- **Identification**:
+  - Plant: deciduous shrub with thorny branches; flowers in early spring, **scarlet or pale red, pressed tight against the branch** (hence the name "*Tiegeng*", "stalk pressed close"); pomes round or ovoid, yellow or tinged red, fragrant
+  - Crude herb: oblong, **mostly cut lengthwise into halves**, 4-9 cm long, 2-5 cm wide; outer surface **purplish-red or reddish-brown, with irregular deep wrinkles**; the cut edges curl inwards, flesh reddish-brown, the centre sunken and brownish-yellow; very hard; faint fresh fragrance, **sour taste**
+- **Look-alikes**: "smooth-skinned *Mugua*" (the fruit of Chinese quince, *Pseudocydonia sinensis*) has a smooth, unwrinkled surface and is a different herb; the fruit sold in supermarkets as "*mugua*" is **papaya** (Caricaceae), which has nothing to do with the herb *Mugua*
+- **Harvest and processing**: in summer and autumn when the fruit is greenish-yellow, pick it, scald in boiling water until the skin turns greyish-white, cut in half lengthwise and sun-dry (the skin wrinkles as it dries)
+- **Storage**: keep dry; protect from mould and insects
+- **Actions**: relaxes the sinews and frees the channels, harmonises the stomach and resolves damp
+- **Dose**: 6-9 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
+- **Contraindications**: not suitable for people with pent-up internal heat or scanty dark urine; use with caution in people with excess stomach acid
+
+---
+
+## 6. Interior-warming herbs
+
+Interior-warming herbs are warm or hot and pungent, and are used for cold pain in the abdomen and vomiting. **People with yin deficiency with excess fire (dry mouth, hot palms and soles, prone to "internal heat") and pregnant women should not use much**. *Wuzhuyu* is slightly toxic; do not use it yourself. *Xiaohuixiang* and *Huajiao* are everyday spices, and the amounts used as spices are generally safe.
+
+### 6.1 Wuzhuyu (evodia fruit)
+
+- **Wuzhuyu (Wuyu, Chala, Lazi)**: Chinese 吴茱萸 (吴萸、茶辣、辣子)
+- **Source**: the dried nearly ripe fruit of *Euodia rutaecarpa* (Juss.) Benth. (evodia), *E. rutaecarpa* (Juss.) Benth. var. *officinalis* (Dode) Huang or *E. rutaecarpa* (Juss.) Benth. var. *bodinieri* (Dode) Huang, Rutaceae
+- **Distribution and habitat**: open mountain woods and forest edges in Guizhou, Guangxi, Hunan, Zhejiang, Jiangxi, Sichuan and elsewhere; mostly cultivated
+- **Identification**:
+  - Plant: shrub or small tree; **odd-pinnate leaves, opposite**; held up to the light, the leaflets show **translucent oil dots**, and they smell strongly when crushed; cymose panicles at the ends of shoots; fruit purplish-red with coarse glandular dots
+  - Crude herb: **spherical or slightly five-angled flattened spheres**, 2-5 mm across; surface dark yellowish-green to brown, rough, with many raised or sunken dot-like oil glands; **a five-pointed star-shaped split at the tip**, and at the base the remains of a stalk covered in yellow hairs; hard and brittle; **strong aromatic smell, pungent, hot and bitter taste**
+- **Look-alikes**: **its Chinese name differs by only one character from *Shanzhuyu***: one is toxic, the other a tonic (see [2.1](#21-shanzhuyu-cornus-fruit)) – always check when buying herbs or writing prescriptions. Fruits of other plants in the same genus are also mixed in
+- **Toxicity** (important):
+  - The Pharmacopoeia marks it "**slightly toxic**". Modern research has confirmed it is **toxic to the liver**, mainly through evodiamine and other alkaloids and the volatile oil
+  - Signs of overdose: severe abdominal pain, diarrhoea, vomiting, headache, dizziness, chest tightness, visual disturbance, illusions, rashes; severe liver damage
+- **Harvest and processing**: in August–November, before the fruit splits, cut the fruiting branches, sun-dry or dry at low heat, and remove twigs, leaves, stalks and other impurities
+- **Storage**: store separately, label it "toxic", keep it out of reach of children; seal so the aroma does not escape
+- **Actions**: dispels cold and relieves pain, descends counterflow and stops vomiting, assists yang and stops diarrhoea
+- **Dose**: the Pharmacopoeia specifies 2-5 g; an appropriate amount externally. **It is toxic: do not use it yourself** – only on a prescription from a TCM practitioner, with the herb obtained from a regular pharmacy
+- **Contraindications**: do not take it long-term or increase the dose; do not use in people with yin deficiency with heat; pregnant women, children and people with liver disease must not use it. If signs of poisoning appear, see a doctor at once; see [General management of poisoning](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#五中毒的通用处理)
+
+### 6.2 Xiaohuixiang (fennel fruit)
+
+- **Xiaohuixiang (Huixiang, Guhuixiang, Xiaohui)**: Chinese 小茴香 (茴香、谷茴香、小茴)
+- **Source**: the dried ripe fruit of *Foeniculum vulgare* Mill. (fennel), Apiaceae
+- **Distribution and habitat**: cultivated throughout China; the young stems and leaves are eaten as the vegetable "fennel greens"
+- **Identification**:
+  - Plant: herb, 0.4-2 m tall, the whole plant with a strong fennel smell; **leaves finely divided many times into thread-like segments**; compound umbels of yellow flowers
+  - Crude herb: a double fruit (cremocarp), **cylindrical**, some slightly curved, 4-8 mm long, 1.5-2.5 mm across; surface yellowish-green or pale yellow, both ends slightly pointed, with a raised yellowish-brown style base at the tip; each half-fruit long-elliptical, **with 5 lengthwise ridges on the back**, the joining face flat and fairly broad; **peculiar aroma, tastes slightly sweet and pungent**
+- **Look-alikes**:
+  - Dill seed (flat, winged at the edge), cumin and other spice seeds have a different smell
+  - **"*Dahuixiang*" (star anise) is a different herb**. Watch out for **Japanese star anise, red star anise** and other toxic *Illicium* fruits mixed into star anise: the toxic ones have more than 8 follicles, with pointed tips **curved like a bird's beak**, and a weak or wrong smell; eating them by mistake can cause vomiting and convulsions
+  - The fruits of poisonous plants of the carrot family (water hemlock, etc.) also look similar – **use only cultivated fennel whose smell you have confirmed**, and do not collect carrot-family fruits in the wild
+- **Harvest and processing**: in autumn when the fruit is just ripe, cut the plants, sun-dry, thresh out the fruit and remove impurities
+- **Storage**: seal; protect from loss of aroma and from insects
+- **Actions**: dispels cold and relieves pain, regulates qi and harmonises the stomach
+- **Dose**: 3-6 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
+- **Contraindications**: use with caution in people with yin deficiency with excess fire. A hernia or a painful, swollen testicle needs a doctor first to rule out an emergency (such as testicular torsion or a strangulated hernia)
+
+### 6.3 Huajiao (Sichuan pepper)
+
+- **Huajiao (Chuanjiao, Shujiao, Qinghuajiao)**: Chinese 花椒 (川椒、蜀椒、青花椒)
+- **Source**: the dried ripe **peel** of *Zanthoxylum schinifolium* Sieb. et Zucc. (green Sichuan pepper) or *Z. bungeanum* Maxim. (red Sichuan pepper), Rutaceae
+- **Distribution and habitat**: Sichuan, Shaanxi, Gansu, Hebei, Shandong, Shanxi and elsewhere; mostly cultivated
+- **Identification**:
+  - Plant: shrub or small tree, **with prickles on the trunk, branches and leaf axes**; odd-pinnate leaves, leaflets finely toothed with translucent oil dots between the teeth; fruit round, red (red Sichuan pepper) or green (green Sichuan pepper) when ripe, with warty oil dots on the surface
+  - Red Sichuan pepper herb: follicles mostly single, 4-5 mm across; outer surface **purplish-red or brownish-red**, with many scattered **warty raised oil dots**, translucent when held up to the light; inner surface pale yellow; **strong aroma, numbing, hot taste that lasts**
+  - Green Sichuan pepper herb: mostly 2-3 small follicles separate at the top, 3-4 mm across; outer surface **greyish-green or dark green**, with a raised net of wrinkles; remaining seeds ovoid, black and glossy; aromatic smell, tastes slightly sweet and pungent
+- **Look-alikes**: the peel of related plants such as wild Sichuan pepper and bamboo-leaf pepper is less numbing or smells different; these are mostly local substitutes. The black seeds are called "*Jiaomu*", a different herb, and are removed before medicinal use
+- **Harvest and processing**: pick ripe fruit in autumn, sun-dry, and remove the seeds and impurities. Wear gloves when picking, to guard against the prickles
+- **Storage**: seal; protect from loss of aroma and from damp
+- **Actions**: warms the middle and relieves pain, kills parasites and relieves itching
+- **Dose**: 3-6 g; externally, an appropriate amount, decocted for fumigating and washing (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
+- **Contraindications**: use with caution in people with yin deficiency with excess fire; pregnant women should not use much. When fumigating and washing, take care not to scald yourself; do not use on broken skin
+
+---
+
+## 7. Cough-relieving and laxative herbs
+
+All the herbs in this group are oil-rich seeds that moisten the intestines and relieve constipation; *Kuxingren*, *Taoren* and *Zisuzi* also stop cough and calm wheezing. **Bitter apricot kernel and peach kernel contain amygdalin, and eaten raw in excess they cause cyanide poisoning**; because the seeds are oil-rich, all of them must be protected from going oily in storage.
+
+### 7.1 Kuxingren (bitter apricot kernel)
+
+- **Kuxingren (Beixingren, Xingren)**: Chinese 苦杏仁 (北杏仁、杏仁)
+- **Source**: the dried ripe seed of *Prunus armeniaca* L. var. *ansu* Maxim. (ansu apricot), *P. sibirica* L. (Siberian apricot), *P. mandshurica* (Maxim.) Koehne (Manchurian apricot) or *P. armeniaca* L. (apricot), Rosaceae
+- **Distribution and habitat**: hillsides and low hills in north, north-west and north-east China; wild or cultivated
+- **Identification**:
+  - Crude herb: **flattened heart-shaped**, 1-1.9 cm long, 0.8-1.5 cm wide, 0.5-0.8 cm thick; surface yellowish-brown to deep brown; one end pointed, the other bluntly rounded and plump, **asymmetrical left to right**; a short linear hilum beside the pointed end, and many deep brown veins running up from the chalaza at the rounded end; seed coat thin, 2 cotyledons, milky white and oily; **bitter taste**
+- **Look-alikes**: the snack "sweet apricot kernel" (southern apricot kernel) is larger and flatter and not bitter; "American big apricot kernels" are actually almonds. **Peach kernel** looks similar but is flatter and longer, with granular bumps on the surface (see [7.2](#72-taoren-peach-kernel))
+- **Toxicity** (important):
+  - The Pharmacopoeia marks it "**slightly toxic**". It contains **amygdalin**, which breaks down in the body to release **hydrocyanic acid (cyanide)**
+  - Signs of poisoning (half an hour to a few hours after eating): bitter, astringent taste in the mouth, drooling, nausea, vomiting, dizziness, headache, palpitations, rapid breathing, and in severe cases loss of consciousness, convulsions and breathing stopping. **A dozen or so raw bitter apricot kernels can severely poison a child**
+  - For details see [Bitter apricot kernel](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#412-苦杏仁)
+- **Harvest and processing**: in summer, collect ripe fruit, remove the flesh and the stone shell, take out the seeds and sun-dry
+- **Storage**: rich in oil, **very prone to going oily and insect damage**; keep cool, dark and sealed, and do not store for long; store separately, out of reach of children
+- **Actions**: descends qi, stops cough and calms wheezing, moistens the intestines and relieves constipation
+- **Dose**: 5-10 g; when the raw herb is used in a decoction, **add it towards the end** (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner). **Do not take too much internally**
+- **Contraindications**: **do not eat it raw**, and do not crack apricot stones yourself to eat the kernels; babies and children must not use it on their own; use with caution in pregnant women and people with loose stools. If the symptoms above appear after eating it by mistake, call 120 at once
+
+### 7.2 Taoren (peach kernel)
+
+- **Taoren (Maotaoren, Shantaoren)**: Chinese 桃仁 (毛桃仁、山桃仁)
+- **Source**: the dried ripe seed of *Prunus persica* (L.) Batsch (peach) or *P. davidiana* (Carr.) Franch. (David's peach), Rosaceae
+- **Distribution and habitat**: peach is cultivated throughout China; David's peach grows wild on hillsides and in valleys in north and north-west China
+- **Identification**:
+  - *Taoren*: **flattened long-ovoid**, 1.2-1.8 cm long, 0.8-1.2 cm wide, 0.2-0.4 cm thick; surface yellowish-brown to reddish-brown, **densely covered with granular bumps**; one end pointed, the middle swollen, the other end bluntly rounded and slightly skewed, edges fairly thin; 2 cotyledons, whitish, oily; slightly bitter taste
+  - *Shantaoren* (David's peach kernel): roughly ovoid, smaller and plumper, about 0.9 cm long, 0.7 cm wide and 0.5 cm thick
+- **Difference from *Kuxingren***: apricot kernel is **heart-shaped, fairly thick and fairly smooth**; peach kernel is **flat and long, fairly thin, with granular bumps on the surface**. Both contain amygdalin, and neither may be eaten raw in excess
+- **⚠️ Risk of cyanogenic glycoside poisoning**: peach kernel also contains amygdalin, and **eaten raw in excess it can cause cyanide poisoning**, with the same signs as bitter apricot kernel (see [7.1](#71-kuxingren-bitter-apricot-kernel) and [Bitter apricot kernel](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#412-苦杏仁)); children must not crack peach stones to eat the kernels
+- **Harvest and processing**: after the fruit is ripe, collect it, remove the flesh and the stone shell, take out the seeds and sun-dry
+- **Storage**: as for *Kuxingren*, very prone to going oily; keep cool, dark and sealed
+- **Actions**: activates blood and dispels stasis, moistens the intestines and relieves constipation, stops cough and calms wheezing
+- **Dose**: 5-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
+- **Contraindications**: **use with caution in pregnancy** (it activates blood); people with heavy periods, a tendency to bleed, or taking anticoagulants or antiplatelet drugs should ask a doctor first; not suitable for people with loose stools
+
+### 7.3 Zisuzi (perilla fruit)
+
+- **Zisuzi (Suzi, Heisuzi)**: Chinese 紫苏子 (苏子、黑苏子)
+- **Source**: the dried ripe fruit of *Perilla frutescens* (L.) Britt. (perilla), Lamiaceae
+- **Distribution and habitat**: cultivated throughout China, also escaped into the wild; the leaves are a common flavouring vegetable
+- **Identification**:
+  - Plant: annual herb, **stems square**, leaves opposite, **purple on both sides or underneath**, with a distinctive aroma; whorls of flowers forming racemes, flowers pale purple (features of the mint family)
+  - Crude herb: **ovoid or roughly spherical**, about 1.5 mm across; surface greyish-brown or dark greyish-brown, with a slightly raised **dark purple net pattern**; base slightly pointed, with a greyish-white dot-like stalk scar; shell thin and brittle, easily crushed; seed yellowish-white, cotyledons whitish and oily; **aromatic when crushed**, slightly pungent taste
+- **Look-alikes**: the seeds of *Baisu* (the green-leaved variety) are larger and greyish-white, traditionally called "*Baisuzi*", and are not used as *Zisuzi*; other mint-family nutlets smell different
+- **Harvest and processing**: pick in autumn when the fruit is ripe, remove impurities and sun-dry
+- **Storage**: rich in oil, **prone to going oily** and turning rancid; seal, keep cool and dark
+- **Actions**: descends qi and resolves phlegm, stops cough and calms wheezing, moistens the intestines and relieves constipation
+- **Dose**: 3-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
+- **Contraindications**: use with caution in people with spleen deficiency and loose stools. With wheezing or difficulty breathing, see a doctor first
+- For the leaf, *Zisuye*, see [Flowers and leaves – Zisuye](../../../docs/10-中药材识别与采集/05-花叶类.md#42-紫苏叶)
+
+### 7.4 Huomaren (hemp seed)
+
+- **Huomaren (Maziren, Damaren, Huomazi)**: Chinese 火麻仁 (麻子仁、大麻仁、火麻子)
+- **Source**: the dried ripe fruit of *Cannabis sativa* L. (hemp), Moraceae
+- **Distribution and habitat**: historically grown everywhere for fibre and seed; today **growing cannabis plants is strictly controlled by the state**
+- **Identification**:
+  - Crude herb: **ovoid**, 4-5.5 mm long, 2.5-4 mm across; surface **greyish-green or greyish-yellow**, with a fine white or brown net pattern, ridged on both sides, tip slightly pointed, a round stalk scar at the base; shell thin, brittle and easily broken; seed coat green, 2 cotyledons, milky white and oily; bland taste
+- **Look-alikes**: not easily confused; watch for mould and a rancid smell
+- **Legal reminder**: cannabis is a source plant of illegal drugs. Under the Narcotics Control Law and other regulations, **growing plants of the genus Cannabis without a licence is illegal** (industrial hemp requires a licence); buy medicinal *Huomaren* from a regular pharmacy and **do not grow cannabis yourself**
+- **Harvest and processing**: pick in autumn when the fruit is ripe, remove impurities and sun-dry
+- **Storage**: rich in oil, **very prone to going oily**; seal, keep cool and dark
+- **Actions**: moistens the intestines and relieves constipation
+- **Dose**: 10-15 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
+- **Contraindications**: **do not eat large amounts**: eating a large amount of hemp seed at once (especially roasted with the shell on) has been reported to cause poisoning, with nausea, vomiting, diarrhoea, numbness of the limbs, restlessness or drowsiness, and in severe cases coma. Not suitable for people with spleen deficiency and diarrhoea. Long-term constipation needs a doctor to find the cause
+
+---
+
+## 8. Anthelmintics
+
+**If you suspect worms, see a doctor first for a stool test to find out which worm it is**. Modern deworming drugs (such as albendazole and praziquantel) work reliably and are simple to use; use them first when you can get them. With traditional anthelmintics the dose is close to the toxic dose, so children in particular must use them only under a doctor's guidance.
+
+### 8.1 Shijunzi (rangoon creeper fruit)
+
+- **Shijunzi (Liuqiuzi, Shijunzi written 史君子)**: Chinese 使君子 (留求子、史君子)
+- **Source**: the dried ripe fruit of *Quisqualis indica* L. (rangoon creeper), Combretaceae
+- **Distribution and habitat**: Sichuan, Fujian, Guangdong, Guangxi, Yunnan and elsewhere; hillside and roadside thickets; also grown as an ornamental climber
+- **Identification**:
+  - Plant: climbing shrub; leaves opposite, ovate; **flowers with a long, thin tube, the petals white when they first open, later turning pale red to red**, so that one cluster has flowers of different shades; fragrant; fruit 5-angled
+  - Crude herb: **elliptical or ovoid, with 5 lengthwise ridges**, 2.5-4 cm long, about 2 cm across; surface **blackish-brown to purplish-black**, smooth, slightly glossy; tip narrowly pointed, base bluntly rounded; very hard; **the cross-section is usually a five-pointed star**, with a roughly round hollow in the middle; seed long-elliptical or spindle-shaped, about 2 cm long, surface dark brown with lengthwise wrinkles; cotyledons yellowish-white, oily; faintly fragrant smell, slightly sweet taste
+- **Look-alikes**: its shape is distinctive (five ridges, purplish-black), so it is not easily confused
+- **Harvest and processing**: pick in autumn when the skin turns purplish-black, remove impurities and dry
+- **Storage**: prone to going oily and insect damage; store separately, out of reach of children (the kernels taste sweet, so children easily eat too many)
+- **Actions**: kills worms and dispels accumulation
+- **Dose**: *Shijunzi* 9-12 g, crushed and decocted; *Shijunzi* kernel 6-9 g, mostly in pills and powders or used alone, taken in 1-2 doses. Children: 1-1.5 kernels per year of age, roasted until fragrant and chewed, **total no more than 20 kernels a day** (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
+- **Contraindications**: **do not drink strong tea while taking it** (taken together they easily cause hiccups). **An overdose** can cause hiccups (that will not stop), dizziness, nausea, vomiting and diarrhoea, and in severe cases convulsions; do not eat much, and do not eat large amounts of the raw kernels. Before deworming a child, see a doctor for a diagnosis
+
+### 8.2 Binglang (areca nut)
+
+- **Binglang (Dafuzi, Binglangzi, Hainanzi)**: Chinese 槟榔 (大腹子、槟榔子、海南子)
+- **Source**: the dried ripe seed of *Areca catechu* L. (areca palm, betel palm), Arecaceae
+- **Distribution and habitat**: cultivated in Hainan, Yunnan and Taiwan; widely grown in South-East and South Asia
+- **Identification**:
+  - Plant: evergreen tree, trunk straight and unbranched, **with clear ring-shaped leaf scars**, looking like a coconut palm but thinner and taller; pinnate leaves clustered at the top of the trunk; fruit ovoid, orange-yellow when ripe
+  - Crude herb: **flattened spherical or conical**, 1.5-3.5 cm high, 1.5-3 cm across at the base; surface pale yellowish-brown or pale reddish-brown, with a slightly sunken net of grooves and a round sunken micropyle in the centre of the base; very hard, not easily broken; **the cut surface shows a marble-like pattern of brown seed coat and white endosperm**; astringent, slightly bitter taste
+- **Related herbs**: the fruit wall is a different herb, "*Dafupi*"; the "betel nut" that people chew is mostly processed from the unripe fruit and is not the same thing as the herb
+- **⚠️ Group 1 carcinogen**: the International Agency for Research on Cancer (IARC) classifies **areca nut** as a **Group 1 carcinogen** (definitely causes cancer in humans). **Chewing areca nut regularly (with or without tobacco) causes oral submucous fibrosis (difficulty opening the mouth), oral leukoplakia and oral cancer**; arecoline can also speed up the heart, raise blood pressure and cause addiction. **Do not chew areca nut**; if you already chew it and develop white patches in the mouth, ulcers that do not heal within two weeks, or difficulty opening your mouth, see a dentist or oral specialist as soon as possible
+- **Harvest and processing**: from late spring to early autumn, collect ripe fruit, boil in water and dry, remove the fruit wall, take out the seeds and dry
+- **Storage**: prone to insect damage and mould; keep dry
+- **Actions**: kills worms, dispels accumulation, moves qi, promotes urination, checks malaria
+- **Dose**: 3-10 g; for expelling tapeworms and fasciolopsis (giant intestinal fluke), 30-60 g (Chinese Pharmacopoeia, 2020 edition; **must be used under a doctor's guidance**). The large deworming dose may be used only for a short time, never long-term
+- **Contraindications**: overdose can cause drooling, vomiting, diarrhoea, a slow heartbeat and convulsions; **pregnant women and children must not use it on their own**; not suitable for people with spleen deficiency and loose stools or sinking qi from qi deficiency; use with caution in people with heart disease or asthma
+
+---
+
+## 9. Chapter summary
+
+### 9.1 Look-alikes and risks at a glance
+
+| Herb in this chapter | Main risk | How to avoid it |
+|---------|---------|---------|
+| *Kuxingren*, *Taoren*, kernels of mume plum, apricot, peach and plum stones | Cyanide poisoning if eaten raw in excess | Do not eat raw, do not crack stones to eat the kernels; take special care with children |
+| *Baibiandou* (and hyacinth bean pods, green beans) | Poisoning if eaten raw or undercooked | Cook thoroughly; do not eat in raw salads or just blanched |
+| *Chuanlianzi* | Slightly toxic; chinaberry fruit is more toxic | Do not use yourself; teach children not to pick and eat chinaberry fruit |
+| *Wuzhuyu* | Slightly toxic, damages the liver; name close to *Shanzhuyu* | Do not use yourself; check the name when buying herbs |
+| *Niubangzi* | Cocklebur fruit (damages the liver) collected by mistake | Check for round burrs and large leaves; cocklebur burrs are spindle-shaped |
+| *Juemingzi* | Diarrhoea from long-term use as tea; coffee senna seed (toxic) mixed in | Do not drink long-term; check the seed shape |
+| *Buguzhi* | Liver damage, photosensitive dermatitis | Do not take long-term; avoid sunlight while using it |
+| *Binglang* | Chewing causes oral cancer | Do not chew; medicinal use only short-term under a doctor's guidance |
+| *Zhishi*, *Zhiqiao*, *Qingpi*, *Taoren*, *Yiyiren*, *Binglang* | Caution in pregnancy | In pregnancy, always ask a doctor first |
+| *Xiaohuixiang*, star anise | Toxic *Illicium* fruits (Japanese star anise) mixed in | Use only cultivated, smell-confirmed fennel; do not collect wild carrot-family fruits |
+| *Gouqizi*, *Shanzhuyu*, *Wuweizi*, *Huomaren*, *Kuxingren* and other sugary or oily herbs | Going oily, insect damage, mould | Keep cool, dark and sealed; do not use if mouldy or rancid |
+| *Huomaren* | Poisoning in large amounts; growing cannabis is illegal | Buy from a regular pharmacy; do not grow it yourself |
+
+### 9.2 Self-check
+
+Before collecting or using a fruit or seed herb, confirm each point:
+
+- [ ] I have identified the whole plant (leaves, flowers, fruit), not judged from a handful of seeds alone
+- [ ] I know which poisonous plant it is most easily confused with (cocklebur fruit, chinaberry fruit, coffee senna seed, Japanese star anise, etc.) and have checked the differences
+- [ ] I will cook thoroughly anything that needs it (*Baibiandou*); I will not eat *Kuxingren* or *Taoren* raw
+- [ ] I will not use toxic herbs such as *Chuanlianzi* and *Wuzhuyu* myself
+- [ ] The fruit comes from a clean place, not from street trees, roadsides or sprayed fields
+- [ ] I know whether it goes oily or attracts insects easily and how to store it; I will throw away anything mouldy
+- [ ] It is not a herb with protected wild stocks such as *Lianqiao* or *Wuweizi*, or I have picked only part and left the parent plant
+- [ ] I know the Pharmacopoeia dose and contraindications, and will ask a TCM practitioner before using it; pregnant women, children, people with liver or kidney disease and people on long-term medication will ask a doctor first
+
+| Task | Difficulty | Risk if you get it wrong |
+|------|------|----------|
+| Recognising cultivated and food herbs (*Gouqizi*, *Dazao*, *Shanzha*, *Lianzi*, *Yiyiren*, *Huajiao*) | ⭐ | ☠️ (buying dyed, sulphur-fumigated or mouldy goods) |
+| Recognising common wild herbs (*Cheqianzi*, *Nüzhenzi*, *Jinyingzi*, *Suanzaoren*) | ⭐⭐ | ☠️☠️ (contamination, weed seeds mixed in) |
+| Telling *Niubangzi* from cocklebur fruit and *Juemingzi* from coffee senna seed in the field | ⭐⭐⭐ | ☠️☠️☠️ (liver damage, poisoning) |
+| Handling *Kuxingren*, *Taoren* and *Baibiandou* safely | ⭐⭐ | ☠️☠️☠️☠️ (cyanide poisoning, lectin poisoning) |
+| *Chuanlianzi*, *Wuzhuyu*, large deworming doses of *Binglang* | Not suitable for self-use | ☠️☠️☠️☠️ |
+
+## 📝 Key points
+
+```
+□ Do not eat Kuxingren or Taoren raw; do not crack open and eat the kernels of
+  mume plum, apricot, peach, plum or loquat stones
+□ Always cook Baibiandou and green beans thoroughly
+□ Chuanlianzi and Wuzhuyu are toxic – do not use them yourself; chinaberry fruit
+  is even more toxic
+□ Niubangzi and cocklebur fruit both have hooked prickles; cocklebur fruit is toxic
+  and damages the liver – do not collect them mixed together
+□ Areca nut is a Group 1 carcinogen – do not chew it
+□ Buguzhi damages the liver and causes photosensitivity; do not drink Juemingzi
+  or Pangdahai as a tea long-term
+□ Shanzhuyu (tonic) and Wuzhuyu (toxic) differ by one character in Chinese –
+  check when buying herbs
+□ Seed herbs are the most prone to going oily, insect damage and mould;
+  never eat anything mouldy
+□ Use Zhishi, Zhiqiao, Qingpi, Taoren, Yiyiren and Binglang with caution in pregnancy
+```
+
+---
+
+## Related chapters
+
+- ⏮️ [Roots and rhizomes (part 2)](../../../docs/10-中药材识别与采集/02-根及根茎类下.md) - *Zhimu*, *Maidong*, *Dahuang*, *Beimu*, *Yanhusuo* and other root and rhizome herbs (chapter 02)
+- ⏭️ [Whole herbs](../../../docs/10-中药材识别与采集/04-全草类.md) - *Bohe*, *Pugongying*, *Yuxingcao*, *Cheqiancao*, *Yimucao* and other whole-herb medicines
+- 🔗 [General Principles of Identifying and Collecting Chinese Medicinal Herbs](../../../docs/10-中药材识别与采集/00-总论.md) - general methods for identification, harvesting, processing, storage (preventing going oily and insect damage), safety and the law
+- 🔗 [Toxic Herbs and Poisonous Look-alikes](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md) - identification and poisoning signs of bitter apricot kernel, cocklebur fruit, ginkgo seed and others
+- 🔗 [Medicinal Plants: Identification and Cultivation](../../../docs/04-动植物培育/04-药用植物.md) - growing medicinal plants and the family herb garden
+- 🔗 [Traditional Chinese Medicine Preparations](../../../docs/06-制药技术/04-中药制剂.md) - processing (stir-frying, roasting with liquids), decoction (adding towards the end, decocting wrapped), formulas and safe use
+- 🔗 [Poisoning](../../../docs/01-日常疾病和伤害/12-中毒.md) - what to do after eating a poisonous plant or taking too much medicine
+
+---
+
+**A single seed can kill – do not eat bitter almonds raw, cook beans through, do not use toxic fruits yourself, and if you are not sure what something is, do not pick it and do not eat it.**

@@ -92,7 +92,7 @@ Most of this group are rhizomes, root tubers and bulbs of plants in the lily fam
 
 ### 1.1 Zhimu (anemarrhena rhizome)
 
-- **Pinyin (aliases in Pinyin)**: Zhimu (Maozhimu, Zhimurou, Feizhimu); Chinese 知母; Anemarrhena asphodeloides Bge.
+- **Zhimu (Maozhimu, Zhimurou, Feizhimu)**: Chinese 知母; *Anemarrhena asphodeloides* Bge.
 - **Source**: the dried rhizome of *Anemarrhena asphodeloides* Bge., lily family
 - **Distribution and habitat**: Hebei (the "Xiling Zhimu" from around Yi County is the best known), Shanxi, Inner Mongolia, Shaanxi and the North-east; dry sunny hillsides, grassland, low hills
 - **Identification**:
@@ -107,7 +107,7 @@ Most of this group are rhizomes, root tubers and bulbs of plants in the lily fam
 
 ### 1.2 Xuanshen (figwort root)
 
-- **Pinyin (aliases in Pinyin)**: Xuanshen (Yuanshen, Heishen); Chinese 玄参; Scrophularia ningpoensis Hemsl.
+- **Xuanshen (Yuanshen, Heishen)**: Chinese 玄参; *Scrophularia ningpoensis* Hemsl.
 - **Source**: the dried root of *Scrophularia ningpoensis* Hemsl., figwort family
 - **Distribution and habitat**: mainly Zhejiang (one of the "Eight Zhejiang Herbs"), also Sichuan, Hubei, Hunan, Guizhou and elsewhere; mostly cultivated; wild by streams, on hillsides under woodland, and in grassy places
 - **Identification**:
@@ -122,7 +122,7 @@ Most of this group are rhizomes, root tubers and bulbs of plants in the lily fam
 
 ### 1.3 Maidong (dwarf lilyturf tuber)
 
-- **Pinyin (aliases in Pinyin)**: Maidong (Maimendong, Cundong); Chinese 麦冬; Ophiopogon japonicus (L. f) Ker-Gawl.
+- **Maidong (Maimendong, Cundong)**: Chinese 麦冬; *Ophiopogon japonicus* (L. f) Ker-Gawl.
 - **Source**: the dried root tuber of *Ophiopogon japonicus* (L. f) Ker-Gawl., lily family
 - **Distribution and habitat**: mainly Zhejiang ("Hangmaidong") and Mianyang in Sichuan ("Chuanmaidong"); wild in damp shady places under woodland on hillsides and by streams; widely planted as ground cover in urban landscaping (do not pick from planted strips: they are often sprayed with pesticides)
 - **Identification**:
@@ -138,7 +138,7 @@ Most of this group are rhizomes, root tubers and bulbs of plants in the lily fam
 
 ### 1.4 Tiandong (Chinese asparagus tuber)
 
-- **Pinyin (aliases in Pinyin)**: Tiandong (Tianmendong); Chinese 天冬; Asparagus cochinchinensis (Lour.) Merr.
+- **Tiandong (Tianmendong)**: Chinese 天冬; *Asparagus cochinchinensis* (Lour.) Merr.
 - **Source**: the dried root tuber of *Asparagus cochinchinensis* (Lour.) Merr., lily family
 - **Distribution and habitat**: Guizhou, Sichuan, Guangxi, Yunnan, Zhejiang and elsewhere; hillsides, roadsides, open woodland, valleys
 - **Identification**:
@@ -155,7 +155,7 @@ Most of this group are rhizomes, root tubers and bulbs of plants in the lily fam
 
 ### 1.5 Yuzhu (fragrant Solomon's seal rhizome)
 
-- **Pinyin (aliases in Pinyin)**: Yuzhu (Weirui, written two ways); Chinese 玉竹; Polygonatum odoratum (Mill.) Druce
+- **Yuzhu (Weirui, written two ways)**: Chinese 玉竹; *Polygonatum odoratum* (Mill.) Druce
 - **Source**: the dried rhizome of *Polygonatum odoratum* (Mill.) Druce, lily family
 - **Distribution and habitat**: North-east, North, East and Central China; under woodland, in thickets, on shady hillsides; grown in large quantities in Hunan, Guangdong and elsewhere
 - **Identification**:
@@ -179,7 +179,7 @@ Most of this group are rhizomes, root tubers and bulbs of plants in the lily fam
 
 ### 1.6 Huangjing (polygonatum rhizome)
 
-- **Pinyin (aliases in Pinyin)**: Huangjing (Jitouhuangjing, Jiangxinghuangjing, Dahuangjing); Chinese 黄精; Polygonatum kingianum Coll. et Hemsl., P. sibiricum Red., P. cyrtonema Hua
+- **Huangjing (Jitouhuangjing, Jiangxinghuangjing, Dahuangjing)**: Chinese 黄精; *Polygonatum kingianum* Coll. et Hemsl., P. sibiricum Red., P. cyrtonema Hua
 - **Source**: the dried rhizome of *Polygonatum kingianum* Coll. et Hemsl. (Dian huangjing), *P. sibiricum* Red. (huangjing) or *P. cyrtonema* Hua (many-flowered huangjing), lily family. According to shape they are traditionally called "Dahuangjing" ("large Huangjing"), "Jitouhuangjing" ("chicken-head Huangjing") and "Jiangxinghuangjing" ("ginger-shaped Huangjing")
 - **Distribution and habitat**: *P. sibiricum* grows in the North-east, North and North-west; *P. cyrtonema* south of the Yangtze; *P. kingianum* in Yunnan, Guizhou and Sichuan; under woodland, in thickets, on damp shady hillsides
 - **Identification**:
@@ -196,7 +196,7 @@ Most of this group are rhizomes, root tubers and bulbs of plants in the lily fam
 
 ### 1.7 Baihe (lily bulb)
 
-- **Pinyin (aliases in Pinyin)**: Baihe; Chinese 百合; Lilium lancifolium Thunb., L. brownii F. E. Brown var. viridulum Baker, L. pumilum DC.
+- **Baihe**: Chinese 百合; *Lilium lancifolium* Thunb., L. brownii F. E. Brown var. viridulum Baker, L. pumilum DC.
 - **Source**: the dried fleshy bulb scales of *Lilium lancifolium* Thunb. (tiger lily), *L. brownii* F. E. Brown var. *viridulum* Baker (baihe) or *L. pumilum* DC. (coral lily), lily family
 - **Distribution and habitat**: cultivated in many parts of China (Longshan in Hunan, Yixing in Jiangsu, Lanzhou in Gansu and elsewhere); wild in grass on hillsides and at woodland edges
 - **Identification**:
@@ -218,7 +218,7 @@ Most of this group are rhizomes, root tubers and bulbs of plants in the lily fam
 
 ### 2.1 Niuxi (achyranthes root)
 
-- **Pinyin (aliases in Pinyin)**: Niuxi (Huainiuxi); Chinese 牛膝; Achyranthes bidentata Bl.
+- **Niuxi (Huainiuxi)**: Chinese 牛膝; *Achyranthes bidentata* Bl.
 - **Source**: the dried root of *Achyranthes bidentata* Bl., amaranth family
 - **Distribution and habitat**: mainly around Jiaozuo in Henan (one of the "Four Great Huai Herbs"), mostly cultivated; wild under woodland on hillsides, by roadsides and ditches
 - **Identification**:
@@ -234,7 +234,7 @@ Most of this group are rhizomes, root tubers and bulbs of plants in the lily fam
 
 ### 2.2 Chuanniuxi (cyathula root)
 
-- **Pinyin (aliases in Pinyin)**: Chuanniuxi (Tianniuxi); Chinese 川牛膝; Cyathula officinalis Kuan
+- **Chuanniuxi (Tianniuxi)**: Chinese 川牛膝; *Cyathula officinalis* Kuan
 - **Source**: the dried root of *Cyathula officinalis* Kuan, amaranth family
 - **Distribution and habitat**: Sichuan, Yunnan, Guizhou; mostly cultivated; wild at woodland edges and in grassy places at high altitude
 - **Identification**:
@@ -251,7 +251,7 @@ Most of this group are rhizomes, root tubers and bulbs of plants in the lily fam
 
 ### 2.3 Xuduan (teasel root)
 
-- **Pinyin (aliases in Pinyin)**: Xuduan (Chuanxuduan, Chuanduan); Chinese 续断; Dipsacus asper Wall. ex Henry
+- **Xuduan (Chuanxuduan, Chuanduan)**: Chinese 续断; *Dipsacus asper* Wall. ex Henry
 - **Source**: the dried root of *Dipsacus asper* Wall. ex Henry, teasel family
 - **Distribution and habitat**: Sichuan, Hubei, Hunan, Guizhou, Yunnan; grassy hillsides, woodland edges, field margins and roadsides
 - **Identification**:
@@ -266,7 +266,7 @@ Most of this group are rhizomes, root tubers and bulbs of plants in the lily fam
 
 ### 2.4 Gouji (cibotium rhizome)
 
-- **Pinyin (aliases in Pinyin)**: Gouji (Jinmaogouji, Jinmaogou); Chinese 狗脊; Cibotium barometz (L.) J. Sm.
+- **Gouji (Jinmaogouji, Jinmaogou)**: Chinese 狗脊; *Cibotium barometz* (L.) J. Sm.
 - **Source**: the dried rhizome of *Cibotium barometz* (L.) J. Sm. (golden chicken fern), Dicksoniaceae
 - **Distribution and habitat**: Fujian, Guangdong, Guangxi, Sichuan, Guizhou, Yunnan, Zhejiang and other southern regions; acid soil at the foot of hills, by gullies, in damp shade under woodland
 - **Identification**:
@@ -282,7 +282,7 @@ Most of this group are rhizomes, root tubers and bulbs of plants in the lily fam
 
 ### 2.5 Gusuibu (drynaria rhizome)
 
-- **Pinyin (aliases in Pinyin)**: Gusuibu (Hujue, Houjiang, Shenjiang); Chinese 骨碎补; Drynaria fortunei (Kunze) J. Sm.
+- **Gusuibu (Hujue, Houjiang, Shenjiang)**: Chinese 骨碎补; *Drynaria fortunei* (Kunze) J. Sm.
 - **Source**: the dried rhizome of *Drynaria fortunei* (Kunze) J. Sm., polypody family
 - **Distribution and habitat**: Zhejiang, Fujian, Hunan, Hubei, Guangdong, Guangxi, Sichuan, Guizhou, Yunnan; **grows on old tree trunks or on rocks**
 - **Identification**:
@@ -304,7 +304,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 
 ### 3.1 Yanhusuo (corydalis tuber)
 
-- **Pinyin (aliases in Pinyin)**: Yanhusuo (Yuanhu, Xuanhu); Chinese 延胡索; Corydalis yanhusuo W. T. Wang
+- **Yanhusuo (Yuanhu, Xuanhu)**: Chinese 延胡索; *Corydalis yanhusuo* W. T. Wang
 - **Source**: the dried tuber of *Corydalis yanhusuo* W. T. Wang, poppy family
 - **Distribution and habitat**: mainly Dongyang and Pan'an in Zhejiang (one of the "Eight Zhejiang Herbs"), also cultivated in Jiangsu, Anhui, Shaanxi and elsewhere; wild in grassland on low hills and at woodland edges
 - **Identification**:
@@ -320,7 +320,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 
 ### 3.2 Yujin (curcuma root tuber)
 
-- **Pinyin (aliases in Pinyin)**: Yujin (Wenyujin, Huangsiyujin, Guiyujin, Lüsiyujin); Chinese 郁金; Curcuma wenyujin Y. H. Chen et C. Ling, C. longa L., C. kwangsiensis S. G. Lee et C. F. Liang, C. phaeocaulis Val.
+- **Yujin (Wenyujin, Huangsiyujin, Guiyujin, Lüsiyujin)**: Chinese 郁金; *Curcuma wenyujin* Y. H. Chen et C. Ling, C. longa L., C. kwangsiensis S. G. Lee et C. F. Liang, C. phaeocaulis Val.
 - **Source**: the **dried root tubers** of *Curcuma wenyujin* Y. H. Chen et C. Ling, *C. longa* L. (turmeric), *C. kwangsiensis* S. G. Lee et C. F. Liang (Guangxi zedoary) or *C. phaeocaulis* Val. (zedoary), ginger family. The first two are traditionally called "Wenyujin" and "Huangsiyujin" respectively; the others, according to their appearance, are called "Guiyujin" or "Lüsiyujin"
 - **Distribution and habitat**: Rui'an in Zhejiang (Wenyujin), Sichuan (Huangsiyujin), Guangxi (Guiyujin); all cultivated
 - **Identification**:
@@ -337,7 +337,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 
 ### 3.3 Jianghuang (turmeric)
 
-- **Pinyin (aliases in Pinyin)**: Jianghuang; Chinese 姜黄; Curcuma longa L.
+- **Jianghuang**: Chinese 姜黄; *Curcuma longa* L.
 - **Source**: the dried rhizome of *Curcuma longa* L., ginger family
 - **Distribution and habitat**: Sichuan, Fujian, Guangdong, Guangxi, Yunnan, Taiwan; cultivated. It is also the main ingredient of curry powder
 - **Identification**:
@@ -352,7 +352,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 
 ### 3.4 Ezhu (zedoary rhizome)
 
-- **Pinyin (aliases in Pinyin)**: Ezhu (Peng'ezhu, Wen'ezhu, Gui'ezhu); Chinese 莪术; Curcuma phaeocaulis Val., C. kwangsiensis S. G. Lee et C. F. Liang, C. wenyujin Y. H. Chen et C. Ling
+- **Ezhu (Peng'ezhu, Wen'ezhu, Gui'ezhu)**: Chinese 莪术; *Curcuma phaeocaulis* Val., C. kwangsiensis S. G. Lee et C. F. Liang, C. wenyujin Y. H. Chen et C. Ling
 - **Source**: the dried rhizome of *Curcuma phaeocaulis* Val., *C. kwangsiensis* S. G. Lee et C. F. Liang or *C. wenyujin* Y. H. Chen et C. Ling, ginger family. The last is traditionally called "Wen'ezhu"
 - **Distribution and habitat**: Sichuan, Guangxi, Zhejiang, Fujian, Guangdong; cultivated
 - **Identification**:
@@ -367,7 +367,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 
 ### 3.5 Xiangfu (nutgrass rhizome)
 
-- **Pinyin (aliases in Pinyin)**: Xiangfu (Xiangfuzi, Suocaogen); Chinese 香附; Cyperus rotundus L.
+- **Xiangfu (Xiangfuzi, Suocaogen)**: Chinese 香附; *Cyperus rotundus* L.
 - **Source**: the dried rhizome of *Cyperus rotundus* L. (nutgrass), sedge family
 - **Distribution and habitat**: most of China; waste ground, roadsides, fields, riverbanks; a very common field weed and easy to find
 - **Identification**:
@@ -384,7 +384,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 
 ### 3.6 Muxiang (costus root)
 
-- **Pinyin (aliases in Pinyin)**: Muxiang (Yunmuxiang, Guangmuxiang); Chinese 木香; Aucklandia lappa Decne.
+- **Muxiang (Yunmuxiang, Guangmuxiang)**: Chinese 木香; *Aucklandia lappa* Decne.
 - **Source**: the dried root of *Aucklandia lappa* Decne., daisy family
 - **Distribution and habitat**: native to the region around India; it was formerly imported through Guangzhou and called "Guangmuxiang"; now produced mainly in Yunnan (called "Yunmuxiang"), also in Sichuan, and **almost entirely cultivated**
 - **Identification**:
@@ -401,7 +401,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 
 ### 3.7 Wuyao (lindera root)
 
-- **Pinyin (aliases in Pinyin)**: Wuyao (Taiwuyao, Tiantaiwuyao); Chinese 乌药; Lindera aggregata (Sims) Kosterm.
+- **Wuyao (Taiwuyao, Tiantaiwuyao)**: Chinese 乌药; *Lindera aggregata* (Sims) Kosterm.
 - **Source**: the dried root tuber of *Lindera aggregata* (Sims) Kosterm., laurel family
 - **Distribution and habitat**: Zhejiang (that from Tiantai is called "Taiwuyao"), Hunan, Anhui, Jiangxi, Guangdong, Guangxi; thickets on sunny hillsides, woodland edges
 - **Identification**:
@@ -421,7 +421,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 
 ### 4.1 Dahuang (rhubarb root)
 
-- **Pinyin (aliases in Pinyin)**: Dahuang (Chuanjun, Jiangjun, Jinwen); Chinese 大黄; Rheum palmatum L., R. tanguticum Maxim. ex Balf., R. officinale Baill.
+- **Dahuang (Chuanjun, Jiangjun, Jinwen)**: Chinese 大黄; *Rheum palmatum* L., R. tanguticum Maxim. ex Balf., R. officinale Baill.
 - **Source**: the dried root and rhizome of *Rheum palmatum* L. (Chinese rhubarb), *R. tanguticum* Maxim. ex Balf. (Tangut rhubarb) or *R. officinale* Baill. (medicinal rhubarb), knotweed family
 - **Distribution and habitat**: *R. palmatum* and *R. tanguticum* grow in the cold high mountains of Gansu, Qinghai, Tibet and north-western Sichuan ("Xidahuang", western rhubarb); *R. officinale* grows in Sichuan, Hubei and Shaanxi ("Nandahuang", southern rhubarb); mostly cultivated now
 - **Identification**:
@@ -441,7 +441,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 
 ### 4.2 Huzhang (giant knotweed rhizome)
 
-- **Pinyin (aliases in Pinyin)**: Huzhang (Huabanzhu, Suantonggan, Yinyanglian); Chinese 虎杖; Polygonum cuspidatum Sieb. et Zucc.
+- **Huzhang (Huabanzhu, Suantonggan, Yinyanglian)**: Chinese 虎杖; *Polygonum cuspidatum* Sieb. et Zucc.
 - **Source**: the dried rhizome and root of *Polygonum cuspidatum* Sieb. et Zucc., knotweed family
 - **Distribution and habitat**: East, Central, South and South-west China, also Shaanxi and Gansu; by streams in valleys, roadsides, damp ground at woodland edges, often in large stands
 - **Identification**:
@@ -457,7 +457,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 
 ### 4.3 Baimaogen (cogongrass rhizome)
 
-- **Pinyin (aliases in Pinyin)**: Baimaogen (Maogen, Simaogen); Chinese 白茅根; Imperata cylindrica Beauv. var. major (Nees) C. E. Hubb.
+- **Baimaogen (Maogen, Simaogen)**: Chinese 白茅根; *Imperata cylindrica* Beauv. var. major (Nees) C. E. Hubb.
 - **Source**: the dried rhizome of *Imperata cylindrica* Beauv. var. *major* (Nees) C. E. Hubb. (cogongrass), grass family
 - **Distribution and habitat**: throughout China; roadsides, hillsides, waste ground, field banks, riverbanks; extremely common, often in large stands
 - **Identification**:
@@ -474,7 +474,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 
 ### 4.4 Lugen (reed rhizome)
 
-- **Pinyin (aliases in Pinyin)**: Lugen (Weigen, Lumaogen); Chinese 芦根; Phragmites communis Trin.
+- **Lugen (Weigen, Lumaogen)**: Chinese 芦根; *Phragmites communis* Trin.
 - **Source**: the fresh or dried rhizome of *Phragmites communis* Trin. (common reed), grass family
 - **Distribution and habitat**: throughout China; shallow water and wetlands of rivers, lakes, ponds and marshes, growing in large stands
 - **Identification**:
@@ -491,7 +491,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 
 ### 4.5 Zexie (water plantain tuber)
 
-- **Pinyin (aliases in Pinyin)**: Zexie (Jianzexie, Chuanzexie); Chinese 泽泻; Alisma orientale (Sam.) Juzep., A. plantago-aquatica Linn.
+- **Zexie (Jianzexie, Chuanzexie)**: Chinese 泽泻; *Alisma orientale* (Sam.) Juzep., A. plantago-aquatica Linn.
 - **Source**: the dried tuber of *Alisma orientale* (Sam.) Juzep. (oriental water plantain) or *A. plantago-aquatica* Linn. (water plantain), water plantain family
 - **Distribution and habitat**: Fujian ("Jianzexie"), Sichuan ("Chuanzexie"), Jiangxi; cultivated in paddy fields; wild in marshes, shallow water and by ditches
 - **Identification**:
@@ -511,7 +511,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 
 ### 5.1 Shichangpu (grass-leaved sweet flag rhizome)
 
-- **Pinyin (aliases in Pinyin)**: Shichangpu (Jiujiechangpu is a different medicine, see below); Chinese 石菖蒲; Acorus tatarinowii Schott
+- **Shichangpu (Jiujiechangpu is a different medicine, see below)**: Chinese 石菖蒲; *Acorus tatarinowii* Schott
 - **Source**: the dried rhizome of *Acorus tatarinowii* Schott, arum family
 - **Distribution and habitat**: the Yangtze basin and southwards; **on wet rocks beside mountain streams and in shallow water**, often growing in clumps pressed against the rocks
 - **Identification**:
@@ -530,7 +530,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 
 ### 5.2 Chuanbeimu (Sichuan fritillary bulb)
 
-- **Pinyin (aliases in Pinyin)**: Chuanbeimu (Chuanbei; by appearance divided into Songbei, Qingbei, Lubei); Chinese 川贝母; Fritillaria cirrhosa D. Don and others (see Source)
+- **Chuanbeimu (Chuanbei; by appearance divided into Songbei, Qingbei, Lubei)**: Chinese 川贝母; *Fritillaria cirrhosa* D. Don and others (see Source)
 - **Source**: the dried bulb of *Fritillaria cirrhosa* D. Don, *F. unibracteata* Hsiao et K. C. Hsia, *F. przewalskii* Maxim., *F. delavayi* Franch., *F. taipaiensis* P. Y. Li or *F. unibracteata* Hsiao et K. C. Hsia var. *wabuensis* (S. Y. Tang et S. C. Yue) Z. D. Liu, S. Wang et S. C. Chen, lily family. According to appearance they are traditionally called "Songbei", "Qingbei", "Lubei" and "cultivated material"
 - **Distribution and habitat**: Sichuan, Tibet, Qinghai, Gansu, Yunnan; **alpine meadows, thickets and scree slopes at about 3000-5000 m above sea level**
 - **Identification**:
@@ -549,7 +549,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 
 ### 5.3 Zhebeimu (Zhejiang fritillary bulb)
 
-- **Pinyin (aliases in Pinyin)**: Zhebeimu (Zhebei, Xiangbei, Dabei, Zhubei); Chinese 浙贝母; Fritillaria thunbergii Miq.
+- **Zhebeimu (Zhebei, Xiangbei, Dabei, Zhubei)**: Chinese 浙贝母; *Fritillaria thunbergii* Miq.
 - **Source**: the dried bulb of *Fritillaria thunbergii* Miq., lily family
 - **Distribution and habitat**: mainly Ningbo and Pan'an in Zhejiang (one of the "Eight Zhejiang Herbs"), also Jiangsu and Anhui; mainly cultivated
 - **Identification**:
@@ -568,7 +568,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 
 ### 5.4 Shegan (blackberry lily rhizome)
 
-- **Pinyin (aliases in Pinyin)**: Shegan (Wushan, Bianzhu); Chinese 射干; Belamcanda chinensis (L.) DC.
+- **Shegan (Wushan, Bianzhu)**: Chinese 射干; *Belamcanda chinensis* (L.) DC.
 - **Source**: the dried rhizome of *Belamcanda chinensis* (L.) DC. (blackberry lily), iris family
 - **Distribution and habitat**: Hubei, Henan, Jiangsu, Anhui and most other parts of China; hillsides, grassland, woodland edges; also often grown as an ornamental
 - **Identification**:
@@ -584,7 +584,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 
 ### 5.5 Shandougen (Vietnamese sophora root)
 
-- **Pinyin (aliases in Pinyin)**: Shandougen (Guangdougen); Chinese 山豆根; Sophora tonkinensis Gagnep.
+- **Shandougen (Guangdougen)**: Chinese 山豆根; *Sophora tonkinensis* Gagnep.
 - **Source**: the dried root and rhizome of *Sophora tonkinensis* Gagnep., pea family
 - **Distribution and habitat**: Guangxi, Guangdong, Guizhou, Yunnan; rock crevices and thickets in limestone mountains
 - **Identification**:
@@ -604,7 +604,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 
 ### 5.6 Yuanzhi (polygala root)
 
-- **Pinyin (aliases in Pinyin)**: Yuanzhi (Yuanzhitong, Yuanzhirou, Xiaocaogen); Chinese 远志; Polygala tenuifolia Willd., P. sibirica L.
+- **Yuanzhi (Yuanzhitong, Yuanzhirou, Xiaocaogen)**: Chinese 远志; *Polygala tenuifolia* Willd., P. sibirica L.
 - **Source**: the dried root of *Polygala tenuifolia* Willd. (thinleaf milkwort) or *P. sibirica* L. (Siberian milkwort), milkwort family
 - **Distribution and habitat**: Shanxi, Shaanxi, Hebei, Henan, Jilin, Inner Mongolia; sunny hillsides, grassland, roadsides
 - **Identification**:
@@ -624,7 +624,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 
 ### 6.1 Ganjiang and Shengjiang (dried and fresh ginger)
 
-- **Pinyin (aliases in Pinyin)**: Ganjiang (Ganjiangpian); Shengjiang (Xianjiang); Chinese 干姜, 生姜; Zingiber officinale Rosc.
+- **Ganjiang (Ganjiangpian); Shengjiang (Xianjiang)**: Chinese 干姜, 生姜; *Zingiber officinale* Rosc.
 - **Source**: the dried rhizome (Ganjiang) or fresh rhizome (Shengjiang) of *Zingiber officinale* Rosc. (ginger), ginger family. The same plant, but dried and fresh forms have different actions
 - **Distribution and habitat**: cultivated in most parts of China; the best Ganjiang comes from Qianwei in Sichuan, Guizhou and elsewhere. For growing it see [Medicinal plants – Ginger](../../../docs/04-动植物培育/04-药用植物.md#生姜)
 - **Identification**:
@@ -643,7 +643,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 
 ### 6.2 Weilingxian (Chinese clematis root)
 
-- **Pinyin (aliases in Pinyin)**: Weilingxian (Tiejiaoweilingxian, Lingxian); Chinese 威灵仙; Clematis chinensis Osbeck, C. hexapetala Pall., C. manshurica Rupr.
+- **Weilingxian (Tiejiaoweilingxian, Lingxian)**: Chinese 威灵仙; *Clematis chinensis* Osbeck, C. hexapetala Pall., C. manshurica Rupr.
 - **Source**: the dried root and rhizome of *Clematis chinensis* Osbeck, *C. hexapetala* Pall. or *C. manshurica* Rupr., buttercup family
 - **Distribution and habitat**: *C. chinensis* grows in the Yangtze basin and southwards; *C. hexapetala* in the North-east and North; *C. manshurica* in the North-east; hillsides, woodland edges, thickets
 - **Identification**:
@@ -659,7 +659,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 
 ### 6.3 Qinjiao (large-leaf gentian root)
 
-- **Pinyin (aliases in Pinyin)**: Qinjiao (Mahuajiao, Xiaoqinjiao); Chinese 秦艽; Gentiana macrophylla Pall., G. straminea Maxim., G. crassicaulis Duthie ex Burk., G. dahurica Fisch.
+- **Qinjiao (Mahuajiao, Xiaoqinjiao)**: Chinese 秦艽; *Gentiana macrophylla* Pall., G. straminea Maxim., G. crassicaulis Duthie ex Burk., G. dahurica Fisch.
 - **Source**: the dried root of *Gentiana macrophylla* Pall. (large-leaf gentian), *G. straminea* Maxim., *G. crassicaulis* Duthie ex Burk. or *G. dahurica* Fisch. (Dahurian gentian), gentian family. According to appearance the first three are traditionally called "Qinjiao" and "Mahuajiao", and the last "Xiaoqinjiao"
 - **Distribution and habitat**: North-west, North, North-east and South-west China; alpine grassland, meadows, woodland edges
 - **Identification**:
@@ -676,7 +676,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 
 ### 6.4 Fenfangji (stephania root)
 
-- **Pinyin (aliases in Pinyin)**: Fangji (Fenfangji, Hanfangji); Chinese 防己 (粉防己); Stephania tetrandra S. Moore
+- **Fangji (Fenfangji, Hanfangji)**: Chinese 防己 (粉防己); *Stephania tetrandra* S. Moore
 - **Source**: the dried root of *Stephania tetrandra* S. Moore, moonseed family. Its official name in the Pharmacopoeia is simply "Fangji"
 - **Distribution and habitat**: Zhejiang, Anhui, Jiangxi, Fujian, Hubei, Hunan, Guangdong, Guangxi; hillsides, low hills, grassy places, edges of scrub woodland
 - **Identification**:
@@ -696,7 +696,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 
 ### 6.5 Baiji (bletilla tuber)
 
-- **Pinyin (aliases in Pinyin)**: Baiji (Baiji, written with a variant character); Chinese 白及 (白芨); Bletilla striata (Thunb.) Reichb. f.
+- **Baiji (Baiji, written with a variant character)**: Chinese 白及 (白芨); *Bletilla striata* (Thunb.) Reichb. f.
 - **Source**: the dried tuber of *Bletilla striata* (Thunb.) Reichb. f. (hyacinth orchid), orchid family
 - **Distribution and habitat**: Guizhou, Sichuan, Hunan, Hubei, Anhui, Henan, Zhejiang, Shaanxi, Yunnan; grassy hillsides, open woodland, rock crevices in ravines; now mostly cultivated, also grown as an ornamental flower
 - **Identification**:
@@ -714,7 +714,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 
 ### 6.6 Xianmao (golden eye-grass rhizome)
 
-- **Pinyin (aliases in Pinyin)**: Xianmao (Dumao, Dizong); Chinese 仙茅; Curculigo orchioides Gaertn.
+- **Xianmao (Dumao, Dizong)**: Chinese 仙茅; *Curculigo orchioides* Gaertn.
 - **Source**: the dried rhizome of *Curculigo orchioides* Gaertn., amaryllis family
 - **Distribution and habitat**: Sichuan, Yunnan, Guizhou, Guangxi, Guangdong, Fujian and other southern regions; under woodland, grassland, waste hillsides
 - **Identification**:

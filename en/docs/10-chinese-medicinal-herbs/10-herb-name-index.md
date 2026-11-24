@@ -15,15 +15,15 @@
 ## A
 
 - **[Aiye](../../../docs/10-中药材识别与采集/05-花叶类.md#53-艾叶)** (艾叶)
-- Annanzi (安南子) → [Pangdahai](../../../docs/10-中药材识别与采集/03-果实种子类.md#47-胖大海)
+- Annanzi (安南子) → [Pangdahai (malva nut)](03-fruits-and-seeds.md#47-pangdahai-malva-nut)
 
 ## B
 
 - **[Badou](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#27-巴豆)** (巴豆) ☠️
 - Baguniu (八股牛) → [Baixianpi](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#24-白鲜皮)
-- **[Baibiandou](../../../docs/10-中药材识别与采集/03-果实种子类.md#16-白扁豆)** (白扁豆)
+- **[Baibiandou (white hyacinth bean)](03-fruits-and-seeds.md#16-baibiandou-white-hyacinth-bean)** (白扁豆) · Fruits and Seeds
 - Baichongcang (百虫仓) → [Wubeizi](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#41-五倍子)
-- Baidoukou (白豆蔻) → [Doukou](../../../docs/10-中药材识别与采集/03-果实种子类.md#52-豆蔻)
+- Baidoukou (白豆蔻) → [Doukou (round cardamom)](03-fruits-and-seeds.md#52-doukou-round-cardamom)
 - **[Baifan](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#48-白矾)** (白矾)
 - Baifuling (白茯苓) → [Fuling](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#11-茯苓)
 - **[Baifuzi](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#26-白附子)** (白附子) ☠️
@@ -38,11 +38,11 @@
 - Baijiang (败酱) → [Baijiangcao (patrinia)](04-whole-herbs.md#24-baijiangcao-patrinia)
 - Baijiangcan (白僵蚕) → [Jiangcan](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#22-僵蚕)
 - **[Baijiangcao (patrinia)](04-whole-herbs.md#24-baijiangcao-patrinia)** (败酱草) · Whole Herbs
-- Baikou (白蔻) → [Doukou](../../../docs/10-中药材识别与采集/03-果实种子类.md#52-豆蔻)
+- Baikou (白蔻) → [Doukou (round cardamom)](03-fruits-and-seeds.md#52-doukou-round-cardamom)
 - Bailashupi (白蜡树皮) → [Qinpi](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#15-秦皮)
 - Bailonggu (白龙骨) → [Longgu](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#44-龙骨)
 - **[Baimaogen (cogongrass rhizome)](02-roots-and-rhizomes-2.md#43-baimaogen-cogongrass-rhizome)** (白茅根) · Roots and Rhizomes (Part 2)
-- Baimeidou (白眉豆) → [Baibiandou](../../../docs/10-中药材识别与采集/03-果实种子类.md#16-白扁豆)
+- Baimeidou (白眉豆) → [Baibiandou (white hyacinth bean)](03-fruits-and-seeds.md#16-baibiandou-white-hyacinth-bean)
 - Baimi (白蜜) → [Fengmi](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#28-蜂蜜)
 - Baimuxiang (白木香) → [Chenxiang](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#54-沉香)
 - **[Baishao (white peony root)](01-roots-and-rhizomes-1.md#22-baishao-white-peony-root)** (白芍) · Roots and Rhizomes (1)
@@ -64,24 +64,24 @@
 - Baoyuke (鲍鱼壳) → [Shijueming](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#17-石决明)
 - Beibanlangen (北板蓝根) → [Banlangen (isatis root)](01-roots-and-rhizomes-1.md#33-banlangen-isatis-root)
 - Beiqi (北芪) → [Huangqi (astragalus root)](01-roots-and-rhizomes-1.md#14-huangqi-astragalus-root)
-- Beishanzha (北山楂) → [Shanzha](../../../docs/10-中药材识别与采集/03-果实种子类.md#35-山楂)
+- Beishanzha (北山楂) → [Shanzha (hawthorn fruit)](03-fruits-and-seeds.md#35-shanzha-hawthorn-fruit)
 - **[Beishashen (glehnia root)](01-roots-and-rhizomes-1.md#55-beishashen-glehnia-root)** (北沙参) · Roots and Rhizomes (1)
-- Beiwuweizi (北五味子) → [Wuweizi](../../../docs/10-中药材识别与采集/03-果实种子类.md#22-五味子)
+- Beiwuweizi (北五味子) → [Wuweizi (schisandra berry)](03-fruits-and-seeds.md#22-wuweizi-schisandra-berry)
 - Beixianpi (北鲜皮) → [Baixianpi](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#24-白鲜皮)
-- Beixingren (北杏仁) → [Kuxingren](../../../docs/10-中药材识别与采集/03-果实种子类.md#71-苦杏仁)
+- Beixingren (北杏仁) → [Kuxingren (bitter apricot kernel)](03-fruits-and-seeds.md#71-kuxingren-bitter-apricot-kernel)
 - Beixixin (北细辛) → [Xixin (asarum)](04-whole-herbs.md#56-xixin-asarum)
 - Bianbaiye (扁柏叶) → [Cebaiye](../../../docs/10-中药材识别与采集/05-花叶类.md#52-侧柏叶)
-- Biandou (扁豆) → [Baibiandou](../../../docs/10-中药材识别与采集/03-果实种子类.md#16-白扁豆)
+- Biandou (扁豆) → [Baibiandou (white hyacinth bean)](03-fruits-and-seeds.md#16-baibiandou-white-hyacinth-bean)
 - Bianzhu (扁竹) → [Shegan (blackberry lily rhizome)](02-roots-and-rhizomes-2.md#54-shegan-blackberry-lily-rhizome)
 - **[Biejia](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#14-鳖甲)** (鳖甲)
 - **[Bimazi](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#413-蓖麻子)** (蓖麻子) ☠️
-- **[Binglang](../../../docs/10-中药材识别与采集/03-果实种子类.md#82-槟榔)** (槟榔)
-- Binglangzi (槟榔子) → [Binglang](../../../docs/10-中药材识别与采集/03-果实种子类.md#82-槟榔)
+- **[Binglang (areca nut)](03-fruits-and-seeds.md#82-binglang-areca-nut)** (槟榔) · Fruits and Seeds
+- Binglangzi (槟榔子) → [Binglang (areca nut)](03-fruits-and-seeds.md#82-binglang-areca-nut)
 - **[Bingpian](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#35-冰片)** (冰片)
 - Bingtoucao (并头草) → [Banzhilian (barbed skullcap)](04-whole-herbs.md#28-banzhilian-barbed-skullcap)
 - Bobaishao (亳白芍) → [Baishao (white peony root)](01-roots-and-rhizomes-1.md#22-baishao-white-peony-root)
 - **[Bohe (mint)](04-whole-herbs.md#11-bohe-mint)** (薄荷) · Whole Herbs
-- **[Buguzhi](../../../docs/10-中药材识别与采集/03-果实种子类.md#14-补骨脂)** (补骨脂)
+- **[Buguzhi (psoralea fruit)](03-fruits-and-seeds.md#14-buguzhi-psoralea-fruit)** (补骨脂) · Fruits and Seeds
 
 ## C
 
@@ -89,11 +89,11 @@
 - **[Cangzhu (atractylodes rhizome)](01-roots-and-rhizomes-1.md#51-cangzhu-atractylodes-rhizome)** (苍术) · Roots and Rhizomes (1)
 - Canqiang (蚕羌) → [Qianghuo (notopterygium rhizome)](01-roots-and-rhizomes-1.md#44-qianghuo-notopterygium-rhizome)
 - Cansanqi (参三七) → [Sanqi (notoginseng)](01-roots-and-rhizomes-1.md#28-sanqi-notoginseng)
-- **[Caoguo](../../../docs/10-中药材识别与采集/03-果实种子类.md#53-草果)** (草果)
-- Caoguoren (草果仁) → [Caoguo](../../../docs/10-中药材识别与采集/03-果实种子类.md#53-草果)
+- **[Caoguo (tsaoko fruit)](03-fruits-and-seeds.md#53-caoguo-tsaoko-fruit)** (草果) · Fruits and Seeds
+- Caoguoren (草果仁) → [Caoguo (tsaoko fruit)](03-fruits-and-seeds.md#53-caoguo-tsaoko-fruit)
 - Caohao (草蒿) → [Qinghao (sweet wormwood)](04-whole-herbs.md#211-qinghao-sweet-wormwood)
 - Caohonghua (草红花) → [Honghua](../../../docs/10-中药材识别与采集/05-花叶类.md#21-红花)
-- Caojueming (草决明) → [Juemingzi](../../../docs/10-中药材识别与采集/03-果实种子类.md#43-决明子)
+- Caojueming (草决明) → [Juemingzi (cassia seed)](03-fruits-and-seeds.md#43-juemingzi-cassia-seed)
 - Caomahuang (草麻黄) → [Mahuang (ephedra)](04-whole-herbs.md#16-mahuang-ephedra)
 - Caoshaoyao (草芍药) → [Chishao (red peony root)](01-roots-and-rhizomes-1.md#23-chishao-red-peony-root)
 - **[Caowu](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#21-川乌草乌附子乌头类)** (草乌) ☠️
@@ -102,18 +102,18 @@
 - Cenpi (梣皮) → [Qinpi](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#15-秦皮)
 - Chaige (柴葛) → [Gegen (kudzu root)](01-roots-and-rhizomes-1.md#41-gegen-kudzu-root)
 - **[Chaihu (bupleurum root)](01-roots-and-rhizomes-1.md#42-chaihu-bupleurum-root)** (柴胡) · Roots and Rhizomes (1)
-- Chala (茶辣) → [Wuzhuyu](../../../docs/10-中药材识别与采集/03-果实种子类.md#61-吴茱萸)
+- Chala (茶辣) → [Wuzhuyu (evodia fruit)](03-fruits-and-seeds.md#61-wuzhuyu-evodia-fruit)
 - Changshoucai (长寿菜) → [Machixian (purslane)](04-whole-herbs.md#25-machixian-purslane)
 - **[Chansu](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#221-蟾酥)** (蟾酥) ☠️
 - **[Chantui](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#21-蝉蜕)** (蝉蜕)
 - Chantui (蝉退) → [Chantui](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#21-蝉蜕)
 - Chanyi (蝉衣) → [Chantui](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#21-蝉蜕)
 - Chegulucai (车轱辘菜) → [Cheqiancao (plantain)](04-whole-herbs.md#32-cheqiancao-plantain)
-- **[Chenpi](../../../docs/10-中药材识别与采集/03-果实种子类.md#31-陈皮)** (陈皮)
+- **[Chenpi (dried tangerine peel)](03-fruits-and-seeds.md#31-chenpi-dried-tangerine-peel)** (陈皮) · Fruits and Seeds
 - **[Chenxiang](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#54-沉香)** (沉香)
 - **[Cheqiancao (plantain)](04-whole-herbs.md#32-cheqiancao-plantain)** (车前草) · Whole Herbs
-- Cheqianshi (车前实) → [Cheqianzi](../../../docs/10-中药材识别与采集/03-果实种子类.md#55-车前子)
-- **[Cheqianzi](../../../docs/10-中药材识别与采集/03-果实种子类.md#55-车前子)** (车前子)
+- Cheqianshi (车前实) → [Cheqianzi (plantain seed)](03-fruits-and-seeds.md#55-cheqianzi-plantain-seed)
+- **[Cheqianzi (plantain seed)](03-fruits-and-seeds.md#55-cheqianzi-plantain-seed)** (车前子) · Fruits and Seeds
 - Chesipi (扯丝皮) → [Duzhong](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#11-杜仲)
 - Chijian (赤箭) → [Tianma (gastrodia tuber)](01-roots-and-rhizomes-1.md#52-tianma-gastrodia-tuber)
 - **[Chishao (red peony root)](01-roots-and-rhizomes-1.md#23-chishao-red-peony-root)** (赤芍) · Roots and Rhizomes (1)
@@ -131,11 +131,11 @@
 - Chuanduan (川断) → [Xuduan (teasel root)](02-roots-and-rhizomes-2.md#23-xuduan-teasel-root)
 - Chuanduhuo (川独活) → [Duhuo (pubescent angelica root)](01-roots-and-rhizomes-1.md#45-duhuo-pubescent-angelica-root)
 - Chuanhuangbai (川黄柏) → [Huangbai](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#13-黄柏)
-- Chuanjiao (川椒) → [Huajiao](../../../docs/10-中药材识别与采集/03-果实种子类.md#63-花椒)
+- Chuanjiao (川椒) → [Huajiao (Sichuan pepper)](03-fruits-and-seeds.md#63-huajiao-sichuan-pepper)
 - Chuanjun (川军) → [Dahuang (rhubarb root)](02-roots-and-rhizomes-2.md#41-dahuang-rhubarb-root)
 - Chuanlian (川连) → [Huanglian (coptis rhizome)](01-roots-and-rhizomes-1.md#31-huanglian-coptis-rhizome)
-- Chuanlianshi (川楝实) → [Chuanlianzi](../../../docs/10-中药材识别与采集/03-果实种子类.md#37-川楝子)
-- **[Chuanlianzi](../../../docs/10-中药材识别与采集/03-果实种子类.md#37-川楝子)** (川楝子)
+- Chuanlianshi (川楝实) → [Chuanlianzi (toosendan fruit)](03-fruits-and-seeds.md#37-chuanlianzi-toosendan-fruit)
+- **[Chuanlianzi (toosendan fruit)](03-fruits-and-seeds.md#37-chuanlianzi-toosendan-fruit)** (川楝子) · Fruits and Seeds
 - **[Chuanmutong](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#39-川木通)** (川木通)
 - **[Chuanniuxi (cyathula root)](02-roots-and-rhizomes-2.md#22-chuanniuxi-cyathula-root)** (川牛膝) · Roots and Rhizomes (Part 2)
 - Chuanpu (川朴) → [Houpo](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#12-厚朴)
@@ -146,12 +146,12 @@
 - **[Chuanxinlian (andrographis)](04-whole-herbs.md#26-chuanxinlian-andrographis)** (穿心莲) · Whole Herbs
 - Chuanxuduan (川续断) → [Xuduan (teasel root)](02-roots-and-rhizomes-2.md#23-xuduan-teasel-root)
 - Chuanzexie (川泽泻) → [Zexie (water plantain tuber)](02-roots-and-rhizomes-2.md#45-zexie-water-plantain-tuber)
-- Chuanzhike (川枳壳) → [Zhike](../../../docs/10-中药材识别与采集/03-果实种子类.md#34-枳壳)
+- Chuanzhike (川枳壳) → [Zhiqiao (bitter orange)](03-fruits-and-seeds.md#34-zhiqiao-bitter-orange)
 - Chuju (滁菊) → [Juhua](../../../docs/10-中药材识别与采集/05-花叶类.md#12-菊花)
-- Chunsharen (春砂仁) → [Sharen](../../../docs/10-中药材识别与采集/03-果实种子类.md#51-砂仁)
+- Chunsharen (春砂仁) → [Sharen (amomum fruit)](03-fruits-and-seeds.md#51-sharen-amomum-fruit)
 - Cicai (刺菜) → [Xiaoji (field thistle)](04-whole-herbs.md#44-xiaoji-field-thistle)
 - Ciercai (刺儿菜) → [Xiaoji (field thistle)](04-whole-herbs.md#44-xiaoji-field-thistle)
-- Cilizi (刺梨子) → [Jinyingzi](../../../docs/10-中药材识别与采集/03-果实种子类.md#24-金樱子)
+- Cilizi (刺梨子) → [Jinyingzi (Cherokee rose hip)](03-fruits-and-seeds.md#24-jinyingzi-cherokee-rose-hip)
 - Cimeihua (刺玫花) → [Meiguihua](../../../docs/10-中药材识别与采集/05-花叶类.md#24-玫瑰花)
 - **[Cishi](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#45-磁石)** (磁石)
 - Congrong (苁蓉) → [Roucongrong (cistanche)](04-whole-herbs.md#54-roucongrong-cistanche)
@@ -160,16 +160,16 @@
 ## D
 
 - Dabei (大贝) → [Zhebeimu (Zhejiang fritillary bulb)](02-roots-and-rhizomes-2.md#53-zhebeimu-zhejiang-fritillary-bulb)
-- Dafuzi (大腹子) → [Binglang](../../../docs/10-中药材识别与采集/03-果实种子类.md#82-槟榔)
-- Dahaizi (大海子) → [Pangdahai](../../../docs/10-中药材识别与采集/03-果实种子类.md#47-胖大海)
+- Dafuzi (大腹子) → [Binglang (areca nut)](03-fruits-and-seeds.md#82-binglang-areca-nut)
+- Dahaizi (大海子) → [Pangdahai (malva nut)](03-fruits-and-seeds.md#47-pangdahai-malva-nut)
 - **[Dahuang (rhubarb root)](02-roots-and-rhizomes-2.md#41-dahuang-rhubarb-root)** (大黄) · Roots and Rhizomes (Part 2)
 - Dahuangjing (大黄精) → [Huangjing (polygonatum rhizome)](02-roots-and-rhizomes-2.md#16-huangjing-polygonatum-rhizome)
 - **[Daimao](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#38-玳瑁)** (玳瑁)
 - Daizheshi (代赭石) → [Zheshi](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#46-赭石)
 - **[Daji (Japanese thistle)](04-whole-herbs.md#45-daji-japanese-thistle)** (大蓟) · Whole Herbs
 - Dajinqiancao (大金钱草) → [Jinqiancao (lysimachia)](04-whole-herbs.md#33-jinqiancao-lysimachia)
-- Dalizi (大力子) → [Niubangzi](../../../docs/10-中药材识别与采集/03-果实种子类.md#44-牛蒡子)
-- Damaren (大麻仁) → [Huomaren](../../../docs/10-中药材识别与采集/03-果实种子类.md#74-火麻仁)
+- Dalizi (大力子) → [Niubangzi (burdock fruit)](03-fruits-and-seeds.md#44-niubangzi-burdock-fruit)
+- Damaren (大麻仁) → [Huomaren (hemp seed)](03-fruits-and-seeds.md#74-huomaren-hemp-seed)
 - **[Danggui (Chinese angelica root)](01-roots-and-rhizomes-1.md#21-danggui-chinese-angelica-root)** (当归) · Roots and Rhizomes (1)
 - **[Dangshen (codonopsis root)](01-roots-and-rhizomes-1.md#13-dangshen-codonopsis-root)** (党参) · Roots and Rhizomes (1)
 - Danpi (丹皮) → [Mudanpi](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#21-牡丹皮)
@@ -182,7 +182,7 @@
 - **[Daxueteng](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#34-大血藤)** (大血藤)
 - Dayehaizao (大叶海藻) → [Haizao](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#21-海藻)
 - Dayun (大芸) → [Roucongrong (cistanche)](04-whole-herbs.md#54-roucongrong-cistanche)
-- **[Dazao](../../../docs/10-中药材识别与采集/03-果实种子类.md#15-大枣)** (大枣)
+- **[Dazao (jujube)](03-fruits-and-seeds.md#15-dazao-jujube)** (大枣) · Fruits and Seeds
 - Dianhua (靛花) → [Qingdai](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#42-青黛)
 - Dianqinggen (靛青根) → [Banlangen (isatis root)](01-roots-and-rhizomes-1.md#33-banlangen-isatis-root)
 - Diaolanhua (吊兰花) → [Shihu (dendrobium)](04-whole-herbs.md#52-shihu-dendrobium)
@@ -203,10 +203,10 @@
 - **[Dongchongxiacao](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#14-冬虫夏草)** (冬虫夏草)
 - Dongfangfeng (东防风) → [Fangfeng (saposhnikovia root)](01-roots-and-rhizomes-1.md#43-fangfeng-saposhnikovia-root)
 - Donghua (冬花) → [Kuandonghua](../../../docs/10-中药材识别与采集/05-花叶类.md#32-款冬花)
-- Dongqingzi (冬青子) → [Nvzhenzi](../../../docs/10-中药材识别与采集/03-果实种子类.md#12-女贞子)
+- Dongqingzi (冬青子) → [Nüzhenzi (glossy privet fruit)](03-fruits-and-seeds.md#12-nüzhenzi-glossy-privet-fruit)
 - Dongsangye (冬桑叶) → [Sangye](../../../docs/10-中药材识别与采集/05-花叶类.md#41-桑叶)
 - Dongshu (冬术) → [Baizhu (white atractylodes rhizome)](01-roots-and-rhizomes-1.md#16-baizhu-white-atractylodes-rhizome)
-- **[Doukou](../../../docs/10-中药材识别与采集/03-果实种子类.md#52-豆蔻)** (豆蔻)
+- **[Doukou (round cardamom)](03-fruits-and-seeds.md#52-doukou-round-cardamom)** (豆蔻) · Fruits and Seeds
 - Dubei (肚倍) → [Wubeizi](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#41-五倍子)
 - **[Duhuo (pubescent angelica root)](01-roots-and-rhizomes-1.md#45-duhuo-pubescent-angelica-root)** (独活) · Roots and Rhizomes (1)
 - Duizuocao (对座草) → [Jinqiancao (lysimachia)](04-whole-herbs.md#33-jinqiancao-lysimachia)
@@ -220,9 +220,9 @@
 - Erbaohua (二宝花) → [Jinyinhua](../../../docs/10-中药材识别与采集/05-花叶类.md#11-金银花)
 - **[Ercha](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#44-儿茶)** (儿茶)
 - Eryelv (二叶葎) → [Baihuasheshecao (oldenlandia)](04-whole-herbs.md#27-baihuasheshecao-oldenlandia)
-- Eshi (恶实) → [Niubangzi](../../../docs/10-中药材识别与采集/03-果实种子类.md#44-牛蒡子)
+- Eshi (恶实) → [Niubangzi (burdock fruit)](03-fruits-and-seeds.md#44-niubangzi-burdock-fruit)
 - **[Ezhu (zedoary rhizome)](02-roots-and-rhizomes-2.md#34-ezhu-zedoary-rhizome)** (莪术) · Roots and Rhizomes (Part 2)
-- Eyanzhishi (鹅眼枳实) → [Zhishi](../../../docs/10-中药材识别与采集/03-果实种子类.md#33-枳实)
+- Eyanzhishi (鹅眼枳实) → [Zhishi (immature bitter orange)](03-fruits-and-seeds.md#33-zhishi-immature-bitter-orange)
 - Ezhangcai (鹅掌菜) → [Kunbu](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#22-昆布)
 
 ## F
@@ -237,10 +237,10 @@
 - Fengdanpi (凤丹皮) → [Mudanpi](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#21-牡丹皮)
 - **[Fengfang](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#29-蜂房)** (蜂房)
 - **[Fengmi](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#28-蜂蜜)** (蜂蜜)
-- Fengyanqianren (凤眼前仁) → [Cheqianzi](../../../docs/10-中药材识别与采集/03-果实种子类.md#55-车前子)
+- Fengyanqianren (凤眼前仁) → [Cheqianzi (plantain seed)](03-fruits-and-seeds.md#55-cheqianzi-plantain-seed)
 - **[Fuling](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#11-茯苓)** (茯苓)
 - Fulingge (茯苓个) → [Fuling](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#11-茯苓)
-- **[Fupenzi](../../../docs/10-中药材识别与采集/03-果实种子类.md#25-覆盆子)** (覆盆子)
+- **[Fupenzi (Chinese raspberry)](03-fruits-and-seeds.md#25-fupenzi-chinese-raspberry)** (覆盆子) · Fruits and Seeds
 - Fuqiong (抚芎) → [Chuanxiong (Sichuan lovage rhizome)](01-roots-and-rhizomes-1.md#24-chuanxiong-sichuan-lovage-rhizome)
 - Fuzhijiao (傅致胶) → [Ejiao](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#12-阿胶)
 - **[Fuzi](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#21-川乌草乌附子乌头类)** (附子) ☠️
@@ -252,21 +252,21 @@
 - Ganjiangpian (干姜片) → [Ganjiang and Shengjiang (dried and fresh ginger)](02-roots-and-rhizomes-2.md#61-ganjiang-and-shengjiang-dried-and-fresh-ginger)
 - Ganshi (甘石) → [Luganshi](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#47-炉甘石)
 - **[Gansui](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#28-甘遂)** (甘遂) ☠️
-- Ganzao (干枣) → [Dazao](../../../docs/10-中药材识别与采集/03-果实种子类.md#15-大枣)
+- Ganzao (干枣) → [Dazao (jujube)](03-fruits-and-seeds.md#15-dazao-jujube)
 - **[Gegen (kudzu root)](01-roots-and-rhizomes-1.md#41-gegen-kudzu-root)** (葛根) · Roots and Rhizomes (1)
-- Geqingpi (个青皮) → [Qingpi](../../../docs/10-中药材识别与采集/03-果实种子类.md#32-青皮)
+- Geqingpi (个青皮) → [Qingpi (green tangerine peel)](03-fruits-and-seeds.md#32-qingpi-green-tangerine-peel)
 - Getenggen (葛藤根) → [Gegen (kudzu root)](01-roots-and-rhizomes-1.md#41-gegen-kudzu-root)
 - Gongdingxiang (公丁香) → [Dingxiang](../../../docs/10-中药材识别与采集/05-花叶类.md#35-丁香)
 - Gongju (贡菊) → [Juhua](../../../docs/10-中药材识别与采集/05-花叶类.md#12-菊花)
 - Gouding (钩丁) → [Gouteng](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#37-钩藤)
 - **[Gouji (cibotium rhizome)](02-roots-and-rhizomes-2.md#24-gouji-cibotium-rhizome)** (狗脊) · Roots and Rhizomes (Part 2)
-- Gouqi (枸杞) → [Gouqizi](../../../docs/10-中药材识别与采集/03-果实种子类.md#11-枸杞子)
+- Gouqi (枸杞) → [Gouqizi (goji berry)](03-fruits-and-seeds.md#11-gouqizi-goji-berry)
 - Gouqigenpi (枸杞根皮) → [Digupi](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#22-地骨皮)
-- **[Gouqizi](../../../docs/10-中药材识别与采集/03-果实种子类.md#11-枸杞子)** (枸杞子)
+- **[Gouqizi (goji berry)](03-fruits-and-seeds.md#11-gouqizi-goji-berry)** (枸杞子) · Fruits and Seeds
 - **[Gouteng](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#37-钩藤)** (钩藤)
 - **[Gouwen](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#42-钩吻-vs-金银花)** (钩吻) ☠️
 - Guanfangfeng (关防风) → [Fangfeng (saposhnikovia root)](01-roots-and-rhizomes-1.md#43-fangfeng-saposhnikovia-root)
-- Guangchenpi (广陈皮) → [Chenpi](../../../docs/10-中药材识别与采集/03-果实种子类.md#31-陈皮)
+- Guangchenpi (广陈皮) → [Chenpi (dried tangerine peel)](03-fruits-and-seeds.md#31-chenpi-dried-tangerine-peel)
 - Guangdougen (广豆根) → [Shandougen (Vietnamese sophora root)](02-roots-and-rhizomes-2.md#55-shandougen-vietnamese-sophora-root)
 - **[Guanghuoxiang (patchouli)](04-whole-herbs.md#12-guanghuoxiang-patchouli)** (广藿香) · Whole Herbs
 - Guangmuxiang (广木香) → [Muxiang (costus root)](02-roots-and-rhizomes-2.md#36-muxiang-costus-root)
@@ -274,7 +274,7 @@
 - Guanshengma (关升麻) → [Shengma (cimicifuga rhizome)](01-roots-and-rhizomes-1.md#47-shengma-cimicifuga-rhizome)
 - Guanxiang (莞香) → [Chenxiang](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#54-沉香)
 - Guazicai (瓜子菜) → [Machixian (purslane)](04-whole-herbs.md#25-machixian-purslane)
-- Guhuixiang (谷茴香) → [Xiaohuixiang](../../../docs/10-中药材识别与采集/03-果实种子类.md#62-小茴香)
+- Guhuixiang (谷茴香) → [Xiaohuixiang (fennel fruit)](03-fruits-and-seeds.md#62-xiaohuixiang-fennel-fruit)
 - Guiban (龟板) → [Guijia](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#13-龟甲)
 - Guieshu (桂莪术) → [Ezhu (zedoary rhizome)](02-roots-and-rhizomes-2.md#34-ezhu-zedoary-rhizome)
 - **[Guijia](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#13-龟甲)** (龟甲)
@@ -294,7 +294,7 @@
 - Haiercha (孩儿茶) → [Ercha](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#44-儿茶)
 - Haihaozi (海蒿子) → [Haizao](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#21-海藻)
 - Hailizike (海蛎子壳) → [Muli](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#15-牡蛎)
-- Hainanzi (海南子) → [Binglang](../../../docs/10-中药材识别与采集/03-果实种子类.md#82-槟榔)
+- Hainanzi (海南子) → [Binglang (areca nut)](03-fruits-and-seeds.md#82-binglang-areca-nut)
 - **[Haipiaoshao](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#18-海螵蛸)** (海螵蛸)
 - Haishashen (海沙参) → [Beishashen (glehnia root)](01-roots-and-rhizomes-1.md#55-beishashen-glehnia-root)
 - **[Haiyu](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#416-海芋-vs-芋头)** (海芋) ☠️
@@ -310,25 +310,25 @@
 - **[Hehuanpi](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#16-合欢皮)** (合欢皮)
 - Heican (黑参) → [Xuanshen (figwort root)](02-roots-and-rhizomes-2.md#12-xuanshen-figwort-root)
 - Heiercha (黑儿茶) → [Ercha](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#44-儿茶)
-- Heiguzi (黑故子) → [Buguzhi](../../../docs/10-中药材识别与采集/03-果实种子类.md#14-补骨脂)
+- Heiguzi (黑故子) → [Buguzhi (psoralea fruit)](03-fruits-and-seeds.md#14-buguzhi-psoralea-fruit)
 - Heikunbu (黑昆布) → [Kunbu](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#22-昆布)
-- Heisuzi (黑苏子) → [Zisuzi](../../../docs/10-中药材识别与采集/03-果实种子类.md#73-紫苏子)
+- Heisuzi (黑苏子) → [Zisuzi (perilla fruit)](03-fruits-and-seeds.md#73-zisuzi-perilla-fruit)
 - **[Heshouwu (fleeceflower root)](01-roots-and-rhizomes-1.md#26-heshouwu-fleeceflower-root)** (何首乌) · Roots and Rhizomes (1)
 - **[Heye](../../../docs/10-中药材识别与采集/05-花叶类.md#44-荷叶)** (荷叶)
 - Hongchaihu (红柴胡) → [Chaihu (bupleurum root)](01-roots-and-rhizomes-1.md#42-chaihu-bupleurum-root)
 - **[Hongdaji](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#29-京大戟与红大戟)** (红大戟) ☠️
 - **[Hongfen](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#225-轻粉红粉与水银)** (红粉) ☠️
 - Honggen (红根) → [Danshen (red sage root)](01-roots-and-rhizomes-1.md#27-danshen-red-sage-root)
-- Hongguo (红果) → [Shanzha](../../../docs/10-中药材识别与采集/03-果实种子类.md#35-山楂)
+- Hongguo (红果) → [Shanzha (hawthorn fruit)](03-fruits-and-seeds.md#35-shanzha-hawthorn-fruit)
 - **[Honghua](../../../docs/10-中药材识别与采集/05-花叶类.md#21-红花)** (红花)
 - Honglanhua (红蓝花) → [Honghua](../../../docs/10-中药材识别与采集/05-花叶类.md#21-红花)
 - Hongsumu (红苏木) → [Sumu](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#51-苏木)
 - Hongteng (红藤) → [Daxueteng](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#34-大血藤)
-- Hongzao (红枣) → [Dazao](../../../docs/10-中药材识别与采集/03-果实种子类.md#15-大枣)
+- Hongzao (红枣) → [Dazao (jujube)](03-fruits-and-seeds.md#15-dazao-jujube)
 - Houjiang (猴姜) → [Gusuibu (drynaria rhizome)](02-roots-and-rhizomes-2.md#25-gusuibu-drynaria-rhizome)
 - **[Houpo](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#12-厚朴)** (厚朴)
 - Huabanzhu (花斑竹) → [Huzhang (giant knotweed rhizome)](02-roots-and-rhizomes-2.md#42-huzhang-giant-knotweed-rhizome)
-- Huadongfupenzi (华东覆盆子) → [Fupenzi](../../../docs/10-中药材识别与采集/03-果实种子类.md#25-覆盆子)
+- Huadongfupenzi (华东覆盆子) → [Fupenzi (Chinese raspberry)](03-fruits-and-seeds.md#25-fupenzi-chinese-raspberry)
 - Huaidihuang (怀地黄) → [Dihuang (rehmannia root)](01-roots-and-rhizomes-1.md#25-dihuang-rehmannia-root)
 - **[Huaihua](../../../docs/10-中药材识别与采集/05-花叶类.md#14-槐花)** (槐花)
 - Huaiju (怀菊) → [Juhua](../../../docs/10-中药材识别与采集/05-花叶类.md#12-菊花)
@@ -336,7 +336,7 @@
 - Huainiuxi (怀牛膝) → [Niuxi (achyranthes root)](02-roots-and-rhizomes-2.md#21-niuxi-achyranthes-root)
 - Huaishan (淮山) → [Shanyao (Chinese yam)](01-roots-and-rhizomes-1.md#17-shanyao-chinese-yam)
 - Huaishanyao (怀山药) → [Shanyao (Chinese yam)](01-roots-and-rhizomes-1.md#17-shanyao-chinese-yam)
-- **[Huajiao](../../../docs/10-中药材识别与采集/03-果实种子类.md#63-花椒)** (花椒)
+- **[Huajiao (Sichuan pepper)](03-fruits-and-seeds.md#63-huajiao-sichuan-pepper)** (花椒) · Fruits and Seeds
 - Hualimu (花梨母) → [Jiangxiang](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#52-降香)
 - Hualonggu (花龙骨) → [Longgu](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#44-龙骨)
 - **[Huangbai](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#13-黄柏)** (黄柏)
@@ -350,11 +350,11 @@
 - Huanglongwei (黄龙尾) → [Xianhecao (hairy agrimony)](04-whole-herbs.md#43-xianhecao-hairy-agrimony)
 - **[Huangqi (astragalus root)](01-roots-and-rhizomes-1.md#14-huangqi-astragalus-root)** (黄芪) · Roots and Rhizomes (1)
 - Huangqi (黄耆) → [Huangqi (astragalus root)](01-roots-and-rhizomes-1.md#14-huangqi-astragalus-root)
-- Huangqiao (黄翘) → [Lianqiao](../../../docs/10-中药材识别与采集/03-果实种子类.md#42-连翘)
+- Huangqiao (黄翘) → [Lianqiao (forsythia fruit)](03-fruits-and-seeds.md#42-lianqiao-forsythia-fruit)
 - **[Huangqin (Baikal skullcap root)](01-roots-and-rhizomes-1.md#32-huangqin-baikal-skullcap-root)** (黄芩) · Roots and Rhizomes (1)
 - Huangsiyujin (黄丝郁金) → [Yujin (curcuma root tuber)](02-roots-and-rhizomes-2.md#32-yujin-curcuma-root-tuber)
-- Huangsizi (黄丝子) → [Tusizi](../../../docs/10-中药材识别与采集/03-果实种子类.md#13-菟丝子)
-- Huangzhizi (黄栀子) → [Zhizi](../../../docs/10-中药材识别与采集/03-果实种子类.md#41-栀子)
+- Huangsizi (黄丝子) → [Tusizi (dodder seed)](03-fruits-and-seeds.md#13-tusizi-dodder-seed)
+- Huangzhizi (黄栀子) → [Zhizi (gardenia fruit)](03-fruits-and-seeds.md#41-zhizi-gardenia-fruit)
 - Huaqican (花旗参) → [Xiyangshen (American ginseng)](01-roots-and-rhizomes-1.md#12-xiyangshen-american-ginseng)
 - **[Huashi](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#42-滑石)** (滑石)
 - Huashi (画石) → [Huashi](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#42-滑石)
@@ -362,11 +362,11 @@
 - Huayinchen (花茵陈) → [Yinchen (capillary wormwood)](04-whole-herbs.md#31-yinchen-capillary-wormwood)
 - **[Hugu](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#34-虎骨)** (虎骨)
 - Huibao (灰包) → [Mabo](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#16-马勃)
-- Huixiang (茴香) → [Xiaohuixiang](../../../docs/10-中药材识别与采集/03-果实种子类.md#62-小茴香)
+- Huixiang (茴香) → [Xiaohuixiang (fennel fruit)](03-fruits-and-seeds.md#62-xiaohuixiang-fennel-fruit)
 - Huji (虎蓟) → [Daji (Japanese thistle)](04-whole-herbs.md#45-daji-japanese-thistle)
 - Hujue (槲蕨) → [Gusuibu (drynaria rhizome)](02-roots-and-rhizomes-2.md#25-gusuibu-drynaria-rhizome)
-- **[Huomaren](../../../docs/10-中药材识别与采集/03-果实种子类.md#74-火麻仁)** (火麻仁)
-- Huomazi (火麻子) → [Huomaren](../../../docs/10-中药材识别与采集/03-果实种子类.md#74-火麻仁)
+- **[Huomaren (hemp seed)](03-fruits-and-seeds.md#74-huomaren-hemp-seed)** (火麻仁) · Fruits and Seeds
+- Huomazi (火麻子) → [Huomaren (hemp seed)](03-fruits-and-seeds.md#74-huomaren-hemp-seed)
 - Huoxiang (藿香) → [Guanghuoxiang (patchouli)](04-whole-herbs.md#12-guanghuoxiang-patchouli)
 - **[Hupo](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#34-琥珀)** (琥珀)
 - **[Huzhang (giant knotweed rhizome)](02-roots-and-rhizomes-2.md#42-huzhang-giant-knotweed-rhizome)** (虎杖) · Roots and Rhizomes (Part 2)
@@ -374,7 +374,7 @@
 ## J
 
 - Jiaai (家艾) → [Aiye](../../../docs/10-中药材识别与采集/05-花叶类.md#53-艾叶)
-- Jiakugua (假苦瓜) → [Luohanguo](../../../docs/10-中药材识别与采集/03-果实种子类.md#46-罗汉果)
+- Jiakugua (假苦瓜) → [Luohanguo (monk fruit)](03-fruits-and-seeds.md#46-luohanguo-monk-fruit)
 - **[Jiangcan](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#22-僵蚕)** (僵蚕)
 - **[Jianghuang (turmeric)](02-roots-and-rhizomes-2.md#33-jianghuang-turmeric)** (姜黄) · Roots and Rhizomes (Part 2)
 - Jiangjun (将军) → [Dahuang (rhubarb root)](02-roots-and-rhizomes-2.md#41-dahuang-rhubarb-root)
@@ -382,8 +382,8 @@
 - Jiangxiangru (江香薷) → [Xiangru (mosla)](04-whole-herbs.md#14-xiangru-mosla)
 - Jiangxinghuangjing (姜形黄精) → [Huangjing (polygonatum rhizome)](02-roots-and-rhizomes-2.md#16-huangjing-polygonatum-rhizome)
 - Jiangzhenxiang (降真香) → [Jiangxiang](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#52-降香)
-- Jiangzhike (江枳壳) → [Zhike](../../../docs/10-中药材识别与采集/03-果实种子类.md#34-枳壳)
-- Jiangzhishi (江枳实) → [Zhishi](../../../docs/10-中药材识别与采集/03-果实种子类.md#33-枳实)
+- Jiangzhike (江枳壳) → [Zhiqiao (bitter orange)](03-fruits-and-seeds.md#34-zhiqiao-bitter-orange)
+- Jiangzhishi (江枳实) → [Zhishi (immature bitter orange)](03-fruits-and-seeds.md#33-zhishi-immature-bitter-orange)
 - Jianqu (建曲) → [Shenqu](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#45-神曲)
 - Jiantoucao (箭头草) → [Zihuadiding (Yedo violet)](04-whole-herbs.md#22-zihuadiding-yedo-violet)
 - Jianzexie (建泽泻) → [Zexie (water plantain tuber)](02-roots-and-rhizomes-2.md#45-zexie-water-plantain-tuber)
@@ -401,26 +401,26 @@
 - Jinfeihua (金沸花) → [Xuanfuhua](../../../docs/10-中药材识别与采集/05-花叶类.md#33-旋覆花)
 - **[Jingdaji](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#29-京大戟与红大戟)** (京大戟) ☠️
 - **[Jingjie (schizonepeta)](04-whole-herbs.md#13-jingjie-schizonepeta)** (荆芥) · Whole Herbs
-- Jingzi (荆子) → [Manjingzi](../../../docs/10-中药材识别与采集/03-果实种子类.md#45-蔓荆子)
+- Jingzi (荆子) → [Manjingzi (vitex fruit)](03-fruits-and-seeds.md#45-manjingzi-vitex-fruit)
 - Jinkouxuejie (进口血竭) → [Xuejie](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#33-血竭)
-- Jinlingzi (金铃子) → [Chuanlianzi](../../../docs/10-中药材识别与采集/03-果实种子类.md#37-川楝子)
+- Jinlingzi (金铃子) → [Chuanlianzi (toosendan fruit)](03-fruits-and-seeds.md#37-chuanlianzi-toosendan-fruit)
 - Jinmaogou (金毛狗) → [Gouji (cibotium rhizome)](02-roots-and-rhizomes-2.md#24-gouji-cibotium-rhizome)
 - Jinmaogouji (金毛狗脊) → [Gouji (cibotium rhizome)](02-roots-and-rhizomes-2.md#24-gouji-cibotium-rhizome)
 - **[Jinqiancao (lysimachia)](04-whole-herbs.md#33-jinqiancao-lysimachia)** (金钱草) · Whole Herbs
 - Jinqianhua (金钱花) → [Xuanfuhua](../../../docs/10-中药材识别与采集/05-花叶类.md#33-旋覆花)
 - Jinwen (锦纹) → [Dahuang (rhubarb root)](02-roots-and-rhizomes-2.md#41-dahuang-rhubarb-root)
-- **[Jinyingzi](../../../docs/10-中药材识别与采集/03-果实种子类.md#24-金樱子)** (金樱子)
+- **[Jinyingzi (Cherokee rose hip)](03-fruits-and-seeds.md#24-jinyingzi-cherokee-rose-hip)** (金樱子) · Fruits and Seeds
 - **[Jinyinhua](../../../docs/10-中药材识别与采集/05-花叶类.md#11-金银花)** (金银花)
 - Jinyinteng (金银藤) → [Rendongteng](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#35-忍冬藤)
 - Jitouhuangjing (鸡头黄精) → [Huangjing (polygonatum rhizome)](02-roots-and-rhizomes-2.md#16-huangjing-polygonatum-rhizome)
-- Jitoumi (鸡头米) → [Qianshi](../../../docs/10-中药材识别与采集/03-果实种子类.md#27-芡实)
-- Jitoushi (鸡头实) → [Qianshi](../../../docs/10-中药材识别与采集/03-果实种子类.md#27-芡实)
+- Jitoumi (鸡头米) → [Qianshi (euryale seed)](03-fruits-and-seeds.md#27-qianshi-euryale-seed)
+- Jitoushi (鸡头实) → [Qianshi (euryale seed)](03-fruits-and-seeds.md#27-qianshi-euryale-seed)
 - Jiukongluo (九孔螺) → [Shijueming](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#17-石决明)
 - **[Jixueteng](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#33-鸡血藤)** (鸡血藤)
 - Jizhunpi (鸡肫皮) → [Jineijin](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#210-鸡内金)
-- **[Juemingzi](../../../docs/10-中药材识别与采集/03-果实种子类.md#43-决明子)** (决明子)
+- **[Juemingzi (cassia seed)](03-fruits-and-seeds.md#43-juemingzi-cassia-seed)** (决明子) · Fruits and Seeds
 - **[Juhua](../../../docs/10-中药材识别与采集/05-花叶类.md#12-菊花)** (菊花)
-- Jupi (橘皮) → [Chenpi](../../../docs/10-中药材识别与采集/03-果实种子类.md#31-陈皮)
+- Jupi (橘皮) → [Chenpi (dried tangerine peel)](03-fruits-and-seeds.md#31-chenpi-dried-tangerine-peel)
 - **[Jusanqi](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#45-菊三七土三七-vs-三七)** (菊三七) ☠️
 
 ## K
@@ -435,33 +435,33 @@
 - **[Kunbu](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#22-昆布)** (昆布)
 - Kuncao (坤草) → [Yimucao (motherwort)](04-whole-herbs.md#41-yimucao-motherwort)
 - Kuqin (枯芩) → [Huangqin (Baikal skullcap root)](01-roots-and-rhizomes-1.md#32-huangqin-baikal-skullcap-root)
-- **[Kuxingren](../../../docs/10-中药材识别与采集/03-果实种子类.md#71-苦杏仁)** (苦杏仁)
+- **[Kuxingren (bitter apricot kernel)](03-fruits-and-seeds.md#71-kuxingren-bitter-apricot-kernel)** (苦杏仁) · Fruits and Seeds
 - Kuyi (苦薏) → [Yejuhua](../../../docs/10-中药材识别与采集/05-花叶类.md#13-野菊花)
 
 ## L
 
-- Lahanguo (拉汗果) → [Luohanguo](../../../docs/10-中药材识别与采集/03-果实种子类.md#46-罗汉果)
-- **[Laifuzi](../../../docs/10-中药材识别与采集/03-果实种子类.md#36-莱菔子)** (莱菔子)
+- Lahanguo (拉汗果) → [Luohanguo (monk fruit)](03-fruits-and-seeds.md#46-luohanguo-monk-fruit)
+- **[Laifuzi (radish seed)](03-fruits-and-seeds.md#36-laifuzi-radish-seed)** (莱菔子) · Fruits and Seeds
 - Laiyangcan (莱阳参) → [Beishashen (glehnia root)](01-roots-and-rhizomes-1.md#55-beishashen-glehnia-root)
 - Lancao (兰草) → [Peilan (fortune's boneset)](04-whole-herbs.md#15-peilan-fortunes-boneset)
 - Landianhua (蓝靛花) → [Qingdai](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#42-青黛)
 - **[Langdu](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#211-狼毒)** (狼毒) ☠️
 - Lanhelian (榄核莲) → [Chuanxinlian (andrographis)](04-whole-herbs.md#26-chuanxinlian-andrographis)
 - Lanye (蓝叶) → [Daqingye](../../../docs/10-中药材识别与采集/05-花叶类.md#43-大青叶)
-- Laokou (老蔻) → [Caoguo](../../../docs/10-中药材识别与采集/03-果实种子类.md#53-草果)
+- Laokou (老蔻) → [Caoguo (tsaoko fruit)](03-fruits-and-seeds.md#53-caoguo-tsaoko-fruit)
 - Laoluhui (老芦荟) → [Luhui](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#43-芦荟)
-- Laoqiao (老翘) → [Lianqiao](../../../docs/10-中药材识别与采集/03-果实种子类.md#42-连翘)
-- Lazi (辣子) → [Wuzhuyu](../../../docs/10-中药材识别与采集/03-果实种子类.md#61-吴茱萸)
+- Laoqiao (老翘) → [Lianqiao (forsythia fruit)](03-fruits-and-seeds.md#42-lianqiao-forsythia-fruit)
+- Lazi (辣子) → [Wuzhuyu (evodia fruit)](03-fruits-and-seeds.md#61-wuzhuyu-evodia-fruit)
 - **[Leigongteng](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#214-雷公藤)** (雷公藤) ☠️
 - Leishi (雷实) → [Leiwan](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#15-雷丸)
 - **[Leiwan](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#15-雷丸)** (雷丸)
-- Lianmi (莲米) → [Lianzi](../../../docs/10-中药材识别与采集/03-果实种子类.md#26-莲子)
-- **[Lianqiao](../../../docs/10-中药材识别与采集/03-果实种子类.md#42-连翘)** (连翘)
-- Lianrou (莲肉) → [Lianzi](../../../docs/10-中药材识别与采集/03-果实种子类.md#26-莲子)
+- Lianmi (莲米) → [Lianzi (lotus seed)](03-fruits-and-seeds.md#26-lianzi-lotus-seed)
+- **[Lianqiao (forsythia fruit)](03-fruits-and-seeds.md#42-lianqiao-forsythia-fruit)** (连翘) · Fruits and Seeds
+- Lianrou (莲肉) → [Lianzi (lotus seed)](03-fruits-and-seeds.md#26-lianzi-lotus-seed)
 - Lianye (莲叶) → [Heye](../../../docs/10-中药材识别与采集/05-花叶类.md#44-荷叶)
-- **[Lianzi](../../../docs/10-中药材识别与采集/03-果实种子类.md#26-莲子)** (莲子)
+- **[Lianzi (lotus seed)](03-fruits-and-seeds.md#26-lianzi-lotus-seed)** (莲子) · Fruits and Seeds
 - Liaoshashen (辽沙参) → [Beishashen (glehnia root)](01-roots-and-rhizomes-1.md#55-beishashen-glehnia-root)
-- Liaowuweizi (辽五味子) → [Wuweizi](../../../docs/10-中药材识别与采集/03-果实种子类.md#22-五味子)
+- Liaowuweizi (辽五味子) → [Wuweizi (schisandra berry)](03-fruits-and-seeds.md#22-wuweizi-schisandra-berry)
 - Liaoxixin (辽细辛) → [Xixin (asarum)](04-whole-herbs.md#56-xixin-asarum)
 - Lichang (鳢肠) → [Mohanlian (eclipta)](04-whole-herbs.md#46-mohanlian-eclipta)
 - **[Lilu](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#218-藜芦)** (藜芦) ☠️
@@ -474,8 +474,8 @@
 - Linxiashancan (林下山参) → [Renshen (ginseng)](01-roots-and-rhizomes-1.md#11-renshen-ginseng)
 - Litoucao (犁头草) → [Zihuadiding (Yedo violet)](04-whole-herbs.md#22-zihuadiding-yedo-violet)
 - Liugui (柳桂) → [Guizhi](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#31-桂枝)
-- Liugumi (六谷米) → [Yiyiren](../../../docs/10-中药材识别与采集/03-果实种子类.md#54-薏苡仁)
-- Liuqiuzi (留求子) → [Shijunzi](../../../docs/10-中药材识别与采集/03-果实种子类.md#81-使君子)
+- Liugumi (六谷米) → [Yiyiren (coix seed)](03-fruits-and-seeds.md#54-yiyiren-coix-seed)
+- Liuqiuzi (留求子) → [Shijunzi (rangoon creeper fruit)](03-fruits-and-seeds.md#81-shijunzi-rangoon-creeper-fruit)
 - Liuqu (六曲) → [Shenqu](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#45-神曲)
 - Liushenqu (六神曲) → [Shenqu](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#45-神曲)
 - Liuyueju (六月菊) → [Xuanfuhua](../../../docs/10-中药材识别与采集/05-花叶类.md#33-旋覆花)
@@ -490,9 +490,9 @@
 - **[Lugen (reed rhizome)](02-roots-and-rhizomes-2.md#44-lugen-reed-rhizome)** (芦根) · Roots and Rhizomes (Part 2)
 - **[Luhui](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#43-芦荟)** (芦荟)
 - Lumaogen (芦茅根) → [Lugen (reed rhizome)](02-roots-and-rhizomes-2.md#44-lugen-reed-rhizome)
-- Luobozi (萝卜子) → [Laifuzi](../../../docs/10-中药材识别与采集/03-果实种子类.md#36-莱菔子)
-- Luobozi (萝卜籽) → [Laifuzi](../../../docs/10-中药材识别与采集/03-果实种子类.md#36-莱菔子)
-- **[Luohanguo](../../../docs/10-中药材识别与采集/03-果实种子类.md#46-罗汉果)** (罗汉果)
+- Luobozi (萝卜子) → [Laifuzi (radish seed)](03-fruits-and-seeds.md#36-laifuzi-radish-seed)
+- Luobozi (萝卜籽) → [Laifuzi (radish seed)](03-fruits-and-seeds.md#36-laifuzi-radish-seed)
+- **[Luohanguo (monk fruit)](03-fruits-and-seeds.md#46-luohanguo-monk-fruit)** (罗汉果) · Fruits and Seeds
 - Luoshi (络石) → [Luoshiteng](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#38-络石藤)
 - **[Luoshiteng](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#38-络石藤)** (络石藤)
 - **[Lurong](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#11-鹿茸)** (鹿茸)
@@ -514,16 +514,16 @@
 - Maimendong (麦门冬) → [Maidong (dwarf lilyturf tuber)](02-roots-and-rhizomes-2.md#13-maidong-dwarf-lilyturf-tuber)
 - Maji (马蓟) → [Daji (Japanese thistle)](04-whole-herbs.md#45-daji-japanese-thistle)
 - **[Mangxiao](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#43-芒硝)** (芒硝)
-- **[Manjingzi](../../../docs/10-中药材识别与采集/03-果实种子类.md#45-蔓荆子)** (蔓荆子)
+- **[Manjingzi (vitex fruit)](03-fruits-and-seeds.md#45-manjingzi-vitex-fruit)** (蔓荆子) · Fruits and Seeds
 - **[Mantuoluo](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#48-曼陀罗-vs-茄科野菜和根菜)** (曼陀罗) ☠️
 - Maobitou (毛笔头) → [Xinyi](../../../docs/10-中药材识别与采集/05-花叶类.md#31-辛夷)
 - Maogen (茅根) → [Baimaogen (cogongrass rhizome)](02-roots-and-rhizomes-2.md#43-baimaogen-cogongrass-rhizome)
-- Maotaoren (毛桃仁) → [Taoren](../../../docs/10-中药材识别与采集/03-果实种子类.md#72-桃仁)
+- Maotaoren (毛桃仁) → [Taoren (peach kernel)](03-fruits-and-seeds.md#72-taoren-peach-kernel)
 - Maozhimu (毛知母) → [Zhimu (anemarrhena rhizome)](02-roots-and-rhizomes-2.md#11-zhimu-anemarrhena-rhizome)
 - Mapibao (马屁包) → [Mabo](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#16-马勃)
 - **[Maqianzi](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#23-马钱子)** (马钱子) ☠️
-- Matijueming (马蹄决明) → [Juemingzi](../../../docs/10-中药材识别与采集/03-果实种子类.md#43-决明子)
-- Maziren (麻子仁) → [Huomaren](../../../docs/10-中药材识别与采集/03-果实种子类.md#74-火麻仁)
+- Matijueming (马蹄决明) → [Juemingzi (cassia seed)](03-fruits-and-seeds.md#43-juemingzi-cassia-seed)
+- Maziren (麻子仁) → [Huomaren (hemp seed)](03-fruits-and-seeds.md#74-huomaren-hemp-seed)
 - **[Meiguihua](../../../docs/10-中药材识别与采集/05-花叶类.md#24-玫瑰花)** (玫瑰花)
 - Meipian (梅片) → [Bingpian](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#35-冰片)
 - Meipo (煤珀) → [Hupo](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#34-琥珀)
@@ -540,7 +540,7 @@
 - Mozhicao (墨汁草) → [Mohanlian (eclipta)](04-whole-herbs.md#46-mohanlian-eclipta)
 - Mubihua (木笔花) → [Xinyi](../../../docs/10-中药材识别与采集/05-花叶类.md#31-辛夷)
 - **[Mudanpi](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#21-牡丹皮)** (牡丹皮)
-- **[Mugua](../../../docs/10-中药材识别与采集/03-果实种子类.md#56-木瓜)** (木瓜)
+- **[Mugua (Chinese flowering quince)](03-fruits-and-seeds.md#56-mugua-chinese-flowering-quince)** (木瓜) · Fruits and Seeds
 - Mugui (牡桂) → [Rougui](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#14-肉桂)
 - **[Muli](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#15-牡蛎)** (牡蛎)
 - **[Muxiang (costus root)](02-roots-and-rhizomes-2.md#36-muxiang-costus-root)** (木香) · Roots and Rhizomes (Part 2)
@@ -555,17 +555,17 @@
 - **[Naoyanghua](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#215-闹羊花)** (闹羊花) ☠️
 - Nenguizhi (嫩桂枝) → [Guizhi](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#31-桂枝)
 - Nensangzhi (嫩桑枝) → [Sangzhi](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#32-桑枝)
-- Ningxiagouqi (宁夏枸杞) → [Gouqizi](../../../docs/10-中药材识别与采集/03-果实种子类.md#11-枸杞子)
-- **[Niubangzi](../../../docs/10-中药材识别与采集/03-果实种子类.md#44-牛蒡子)** (牛蒡子)
+- Ningxiagouqi (宁夏枸杞) → [Gouqizi (goji berry)](03-fruits-and-seeds.md#11-gouqizi-goji-berry)
+- **[Niubangzi (burdock fruit)](03-fruits-and-seeds.md#44-niubangzi-burdock-fruit)** (牛蒡子) · Fruits and Seeds
 - Niushigu (牛屎菇) → [Mabo](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#16-马勃)
 - **[Niuxi (achyranthes root)](02-roots-and-rhizomes-2.md#21-niuxi-achyranthes-root)** (牛膝) · Roots and Rhizomes (Part 2)
-- Nvzhenshi (女贞实) → [Nvzhenzi](../../../docs/10-中药材识别与采集/03-果实种子类.md#12-女贞子)
-- **[Nvzhenzi](../../../docs/10-中药材识别与采集/03-果实种子类.md#12-女贞子)** (女贞子)
+- Nvzhenshi (女贞实) → [Nüzhenzi (glossy privet fruit)](03-fruits-and-seeds.md#12-nüzhenzi-glossy-privet-fruit)
+- **[Nüzhenzi (glossy privet fruit)](03-fruits-and-seeds.md#12-nüzhenzi-glossy-privet-fruit)** (女贞子) · Fruits and Seeds
 
 ## P
 
 - Paihuaihua (徘徊花) → [Meiguihua](../../../docs/10-中药材识别与采集/05-花叶类.md#24-玫瑰花)
-- **[Pangdahai](../../../docs/10-中药材识别与采集/03-果实种子类.md#47-胖大海)** (胖大海)
+- **[Pangdahai (malva nut)](03-fruits-and-seeds.md#47-pangdahai-malva-nut)** (胖大海) · Fruits and Seeds
 - Paocan (泡参) → [Nanshashen (adenophora root)](01-roots-and-rhizomes-1.md#54-nanshashen-adenophora-root)
 - Paozhuye (泡竹叶) → [Fanxieye](../../../docs/10-中药材识别与采集/05-花叶类.md#61-番泻叶)
 - Paye (杷叶) → [Pipaye](../../../docs/10-中药材识别与采集/05-花叶类.md#51-枇杷叶)
@@ -579,7 +579,7 @@
 - **[Pishi](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#222-砒石与砒霜)** (砒石) ☠️
 - **[Pishuang](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#222-砒石与砒霜)** (砒霜) ☠️
 - Pixiao (皮硝) → [Mangxiao](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#43-芒硝)
-- Poguzhi (破故纸) → [Buguzhi](../../../docs/10-中药材识别与采集/03-果实种子类.md#14-补骨脂)
+- Poguzhi (破故纸) → [Buguzhi (psoralea fruit)](03-fruits-and-seeds.md#14-buguzhi-psoralea-fruit)
 - Popoding (婆婆丁) → [Pugongying (dandelion)](04-whole-herbs.md#21-pugongying-dandelion)
 - Pubanghuafen (蒲棒花粉) → [Puhuang](../../../docs/10-中药材识别与采集/05-花叶类.md#25-蒲黄)
 - **[Pugongying (dandelion)](04-whole-herbs.md#21-pugongying-dandelion)** (蒲公英) · Whole Herbs
@@ -592,16 +592,16 @@
 - **[Qiandan](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#226-铅丹)** (铅丹) ☠️
 - **[Qianghuo (notopterygium rhizome)](01-roots-and-rhizomes-1.md#44-qianghuo-notopterygium-rhizome)** (羌活) · Roots and Rhizomes (1)
 - **[Qianjinzi](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#212-千金子)** (千金子) ☠️
-- **[Qianshi](../../../docs/10-中药材识别与采集/03-果实种子类.md#27-芡实)** (芡实)
+- **[Qianshi (euryale seed)](03-fruits-and-seeds.md#27-qianshi-euryale-seed)** (芡实) · Fruits and Seeds
 - Qibaizhi (祁白芷) → [Baizhi (Dahurian angelica root)](01-roots-and-rhizomes-1.md#46-baizhi-dahurian-angelica-root)
 - Qilinjie (麒麟竭) → [Xuejie](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#33-血竭)
 - Qingbei (青贝) → [Chuanbeimu (Sichuan fritillary bulb)](02-roots-and-rhizomes-2.md#52-chuanbeimu-sichuan-fritillary-bulb)
 - **[Qingdai](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#42-青黛)** (青黛)
 - **[Qingfen](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#225-轻粉红粉与水银)** (轻粉) ☠️
 - **[Qinghao (sweet wormwood)](04-whole-herbs.md#211-qinghao-sweet-wormwood)** (青蒿) · Whole Herbs
-- Qinghuajiao (青花椒) → [Huajiao](../../../docs/10-中药材识别与采集/03-果实种子类.md#63-花椒)
-- **[Qingpi](../../../docs/10-中药材识别与采集/03-果实种子类.md#32-青皮)** (青皮)
-- Qingqiao (青翘) → [Lianqiao](../../../docs/10-中药材识别与采集/03-果实种子类.md#42-连翘)
+- Qinghuajiao (青花椒) → [Huajiao (Sichuan pepper)](03-fruits-and-seeds.md#63-huajiao-sichuan-pepper)
+- **[Qingpi (green tangerine peel)](03-fruits-and-seeds.md#32-qingpi-green-tangerine-peel)** (青皮) · Fruits and Seeds
+- Qingqiao (青翘) → [Lianqiao (forsythia fruit)](03-fruits-and-seeds.md#42-lianqiao-forsythia-fruit)
 - Qingqingcai (青青菜) → [Xiaoji (field thistle)](04-whole-herbs.md#44-xiaoji-field-thistle)
 - Qingui (秦归) → [Danggui (Chinese angelica root)](01-roots-and-rhizomes-1.md#21-danggui-chinese-angelica-root)
 - Qingxiangru (青香薷) → [Xiangru (mosla)](04-whole-herbs.md#14-xiangru-mosla)
@@ -640,17 +640,17 @@
 - **[Shandougen (Vietnamese sophora root)](02-roots-and-rhizomes-2.md#55-shandougen-vietnamese-sophora-root)** (山豆根) · Roots and Rhizomes (Part 2)
 - **[Shanglu](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#213-商陆)** (商陆) ☠️
 - Shanjimi (山鸡米) → [Danzhuye (lophatherum)](04-whole-herbs.md#210-danzhuye-lophatherum)
-- Shanlihong (山里红) → [Shanzha](../../../docs/10-中药材识别与采集/03-果实种子类.md#35-山楂)
-- Shanshiliu (山石榴) → [Jinyingzi](../../../docs/10-中药材识别与采集/03-果实种子类.md#24-金樱子)
-- Shantaoren (山桃仁) → [Taoren](../../../docs/10-中药材识别与采集/03-果实种子类.md#72-桃仁)
+- Shanlihong (山里红) → [Shanzha (hawthorn fruit)](03-fruits-and-seeds.md#35-shanzha-hawthorn-fruit)
+- Shanshiliu (山石榴) → [Jinyingzi (Cherokee rose hip)](03-fruits-and-seeds.md#24-jinyingzi-cherokee-rose-hip)
+- Shantaoren (山桃仁) → [Taoren (peach kernel)](03-fruits-and-seeds.md#72-taoren-peach-kernel)
 - **[Shanyao (Chinese yam)](01-roots-and-rhizomes-1.md#17-shanyao-chinese-yam)** (山药) · Roots and Rhizomes (1)
-- Shanyurou (山萸肉) → [Shanzhuyu](../../../docs/10-中药材识别与采集/03-果实种子类.md#21-山茱萸)
-- Shanzaoren (山枣仁) → [Suanzaoren](../../../docs/10-中药材识别与采集/03-果实种子类.md#28-酸枣仁)
-- **[Shanzha](../../../docs/10-中药材识别与采集/03-果实种子类.md#35-山楂)** (山楂)
-- Shanzhi (山栀) → [Zhizi](../../../docs/10-中药材识别与采集/03-果实种子类.md#41-栀子)
-- Shanzhizi (山栀子) → [Zhizi](../../../docs/10-中药材识别与采集/03-果实种子类.md#41-栀子)
-- **[Shanzhuyu](../../../docs/10-中药材识别与采集/03-果实种子类.md#21-山茱萸)** (山茱萸)
-- **[Sharen](../../../docs/10-中药材识别与采集/03-果实种子类.md#51-砂仁)** (砂仁)
+- Shanyurou (山萸肉) → [Shanzhuyu (cornus fruit)](03-fruits-and-seeds.md#21-shanzhuyu-cornus-fruit)
+- Shanzaoren (山枣仁) → [Suanzaoren (sour jujube seed)](03-fruits-and-seeds.md#28-suanzaoren-sour-jujube-seed)
+- **[Shanzha (hawthorn fruit)](03-fruits-and-seeds.md#35-shanzha-hawthorn-fruit)** (山楂) · Fruits and Seeds
+- Shanzhi (山栀) → [Zhizi (gardenia fruit)](03-fruits-and-seeds.md#41-zhizi-gardenia-fruit)
+- Shanzhizi (山栀子) → [Zhizi (gardenia fruit)](03-fruits-and-seeds.md#41-zhizi-gardenia-fruit)
+- **[Shanzhuyu (cornus fruit)](03-fruits-and-seeds.md#21-shanzhuyu-cornus-fruit)** (山茱萸) · Fruits and Seeds
+- **[Sharen (amomum fruit)](03-fruits-and-seeds.md#51-sharen-amomum-fruit)** (砂仁) · Fruits and Seeds
 - Shashen (沙参) → [Nanshashen (adenophora root)](01-roots-and-rhizomes-1.md#54-nanshashen-adenophora-root)
 - **[Shegan (blackberry lily rhizome)](02-roots-and-rhizomes-2.md#54-shegan-blackberry-lily-rhizome)** (射干) · Roots and Rhizomes (Part 2)
 - **[Shengbanxia](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#24-生半夏)** (生半夏) ☠️
@@ -669,8 +669,8 @@
 - **[Shigao](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#41-石膏)** (石膏)
 - **[Shihu (dendrobium)](04-whole-herbs.md#52-shihu-dendrobium)** (石斛) · Whole Herbs
 - **[Shijueming](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#17-石决明)** (石决明)
-- **[Shijunzi](../../../docs/10-中药材识别与采集/03-果实种子类.md#81-使君子)** (使君子)
-- Shijunzi (史君子) → [Shijunzi](../../../docs/10-中药材识别与采集/03-果实种子类.md#81-使君子)
+- **[Shijunzi (rangoon creeper fruit)](03-fruits-and-seeds.md#81-shijunzi-rangoon-creeper-fruit)** (使君子) · Fruits and Seeds
+- Shijunzi (史君子) → [Shijunzi (rangoon creeper fruit)](03-fruits-and-seeds.md#81-shijunzi-rangoon-creeper-fruit)
 - Shilongteng (石龙藤) → [Luoshiteng](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#38-络石藤)
 - Shimi (石蜜) → [Fengmi](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#28-蜂蜜)
 - Shisong (石松) → [Shenjincao (clubmoss)](04-whole-herbs.md#51-shenjincao-clubmoss)
@@ -682,10 +682,10 @@
 - Shudi (熟地) → [Dihuang (rehmannia root)](01-roots-and-rhizomes-1.md#25-dihuang-rehmannia-root)
 - **[Shuiyin](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#225-轻粉红粉与水银)** (水银) ☠️
 - **[Shuizhi](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#27-水蛭)** (水蛭)
-- Shujiao (蜀椒) → [Huajiao](../../../docs/10-中药材识别与采集/03-果实种子类.md#63-花椒)
+- Shujiao (蜀椒) → [Huajiao (Sichuan pepper)](03-fruits-and-seeds.md#63-huajiao-sichuan-pepper)
 - Shuyu (薯蓣) → [Shanyao (Chinese yam)](01-roots-and-rhizomes-1.md#17-shanyao-chinese-yam)
-- Shuzhanzi (鼠粘子) → [Niubangzi](../../../docs/10-中药材识别与采集/03-果实种子类.md#44-牛蒡子)
-- Sihuaqingpi (四花青皮) → [Qingpi](../../../docs/10-中药材识别与采集/03-果实种子类.md#32-青皮)
+- Shuzhanzi (鼠粘子) → [Niubangzi (burdock fruit)](03-fruits-and-seeds.md#44-niubangzi-burdock-fruit)
+- Sihuaqingpi (四花青皮) → [Qingpi (green tangerine peel)](03-fruits-and-seeds.md#32-qingpi-green-tangerine-peel)
 - Sijihua (四季花) → [Yuejihua](../../../docs/10-中药材识别与采集/05-花叶类.md#23-月季花)
 - Silianpi (丝连皮) → [Duzhong](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#11-杜仲)
 - Simaogen (丝茅根) → [Baimaogen (cogongrass rhizome)](02-roots-and-rhizomes-2.md#43-baimaogen-cogongrass-rhizome)
@@ -693,25 +693,25 @@
 - Songbei (松贝) → [Chuanbeimu (Sichuan fritillary bulb)](02-roots-and-rhizomes-2.md#52-chuanbeimu-sichuan-fritillary-bulb)
 - Songlangen (菘蓝根) → [Banlangen (isatis root)](01-roots-and-rhizomes-1.md#33-banlangen-isatis-root)
 - Songlanye (菘蓝叶) → [Daqingye](../../../docs/10-中药材识别与采集/05-花叶类.md#43-大青叶)
-- Suanmei (酸梅) → [Wumei](../../../docs/10-中药材识别与采集/03-果实种子类.md#23-乌梅)
+- Suanmei (酸梅) → [Wumei (smoked plum)](03-fruits-and-seeds.md#23-wumei-smoked-plum)
 - Suantonggan (酸筒杆) → [Huzhang (giant knotweed rhizome)](02-roots-and-rhizomes-2.md#42-huzhang-giant-knotweed-rhizome)
-- **[Suanzaoren](../../../docs/10-中药材识别与采集/03-果实种子类.md#28-酸枣仁)** (酸枣仁)
+- **[Suanzaoren (sour jujube seed)](03-fruits-and-seeds.md#28-suanzaoren-sour-jujube-seed)** (酸枣仁) · Fruits and Seeds
 - Subohe (苏薄荷) → [Bohe (mint)](04-whole-herbs.md#11-bohe-mint)
 - Sufangmu (苏方木) → [Sumu](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#51-苏木)
 - **[Sumu](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#51-苏木)** (苏木)
 - Suocaogen (莎草根) → [Xiangfu (nutgrass rhizome)](02-roots-and-rhizomes-2.md#35-xiangfu-nutgrass-rhizome)
 - **[Suoyang (cynomorium)](04-whole-herbs.md#55-suoyang-cynomorium)** (锁阳) · Whole Herbs
-- Susharen (缩砂仁) → [Sharen](../../../docs/10-中药材识别与采集/03-果实种子类.md#51-砂仁)
+- Susharen (缩砂仁) → [Sharen (amomum fruit)](03-fruits-and-seeds.md#51-sharen-amomum-fruit)
 - Suye (苏叶) → [Zisuye](../../../docs/10-中药材识别与采集/05-花叶类.md#42-紫苏叶)
-- Suzi (苏子) → [Zisuzi](../../../docs/10-中药材识别与采集/03-果实种子类.md#73-紫苏子)
+- Suzi (苏子) → [Zisuzi (perilla fruit)](03-fruits-and-seeds.md#73-zisuzi-perilla-fruit)
 
 ## T
 
 - Taidang (台党) → [Dangshen (codonopsis root)](01-roots-and-rhizomes-1.md#13-dangshen-codonopsis-root)
 - Taiwuyao (台乌药) → [Wuyao (lindera root)](02-roots-and-rhizomes-2.md#37-wuyao-lindera-root)
-- Tangguanzi (糖罐子) → [Jinyingzi](../../../docs/10-中药材识别与采集/03-果实种子类.md#24-金樱子)
+- Tangguanzi (糖罐子) → [Jinyingzi (Cherokee rose hip)](03-fruits-and-seeds.md#24-jinyingzi-cherokee-rose-hip)
 - **[Tanxiang](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#53-檀香)** (檀香)
-- **[Taoren](../../../docs/10-中药材识别与采集/03-果实种子类.md#72-桃仁)** (桃仁)
+- **[Taoren (peach kernel)](03-fruits-and-seeds.md#72-taoren-peach-kernel)** (桃仁) · Fruits and Seeds
 - **[Tenghuang](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#219-藤黄)** (藤黄) ☠️
 - Tiancao (甜草) → [Gancao (liquorice root)](01-roots-and-rhizomes-1.md#15-gancao-liquorice-root)
 - Tianchong (天虫) → [Jiangcan](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#22-僵蚕)
@@ -726,26 +726,26 @@
 - Tiantaiwuyao (天台乌药) → [Wuyao (lindera root)](02-roots-and-rhizomes-2.md#37-wuyao-lindera-root)
 - **[Tianxianzi](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#217-天仙子)** (天仙子) ☠️
 - Tiaoqin (条芩) → [Huangqin (Baikal skullcap root)](01-roots-and-rhizomes-1.md#32-huangqin-baikal-skullcap-root)
-- Tiegenghaitang (贴梗海棠) → [Mugua](../../../docs/10-中药材识别与采集/03-果实种子类.md#56-木瓜)
+- Tiegenghaitang (贴梗海棠) → [Mugua (Chinese flowering quince)](03-fruits-and-seeds.md#56-mugua-chinese-flowering-quince)
 - Tiejiaoweilingxian (铁脚威灵仙) → [Weilingxian (Chinese clematis root)](02-roots-and-rhizomes-2.md#62-weilingxian-chinese-clematis-root)
 - Tiesecao (铁色草) → [Xiakucao (self-heal spike)](04-whole-herbs.md#29-xiakucao-self-heal-spike)
 - **[Tongcao](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#41-通草)** (通草)
-- Tongdahai (通大海) → [Pangdahai](../../../docs/10-中药材识别与采集/03-果实种子类.md#47-胖大海)
+- Tongdahai (通大海) → [Pangdahai (malva nut)](03-fruits-and-seeds.md#47-pangdahai-malva-nut)
 - Tongtuomu (通脱木) → [Tongcao](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#41-通草)
 - Tuanyujia (团鱼甲) → [Biejia](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#14-鳖甲)
 - **[Tubiechong](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#26-土鳖虫)** (土鳖虫)
 - Tuchenxiang (土沉香) → [Chenxiang](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#54-沉香)
 - Tuolicao (脱力草) → [Xianhecao (hairy agrimony)](04-whole-herbs.md#43-xianhecao-hairy-agrimony)
 - Tusanqi (土三七) → [Jusanqi](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#45-菊三七土三七-vs-三七)
-- **[Tusizi](../../../docs/10-中药材识别与采集/03-果实种子类.md#13-菟丝子)** (菟丝子)
-- Tusizi (吐丝子) → [Tusizi](../../../docs/10-中药材识别与采集/03-果实种子类.md#13-菟丝子)
+- **[Tusizi (dodder seed)](03-fruits-and-seeds.md#13-tusizi-dodder-seed)** (菟丝子) · Fruits and Seeds
+- Tusizi (吐丝子) → [Tusizi (dodder seed)](03-fruits-and-seeds.md#13-tusizi-dodder-seed)
 - Tuyuan (土元) → [Tubiechong](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#26-土鳖虫)
 - Tuzhu (土朱) → [Zheshi](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#46-赭石)
 
 ## W
 
 - Wangchunhua (望春花) → [Xinyi](../../../docs/10-中药材识别与采集/05-花叶类.md#31-辛夷)
-- Wanjingzi (万荆子) → [Manjingzi](../../../docs/10-中药材识别与采集/03-果实种子类.md#45-蔓荆子)
+- Wanjingzi (万荆子) → [Manjingzi (vitex fruit)](03-fruits-and-seeds.md#45-manjingzi-vitex-fruit)
 - Weigen (苇根) → [Lugen (reed rhizome)](02-roots-and-rhizomes-2.md#44-lugen-reed-rhizome)
 - Weilian (味连) → [Huanglian (coptis rhizome)](01-roots-and-rhizomes-1.md#31-huanglian-coptis-rhizome)
 - **[Weilingxian (Chinese clematis root)](02-roots-and-rhizomes-2.md#62-weilingxian-chinese-clematis-root)** (威灵仙) · Roots and Rhizomes (Part 2)
@@ -758,14 +758,14 @@
 - **[Wubeizi](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#41-五倍子)** (五倍子)
 - **[Wugong](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#25-蜈蚣)** (蜈蚣)
 - **[Wujiapi](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#25-五加皮)** (五加皮)
-- **[Wumei](../../../docs/10-中药材识别与采集/03-果实种子类.md#23-乌梅)** (乌梅)
+- **[Wumei (smoked plum)](03-fruits-and-seeds.md#23-wumei-smoked-plum)** (乌梅) · Fruits and Seeds
 - Wushan (乌扇) → [Shegan (blackberry lily rhizome)](02-roots-and-rhizomes-2.md#54-shegan-blackberry-lily-rhizome)
 - **[Wutou](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#49-乌头-vs-野芹类野菜)** (乌头) ☠️
-- **[Wuweizi](../../../docs/10-中药材识别与采集/03-果实种子类.md#22-五味子)** (五味子)
+- **[Wuweizi (schisandra berry)](03-fruits-and-seeds.md#22-wuweizi-schisandra-berry)** (五味子) · Fruits and Seeds
 - **[Wuyao (lindera root)](02-roots-and-rhizomes-2.md#37-wuyao-lindera-root)** (乌药) · Roots and Rhizomes (Part 2)
-- Wuyu (吴萸) → [Wuzhuyu](../../../docs/10-中药材识别与采集/03-果实种子类.md#61-吴茱萸)
+- Wuyu (吴萸) → [Wuzhuyu (evodia fruit)](03-fruits-and-seeds.md#61-wuzhuyu-evodia-fruit)
 - Wuzeigu (乌贼骨) → [Haipiaoshao](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#18-海螵蛸)
-- **[Wuzhuyu](../../../docs/10-中药材识别与采集/03-果实种子类.md#61-吴茱萸)** (吴茱萸)
+- **[Wuzhuyu (evodia fruit)](03-fruits-and-seeds.md#61-wuzhuyu-evodia-fruit)** (吴茱萸) · Fruits and Seeds
 
 ## X
 
@@ -785,8 +785,8 @@
 - Xianlingpi (仙灵脾) → [Yinyanghuo (epimedium)](04-whole-herbs.md#53-yinyanghuo-epimedium)
 - **[Xianmao (golden eye-grass rhizome)](02-roots-and-rhizomes-2.md#66-xianmao-golden-eye-grass-rhizome)** (仙茅) · Roots and Rhizomes (Part 2)
 - Xiaocaogen (小草根) → [Yuanzhi (polygala root)](02-roots-and-rhizomes-2.md#56-yuanzhi-polygala-root)
-- Xiaohui (小茴) → [Xiaohuixiang](../../../docs/10-中药材识别与采集/03-果实种子类.md#62-小茴香)
-- **[Xiaohuixiang](../../../docs/10-中药材识别与采集/03-果实种子类.md#62-小茴香)** (小茴香)
+- Xiaohui (小茴) → [Xiaohuixiang (fennel fruit)](03-fruits-and-seeds.md#62-xiaohuixiang-fennel-fruit)
+- **[Xiaohuixiang (fennel fruit)](03-fruits-and-seeds.md#62-xiaohuixiang-fennel-fruit)** (小茴香) · Fruits and Seeds
 - **[Xiaoji (field thistle)](04-whole-herbs.md#44-xiaoji-field-thistle)** (小蓟) · Whole Herbs
 - Xiaoqinjiao (小秦艽) → [Qinjiao (large-leaf gentian root)](02-roots-and-rhizomes-2.md#63-qinjiao-large-leaf-gentian-root)
 - Xiaoyehaizao (小叶海藻) → [Haizao](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#21-海藻)
@@ -794,12 +794,12 @@
 - Xidanggui (西当归) → [Danggui (Chinese angelica root)](01-roots-and-rhizomes-1.md#21-danggui-chinese-angelica-root)
 - Xieye (泻叶) → [Fanxieye](../../../docs/10-中药材识别与采集/05-花叶类.md#61-番泻叶)
 - Xiezi (蝎子) → [Quanxie](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#24-全蝎)
-- Xigouqi (西枸杞) → [Gouqizi](../../../docs/10-中药材识别与采集/03-果实种子类.md#11-枸杞子)
+- Xigouqi (西枸杞) → [Gouqizi (goji berry)](03-fruits-and-seeds.md#11-gouqizi-goji-berry)
 - **[Xihonghua](../../../docs/10-中药材识别与采集/05-花叶类.md#22-西红花)** (西红花)
 - **[Xijiao](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#33-犀角)** (犀角)
-- Xingren (杏仁) → [Kuxingren](../../../docs/10-中药材识别与采集/03-果实种子类.md#71-苦杏仁)
+- Xingren (杏仁) → [Kuxingren (bitter apricot kernel)](03-fruits-and-seeds.md#71-kuxingren-bitter-apricot-kernel)
 - Xingtoucao (醒头草) → [Peilan (fortune's boneset)](04-whole-herbs.md#15-peilan-fortunes-boneset)
-- Xinhuipi (新会皮) → [Chenpi](../../../docs/10-中药材识别与采集/03-果实种子类.md#31-陈皮)
+- Xinhuipi (新会皮) → [Chenpi (dried tangerine peel)](03-fruits-and-seeds.md#31-chenpi-dried-tangerine-peel)
 - Xinluhui (新芦荟) → [Luhui](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#43-芦荟)
 - **[Xinyi](../../../docs/10-中药材识别与采集/05-花叶类.md#31-辛夷)** (辛夷)
 - **[Xiongdan](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#36-熊胆)** (熊胆)
@@ -813,7 +813,7 @@
 - **[Xuanshen (figwort root)](02-roots-and-rhizomes-2.md#12-xuanshen-figwort-root)** (玄参) · Roots and Rhizomes (Part 2)
 - **[Xuanfuhua](../../../docs/10-中药材识别与采集/05-花叶类.md#33-旋覆花)** (旋覆花)
 - Xuanhu (玄胡) → [Yanhusuo (corydalis tuber)](02-roots-and-rhizomes-2.md#31-yanhusuo-corydalis-tuber)
-- Xuanmugua (宣木瓜) → [Mugua](../../../docs/10-中药材识别与采集/03-果实种子类.md#56-木瓜)
+- Xuanmugua (宣木瓜) → [Mugua (Chinese flowering quince)](03-fruits-and-seeds.md#56-mugua-chinese-flowering-quince)
 - **[Xuduan (teasel root)](02-roots-and-rhizomes-2.md#23-xuduan-teasel-root)** (续断) · Roots and Rhizomes (Part 2)
 - Xuecan (血参) → [Danshen (red sage root)](01-roots-and-rhizomes-1.md#27-danshen-red-sage-root)
 - Xuefengteng (血风藤) → [Jixueteng](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#33-鸡血藤)
@@ -821,13 +821,13 @@
 - Xuepo (血珀) → [Hupo](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#34-琥珀)
 - **[Xueshangyizhihao](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#22-雪上一枝蒿)** (雪上一枝蒿) ☠️
 - Xueteng (血藤) → [Daxueteng](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#34-大血藤)
-- Xunmei (熏梅) → [Wumei](../../../docs/10-中药材识别与采集/03-果实种子类.md#23-乌梅)
+- Xunmei (熏梅) → [Wumei (smoked plum)](03-fruits-and-seeds.md#23-wumei-smoked-plum)
 
 ## Y
 
 - Yalian (雅连) → [Huanglian (coptis rhizome)](01-roots-and-rhizomes-1.md#31-huanglian-coptis-rhizome)
 - Yangcan (洋参) → [Xiyangshen (American ginseng)](01-roots-and-rhizomes-1.md#12-xiyangshen-american-ginseng)
-- Yangchunsha (阳春砂) → [Sharen](../../../docs/10-中药材识别与采集/03-果实种子类.md#51-砂仁)
+- Yangchunsha (阳春砂) → [Sharen (amomum fruit)](03-fruits-and-seeds.md#51-sharen-amomum-fruit)
 - **[Yangjinhua](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#216-洋金花曼陀罗)** (洋金花) ☠️
 - Yangqicai (羊栖菜) → [Haizao](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#21-海藻)
 - **[Yanhusuo (corydalis tuber)](02-roots-and-rhizomes-2.md#31-yanhusuo-corydalis-tuber)** (延胡索) · Roots and Rhizomes (Part 2)
@@ -841,7 +841,7 @@
 - **[Yejuhua](../../../docs/10-中药材识别与采集/05-花叶类.md#13-野菊花)** (野菊花)
 - Yezhufen (野猪粪) → [Zhuling](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#12-猪苓)
 - Yijianxi (一见喜) → [Chuanxinlian (andrographis)](04-whole-herbs.md#26-chuanxinlian-andrographis)
-- Yimi (薏米) → [Yiyiren](../../../docs/10-中药材识别与采集/03-果实种子类.md#54-薏苡仁)
+- Yimi (薏米) → [Yiyiren (coix seed)](03-fruits-and-seeds.md#54-yiyiren-coix-seed)
 - Yimuai (益母艾) → [Yimucao (motherwort)](04-whole-herbs.md#41-yimucao-motherwort)
 - **[Yimucao (motherwort)](04-whole-herbs.md#41-yimucao-motherwort)** (益母草) · Whole Herbs
 - **[Yinchen (capillary wormwood)](04-whole-herbs.md#31-yinchen-capillary-wormwood)** (茵陈) · Whole Herbs
@@ -853,8 +853,8 @@
 - Yinxingzhongzi (银杏种子) → [Baiguo](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#411-白果银杏种子生食或多食)
 - **[Yinyanghuo (epimedium)](04-whole-herbs.md#53-yinyanghuo-epimedium)** (淫羊藿) · Whole Herbs
 - Yinyanglian (阴阳莲) → [Huzhang (giant knotweed rhizome)](02-roots-and-rhizomes-2.md#42-huzhang-giant-knotweed-rhizome)
-- Yiren (苡仁) → [Yiyiren](../../../docs/10-中药材识别与采集/03-果实种子类.md#54-薏苡仁)
-- **[Yiyiren](../../../docs/10-中药材识别与采集/03-果实种子类.md#54-薏苡仁)** (薏苡仁)
+- Yiren (苡仁) → [Yiyiren (coix seed)](03-fruits-and-seeds.md#54-yiyiren-coix-seed)
+- **[Yiyiren (coix seed)](03-fruits-and-seeds.md#54-yiyiren-coix-seed)** (薏苡仁) · Fruits and Seeds
 - Youmutong (油木通) → [Chuanmutong](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#39-川木通)
 - Yuancan (园参) → [Renshen (ginseng)](01-roots-and-rhizomes-1.md#11-renshen-ginseng)
 - Yuancan (元参) → [Xuanshen (figwort root)](02-roots-and-rhizomes-2.md#12-xuanshen-figwort-root)
@@ -873,7 +873,7 @@
 - Yunlian (云连) → [Huanglian (coptis rhizome)](01-roots-and-rhizomes-1.md#31-huanglian-coptis-rhizome)
 - Yunling (云苓) → [Fuling](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#11-茯苓)
 - Yunmuxiang (云木香) → [Muxiang (costus root)](02-roots-and-rhizomes-2.md#36-muxiang-costus-root)
-- Yurou (萸肉) → [Shanzhuyu](../../../docs/10-中药材识别与采集/03-果实种子类.md#21-山茱萸)
+- Yurou (萸肉) → [Shanzhuyu (cornus fruit)](03-fruits-and-seeds.md#21-shanzhuyu-cornus-fruit)
 - Yushu (於术) → [Baizhu (white atractylodes rhizome)](01-roots-and-rhizomes-1.md#16-baizhu-white-atractylodes-rhizome)
 - **[Yuxingcao (houttuynia)](04-whole-herbs.md#23-yuxingcao-houttuynia)** (鱼腥草) · Whole Herbs
 - **[Yuzhu (fragrant Solomon's seal rhizome)](02-roots-and-rhizomes-2.md#15-yuzhu-fragrant-solomons-seal-rhizome)** (玉竹) · Roots and Rhizomes (Part 2)
@@ -881,11 +881,11 @@
 ## Z
 
 - Zanghonghua (藏红花) → [Xihonghua](../../../docs/10-中药材识别与采集/05-花叶类.md#22-西红花)
-- Zaopi (枣皮) → [Shanzhuyu](../../../docs/10-中药材识别与采集/03-果实种子类.md#21-山茱萸)
-- Zaoren (枣仁) → [Suanzaoren](../../../docs/10-中药材识别与采集/03-果实种子类.md#28-酸枣仁)
+- Zaopi (枣皮) → [Shanzhuyu (cornus fruit)](03-fruits-and-seeds.md#21-shanzhuyu-cornus-fruit)
+- Zaoren (枣仁) → [Suanzaoren (sour jujube seed)](03-fruits-and-seeds.md#28-suanzaoren-sour-jujube-seed)
 - **[Zelan (bugleweed)](04-whole-herbs.md#42-zelan-bugleweed)** (泽兰) · Whole Herbs
 - **[Zexie (water plantain tuber)](02-roots-and-rhizomes-2.md#45-zexie-water-plantain-tuber)** (泽泻) · Roots and Rhizomes (Part 2)
-- Zhangyefupenzi (掌叶覆盆子) → [Fupenzi](../../../docs/10-中药材识别与采集/03-果实种子类.md#25-覆盆子)
+- Zhangyefupenzi (掌叶覆盆子) → [Fupenzi (Chinese raspberry)](03-fruits-and-seeds.md#25-fupenzi-chinese-raspberry)
 - Zhebei (浙贝) → [Zhebeimu (Zhejiang fritillary bulb)](02-roots-and-rhizomes-2.md#53-zhebeimu-zhejiang-fritillary-bulb)
 - **[Zhebeimu (Zhejiang fritillary bulb)](02-roots-and-rhizomes-2.md#53-zhebeimu-zhejiang-fritillary-bulb)** (浙贝母) · Roots and Rhizomes (Part 2)
 - Zheergen (折耳根) → [Yuxingcao (houttuynia)](04-whole-herbs.md#23-yuxingcao-houttuynia)
@@ -893,15 +893,15 @@
 - **[Zhenzhu](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#16-珍珠)** (珍珠)
 - Zhenzhu (真珠) → [Zhenzhu](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#16-珍珠)
 - **[Zheshi](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#46-赭石)** (赭石)
-- **[Zhike](../../../docs/10-中药材识别与采集/03-果实种子类.md#34-枳壳)** (枳壳)
+- **[Zhiqiao (bitter orange)](03-fruits-and-seeds.md#34-zhiqiao-bitter-orange)** (枳壳) · Fruits and Seeds
 - Zhiliaoke (知了壳) → [Chantui](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#21-蝉蜕)
 - **[Zhimu (anemarrhena rhizome)](02-roots-and-rhizomes-2.md#11-zhimu-anemarrhena-rhizome)** (知母) · Roots and Rhizomes (Part 2)
 - Zhimurou (知母肉) → [Zhimu (anemarrhena rhizome)](02-roots-and-rhizomes-2.md#11-zhimu-anemarrhena-rhizome)
-- **[Zhishi](../../../docs/10-中药材识别与采集/03-果实种子类.md#33-枳实)** (枳实)
+- **[Zhishi (immature bitter orange)](03-fruits-and-seeds.md#33-zhishi-immature-bitter-orange)** (枳实) · Fruits and Seeds
 - Zhixiang (枝香) → [Guanghuoxiang (patchouli)](04-whole-herbs.md#12-guanghuoxiang-patchouli)
-- **[Zhizi](../../../docs/10-中药材识别与采集/03-果实种子类.md#41-栀子)** (栀子)
+- **[Zhizi (gardenia fruit)](03-fruits-and-seeds.md#41-zhizi-gardenia-fruit)** (栀子) · Fruits and Seeds
 - Zhonghuachongcao (中华虫草) → [Dongchongxiacao](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#14-冬虫夏草)
-- Zhoupimugua (皱皮木瓜) → [Mugua](../../../docs/10-中药材识别与采集/03-果实种子类.md#56-木瓜)
+- Zhoupimugua (皱皮木瓜) → [Mugua (Chinese flowering quince)](03-fruits-and-seeds.md#56-mugua-chinese-flowering-quince)
 - Zhubei (珠贝) → [Zhebeimu (Zhejiang fritillary bulb)](02-roots-and-rhizomes-2.md#53-zhebeimu-zhejiang-fritillary-bulb)
 - Zhuerqing (竹二青) → [Zhuru](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#42-竹茹)
 - Zhujieqiang (竹节羌) → [Qianghuo (notopterygium rhizome)](01-roots-and-rhizomes-1.md#44-qianghuo-notopterygium-rhizome)
@@ -914,10 +914,10 @@
 - Zidanshen (紫丹参) → [Danshen (red sage root)](01-roots-and-rhizomes-1.md#27-danshen-red-sage-root)
 - **[Zihuadiding (Yedo violet)](04-whole-herbs.md#22-zihuadiding-yedo-violet)** (紫花地丁) · Whole Herbs
 - Zijiangxiang (紫降香) → [Jiangxiang](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#52-降香)
-- Zikou (紫蔻) → [Doukou](../../../docs/10-中药材识别与采集/03-果实种子类.md#52-豆蔻)
+- Zikou (紫蔻) → [Doukou (round cardamom)](03-fruits-and-seeds.md#52-doukou-round-cardamom)
 - Ziqiuduhuo (资丘独活) → [Duhuo (pubescent angelica root)](01-roots-and-rhizomes-1.md#45-duhuo-pubescent-angelica-root)
 - **[Zisuye](../../../docs/10-中药材识别与采集/05-花叶类.md#42-紫苏叶)** (紫苏叶)
-- **[Zisuzi](../../../docs/10-中药材识别与采集/03-果实种子类.md#73-紫苏子)** (紫苏子)
+- **[Zisuzi (perilla fruit)](03-fruits-and-seeds.md#73-zisuzi-perilla-fruit)** (紫苏子) · Fruits and Seeds
 - Ziyouhoupo (紫油厚朴) → [Houpo](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#12-厚朴)
 - Zizhi (紫芝) → [Lingzhi](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#13-灵芝)
 
