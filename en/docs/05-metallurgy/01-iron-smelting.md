@@ -170,7 +170,7 @@ Magnetite!     Streak it on white porcelain
 | Black basalt, shale | Does not feel heavy in the hand; greyish-white streak | No |
 | Red sandstone, red soil | Light; crumbles when squeezed | Too little iron |
 
-For more identification methods see [Geology, Minerals and Soil – Getting to know minerals](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#二认识矿物).
+For more identification methods see [Geology, Minerals and Soil – Getting to know minerals](../08-basic-science/06-geology-minerals-and-soil.md#2-recognising-minerals).
 
 ### 1.3 Collecting
 
@@ -349,7 +349,7 @@ Is it good enough?
   ✗ Turns glossy and glazed, softens or blisters → not refractory enough; use a whiter clay
 ```
 
-For the principles of refractories see [Engineering Mechanics and Materials – Ceramics and refractories](../../../docs/09-进阶科学与工程/01-工程力学与材料.md#105-陶瓷和耐火材料).
+For the principles of refractories see [Engineering Mechanics and Materials – Ceramics and refractories](../09-advanced-science-and-engineering/01-engineering-mechanics-and-materials.md#105-ceramics-and-refractories).
 
 ### 2.3 Building steps
 
@@ -849,7 +849,7 @@ For a spark comparison chart see [Scrap Metal Recycling and Aluminium Casting �
 | Medium-carbon steel | About 0.3-0.6% | A balance of strength and toughness | Axes, hammers, hoes |
 | High-carbon steel | About 0.6-2% (tool steels mostly 0.8-1.5%) | Very hard after quenching, rather brittle | Knives, chisels, files, springs |
 
-Steel can be hardened by quenching (heat to about 780-850°C, then cool rapidly); wrought iron cannot, which is why cutting edges must be steel. For the principle see [Engineering Mechanics and Materials – Iron and steel](../../../docs/09-进阶科学与工程/01-工程力学与材料.md#102-铁和钢-碳决定一切).
+Steel can be hardened by quenching (heat to about 780-850°C, then cool rapidly); wrought iron cannot, which is why cutting edges must be steel. For the principle see [Engineering Mechanics and Materials – Iron and steel](../09-advanced-science-and-engineering/01-engineering-mechanics-and-materials.md#102-iron-and-steel-carbon-decides-everything).
 
 ![Wrought iron, steel and pig iron: how they are divided by carbon content, their properties and where they come from](../../images/iron-carbon.svg)
 

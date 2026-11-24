@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 688" width="720" height="688" role="img" aria-label="Simple levels: water-tube method, fill a long clear flexible tube with water, hold one end against staff A and the other against staff B; the water surfaces at both ends are always at the same height; read where the water surface at each end falls on its staff, and the difference between the two readings is the height difference, e.g. staff A reads 1.52 m and staff B reads 0.87 m, so B is 0.65 m higher than A; sighting tube, a straight tube fixed on a level; once levelled, looking along the tube gives a level line of sight; set the instrument exactly halfway between the two staffs; backsight minus foresight is the height difference, e.g. 1.20 m minus 1.65 m equals minus 0.45 m, so B is 0.45 m lower than A" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Simple levels</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Simple levels: measuring the height difference between two points</text>
+<rect x="10" y="44" width="700" height="296" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="70" font-size="16" font-weight="bold">① Water-tube method</text>
+<path d="M11.5,300 L170,300 L480,248 L708.5,248 L708.5,332 Q708.5,338.5 702,338.5 L18,338.5 Q11.5,338.5 11.5,332 Z" fill="#e8e8e8"/>
+<path d="M11.5,300 L170,300 L480,248 L708.5,248" fill="none" stroke="#999" stroke-width="3"/>
+<rect x="112" y="140" width="14" height="160" fill="#fffbe8" stroke="#333" stroke-width="2"/>
+<text x="108" y="304" font-size="12" fill="#555" text-anchor="end">0</text>
+<text x="108" y="264" font-size="12" fill="#555" text-anchor="end">0.5</text>
+<text x="108" y="224" font-size="12" fill="#555" text-anchor="end">1.0</text>
+<text x="108" y="184" font-size="12" fill="#555" text-anchor="end">1.5</text>
+<text x="108" y="144" font-size="12" fill="#555" text-anchor="end">2.0</text>
+<path d="M112,300 H126 M112,292 H118 M112,284 H118 M112,276 H118 M112,268 H118 M112,260 H126 M112,252 H118 M112,244 H118 M112,236 H118 M112,228 H118 M112,220 H126 M112,212 H118 M112,204 H118 M112,196 H118 M112,188 H118 M112,180 H126 M112,172 H118 M112,164 H118 M112,156 H118 M112,148 H118 M112,140 H126" stroke="#333" stroke-width="1"/>
+<text x="119" y="132" font-size="16" font-weight="bold" text-anchor="middle">Staff A</text>
+<rect x="566" y="88" width="14" height="160" fill="#fffbe8" stroke="#333" stroke-width="2"/>
+<text x="584" y="252" font-size="12" fill="#555">0</text>
+<text x="584" y="212" font-size="12" fill="#555">0.5</text>
+<text x="584" y="172" font-size="12" fill="#555">1.0</text>
+<text x="584" y="132" font-size="12" fill="#555">1.5</text>
+<text x="584" y="92" font-size="12" fill="#555">2.0</text>
+<path d="M566,248 H580 M566,240 H572 M566,232 H572 M566,224 H572 M566,216 H572 M566,208 H580 M566,200 H572 M566,192 H572 M566,184 H572 M566,176 H572 M566,168 H580 M566,160 H572 M566,152 H572 M566,144 H572 M566,136 H572 M566,128 H580 M566,120 H572 M566,112 H572 M566,104 H572 M566,96 H572 M566,88 H580" stroke="#333" stroke-width="1"/>
+<text x="573" y="80" font-size="16" font-weight="bold" text-anchor="middle">Staff B</text>
+<path d="M133,150 L133,287 Q133,294 141,294 L170,294 L480,242 L551,242 Q559,242 559,235 L559,150" fill="none" stroke="#333" stroke-width="9" stroke-linejoin="round"/>
+<path d="M133,150 L133,287 Q133,294 141,294 L170,294 L480,242 L551,242 Q559,242 559,235 L559,150" fill="none" stroke="#fff" stroke-width="5" stroke-linejoin="round"/>
+<path d="M133,178.4 L133,287 Q133,294 141,294 L170,294 L480,242 L551,242 Q559,242 559,235 L559,178.4" fill="none" stroke="#7fb6e0" stroke-width="5" stroke-linejoin="round"/>
+<path d="M126,232 L139,232 M126,240 L139,240 M553,212 L566,212 M553,220 L566,220" stroke="#333" stroke-width="2.5"/>
+<path d="M126,178.4 H566" stroke="#0b5cad" stroke-width="1.5" stroke-dasharray="6 4"/>
+<path d="M129,178.4 H137 M555,178.4 H563" stroke="#0b5cad" stroke-width="3"/>
+<text x="146" y="172" font-size="14" fill="#0b5cad" font-weight="bold">Staff A reads 1.52 m</text>
+<text x="548" y="172" font-size="14" fill="#0b5cad" font-weight="bold" text-anchor="end">Staff B reads 0.87 m</text>
+<text x="346" y="196" font-size="14" fill="#0b5cad" text-anchor="middle">The water surfaces at both ends are always at the same height</text>
+<text x="166" y="92" font-size="13">Fill a long clear flexible tube with water (no air bubbles);</text>
+<text x="166" y="109" font-size="13">hold one end against staff A and the other against staff B,</text>
+<text x="166" y="126" font-size="13">and read where the water surface at each end falls on its staff</text>
+<text x="290" y="232" font-size="13" fill="#555">clear flexible tube</text>
+<text x="190" y="324" font-size="15" font-weight="bold">Height difference = 1.52 − 0.87 = 0.65 m → B is 0.65 m higher than A</text>
+<text x="166" y="146" font-size="12" fill="#555">(needs two people; distance limited by the tube length; very accurate)</text>
+<rect x="10" y="352" width="700" height="320" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="378" font-size="16" font-weight="bold">② Sighting tube</text>
+<path d="M11.5,566 L170,566 L480,602 L708.5,602 L708.5,664 Q708.5,670.5 702,670.5 L18,670.5 Q11.5,670.5 11.5,664 Z" fill="#e8e8e8"/>
+<path d="M11.5,566 L170,566 L480,602 L708.5,602" fill="none" stroke="#999" stroke-width="3"/>
+<rect x="112" y="406" width="14" height="160" fill="#fffbe8" stroke="#333" stroke-width="2"/>
+<text x="108" y="570" font-size="12" fill="#555" text-anchor="end">0</text>
+<text x="108" y="530" font-size="12" fill="#555" text-anchor="end">0.5</text>
+<text x="108" y="490" font-size="12" fill="#555" text-anchor="end">1.0</text>
+<text x="108" y="450" font-size="12" fill="#555" text-anchor="end">1.5</text>
+<text x="108" y="410" font-size="12" fill="#555" text-anchor="end">2.0</text>
+<path d="M112,566 H126 M112,558 H118 M112,550 H118 M112,542 H118 M112,534 H118 M112,526 H126 M112,518 H118 M112,510 H118 M112,502 H118 M112,494 H118 M112,486 H126 M112,478 H118 M112,470 H118 M112,462 H118 M112,454 H118 M112,446 H126 M112,438 H118 M112,430 H118 M112,422 H118 M112,414 H118 M112,406 H126" stroke="#333" stroke-width="1"/>
+<text x="119" y="398" font-size="16" font-weight="bold" text-anchor="middle">Staff A</text>
+<rect x="566" y="442" width="14" height="160" fill="#fffbe8" stroke="#333" stroke-width="2"/>
+<text x="584" y="606" font-size="12" fill="#555">0</text>
+<text x="584" y="566" font-size="12" fill="#555">0.5</text>
+<text x="584" y="526" font-size="12" fill="#555">1.0</text>
+<text x="584" y="486" font-size="12" fill="#555">1.5</text>
+<text x="584" y="446" font-size="12" fill="#555">2.0</text>
+<path d="M566,602 H580 M566,594 H572 M566,586 H572 M566,578 H572 M566,570 H572 M566,562 H580 M566,554 H572 M566,546 H572 M566,538 H572 M566,530 H572 M566,522 H580 M566,514 H572 M566,506 H572 M566,498 H572 M566,490 H572 M566,482 H580 M566,474 H572 M566,466 H572 M566,458 H572 M566,450 H572 M566,442 H580" stroke="#333" stroke-width="1"/>
+<text x="573" y="434" font-size="16" font-weight="bold" text-anchor="middle">Staff B</text>
+<g transform="translate(6,0)">
+<path d="M340,478 L312,582.3 M340,478 L368,589.2 M340,478 L340,585.7" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+<path d="M300,463 L340,421 L380,463 Z" fill="none" stroke="#8f6d2e" stroke-width="5" stroke-linejoin="round"/>
+<line x1="340" y1="422" x2="340" y2="450" stroke="#333" stroke-width="1.2"/>
+<path d="M336,449 L344,449 L340,458 Z" fill="#333"/>
+<path d="M340,463 L340,457" stroke="#c33" stroke-width="2"/>
+<rect x="292" y="463" width="96" height="14" rx="3" fill="#cfe0f0" stroke="#333" stroke-width="2"/>
+</g>
+<path d="M296,470 L130,470" stroke="#c33" stroke-width="2" stroke-dasharray="7 5" marker-end="url(#arR)"/>
+<path d="M396,470 L562,470" stroke="#c33" stroke-width="2" stroke-dasharray="7 5" marker-end="url(#arR)"/>
+<text x="146" y="462" font-size="14" fill="#c33" font-weight="bold">Backsight 1.20 m</text>
+<text x="550" y="462" font-size="14" fill="#c33" font-weight="bold" text-anchor="end">Foresight 1.65 m</text>
+<text x="398" y="380" font-size="14">A straight tube fixed on a level: once it is</text>
+<text x="398" y="398" font-size="14">levelled, looking along the tube gives a</text>
+<text x="398" y="416" font-size="14">level line of sight</text>
+<text x="290" y="406" font-size="13" fill="#555" text-anchor="end">Level: the plumb line</text>
+<text x="290" y="422" font-size="13" fill="#555" text-anchor="end">hangs on the mark at</text>
+<text x="290" y="438" font-size="13" fill="#555" text-anchor="end">the middle of the base</text>
+<line x1="292" y1="430" x2="342" y2="450" stroke="#555" stroke-width="1"/>
+<text x="400" y="510" font-size="13" fill="#555">Set the instrument exactly</text>
+<text x="400" y="526" font-size="13" fill="#555">halfway between the staffs</text>
+<line x1="398" y1="506" x2="356" y2="500" stroke="#555" stroke-width="1"/>
+<text x="190" y="632" font-size="15" font-weight="bold">Height difference = backsight − foresight</text>
+<text x="190" y="652" font-size="15" font-weight="bold">= 1.20 − 1.65 = −0.45 m → negative: B is 0.45 m lower than A</text>
+</g>
+</svg>

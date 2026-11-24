@@ -55,7 +55,7 @@ Before marking out, coat the workpiece with whitewash, chalk or blue dye so the 
 Example: main scale reads 23 mm, vernier line 17 lines up → 23 + 17 × 0.02 = 23.34 mm
 ```
 
-For setting up measurement standards, see [Measurement and the scientific method](../../../docs/08-基础科学知识/00-度量衡与科学方法.md).
+For setting up measurement standards, see [Measurement and the scientific method](../08-basic-science/00-measurement-and-scientific-method.md).
 
 ---
 
@@ -187,7 +187,7 @@ Steps:
   accurate dividing, so salvage and keep them wherever you can
 ```
 
-For why thread standards matter, see [Engineering mechanics and materials – Threads and fasteners](../../../docs/09-进阶科学与工程/01-工程力学与材料.md#116-螺纹和紧固件).
+For why thread standards matter, see [Engineering mechanics and materials – Threads and fasteners](../09-advanced-science-and-engineering/01-engineering-mechanics-and-materials.md#116-threads-and-fasteners).
 
 ---
 
@@ -208,7 +208,7 @@ and sliding faces, use scraping:
 6. Repeat until the contact spots are many and evenly spread
 ```
 
-For how precision work bootstraps itself, see [Technology rebuilding roadmap – Precision machining](../../../docs/09-进阶科学与工程/00-技术重建路线图.md#32-精密加工-机器的母机).
+For how precision work bootstraps itself, see [Technology rebuilding roadmap – Precision machining](../09-advanced-science-and-engineering/00-technology-rebuilding-roadmap.md#32-precision-machining-the-mother-machine-of-machines).
 
 ---
 
@@ -329,8 +329,8 @@ Interchangeability: parts made to a common standard and common gauges, by differ
 - ⏭️ [Other metals](10-other-metals.md)
 - 🔗 [Forging simple tools](03-forging-simple-tools.md) - forging the blank
 - 🔗 [Metalworking](04-metalworking.md) - heat treatment of cutting tools, taps and punches
-- 🔗 [Engineering mechanics and materials – Machine elements](../../../docs/09-进阶科学与工程/01-工程力学与材料.md#十一机械元件) - bearings, gears, threads
-- 🔗 [Technology rebuilding roadmap](../../../docs/09-进阶科学与工程/00-技术重建路线图.md) - precision machining is the bottleneck in building machines
+- 🔗 [Engineering mechanics and materials – Machine elements](../09-advanced-science-and-engineering/01-engineering-mechanics-and-materials.md#11-machine-elements) - bearings, gears, threads
+- 🔗 [Technology rebuilding roadmap](../09-advanced-science-and-engineering/00-technology-rebuilding-roadmap.md) - precision machining is the bottleneck in building machines
 
 ---
 

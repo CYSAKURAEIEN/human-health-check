@@ -477,7 +477,7 @@ Additional notes:
 - When several people walk at night, do not let gaps open up; count heads regularly
 ```
 
-For finding direction by the stars see [Basic Survival Skills – The star method](00-basic-survival-skills.md#star-methods-at-night); for more precise methods see [Advanced Celestial Navigation](../../../docs/09-进阶科学与工程/09-天文导航进阶.md#二精确定方向).
+For finding direction by the stars see [Basic Survival Skills – The star method](00-basic-survival-skills.md#star-methods-at-night); for more precise methods see [Advanced Celestial Navigation](../09-advanced-science-and-engineering/09-celestial-navigation.md#2-finding-direction-precisely).
 
 ### Stay put or not?
 

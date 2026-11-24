@@ -211,7 +211,7 @@ Example: a new nylon rope with a breaking strength of about 20 kN; knotted, coun
          for hoisting goods use 1/5 → about 2 kN, i.e. hoist at most about 200 kg
 ```
 
-For the general principles of safety factors see [Engineering Mechanics and Materials – Safety factors](../../../docs/09-进阶科学与工程/01-工程力学与材料.md#34-安全系数).
+For the general principles of safety factors see [Engineering Mechanics and Materials – Safety factors](../09-advanced-science-and-engineering/01-engineering-mechanics-and-materials.md#34-safety-factors).
 
 ### Checking whether a rope is fit to use
 
@@ -591,7 +591,7 @@ For joining timber in construction see [Woodworking and Tool Maintenance](09-woo
 ✗ Nobody stands under a raised load; do not put your hands between the rope and the pulley
 ```
 
-For calculating rope angles and tension see [Engineering Mechanics and Materials – The wider the rope angle, the greater the tension](../../../docs/09-进阶科学与工程/01-工程力学与材料.md#11-绳子的夹角越大拉力越大); for the tension in hanging cables see [Suspension cables and ropes](../../../docs/09-进阶科学与工程/01-工程力学与材料.md#八悬索和绳索); for how pulleys work see [Physics – Pulleys](../../../docs/08-基础科学知识/02-物理.md#22-滑轮).
+For calculating rope angles and tension see [Engineering Mechanics and Materials – The wider the rope angle, the greater the tension](../09-advanced-science-and-engineering/01-engineering-mechanics-and-materials.md#11-the-wider-the-angle-between-ropes-the-greater-the-tension); for the tension in hanging cables see [Suspension cables and ropes](../09-advanced-science-and-engineering/01-engineering-mechanics-and-materials.md#8-suspension-cables-and-ropes); for how pulleys work see [Physics – Pulleys](../08-basic-science/02-physics.md#22-pulleys).
 
 ### Well ropes and drawing water
 

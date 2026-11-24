@@ -170,7 +170,7 @@ As water evaporates, the salts come out one after another, least soluble first:
   Further concentration → magnesium sulphate, magnesium chloride, potassium chloride etc. come out and the salt turns bitter ← stop here and drain off the remaining bittern
 ```
 
-For the principles of solubility and crystallisation by evaporation see [Chemistry – Solubility](../../../docs/08-基础科学知识/03-化学.md#53-溶解度) and [Chemistry – Separation and purification](../../../docs/08-基础科学知识/03-化学.md#八分离与提纯).
+For the principles of solubility and crystallisation by evaporation see [Chemistry – Solubility](../08-basic-science/03-chemistry.md#53-solubility) and [Chemistry – Separation and purification](../08-basic-science/03-chemistry.md#8-separation-and-purification).
 
 **Do not drink seawater directly**; see [Desert Island Survival – Getting water on an island](../03-wilderness-survival/01-desert-island-survival.md#getting-water-on-an-island).
 
@@ -204,7 +204,7 @@ Method 3: home-made hydrometer
   space between into equal graduations (the principle of the traditional Baumé hydrometer)
 ```
 
-For the principles of buoyancy and density see [Physics – Buoyancy](../../../docs/08-基础科学知识/02-物理.md#45-浮力-阿基米德原理).
+For the principles of buoyancy and density see [Physics – Buoyancy](../08-basic-science/02-physics.md#45-buoyancy-archimedes-principle).
 
 ---
 
@@ -249,7 +249,7 @@ Order of magnitude of output (sunny, dry regions):
   - In rainy regions output is much lower and must be made up by boiling salt
 ```
 
-For planning salt making around the weather see [Weather Observation and Forecasting](../../../docs/08-基础科学知识/07-天气观测与预报.md).
+For planning salt making around the weather see [Weather Observation and Forecasting](../08-basic-science/07-weather-observation-and-forecasting.md).
 
 ---
 
@@ -386,7 +386,7 @@ On the saline-alkali land of the northern plains and the coast, a white frost (s
 ✓ When sea salt, well salt or lake salt is available, use that first; purify earth salt even when it is for salting vegetables or feeding livestock
 ```
 
-For how saline-alkali land forms and how to improve it see [Geology, Minerals and Soil – Acidity and alkalinity](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#53-酸碱性).
+For how saline-alkali land forms and how to improve it see [Geology, Minerals and Soil – Acidity and alkalinity](../08-basic-science/06-geology-minerals-and-soil.md#53-acidity-and-alkalinity).
 
 ---
 
@@ -418,7 +418,7 @@ For purer salt, repeat once (recrystallisation)
   (Glauber's salt can be used in dressing hides; see the chapter on textiles, mending and tanning)
 ```
 
-For the principle of recrystallisation see [Chemistry – Solubility](../../../docs/08-基础科学知识/03-化学.md#53-溶解度).
+For the principle of recrystallisation see [Chemistry – Solubility](../08-basic-science/03-chemistry.md#53-solubility).
 
 ### Bittern
 
@@ -495,7 +495,7 @@ Ordinary (non-iodised) table salt keeps indefinitely as long as it stays dry
 For storing iodised salt see the previous section
 ```
 
-Salt is also an important trade good: communities with sea or salt springs can trade salt for grain, ironware and furs; see [Record-keeping, Trade and Division of Labour – Trade](13-record-keeping-trade-and-division-of-labour.md#trade). For why salt water speeds up rusting of iron see [Chemistry – Rusting](../../../docs/08-基础科学知识/03-化学.md#43-生锈).
+Salt is also an important trade good: communities with sea or salt springs can trade salt for grain, ironware and furs; see [Record-keeping, Trade and Division of Labour – Trade](13-record-keeping-trade-and-division-of-labour.md#trade). For why salt water speeds up rusting of iron see [Chemistry – Rusting](../08-basic-science/03-chemistry.md#43-rusting).
 
 ---
 

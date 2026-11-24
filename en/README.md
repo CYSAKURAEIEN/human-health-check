@@ -144,7 +144,7 @@ The most basic skills for long-term living, and the easiest to overlook.
 - **Rope and knots**: fibre sources, twisting and making rope, rope strength and safety factors, a dozen or so common knots, splicing, lashing, building and hoisting, care
 - **Vehicles, boats and roads**: bicycles and handcarts, carrying loads by hand, wheels and axles, draught animals and harness, road drainage and surfacing, bridges, rafts and boats, crossing rivers, comparing ways of transport
 
-### [VIII. Basic Science](../docs/08-基础科学知识/README.md)
+### [VIII. Basic Science](docs/08-basic-science/README.md)
 
 The mathematics, physics, chemistry, biology and medicine that have most shaped human society, as the theoretical foundation for rebuilding technology from scratch.
 
@@ -159,7 +159,7 @@ The mathematics, physics, chemistry, biology and medicine that have most shaped 
 - **Surveying and mapping**: survey ropes, ranging poles and home-made angle-measuring instruments, contour lines with an A-frame, triangulation, levelling and setting canal gradients, traverse surveys and drawing maps, coordinates, calculating areas and recording boundaries
 - **Rebuilding measurement standards**: calibrating the second by the stars, fixing the metre from a seconds pendulum and the size of the Earth, fixing the kilogram with water, fixed points of temperature, ready-made references in the ruins, how big each unit really is, calibrating electrical units, preserving the standards, units in old books
 
-### [IX. Advanced Science and Engineering](../docs/09-进阶科学与工程/README.md)
+### [IX. Advanced Science and Engineering](docs/09-advanced-science-and-engineering/README.md)
 
 For those who want to go deeper: how to rebuild technology layer by layer.
 
@@ -207,35 +207,35 @@ When the network and power are down, web pages will not open. We recommend that 
 
 ## 📏 Unit symbols
 
-Values in this handbook use the international symbols of the International System of Units (SI), with a space between the number and the symbol (e.g. `1.5 m`, `500 g`). Times in running text are written in words (e.g. "rinse for 15 minutes", "wait 3 days"); times in formulas, data tables and compound units use symbols (e.g. m/s, kWh). Traditional Chinese and imperial units have been converted to SI units; for the conversions see [Measurement and scientific method – common unit conversions](../docs/08-基础科学知识/00-度量衡与科学方法.md#三常用单位换算).
+Values in this handbook use the international symbols of the International System of Units (SI), with a space between the number and the symbol (e.g. `1.5 m`, `500 g`). Times in running text are written in words (e.g. "rinse for 15 minutes", "wait 3 days"); times in formulas, data tables and compound units use symbols (e.g. m/s, kWh). Traditional Chinese and imperial units have been converted to SI units; for the conversions see [Measurement and scientific method – common unit conversions](docs/08-basic-science/00-measurement-and-scientific-method.md#3-common-unit-conversions).
 
-In case one day nobody knows how big these units really are, the "How to rebuild" column links to ways of recovering them using the stars, a pendulum, water, electrolysis and so on, and to how big each unit really is; see [Rebuilding measurement standards](../docs/08-基础科学知识/09-计量基准的重建.md).
+In case one day nobody knows how big these units really are, the "How to rebuild" column links to ways of recovering them using the stars, a pendulum, water, electrolysis and so on, and to how big each unit really is; see [Rebuilding measurement standards](docs/08-basic-science/09-rebuilding-measurement-standards.md).
 
 | Symbol | Name | Meaning and conversion | How to rebuild |
 |------|------|-----------|------|
-| μm, mm, cm, m, km | micrometre, millimetre, centimetre, metre, kilometre (Chinese *gongli*) | Length; 1 mm = 1000 μm; 1 m = 100 cm = 1000 mm, 1 km = 1000 m | [Rebuild](../docs/08-基础科学知识/09-计量基准的重建.md#三米-两条独立的路) |
-| m², ha, km² | square metre, hectare, square kilometre | Area; 1 ha = 10000 m² (about 15 *mu*), 1 *mu* ≈ 667 m² | [Rebuild](../docs/08-基础科学知识/09-计量基准的重建.md#三米-两条独立的路) |
-| mL, L, m³ | millilitre, litre, cubic metre | Volume; 1 L = 1000 mL, 1 m³ = 1000 L | [Rebuild](../docs/08-基础科学知识/09-计量基准的重建.md#四千克-用水) |
-| μg, mg, g, kg, t | microgram, milligram, gram, kilogram (Chinese *gongjin*), tonne | Mass; 1 kg = 1000 g (2 *shi jin*), 1 t = 1000 kg | [Rebuild](../docs/08-基础科学知识/09-计量基准的重建.md#四千克-用水) |
-| s, min, h, d | second, minute, hour, day | Time (only in formulas, data and compound units) | [Rebuild](../docs/08-基础科学知识/09-计量基准的重建.md#二秒-从星星得到) |
-| °C, K | degree Celsius, kelvin | Temperature; K = °C + 273.15 | [Rebuild](../docs/08-基础科学知识/09-计量基准的重建.md#五温度-固定点) |
-| N, kN | newton, kilonewton | Force; the weight of a 1 kg object is about 9.8 N; 1 kN = 1000 N, about the weight of a 100 kg object | [Rebuild](../docs/08-基础科学知识/09-计量基准的重建.md#71-力学和热学) |
-| Pa, kPa, MPa, GPa | pascal, and kilopascal, megapascal, gigapascal | Pressure, stress; 1 MPa = 1 N/mm² | [Rebuild](../docs/08-基础科学知识/09-计量基准的重建.md#71-力学和热学) |
-| atm | standard atmosphere | About 101 kPa, roughly equal to a 10.3 m column of water | [Rebuild](../docs/08-基础科学知识/09-计量基准的重建.md#71-力学和热学) |
-| mmHg | millimetre of mercury | Unit of blood pressure | [Rebuild](../docs/08-基础科学知识/09-计量基准的重建.md#71-力学和热学) |
-| J, kJ, MJ | joule, and kilojoule, megajoule | Energy, heat | [Rebuild](../docs/08-基础科学知识/09-计量基准的重建.md#71-力学和热学) |
-| cal, kcal | calorie, kilocalorie (Chinese *daka*, "large calorie") | Food energy; 1 kcal ≈ 4.18 kJ | [Rebuild](../docs/08-基础科学知识/09-计量基准的重建.md#71-力学和热学) |
-| W, kW | watt, kilowatt | Power | [Rebuild](../docs/08-基础科学知识/09-计量基准的重建.md#71-力学和热学) |
-| hp | horsepower | About 735 W | [Rebuild](../docs/08-基础科学知识/09-计量基准的重建.md#71-力学和热学) |
-| Wh, kWh | watt-hour, kilowatt-hour | Electrical energy; 1 kWh is what is commonly called "1 *du*" of electricity in Chinese | [Rebuild](../docs/08-基础科学知识/09-计量基准的重建.md#72-电学) |
-| V, A, mA, Ω | volt, ampere, milliampere, ohm | Voltage, current, resistance | [Rebuild](../docs/08-基础科学知识/09-计量基准的重建.md#72-电学) |
-| Ah | ampere-hour | Battery capacity; energy (Wh) = voltage (V) × capacity (Ah) | [Rebuild](../docs/08-基础科学知识/09-计量基准的重建.md#72-电学) |
-| Hz | hertz | Frequency, how many times per second; China's power grid runs at 50 Hz | [Rebuild](../docs/08-基础科学知识/09-计量基准的重建.md#71-力学和热学) |
-| mol | mole | Amount of substance; mol/L is the concentration of a solution | [Rebuild](../docs/08-基础科学知识/09-计量基准的重建.md#73-化学和原子) |
-| eV | electronvolt | Unit of energy on the atomic scale, about 1.6 × 10⁻¹⁹ J | [Rebuild](../docs/08-基础科学知识/09-计量基准的重建.md#73-化学和原子) |
-| Bq, Sv, mSv | becquerel, sievert, millisievert | Radioactivity, radiation dose | [Rebuild](../docs/08-基础科学知识/09-计量基准的重建.md#74-做不出来的单位) |
-| nmi, kn | nautical mile, knot | 1 nmi = 1852 m; 1 kn = 1 nmi/h | [Rebuild](../docs/08-基础科学知识/09-计量基准的重建.md#32-用地球的大小核对用) |
-| °, ′ | degree, minute of arc | Angle; 1° = 60′ | [Measuring angles](../docs/08-基础科学知识/08-测量与制图.md#13-量角度) |
+| μm, mm, cm, m, km | micrometre, millimetre, centimetre, metre, kilometre (Chinese *gongli*) | Length; 1 mm = 1000 μm; 1 m = 100 cm = 1000 mm, 1 km = 1000 m | [Rebuild](docs/08-basic-science/09-rebuilding-measurement-standards.md#3-the-metre-two-independent-routes) |
+| m², ha, km² | square metre, hectare, square kilometre | Area; 1 ha = 10000 m² (about 15 *mu*), 1 *mu* ≈ 667 m² | [Rebuild](docs/08-basic-science/09-rebuilding-measurement-standards.md#3-the-metre-two-independent-routes) |
+| mL, L, m³ | millilitre, litre, cubic metre | Volume; 1 L = 1000 mL, 1 m³ = 1000 L | [Rebuild](docs/08-basic-science/09-rebuilding-measurement-standards.md#4-the-kilogram-from-water) |
+| μg, mg, g, kg, t | microgram, milligram, gram, kilogram (Chinese *gongjin*), tonne | Mass; 1 kg = 1000 g (2 *shi jin*), 1 t = 1000 kg | [Rebuild](docs/08-basic-science/09-rebuilding-measurement-standards.md#4-the-kilogram-from-water) |
+| s, min, h, d | second, minute, hour, day | Time (only in formulas, data and compound units) | [Rebuild](docs/08-basic-science/09-rebuilding-measurement-standards.md#2-the-second-from-the-stars) |
+| °C, K | degree Celsius, kelvin | Temperature; K = °C + 273.15 | [Rebuild](docs/08-basic-science/09-rebuilding-measurement-standards.md#5-temperature-fixed-points) |
+| N, kN | newton, kilonewton | Force; the weight of a 1 kg object is about 9.8 N; 1 kN = 1000 N, about the weight of a 100 kg object | [Rebuild](docs/08-basic-science/09-rebuilding-measurement-standards.md#71-mechanics-and-heat) |
+| Pa, kPa, MPa, GPa | pascal, and kilopascal, megapascal, gigapascal | Pressure, stress; 1 MPa = 1 N/mm² | [Rebuild](docs/08-basic-science/09-rebuilding-measurement-standards.md#71-mechanics-and-heat) |
+| atm | standard atmosphere | About 101 kPa, roughly equal to a 10.3 m column of water | [Rebuild](docs/08-basic-science/09-rebuilding-measurement-standards.md#71-mechanics-and-heat) |
+| mmHg | millimetre of mercury | Unit of blood pressure | [Rebuild](docs/08-basic-science/09-rebuilding-measurement-standards.md#71-mechanics-and-heat) |
+| J, kJ, MJ | joule, and kilojoule, megajoule | Energy, heat | [Rebuild](docs/08-basic-science/09-rebuilding-measurement-standards.md#71-mechanics-and-heat) |
+| cal, kcal | calorie, kilocalorie (Chinese *daka*, "large calorie") | Food energy; 1 kcal ≈ 4.18 kJ | [Rebuild](docs/08-basic-science/09-rebuilding-measurement-standards.md#71-mechanics-and-heat) |
+| W, kW | watt, kilowatt | Power | [Rebuild](docs/08-basic-science/09-rebuilding-measurement-standards.md#71-mechanics-and-heat) |
+| hp | horsepower | About 735 W | [Rebuild](docs/08-basic-science/09-rebuilding-measurement-standards.md#71-mechanics-and-heat) |
+| Wh, kWh | watt-hour, kilowatt-hour | Electrical energy; 1 kWh is what is commonly called "1 *du*" of electricity in Chinese | [Rebuild](docs/08-basic-science/09-rebuilding-measurement-standards.md#72-electricity) |
+| V, A, mA, Ω | volt, ampere, milliampere, ohm | Voltage, current, resistance | [Rebuild](docs/08-basic-science/09-rebuilding-measurement-standards.md#72-electricity) |
+| Ah | ampere-hour | Battery capacity; energy (Wh) = voltage (V) × capacity (Ah) | [Rebuild](docs/08-basic-science/09-rebuilding-measurement-standards.md#72-electricity) |
+| Hz | hertz | Frequency, how many times per second; China's power grid runs at 50 Hz | [Rebuild](docs/08-basic-science/09-rebuilding-measurement-standards.md#71-mechanics-and-heat) |
+| mol | mole | Amount of substance; mol/L is the concentration of a solution | [Rebuild](docs/08-basic-science/09-rebuilding-measurement-standards.md#73-chemistry-and-atoms) |
+| eV | electronvolt | Unit of energy on the atomic scale, about 1.6 × 10⁻¹⁹ J | [Rebuild](docs/08-basic-science/09-rebuilding-measurement-standards.md#73-chemistry-and-atoms) |
+| Bq, Sv, mSv | becquerel, sievert, millisievert | Radioactivity, radiation dose | [Rebuild](docs/08-basic-science/09-rebuilding-measurement-standards.md#74-units-you-cannot-make) |
+| nmi, kn | nautical mile, knot | 1 nmi = 1852 m; 1 kn = 1 nmi/h | [Rebuild](docs/08-basic-science/09-rebuilding-measurement-standards.md#32-from-the-size-of-the-earth-as-a-check) |
+| °, ′ | degree, minute of arc | Angle; 1° = 60′ | [Measuring angles](docs/08-basic-science/08-surveying-and-mapping.md#13-measuring-angles) |
 | %vol | percentage by volume | Alcohol strength; e.g. a "56%vol *baijiu*" (Chinese spirit) is what is commonly called "56-degree *baijiu*" | — |
 
 Compound units use "/" to mean "per", e.g. m/s (metres per second), kg/ha (kilograms per hectare), mg/kg (milligrams per kilogram of body weight), J/(kg·°C) (joules per kilogram per degree Celsius).
@@ -296,15 +296,15 @@ Compound units use "/" to mean "per", e.g. m/s (metres per second), kg/ha (kilog
 | Feeling unwell after eating wild mushrooms | [Poisonous mushrooms](docs/03-wilderness-survival/09-poisonous-mushrooms-and-wild-plants.md#feeling-unwell-after-eating-wild-mushrooms) (everyone who ate them goes to hospital) |
 | Someone injured in the wild, rescue not yet here | [Treating the sick and injured in the wild](docs/03-wilderness-survival/11-wilderness-casualty-care-and-evacuation.md#waiting-where-you-are-or-getting-yourselves-out) |
 | Stung by a wasp, bitten by a tick | [Wasps](docs/03-wilderness-survival/10-wasps-ticks-and-dangerous-animals.md#wasps-hornets), [ticks](docs/03-wilderness-survival/10-wasps-ticks-and-dangerous-animals.md#ticks) |
-| Setting out a right angle, finding level, measuring height when building | [Measuring without instruments](../docs/08-基础科学知识/00-度量衡与科学方法.md#四没有仪器时的测量) |
-| Not sure how much 1 m or 1 kg really is | [Rebuilding measurement standards](../docs/08-基础科学知识/09-计量基准的重建.md#六废墟中的现成参照物) |
+| Setting out a right angle, finding level, measuring height when building | [Measuring without instruments](docs/08-basic-science/00-measurement-and-scientific-method.md#4-measuring-without-instruments) |
+| Not sure how much 1 m or 1 kg really is | [Rebuilding measurement standards](docs/08-basic-science/09-rebuilding-measurement-standards.md#6-ready-made-references-in-the-ruins) |
 | Which chapter a Chinese herb is in, and its other names | [Herb name index](../docs/10-中药材识别与采集/10-药名索引.md) |
 | Is the herb you dug up a poisonous plant? | [Comparison of easily confused poisonous plants](../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#四易混淆的有毒植物对照) (*Gouwen*, pokeweed, water hemlock, etc.; if you are not sure, do not pick it) |
 | Feeling unwell after taking self-collected herbs or herbal wine | [General treatment of poisoning](../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#五中毒的通用处理) (call 120 at once and take the remaining herbs with you) |
 | How to save seed, and whether it will germinate | [Seed saving and breeding](docs/04-farming-and-animal-husbandry/08-seed-saving-and-breeding.md#germination-testing) |
 | The salt has run out | [Salt making](docs/07-everyday-living-skills/15-salt-making.md#salt-from-seawater-the-basic-idea) |
 | How to tie knots | [Common knots](docs/07-everyday-living-skills/17-rope-and-knots.md#common-knots) |
-| How much gradient to give an irrigation channel | [Levelling](../docs/08-基础科学知识/08-测量与制图.md#四水准测量) |
+| How much gradient to give an irrigation channel | [Levelling](docs/08-basic-science/08-surveying-and-mapping.md#4-levelling) |
 | How long the food will last | [Stock management](docs/07-everyday-living-skills/13-record-keeping-trade-and-division-of-labour.md#managing-stores) |
 | Using the toilet when the water is off | [Sanitation – emergency toilets](docs/07-everyday-living-skills/03-sanitation.md#emergency-toilets) |
 | Breaker tripping, socket getting hot | [Household electrical safety](docs/07-everyday-living-skills/08-household-electrical-safety.md#rcds-and-circuit-breakers) |
@@ -421,29 +421,29 @@ Compound units use "/" to mean "per", e.g. m/s (metres per second), kg/ha (kilog
 
 ### VIII. Basic Science
 
-- **[度量衡与科学方法](../docs/08-基础科学知识/00-度量衡与科学方法.md)**: [3-4-5绳画直角](../docs/08-基础科学知识/00-度量衡与科学方法.md#41-画直角-3-4-5-绳)
-- **[数学](../docs/08-基础科学知识/01-数学.md)**: [常用面积和体积公式](../docs/08-基础科学知识/01-数学.md#45-体积公式)
-- **[物理](../docs/08-基础科学知识/02-物理.md)**: [杠杆和滑轮](../docs/08-基础科学知识/02-物理.md#22-滑轮) · [轮轴和螺旋](../docs/08-基础科学知识/02-物理.md#24-轮轴和螺旋) · [水车: 上射式和下射式](../docs/08-基础科学知识/02-物理.md#33-水力-水车和水磨) · [直流电路: 欧姆定律、串联和并联](../docs/08-基础科学知识/02-物理.md#73-串联和并联)
-- **[化学](../docs/08-基础科学知识/03-化学.md)**: [pH 和自制酸碱指示剂](../docs/08-基础科学知识/03-化学.md#61-ph)
-- **[生物与医学基础](../docs/08-基础科学知识/04-生物与医学基础.md)**: [病菌怎样传播,怎样拦住它](../docs/08-基础科学知识/04-生物与医学基础.md#22-由此得出的做法)
-- **[元素周期表](../docs/08-基础科学知识/05-元素周期表.md)**: [元素周期表: 结构和重建中最常用的元素](../docs/08-基础科学知识/05-元素周期表.md#六重建中最常用的元素)
-- **[地质、矿物与土壤](../docs/08-基础科学知识/06-地质矿物与土壤.md)**: [土壤质地: 搓条法和沉淀法](../docs/08-基础科学知识/06-地质矿物与土壤.md#52-简单的土壤质地判断)
-- **[天气观测与预报](../docs/08-基础科学知识/07-天气观测与预报.md)**: [看云识天气](../docs/08-基础科学知识/07-天气观测与预报.md#21-主要的云)
-- **[测量与制图](../docs/08-基础科学知识/08-测量与制图.md)**: [三角测量](../docs/08-基础科学知识/08-测量与制图.md#32-步骤) · [简易水准仪](../docs/08-基础科学知识/08-测量与制图.md#42-简易水准仪)
-- **[计量基准的重建](../docs/08-基础科学知识/09-计量基准的重建.md)**: [用秒摆定米](../docs/08-基础科学知识/09-计量基准的重建.md#31-用秒摆推荐)
+- **[Measurement and Scientific Method](docs/08-basic-science/00-measurement-and-scientific-method.md)**: [Laying out a right angle with a 3-4-5 rope](docs/08-basic-science/00-measurement-and-scientific-method.md#41-laying-out-a-right-angle-the-3-4-5-rope)
+- **[Mathematics](docs/08-basic-science/01-mathematics.md)**: [Common area and volume formulas](docs/08-basic-science/01-mathematics.md#45-volume-formulas)
+- **[Physics](docs/08-basic-science/02-physics.md)**: [Levers and pulleys](docs/08-basic-science/02-physics.md#22-pulleys) · [Wheel and axle, and the screw](docs/08-basic-science/02-physics.md#24-wheel-and-axle-and-the-screw) · [Water wheels: overshot and undershot](docs/08-basic-science/02-physics.md#33-water-power-waterwheels-and-watermills) · [DC circuits: Ohm's law, series and parallel](docs/08-basic-science/02-physics.md#73-series-and-parallel)
+- **[Chemistry](docs/08-basic-science/03-chemistry.md)**: [pH and a home-made acid-base indicator](docs/08-basic-science/03-chemistry.md#61-ph)
+- **[Biology and Medical Basics](docs/08-basic-science/04-biology-and-medical-basics.md)**: [How germs spread and how to stop them](docs/08-basic-science/04-biology-and-medical-basics.md#22-what-follows-from-it)
+- **[The Periodic Table](docs/08-basic-science/05-periodic-table.md)**: [The periodic table: structure and the elements most used in rebuilding](docs/08-basic-science/05-periodic-table.md#6-the-elements-most-used-in-rebuilding)
+- **[Geology, Minerals and Soil](docs/08-basic-science/06-geology-minerals-and-soil.md)**: [Soil texture: the ribbon test and the jar test](docs/08-basic-science/06-geology-minerals-and-soil.md#52-simple-soil-texture-tests)
+- **[Weather Observation and Forecasting](docs/08-basic-science/07-weather-observation-and-forecasting.md)**: [Reading the clouds](docs/08-basic-science/07-weather-observation-and-forecasting.md#21-the-main-clouds)
+- **[Surveying and Mapping](docs/08-basic-science/08-surveying-and-mapping.md)**: [Triangulation](docs/08-basic-science/08-surveying-and-mapping.md#32-steps) · [Simple levels](docs/08-basic-science/08-surveying-and-mapping.md#42-simple-levels)
+- **[Rebuilding Measurement Standards](docs/08-basic-science/09-rebuilding-measurement-standards.md)**: [Fixing the metre with a seconds pendulum](docs/08-basic-science/09-rebuilding-measurement-standards.md#31-with-a-seconds-pendulum-recommended)
 
 ### IX. Advanced Science and Engineering
 
-- **[技术重建路线图](../docs/09-进阶科学与工程/00-技术重建路线图.md)**: [技术重建路线图](../docs/09-进阶科学与工程/00-技术重建路线图.md#一技术树总览)
-- **[工程力学与材料](../docs/09-进阶科学与工程/01-工程力学与材料.md)**: [三角形和桁架](../docs/09-进阶科学与工程/01-工程力学与材料.md#六三角形和桁架)
-- **[电气工程与电子学](../docs/09-进阶科学与工程/02-电气工程与电子学.md)**: [直流电路: 欧姆定律、串联和并联](../docs/09-进阶科学与工程/02-电气工程与电子学.md#12-电源内阻) · [发电机原理](../docs/09-进阶科学与工程/02-电气工程与电子学.md#33-现实可行的小型发电)
-- **[热力学与动力机械](../docs/09-进阶科学与工程/03-热力学与动力机械.md)**: [锅炉与蒸汽机](../docs/09-进阶科学与工程/03-热力学与动力机械.md#42-主要部件) · [四冲程循环](../docs/09-进阶科学与工程/03-热力学与动力机械.md#51-四冲程循环)
-- **[高等数学](../docs/09-进阶科学与工程/04-高等数学.md)**: [导数是切线的斜率,积分是曲线下的面积](../docs/09-进阶科学与工程/04-高等数学.md#33-数值积分-没有公式时怎么算)
-- **[化学进阶](../docs/09-进阶科学与工程/05-化学进阶.md)**: [电化学: 电极电势、电池、电解和防腐](../docs/09-进阶科学与工程/05-化学进阶.md#54-腐蚀和防护)
-- **[现代物理](../docs/09-进阶科学与工程/06-现代物理.md)**: [辐射的种类和防护](../docs/09-进阶科学与工程/06-现代物理.md#64-辐射剂量)
-- **[生物医学进阶](../docs/09-进阶科学与工程/07-生物医学进阶.md)**: [药物在体内: 剂量、半衰期和给药间隔](../docs/09-进阶科学与工程/07-生物医学进阶.md#43-半衰期和给药间隔)
-- **[计算与信息](../docs/09-进阶科学与工程/08-计算与信息.md)**: [二进制和逻辑电路](../docs/09-进阶科学与工程/08-计算与信息.md#32-加法器)
-- **[天文导航进阶](../docs/09-进阶科学与工程/09-天文导航进阶.md)**: [测纬度: 北极星法和正午太阳法](../docs/09-进阶科学与工程/09-天文导航进阶.md#32-正午太阳法任何一天都能用)
+- **[Technology Rebuilding Roadmap](docs/09-advanced-science-and-engineering/00-technology-rebuilding-roadmap.md)**: [Technology rebuilding roadmap](docs/09-advanced-science-and-engineering/00-technology-rebuilding-roadmap.md#1-overview-of-the-technology-tree)
+- **[Engineering Mechanics and Materials](docs/09-advanced-science-and-engineering/01-engineering-mechanics-and-materials.md)**: [Triangles and trusses](docs/09-advanced-science-and-engineering/01-engineering-mechanics-and-materials.md#6-triangles-and-trusses)
+- **[Electrical Engineering and Electronics](docs/09-advanced-science-and-engineering/02-electrical-engineering-and-electronics.md)**: [DC circuits: Ohm's law, series and parallel](docs/09-advanced-science-and-engineering/02-electrical-engineering-and-electronics.md#12-internal-resistance-of-a-source) · [How a generator works](docs/09-advanced-science-and-engineering/02-electrical-engineering-and-electronics.md#33-small-scale-generation-that-is-realistic)
+- **[Thermodynamics and Engines](docs/09-advanced-science-and-engineering/03-thermodynamics-and-engines.md)**: [Boiler and steam engine](docs/09-advanced-science-and-engineering/03-thermodynamics-and-engines.md#42-main-parts) · [The four-stroke cycle](docs/09-advanced-science-and-engineering/03-thermodynamics-and-engines.md#51-the-four-stroke-cycle)
+- **[Higher Mathematics](docs/09-advanced-science-and-engineering/04-higher-mathematics.md)**: [Derivative = slope of the tangent; integral = area under the curve](docs/09-advanced-science-and-engineering/04-higher-mathematics.md#33-numerical-integration-when-there-is-no-formula)
+- **[Advanced Chemistry](docs/09-advanced-science-and-engineering/05-advanced-chemistry.md)**: [Electrochemistry: electrode potentials, cells, electrolysis and corrosion](docs/09-advanced-science-and-engineering/05-advanced-chemistry.md#54-corrosion-and-protection)
+- **[Modern Physics](docs/09-advanced-science-and-engineering/06-modern-physics.md)**: [Types of radiation and protection](docs/09-advanced-science-and-engineering/06-modern-physics.md#64-radiation-dose)
+- **[Advanced Biomedicine](docs/09-advanced-science-and-engineering/07-advanced-biomedicine.md)**: [Drugs in the body: dose, half-life and dosing interval](docs/09-advanced-science-and-engineering/07-advanced-biomedicine.md#43-half-life-and-dosing-interval)
+- **[Computing and Information](docs/09-advanced-science-and-engineering/08-computing-and-information.md)**: [Binary and logic circuits](docs/09-advanced-science-and-engineering/08-computing-and-information.md#32-adders)
+- **[Advanced Celestial Navigation](docs/09-advanced-science-and-engineering/09-celestial-navigation.md)**: [Measuring latitude: the Polaris method and the noon sun method](docs/09-advanced-science-and-engineering/09-celestial-navigation.md#32-the-noon-sun-method-works-on-any-day)
 
 ### X. Identifying and Collecting Chinese Medicinal Herbs
 
@@ -479,8 +479,8 @@ Compound units use "/" to mean "per", e.g. m/s (metres per second), kg/ha (kilog
 1. **Stockpile in advance**: medicines, wound-care supplies, seeds, tools (see [Pharmaceuticals – stockpiling advice](docs/06-pharmaceuticals/02-antibiotics.md#6-stockpiling-advice))
 2. Learn [Metallurgy](docs/05-metallurgy/README.md) to make basic tools
 3. Learn the feasible parts of [Pharmaceuticals](docs/06-pharmaceuticals/README.md) (disinfectants, Chinese herbal medicine, natural antibacterial substances)
-4. Learn [Basic science](../docs/08-基础科学知识/README.md): measurement, mathematics, physics, chemistry, and the principles of biology and medicine, so that you can work things out for yourself when a situation is not covered in the book
-5. Read the [Technology rebuilding roadmap](../docs/09-进阶科学与工程/00-技术重建路线图.md) to understand the overall order of rebuilding technology and which things to preserve first
+4. Learn [Basic science](docs/08-basic-science/README.md): measurement, mathematics, physics, chemistry, and the principles of biology and medicine, so that you can work things out for yourself when a situation is not covered in the book
+5. Read the [Technology rebuilding roadmap](docs/09-advanced-science-and-engineering/00-technology-rebuilding-roadmap.md) to understand the overall order of rebuilding technology and which things to preserve first
 6. Build up a body of knowledge for long-term survival
 
 ## 🤝 Contributing

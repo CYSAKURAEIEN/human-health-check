@@ -25,7 +25,7 @@ The commonest reason vegetables fail is not technique but **sowing at the wrong 
 
 ### Telling north from south
 
-In this chapter "north" means the North China Plain and "south" means the Yangtze basin; for other regions shift the dates earlier or later using the table below. The frost dates in the table are rough ranges. **The most reliable thing is to record the date of the last spring frost and the first autumn frost in your own area every year** (see [Weather observation and forecasting – Frost](../../../docs/08-基础科学知识/07-天气观测与预报.md#五霜冻)).
+In this chapter "north" means the North China Plain and "south" means the Yangtze basin; for other regions shift the dates earlier or later using the table below. The frost dates in the table are rough ranges. **The most reliable thing is to record the date of the last spring frost and the first autumn frost in your own area every year** (see [Weather observation and forecasting – Frost](../08-basic-science/07-weather-observation-and-forecasting.md#5-frost)).
 
 | Region | Roughly covers | Last spring frost | First autumn frost | What it means for growing |
 |------|----------|----------|----------|----------|
@@ -209,7 +209,7 @@ Solutions:
 
 ## Preparing the ground, making beds and high yields from small plots
 
-For judging soil texture, acidity and fertility see [Geology, minerals and soil – Soil texture](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#52-简单的土壤质地判断), [Acidity](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#53-酸碱性) and [Soil fertility](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#54-土壤肥力). For liming acid soil see [Lime and building materials – Improving acid soil](../07-everyday-living-skills/16-lime-and-building-materials.md#improving-acid-soil).
+For judging soil texture, acidity and fertility see [Geology, minerals and soil – Soil texture](../08-basic-science/06-geology-minerals-and-soil.md#52-simple-soil-texture-tests), [Acidity](../08-basic-science/06-geology-minerals-and-soil.md#53-acidity-and-alkalinity) and [Soil fertility](../08-basic-science/06-geology-minerals-and-soil.md#54-soil-fertility). For liming acid soil see [Lime and building materials – Improving acid soil](../07-everyday-living-skills/16-lime-and-building-materials.md#improving-acid-soil).
 
 ### Flat beds, raised beds and ridges
 
@@ -374,7 +374,7 @@ Windbreaks and cold frames (northern tradition):
 
 ## Compost and manure
 
-High yields from a vegetable plot come from heavy applications of organic manure year after year. **All manure must be fully rotted before use**: fresh manure burns roots, attracts root maggots, and carries parasite eggs and germs onto the vegetables. For the basic compost recipe see [this part's README – Improving soil](README.md#improving-soil); for why composting kills germs see [Biology and medicine basics – Biology in farming](../../../docs/08-基础科学知识/04-生物与医学基础.md#82-农业中的生物学).
+High yields from a vegetable plot come from heavy applications of organic manure year after year. **All manure must be fully rotted before use**: fresh manure burns roots, attracts root maggots, and carries parasite eggs and germs onto the vegetables. For the basic compost recipe see [this part's README – Improving soil](README.md#improving-soil); for why composting kills germs see [Biology and medicine basics – Biology in farming](../08-basic-science/04-biology-and-medical-basics.md#82-biology-in-farming).
 
 ### How to make compost
 

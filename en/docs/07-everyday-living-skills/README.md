@@ -108,7 +108,7 @@ These skills are useful in ordinary times, and they become critical when the wat
 - [Farming and animal husbandry](../04-farming-and-animal-husbandry/README.md) - where food comes from
 - [Long-term collapse survival](../03-wilderness-survival/06-long-term-collapse-survival.md) - overall strategy for long-term survival
 - [Common illnesses – food poisoning](../01-first-aid-and-family-health/01-common-illnesses.md#food-poisoning), [Common illnesses – diarrhoea](../01-first-aid-and-family-health/01-common-illnesses.md#diarrhoea)
-- [Surveying and mapping](../../../docs/08-基础科学知识/08-测量与制图.md) - setting the fall of water channels, measuring land
+- [Surveying and mapping](../08-basic-science/08-surveying-and-mapping.md) - setting the fall of water channels, measuring land
 - [Antibiotics – preventing infection](../06-pharmaceuticals/02-antibiotics.md#5-preventing-infection)
 
 ---

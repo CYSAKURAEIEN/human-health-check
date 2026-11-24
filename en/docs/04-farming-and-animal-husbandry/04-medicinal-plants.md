@@ -815,7 +815,7 @@ How to do it:
 - Liquorice is a legume with root nodules; it fixes nitrogen and improves the soil
 ```
 
-For how to judge soil texture see [Geology, Minerals and Soil – Simple soil texture tests](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#52-简单的土壤质地判断).
+For how to judge soil texture see [Geology, Minerals and Soil – Simple soil texture tests](../08-basic-science/06-geology-minerals-and-soil.md#52-simple-soil-texture-tests).
 
 **Harvesting**: after 3-4 years of growth, dig the roots in autumn after the tops have died back, or in spring before new growth. The roots go very deep: dig a deep trench along the root and try to get all of it out. Remove the fine roots and the crown, dry in the sun until half dry, tie in bundles, then finish drying in the sun.
 
@@ -907,7 +907,7 @@ Layout suggestions:
   never use manure that has not fully rotted
 ```
 
-For safe use of manure see [Sanitation – Using faeces and urine](../07-everyday-living-skills/03-sanitation.md#using-faeces-and-urine); for soil acidity see [Geology, Minerals and Soil – Acidity and alkalinity](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#53-酸碱性).
+For safe use of manure see [Sanitation – Using faeces and urine](../07-everyday-living-skills/03-sanitation.md#using-faeces-and-urine); for soil acidity see [Geology, Minerals and Soil – Acidity and alkalinity](../08-basic-science/06-geology-minerals-and-soil.md#53-acidity-and-alkalinity).
 
 ![Home herb garden layout: climbers and shrubs on the north side, chrysanthemum and dandelion in the middle, mint, fish mint and mugwort enclosed by barriers](../../images/herb-garden-layout.svg)
 

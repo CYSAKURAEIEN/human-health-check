@@ -572,7 +572,7 @@ Note:
 
 **When to tell medical staff**: nausea, vomiting, weakness or reddened skin within a few hours of the accident may mean a large dose of radiation. Tell the medical staff on site at once or call 120, and say where you were at the time and how long you stayed there.
 
-For surviving a nuclear disaster during long-term social breakdown, see [Survival After Civilisation Collapse – Nuclear disaster](../03-wilderness-survival/06-long-term-collapse-survival.md#nuclear-disaster); for the physics of radiation dose, see [Modern Physics](../../../docs/09-进阶科学与工程/06-现代物理.md).
+For surviving a nuclear disaster during long-term social breakdown, see [Survival After Civilisation Collapse – Nuclear disaster](../03-wilderness-survival/06-long-term-collapse-survival.md#nuclear-disaster); for the physics of radiation dose, see [Modern Physics](../09-advanced-science-and-engineering/06-modern-physics.md).
 
 ---
 

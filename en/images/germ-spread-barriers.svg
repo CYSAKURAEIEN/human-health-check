@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 756" width="720" height="756" role="img" aria-label="How germs reach people and how to stop them. Germs pass from sick people, faeces, dirty water and dirty hands to healthy people, and every route has a simple barrier: isolate the sick and disinfect what they have used; keep toilets away from water sources and keep faeces out of water and food; drink only water that has been boiled or disinfected; wash your hands before eating, after the toilet, after touching a sick person and before treating a wound; cook food thoroughly and keep leftovers cold; clean and disinfect wounds and boil instruments. These measures are very simple and need no advanced technology, yet they do more good than almost any medicine. How many people each case infects on average: more than 1, cases keep rising; less than 1, the outbreak dies away. Isolation, handwashing, wearing masks and vaccination all aim to bring this number below 1" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>How germs spread and how to stop them</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c33"/></marker>
+<g id="row">
+<rect x="24" y="-16" width="112" height="32" rx="6" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<path d="M140,0 H194" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<rect x="158" y="-4" width="14" height="8" rx="4" fill="#f4c7c7" stroke="#c33" stroke-width="1.2"/>
+<rect x="200" y="-16" width="356" height="32" rx="6" fill="#eef5fc" stroke="#0b5cad" stroke-width="1.5"/>
+<path d="M562,-19 V19" stroke="#0b5cad" stroke-width="6" stroke-linecap="round"/>
+</g>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">How germs reach people, and how to stop them</text>
+<rect x="8" y="42" width="704" height="56" rx="6" fill="#eef5fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="360" y="65" font-size="13" text-anchor="middle">Human life expectancy doubled mainly thanks to a few simple insights: disease is caused</text>
+<text x="360" y="84" font-size="13" text-anchor="middle">by microbes; wash your hands; drink clean water; get vaccinated</text>
+
+<g transform="translate(0,16)">
+<!-- 1 spread and barriers -->
+<rect x="8" y="92" width="704" height="350" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="18" y="116" font-size="15" font-weight="bold">① Cut the routes of spread: put a barrier on every route</text>
+<g font-size="12" text-anchor="middle" fill="#555">
+<text x="80" y="142">Where germs come from</text>
+<text x="378" y="142">What stops them</text>
+<text x="562" y="142" fill="#0b5cad" font-weight="bold">Barrier</text>
+<text x="650" y="142">Healthy person</text>
+</g>
+<use href="#row" transform="translate(0,170)"/>
+<use href="#row" transform="translate(0,214)"/>
+<use href="#row" transform="translate(0,258)"/>
+<use href="#row" transform="translate(0,302)"/>
+<use href="#row" transform="translate(0,346)"/>
+<use href="#row" transform="translate(0,390)"/>
+<g font-size="14" font-weight="bold" text-anchor="middle">
+<text x="80" y="175">Sick people</text>
+<text x="80" y="219">Faeces</text>
+<text x="80" y="263">Dirty water</text>
+<text x="80" y="307">Dirty hands</text>
+<text x="80" y="351">Food</text>
+<text x="80" y="388" font-size="12">Wounds,</text>
+<text x="80" y="402" font-size="12">instruments</text>
+</g>
+<g font-size="13">
+<text x="210" y="175"><tspan fill="#0b5cad">✓</tspan> Isolate the sick; disinfect what they have used</text>
+<text x="210" y="212" font-size="12"><tspan fill="#0b5cad">✓</tspan> Keep toilets away from water sources; keep faeces</text>
+<text x="222" y="226" font-size="12">out of water and food</text>
+<text x="210" y="263" font-size="12"><tspan fill="#0b5cad">✓</tspan> Drink only water that has been boiled or disinfected</text>
+<text x="210" y="300" font-size="12"><tspan fill="#0b5cad">✓</tspan> Wash your hands: before eating, after the toilet,</text>
+<text x="222" y="314" font-size="12">after touching a sick person, before treating a wound</text>
+<text x="210" y="351"><tspan fill="#0b5cad">✓</tspan> Cook food thoroughly; keep leftovers cold</text>
+<text x="210" y="395"><tspan fill="#0b5cad">✓</tspan> Clean and disinfect wounds; boil instruments</text>
+</g>
+<!-- healthy person -->
+<g stroke="#333" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+<path d="M636,326 L630,392 M664,326 L670,392" fill="none" stroke-width="5"/>
+<path d="M624,252 L606,312 M676,252 L694,312" fill="none" stroke-width="5"/>
+<rect x="622" y="240" width="56" height="92" rx="14" fill="#cfe0f0"/>
+<circle cx="650" cy="212" r="22" fill="#f3e3d3"/>
+</g>
+<text x="650" y="414" font-size="12" text-anchor="middle" fill="#555">germs can't reach</text>
+<text x="24" y="432" font-size="12" fill="#555">These measures are very simple and need no advanced technology, yet they do more good than almost any medicine</text>
+
+<!-- 2 how many each case infects -->
+<rect x="8" y="452" width="704" height="226" rx="6" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<path d="M360,488 V662" stroke="#ddd" stroke-width="1"/>
+<text x="18" y="476" font-size="15" font-weight="bold">② How many people each case infects on average</text>
+<text x="24" y="502" font-size="14" font-weight="bold" fill="#c33">More than 1 → cases keep rising</text>
+<text x="380" y="502" font-size="14" font-weight="bold" fill="#0b5cad">Less than 1 → the outbreak dies away</text>
+<path d="M67,575 L133,545 M67,575 L133,605 M147,545 L213,530 M147,545 L213,560 M147,605 L213,590 M147,605 L213,620 M227,530 L293,519 M227,530 L293,535 M227,560 L293,551 M227,560 L293,567 M227,590 L293,583 M227,590 L293,599 M227,620 L293,615 M227,620 L293,631" stroke="#999" stroke-width="1.3" fill="none"/>
+<g fill="#f4c7c7" stroke="#c33" stroke-width="1.5"><circle cx="60" cy="575" r="7"/><circle cx="140" cy="545" r="7"/><circle cx="140" cy="605" r="7"/><circle cx="220" cy="530" r="7"/><circle cx="220" cy="560" r="7"/><circle cx="220" cy="590" r="7"/><circle cx="220" cy="620" r="7"/><circle cx="300" cy="519" r="5.5"/><circle cx="300" cy="535" r="5.5"/><circle cx="300" cy="551" r="5.5"/><circle cx="300" cy="567" r="5.5"/><circle cx="300" cy="583" r="5.5"/><circle cx="300" cy="599" r="5.5"/><circle cx="300" cy="615" r="5.5"/><circle cx="300" cy="631" r="5.5"/></g>
+<path d="M427,530 L493,555 M427,590 L493,595 M507,595 L573,575" stroke="#999" stroke-width="1.3" fill="none"/>
+<g fill="#f4c7c7" stroke="#c33" stroke-width="1.5"><circle cx="420" cy="530" r="7"/><circle cx="420" cy="560" r="7"/><circle cx="420" cy="590" r="7"/><circle cx="420" cy="620" r="7"/><circle cx="500" cy="555" r="7"/><circle cx="500" cy="595" r="7"/><circle cx="580" cy="575" r="7"/></g>
+<text x="600" y="580" font-size="13" fill="#555">→ dies away</text>
+<g font-size="12" text-anchor="middle" fill="#555">
+<text x="60" y="656">Round 1</text><text x="140" y="656">Round 2</text><text x="220" y="656">Round 3</text><text x="300" y="656">Round 4</text>
+<text x="420" y="656">Round 1</text><text x="500" y="656">Round 2</text><text x="580" y="656">Round 3</text>
+</g>
+<text x="702" y="672" font-size="12" text-anchor="end" fill="#555">(schematic; each dot is one case)</text>
+
+<!-- bottom -->
+<rect x="8" y="688" width="704" height="44" rx="6" fill="#eef5fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="360" y="715" font-size="13.5" font-weight="bold" text-anchor="middle" fill="#0b5cad">Isolation, handwashing, wearing masks and vaccination all aim to bring this number below 1</text>
+</g>
+</g>
+</svg>

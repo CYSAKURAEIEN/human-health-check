@@ -152,7 +152,7 @@ The biggest disputes in trade come from "inaccurate measures":
 ✓ Both parties weigh and count together, face to face
 ```
 
-For rebuilding units see [Measurement and Scientific Method – Rebuilding length, mass, volume and time](../../../docs/08-基础科学知识/00-度量衡与科学方法.md#二重建长度质量体积时间).
+For rebuilding units see [Measurement and Scientific Method – Rebuilding length, mass, volume and time](../08-basic-science/00-measurement-and-scientific-method.md#2-rebuilding-length-mass-volume-and-time).
 
 ### Barter
 
@@ -264,7 +264,7 @@ Records to keep over the long term:
 Preservation: make several copies and store them separately (see Education and Knowledge Preservation)
 ```
 
-Related chapters: [Handling the Dead after Disasters](../02-disaster-response/07-handling-the-dead-after-disasters.md), [Surveying and Mapping – Land measurement and boundaries](../../../docs/08-基础科学知识/08-测量与制图.md#六土地丈量与边界), [Weather Observation and Forecasting – Weather diary](../../../docs/08-基础科学知识/07-天气观测与预报.md#62-天气日记), [Education and Knowledge Preservation – Copying and preserving records](12-education-and-knowledge-preservation.md#copying-and-preserving-records).
+Related chapters: [Handling the Dead after Disasters](../02-disaster-response/07-handling-the-dead-after-disasters.md), [Surveying and Mapping – Land measurement and boundaries](../08-basic-science/08-surveying-and-mapping.md#6-measuring-land-and-boundaries), [Weather Observation and Forecasting – Weather diary](../08-basic-science/07-weather-observation-and-forecasting.md#62-weather-diary), [Education and Knowledge Preservation – Copying and preserving records](12-education-and-knowledge-preservation.md#copying-and-preserving-records).
 
 ---
 

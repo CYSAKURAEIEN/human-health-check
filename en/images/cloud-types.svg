@@ -1,0 +1,175 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 868" width="720" height="868" role="img" aria-label="Reading the clouds: the main clouds arranged by height. Very high: cirrus, white threads, feathers or hooks; when cirrus increases and thickens, the weather may turn bad within a day or two; cirrostratus, a thin white veil with a halo around the sun or moon, often a forerunner of rain. Middle: lenticular cloud, like a pea pod or lens, staying still, strong winds aloft, in the mountains beware of gales; altostratus, a grey-white veil, the sun looks as if seen through frosted glass, if the cloud keeps thickening and lowering it will rain soon; altocumulus, rows of small cloudlets like fish scales, the weather may change, often windy. Low: stratus, very low, like fog lifted off the ground, drizzle or overcast; nimbostratus, dark, thick and low, steady rain or snow; cumulus, white cotton-wool puffs with flat bases, small cumulus on a fine day means good weather, but beware if it grows taller and taller in the afternoon. From low to very high: cumulonimbus, towering like a mountain or anvil with a dark base, thunderstorms, strong winds, hail, sometimes tornadoes. As a warm front approaches, cirrus, cirrostratus, altostratus and nimbostratus appear in turn; cumulonimbus appears before a cold front passes" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Reading the clouds</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="arG" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#555"/></marker>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Reading the clouds: the main clouds and the weather they foretell</text>
+
+<!-- sky and ground -->
+<rect x="10" y="44" width="700" height="568" rx="8" fill="#eef2f8" stroke="#bbb" stroke-width="1.5"/>
+<path d="M11,606 H709 V612 H11 Z" fill="#c9c9c9"/>
+<path d="M11,606 H709" stroke="#999" stroke-width="2"/>
+<path d="M66,230 H534 M66,412 H534" stroke="#9aa5b5" stroke-width="1.2" stroke-dasharray="6 4"/>
+
+<!-- height axis -->
+<path d="M24,600 V64" stroke="#555" stroke-width="1.5" marker-end="url(#arG)"/>
+<text x="32" y="64" font-size="12" fill="#555">high</text>
+<text x="46" y="132" font-size="14" font-weight="bold" text-anchor="middle">Very</text>
+<text x="46" y="148" font-size="14" font-weight="bold" text-anchor="middle">high</text>
+<text x="46" y="324" font-size="14" font-weight="bold" text-anchor="middle">Middle</text>
+<text x="46" y="490" font-size="14" font-weight="bold" text-anchor="middle">Low</text>
+<text x="46" y="570" font-size="13" font-weight="bold" text-anchor="middle">Very</text>
+<text x="46" y="585" font-size="13" font-weight="bold" text-anchor="middle">low</text>
+
+<!-- ===== very high ===== -->
+<!-- cirrus -->
+<g fill="none" stroke="#7d8aa0" stroke-width="2" stroke-linecap="round">
+<path d="M96,100 Q130,92 160,72 Q168,66 166,60"/>
+<path d="M112,108 Q150,100 186,80 Q194,74 190,68"/>
+<path d="M104,88 Q126,82 142,68"/>
+<path d="M140,104 Q170,98 196,92"/>
+</g>
+<text x="145" y="128" font-size="16" font-weight="bold" text-anchor="middle">Cirrus</text>
+<text x="145" y="145" font-size="12" fill="#555" text-anchor="middle">White threads,</text>
+<text x="145" y="160" font-size="12" fill="#555" text-anchor="middle">feathers or hooks</text>
+<text x="145" y="182" font-size="13" fill="#c33" text-anchor="middle">More and thicker cirrus:</text>
+<text x="145" y="198" font-size="13" fill="#c33" text-anchor="middle">the weather may turn</text>
+<text x="145" y="214" font-size="13" fill="#c33" text-anchor="middle">bad in a day or two</text>
+
+<!-- cirrostratus -->
+<rect x="236" y="62" width="130" height="44" rx="20" fill="#fff" fill-opacity="0.75" stroke="#c8d0dc" stroke-width="1"/>
+<circle cx="301" cy="84" r="7" fill="#f2d16b" stroke="#c9a227" stroke-width="1"/>
+<circle cx="301" cy="84" r="19" fill="none" stroke="#c33" stroke-width="1.5"/>
+<text x="324" y="70" font-size="12" fill="#c33">halo</text>
+<text x="301" y="128" font-size="16" font-weight="bold" text-anchor="middle">Cirrostratus</text>
+<text x="301" y="145" font-size="12" fill="#555" text-anchor="middle">Thin white veil; a halo</text>
+<text x="301" y="160" font-size="12" fill="#555" text-anchor="middle">(ring of light) around</text>
+<text x="301" y="175" font-size="12" fill="#555" text-anchor="middle">the sun or moon</text>
+<text x="301" y="198" font-size="13" fill="#c33" text-anchor="middle">Often a forerunner of rain</text>
+
+<!-- note -->
+<text x="466" y="90" font-size="12" fill="#555" text-anchor="middle">Heights show only the</text>
+<text x="466" y="106" font-size="12" fill="#555" text-anchor="middle">rough relative order</text>
+<circle cx="408" cy="146" r="9" fill="#c33"/><text x="408" y="150.5" font-size="12" fill="#fff" text-anchor="middle">1</text>
+<text x="420" y="151" font-size="12" fill="#555">-</text>
+<circle cx="434" cy="146" r="9" fill="#c33"/><text x="434" y="150.5" font-size="12" fill="#fff" text-anchor="middle">4</text>
+<text x="448" y="151" font-size="12" fill="#555">: clouds that</text>
+<text x="400" y="168" font-size="12" fill="#555">appear in turn as a</text>
+<text x="400" y="184" font-size="12" fill="#555">warm front arrives</text>
+<text x="400" y="200" font-size="12" fill="#555">(see box below)</text>
+
+<!-- ===== middle ===== -->
+<g transform="translate(0,20)">
+<!-- lenticular -->
+<g fill="#fff" stroke="#7d8aa0" stroke-width="1.5">
+<ellipse cx="145" cy="262" rx="58" ry="9"/>
+<ellipse cx="145" cy="248" rx="48" ry="8"/>
+<ellipse cx="145" cy="235" rx="36" ry="7"/>
+</g>
+<text x="145" y="290" font-size="16" font-weight="bold" text-anchor="middle">Lenticular</text>
+<text x="145" y="307" font-size="12" fill="#555" text-anchor="middle">Like a pea pod or lens;</text>
+<text x="145" y="322" font-size="12" fill="#555" text-anchor="middle">stays still</text>
+<text x="145" y="344" font-size="13" fill="#c33" text-anchor="middle">Strong winds aloft;</text>
+<text x="145" y="360" font-size="13" fill="#c33" text-anchor="middle">in the mountains,</text>
+<text x="145" y="376" font-size="13" fill="#c33" text-anchor="middle">beware of gales</text>
+
+<!-- altostratus -->
+<rect x="236" y="224" width="130" height="46" rx="10" fill="#c9ced6" stroke="#9aa3b0" stroke-width="1"/>
+<circle cx="301" cy="245" r="11" fill="#e9e3cf"/>
+<circle cx="301" cy="245" r="7" fill="#f1ead2"/>
+<text x="301" y="290" font-size="16" font-weight="bold" text-anchor="middle">Altostratus</text>
+<text x="301" y="307" font-size="12" fill="#555" text-anchor="middle">Grey-white veil; the sun</text>
+<text x="301" y="322" font-size="12" fill="#555" text-anchor="middle">looks as if seen through</text>
+<text x="301" y="337" font-size="12" fill="#555" text-anchor="middle">frosted glass</text>
+<text x="301" y="358" font-size="13" fill="#c33" text-anchor="middle">Keeps thickening and</text>
+<text x="301" y="374" font-size="13" fill="#c33" text-anchor="middle">lowering: rain soon</text>
+
+<!-- altocumulus -->
+<g fill="#fff" stroke="#7d8aa0" stroke-width="1.2">
+<ellipse cx="410" cy="232" rx="10" ry="6"/><ellipse cx="432" cy="231" rx="10" ry="6"/><ellipse cx="454" cy="232" rx="10" ry="6"/><ellipse cx="476" cy="231" rx="10" ry="6"/><ellipse cx="498" cy="232" rx="10" ry="6"/>
+<ellipse cx="420" cy="248" rx="10" ry="6"/><ellipse cx="442" cy="247" rx="10" ry="6"/><ellipse cx="464" cy="248" rx="10" ry="6"/><ellipse cx="486" cy="247" rx="10" ry="6"/>
+<ellipse cx="408" cy="264" rx="10" ry="6"/><ellipse cx="430" cy="263" rx="10" ry="6"/><ellipse cx="452" cy="264" rx="10" ry="6"/><ellipse cx="474" cy="263" rx="10" ry="6"/><ellipse cx="496" cy="264" rx="10" ry="6"/>
+</g>
+<text x="457" y="290" font-size="16" font-weight="bold" text-anchor="middle">Altocumulus</text>
+<text x="457" y="307" font-size="12" fill="#555" text-anchor="middle">Rows of small cloudlets,</text>
+<text x="457" y="322" font-size="12" fill="#555" text-anchor="middle">like fish scales</text>
+<text x="457" y="344" font-size="13" fill="#c33" text-anchor="middle">Weather may change;</text>
+<text x="457" y="360" font-size="13" fill="#c33" text-anchor="middle">often windy</text>
+</g>
+
+<!-- ===== low ===== -->
+<g transform="translate(0,40)">
+<!-- stratus (very low) -->
+<text x="145" y="398" font-size="16" font-weight="bold" text-anchor="middle">Stratus</text>
+<text x="145" y="415" font-size="12" fill="#555" text-anchor="middle">Low grey cloud, like fog</text>
+<text x="145" y="430" font-size="12" fill="#555" text-anchor="middle">lifted off the ground</text>
+<text x="145" y="452" font-size="13" fill="#c33" text-anchor="middle">Drizzle or overcast</text>
+<rect x="76" y="496" width="138" height="24" rx="10" fill="#d3d7de" stroke="#a3aab5" stroke-width="1"/>
+<g fill="#0b5cad"><circle cx="96" cy="530" r="1.5"/><circle cx="118" cy="536" r="1.5"/><circle cx="140" cy="529" r="1.5"/><circle cx="162" cy="535" r="1.5"/><circle cx="186" cy="530" r="1.5"/><circle cx="106" cy="540" r="1.5"/><circle cx="174" cy="541" r="1.5"/></g>
+
+<!-- nimbostratus -->
+<rect x="236" y="382" width="130" height="38" rx="8" fill="#8f96a0" stroke="#6b7280" stroke-width="1"/>
+<g stroke="#0b5cad" stroke-width="1.5"><path d="M250,424 l-4,12 M266,424 l-4,12 M282,424 l-4,12 M298,424 l-4,12 M314,424 l-4,12 M330,424 l-4,12 M346,424 l-4,12"/></g>
+<text x="301" y="458" font-size="16" font-weight="bold" text-anchor="middle">Nimbostratus</text>
+<text x="301" y="475" font-size="12" fill="#555" text-anchor="middle">Dark grey, thick and low;</text>
+<text x="301" y="490" font-size="12" fill="#555" text-anchor="middle">the sun is hidden</text>
+<text x="301" y="512" font-size="13" fill="#c33" text-anchor="middle">Steady rain or snow</text>
+
+<!-- cumulus -->
+<path d="M420,434 Q404,434 408,420 Q404,404 422,404 Q424,388 442,390 Q452,376 470,386 Q490,384 490,402 Q504,408 496,424 Q500,434 486,434 Z" fill="#fff" stroke="#7d8aa0" stroke-width="1.5"/>
+<path d="M420,434 H486" stroke="#7d8aa0" stroke-width="1.5"/>
+<text x="457" y="458" font-size="16" font-weight="bold" text-anchor="middle">Cumulus</text>
+<text x="457" y="475" font-size="12" fill="#555" text-anchor="middle">White cotton-wool puffs</text>
+<text x="457" y="490" font-size="12" fill="#555" text-anchor="middle">with flat bases</text>
+<text x="457" y="510" font-size="13" fill="#c33" text-anchor="middle">Small fair-weather</text>
+<text x="457" y="525" font-size="13" fill="#c33" text-anchor="middle">cumulus: good weather;</text>
+<text x="457" y="540" font-size="13" fill="#c33" text-anchor="middle">growing taller in the</text>
+<text x="457" y="555" font-size="13" fill="#c33" text-anchor="middle">afternoon: beware</text>
+<path d="M500,416 Q526,410 552,398" fill="none" stroke="#c33" stroke-width="2" marker-end="url(#arR)"/>
+<text x="508" y="432" font-size="12" fill="#c33">grows</text>
+<text x="508" y="446" font-size="12" fill="#c33">taller</text>
+</g>
+
+<!-- ===== low to very high: cumulonimbus ===== -->
+<g transform="translate(0,-8.25) scale(1,1.125)">
+<path d="M548,72 L704,66 Q700,84 668,96 Q654,104 654,118 Q676,130 672,160 Q690,180 680,210 Q698,240 684,270 Q700,300 686,330 Q700,360 686,390 L686,440 L560,440 L560,390 Q546,360 560,330 Q546,300 562,270 Q548,240 566,210 Q556,180 574,160 Q570,130 592,118 Q592,104 578,96 Q556,86 548,72 Z" fill="#fff" stroke="#7d8aa0" stroke-width="1.5"/>
+<path d="M560,412 L686,412 L686,440 L560,440 Z" fill="#5f6672"/>
+<g stroke="#0b5cad" stroke-width="1.5"><path d="M570,446 l-6,20 M584,446 l-6,20 M640,446 l-6,20 M654,446 l-6,20 M668,446 l-6,20 M682,446 l-6,20 M576,476 l-6,20 M646,476 l-6,20 M662,476 l-6,20 M676,476 l-6,20 M570,506 l-6,20 M590,506 l-6,20 M650,506 l-6,20 M668,506 l-6,20"/></g>
+<path d="M612,444 L598,482 L610,482 L600,520 L626,474 L613,474 L622,444 Z" fill="#c33"/>
+</g>
+<text x="623" y="242" font-size="15" font-weight="bold" text-anchor="middle">Cumulonimbus</text>
+<text x="623" y="260" font-size="12" text-anchor="middle">(low to very high)</text>
+<text x="623" y="286" font-size="12" fill="#555" text-anchor="middle">Towers like a</text>
+<text x="623" y="301" font-size="12" fill="#555" text-anchor="middle">mountain or anvil;</text>
+<text x="623" y="316" font-size="12" fill="#555" text-anchor="middle">dark base</text>
+<text x="623" y="342" font-size="13" fill="#c33" font-weight="bold" text-anchor="middle">Thunderstorms,</text>
+<text x="623" y="359" font-size="13" fill="#c33" font-weight="bold" text-anchor="middle">strong winds,</text>
+<text x="623" y="376" font-size="13" fill="#c33" font-weight="bold" text-anchor="middle">hail; sometimes</text>
+<text x="623" y="393" font-size="13" fill="#c33" font-weight="bold" text-anchor="middle">tornadoes</text>
+
+<!-- warm-front order markers -->
+<circle cx="84" cy="66" r="9" fill="#c33"/><text x="84" y="70.5" font-size="12" fill="#fff" text-anchor="middle">1</text>
+<circle cx="240" cy="66" r="9" fill="#c33"/><text x="240" y="70.5" font-size="12" fill="#fff" text-anchor="middle">2</text>
+<circle cx="240" cy="246" r="9" fill="#c33"/><text x="240" y="250.5" font-size="12" fill="#fff" text-anchor="middle">3</text>
+<circle cx="240" cy="424" r="9" fill="#c33"/><text x="240" y="428.5" font-size="12" fill="#fff" text-anchor="middle">4</text>
+
+<!-- how the weather changes -->
+<rect x="10" y="622" width="700" height="234" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<g font-size="13.5">
+<text x="24" y="646"><tspan font-weight="bold">Warm front approaching (weather gradually worsens):</tspan> ① cirrus appears → ② cirrostratus,</text>
+<text x="24" y="665">halo around the sun or moon → ③ altostratus, sun as if through frosted glass →</text>
+<text x="24" y="684">④ nimbostratus, steady rain begins (often lasting a long time); from seeing cirrus increase</text>
+<text x="24" y="703">to rain is usually half a day to a day or two</text>
+<text x="24" y="729"><tspan font-weight="bold">Cold front passing (sudden change):</tspan> towering cumulonimbus appears in the west or north</text>
+<text x="24" y="748">→ the wind suddenly strengthens and changes direction, the temperature drops sharply →</text>
+<text x="24" y="767">short showers, thunderstorms, sometimes hail → clears quickly after the rain, very clear sky</text>
+<text x="24" y="793" fill="#c33"><tspan font-weight="bold">Signs of a thunderstorm:</tspan> cumulus already in the morning, growing taller and taller,</text>
+<text x="24" y="812" fill="#c33">its top churning like a cauliflower; the sky darkens quickly in the afternoon; thunder in the</text>
+<text x="24" y="831" fill="#c33">distance; the wind suddenly turns cooler and stronger → leave hilltops, water's edges and</text>
+<text x="24" y="850" fill="#c33">open ground at once; keep away from isolated large trees</text>
+</g>
+</g>
+</svg>

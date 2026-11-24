@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1216" width="720" height="1216" role="img" aria-label="Generators: electricity from magnetism. When the magnetic flux through a coil changes, a voltage appears across the ends of the coil. 1 AC generator: the magnet and coil turn relative to each other and give alternating current, whose direction swings back and forth as a sine wave. 2 DC generator: a commutator (brushes plus a split copper ring) turns the alternating current into current that flows one way; an alternator plus rectifier diodes also works. 3 The output voltage depends on speed, the number of turns in the coil and the strength of the magnetic field; the AC frequency f equals the number of pole pairs times the revolutions per minute divided by 60; one pair of poles needs 3000 revolutions per minute to give 50 Hz; water wheels and windmills turn slowly, so speed them up with gears or belts or build a generator with many poles. 4 Practical small-scale generation: run a permanent-magnet DC motor as a generator, speed it up with a belt and add a diode so that battery current cannot flow back; a car alternator has a built-in rectifier and regulator and outputs about 14 V DC, just right for charging a 12 V battery; home-made: a disc generator from neodymium magnets and enamelled wire. Before connecting to household wiring, always disconnect from the outside grid" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>How a generator works</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Generators: electricity from magnetism (schematic)</text>
+<text x="360" y="52" font-size="15" text-anchor="middle">When the magnetic flux through a coil changes, a voltage appears across its ends</text>
+
+<!-- 1 AC -->
+<rect x="10" y="64" width="700" height="262" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="90" font-size="16" font-weight="bold">① AC generator: magnet and coil turn relative to each other → AC</text>
+<line x1="405" y1="104" x2="405" y2="314" stroke="#ddd" stroke-width="1.5"/>
+<g transform="rotate(-30 140 200)">
+<rect x="80" y="183" width="60" height="34" fill="#f2c6c6" stroke="#333" stroke-width="2"/>
+<rect x="140" y="183" width="60" height="34" fill="#c9daf0" stroke="#333" stroke-width="2"/>
+<text x="102" y="206" font-size="16" font-weight="bold">N</text>
+<text x="168" y="206" font-size="16" font-weight="bold">S</text>
+</g>
+<circle cx="140" cy="200" r="6" fill="#666" stroke="#333" stroke-width="1.5"/>
+<path d="M72.5,161 A78,78 0 0 1 126.5,123.2" fill="none" stroke="#c33" stroke-width="3" marker-end="url(#arR)"/>
+<text x="30" y="114" font-size="13" font-weight="bold" fill="#c33">turned by an outside force</text>
+<text x="140" y="270" font-size="14" text-anchor="middle">rotating magnet</text>
+<rect x="234" y="186" width="104" height="28" fill="#ccc" stroke="#333" stroke-width="2"/>
+<g fill="none" stroke="#b0702a" stroke-width="2.5">
+<ellipse cx="252" cy="200" rx="4" ry="20"/><ellipse cx="264" cy="200" rx="4" ry="20"/><ellipse cx="276" cy="200" rx="4" ry="20"/><ellipse cx="288" cy="200" rx="4" ry="20"/><ellipse cx="300" cy="200" rx="4" ry="20"/><ellipse cx="312" cy="200" rx="4" ry="20"/><ellipse cx="324" cy="200" rx="4" ry="20"/>
+<path d="M252,220 V256 H382 M324,220 V242 H382"/>
+</g>
+<circle cx="384" cy="242" r="4" fill="#fff" stroke="#333" stroke-width="1.5"/>
+<circle cx="384" cy="256" r="4" fill="#fff" stroke="#333" stroke-width="1.5"/>
+<text x="290" y="168" font-size="13" text-anchor="middle">coil (wound on an iron core)</text>
+<text x="330" y="282" font-size="14" text-anchor="middle">output</text>
+<text x="208" y="302" font-size="13" text-anchor="middle" fill="#555">Or keep the magnet still and turn the coil;</text>
+<text x="208" y="318" font-size="13" text-anchor="middle" fill="#555">the magnet can also be an electromagnet</text>
+<!-- sine wave -->
+<path d="M430,120 V264" stroke="#333" stroke-width="1.5"/>
+<path d="M430,192 H690" stroke="#333" stroke-width="1.5" marker-end="url(#arB)"/>
+<path d="M430,192 q31.25,-100 62.5,0 t62.5,0 t62.5,0 t62.5,0" fill="none" stroke="#c33" stroke-width="3"/>
+<text x="438" y="120" font-size="13" fill="#555">current</text>
+<text x="686" y="212" font-size="13" fill="#555" text-anchor="end">time</text>
+<text x="461" y="132" font-size="16" font-weight="bold" fill="#0b5cad" text-anchor="middle">+</text>
+<text x="524" y="262" font-size="16" font-weight="bold" fill="#0b5cad" text-anchor="middle">−</text>
+<text x="555" y="292" font-size="14" text-anchor="middle">direction alternates as a sine wave</text>
+
+<!-- 2 DC -->
+<rect x="10" y="338" width="700" height="290" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="364" font-size="16" font-weight="bold">② DC generator: a commutator makes the current flow one way</text>
+<line x1="405" y1="378" x2="405" y2="616" stroke="#ddd" stroke-width="1.5"/>
+<rect x="100" y="380" width="160" height="34" fill="#f2c6c6" stroke="#333" stroke-width="2"/>
+<text x="180" y="403" font-size="16" font-weight="bold" text-anchor="middle">N</text>
+<rect x="100" y="526" width="160" height="34" fill="#c9daf0" stroke="#333" stroke-width="2"/>
+<text x="180" y="549" font-size="16" font-weight="bold" text-anchor="middle">S</text>
+<line x1="106" y1="470" x2="330" y2="470" stroke="#666" stroke-width="4"/>
+<path d="M282,463 H236 V430 H130 V510 H236 V477 H282" fill="none" stroke="#b0702a" stroke-width="3" stroke-linejoin="round"/>
+<path d="M112,450 A10,20 0 1 0 124,451" fill="none" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<rect x="282" y="455" width="30" height="13" fill="#d9a066" stroke="#333" stroke-width="1.5"/>
+<rect x="282" y="472" width="30" height="13" fill="#d9a066" stroke="#333" stroke-width="1.5"/>
+<rect x="290" y="437" width="14" height="17" fill="#555" stroke="#333" stroke-width="1.5"/>
+<rect x="290" y="486" width="14" height="17" fill="#555" stroke="#333" stroke-width="1.5"/>
+<path d="M297,437 V424 H382 M297,503 V516 H382" fill="none" stroke="#333" stroke-width="2"/>
+<circle cx="384" cy="424" r="4" fill="#fff" stroke="#333" stroke-width="1.5"/>
+<circle cx="384" cy="516" r="4" fill="#fff" stroke="#333" stroke-width="1.5"/>
+<text x="382" y="474" font-size="13" text-anchor="middle">output</text>
+<g stroke="#555" stroke-width="1"><path d="M60,498 L130,498"/><path d="M340,446 L306,446"/><path d="M322,582 L312,482"/></g>
+<text x="24" y="494" font-size="14">coil</text>
+<text x="342" y="451" font-size="14">brush</text>
+<text x="18" y="424" font-size="13" font-weight="bold" fill="#c33">turned by an</text>
+<text x="18" y="440" font-size="13" font-weight="bold" fill="#c33">outside force</text>
+<text x="180" y="598" font-size="14">commutator (split copper ring)</text>
+<!-- rectified waveform -->
+<path d="M430,414 V528" stroke="#333" stroke-width="1.5"/>
+<path d="M430,500 H690" stroke="#333" stroke-width="1.5" marker-end="url(#arB)"/>
+<path d="M430,500 q31.25,-100 62.5,0 q31.25,-100 62.5,0 q31.25,-100 62.5,0 q31.25,-100 62.5,0" fill="none" stroke="#c33" stroke-width="3"/>
+<text x="438" y="414" font-size="13" fill="#555">current</text>
+<text x="686" y="520" font-size="13" fill="#555" text-anchor="end">time</text>
+<text x="555" y="548" font-size="15" text-anchor="middle">one direction only (DC)</text>
+<text x="555" y="574" font-size="14" text-anchor="middle">Or: alternator + rectifier diodes</text>
+<text x="555" y="594" font-size="13" text-anchor="middle" fill="#555">(a bridge rectifier uses 4 diodes,</text>
+<text x="555" y="610" font-size="13" text-anchor="middle" fill="#555">plus a capacitor to smooth it)</text>
+
+<!-- 3 speed, frequency and voltage -->
+<rect x="10" y="640" width="700" height="208" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="666" font-size="16" font-weight="bold">③ Speed, frequency and voltage</text>
+<text x="40" y="694" font-size="15">Output voltage depends on: <tspan font-weight="bold">speed, number of coil turns, field strength</tspan></text>
+<rect x="36" y="706" width="560" height="34" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="316" y="729" font-size="15" font-weight="bold" text-anchor="middle">AC frequency f = pole pairs × revolutions per minute ÷ 60</text>
+<text x="40" y="764" font-size="15">One pair of poles (2 poles) needs 3000 revolutions per minute for 50 Hz;</text>
+<text x="40" y="784" font-size="15">the more poles, the lower the speed needed</text>
+<text x="40" y="812" font-size="15">Water wheels and windmills turn very slowly → speed up with gears or belts,</text>
+<text x="40" y="832" font-size="15">or build a generator with many poles</text>
+<g transform="translate(0,40)">
+
+<!-- 4 practical small-scale generation -->
+<rect x="10" y="820" width="700" height="346" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="846" font-size="16" font-weight="bold">④ Practical: run a permanent-magnet DC motor as a generator</text>
+<circle cx="100" cy="930" r="48" fill="#f3ead8" stroke="#333" stroke-width="2.5"/>
+<circle cx="100" cy="930" r="5" fill="#333"/>
+<circle cx="270" cy="930" r="16" fill="#f3ead8" stroke="#333" stroke-width="2.5"/>
+<circle cx="270" cy="930" r="4" fill="#333"/>
+<path d="M97,882 L268,914 M97,978 L268,946" stroke="#555" stroke-width="2.5"/>
+<path d="M54,894 A50,50 0 0 1 84,882" fill="none" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<line x1="270" y1="930" x2="300" y2="930" stroke="#333" stroke-width="4"/>
+<rect x="300" y="900" width="92" height="60" rx="8" fill="#e6e6e6" stroke="#333" stroke-width="2"/>
+<text x="346" y="928" font-size="14" text-anchor="middle">motor</text>
+<text x="346" y="946" font-size="12" text-anchor="middle">(as generator)</text>
+<path d="M392,914 H440 M460,914 H540 M392,946 H540" fill="none" stroke="#333" stroke-width="2"/>
+<path d="M440,903 V925 L460,914 Z" fill="#c33" stroke="#c33" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M461,903 V925" stroke="#c33" stroke-width="3"/>
+<rect x="540" y="898" width="90" height="64" rx="4" fill="#cfe0f0" stroke="#333" stroke-width="2"/>
+<text x="585" y="935" font-size="14" text-anchor="middle">battery</text>
+<text x="530" y="910" font-size="15" font-weight="bold" text-anchor="end">+</text>
+<text x="530" y="962" font-size="15" font-weight="bold" text-anchor="end">−</text>
+<text x="24" y="870" font-size="13">water wheel, windmill or bicycle</text>
+<text x="24" y="1000" font-size="13" fill="#555">belt speeds it up (big wheel drives small)</text>
+<text x="450" y="892" font-size="13" text-anchor="middle" fill="#c33">diode</text>
+<text x="434" y="980" font-size="13" fill="#c33">stops battery current flowing back</text>
+<text x="434" y="996" font-size="13" fill="#c33">and turning the motor</text>
+<text x="346" y="980" font-size="13" text-anchor="middle" fill="#555">faster = higher voltage</text>
+<text x="24" y="1030" font-size="14"><tspan font-weight="bold">Car alternator:</tspan> built-in rectifier and regulator; about 14 V DC output, just right</text>
+<text x="40" y="1050" font-size="14">for charging a 12 V battery; it needs high speed, usually from a pulley;</text>
+<text x="40" y="1070" font-size="14">the field winding needs a little current from the battery first</text>
+<text x="24" y="1096" font-size="14"><tspan font-weight="bold">Home-made:</tspan> salvaged neodymium magnets + enamelled-wire coils, built as a disc;</text>
+<text x="40" y="1116" font-size="14">adjust the gap between magnets and coils patiently</text>
+<text x="24" y="1140" font-size="14" font-weight="bold" fill="#c33">⚠ Before connecting to household wiring, always disconnect from the outside grid</text>
+<text x="40" y="1158" font-size="14" font-weight="bold" fill="#c33">(so power cannot feed back into the grid and injure others)</text>
+</g>
+</g>
+</svg>

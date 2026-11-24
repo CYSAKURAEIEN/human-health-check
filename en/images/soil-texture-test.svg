@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 722" width="720" height="722" role="img" aria-label="Simple soil texture tests. Ribbon test: take a handful of moist soil, add water and knead it until it is like modelling clay, and roll it into a thin thread between your palms; if it will not form a thread and falls apart at once, it is sandy soil; if it forms a thread but breaks as soon as you bend it, it is loam; if it forms a long thin thread that can be bent into a ring without breaking, it is clay. The jar test is more accurate: 1 fill a clear jar about one-third with soil, add water almost to the top, and add a pinch of salt or washing powder to help the particles separate; 2 shake hard and leave to stand; 3 what settles after about 1 minute is sand, after a few hours is silt, and only after one or two days is clay; 4 measure the thickness of each layer to find the rough proportions. Loam, a balanced mix of sand, silt and clay, is best for growing crops" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Soil texture: the ribbon test and the jar test</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
+<g id="palm" fill="#f3e3d3" stroke="#333" stroke-width="2">
+<rect x="-50" y="-74" width="22" height="66" rx="11"/>
+<rect x="-24" y="-84" width="22" height="76" rx="11"/>
+<rect x="2" y="-80" width="22" height="72" rx="11"/>
+<rect x="28" y="-66" width="22" height="58" rx="11"/>
+<path d="M-54,10 L-84,-18 Q-94,-30 -82,-36 Q-74,-40 -66,-30 L-46,-10"/>
+<rect x="-56" y="-30" width="112" height="90" rx="30"/>
+</g>
+<pattern id="sand" width="7" height="7" patternUnits="userSpaceOnUse"><rect width="7" height="7" fill="#e3cc86"/><circle cx="2" cy="2" r="1" fill="#a88c3c"/><circle cx="5.5" cy="5" r="0.9" fill="#a88c3c"/></pattern>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Simple soil texture tests: the ribbon test and the jar test</text>
+
+<!-- 1 ribbon test -->
+<rect x="10" y="44" width="700" height="292" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="70" font-size="16" font-weight="bold">① Ribbon test</text>
+<text x="152" y="70" font-size="13">Take a handful of moist soil (add water and knead it until it is like modelling clay),</text>
+<text x="152" y="87" font-size="13">then roll it into a thin thread between your palms</text>
+<line x1="243" y1="90" x2="243" y2="320" stroke="#ddd" stroke-width="1.5"/>
+<line x1="477" y1="90" x2="477" y2="320" stroke="#ddd" stroke-width="1.5"/>
+
+<!-- sandy soil -->
+<use href="#palm" x="127" y="186"/>
+<g fill="#a0785a" stroke="#6b4a32" stroke-width="1.2">
+<path d="M96,196 l9,-3 l4,6 l-7,5 l-7,-2 Z"/>
+<path d="M114,206 l10,-2 l3,7 l-9,4 l-5,-4 Z"/>
+<path d="M133,194 l8,1 l2,7 l-8,3 l-5,-5 Z"/>
+<path d="M148,208 l7,-4 l6,5 l-4,6 l-8,-1 Z"/>
+<path d="M104,222 l8,-1 l2,6 l-7,3 l-5,-3 Z"/>
+<path d="M126,224 l9,-3 l5,6 l-8,4 Z"/>
+<path d="M150,226 l6,-2 l3,5 l-6,3 Z"/>
+<path d="M118,186 l5,-1 l2,4 l-5,2 Z"/>
+<path d="M142,182 l6,0 l1,5 l-6,1 Z"/>
+<circle cx="112" cy="214" r="2"/><circle cx="140" cy="214" r="2.2"/><circle cx="160" cy="196" r="1.8"/><circle cx="94" cy="210" r="1.8"/><circle cx="134" cy="236" r="1.8"/>
+</g>
+<text x="127" y="266" font-size="14" text-anchor="middle">Will not form a thread,</text>
+<text x="127" y="283" font-size="14" text-anchor="middle">falls apart at once</text>
+<text x="127" y="320" font-size="17" font-weight="bold" text-anchor="middle">→ Sandy soil</text>
+
+<!-- loam -->
+<use href="#palm" x="360" y="186"/>
+<g fill="none" stroke-linecap="round">
+<path d="M324.3,218 A38,38 0 0 1 353.4,167.6" stroke="#6b4a32" stroke-width="11"/>
+<path d="M324.3,218 A38,38 0 0 1 353.4,167.6" stroke="#a0785a" stroke-width="7.5"/>
+<path d="M366.6,167.6 A38,38 0 0 1 395.7,218" stroke="#6b4a32" stroke-width="11"/>
+<path d="M366.6,167.6 A38,38 0 0 1 395.7,218" stroke="#a0785a" stroke-width="7.5"/>
+</g>
+<path d="M360,148 l-4,8 l6,4 l-4,8" fill="none" stroke="#c33" stroke-width="2"/>
+<g stroke="#6b4a32" stroke-width="1.3">
+<path d="M330.5,183 l5,4 M389.5,183 l-5,4 M323,205 l6,0 M397,205 l-6,0"/>
+</g>
+<text x="368" y="146" font-size="13" fill="#c33">breaks</text>
+<text x="360" y="266" font-size="14" text-anchor="middle">Forms a thread, but breaks</text>
+<text x="360" y="283" font-size="14" text-anchor="middle">as soon as you bend it</text>
+<text x="360" y="320" font-size="17" font-weight="bold" text-anchor="middle">→ Loam</text>
+
+<!-- clay -->
+<use href="#palm" x="593" y="186"/>
+<circle cx="593" cy="198" r="36" fill="none" stroke="#6b4a32" stroke-width="9"/>
+<circle cx="593" cy="198" r="36" fill="none" stroke="#a0785a" stroke-width="5.5"/>
+<text x="593" y="266" font-size="14" text-anchor="middle">Forms a long thin thread that</text>
+<text x="593" y="283" font-size="14" text-anchor="middle">bends into a ring</text>
+<text x="593" y="300" font-size="14" text-anchor="middle">without breaking</text>
+<text x="593" y="320" font-size="17" font-weight="bold" text-anchor="middle">→ Clay</text>
+
+<!-- 2 jar test -->
+<rect x="10" y="350" width="700" height="360" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="24" y="376" font-size="16" font-weight="bold">② Jar test (more accurate)</text>
+<text x="24" y="394" font-size="12" fill="#555">clear jar, side view</text>
+
+<text x="75" y="410" font-size="14" font-weight="bold" text-anchor="middle">① Soil + water</text>
+<text x="207" y="410" font-size="14" font-weight="bold" text-anchor="middle">② Shake, stand</text>
+<path d="M280,396 V390 H650 V396" fill="none" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="465" y="384" font-size="15" font-weight="bold" fill="#0b5cad" text-anchor="middle">③ Coarser grains settle faster, in layers</text>
+
+<!-- jars: body y 430-580, neck y 414-430 -->
+<!-- A -->
+<rect x="40" y="436" width="70" height="92" fill="#dcecf8"/>
+<rect x="40" y="528" width="70" height="50" fill="#a0785a"/>
+<!-- B -->
+<rect x="170" y="436" width="70" height="142" fill="#b89a7c"/>
+<!-- C -->
+<rect x="300" y="436" width="70" height="120" fill="#cbb398"/>
+<rect x="300" y="556" width="70" height="22" fill="url(#sand)"/>
+<!-- D -->
+<rect x="430" y="436" width="70" height="104" fill="#e2d6c6"/>
+<rect x="430" y="540" width="70" height="16" fill="#b9a184"/>
+<rect x="430" y="556" width="70" height="22" fill="url(#sand)"/>
+<!-- E -->
+<rect x="560" y="436" width="70" height="92" fill="#dcecf8"/>
+<rect x="560" y="528" width="70" height="12" fill="#8c6a55"/>
+<rect x="560" y="540" width="70" height="16" fill="#b9a184"/>
+<rect x="560" y="556" width="70" height="22" fill="url(#sand)"/>
+<g fill="none" stroke="#333" stroke-width="2.2" stroke-linejoin="round">
+<path d="M53,414 V430 Q38,430 38,442 V572 Q38,580 46,580 H104 Q112,580 112,572 V442 Q112,430 97,430 V414 Z"/>
+<path d="M183,414 V430 Q168,430 168,442 V572 Q168,580 176,580 H234 Q242,580 242,572 V442 Q242,430 227,430 V414 Z"/>
+<path d="M313,414 V430 Q298,430 298,442 V572 Q298,580 306,580 H364 Q372,580 372,572 V442 Q372,430 357,430 V414 Z"/>
+<path d="M443,414 V430 Q428,430 428,442 V572 Q428,580 436,580 H494 Q502,580 502,572 V442 Q502,430 487,430 V414 Z"/>
+<path d="M573,414 V430 Q558,430 558,442 V572 Q558,580 566,580 H624 Q632,580 632,572 V442 Q632,430 617,430 V414 Z"/>
+</g>
+<g stroke="#0b5cad" stroke-width="1.2"><path d="M40,436 H110 M170,436 H240 M300,436 H370 M430,436 H500 M560,436 H630"/></g>
+
+<!-- A labels -->
+<text x="75" y="551" font-size="13" fill="#fff" text-anchor="middle">soil</text>
+<text x="75" y="568" font-size="12" fill="#fff" text-anchor="middle">about 1/3</text>
+<text x="75" y="488" font-size="13" fill="#0b5cad" text-anchor="middle">water</text>
+<!-- B shaking arrows -->
+<path d="M156,470 Q148,500 156,530" fill="none" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<path d="M254,530 Q262,500 254,470" fill="none" stroke="#c33" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="205" y="510" font-size="13" fill="#fff" text-anchor="middle">cloudy</text>
+
+<!-- E layer labels -->
+<path d="M634,534 L648,518 M634,548 H648 M634,567 L648,577" stroke="#333" stroke-width="1"/>
+<text x="652" y="522" font-size="13">clay</text>
+<text x="652" y="552" font-size="13">silt</text>
+<text x="652" y="582" font-size="13">sand</text>
+<text x="595" y="480" font-size="13" fill="#0b5cad" text-anchor="middle">water</text>
+<text x="595" y="496" font-size="13" fill="#0b5cad" text-anchor="middle">clears</text>
+
+<!-- notes -->
+<text x="77" y="600" font-size="13" text-anchor="middle">Fill about 1/3</text>
+<text x="77" y="617" font-size="13" text-anchor="middle">with soil, add</text>
+<text x="77" y="634" font-size="13" text-anchor="middle">water almost to</text>
+<text x="77" y="651" font-size="13" text-anchor="middle">the top; add a</text>
+<text x="77" y="668" font-size="13" text-anchor="middle">pinch of salt or</text>
+<text x="77" y="685" font-size="13" text-anchor="middle">washing powder</text>
+<text x="77" y="702" font-size="13" text-anchor="middle">to help it separate</text>
+<text x="205" y="600" font-size="13" text-anchor="middle">Shake hard,</text>
+<text x="205" y="617" font-size="13" text-anchor="middle">then leave it</text>
+<text x="205" y="634" font-size="13" text-anchor="middle">to stand</text>
+<text x="335" y="600" font-size="14" font-weight="bold" text-anchor="middle">After about</text>
+<text x="335" y="617" font-size="14" font-weight="bold" text-anchor="middle">1 minute:</text>
+<text x="335" y="634" font-size="13" text-anchor="middle">sand settles</text>
+<text x="465" y="600" font-size="14" font-weight="bold" text-anchor="middle">After a few</text>
+<text x="465" y="617" font-size="14" font-weight="bold" text-anchor="middle">hours:</text>
+<text x="465" y="634" font-size="13" text-anchor="middle">silt settles</text>
+<text x="595" y="600" font-size="14" font-weight="bold" text-anchor="middle">After one or</text>
+<text x="595" y="617" font-size="14" font-weight="bold" text-anchor="middle">two days:</text>
+<text x="595" y="634" font-size="13" text-anchor="middle">clay settles</text>
+
+<rect x="168" y="648" width="530" height="52" rx="6" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.2"/>
+<text x="180" y="669" font-size="14" font-weight="bold">④ Measure the thickness of each layer to find the rough proportions</text>
+<text x="180" y="690" font-size="13" fill="#555">Loam, a balanced mix of sand, silt and clay, is best for growing crops</text>
+</g>
+</svg>

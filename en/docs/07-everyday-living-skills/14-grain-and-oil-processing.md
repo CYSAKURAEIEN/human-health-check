@@ -66,7 +66,7 @@ Press a grain with your fingernail; there are three stages:
   see weather observation
 ```
 
-For reading the weather see [Weather Observation and Forecasting](../../../docs/08-基础科学知识/07-天气观测与预报.md).
+For reading the weather see [Weather Observation and Forecasting](../08-basic-science/07-weather-observation-and-forecasting.md).
 
 ### Cutting and binding
 
@@ -134,7 +134,7 @@ Use: spread rice, wheat or bean pods on the threshing floor and swing the handle
 ⚠️ Muzzle the animals (otherwise they eat as they walk); do not stand in front of the roller
 ```
 
-For the power of draught animals see [Thermodynamics and Power Machinery – Animal and human power](../../../docs/09-进阶科学与工程/03-热力学与动力机械.md#83-畜力和人力).
+For the power of draught animals see [Thermodynamics and Power Machinery – Animal and human power](../09-advanced-science-and-engineering/03-thermodynamics-and-engines.md#83-animal-and-human-power).
 
 ### Simple pedal thresher
 
@@ -155,7 +155,7 @@ Use: one person works the pedal to spin the drum fast, holds a handful of rice f
 ⚠️ Stop the drum completely before clearing tangled straw
 ```
 
-For how cranks, gears and other transmissions work see [Physics – Gears and transmission](../../../docs/08-基础科学知识/02-物理.md#25-齿轮和传动).
+For how cranks, gears and other transmissions work see [Physics – Gears and transmission](../08-basic-science/02-physics.md#25-gears-and-transmission).
 
 ---
 
@@ -342,7 +342,7 @@ Clay huller:
 - What comes out is husk and brown rice mixed; separate them with a winnowing fan or basket
 ```
 
-For the lever principle see [Physics – Levers](../../../docs/08-基础科学知识/02-物理.md#21-杠杆).
+For the lever principle see [Physics – Levers](../08-basic-science/02-physics.md#21-levers).
 
 ### Milling rice and yields
 
@@ -477,7 +477,7 @@ Watermill: a waterwheel drives the millstone
   mills, and can serve the whole village
 ```
 
-For estimating water power see [Physics – Water power: waterwheels and watermills](../../../docs/08-基础科学知识/02-物理.md#33-水力-水车和水磨) and [Thermodynamics and Power Machinery – Water power](../../../docs/09-进阶科学与工程/03-热力学与动力机械.md#81-水力); for headrace channels see [Water Supply Engineering – Diverting water](10-water-supply.md#bringing-water-by-gravity).
+For estimating water power see [Physics – Water power: waterwheels and watermills](../08-basic-science/02-physics.md#33-water-power-waterwheels-and-watermills) and [Thermodynamics and Power Machinery – Water power](../09-advanced-science-and-engineering/03-thermodynamics-and-engines.md#81-water-power); for headrace channels see [Water Supply Engineering – Diverting water](10-water-supply.md#bringing-water-by-gravity).
 
 ---
 
@@ -522,7 +522,7 @@ Cooking maize in limewater (approximate amounts):
    (it gets violently hot and spatters)
 ```
 
-For the method and background see [Nutrition and Deficiency Diseases – Niacin](02-nutrition-and-deficiency-diseases.md#niacin-treat-maize-with-alkali-before-eating-it); for burning lime see [Chemistry – The lime cycle](../../../docs/08-基础科学知识/03-化学.md#44-石灰的循环-建筑的基础).
+For the method and background see [Nutrition and Deficiency Diseases – Niacin](02-nutrition-and-deficiency-diseases.md#niacin-treat-maize-with-alkali-before-eating-it); for burning lime see [Chemistry – The lime cycle](../08-basic-science/03-chemistry.md#44-the-lime-cycle-the-basis-of-building).
 
 ---
 
@@ -658,7 +658,7 @@ Screw press:
 - A wooden screw is carved from hardwood; an iron screw needs a lathe or files
 ```
 
-For how levers, inclined planes and screws work see [Physics – Simple machines](../../../docs/08-基础科学知识/02-物理.md#二简单机械).
+For how levers, inclined planes and screws work see [Physics – Simple machines](../08-basic-science/02-physics.md#2-simple-machines).
 
 ### Stone-ground sesame oil (water-displacement method)
 
@@ -738,7 +738,7 @@ Flour, rice bran, cornmeal and sawdust all burn. In heaps they do not burn easil
 ✓ Keep doors and windows open for ventilation so dust can clear
 ```
 
-For the principle see [Advanced Chemistry – Reaction rates and catalysis](../../../docs/09-进阶科学与工程/05-化学进阶.md#四反应速率和催化); for what to do if fire breaks out see [Fire](../02-disaster-response/04-fire.md).
+For the principle see [Advanced Chemistry – Reaction rates and catalysis](../09-advanced-science-and-engineering/05-advanced-chemistry.md#4-reaction-rate-and-catalysis); for what to do if fire breaks out see [Fire](../02-disaster-response/04-fire.md).
 
 ### Entanglement in machinery and draught animals
 

@@ -16,7 +16,7 @@
 
 ## First, be clear: what this chapter is for
 
-Pottery can store grain and water, and be used for cooking and fermenting; bricks and tiles build houses; glass makes bottles, lenses and chemical vessels; paper lets knowledge be written down and passed on. All of these are bottlenecks in the [technology-rebuilding roadmap](../../../docs/09-进阶科学与工程/00-技术重建路线图.md#三关键瓶颈). This chapter covers small-scale, hand methods.
+Pottery can store grain and water, and be used for cooking and fermenting; bricks and tiles build houses; glass makes bottles, lenses and chemical vessels; paper lets knowledge be written down and passed on. All of these are bottlenecks in the [technology-rebuilding roadmap](../09-advanced-science-and-engineering/00-technology-rebuilding-roadmap.md#3-key-bottlenecks). This chapter covers small-scale, hand methods.
 
 ```
 ⚠️ Safety:
@@ -57,7 +57,7 @@ Colour:
   raw material for porcelain and refractories
 ```
 
-For identifying clay see [Geology, Minerals and Soil – Where to find useful things](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#三到哪里找有用的东西).
+For identifying clay see [Geology, Minerals and Soil – Where to find useful things](../08-basic-science/06-geology-minerals-and-soil.md#3-where-to-find-useful-things).
 
 ### Preparing the clay
 
@@ -186,7 +186,7 @@ Firing the kiln:
 
 *Figure: Structure of a simple updraft kiln (firebox, kiln floor, chamber, flue) and the three firing stages: warm slowly with a small fire → build up the fire once the white smoke has gone → seal the kiln and cool slowly; below, judging temperature by the colour of the fire*
 
-For refractory materials for kiln bricks and furnace linings see [Engineering Mechanics and Materials – Ceramics and refractories](../../../docs/09-进阶科学与工程/01-工程力学与材料.md#105-陶瓷和耐火材料); for blowing see [Bellows and Forges](../05-metallurgy/08-bellows-and-forges.md).
+For refractory materials for kiln bricks and furnace linings see [Engineering Mechanics and Materials – Ceramics and refractories](../09-advanced-science-and-engineering/01-engineering-mechanics-and-materials.md#105-ceramics-and-refractories); for blowing see [Bellows and Forges](../05-metallurgy/08-bellows-and-forges.md).
 
 ### Crucibles and firebricks
 
@@ -281,7 +281,7 @@ and fired for a very long time
 → Very hard for a small community; salvage first, and only then consider melting your own
 ```
 
-For the chemistry of soda ash and lime see [Advanced Chemistry](../../../docs/09-进阶科学与工程/05-化学进阶.md) and [Chemistry – Important reactions that changed human society](../../../docs/08-基础科学知识/03-化学.md#四改变人类社会的重要反应).
+For the chemistry of soda ash and lime see [Advanced Chemistry](../09-advanced-science-and-engineering/05-advanced-chemistry.md) and [Chemistry – Important reactions that changed human society](../08-basic-science/03-chemistry.md#4-important-reactions-that-changed-human-society).
 
 ### Blowing and shaping (for understanding)
 
@@ -317,7 +317,7 @@ Thick pieces need longer
 - Window glass: lets light into the house while keeping out the wind
 ```
 
-For how lenses work see [Physics – Waves, sound and light](../../../docs/08-基础科学知识/02-物理.md#六波声与光).
+For how lenses work see [Physics – Waves, sound and light](../08-basic-science/02-physics.md#6-waves-sound-and-light).
 
 ---
 

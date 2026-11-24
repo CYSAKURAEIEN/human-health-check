@@ -58,7 +58,7 @@ China's weather disaster warning signals cover typhoons, heavy rain, heavy snow,
 | Cold wave | Temperature drop ≥8°C within 48 h, minimum ≤4°C | Drop ≥10°C within 24 h, minimum ≤4°C | Drop ≥12°C within 24 h, minimum ≤0°C | Drop ≥16°C within 24 h, minimum ≤0°C |
 | High temperature | — | Maximum ≥35°C for 3 d in a row | Maximum ≥37°C within 24 h | Maximum ≥40°C within 24 h |
 
-For how wind "force" relates to wind speed (m/s), see [Weather observation and forecasting – Wind force scale](../../../docs/08-基础科学知识/07-天气观测与预报.md#34-风力等级).
+For how wind "force" relates to wind speed (m/s), see [Weather observation and forecasting – Wind force scale](../08-basic-science/07-weather-observation-and-forecasting.md#34-wind-force-scale).
 
 ---
 
@@ -759,7 +759,7 @@ Farming:
 ✓ For frost protection see the "Frost" section of the weather observation chapter
 ```
 
-Related chapters: [Carbon monoxide poisoning](../01-first-aid-and-family-health/07-home-and-traffic-accidents.md#carbon-monoxide-poisoning), [Elder care – Extreme weather](../01-first-aid-and-family-health/13-elder-care.md#extreme-weather), [Frost](../../../docs/08-基础科学知识/07-天气观测与预报.md#五霜冻).
+Related chapters: [Carbon monoxide poisoning](../01-first-aid-and-family-health/07-home-and-traffic-accidents.md#carbon-monoxide-poisoning), [Elder care – Extreme weather](../01-first-aid-and-family-health/13-elder-care.md#extreme-weather), [Frost](../08-basic-science/07-weather-observation-and-forecasting.md#5-frost).
 
 ### Freezing rain and icy roads
 
@@ -1415,7 +1415,7 @@ For dealing with sand in the eye see [Foreign bodies in the eye](../01-first-aid
 
 ## Lightning
 
-Every year in China many people are killed or injured by lightning, mostly **in fields in the countryside, on hills and by water**, usually on summer afternoons and evenings. For the signs that a thunderstorm is forming, see [Weather observation and forecasting – Signs of a thunderstorm](../../../docs/08-基础科学知识/07-天气观测与预报.md#23-雷暴的征兆).
+Every year in China many people are killed or injured by lightning, mostly **in fields in the countryside, on hills and by water**, usually on summer afternoons and evenings. For the signs that a thunderstorm is forming, see [Weather observation and forecasting – Signs of a thunderstorm](../08-basic-science/07-weather-observation-and-forecasting.md#23-signs-of-a-thunderstorm).
 
 ### Lightning dangers
 

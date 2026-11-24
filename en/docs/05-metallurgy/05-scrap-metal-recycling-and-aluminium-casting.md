@@ -139,7 +139,7 @@ For how to harden, see [Metalworking](04-metalworking.md).
 - Saw blades, drill bits, taps, dies: very valuable, and hard to make yourself
 ```
 
-For electrical equipment worth salvaging, see [Electrical Engineering and Electronics – Realistic small-scale power generation](../../../docs/09-进阶科学与工程/02-电气工程与电子学.md#33-现实可行的小型发电).
+For electrical equipment worth salvaging, see [Electrical Engineering and Electronics – Realistic small-scale power generation](../09-advanced-science-and-engineering/02-electrical-engineering-and-electronics.md#33-small-scale-generation-that-is-realistic).
 
 ---
 
@@ -280,8 +280,8 @@ Zinc: melting point about 420°C, boiling point about 907°C; if it gets too hot
 - ⏮️ [Metalworking](04-metalworking.md) - Heat treatment of salvaged steel
 - ⏭️ [Welding and Joining](06-welding-and-joining.md) - Joining salvaged metal parts together
 - ⏭️ [Advanced Casting](07-advanced-casting.md) - Furnaces, crucibles, moulding sand, gating systems, cast iron
-- 🔗 [Technology Rebuilding Roadmap – Resources in the ruins](../../../docs/09-进阶科学与工程/00-技术重建路线图.md#四废墟里的资源-先利用再制造) - What else can be found in the ruins
-- 🔗 [Engineering Mechanics and Materials – Materials science](../../../docs/09-进阶科学与工程/01-工程力学与材料.md#十材料科学) - The composition and properties of steel
+- 🔗 [Technology Rebuilding Roadmap – Resources in the ruins](../09-advanced-science-and-engineering/00-technology-rebuilding-roadmap.md#4-resources-in-the-ruins-use-first-make-later) - What else can be found in the ruins
+- 🔗 [Engineering Mechanics and Materials – Materials science](../09-advanced-science-and-engineering/01-engineering-mechanics-and-materials.md#10-materials-science) - The composition and properties of steel
 
 ---
 

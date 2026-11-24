@@ -80,7 +80,7 @@ Shape:
 - Running east-west (good light; wind over the surface adds oxygen)
 ```
 
-For judging soil texture see [Geology, Minerals and Soil – Simple soil texture tests](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#52-简单的土壤质地判断).
+For judging soil texture see [Geology, Minerals and Soil – Simple soil texture tests](../08-basic-science/06-geology-minerals-and-soil.md#52-simple-soil-texture-tests).
 
 **Banks, inlets and outlets**:
 ```
@@ -412,7 +412,7 @@ Pond rounds:
 ✓ Keep a pond diary: weather, water temperature, water colour, amount fed, anything unusual
 ```
 
-For measuring acidity see [Geology, Minerals and Soil – Acidity and alkalinity](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#53-酸碱性).
+For measuring acidity see [Geology, Minerals and Soil – Acidity and alkalinity](../08-basic-science/06-geology-minerals-and-soil.md#53-acidity-and-alkalinity).
 
 **Using an aerator** (when there is electricity):
 ```
@@ -480,7 +480,7 @@ Emergency steps:
    fish that smell bad or died of unknown causes as dead animals
 ```
 
-For disposing of dead animals see [Sanitation – Disposing of dead animals](../07-everyday-living-skills/03-sanitation.md#disposing-of-diseased-animal-carcasses); for reading the weather see [Weather Observation and Forecasting – Air pressure](../../../docs/08-基础科学知识/07-天气观测与预报.md#31-气压).
+For disposing of dead animals see [Sanitation – Disposing of dead animals](../07-everyday-living-skills/03-sanitation.md#disposing-of-diseased-animal-carcasses); for reading the weather see [Weather Observation and Forecasting – Air pressure](../08-basic-science/07-weather-observation-and-forecasting.md#31-air-pressure).
 
 **Fertilising**:
 ```

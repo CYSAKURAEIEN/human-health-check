@@ -150,7 +150,7 @@ Using a direction in the forest:
    recheck every half hour
 ```
 
-For the compass, watch method, shadow stick and Pole Star in detail see [Basic Survival Skills – Navigation and orientation](00-basic-survival-skills.md#navigation-and-orientation); for using a map and compass together see [Outdoor Trip Preparation and Calling for Help – Using a map and compass](07-trip-preparation-and-calling-for-help.md#using-a-map-and-compass); for more precise astronomical direction-finding and magnetic declination see [Advanced Celestial Navigation](../../../docs/09-进阶科学与工程/09-天文导航进阶.md#二精确定方向).
+For the compass, watch method, shadow stick and Pole Star in detail see [Basic Survival Skills – Navigation and orientation](00-basic-survival-skills.md#navigation-and-orientation); for using a map and compass together see [Outdoor Trip Preparation and Calling for Help – Using a map and compass](07-trip-preparation-and-calling-for-help.md#using-a-map-and-compass); for more precise astronomical direction-finding and magnetic declination see [Advanced Celestial Navigation](../09-advanced-science-and-engineering/09-celestial-navigation.md#2-finding-direction-precisely).
 
 ### Why tree crowns, growth rings and moss are unreliable
 

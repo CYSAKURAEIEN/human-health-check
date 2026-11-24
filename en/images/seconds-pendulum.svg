@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 666" width="720" height="666" role="img" aria-label="Fixing the metre with a seconds pendulum: a seconds pendulum swings from one side to the other in exactly 1 s, a full period is 2 s; keep the swing small, no more than about 5° from vertical; measure the pendulum length from the point of suspension to the centre of the bob; the length L of a seconds pendulum equals g divided by π² and varies slightly with latitude: 0.9916 m at 20° N, 0.9923 m at 30°, 0.9931 m at 40°, 0.9940 m at 50°; at 40° N, for example, mark the 0.9931 m position, then extend in proportion to 1 m: 1 divided by 0.9931 is about 1.0069, i.e. add about 6.9 mm, and engrave it on a metal or hardwood rule as the standard metre" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Fixing the metre with a seconds pendulum</title>
+<defs>
+<marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
+<marker id="dimB" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,1 L10,5 L0,9 Z" fill="#0b5cad"/></marker>
+<pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="8" height="8" fill="#e6e6e6"/><line x1="0" y1="0" x2="0" y2="8" stroke="#999" stroke-width="2"/></pattern>
+</defs>
+<g fill="#222">
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Fixing the metre with a seconds pendulum</text>
+
+<!-- left: the seconds pendulum -->
+<rect x="10" y="44" width="350" height="610" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<rect x="100" y="64" width="190" height="14" fill="url(#hatch)" stroke="#999" stroke-width="1"/>
+<!-- end positions (dashed) -->
+<g stroke="#999" stroke-width="1.5" stroke-dasharray="5 4" fill="none">
+<line x1="190" y1="82" x2="155.1" y2="480.5"/>
+<line x1="190" y1="82" x2="224.9" y2="480.5"/>
+<circle cx="155.1" cy="480.5" r="14"/>
+<circle cx="224.9" cy="480.5" r="14"/>
+</g>
+<!-- rest position -->
+<line x1="190" y1="82" x2="190" y2="468" stroke="#333" stroke-width="1.5"/>
+<circle cx="190" cy="82" r="4" fill="#333"/>
+<path d="M184,78 L196,78 L190,84 Z" fill="#333"/>
+<circle cx="190" cy="482" r="14" fill="#9aa4ad" stroke="#333" stroke-width="2"/>
+<path d="M182,482 H198 M190,474 V490" stroke="#fff" stroke-width="1.5"/>
+<!-- swing angle -->
+<path d="M190,232 A150,150 0 0 0 203.1,231.4" fill="none" stroke="#c33" stroke-width="2.5"/>
+<line x1="200" y1="226" x2="214" y2="214" stroke="#c33" stroke-width="1"/>
+<text x="216" y="192" font-size="14" font-weight="bold" fill="#c33">no more than</text>
+<text x="216" y="209" font-size="14" font-weight="bold" fill="#c33">about 5° from</text>
+<text x="216" y="226" font-size="14" font-weight="bold" fill="#c33">vertical</text>
+<!-- swing arc -->
+<path d="M152.9,506.4 A426,426 0 0 0 227.1,506.4" fill="none" stroke="#c33" stroke-width="2.5" marker-start="url(#arR)" marker-end="url(#arR)"/>
+<text x="190" y="572" font-size="15" font-weight="bold" fill="#c33" text-anchor="middle">One side to the other = 1 s</text>
+<text x="190" y="592" font-size="13" fill="#555" text-anchor="middle">(a full swing there and back: 2 s)</text>
+<!-- pendulum length -->
+<path d="M184,82 H90 M176,482 H90" stroke="#0b5cad" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="98" y1="84" x2="98" y2="480" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#dimB)" marker-end="url(#dimB)"/>
+<g font-size="14" fill="#0b5cad">
+<text x="22" y="232" font-weight="bold">Length L</text>
+<text x="22" y="252" font-size="12">suspension</text>
+<text x="22" y="267" font-size="12">point to</text>
+<text x="22" y="282" font-size="12">centre of</text>
+<text x="22" y="297" font-size="12">the bob</text>
+<text x="22" y="324" font-size="13">40° N:</text>
+<text x="22" y="342" font-weight="bold">0.9931 m</text>
+</g>
+<text x="214" y="104" font-size="13" fill="#555">point of suspension</text>
+<line x1="212" y1="100" x2="195" y2="85" stroke="#555" stroke-width="1"/>
+<text x="218" y="300" font-size="13" fill="#555">thin thread that</text>
+<text x="218" y="316" font-size="13" fill="#555">hardly stretches</text>
+<line x1="216" y1="296" x2="191" y2="290" stroke="#555" stroke-width="1"/>
+<text x="246" y="452" font-size="13" fill="#555">Bob: a small,</text>
+<text x="246" y="468" font-size="13" fill="#555">heavy metal ball</text>
+<text x="246" y="500" font-size="12" fill="#555">its centre is hard</text>
+<text x="246" y="515" font-size="12" fill="#555">to locate; most of</text>
+<text x="246" y="530" font-size="12" fill="#555">the error is here</text>
+<line x1="244" y1="496" x2="199" y2="485" stroke="#555" stroke-width="1"/>
+
+<!-- top right: table of lengths -->
+<rect x="372" y="44" width="338" height="196" rx="8" fill="#f4f8fc" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="386" y="72" font-size="16" font-weight="bold">Seconds pendulum: L = g ÷ π²</text>
+<text x="386" y="94" font-size="13" fill="#555">g varies slightly with latitude, and so does L</text>
+<g font-size="14">
+<text x="390" y="122" font-weight="bold">Latitude</text><text x="460" y="122" font-weight="bold">Length</text><text x="540" y="122" font-weight="bold">Region of China</text>
+<line x1="384" y1="130" x2="698" y2="130" stroke="#0b5cad" stroke-width="1"/>
+<text x="390" y="150">20°</text><text x="460" y="150">0.9916 m</text><text x="540" y="150" font-size="12">Hainan, southern Guangdong</text>
+<text x="390" y="174">30°</text><text x="460" y="174">0.9923 m</text><text x="540" y="174" font-size="12">Yangtze basin</text>
+<rect x="384" y="182" width="314" height="24" rx="3" fill="#fde8d8"/>
+<text x="390" y="199" font-weight="bold">40°</text><text x="460" y="199" font-weight="bold">0.9931 m</text><text x="540" y="199" font-size="12" font-weight="bold">North China</text>
+<text x="390" y="226">50°</text><text x="460" y="226">0.9940 m</text><text x="540" y="226" font-size="12">northern North-East China</text>
+</g>
+
+<!-- middle right: extend to 1 m -->
+<rect x="372" y="252" width="338" height="186" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="386" y="278" font-size="15" font-weight="bold">Extend in proportion to 1 m (e.g. 40° N)</text>
+<rect x="390" y="294" width="300" height="18" fill="#e7d3a8" stroke="#333" stroke-width="1.5"/>
+<path d="M420,294 v8 M450,294 v8 M480,294 v8 M510,294 v8 M540,294 v12 M570,294 v8 M600,294 v8 M630,294 v8 M660,294 v8" stroke="#333" stroke-width="1"/>
+<text x="390" y="328" font-size="12" fill="#555" text-anchor="middle">0</text>
+<path d="M688,288 V316" stroke="#c33" stroke-width="2"/>
+<rect x="666" y="286" width="30" height="34" fill="none" stroke="#555" stroke-width="1" stroke-dasharray="3 2"/>
+<path d="M666,320 L500,346 M696,320 L700,346" stroke="#555" stroke-width="1" stroke-dasharray="3 2"/>
+<rect x="500" y="346" width="200" height="56" fill="#fffdf6" stroke="#555" stroke-width="1"/>
+<rect x="500" y="352" width="164" height="16" fill="#e7d3a8"/>
+<path d="M548,346 V376" stroke="#c33" stroke-width="2.5"/>
+<path d="M664,346 V376" stroke="#333" stroke-width="2.5"/>
+<line x1="551" y1="384" x2="661" y2="384" stroke="#0b5cad" stroke-width="1.5" marker-start="url(#dimB)" marker-end="url(#dimB)"/>
+<text x="606" y="398" font-size="12" fill="#0b5cad" text-anchor="middle" font-weight="bold">add about 6.9 mm</text>
+<text x="494" y="364" font-size="13" fill="#c33" text-anchor="end">0.9931 m</text>
+<text x="494" y="380" font-size="12" fill="#555" text-anchor="end">(pendulum length)</text>
+<text x="672" y="342" font-size="13" font-weight="bold" text-anchor="middle">1 m</text>
+<text x="386" y="424" font-size="14">1 ÷ 0.9931 ≈ 1.0069</text>
+
+<!-- bottom right: method -->
+<rect x="372" y="450" width="338" height="204" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
+<text x="386" y="474" font-size="15" font-weight="bold">Method</text>
+<g font-size="13">
+<text x="386" y="496">1. Using your calibrated second, adjust a</text>
+<text x="402" y="513">pendulum into a seconds pendulum</text>
+<text x="386" y="533">2. Measure from the point of suspension to</text>
+<text x="402" y="550">the centre of the bob</text>
+<text x="386" y="570">3. Look up your latitude in the table, mark</text>
+<text x="402" y="587">that length, then extend it to 1 m</text>
+<text x="386" y="607">4. Engrave it on a metal or hardwood rule</text>
+<text x="402" y="624">as the "standard metre"</text>
+<text x="386" y="644" fill="#555">Accuracy: about one part in a thousand (~1 mm)</text>
+</g>
+</g>
+</svg>

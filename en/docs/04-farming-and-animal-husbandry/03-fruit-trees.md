@@ -70,7 +70,7 @@ Considerations:
    (poplar, willow, elm, black locust) on the windward side as a windbreak
 ```
 
-For judging soil texture and acidity, see [Geology, minerals and soil - Simple soil texture tests](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#52-简单的土壤质地判断) and [Acidity and alkalinity](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#53-酸碱性); for improving acid soil with lime, see [Lime and building materials - Improving acid soil](../07-everyday-living-skills/16-lime-and-building-materials.md#improving-acid-soil); for late frost patterns, see [Weather observation and forecasting - Frost](../../../docs/08-基础科学知识/07-天气观测与预报.md#五霜冻).
+For judging soil texture and acidity, see [Geology, minerals and soil - Simple soil texture tests](../08-basic-science/06-geology-minerals-and-soil.md#52-simple-soil-texture-tests) and [Acidity and alkalinity](../08-basic-science/06-geology-minerals-and-soil.md#53-acidity-and-alkalinity); for improving acid soil with lime, see [Lime and building materials - Improving acid soil](../07-everyday-living-skills/16-lime-and-building-materials.md#improving-acid-soil); for late frost patterns, see [Weather observation and forecasting - Frost](../08-basic-science/07-weather-observation-and-forecasting.md#5-frost).
 
 ### Choosing varieties and rootstocks
 
@@ -1342,7 +1342,7 @@ still greenish-white → alive. In years of severe frost damage, save the tree a
 do not abandon care just because there is no fruit this year
 ```
 
-For late frost weather patterns, see [Weather observation and forecasting - Frost](../../../docs/08-基础科学知识/07-天气观测与预报.md#五霜冻); for safe handling of quicklime, see [Lime and building materials - Slaking and seasoning](../07-everyday-living-skills/16-lime-and-building-materials.md#slaking-and-maturing).
+For late frost weather patterns, see [Weather observation and forecasting - Frost](../08-basic-science/07-weather-observation-and-forecasting.md#5-frost); for safe handling of quicklime, see [Lime and building materials - Slaking and seasoning](../07-everyday-living-skills/16-lime-and-building-materials.md#slaking-and-maturing).
 
 ---
 

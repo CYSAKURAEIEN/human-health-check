@@ -620,7 +620,7 @@ In practice:
   is not going anywhere
 ```
 
-For reading the clouds and signs of thunderstorms, see [Weather Observation and Forecasting – Reading the clouds](../../../docs/08-基础科学知识/07-天气观测与预报.md#二看云识天气) and [Signs of a thunderstorm](../../../docs/08-基础科学知识/07-天气观测与预报.md#23-雷暴的征兆).
+For reading the clouds and signs of thunderstorms, see [Weather Observation and Forecasting – Reading the clouds](../08-basic-science/07-weather-observation-and-forecasting.md#2-reading-the-clouds) and [Signs of a thunderstorm](../08-basic-science/07-weather-observation-and-forecasting.md#23-signs-of-a-thunderstorm).
 
 ### Flash floods
 

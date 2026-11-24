@@ -63,7 +63,7 @@ What actually happens in the furnace:
 - Oxide ores (magnetite, haematite, limonite, malachite, cassiterite): smelt directly with charcoal
 - Sulphide ores (chalcopyrite, chalcocite, galena, pyrite): first roast them in air to burn off the sulphur and turn them into oxides, then smelt (see [5.4 Ore concentration](#54-ore-concentration))
 
-For the basics of chemical reactions see [Chemistry](../../../docs/08-基础科学知识/03-化学.md).
+For the basics of chemical reactions see [Chemistry](../08-basic-science/03-chemistry.md).
 
 ### 1.2 Key elements
 
@@ -538,7 +538,7 @@ Judging without your eyes:
   and best shows the highest temperature in the furnace
 ```
 
-For more fixed points from metal melting points and a home-made thermometer see [Rebuilding measurement standards – Fixed points for high temperatures](../../../docs/08-基础科学知识/09-计量基准的重建.md#52-高温的固定点-金属的熔点); for judging steel by its colour in forging and heat treatment see [Metalworking techniques – Judging temperature](04-metalworking.md#13-judging-temperature-without-a-thermometer).
+For more fixed points from metal melting points and a home-made thermometer see [Rebuilding measurement standards – Fixed points for high temperatures](../08-basic-science/09-rebuilding-measurement-standards.md#52-high-temperature-fixed-points-melting-points-of-metals); for judging steel by its colour in forging and heat treatment see [Metalworking techniques – Judging temperature](04-metalworking.md#13-judging-temperature-without-a-thermometer).
 
 ### 4.2 Ways to raise the temperature
 
@@ -612,7 +612,7 @@ For how furnace temperature relates to air volume, and a comparison of the air d
 
 ## 5. Identifying and collecting ore
 
-> For general ways of identifying minerals (streak, hardness, specific gravity) and clues to where ore can be found, see [Geology, minerals and soil](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#32-金属矿床的常见线索). This section covers only ores used for smelting.
+> For general ways of identifying minerals (streak, hardness, specific gravity) and clues to where ore can be found, see [Geology, minerals and soil](../08-basic-science/06-geology-minerals-and-soil.md#32-common-clues-to-metal-deposits). This section covers only ores used for smelting.
 
 ### 5.1 Iron ores
 
@@ -1090,7 +1090,7 @@ ran, the result
   charcoal still gives good iron more easily
 ```
 
-For where to find coal see [Geology, minerals and soil – Building and everyday materials](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#31-建筑和日用材料).
+For where to find coal see [Geology, minerals and soil – Building and everyday materials](../08-basic-science/06-geology-minerals-and-soil.md#31-building-and-household-materials).
 
 ### Q5: What if I cannot find any ore?
 
@@ -1175,7 +1175,7 @@ other job, but keep watch on people's condition and the fire
 - 🔗 [Scrap metal recovery and aluminium casting](05-scrap-metal-recycling-and-aluminium-casting.md) - salvage first, smelt later
 - 🔗 [Blowing equipment and forges](08-bellows-and-forges.md) - bellows, tuyeres and forges of all kinds
 - 🔗 [Other metals](10-other-metals.md) - tin, lead, zinc, gold, silver, mercury
-- 🔗 [Geology, minerals and soil](../../../docs/08-基础科学知识/06-地质矿物与土壤.md) - identifying minerals and clues for finding ore
+- 🔗 [Geology, minerals and soil](../08-basic-science/06-geology-minerals-and-soil.md) - identifying minerals and clues for finding ore
 - 🔗 [Firewood and woodland management](../04-farming-and-animal-husbandry/09-firewood-and-woodland-management.md) - where the wood for charcoal comes from
 - 🔗 [Wound and injury care – Scalds and burns](../01-first-aid-and-family-health/02-wounds-and-injuries.md#scalds-and-burns) - first aid for burns
 

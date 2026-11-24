@@ -19,7 +19,7 @@
 
 Cement has to be fired at about 1450°C, which a small community will find hard to do well; **lime needs only about 900°C, and a simple earth kiln can make it**. For thousands of years before cement became common, the mortar for laying walls, the white plaster for rendering them, the three-part earth for floors and the disinfectant wash for animal pens all depended on lime. It can also improve acid soil and help with papermaking and tanning.
 
-This chapter covers finding raw materials, burning lime and slaking it, and building with lime and other local materials. For how to build the walls themselves (adobe, rammed earth, earthquake resistance) see [Long-term Housing](05-long-term-shelter.md); for firing bricks and tiles see [Pottery, Glass and Papermaking – Bricks and tiles](11-pottery-glass-and-papermaking.md#bricks-and-tiles); for load calculations see [Engineering Mechanics and Materials](../../../docs/09-进阶科学与工程/01-工程力学与材料.md).
+This chapter covers finding raw materials, burning lime and slaking it, and building with lime and other local materials. For how to build the walls themselves (adobe, rammed earth, earthquake resistance) see [Long-term Housing](05-long-term-shelter.md); for firing bricks and tiles see [Pottery, Glass and Papermaking – Bricks and tiles](11-pottery-glass-and-papermaking.md#bricks-and-tiles); for load calculations see [Engineering Mechanics and Materials](../09-advanced-science-and-engineering/01-engineering-mechanics-and-materials.md).
 
 ```
 ⚠️ Safety
@@ -64,7 +64,7 @@ Practical conclusions:
   never harden → use hydraulic mortar (see below)
 ```
 
-For the chemistry see [Chemistry – The lime cycle](../../../docs/08-基础科学知识/03-化学.md#44-石灰的循环-建筑的基础); for why about 900°C is needed see [Advanced Chemistry – Entropy and Gibbs free energy](../../../docs/09-进阶科学与工程/05-化学进阶.md#22-熵和吉布斯自由能); for calculating the weight loss see [Chemistry – Calculating with equations](../../../docs/08-基础科学知识/03-化学.md#32-用方程式计算).
+For the chemistry see [Chemistry – The lime cycle](../08-basic-science/03-chemistry.md#44-the-lime-cycle-the-basis-of-building); for why about 900°C is needed see [Advanced Chemistry – Entropy and Gibbs free energy](../09-advanced-science-and-engineering/05-advanced-chemistry.md#22-entropy-and-gibbs-free-energy); for calculating the weight loss see [Chemistry – Calculating with equations](../08-basic-science/03-chemistry.md#32-calculating-with-equations).
 
 ---
 
@@ -94,7 +94,7 @@ Choosing stone:
 ✗ Stone with a lot of clay or sand: the lime has many impurities and slakes poorly
 ```
 
-For identifying rocks see [Geology, Minerals and Soil – The three main kinds of rock](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#一岩石的三大类) and [Building and everyday materials](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#31-建筑和日用材料).
+For identifying rocks see [Geology, Minerals and Soil – The three main kinds of rock](../08-basic-science/06-geology-minerals-and-soil.md#1-the-three-main-kinds-of-rock) and [Building and everyday materials](../08-basic-science/06-geology-minerals-and-soil.md#31-building-and-household-materials).
 
 ---
 
@@ -289,7 +289,7 @@ Uses: indoor floors, drying yards, the bed under foundations, roads, the bottom 
 ✓ Far more water-resistant than plain rammed earth; does not get dusty or grow weeds easily
 ```
 
-For judging the water content and ramming see [Long-term Housing – Rammed-earth walls](05-long-term-shelter.md#rammed-earth-walls); for foundations and footings see [Engineering Mechanics – Foundations](../../../docs/09-进阶科学与工程/01-工程力学与材料.md#九地基) and [Long-term Housing – Good boots: footings](05-long-term-shelter.md#good-boots-the-wall-footing); for the essentials of masonry see [Engineering Mechanics – Masonry walls](../../../docs/09-进阶科学与工程/01-工程力学与材料.md#72-砌体墙).
+For judging the water content and ramming see [Long-term Housing – Rammed-earth walls](05-long-term-shelter.md#rammed-earth-walls); for foundations and footings see [Engineering Mechanics – Foundations](../09-advanced-science-and-engineering/01-engineering-mechanics-and-materials.md#9-foundations) and [Long-term Housing – Good boots: footings](05-long-term-shelter.md#good-boots-the-wall-footing); for the essentials of masonry see [Engineering Mechanics – Masonry walls](../09-advanced-science-and-engineering/01-engineering-mechanics-and-materials.md#72-masonry-walls).
 
 ---
 
@@ -358,7 +358,7 @@ The red and yellow soils of southern China are mostly acidic, and many crops gro
 
 Lime-sulphur (lime and sulphur boiled in water) is a traditional fungicide and insecticide for fruit trees; for how to make it and the strengths to use, follow specialist sources; this book does not go into it.
 
-For testing soil acidity see [Geology, Minerals and Soil – Acidity and alkalinity](../../../docs/08-基础科学知识/06-地质矿物与土壤.md#53-酸碱性); for using quicklime to clean out fish ponds see [Aquaculture – Preparing the pond](../04-farming-and-animal-husbandry/07-aquaculture.md#pond-preparation).
+For testing soil acidity see [Geology, Minerals and Soil – Acidity and alkalinity](../08-basic-science/06-geology-minerals-and-soil.md#53-acidity-and-alkalinity); for using quicklime to clean out fish ponds see [Aquaculture – Preparing the pond](../04-farming-and-animal-husbandry/07-aquaculture.md#pond-preparation).
 
 ### Other uses
 
@@ -417,7 +417,7 @@ For immobilising fractures see [Bone and Joint Injuries – Immobilisation](../0
 
 ## Cement and concrete: salvage first
 
-Making your own cement needs about 1450°C and precise proportions, which a small community will find hard to do well (for the principle see [Chemistry – Cement and glass](../../../docs/08-基础科学知识/03-化学.md#49-水泥和玻璃)). The most realistic course is to **salvage ready-made cement from ruins, warehouses and building sites**.
+Making your own cement needs about 1450°C and precise proportions, which a small community will find hard to do well (for the principle see [Chemistry – Cement and glass](../08-basic-science/03-chemistry.md#49-cement-and-glass)). The most realistic course is to **salvage ready-made cement from ruins, warehouses and building sites**.
 
 ```
 Salvaged bagged cement:
@@ -451,7 +451,7 @@ Recycled aggregate (broken concrete, broken brick):
   that could collapse again at any moment
 ```
 
-For concrete mix proportions and curing see [Engineering Mechanics and Materials – Concrete](../../../docs/09-进阶科学与工程/01-工程力学与材料.md#106-混凝土); for arches and lintels see [Engineering Mechanics and Materials – Arches](../../../docs/09-进阶科学与工程/01-工程力学与材料.md#71-拱).
+For concrete mix proportions and curing see [Engineering Mechanics and Materials – Concrete](../09-advanced-science-and-engineering/01-engineering-mechanics-and-materials.md#106-concrete); for arches and lintels see [Engineering Mechanics and Materials – Arches](../09-advanced-science-and-engineering/01-engineering-mechanics-and-materials.md#71-arches).
 
 ---
 

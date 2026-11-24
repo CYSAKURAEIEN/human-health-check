@@ -132,7 +132,7 @@ Checking:
 ✗ Walking by feel: in forest, fog or snow you will almost certainly go round in circles
 ```
 
-For using a map and compass together, see [Trip Preparation and Calling for Help – Using a map and compass](07-trip-preparation-and-calling-for-help.md#using-a-map-and-compass); for measuring and correcting for magnetic declination, see [Advanced Celestial Navigation – Magnetic declination](../../../docs/09-进阶科学与工程/09-天文导航进阶.md#24-磁偏角).
+For using a map and compass together, see [Trip Preparation and Calling for Help – Using a map and compass](07-trip-preparation-and-calling-for-help.md#using-a-map-and-compass); for measuring and correcting for magnetic declination, see [Advanced Celestial Navigation – Magnetic declination](../09-advanced-science-and-engineering/09-celestial-navigation.md#24-magnetic-declination).
 
 **Improvised compass**: rub a sewing needle a few dozen times in one direction on silk or hair (or stroke it in one direction with a magnet), and lay it on a leaf or piece of cork floating on water; when it settles, its ends point north and south. Use the sun to check which end is north.
 
@@ -196,7 +196,7 @@ Principle: the sun rises in the east and sets in the west, and the shadow moves 
 
 *Figure: Northern hemisphere in the morning; the shadow's movement is drawn larger than in reality for clarity*
 
-For the precise shadow-stick method, see [Advanced Celestial Navigation – Finding true north and south with a shadow stick](../../../docs/09-进阶科学与工程/09-天文导航进阶.md#23-立杆测影定正南北精确方法).
+For the precise shadow-stick method, see [Advanced Celestial Navigation – Finding true north and south with a shadow stick](../09-advanced-science-and-engineering/09-celestial-navigation.md#23-finding-true-northsouth-with-a-shadow-stick-precise-method).
 
 #### Star methods (at night)
 
@@ -237,7 +237,7 @@ and sets due west → just after rising or just before setting, it can be used t
 Note: next to the Southern Cross is a larger, fainter "False Cross"; the False Cross has no two bright pointer stars
 ```
 
-For more ways to find direction and measure latitude by the stars, see [Advanced Celestial Navigation](../../../docs/09-进阶科学与工程/09-天文导航进阶.md#二精确定方向).
+For more ways to find direction and measure latitude by the stars, see [Advanced Celestial Navigation](../09-advanced-science-and-engineering/09-celestial-navigation.md#2-finding-direction-precisely).
 
 #### Natural signs
 

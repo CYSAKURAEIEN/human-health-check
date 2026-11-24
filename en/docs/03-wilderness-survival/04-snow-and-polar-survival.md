@@ -573,7 +573,7 @@ If one hits:
 7. If you have a phone, report your position first, then save battery and switch on at set times
 ```
 
-For signs of changing weather see [Weather Observation and Forecasting](../../../docs/08-基础科学知识/07-天气观测与预报.md).
+For signs of changing weather see [Weather Observation and Forecasting](../08-basic-science/07-weather-observation-and-forecasting.md).
 
 ## Dangers
 
