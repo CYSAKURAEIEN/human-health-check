@@ -439,7 +439,7 @@ More:
 - Dead dry palm leaves and the net-like fibre on palm trunks also work well
 - On sunny days spread tinder and kindling out to dry in advance,
   then keep them inside the shelter
-- With glasses, a magnifying glass, the reflector bowl of a torch, or a clear bottle
+- With glasses, a magnifying glass, the concave reflector bowl of a torch, or a clear bottle
   full of clean water, you can focus sunlight to light a fire on sunny days
 ```
 

@@ -12,7 +12,7 @@ This chapter continues Chapter 01, "Roots and Rhizomes (Part 1)". General method
    (2020 edition) (the current edition is the 2025 edition; the current text
    takes precedence), given only as a reminder "not to take too much".
    Whether to use a herb and how much: decide under the guidance of a
-   practitioner of Chinese medicine
+   TCM practitioner
 
 2. Identify the whole plant before you dig the root: looking only at the
    underground part is the easiest way to get it wrong.
@@ -102,7 +102,7 @@ Most of this group are rhizomes, root tubers and bulbs of plants in the lily fam
 - **Harvesting and processing**: dig in spring and autumn, remove the fibrous roots and soil, and sun-dry to get "Maozhimu"; peel while fresh and sun-dry to get "Zhimurou"
 - **Storage**: in a ventilated, dry place; protect from damp and insects
 - **Actions**: clears heat and drains fire, nourishes yin and moistens dryness. Used for high fever with restlessness and thirst, dry cough from lung heat, steaming-bone tidal fever, wasting-thirst from internal heat, and constipation from dry intestines
-- **Amount**: 6-12 g (use under the guidance of a practitioner of Chinese medicine)
+- **Amount**: 6-12 g (use under the guidance of a TCM practitioner)
 - **Cautions**: cold in nature; not suitable for people with a cold, weak spleen and stomach or loose stools (traditional experience)
 
 ### 1.2 Xuanshen (figwort root)
@@ -117,7 +117,7 @@ Most of this group are rhizomes, root tubers and bulbs of plants in the lily fam
 - **Harvesting and processing**: dig in winter when the stems and leaves have withered; remove the rhizome, young buds, fibrous roots and soil; sun-dry or oven-dry until half dry, pile up for 3-6 days to "sweat", and repeat several times until dry; only then does the inside turn black (for sweating see [General principles – Sweating](00-general-principles.md#54-sweating))
 - **Storage**: in a ventilated, dry place; protect from mould and insects
 - **Actions**: clears heat and cools blood, nourishes yin and lowers fire, resolves toxicity and dissipates nodules. Used for yin damaged by febrile disease, sore throat, scrofula, abscesses and sores, and similar
-- **Amount**: 9-15 g (use under the guidance of a practitioner of Chinese medicine)
+- **Amount**: 9-15 g (use under the guidance of a TCM practitioner)
 - **Cautions**: do not use with Lilu (eighteen incompatibilities, see [General principles 7.3](00-general-principles.md#73-the-eighteen-incompatibilities-and-nineteen-antagonisms-combinations-to-avoid)); cold in nature, not suitable for people with a weak spleen and loose stools
 
 ### 1.3 Maidong (dwarf lilyturf tuber)
@@ -133,7 +133,7 @@ Most of this group are rhizomes, root tubers and bulbs of plants in the lily fam
 - **Harvesting and processing**: dig in summer and wash; sun-dry hard and pile up repeatedly until 70-80% dry, remove the fibrous roots, and dry
 - **Storage**: high in sugar, **very prone to damp, mould, oil seepage and discolouration**; once fully dry, seal and keep in a cool place
 - **Actions**: nourishes yin and generates fluids, moistens the lungs and clears the heart. Used for dry cough from lung dryness, thirst from damaged fluids, restlessness and insomnia, and constipation from dry intestines
-- **Amount**: 6-12 g (use under the guidance of a practitioner of Chinese medicine)
+- **Amount**: 6-12 g (use under the guidance of a TCM practitioner)
 - **Cautions**: not suitable for diarrhoea from a cold, weak spleen and stomach, or for cough from a wind-cold common cold (traditional experience)
 
 ### 1.4 Tiandong (Chinese asparagus tuber)
@@ -149,7 +149,7 @@ Most of this group are rhizomes, root tubers and bulbs of plants in the lily fam
 - **Harvesting and processing**: dig in autumn and winter, wash, remove the stem base and fibrous roots, boil or steam until cooked through, peel while hot, wash and dry
 - **Storage**: easily absorbs moisture, softens and moulds; keep sealed and dry
 - **Actions**: nourishes yin and moistens dryness, clears the lungs and generates fluids. Used for dry cough from lung dryness, dry throat and thirst, and constipation from dry intestines
-- **Amount**: 6-12 g (use under the guidance of a practitioner of Chinese medicine)
+- **Amount**: 6-12 g (use under the guidance of a TCM practitioner)
 - **Cautions**: cold in nature; not suitable for people with a weak spleen and loose stools or with wind-cold cough (traditional experience)
 - 🛡️ **Protection note**: Tiandong is a Class III protected species in the *List of Wild Medicinal Species under Key State Protection* (the original text of the list takes precedence). Digging wild plants requires a herb-collecting permit and must follow the harvesting plan; for household use buy cultivated material or grow your own
 
@@ -170,7 +170,7 @@ Most of this group are rhizomes, root tubers and bulbs of plants in the lily fam
 - **Harvesting and processing**: dig in autumn, remove the fibrous roots, wash, sun-dry until soft, then knead and sun-dry repeatedly until there is no hard core, and sun-dry; or steam through, knead until translucent, and sun-dry
 - **Storage**: high in sugar, prone to damp, mould and oil seepage; keep sealed in a cool place
 - **Actions**: nourishes yin and moistens dryness, generates fluids and relieves thirst. Used for damaged lung and stomach yin, dry-heat cough, dry throat and thirst, and wasting-thirst from internal heat
-- **Amount**: 6-12 g (use under the guidance of a practitioner of Chinese medicine)
+- **Amount**: 6-12 g (use under the guidance of a TCM practitioner)
 - **Cautions**: not suitable for people with a weak spleen, damp phlegm or loose stools (traditional experience)
 
 ![Yuzhu compared with lily of the valley](../../images/polygonatum-vs-convallaria.svg)
@@ -191,7 +191,7 @@ Most of this group are rhizomes, root tubers and bulbs of plants in the lily fam
 - **Harvesting and processing**: dig in spring and autumn, remove the fibrous roots, wash, blanch briefly in boiling water or steam until cooked through, and dry
 - **Storage**: easily absorbs moisture, moulds and is attacked by insects; keep sealed and dry
 - **Actions**: tonifies qi and nourishes yin, strengthens the spleen, moistens the lungs, benefits the kidneys. Used for weak spleen and stomach qi, fatigue and lack of strength, dry cough from weak lungs, insufficient essence and blood, and wasting-thirst from internal heat
-- **Amount**: 9-15 g (use under the guidance of a practitioner of Chinese medicine)
+- **Amount**: 9-15 g (use under the guidance of a TCM practitioner)
 - **Cautions**: raw Huangjing irritates the throat, so the medicine mostly uses processed forms such as wine-processed Huangjing (for processing see [Chinese herbal preparations](../06-pharmaceuticals/04-herbal-preparations.md)); not suitable for people with a weak spleen and excess damp, or with cough and a lot of phlegm (traditional experience)
 
 ### 1.7 Baihe (lily bulb)
@@ -209,7 +209,7 @@ Most of this group are rhizomes, root tubers and bulbs of plants in the lily fam
 - **Harvesting and processing**: dig in autumn, wash, strip off the scales, blanch briefly in boiling water, and dry
 - **Storage**: easily attacked by insects and discoloured by damp; keep sealed and dry
 - **Actions**: nourishes yin and moistens the lungs, clears the heart and calms the mind. Used for dry cough from yin deficiency, chronic cough with blood, restlessness and palpitations from deficiency, and insomnia with much dreaming
-- **Amount**: 6-12 g (use under the guidance of a practitioner of Chinese medicine)
+- **Amount**: 6-12 g (use under the guidance of a TCM practitioner)
 - **Cautions**: not suitable for wind-cold cough or for people with a weak spleen and loose stools (traditional experience)
 
 ---
@@ -229,7 +229,7 @@ Most of this group are rhizomes, root tubers and bulbs of plants in the lily fam
 - **Harvesting and processing**: dig in winter when the stems and leaves have withered, remove the fibrous roots and soil, tie into small bundles, sun-dry until shrivelled, trim the tops level, and sun-dry
 - **Storage**: prone to damp, mould, oil seepage and insects; keep dry and sealed
 - **Actions**: dispels stasis and unblocks menstruation, tonifies the liver and kidneys, strengthens sinews and bones, promotes urination and relieves painful urination, guides blood downwards. Used for absent periods, painful periods, aching lower back and knees, weak sinews and bones, painful urination disorders, oedema and similar
-- **Amount**: 5-12 g (use under the guidance of a practitioner of Chinese medicine)
+- **Amount**: 5-12 g (use under the guidance of a TCM practitioner)
 - **Cautions**: **use with caution in pregnancy** (invigorates blood and promotes menstruation); not suitable for people with heavy periods
 
 ### 2.2 Chuanniuxi (cyathula root)
@@ -246,7 +246,7 @@ Most of this group are rhizomes, root tubers and bulbs of plants in the lily fam
 - **Harvesting and processing**: dig in autumn and winter, remove the root crown, fibrous roots and soil, oven-dry or sun-dry until half dry, pile up to let the moisture even out, then oven-dry or sun-dry
 - **Storage**: protect from damp and insects
 - **Actions**: dispels stasis and unblocks menstruation, frees the joints, promotes urination and relieves painful urination. Used for absent periods, knocks and falls, rheumatic pain in the lower back and knees, blood in the urine, and painful urination with blood
-- **Amount**: 5-10 g (use under the guidance of a practitioner of Chinese medicine)
+- **Amount**: 5-10 g (use under the guidance of a TCM practitioner)
 - **Cautions**: **use with caution in pregnancy**; not suitable for people with heavy periods
 
 ### 2.3 Xuduan (teasel root)
@@ -261,7 +261,7 @@ Most of this group are rhizomes, root tubers and bulbs of plants in the lily fam
 - **Harvesting and processing**: dig in autumn, remove the root head and fibrous roots, dry over a low fire until half dry, pile up to "sweat" until the inside turns green, then oven-dry
 - **Storage**: protect from damp and insects
 - **Actions**: tonifies the liver and kidneys, strengthens sinews and bones, mends fractures, stops uterine bleeding. Used for sore, weak lower back and knees, rheumatic pain, knocks and falls, injured sinews and broken bones, abnormal uterine bleeding, and bleeding in pregnancy
-- **Amount**: 9-15 g (use under the guidance of a practitioner of Chinese medicine)
+- **Amount**: 9-15 g (use under the guidance of a TCM practitioner)
 - **Cautions**: for a fracture, first immobilise it as in [Bone injuries](../01-first-aid-and-family-health/03-bone-and-joint-injuries.md) and see a doctor; herbs are only an aid
 
 ### 2.4 Gouji (cibotium rhizome)
@@ -276,7 +276,7 @@ Most of this group are rhizomes, root tubers and bulbs of plants in the lily fam
 - **Harvesting and processing**: dig in autumn and winter, remove the soil, and dry; or remove the hard roots, leaf stalks and golden hairs, cut into thick slices and dry
 - **Storage**: protect from damp and mould
 - **Actions**: dispels wind-damp, tonifies the liver and kidneys, strengthens the lower back and knees. Used for rheumatic pain, sore and weak lower back and knees, and weakness of the legs
-- **Amount**: 6-12 g (use under the guidance of a practitioner of Chinese medicine)
+- **Amount**: 6-12 g (use under the guidance of a TCM practitioner)
 - **Cautions**: not suitable for people with heat signs such as difficult urination or a bitter mouth and dry tongue (traditional experience)
 - 🛡️ **Protection note**: *Cibotium barometz* (genus *Cibotium*) is a **Class II nationally protected wild plant** (2021 *List of Wild Plants under Key State Protection*) and is also listed in Appendix II of the Convention on International Trade in Endangered Species (CITES). **Do not dig wild plants**; digging or selling them without a permit is illegal, see [General principles – List of Wild Plants under Key State Protection](00-general-principles.md#82-list-of-wild-plants-under-state-key-protection). For medicine use only legal material from regular channels
 
@@ -292,7 +292,7 @@ Most of this group are rhizomes, root tubers and bulbs of plants in the lily fam
 - **Harvesting and processing**: can be gathered all year; remove the soil and dry, or also singe off the hairs (scales)
 - **Storage**: protect from damp and insects
 - **Actions**: heals injuries and relieves pain, tonifies the kidneys and strengthens bones; used externally to dispel wind and clear blemishes. Used for sprains and knocks, injured sinews and broken bones, lower back pain from kidney deficiency, ringing in the ears and deafness, and loose teeth
-- **Amount**: 3-9 g (use under the guidance of a practitioner of Chinese medicine)
+- **Amount**: 3-9 g (use under the guidance of a TCM practitioner)
 - **Cautions**: not suitable for people with internal heat from yin deficiency (traditional experience)
 - **Collecting note**: Drynaria grows very slowly; once all of it on a tree has been stripped it takes many years to recover. Take only part of the rhizome and leave most of it to keep growing
 
@@ -315,7 +315,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 - **Harvesting and processing**: dig in early summer when the stems and leaves have withered, remove the fibrous roots, wash, boil until no white core remains, take out and sun-dry
 - **Storage**: protect from damp and insects
 - **Actions**: invigorates blood, moves qi, relieves pain. Used for pain in the chest, flanks and abdomen, chest obstruction with heart pain, absent or painful periods, stasis after childbirth, and swelling and pain from knocks and falls
-- **Amount**: 3-10 g; ground to powder and swallowed, 1.5-3 g each time (use under the guidance of a practitioner of Chinese medicine)
+- **Amount**: 3-10 g; ground to powder and swallowed, 1.5-3 g each time (use under the guidance of a TCM practitioner)
 - **Cautions**: pregnant women should ask a doctor before use; do not combine it yourself with sedatives, sleeping pills or painkillers (all depress the central nervous system); for severe or persistent abdominal pain see a doctor first to find the cause, and do not mask it with painkillers
 
 ### 3.2 Yujin (curcuma root tuber)
@@ -331,7 +331,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 - **Harvesting and processing**: dig in winter after the stems and leaves have withered, remove the soil and fine roots, steam or boil until cooked through, and dry
 - **Storage**: protect from damp and insects, and from loss of aroma
 - **Actions**: invigorates blood and relieves pain, moves qi and relieves depression, clears the heart and cools blood, benefits the gallbladder and relieves jaundice. Used for stabbing pain in the chest and flanks, absent or painful periods, clouded consciousness in febrile disease, and jaundice with dark urine
-- **Amount**: 3-10 g (use under the guidance of a practitioner of Chinese medicine)
+- **Amount**: 3-10 g (use under the guidance of a TCM practitioner)
 - **Cautions**: **do not use with Dingxiang (clove) or Mudingxiang (mother clove)** (nineteen antagonisms); pregnant women should ask a doctor before use
 - Among the nineteen antagonisms, "Dingxiang antagonises Yujin"; for Dingxiang see [Flowers and leaves – Dingxiang](05-flowers-and-leaves.md#35-dingxiang-clove)
 
@@ -347,7 +347,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 - **Harvesting and processing**: dig in winter when the stems and leaves have withered, wash, boil or steam until cooked through, sun-dry, and remove the fibrous roots
 - **Storage**: protect from damp and insects; keep out of light (the colour fades)
 - **Actions**: breaks up blood stasis and moves qi, unblocks menstruation and relieves pain. Used for stabbing pain in the chest and flanks, chest obstruction with heart pain, painful or absent periods, rheumatic pain in the shoulders and arms, and swelling and pain from knocks and falls
-- **Amount**: 3-10 g; an appropriate amount for external use (use under the guidance of a practitioner of Chinese medicine)
+- **Amount**: 3-10 g; an appropriate amount for external use (use under the guidance of a TCM practitioner)
 - **Cautions**: a stasis-breaking herb; **pregnant women must not use it on their own**; people taking anticoagulants (warfarin) or antiplatelet drugs should not take large amounts of turmeric or curcumin supplements; ordinary amounts used as a spice in cooking are not included in this
 
 ### 3.4 Ezhu (zedoary rhizome)
@@ -362,7 +362,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 - **Harvesting and processing**: dig in winter after the stems and leaves have withered, wash, steam or boil until cooked through, sun-dry or dry at low temperature, then remove the fibrous roots and debris
 - **Storage**: protect from damp and insects
 - **Actions**: moves qi and breaks up blood stasis, disperses accumulations and relieves pain. Used for abdominal masses, absent periods from blood stasis, chest obstruction with heart pain, and bloating and pain from food stagnation
-- **Amount**: 6-9 g (use under the guidance of a practitioner of Chinese medicine)
+- **Amount**: 6-9 g (use under the guidance of a TCM practitioner)
 - **Cautions**: **forbidden in pregnancy**; not suitable for people with heavy periods or a tendency to bleed
 
 ### 3.5 Xiangfu (nutgrass rhizome)
@@ -378,7 +378,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 - **Harvesting and processing**: dig in autumn, singe off the hairs, boil briefly in water or steam through and then sun-dry, or sun-dry directly after singeing
 - **Storage**: protect from damp and from loss of aroma
 - **Actions**: soothes the liver and relieves depression, regulates qi and relaxes the middle, regulates menstruation and relieves pain. Used for distending pain in the flanks, fullness and distending pain in the upper abdomen, irregular periods, and absent or painful periods
-- **Amount**: 6-10 g (use under the guidance of a practitioner of Chinese medicine)
+- **Amount**: 6-10 g (use under the guidance of a TCM practitioner)
 - **Cautions**: not suitable for people with qi deficiency and no stagnation, or with yin deficiency and blood heat (traditional experience)
 - **Collecting note**: Xiangfu in fields is often sprayed with herbicide; do not collect it in fields or along roadsides that have just been sprayed
 
@@ -395,7 +395,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 - **Harvesting and processing**: dig in autumn and winter, remove the soil and fibrous roots, cut into sections, split large ones lengthwise, dry, and then knock off the rough bark
 - **Storage**: contains volatile oil, **prone to oil seepage and loss of aroma**; keep sealed in a cool place
 - **Actions**: moves qi and relieves pain, strengthens the spleen and aids digestion. Used for distending pain in the chest, flanks and abdomen, diarrhoea or dysentery with straining, undigested food, and loss of appetite
-- **Amount**: 3-6 g (use under the guidance of a practitioner of Chinese medicine)
+- **Amount**: 3-6 g (use under the guidance of a TCM practitioner)
 - **Cautions**: not suitable for people with yin deficiency and depleted fluids or with excess fire (traditional experience)
 - 🛡️ **Protection note**: the wild population of the source plant in its native range is very small; it is listed in CITES Appendix I and international trade is strictly restricted. For medicine always use material cultivated in China
 
@@ -412,7 +412,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 - **Harvesting and processing**: can be gathered all year; remove the fine roots, wash, slice while fresh and sun-dry, or sun-dry whole
 - **Storage**: protect from damp and from loss of aroma
 - **Actions**: moves qi and relieves pain, warms the kidneys and dispels cold. Used for distending pain in the chest and abdomen from cold and qi stagnation, rebellious qi with wheezing, cold and deficient bladder, bed-wetting and frequent urination, hernia pain, and abdominal pain from cold during periods
-- **Amount**: 6-10 g (use under the guidance of a practitioner of Chinese medicine)
+- **Amount**: 6-10 g (use under the guidance of a TCM practitioner)
 - **Cautions**: not suitable for people with qi and blood deficiency and internal heat (traditional experience)
 
 ---
@@ -432,7 +432,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 - **Harvesting and processing**: dig in late autumn when the stems and leaves have withered, or in the following spring before the buds open; remove the fine roots, scrape off the bark, cut into pieces or sections, thread on string and dry, or dry directly (dry large pieces slowly in the shade or over a low fire, to stop the inside from rotting)
 - **Storage**: protect from damp and insects
 - **Actions**: purges accumulations, clears heat and drains fire, cools blood and resolves toxicity, dispels stasis and unblocks menstruation, drains damp and relieves jaundice. Used for constipation from excess heat and accumulation, red eyes and swollen throat, abscesses, boils and sores, absent periods from blood stasis, knocks and falls, and damp-heat jaundice; used externally for burns and scalds
-- **Amount**: 3-15 g; for purging do not boil it for long; an appropriate amount for external use, ground to powder and applied to the affected area (use under the guidance of a practitioner of Chinese medicine)
+- **Amount**: 3-15 g; for purging do not boil it for long; an appropriate amount for external use, ground to powder and applied to the affected area (use under the guidance of a TCM practitioner)
 - **Cautions**:
   - The Pharmacopoeia states: **use with caution in pregnancy, during periods and while breastfeeding**. Dahuang purges and invigorates blood and can cause uterine contractions and bleeding, so **pregnant women must not use it on their own**; taken while breastfeeding it can give the baby diarrhoea
   - **Not for long-term use**: Dahuang is a stimulant laxative; taken for a long time, the bowel becomes dependent on it and constipation gets worse after stopping; it can cause pigmentation of the colon lining (melanosis coli); repeated diarrhoea loses potassium and other electrolytes, causing weakness and heart rhythm disturbances
@@ -452,7 +452,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 - **Harvesting and processing**: dig in spring and autumn, remove the fibrous roots, wash, cut into short sections or thick slices while fresh, and sun-dry
 - **Storage**: protect from damp and mould
 - **Actions**: drains damp and relieves jaundice, clears heat and resolves toxicity, disperses stasis and relieves pain, stops cough and resolves phlegm. Used for damp-heat jaundice, cloudy urine and vaginal discharge, rheumatic pain, abscesses and sores, burns and scalds, absent periods, knocks and falls, and cough from lung heat
-- **Amount**: 9-15 g; an appropriate amount for external use, made into a decoction or ointment and applied (use under the guidance of a practitioner of Chinese medicine)
+- **Amount**: 9-15 g; an appropriate amount for external use, made into a decoction or ointment and applied (use under the guidance of a TCM practitioner)
 - **Cautions**: **use with caution in pregnancy**; it contains anthraquinones, which are laxative, so it is not suitable for people with a weak spleen and loose stools; for jaundice, see a doctor first to find the cause
 
 ### 4.3 Baimaogen (cogongrass rhizome)
@@ -468,7 +468,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 - **Harvesting and processing**: dig in spring and autumn, wash, sun-dry, remove the fibrous roots and papery leaf sheaths, and tie into small bundles; also often used fresh
 - **Storage**: protect from damp, mould and insects
 - **Actions**: cools blood and stops bleeding, clears heat and promotes urination. Used for vomiting blood, nosebleeds and blood in the urine from blood heat, restlessness and thirst in febrile disease, damp-heat jaundice, oedema with scanty urine, and hot, painful urination
-- **Amount**: 9-30 g (use under the guidance of a practitioner of Chinese medicine)
+- **Amount**: 9-30 g (use under the guidance of a TCM practitioner)
 - **Cautions**: cold in nature; not suitable for people with a cold, weak spleen and stomach, or with copious urine and no thirst; **for blood in the urine or vomiting blood, see a doctor first to find the cause**
 - **Collecting note**: Baimaogen beside highways or sprayed fields may contain heavy metals and pesticide residues; collect it on waste hillsides away from pollution
 
@@ -485,7 +485,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 - **Harvesting and processing**: can be dug all year; remove the buds, fibrous roots and papery leaves; use fresh or sun-dry
 - **Storage**: dried material: protect from damp and mould; fresh material can be kept for a while buried in damp sand
 - **Actions**: clears heat and drains fire, generates fluids and relieves thirst, relieves restlessness, stops vomiting, promotes urination. Used for restlessness and thirst in febrile disease, cough from lung heat, lung abscess with coughing of pus, vomiting and retching from stomach heat, and hot, painful urination
-- **Amount**: 15-30 g; double the amount for fresh material, or pound and use the juice (use under the guidance of a practitioner of Chinese medicine)
+- **Amount**: 15-30 g; double the amount for fresh material, or pound and use the juice (use under the guidance of a TCM practitioner)
 - **Cautions**: not suitable for people with a cold, weak spleen and stomach
 - **Collecting note**: reeds accumulate heavy metals and pollutants from the water; **do not collect reeds downstream of factory outfalls, in sewage ditches, or beside black, foul-smelling water**
 
@@ -502,7 +502,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 - **Harvesting and processing**: dig in winter when the stems and leaves begin to wither, wash, dry, and remove the fibrous roots and rough skin
 - **Storage**: very starchy, **easily attacked by insects and damaged by damp**; keep sealed against insects
 - **Actions**: promotes urination and drains damp, drains heat, resolves turbidity and lowers lipids. Used for difficult urination, oedema and abdominal distension, diarrhoea with scanty urine, dizziness from phlegm and fluid retention, hot, painful urination, and high blood lipids
-- **Amount**: 6-10 g (use under the guidance of a practitioner of Chinese medicine)
+- **Amount**: 6-10 g (use under the guidance of a TCM practitioner)
 - **Cautions**: not suitable for people without damp-heat or with kidney deficiency and spermatorrhoea (traditional experience); oedema has many causes (heart, liver and kidney disease), so **see a doctor first to find the cause**; do not combine it yourself with diuretics
 
 ---
@@ -525,7 +525,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 - **Harvesting and processing**: dig in autumn and winter, remove the fibrous roots and soil, and sun-dry
 - **Storage**: contains volatile oil; protect from damp and from loss of aroma
 - **Actions**: opens the orifices and clears phlegm, restores consciousness and sharpens the mind, resolves damp and stimulates the appetite. Used for clouded consciousness and epilepsy, forgetfulness and insomnia, ringing in the ears and deafness, fullness in the upper abdomen without hunger, and dysentery with inability to eat
-- **Amount**: 3-10 g (use under the guidance of a practitioner of Chinese medicine)
+- **Amount**: 3-10 g (use under the guidance of a TCM practitioner)
 - **Cautions**: there are research reports of toxicity of β-asarone in its volatile oil, so **do not take large amounts for a long time**; pregnant women should ask a doctor before use; unconsciousness and convulsions are emergencies: call 120 first, see [Acute symptoms](../01-first-aid-and-family-health/05-acute-symptoms.md)
 
 ### 5.2 Chuanbeimu (Sichuan fritillary bulb)
@@ -543,7 +543,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 - **Harvesting and processing**: dig in summer and autumn, or after the snow melts; remove the fibrous roots, rough skin and soil; sun-dry or dry at low temperature
 - **Storage**: very starchy, **easily attacked by insects and mouldy from damp**; keep sealed against insects
 - **Actions**: clears heat and moistens the lungs, resolves phlegm and stops cough, dissipates nodules and reduces abscesses. Used for dry cough from lung heat, dry cough with little phlegm, chronic cough from yin deficiency, blood-streaked phlegm, scrofula, breast abscess and lung abscess
-- **Amount**: 3-10 g; ground to powder and taken mixed with water, 1-2 g each time (use under the guidance of a practitioner of Chinese medicine)
+- **Amount**: 3-10 g; ground to powder and taken mixed with water, 1-2 g each time (use under the guidance of a TCM practitioner)
 - **Cautions**: **do not use with Chuanwu, processed Chuanwu, Caowu, processed Caowu or Fuzi** (eighteen incompatibilities); not suitable for cold phlegm or damp phlegm; see a doctor for a cough lasting more than 3 weeks, coughing up blood, or fever that does not go away
 - 🛡️ **Protection note**: Chuanbeimu is a Class III protected species in the *List of Wild Medicinal Species under Key State Protection*; wild populations of *F. cirrhosa*, *F. unibracteata*, *F. przewalskii*, *F. delavayi* and several other *Fritillaria* species are listed in the 2021 *List of Wild Plants under Key State Protection* (Class II) (the original text of the lists takes precedence). Wild Chuanbei grows extremely slowly (more than 5 years from seed to harvest), and over-collection has severely depleted it. **Do not dig wild fritillaries**; for medicine buy cultivated material
 
@@ -562,7 +562,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 - **Harvesting and processing**: dig in early summer when the plants wither, and wash; sort by size: remove the central buds from large ones, traditionally called "Dabei"; leave the buds in small ones, traditionally called "Zhubei"; rub off the outer skin by tumbling, mix with calcined shell powder to absorb the juice, and dry; or remove the central buds, cut into thick slices while fresh and dry, traditionally called "Zhebei slices"
 - **Storage**: easily attacked by insects and damaged by damp; keep sealed
 - **Actions**: clears heat, resolves phlegm and stops cough, resolves toxicity, dissipates nodules and reduces abscesses. Used for wind-heat cough, cough from phlegm-fire, lung abscess, breast abscess, scrofula and toxic sores
-- **Amount**: 5-10 g (use under the guidance of a practitioner of Chinese medicine)
+- **Amount**: 5-10 g (use under the guidance of a TCM practitioner)
 - **Cautions**: **do not use with Chuanwu, processed Chuanwu, Caowu, processed Caowu or Fuzi** (eighteen incompatibilities); not suitable for cold phlegm or damp phlegm
 - 🛡️ **Protection note**: several wild *Fritillaria* species are under key state protection; if you see a fritillary with chequered bell-shaped flowers in the wild, never dig it
 
@@ -579,7 +579,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 - **Harvesting and processing**: dig in early spring just as the shoots appear, or in late autumn when the stems and leaves wither; remove the fibrous roots and soil, and dry
 - **Storage**: protect from damp and insects
 - **Actions**: clears heat and resolves toxicity, resolves phlegm, soothes the throat. Used for stagnation of toxic heat and phlegm-fire, sore swollen throat, copious phlegm and saliva, and cough and wheezing
-- **Amount**: 3-10 g (use under the guidance of a practitioner of Chinese medicine)
+- **Amount**: 3-10 g (use under the guidance of a TCM practitioner)
 - **Cautions**: cold in nature, not suitable for people with a weak spleen and loose stools; pregnant women should ask a doctor before use (traditional experience); a sore swollen throat with difficulty breathing, drooling or inability to swallow is an emergency: see a doctor at once
 
 ### 5.5 Shandougen (Vietnamese sophora root)
@@ -599,7 +599,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 - **Harvesting and processing**: dig in autumn, remove debris, wash and dry
 - **Storage**: store separately with a clear "toxic" label, out of reach of children
 - **Actions**: clears heat and resolves toxicity, reduces swelling and soothes the throat. Used for accumulated fire-toxin, tonsillitis and throat obstruction, sore swollen throat, swollen painful gums, and mouth and tongue sores
-- **Amount**: the Pharmacopoeia specifies 3-6 g. **Toxic: keep strictly to the Pharmacopoeia amount and do not use it on your own**; it may only be prescribed by a practitioner of Chinese medicine and obtained from a regular pharmacy
+- **Amount**: the Pharmacopoeia specifies 3-6 g. **Toxic: keep strictly to the Pharmacopoeia amount and do not use it on your own**; it may only be prescribed by a TCM practitioner and obtained from a regular pharmacy
 - **Cautions**: **do not steep it as tea, do not take it long-term, do not give it to children, do not increase the amount yourself**; not suitable for people with a cold, weak spleen and stomach, poor appetite and loose stools; not for pregnant women. If any of the signs of poisoning above appear, call 120 at once and take the herb and the dregs with you, see [General management of poisoning](09-toxic-herbs-and-poisonous-look-alikes.md#5-general-handling-of-poisoning)
 
 ### 5.6 Yuanzhi (polygala root)
@@ -614,7 +614,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 - **Harvesting and processing**: dig in spring and autumn, remove the fibrous roots and soil, and sun-dry; or pull out the woody core and sun-dry (with the core removed it forms a tube, traditionally called "Yuanzhitong")
 - **Storage**: protect from damp and insects
 - **Actions**: calms the mind and sharpens the intellect, restores communication between heart and kidneys, expels phlegm, reduces swelling. Used for insomnia with much dreaming, forgetfulness, palpitations and confused state of mind from disharmony between heart and kidneys, cough with difficult expectoration, sores and swellings, and breast swelling and pain
-- **Amount**: 3-10 g (use under the guidance of a practitioner of Chinese medicine)
+- **Amount**: 3-10 g (use under the guidance of a TCM practitioner)
 - **Cautions**: irritates the stomach, **use with caution in people with gastritis or stomach ulcers**; too much can cause nausea and vomiting (traditionally honey-fried Yuanzhi is mostly used, see [Chinese herbal preparations](../06-pharmaceuticals/04-herbal-preparations.md)); pregnant women should ask a doctor before use
 - 🛡️ **Protection note**: Yuanzhi is a Class III protected species in the *List of Wild Medicinal Species under Key State Protection* (the original text of the list takes precedence); wild stocks have clearly declined, and digging wild plants requires a herb-collecting permit; for household use buy cultivated material
 
@@ -638,7 +638,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 - **Actions**:
   - Ganjiang: warms the middle and dispels cold, restores yang and unblocks the pulse, warms the lungs and resolves fluid retention. Used for cold pain in the upper abdomen, vomiting and diarrhoea, cold limbs with a faint pulse, and wheezing and cough from cold fluid retention
   - Shengjiang: releases the exterior and dispels cold, warms the middle and stops vomiting, resolves phlegm and stops cough, counteracts fish and crab poisoning. Used for wind-cold common cold, vomiting from stomach cold, cough with cold phlegm, and fish and crab poisoning
-- **Amount**: Ganjiang 3-10 g; Shengjiang 3-10 g (use under the guidance of a practitioner of Chinese medicine; ordinary amounts used in cooking are not included in this)
+- **Amount**: Ganjiang 3-10 g; Shengjiang 3-10 g (use under the guidance of a TCM practitioner; ordinary amounts used in cooking are not included in this)
 - **Cautions**: warm and hot in nature; not suitable for people with internal heat from yin deficiency, dry mouth and sore throat, or bleeding disorders (traditional experience). Stir-fried Ganjiang, "Paojiang", has different actions, see [Chinese herbal preparations](../06-pharmaceuticals/04-herbal-preparations.md)
 
 ### 6.2 Weilingxian (Chinese clematis root)
@@ -654,7 +654,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 - **Harvesting and processing**: dig in autumn, remove the soil, and sun-dry
 - **Storage**: protect from damp
 - **Actions**: dispels wind-damp, unblocks the channels. Used for rheumatic pain, numbness of the limbs, cramped sinews, and difficulty bending and stretching
-- **Amount**: 6-10 g (use under the guidance of a practitioner of Chinese medicine)
+- **Amount**: 6-10 g (use under the guidance of a TCM practitioner)
 - **Cautions**: not suitable for people with weak qi and blood (traditional experience). There is a folk remedy of "Weilingxian boiled in vinegar for a fish bone stuck in the throat"; **do not delay over folk remedies when a fish bone is stuck in the throat**, and do not force it down by swallowing a lump of rice; see [Foreign bodies](../01-first-aid-and-family-health/04-foreign-bodies-and-choking.md)
 
 ### 6.3 Qinjiao (large-leaf gentian root)
@@ -670,7 +670,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 - **Harvesting and processing**: dig in spring and autumn and remove the soil; Qinjiao and Mahuajiao are sun-dried until soft, piled up to "sweat" until the surface turns reddish-yellow or greyish-yellow, then spread out and sun-dried, or sun-dried directly without sweating; Xiaoqinjiao has the black skin rubbed off while fresh and is then sun-dried
 - **Storage**: protect from damp and mould
 - **Actions**: dispels wind-damp, clears damp-heat, relieves rheumatic pain, relieves deficiency heat. Used for rheumatic pain, hemiplegia after stroke, cramped sinews, aching joints, damp-heat jaundice, steaming-bone tidal fever, and fever from malnutrition in children
-- **Amount**: 3-10 g (use under the guidance of a practitioner of Chinese medicine)
+- **Amount**: 3-10 g (use under the guidance of a TCM practitioner)
 - **Cautions**: not suitable for people weakened by long illness or with loose stools (traditional experience)
 - 🛡️ **Protection note**: Qinjiao is a Class III protected species in the *List of Wild Medicinal Species under Key State Protection* (the original text of the list takes precedence); wild stocks have declined, and digging wild plants requires a herb-collecting permit; for household use buy cultivated material
 
@@ -691,7 +691,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 - **Harvesting and processing**: dig in autumn, wash, remove the rough bark, sun-dry until half dry, cut into sections, split large ones lengthwise, and dry
 - **Storage**: protect from damp and insects
 - **Actions**: dispels wind and relieves pain, promotes urination and reduces swelling. Used for rheumatic pain, oedema and beriberi, difficult urination, and eczema and toxic sores
-- **Amount**: 5-10 g (use under the guidance of a practitioner of Chinese medicine)
+- **Amount**: 5-10 g (use under the guidance of a TCM practitioner)
 - **Cautions**: bitter and cold in nature; not suitable for people with poor appetite or who are weak from yin deficiency (traditional experience); for oedema, see a doctor first to find the cause; people with kidney disease must not use any "Fangji" on their own
 
 ### 6.5 Baiji (bletilla tuber)
@@ -708,7 +708,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 - **Harvesting and processing**: dig in summer and autumn, remove the fibrous roots, wash, boil or steam until no white core remains, sun-dry until half dry, remove the outer skin, and sun-dry
 - **Storage**: protect from damp and insects
 - **Actions**: astringes and stops bleeding, reduces swelling and promotes healing. Used for coughing up blood, vomiting blood, bleeding from wounds, sores and swellings, and chapped skin
-- **Amount**: 6-15 g; ground to powder and swallowed, 3-6 g; an appropriate amount for external use (use under the guidance of a practitioner of Chinese medicine)
+- **Amount**: 6-15 g; ground to powder and swallowed, 3-6 g; an appropriate amount for external use (use under the guidance of a TCM practitioner)
 - **Cautions**: **do not use with Chuanwu, processed Chuanwu, Caowu, processed Caowu or Fuzi** (eighteen incompatibilities); **coughing up or vomiting blood is an emergency**: see a doctor first and do not rely only on styptic herbs; for bleeding from a wound, first apply pressure as in [Wounds and injuries](../01-first-aid-and-family-health/02-wounds-and-injuries.md)
 - 🛡️ **Protection note**: wild Baiji is listed in the 2021 *List of Wild Plants under Key State Protection* (Class II) (the original text of the list takes precedence); all orchids are listed in the CITES appendices. Wild Baiji has become rare through over-collection; **do not dig wild plants**; for medicine and for growing use cultivated seedlings
 

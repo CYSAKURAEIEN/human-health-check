@@ -139,7 +139,7 @@ Sowing:
 - Above about 40°C inside the heap the sprouts "burn" (smell of alcohol, yellow shoots);
   feel the temperature often
 - After sowing, press the seed gently into the mud with a board or your palm,
-  then scatter a thin layer of plant ash or fine soil
+  then scatter a thin layer of wood ash or fine soil
 
 Care:
 ✓ Keep shallow water
@@ -227,7 +227,7 @@ How:
   (use the higher figure for broadcasting)
 - The field must be level; drain standing water before sowing, keep moist but not flooded
   after sowing, and only put on shallow water once the seedlings have 2-3 leaves
-- Birds and rats eat the seed: cover it with fine soil or plant ash after sowing, and keep watch
+- Birds and rats eat the seed: cover it with fine soil or wood ash after sowing, and keep watch
 - Weeds come up together with the rice; weed often, or suppress weeds with a water layer
   once the rice seedlings are established
 ```
@@ -291,9 +291,9 @@ Base fertiliser (when preparing the field):
 - Mainly organic
 - Well-rotted farmyard manure
 - About 15000-30000 kg/ha (about 1.5-3 kg per square metre), turned in when preparing the field
-- In fields short of potassium (old leaves yellow and scorched at tips and edges) add plant ash
+- In fields short of potassium (old leaves yellow and scorched at tips and edges) add wood ash
   at about 75-150 g/m²
-  (do not heap plant ash together with manure or urine – it turns the nitrogen into ammonia gas, which escapes)
+  (do not heap wood ash together with manure or urine – it turns the nitrogen into ammonia gas, which escapes)
 
 Top-dressing:
 - Tillering feed (7-10 days after transplanting)
@@ -447,7 +447,7 @@ A more exact rule for winter wheat:
   Yangtze basin late October to early November
 
 Spring wheat: sow as soon as the soil has thawed about 5-7 cm deep and can be harrowed
-              ("sowing on the frost"); the earlier the better – late sowing clearly cuts yield
+              ("sowing on the thaw"); the earlier the better – late sowing clearly cuts yield
 
 Method:
 - Drilled in rows (20-25 cm apart)
@@ -500,7 +500,7 @@ Details:
 - Rolling: on loose, cloddy land, roll once with a stone or wooden roller to crush clods and close
   cracks, so cold winter wind cannot get into the roots and leave them "hanging" and frozen;
   do not roll when the soil is too wet
-- Winter manure: around the start of winter, spread well-rotted farmyard manure or plant ash between
+- Winter manure: around the start of winter, spread well-rotted farmyard manure or wood ash between
   the wheat rows; it feeds the crop and covers the soil to keep it warm
 - In winter do not let livestock into the wheat to graze or trample it
 ```
@@ -859,7 +859,7 @@ Kernels:
    feed it to livestock (aflatoxin, not destroyed by heating)
 ```
 
-For shelling and grinding, see [Grain and oil processing - Maize](../07-everyday-living-skills/14-grain-and-oil-processing.md#maize). **If maize is your main staple for a long time, first boil it with lime water or plant-ash lye**, or pellagra can easily result; see [Nutrition and deficiency diseases - Niacin](../07-everyday-living-skills/02-nutrition-and-deficiency-diseases.md#niacin-treat-maize-with-alkali-before-eating-it). For mould, see [Food processing and preservation - Aflatoxin](../07-everyday-living-skills/01-food-processing-and-preservation.md#aflatoxin).
+For shelling and grinding, see [Grain and oil processing - Maize](../07-everyday-living-skills/14-grain-and-oil-processing.md#maize). **If maize is your main staple for a long time, first boil it with lime water or wood-ash lye**, or pellagra can easily result; see [Nutrition and deficiency diseases - Niacin](../07-everyday-living-skills/02-nutrition-and-deficiency-diseases.md#niacin-treat-maize-with-alkali-before-eating-it). For mould, see [Food processing and preservation - Aflatoxin](../07-everyday-living-skills/01-food-processing-and-preservation.md#aflatoxin).
 
 ---
 
@@ -894,7 +894,7 @@ Seed potatoes:
 - About 1500-2250 kg/ha (about 150-225 g per square metre)
 - Cut large tubers into pieces of about 25-40 g, each with 1-2 eyes; small tubers
   (under about 50 g) are best planted whole
-- Toss the cut pieces in dry plant ash and spread them in a cool place for 1-2 days so the cut
+- Toss the cut pieces in dry wood ash and spread them in a cool place for 1-2 days so the cut
   surfaces heal, to stop them rotting
 - If you cut into a tuber with a black ring, a brown ring or rot, disinfect the knife in boiling water
   or alcohol before cutting the next one
@@ -984,7 +984,7 @@ Planting:
 Care:
 - Hoe 1-2 times before the canopy closes
 - Do not give much nitrogen: too much grows only vines and leaves, no roots
-- Plant ash (potassium) works best for sweet potato, about 75-150 g/m²
+- Wood ash (potassium) works best for sweet potato, about 75-150 g/m²
 - Harvest: before the local first frost, or when the daily mean temperature falls to about 15°C;
   handle gently when digging, and eat broken-skinned roots first
 ```
@@ -1065,7 +1065,7 @@ Depth: 3-5 cm
 - Hoe 2-3 times at the seedling stage, finishing before the canopy closes
 - From flowering to pod filling (beans swelling) is when it needs most water; drought makes many
   flowers and pods drop
-- If leaves turn yellow at flowering, give a little plant ash and phosphate (such as bone meal);
+- If leaves turn yellow at flowering, give a little wood ash and phosphate (such as bone meal);
   give nitrogen only in small amounts when clearly short
 ```
 
@@ -1092,12 +1092,12 @@ On new land that has never grown soya:
 - Take topsoil from an old field that grew soya with good nodules, and mix it with the seed
   (about equal amounts of soil and seed, moistened with a little clean water); mix in the shade
   and sow at once
-- The bacteria are killed by sun, drying, and direct contact with lime or plant ash; do not put the
+- The bacteria are killed by sun, drying, and direct contact with lime or wood ash; do not put the
   mixed seed in the sun
 
 Conditions for good nodules:
 ✓ Soil not too acid (improve acid soil with lime first)
-✓ Enough phosphorus, potassium and calcium; plant ash and bone meal help
+✓ Enough phosphorus, potassium and calcium; wood ash and bone meal help
 ✓ Well-aerated soil, not waterlogged for long
 ```
 
@@ -1373,7 +1373,7 @@ Organic fertiliser (the main source after a disaster):
   needs of about 300-400 m² of grain for one crop
 - Human faeces: must be stored for a long time or hot-composted before use; use on grain crops,
   applied into the soil
-- Plant ash (potassium): about 75-150 g/m²; strongly alkaline – do not mix or store it with manure,
+- Wood ash (potassium): about 75-150 g/m²; strongly alkaline – do not mix or store it with manure,
   urine or ammonium nitrogen fertilisers, and do not let it touch seed that has been mixed with
   root nodule bacteria
 - Bone meal (phosphorus): burn or boil bones, then crush and grind them to powder
@@ -1391,7 +1391,7 @@ Reading leaf colour to find what is lacking:
 - Acid soil (many crops grow poorly, beans have few nodules) → spread lime to improve it
 ```
 
-For the safe use of human waste, see [Sanitation - Using faeces and urine](../07-everyday-living-skills/03-sanitation.md#using-faeces-and-urine); for how to make compost, see [Farming and animal husbandry - Soil improvement](README.md#improving-soil); for liming soil, see [Lime and building materials - Improving acid soil](../07-everyday-living-skills/16-lime-and-building-materials.md#improving-acid-soil); for the chemistry of nitrogen fertiliser, see [Chemistry - Nitrogen fertiliser and ammonia synthesis](../08-basic-science/03-chemistry.md#410-nitrogen-fertiliser-and-ammonia-synthesis); for soil conservation, see [Geology, minerals and soil - Protecting the soil](../08-basic-science/06-geology-minerals-and-soil.md#55-protecting-the-soil).
+For the safe use of human waste, see [Sanitation - Using faeces and urine](../07-everyday-living-skills/03-sanitation.md#using-faeces-and-urine); for how to make compost, see [Growing plants and raising animals - Improving soil](README.md#improving-soil); for liming soil, see [Lime and building materials - Improving acid soil](../07-everyday-living-skills/16-lime-and-building-materials.md#improving-acid-soil); for the chemistry of nitrogen fertiliser, see [Chemistry - Nitrogen fertiliser and ammonia synthesis](../08-basic-science/03-chemistry.md#410-nitrogen-fertiliser-and-ammonia-synthesis); for soil conservation, see [Geology, minerals and soil - Protecting the soil](../08-basic-science/06-geology-minerals-and-soil.md#55-protecting-the-soil).
 
 ### Principles of pest and disease control
 
@@ -1522,5 +1522,5 @@ Total about 30-45 working days a year
 
 ---
 
-**Next chapter**: [Growing Fruit Trees](03-fruit-trees.md)
+**Next chapter**: [Fruit trees](03-fruit-trees.md)
 **Back**: [Chapter index](README.md) | [Main contents](../../README.md)

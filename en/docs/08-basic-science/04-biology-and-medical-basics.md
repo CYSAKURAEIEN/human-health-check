@@ -485,7 +485,7 @@ Isolation and quarantine:
 - ⏭️ [The periodic table](05-periodic-table.md)
 - 🔗 [Infectious disease at home](../01-first-aid-and-family-health/15-infectious-disease-at-home.md) - germ theory in practice
 - 🔗 [Nutrition and deficiency diseases](../07-everyday-living-skills/02-nutrition-and-deficiency-diseases.md) - preventing deficiency diseases
-- 🔗 [Farming and animal husbandry](../04-farming-and-animal-husbandry/README.md) - selection and breeding, crop rotation, fertilising
+- 🔗 [Growing Plants and Raising Animals](../04-farming-and-animal-husbandry/README.md) - selection and breeding, crop rotation, fertilising
 - 🔗 [Pharmaceuticals](../06-pharmaceuticals/README.md) - disinfection, antibiotics, medicines
 
 ---

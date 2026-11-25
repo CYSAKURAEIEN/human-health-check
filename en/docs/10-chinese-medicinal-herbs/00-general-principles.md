@@ -58,7 +58,7 @@ recognise the plant (this part) → collect at the right time (this part)
   → processing at the place of origin, drying (this part)
   → storage (this part) → processing (TCM preparations)
   → making up the formula, decocting (TCM preparations)
-  → taking it under the guidance of a practitioner of Chinese medicine
+  → taking it under the guidance of a TCM practitioner
 
 Grow whatever can be grown (medicinal plants chapter):
 wild resources are limited and species are easily confused;
@@ -81,13 +81,13 @@ Collection, processing: when to collect, which part, how to dry it
 Storage:                protect against damp, insects, mould and oiling
 Actions:                one sentence
 Dose:                   usual Pharmacopoeia dose; use under the guidance of a
-                        practitioner of Chinese medicine
+                        TCM practitioner
 Contraindications:      pregnancy, children, liver and kidney disease,
                         taking with Western medicines, etc.
 🛡️ Protection reminder: species under state key protection or with restricted digging
 ```
 
-**How to read the doses**: the doses given in the later chapters are the usual **daily adult** doses of the herb in the Pharmacopoeia of the People's Republic of China (2020 edition) (generally of the dried herb, decocted in water and taken by mouth). They are only there to remind you "do not exceed this"; they are not an invitation to treat yourself (see [7.1](#71-what-the-pharmacopoeia-dose-means) for details). The edition now in force is the 2025 edition; this handbook has not yet been compared item by item with its text, so for actual use the current edition and the advice of a practitioner of Chinese medicine take precedence.
+**How to read the doses**: the doses given in the later chapters are the usual **daily adult** doses of the herb in the Pharmacopoeia of the People's Republic of China (2020 edition) (generally of the dried herb, decocted in water and taken by mouth). They are only there to remind you "do not exceed this"; they are not an invitation to treat yourself (see [7.1](#71-what-the-pharmacopoeia-dose-means) for details). The edition now in force is the 2025 edition; this handbook has not yet been compared item by item with its text, so for actual use the current edition and the advice of a TCM practitioner take precedence.
 
 **How toxic Chinese medicines are written up**: for toxic herbs such as *Wutou* (aconite main root), *Fuzi* (processed aconite lateral root), *Maqianzi* (nux vomica), raw *Banxia* (pinellia tuber), *Tiannanxing* (arisaema tuber), *Leigongteng* (thunder god vine), *Zhusha* (cinnabar) and *Xionghuang* (realgar), this part **only describes how to recognise them, what poison they contain and what poisoning looks like**. It does not give detoxifying processing methods, directions for use or doses — at home you cannot tell whether the toxicity has been removed, so these medicines must only be prescribed by a doctor and obtained from a proper pharmacy.
 
@@ -300,7 +300,7 @@ Note:
   pass both steps
 ✓ Check at least 3 features for each herb; only when all match is it identified
 ✓ The first time you collect a herb, ideally go with someone experienced
-  (a herb grower, a practitioner of Chinese medicine)
+  (a herb grower, a TCM practitioner)
 ✓ Bag each batch you collect separately and label it at once: name, place
   collected, date
 ✓ When collecting, photograph the whole plant (flowers, leaves, roots) so you
@@ -732,11 +732,11 @@ When reading the doses in the later chapters, note:
    this part gives no doses for toxic Chinese medicines
 4. Fresh and dried herbs differ; Pharmacopoeia doses generally mean the dried
    herb (except where fresh herb is specified)
-5. "Use under the guidance of a practitioner of Chinese medicine" — this
+5. "Use under the guidance of a TCM practitioner" — this
    counts every time it appears
 ```
 
-**Editions of the Pharmacopoeia**: the Chinese Pharmacopoeia is revised about every 5 years. The 2025 edition was issued in March 2025 by the National Medical Products Administration and the National Health Commission, came into force on 1 October 2025 and replaced the 2020 edition. Volume I (Chinese medicines) of the 2025 edition contains 3069 monographs: 28 new, 420 revised and 19 no longer included (all of those dropped are Chinese patent medicines, none are herbs). For herbs and prepared slices, the main changes are standardised names and sources, added test items for prepared slices, and stricter tests for pesticide residues and other external contaminants. The sources, doses and toxicity notes for each herb in this handbook were checked against the 2020 edition, and the names, scientific names or doses of individual herbs may have been revised; **for actual use, the text of the current Pharmacopoeia and the advice of a practitioner of Chinese medicine take precedence**.
+**Editions of the Pharmacopoeia**: the Chinese Pharmacopoeia is revised about every 5 years. The 2025 edition was issued in March 2025 by the National Medical Products Administration and the National Health Commission, came into force on 1 October 2025 and replaced the 2020 edition. Volume I (Chinese medicines) of the 2025 edition contains 3069 monographs: 28 new, 420 revised and 19 no longer included (all of those dropped are Chinese patent medicines, none are herbs). For herbs and prepared slices, the main changes are standardised names and sources, added test items for prepared slices, and stricter tests for pesticide residues and other external contaminants. The sources, doses and toxicity notes for each herb in this handbook were checked against the 2020 edition, and the names, scientific names or doses of individual herbs may have been revised; **for actual use, the text of the current Pharmacopoeia and the advice of a TCM practitioner take precedence**.
 
 ### 7.2 "Natural" does not mean "non-toxic"
 
@@ -781,7 +781,7 @@ Guangui (cassia bark) and Shizhi (halloysite), Renshen and Wulingzhi
 
 What this means: do not combine herbs you have collected yourself;
 if you are not sure whether they can be used together, do not decoct them
-together — ask a practitioner of Chinese medicine
+together — ask a TCM practitioner
 ```
 
 ### 7.4 Herbs forbidden or to be used with caution in pregnancy
@@ -800,7 +800,7 @@ Broad categories:
 
 Principles:
 - In pregnancy, use any Chinese medicine only under the guidance of a
-  practitioner of Chinese medicine or a doctor; avoid medicines as far as
+  TCM practitioner or a doctor; avoid medicines as far as
   possible in the first 3 months
 - Breastfeeding: most medicines pass into breast milk; ask a doctor before
   using them
@@ -1009,7 +1009,7 @@ Before collecting a herb, confirm each point:
 - [ ] I will collect only part and leave the parent plants and seed
 - [ ] I know how to dry it, how to tell it is thoroughly dry and how to store it
 - [ ] I know its usual Pharmacopoeia dose and who must not take it
-- [ ] Before using it I will ask a practitioner of Chinese medicine or a doctor to confirm
+- [ ] Before using it I will ask a TCM practitioner or a doctor to confirm
 
 | Stage | Difficulty | Risk of error |
 |------|------|----------|

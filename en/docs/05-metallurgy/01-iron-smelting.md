@@ -1086,7 +1086,7 @@ The furnace can be used many times; from the second smelt on, usually only 1-2 d
 Wood is the real bottleneck: 1 kg of charcoal takes about 4-7 kg of air-dried wood;
   1 kg of iron usually takes about 8-10 kg of charcoal, tens of kg when things go badly,
   and forging and heat treatment need more on top
-→ Long-term iron making requires planning a rotationally coppiced fuel wood first
+→ Long-term iron making means first planning a fuelwood plot felled in rotation
 ```
 
 For how big a woodland you need and how to rotate cutting see [Firewood and Woodland Management](../04-farming-and-animal-husbandry/09-firewood-and-woodland-management.md).

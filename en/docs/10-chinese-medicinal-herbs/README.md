@@ -27,8 +27,8 @@ How it divides the work with other chapters:
 
 ## ⚠️ Notes
 
-- This part is an educational reference and does not replace seeing a doctor; doses are the usual adult ranges in the Chinese Pharmacopoeia (2020 edition); use medicines only under the guidance of a practitioner of Chinese medicine
-- The edition now in force is the 2025 edition of the Chinese Pharmacopoeia (in effect from 1 October 2025); the sources, doses and toxicity notes for each herb in this part were checked against the 2020 edition and have not yet been compared item by item with the 2025 text; for actual use, the current edition and the advice of a practitioner of Chinese medicine take precedence (see [General principles 7.1](00-general-principles.md#71-what-the-pharmacopoeia-dose-means))
+- This part is an educational reference and does not replace seeing a doctor; doses are the usual adult ranges in the Chinese Pharmacopoeia (2020 edition); use medicines only under the guidance of a TCM practitioner
+- The edition now in force is the 2025 edition of the Chinese Pharmacopoeia (in effect from 1 October 2025); the sources, doses and toxicity notes for each herb in this part were checked against the 2020 edition and have not yet been compared item by item with the 2025 text; for actual use, the current edition and the advice of a TCM practitioner take precedence (see [General principles 7.1](00-general-principles.md#71-what-the-pharmacopoeia-dose-means))
 - **Never pick, use or taste any plant you cannot identify with certainty**; for toxic Chinese medicines only identification and toxicity are given, never how to use them
 - Do not dig up or buy wild protected species, and do not use medicines made from protected animals
 

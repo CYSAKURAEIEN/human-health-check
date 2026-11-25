@@ -285,7 +285,7 @@ For the warning signs of landslides and debris flows see [Geological Disasters](
 - 🔗 [Metallurgy Basics – Identifying and collecting ores](../05-metallurgy/00-metallurgy-basics.md#5-identifying-and-collecting-ore)
 - 🔗 [Water Supply Engineering](../07-everyday-living-skills/10-water-supply.md) - once you have found groundwater
 - 🔗 [Long-Term Housing](../07-everyday-living-skills/05-long-term-shelter.md) - choosing a site, choosing soil, building materials
-- 🔗 [Farming and Animal Husbandry](../04-farming-and-animal-husbandry/README.md) - soil and growing crops
+- 🔗 [Growing Plants and Raising Animals](../04-farming-and-animal-husbandry/README.md) - soil and growing crops
 
 ---
 

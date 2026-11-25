@@ -1157,7 +1157,7 @@ Common plants rabbits like, and what not to feed:
   sweet-potato vines, peanut haulm, mulberry leaves, black locust (Robinia) leaves, elm
   leaves; in autumn and winter hay and dried tree leaves
 ✓ Root crops such as carrot, sweet potato and pumpkin in moderation, as juicy winter feed
-❌ Poisonous or harmful: oleander, rhododendron, thorn apple (Datura), hemlock, castor
+❌ Poisonous or harmful: oleander, rhododendron, thorn apple (Datura), water hemlock, castor
    leaves, potato sprouts and green skin, sprouted potatoes, frost-bitten vegetable leaves,
    grass and vegetables recently sprayed with pesticide
 ❌ Do not feed plants you do not know; do not cut grass from roadsides or places sprayed with
@@ -1416,8 +1416,8 @@ Output:
 - Price: 20 yuan/kg (live rabbits; fluctuates widely)
 - Income: about 10000-16000 yuan
 
-Net profit: about -1000 to 8000 yuan in the first year (you may make a loss if things go badly); after that you save the cost of breeding
-            stock and cages
+Net profit: about -1000 to 8000 yuan in the first year (you may make a loss if things
+            go badly); after that you save the cost of breeding stock and cages
 
 Notes:
 - Returns depend heavily on survival rate, feed prices and market outlets
@@ -1444,7 +1444,7 @@ Think first about whether to keep one:
 ### Keeping cattle: key points
 
 ```
-How much they eat (example: a draught yellow cattle of about 400 kg):
+How much they eat (example: a draught ox of the native "yellow cattle" type, about 400 kg):
 - About 30-40 kg of fresh grass a day, or about 8-10 kg of hay/straw a day (about 2%-2.5% of
   body weight)
 - On working days add about 1-2 kg of concentrates (maize, soybean cake, wheat bran); start
@@ -1628,7 +1628,7 @@ People who keep livestock are more likely than others to catch diseases from ani
 
 **Protecting yourself against brucellosis**:
 ```
-✓ Wear gloves (ideally long-sleeved gloves) and a mask when helping at births, handling aborted
+✓ Wear gloves (ideally elbow-length gloves) and a mask when helping at births, handling aborted
   foetuses and afterbirths, or reaching into the womb of a female animal
 ✓ Do not help at births with cuts on your hands, or dress them well before putting on gloves
 ✓ Bag aborted foetuses, afterbirths and bedding, bury them deep and cover with quicklime;
