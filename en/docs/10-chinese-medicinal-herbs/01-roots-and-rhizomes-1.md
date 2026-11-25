@@ -99,7 +99,7 @@ This group contains the most commonly used *qi* tonics. They have very low toxic
 - **Storage**: High in sugar and starch, so it easily absorbs moisture, moulds and is attacked by insects; seal it and keep it in a cool, dry place; small amounts can be kept in the fridge
 - **Actions**: Greatly tonifies primal *qi*, restores the pulse and rescues from collapse, tonifies the spleen and benefits the lungs, generates fluids and nourishes blood, calms the mind and benefits intelligence
 - **Dose**: 3-9 g, decocted separately and added to the decoction; or ground to powder and swallowed, 2 g a time, twice a day (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Cautions**: Do not use together with *Lilu* (Veratrum) or *Wulingzhi* (flying squirrel droppings); not suitable for fever, excess patterns, or yin deficiency with flaring fire; people with high blood pressure or insomnia, or who are taking diabetes medicines or anticoagulants such as warfarin, should ask a doctor before use; do not give children tonics on your own initiative
+- **Cautions**: Do not use together with *Lilu* (false hellebore) or *Wulingzhi* (flying squirrel droppings); not suitable for fever, excess patterns, or yin deficiency with flaring fire; people with high blood pressure or insomnia, or who are taking diabetes medicines or anticoagulants such as warfarin, should ask a doctor before use; do not give children tonics on your own initiative
 - 🛡️ **Protection note**: Wild ginseng is a Class II species on the "List of Wild Medicinal Species under State Key Protection", and wild species of the genus *Panax* are also on the 2021 "List of Wild Plants under State Key Protection" (the wording of the lists prevails for the class). **Wild ginseng must not be dug or traded**; what proper pharmacies sell is garden ginseng or forest-grown mountain ginseng, and that is enough
 
 ![Ginseng and pokeweed compared](../../images/ginseng-vs-pokeweed.svg)
@@ -120,7 +120,7 @@ This group contains the most commonly used *qi* tonics. They have very low toxic
 - **Storage**: As for ginseng, easily attacked by insects and damp; seal and keep out of light
 - **Actions**: Tonifies *qi* and nourishes yin, clears heat and generates fluids
 - **Dose**: 3-6 g, decocted separately and added to the decoction (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Cautions**: Do not use together with *Lilu* (Veratrum); it is cool in nature, so not suitable for people with a cold, weak spleen and stomach or diarrhoea; ask a doctor before using it with diabetes medicines or anticoagulants
+- **Cautions**: Do not use together with *Lilu* (false hellebore); it is cool in nature, so not suitable for people with a cold, weak spleen and stomach or diarrhoea; ask a doctor before using it with diabetes medicines or anticoagulants
 - 🛡️ **Protection note**: Wild American ginseng occurs only in North America and is listed in Appendix II of the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES); in China only cultivated plants exist
 
 ### 1.3 Dangshen (codonopsis root)
@@ -137,7 +137,7 @@ This group contains the most commonly used *qi* tonics. They have very low toxic
 - **Storage**: High in sugar, so it is **prone to damp, mould, insect damage and oiling (turning soft and sticky)**; seal once fully dry, keep somewhere cool and check often
 - **Actions**: Strengthens the spleen and benefits the lungs, nourishes blood and generates fluids
 - **Dose**: 9-30 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Cautions**: Do not use together with *Lilu* (Veratrum); not suitable on its own for excess or heat patterns
+- **Cautions**: Do not use together with *Lilu* (false hellebore); not suitable on its own for excess or heat patterns
 - 🛡️ **Protection note**: Wild Sichuan *Dangshen* is on the 2021 "List of Wild Plants under State Key Protection" (the wording of the list prevails); do not dig wild *Dangshen*. For growing it see [Medicinal plants](../04-farming-and-animal-husbandry/04-medicinal-plants.md)
 
 ### 1.4 Huangqi (astragalus root)
@@ -241,7 +241,7 @@ This group is mostly related to menstruation, bleeding and blood stasis. **Blood
 - **Storage**: Protect from damp and insects; keep somewhere dry
 - **Actions**: Nourishes blood and regulates menstruation, preserves yin and stops sweating, softens the liver and relieves pain, calms liver yang
 - **Dose**: 6-15 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Cautions**: Do not use together with *Lilu* (Veratrum); use with caution for abdominal pain from deficiency cold, or diarrhoea
+- **Cautions**: Do not use together with *Lilu* (false hellebore); use with caution for abdominal pain from deficiency cold, or diarrhoea
 
 ### 2.3 Chishao (red peony root)
 
@@ -257,7 +257,7 @@ This group is mostly related to menstruation, bleeding and blood stasis. **Blood
 - **Storage**: Protect from damp and insects
 - **Actions**: Clears heat and cools blood, disperses stasis and relieves pain
 - **Dose**: 6-12 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Cautions**: Do not use together with *Lilu* (Veratrum); not suitable for absent periods due to blood cold; pregnant women, women with heavy periods and people who bleed easily use only under a doctor's guidance
+- **Cautions**: Do not use together with *Lilu* (false hellebore); not suitable for absent periods due to blood cold; pregnant women, women with heavy periods and people who bleed easily use only under a doctor's guidance
 - 🛡️ **Protection note**: Most commercial *Chishao* is wild-collected, and wild stocks in Inner Mongolia and other producing areas have clearly declined; do not dig out whole patches, and follow local rules when digging
 
 ### 2.4 Chuanxiong (Sichuan lovage rhizome)
@@ -341,7 +341,7 @@ This group is mostly related to menstruation, bleeding and blood stasis. **Blood
 - **Storage**: Protect from damp and mould; keep somewhere dry
 - **Actions**: Activates blood and removes stasis, unblocks the channels and relieves pain, clears the heart and relieves restlessness, cools blood and reduces abscesses
 - **Dose**: 10-15 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Cautions**: Do not use together with *Lilu* (Veratrum); use with caution in pregnancy, heavy periods or a tendency to bleed; **using it together with anticoagulant or antiplatelet drugs such as warfarin or aspirin may increase the risk of bleeding**; people with coronary heart disease or chest pain must not use *Danshen* in place of hospital treatment — if chest pain starts, call 120 at once
+- **Cautions**: Do not use together with *Lilu* (false hellebore); use with caution in pregnancy, heavy periods or a tendency to bleed; **using it together with anticoagulant or antiplatelet drugs such as warfarin or aspirin may increase the risk of bleeding**; people with coronary heart disease or chest pain must not use *Danshen* in place of hospital treatment — if chest pain starts, call 120 at once
 
 ### 2.8 Sanqi (notoginseng)
 
@@ -624,7 +624,7 @@ This group is used for colds with fever, headache and body aches, rheumatic pain
 - **Storage**: Loose in texture, so it is **easily attacked by insects and damp**; keep somewhere dry
 - **Actions**: Nourishes yin and clears the lungs, benefits the stomach and generates fluids, resolves phlegm, tonifies *qi*
 - **Dose**: 9-15 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Cautions**: Do not use together with *Lilu* (Veratrum); not suitable for wind-cold cough, copious thin phlegm, or a cold, weak spleen and stomach
+- **Cautions**: Do not use together with *Lilu* (false hellebore); not suitable for wind-cold cough, copious thin phlegm, or a cold, weak spleen and stomach
 
 ### 5.5 Beishashen (glehnia root)
 
@@ -640,7 +640,7 @@ This group is used for colds with fever, headache and body aches, rheumatic pain
 - **Storage**: Easily attacked by insects and damp; keep somewhere dry
 - **Actions**: Nourishes yin and clears the lungs, benefits the stomach and generates fluids
 - **Dose**: 5-12 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Cautions**: Do not use together with *Lilu* (Veratrum); not suitable for wind-cold cough, a cold, weak spleen and stomach, or heavy phlegm-damp
+- **Cautions**: Do not use together with *Lilu* (false hellebore); not suitable for wind-cold cough, a cold, weak spleen and stomach, or heavy phlegm-damp
 - 🛡️ **Protection note**: Wild *Shanhucai* (glehnia) is a wild plant under state key protection (the wording of the 2021 list prevails), and destruction of beach habitat has left very few wild populations. **Do not dig wild *Shanhucai***; what is on sale is cultivated
 
 ---

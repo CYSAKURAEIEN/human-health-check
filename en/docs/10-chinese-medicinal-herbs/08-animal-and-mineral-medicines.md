@@ -380,7 +380,7 @@ Common reminders for insect and worm medicines:
   - **When kept for a long time or chilled, white granular crystals gradually form** — crystallisation is normal and is not evidence that sugar has been added
   - Aromatic smell, very sweet taste; honey from different nectar sources (black locust, vitex, jujube, rape) differs in colour and aroma
 - **Fakes**: **Adding syrup (high-fructose corn syrup, rice syrup)** is the most common fake. Folk tests such as "drawing threads", "dripping on paper" or "setting it alight" are not reliable; only a laboratory can test it. Buy from **beekeepers whose source you know, or products that meet a standard**
-- **⚠️ Poisonous honey**: If bees gather nectar from poisonous plants, the honey they make can poison people. Known poisonous nectar sources include ***Leigongteng* (thunder god vine), Kunming Shanhaitang, *Gouwen* (gelsemium, "heartbreak grass"), Boluohui (plume poppy), rhododendrons such as *Naoyanghua* (*Rhododendron molle*), *Lilu* (Veratrum) and *Wutou* (aconite)**.
+- **⚠️ Poisonous honey**: If bees gather nectar from poisonous plants, the honey they make can poison people. Known poisonous nectar sources include ***Leigongteng* (thunder god vine), Kunming Shanhaitang, *Gouwen* (gelsemium, "heartbreak grass"), Boluohui (plume poppy), rhododendrons such as *Naoyanghua* (*Rhododendron molle*), *Lilu* (false hellebore) and *Wutou* (aconite)**.
   - The highest risk is from **wild bee nests in the mountains, "local honey" of unknown origin, and apiaries with large stands of poisonous plants nearby in the flowering season**
   - Signs of poisoning: from tens of minutes to a few hours after eating, numbness of the mouth and tongue, dizziness, nausea and vomiting, abdominal pain and diarrhoea, palpitations; in severe cases a fall in blood pressure, heart rhythm problems, shock and even death (honey from thunder god vine can cause kidney failure)
   - **Do not eat honey that tastes bitter, astringent or numbing**; if the symptoms above appear after eating honey, see a doctor at once and take the remaining honey with you. For identifying these poisonous plants see [Toxic Herbs and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md)
@@ -797,7 +797,7 @@ In addition, **Liuhuang** (sulphur; marked "toxic" in the Pharmacopoeia, mainly 
 
 ## Related chapters
 
-- ⏮️ [Fungi, Algae, Resins and Others](07-fungi-algae-resins-and-others.md) - *Fuling* (poria), *Lingzhi* (reishi), *Dongchongxiacao* (cordyceps), frankincense, borneol and other fungi, algae, resins and processed products
+- ⏮️ [Fungi, Algae, Resins and Others](07-fungi-algae-resins-and-others.md) - *Fuling* (poria), *Lingzhi* (reishi), *Dongchongxiacao* (Chinese caterpillar fungus), frankincense, borneol and other fungi, algae, resins and processed products
 - ⏭️ [Toxic Herbs and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - cinnabar, realgar, arsenolite, red lead, *Banmao*, *Chansu* and other toxic Chinese medicines, and poisonous nectar plants
 - 🔗 [General Principles of Identifying and Collecting Chinese Medicinal Herbs](00-general-principles.md) - general methods for identification, harvesting, processing and storage
 - 🔗 [General principles – Wildlife Protection Law](00-general-principles.md#83-wildlife-protection-law) - the law on protected animals and their products

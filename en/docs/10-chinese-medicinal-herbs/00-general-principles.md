@@ -103,14 +103,14 @@ Chinese medicinal materials come from three main sources — plants, animals and
 | Category | What it includes | Common examples | Collection notes |
 |------|---------|---------|---------|
 | Roots and rhizomes | Roots, rhizomes, tubers, corms, bulbs | *Huangqi* (astragalus root), *Gancao* (liquorice root), *Dangshen* (codonopsis root), *Danggui* (Chinese angelica root), *Tianma* (gastrodia tuber), *Beimu* (fritillary bulb) | Mostly in autumn and winter or early spring |
-| Fruits and seeds | Whole fruits, fruit peel, seeds, kernels | *Shanzha* (hawthorn fruit), *Gouqi* (goji berry), *Wuweizi* (schisandra fruit), *Chenpi* (dried tangerine peel), *Suanzaoren* (sour jujube seed) | Ripe or nearly ripe |
-| Whole herbs | Aerial parts or the whole plant with roots | *Pugongying* (dandelion), *Cheqiancao* (plantain), *Bohe* (mint), *Yimucao* (Chinese motherwort), *Yuxingcao* (houttuynia) | Mostly at flowering, or before flowering when the stems and leaves are lush |
-| Flowers and leaves | Flower buds, flowers, stigmas; leaves | *Jinyinhua* (honeysuckle flower), *Juhua* (chrysanthemum flower), *Honghua* (safflower); *Aiye* (Chinese mugwort leaf), *Sangye* (mulberry leaf) | Flowers in bud or just opening; leaves before or at full flowering |
+| Fruits and seeds | Whole fruits, fruit peel, seeds, kernels | *Shanzha* (hawthorn fruit), *Gouqi* (goji berry), *Wuweizi* (schisandra berry), *Chenpi* (dried tangerine peel), *Suanzaoren* (sour jujube seed) | Ripe or nearly ripe |
+| Whole herbs | Aerial parts or the whole plant with roots | *Pugongying* (dandelion), *Cheqiancao* (plantain), *Bohe* (mint), *Yimucao* (motherwort), *Yuxingcao* (houttuynia) | Mostly at flowering, or before flowering when the stems and leaves are lush |
+| Flowers and leaves | Flower buds, flowers, stigmas; leaves | *Jinyinhua* (honeysuckle flower), *Juhua* (chrysanthemum), *Honghua* (safflower); *Aiye* (mugwort leaf), *Sangye* (mulberry leaf) | Flowers in bud or just opening; leaves before or at full flowering |
 | Barks | Tree bark, root bark | *Duzhong* (eucommia bark), *Houpo* (magnolia bark), *Huangbo* (phellodendron bark), *Mudanpi* (tree peony root bark), *Rougui* (cassia bark) | Tree bark mostly at the turn of spring and summer; root bark mostly in autumn, stripped when the roots are dug |
-| Stems and woods | Climbing stems, stems and twigs, heartwood | *Jixueteng* (spatholobus stem), *Sangzhi* (mulberry twig), *Sumu* (sappan wood), *Jiangxiang* (rosewood heartwood) | Mostly in autumn and winter |
-| Fungi, algae and resins | Fungi, algae, lichens; resins | *Fuling* (poria), *Lingzhi* (reishi), *Zhuling* (polyporus); *Haizao* (sargassum seaweed), *Kunbu* (kelp); *Ruxiang* (frankincense), *Moyao* (myrrh) | Each is different |
+| Stems and woods | Climbing stems, stems and twigs, heartwood | *Jixueteng* (spatholobus stem), *Sangzhi* (mulberry twig), *Sumu* (sappanwood), *Jiangxiang* (dalbergia heartwood) | Mostly in autumn and winter |
+| Fungi, algae and resins | Fungi, algae, lichens; resins | *Fuling* (poria), *Lingzhi* (reishi), *Zhuling* (polyporus); *Haizao* (sargassum), *Kunbu* (kelp); *Ruxiang* (frankincense), *Moyao* (myrrh) | Each is different |
 | Animal medicines | Whole animals, parts of tissues, secretions, processed products | *Dilong* (earthworm), *Chantui* (cicada slough), *Jineijin* (chicken gizzard lining), *Ejiao* (donkey-hide gelatin), honey | Often subject to protection laws |
-| Mineral medicines | Natural minerals, processed mineral products, fossils | *Shigao* (gypsum), *Huashi* (talc), *Mangxiao* (mirabilite), *Longgu* (fossil bone) | Some contain mercury, arsenic or lead and are toxic |
+| Mineral medicines | Natural minerals, processed mineral products, fossils | *Shigao* (gypsum), *Huashi* (talc), *Mangxiao* (mirabilite), *Longgu* (dragon bone) | Some contain mercury, arsenic or lead and are toxic |
 
 ```
 One plant often has several medicinal parts, with different names and actions.
@@ -180,14 +180,14 @@ Identification by botanical source means confirming which plant a herb comes fro
 
 | Family | Typical features | Example herbs | Poisonous members to watch out for |
 |----|---------|---------|----------------|
-| Mint family (Lamiaceae) | Four-angled stems, opposite leaves, two-lipped flowers, usually aromatic | *Bohe*, *Yimucao*, *Xiakucao* (self-heal), *Danshen* (red sage root), *Huangqin* (Baikal skullcap root) | Few poisonous plants in this family, but still identify with certainty |
+| Mint family (Lamiaceae) | Four-angled stems, opposite leaves, two-lipped flowers, usually aromatic | *Bohe*, *Yimucao*, *Xiakucao* (self-heal spike), *Danshen* (red sage root), *Huangqin* (Baikal skullcap root) | Few poisonous plants in this family, but still identify with certainty |
 | Carrot family (Apiaceae) | Compound umbels, stems often hollow with nodes, usually a distinctive smell | *Danggui*, *Chaihu*, *Fangfeng*, *Chuanxiong* (Sichuan lovage rhizome), *Baizhi* (Dahurian angelica root) | Water hemlock, poison hemlock |
 | Daisy family (Asteraceae) | Flower heads (look like one flower but are really many small flowers) | *Juhua*, *Pugongying*, *Aiye*, *Honghua*, *Cangzhu* (atractylodes rhizome) | Some species of *Senecio* (ragwort), cocklebur (fruit is poisonous) |
 | Legume family (Fabaceae) | Butterfly-shaped flowers, pods, often pinnate compound leaves | *Gancao*, *Huangqi*, *Gegen* (kudzu root), *Juemingzi* (cassia seed) | Rosary pea (seeds highly poisonous) |
-| Buttercup family (Ranunculaceae) | Flower parts free, many stamens and carpels | *Huanglian*, *Baishao*, *Mudanpi*, *Shengma* (bugbane rhizome) | Aconite, buttercup, some species of *Clematis* |
+| Buttercup family (Ranunculaceae) | Flower parts free, many stamens and carpels | *Huanglian*, *Baishao*, *Mudanpi*, *Shengma* (cimicifuga rhizome) | Aconite, buttercup, some species of *Clematis* |
 | Arum family (Araceae) | A spathe wrapped round a fleshy flower spike (spadix) | *Banxia*, *Tiannanxing*, *Shichangpu* (grass-leaved sweet flag rhizome) | *Tiannanxing*, raw *Banxia*, giant taro (*Alocasia*) |
 | Nightshade family (Solanaceae) | Petals fused into a tube, berries or capsules | *Gouqi* | Thorn apple (*Datura*), deadly nightshade, henbane, unripe fruit of black nightshade |
-| Lily family (in the broad sense) | Monocots, parallel veins, often with bulbs or rhizomes | *Beimu*, *Maidong* (ophiopogon tuber), *Yuzhu* (fragrant Solomon's seal rhizome), *Huangjing* (Solomon's seal rhizome) | False hellebore (*Veratrum*), *Chonglou* (paris rhizome, slightly toxic) |
+| Lily family (in the broad sense) | Monocots, parallel veins, often with bulbs or rhizomes | *Beimu*, *Maidong* (dwarf lilyturf tuber), *Yuzhu* (fragrant Solomon's seal rhizome), *Huangjing* (polygonatum rhizome) | False hellebore (*Veratrum*), *Chonglou* (paris rhizome, slightly toxic) |
 
 **Using a plant key**:
 
@@ -226,7 +226,7 @@ Identification by appearance means judging herbs that have already been collecte
 | Colour | Colour of the surface and of the cut surface; a change of colour often means damp, spoilage or poor processing | *Huanglian* cut surface bright yellow; *Danshen* surface brick-red; *Xuanshen* (figwort root) cut surface jet black |
 | Surface | Smooth or rough, wrinkles, lenticels, hairs, rings, scars | *Huangqi* surface has lengthwise wrinkles; the root head of *Dangshen* has a "lion's head" (many wart-like stem scars) |
 | Texture | Light or heavy, soft or hard, tough or brittle, floury, oily, horny, sticky | Floury (*Shanyao*, Chinese yam; *Tianhuafen*, trichosanthes root); horny (*Tianma*); oily (*Danggui*) |
-| Cut surface | Easy or hard to break, cut surface flat or fibrous, colour, pattern, oil dots | *Jiegeng* (balloon flower root) cut surface shows "golden well and jade railing" (bark yellowish-white, wood pale yellow); *Mao Cangzhu* (Maoshan atractylodes) cut surface has "cinnabar dots" |
+| Cut surface | Easy or hard to break, cut surface flat or fibrous, colour, pattern, oil dots | *Jiegeng* (platycodon root) cut surface shows "golden well and jade railing" (bark yellowish-white, wood pale yellow); *Mao Cangzhu* (Maoshan atractylodes) cut surface has "cinnabar dots" |
 | Smell | Smell directly, or after breaking or rubbing | *Danggui* strongly fragrant, *Bohe* cool, *Yuxingcao* fishy, *Awei* (asafoetida) smells of garlic |
 | Taste | Lick with the tip of the tongue (only herbs confirmed non-toxic) | *Huanglian* extremely bitter; *Gancao* sweet; *Wuweizi* has all five tastes; *Wumei* (smoked plum) extremely sour |
 
@@ -273,7 +273,7 @@ Some herbs show special changes when put in water or burnt, which can help ident
 |------|------|------|
 | Water test | *Xihonghua* (saffron) | After soaking, the stigmas swell into a trumpet shape and the water is stained yellow, the colour spreading gradually (fakes coloured with dye often turn the water red, or the stigmas do not swell) |
 | Water test | *Qinpi* (ash bark) | A hot-water extract shows a blue-green fluorescence in sunlight |
-| Water test | *Sumu* (sappan wood) | Put into hot water, it turns the water a vivid peach-red |
+| Water test | *Sumu* (sappanwood) | Put into hot water, it turns the water a vivid peach-red |
 | Water test | *Zhizi* (gardenia fruit) | The water extract is bright yellow |
 | Water test | *Pangdahai* (malva nut) | Swells rapidly into a sponge in water |
 | Water test | *Cheqianzi* (plantain seed), *Tinglizi* (descurainia or lepidium seed) | The seed surface turns slimy when water is added |
@@ -281,7 +281,7 @@ Some herbs show special changes when put in water or burnt, which can help ident
 | Fire test | *Haijinsha* (Japanese climbing fern spores) | Sprinkled on a flame, it makes slight crackling sounds and flashes, leaving almost no ash |
 | Fire test | *Jiangxiang* | When lit, it gives a strong fragrance and an oily substance seeps out; it leaves white ash when burnt |
 | Fire test | *Xuejie* (dragon's blood) | Put the powder on white paper and heat from underneath; when melted it looks bright red against the light, with no oil stain spreading on the paper |
-| Fire test | *Qingdai* (natural indigo) | Burnt over a low flame, it gives off purplish-red smoke |
+| Fire test | *Qingdai* (indigo naturalis) | Burnt over a low flame, it gives off purplish-red smoke |
 
 ```
 Note:
@@ -332,7 +332,7 @@ The content of active constituents in a herb varies greatly with its stage of gr
 | Seeds | Fully ripe | Seeds are plump, content is highest | *Juemingzi*, *Cheqianzi*, *Suanzaoren* |
 | Whole herbs | Mostly at flowering, or before flowering when stems and leaves are lush | Aerial parts are growing most strongly | *Yimucao*, *Bohe*, *Cheqiancao*; *Yinchen* (capillary wormwood) at the seedling stage |
 | Tree bark | At the turn of spring and summer (about from Qingming to the summer solstice) | Sap flows strongly, bark peels easily and the wound heals easily | *Duzhong*, *Houpo*, *Huangbo* |
-| Root bark | Mostly in autumn, stripped when the roots are dug | Same time as the roots | *Mudanpi*, *Digupi* (wolfberry root bark), *Sangbaipi* (mulberry root bark) |
+| Root bark | Mostly in autumn, stripped when the roots are dug | Same time as the roots | *Mudanpi*, *Digupi* (goji root bark), *Sangbaipi* (white mulberry root bark) |
 | Stems and woods | In autumn and winter after leaf fall, or all year round | Nutrients have built up | *Jixueteng*, *Sangzhi* |
 
 ```
@@ -478,7 +478,7 @@ Some herbs are steamed, boiled or scalded in boiling water before drying. The pu
 |------|------|------|---------|
 | Steaming | Rhizomes rich in starch or mucilage that do not dry easily | *Tianma*, *Huangjing*, *Hongshen* (red ginseng) | Steamed right through, no white core in the cut surface |
 | Boiling | Roots that need peeling or gelatinising | *Baishao* (peeled after boiling), *Mingdangshen* (changium root) | Boiled right through |
-| Scalding | Fleshy tuberous roots, to stop them spoiling while drying | *Tiandong* (asparagus tuber), *Taizishen* (pseudostellaria root) (briefly scalded in boiling water) | Skin softened, cut surface semi-translucent |
+| Scalding | Fleshy tuberous roots, to stop them spoiling while drying | *Tiandong* (Chinese asparagus tuber), *Taizishen* (pseudostellaria root) (briefly scalded in boiling water) | Skin softened, cut surface semi-translucent |
 
 ```
 Getting steaming, boiling and scalding right: too little and the herb is not
@@ -584,7 +584,7 @@ Badly stored herbs at best lose their effect; at worst they go mouldy and produc
 | Spoilage | Signs | Most likely in | Cause | Prevention |
 |------|------|----------|------|---------|
 | Mould | White, green or black fuzz or spots on the surface, mouldy smell | Herbs rich in sugar, starch or mucilage (*Dangshen*, *Tiandong*, *Gouqi*, *Shanyao*, *Danggui*) | Temperature about 20-35°C, damp air, herbs not thoroughly dried | Dry thoroughly, seal against damp, store in a cool place, re-dry in the sun regularly |
-| Insect damage | Bore holes, insect powder (frass), silk threads, even eaten away to powder | Herbs rich in starch, sugar or protein (*Dangshen*, *Baizhi*, *Shanyao*, *Yiyiren* (Job's tears seed)) and animal medicines | Insect eggs brought in during collection and processing, damp during storage | Dry and seal; re-dry in the sun or heat at low temperature; store with a protective herb (see below) |
+| Insect damage | Bore holes, insect powder (frass), silk threads, even eaten away to powder | Herbs rich in starch, sugar or protein (*Dangshen*, *Baizhi*, *Shanyao*, *Yiyiren* (coix seed)) and animal medicines | Insect eggs brought in during collection and processing, damp during storage | Dry and seal; re-dry in the sun or heat at low temperature; store with a protective herb (see below) |
 | Oiling (*fanyou*) | Surface sticky, darkened, oozing oil, rancid smell | Oily herbs (*Xingren*, *Taoren*, *Baiziren*, *Danggui*) and sugary herbs (*Gouqi*, *Tiandong*, *Dangshen*) | High temperature, long storage, exposure to air and light | Keep cool, dark and sealed, do not squash; do not store too long |
 | Loss of colour and fragrance | Colour dulls and browns, fragrance fades | Flowers, leaves, aromatic herbs (*Jinyinhua*, *Juhua*, *Honghua*, *Bohe*) | Light, oxidation, damp, high temperature | Keep dark, sealed and cool; flowers and leaves generally renewed after about 1 year |
 

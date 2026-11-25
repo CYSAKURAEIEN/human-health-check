@@ -658,7 +658,7 @@ This group comes from mixed sources: *Shenjincao* is a fern ally, *Shihu* is an 
 - **Storage**: contains volatile oil; seal and keep in a cool, dry place
 - **Actions**: releases the exterior and dispels cold, dispels wind and relieves pain, opens the nasal passages, warms the lungs and transforms fluid retention
 - **Dose**: 1-3 g; as a powder, 0.5-1 g per dose; for external use, a suitable amount (Chinese Pharmacopoeia, 2020 edition). **The dose is very small; it may only be prescribed by a TCM practitioner, never used on your own**. The ancients long warned that *Xixin* must not be used in large amounts; overdose can cause headache, vomiting, restlessness, convulsions and depressed breathing
-- **Cautions**: **the Pharmacopoeia marks it as slightly toxic**; do not use it together with *Lilu* (veratrum); not for pregnant or breastfeeding women, children or people with kidney disease; not for weak people who sweat a lot, headache from yin deficiency, or dry cough without phlegm; do not use the whole *Xixin* plant with leaves; if the poisoning symptoms above appear, call 120 at once
+- **Cautions**: **the Pharmacopoeia marks it as slightly toxic**; do not use it together with *Lilu* (false hellebore); not for pregnant or breastfeeding women, children or people with kidney disease; not for weak people who sweat a lot, headache from yin deficiency, or dry cough without phlegm; do not use the whole *Xixin* plant with leaves; if the poisoning symptoms above appear, call 120 at once
 - 🛡️ **Protection note**: *Xixin* is on the *List of Wild Medicinal Species under State Key Protection* (grade as given in the text of the list); do not dig up wild plants
 
 ---
