@@ -916,7 +916,7 @@ Seal (plaster it tight with clay)
 - Most reliable: heat the test piece to cherry red and quench it in water; if a file skids → it has become steel; if the file cuts → not long enough
 
 **Product: steel!**
-- Depth of carburised case: about 0.3-1.5 mm (increases with holding time)
+- Depth of carburised case: about 0.3-2 mm (increases with holding time)
 - Hard outside, tough inside (the ideal!)
 - It still has to be quenched and tempered; the case is thin, so do not grind through it when sharpening
 

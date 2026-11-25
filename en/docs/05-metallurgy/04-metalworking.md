@@ -77,7 +77,7 @@ There are two sets of colours for judging temperature; do not mix them up:
 | Temperature (approx.) | Fire colour | Use |
 |------|------|------|
 | 500-550°C | Dark red (just visible in the dark) | Too low; not suitable for anything |
-| 650-700°C | Blood red | Stress-relief annealing |
+| 650-700°C | Blood red | Upper limit for stress-relief annealing (usually about 550-650°C) |
 | About 770°C | Dull cherry red; **a magnet just stops sticking** | Lower limit of quenching temperature |
 | 780-850°C | Cherry red | **Quenching, normalising and annealing temperature** |
 | 850-950°C | Bright red (bright cherry red) | Forging, carburising |

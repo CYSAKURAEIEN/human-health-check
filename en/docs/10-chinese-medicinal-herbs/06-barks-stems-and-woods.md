@@ -656,8 +656,8 @@ Before collecting bark or stem/wood medicines, confirm each point:
 - ⏮️ [Flowers and Leaves](05-flowers-and-leaves.md) - honeysuckle, chrysanthemum, mugwort leaf, mulberry leaf, perilla leaf and other flower and leaf herbs
 - ⏭️ [Fungi, Algae, Resins and Others](07-fungi-algae-resins-and-others.md) - poria, lingzhi, frankincense, myrrh, dragon's blood, borneol and other fungi, algae, resins and other medicines
 - 🔗 [General Principles of Identifying and Collecting Chinese Medicinal Herbs](00-general-principles.md) - general methods for identification, harvesting, processing (including "sweating"), storage, safety and the law
-- 🔗 [Toxic Herbs and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - identification and poisoning signs of Xiangjiapi, Guanmutong, Gouwen, Leigongteng and others
-- 🔗 [Roots and Rhizomes (1)](01-roots-and-rhizomes-1.md) - Heshouwu, Baishao, Chishao and other root medicines
+- 🔗 [Toxic Herbs and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - identification and poisoning signs of *Xiangjiapi*, *Guanmutong*, *Gouwen*, *Leigongteng* and others
+- 🔗 [Roots and Rhizomes (1)](01-roots-and-rhizomes-1.md) - *Heshouwu*, *Baishao*, *Chishao* and other root medicines
 - 🔗 [Fruits and Seeds](03-fruits-and-seeds.md) - goji berries and other fruit medicines
 - 🔗 [Medicinal Plants: Identification and Growing Guide](../04-farming-and-animal-husbandry/04-medicinal-plants.md) - growing goji and honeysuckle, and the home herb garden
 - 🔗 [Traditional Chinese Medicine Preparations](../06-pharmaceuticals/04-herbal-preparations.md) - processing, decoction (including "adding near the end"), common formulas and safe use

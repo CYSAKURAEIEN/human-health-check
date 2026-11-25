@@ -770,9 +770,9 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 
 ## Related chapters
 
-- ⏮️ [Roots and Rhizomes (1)](01-roots-and-rhizomes-1.md) - Renshen, Huangqi, Gancao, Danggui, Sanqi, Tianma and others (Chapter 01)
+- ⏮️ [Roots and Rhizomes (1)](01-roots-and-rhizomes-1.md) - *Renshen*, *Huangqi*, *Gancao*, *Danggui*, *Sanqi*, *Tianma* and others (Chapter 01)
 - 🔗 [General Principles of Identifying and Collecting Chinese Medicinal Herbs](00-general-principles.md) - general methods for identification, harvesting, processing, storage, safety and the law
-- 🔗 [Toxic Herbs and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - Lilu, herbs containing aristolochic acid, comparisons of easily confused poisonous plants
+- 🔗 [Toxic Herbs and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - *Lilu*, herbs containing aristolochic acid, comparisons of easily confused poisonous plants
 - 🔗 [Medicinal Plants: Identification and Growing Guide](../04-farming-and-animal-husbandry/04-medicinal-plants.md) - growing ginger and other medicinal plants, the home herb garden
 - 🔗 [Traditional Chinese Medicine Preparations](../06-pharmaceuticals/04-herbal-preparations.md) - processing, decocting, formulas and safe use of medicines
 - 🔗 [Poisoning](../01-first-aid-and-family-health/12-poisoning.md) - what to do after eating a poisonous plant or taking too much medicine

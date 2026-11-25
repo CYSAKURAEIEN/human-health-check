@@ -106,7 +106,7 @@ Chinese medicinal materials come from three main sources — plants, animals and
 | Fruits and seeds | Whole fruits, fruit peel, seeds, kernels | *Shanzha* (hawthorn fruit), *Gouqi* (goji berry), *Wuweizi* (schisandra fruit), *Chenpi* (dried tangerine peel), *Suanzaoren* (sour jujube seed) | Ripe or nearly ripe |
 | Whole herbs | Aerial parts or the whole plant with roots | *Pugongying* (dandelion), *Cheqiancao* (plantain), *Bohe* (mint), *Yimucao* (Chinese motherwort), *Yuxingcao* (houttuynia) | Mostly at flowering, or before flowering when the stems and leaves are lush |
 | Flowers and leaves | Flower buds, flowers, stigmas; leaves | *Jinyinhua* (honeysuckle flower), *Juhua* (chrysanthemum flower), *Honghua* (safflower); *Aiye* (Chinese mugwort leaf), *Sangye* (mulberry leaf) | Flowers in bud or just opening; leaves before or at full flowering |
-| Barks | Tree bark, root bark | *Duzhong* (eucommia bark), *Houpo* (magnolia bark), *Huangbai* (phellodendron bark), *Mudanpi* (tree peony root bark), *Rougui* (cassia bark) | Tree bark mostly at the turn of spring and summer; root bark mostly in autumn, stripped when the roots are dug |
+| Barks | Tree bark, root bark | *Duzhong* (eucommia bark), *Houpo* (magnolia bark), *Huangbo* (phellodendron bark), *Mudanpi* (tree peony root bark), *Rougui* (cassia bark) | Tree bark mostly at the turn of spring and summer; root bark mostly in autumn, stripped when the roots are dug |
 | Stems and woods | Climbing stems, stems and twigs, heartwood | *Jixueteng* (spatholobus stem), *Sangzhi* (mulberry twig), *Sumu* (sappan wood), *Jiangxiang* (rosewood heartwood) | Mostly in autumn and winter |
 | Fungi, algae and resins | Fungi, algae, lichens; resins | *Fuling* (poria), *Lingzhi* (reishi), *Zhuling* (polyporus); *Haizao* (sargassum seaweed), *Kunbu* (kelp); *Ruxiang* (frankincense), *Moyao* (myrrh) | Each is different |
 | Animal medicines | Whole animals, parts of tissues, secretions, processed products | *Dilong* (earthworm), *Chantui* (cicada slough), *Jineijin* (chicken gizzard lining), *Ejiao* (donkey-hide gelatin), honey | Often subject to protection laws |
@@ -331,7 +331,7 @@ The content of active constituents in a herb varies greatly with its stage of gr
 | Fruits | Ripe or nearly ripe | Active constituents have built up most | *Shanzha*, *Gouqi* (ripe); *Zhishi* (immature bitter orange), *Qingpi* (unripe young fruit) |
 | Seeds | Fully ripe | Seeds are plump, content is highest | *Juemingzi*, *Cheqianzi*, *Suanzaoren* |
 | Whole herbs | Mostly at flowering, or before flowering when stems and leaves are lush | Aerial parts are growing most strongly | *Yimucao*, *Bohe*, *Cheqiancao*; *Yinchen* (capillary wormwood) at the seedling stage |
-| Tree bark | At the turn of spring and summer (about from Qingming to the summer solstice) | Sap flows strongly, bark peels easily and the wound heals easily | *Duzhong*, *Houpo*, *Huangbai* |
+| Tree bark | At the turn of spring and summer (about from Qingming to the summer solstice) | Sap flows strongly, bark peels easily and the wound heals easily | *Duzhong*, *Houpo*, *Huangbo* |
 | Root bark | Mostly in autumn, stripped when the roots are dug | Same time as the roots | *Mudanpi*, *Digupi* (wolfberry root bark), *Sangbaipi* (mulberry root bark) |
 | Stems and woods | In autumn and winter after leaf fall, or all year round | Nutrients have built up | *Jixueteng*, *Sangzhi* |
 
@@ -896,7 +896,7 @@ The regulations also provide that:
 - Provincial governments can add local protected species beyond the national
   list
 - The accompanying List of Wild Medicinal Species under State Key Protection
-  includes wild Renshen, Gancao, Huanglian, Duzhong, Houpo and Huangbai,
+  includes wild Renshen, Gancao, Huanglian, Duzhong, Houpo and Huangbo,
   as well as common herbs such as Chuanbeimu, Huangqin, Longdan (gentian
   root), Fangfeng, Yuanzhi, Roucongrong (cistanche), Xixin,
   Wuweizi, Shihu, Lianqiao (forsythia fruit) and Qianghuo (the text of the
@@ -976,7 +976,7 @@ This part is divided by the part used into the following chapters (they can also
 | 03 Fruits and seeds | Fruits, fruit peel, seeds | E.g. *Shanzha*, *Gouqi*, *Wuweizi*, *Chenpi*, *Suanzaoren* |
 | 04 Whole herbs | Aerial parts or whole plant used | E.g. *Pugongying*, *Cheqiancao*, *Bohe*, *Yimucao*, *Yuxingcao* |
 | 05 Flowers and leaves | Flower buds, flowers, leaves | E.g. *Jinyinhua*, *Juhua*, *Honghua*, *Aiye*, *Sangye* |
-| 06 Barks, stems and woods | Tree bark, root bark, climbing stems, wood | E.g. *Duzhong*, *Houpo*, *Huangbai*, *Mudanpi*, *Jixueteng* |
+| 06 Barks, stems and woods | Tree bark, root bark, climbing stems, wood | E.g. *Duzhong*, *Houpo*, *Huangbo*, *Mudanpi*, *Jixueteng* |
 | 07 Fungi, algae, resins and others | Fungi, algae, resins, processed products | E.g. *Fuling*, *Lingzhi*, *Zhuling*, *Haizao*, *Ruxiang* |
 | 08 Animal and mineral medicines | Animal medicines, mineral medicines | Common non-protected animal medicines and mineral medicines; for protected animals only legal reminders |
 | 09 Toxic Chinese herbs and poisonous look-alikes | Recognising and avoiding toxic species | *Wutou*, *Maqianzi*, *Leigongteng*, *Gouwen*, pokeweed, thorn apple, etc.; only identification and signs of poisoning |
