@@ -735,7 +735,7 @@ For preventing and treating wasp stings, ticks and land leeches see [Wasps, Tick
     the cut root oozes yellow juice
 ❌ Oleander (the whole plant is poisonous)
   - Do not use oleander twigs as skewers or chopsticks, and do not burn it to cook food
-❌ Gelsemium (Gelsemium elegans, "heartbreak grass"): a climber common in southern
+❌ *Gouwen* (Gelsemium elegans, heartbreak grass): a climber common in southern
    mountain forests, with small yellow flowers; a small amount can kill
 ❌ Nettles: the stinging hairs on leaves and stems make the skin sting and come up in
    a rash, which usually fades after a few hours
@@ -758,7 +758,7 @@ After touching a poisonous plant:
    call for help at once and keep the leftover plant to show the doctor
 ```
 
-For poisonous plants that are easily mistaken for edible ones and what to do after eating one see [Poisonous Mushrooms and Wild Plants – Poisonous plants that are easily mistaken](09-poisonous-mushrooms-and-wild-plants.md#poisonous-plants-that-are-easily-mistaken); for a point-by-point comparison of Gelsemium, water hemlock and others with useful plants see [Comparison of easily confused poisonous plants](../10-chinese-medicinal-herbs/09-toxic-herbs-and-poisonous-look-alikes.md#4-poisonous-plants-that-are-easily-confused); for general treatment of poisoning see [Poisoning](../01-first-aid-and-family-health/12-poisoning.md).
+For poisonous plants that are easily mistaken for edible ones and what to do after eating one see [Poisonous Mushrooms and Wild Plants – Poisonous plants that are easily mistaken](09-poisonous-mushrooms-and-wild-plants.md#poisonous-plants-that-are-easily-mistaken); for a point-by-point comparison of *Gouwen*, water hemlock and others with useful plants see [Comparison of easily confused poisonous plants](../10-chinese-medicinal-herbs/09-toxic-herbs-and-poisonous-look-alikes.md#4-poisonous-plants-that-are-easily-confused); for general treatment of poisoning see [Poisoning](../01-first-aid-and-family-health/12-poisoning.md).
 
 ### Illness
 
