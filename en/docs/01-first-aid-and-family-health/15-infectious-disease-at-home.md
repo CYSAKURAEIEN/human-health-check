@@ -1,4 +1,4 @@
-# Infectious disease at home
+# Infectious Disease at Home
 
 ## Contents
 - [How infectious diseases spread](#how-infectious-diseases-spread)
@@ -192,5 +192,5 @@ Related chapters: [Wounds and injuries - bites](02-wounds-and-injuries.md#bites)
 
 ---
 
-**Next chapter**: [Skin conditions and parasites](16-skin-conditions-and-parasites.md)
-**Back to**: [Chapter list](README.md) | [Main contents](../../README.md)
+**Next chapter**: [Skin Conditions and Parasites](16-skin-conditions-and-parasites.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

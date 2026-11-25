@@ -703,7 +703,7 @@ More:
   through; use a pressure cooker, or cut food small and cook it longer
 ```
 
-Related chapters: [Poisonous Mushrooms and Wild Plants](09-poisonous-mushrooms-and-wild-plants.md), [Basic Survival Skills – Finding food](00-basic-survival-skills.md#getting-food).
+Related chapters: [Poisonous Mushrooms and Wild Plants](09-poisonous-mushrooms-and-wild-plants.md), [Basic Survival Skills – Getting food](00-basic-survival-skills.md#getting-food).
 
 ## Signals
 

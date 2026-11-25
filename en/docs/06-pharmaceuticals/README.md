@@ -97,7 +97,7 @@ The key medicines against bacterial infection.
 - 💊 Penicillin
   - Why you cannot make it yourself
   - Emergency treatment of allergy
-- 🧪 Sulphonamides (sulfa drugs)
+- 🧪 Sulfonamides (sulfa drugs)
   - Chemical synthesis (very difficult)
   - Alternatives
 - 🌿 Natural antibacterial substances
@@ -366,7 +366,7 @@ Preparing and using traditional Chinese medicines.
 - Disinfect wounds promptly
 
 ### Physical treatments
-- Fever: drink plenty, use fewer clothes and covers, sponge with lukewarm water (only as an aid)
+- Fever: drink plenty of water, use fewer clothes and covers, sponge with lukewarm water (only as an aid)
 - Pain: cold packs, warm packs, massage
 - Inflammation: rest, raise the affected part
 

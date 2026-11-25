@@ -1,4 +1,4 @@
-# Menstrual hygiene and contraception
+# Menstrual Hygiene and Contraception
 
 ## Contents
 - [Menstrual products](#menstrual-products)
@@ -221,4 +221,4 @@ Other:
 
 ---
 
-**Back to**: [Chapter list](README.md) | [Main contents](../../README.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

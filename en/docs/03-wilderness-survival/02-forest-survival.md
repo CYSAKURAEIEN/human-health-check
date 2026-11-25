@@ -2,7 +2,7 @@
 
 The commonest dangers in a forest are not wild animals but **getting lost, nightfall, hypothermia from getting soaked, and falls**. In a forest you can see only a few tens of metres, the trees all look alike, the sun is often hidden by the canopy, and it is easy to walk in circles without noticing. This chapter covers how to keep yourself safe when lost or stranded in a forest until you are rescued or walk out.
 
-⚠️ Principles: call for help and wait for rescue first; do not take risks to press on; do not eat anything you do not recognise. For preparation before setting out and how to call for help see [Outdoor Trip Preparation and Calling for Help](07-trip-preparation-and-calling-for-help.md).
+⚠️ Principles: call for help and wait for rescue first; do not take risks to press on; do not eat anything you do not recognise. For preparation before setting out and how to call for help see [Trip Preparation and Calling for Help](07-trip-preparation-and-calling-for-help.md).
 
 ## Finding your direction
 
@@ -34,7 +34,7 @@ More:
   about turning back or spending the night 1–2 hours before dark
 ```
 
-For trip plans, turn-around times and equipment see [Outdoor Trip Preparation and Calling for Help – Before you set out](07-trip-preparation-and-calling-for-help.md#before-you-set-out).
+For trip plans, turn-around times and equipment see [Trip Preparation and Calling for Help – Before you set out](07-trip-preparation-and-calling-for-help.md#before-you-set-out).
 
 ### Already lost
 
@@ -78,7 +78,7 @@ Principles:
       or into water at night is far greater than spending a night where you are
 ```
 
-For how to call the police and describe your location see [Outdoor Trip Preparation and Calling for Help – Calling for help](07-trip-preparation-and-calling-for-help.md#calling-for-help-say-clearly-where-you-are); for distress signals see [Basic Survival Skills – Distress signals](00-basic-survival-skills.md#distress-signals).
+For how to call the police and describe your location see [Trip Preparation and Calling for Help – Calling for help](07-trip-preparation-and-calling-for-help.md#calling-for-help-say-clearly-where-you-are); for distress signals see [Basic Survival Skills – Distress signals](00-basic-survival-skills.md#distress-signals).
 
 ### Stay put or move?
 
@@ -113,7 +113,7 @@ While you wait:
 
 *Figure: searchers work along your planned route and from your last known position, and a moving target is hard to find; tree crowns, growth rings and moss are not reliable for finding direction*
 
-For keeping warm and looking after yourself while waiting for rescue see [Outdoor Trip Preparation and Calling for Help – Waiting for rescue](07-trip-preparation-and-calling-for-help.md#waiting-for-rescue).
+For keeping warm and looking after yourself while waiting for rescue see [Trip Preparation and Calling for Help – Waiting for rescue](07-trip-preparation-and-calling-for-help.md#waiting-for-rescue).
 
 **Taking children into the hills**:
 ```
@@ -150,7 +150,7 @@ Using a direction in the forest:
    recheck every half hour
 ```
 
-For the compass, watch method, shadow stick and Pole Star in detail see [Basic Survival Skills – Navigation and orientation](00-basic-survival-skills.md#navigation-and-orientation); for using a map and compass together see [Outdoor Trip Preparation and Calling for Help – Using a map and compass](07-trip-preparation-and-calling-for-help.md#using-a-map-and-compass); for more precise astronomical direction-finding and magnetic declination see [Advanced Celestial Navigation](../09-advanced-science-and-engineering/09-celestial-navigation.md#2-finding-direction-precisely).
+For the compass, watch method, shadow stick and Pole Star in detail see [Basic Survival Skills – Navigation and orientation](00-basic-survival-skills.md#navigation-and-orientation); for using a map and compass together see [Trip Preparation and Calling for Help – Using a map and compass](07-trip-preparation-and-calling-for-help.md#using-a-map-and-compass); for more precise astronomical direction-finding and magnetic declination see [Advanced Celestial Navigation](../09-advanced-science-and-engineering/09-celestial-navigation.md#2-finding-direction-precisely).
 
 ### Why tree crowns, growth rings and moss are unreliable
 
@@ -233,7 +233,7 @@ When collecting water:
 ❌ Do not go to a stream for water when there are signs of a flash flood
 ```
 
-For signs of a flash flood see [Wading, Flash Floods and Hypothermia in the Wild – Warning signs of a flash flood](08-river-crossing-flash-floods-and-hypothermia.md#signs-that-a-flash-flood-is-coming).
+For signs of a flash flood see [River Crossing, Flash Floods and Hypothermia – Signs that a flash flood is coming](08-river-crossing-flash-floods-and-hypothermia.md#signs-that-a-flash-flood-is-coming).
 
 **Purification**:
 ```
@@ -258,11 +258,11 @@ Why even clear forest streams must be purified:
   have walked out from walking out
 ```
 
-For details of each purification method see [Basic Survival Skills – Water purification](00-basic-survival-skills.md#water-purification). For rehydration if diarrhoea starts see [Treating and Evacuating Casualties in the Wild – Diarrhoea and vomiting](11-wilderness-casualty-care-and-evacuation.md#diarrhoea-and-vomiting).
+For details of each purification method see [Basic Survival Skills – Water purification](00-basic-survival-skills.md#water-purification). For rehydration if diarrhoea starts see [Wilderness Casualty Care and Evacuation – Diarrhoea and vomiting](11-wilderness-casualty-care-and-evacuation.md#diarrhoea-and-vomiting).
 
 ## Shelter
 
-There is plenty of material in a forest, but the main problems are **damp ground, falling temperatures at night, and cold and wet after rain**. Even in summer a forest night can drop to a dozen or so °C; wet clothes plus wind are enough to cause hypothermia.
+There is plenty of material in a forest, but the main problems are **damp ground, falling temperatures at night, and cold and wet after rain**. Even in summer a forest night can drop into the teens (°C); wet clothes plus wind are enough to cause hypothermia.
 
 ### Choosing a campsite in the forest
 
@@ -299,7 +299,7 @@ There is plenty of material in a forest, but the main problems are **damp ground
 ❌ Do not shelter under big trees, under rock overhangs or in shallow cave mouths
 ```
 
-For lightning in detail see [Weather Disasters – Lightning safety outdoors](../02-disaster-response/02-weather-disasters.md#lightning-safety-outdoors) and [Mountain Survival – Lightning](05-mountain-survival.md#lightning); for general principles of choosing a campsite see [Wading, Flash Floods and Hypothermia in the Wild – Choosing a campsite](08-river-crossing-flash-floods-and-hypothermia.md#choosing-a-campsite).
+For lightning in detail see [Weather Disasters – Lightning safety outdoors](../02-disaster-response/02-weather-disasters.md#lightning-safety-outdoors) and [Mountain Survival – Lightning](05-mountain-survival.md#lightning); for general principles of choosing a campsite see [River Crossing, Flash Floods and Hypothermia – Choosing a campsite](08-river-crossing-flash-floods-and-hypothermia.md#choosing-a-campsite).
 
 ### Natural shelters
 
@@ -386,7 +386,7 @@ For other kinds of shelter see [Basic Survival Skills – Building shelters](00-
   hypothermia; deal with it at once
 ```
 
-For recognising and treating hypothermia see [Wading, Flash Floods and Hypothermia in the Wild – Not only in winter: hypothermia in the wild](08-river-crossing-flash-floods-and-hypothermia.md#not-only-in-winter-hypothermia-outdoors).
+For recognising and treating hypothermia see [River Crossing, Flash Floods and Hypothermia – Not only in winter: hypothermia outdoors](08-river-crossing-flash-floods-and-hypothermia.md#not-only-in-winter-hypothermia-outdoors).
 
 ## Fire
 
@@ -448,7 +448,7 @@ There is plenty of wood in a forest, but **forest fire is the biggest man-made d
      only add the next size once the previous one is burning well
 ```
 
-For fire-lighting methods and fire lays see [Basic Survival Skills – Fire-making techniques](00-basic-survival-skills.md#making-fire).
+For fire-lighting methods and fire lays see [Basic Survival Skills – Making fire](00-basic-survival-skills.md#making-fire).
 
 ### Preventing forest fires
 
@@ -538,10 +538,10 @@ Only if you cannot be rescued for a long time do you need to get food from the f
    chewed: spit it out at once and rinse your mouth
 
 ⚠️ Mushrooms: if not certain, never eat them! (they can kill; see Poisonous Mushrooms
-   and Wild Plant Poisoning)
+   and Wild Plants)
 ```
 
-Related chapter: [Poisonous Mushrooms and Wild Plant Poisoning](09-poisonous-mushrooms-and-wild-plants.md).
+Related chapter: [Poisonous Mushrooms and Wild Plants](09-poisonous-mushrooms-and-wild-plants.md).
 
 ```
 ⚠️ About the "edibility test":
@@ -552,7 +552,7 @@ Related chapter: [Poisonous Mushrooms and Wild Plant Poisoning](09-poisonous-mus
   about to collapse from hunger; do not use it when stranded for a short time
 ```
 
-For why folk methods of telling mushrooms apart are unreliable, and poisonous plants that are easily mistaken for edible ones, see [Poisonous Mushrooms and Wild Plant Poisoning](09-poisonous-mushrooms-and-wild-plants.md#poisonous-mushrooms-there-is-no-simple-test); for the limits of the edibility test see [Poisonous Mushrooms and Wild Plant Poisoning – About the "edibility test"](09-poisonous-mushrooms-and-wild-plants.md#about-the-edibility-test).
+For why folk methods of telling mushrooms apart are unreliable, and poisonous plants that are easily mistaken for edible ones, see [Poisonous Mushrooms and Wild Plants](09-poisonous-mushrooms-and-wild-plants.md#poisonous-mushrooms-there-is-no-simple-test); for the limits of the edibility test see [Poisonous Mushrooms and Wild Plants – About the "edibility test"](09-poisonous-mushrooms-and-wild-plants.md#about-the-edibility-test).
 
 ### Animal protein
 
@@ -758,7 +758,7 @@ After touching a poisonous plant:
    call for help at once and keep the leftover plant to show the doctor
 ```
 
-For poisonous plants that are easily mistaken for edible ones and what to do after eating one see [Poisonous Mushrooms and Wild Plant Poisoning – Poisonous plants easily mistaken for edible ones](09-poisonous-mushrooms-and-wild-plants.md#poisonous-plants-that-are-easily-mistaken); for a point-by-point comparison of Gelsemium, water hemlock and others with useful plants see [Comparison of easily confused poisonous plants](../10-chinese-medicinal-herbs/09-toxic-herbs-and-poisonous-look-alikes.md#4-poisonous-plants-that-are-easily-confused); for general treatment of poisoning see [Poisoning](../01-first-aid-and-family-health/12-poisoning.md).
+For poisonous plants that are easily mistaken for edible ones and what to do after eating one see [Poisonous Mushrooms and Wild Plants – Poisonous plants that are easily mistaken](09-poisonous-mushrooms-and-wild-plants.md#poisonous-plants-that-are-easily-mistaken); for a point-by-point comparison of Gelsemium, water hemlock and others with useful plants see [Comparison of easily confused poisonous plants](../10-chinese-medicinal-herbs/09-toxic-herbs-and-poisonous-look-alikes.md#4-poisonous-plants-that-are-easily-confused); for general treatment of poisoning see [Poisoning](../01-first-aid-and-family-health/12-poisoning.md).
 
 ### Illness
 
@@ -839,7 +839,7 @@ When following a river:
   go at once to high ground on either side
 ```
 
-For wading and flash floods see [Wading, Flash Floods and Hypothermia in the Wild](08-river-crossing-flash-floods-and-hypothermia.md).
+For wading and flash floods see [River Crossing, Flash Floods and Hypothermia](08-river-crossing-flash-floods-and-hypothermia.md).
 
 ### Climb high to look around
 
@@ -924,7 +924,7 @@ In temperate and cold-temperate forest:
   threat is hypothermia
 ```
 
-For moving and keeping warm in snow see [Snow and Polar Survival](04-snow-and-polar-survival.md); for treating immersion foot see [Wound and Injury Care – Chilblains and immersion foot (not frostbite)](../01-first-aid-and-family-health/02-wounds-and-injuries.md#chilblains-and-immersion-foot-not-frostbite); for heatstroke see [Treating and Evacuating Casualties in the Wild – Altitude sickness, heatstroke, hypothermia](11-wilderness-casualty-care-and-evacuation.md#altitude-sickness-heatstroke-hypothermia).
+For moving and keeping warm in snow see [Snow and Polar Survival](04-snow-and-polar-survival.md); for treating immersion foot see [Wound and Injury Care – Chilblains and immersion foot (not frostbite)](../01-first-aid-and-family-health/02-wounds-and-injuries.md#chilblains-and-immersion-foot-not-frostbite); for heatstroke see [Wilderness Casualty Care and Evacuation – Altitude sickness, heatstroke, hypothermia](11-wilderness-casualty-care-and-evacuation.md#altitude-sickness-heatstroke-hypothermia).
 
 ## 📝 Forest survival: key points
 

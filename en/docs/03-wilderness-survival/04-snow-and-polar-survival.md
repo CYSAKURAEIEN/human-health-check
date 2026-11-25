@@ -421,7 +421,7 @@ Solutions:
 ✓ Bring fire starters: cotton balls soaked in petroleum jelly, candle stubs, solid fuel
 ```
 
-For basic fire-lighting methods and fire structures see [Basic Survival Skills – Fire-lighting](00-basic-survival-skills.md#making-fire).
+For basic fire-lighting methods and fire structures see [Basic Survival Skills – Making fire](00-basic-survival-skills.md#making-fire).
 
 ```
 Note:
@@ -826,7 +826,7 @@ Without transceivers: stand in a line and advance step by step, pushing probes o
 if one pass finds nothing, offset the positions and probe again
 ```
 
-For CPR see [CPR](../01-first-aid-and-family-health/00-basic-first-aid.md#cardiopulmonary-resuscitation-cpr); for moving casualties see [Wilderness Casualty Care and Evacuation – Moving a casualty](11-wilderness-casualty-care-and-evacuation.md#moving-the-casualty).
+For CPR see [CPR](../01-first-aid-and-family-health/00-basic-first-aid.md#cardiopulmonary-resuscitation-cpr); for moving casualties see [Wilderness Casualty Care and Evacuation – Moving the casualty](11-wilderness-casualty-care-and-evacuation.md#moving-the-casualty).
 
 ### Ice and falling through
 

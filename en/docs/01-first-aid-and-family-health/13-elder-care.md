@@ -1,4 +1,4 @@
-# Elder care
+# Elder Care
 
 ## Contents
 - [Preventing falls](#preventing-falls)
@@ -283,5 +283,5 @@ For more, see [Mental health - looking after yourself under long-term stress](10
 
 ---
 
-**Next chapter**: [Child safety](14-child-safety.md)
-**Back to**: [Chapter list](README.md) | [Main contents](../../README.md)
+**Next chapter**: [Child Safety](14-child-safety.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

@@ -153,7 +153,7 @@ For more equipment, see [Wilderness Survival Guide – Wilderness survival kit](
      or down
 ```
 
-For more on what to do once lost (the STOP principle), see [Basic Survival Skills – If you get lost](00-basic-survival-skills.md#if-you-are-lost).
+For more on what to do once lost (the STOP principle), see [Basic Survival Skills – If you are lost](00-basic-survival-skills.md#if-you-are-lost).
 
 ---
 
@@ -220,7 +220,7 @@ Related chapters: [Emergency Communication and Finding Family – During a disas
 ✓ If you have water, sip it; share out the food
 ```
 
-For distress signals, see [Basic Survival Skills – Distress signals](00-basic-survival-skills.md#distress-signals); for building a shelter, see [Basic Survival Skills – Building a shelter](00-basic-survival-skills.md#building-shelters).
+For distress signals, see [Basic Survival Skills – Distress signals](00-basic-survival-skills.md#distress-signals); for building a shelter, see [Basic Survival Skills – Building shelters](00-basic-survival-skills.md#building-shelters).
 
 ---
 

@@ -229,7 +229,7 @@ Keeping cool: shut windows and shade them by day, ventilate morning and evening;
   drink plenty, avoid working in the hottest hours
 ```
 
-For long-term housing, see [Long-term Housing](../07-everyday-living-skills/05-long-term-shelter.md); for temporary shelters in the wild, see [Basic Survival Skills – Building a shelter](00-basic-survival-skills.md#building-shelters).
+For long-term housing, see [Long-term Housing](../07-everyday-living-skills/05-long-term-shelter.md); for temporary shelters in the wild, see [Basic Survival Skills – Building shelters](00-basic-survival-skills.md#building-shelters).
 
 ### Safety
 
@@ -370,7 +370,7 @@ Common mistakes:
    fishing and insects
 ```
 
-Related chapters: [Vegetable Growing – Fast-growing vegetables](../04-farming-and-animal-husbandry/01-vegetable-growing.md#fast-growing-vegetables-30-60-days), [Grain Crops – Recommended planting order for beginners](../04-farming-and-animal-husbandry/02-grain-crops.md#recommended-order-for-beginners), [Poultry Keeping](../04-farming-and-animal-husbandry/05-poultry.md), [Aquaculture](../04-farming-and-animal-husbandry/07-aquaculture.md), [Seed Saving and Breeding – Why hybrid seed cannot be saved](../04-farming-and-animal-husbandry/08-seed-saving-and-breeding.md#why-hybrid-f1-seed-cannot-be-saved), [Poisonous Mushrooms and Wild Plants](09-poisonous-mushrooms-and-wild-plants.md#rules-for-gathering-wild-greens-and-fruit), [Basic Survival Skills – Edible plant test](00-basic-survival-skills.md#edibility-test-for-plants).
+Related chapters: [Vegetable Growing – Fast-growing vegetables](../04-farming-and-animal-husbandry/01-vegetable-growing.md#fast-growing-vegetables-30-60-days), [Grain Crops – Recommended planting order for beginners](../04-farming-and-animal-husbandry/02-grain-crops.md#recommended-order-for-beginners), [Poultry Keeping](../04-farming-and-animal-husbandry/05-poultry.md), [Aquaculture](../04-farming-and-animal-husbandry/07-aquaculture.md), [Seed Saving and Breeding – Why hybrid seed cannot be saved](../04-farming-and-animal-husbandry/08-seed-saving-and-breeding.md#why-hybrid-f1-seed-cannot-be-saved), [Poisonous Mushrooms and Wild Plants](09-poisonous-mushrooms-and-wild-plants.md#rules-for-gathering-wild-greens-and-fruit), [Basic Survival Skills – Edibility test for plants](00-basic-survival-skills.md#edibility-test-for-plants).
 
 **Energy**:
 ```

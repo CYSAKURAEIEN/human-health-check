@@ -430,7 +430,7 @@ Details of staying put:
 
 **Trapped high up**:
 ```
-⚠️ Do not jump! (fatal from above the 3rd floor)
+⚠️ Do not jump! (fatal from 3 storeys up)
 
 Options:
 1. Stay put in the room (as above)
@@ -443,7 +443,7 @@ Options:
 ```
 
 ```
-⚠️ Even from a low floor, do not jump lightly: even from the 2nd floor, jumping often causes
+⚠️ Even from a low floor, do not jump lightly: even from the second storey, jumping often causes
    fractures and spinal and head injuries
    Only consider it on a low floor when the fire has entered the room and there truly is no
    other way out:
@@ -656,11 +656,11 @@ Choosing for the home:
 
 **How to use it**:
 ```
-Lift - pull - hold - press:
+Lift - pull - hold - squeeze:
 1. Lift the extinguisher
 2. Pull out the safety pin
 3. Hold the hose
-4. Press the handle
+4. Squeeze the handle
 5. Aim at the base of the flames
 6. Sweep from side to side
 7. From 3-5 m away
@@ -671,7 +671,7 @@ Details:
 - Before using a dry powder extinguisher, turn it upside down and shake it a few times
   to loosen caked powder
 - Carry it to 3-5 m from the fire and stand upwind
-- Hold the hose with one hand, aimed at the base of the flames (not the tips), and press the
+- Hold the hose with one hand, aimed at the base of the flames (not the tips), and squeeze the
   handle hard with the other
 - Sweep from side to side, working from near to far, pushing the fire back until it is
   completely out
@@ -683,9 +683,9 @@ This is the same as "PASS", as it is often taught abroad:
   Pull (the pin) - Aim (at the base) - Squeeze (the handle) - Sweep (side to side)
 ```
 
-![Using a fire extinguisher: lift, pull, hold, press; aim at the base of the flames and sweep from side to side, 3-5 m away, standing upwind](../../images/fire-extinguisher.svg)
+![Using a fire extinguisher: lift, pull, hold, squeeze; aim at the base of the flames and sweep from side to side, 3-5 m away, standing upwind](../../images/fire-extinguisher.svg)
 
-*Figure: Lift the extinguisher, pull out the safety pin, hold the hose, press the handle; stand upwind 3-5 m from the fire, aim at the base of the flames and sweep from side to side, near to far. If the fire is still burning when the extinguisher is empty, leave immediately and shut the door behind you*
+*Figure: Lift the extinguisher, pull out the safety pin, hold the hose, squeeze the handle; stand upwind 3-5 m from the fire, aim at the base of the flames and sweep from side to side, near to far. If the fire is still burning when the extinguisher is empty, leave immediately and shut the door behind you*
 
 **Never**:
 ```
@@ -711,7 +711,7 @@ Using fire safely outdoors:
   - Bury it thoroughly with soil
   - Check there are no flames or smouldering embers
 ✓ Do not:
-  - Throw away cigarette ends
+  - Drop cigarette ends carelessly
   - Burn rubbish
   - Set off fireworks
 ```
@@ -1118,7 +1118,7 @@ Escaping:
 In a nutshell:
 - To report a fire: 119 (forest fires 12119); say the address, what is burning and whether
   anyone is trapped
-- Fire extinguisher: lift, pull, hold, press; aim at the base of the flames; if you cannot
+- Fire extinguisher: lift, pull, hold, squeeze; aim at the base of the flames; if you cannot
   put it out, leave and shut the door behind you
 - Pan fire: turn off the heat, put the lid on, never throw water
 - Appliances: cut the power first, then put out the fire

@@ -286,7 +286,7 @@ For recognising and treating shock, see [Basic first aid - Shock](00-basic-first
 - Chest pain, difficulty breathing
 - Swelling, pain and redness in one calf (possible blood clot)
 - Red, swollen, hot, painful breast with fever
-- Persistent low mood or anxiety, or thoughts of harming herself or the baby (call 12356)
+- Persistent low mood or anxiety, or thoughts of harming herself or the baby (you can call 12356)
 ```
 
 For recognising emotional problems and suicide risk after birth, see [Mental Health](10-mental-health.md).
@@ -367,4 +367,4 @@ Also: lips that stay blue, repeated vomiting (especially green vomit), or a seri
 ---
 
 **Next chapter**: [Poisoning](12-poisoning.md)
-**Back**: [Part contents](README.md) | [Main contents](../../README.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

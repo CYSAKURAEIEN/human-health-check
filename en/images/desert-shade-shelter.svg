@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 864" width="720" height="864" role="img" aria-label="Daytime shade in the desert: a pit shade is a shallow trench long enough to lie in, about 40-60 cm deep, with its long side running east-west; pile the dug-out sand on both sides to hold the edges of the cloth; cover with one cloth, then add a second layer about 20-30 cm above it; the air between insulates; put the light, reflective side up. At midday the surface of sand and rock can be 20-30 °C hotter than the air, while sand a few tens of cm below the surface is much cooler. Shade beside a vehicle: fix one edge of the cloth to the roof or side of the vehicle and prop the other edge up with sticks, stones or the spare wheel, pulled tight with a gap for ventilation; sit on a mat to rest, and do not stay in the vehicle with the doors and windows shut. Daily plan: walk for a few hours around dawn, set up shade in the morning, stay still in the shade from about 10:00 to 18:00, walk again after sunset in the evening, and keep warm at night">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 864" width="720" height="864" role="img" aria-label="Daytime shade in the desert: a pit shade is a shallow trench long enough to lie in, about 40-60 cm deep, with its long side running east-west; pile the dug-out sand on both sides to hold the edges of the cloth; cover with one cloth, then add a second layer about 20-30 cm above it; the air between insulates; put the light, reflective side up. At midday the surface of sand and rock can be 20-30°C hotter than the air, while sand a few tens of cm below the surface is much cooler. Shade beside a vehicle: fix one edge of the cloth to the roof or side of the vehicle and prop the other edge up with sticks, stones or the spare wheel, pulled tight with a gap for ventilation; sit on a mat to rest, and do not stay in the vehicle with the doors and windows shut. Daily plan: walk for a few hours around dawn, set up shade in the morning, stay still in the shade from about 10:00 to 18:00, walk again after sunset in the evening, and keep warm at night">
 <rect width="100%" height="100%" fill="#fff"/>
 <title>Desert shade shelters</title>
 <defs>
@@ -51,7 +51,7 @@
 <!-- temperature -->
 <text x="26" y="198" font-size="13" fill="#c33">hot surface</text>
 <text x="26" y="280" font-size="13" fill="#5a4a2a">cool below</text>
-<text x="20" y="314" font-size="13" fill="#c33">⚠ At summer midday, sand and rock surfaces can be 20-30 °C</text>
+<text x="20" y="314" font-size="13" fill="#c33">⚠ At summer midday, sand and rock surfaces can be 20-30°C</text>
 <text x="20" y="332" font-size="13" fill="#c33">  hotter than the air: sitting or lying on them is like being "seared"</text>
 <text x="20" y="356" font-size="13">Shade moves: plan where to shift to as the sun moves round</text>
 <!-- labels -->
@@ -147,7 +147,7 @@
 <circle cx="262" cy="190" r="2.5" fill="#0b5cad"/>
 <text x="430" y="176" font-size="13" fill="#0b5cad">Cover head and neck; sit on a mat</text>
 <text x="430" y="202" font-size="13" font-weight="bold" fill="#c33">⚠ By day, don't sit in a shut vehicle:</text>
-<text x="430" y="219" font-size="13" fill="#c33">in sun it soon passes 50-60 °C; open the</text>
+<text x="430" y="219" font-size="13" fill="#c33">in sun it soon passes 50-60°C; open the</text>
 <text x="430" y="236" font-size="13" fill="#c33">doors and windows and rest in the shade</text>
 <text x="430" y="253" font-size="13" fill="#c33">beside it</text>
 </g>
@@ -175,7 +175,7 @@
 <text x="640" y="62" text-anchor="middle" font-size="13" fill="#3b4a7a">At night</text>
 <text x="628" y="82" text-anchor="middle" font-size="12" font-weight="bold">walk or rest</text>
 <text x="16" y="118" font-size="12">Dig, carry and forage in the cool hours. In winter the days are not hot: walk by day, and focus on keeping warm at night</text>
-<text x="16" y="140" font-size="12" fill="#3b4a7a">Nights are cold: a 20-30 °C daily swing is common. Dress before dark; insulate from the ground; sleep out of the wind</text>
+<text x="16" y="140" font-size="12" fill="#3b4a7a">Nights are cold: a 20-30°C daily swing is common. Dress before dark; insulate from the ground; sleep out of the wind</text>
 </g>
 </g>
 </svg>

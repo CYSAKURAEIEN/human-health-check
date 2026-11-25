@@ -278,7 +278,7 @@ This part covers prevention, response and self-rescue for all kinds of natural a
 ```
 ✓ Life first, property second
 ✓ Follow professional direction
-✓ Do not go back without thinking
+✓ Do not rush back in
 ✓ Help others (as long as it is safe)
 ✓ Keep in contact
 ✓ Record and keep evidence

@@ -2,7 +2,7 @@
 
 > In real life, being "stranded on a desert island" usually happens after a boat gets into trouble, a small boat drifts, or someone gathering shellfish is cut off on a sandbar by the tide. Most islands are not far from shipping lanes, fishing grounds or inhabited islands. **The key to staying alive is to keep warm and keep hydrated, make yourself seen, and wait for rescue**, not to settle there for good.
 >
-> If your phone has signal, call for help first: for distress at sea call 12395; you can also call 110 or 120. For how to give your location clearly when you call, see [Outdoor Trip Preparation and Calling for Help – Calling for help](07-trip-preparation-and-calling-for-help.md#calling-for-help-say-clearly-where-you-are).
+> If your phone has signal, call for help first: for distress at sea call 12395; you can also call 110 or 120. For how to give your location clearly when you call, see [Trip Preparation and Calling for Help – Calling for help](07-trip-preparation-and-calling-for-help.md#calling-for-help-say-clearly-where-you-are).
 
 ## Priorities
 
@@ -66,7 +66,7 @@ With children, older people or injured people:
   and give it to the doctor when rescue comes
 ```
 
-For assessing the scene, stopping bleeding and CPR see [Basic First Aid](../01-first-aid-and-family-health/00-basic-first-aid.md); for caring for injured people in the wild and recording injuries see [Treating and Evacuating Casualties in the Wild – Write a casualty record](11-wilderness-casualty-care-and-evacuation.md#write-a-casualty-record); for care after someone is pulled out of the water see [Acute Symptoms – Drowning](../01-first-aid-and-family-health/05-acute-symptoms.md#drowning).
+For assessing the scene, stopping bleeding and CPR see [Basic First Aid](../01-first-aid-and-family-health/00-basic-first-aid.md); for caring for injured people in the wild and recording injuries see [Wilderness Casualty Care and Evacuation – Write a casualty record](11-wilderness-casualty-care-and-evacuation.md#write-a-casualty-record); for care after someone is pulled out of the water see [Acute Symptoms – Drowning](../01-first-aid-and-family-health/05-acute-symptoms.md#drowning).
 
 ## Water
 
@@ -439,7 +439,7 @@ More:
 - Dead dry palm leaves and the net-like fibre on palm trunks also work well
 - On sunny days spread tinder and kindling out to dry in advance,
   then keep them inside the shelter
-- With glasses, a magnifying glass, the concave reflector of a torch, or a clear bottle
+- With glasses, a magnifying glass, the reflector bowl of a torch, or a clear bottle
   full of clean water, you can focus sunlight to light a fire on sunny days
 ```
 
@@ -474,7 +474,7 @@ Note:
 ⚠️ Keep the fire well away from the shelter's leaf roof so sparks cannot set it alight
 ```
 
-For methods of lighting a fire see [Basic Survival Skills – Fire-lighting methods](00-basic-survival-skills.md#ways-to-make-fire); for keeping embers see [Basic Survival Skills – Keeping embers alive](00-basic-survival-skills.md#keeping-fire).
+For methods of lighting a fire see [Basic Survival Skills – Ways to make fire](00-basic-survival-skills.md#ways-to-make-fire); for keeping embers see [Basic Survival Skills – Keeping fire](00-basic-survival-skills.md#keeping-fire).
 
 ## Food
 
@@ -538,7 +538,7 @@ Methods:
 - Improvised net (clothing)
 
 Tips:
-- Attract fish with a torch at night
+- Attract fish at night with a burning torch
 - Fish come into the shallows on the rising tide
 ```
 
@@ -574,7 +574,7 @@ For pufferfish, ciguatera and the like see [Marine Disasters – Other toxic sea
 **Crabs**:
 ```
 - Active at night
-- Lure them with a light/torch
+- Lure them with a lamp or a burning torch
 - Watch out for the claws
 - Cook them thoroughly
 ```
@@ -656,7 +656,7 @@ Common:
   it is not safe for deadly poisonous plants and does not work for mushrooms
 ```
 
-For the limits of the edibility test see [Basic Survival Skills – Testing plants for edibility](00-basic-survival-skills.md#edibility-test-for-plants); for wild greens and mushrooms see [Poisonous Mushrooms and Wild Plant Poisoning](09-poisonous-mushrooms-and-wild-plants.md).
+For the limits of the edibility test see [Basic Survival Skills – Edibility test for plants](00-basic-survival-skills.md#edibility-test-for-plants); for wild greens and mushrooms see [Poisonous Mushrooms and Wild Plants](09-poisonous-mushrooms-and-wild-plants.md).
 
 **Insects**:
 ```
@@ -706,7 +706,7 @@ Most effective by day:
 At night:
 - Three fires
 - Tall flames
-- On a clear night visible from the air for more than ten-odd km
+- On a clear night visible from the air at a dozen km or more
 ```
 
 **Reflection**:
@@ -897,7 +897,7 @@ For snakebites see [Wound and Injury Care – Snakebites](../01-first-aid-and-fa
 ```
 More:
 - Shake out your shoes and clothes before putting them on in the morning
-- At night walk with a torch or flashlight and sweep the grass ahead with a stick
+- At night walk with a burning torch or a torch (flashlight) and sweep the grass ahead with a stick
 - After a centipede, scorpion or venomous spider bite, rinse and apply a cold compress;
   if there are symptoms all over the body, or a child is bitten, get medical help quickly
 - Mosquitoes: use smoke, wear long sleeves, cover up when sleeping;
@@ -967,7 +967,7 @@ What to do:
   do not walk barefoot on reefs, and do not let the waves push you onto the reef
 ```
 
-For wound care and signs of infection see [Wound and Injury Care – Cuts and grazes](../01-first-aid-and-family-health/02-wounds-and-injuries.md#cuts-and-grazes) and [Treating and Evacuating Casualties in the Wild – Wounds](11-wilderness-casualty-care-and-evacuation.md#wounds); for tetanus see [Wound and Injury Care – Preventing tetanus](../01-first-aid-and-family-health/02-wounds-and-injuries.md#tetanus-prevention); for the dangers of seawater wounds see [Marine Disasters – Swimming and other precautions](../02-disaster-response/03-ocean-disasters.md#swimming-and-other-precautions).
+For wound care and signs of infection see [Wound and Injury Care – Cuts and grazes](../01-first-aid-and-family-health/02-wounds-and-injuries.md#cuts-and-grazes) and [Wilderness Casualty Care and Evacuation – Wounds](11-wilderness-casualty-care-and-evacuation.md#wounds); for tetanus see [Wound and Injury Care – Preventing tetanus](../01-first-aid-and-family-health/02-wounds-and-injuries.md#tetanus-prevention); for the dangers of seawater wounds see [Marine Disasters – Swimming and other precautions](../02-disaster-response/03-ocean-disasters.md#swimming-and-other-precautions).
 
 **Tides**:
 ```

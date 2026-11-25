@@ -174,9 +174,9 @@ When eating:
 
 ### About the "edibility test"
 
-Some survival guides describe a step-by-step "universal edibility test". **This test cannot detect slow-acting toxins** (the toxins of poisonous mushrooms and some plants take hours to days to act), **and it does not work at all for mushrooms**. People can go several weeks without food, but eating a highly toxic plant once can kill. See the warning in [Basic Survival Skills – Edible plant test](00-basic-survival-skills.md#edibility-test-for-plants).
+Some survival guides describe a step-by-step "universal edibility test". **This test cannot detect slow-acting toxins** (the toxins of poisonous mushrooms and some plants take hours to days to act), **and it does not work at all for mushrooms**. People can go several weeks without food, but eating a highly toxic plant once can kill. See the warning in [Basic Survival Skills – Edibility test for plants](00-basic-survival-skills.md#edibility-test-for-plants).
 
-More reliable sources of food in the wild are insects, fish and plants you can identify with certainty; see [Basic Survival Skills – Finding food](00-basic-survival-skills.md#getting-food).
+More reliable sources of food in the wild are insects, fish and plants you can identify with certainty; see [Basic Survival Skills – Getting food](00-basic-survival-skills.md#getting-food).
 
 ---
 

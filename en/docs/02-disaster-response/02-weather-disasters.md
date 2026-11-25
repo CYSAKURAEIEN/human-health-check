@@ -587,7 +587,7 @@ When you receive a relocation notice or hear the alarm:
    when the water rose again or houses collapsed)
 
 If there is no time to leave and you are trapped:
-✓ Get up high: the first floor or above of a solid building, a roof, high ground, a sturdy
+✓ Get up high: the second storey or higher of a solid building, a roof, high ground, a sturdy
   large tree
 ❌ Do not shelter in mud-brick houses or single-storey brick-and-timber houses: once soaked,
    the walls can suddenly collapse in whole sections
@@ -1197,8 +1197,8 @@ When you receive a high-temperature warning:
   pairs and watch each other
 
 ⚠️ Dizziness, nausea, heavy sweating that suddenly stops, very high body temperature,
-   confusion or fits → this may be heatstroke; call 120
-   at once, and meanwhile move the person into the shade and cool them quickly
+   confusion or fits → this may be heatstroke; call 120 at once, and meanwhile move
+   the person into the shade and cool them quickly
 ```
 
 For the grades of heat illness, cooling methods, high-risk groups and how much to drink, see [Acute symptoms – Heatstroke](../01-first-aid-and-family-health/05-acute-symptoms.md#heatstroke); for caring for older people see [Elder care – Extreme weather](../01-first-aid-and-family-health/13-elder-care.md#extreme-weather).

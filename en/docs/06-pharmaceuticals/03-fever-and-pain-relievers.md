@@ -142,7 +142,7 @@ How to take it (adults; follow the package leaflet):
   other bleeding disorders
 - People taking anticoagulants (such as warfarin) or other anti-platelet drugs
 - Before and after tooth extraction or surgery (ask the doctor first)
-⚠️ Use with caution: breastfeeding, gout, liver or kidney impairment, long-term heavy drinking
+⚠️ Use with caution: breastfeeding, gout, liver or kidney impairment, long-term drinking
 
 ⚠️ Aspirin hidden in other medicines:
 - Some combination cold remedies and pain powders contain aspirin; the ingredient
@@ -209,7 +209,7 @@ Dose (consistent with the "Common Illnesses" chapter; follow the leaflet of the 
 - Children: 10-15 mg/kg body weight per dose, at least 4 hours apart, no more than
   4 times in 24 hours; can be used from 3 months; for 3-6 months ideally ask a doctor
   first; any fever under 3 months → go straight to a doctor
-- Adults who drink heavily over the long term, have liver disease, are malnourished
+- Adults who drink alcohol long-term, have liver disease, are malnourished
   or weigh <50 kg: the daily total must be lower; ask a doctor first
 
 ✓ People for whom paracetamol is the better choice:
@@ -258,7 +258,7 @@ Treat all of these as "possible overdose" and see a doctor immediately:
 - Someone has swallowed clearly more than the leaflet's amount in one go
 - Every dose has been over the limit for several days, or several medicines
   containing paracetamol have been taken at the same time
-- Someone who drinks heavily, has liver disease or is malnourished has reached the
+- Someone who drinks alcohol long-term, has liver disease or is malnourished has reached the
   leaflet's maximum and is still taking more
 
 When going to hospital:
@@ -378,7 +378,7 @@ For:
 - Do not give herbal decoctions to babies under 1 year to bring down fever yourself;
   do not use mint or menthol oils near the mouth or nose of babies and toddlers
   (they may cause breathing to stop)
-- Pregnant women: Chuanxiong promotes blood circulation; use with caution in pregnancy;
+- Pregnant women: *Chuanxiong* promotes blood circulation; use with caution in pregnancy;
   ask a doctor before using the other herbs too
 - If fever medicine has already been taken, drinking a "sweating" decoction as well
   risks too much sweating and dehydration
@@ -408,7 +408,7 @@ For identifying herbs and toxic plants that are easily confused with them, see [
    - Arms and legs
    - Back
 4. Wipe every 15-30 minutes
-5. Drink plenty
+5. Drink plenty of water
 
 Do not:
   - Use it while the person is shivering (it makes it worse)
@@ -466,7 +466,7 @@ For how to make oral rehydration salts, see [Common Illnesses – Diarrhoea](../
 - Children: any fever under 3 months needs a doctor; do not give medicine yourself;
   3-6 months: armpit ≥38.2°C or clearly unwell (paracetamol only, ideally ask a doctor first); over 6 months: armpit ≥38.2°C or clearly unwell
 - Temperature ≥40°C: see a doctor immediately; while waiting, give fever medicine as the leaflet says, with tepid sponging as support
-- Below these thresholds, alert, eating and drinking: medicine is usually unnecessary; drink plenty, rest and keep the patient comfortable
+- Below these thresholds, alert, eating and drinking: medicine is usually unnecessary; drink plenty of water, rest and keep the patient comfortable
 
 **Special groups:**
 - Pregnant women: contact the obstetrician about any fever ≥38°C; paracetamol is the first choice for bringing it down
@@ -525,7 +525,7 @@ How to choose:
   short-term, as the leaflet says
 - Stomach problems, tendency to bleed, taking anticoagulants, kidney disease,
   dehydration, asthma: paracetamol
-- Liver disease, long-term heavy drinking: ask a doctor before using either
+- Liver disease, long-term drinking: ask a doctor before using either
 - Sprains, toothache, period pain and other pain with swelling and inflammation:
   ibuprofen usually works better
 
@@ -641,7 +641,7 @@ For details, see [Dental Problems – Toothache](../01-first-aid-and-family-heal
 **Ordinary abdominal pain:**
 - Warm compress
 - Abdominal massage
-- Chinese medicine: *Baohe Wan* (Harmony-Preserving Pill), *Huoxiang Zhengqi San* (Agastache Qi-Correcting Powder), etc.
+- Chinese medicine: *Baohe Wan* (Harmony-Preserving Pill), *Huoxiang Zhengqi San* (Patchouli Qi-Correcting Powder), etc.
 
 ```
 ⚠️ Note:
@@ -801,16 +801,16 @@ For decisions about expired medicines in extreme situations, see [Making Antibio
 
 **Dried:**
 - Willow bark: 500 g
-- Baizhi: 200 g
-- Chuanxiong: 200 g
-- Juhua (chrysanthemum): 500 g
-- Bohe (mint): 200 g
+- *Baizhi*: 200 g
+- *Chuanxiong*: 200 g
+- *Juhua* (chrysanthemum): 500 g
+- *Bohe* (mint): 200 g
 
 **Fresh (can be grown):**
 - Fresh ginger
 - Spring onion
 - Mint
-- Yuxingcao
+- *Yuxingcao*
 
 ---
 
@@ -849,7 +849,7 @@ For decisions about expired medicines in extreme situations, see [Making Antibio
 
 **A: Not necessarily!**
 - Whether to use medicine depends on the temperature and the person's state; for the thresholds, see 5.1
-- Below the threshold, alert and drinking: drink plenty and rest; physical cooling is only supportive
+- Below the threshold, alert and drinking: drink plenty of water and rest; physical cooling is only supportive
 - The aim of bringing fever down is to make the person comfortable, able to drink and sleep, not to force the temperature back to normal
 - Fever in a baby under 3 months: do not give medicine yourself; go straight to a doctor
 
@@ -886,7 +886,7 @@ For decisions about expired medicines in extreme situations, see [Making Antibio
 ### 9.2 Priority strategy
 
 **Always do: nursing care**
-- Drink plenty, rest, suitable clothing and room temperature
+- Drink plenty of water, rest, suitable clothing and room temperature
 - Tepid sponging, cold compresses and other physical methods are only supportive; just make the person comfortable
 - Watch for danger signs, and see a doctor when needed
 
@@ -896,7 +896,7 @@ For decisions about expired medicines in extreme situations, see [Making Antibio
 - But not sustainable, so use them sparingly, rotate them and prevent expiry
 
 **Tier 2: Natural remedies**
-- Willow bark, Baizhi, fresh ginger, etc.
+- Willow bark, *Baizhi*, fresh ginger, etc.
 - Weak; suit low fever and mild to moderate pain
 - Sustainable, but they also have contraindications
 

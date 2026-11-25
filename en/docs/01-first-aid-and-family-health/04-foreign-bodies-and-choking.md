@@ -1120,5 +1120,5 @@ Any object that goes into the skin (especially rusty ones, ones soiled with eart
 
 ---
 
-**Next chapter**: [Acute symptoms](05-acute-symptoms.md)
-**Back**: [Chapter list](README.md) | [Main contents](../../README.md)
+**Next chapter**: [Acute Symptoms](05-acute-symptoms.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

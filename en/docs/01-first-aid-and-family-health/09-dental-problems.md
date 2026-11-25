@@ -60,7 +60,7 @@ For the usual doses of painkillers and precautions, see the "Medicines to bring 
 ❌ Do not put a hot compress on a swollen face (it may help the infection spread)
 ❌ Do not stuff the hole in the tooth with tobacco, Sichuan pepper, garlic, or cotton soaked in baijiu (Chinese spirit), etc.
    - Garlic in direct contact with the lining of the mouth causes a chemical burn
-❌ Do not think that taking "anti-inflammatories" will cure it
+❌ Do not think that taking antibiotics (popularly called "anti-inflammatory medicine") will cure it
    - Antibiotics can only hold back the spread of infection for a while; they cannot cure a rotten tooth.
      The real fix is a filling, root canal treatment or extraction
 ```
@@ -265,7 +265,7 @@ No toothbrush:
 2. Permanent tooth knocked out: hold the crown, do not touch the root, do not scrub or wipe it, do not soak it in plain water; put it back within 15 minutes or keep it in milk and go to a dentist
 3. Do not put a knocked-out baby tooth back
 4. Do not put aspirin on the gum (it burns)
-5. "Anti-inflammatories" cannot cure a rotten tooth; the real fix comes from a dentist
+5. Antibiotics cannot cure a rotten tooth; the real fix comes from a dentist
 6. A mouth ulcer that has not healed after 2 weeks needs a doctor
 7. Brushing every day and eating less sugar is the easiest way
 ```
@@ -273,4 +273,4 @@ No toothbrush:
 ---
 
 **Next chapter**: [Mental Health](10-mental-health.md)
-**Back**: [Part contents](README.md) | [Main contents](../../README.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

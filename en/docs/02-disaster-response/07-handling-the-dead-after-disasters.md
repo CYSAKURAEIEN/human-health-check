@@ -169,7 +169,7 @@ The bodies of people who died of cholera, Ebola or other dangerous infectious di
 ✓ Items used by the deceased and their bodily wastes are treated with strong disinfectant
 ```
 
-For making up disinfectant see [Preventing Infectious Diseases at Home – Making household disinfectant](../01-first-aid-and-family-health/15-infectious-disease-at-home.md#making-household-disinfectant).
+For making up disinfectant see [Infectious Disease at Home – Making household disinfectant](../01-first-aid-and-family-health/15-infectious-disease-at-home.md#making-household-disinfectant).
 
 ---
 

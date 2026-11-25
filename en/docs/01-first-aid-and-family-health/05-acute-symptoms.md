@@ -1367,5 +1367,5 @@ For cardiovascular and cerebrovascular emergencies (stroke, heart attack, low bl
 
 ---
 
-**Next chapter**: [Heart, stroke and sudden illness](06-heart-stroke-and-sudden-illness.md)
-**Back**: [Chapter list](README.md) | [Main contents](../../README.md)
+**Next chapter**: [Heart, Stroke and Sudden Illness](06-heart-stroke-and-sudden-illness.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

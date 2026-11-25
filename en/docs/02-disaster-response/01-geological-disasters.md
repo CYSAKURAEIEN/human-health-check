@@ -45,7 +45,7 @@ Ways to receive a warning:
 - Television, radio, emergency broadcasting, school and community sirens
 
 How to use those few seconds after a warning:
-✓ Very little warning time (under about ten seconds): do not run downstairs; take cover
+✓ Very little warning time (fifteen seconds or less): do not run downstairs; take cover
   where you are immediately (Drop, Cover, Hold on)
 ✓ More time, and you are in a single-storey house or on the ground floor with the door
   right beside you: you can run quickly out to open ground
@@ -150,7 +150,7 @@ Tall buildings sway more, and for longer, than low floors. Bookcases, television
 **In a lift** (if you happen to be in a lift during an earthquake):
 
 ```
-1. Press the buttons for all floors; get out at the first floor where the lift stops and
+1. Press the buttons for all floors; get out as soon as the lift stops at a floor and
    use the stairs instead
 2. If trapped in the lift: do not force the doors open, do not climb out through the roof
 3. Call for help with the lift intercom or alarm button, or your phone; stay calm, crouch
@@ -868,7 +868,7 @@ Also note that **not every steep slope is dangerous, and not every gentle slope 
 
 3. At home:
    - Leave at once if you hear unusual sounds
-   - Do not hesitate to gather belongings
+   - Do not waste time gathering belongings
 
 4. In a vehicle:
    - If you see falling rocks or a collapse on the road ahead, stop at once or reverse

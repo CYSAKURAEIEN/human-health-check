@@ -208,7 +208,7 @@ Additional notes:
   and you may only use plants confirmed to be non-poisonous
 ```
 
-For how to make a transpiration bag see [Basic Survival Skills – Water from plants](00-basic-survival-skills.md#getting-water-from-plants).
+For how to make a transpiration bag see [Basic Survival Skills – Getting water from plants](00-basic-survival-skills.md#getting-water-from-plants).
 
 **Solar still** (a last resort):
 ```
@@ -299,7 +299,7 @@ Building:
 
 ```
 Additional notes:
-- At midday in summer the surface of sand and rock can be 20-30 degrees hotter than the air;
+- At midday in summer the surface of sand and rock can be 20-30°C hotter than the air;
   sitting or lying directly on it is like being "branded"; the sand a few tens of cm below the surface is much cooler
 - Sunshade beside the vehicle: fix one edge of a shade cloth, tarpaulin or car cover to the roof or side of the vehicle,
   and prop the other edge up with stones, sticks or the spare tyre to make a sloping patch of shade;
@@ -350,7 +350,7 @@ Methods:
 ✓ Move your body
 ```
 
-Desert air is dry and there are few clouds, so as soon as the sun sets the ground's heat escapes quickly into the sky; the temperature range over a day is often 20-30 degrees. Heatstroke by day and shivering with cold at night are both common in the desert. **In winter, nights in China's deserts and gobi can fall to -20 to -30°C, and then hypothermia is more dangerous than heatstroke**; prepare following the principles in [Snow and Polar Survival](04-snow-and-polar-survival.md) and [Hypothermia in the wild](08-river-crossing-flash-floods-and-hypothermia.md#not-only-in-winter-hypothermia-outdoors).
+Desert air is dry and there are few clouds, so as soon as the sun sets the ground's heat escapes quickly into the sky; the temperature range over a day is often 20-30°C. Heatstroke by day and shivering with cold at night are both common in the desert. **In winter, nights in China's deserts and gobi can fall to -20 to -30°C, and then hypothermia is more dangerous than heatstroke**; prepare following the principles in [Snow and Polar Survival](04-snow-and-polar-survival.md) and [River Crossing, Flash Floods and Hypothermia – Not only in winter: hypothermia outdoors](08-river-crossing-flash-floods-and-hypothermia.md#not-only-in-winter-hypothermia-outdoors).
 
 ```
 How to do it:
@@ -367,7 +367,7 @@ How to do it:
 - Violent shivering, clumsy movements and slurred speech are signs of hypothermia; see the hypothermia sections
 ```
 
-For fire-lighting methods see [Basic Survival Skills – Fire-lighting](00-basic-survival-skills.md#making-fire).
+For fire-lighting methods see [Basic Survival Skills – Making fire](00-basic-survival-skills.md#making-fire).
 
 ## Navigation
 
@@ -477,7 +477,7 @@ Additional notes:
 - When several people walk at night, do not let gaps open up; count heads regularly
 ```
 
-For finding direction by the stars see [Basic Survival Skills – The star method](00-basic-survival-skills.md#star-methods-at-night); for more precise methods see [Advanced Celestial Navigation](../09-advanced-science-and-engineering/09-celestial-navigation.md#2-finding-direction-precisely).
+For finding direction by the stars see [Basic Survival Skills – Star methods (at night)](00-basic-survival-skills.md#star-methods-at-night); for more precise methods see [Advanced Celestial Navigation](../09-advanced-science-and-engineering/09-celestial-navigation.md#2-finding-direction-precisely).
 
 ### Stay put or not?
 
@@ -541,7 +541,7 @@ If you decide to walk:
   and the others who are fit go together to get help
 ```
 
-For more on deciding whether to wait or get yourself out see [Wilderness Casualty Care and Evacuation – Wait where you are or get yourself out](11-wilderness-casualty-care-and-evacuation.md#waiting-where-you-are-or-getting-yourselves-out).
+For more on deciding whether to wait or get yourself out see [Wilderness Casualty Care and Evacuation – Waiting where you are or getting yourselves out](11-wilderness-casualty-care-and-evacuation.md#waiting-where-you-are-or-getting-yourselves-out).
 
 ## Moving
 
@@ -660,7 +660,7 @@ Getting them:
 - Always cook wild animals thoroughly; wild animals may carry parasites and disease
 ```
 
-For insects and the edibility test for plants see [Basic Survival Skills – Finding food](00-basic-survival-skills.md#getting-food); for eating the wrong wild plants see [Poisonous Mushrooms and Wild Plants](09-poisonous-mushrooms-and-wild-plants.md).
+For insects and the edibility test for plants see [Basic Survival Skills – Getting food](00-basic-survival-skills.md#getting-food); for eating the wrong wild plants see [Poisonous Mushrooms and Wild Plants](09-poisonous-mushrooms-and-wild-plants.md).
 
 ## Signals
 

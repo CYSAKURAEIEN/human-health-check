@@ -8,7 +8,7 @@
 
 ## Carbon monoxide poisoning
 
-Carbon monoxide has no colour and no smell. People are poisoned without noticing, and it is especially dangerous during sleep. Every winter many people die from heating and bathing.
+Carbon monoxide has no colour and no smell. People are poisoned without noticing, and it is especially dangerous during sleep. Every winter many people die of it while heating their homes or taking a bath or shower.
 
 ### Common sources
 
@@ -104,7 +104,7 @@ Many road deaths and injuries happen after the accident itself: people and cars 
    - Do not stand behind the car; do not stay in the traffic lanes
 4. Put out the warning sign (warning triangle):
    - Ordinary roads: 50-100 m behind the car
-   - Motorway: more than 150 m back, facing the oncoming traffic
+   - Motorway: more than 150 m back, towards the oncoming traffic
    - At night, also switch on the side lights and rear lights
    - Walk facing the oncoming traffic while placing it, and watch for vehicles behind you
 5. Put on a reflective vest if you have one
@@ -203,4 +203,4 @@ For a fuller in-car emergency kit, see [Disaster response - In-car emergency kit
 ---
 
 **Next chapter**: [Chronic Medication Stockpile](08-chronic-medication-stockpile.md)
-**Back**: [Part contents](README.md) | [Main contents](../../README.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)
