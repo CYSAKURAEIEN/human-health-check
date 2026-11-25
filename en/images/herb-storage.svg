@@ -1,0 +1,247 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1262" width="720" height="1262" role="img" aria-label="Storing medicinal herbs: four kinds of spoilage. Mould shows as white, green or black fuzz or spots on the surface and a musty smell; it mostly affects herbs rich in sugar, starch or mucilage; causes are about 20-35°C, damp air and herbs not fully dried; prevent it by drying thoroughly, sealing against damp, storing somewhere cool and re-drying in the sun regularly. Insect damage shows as bore holes, insect dust and webbing; it mostly affects herbs rich in starch, sugar or protein, and animal medicines; prevent it by keeping herbs dry and sealed, and by re-drying in the sun or baking at low heat. Going oily (fanyou) shows as a sticky, darkened, oily surface with a rancid smell; it mostly affects oily and sugary herbs; prevent it with cool, dark, sealed storage, without crushing, and do not store too long. Fading and loss of aroma show as colour turning dull and brown and scent growing faint; it mostly affects flowers, leaves and aromatic herbs; prevent it with dark, sealed, cool storage, and replace flowers and leaves after about 1 year. Storage conditions: cool, ideally not above about 20-25°C; relative humidity below about 75%; dark; storeroom ventilated but containers sealed; off the floor and away from walls. Lime jar: quicklime wrapped in cloth at the bottom, a wooden board or bamboo mat in between, herbs on top, lid on tight; quicklime gets very hot when it meets water, so wrap it well, set it firmly and keep children away. Containers: clay or china jars are the traditional first choice; glass lets light in, so keep it in the dark; tin keeps out damp and rodents but is not for strongly acidic herbs; cloth and paper bags are for short-term use only; thick plastic bags only for fully dried herbs, tied tight inside a second bag. Check every 1-2 months, and throw away the whole bag if it is mouldy" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Storing medicinal herbs</title>
+<g fill="#222">
+<text x="360" y="30" font-size="18" font-weight="bold" text-anchor="middle">Storing herbs: preventing mould, insects, going oily and fading</text>
+<text x="360" y="50" font-size="13" fill="#555" text-anchor="middle">Badly stored herbs lose their effect at best; at worst they go mouldy and form toxins</text>
+<text x="360" y="66" font-size="13" fill="#555" text-anchor="middle">(such as aflatoxins, which boiling does not destroy)</text>
+<g transform="translate(0 16)">
+<rect x="10" y="66" width="170" height="440" rx="8" fill="none" stroke="#999" stroke-width="1.5"/>
+<text x="22" y="90" font-size="16" font-weight="bold" fill="#c33">① Mould</text>
+<text x="22" y="214" font-size="13" font-weight="bold" fill="#555">Signs</text>
+<text x="22" y="231" font-size="13">White, green or black</text>
+<text x="22" y="248" font-size="13">fuzz or spots on the</text>
+<text x="22" y="265" font-size="13">surface; musty smell</text>
+<text x="22" y="291" font-size="13" font-weight="bold" fill="#555">Most likely in</text>
+<text x="22" y="308" font-size="13">herbs rich in sugar,</text>
+<text x="22" y="325" font-size="13">starch or mucilage</text>
+<text x="22" y="351" font-size="13" font-weight="bold" fill="#555">Cause</text>
+<text x="22" y="368" font-size="13">About 20-35°C, damp</text>
+<text x="22" y="385" font-size="13">air, herbs not fully dry</text>
+<text x="22" y="411" font-size="13" font-weight="bold" fill="#555">Prevention</text>
+<text x="22" y="428" font-size="13" fill="#0b5cad">Dry thoroughly; seal</text>
+<text x="22" y="445" font-size="13" fill="#0b5cad">against damp; store</text>
+<text x="22" y="462" font-size="13" fill="#0b5cad">cool; re-sun regularly</text>
+<text x="199" y="214" font-size="13" font-weight="bold" fill="#555">Signs</text>
+<text x="199" y="231" font-size="13">Bore holes, insect dust</text>
+<text x="199" y="248" font-size="13">and webbing; may be</text>
+<text x="199" y="265" font-size="13">eaten hollow to powder</text>
+<text x="199" y="291" font-size="13" font-weight="bold" fill="#555">Most likely in</text>
+<text x="199" y="308" font-size="13">herbs rich in starch,</text>
+<text x="199" y="325" font-size="13">sugar or protein, and</text>
+<text x="199" y="342" font-size="13">animal medicines</text>
+<text x="199" y="368" font-size="13" font-weight="bold" fill="#555">Cause</text>
+<text x="199" y="385" font-size="13">Eggs brought in at</text>
+<text x="199" y="402" font-size="13">harvest or processing;</text>
+<text x="199" y="419" font-size="13">damp in storage</text>
+<text x="199" y="445" font-size="13" font-weight="bold" fill="#555">Prevention</text>
+<text x="199" y="462" font-size="13" fill="#0b5cad">Dry, sealed; re-sun</text>
+<text x="199" y="479" font-size="13" fill="#0b5cad">or bake at low heat</text>
+<text x="376" y="214" font-size="13" font-weight="bold" fill="#555">Signs</text>
+<text x="376" y="231" font-size="13">Surface sticky, darker,</text>
+<text x="376" y="248" font-size="13">oily; rancid smell</text>
+<text x="376" y="274" font-size="13" font-weight="bold" fill="#555">Most likely in</text>
+<text x="376" y="291" font-size="13">oily herbs and</text>
+<text x="376" y="308" font-size="13">sugary herbs</text>
+<text x="376" y="334" font-size="13" font-weight="bold" fill="#555">Cause</text>
+<text x="376" y="351" font-size="13">Heat, long storage,</text>
+<text x="376" y="368" font-size="13">contact with air and</text>
+<text x="376" y="385" font-size="13">light</text>
+<text x="376" y="411" font-size="13" font-weight="bold" fill="#555">Prevention</text>
+<text x="376" y="428" font-size="13" fill="#0b5cad">Cool, dark, sealed;</text>
+<text x="376" y="445" font-size="13" fill="#0b5cad">do not crush; do not</text>
+<text x="376" y="462" font-size="13" fill="#0b5cad">store too long</text>
+<text x="553" y="214" font-size="13" font-weight="bold" fill="#555">Signs</text>
+<text x="553" y="231" font-size="13">Colour turns dull and</text>
+<text x="553" y="248" font-size="13">brown; scent fades</text>
+<text x="553" y="274" font-size="13" font-weight="bold" fill="#555">Most likely in</text>
+<text x="553" y="291" font-size="13">flowers, leaves and</text>
+<text x="553" y="308" font-size="13">aromatic herbs</text>
+<text x="553" y="334" font-size="13" font-weight="bold" fill="#555">Cause</text>
+<text x="553" y="351" font-size="13">Light, oxidation, damp,</text>
+<text x="553" y="368" font-size="13">heat</text>
+<text x="553" y="394" font-size="13" font-weight="bold" fill="#555">Prevention</text>
+<text x="553" y="411" font-size="13" fill="#0b5cad">Dark, sealed, cool;</text>
+<text x="553" y="428" font-size="13" fill="#0b5cad">replace flowers and</text>
+<text x="553" y="445" font-size="13" fill="#0b5cad">leaves after about 1 year</text>
+<rect x="187" y="66" width="170" height="440" rx="8" fill="none" stroke="#999" stroke-width="1.5"/>
+<text x="199" y="90" font-size="16" font-weight="bold" fill="#c33">② Insects</text>
+<rect x="364" y="66" width="170" height="440" rx="8" fill="none" stroke="#999" stroke-width="1.5"/>
+<text x="376" y="90" font-size="16" font-weight="bold" fill="#c33">③ Going oily</text>
+<rect x="541" y="66" width="170" height="440" rx="8" fill="none" stroke="#999" stroke-width="1.5"/>
+<text x="553" y="90" font-size="16" font-weight="bold" fill="#c33">④ Fading and</text>
+<text x="578" y="108" font-size="16" font-weight="bold" fill="#c33">aroma loss</text>
+<g transform="translate(0 16)">
+<ellipse cx="95" cy="138" rx="34" ry="22" fill="#e8cfa0" stroke="#333" stroke-width="1.6"/>
+<ellipse cx="95" cy="138" rx="20.4" ry="13.2" fill="none" stroke="#a8875a" stroke-width="1"/>
+<circle cx="81" cy="132" r="4.5" fill="#fff" stroke="#555" stroke-width="0.8"/>
+<circle cx="103" cy="128" r="4.5" fill="#7fae6a" stroke="#555" stroke-width="0.8"/>
+<circle cx="111" cy="144" r="4.5" fill="#444" stroke="#555" stroke-width="0.8"/>
+<circle cx="89" cy="146" r="4.5" fill="#7fae6a" stroke="#555" stroke-width="0.8"/>
+<circle cx="73" cy="142" r="4.5" fill="#444" stroke="#555" stroke-width="0.8"/>
+<path d="M81,128 l-2,-7 M83,128 l2,-8 M79,130 l-6,-4 M103,124 l-1,-7 M105,125 l4,-6" stroke="#888" stroke-width="1"/>
+<ellipse cx="272" cy="138" rx="34" ry="22" fill="#e8cfa0" stroke="#333" stroke-width="1.6"/>
+<ellipse cx="272" cy="138" rx="20.4" ry="13.2" fill="none" stroke="#a8875a" stroke-width="1"/>
+<circle cx="258" cy="134" r="3.2" fill="#5a3a1a"/>
+<circle cx="278" cy="130" r="3.2" fill="#5a3a1a"/>
+<circle cx="286" cy="144" r="3.2" fill="#5a3a1a"/>
+<circle cx="268" cy="147" r="3.2" fill="#5a3a1a"/>
+<path d="M242,166 q10,-4 20,0 t20,0" fill="none" stroke="#bbb" stroke-width="1"/>
+<circle cx="244" cy="172" r="1.6" fill="#c9a46a"/>
+<circle cx="250" cy="174" r="1.6" fill="#c9a46a"/>
+<circle cx="256" cy="172" r="1.6" fill="#c9a46a"/>
+<circle cx="262" cy="174" r="1.6" fill="#c9a46a"/>
+<circle cx="268" cy="172" r="1.6" fill="#c9a46a"/>
+<circle cx="274" cy="174" r="1.6" fill="#c9a46a"/>
+<circle cx="280" cy="172" r="1.6" fill="#c9a46a"/>
+<circle cx="286" cy="174" r="1.6" fill="#c9a46a"/>
+<circle cx="292" cy="172" r="1.6" fill="#c9a46a"/>
+<g transform="translate(316,120) rotate(30)"><ellipse rx="7" ry="4.5" fill="#6a3a1a" stroke="#333" stroke-width="1"/><circle cx="-8" cy="0" r="2.6" fill="#6a3a1a"/><path d="M-3,-4 l-2,-5 M2,-4 l2,-5 M-3,4 l-2,5 M2,4 l2,5" stroke="#333" stroke-width="1"/></g>
+<ellipse cx="431" cy="142" rx="14" ry="10" fill="#8a5a2b" stroke="#333" stroke-width="1.4"/>
+<ellipse cx="427" cy="138" rx="5" ry="2.5" fill="#fff" opacity="0.6"/>
+<ellipse cx="453" cy="134" rx="14" ry="10" fill="#8a5a2b" stroke="#333" stroke-width="1.4"/>
+<ellipse cx="449" cy="130" rx="5" ry="2.5" fill="#fff" opacity="0.6"/>
+<ellipse cx="471" cy="144" rx="14" ry="10" fill="#8a5a2b" stroke="#333" stroke-width="1.4"/>
+<ellipse cx="467" cy="140" rx="5" ry="2.5" fill="#fff" opacity="0.6"/>
+<path d="M415,160 q34,10 68,0 q-34,14 -68,0 Z" fill="#e8c34a" fill-opacity="0.5" stroke="#c9a227" stroke-width="1"/>
+<path d="M457,144 q-3,6 0,9 q3,-3 0,-9 Z" fill="#e8c34a" stroke="#a07800" stroke-width="0.8"/>
+<ellipse cx="606" cy="128" rx="5" ry="11" transform="rotate(0 606 138)" fill="#f5c518" stroke="#333" stroke-width="1"/>
+<ellipse cx="606" cy="128" rx="5" ry="11" transform="rotate(72 606 138)" fill="#f5c518" stroke="#333" stroke-width="1"/>
+<ellipse cx="606" cy="128" rx="5" ry="11" transform="rotate(144 606 138)" fill="#f5c518" stroke="#333" stroke-width="1"/>
+<ellipse cx="606" cy="128" rx="5" ry="11" transform="rotate(216 606 138)" fill="#f5c518" stroke="#333" stroke-width="1"/>
+<ellipse cx="606" cy="128" rx="5" ry="11" transform="rotate(288 606 138)" fill="#f5c518" stroke="#333" stroke-width="1"/>
+<circle cx="606" cy="138" r="4" fill="#c99700"/>
+<path d="M624,138 l10,0 m-4,-4 l4,4 l-4,4" fill="none" stroke="#555" stroke-width="1.5"/>
+<ellipse cx="656" cy="128" rx="5" ry="11" transform="rotate(0 656 138)" fill="#b9a476" stroke="#333" stroke-width="1"/>
+<ellipse cx="656" cy="128" rx="5" ry="11" transform="rotate(72 656 138)" fill="#b9a476" stroke="#333" stroke-width="1"/>
+<ellipse cx="656" cy="128" rx="5" ry="11" transform="rotate(144 656 138)" fill="#b9a476" stroke="#333" stroke-width="1"/>
+<ellipse cx="656" cy="128" rx="5" ry="11" transform="rotate(216 656 138)" fill="#b9a476" stroke="#333" stroke-width="1"/>
+<ellipse cx="656" cy="128" rx="5" ry="11" transform="rotate(288 656 138)" fill="#b9a476" stroke="#333" stroke-width="1"/>
+<circle cx="656" cy="138" r="4" fill="#8a7a50"/>
+<path d="M666,112 q4,-6 0,-12 M674,114 q4,-6 0,-12" fill="none" stroke="#aaa" stroke-width="1.2" stroke-dasharray="2 2"/>
+</g>
+<g transform="translate(0 66)">
+<rect x="10" y="452" width="345" height="336" rx="8" fill="none" stroke="#999" stroke-width="1.5"/>
+<text x="22" y="476" font-size="16" font-weight="bold">⑤ Storage conditions</text>
+<path d="M40,496 L40,620 L330,620" fill="none" stroke="#999" stroke-width="3"/>
+<rect x="230" y="492" width="0" height="0"/>
+<path d="M268,504 q8,-6 16,0 t16,0 M272,514 q8,-6 16,0 t16,0" fill="none" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="294" y="536" font-size="12" fill="#0b5cad" text-anchor="middle">ventilated</text>
+<text x="294" y="550" font-size="12" fill="#0b5cad" text-anchor="middle">storeroom</text>
+<path d="M74,620 L74,522 M240,620 L240,522" stroke="#8a5a2b" stroke-width="4"/>
+<rect x="70" y="558" width="174" height="6" fill="#b5895a" stroke="#333" stroke-width="1"/>
+<rect x="70" y="598" width="174" height="6" fill="#b5895a" stroke="#333" stroke-width="1"/>
+<path d="M91.0,558 Q87.0,543.0 94.0,534 L114.0,534 Q121.0,543.0 117.0,558 Z" fill="#c9905a" stroke="#333" stroke-width="1.4" stroke-linejoin="round"/>
+<rect x="92.0" y="529" width="24" height="6" rx="2" fill="#8a5a2b" stroke="#333" stroke-width="1.2"/>
+<path d="M141.0,558 Q137.0,543.0 144.0,534 L164.0,534 Q171.0,543.0 167.0,558 Z" fill="#c9905a" stroke="#333" stroke-width="1.4" stroke-linejoin="round"/>
+<rect x="142.0" y="529" width="24" height="6" rx="2" fill="#8a5a2b" stroke="#333" stroke-width="1.2"/>
+<path d="M191.0,558 Q187.0,543.0 194.0,534 L214.0,534 Q221.0,543.0 217.0,558 Z" fill="#c9905a" stroke="#333" stroke-width="1.4" stroke-linejoin="round"/>
+<rect x="192.0" y="529" width="24" height="6" rx="2" fill="#8a5a2b" stroke="#333" stroke-width="1.2"/>
+<path d="M101.0,598 Q97.0,583.0 104.0,574 L124.0,574 Q131.0,583.0 127.0,598 Z" fill="#c9905a" stroke="#333" stroke-width="1.4" stroke-linejoin="round"/>
+<rect x="102.0" y="569" width="24" height="6" rx="2" fill="#8a5a2b" stroke="#333" stroke-width="1.2"/>
+<path d="M161.0,598 Q157.0,583.0 164.0,574 L184.0,574 Q191.0,583.0 187.0,598 Z" fill="#c9905a" stroke="#333" stroke-width="1.4" stroke-linejoin="round"/>
+<rect x="162.0" y="569" width="24" height="6" rx="2" fill="#8a5a2b" stroke="#333" stroke-width="1.2"/>
+<path d="M44,542 L68,542 M50,538 l-6,4 l6,4 M62,538 l6,4 l-6,4" fill="none" stroke="#c33" stroke-width="1.5"/>
+<text x="46" y="518" font-size="12" fill="#c33">off the wall</text>
+<path d="M260,604 L260,616 M256,610 l4,-6 l4,6 M256,610 l4,6 l4,-6" fill="none" stroke="#c33" stroke-width="1.5"/>
+<text x="268" y="614" font-size="12" fill="#c33">off the floor</text>
+<rect x="70" y="604" width="174" height="0"/>
+<text x="24" y="648" font-size="14"><tspan font-weight="bold">Cool:</tspan> ideally not above about 20-25°C</text>
+<text x="24" y="667" font-size="14"><tspan font-weight="bold">Dry:</tspan> relative humidity below about 75%</text>
+<text x="24" y="686" font-size="14"><tspan font-weight="bold">Dark:</tspan> in the dark or in opaque containers</text>
+<text x="24" y="705" font-size="14"><tspan font-weight="bold">Airy:</tspan> ventilate the storeroom, but keep</text>
+<text x="36" y="724" font-size="14">the containers themselves sealed</text>
+<text x="24" y="743" font-size="14"><tspan font-weight="bold">Off floor and walls:</tspan> on shelves or pallets,</text>
+<text x="36" y="762" font-size="14">against damp</text>
+<rect x="365" y="452" width="345" height="336" rx="8" fill="none" stroke="#999" stroke-width="1.5"/>
+<text x="377" y="476" font-size="16" font-weight="bold">⑥ The "lime jar" against damp</text>
+<path d="M411,520 Q387,590.0 415,666 L507,666 Q535,590.0 511,520 Z" fill="#f3eadb" stroke="#333" stroke-width="2.2" stroke-linejoin="round"/>
+<path d="M403,518 Q461,500 519,518 Z" fill="#8a5a2b" stroke="#333" stroke-width="1.8" stroke-linejoin="round"/>
+<rect x="455" y="498" width="12" height="8" rx="2" fill="#8a5a2b" stroke="#333" stroke-width="1.2"/>
+<rect x="413" y="538" width="30" height="22" rx="3" fill="#e8cfa0" stroke="#333" stroke-width="1.2"/>
+<rect x="443" y="534" width="30" height="22" rx="3" fill="#e8cfa0" stroke="#333" stroke-width="1.2"/>
+<rect x="473" y="538" width="30" height="22" rx="3" fill="#e8cfa0" stroke="#333" stroke-width="1.2"/>
+<rect x="427" y="566" width="30" height="22" rx="3" fill="#e8cfa0" stroke="#333" stroke-width="1.2"/>
+<rect x="459" y="564" width="30" height="22" rx="3" fill="#e8cfa0" stroke="#333" stroke-width="1.2"/>
+<rect x="403" y="606" width="116" height="7" fill="#b5895a" stroke="#333" stroke-width="1.2"/>
+<path d="M411,606 l0,7 M425,606 l0,7 M439,606 l0,7 M453,606 l0,7 M467,606 l0,7 M481,606 l0,7 M495,606 l0,7 M509,606 l0,7" stroke="#333" stroke-width="1"/>
+<path d="M421,662 Q415,626 451,622 Q461,614 471,622 Q507,626 501,662 Z" fill="#fff" stroke="#555" stroke-width="1.5" stroke-dasharray="4 2"/>
+<circle cx="441" cy="648" r="3" fill="#eee" stroke="#999" stroke-width="1"/>
+<circle cx="457" cy="640" r="3" fill="#eee" stroke="#999" stroke-width="1"/>
+<circle cx="473" cy="650" r="3" fill="#eee" stroke="#999" stroke-width="1"/>
+<circle cx="485" cy="642" r="3" fill="#eee" stroke="#999" stroke-width="1"/>
+<circle cx="433" cy="656" r="3" fill="#eee" stroke="#999" stroke-width="1"/>
+<circle cx="465" cy="656" r="3" fill="#eee" stroke="#999" stroke-width="1"/>
+<path d="M501,514 L557,508" stroke="#0b5cad" stroke-width="1"/><circle cx="501" cy="514" r="2" fill="#0b5cad"/>
+<text x="561" y="512" font-size="13" fill="#0b5cad">Lid on tight</text>
+<path d="M503,554 L557,554" stroke="#0b5cad" stroke-width="1"/><circle cx="503" cy="554" r="2" fill="#0b5cad"/>
+<text x="561" y="558" font-size="13" fill="#0b5cad">Herbs</text>
+<path d="M519,610 L557,610" stroke="#0b5cad" stroke-width="1"/><circle cx="519" cy="610" r="2" fill="#0b5cad"/>
+<text x="561" y="606" font-size="13" fill="#0b5cad">Wooden board or</text>
+<text x="561" y="621" font-size="13" fill="#0b5cad">bamboo mat between</text>
+<path d="M495,642 L557,632" stroke="#0b5cad" stroke-width="1"/><circle cx="495" cy="642" r="2" fill="#0b5cad"/>
+<text x="561" y="640" font-size="13" fill="#0b5cad">Quicklime wrapped</text>
+<text x="561" y="655" font-size="13" fill="#0b5cad">in cloth</text>
+<text x="561" y="671" font-size="12" fill="#555">(absorbs moisture)</text>
+<text x="379" y="694" font-size="13" fill="#c33"><tspan font-weight="bold">⚠️ Quicklime gets very hot with water:</tspan></text>
+<text x="379" y="711" font-size="13" fill="#c33">wrap it well, set it firmly, keep children away;</text>
+<text x="379" y="728" font-size="13" fill="#c33">if it gets in the eyes, brush off the solid first,</text>
+<text x="379" y="745" font-size="13" fill="#c33">then rinse with plenty of clean water</text>
+<text x="379" y="766" font-size="12" fill="#555">Charcoal or dry rice husks also absorb damp,</text>
+<text x="379" y="781" font-size="12" fill="#555">but less well</text>
+<g transform="translate(0 40)">
+<rect x="10" y="760" width="700" height="200" rx="8" fill="none" stroke="#999" stroke-width="1.5"/>
+<text x="22" y="784" font-size="16" font-weight="bold">⑦ Containers</text>
+<path d="M62,856 Q50,834 66,816 L94,816 Q110,834 98,856 Z" fill="#c9905a" stroke="#333" stroke-width="1.6" stroke-linejoin="round"/>
+<path d="M62,816 Q80,804 98,816 Z" fill="#8a5a2b" stroke="#333" stroke-width="1.4"/>
+<path d="M204,856 L204,826 Q204,820 212,818 L212,810 L228,810 L228,818 Q236,820 236,826 L236,856 Z" fill="#e6f2f8" stroke="#333" stroke-width="1.6" stroke-linejoin="round"/>
+<rect x="210" y="804" width="20" height="7" rx="2" fill="#999" stroke="#333" stroke-width="1.2"/>
+<circle cx="212" cy="850" r="3" fill="#a0522d"/>
+<circle cx="220" cy="852" r="3" fill="#a0522d"/>
+<circle cx="228" cy="849" r="3" fill="#a0522d"/>
+<circle cx="216" cy="844" r="3" fill="#a0522d"/>
+<circle cx="225" cy="843" r="3" fill="#a0522d"/>
+<path d="M210,828 L210,846" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+<rect x="342" y="816" width="36" height="40" rx="3" fill="#c8ccd0" stroke="#333" stroke-width="1.6"/>
+<rect x="340" y="810" width="40" height="8" rx="2" fill="#a8acb0" stroke="#333" stroke-width="1.4"/>
+<path d="M342,830 L378,830 M342,844 L378,844" stroke="#999" stroke-width="1"/>
+<path d="M482,856 Q476,834 488,822 L494,818 L506,818 L512,822 Q524,834 518,856 Z" fill="#efe4cc" stroke="#333" stroke-width="1.6" stroke-linejoin="round"/>
+<path d="M492,818 L496,808 M500,818 L500,806 M508,818 L504,808 M491,816 L509,816" stroke="#8a6a3a" stroke-width="1.5"/>
+<path d="M618,858 Q612,834 626,820 L636,814 L644,814 L654,820 Q668,834 662,858 Z" fill="#eef4fa" stroke="#555" stroke-width="1.4" stroke-linejoin="round"/>
+<path d="M624,854 Q620,834 630,824 L637,820 L643,820 L650,824 Q660,834 656,854 Z" fill="#e8cfa0" stroke="#333" stroke-width="1.2" stroke-linejoin="round"/>
+<path d="M634,814 L646,814" stroke="#c33" stroke-width="2.5"/>
+<text x="80" y="884" font-size="13" font-weight="bold" text-anchor="middle">Clay or china jars</text>
+<text x="80" y="902" font-size="13" fill="#555" text-anchor="middle">with lids: the</text>
+<text x="80" y="918" font-size="13" fill="#555" text-anchor="middle">traditional first choice,</text>
+<text x="80" y="934" font-size="13" fill="#555" text-anchor="middle">dark and damp-proof</text>
+<text x="220" y="884" font-size="13" font-weight="bold" text-anchor="middle">Glass bottles, jars</text>
+<text x="220" y="902" font-size="13" fill="#555" text-anchor="middle">let light in: keep in</text>
+<text x="220" y="918" font-size="13" fill="#555" text-anchor="middle">the dark or wrap</text>
+<text x="220" y="934" font-size="13" fill="#555" text-anchor="middle">in paper</text>
+<text x="360" y="884" font-size="13" font-weight="bold" text-anchor="middle">Tin cans, tin boxes</text>
+<text x="360" y="902" font-size="13" fill="#555" text-anchor="middle">good against damp</text>
+<text x="360" y="918" font-size="13" fill="#555" text-anchor="middle">and rodents; not for</text>
+<text x="360" y="934" font-size="13" fill="#555" text-anchor="middle">strongly acidic herbs</text>
+<text x="500" y="884" font-size="13" font-weight="bold" text-anchor="middle">Cloth, paper bags</text>
+<text x="500" y="902" font-size="13" fill="#c33" text-anchor="middle">no protection from</text>
+<text x="500" y="918" font-size="13" fill="#c33" text-anchor="middle">damp or insects:</text>
+<text x="500" y="934" font-size="13" fill="#c33" text-anchor="middle">short-term use only</text>
+<text x="640" y="884" font-size="13" font-weight="bold" text-anchor="middle">Thick plastic bags</text>
+<text x="640" y="902" font-size="13" fill="#555" text-anchor="middle">stopgap: dry fully</text>
+<text x="640" y="918" font-size="13" fill="#555" text-anchor="middle">first, tie tight, then</text>
+<text x="640" y="934" font-size="13" fill="#555" text-anchor="middle">add a second bag</text>
+<g transform="translate(0 32)">
+<rect x="10" y="940" width="700" height="158" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<text x="360" y="964" font-size="15" font-weight="bold" fill="#c33" text-anchor="middle">❌ If it is mouldy, throw away the whole bag:</text>
+<text x="360" y="984" font-size="15" font-weight="bold" fill="#c33" text-anchor="middle">do not wash it, sun it or stir-fry it and then use it</text>
+<text x="360" y="1008" font-size="13" text-anchor="middle">Check every 1-2 months as a rule; check monthly in the plum-rain season, in humid</text>
+<text x="360" y="1025" font-size="13" text-anchor="middle">huinantian spells (warm damp air from the south) and before and after the rainy season;</text>
+<text x="360" y="1042" font-size="13" text-anchor="middle">take out anything gone damp and re-dry it in the sun or at low heat; first in, first out</text>
+<text x="360" y="1064" font-size="13" text-anchor="middle">Store toxic herbs separately, labelled "Toxic", locked away or up high,</text>
+<text x="360" y="1081" font-size="13" text-anchor="middle">never together with ordinary herbs or food</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>

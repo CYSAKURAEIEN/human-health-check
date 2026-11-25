@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1014" width="720" height="1014" role="img" aria-label="Red mineral drugs are not identified by colour (schematic). Zheshi (haematite) is a medicinal mineral: mostly irregular flat lumps, dark brownish-red or greyish-black, some with a metallic lustre; one face often has round bumps called nail heads, and the other face has hollows of the same size opposite them; heavy and hard, the broken surface is layered; streak cherry-red or reddish-brown. Cinnabar (Zhusha, contains mercury) is bright red or dark red with a red streak, heavy, much heavier than a stone of the same size, and releases mercury vapour when heated; red lead (Qiandan, contains lead) is an orange-red or orange-yellow powder, very heavy, and lead builds up in the body and causes long-term damage to children's intelligence; realgar (Xionghuang, contains arsenic) is deep red or orange-red with a pale orange-red streak, and turns into white arsenic (arsenic trioxide) when heated. Do not swallow or heat cinnabar, red lead or realgar; do not use one red mineral in place of another on the basis of colour; use only proper prepared slices from a pharmacy">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Zheshi (haematite) compared with toxic red minerals</title>
+<g font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif" fill="#222">
+<text x="360" y="30" font-size="18" font-weight="bold" text-anchor="middle">Zheshi (haematite) vs cinnabar, red lead and realgar (schematic)</text>
+<text x="360" y="52" font-size="13" fill="#555" text-anchor="middle">Red mineral drugs are not identified by colour. Zheshi is a medicinal mineral; cinnabar, red lead and</text>
+<text x="360" y="68" font-size="13" fill="#555" text-anchor="middle">realgar contain mercury, lead and arsenic — only learn to recognise them; do not touch or use them</text>
+<g transform="translate(0 16)">
+
+<!-- 1 Zheshi -->
+<rect x="10" y="66" width="700" height="374" rx="8" fill="none" stroke="#999" stroke-width="1.5"/>
+<text x="26" y="94" font-size="18" font-weight="bold">① Zheshi <tspan font-size="14" font-weight="normal" fill="#555">(haematite, mainly Fe₂O₃; medicinal)</tspan></text>
+<text x="26" y="116" font-size="13">Irregular flat lumps; <tspan font-weight="bold">dark brownish-red or greyish-black</tspan>, some with a metallic lustre;</text>
+<text x="26" y="132" font-size="13" font-weight="bold">heavy and hard</text>
+<!-- front: nail heads -->
+<g transform="translate(-4 0) translate(122 200) scale(0.88) translate(-122 -200)">
+<path d="M36 170 L80 140 L160 136 L204 160 L210 230 L170 262 L80 266 L40 236 Z" fill="#7a3b2e" stroke="#333" stroke-width="1.6"/>
+<g fill="#8f4a3a" stroke="#3a1a12" stroke-width="1.2">
+<circle cx="80" cy="180" r="14"/><circle cx="122" cy="168" r="12"/><circle cx="164" cy="184" r="14"/>
+<circle cx="98" cy="222" r="13"/><circle cx="142" cy="226" r="12"/><circle cx="182" cy="226" r="9"/><circle cx="62" cy="220" r="8"/>
+</g>
+<g stroke="#c98a76" stroke-width="2" fill="none" stroke-linecap="round">
+<path d="M72 173 A9 9 0 0 1 82 170"/><path d="M115 162 A8 8 0 0 1 124 159"/><path d="M156 177 A9 9 0 0 1 166 174"/>
+<path d="M91 215 A8 8 0 0 1 100 212"/><path d="M135 220 A8 8 0 0 1 144 217"/>
+</g>
+</g>
+<text x="122" y="290" font-size="14" text-anchor="middle">One face often has</text>
+<text x="122" y="308" font-size="14" font-weight="bold" text-anchor="middle">round bumps,</text>
+<text x="122" y="326" font-size="14" text-anchor="middle">called <tspan font-weight="bold" fill="#0b5cad">"nail heads"</tspan></text>
+<!-- back: hollows -->
+<g transform="translate(6 0) translate(310 200) scale(0.88) translate(-310 -200)">
+<path d="M396 170 L352 140 L272 136 L228 160 L222 230 L262 262 L352 266 L392 236 Z" fill="#7a3b2e" stroke="#333" stroke-width="1.6"/>
+<g fill="#5a2a20" stroke="#3a1a12" stroke-width="1.2">
+<circle cx="352" cy="180" r="14"/><circle cx="310" cy="168" r="12"/><circle cx="268" cy="184" r="14"/>
+<circle cx="334" cy="222" r="13"/><circle cx="290" cy="226" r="12"/><circle cx="250" cy="226" r="9"/><circle cx="370" cy="220" r="8"/>
+</g>
+<g stroke="#2a100a" stroke-width="2.5" fill="none" stroke-linecap="round">
+<path d="M342 174 A11 11 0 0 1 360 172"/><path d="M302 162 A9 9 0 0 1 317 161"/><path d="M258 178 A11 11 0 0 1 276 176"/>
+<path d="M324 216 A10 10 0 0 1 341 214"/><path d="M282 220 A9 9 0 0 1 297 219"/>
+</g>
+<g stroke="#a86a58" stroke-width="1.5" fill="none" stroke-linecap="round">
+<path d="M342 188 A11 11 0 0 0 361 186"/><path d="M302 175 A9 9 0 0 0 318 174"/><path d="M258 192 A11 11 0 0 0 277 190"/><path d="M325 229 A10 10 0 0 0 343 228"/><path d="M282 232 A9 9 0 0 0 298 232"/>
+</g>
+</g>
+<text x="310" y="290" font-size="14" text-anchor="middle">The other face has</text>
+<text x="310" y="308" font-size="14" font-weight="bold" text-anchor="middle">hollows of the same size</text>
+<text x="310" y="326" font-size="14" text-anchor="middle">opposite the bumps</text>
+<path d="M204 206 C210 190 222 190 228 206" stroke="#0b5cad" stroke-width="1.5" fill="none"/><path d="M228 206 l-6 -3 M228 206 l1 -7" stroke="#0b5cad" stroke-width="1.5"/>
+<text x="216" y="184" font-size="12" fill="#0b5cad" text-anchor="middle">flip</text>
+<!-- layered fracture -->
+<path d="M430 150 L540 146 L548 196 L536 254 L428 258 L436 204 Z" fill="#6e352a" stroke="#333" stroke-width="1.6"/>
+<g stroke="#a0604e" stroke-width="1.6" fill="none">
+<path d="M434 170 C460 166 500 174 544 166"/><path d="M436 188 C462 184 502 192 546 184"/><path d="M436 206 C462 202 502 210 545 202"/><path d="M434 224 C460 220 500 228 541 220"/><path d="M431 242 C458 238 498 246 538 238"/>
+</g>
+<text x="488" y="290" font-size="14" text-anchor="middle">Broken surface</text>
+<text x="488" y="308" font-size="14" text-anchor="middle">is <tspan font-weight="bold">layered</tspan></text>
+<!-- streak -->
+<rect x="578" y="150" width="116" height="80" rx="4" fill="#fafafa" stroke="#999" stroke-width="1.5"/>
+<path transform="translate(0 -10)" d="M592 200 C620 186 650 180 680 172" stroke="#c0504d" stroke-width="9" fill="none" stroke-linecap="round" opacity="0.85"/>
+<text x="636" y="211" font-size="12" fill="#888" text-anchor="middle">back of unglazed</text>
+<text x="636" y="224" font-size="12" fill="#888" text-anchor="middle">white porcelain</text>
+<text x="636" y="252" font-size="14" font-weight="bold" text-anchor="middle">Streak</text>
+<text x="636" y="270" font-size="12" fill="#555" text-anchor="middle">(colour of the powder)</text>
+<text x="636" y="290" font-size="14" text-anchor="middle"><tspan font-weight="bold" fill="#c0504d">cherry-red</tspan> or</text>
+<text x="636" y="308" font-size="14" text-anchor="middle">reddish-brown</text>
+<rect x="22" y="342" width="676" height="88" rx="6" fill="#eef4fb"/>
+<text x="360" y="363" font-size="14" text-anchor="middle">Identify Zheshi by "<tspan font-weight="bold">nail heads + hollows + layered fracture + cherry-red streak</tspan>",</text>
+<text x="360" y="381" font-size="14" text-anchor="middle">not by its red colour</text>
+<text x="360" y="402" font-size="13" fill="#555" text-anchor="middle">Zheshi itself: use with caution in pregnancy; Zheshi from some places contains arsenic</text>
+<text x="360" y="419" font-size="13" fill="#555" text-anchor="middle">and other impurities, so it is not for long-term use</text>
+
+<g transform="translate(0 56)">
+<!-- 2 cinnabar -->
+<rect x="10" y="398" width="228" height="330" rx="8" fill="none" stroke="#c33" stroke-width="2"/>
+<text x="24" y="424" font-size="17" font-weight="bold" fill="#c33">② Cinnabar</text>
+<text x="224" y="424" font-size="13" fill="#c33" text-anchor="end">☠️ Mercury</text>
+<text x="24" y="441" font-size="12" fill="#555">Zhusha</text>
+<g stroke="#5a0a0a" stroke-width="1.2">
+<path d="M60 470 L76 452 L96 458 L98 480 L78 488 Z" fill="#e0262a"/>
+<path d="M98 462 L120 446 L142 456 L140 482 L114 488 Z" fill="#c81e22"/>
+<path d="M142 470 L160 458 L180 466 L176 488 L152 492 Z" fill="#e0262a"/>
+<path d="M76 490 L96 484 L112 494 L104 508 L80 506 Z" fill="#b51a1e"/>
+<path d="M114 492 L140 488 L150 502 L132 512 L116 506 Z" fill="#e0262a"/>
+</g>
+<g stroke="#fff" stroke-width="1.5" opacity="0.8"><path d="M78 460 L88 462"/><path d="M118 452 L128 456"/><path d="M160 464 L168 468"/></g>
+<text x="124" y="530" font-size="13" text-anchor="middle"><tspan font-weight="bold">Bright red</tspan> or dark red,</text>
+<text x="124" y="546" font-size="13" text-anchor="middle">streak red;</text>
+<text x="124" y="562" font-size="13" text-anchor="middle"><tspan font-weight="bold">heavy</tspan>: much heavier than</text>
+<text x="124" y="578" font-size="13" text-anchor="middle">a stone of the same size</text>
+<text x="124" y="632" font-size="13" text-anchor="middle" fill="#c33">Heating breaks it down,</text>
+<text x="124" y="648" font-size="13" text-anchor="middle" fill="#c33">releasing mercury vapour</text>
+<text x="124" y="678" font-size="14" font-weight="bold" fill="#c33" text-anchor="middle">❌ Do not swallow or heat</text>
+<text x="124" y="698" font-size="12" text-anchor="middle">No cinnabar jewellery</text>
+<text x="124" y="713" font-size="12" text-anchor="middle">for babies or toddlers</text>
+
+<!-- 3 red lead -->
+<rect x="246" y="398" width="228" height="330" rx="8" fill="none" stroke="#c33" stroke-width="2"/>
+<text x="260" y="424" font-size="17" font-weight="bold" fill="#c33">③ Red lead</text>
+<text x="460" y="424" font-size="13" fill="#c33" text-anchor="end">☠️ Lead</text>
+<text x="260" y="441" font-size="12" fill="#555">Qiandan</text>
+<path d="M290 506 C310 464 340 452 360 452 C380 452 410 464 430 506 Z" fill="#f0702a" stroke="#7a3010" stroke-width="1.2"/>
+<g fill="#f7a060"><circle cx="330" cy="482" r="2"/><circle cx="360" cy="470" r="2"/><circle cx="388" cy="488" r="2"/><circle cx="350" cy="494" r="2"/><circle cx="404" cy="498" r="2"/><circle cx="316" cy="498" r="2"/></g>
+<line x1="280" y1="506" x2="440" y2="506" stroke="#999" stroke-width="2"/>
+<text x="360" y="530" font-size="13" font-weight="bold" text-anchor="middle">Orange-red or orange-yellow</text>
+<text x="360" y="546" font-size="13" text-anchor="middle"><tspan font-weight="bold">powder</tspan>;</text>
+<text x="360" y="562" font-size="13" text-anchor="middle"><tspan font-weight="bold">very heavy</tspan>, feels slippery</text>
+<text x="360" y="578" font-size="13" text-anchor="middle">when rubbed between fingers</text>
+<text x="360" y="596" font-size="12" fill="#555" text-anchor="middle">Some low-grade "cinnabar"</text>
+<text x="360" y="610" font-size="12" fill="#555" text-anchor="middle">is really red lead</text>
+<text x="360" y="630" font-size="13" text-anchor="middle" fill="#c33">Lead builds up in the body;</text>
+<text x="360" y="646" font-size="13" text-anchor="middle" fill="#c33">long-term damage to</text>
+<text x="360" y="662" font-size="13" text-anchor="middle" fill="#c33">children's intelligence</text>
+<text x="360" y="684" font-size="14" font-weight="bold" fill="#c33" text-anchor="middle">❌ Do not swallow</text>
+<text x="360" y="704" font-size="12" text-anchor="middle">Do not take "Hongdan" (red lead)</text>
+<text x="360" y="719" font-size="12" text-anchor="middle">folk remedies either</text>
+
+<!-- 4 realgar -->
+<rect x="482" y="398" width="228" height="330" rx="8" fill="none" stroke="#c33" stroke-width="2"/>
+<text x="496" y="424" font-size="17" font-weight="bold" fill="#c33">④ Realgar</text>
+<text x="696" y="424" font-size="13" fill="#c33" text-anchor="end">☠️ Arsenic</text>
+<text x="496" y="441" font-size="12" fill="#555">Xionghuang</text>
+<g stroke="#6a2008" stroke-width="1.2">
+<path d="M548 456 L590 444 L626 456 L640 486 L612 508 L566 506 L542 484 Z" fill="#d9542a"/>
+<path d="M590 444 L604 470 L640 486" fill="none"/>
+<path d="M604 470 L576 482 L566 506" fill="none"/>
+</g>
+<path d="M560 470 L572 462" stroke="#f0a080" stroke-width="2"/>
+<text x="596" y="530" font-size="13" font-weight="bold" text-anchor="middle">Deep red or orange-red,</text>
+<text x="596" y="546" font-size="13" text-anchor="middle">streak pale orange-red</text>
+<text x="596" y="596" font-size="12" fill="#555" text-anchor="middle">Looks like cinnabar</text>
+<text x="596" y="610" font-size="12" fill="#555" text-anchor="middle">(cinnabar is redder and heavier)</text>
+<text x="596" y="632" font-size="13" text-anchor="middle" fill="#c33">Heating turns it into</text>
+<text x="596" y="648" font-size="13" text-anchor="middle" fill="#c33">white arsenic (arsenic trioxide)</text>
+<text x="596" y="678" font-size="14" font-weight="bold" fill="#c33" text-anchor="middle">❌ Never heat; no realgar wine</text>
+<text x="596" y="698" font-size="12" text-anchor="middle">Do not smear realgar on children</text>
+<text x="596" y="713" font-size="12" text-anchor="middle">or give it to them by mouth</text>
+
+<!-- bottom -->
+<rect x="10" y="742" width="700" height="190" rx="8" fill="#fdecec" stroke="#c33" stroke-width="2"/>
+<text x="360" y="770" font-size="17" font-weight="bold" fill="#c33" text-anchor="middle">❌ Do not use red minerals (cinnabar, red lead, Zheshi, realgar)</text>
+<text x="360" y="791" font-size="17" font-weight="bold" fill="#c33" text-anchor="middle">in place of one another on the basis of colour</text>
+<text x="360" y="816" font-size="14" text-anchor="middle">Use only proper prepared slices from a pharmacy; stones you pick up</text>
+<text x="360" y="834" font-size="14" text-anchor="middle">yourself are of unknown composition — do not take them by mouth</text>
+<text x="360" y="856" font-size="14" text-anchor="middle">If you cannot identify it for certain: do not use it, put it in your mouth or heat it</text>
+<text x="360" y="880" font-size="13" fill="#555" text-anchor="middle">If you have taken "secret formulas" or "pills" of unknown origin for a long time, tell the doctor</text>
+<text x="360" y="897" font-size="13" fill="#555" text-anchor="middle">and get blood lead, urine mercury and urine arsenic tested</text>
+<text x="360" y="919" font-size="13" fill="#555" text-anchor="middle">Whether to use it, and how much, is for a TCM practitioner to decide</text>
+</g>
+</g>
+</g>
+</svg>

@@ -1,0 +1,170 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 930" width="720" height="930" role="img" aria-label="Wujiapi compared with Xiangjiapi: Xiangjiapi (northern Wujiapi) is the root bark of Chinese silk vine, Periploca sepium; it contains cardiac glycosides, is toxic, is often passed off as Wujiapi and is also mixed into Digupi. Acanthopanax is an upright shrub 2-3 m tall, with scattered, flattened hooked prickles on the branches and palmately compound leaves of 5 leaflets (rarely 3-4); Wujiapi is in irregular rolled tubes, the outer surface greyish-brown with slightly twisted lengthwise wrinkles and transverse lenticel-like marks, the inner surface pale yellow or greyish-yellow with fine lengthwise lines, faintly fragrant, taste slightly hot and bitter. Periploca is a twining vine that gives white milky sap when broken, with opposite, lanceolate, smooth leaves without prickles; Xiangjiapi has a soft, loose cork that often flakes off in scales, and a strong, peculiar fragrance (some describe it as like wintergreen oil). Do not use, or steep in liquor, any Wujiapi or Digupi with a strong, peculiar fragrance; poisoning can cause nausea and vomiting, seeing things tinged yellow or green, a very slow heartbeat or heart rhythm problems, and in severe cases cardiac arrest">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Wujiapi compared with Xiangjiapi</title>
+<defs>
+<g id="palm"><path d="M0 0 H22" stroke="#4d6b2a" stroke-width="2"/><g fill="#a9c77c" stroke="#333" stroke-width="1.1"><path transform="translate(22 0) rotate(-66)" d="M0 0 C5 -3 14 -8 22 -6 C27 -4 27 4 22 6 C14 8 5 3 0 0Z"/><path transform="translate(22 0) rotate(-33)" d="M0 0 C6 -3 17 -9 26 -7 C32 -5 32 5 26 7 C17 9 6 3 0 0Z"/><path transform="translate(22 0)" d="M0 0 C6 -3 18 -10 28 -7 C35 -5 35 5 28 7 C18 10 6 3 0 0Z"/><path transform="translate(22 0) rotate(33)" d="M0 0 C6 -3 17 -9 26 -7 C32 -5 32 5 26 7 C17 9 6 3 0 0Z"/><path transform="translate(22 0) rotate(66)" d="M0 0 C5 -3 14 -8 22 -6 C27 -4 27 4 22 6 C14 8 5 3 0 0Z"/></g></g>
+<g id="lance"><path d="M0 0 C8 -6 26 -7 44 0 C26 7 8 6 0 0Z" fill="#b5cf88" stroke="#333" stroke-width="1.1"/><path d="M2 0 H40" stroke="#5f7f36" stroke-width="0.8"/></g>
+<path id="spine" d="M0 0 L7 -3 Q4 2 6 6 Z" fill="#6b4a2a"/>
+</defs>
+<g font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif" fill="#222">
+<text x="360" y="30" font-size="18" font-weight="bold" text-anchor="middle">Wujiapi vs Xiangjiapi (toxic): how to tell them apart (schematic)</text>
+<text x="360" y="52" font-size="13" fill="#555" text-anchor="middle">Xiangjiapi (northern Wujiapi) is often passed off as Wujiapi and also mixed into Digupi;</text>
+<text x="360" y="70" font-size="13" fill="#555" text-anchor="middle">it contains cardiac glycosides — look at the whole plant when collecting, smell it first when buying</text>
+<g transform="translate(0 18)">
+<rect x="10" y="64" width="345" height="580" rx="8" fill="none" stroke="#999" stroke-width="1.5"/>
+<rect x="365" y="64" width="345" height="580" rx="8" fill="none" stroke="#c33" stroke-width="2"/>
+
+<!-- 1 Acanthopanax -->
+<text x="26" y="92" font-size="18" font-weight="bold">① Wujiapi <tspan font-size="14" font-weight="normal">(Nan Wujiapi)</tspan></text>
+<text x="26" y="112" font-size="12" fill="#555">Araliaceae · root bark of <tspan font-style="italic">Acanthopanax gracilistylus</tspan></text>
+<line x1="22" y1="372" x2="343" y2="372" stroke="#999" stroke-width="2"/>
+<text x="341" y="366" font-size="12" fill="#888" text-anchor="end">ground</text>
+<g stroke="#6b4a2a" stroke-width="4" fill="none" stroke-linecap="round">
+<path d="M112 372 C110 320 110 260 108 196"/>
+<path d="M110 300 C128 286 144 272 160 262" stroke-width="3"/>
+<path d="M109 246 C96 234 86 222 76 210" stroke-width="3"/>
+</g>
+<use href="#spine" transform="translate(111 342) scale(1.4)"/><use href="#spine" transform="translate(110 320) scale(-1.4 1.4)"/><use href="#spine" transform="translate(110 280) scale(1.4)"/><use href="#spine" transform="translate(109 226) scale(-1.4 1.4)"/><use href="#spine" transform="translate(108 210) scale(1.4)"/>
+<use href="#spine" transform="translate(132 283) rotate(-35) scale(1.3)"/><use href="#spine" transform="translate(92 228) rotate(40) scale(-1.3 1.3)"/>
+<use href="#palm" transform="translate(108 198) rotate(-92) scale(0.9)"/>
+<use href="#palm" transform="translate(160 262) rotate(-8) scale(0.9)"/>
+<use href="#palm" transform="translate(76 212) rotate(-150) scale(0.9)"/>
+<use href="#palm" transform="translate(146 272) rotate(70) scale(0.75)"/>
+<use href="#palm" transform="translate(110 296) rotate(165) scale(0.75)"/>
+<g stroke="#0b5cad" stroke-width="1" fill="#0b5cad">
+<line x1="205" y1="258" x2="226" y2="240"/><circle cx="205" cy="258" r="2.2"/>
+<line x1="116" y1="340" x2="226" y2="322"/><circle cx="116" cy="340" r="2.2"/>
+</g>
+<text x="222" y="150" font-size="15" font-weight="bold">Upright shrub</text>
+<text x="222" y="169" font-size="13">2-3 m tall</text>
+<text x="222" y="208" font-size="14" font-weight="bold">Palmately</text>
+<text x="222" y="225" font-size="14" font-weight="bold">compound leaves</text>
+<text x="222" y="243" font-size="13">5 leaflets</text>
+<text x="222" y="259" font-size="13">(rarely 3-4)</text>
+<text x="230" y="302" font-size="13">Branches bear</text>
+<text x="230" y="319" font-size="13">scattered, flattened</text>
+<text x="230" y="336" font-size="14" font-weight="bold">hooked prickles</text>
+<!-- 2 Periploca -->
+<text x="381" y="92" font-size="18" font-weight="bold" fill="#c33">② Xiangjiapi</text>
+<text x="381" y="112" font-size="12" fill="#555">Root bark of Chinese silk vine · <tspan font-style="italic">Periploca sepium</tspan></text>
+<rect x="612" y="74" width="88" height="28" rx="5" fill="#c33"/>
+<text x="656" y="94" font-size="16" font-weight="bold" fill="#fff" text-anchor="middle">☠️ Toxic</text>
+<text x="381" y="129" font-size="12" fill="#c33">Contains periplocin and other cardiac glycosides</text>
+<line x1="377" y1="372" x2="698" y2="372" stroke="#999" stroke-width="2"/>
+<rect x="436" y="140" width="8" height="232" fill="#ccc" stroke="#999"/>
+<text x="431" y="156" font-size="12" fill="#888" text-anchor="end">support</text>
+<path d="M440 372 C462 362 462 344 440 336 C418 328 418 310 440 302 C462 294 462 276 440 268 C418 260 418 242 440 234 C462 226 462 208 440 200 C418 192 418 174 440 166 C452 162 456 156 454 148" stroke="#6b4a2a" stroke-width="3" fill="none"/>
+<use href="#lance" transform="translate(457 319) rotate(-15)"/>
+<use href="#lance" transform="translate(457 319) rotate(195)"/>
+<use href="#lance" transform="translate(423 251) rotate(-15)"/>
+<use href="#lance" transform="translate(423 251) rotate(195)"/>
+<use href="#lance" transform="translate(457 183) rotate(-20) scale(0.8)"/>
+<use href="#lance" transform="translate(457 183) rotate(200) scale(0.8)"/>
+<path d="M457 217 L490 208" stroke="#6b4a2a" stroke-width="2.5"/>
+<path d="M498 206 L528 198" stroke="#6b4a2a" stroke-width="2.5"/>
+<g fill="#fff" stroke="#666" stroke-width="1.2"><circle cx="492" cy="215" r="4"/><circle cx="493" cy="226" r="3.4"/><circle cx="498" cy="212" r="3"/></g>
+<g stroke="#0b5cad" stroke-width="1" fill="#0b5cad">
+<line x1="458" y1="290" x2="548" y2="306"/><circle cx="458" cy="290" r="2.2"/>
+<line x1="456" y1="244" x2="548" y2="244"/><circle cx="456" cy="244" r="2.2"/>
+<line x1="500" y1="220" x2="548" y2="196"/>
+</g>
+<text x="552" y="311" font-size="15" font-weight="bold">Twining vine</text>
+<text x="552" y="240" font-size="14">Leaves <tspan font-weight="bold">opposite</tspan>,</text>
+<text x="552" y="257" font-size="14">lanceolate,</text>
+<text x="552" y="274" font-size="14">smooth, <tspan font-weight="bold">no prickles</tspan></text>
+<text x="552" y="182" font-size="14">Broken, it gives</text>
+<text x="552" y="201" font-size="15" font-weight="bold" fill="#c33">white milky sap</text>
+
+<!-- crude drug -->
+<line x1="22" y1="392" x2="343" y2="392" stroke="#ccc" stroke-dasharray="4 3"/>
+<line x1="377" y1="392" x2="698" y2="392" stroke="#ccc" stroke-dasharray="4 3"/>
+<text x="26" y="416" font-size="14" fill="#0b5cad">Crude drug: root bark (schematic)</text>
+<text x="381" y="416" font-size="14" fill="#0b5cad">Crude drug: root bark (schematic)</text>
+<g transform="translate(4.8 0) scale(0.8 1)">
+<!-- Wujiapi quill -->
+<path d="M44 436 C100 432 160 440 214 434 L216 482 C160 488 100 480 44 484 Z" fill="#9a8a78" stroke="#333" stroke-width="1.5"/>
+<ellipse cx="44" cy="460" rx="11" ry="24" fill="#efe0b0" stroke="#333" stroke-width="1.5"/>
+<path d="M44 444 C54 450 54 472 44 476 C36 472 36 456 44 452 C49 456 48 466 44 468" stroke="#7a6a50" stroke-width="1.2" fill="none"/>
+<g stroke="#5e5040" stroke-width="1" fill="none">
+<path d="M58 444 C90 446 120 441 150 445 C175 448 195 442 212 444"/>
+<path d="M56 456 C85 459 110 452 140 457 C170 461 192 454 213 457"/>
+<path d="M56 469 C90 471 118 466 150 470 C176 473 196 467 214 470"/>
+</g>
+<g fill="#5e5040"><ellipse cx="78" cy="463" rx="1.6" ry="5"/><ellipse cx="112" cy="448" rx="1.6" ry="5"/><ellipse cx="128" cy="472" rx="1.6" ry="5"/><ellipse cx="166" cy="452" rx="1.6" ry="5"/><ellipse cx="190" cy="469" rx="1.6" ry="5"/></g>
+<!-- inner surface -->
+<path d="M60 510 C110 500 160 500 210 510 L206 540 C160 532 110 532 64 540 Z" fill="#efe0b0" stroke="#333" stroke-width="1.5"/>
+<g stroke="#b9a26a" stroke-width="0.8" fill="none"><path d="M70 518 C120 510 160 510 204 518"/><path d="M68 526 C118 518 160 518 205 526"/><path d="M66 533 C116 526 160 526 206 533"/></g>
+<g stroke="#0b5cad" stroke-width="1" fill="#0b5cad">
+<line x1="214" y1="440" x2="232" y2="428"/>
+<line x1="150" y1="445" x2="232" y2="466"/><circle cx="150" cy="445" r="2.2"/>
+<line x1="190" y1="469" x2="232" y2="498"/><circle cx="190" cy="469" r="2.2"/>
+<line x1="205" y1="525" x2="232" y2="530"/><circle cx="205" cy="525" r="2.2"/>
+</g>
+</g>
+<text x="196" y="432" font-size="13">Irregular rolled tubes</text>
+<text x="196" y="451" font-size="12">Outer: greyish-brown,</text>
+<text x="196" y="466" font-size="12">slightly twisted</text>
+<text x="196" y="481" font-size="12">lengthwise wrinkles,</text>
+<text x="196" y="497" font-size="12">transverse lenticel-</text>
+<text x="196" y="512" font-size="12">like marks</text>
+<text x="196" y="530" font-size="12">Inner: pale yellow or</text>
+<text x="196" y="545" font-size="12">greyish-yellow,</text>
+<text x="196" y="560" font-size="12">fine lengthwise lines</text>
+<rect x="22" y="570" width="321" height="62" rx="6" fill="#f4f4f4"/>
+<text x="182" y="594" font-size="16" text-anchor="middle">Smell: <tspan font-weight="bold">faintly fragrant</tspan></text>
+<text x="182" y="618" font-size="14" text-anchor="middle">taste slightly hot and bitter</text>
+
+<g transform="translate(55.85 0) scale(0.85 1)">
+<!-- Xiangjiapi quill -->
+<path d="M399 436 C455 432 515 440 569 434 L571 482 C515 488 455 480 399 484 Z" fill="#a89070" stroke="#333" stroke-width="1.5"/>
+<ellipse cx="399" cy="460" rx="11" ry="24" fill="#efe0b0" stroke="#333" stroke-width="1.5"/>
+<path d="M399 444 C409 450 409 472 399 476 C391 472 391 456 399 452 C404 456 403 466 399 468" stroke="#7a6a50" stroke-width="1.2" fill="none"/>
+<g fill="#c9b08a" stroke="#6b5636" stroke-width="1">
+<path d="M414 440 L436 437 L440 452 L420 456 Z"/>
+<path d="M444 441 L470 440 L468 458 L446 456 Z"/>
+<path d="M418 462 L442 460 L446 478 L416 480 Z"/>
+<path d="M478 438 L502 440 L500 454 L476 456 Z"/>
+<path d="M452 462 L480 461 L478 478 L454 479 Z"/>
+<path d="M508 443 L534 440 L536 458 L510 459 Z"/>
+<path d="M488 462 L514 464 L512 480 L486 478 Z"/>
+<path d="M542 438 L566 437 L566 456 L544 457 Z"/>
+<path d="M522 466 L548 462 L552 478 L524 480 Z" transform="rotate(-14 537 471) translate(4 6)"/>
+</g>
+<g fill="#c9b08a" stroke="#6b5636" stroke-width="1">
+<path d="M520 496 L534 494 L536 504 L522 506 Z" transform="rotate(20 528 500)"/>
+<path d="M546 504 L556 503 L557 511 L547 512 Z" transform="rotate(-25 551 507)"/>
+<path d="M500 508 L510 507 L511 514 L501 515 Z"/>
+</g>
+<g stroke="#0b5cad" stroke-width="1" fill="#0b5cad">
+<line x1="545" y1="476" x2="590" y2="452"/><circle cx="545" cy="476" r="2.2"/>
+<line x1="535" y1="502" x2="590" y2="490"/><circle cx="535" cy="502" r="2.2"/>
+</g>
+</g>
+<text x="566" y="452" font-size="14" font-weight="bold">Soft, loose cork</text>
+<text x="566" y="476" font-size="14">often flakes off</text>
+<text x="566" y="494" font-size="14" font-weight="bold">in scales</text>
+<!-- aroma -->
+<g stroke="#c33" stroke-width="2" fill="none" stroke-linecap="round">
+<path d="M420 528 C412 520 428 514 420 506"/>
+<path d="M450 532 C442 522 458 516 450 506"/>
+<path d="M480 528 C472 520 488 514 480 506"/>
+</g>
+<rect x="377" y="546" width="321" height="86" rx="6" fill="#fdecec" stroke="#c33" stroke-width="1"/>
+<text x="537" y="580" font-size="16" text-anchor="middle" fill="#c33">Smell: <tspan font-weight="bold">strong, peculiar fragrance</tspan></text>
+<text x="537" y="606" font-size="14" text-anchor="middle">(some describe it as like wintergreen oil)</text>
+
+<!-- bottom -->
+<rect x="10" y="656" width="700" height="246" rx="8" fill="#fdecec" stroke="#c33" stroke-width="2"/>
+<text x="360" y="686" font-size="17" font-weight="bold" fill="#c33" text-anchor="middle">A "Wujiapi" or "Digupi" with a strong, peculiar fragrance</text>
+<text x="360" y="708" font-size="17" font-weight="bold" fill="#c33" text-anchor="middle">is very likely Xiangjiapi — do not use it</text>
+<text x="360" y="736" font-size="14" text-anchor="middle">Wujiapi is only faintly fragrant and Digupi has little smell;</text>
+<text x="360" y="755" font-size="14" text-anchor="middle">an upright shrub with prickles ≠ a twining vine with white milky sap</text>
+<text x="360" y="782" font-size="14" text-anchor="middle">Poisoning: nausea and vomiting, seeing things tinged yellow or green,</text>
+<text x="360" y="801" font-size="14" text-anchor="middle"><tspan font-weight="bold">a very slow heartbeat or heart rhythm problems</tspan>, in severe cases cardiac arrest</text>
+<text x="360" y="822" font-size="13" fill="#555" text-anchor="middle">The risk is higher in people taking digoxin or other heart-strengthening medicines</text>
+<text x="360" y="850" font-size="15" font-weight="bold" fill="#c33" text-anchor="middle">❌ Do not buy "Wujiapi" yourself to steep in medicinal liquor;</text>
+<text x="360" y="869" font-size="15" font-weight="bold" fill="#c33" text-anchor="middle">if you cannot identify it for certain, do not pick it or use it</text>
+<text x="360" y="892" font-size="13" fill="#555" text-anchor="middle">Whether to use it, and how much, is for a TCM practitioner to decide</text>
+</g>
+</g>
+</svg>

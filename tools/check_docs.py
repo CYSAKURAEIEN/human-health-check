@@ -163,6 +163,13 @@ def check_herb_index(errors):
     if after != before:
         open(idx, 'w', encoding='utf-8').write(before)  # 只检查,不改文件
         errors.append('docs/10-中药材识别与采集/10-药名索引.md 不是最新的: 请运行 python3 tools/build_herb_index.py')
+    en = os.path.join(ROOT, 'en', 'docs', '10-chinese-medicinal-herbs', '10-herb-name-index.md')
+    if os.path.isfile(en):
+        sys.path.insert(0, os.path.join(ROOT, 'tools'))
+        sys.dont_write_bytecode = True
+        import build_herb_index_en
+        if build_herb_index_en.build() != open(en, encoding='utf-8').read():
+            errors.append('en/docs/10-chinese-medicinal-herbs/10-herb-name-index.md 不是最新的: 请运行 python3 tools/build_herb_index_en.py')
 
 
 def check_figure_index(errors):

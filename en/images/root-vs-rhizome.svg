@@ -1,0 +1,197 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1268" width="800" height="1268" role="img" aria-label="How to tell a root, rhizome, tuber and bulb apart (schematic): a root has lengthwise wrinkles and lenticels on its surface, branch and fibrous roots lower down, and a cut surface showing bark, cambium ring and wood, often with radial lines and cracks (chrysanthemum heart); the lutou at the top of a ginseng main root is a piece of rhizome with bowl-shaped stem scars; root tubers (Dihuang, Heshouwu) are also roots. A rhizome has rings of nodes, with stem scars, buds or bud scars on top, fibrous roots or root scars on the underside and at the nodes, and leaf scars or remains of leaf bases at the nodes; the cut rhizome of Gancao (liquorice) has pith in the centre. A tuber (Tianma, gastrodia) has several rings of dots formed by dormant buds, a parrot's-beak bud or stem stump at the top, a round navel-like scar at the other end, and a horny, translucent cut surface. A bulb is made of fleshy scale leaves clasped together: in Chuanbei (songbei) the 2 outer scales, the big one tightly clasping the small one (moon held in the arms); Baihe (lily) uses single fleshy scale leaves with straight, parallel white vascular bundles. You cannot identify a herb from its root alone: identify the parts above ground while the plant is in flower or fruit, then dig" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Root, rhizome, tuber or bulb</title>
+<g fill="#222">
+<text x="400" y="30" font-size="18" font-weight="bold" text-anchor="middle">How to tell a root, rhizome, tuber and bulb apart</text>
+<text x="400" y="50" font-size="13" fill="#555" text-anchor="middle">(Schematic of crude herbs: look first for nodes, buds and stem scars on the surface, then at the cut surface;</text>
+<text x="400" y="66" font-size="13" fill="#555" text-anchor="middle">for each herb, follow the description in its chapter)</text>
+<g transform="translate(0 16)">
+<g transform="translate(0 0)">
+<rect x="10" y="66" width="780" height="262" rx="8" fill="none" stroke="#999" stroke-width="1.5"/>
+<text x="26" y="92" font-size="17" font-weight="bold">① Root<tspan font-size="13" font-weight="normal" fill="#555"> (e.g. Huangqi (astragalus), Gancao (liquorice), Jiegeng (balloon flower),</tspan></text>
+<text x="26" y="110" font-size="13" fill="#555">main root of Renshen (ginseng))</text>
+<g transform="translate(0 16)">
+<line x1="512" y1="106" x2="512" y2="280" stroke="#ddd" stroke-width="1.5"/>
+<path d="M72,110 L88,110 L90,140 L70,140 Z" fill="#d9bb85" stroke="#333" stroke-width="1.8" stroke-linejoin="round"/>
+<ellipse cx="89" cy="116" rx="4" ry="2.6" fill="#b8955a" stroke="#333" stroke-width="1"/>
+<ellipse cx="71" cy="124" rx="4" ry="2.6" fill="#b8955a" stroke="#333" stroke-width="1"/>
+<ellipse cx="89" cy="132" rx="4" ry="2.6" fill="#b8955a" stroke="#333" stroke-width="1"/>
+<path d="M64,140 C58,186 70,236 80,280 C88,236 102,186 96,140 Z" fill="#e8cfa0" stroke="#333" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M68,216 C58,230 50,246 40,266 M92,226 C102,238 110,252 118,270" fill="none" stroke="#333" stroke-width="4" stroke-linecap="round"/>
+<path d="M68,216 C58,230 50,246 40,266 M92,226 C102,238 110,252 118,270" fill="none" stroke="#e8cfa0" stroke-width="2" stroke-linecap="round"/>
+<path d="M48,250 l-10,-2 M56,238 l-8,6 M108,250 l10,-4 M114,262 l8,4 M80,280 l-2,8" stroke="#8a6a3a" stroke-width="1" fill="none"/>
+<path d="M74,148 C71,186 75,226 79,266 M86,148 C89,186 86,226 82,266" fill="none" stroke="#a8875a" stroke-width="1"/>
+<path d="M66,170 h9 M85,192 h9 M69,212 h8 M83,166 h8" stroke="#6a4a2a" stroke-width="2" stroke-linecap="round"/>
+<path d="M90,118 L127,116" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="90" cy="118" r="2" fill="#0b5cad"/>
+<text x="130" y="120" font-size="13" fill="#0b5cad">Lutou ("neck"): a</text>
+<text x="130" y="135" font-size="13" fill="#0b5cad">piece of rhizome with</text>
+<text x="130" y="150" font-size="13" fill="#0b5cad">bowl-shaped stem</text>
+<text x="130" y="165" font-size="13" fill="#0b5cad">scars (luwan)</text>
+<path d="M92,192 L127,184" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="92" cy="192" r="2" fill="#0b5cad"/>
+<text x="130" y="188" font-size="13" fill="#0b5cad">Lengthwise wrinkles,</text>
+<text x="130" y="203" font-size="13" fill="#0b5cad">lenticels</text>
+<path d="M116,268 L127,262" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="116" cy="268" r="2" fill="#0b5cad"/>
+<text x="130" y="266" font-size="13" fill="#0b5cad">Branch roots,</text>
+<text x="130" y="281" font-size="13" fill="#0b5cad">fibrous roots</text>
+<text x="322" y="130" font-size="13" fill="#555" text-anchor="middle">cross-section</text>
+<circle cx="322" cy="194" r="48" fill="#f6efd9" stroke="#333" stroke-width="2"/>
+<circle cx="322" cy="194" r="29" fill="#f0d470" stroke="#8a5a2b" stroke-width="3"/>
+<path d="M326,194 L349,194 M325.8,195.4 L347.4,203.2 M325.1,196.6 L342.7,211.4 M324,197.5 L335.5,217.4 M322.7,197.9 L326.7,220.6 M321.3,197.9 L317.3,220.6 M320,197.5 L308.5,217.4 M318.9,196.6 L301.3,211.4 M318.2,195.4 L296.6,203.2 M318,194 L295,194 M318.2,192.6 L296.6,184.8 M318.9,191.4 L301.3,176.6 M320,190.5 L308.5,170.6 M321.3,190.1 L317.3,167.4 M322.7,190.1 L326.7,167.4 M324,190.5 L335.5,170.6 M325.1,191.4 L342.7,176.6 M325.8,192.6 L347.4,184.8" stroke="#b8952a" stroke-width="1"/>
+<path d="M354.5,199.7 L365.3,201.6 M343.2,219.3 L350.3,227.7 M322,227 L322,238 M300.8,219.3 L293.7,227.7 M289.5,199.7 L278.7,201.6 M293.4,177.5 L283.9,172 M310.7,163 L307,152.7 M333.3,163 L337,152.7 M350.6,177.5 L360.1,172" stroke="#6a4a2a" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M352,162 L387,146" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="352" cy="162" r="2" fill="#0b5cad"/>
+<text x="390" y="150" font-size="13" fill="#0b5cad">bark</text>
+<path d="M351,190 L387,174" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="351" cy="190" r="2" fill="#0b5cad"/>
+<text x="390" y="178" font-size="13" fill="#0b5cad">cambium ring</text>
+<path d="M336,202 L387,202" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="336" cy="202" r="2" fill="#0b5cad"/>
+<text x="390" y="206" font-size="13" fill="#0b5cad">wood</text>
+<path d="M343.2,223.1 L387,230" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="343.2" cy="223.1" r="2" fill="#0b5cad"/>
+<text x="390" y="234" font-size="12" fill="#0b5cad">radial lines and</text>
+<text x="390" y="248" font-size="12" fill="#0b5cad">cracks</text>
+<text x="390" y="262" font-size="12" fill="#0b5cad">("chrysanthemum</text>
+<text x="390" y="276" font-size="12" fill="#0b5cad">heart")</text>
+<text x="526" y="128" font-size="13">· Lengthwise wrinkles and lenticels on</text>
+<text x="538" y="146" font-size="13">the surface; branch and fibrous roots</text>
+<text x="538" y="164" font-size="13">lower down</text>
+<text x="526" y="186" font-size="13">· Cut surface: bark, cambium ring and</text>
+<text x="538" y="204" font-size="13">wood, often with radial lines</text>
+<text x="526" y="226" font-size="13">· Root tubers (e.g. Dihuang (rehmannia),</text>
+<text x="538" y="244" font-size="13">Heshouwu (fo-ti)) are roots too, just</text>
+<text x="538" y="262" font-size="13">swollen into lumps</text>
+</g>
+</g>
+<g transform="translate(0 32)">
+<rect x="10" y="306" width="780" height="262" rx="8" fill="none" stroke="#999" stroke-width="1.5"/>
+<text x="26" y="332" font-size="17" font-weight="bold">② Rhizome<tspan font-size="13" font-weight="normal" fill="#555"> (e.g. Huangjing (Solomon's seal), Yuzhu (fragrant Solomon's seal), Zhimu (anemarrhena),</tspan></text>
+<text x="26" y="350" font-size="13" fill="#555">Shegan (blackberry lily), Shichangpu (grass-leaved sweet flag))</text>
+<g transform="translate(0 16)">
+<line x1="512" y1="346" x2="512" y2="520" stroke="#ddd" stroke-width="1.5"/>
+<path d="M30,416 Q34,412 64,414 Q81,410 98,414 Q113,411 128,414 Q146,409 164,413 Q183,409 202,413 Q217,410 232,414 Q244,416 246,430 Q244,444 232,446 Q217,449 202,447 Q183,450 164,447 Q146,450 128,446 Q113,449 98,446 Q81,449 64,446 Q34,448 30,444 Q26,430 30,416 Z" fill="#e8cfa0" stroke="#333" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M64,413 Q68,430 64,447 M98,413 Q102,430 98,447 M128,413 Q132,430 128,447 M164,413 Q168,430 164,447 M202,413 Q206,430 202,447 M232,413 Q236,430 232,447" fill="none" stroke="#6a4a2a" stroke-width="2"/>
+<path d="M202,413 l-3,-6 M204,413 l1,-7 M206,414 l4,-5 M232,413 l-3,-6 M234,413 l1,-7 M236,414 l4,-5" stroke="#8a6a3a" stroke-width="1"/>
+<path d="M64,447 q-3,18 -8,36 M67,447 q4,16 10,30 M98,447 q-3,18 -8,36 M101,447 q4,16 10,30 M128,447 q-3,18 -8,36 M131,447 q4,16 10,30 M164,447 q-3,18 -8,36 M167,447 q4,16 10,30 M202,447 q-3,18 -8,36 M205,447 q4,16 10,30 M232,447 q-3,18 -8,36 M235,447 q4,16 10,30" fill="none" stroke="#8a6a3a" stroke-width="1.3"/>
+<ellipse cx="113" cy="415" rx="10" ry="5" fill="#c9a46a" stroke="#333" stroke-width="1.3"/><ellipse cx="113" cy="415" rx="6" ry="2.5" fill="#a8875a"/>
+<path d="M222,414 C220,400 228,390 236,384 C240,394 238,406 234,414 Z" fill="#e6b8a2" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M113,374 L113,411" stroke="#0b5cad" stroke-width="1"/>
+<text x="105" y="356" font-size="13" fill="#0b5cad" text-anchor="middle">stem scar</text>
+<text x="105" y="370" font-size="13" fill="#0b5cad" text-anchor="middle">(disc-shaped)</text>
+<path d="M238,390 L261,382" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="238" cy="390" r="2" fill="#0b5cad"/>
+<text x="264" y="386" font-size="13" fill="#0b5cad">bud</text>
+<path d="M206,406 L224,374" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="206" cy="406" r="2" fill="#0b5cad"/>
+<text x="214" y="356" font-size="13" fill="#0b5cad" text-anchor="middle">leaf scars, remains</text>
+<text x="214" y="370" font-size="13" fill="#0b5cad" text-anchor="middle">of leaf bases</text>
+<path d="M64,400 L64,413" stroke="#0b5cad" stroke-width="1"/>
+<text x="64" y="396" font-size="13" fill="#0b5cad" text-anchor="middle">ring (node)</text>
+<path d="M130,403 L162,403 M130,399 v8 M162,399 v8" stroke="#0b5cad" stroke-width="1"/>
+<text x="146" y="396" font-size="13" fill="#0b5cad" text-anchor="middle">internode</text>
+<path d="M206,474 L186,505" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="206" cy="474" r="2" fill="#0b5cad"/>
+<text x="170" y="520" font-size="13" fill="#0b5cad" text-anchor="middle">fibrous roots grow from</text>
+<text x="170" y="535" font-size="13" fill="#0b5cad" text-anchor="middle">the underside and nodes</text>
+<text x="322" y="370" font-size="13" fill="#555" text-anchor="middle">cross-section</text>
+<circle cx="322" cy="426" r="44" fill="#ecd9a8" stroke="#333" stroke-width="2"/>
+<circle cx="322" cy="426" r="26" fill="none" stroke="#8a5a2b" stroke-width="2"/>
+<circle cx="322" cy="426" r="13" fill="#f8f2e0" stroke="#a8875a" stroke-width="1.2"/>
+<path d="M326,424 L387,418" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="326" cy="424" r="2" fill="#0b5cad"/>
+<text x="390" y="422" font-size="13" fill="#0b5cad">pith</text>
+<text x="322" y="492" font-size="13" fill="#555" text-anchor="middle">e.g. Gancao (liquorice)</text>
+<text x="322" y="508" font-size="13" fill="#555" text-anchor="middle">rhizome: pith in the</text>
+<text x="322" y="524" font-size="13" fill="#555" text-anchor="middle">centre of the cut</text>
+<text x="526" y="368" font-size="13">· Rings of nodes all along; internode</text>
+<text x="538" y="386" font-size="13">length varies by species</text>
+<text x="526" y="408" font-size="13">· Stem scars, buds or bud scars on top</text>
+<text x="526" y="430" font-size="13">· Fibrous roots or root scars on the</text>
+<text x="538" y="448" font-size="13">underside and at the nodes</text>
+<text x="526" y="470" font-size="13">· Leaf scars or remains of leaf bases</text>
+<text x="538" y="488" font-size="13">at the nodes</text>
+</g>
+</g>
+<g transform="translate(0 64)">
+<rect x="10" y="546" width="780" height="262" rx="8" fill="none" stroke="#999" stroke-width="1.5"/>
+<text x="26" y="572" font-size="17" font-weight="bold">③ Tuber<tspan font-size="13" font-weight="normal" fill="#555"> (e.g. Tianma (gastrodia))</tspan></text>
+<g transform="translate(0 16)">
+<line x1="512" y1="586" x2="512" y2="760" stroke="#ddd" stroke-width="1.5"/>
+<path d="M56,666 C58,632 110,626 160,628 C206,630 236,642 236,670 C236,702 206,714 160,714 C108,716 54,706 56,666 Z" fill="#ecd9a8" stroke="#333" stroke-width="1.8"/>
+<circle cx="82.7" cy="642.2" r="1.7" fill="#8a6a3a"/><circle cx="85" cy="649.1" r="1.7" fill="#8a6a3a"/><circle cx="86.7" cy="656.1" r="1.7" fill="#8a6a3a"/><circle cx="87.7" cy="663" r="1.7" fill="#8a6a3a"/><circle cx="88" cy="670" r="1.7" fill="#8a6a3a"/><circle cx="87.7" cy="677" r="1.7" fill="#8a6a3a"/><circle cx="86.7" cy="683.9" r="1.7" fill="#8a6a3a"/><circle cx="85" cy="690.9" r="1.7" fill="#8a6a3a"/><circle cx="82.7" cy="697.8" r="1.7" fill="#8a6a3a"/><circle cx="110.7" cy="635.2" r="1.7" fill="#8a6a3a"/><circle cx="113" cy="643.9" r="1.7" fill="#8a6a3a"/><circle cx="114.7" cy="652.6" r="1.7" fill="#8a6a3a"/><circle cx="115.7" cy="661.3" r="1.7" fill="#8a6a3a"/><circle cx="116" cy="670" r="1.7" fill="#8a6a3a"/><circle cx="115.7" cy="678.7" r="1.7" fill="#8a6a3a"/><circle cx="114.7" cy="687.4" r="1.7" fill="#8a6a3a"/><circle cx="113" cy="696.1" r="1.7" fill="#8a6a3a"/><circle cx="110.7" cy="704.8" r="1.7" fill="#8a6a3a"/><circle cx="138.7" cy="633.5" r="1.7" fill="#8a6a3a"/><circle cx="141" cy="642.6" r="1.7" fill="#8a6a3a"/><circle cx="142.7" cy="651.7" r="1.7" fill="#8a6a3a"/><circle cx="143.7" cy="660.9" r="1.7" fill="#8a6a3a"/><circle cx="144" cy="670" r="1.7" fill="#8a6a3a"/><circle cx="143.7" cy="679.1" r="1.7" fill="#8a6a3a"/><circle cx="142.7" cy="688.3" r="1.7" fill="#8a6a3a"/><circle cx="141" cy="697.4" r="1.7" fill="#8a6a3a"/><circle cx="138.7" cy="706.5" r="1.7" fill="#8a6a3a"/><circle cx="166.7" cy="633.5" r="1.7" fill="#8a6a3a"/><circle cx="169" cy="642.6" r="1.7" fill="#8a6a3a"/><circle cx="170.7" cy="651.7" r="1.7" fill="#8a6a3a"/><circle cx="171.7" cy="660.9" r="1.7" fill="#8a6a3a"/><circle cx="172" cy="670" r="1.7" fill="#8a6a3a"/><circle cx="171.7" cy="679.1" r="1.7" fill="#8a6a3a"/><circle cx="170.7" cy="688.3" r="1.7" fill="#8a6a3a"/><circle cx="169" cy="697.4" r="1.7" fill="#8a6a3a"/><circle cx="166.7" cy="706.5" r="1.7" fill="#8a6a3a"/><circle cx="194.7" cy="637" r="1.7" fill="#8a6a3a"/><circle cx="197" cy="645.2" r="1.7" fill="#8a6a3a"/><circle cx="198.7" cy="653.5" r="1.7" fill="#8a6a3a"/><circle cx="199.7" cy="661.7" r="1.7" fill="#8a6a3a"/><circle cx="200" cy="670" r="1.7" fill="#8a6a3a"/><circle cx="199.7" cy="678.3" r="1.7" fill="#8a6a3a"/><circle cx="198.7" cy="686.5" r="1.7" fill="#8a6a3a"/><circle cx="197" cy="694.8" r="1.7" fill="#8a6a3a"/><circle cx="194.7" cy="703" r="1.7" fill="#8a6a3a"/><circle cx="218.7" cy="645.7" r="1.7" fill="#8a6a3a"/><circle cx="221" cy="651.7" r="1.7" fill="#8a6a3a"/><circle cx="222.7" cy="657.8" r="1.7" fill="#8a6a3a"/><circle cx="223.7" cy="663.9" r="1.7" fill="#8a6a3a"/><circle cx="224" cy="670" r="1.7" fill="#8a6a3a"/><circle cx="223.7" cy="676.1" r="1.7" fill="#8a6a3a"/><circle cx="222.7" cy="682.2" r="1.7" fill="#8a6a3a"/><circle cx="221" cy="688.3" r="1.7" fill="#8a6a3a"/><circle cx="218.7" cy="694.3" r="1.7" fill="#8a6a3a"/>
+<path d="M226,648 C238,634 254,626 266,628 C258,636 250,648 236,662 Z" fill="#b5502a" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<ellipse cx="62" cy="670" rx="5" ry="10" fill="#c9a46a" stroke="#333" stroke-width="1.3"/><ellipse cx="62" cy="670" rx="2" ry="4.5" fill="#8a6a3a"/>
+<path d="M112,642 L118,614" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="112" cy="642" r="2" fill="#0b5cad"/>
+<text x="118" y="610" font-size="13" fill="#0b5cad" text-anchor="middle">rings of dots (dormant buds)</text>
+<path d="M258,632 L262,614" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="258" cy="632" r="2" fill="#0b5cad"/>
+<text x="232" y="610" font-size="13" fill="#0b5cad">"parrot's beak" (red-brown bud)</text>
+<path d="M62,681 L87,748" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="62" cy="681" r="2" fill="#0b5cad"/>
+<text x="90" y="752" font-size="13" fill="#0b5cad">round navel-like scar ("belly button")</text>
+<text x="322" y="632" font-size="13" fill="#555" text-anchor="middle">cut surface</text>
+<ellipse cx="322" cy="670" rx="46" ry="28" fill="#f2dca0" fill-opacity="0.75" stroke="#333" stroke-width="2"/>
+<path d="M296,658 Q312,650 332,654" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" opacity="0.8"/>
+<text x="322" y="724" font-size="13" fill="#0b5cad" text-anchor="middle">horny, translucent</text>
+<text x="526" y="608" font-size="13">· Several rings of dots on the surface,</text>
+<text x="538" y="626" font-size="13">formed by dormant buds</text>
+<text x="526" y="648" font-size="13">· At the top, a parrot's-beak bud (winter</text>
+<text x="538" y="666" font-size="13">tianma) or a stem stump (spring tianma)</text>
+<text x="526" y="688" font-size="13">· A round, navel-like scar at the other end</text>
+<text x="526" y="710" font-size="13">· Fakes lack this set of features</text>
+</g>
+</g>
+<g transform="translate(0 96)">
+<rect x="10" y="786" width="780" height="262" rx="8" fill="none" stroke="#999" stroke-width="1.5"/>
+<text x="26" y="812" font-size="17" font-weight="bold">④ Bulb<tspan font-size="13" font-weight="normal" fill="#555"> (e.g. Chuanbeimu (Sichuan fritillary), Zhebeimu (Zhejiang fritillary), Baihe (lily))</tspan></text>
+<g transform="translate(0 16)">
+<line x1="512" y1="826" x2="512" y2="1000" stroke="#ddd" stroke-width="1.5"/>
+<path d="M84,982 C52,968 50,912 82,870 C92,856 112,854 124,868 C156,908 154,966 124,982 Z" fill="#f6efd9" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M106,864 C122,882 132,902 128,926 C112,912 102,888 106,864 Z" fill="#ebe0c0" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+<line x1="74" y1="982" x2="134" y2="982" stroke="#999" stroke-width="2"/>
+<path d="M120,896 L167,852" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="120" cy="896" r="2" fill="#0b5cad"/>
+<text x="170" y="852" font-size="13" fill="#0b5cad">Exposed part of the small</text>
+<text x="170" y="867" font-size="13" fill="#0b5cad">scale is crescent-shaped</text>
+<text x="170" y="882" font-size="13" fill="#0b5cad">("moon held in the arms")</text>
+<path d="M140,932 L167,912" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="140" cy="932" r="2" fill="#0b5cad"/>
+<text x="170" y="916" font-size="13" fill="#0b5cad">The big outer scale clasps</text>
+<text x="170" y="931" font-size="13" fill="#0b5cad">the small one tightly</text>
+<path d="M120,978 L167,958" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="120" cy="978" r="2" fill="#0b5cad"/>
+<text x="170" y="962" font-size="13" fill="#0b5cad">Flat base: stands steady</text>
+<text x="104" y="1000" font-size="13" fill="#555" text-anchor="middle">Chuanbei (songbei)</text>
+<g transform="translate(40 0)">
+<path d="M322,850 C348,866 350,936 328,976 C322,982 316,982 312,974 C292,936 296,866 322,850 Z" fill="#f3e6c4" stroke="#333" stroke-width="2"/>
+<path d="M310,872 C306,916 310,946 316,970 M319,860 C318,906 320,946 321,976 M329,866 C332,906 330,946 325,972" fill="none" stroke="#fff" stroke-width="2.4"/>
+<path d="M329,906 L377,898" stroke="#0b5cad" stroke-width="1"/>
+<circle cx="329" cy="906" r="2" fill="#0b5cad"/>
+<text x="380" y="896" font-size="12" fill="#0b5cad">straight, parallel</text>
+<text x="380" y="910" font-size="12" fill="#0b5cad">white vascular</text>
+<text x="380" y="924" font-size="12" fill="#0b5cad">bundles</text>
+<text x="322" y="1000" font-size="13" fill="#555" text-anchor="middle">Baihe: a single fleshy scale leaf</text>
+</g>
+<text x="526" y="848" font-size="13">· Made of fleshy scale leaves clasped</text>
+<text x="538" y="866" font-size="13">together</text>
+<text x="526" y="888" font-size="13">· Chuanbei (songbei): 2 outer scales, the</text>
+<text x="538" y="906" font-size="13">big one tightly clasping the small one</text>
+<text x="526" y="928" font-size="13">· Zhebei: large; single scale leaves or</text>
+<text x="538" y="946" font-size="13">flattened round bulbs</text>
+<text x="526" y="968" font-size="13">· Baihe: single fleshy scale leaves are used</text>
+</g>
+</g>
+<g transform="translate(0 128)">
+<rect x="10" y="1026" width="780" height="92" rx="8" fill="#fdf3f3" stroke="#c33" stroke-width="1.5"/>
+<text x="400" y="1048" font-size="15" font-weight="bold" fill="#c33" text-anchor="middle">⚠️ You cannot identify a herb from its root alone: identify the parts above ground</text>
+<text x="400" y="1067" font-size="15" font-weight="bold" fill="#c33" text-anchor="middle">while the plant is in flower or fruit, then dig up the underground part</text>
+<text x="400" y="1088" font-size="13" text-anchor="middle">Treat a piece of root on its own as "of unknown origin"</text>
+<text x="400" y="1106" font-size="12" fill="#555" text-anchor="middle">Corms also count as roots and rhizomes, but no herb in this part's chapters is a corm, so none is shown</text>
+</g>
+</g>
+</g>
+</svg>

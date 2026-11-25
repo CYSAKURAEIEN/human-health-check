@@ -8,7 +8,7 @@ This is a comprehensive emergency survival and health handbook. It aims to give 
 
 **⚠️ Important notice**: The information in this handbook is for reference and education only. In a real emergency, always seek help from medical professionals first. This handbook is not a substitute for professional medical advice, diagnosis or treatment.
 
-> **About this English edition**: This is a translation of a handbook written for mainland China ([Chinese original](README.md)). Emergency numbers (120 ambulance, 110 police, 119 fire), laws and regulations, which medicines are available, and where plants and animals are found all reflect China — substitute your local equivalents. Parts not yet translated link to the Chinese original.
+> **About this English edition**: This is a translation of a handbook written for mainland China ([Chinese original](../README.md)). Emergency numbers (120 ambulance, 110 police, 119 fire), laws and regulations, which medicines are available, and where plants and animals are found all reflect China — substitute your local equivalents.
 
 ## 📚 Contents
 
@@ -174,7 +174,7 @@ For those who want to go deeper: how to rebuild technology layer by layer.
 - **Computing and information**: the abacus and slide rule, logic circuits and how computers work, algorithms, information theory and error correction, preserving knowledge on paper
 - **Advanced celestial navigation**: celestial coordinates, finding direction precisely, measuring latitude and longitude, home-made angle-measuring instruments, dead reckoning, compiling a calendar
 
-### [X. Identifying and Collecting Chinese Medicinal Herbs](../docs/10-中药材识别与采集/README.md)
+### [X. Identifying and Collecting Chinese Medicinal Herbs](docs/10-chinese-medicinal-herbs/README.md)
 
 A field guide to common Chinese medicinal herbs: how to recognise them, where to find them, when to collect them and how to process and store them, with Pharmacopoeia doses, contraindications and poisonous plants that are easily confused with them.
 
@@ -298,9 +298,9 @@ Compound units use "/" to mean "per", e.g. m/s (metres per second), kg/ha (kilog
 | Stung by a wasp, bitten by a tick | [Wasps](docs/03-wilderness-survival/10-wasps-ticks-and-dangerous-animals.md#wasps-hornets), [ticks](docs/03-wilderness-survival/10-wasps-ticks-and-dangerous-animals.md#ticks) |
 | Setting out a right angle, finding level, measuring height when building | [Measuring without instruments](docs/08-basic-science/00-measurement-and-scientific-method.md#4-measuring-without-instruments) |
 | Not sure how much 1 m or 1 kg really is | [Rebuilding measurement standards](docs/08-basic-science/09-rebuilding-measurement-standards.md#6-ready-made-references-in-the-ruins) |
-| Which chapter a Chinese herb is in, and its other names | [Herb name index](../docs/10-中药材识别与采集/10-药名索引.md) |
-| Is the herb you dug up a poisonous plant? | [Comparison of easily confused poisonous plants](../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#四易混淆的有毒植物对照) (*Gouwen*, pokeweed, water hemlock, etc.; if you are not sure, do not pick it) |
-| Feeling unwell after taking self-collected herbs or herbal wine | [General treatment of poisoning](../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#五中毒的通用处理) (call 120 at once and take the remaining herbs with you) |
+| Which chapter a Chinese herb is in, and its other names | [Herb name index](docs/10-chinese-medicinal-herbs/10-herb-name-index.md) |
+| Is the herb you dug up a poisonous plant? | [Comparison of easily confused poisonous plants](docs/10-chinese-medicinal-herbs/09-toxic-herbs-and-poisonous-look-alikes.md#4-poisonous-plants-that-are-easily-confused) (*Gouwen*, pokeweed, water hemlock, etc.; if you are not sure, do not pick it) |
+| Feeling unwell after taking self-collected herbs or herbal wine | [General treatment of poisoning](docs/10-chinese-medicinal-herbs/09-toxic-herbs-and-poisonous-look-alikes.md#5-general-handling-of-poisoning) (call 120 at once and take the remaining herbs with you) |
 | How to save seed, and whether it will germinate | [Seed saving and breeding](docs/04-farming-and-animal-husbandry/08-seed-saving-and-breeding.md#germination-testing) |
 | The salt has run out | [Salt making](docs/07-everyday-living-skills/15-salt-making.md#salt-from-seawater-the-basic-idea) |
 | How to tie knots | [Common knots](docs/07-everyday-living-skills/17-rope-and-knots.md#common-knots) |
@@ -315,7 +315,7 @@ Compound units use "/" to mean "per", e.g. m/s (metres per second), kg/ha (kilog
 
 <!-- 示意图目录开始: 由 tools/build_figure_index.py 生成,不要手工编辑 -->
 
-170 diagrams in all (174 placements; a few appear in two related chapters), listed by part and chapter; click a name to jump to the section it is in. Chapters not yet translated are listed in Chinese.
+170 diagrams in all (174 placements; a few appear in two related chapters), listed by part and chapter; click a name to jump to the section it is in.
 
 ### I. First Aid and Family Health Handbook
 
@@ -447,16 +447,16 @@ Compound units use "/" to mean "per", e.g. m/s (metres per second), kg/ha (kilog
 
 ### X. Identifying and Collecting Chinese Medicinal Herbs
 
-- **[中药材识别与采集总论](../docs/10-中药材识别与采集/00-总论.md)**: [认植物的基本术语](../docs/10-中药材识别与采集/00-总论.md#31-基原鉴定-看整株植物) · [根、根茎、块茎、鳞茎怎样区分](../docs/10-中药材识别与采集/00-总论.md#32-性状鉴定-看摸闻尝) · [中药材的药用部位与最佳采收期](../docs/10-中药材识别与采集/00-总论.md#41-各部位的最佳采收期) · [药材的干燥](../docs/10-中药材识别与采集/00-总论.md#55-干燥) · [药材的储存](../docs/10-中药材识别与采集/00-总论.md#61-四种变质与防止办法)
-- **[根及根茎类(上)](../docs/10-中药材识别与采集/01-根及根茎类上.md)**: [人参与商陆对照](../docs/10-中药材识别与采集/01-根及根茎类上.md#11-人参)
-- **[根及根茎类(下)](../docs/10-中药材识别与采集/02-根及根茎类下.md)**: [玉竹与铃兰对照](../docs/10-中药材识别与采集/02-根及根茎类下.md#15-玉竹)
-- **[果实种子类](../docs/10-中药材识别与采集/03-果实种子类.md)**: [牛蒡子与苍耳子对照](../docs/10-中药材识别与采集/03-果实种子类.md#44-牛蒡子)
-- **[全草类](../docs/10-中药材识别与采集/04-全草类.md)**: [马齿苋与大戟科植物对照](../docs/10-中药材识别与采集/04-全草类.md#25-马齿苋)
-- **[花叶类](../docs/10-中药材识别与采集/05-花叶类.md)**: [侧柏、圆柏、叉子圆柏怎样区分](../docs/10-中药材识别与采集/05-花叶类.md#52-侧柏叶)
-- **[皮类与藤木类](../docs/10-中药材识别与采集/06-皮类与藤木类.md)**: [五加皮与香加皮对照](../docs/10-中药材识别与采集/06-皮类与藤木类.md#25-五加皮)
-- **[菌藻树脂及其他](../docs/10-中药材识别与采集/07-菌藻树脂及其他.md)**: [冬虫夏草真品与常见伪品](../docs/10-中药材识别与采集/07-菌藻树脂及其他.md#14-冬虫夏草)
-- **[动物类与矿物类](../docs/10-中药材识别与采集/08-动物类与矿物类.md)**: [赭石与有毒红色矿物对照](../docs/10-中药材识别与采集/08-动物类与矿物类.md#46-赭石)
-- **[有毒中药与易混淆有毒植物](../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md)**: [钩吻与金银花对照](../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#42-钩吻-vs-金银花)
+- **[General Principles of Identifying and Collecting Chinese Medicinal Herbs](docs/10-chinese-medicinal-herbs/00-general-principles.md)**: [Basic terms for identifying plants](docs/10-chinese-medicinal-herbs/00-general-principles.md#31-identification-by-botanical-source-look-at-the-whole-plant) · [Root, rhizome, tuber or bulb](docs/10-chinese-medicinal-herbs/00-general-principles.md#32-identification-by-appearance-look-touch-smell-taste) · [Medicinal plant parts and harvest times](docs/10-chinese-medicinal-herbs/00-general-principles.md#41-the-best-collection-time-for-each-part) · [Drying medicinal herbs](docs/10-chinese-medicinal-herbs/00-general-principles.md#55-drying) · [Storing medicinal herbs](docs/10-chinese-medicinal-herbs/00-general-principles.md#61-four-kinds-of-spoilage-and-how-to-prevent-them)
+- **[Roots and Rhizomes (1)](docs/10-chinese-medicinal-herbs/01-roots-and-rhizomes-1.md)**: [Ginseng vs pokeweed](docs/10-chinese-medicinal-herbs/01-roots-and-rhizomes-1.md#11-renshen-ginseng)
+- **[Roots and Rhizomes (Part 2)](docs/10-chinese-medicinal-herbs/02-roots-and-rhizomes-2.md)**: [Yuzhu compared with lily of the valley](docs/10-chinese-medicinal-herbs/02-roots-and-rhizomes-2.md#15-yuzhu-fragrant-solomons-seal-rhizome)
+- **[Fruits and Seeds](docs/10-chinese-medicinal-herbs/03-fruits-and-seeds.md)**: [Niubangzi (burdock fruit) compared with Cang'erzi (cocklebur fruit)](docs/10-chinese-medicinal-herbs/03-fruits-and-seeds.md#44-niubangzi-burdock-fruit)
+- **[Whole Herbs](docs/10-chinese-medicinal-herbs/04-whole-herbs.md)**: [Purslane compared with spurges](docs/10-chinese-medicinal-herbs/04-whole-herbs.md#25-machixian-purslane)
+- **[Flowers and Leaves](docs/10-chinese-medicinal-herbs/05-flowers-and-leaves.md)**: [Telling oriental arborvitae, Chinese juniper and savin juniper apart](docs/10-chinese-medicinal-herbs/05-flowers-and-leaves.md#52-cebaiye-oriental-arborvitae-leaf)
+- **[Barks, Stems and Woods](docs/10-chinese-medicinal-herbs/06-barks-stems-and-woods.md)**: [Wujiapi compared with Xiangjiapi](docs/10-chinese-medicinal-herbs/06-barks-stems-and-woods.md#25-wujiapi-acanthopanax-root-bark)
+- **[Fungi, Algae, Resins and Others](docs/10-chinese-medicinal-herbs/07-fungi-algae-resins-and-others.md)**: [Dongchongxiacao (Chinese caterpillar fungus): genuine and common fakes](docs/10-chinese-medicinal-herbs/07-fungi-algae-resins-and-others.md#14-dongchongxiacao-chinese-caterpillar-fungus)
+- **[Animal and Mineral Medicines](docs/10-chinese-medicinal-herbs/08-animal-and-mineral-medicines.md)**: [Zheshi (haematite) compared with toxic red minerals](docs/10-chinese-medicinal-herbs/08-animal-and-mineral-medicines.md#46-zheshi-haematite)
+- **[Toxic Herbs and Poisonous Look-alikes](docs/10-chinese-medicinal-herbs/09-toxic-herbs-and-poisonous-look-alikes.md)**: [Gouwen vs honeysuckle](docs/10-chinese-medicinal-herbs/09-toxic-herbs-and-poisonous-look-alikes.md#42-gouwen-heartbreak-grass-vs-jinyinhua-honeysuckle)
 
 <!-- 示意图目录结束 -->
 
@@ -501,7 +501,7 @@ please take part as follows:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a pull request
 
-Before committing, run `python3 tools/check_docs.py` to check for broken links, anchors, code blocks and how units are written (this also runs automatically on pull requests). After changing herb names or alternative names in part X, run `python3 tools/build_herb_index.py` to regenerate the [herb name index](../docs/10-中药材识别与采集/10-药名索引.md). After adding or removing diagrams, run `python3 tools/build_figure_index.py` to regenerate the [diagram index](#-diagram-index) above.
+Before committing, run `python3 tools/check_docs.py` to check for broken links, anchors, code blocks and how units are written (this also runs automatically on pull requests). After changing herb names or alternative names in part X, run `python3 tools/build_herb_index.py` to regenerate the [herb name index](docs/10-chinese-medicinal-herbs/10-herb-name-index.md). After adding or removing diagrams, run `python3 tools/build_figure_index.py` to regenerate the [diagram index](#-diagram-index) above.
 
 English chapters live in `en/` and must keep exactly the same heading structure as the Chinese original (the same number of headings, at the same levels, in the same order); `tools/check_docs.py` checks this. `en/paths.tsv` maps each Chinese file to its English file, and `tools/en_links.py` maintains the cross-links: once a chapter has been translated, it rewrites links that still point to the Chinese original so they point to the English version.
 
