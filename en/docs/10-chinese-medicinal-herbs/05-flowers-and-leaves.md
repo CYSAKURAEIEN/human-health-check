@@ -32,8 +32,9 @@ This chapter covers 23 common flower and leaf herbs (the part used is the flower
 5. Fresh ginkgo leaves contain ginkgolic acids (allergenic and toxic);
    proper preparations have them specially removed; do not pick the
    leaves yourself to make tea
-6. Pregnant women must not use blood-moving herbs such as safflower,
-   saffron, cattail pollen (Puhuang) and Chinese rose flower;
+6. Pregnant women must not use safflower or saffron, and must use
+   blood-moving herbs such as cattail pollen (Puhuang) and Chinese rose
+   flower only with caution;
    people taking anticoagulant or antiplatelet drugs such as warfarin or
    aspirin must ask a doctor before use
    (the same applies to ginkgo leaf and Danshen-type herbs)
@@ -604,8 +605,8 @@ Before collecting flower and leaf herbs, confirm each point:
   not for people taking anticoagulants
 □ Mugwort leaf is slightly toxic: no large amounts by mouth; with
   moxibustion guard against burns and ventilate the room
-□ Pregnant women must not use blood-moving herbs such as safflower,
-  saffron, cattail pollen and Chinese rose flower
+□ Pregnant women must not use safflower or saffron; use blood-moving
+  herbs such as cattail pollen and Chinese rose flower only with caution
 ```
 
 ---
