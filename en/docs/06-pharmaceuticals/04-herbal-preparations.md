@@ -858,11 +858,11 @@ Why not iron, aluminium or copper pans:
 - Minerals and shells (*Shigao*, *Longgu*, etc.)
 - Put into the pot 30 minutes ahead of the others
 
-**Added last:**
+**Added near the end:**
 - Aromatic herbs (*Bohe*, *Huoxiang*, etc.)
 - Put into the pot for the last 5-10 minutes
 
-**Wrapped:**
+**Wrapped in cloth for decoction:**
 - Tiny seeds, pollen
 - Wrap in gauze and decoct
 
@@ -1001,7 +1001,7 @@ More on medicines in pregnancy:
 
 ### 6.3 Medicines for children
 
-**Dose:** see [Basic pharmaceutical knowledge – adult vs child doses](00-pharmacy-basics.md#23-adult-vs-child-doses); the formulas there are only rough estimates, and children's doses of Chinese medicine are best set by a doctor
+**Dose:** see [Pharmacy basics – adult vs child doses](00-pharmacy-basics.md#23-adult-vs-child-doses); the formulas there are only rough estimates, and children's doses of Chinese medicine are best set by a doctor
 
 **Do not use:**
 - Medicines containing heavy metals (*Zhusha* (cinnabar, mercury sulphide), *Xionghuang* (realgar, arsenic sulphide))
@@ -1066,7 +1066,7 @@ Key points:
   supplements you are taking, and write them on your medication card
 ```
 
-For which herbs clash with which Western medicines see [Medicinal plants – warnings on use with Western medicines](../04-farming-and-animal-husbandry/04-medicinal-plants.md#taking-herbs-with-western-medicines); for the medication card and medicines that must not be stopped suddenly see [Chronic disease medication stockpile](../01-first-aid-and-family-health/08-chronic-medication-stockpile.md#the-most-dangerous-medicines-to-stop-suddenly).
+For which herbs clash with which Western medicines see [Medicinal plants – warnings on use with Western medicines](../04-farming-and-animal-husbandry/04-medicinal-plants.md#taking-herbs-with-western-medicines); for the medication card and medicines that must not be stopped suddenly see [Chronic medication stockpile](../01-first-aid-and-family-health/08-chronic-medication-stockpile.md#the-most-dangerous-medicines-to-stop-suddenly).
 
 ### 6.6 Toxic Chinese medicines
 
@@ -1235,7 +1235,7 @@ How to store them:
    in lidded clay, glass or tin jars, or thick plastic bags tied tightly shut
 3. Label: name, source (gathered yourself / bought), date gathered or bought
 4. Keep in a cool, dry, dark place, off the floor and away from the walls;
-   in humid seasons (the plum-rain season, the damp "huinantian" spells in southern China)
+   in humid seasons (the plum-rain season, the damp *huinantian* spells in southern China)
    check them once a month
 5. Against insects: you can put a few Sichuan peppercorns in the jar; deal separately with
    anything insect-eaten
@@ -1271,13 +1271,13 @@ For drying and storing food and for aflatoxin see [Food processing and preservat
 
 ## Related chapters
 
-- ⏮️ [Basic pharmaceutical knowledge](00-pharmacy-basics.md) - principles of extraction and processing
+- ⏮️ [Pharmacy basics](00-pharmacy-basics.md) - principles of extraction and processing
 - ⏮️ [Making disinfectants](01-disinfectants.md) - use together
 - 🔗 [Farming and animal husbandry – medicinal plants](../04-farming-and-animal-husbandry/04-medicinal-plants.md) - growing medicinal herbs
 - 🔗 [Identifying and collecting Chinese medicinal herbs](../10-chinese-medicinal-herbs/README.md) - how to recognise herbs, when to collect them, poisonous look-alikes
 - 🔗 [First Aid and Family Health](../01-first-aid-and-family-health/README.md) - situations where medicines are used
 - 🔗 [Poisoning](../01-first-aid-and-family-health/12-poisoning.md) - treating drug and plant poisoning
-- 🔗 [Chronic disease medication stockpile](../01-first-aid-and-family-health/08-chronic-medication-stockpile.md) - long-term medicines cannot be replaced by Chinese herbs
+- 🔗 [Chronic medication stockpile](../01-first-aid-and-family-health/08-chronic-medication-stockpile.md) - long-term medicines cannot be replaced by Chinese herbs
 
 ---
 
