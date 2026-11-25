@@ -133,15 +133,15 @@ Most medicinal "fungi" are not the mushrooms ordinary people imagine: *Fuling*, 
 
 > 🛡️ **Legal note**: Chinese caterpillar fungus is listed as a **class II wild plant under key state protection** (2021 "List of Wild Plants under Key State Protection"). Collecting, selling and buying it require a permit under the law and are subject to the "Regulations on the Protection and Management of Wild Medicinal Resources" and other rules; digging or buying it without a permit is illegal. Digging in the producing areas is managed by the local government. This book **does not describe how to dig it**; it only helps readers tell genuine from fake and avoid being cheated. See [General Principles – List of Wild Plants under State Key Protection](00-general-principles.md#82-list-of-wild-plants-under-state-key-protection).
 
-- **Dongchongxiacao (Chongcao, Zhonghua Chongcao)**: Chinese 冬虫夏草; *Cordyceps sinensis* (BerK.) Sacc.
-- **Source**: the dried complex of the stroma of the fungus *Cordyceps sinensis* (BerK.) Sacc. (Clavicipitaceae, ergot family) and the dead body of the larva of a ghost moth (Hepialidae) on which it is parasitic
+- **Dongchongxiacao (Chongcao, Zhonghua Chongcao)**: Chinese 冬虫夏草; *Cordyceps sinensis* (Berk.) Sacc.
+- **Source**: the dried complex of the stroma of the fungus *Cordyceps sinensis* (Berk.) Sacc. (Clavicipitaceae, ergot family) and the dead body of the larva of a ghost moth (Hepialidae) on which it is parasitic
 - **Distribution and habitat**: found only in alpine meadows at about 3000-5000 m on the Qinghai–Tibet Plateau and its surroundings (Qinghai, Tibet, Sichuan, Yunnan, Gansu); complete caterpillar fungus cannot yet be cultivated on a large scale
 - **Identification** (two parts: the "worm" below and the "grass" above):
   - Larva: **looks like a silkworm**, 3-5 cm long, 0.3-0.8 cm across; surface deep yellow to yellowish-brown, with **20-30 rings**, finer near the head; **head reddish-brown**; **8 pairs of legs, the middle 4 pairs most obvious**; brittle, snaps easily, broken surface fairly flat, pale yellowish-white, **often with a black "V"-shaped or dot-like gut visible in the middle** (experience)
   - Stroma: grows from the head of the larva; **slender and cylindrical**, 4-7 cm long, about 0.3 cm across; surface dark brown to brownish-brown, with fine lengthwise wrinkles, slightly swollen at the top; tough and flexible, broken surface off-white
   - Smell: **slightly fishy**, taste slightly bitter
 - **Common fakes and tricks**:
-  - **Yaxiangbang Chongcao** (*Cordyceps gracilis*-type) and other *Cordyceps*: the larva is usually covered in a greyish-white or off-white fungal film, the rings and legs are less distinct than in the genuine herb, and the stroma is often branched or a different colour
+  - **Yaxiangbang Chongcao** and other *Cordyceps*: the larva is usually covered in a greyish-white or off-white fungal film, the rings and legs are less distinct than in the genuine herb, and the stroma is often branched or a different colour
   - **Dican** (the tubers of the mint-family plants *Stachys geobombycis* and Chinese artichoke): spindle-shaped, with 4-15 segments, **no legs, no head, no stroma**, broken surface off-white, taste sweet
   - **Moulded from flour, bean flour or gypsum**: every piece has exactly the same shape, rings and legs, too regular; the broken surface is uniform with no black gut dot; it softens and falls apart in water and turns blue with iodine tincture (it contains starch)
   - **Iron wire, bamboo slivers or lead wire inserted to add weight**, broken pieces glued together: test with a magnet, look against the light, break it open and look at the joint; be suspicious of pieces that are **clearly heavier** than others of the same size

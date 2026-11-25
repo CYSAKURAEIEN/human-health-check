@@ -76,7 +76,8 @@
 <rect x="10" y="390" width="228" height="300" rx="8" fill="none" stroke="#c33" stroke-width="2"/>
 <text x="24" y="416" font-size="16" font-weight="bold" fill="#c33">② Dican (plant tuber)</text>
 <text x="24" y="436" font-size="12" fill="#555">Tubers of the Lamiaceae plants</text>
-<text x="24" y="451" font-size="12" fill="#555"><tspan font-style="italic">Stachys geminata</tspan> and Chinese artichoke</text>
+<text x="24" y="451" font-size="12" fill="#555" font-style="italic">Stachys geminata</text>
+<text x="24" y="466" font-size="12" fill="#555">and Chinese artichoke</text>
 <g transform="translate(0 16)">
 <path d="M44 490 C70 470 170 470 200 490 C170 510 70 510 44 490 Z" fill="#efe6d0" stroke="#333" stroke-width="1.5"/>
 <g stroke="#9a8a6a" stroke-width="1.2" fill="none"><path d="M70 478 C66 486 66 494 70 502"/><path d="M90 474 C86 484 86 496 90 506"/><path d="M110 473 C106 483 106 497 110 507"/><path d="M130 473 C126 483 126 497 130 507"/><path d="M150 474 C146 484 146 496 150 506"/><path d="M170 477 C166 486 166 494 170 503"/></g>
@@ -97,7 +98,7 @@
 <use href="#mini" transform="translate(340 494) scale(0.6)"/>
 <use href="#mini" transform="translate(406 494) scale(0.6)"/>
 </g>
-<text x="360" y="542" font-size="13" text-anchor="middle">Shape, rings and legs of every piece</text>
+<text x="360" y="542" font-size="13" text-anchor="middle">Every piece: shape, rings, legs</text>
 <text x="360" y="560" font-size="14" font-weight="bold" fill="#c33" text-anchor="middle">identical — too neat</text>
 <text x="304" y="584" font-size="13">Cut surface uniform,</text>
 <text x="304" y="600" font-size="13">no black gut dots</text>
