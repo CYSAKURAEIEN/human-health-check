@@ -109,11 +109,11 @@ Shells are hard, so in a decoction most of them are **decocted first** (boiled f
   - Red deer velvet: thicker and larger than sika deer velvet, with more branches; skin greyish-black, velvet hair greyish-brown or greyish-yellow; the skin at the saw cut is thicker and the edge mostly ossified
   - Velvet slices: the "wax slices" cut from the tip are yellowish-white, translucent and waxy; the "powder slices" and "blood slices" from the middle have fine, dense pores; the "bone slices" near the base have large pores and are hard — **the lower down, the closer to bone and the lower the value**
 - **Fakes**: Velvet from other deer passed off as *Lurong*; **fake velvet slices made of animal skin wrapped round pressed bone glue and flour** (they fall apart in water and have no honeycomb pores, experience); ossified antler slices dyed and passed off as velvet slices. *Lujiao* (deer antler), *Lujiaoshuang* (degelatinised antler) and *Lujiaojiao* (antler glue) are different medicines, with different properties and prices
-- **Harvest and processing**: On the farm, trained staff saw off the velvet in summer and autumn; after processing it is dried in the shade or oven-dried. Sawing velvet requires anaesthesia and restraint, with a risk of bleeding and of injury to people, so it may only be done by trained farm staff
+- **Harvesting and processing**: On the farm, trained staff saw off the velvet in summer and autumn; after processing it is dried in the shade or oven-dried. Sawing velvet requires anaesthesia and restraint, with a risk of bleeding and of injury to people, so it may only be done by trained farm staff
 - **Storage**: Seal and keep in a cool, dry place; **protect from insects** (the General Principles mention storing it with Huajiao (Sichuan pepper), see [Common pests and what to do](./00-general-principles.md#63-common-pests-and-what-to-do))
 - **Actions**: Strengthens kidney yang, replenishes essence and blood, strengthens sinews and bones, regulates the *chong* and *ren* vessels, draws out toxins from sores
 - **Dose**: 1-2 g, ground to powder and taken mixed with water (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: Warm and hot in nature: not suitable for people with fever, yin deficiency with flaring fire (hot palms and soles, dry mouth, night sweats), high blood pressure or bleeding (experience); **start with a small amount** — a sudden large dose can cause dizziness, nosebleeds and so on (experience). Do not drink "deer velvet steeped in liquor" in large amounts over a long time
+- **Cautions**: Warm and hot in nature: not suitable for people with fever, yin deficiency with flaring fire (hot palms and soles, dry mouth, night sweats), high blood pressure or bleeding (experience); **start with a small amount** — a sudden large dose can cause dizziness, nosebleeds and so on (experience). Do not drink "deer velvet steeped in liquor" in large amounts over a long time
 
 ### 1.2 Ejiao (donkey-hide gelatin)
 
@@ -125,11 +125,11 @@ Shells are hard, so in a decoction most of them are **decocted first** (boiled f
   - Texture: **hard and brittle**, the broken surface shiny; **a fragment held up to the light is brown and translucent**
   - Smell and taste: faint smell, taste slightly sweet
 - **Fakes (mixed-hide gelatin)**: Gelatin boiled from pig, cattle or horse hide or from mixed hides, sold as *Ejiao* or mixed into it, is the most common fake. In experience, mixed-hide gelatin has a dull broken surface with bubbles or impurities, **easily goes soft and sticky in summer**, has a clear fishy or burnt smell when dissolved, and looks cloudy and opaque against the light. **But none of these is reliable** — the Pharmacopoeia tells them apart by testing for peptides specific to donkeys (mass spectrometry), which cannot be done at home. **Buy only proper products with an approval number**
-- **Harvest and processing**: Made in factories; you cannot make *Ejiao* of medicinal quality yourself. This book does not describe how to boil the gelatin
+- **Harvesting and processing**: Made in factories; you cannot make *Ejiao* of medicinal quality yourself. This book does not describe how to boil the gelatin
 - **Storage**: Keep closed in a cool, dry place; **it does not tolerate damp or heat**: damp makes it soft and mouldy, too dry and it cracks
 - **Actions**: Tonifies blood and nourishes yin, moistens dryness, stops bleeding
 - **Dose**: 3-9 g, **melted and added** (dissolved in boiling water or yellow rice wine and stirred into the decoction, not boiled with the other herbs) (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: It is rich and cloying, and not suitable for people with **indigestion, bloating, loose stools or a thick, greasy tongue coating** (experience). **Anaemia needs its cause found first** — iron-deficiency anaemia needs iron, blood loss needs the bleeding stopped; *Ejiao* cannot replace tests and treatment, see [Nutrition and nutritional deficiency diseases](../07-everyday-living-skills/02-nutrition-and-deficiency-diseases.md)
+- **Cautions**: It is rich and cloying, and not suitable for people with **indigestion, bloating, loose stools or a thick, greasy tongue coating** (experience). **Anaemia needs its cause found first** — iron-deficiency anaemia needs iron, blood loss needs the bleeding stopped; *Ejiao* cannot replace tests and treatment, see [Nutrition and nutritional deficiency diseases](../07-everyday-living-skills/02-nutrition-and-deficiency-diseases.md)
 
 ### 1.3 Guijia (tortoise shell)
 
@@ -142,11 +142,11 @@ Shells are hard, so in a decoction most of them are **decocted first** (boiled f
   - **The lower shell is plate-like**, nearly long-rectangular-elliptical, 6.4-21 cm long; the outer surface is pale yellowish-brown to brownish-black, with 12 scutes, each often with purplish-brown radiating lines; the inner surface is yellowish-white to greyish-white
   - Hard; faint fishy smell, taste slightly salty
 - **Look-alikes**: Shells of other turtles (mostly protected animals); **Biejia passed off as Guijia or mixed in** — *Biejia* is only the upper shell, has no horny scutes, and its ribs stick out beyond the edge on both sides (see the next section)
-- **Harvest and processing**: After a farmed turtle is slaughtered, the shell is removed, the remaining flesh cleaned off, and the shell sun-dried (the Pharmacopoeia also describes scalding in boiling water before removing skin and flesh; not covered here)
+- **Harvesting and processing**: After a farmed turtle is slaughtered, the shell is removed, the remaining flesh cleaned off, and the shell sun-dried (the Pharmacopoeia also describes scalding in boiling water before removing skin and flesh; not covered here)
 - **Storage**: Keep in a dry place; protect from insects
 - **Actions**: Nourishes yin and subdues yang, benefits the kidneys and strengthens bones, nourishes blood and tonifies the heart, secures menstruation and stops uterine bleeding
 - **Dose**: 9-24 g, **decocted first** (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: Cool in nature: not suitable for people with a cold, deficient spleen and stomach or with diarrhoea; caution in pregnancy (experience)
+- **Cautions**: Cool in nature: not suitable for people with a cold, deficient spleen and stomach or with diarrhoea; caution in pregnancy (experience)
 
 ### 1.4 Biejia (turtle shell)
 
@@ -159,11 +159,11 @@ Shells are hard, so in a decoction most of them are **decocted first** (boiled f
   - Inner surface whitish; **a raised backbone down the middle, the neck bone curled inwards, and 8 ribs on each side that stick out beyond the edge**
   - Hard; faint fishy smell, taste bland
 - **Look-alikes**: How it differs from *Guijia* — *Biejia* is the upper shell only, **with no horny scutes and with ribs sticking out beyond the edge**; *Guijia* has both upper and lower shells and scute patterns
-- **Harvest and processing**: All year round; after slaughter the upper shell is removed, the remaining flesh cleaned off, and the shell sun-dried (the Pharmacopoeia also describes scalding in boiling water before removing skin and flesh)
+- **Harvesting and processing**: All year round; after slaughter the upper shell is removed, the remaining flesh cleaned off, and the shell sun-dried (the Pharmacopoeia also describes scalding in boiling water before removing skin and flesh)
 - **Storage**: Keep in a dry place; protect from insects
 - **Actions**: Nourishes yin and subdues yang, brings down fever and relieves steaming bone heat, softens hardness and dissipates lumps
 - **Dose**: 9-24 g, **decocted first** (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: Not suitable for people with a cold, deficient spleen and stomach, poor appetite and loose stools; caution in pregnancy (experience)
+- **Cautions**: Not suitable for people with a cold, deficient spleen and stomach, poor appetite and loose stools; caution in pregnancy (experience)
 
 ### 1.5 Muli (oyster shell)
 
@@ -176,11 +176,11 @@ Shells are hard, so in a decoction most of them are **decocted first** (boiled f
   - Jinjiang oyster: round, ovate or triangular; the outside of the right valve is slightly uneven, grey, purple, brown, yellow and other colours, with rings of concentric scales
   - Hard; broken surface layered and pure white; faint smell, taste slightly salty
 - **Look-alikes**: Other shells mixed in, usually not poisonous; **shells with mud, sand, seaweed or remaining flesh on them must be washed clean**
-- **Harvest and processing**: All year round; **remove the flesh, wash and sun-dry**. Oyster shells left over from your own meals can simply be scrubbed clean and sun-dried for use as raw material; for calcining see [TCM preparations – calcining](../06-pharmaceuticals/04-herbal-preparations.md#calcining)
+- **Harvesting and processing**: All year round; **remove the flesh, wash and sun-dry**. Oyster shells left over from your own meals can simply be scrubbed clean and sun-dried for use as raw material; for calcining see [TCM preparations – calcining](../06-pharmaceuticals/04-herbal-preparations.md#calcining)
 - **Storage**: Keep in a dry place
 - **Actions**: Heavily settles and calms the mind, subdues yang and tonifies yin, softens hardness and dissipates lumps; calcined *Muli* astringes and secures, controls acid and relieves pain
 - **Dose**: 9-30 g, **decocted first** (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: Cool and astringent in nature; people who are weak with cold, or constipated, should not use much (experience). If stomach pain with acid reflux goes on for a long time, get checked for a stomach ulcer and *Helicobacter pylori*; do not rely only on calcined *Muli* to "control acid"
+- **Cautions**: Cool and astringent in nature; people who are weak with cold, or constipated, should not use much (experience). If stomach pain with acid reflux goes on for a long time, get checked for a stomach ulcer and *Helicobacter pylori*; do not rely only on calcined *Muli* to "control acid"
 
 ### 1.6 Zhenzhu (pearl)
 
@@ -192,11 +192,11 @@ Shells are hard, so in a decoction most of them are **decocted first** (boiled f
   - Surface whitish, pale pink, pale yellowish-green or pale blue, translucent, smooth or slightly uneven, **with a characteristic iridescent lustre**
   - Hard; broken surface shows layers; faint smell, taste bland
 - **Fakes**: Glass or plastic beads coated with "pearl lacquer": **two real pearls rubbed gently against each other feel slightly gritty, imitation pearls feel smooth and slippery**; the coating of an imitation pearl comes off when scraped with a fingernail (experience). **Pearl powder is faked even more**: shell powder or mother-of-pearl powder is passed off as pearl powder or mixed in, and you cannot tell at home. *Zhenzhumu* (mother-of-pearl) is a different medicine (the nacreous layer of the shell), with similar but different actions
-- **Harvest and processing**: Taken out of the animal, washed and dried; for medicinal use it is **ground under water (*shuifei*) or ground into a very fine powder** (powder that is not fine enough irritates the stomach and intestines)
+- **Harvesting and processing**: Taken out of the animal, washed and dried; for medicinal use it is **ground under water (*shuifei*) or ground into a very fine powder** (powder that is not fine enough irritates the stomach and intestines)
 - **Storage**: Keep closed
 - **Actions**: Calms the mind and settles fright, brightens the eyes and clears corneal opacity, removes toxins and promotes healing of flesh, moistens the skin and removes spots
 - **Dose**: 0.1-0.3 g, **mostly used in pills and powders**; an appropriate amount for external use (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: Generally not used in decoctions; claims that "pearl powder whitens the skin" or "pearl powder supplements calcium" are exaggerated — you do not need something this expensive to get calcium
+- **Cautions**: Generally not used in decoctions; claims that "pearl powder whitens the skin" or "pearl powder supplements calcium" are exaggerated — you do not need something this expensive to get calcium
 
 ### 1.7 Shijueming (abalone shell)
 
@@ -208,11 +208,11 @@ Shells are hard, so in a decoction most of them are **decocted first** (boiled f
   - Japanese abalone: long-elliptical, 8-12 cm long; surface greyish-brown, with many coarse, irregular wrinkles; the last 4-5 holes are open, with the openings raised above the shell surface
   - **The inside is smooth, with an iridescent, pearl-like lustre**; hard, not easily broken; faint smell, taste slightly salty
 - **Look-alikes**: Other snail shells do not have this row of holes and are easy to tell apart
-- **Harvest and processing**: Caught in summer and autumn; **remove the flesh, wash and dry**. Shells left over from eating abalone can simply be scrubbed clean and sun-dried
+- **Harvesting and processing**: Caught in summer and autumn; **remove the flesh, wash and dry**. Shells left over from eating abalone can simply be scrubbed clean and sun-dried
 - **Storage**: Keep in a dry place
 - **Actions**: Calms the liver and subdues yang, clears the liver and brightens the eyes
 - **Dose**: 6-20 g, **decocted first** (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: Cool in nature; use with caution in people with a cold, deficient spleen and stomach, poor appetite and loose stools (experience). **For dizziness, headache or blurred vision, measure the blood pressure and have the eyes checked first** — high blood pressure and glaucoma must be treated as diseases
+- **Cautions**: Cool in nature; use with caution in people with a cold, deficient spleen and stomach, poor appetite and loose stools (experience). **For dizziness, headache or blurred vision, measure the blood pressure and have the eyes checked first** — high blood pressure and glaucoma must be treated as diseases
 
 ### 1.8 Haipiaoxiao (cuttlefish bone)
 
@@ -224,11 +224,11 @@ Shells are hard, so in a decoction most of them are **decocted first** (boiled f
   - Golden cuttlefish: 13-23 cm long, with obvious warty dots on the back; **one bone spine at the tail**, usually broken off
   - **Light, loose in texture, breaks easily, broken surface powdery**, showing loose layer lines; faint fishy smell, taste slightly salty
 - **Look-alikes**: Internal shells of other cuttlefish, usually not poisonous
-- **Harvest and processing**: Collect the bone-like internal shell of the cuttlefish, **wash and dry**
+- **Harvesting and processing**: Collect the bone-like internal shell of the cuttlefish, **wash and dry**
 - **Storage**: Keep in a dry place; protect from damp
 - **Actions**: Astringes and stops bleeding, secures essence and stops vaginal discharge, controls acid and relieves pain, absorbs damp and heals sores
 - **Dose**: 5-10 g; an appropriate amount for external use, ground to powder and applied to the affected area (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: Astringent in nature; constipated people should not use much (experience). **For stopping bleeding externally it is only suitable for small wounds that are oozing**; for large wounds or heavy bleeding, first apply direct pressure as described in [Wounds and injuries](../01-first-aid-and-family-health/02-wounds-and-injuries.md), and do not sprinkle medicine powder into deep wounds
+- **Cautions**: Astringent in nature; constipated people should not use much (experience). **For stopping bleeding externally it is only suitable for small wounds that are oozing**; for large wounds or heavy bleeding, first apply direct pressure as described in [Wounds and injuries](../01-first-aid-and-family-health/02-wounds-and-injuries.md), and do not sprinkle medicine powder into deep wounds
 
 ## 2. Insects, worms and others
 
@@ -258,11 +258,11 @@ Common reminders for insect and worm medicines:
   - **The back of the thorax is split open in a cross shape** (where the adult climbed out), with the edges of the split curled inwards; 2 pairs of small wings on either side of the back; 3 pairs of legs on the underside, covered with fine yellowish-brown hairs
   - The abdomen is bluntly rounded, with 9 segments; **light, hollow, fragile**; faint smell, taste bland
 - **Fakes**: **Mud and sand stuffed inside to add weight** (it rattles when shaken and there is soil inside when broken open, experience); sloughs of other cicadas mixed in, usually not poisonous
-- **Harvest and processing**: Collected in summer and autumn; **remove mud and sand, sun-dry**. This is one of the few animal medicines you can safely collect yourself: just pick them off tree trunks, without harming any animal. Do not collect from trees that have been sprayed with pesticide or from dusty places by roads
+- **Harvesting and processing**: Collected in summer and autumn; **remove mud and sand, sun-dry**. This is one of the few animal medicines you can safely collect yourself: just pick them off tree trunks, without harming any animal. Do not collect from trees that have been sprayed with pesticide or from dusty places by roads
 - **Storage**: Keep in a dry place; **do not crush** (very easily crushed)
 - **Actions**: Disperses wind-heat, soothes the throat, vents rashes, brightens the eyes and clears corneal opacity, relieves spasms
 - **Dose**: 3-6 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: Caution in pregnancy (traditional experience). **A child with fever, a rash or convulsions must see a doctor first** — it may be measles, meningitis or the like; see [Common illnesses](../01-first-aid-and-family-health/01-common-illnesses.md)
+- **Cautions**: Caution in pregnancy (traditional experience). **A child with fever, a rash or convulsions must see a doctor first** — it may be measles, meningitis or the like; see [Common illnesses](../01-first-aid-and-family-health/01-common-illnesses.md)
 
 ### 2.2 Jiangcan (stiff silkworm)
 
@@ -275,11 +275,11 @@ Common reminders for insect and worm medicines:
   - Hard and brittle, breaks easily; **broken surface flat, the outer layer white, with 4 shiny brown or shiny black silk-gland rings in the middle**
   - Faint fishy smell, taste slightly salty
 - **Fakes**: Silkworms that died of disease, coated in **lime powder, talc powder or alum** to imitate the white fungus and add weight (experience: the powdery frost rubs off at once and smells of lime, and the broken surface has no shiny silk-gland rings); **silkworms that died of other diseases (such as flacherie or rot)** turn black and stink, and must not be used
-- **Harvest and processing**: Mostly produced in spring and autumn by drying silkworms that died of white muscardine infection. White muscardine spreads through a silkworm house, so **do not deliberately infect your silkworms "to make Jiangcan"** — it will destroy the whole batch
+- **Harvesting and processing**: Mostly produced in spring and autumn by drying silkworms that died of white muscardine infection. White muscardine spreads through a silkworm house, so **do not deliberately infect your silkworms "to make Jiangcan"** — it will destroy the whole batch
 - **Storage**: Keep in a dry place; **protect from insects**
 - **Actions**: Calms wind and stops spasms, dispels wind and relieves pain, resolves phlegm and dissipates lumps
 - **Dose**: 5-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: A few people have been reported to have allergic reactions after taking it; **people allergic to silkworm pupae should not use it** (experience)
+- **Cautions**: A few people have been reported to have allergic reactions after taking it; **people allergic to silkworm pupae should not use it** (experience)
 
 ### 2.3 Dilong (earthworm)
 
@@ -291,11 +291,11 @@ Common reminders for insect and worm medicines:
   - *Hu Dilong*: 8-15 cm long, 0.5-1.5 cm wide; back brown to yellowish-brown, belly pale yellowish-brown
   - Light, slightly leathery, not easily broken; **fishy smell, taste slightly salty**
 - **Fakes**: Worms that have not been slit open, with **a lot of mud and sand** in the gut (the Pharmacopoeia sets a limit for impurities); usually not poisonous
-- **Harvest and processing**: *Guang Dilong* is caught from spring to autumn, *Hu Dilong* in summer; **slit the belly open promptly, remove the gut contents and mud, wash, and sun-dry or dry at low temperature**. **Do not dig earthworms from polluted soil (near factories, mining areas, rubbish dumps, main roads)** — earthworms accumulate heavy metals
+- **Harvesting and processing**: *Guang Dilong* is caught from spring to autumn, *Hu Dilong* in summer; **slit the belly open promptly, remove the gut contents and mud, wash, and sun-dry or dry at low temperature**. **Do not dig earthworms from polluted soil (near factories, mining areas, rubbish dumps, main roads)** — earthworms accumulate heavy metals
 - **Storage**: Keep in a ventilated, dry place; **protect from mould and insects**
 - **Actions**: Clears heat and settles fright, unblocks the channels, relieves wheezing, promotes urination
 - **Dose**: 5-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: Cold in nature; caution in people with a cold, deficient spleen and stomach; a few people are allergic; caution in pregnancy (experience). **High fever with convulsions and an asthma attack are emergencies**: get to a doctor first
+- **Cautions**: Cold in nature; caution in people with a cold, deficient spleen and stomach; a few people are allergic; caution in pregnancy (experience). **High fever with convulsions and an asthma attack are emergencies**: get to a doctor first
 
 ### 2.4 Quanxie (scorpion)
 
@@ -308,12 +308,12 @@ Common reminders for insect and worm medicines:
   - The front abdomen has 7 segments; **the rear abdomen is brownish-yellow, with 6 segments, the last segment bearing a sharp, hooked sting**, with no spur below the sting
   - Faint fishy smell, **taste salty**
 - **Fakes**: **"Salted scorpions" with too much salt added for weight** — obvious salt frost on the surface, damp and soft when pinched, extremely salty to taste (experience); mud and sand stuffed into the abdomen; other scorpion species passed off
-- **Harvest and processing**: Processed by farms and specialist buyers (the Pharmacopoeia specifies boiling in boiling water or boiling salt water, then drying in the shade); live scorpions sting, so **do not catch them yourself and do not handle them with bare hands**
+- **Harvesting and processing**: Processed by farms and specialist buyers (the Pharmacopoeia specifies boiling in boiling water or boiling salt water, then drying in the shade); live scorpions sting, so **do not catch them yourself and do not handle them with bare hands**
 - **Storage**: Keep in a dry place; **protect from insects**; salted scorpions easily absorb damp again
 - **Toxicity**: Marked "**toxic**" in the Pharmacopoeia. Scorpion venom is mainly a neurotoxin; too large a dose can cause headache, dizziness, raised blood pressure, palpitations and restlessness, and in severe cases difficulty breathing; it can also cause allergic rashes (experience)
 - **Actions**: Calms wind and stops spasms, unblocks the channels and relieves pain, attacks toxins and dissipates lumps
 - **Dose**: 3-6 g (Chinese Pharmacopoeia, 2020 edition); **use only under the guidance of a TCM practitioner**; do not increase the dose yourself, and do not eat "fried scorpions" or drink "scorpion liquor" in large amounts
-- **Contraindications**: **Forbidden in pregnancy**; caution in children, weak people and people with blood deficiency (experience). For stings by live scorpions see [Wounds and injuries – insect bites and stings](../01-first-aid-and-family-health/02-wounds-and-injuries.md#insect-bites-and-stings)
+- **Cautions**: **Forbidden in pregnancy**; caution in children, weak people and people with blood deficiency (experience). For stings by live scorpions see [Wounds and injuries – insect bites and stings](../01-first-aid-and-family-health/02-wounds-and-injuries.md#insect-bites-and-stings)
 
 ### 2.5 Wugong (centipede)
 
@@ -326,12 +326,12 @@ Common reminders for insect and worm medicines:
   - **Back plates of the trunk brownish-green or dark green**, glossy; underside pale yellow or brownish-yellow, shrivelled; from the second segment on, each segment has 1 pair of walking legs, one on each side; **the legs are yellow or reddish-brown and hooked**; the last pair of legs is tail-like (the terminal legs) and falls off easily
   - Brittle, the broken surface with cracks; **faint fishy smell, with a peculiar pungent, unpleasant odour**, taste pungent and slightly salty
 - **Fakes**: Other centipede species passed off; **soil or flour stuffed into the abdomen to add weight**; pieces with broken heads or legs joined together (experience). The goods are often stretched straight on a bamboo strip; when buying, check that the head and tail are intact
-- **Harvest and processing**: Caught and processed by specialists (the Pharmacopoeia specifies inserting a bamboo strip through head and tail, stretching straight and drying); a live centipede bite is very painful and can cause local redness and swelling, and a few people are allergic
+- **Harvesting and processing**: Caught and processed by specialists (the Pharmacopoeia specifies inserting a bamboo strip through head and tail, stretching straight and drying); a live centipede bite is very painful and can cause local redness and swelling, and a few people are allergic
 - **Storage**: Keep in a dry place; **protect from mould and insects**
 - **Toxicity**: Marked "**toxic**" in the Pharmacopoeia. An overdose can cause nausea, vomiting, abdominal pain, palpitations and a slowed heart rate, and in severe cases difficulty breathing; **there are also reports of it causing haemolysis, anaphylactic shock and liver damage**
 - **Actions**: Calms wind and stops spasms, unblocks the channels and relieves pain, attacks toxins and dissipates lumps
 - **Dose**: 3-5 g (Chinese Pharmacopoeia, 2020 edition); **use only under the guidance of a TCM practitioner**; do not make "centipede liquor" to drink yourself
-- **Contraindications**: **Forbidden in pregnancy**; caution in children, weak people and people with liver disease (experience)
+- **Cautions**: **Forbidden in pregnancy**; caution in children, weak people and people with liver disease (experience)
 
 ### 2.6 Tubiechong (ground beetle)
 
@@ -344,12 +344,12 @@ Common reminders for insect and worm medicines:
   - *Steleophaga plancyi*: 2.2-3.7 cm long, 1.4-2.5 cm wide; back blackish-brown, usually with pale yellowish-brown patches and small black dots along the edge
   - Loose and brittle, crumbles easily; **fishy, foul smell**, taste slightly salty
 - **Fakes**: **"Golden-edged Tubie"** (*chibian shuizhe*, with a golden-yellow border) and other species passed off; mud, sand or salt added for weight (experience); the males have wings and are not used as medicine
-- **Harvest and processing**: On the farm they are caught, scalded to death, and sun-dried or oven-dried
+- **Harvesting and processing**: On the farm they are caught, scalded to death, and sun-dried or oven-dried
 - **Storage**: Keep in a ventilated, dry place; **protect from insects** (easily attacked by insects and easily turns oily)
 - **Toxicity**: Marked "**slightly toxic**" in the Pharmacopoeia
 - **Actions**: Breaks up blood and expels stasis, joins sinews and bones
 - **Dose**: 3-10 g (Chinese Pharmacopoeia, 2020 edition; use only under the guidance of a TCM practitioner)
-- **Contraindications**: **Forbidden in pregnancy**; not for people with heavy periods, a bleeding tendency, or who are taking anticoagulant or antiplatelet drugs (experience). **A fracture must first be immobilised and seen by a doctor**, see [Wounds and injuries](../01-first-aid-and-family-health/02-wounds-and-injuries.md); do not rely only on "bone-joining medicines"
+- **Cautions**: **Forbidden in pregnancy**; not for people with heavy periods, a bleeding tendency, or who are taking anticoagulant or antiplatelet drugs (experience). **A fracture must first be immobilised and seen by a doctor**, see [Wounds and injuries](../01-first-aid-and-family-health/02-wounds-and-injuries.md); do not rely only on "bone-joining medicines"
 
 ### 2.7 Shuizhi (leech)
 
@@ -363,12 +363,12 @@ Common reminders for insect and worm medicines:
   - *Whitmania acranulata*: long, narrow and flat, 5-12 cm long, 0.1-0.5 cm wide
   - Brittle, breaks easily, **broken surface gelatinous**; faint fishy smell
 - **Fakes**: **Injecting or soaking with alum, salt, magnesium sulphate, mud slurry or glue to add weight** is the most common way *Shuizhi* is faked (experience: white crystals or mud and sand in the broken surface, an astringent, salty taste, and it feels unusually heavy in the hand); the Pharmacopoeia has requirements for ash and "antithrombin activity" for *Shuizhi*, which cannot be tested at home
-- **Harvest and processing**: Processed by farms and specialist buyers (the Pharmacopoeia specifies scalding to death in boiling water, then sun-drying or drying at low temperature)
+- **Harvesting and processing**: Processed by farms and specialist buyers (the Pharmacopoeia specifies scalding to death in boiling water, then sun-drying or drying at low temperature)
 - **Storage**: Keep in a dry place; **protect from insects**
 - **Toxicity**: Marked "**slightly toxic**" in the Pharmacopoeia. Hirudin has a very strong **anticoagulant effect**, and an overdose can cause bleeding (from the gums, under the skin, from the digestive tract)
 - **Actions**: Breaks up blood and unblocks menstruation, expels stasis and dissolves masses
 - **Dose**: 1-3 g (Chinese Pharmacopoeia, 2020 edition; use only under the guidance of a TCM practitioner)
-- **Contraindications**: **Forbidden in pregnancy**; not for use during menstruation, or by people with bleeding disorders or recent surgery or injury; **people taking anticoagulant or antiplatelet drugs such as warfarin, aspirin or clopidogrel must not use it at the same time** (the bleeding risks add up, see [General principles – taking herbs with Western medicines](./00-general-principles.md#75-taking-herbs-with-western-medicines)). For bites by live leeches in the wild see [Wasps, ticks and dangerous animals – land leeches](../03-wilderness-survival/10-wasps-ticks-and-dangerous-animals.md#land-leeches)
+- **Cautions**: **Forbidden in pregnancy**; not for use during menstruation, or by people with bleeding disorders or recent surgery or injury; **people taking anticoagulant or antiplatelet drugs such as warfarin, aspirin or clopidogrel must not use it at the same time** (the bleeding risks add up, see [General principles – taking herbs with Western medicines](./00-general-principles.md#75-taking-herbs-with-western-medicines)). For bites by live leeches in the wild see [Wasps, ticks and dangerous animals – land leeches](../03-wilderness-survival/10-wasps-ticks-and-dangerous-animals.md#land-leeches)
 
 ### 2.8 Fengmi (honey)
 
@@ -385,11 +385,11 @@ Common reminders for insect and worm medicines:
   - Signs of poisoning: from tens of minutes to a few hours after eating, numbness of the mouth and tongue, dizziness, nausea and vomiting, abdominal pain and diarrhoea, palpitations; in severe cases a fall in blood pressure, heart rhythm problems, shock and even death (honey from thunder god vine can cause kidney failure)
   - **Do not eat honey that tastes bitter, astringent or numbing**; if the symptoms above appear after eating honey, see a doctor at once and take the remaining honey with you. For identifying these poisonous plants see [Toxic Herbs and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md)
 - **⚠️ Babies under one year old must not eat honey**: honey may contain spores of *Clostridium botulinum*. A baby's gut flora is not yet established, so the spores can multiply in the gut and produce toxin, causing **infant botulism** (constipation, weak feeding, a weak cry, a floppy body, difficulty breathing). Boiling does not reliably kill the spores. See [The newborn's first days – feeding](../01-first-aid-and-family-health/11-emergency-childbirth-and-newborn-care.md#feeding) and [Botulism](../07-everyday-living-skills/01-food-processing-and-preservation.md#botulism)
-- **Harvest and processing**: From spring to autumn the beekeeper extracts the honey from the hives and **filters** it. Do not poke wild bee nests to get honey — besides the danger of stings, the nectar sources of wild nests cannot be controlled
+- **Harvesting and processing**: From spring to autumn the beekeeper extracts the honey from the hives and **filters** it. Do not poke wild bee nests to get honey — besides the danger of stings, the nectar sources of wild nests cannot be controlled
 - **Storage**: **Seal** and keep in a cool place; honey absorbs moisture, and if left open for a long time it absorbs water, ferments, turns sour and bubbles — do not eat fermented honey; do not store it long term in metal containers
 - **Actions**: Tonifies the middle, moistens dryness, relieves pain, removes toxins; used externally, promotes healing of flesh and sores
 - **Dose**: 15-30 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: People with diabetes must count it in their sugar intake; it is not a "blood-sugar-lowering food". People with damp obstruction and fullness in the middle, or with diarrhoea, should not eat much (experience)
+- **Cautions**: People with diabetes must count it in their sugar intake; it is not a "blood-sugar-lowering food". People with damp obstruction and fullness in the middle, or with diarrhoea, should not eat much (experience)
 
 ### 2.9 Fengfang (wasp nest)
 
@@ -406,7 +406,7 @@ Common reminders for insect and worm medicines:
 - **Storage**: Keep in a ventilated, dry place; **do not crush; protect from insects**
 - **Actions**: Attacks toxins and kills parasites, dispels wind and relieves pain
 - **Dose**: 3-5 g; an appropriate amount for external use, ground to powder and mixed with oil to apply to the affected area, or boiled in water as a mouthwash or to wash the affected area (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: Caution in people with weak *qi* and blood; not for people allergic to bee or wasp venom (experience)
+- **Cautions**: Caution in people with weak *qi* and blood; not for people allergic to bee or wasp venom (experience)
 
 ### 2.10 Jineijin (chicken gizzard lining)
 
@@ -418,11 +418,11 @@ Common reminders for insect and worm medicines:
   - **Surface yellow, yellowish-green or yellowish-brown, thin and translucent, with clear striped wrinkles**
   - Brittle, crumbles easily; broken surface horn-like and glossy; faint fishy smell, taste slightly bitter
 - **Fakes**: **Duck gizzard lining** passed off — purplish-black or blackish-green, thicker, with fewer wrinkles (experience); duck gizzard lining is also used as a medicine, but it is not the Pharmacopoeia's *Jineijin*
-- **Harvest and processing**: **After killing a chicken, take out the gizzard and peel off the inner lining at once**, wash and dry. Peel it while fresh — once it has been left for a while it is hard to peel; do not soak it in water too long while peeling, or the active components are lost (experience). Use only healthy chickens, never chickens that died of disease
+- **Harvesting and processing**: **After killing a chicken, take out the gizzard and peel off the inner lining at once**, wash and dry. Peel it while fresh — once it has been left for a while it is hard to peel; do not soak it in water too long while peeling, or the active components are lost (experience). Use only healthy chickens, never chickens that died of disease
 - **Storage**: Keep in a dry place; **protect from insects**
 - **Actions**: Strengthens the stomach and promotes digestion, secures essence and stops emissions, relieves painful urination and dissolves stones
 - **Dose**: 3-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: Mild in nature; it works better ground to powder and swallowed (experience). **When a child has poor appetite, weight loss or abdominal pain for a long time, find the cause** (parasites, malnutrition and so on); do not rely only on digestive medicines. "Dissolving stones" cannot replace investigation and treatment of stones
+- **Cautions**: Mild in nature; it works better ground to powder and swallowed (experience). **When a child has poor appetite, weight loss or abdominal pain for a long time, find the cause** (parasites, malnutrition and so on); do not rely only on digestive medicines. "Dissolving stones" cannot replace investigation and treatment of stones
 
 ## 3. Protected-animal medicines: bans and substitutes
 
@@ -544,11 +544,11 @@ Common reminders for mineral medicines:
   - **Calcite** (calcium carbonate): rhombic cleavage, harder, a fingernail cannot scratch it, fizzes with a drop of vinegar or dilute hydrochloric acid; gypsum does not fizz
   - **Anhydrite** (anhydrous calcium sulphate): harder, without the fibrous silky lustre
   - **Building plaster powder and moulding plaster**: already calcined and often with additives; they cannot replace medicinal raw or calcined gypsum. For gypsum in building see [Lime and building materials – gypsum](../07-everyday-living-skills/16-lime-and-building-materials.md#gypsum)
-- **Harvest and processing**: After mining, remove other stones, mud and sand
+- **Harvesting and processing**: After mining, remove other stones, mud and sand
 - **Storage**: Keep in a dry place
 - **Actions**: Raw *Shigao* clears heat and drains fire, relieves restlessness and thirst; calcined *Shigao*, used externally, absorbs damp, promotes healing of flesh, heals sores and stops bleeding
 - **Dose**: Raw *Shigao* 15-60 g, **decocted first**; calcined *Shigao* an appropriate amount for external use, ground to powder and sprinkled on the affected area (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: A very cold medicine: not suitable for people with **a cold, deficient spleen and stomach, poor appetite and loose stools, or without excess heat** (experience). For a high fever that will not come down, see a doctor first to find the cause, see [Common illnesses](../01-first-aid-and-family-health/01-common-illnesses.md)
+- **Cautions**: A very cold medicine: not suitable for people with **a cold, deficient spleen and stomach, poor appetite and loose stools, or without excess heat** (experience). For a high fever that will not come down, see a doctor first to find the cause, see [Common illnesses](../01-first-aid-and-family-health/01-common-illnesses.md)
 
 ### 4.2 Huashi (talc)
 
@@ -561,11 +561,11 @@ Common reminders for mineral medicines:
   - **Soft and fine-textured, slippery to the touch**; **does not absorb moisture and does not fall apart in water**
   - Faint smell, taste bland
 - **Look-alikes**: "Soft talc" of the kaolin and white clay type (absorbs moisture, sticks to the tongue, falls apart in water) is not the Pharmacopoeia's *Huashi*; **some talc deposits contain asbestos**, and industrial talc powder must not be used as medicine
-- **Harvest and processing**: After mining, remove mud, sand and other stones; medicinal talc powder must be extremely fine and is processed by pharmaceutical factories
+- **Harvesting and processing**: After mining, remove mud, sand and other stones; medicinal talc powder must be extremely fine and is processed by pharmaceutical factories
 - **Storage**: Keep in a dry place
 - **Actions**: Promotes urination and relieves painful urination, clears heat and relieves summer heat; used externally, dispels damp and heals sores
 - **Dose**: 10-20 g, **decocted first** (talc powder in a decoction is wrapped in cloth for decoction); an appropriate amount for external use (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: Cold and slippery in nature: **caution in pregnancy**; not suitable for people with spleen deficiency, seminal emissions or frequent urination (experience). **Do not inhale talc powder**, and do not dust large amounts of powder near a baby's mouth and nose; do not dust powder on the female genital area long term (a reminder from experience). Frequent or painful urination, or blood in the urine, needs a doctor to check for urinary tract infection and stones
+- **Cautions**: Cold and slippery in nature: **caution in pregnancy**; not suitable for people with spleen deficiency, seminal emissions or frequent urination (experience). **Do not inhale talc powder**, and do not dust large amounts of powder near a baby's mouth and nose; do not dust powder on the female genital area long term (a reminder from experience). Frequent or painful urination, or blood in the urine, needs a doctor to check for urinary tract infection and stones
 
 ### 4.3 Mangxiao (mirabilite)
 
@@ -583,11 +583,11 @@ Common reminders for mineral medicines:
   - **Saltpetre** (potassium nitrate): colourless or white crystals; thrown into a fire it burns fiercely and crackles, completely different from *Mangxiao*
   - **Table salt, alum and borax**: all white crystals
   - **White crystals of unknown origin, without a label, never go in the mouth**; label any *Mangxiao* kept at home
-- **Harvest and processing**: Refined by pharmaceutical factories; this book does not describe the refining method
+- **Harvesting and processing**: Refined by pharmaceutical factories; this book does not describe the refining method
 - **Storage**: **Keep closed, below 30°C**, and protect from weathering (once it has weathered and lost water, the dose is no longer accurate)
 - **Actions**: Purges and relieves constipation, moistens dryness and softens hardness, clears fire and reduces swelling
 - **Dose**: 6-12 g, **generally not decocted**: dissolve it in the finished decoction and take; an appropriate amount for external use (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: **Caution in pregnancy**; **should not be used together with *Liuhuang* (sulphur) or *Sanleng* (bur-reed rhizome)** (Pharmacopoeia); caution in weak people, the elderly and people with a cold, deficient spleen and stomach (experience). **Do not use laxatives for abdominal pain of unknown cause** — in appendicitis or bowel obstruction a laxative can cause perforation, see [Acute symptoms](../01-first-aid-and-family-health/05-acute-symptoms.md)
+- **Cautions**: **Caution in pregnancy**; **should not be used together with *Liuhuang* (sulphur) or *Sanleng* (bur-reed rhizome)** (Pharmacopoeia); caution in weak people, the elderly and people with a cold, deficient spleen and stomach (experience). **Do not use laxatives for abdominal pain of unknown cause** — in appendicitis or bowel obstruction a laxative can cause perforation, see [Acute symptoms](../01-first-aid-and-family-health/05-acute-symptoms.md)
 
 ### 4.4 Longgu (dragon bone)
 
@@ -604,7 +604,7 @@ Common reminders for mineral medicines:
 - **Storage**: Keep in a dry place
 - **Actions (traditional)**: Settles fright and calms the mind, calms the liver and subdues yang; calcined *Longgu* astringes and secures
 - **Dose**: Not in the Pharmacopoeia; traditionally 15-30 g is commonly used, decocted first (experience; the TCM practitioner's judgement prevails)
-- **Contraindications**: Astringent in nature; not suitable for people with damp-heat or excess pathogens (experience)
+- **Cautions**: Astringent in nature; not suitable for people with damp-heat or excess pathogens (experience)
 
 ### 4.5 Cishi (magnetite)
 
@@ -617,11 +617,11 @@ Common reminders for mineral medicines:
   - **Heavy, hard**; broken surface uneven
   - **Magnetic, attracts iron** (the magnetism weakens when kept for a long time); earthy smell, taste bland
 - **Look-alikes**: *Zheshi* (cherry-red streak, not magnetic); other black iron ores (weakly magnetic or not magnetic)
-- **Harvest and processing**: After mining, remove other stones
+- **Harvesting and processing**: After mining, remove other stones
 - **Storage**: Keep in a dry place
 - **Actions**: Settles fright and calms the mind, calms the liver and subdues yang, sharpens hearing and brightens the eyes, helps the kidneys grasp *qi* and relieves wheezing
 - **Dose**: 9-30 g, **decocted first** (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: Heavy and hard to digest, **not suitable for large amounts or long-term use**; caution in people with a weak spleen and stomach (experience). Insomnia, ringing in the ears or dizziness that goes on for a long time needs its cause found
+- **Cautions**: Heavy and hard to digest, **not suitable for large amounts or long-term use**; caution in people with a weak spleen and stomach (experience). Insomnia, ringing in the ears or dizziness that goes on for a long time needs its cause found
 
 ### 4.6 Zheshi (haematite)
 
@@ -634,11 +634,11 @@ Common reminders for mineral medicines:
   - **One face usually has round bumps, traditionally called "nail heads" (*dingtou*); the other face has hollows of the same size opposite the bumps**
   - Heavy, hard; when smashed **the broken surface shows stacked layers**; faint smell, taste bland
 - **Look-alikes**: **Cinnabar** (bright red, red streak, heavier, contains mercury — extremely toxic) and **red lead** (orange-red powder, very heavy, contains lead) — do not identify red mineral medicines by colour, see [Section 5](#5-toxic-mineral-medicines-names-only)
-- **Harvest and processing**: After mining, remove other stones
+- **Harvesting and processing**: After mining, remove other stones
 - **Storage**: Keep in a dry place
 - **Actions**: Calms the liver and subdues yang, heavily settles and directs counterflow downwards, cools blood and stops bleeding
 - **Dose**: 9-30 g, **decocted first** (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: **Caution in pregnancy** (Pharmacopoeia); *Zheshi* from some places contains impurities such as arsenic, so it is **not suitable for long-term use** (experience). Vomiting blood is an emergency: see a doctor at once
+- **Cautions**: **Caution in pregnancy** (Pharmacopoeia); *Zheshi* from some places contains impurities such as arsenic, so it is **not suitable for long-term use** (experience). Vomiting blood is an emergency: see a doctor at once
 
 ![Haematite compared with cinnabar, red lead and realgar: do not identify red minerals by colour](../../images/hematite-vs-red-toxic-minerals.svg)
 
@@ -654,11 +654,11 @@ Common reminders for mineral medicines:
   - **Greyish-white or pale red, the surface powdery, without lustre, uneven and porous, like a honeycomb**
   - **Light, crumbles easily**; faint smell, taste slightly astringent
 - **Look-alikes**: Other porous white stones; **it fizzes with a drop of vinegar or dilute hydrochloric acid** (a carbonate)
-- **Harvest and processing**: After mining, wash, sun-dry and remove other stones; the medicinal form is an extremely fine powder ground under water (*shuifei*), or calcined and then ground under water
+- **Harvesting and processing**: After mining, wash, sun-dry and remove other stones; the medicinal form is an extremely fine powder ground under water (*shuifei*), or calcined and then ground under water
 - **Storage**: Keep in a dry place
 - **Actions**: Removes toxins, brightens the eyes and clears corneal opacity, absorbs damp, relieves itching and heals sores
 - **Dose**: **External use only**, an appropriate amount (Chinese Pharmacopoeia, 2020 edition); not taken by mouth
-- **Contraindications**: Not for large areas of broken, weeping skin; **keep out of the eyes** (eye conditions are treated by a doctor). The common **calamine lotion** is a Western topical anti-itch medicine that can be used for insect bites and itchy eczema, see [Wounds and injuries – insect bites and stings](../01-first-aid-and-family-health/02-wounds-and-injuries.md#insect-bites-and-stings)
+- **Cautions**: Not for large areas of broken, weeping skin; **keep out of the eyes** (eye conditions are treated by a doctor). The common **calamine lotion** is a Western topical anti-itch medicine that can be used for insect bites and itchy eczema, see [Wounds and injuries – insect bites and stings](../01-first-aid-and-family-health/02-wounds-and-injuries.md#insect-bites-and-stings)
 
 ### 4.8 Baifan (alum)
 
@@ -671,11 +671,11 @@ Common reminders for mineral medicines:
   - Hard and brittle
   - Faint smell, **taste sour, slightly sweet and extremely astringent** (one lick makes the tongue feel tight)
 - **Look-alikes**: *Mangxiao* (tastes salty), borax (tastes sweet then slightly salty, alkaline), table salt; label them all and keep them apart
-- **Harvest and processing**: Processed in factories; this book does not describe the refining method. For using alum to clear water see [Water supply – multi-stage treatment](../07-everyday-living-skills/10-water-supply.md#multi-stage-treatment)
+- **Harvesting and processing**: Processed in factories; this book does not describe the refining method. For using alum to clear water see [Water supply – multi-stage treatment](../07-everyday-living-skills/10-water-supply.md#multi-stage-treatment)
 - **Storage**: Keep in a dry place
 - **Actions**: Used externally, removes toxins and kills parasites, dries damp and relieves itching; taken by mouth, stops bleeding and diarrhoea and expels wind-phlegm; *Kufan* absorbs damp and heals sores, stops bleeding and removes rotten tissue
 - **Dose**: 0.6-1.5 g; an appropriate amount for external use, ground to powder and applied, or dissolved in water to wash the affected area (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **⚠️ Contraindications**: **Contains aluminium**; aluminium building up in the body may damage the nervous system and bones, so it is **not suitable for long-term use or large amounts**; people with poor kidney function, children and pregnant women should not take it by mouth (experience). Large amounts taken by mouth can cause burning pain in the mouth and throat, vomiting, diarrhoea and even collapse. **Do not eat large amounts of foods made with alum, such as fried dough sticks (*youtiao*) and glass noodles, over a long time either**
+- **⚠️ Cautions**: **Contains aluminium**; aluminium building up in the body may damage the nervous system and bones, so it is **not suitable for long-term use or large amounts**; people with poor kidney function, children and pregnant women should not take it by mouth (experience). Large amounts taken by mouth can cause burning pain in the mouth and throat, vomiting, diarrhoea and even collapse. **Do not eat large amounts of foods made with alum, such as fried dough sticks (*youtiao*) and glass noodles, over a long time either**
 
 ### 4.9 Pengsha (borax)
 
@@ -688,7 +688,7 @@ Common reminders for mineral medicines:
 - **⚠️ Toxicity**: Borax **is toxic**: an overdose taken by mouth causes nausea and vomiting, diarrhoea, red, peeling skin, and in severe cases kidney damage, convulsions and shock; **children are more sensitive to boron**; small amounts taken over a long time build up in the body and affect reproduction and development
 - **⚠️ Forbidden in food**: Borax is **a non-food substance that the state expressly forbids adding to food** — in the past some people added it to noodles, *zongzi*, cold jelly and meatballs to "make them chewier" or "preserve them"; this is illegal and is also a source of chronic poisoning
 - **Use (traditional)**: Used externally to clear heat and remove toxins, reduce swelling and prevent rot, mostly in powders applied to the mouth and throat; **this book gives no dose for taking it by mouth**
-- **Contraindications**: Not taken by mouth; not for large areas of broken skin; **not for babies and young children** (including painting it inside the mouth); not for pregnant women. Mouth ulcers that keep coming back or have not healed after two weeks need a doctor to rule out other diseases
+- **Cautions**: Not taken by mouth; not for large areas of broken skin; **not for babies and young children** (including painting it inside the mouth); not for pregnant women. Mouth ulcers that keep coming back or have not healed after two weeks need a doctor to rule out other diseases
 
 ## 5. Toxic mineral medicines (names only)
 

@@ -93,7 +93,7 @@ The flowers in this group are mostly harvested in summer and autumn. The rule is
 - **Jinyinhua (Rendonghua, Shuanghua, Erbaohua)**: Chinese 金银花; *Lonicera japonica* Thunb.
 - **Source**: the dried flower buds or flowers just opening of Japanese honeysuckle, *Lonicera japonica* Thunb. (Caprifoliaceae)
 - **Distribution and habitat**: grows wild in most of China, in thickets on hillsides, at forest edges, by roads and on village fences; grown on a large scale in Shandong, Henan, Hebei and elsewhere
-- **Identification**:
+- **Key identification features**:
   - Plant: semi-evergreen twining vine, young twigs softly hairy; **opposite leaves**, ovate to oblong, often softly hairy on both sides; **two flowers together on one flower stalk**, in the leaf axils; the corolla is **two-lipped** (upper lip with 4 shallow lobes, lower lip a single piece), the stamens stick out beyond the corolla; **white when first open, later turning yellow**, so yellow and white flowers are often found together on the same plant; berries round, black when ripe
   - Dried herb: buds **club-shaped, thicker above and thinner below**, slightly curved, 2-3 cm long; surface yellowish-white or greenish-white, **densely covered with short soft hairs**; occasionally open flowers are present, with a tubular corolla that is two-lipped at the tip
   - Smell: clear, fragrant smell; taste bland, slightly bitter
@@ -113,7 +113,7 @@ The flowers in this group are mostly harvested in summer and autumn. The rule is
 - **Juhua (Boju, Chuju, Gongju, Hangju, Huaiju)**: Chinese 菊花; *Chrysanthemum morifolium* Ramat. (the names in brackets are grades by place of origin and processing)
 - **Source**: the dried flower heads of florist's chrysanthemum, *Chrysanthemum morifolium* Ramat. (Asteraceae)
 - **Distribution and habitat**: cultivated; the main producing areas are Anhui (Bozhou, Chuzhou, She County), Zhejiang (Tongxiang), Henan (Jiaozuo) and elsewhere; there is no truly wild "medicinal chrysanthemum"
-- **Identification**:
+- **Key identification features**:
   - Plant: perennial herb, stem woody at the base; alternate leaves, ovate, shallowly or half pinnately lobed, with short white soft hairs underneath; flowers in autumn
   - Dried herb: flower head with several outer layers of **ray florets** (white, off-white or yellow) and **disc florets** in the centre (yellow, mostly hidden); involucre dish-shaped, with 3-4 layers of hairy bracts. *Boju* and *Chuju* have looser flower heads; *Gongju* and *Hangju* have tighter, flatter flower heads
   - Smell: **clear, fragrant smell**; taste sweet, slightly bitter
@@ -133,7 +133,7 @@ The flowers in this group are mostly harvested in summer and autumn. The rule is
 - **Yejuhua (Kuyi, Yehuangju)**: Chinese 野菊花; *Chrysanthemum indicum* L.
 - **Source**: the dried flower heads of wild chrysanthemum, *Chrysanthemum indicum* L. (Asteraceae)
 - **Distribution and habitat**: widespread throughout China, in grassland on hillsides, thickets, by rivers, at field edges and by roads
-- **Identification**:
+- **Key identification features**:
   - Plant: perennial herb, 25-100 cm tall; alternate leaves, ovate or long-ovate, **half to shallowly pinnately lobed**, stalked; in autumn several **small yellow daisies** open at the top, about 1.5-2.5 cm across, **with yellow ray florets in only 1 layer**
   - Dried herb: flower heads roughly round, about 0.3-1 cm across, brownish-yellow; involucral bracts in 4-5 layers, the outer ones ovate with membranous edges; ray florets in 1 ring, yellow to brownish-yellow, shrivelled and curled; disc florets many
   - Smell: aromatic smell; **taste bitter** (much more bitter than chrysanthemum)
@@ -149,7 +149,7 @@ The flowers in this group are mostly harvested in summer and autumn. The rule is
 - **Huaihua (Huaimi)**: Chinese 槐花 (open flowers), 槐米 (flower buds); *Sophora japonica* L.
 - **Source**: the dried flowers and flower buds of the Japanese pagoda tree, *Sophora japonica* L. (Fabaceae); the former are traditionally called *Huaihua*, the latter *Huaimi*
 - **Distribution and habitat**: widely planted throughout China; most common by villages and roads and in courtyards in the north (commonly called *guohuai*, "native pagoda tree")
-- **Identification**:
+- **Key identification features**:
   - Plant: deciduous tree, **no thorns on the branches**, twigs green; odd-pinnate compound leaves with 7-15 ovate-oblong leaflets; **flowers in high summer (July-August)**, in panicles at the branch tips, pale yellowish-white, pea-shaped; pods fleshy, **constricted like a string of beads** (these are *Huaijiao*, pagoda tree pods)
   - Dried herb: **Huaimi** ovate or elliptic, 2-6 mm long, yellowish-green, with several lengthwise lines on the calyx at the lower end; **Huaihua** shrivelled and curled, the petals mostly fallen; whole flowers have a bell-shaped, yellowish-green calyx and 5 yellow or yellowish-white petals, 1 of them larger (the standard petal)
   - Smell: faint smell; taste slightly bitter
@@ -173,7 +173,7 @@ Most of this group are **not to be used, or to be used with caution, in pregnanc
 - **Honghua (Caohonghua, Honglanhua)**: Chinese 红花; *Carthamus tinctorius* L.
 - **Source**: the dried flowers of safflower, *Carthamus tinctorius* L. (Asteraceae)
 - **Distribution and habitat**: cultivated; grown in Xinjiang, Henan, Sichuan, Yunnan, Gansu and elsewhere; it does not grow wild
-- **Identification**:
+- **Key identification features**:
   - Plant: annual herb, 30-100 cm tall; alternate leaves, long-elliptic, **with spiny teeth on the edges**, and the involucral bracts are spiny too; the flower heads are made only of disc florets, which turn from yellow to orange-red as they bloom
   - Dried herb: tubular florets without the ovary, 1-2 cm long; **reddish-yellow or red**; the corolla tube is long and thin, with 5 narrow strap-shaped lobes at the tip; 5 stamens, the anthers joined into a yellowish-white tube; soft
   - Smell: faintly fragrant; taste slightly bitter
@@ -193,7 +193,7 @@ Most of this group are **not to be used, or to be used with caution, in pregnanc
 - **Xihonghua (Fanhonghua, Zanghonghua)**: Chinese 西红花; *Crocus sativus* L.
 - **Source**: the dried stigmas of saffron crocus, *Crocus sativus* L. (Iridaceae)
 - **Distribution and habitat**: native to the Mediterranean coast and Iran (Iran is the largest producer); it reached inland China via Tibet, hence the common name *Zanghonghua*, "Tibetan red flower" — **Tibet does not produce it**; in China it is grown at Chongming in Shanghai, Jiande in Zhejiang and elsewhere (the corms are mostly brought indoors to flower and be harvested)
-- **Identification**:
+- **Key identification features**:
   - Plant: perennial herb from a corm, leaves thin and linear; pale purple flowers in autumn; the style in the centre of the flower splits at the tip into **3 deep red stigmas**, which are the medicine. Each flower has only 3, and it takes about 150,000 flowers to get 1 kg, which is why it is so expensive
   - Dried herb: **thread-like, branching into three**, about 3 cm long, **dark red**; the upper part is wider and slightly flattened, **the tip has an irregular toothed edge and a short slit on the inner side** (opening out like a trumpet), and the lower end sometimes keeps a short piece of yellow style; light, loose and soft, without an oily sheen; brittle and easily broken when dry
   - Smell: distinctive smell, slightly pungent; taste slightly bitter
@@ -216,7 +216,7 @@ Most of this group are **not to be used, or to be used with caution, in pregnanc
 - **Yuejihua (Yueyuehong, Sijihua)**: Chinese 月季花; *Rosa chinensis* Jacq.
 - **Source**: the dried flowers of Chinese rose, *Rosa chinensis* Jacq. (Rosaceae)
 - **Distribution and habitat**: widely planted throughout China, in courtyards, parks and roadside planting
-- **Identification**:
+- **Key identification features**:
   - Plant: evergreen or semi-evergreen shrub; **prickles fairly sparse, hooked**; pinnate compound leaves with **3-5 leaflets**, **leaf surface smooth and glossy**; **flowers several times a year** (hence *yueyuehong*, "red every month")
   - Dried herb: roughly round, 1.5-2.5 cm across; **receptacle oblong**; 5 sepals, dark green, with tail-like tips; petals overlapping like tiles, purplish-red or pale purplish-red, with clear veins
   - Smell: clear, fragrant smell; taste bland, slightly bitter
@@ -232,7 +232,7 @@ Most of this group are **not to be used, or to be used with caution, in pregnanc
 - **Meiguihua (Paihuaihua, Cimeihua)**: Chinese 玫瑰花; *Rosa rugosa* Thunb.
 - **Source**: the dried flower buds of rugosa rose, *Rosa rugosa* Thunb. (Rosaceae)
 - **Distribution and habitat**: cultivated in Shandong (Pingyin), Gansu (Kushui), Beijing and elsewhere; a little grows wild in the northeast and on the Shandong coast
-- **Identification**:
+- **Key identification features**:
   - Plant: deciduous shrub; **stems densely covered with prickles and bristles**; **5-9 leaflets**, **leaf surface clearly wrinkled** (the species name *rugosa* means "wrinkled"), softly hairy underneath; **flowers only once a year** (late spring to early summer), with purplish-red, strongly fragrant flowers
   - Dried herb: roughly hemispherical or an irregular ball, 0.7-1.5 cm across; **receptacle hemispherical**, joined to the base of the calyx; 5 sepals, lanceolate, yellowish-green or brownish-green, covered with fine soft hairs; petals mostly shrivelled, purplish-red, some yellowish-brown
   - Smell: **strong, rich fragrance**; taste slightly bitter and astringent
@@ -248,7 +248,7 @@ Most of this group are **not to be used, or to be used with caution, in pregnanc
 - **Puhuang (Pubang Huafen, Puhua)**: Chinese 蒲黄; *Typha angustifolia* L., *Typha orientalis* Presl
 - **Source**: the dried pollen of narrow-leaved cattail, *Typha angustifolia* L., oriental cattail, *Typha orientalis* Presl, or other species of the same genus (Typhaceae)
 - **Distribution and habitat**: ponds, lake shores, marshes and the shallow water of ditches throughout China
-- **Identification**:
+- **Key identification features**:
   - Plant: aquatic herb, 1-3 m tall; strap-shaped leaves, like wide Chinese chive leaves; in summer a cylindrical "**cattail**" grows at the top of the stem, with the male flower spike above (yellow, shedding pollen) and the female flower spike below (which later becomes the brown "cattail"); **in narrow-leaved cattail there is a gap between the male and female spikes; in oriental cattail they touch**
   - Dried herb: **yellow powder**, light, **floats on the surface when put in water**; feels smooth and slippery between the fingers and sticks to them easily
   - Smell: faint smell; taste bland
@@ -270,7 +270,7 @@ Most of this group are **not to be used, or to be used with caution, in pregnanc
 - **Xinyi (Mubihua, Wangchunhua, Maobitou)**: Chinese 辛夷; *Magnolia biondii* Pamp., *M. denudata* Desr., *M. sprengeri* Pamp.
 - **Source**: the dried flower buds of *Magnolia biondii* Pamp., Yulan magnolia, *Magnolia denudata* Desr., or *Magnolia sprengeri* Pamp. (Magnoliaceae)
 - **Distribution and habitat**: Henan (Nanzhao), Hubei, Shaanxi, Anhui, Sichuan and elsewhere; Yulan magnolia is widely planted everywhere as an ornamental tree
-- **Identification**:
+- **Key identification features**:
   - Plant: deciduous tree; **in early spring it flowers before the leaves come out**, with large flowers, white or purplish-red on the outside; in winter the flower buds at the branch tips **look like the tip of a writing brush**, wrapped in furry bracts
   - Dried herb: **long-ovoid, like the tip of a writing brush**, 1.2-2.5 cm long, often with a short stalk at the base; bracts in 2-3 layers, **the outer surface densely covered with long, glossy greyish-white or greyish-green hairs**, the inner surface hairless; peeled open, it shows many layers of tepals and many stamens and pistils
   - Smell: **aromatic smell**; taste pungent, cool and slightly bitter
@@ -286,7 +286,7 @@ Most of this group are **not to be used, or to be used with caution, in pregnanc
 - **Kuandonghua (Donghua, Kuandong)**: Chinese 款冬花; *Tussilago farfara* L.
 - **Source**: the dried flower buds of coltsfoot, *Tussilago farfara* L. (Asteraceae)
 - **Distribution and habitat**: north China, the northwest and the southwest, including Henan, Gansu, Shanxi, Shaanxi and Inner Mongolia; grows by streams in valleys, on sandy riverbanks and at damp forest edges
-- **Identification**:
+- **Key identification features**:
   - Plant: perennial herb; **in early spring it flowers first and puts out leaves later**: flowering stalks come up from the ground, covered in white woolly hairs and bearing scale-like bracts, each topped by a single **yellow flower head**; only after flowering do the basal leaves appear, **heart-shaped or broadly heart-shaped**, with sparse wavy teeth on the edges and **densely covered with white woolly hairs underneath**
   - Dried herb: **long club-shaped**, single or 2-3 joined at the base, 1-2.5 cm long, 0.5-1 cm across; thicker at the top, tapering below or with a short stalk; covered with **many fish-scale-like bracts**, **purplish-red or pale red** on the outside, the inner surface densely covered with white cottony hairs; light; torn open, white hairs show
   - Smell: fragrant smell; taste slightly bitter and pungent
@@ -302,7 +302,7 @@ Most of this group are **not to be used, or to be used with caution, in pregnanc
 - **Xuanfuhua (Jinfeihua, Liuyueju, Jinqianhua)**: Chinese 旋覆花; *Inula japonica* Thunb., *Inula britannica* L.
 - **Source**: the dried flower heads of Japanese inula, *Inula japonica* Thunb., or British yellowhead, *Inula britannica* L. (Asteraceae)
 - **Distribution and habitat**: the northeast, north, east and central China and elsewhere, on river flats, field banks, roadsides and damp grassland
-- **Identification**:
+- **Key identification features**:
   - Plant: perennial herb, 30-70 cm tall; alternate leaves, oblong or lanceolate, **the base slightly clasping the stem**, sparsely hairy underneath; in summer and autumn **golden-yellow flower heads** open at the top, 2.5-4 cm across, **with one ring of long, thin ray florets**
   - Dried herb: flower heads **flattened-round or roughly round**, 1-2 cm across; **involucral bracts in many layers, overlapping like tiles**, lanceolate or strap-shaped, greyish-yellow; ray florets in 1 row, yellow, mostly curled; disc florets many, brownish-yellow; some small achenes with white pappus may be visible; light, falls apart easily
   - Smell: faint smell; taste slightly bitter
@@ -318,7 +318,7 @@ Most of this group are **not to be used, or to be used with caution, in pregnanc
 - **Hehuanhua (Yehehua, Ronghua, Hehuanmi)**: Chinese 合欢花; *Albizia julibrissin* Durazz. (the flower buds are traditionally called *Hehuanmi*, 合欢米)
 - **Source**: the dried flower clusters or flower buds of the silk tree, *Albizia julibrissin* Durazz. (Fabaceae); the former are traditionally called *Hehuanhua*, the latter *Hehuanmi*
 - **Distribution and habitat**: widespread from north to south China; a common street and courtyard tree, also wild on hillsides
-- **Identification**:
+- **Key identification features**:
   - Plant: deciduous tree; **twice-pinnate compound leaves**, the leaflets tiny and sickle-shaped, **folding together in pairs at night** (hence *yehe*, "closing at night"); in summer it bears **pink pompom-like flowers**; the "fluff" you see is actually the long, thin stamens
   - Dried herb: *Hehuanhua* is a flower head shrivelled into a ball; main flower stalk 3-4 cm long; flowers long, thin and curved, 0.7-1 cm long, pale yellow or yellowish-brown, the corolla tubular with 5 lobes at the tip; **many stamens with long, thin filaments**, yellowish-brown to tawny. *Hehuanmi* is club-shaped, pale yellow to yellowish-brown
   - Smell: faintly fragrant; taste bland
@@ -334,7 +334,7 @@ Most of this group are **not to be used, or to be used with caution, in pregnanc
 - **Dingxiang (Gongdingxiang, Dingzixiang)**: Chinese 丁香; *Eugenia caryophyllata* Thunb.
 - **Source**: the dried flower buds of the clove tree, *Eugenia caryophyllata* Thunb. (Myrtaceae)
 - **Distribution and habitat**: native to the Maluku Islands of Indonesia; grown on a large scale in East Africa (Zanzibar), Madagascar and elsewhere; a little is grown in Hainan and Guangdong in China
-- **Identification**:
+- **Key identification features**:
   - Plant: evergreen tree, opposite leaves, leathery, with oil-gland dots; grows only in the tropics, so you will not see it in the wild in China
   - Dried herb: roughly **pestle-shaped (like a small nail)**, 1-2 cm long; at the top is the round corolla, 0.3-0.5 cm across, with 4 petals overlapping like tiles, brown; the lower part is the cylindrical **calyx tube**, reddish-brown or brown, with **4 triangular sepals spreading in a cross** at its top; hard and firm, **rich in oil**: scratch the calyx tube with a fingernail and oil seeps out
   - Smell: **strong aromatic smell, pungent taste that numbs the tongue**
@@ -360,7 +360,7 @@ Leaf herbs shrivel and break when dried. To identify them, **soak them soft and 
 - **Sangye (Shuangsangye, Dongsangye)**: Chinese 桑叶; *Morus alba* L.
 - **Source**: the dried leaves of white mulberry, *Morus alba* L. (Moraceae)
 - **Distribution and habitat**: throughout China, by villages, at field edges and on hillsides; grown on a large scale in the silkworm-raising areas of Jiangsu, Zhejiang, Guangdong, Sichuan and elsewhere
-- **Identification**:
+- **Key identification features**:
   - Plant: deciduous tree or shrub; **a snapped leaf stalk or young twig bleeds white milky sap**; alternate leaves, ovate or broadly ovate, toothed on the edges, some irregularly lobed; the fruit is a multiple fruit, purple-black or white when ripe (mulberries)
   - Dried herb: mostly shrivelled and broken; whole leaves are stalked and, flattened out, ovate or broadly ovate, 8-15 cm long and 7-13 cm wide; tip tapering, base squared-off, rounded or heart-shaped, edges toothed; upper surface yellowish-green or light yellowish-brown, some with small wart-like bumps; lower surface slightly paler, **the veins raised with a network of small veins**, sparsely hairy on the veins, **with tufts of hairs in the vein angles**; brittle
   - Smell: faint smell; taste bland, slightly bitter and astringent
@@ -377,7 +377,7 @@ Leaf herbs shrivel and break when dried. To identify them, **soak them soft and 
 - **Zisuye (Suye, Chisu)**: Chinese 紫苏叶; *Perilla frutescens* (L.) Britt.
 - **Source**: the dried leaves (or leaves with tender twigs) of perilla, *Perilla frutescens* (L.) Britt. (Lamiaceae)
 - **Distribution and habitat**: widely cultivated throughout China; often escaped and growing wild by villages and garden edges
-- **Identification**:
+- **Key identification features**:
   - Plant: annual herb, 0.3-2 m tall; **square stem**, with long soft hairs; **opposite leaves**, broadly ovate, coarsely toothed on the edges, **purple on both sides or green above and purple below**; whorls of flowers forming racemes that lean to one side, flowers white to purplish-red
   - Dried herb: leaves mostly shrivelled, curled and broken; whole leaves flattened out are ovate-round, 4-11 cm long and 2.5-9 cm wide, with a long-pointed or abruptly pointed tip and round-toothed edges; purple on both sides, or green on the upper surface and purple on the lower, sparsely covered with greyish-white hairs, **the lower surface with many sunken, dot-like glandular scales**; leaf stalk 2-7 cm long, purple or purplish-green; brittle
   - Smell: **clear, fragrant smell** (the distinctive perilla scent); taste slightly pungent
@@ -398,7 +398,7 @@ Leaf herbs shrivel and break when dried. To identify them, **soak them soft and 
 - **Daqingye (Songlanye, Lanye)**: Chinese 大青叶; *Isatis indigotica* Fort.
 - **Source**: the dried leaves of woad, *Isatis indigotica* Fort. (Brassicaceae)
 - **Distribution and habitat**: cultivated; grown in Hebei, Jiangsu, Anhui, Gansu, Heilongjiang and elsewhere; its root is *Banlangen*
-- **Identification**:
+- **Key identification features**:
   - Plant: biennial herb, 40-100 cm tall, the whole plant smooth with a whitish bloom; basal leaves oblong, stalked; **stem leaves oblong-lanceolate, arrow-shaped at the base, half-clasping the stem**; in spring it bears **small yellow cross-shaped flowers**; seed pods flat, oblong, winged at the edges, hanging down
   - Dried herb: mostly shrivelled and curled, some broken; whole leaves flattened out are **long-elliptic to oblong-oblanceolate**, 5-20 cm long and 2-6 cm wide; upper surface dark greyish-green, some with darker, slightly raised small dots; tip blunt, edges entire or slightly wavy, **the base narrowing and running down the leaf stalk as a wing**; leaf stalk 4-10 cm long, light brownish-yellow; brittle
   - Smell: faint smell; taste slightly sour, bitter and astringent
@@ -419,7 +419,7 @@ Leaf herbs shrivel and break when dried. To identify them, **soak them soft and 
 - **Heye (Lianye)**: Chinese 荷叶; *Nelumbo nucifera* Gaertn.
 - **Source**: the dried leaves of the lotus, *Nelumbo nucifera* Gaertn. (Nymphaeaceae)
 - **Distribution and habitat**: cultivated or wild in ponds, lakes and paddy fields throughout China
-- **Identification**:
+- **Key identification features**:
   - Plant: perennial aquatic herb; leaves **round and peltate** (the leaf stalk joins the middle of the blade), up to 70 cm across, **the surface waxy, so water rolls off in beads**; leaf stalks with small prickles
   - Dried herb: semicircular or folded-fan-shaped, roughly round when opened out, 20-50 cm across, edges entire or slightly wavy; upper surface dark green or yellowish-green, fairly rough; lower surface pale greyish-brown, fairly smooth, with **21-22 thick veins radiating from the centre**; a raised remnant of the leaf stalk in the centre; brittle, breaks easily
   - Smell: slightly fragrant; taste slightly bitter
@@ -441,7 +441,7 @@ Loquat leaf, oriental arborvitae leaf and mugwort leaf come from evergreen trees
 - **Pipaye (Paye)**: Chinese 枇杷叶; *Eriobotrya japonica* (Thunb.) Lindl.
 - **Source**: the dried leaves of loquat, *Eriobotrya japonica* (Thunb.) Lindl. (Rosaceae)
 - **Distribution and habitat**: widely planted in the Yangtze basin and everywhere south of it, in courtyards, orchards and by villages
-- **Identification**:
+- **Key identification features**:
   - Plant: small evergreen tree; twigs, leaf undersides and flower clusters all densely covered with **rusty or greyish-brown woolly hairs**; leaves large, leathery, oblong; **white flowers in autumn and winter**, yellow fruit in early summer
   - Dried herb: oblong or obovate, 12-30 cm long and 4-9 cm wide; tip pointed, base wedge-shaped, **edges sparsely toothed, entire near the base**; upper surface greyish-green, yellowish-brown or reddish-brown, fairly smooth; **lower surface densely covered with yellow woolly hairs**, the midrib strongly raised on the lower surface, side veins pinnate; leaf stalk very short, covered with brownish-yellow hairs; **leathery but brittle**, snaps easily
   - Smell: faint smell; taste slightly bitter
@@ -457,7 +457,7 @@ Loquat leaf, oriental arborvitae leaf and mugwort leaf come from evergreen trees
 - **Cebaiye (Baiye, Bianbaiye)**: Chinese 侧柏叶; *Platycladus orientalis* (L.) Franco
 - **Source**: the dried twig tips and leaves of oriental arborvitae, *Platycladus orientalis* (L.) Franco (Cupressaceae)
 - **Distribution and habitat**: most of China, on sunny mountain slopes and limestone hills; planted in large numbers in cemeteries, temples and parks
-- **Identification**:
+- **Key identification features**:
   - Plant: evergreen tree; **the twigs are flat and arranged in one plane, and this plane stands upright** (like a hand held edgeways, hence *ce*, "sideways", *bai*, "cypress"); all the leaves are **tiny and scale-like, in opposite pairs, pressed close to the twigs**; cones ovoid, with 4 pairs of cone scales, **each with a curved-back point at the top of its back**, splitting open when ripe
   - Dried herb: much branched, twigs flat; leaves tiny, scale-like, in opposite pairs, pressed against the twigs, dark green or yellowish-green; brittle, snaps easily
   - Smell: **clear, fragrant smell**; taste bitter, astringent and slightly pungent
@@ -480,7 +480,7 @@ Loquat leaf, oriental arborvitae leaf and mugwort leaf come from evergreen trees
 - **Aiye (Ai, Jia'ai, Qi'ai)**: Chinese 艾叶; *Artemisia argyi* Lévl. et Vant.
 - **Source**: the dried leaves of Chinese mugwort, *Artemisia argyi* Lévl. et Vant. (Asteraceae)
 - **Distribution and habitat**: most of China, on waste ground, by roads and rivers and on hillsides; the "*Qi'ai*" of Qichun in Hubei is the best known, and it is cultivated in many places
-- **Identification**:
+- **Key identification features**:
   - Plant: perennial herb, 0.5-1.5 m tall, the whole plant **densely covered with greyish-white woolly hairs**; alternate leaves, **deeply pinnately divided**, the lobes elliptic-lanceolate with coarsely toothed edges; **the upper side of the leaf is greyish-green with gland dots, the underside densely covered with greyish-white woolly hairs** (turned over, it looks white); rubbed, it has **a strong mugwort smell**
   - Dried herb: mostly shrivelled and broken, with short stalks; whole leaves flattened out are ovate-elliptic, deeply pinnately divided, the lobes with irregular coarse teeth on the edges; upper surface greyish-green or dark yellowish-green, with sparse soft hairs and gland dots; **lower surface densely covered with greyish-white woolly hairs**; soft
   - Smell: **clear, fragrant smell**; taste bitter
@@ -503,7 +503,7 @@ Senna leaf and ginkgo leaf can both be bought easily on the market and are often
 - **Fanxieye (Xieye, Paozhuye)**: Chinese 番泻叶; *Cassia angustifolia* Vahl, *Cassia acutifolia* Delile
 - **Source**: the dried leaflets of Tinnevelly senna, *Cassia angustifolia* Vahl, or Alexandrian senna, *Cassia acutifolia* Delile (Fabaceae)
 - **Distribution and habitat**: native to tropical Africa and India; Tinnevelly senna comes mainly from India and Alexandrian senna mainly from Egypt; a little is grown in Hainan and Yunnan, and it is not found in the wild in China
-- **Identification**:
+- **Key identification features**:
   - Plant: shrub, even-pinnate compound leaves with 4-8 pairs of leaflets; racemes of yellow flowers; pods flat
   - Dried herb: **Tinnevelly senna** leaflets long-ovate or ovate-lanceolate, 1.5-5 cm long and 0.4-2 cm wide, edges entire, **tip abruptly pointed, base slightly asymmetrical**; upper surface yellowish-green, lower surface pale yellowish-green, hairless or nearly so, veins slightly raised; leathery. **Alexandrian senna** is lanceolate or long-ovate, slightly curled, the tip shortly pointed or with a tiny point, the base asymmetrical, with fine short hairs on both sides
   - Smell: weak, distinctive smell; taste slightly bitter, a little sticky
@@ -524,7 +524,7 @@ Senna leaf and ginkgo leaf can both be bought easily on the market and are often
 - **Yinxingye (Baiguoye)**: Chinese 银杏叶; *Ginkgo biloba* L.
 - **Source**: the dried leaves of ginkgo, *Ginkgo biloba* L. (Ginkgoaceae)
 - **Distribution and habitat**: widely planted throughout China as street trees and in courtyards and temples; Pizhou in Jiangsu, Tancheng in Shandong and elsewhere have large ginkgo plantations for leaves and nuts
-- **Identification**:
+- **Key identification features**:
   - Plant: large deciduous tree; leaves **fan-shaped**, long-stalked, in clusters on short shoots and alternate on long shoots; **the veins are parallel and fork in two again and again** (the only such tree in the world); the leaves turn golden yellow in autumn
   - Dried herb: mostly creased or broken; whole leaves fan-shaped, 3-12 cm long and 5-15 cm wide; yellowish-green or light brownish-yellow, the upper edge irregularly wavy, some notched in the middle, the deepest notches reaching 4/5 of the leaf length; **the forking parallel veins are fine and dense**, smooth and hairless, **tears easily lengthwise**; leaf base wedge-shaped, leaf stalk 2-8 cm long; light
   - Smell: faint smell; taste slightly bitter

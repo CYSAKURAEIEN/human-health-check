@@ -169,7 +169,7 @@ Places where it is hard to find:
   causes disease → if the area has a history of such local diseases, take special care
 ```
 
-For digging wells, drawing water and purifying it see [Water Supply Engineering](../07-everyday-living-skills/10-water-supply.md).
+For digging wells, drawing water and purifying it see [Water Sources and Water Supply](../07-everyday-living-skills/10-water-supply.md).
 
 ---
 
@@ -213,7 +213,7 @@ Jar (settling) test (more accurate):
 
 *Figure: for the rolling test, first add water and knead the soil until it is like modelling clay; in the jar test the layer thicknesses shown are only illustrative – the actual proportions come from the thicknesses you measure*
 
-For choosing soil for adobe and rammed earth see [Long-Term Housing – Choosing soil](../07-everyday-living-skills/05-long-term-shelter.md#choosing-the-soil).
+For choosing soil for adobe and rammed earth see [Long-term Shelter – Choosing soil](../07-everyday-living-skills/05-long-term-shelter.md#choosing-the-soil).
 
 ### 5.3 Acidity and alkalinity
 
@@ -283,8 +283,8 @@ For the warning signs of landslides and debris flows see [Geological Disasters](
 - ⏮️ [The Periodic Table](05-periodic-table.md) - which elements minerals are made of
 - ⏭️ [Weather Observation and Forecasting](07-weather-observation-and-forecasting.md)
 - 🔗 [Metallurgy Basics – Identifying and collecting ores](../05-metallurgy/00-metallurgy-basics.md#5-identifying-and-collecting-ore)
-- 🔗 [Water Supply Engineering](../07-everyday-living-skills/10-water-supply.md) - once you have found groundwater
-- 🔗 [Long-Term Housing](../07-everyday-living-skills/05-long-term-shelter.md) - choosing a site, choosing soil, building materials
+- 🔗 [Water Sources and Water Supply](../07-everyday-living-skills/10-water-supply.md) - once you have found groundwater
+- 🔗 [Long-term Shelter](../07-everyday-living-skills/05-long-term-shelter.md) - choosing a site, choosing soil, building materials
 - 🔗 [Growing Plants and Raising Animals](../04-farming-and-animal-husbandry/README.md) - soil and growing crops
 
 ---

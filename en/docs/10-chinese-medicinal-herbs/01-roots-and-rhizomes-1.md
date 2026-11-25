@@ -95,11 +95,11 @@ This group contains the most commonly used *qi* tonics. They have very low toxic
   - Crude drug: Main root spindle-shaped or cylindrical, greyish-yellow, with coarse broken cross-wrinkles on the upper part and 2-3 branch roots below; at the top is the **"reed head"** (*lutou*, the rhizome), bearing bowl-shaped stem scars (*luwan*, "reed bowls"); the fine roots carry tiny wart-like bumps ("pearl dots")
   - Cross-section: Pale yellowish-white, powdery, with **a ring of brownish-yellow cambium**; the bark part has scattered yellowish-brown dots and radiating cracks; a distinctive aroma, taste slightly bitter and sweet
 - **Look-alikes**: **Pokeweed root** (*Shanglu*) is the most dangerous: forked, thick roots dug by roadsides, on waste ground or near villages are often taken for "wild mountain ginseng" and steeped in liquor or stewed in soup. Pokeweed is a tall herb with simple leaves and purple-black, grape-like fruit spikes; a cross-section of its root shows many concentric rings, and it has no reed head. For a comparison see [Pokeweed vs ginseng](09-toxic-herbs-and-poisonous-look-alikes.md#44-shanglu-pokeweed-vs-renshen-ginseng). Fakes are also made by processing *Jiegeng* (platycodon), *Huashanshen* (Physochlaina, toxic), *Lulan* (Talinum, "earth ginseng") and others
-- **Harvest and processing**: Cultivated garden ginseng is usually dug in autumn after 5-6 years of growth, washed and sun-dried or oven-dried as "sun-dried ginseng" (*shengshaishen*); steamed and then dried it becomes "red ginseng" (*hongshen*, a separate Pharmacopoeia entry)
+- **Harvesting and processing**: Cultivated garden ginseng is usually dug in autumn after 5-6 years of growth, washed and sun-dried or oven-dried as "sun-dried ginseng" (*shengshaishen*); steamed and then dried it becomes "red ginseng" (*hongshen*, a separate Pharmacopoeia entry)
 - **Storage**: High in sugar and starch, so it easily absorbs moisture, moulds and is attacked by insects; seal it and keep it in a cool, dry place; small amounts can be kept in the fridge
 - **Actions**: Greatly tonifies primal *qi*, restores the pulse and rescues from collapse, tonifies the spleen and benefits the lungs, generates fluids and nourishes blood, calms the mind and benefits intelligence
 - **Dose**: 3-9 g, decocted separately and added to the decoction; or ground to powder and swallowed, 2 g a time, twice a day (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: Do not use together with *Lilu* (Veratrum) or *Wulingzhi* (flying squirrel droppings); not suitable for fever, excess patterns, or yin deficiency with flaring fire; people with high blood pressure or insomnia, or who are taking diabetes medicines or anticoagulants such as warfarin, should ask a doctor before use; do not give children tonics on your own initiative
+- **Cautions**: Do not use together with *Lilu* (Veratrum) or *Wulingzhi* (flying squirrel droppings); not suitable for fever, excess patterns, or yin deficiency with flaring fire; people with high blood pressure or insomnia, or who are taking diabetes medicines or anticoagulants such as warfarin, should ask a doctor before use; do not give children tonics on your own initiative
 - 🛡️ **Protection note**: Wild ginseng is a class II species on the "List of Wild Medicinal Species under Key State Protection", and wild species of the genus *Panax* are also on the 2021 "List of Wild Plants under Key State Protection" (the wording of the lists prevails for the class). **Wild ginseng must not be dug or traded**; what proper pharmacies sell is garden ginseng or forest-grown mountain ginseng, and that is enough
 
 ![Ginseng and pokeweed compared](../../images/ginseng-vs-pokeweed.svg)
@@ -116,11 +116,11 @@ This group contains the most commonly used *qi* tonics. They have very low toxic
   - Crude drug: Spindle-shaped, cylindrical or conical, 3-12 cm long; light yellowish-brown or yellowish-white, with **fine, dense cross-rings** and line-like, lenticel-like bumps
   - Cross-section: Firm and solid, flat, pale yellowish-white, slightly powdery, with a brownish-yellow cambium ring and yellowish-brown dots in the bark; a faint but distinctive smell, taste slightly bitter and sweet
 - **Look-alikes**: Smaller garden ginseng (sun-dried ginseng) is often processed and sold as American ginseng. In experience, American ginseng is heavier and denser, its cross-rings are finer and denser and its cross-section flatter; ginseng often has a longer reed head and more branch roots. The fake does no harm, but the prices are very different; if unsure, buy from a proper pharmacy
-- **Harvest and processing**: Dug in autumn after 3-4 years of cultivation, washed, sun-dried or dried at low temperature
+- **Harvesting and processing**: Dug in autumn after 3-4 years of cultivation, washed, sun-dried or dried at low temperature
 - **Storage**: As for ginseng, easily attacked by insects and damp; seal and keep out of light
 - **Actions**: Tonifies *qi* and nourishes yin, clears heat and generates fluids
 - **Dose**: 3-6 g, decocted separately and added to the decoction (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: Do not use together with *Lilu* (Veratrum); it is cool in nature, so not suitable for people with a cold, weak spleen and stomach or diarrhoea; ask a doctor before using it with diabetes medicines or anticoagulants
+- **Cautions**: Do not use together with *Lilu* (Veratrum); it is cool in nature, so not suitable for people with a cold, weak spleen and stomach or diarrhoea; ask a doctor before using it with diabetes medicines or anticoagulants
 - 🛡️ **Protection note**: Wild American ginseng occurs only in North America and is listed in Appendix II of the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES); in China only cultivated plants exist
 
 ### 1.3 Dangshen (codonopsis root)
@@ -133,11 +133,11 @@ This group contains the most commonly used *qi* tonics. They have very low toxic
   - Crude drug: Long and cylindrical, slightly curved, 10-35 cm long; greyish-yellow to greyish-brown; the root head has many wart-like stem scars and buds, traditionally called **"lion's coiled head"** (*shizi pantou*); below the root head are dense ring-shaped cross-wrinkles
   - Cross-section: Fairly flat, with cracks or radiating lines; bark pale brownish-yellow, wood pale yellow; a distinctive aroma, taste slightly sweet
 - **Look-alikes**: Roots of related plants in the same family, such as *Yangru* (Codonopsis lanceolata, "four-leaf ginseng") and *Codonopsis tubulosa*, have been mixed in. There are many twining vines in the wild; confirm only after seeing the bell-shaped flowers, the milky sap and the "lion's coiled head"
-- **Harvest and processing**: Dug in autumn after 2-3 years of cultivation, washed and sun-dried; traditionally, when half-dry the roots are rubbed and rolled several times so that the skin sticks tightly to the flesh and does not puff up hollow, then dried completely
+- **Harvesting and processing**: Dug in autumn after 2-3 years of cultivation, washed and sun-dried; traditionally, when half-dry the roots are rubbed and rolled several times so that the skin sticks tightly to the flesh and does not puff up hollow, then dried completely
 - **Storage**: High in sugar, so it **easily absorbs moisture, moulds, is attacked by insects and "goes oily" (turns soft and sticky)**; seal once fully dry, keep somewhere cool and check often
 - **Actions**: Strengthens the spleen and benefits the lungs, nourishes blood and generates fluids
 - **Dose**: 9-30 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: Do not use together with *Lilu* (Veratrum); not suitable on its own for excess or heat patterns
+- **Cautions**: Do not use together with *Lilu* (Veratrum); not suitable on its own for excess or heat patterns
 - 🛡️ **Protection note**: Wild Sichuan *Dangshen* is on the 2021 "List of Wild Plants under Key State Protection" (the wording of the list prevails); do not dig wild *Dangshen*. For growing it see [Medicinal plants](../04-farming-and-animal-husbandry/04-medicinal-plants.md)
 
 ### 1.4 Huangqi (astragalus root)
@@ -150,11 +150,11 @@ This group contains the most commonly used *qi* tonics. They have very low toxic
   - Crude drug: Long and cylindrical, some branched, 30-90 cm long; pale brownish-yellow or pale brown, with irregular lengthwise wrinkles
   - Cross-section: Hard and tough, does not break easily; **strongly fibrous when broken (like cotton wadding)**; bark yellowish-white, wood pale yellow, with radiating lines and cracks (traditionally called a "chrysanthemum heart"); faint smell, taste slightly sweet, and **a beany taste when chewed**
 - **Look-alikes**: In the past, roots of *Caragana* (pea shrub), alfalfa (*Medicago sativa*), *Malva rotundifolia* (round-leaf mallow) and others have been sold as *Huangqi*; their cross-section and taste differ (no beany taste and no "chrysanthemum heart"). *Astragalus* and the related genus *Oxytropis* include some "locoweed" plants that poison livestock that eat them — **do not dig unfamiliar wild *Astragalus* plants as a substitute**
-- **Harvest and processing**: Dug in spring and autumn; remove fine roots and the root head, sun-dry; cultivated plants are usually grown for 2-3 years or more
+- **Harvesting and processing**: Dug in spring and autumn; remove fine roots and the root head, sun-dry; cultivated plants are usually grown for 2-3 years or more
 - **Storage**: Easily moulds in damp and is attacked by insects; tie in bundles and keep somewhere ventilated and dry
 - **Actions**: Tonifies *qi* and raises yang, consolidates the exterior and stops sweating, promotes urination and reduces swelling, generates fluids and nourishes blood, moves stagnation and unblocks painful obstruction, draws out toxins and expels pus, closes sores and promotes healing
 - **Dose**: 9-30 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: Not suitable for fever from external infection, early-stage hot toxic sores, or yin deficiency with flaring fire; people with autoimmune disease, or taking immunosuppressants after organ transplant, should ask a doctor before use
+- **Cautions**: Not suitable for fever from external infection, early-stage hot toxic sores, or yin deficiency with flaring fire; people with autoimmune disease, or taking immunosuppressants after organ transplant, should ask a doctor before use
 
 ### 1.5 Gancao (liquorice root)
 
@@ -166,11 +166,11 @@ This group contains the most commonly used *qi* tonics. They have very low toxic
   - Crude drug: Root cylindrical, 25-100 cm long; outer bark reddish-brown or greyish-brown, with clear lengthwise wrinkles and lenticels; the rhizome has bud scars on its surface and pith in the centre of its cross-section
   - Cross-section: Yellowish-white, powdery, with a clear cambium ring and radiating lines; **taste sweet and distinctive** — one of the easiest medicines to confirm by taste
 - **Look-alikes**: Generally not easily confused; note that "*Gancao* tablets" on sale may be cut liquorice slices or Western cough tablets containing liquorice liquid extract — the two are different
-- **Harvest and processing**: Dug in spring and autumn, fine roots removed, sun-dried; cultivated plants are usually grown for 3-4 years
+- **Harvesting and processing**: Dug in spring and autumn, fine roots removed, sun-dried; cultivated plants are usually grown for 3-4 years
 - **Storage**: Easily attacked by insects and damp; keep somewhere dry
 - **Actions**: Tonifies the spleen and *qi*, clears heat and removes toxins, expels phlegm and stops cough, relieves spasm and pain, harmonises the other herbs
 - **Dose**: 2-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: Do not use together with *Haizao* (Sargassum), *Jingdaji* (Euphorbia pekinensis), *Hongdaji* (Knoxia), *Gansui* (Euphorbia kansui) or *Yuanhua* (Daphne genkwa). **Long-term or large-dose use can cause oedema, raised blood pressure and low blood potassium** (in severe cases muscle weakness and abnormal heart rhythm); people with high blood pressure, heart disease, kidney disease or low potassium should use it with caution; ask a doctor before using it with diuretics, digoxin or steroids. Pregnant women should not take it long term or in large amounts
+- **Cautions**: Do not use together with *Haizao* (Sargassum), *Jingdaji* (Euphorbia pekinensis), *Hongdaji* (Knoxia), *Gansui* (Euphorbia kansui) or *Yuanhua* (Daphne genkwa). **Long-term or large-dose use can cause oedema, raised blood pressure and low blood potassium** (in severe cases muscle weakness and abnormal heart rhythm); people with high blood pressure, heart disease, kidney disease or low potassium should use it with caution; ask a doctor before using it with diuretics, digoxin or steroids. Pregnant women should not take it long term or in large amounts
 - 🛡️ **Protection note**: *Gancao* is a class II species on the "List of Wild Medicinal Species under Key State Protection", and wild liquorice (*G. uralensis*, *G. inflata*, *G. glabra*) is also on the 2021 "List of Wild Plants under Key State Protection"; in 2000 the State Council issued a specific notice to stop indiscriminate digging of liquorice (which turns grassland into desert). **Do not dig wild liquorice**; most of what is on sale is cultivated
 
 ### 1.6 Baizhu (white atractylodes rhizome)
@@ -183,11 +183,11 @@ This group contains the most commonly used *qi* tonics. They have very low toxic
   - Crude drug: **Irregular, fat, fleshy lumps**, 3-13 cm long; greyish-yellow or greyish-brown, with knobbly bumps and broken lengthwise wrinkles; the top has remains of the stem base and bud scars
   - Cross-section: Hard; yellowish-white to pale brown, **with scattered brownish-yellow dot-like oil cavities**; oven-dried pieces have a horny cross-section; **a fresh, clean aroma, taste sweet and slightly pungent, slightly sticky when chewed**
 - **Look-alikes**: *Cangzhu*, in the same genus (see [5.1](#51-cangzhu-atractylodes-rhizome)). *Baizhu* is in large, fat lumps with fewer oil dots in the cross-section and a light aroma; *Cangzhu* is in knotty long pieces, with many "cinnabar dots" in the cross-section and a strong aroma
-- **Harvest and processing**: Dig in winter when the lower leaves have turned yellow and withered and the upper leaves have become brittle; remove soil, oven-dry or sun-dry, then remove the fine roots
+- **Harvesting and processing**: Dig in winter when the lower leaves have turned yellow and withered and the upper leaves have become brittle; remove soil, oven-dry or sun-dry, then remove the fine roots
 - **Storage**: **Easily goes oily and is attacked by insects**; keep somewhere cool and dry, away from heat
 - **Actions**: Strengthens the spleen and tonifies *qi*, dries damp and promotes urination, stops sweating, calms the foetus
 - **Dose**: 6-12 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: Use with caution in yin deficiency with dryness and thirst, or depleted body fluids; "calming the foetus" must also be judged by a doctor — bleeding or abdominal pain in pregnancy needs a doctor first
+- **Cautions**: Use with caution in yin deficiency with dryness and thirst, or depleted body fluids; "calming the foetus" must also be judged by a doctor — bleeding or abdominal pain in pregnancy needs a doctor first
 
 ### 1.7 Shanyao (Chinese yam)
 
@@ -199,11 +199,11 @@ This group contains the most commonly used *qi* tonics. They have very low toxic
   - Crude drug: "Hairy *Shanyao*" is roughly cylindrical, curved and slightly flattened, yellowish-white or pale yellow, with lengthwise grooves and fine-root scars; "smooth *Shanyao*" is evenly cylindrical with a smooth white surface; "*Shanyao* slices" are roughly round or irregular thick slices cut while fresh
   - Cross-section: White, **very powdery**; faint smell, taste bland and slightly sour, **sticky when chewed**
 - **Look-alikes**: ***Huangdu*** (air potato, *Dioscorea bulbifera*; its tuber is the medicine *Huangyaozi*, which is toxic to the liver), in the same genus — its leaves are **alternate** and broadly heart-shaped, its bulbils are large and spherical, and its underground tuber is almost spherical with a yellow cross-section, unlike the long, cylindrical white rhizome of *Shanyao*. Cassava slices and slices of winged yam (*Dioscorea alata*) are also passed off as *Shanyao* slices. If you dig wild *Dioscorea* plants you must check the leaf arrangement and the shape of the rhizome
-- **Harvest and processing**: Dig in winter after the stems and leaves have withered; cut off the root head, wash, remove the skin and fine roots, then dry ("hairy *Shanyao*"); or cut into thick slices while fresh and dry ("*Shanyao* slices"). The mucus of fresh yam can make the hands itch; wear gloves when peeling
+- **Harvesting and processing**: Dig in winter after the stems and leaves have withered; cut off the root head, wash, remove the skin and fine roots, then dry ("hairy *Shanyao*"); or cut into thick slices while fresh and dry ("*Shanyao* slices"). The mucus of fresh yam can make the hands itch; wear gloves when peeling
 - **Storage**: Rich in starch, so **very easily attacked by insects and mould**; seal once fully dry
 - **Actions**: Tonifies the spleen and nourishes the stomach, generates fluids and benefits the lungs, tonifies the kidneys and secures essence
 - **Dose**: 15-30 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner); eating it as food in normal everyday amounts is safe
-- **Contraindications**: Do not use much in cases of excess damp with abdominal fullness, or food stagnation; avoid if allergic to yam
+- **Cautions**: Do not use much in cases of excess damp with abdominal fullness, or food stagnation; avoid if allergic to yam
 
 ---
 
@@ -221,11 +221,11 @@ This group is mostly related to menstruation, bleeding and blood stasis. **Blood
   - Crude drug: Roughly cylindrical, with 3-5 or more branch roots below, 15-25 cm long; the root head (*guitou*) has rings and the remains of purple or yellowish-green leaf sheaths, the main root (*guishen*) is uneven, and the branch roots (*guiwei*) taper downwards
   - Cross-section: Soft and pliable; yellowish-white or pale yellowish-brown, with a thick bark and many brown dot-like secretory cavities, and a yellowish-brown cambium ring; **strong aroma, taste sweet, pungent and slightly bitter**. The Pharmacopoeia states: roots that are woody, dried out without oil, or greenish-brown in cross-section must not be used as medicine
 - **Look-alikes**: Lovage (*Levisticum officinale*, an introduced Western spice plant), Japanese angelica (*Angelica acutiloba*), *Duhuo* and others have been mixed in; their aroma and taste differ. ***Danggui* belongs to the carrot family — do not dig unfamiliar carrot-family plants in the wild**: highly toxic plants such as water hemlock look similar; see [Water hemlock vs water dropwort and wild carrot](09-toxic-herbs-and-poisonous-look-alikes.md#43-duqin-water-hemlock-vs-shuiqin-water-dropwort-and-yehuluobo-wild-carrot)
-- **Harvest and processing**: Dig at the end of autumn, remove fine roots and soil, let some of the moisture evaporate, tie into small bundles, put them on racks and dry them slowly over smoke from a fire
+- **Harvesting and processing**: Dig at the end of autumn, remove fine roots and soil, let some of the moisture evaporate, tie into small bundles, put them on racks and dry them slowly over smoke from a fire
 - **Storage**: **Easily goes oily, is attacked by insects and moulds**; seal and keep somewhere cool and dry, and check often in summer
 - **Actions**: Tonifies and activates blood, regulates menstruation and relieves pain, moistens the intestines and relieves constipation
 - **Dose**: 6-12 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: Not suitable for diarrhoea or excess damp with abdominal fullness; use with caution in heavy periods or a tendency to bleed; pregnant women use only under a doctor's guidance; using it together with anticoagulants such as warfarin may increase the risk of bleeding
+- **Cautions**: Not suitable for diarrhoea or excess damp with abdominal fullness; use with caution in heavy periods or a tendency to bleed; pregnant women use only under a doctor's guidance; using it together with anticoagulants such as warfarin may increase the risk of bleeding
 
 ### 2.2 Baishao (white peony root)
 
@@ -237,11 +237,11 @@ This group is mostly related to menstruation, bleeding and blood stasis. **Blood
   - Crude drug: Cylindrical, straight or slightly curved, **cut flat at both ends**, 5-18 cm long, 1-2.5 cm across; surface **off-white or pale brownish-red and smooth** (peeled), occasionally with remnants of brown outer bark
   - Cross-section: Firm and solid, fairly flat, off-white or slightly brownish-red, with a clear cambium ring and radiating rays; faint smell, taste slightly bitter and sour
 - **Look-alikes**: Comes from the same plant as *Chishao*; the difference is in processing: *Baishao* is **peeled and boiled**, with a smooth off-white surface; *Chishao* is neither peeled nor boiled, with a rough brown surface
-- **Harvest and processing**: In summer and autumn dig the roots of plants cultivated for 3-4 years, wash, remove the head, tail and fine roots, boil in boiling water and then peel (or peel and then boil), and sun-dry
+- **Harvesting and processing**: In summer and autumn dig the roots of plants cultivated for 3-4 years, wash, remove the head, tail and fine roots, boil in boiling water and then peel (or peel and then boil), and sun-dry
 - **Storage**: Protect from damp and insects; keep somewhere dry
 - **Actions**: Nourishes blood and regulates menstruation, preserves yin and stops sweating, softens the liver and relieves pain, calms liver yang
 - **Dose**: 6-15 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: Do not use together with *Lilu* (Veratrum); use with caution for abdominal pain from deficiency cold, or diarrhoea
+- **Cautions**: Do not use together with *Lilu* (Veratrum); use with caution for abdominal pain from deficiency cold, or diarrhoea
 
 ### 2.3 Chishao (red peony root)
 
@@ -253,11 +253,11 @@ This group is mostly related to menstruation, bleeding and blood stasis. **Blood
   - Crude drug: Cylindrical, slightly curved, 5-40 cm long; surface **brown and rough**, with lengthwise grooves, wrinkles and transverse lenticel-like bumps; in some the outer bark flakes off easily
   - Cross-section: Hard and brittle, breaks easily; cross-section **pinkish-white or pink**, with narrow bark and clear radiating lines in the wood; faintly aromatic, taste slightly bitter, sour and astringent. In experience, roots whose bark flakes off easily and whose cross-section is very powdery (*zaopi fenzha*, "rotten bark, powdery dregs") are the best
 - **Look-alikes**: The buttercup family contains many toxic plants (aconite, buttercups and others); **never dig the root of an unfamiliar buttercup-family plant**; see [Toxic herbs – aconites](09-toxic-herbs-and-poisonous-look-alikes.md#21-chuanwu-caowu-fuzi-aconite)
-- **Harvest and processing**: Dig in spring and autumn, remove the rhizome, fine roots and soil, sun-dry (not peeled, not boiled)
+- **Harvesting and processing**: Dig in spring and autumn, remove the rhizome, fine roots and soil, sun-dry (not peeled, not boiled)
 - **Storage**: Protect from damp and insects
 - **Actions**: Clears heat and cools blood, disperses stasis and relieves pain
 - **Dose**: 6-12 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: Do not use together with *Lilu* (Veratrum); not suitable for absent periods due to blood cold; pregnant women, women with heavy periods and people who bleed easily use only under a doctor's guidance
+- **Cautions**: Do not use together with *Lilu* (Veratrum); not suitable for absent periods due to blood cold; pregnant women, women with heavy periods and people who bleed easily use only under a doctor's guidance
 - 🛡️ **Protection note**: Most commercial *Chishao* is wild-collected, and wild stocks in Inner Mongolia and other producing areas have clearly declined; do not dig out whole patches, and follow local rules when digging
 
 ### 2.4 Chuanxiong (Sichuan lovage rhizome)
@@ -270,11 +270,11 @@ This group is mostly related to menstruation, bleeding and blood stasis. **Blood
   - Crude drug: **Irregular, knotty, fist-shaped lumps**, 2-7 cm across; greyish-brown or brown, rough and shrivelled, with many parallel raised rings, and a sunken roundish stem scar at the top
   - Cross-section: Firm and solid; yellowish-white or greyish-yellow, with scattered yellowish-brown oil cavities and **a wavy cambium ring**; **strong aroma**, taste bitter and pungent, slightly numbing on the tongue, with a faint sweet aftertaste
 - **Look-alikes**: *Gaoben* (Ligusticum sinense) and *Fuxiong* (*Chaxiong*) in the same genus are sometimes mixed in; their form and aroma are similar, so buying through proper channels is enough. *Chuanxiong* cannot be collected in the wild; do not dig similar carrot-family plants you see in the wild as *Chuanxiong*
-- **Harvest and processing**: Dig in summer when the node discs on the stems stand out clearly and turn slightly purple; remove soil, sun-dry then oven-dry, and then remove the fine roots
+- **Harvesting and processing**: Dig in summer when the node discs on the stems stand out clearly and turn slightly purple; remove soil, sun-dry then oven-dry, and then remove the fine roots
 - **Storage**: Contains volatile oil, so it **easily goes oily and is attacked by insects**, and the aroma fades; seal and keep somewhere cool
 - **Actions**: Activates blood and moves *qi*, dispels wind and relieves pain
 - **Dose**: 3-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: Use with caution in yin deficiency with flaring fire, heavy periods or a tendency to bleed; use with caution in pregnancy, and only if a doctor decides; for recurrent headaches or a sudden severe headache see a doctor first to find the cause — do not rely on *Chuanxiong* for pain relief alone
+- **Cautions**: Use with caution in yin deficiency with flaring fire, heavy periods or a tendency to bleed; use with caution in pregnancy, and only if a doctor decides; for recurrent headaches or a sudden severe headache see a doctor first to find the cause — do not rely on *Chuanxiong* for pain relief alone
 
 ### 2.5 Dihuang (rehmannia root)
 
@@ -287,11 +287,11 @@ This group is mostly related to menstruation, bleeding and blood stasis. **Blood
   - Raw *Dihuang*: Irregular lumps or oblong; surface **brownish-black or brownish-grey, very shrivelled**; heavy, fairly soft and tough; cross-section **brownish-black or jet black, glossy and sticky**; faint smell, taste slightly sweet
   - Prepared *Dihuang*: Irregular pieces, **glossy jet black and very sticky**, soft and pliable, taste sweet
 - **Look-alikes**: Generally not easily confused; note that "*shengdi*" means dried raw *Dihuang*, not fresh *Dihuang* — their doses differ
-- **Harvest and processing**: Dig in autumn, remove the reed head, fine roots and soil, and use fresh (fresh *Dihuang*); or bake slowly until about 80% dry (raw *Dihuang*). Steaming to make prepared *Dihuang* is a processing (*paozhi*) step; see [Traditional Chinese medicine preparations](../06-pharmaceuticals/04-herbal-preparations.md)
+- **Harvesting and processing**: Dig in autumn, remove the reed head, fine roots and soil, and use fresh (fresh *Dihuang*); or bake slowly until about 80% dry (raw *Dihuang*). Steaming to make prepared *Dihuang* is a processing (*paozhi*) step; see [Traditional Chinese medicine preparations](../06-pharmaceuticals/04-herbal-preparations.md)
 - **Storage**: Keep fresh *Dihuang* buried in sandy soil; raw and prepared *Dihuang* are high in sugar and **easily absorb moisture, mould and turn sticky** — seal and keep somewhere cool and dry
 - **Actions**: Fresh *Dihuang* clears heat and generates fluids, cools blood and stops bleeding; raw *Dihuang* clears heat and cools blood, nourishes yin and generates fluids; prepared *Dihuang* tonifies blood and nourishes yin, benefits essence and fills the marrow
 - **Dose**: Fresh *Dihuang* 12-30 g; raw *Dihuang* 10-15 g; prepared *Dihuang* 9-15 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: Not suitable for spleen deficiency with damp stagnation, abdominal fullness and loose stools; prepared *Dihuang* is rich and cloying and affects digestion, so use it with caution if you have poor appetite and abdominal bloating
+- **Cautions**: Not suitable for spleen deficiency with damp stagnation, abdominal fullness and loose stools; prepared *Dihuang* is rich and cloying and affects digestion, so use it with caution if you have poor appetite and abdominal bloating
 
 ### 2.6 Heshouwu (fleeceflower root)
 
@@ -303,11 +303,11 @@ This group is mostly related to menstruation, bleeding and blood stasis. **Blood
   - Crude drug: Lumpy or irregularly spindle-shaped, 6-15 cm long; surface **reddish-brown or reddish-tan**, shrivelled and uneven, with shallow grooves and transverse lenticel-like bumps
   - Cross-section: Heavy, firm and solid; pale yellowish-brown or pale reddish-brown, powdery; **the bark has 4-11 roundish anomalous vascular bundles arranged in a ring, forming a "cloud brocade pattern"**; faint smell, taste slightly bitter, then sweet and astringent
 - **Look-alikes**: "Human-shaped *Heshouwu*" on the market is mostly grown in moulds or carved from other root tubers — do not believe in it, and do not pay high prices for it; "white *Shouwu*" (*bai shouwu*) is the root tuber of milkweed-family plants (*Cynanchum auriculatum* and others), a different medicine; the two cannot replace each other
-- **Harvest and processing**: Dig in autumn and winter when the leaves have withered; cut off both ends, wash, cut large ones into pieces, and dry
+- **Harvesting and processing**: Dig in autumn and winter when the leaves have withered; cut off both ends, wash, cut large ones into pieces, and dry
 - **Storage**: Protect from damp and insects; keep somewhere dry
 - **Actions**: Raw *Heshouwu* removes toxins, reduces abscesses, stops malaria attacks, moistens the intestines and relieves constipation; prepared *Heshouwu* tonifies the liver and kidneys, benefits essence and blood, darkens the hair and beard, strengthens sinews and bones, resolves turbidity and lowers blood lipids
 - **Dose**: *Heshouwu* 3-6 g; prepared *Heshouwu* 6-12 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**:
+- **Cautions**:
 
 ```
 ⚠️ Heshouwu (including prepared Heshouwu) can cause liver damage:
@@ -337,11 +337,11 @@ This group is mostly related to menstruation, bleeding and blood stasis. **Blood
   - Crude drug: A short, thick rhizome with several long cylindrical roots below, 10-20 cm long, 0.3-1 cm across; surface **brownish-red or dark brownish-red**, rough, with lengthwise wrinkles; on old roots the outer bark is loose, purplish-brown and often peels off in scales. Cultivated roots are thicker and sturdier, with tightly attached bark
   - Cross-section: Hard and brittle; loose with cracks; bark brownish-red, wood greyish-yellow or purplish-brown, with yellowish-white vessel bundles arranged radially; faint smell, taste slightly bitter and astringent
 - **Look-alikes**: Other *Salvia* species such as *Salvia przewalskii* and *Salvia bowleyana* (*Nan Danshen*) have been used as local substitutes; they are all red-rooted mint-family plants of low toxicity, but they cannot replace the genuine herb. To identify it, hold on to "square stem, pinnate compound leaves, bluish-purple two-lipped flowers, red outer bark on the root"
-- **Harvest and processing**: Dig in spring and autumn, remove soil, dry
+- **Harvesting and processing**: Dig in spring and autumn, remove soil, dry
 - **Storage**: Protect from damp and mould; keep somewhere dry
 - **Actions**: Activates blood and removes stasis, unblocks the channels and relieves pain, clears the heart and relieves restlessness, cools blood and reduces abscesses
 - **Dose**: 10-15 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: Do not use together with *Lilu* (Veratrum); use with caution in pregnancy, heavy periods or a tendency to bleed; **using it together with anticoagulant or antiplatelet drugs such as warfarin or aspirin may increase the risk of bleeding**; people with coronary heart disease or chest pain must not use *Danshen* in place of hospital treatment — if chest pain starts, call 120 at once
+- **Cautions**: Do not use together with *Lilu* (Veratrum); use with caution in pregnancy, heavy periods or a tendency to bleed; **using it together with anticoagulant or antiplatelet drugs such as warfarin or aspirin may increase the risk of bleeding**; people with coronary heart disease or chest pain must not use *Danshen* in place of hospital treatment — if chest pain starts, call 120 at once
 
 ### 2.8 Sanqi (notoginseng)
 
@@ -374,11 +374,11 @@ Jianghuang (turmeric) and others — it is best to buy Sanqi powder from a prope
 
 For a detailed comparison see [Gynura (Tusanqi) vs Sanqi](09-toxic-herbs-and-poisonous-look-alikes.md#45-jusanqi-tusanqi-gynura-vs-sanqi-notoginseng).
 
-- **Harvest and processing**: Grown for 3 years or more and dug in autumn before flowering; wash, separate main root, branch roots and rhizome, dry
+- **Harvesting and processing**: Grown for 3 years or more and dug in autumn before flowering; wash, separate main root, branch roots and rhizome, dry
 - **Storage**: Hard, and keeps fairly well; protect from damp and insects. Keep *Sanqi* powder sealed; do not leave it open for long
 - **Actions**: Disperses stasis and stops bleeding, reduces swelling and relieves pain
 - **Dose**: 3-9 g; ground to powder and swallowed, 1-3 g a time; an appropriate amount for external use (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: **Use with caution in pregnancy**; using it with anticoagulant or antiplatelet drugs such as warfarin may affect clotting; major bleeding (vomiting blood, blood in the stool, heavy bleeding from an injury) needs a doctor at once — do not rely on *Sanqi* alone to stop it
+- **Cautions**: **Use with caution in pregnancy**; using it with anticoagulant or antiplatelet drugs such as warfarin may affect clotting; major bleeding (vomiting blood, blood in the stool, heavy bleeding from an injury) needs a doctor at once — do not rely on *Sanqi* alone to stop it
 - 🛡️ **Protection note**: Wild species of the genus *Panax* are on the 2021 "List of Wild Plants under Key State Protection" (the wording of the list prevails for the class); all *Sanqi* on sale is cultivated
 
 ---
@@ -397,11 +397,11 @@ All the herbs in this group are very bitter and cold in nature. The common warni
   - Crude drug (*Weilian*): **Many branches gathered in a cluster, often curved, shaped like a chicken's foot**; each branch 3-6 cm long, greyish-yellow or yellowish-brown, with knotty bumps and remains of fine roots; some internodes are smooth like a stalk, traditionally called "bridges" (*guoqiao*)
   - Cross-section: Hard; cross-section uneven, **bark orange-red or dark brown, wood bright yellow or orange-yellow**, radiating; **taste extremely bitter**, lasting a long time
 - **Look-alikes**: The same family has many toxic plants; in the wild do not dig a plant just because "the root is yellow". In some places plants with yellow, bitter rhizomes such as *Thalictrum* (meadow-rue) and *Mahonia* are called "*tu huanglian*" ("local *Huanglian*"); they are not *Huanglian*
-- **Harvest and processing**: Dug in autumn after 4-6 years of cultivation; remove fine roots and soil, dry, and knock off the remaining fine roots
+- **Harvesting and processing**: Dug in autumn after 4-6 years of cultivation; remove fine roots and soil, dry, and knock off the remaining fine roots
 - **Storage**: Keeps fairly well; protect from damp
 - **Actions**: Clears heat and dries damp, purges fire and removes toxins
 - **Dose**: 2-5 g; an appropriate amount for external use (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: Very bitter and very cold — must not be used in a cold, weak spleen and stomach; do not take it long term; **newborns and children with glucose-6-phosphate dehydrogenase deficiency (favism) must not be given** *Huanglian* or medicines containing *Huanglian* or berberine (haemolysis has been reported); pregnant women use only under a doctor's guidance
+- **Cautions**: Very bitter and very cold — must not be used in a cold, weak spleen and stomach; do not take it long term; **newborns and children with glucose-6-phosphate dehydrogenase deficiency (favism) must not be given** *Huanglian* or medicines containing *Huanglian* or berberine (haemolysis has been reported); pregnant women use only under a doctor's guidance
 - 🛡️ **Protection note**: *Huanglian* is a class II species on the "List of Wild Medicinal Species under Key State Protection", and all wild species of the genus *Coptis* are on the 2021 "List of Wild Plants under Key State Protection". **Do not dig wild *Huanglian***; what is on sale is cultivated
 
 ### 3.2 Huangqin (Baikal skullcap root)
@@ -414,11 +414,11 @@ All the herbs in this group are very bitter and cold in nature. The common warni
   - Crude drug: Conical, twisted, 8-25 cm long, 1-3 cm across; brownish-yellow or deep yellow, the upper part rough with twisted lengthwise wrinkles, the lower part with straight lines; cultivated roots are thinner and longer, often branched, with tightly attached bark
   - Cross-section: Hard and brittle, breaks easily; **cross-section yellow, reddish-brown in the centre**; the centre of old roots is often decayed or hollow and dark brown or brownish-black (traditionally called "*kuqin*", "withered *Qin*"); faint smell, taste bitter
 - **Look-alikes**: Other *Scutellaria* species, such as *S. amoena*, *S. viscidula* and *S. rehderiana*, are used as local substitutes where they grow; they are of low toxicity but are not the genuine herb. In experience, *Huangqin* **easily turns green in cold water**, which shows its active constituents are breaking down; do not soak the medicine in cold water for long
-- **Harvest and processing**: Dig in spring and autumn (after 2-3 years of cultivation), remove fine roots and soil, sun-dry, knock off the coarse bark, then sun-dry completely. Keep it out of rain and damp
+- **Harvesting and processing**: Dig in spring and autumn (after 2-3 years of cultivation), remove fine roots and soil, sun-dry, knock off the coarse bark, then sun-dry completely. Keep it out of rain and damp
 - **Storage**: Protect from damp; when damp it easily turns green and moulds
 - **Actions**: Clears heat and dries damp, purges fire and removes toxins, stops bleeding, calms the foetus
 - **Dose**: 3-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: Not suitable for a cold, weak spleen and stomach with poor appetite and loose stools; "calming the foetus" must be judged by a doctor — bleeding or abdominal pain in pregnancy needs a doctor first; liver damage and allergy have occasionally been reported — stop if you feel unwell while using it
+- **Cautions**: Not suitable for a cold, weak spleen and stomach with poor appetite and loose stools; "calming the foetus" must be judged by a doctor — bleeding or abdominal pain in pregnancy needs a doctor first; liver damage and allergy have occasionally been reported — stop if you feel unwell while using it
 - 🛡️ **Protection note**: *Huangqin* is a class III species on the "List of Wild Medicinal Species under Key State Protection"; digging wild plants requires a permit as the rules state; use cultivated plants first. For growing it see [Medicinal plants](../04-farming-and-animal-husbandry/04-medicinal-plants.md)
 
 ### 3.3 Banlangen (isatis root)
@@ -431,11 +431,11 @@ All the herbs in this group are very bitter and cold in nature. The common warni
   - Crude drug: Cylindrical, slightly twisted, 10-20 cm long, 0.5-1 cm across; pale greyish-yellow or pale brownish-yellow, with lengthwise wrinkles and transverse lenticel-like bumps; **the root head is slightly swollen, with dark green or dark brown leaf-stalk remains arranged in rings and dense wart-like bumps**
   - Cross-section: Somewhat soft; bark yellowish-white, wood yellow; faint smell, taste slightly sweet then bitter and astringent
 - **Look-alikes**: "*Nan Banlangen*" (southern *Banlangen*) is the rhizome and root of *Baphicacanthus cusia* (Acanthaceae), a separate Pharmacopoeia entry; the two cannot simply be swapped. The cabbage family generally has no highly toxic species, but still confirm only after seeing the arrow-shaped clasping leaves and the yellow flowers
-- **Harvest and processing**: Dig in autumn, remove soil, sun-dry
+- **Harvesting and processing**: Dig in autumn, remove soil, sun-dry
 - **Storage**: Easily attacked by insects and damp; keep somewhere dry
 - **Actions**: Clears heat and removes toxins, cools blood and soothes the throat
 - **Dose**: 9-15 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: Use with caution in a cold, weak spleen and stomach; **do not drink it long term as a "cold-prevention" drink**; allergic reactions occasionally occur. *Banlangen* cannot replace vaccines or antiviral treatment; people at high risk from influenza (older people, pregnant women, people with chronic disease) who develop a fever should see a doctor promptly
+- **Cautions**: Use with caution in a cold, weak spleen and stomach; **do not drink it long term as a "cold-prevention" drink**; allergic reactions occasionally occur. *Banlangen* cannot replace vaccines or antiviral treatment; people at high risk from influenza (older people, pregnant women, people with chronic disease) who develop a fever should see a doctor promptly
 
 ---
 
@@ -453,11 +453,11 @@ This group is used for colds with fever, headache and body aches, rheumatic pain
   - Crude drug: Rectangular thick slices cut lengthwise, or small cubes; outer bark pale brown to brown, rough, with lengthwise wrinkles
   - Cross-section: Cut surface yellowish-white to pale yellowish-brown, some with concentric rings; **tough and strongly fibrous**; faint smell, taste slightly sweet
 - **Look-alikes**: The kudzu plant is easy to recognise, but do not confuse it with other toxic pea-family vines — for example rosary pea, whose seeds are deadly (even-pinnate compound leaves, seeds red and black; see [Rosary pea](09-toxic-herbs-and-poisonous-look-alikes.md#414-xiangsizi-rosary-pea)); hold on to "three leaflets + yellow hairs all over + purplish-red flowers"
-- **Harvest and processing**: Dig in autumn and winter, cut into thick slices or small pieces while fresh, and dry (large roots are extremely hard to cut once dry)
+- **Harvesting and processing**: Dig in autumn and winter, cut into thick slices or small pieces while fresh, and dry (large roots are extremely hard to cut once dry)
 - **Storage**: Contains starch, so it is **easily attacked by insects and mould**; seal once fully dry
 - **Actions**: Releases the muscles and brings down fever, generates fluids and quenches thirst, vents rashes, raises yang and stops diarrhoea, unblocks the channels and collaterals, relieves alcohol intoxication
 - **Dose**: 10-15 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: Use with caution in stomach cold or spleen-deficiency diarrhoea; people taking blood-pressure or diabetes medicines should ask a doctor before use. Eating kudzu starch as food in normal everyday amounts is safe
+- **Cautions**: Use with caution in stomach cold or spleen-deficiency diarrhoea; people taking blood-pressure or diabetes medicines should ask a doctor before use. Eating kudzu starch as food in normal everyday amounts is safe
 
 ### 4.2 Chaihu (bupleurum root)
 
@@ -469,11 +469,11 @@ This group is used for colds with fever, headache and body aches, rheumatic pain
   - *Bei Chaihu*: Root cylindrical or long-conical, 6-15 cm long, the root head swollen, with 3-15 stem bases or short fibrous leaf bases at the top; surface blackish-brown or light brown; **hard and tough, fibrous in cross-section**; faintly aromatic, taste slightly bitter
   - *Nan Chaihu*: Root thinner, conical, with many fine hair-like withered leaf fibres at the top; surface reddish-brown or blackish-brown, with tight rings near the root head; somewhat soft, breaks easily, cross-section fairly flat; **has a "rancid oil" smell**
 - **Look-alikes**: The rhizome of ***Bupleurum longiradiatum*** (*Dayechaihu*, "large-leaf *Chaihu*") **is toxic**, and the Pharmacopoeia expressly forbids using it as *Chaihu* — its rhizome is **densely ringed with nodes**, and its leaves are broader, clasping the stem at the base. Other species of the same genus (such as *B. marginatum* and *B. bicaule*) are mixed in in some places. The biggest danger is still digging other toxic carrot-family plants by mistake — *Chaihu*'s "grass-like, untoothed simple leaves + small yellow flowers" is the key
-- **Harvest and processing**: Dig in spring and autumn, remove stems, leaves and soil, dry
+- **Harvesting and processing**: Dig in spring and autumn, remove stems, leaves and soil, dry
 - **Storage**: Protect from damp and insects
 - **Actions**: Disperses and brings down fever, soothes the liver and relieves depression, raises yang *qi*
 - **Dose**: 3-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: Must not be used, or use with caution, in yin deficiency with yang hyperactivity, internal stirring of liver wind, yin deficiency with flaring fire, or counterflow (rising) *qi*; do not take it long term or in large amounts; allergic reactions have been reported to *Chaihu* injection and other preparations — never use them on your own
+- **Cautions**: Must not be used, or use with caution, in yin deficiency with yang hyperactivity, internal stirring of liver wind, yin deficiency with flaring fire, or counterflow (rising) *qi*; do not take it long term or in large amounts; allergic reactions have been reported to *Chaihu* injection and other preparations — never use them on your own
 
 ### 4.3 Fangfeng (saposhnikovia root)
 
@@ -485,11 +485,11 @@ This group is used for colds with fever, headache and body aches, rheumatic pain
   - Crude drug: Long-conical or long-cylindrical, 15-30 cm long; greyish-brown or brown, rough, with lengthwise wrinkles and many transverse lenticel-like bumps; **the root head has clear, dense rings, some with remains of brown hair-like leaf bases** (traditionally called an "earthworm head")
   - Cross-section: **Light, loose, breaks easily**; cross-section uneven, bark brownish-yellow to brown with cracks (a "chrysanthemum heart"), wood yellow; distinctive smell, taste slightly sweet
 - **Look-alikes**: In the past roots of many carrot-family plants, such as *Shui Fangfeng*, *Chuan Fangfeng* and *Yun Fangfeng*, have been mixed in; even more important is not to dig water hemlock and similar plants by mistake in the wild. After flowering and fruiting the root becomes woody and hollow and is no good as medicine
-- **Harvest and processing**: In spring and autumn dig the roots of plants that **have not yet sent up a flowering stem**; remove fine roots and soil, sun-dry
+- **Harvesting and processing**: In spring and autumn dig the roots of plants that **have not yet sent up a flowering stem**; remove fine roots and soil, sun-dry
 - **Storage**: Easily attacked by insects; keep somewhere dry
 - **Actions**: Dispels wind and releases the exterior, overcomes damp and relieves pain, stops spasms
 - **Dose**: 5-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: Not suitable for yin and blood deficiency, or stirring of wind in febrile disease; convulsions such as from tetanus need a doctor at once — do not rely on *Fangfeng* to "stop spasms"
+- **Cautions**: Not suitable for yin and blood deficiency, or stirring of wind in febrile disease; convulsions such as from tetanus need a doctor at once — do not rely on *Fangfeng* to "stop spasms"
 - 🛡️ **Protection note**: *Fangfeng* is a class III species on the "List of Wild Medicinal Species under Key State Protection", and its wild stocks have clearly declined through overharvesting; digging wild plants requires a permit as the rules state; use cultivated plants first
 
 ### 4.4 Qianghuo (notopterygium rhizome)
@@ -502,11 +502,11 @@ This group is used for colds with fever, headache and body aches, rheumatic pain
   - Crude drug (*Qianghuo*): A cylindrical, slightly curved rhizome, brown to blackish-brown, yellow where the outer bark has come off; **pieces with short internodes, tightly raised into rings like a silkworm, are traditionally called "silkworm *Qiang*"** (*canqiang*); pieces with long internodes, like bamboo joints, are called "bamboo-joint *Qiang*" (*zhujieqiang*); the nodes carry many dot-like or wart-like root scars
   - Cross-section: **Light and brittle**; the cross-section has many cracks, bark yellowish-brown to dark brown, **oily, with brown oil dots**, wood yellowish-white, pith yellow to yellowish-brown; **aromatic**, taste slightly bitter and pungent
 - **Look-alikes**: In producing areas rhizomes of other carrot-family plants are mixed in; there are so many kinds of high-mountain carrot-family plants that a layperson can hardly tell them apart in the field — **do not dig it yourself**
-- **Harvest and processing**: Dig in spring and autumn, remove fine roots and soil, sun-dry
+- **Harvesting and processing**: Dig in spring and autumn, remove fine roots and soil, sun-dry
 - **Storage**: Contains volatile oil, so it **easily goes oily and is attacked by insects**, and the aroma fades; seal and keep somewhere cool
 - **Actions**: Releases the exterior and dispels cold, dispels wind and damp, relieves pain
 - **Dose**: 3-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: Use with caution in yin and blood deficiency, or headache from yin deficiency; large doses easily cause vomiting — people with a weak spleen and stomach should not use much
+- **Cautions**: Use with caution in yin and blood deficiency, or headache from yin deficiency; large doses easily cause vomiting — people with a weak spleen and stomach should not use much
 - 🛡️ **Protection note**: *Qianghuo* is a class III species on the "List of Wild Medicinal Species under Key State Protection", and wild *Notopterygium incisum* and *N. franchetii* are also on the 2021 "List of Wild Plants under Key State Protection" (the wording of the list prevails). Stocks recover very slowly; **do not dig wild *Qianghuo***
 
 ### 4.5 Duhuo (pubescent angelica root)
@@ -519,11 +519,11 @@ This group is used for colds with fever, headache and body aches, rheumatic pain
   - Crude drug: Root roughly cylindrical, with 2-3 or more branches below, 10-30 cm long; **the root head is swollen, conical, with many cross-wrinkles**; surface greyish-brown or brown, with lengthwise wrinkles and transverse lenticel-like bumps
   - Cross-section: Fairly hard, **turns soft when damp**; bark greyish-white **with many scattered brown oil cavities**, wood greyish-yellow to yellowish-brown, cambium ring brown; **a distinctive aroma, taste bitter and pungent, slightly numbing on the tongue**
 - **Look-alikes**: Many plants are called "*Duhuo*" in different places (such as *Heracleum* species like *Niuwei Duhuo*, and *Angelica* species); in some places *Jiuyan Duhuo* (Aralia, ivy family) is used as *Duhuo*; similar-looking toxic carrot-family plants must also be guarded against
-- **Harvest and processing**: Dig in early spring when the shoots have just come up, or in late autumn when stems and leaves have withered; remove fine roots and soil, oven-dry until half-dry, pile up for 2-3 days until soft, then oven-dry completely
+- **Harvesting and processing**: Dig in early spring when the shoots have just come up, or in late autumn when stems and leaves have withered; remove fine roots and soil, oven-dry until half-dry, pile up for 2-3 days until soft, then oven-dry completely
 - **Storage**: **Easily goes oily, is attacked by insects and turns soft in damp**; seal and keep somewhere cool and dry
 - **Actions**: Dispels wind and damp, unblocks painful obstruction and relieves pain
 - **Dose**: 3-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: Use with caution in yin deficiency with dry blood; it contains furanocoumarins, so avoid strong sunlight while using it (photosensitivity reactions are possible); red, swollen, hot, painful joints, fever, or long-lasting joint pain need a doctor first to find the cause
+- **Cautions**: Use with caution in yin deficiency with dry blood; it contains furanocoumarins, so avoid strong sunlight while using it (photosensitivity reactions are possible); red, swollen, hot, painful joints, fever, or long-lasting joint pain need a doctor first to find the cause
 
 ### 4.6 Baizhi (Dahurian angelica root)
 
@@ -535,11 +535,11 @@ This group is used for colds with fever, headache and body aches, rheumatic pain
   - Crude drug: Long-conical, 10-25 cm long, 1.5-2.5 cm across; greyish-brown or yellowish-brown, with many **transverse lenticel-like bumps, in some arranged in four lengthwise rows** (traditionally called "*geda ding*", "knobs"); root head bluntly four-angled or nearly round
   - Cross-section: Firm and solid; cross-section **white or greyish-white, powdery**, cambium ring brown and **nearly square or nearly round**, bark with many scattered brown oil dots; **aromatic**, taste pungent and slightly bitter
 - **Look-alikes**: Wild *Baizhi* looks close to *Duhuo*, other *Angelica* plants and toxic carrot-family plants such as water hemlock — **do not dig it in the wild**; use cultivated plants
-- **Harvest and processing**: Dig between summer and autumn when the leaves turn yellow; remove fine roots and soil, sun-dry or dry at low temperature
+- **Harvesting and processing**: Dig between summer and autumn when the leaves turn yellow; remove fine roots and soil, sun-dry or dry at low temperature
 - **Storage**: Very powdery, so it is **very easily attacked by insects and mould**; traditionally one of the hardest medicines to store — seal once fully dry and check often
 - **Actions**: Releases the exterior and dispels cold, dispels wind and relieves pain, opens the nose, dries damp and stops vaginal discharge, reduces swelling and expels pus
 - **Dose**: 3-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: Must not be used in yin deficiency with blood heat; **it contains photosensitising furanocoumarins — after taking it or applying it, avoid strong sunlight** to prevent photosensitive dermatitis; recurrent headaches or sinusitis need a doctor to find the cause
+- **Cautions**: Must not be used in yin deficiency with blood heat; **it contains photosensitising furanocoumarins — after taking it or applying it, avoid strong sunlight** to prevent photosensitive dermatitis; recurrent headaches or sinusitis need a doctor to find the cause
 
 ### 4.7 Shengma (cimicifuga rhizome)
 
@@ -551,11 +551,11 @@ This group is used for colds with fever, headache and body aches, rheumatic pain
   - Crude drug: **Irregular elongated lumps, much branched and knotty**, 10-20 cm long; blackish-brown or brown, rough and uneven, with hard remains of fine roots; **the upper side has several round, hole-like stem-base scars, with net-like grooves on the inner walls of the holes**
   - Cross-section: **Light but hard**, does not break easily; cross-section uneven, with cracks, fibrous, **yellowish-green or pale yellowish-white**; faint smell, taste slightly bitter and astringent
 - **Look-alikes**: In some places rhizomes of daisy-family, saxifrage-family and other plants are used as "*Shengma*"; the buttercup family has many toxic plants — in the wild, **do not take the rhizome of an unfamiliar buttercup-family plant for *Shengma***
-- **Harvest and processing**: Dig in autumn, remove soil, sun-dry until the fine roots are dry, singe off or remove the fine roots, then sun-dry completely
+- **Harvesting and processing**: Dig in autumn, remove soil, sun-dry until the fine roots are dry, singe off or remove the fine roots, then sun-dry completely
 - **Storage**: Protect from damp and insects
 - **Actions**: Releases the exterior and vents rashes, clears heat and removes toxins, raises yang *qi*
 - **Dose**: 3-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: Must not be used once a measles rash has fully come out, or in yin deficiency with flaring fire or liver-yang hyperactivity; **overdose can cause adverse effects such as headache, nausea and vomiting, and dizziness** — do not exceed the dose; pregnant women use only under a doctor's guidance
+- **Cautions**: Must not be used once a measles rash has fully come out, or in yin deficiency with flaring fire or liver-yang hyperactivity; **overdose can cause adverse effects such as headache, nausea and vomiting, and dizziness** — do not exceed the dose; pregnant women use only under a doctor's guidance
 
 ---
 
@@ -571,11 +571,11 @@ This group is used for colds with fever, headache and body aches, rheumatic pain
   - *Mao Cangzhu*: **Irregular, bead-like or knotty cylinders**, 3-10 cm long; greyish-brown, with wrinkles, transverse curved lines and remains of fine roots; firm and solid, cross-section yellowish-white or greyish-white, **with many scattered orange-yellow or brownish-red oil cavities (traditionally called "cinnabar dots")**; when the cross-section is exposed for a while, fine white needle-like crystals may form (traditionally called "frosting", *qishuang*); **strong, distinctive aroma**, taste slightly sweet, pungent and bitter
   - *Bei Cangzhu*: Lumpy or knotty cylinders, blackish-brown; looser in texture, oil cavities in the cross-section yellowish-brown; lighter aroma, taste pungent and bitter
 - **Look-alikes**: In the same genus as *Baizhu*; for the difference see [1.6](#16-baizhu-white-atractylodes-rhizome). In the wild it looks like other spiny daisy-family plants (thistles) — check the aroma of the rhizome and the "cinnabar dots"
-- **Harvest and processing**: Dig in spring and autumn, remove soil, sun-dry, knock off the fine roots
+- **Harvesting and processing**: Dig in spring and autumn, remove soil, sun-dry, knock off the fine roots
 - **Storage**: Contains volatile oil, so it **easily goes oily** and the aroma fades; seal and keep somewhere cool
 - **Actions**: Dries damp and strengthens the spleen, dispels wind and cold, brightens the eyes
 - **Dose**: 3-9 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: Warm and drying in nature; must not be used in yin deficiency with internal heat, heavy sweating, or a dry mouth and tongue
+- **Cautions**: Warm and drying in nature; must not be used in yin deficiency with internal heat, heavy sweating, or a dry mouth and tongue
 
 ### 5.2 Tianma (gastrodia tuber)
 
@@ -587,11 +587,11 @@ This group is used for colds with fever, headache and body aches, rheumatic pain
   - Crude drug: Elliptic or elongated, slightly flattened, shrivelled and slightly curved, 3-15 cm long; yellowish-white to yellowish-brown, with **many rings of cross-lines formed by dormant buds** (traditionally called "dotted rings"), sometimes with brownish fungal strands (rhizomorphs) visible; **at one end is a reddish-brown to dark brown parrot-beak-shaped bud (winter *Tianma*) or the remains of a stem base (spring *Tianma*), and at the other end a round navel-like scar** (traditionally "parrot beak and navel")
   - Cross-section: Hard, does not break easily; cross-section fairly flat, yellowish-white to pale brown, **horny and translucent**; faint smell, taste sweet. Winter *Tianma* is plump and firm, and of better quality
 - **Look-alikes**: *Tianma* is fairly expensive, and the market has seen fakes processed from **four-o'clock root** (*Mirabilis jalapa*), dahlia tubers, edible canna (*Canna edulis*), potato, *Cacalia* tubers and others. The fakes lack the set of features "many rings of dots + parrot beak + navel"; **four-o'clock root is toxic** and taken by mistake can cause abdominal pain and diarrhoea. Do not buy *Tianma* from roadside stalls or sources you do not know
-- **Harvest and processing**: Dig from the start of winter (*Lidong*) to before *Qingming* the following year; wash at once, **steam right through**, then spread out and dry at low temperature (if not steamed through it easily moulds or goes hollow)
+- **Harvesting and processing**: Dig from the start of winter (*Lidong*) to before *Qingming* the following year; wash at once, **steam right through**, then spread out and dry at low temperature (if not steamed through it easily moulds or goes hollow)
 - **Storage**: Protect from damp and insects; keep somewhere dry
 - **Actions**: Calms wind and stops spasms, calms liver yang, dispels wind and unblocks the collaterals
 - **Dose**: 3-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: Do not eat it long term in large amounts as a health food; **dizziness, headache, numbness of the limbs and convulsions can be signs of serious emergencies such as high blood pressure, stroke or epilepsy** — see a doctor first, do not rely on *Tianma* alone; for a sudden drooping mouth, weakness on one side of the body or slurred speech, call 120 at once
+- **Cautions**: Do not eat it long term in large amounts as a health food; **dizziness, headache, numbness of the limbs and convulsions can be signs of serious emergencies such as high blood pressure, stroke or epilepsy** — see a doctor first, do not rely on *Tianma* alone; for a sudden drooping mouth, weakness on one side of the body or slurred speech, call 120 at once
 - 🛡️ **Protection note**: Wild *Tianma* is on the 2021 "List of Wild Plants under Key State Protection" (class II; the wording of the list prevails). **Do not dig wild *Tianma***; all that is on sale is cultivated
 
 ### 5.3 Jiegeng (platycodon root)
@@ -604,11 +604,11 @@ This group is used for colds with fever, headache and body aches, rheumatic pain
   - Crude drug: Cylindrical or slightly spindle-shaped, tapering below, 7-20 cm long; **peeled roots are pale yellowish-white**, unpeeled ones yellowish-brown to greyish-brown; with lengthwise twisted grooves and transverse lenticel-like marks, cross-lines on the upper part, and a half-moon stem scar (reed head) at the top
   - Cross-section: **Brittle**; cross-section uneven, **cambium ring brown, bark yellowish-white with cracks, wood pale yellow** (traditionally called "golden well, jade railing", *jinjing yulan*); faint smell, **taste slightly sweet, then bitter**
 - **Look-alikes**: Roots of *Shashen*, *Dangshen* and others in the same family are similar, and all have milky sap; in the past *Jiegeng* has been used to fake ginseng (*Jiegeng* has no reed bowls or pearl dots, and no brownish-yellow resin-canal dots in its cross-section). *Jiegeng* itself is not highly toxic, but many toxic plants grow in the same habitats — identify the flower before digging the root
-- **Harvest and processing**: Dig in spring and autumn, wash, remove fine roots, peel while fresh or leave unpeeled, and dry
+- **Harvesting and processing**: Dig in spring and autumn, wash, remove fine roots, peel while fresh or leave unpeeled, and dry
 - **Storage**: Easily attacked by insects and damp; keep somewhere dry
 - **Actions**: Opens the lungs, soothes the throat, expels phlegm, expels pus
 - **Dose**: 3-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: **Too large a dose can cause nausea and vomiting**; not suitable for long-standing cough from yin deficiency or coughing up blood; use with caution with a stomach ulcer. A cough lasting more than 3 weeks, coughing up blood, chest pain or shortness of breath needs a doctor
+- **Cautions**: **Too large a dose can cause nausea and vomiting**; not suitable for long-standing cough from yin deficiency or coughing up blood; use with caution with a stomach ulcer. A cough lasting more than 3 weeks, coughing up blood, chest pain or shortness of breath needs a doctor
 
 ### 5.4 Nanshashen (adenophora root)
 
@@ -620,11 +620,11 @@ This group is used for colds with fever, headache and body aches, rheumatic pain
   - Crude drug: Conical or cylindrical, slightly curved, 7-27 cm long, 0.8-3 cm across; yellowish-white or pale brownish-yellow, often with remnants of coarse bark in hollows, **deep, broken, ring-like cross-lines on the upper part**, lengthwise lines and grooves on the lower part; 1-2 rhizomes at the top
   - Cross-section: **Light, loose and spongy, breaks easily**; cross-section uneven, yellowish-white, **with many cracks**; faint smell, taste slightly sweet
 - **Look-alikes**: Its name is close to *Beishashen*, but **Nanshashen belongs to the bellflower family and *Beishashen* to the carrot family** — the two cannot be swapped; the genus *Adenophora* has many species, and usage varies from place to place
-- **Harvest and processing**: Dig in spring and autumn, remove fine roots, wash, scrape off the coarse bark while fresh, wash again and dry
+- **Harvesting and processing**: Dig in spring and autumn, remove fine roots, wash, scrape off the coarse bark while fresh, wash again and dry
 - **Storage**: Loose in texture, so it is **easily attacked by insects and damp**; keep somewhere dry
 - **Actions**: Nourishes yin and clears the lungs, benefits the stomach and generates fluids, resolves phlegm, tonifies *qi*
 - **Dose**: 9-15 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: Do not use together with *Lilu* (Veratrum); not suitable for wind-cold cough, copious thin phlegm, or a cold, weak spleen and stomach
+- **Cautions**: Do not use together with *Lilu* (Veratrum); not suitable for wind-cold cough, copious thin phlegm, or a cold, weak spleen and stomach
 
 ### 5.5 Beishashen (glehnia root)
 
@@ -636,11 +636,11 @@ This group is used for colds with fever, headache and body aches, rheumatic pain
   - Crude drug: **Long, thin and cylindrical**, occasionally branched, 15-45 cm long, 0.4-1.2 cm across; pale yellowish-white, slightly rough (peeled), the whole length with fine lengthwise wrinkles and grooves and brownish-yellow dot-like fine-root scars; slightly thinner at the top, a little thicker in the middle, tapering below
   - Cross-section: **Brittle, breaks easily**; bark light yellowish-white, wood yellow; distinctive smell, taste slightly sweet
 - **Look-alikes**: Different family from *Nanshashen* (see [5.4](#54-nanshashen-adenophora-root)); in the wild it occurs only on sandy seashores — do not collect "*Beishashen*" found inland
-- **Harvest and processing**: Dig in summer and autumn, remove fine roots, wash, let dry a little, scald in boiling water, then peel and dry; or wash and dry directly
+- **Harvesting and processing**: Dig in summer and autumn, remove fine roots, wash, let dry a little, scald in boiling water, then peel and dry; or wash and dry directly
 - **Storage**: Easily attacked by insects and damp; keep somewhere dry
 - **Actions**: Nourishes yin and clears the lungs, benefits the stomach and generates fluids
 - **Dose**: 5-12 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: Do not use together with *Lilu* (Veratrum); not suitable for wind-cold cough, a cold, weak spleen and stomach, or heavy phlegm-damp
+- **Cautions**: Do not use together with *Lilu* (Veratrum); not suitable for wind-cold cough, a cold, weak spleen and stomach, or heavy phlegm-damp
 - 🛡️ **Protection note**: Wild *Shanhucai* (glehnia) is a wild plant under key state protection (the wording of the 2021 list prevails), and destruction of beach habitat has left very few wild populations. **Do not dig wild *Shanhucai***; what is on sale is cultivated
 
 ---

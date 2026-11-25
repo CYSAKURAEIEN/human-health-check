@@ -385,7 +385,7 @@ Heating value of fuels (heat released by burning 1 kg completely, approximate):
   petrol and diesel about 45 MJ; biogas (mainly methane) about 20 MJ/m³
 ```
 
-For practical insulation see [Long-term housing – insulation](../07-everyday-living-skills/05-long-term-shelter.md#insulation).
+For practical insulation see [Long-term Shelter – insulation](../07-everyday-living-skills/05-long-term-shelter.md#insulation).
 
 ### 5.5 Thermal expansion
 

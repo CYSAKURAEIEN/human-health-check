@@ -219,7 +219,7 @@ Wind vane: a rod that turns freely, with one big end and one small end (the big 
 Barometer: see 3.2
 ```
 
-For rainfall and calculating rainwater collection see [Water Supply Engineering – Collecting rainwater](../07-everyday-living-skills/10-water-supply.md#collecting-rainwater).
+For rainfall and calculating rainwater collection see [Water Sources and Water Supply – Collecting rainwater](../07-everyday-living-skills/10-water-supply.md#collecting-rainwater).
 
 ### 6.2 Weather diary
 

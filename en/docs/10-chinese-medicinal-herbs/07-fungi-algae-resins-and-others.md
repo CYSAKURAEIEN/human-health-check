@@ -85,7 +85,7 @@ Most medicinal "fungi" are not the mushrooms ordinary people imagine: *Fuling*, 
 - **Fuling (Yunling, Fulingge, Baifuling)**: Chinese 茯苓; *Poria cocos* (Schw.) Wolf. The part wrapped round a pine root is called *fushen*, the pale red part near the skin "red poria" (*chifuling*), and the skin "poria skin" (*fulingpi*)
 - **Source**: the dried sclerotium of the fungus *Poria cocos* (Schw.) Wolf (Polyporaceae)
 - **Distribution and habitat**: parasitic on the roots of pines such as Masson pine and Japanese red pine, buried in the soil; produced mainly in Yunnan (*yunling*, "Yunnan poria"), Anhui, Hubei and elsewhere. Today almost all of it is cultivated on pine logs
-- **Identification**:
+- **Key identification features**:
   - Crude drug (whole poria, *fulingge*): roughly spherical, oval or irregular lumps of varying size; **skin thin and rough, brown to blackish-brown, with clear shrivelled wrinkles**; heavy, firm and solid
   - Broken surface: **granular**, outer layer pale brown, inside white, occasionally pale red; some have a pine root embedded in the middle
   - Poria cubes and slices: white or pale red cubes or thin slices, fine in texture
@@ -102,7 +102,7 @@ Most medicinal "fungi" are not the mushrooms ordinary people imagine: *Fuling*, 
 - **Zhuling (Yezhufen, Zhushiling)**: Chinese 猪苓; *Polyporus umbellatus* (Pers.) Fries
 - **Source**: the dried sclerotium of the fungus *Polyporus umbellatus* (Pers.) Fries (Polyporaceae)
 - **Distribution and habitat**: grows in the soil beside the roots of broadleaf trees such as birch, oak and maple; produced mainly in Shaanxi, Shanxi, Hebei, Yunnan, Sichuan and elsewhere. Wild resources are shrinking year by year; it is now also cultivated
-- **Identification**:
+- **Key identification features**:
   - Crude drug: strip-shaped, roughly round or flat lumps, some branched, 5-25 cm long and 2-6 cm across; **surface black, greyish-black or brownish-black, shrivelled or with wart-like bumps** (it looks like pig dung, hence the name, "pig sclerotium")
   - Texture: **light but hard**, floats on water; broken surface **off-white or yellowish-white**, slightly granular
   - Smell: faint smell, bland taste
@@ -118,7 +118,7 @@ Most medicinal "fungi" are not the mushrooms ordinary people imagine: *Fuling*, 
 - **Lingzhi (Chizhi, Zizhi, Lingzhicao)**: Chinese 灵芝; *Ganoderma lucidum* (Leyss. ex Fr.) Karst., *G. sinense* Zhao, Xu et Zhang
 - **Source**: the dried fruiting body of the fungus *Ganoderma lucidum* (Leyss. ex Fr.) Karst. (red reishi, *chizhi*) or *G. sinense* Zhao, Xu et Zhang (purple reishi, *zizhi*) (Polyporaceae)
 - **Distribution and habitat**: wild plants grow on rotting wood and stumps of broadleaf trees (purple reishi mostly on conifers); **almost everything on sale is cultivated on logs or substitute substrates**, and it is grown everywhere
-- **Identification**:
+- **Key identification features**:
   - Red reishi: shaped like an umbrella; **cap kidney-shaped, semicircular or nearly round**, 10-18 cm across and 1-2 cm thick; **crust hard, yellowish-brown to reddish-brown, with a lacquer-like sheen**, with concentric ridges and radiating wrinkles, the edge thin and blunt; flesh white to pale brown; **stalk attached at the side** (occasionally off-centre), 7-15 cm long, reddish-brown to purplish-brown, shiny; the underside of the cap is a mass of small pores (not gills); spores tiny, yellowish-brown
   - Purple reishi: crust **purplish-black**, with a lacquer-like sheen; flesh rusty brown
   - Smell: faintly fragrant, **taste bitter and astringent**
@@ -136,7 +136,7 @@ Most medicinal "fungi" are not the mushrooms ordinary people imagine: *Fuling*, 
 - **Dongchongxiacao (Chongcao, Zhonghua Chongcao)**: Chinese 冬虫夏草; *Cordyceps sinensis* (Berk.) Sacc.
 - **Source**: the dried complex of the stroma of the fungus *Cordyceps sinensis* (Berk.) Sacc. (Clavicipitaceae, ergot family) and the dead body of the larva of a ghost moth (Hepialidae) on which it is parasitic
 - **Distribution and habitat**: found only in alpine meadows at about 3000-5000 m on the Qinghai–Tibet Plateau and its surroundings (Qinghai, Tibet, Sichuan, Yunnan, Gansu); complete caterpillar fungus cannot yet be cultivated on a large scale
-- **Identification** (two parts: the "worm" below and the "grass" above):
+- **Key identification features** (two parts: the "worm" below and the "grass" above):
   - Larva: **looks like a silkworm**, 3-5 cm long, 0.3-0.8 cm across; surface deep yellow to yellowish-brown, with **20-30 rings**, finer near the head; **head reddish-brown**; **8 pairs of legs, the middle 4 pairs most obvious**; brittle, snaps easily, broken surface fairly flat, pale yellowish-white, **often with a black "V"-shaped or dot-like gut visible in the middle** (experience)
   - Stroma: grows from the head of the larva; **slender and cylindrical**, 4-7 cm long, about 0.3 cm across; surface dark brown to brownish-brown, with fine lengthwise wrinkles, slightly swollen at the top; tough and flexible, broken surface off-white
   - Smell: **slightly fishy**, taste slightly bitter
@@ -161,7 +161,7 @@ Most medicinal "fungi" are not the mushrooms ordinary people imagine: *Fuling*, 
 - **Leiwan (Leishi, Zhuling)**: Chinese 雷丸; *Omphalia lapidescens* Schroet.
 - **Source**: the dried sclerotium of the fungus *Omphalia lapidescens* Schroet. (Tricholomataceae)
 - **Distribution and habitat**: grows mostly in the soil near bamboo roots in bamboo groves; produced mainly in Sichuan, Guizhou, Yunnan, Hubei, Guangxi and elsewhere
-- **Identification**:
+- **Key identification features**:
   - Crude drug: roughly spherical or irregular lumps, **1-3 cm across**; surface blackish-brown or brown, **with slightly raised, irregular, net-like fine lines**; firm and solid, hard to break open
   - Broken surface: uneven, **white or pale greyish-yellow**, often with yellowish-white marble-like patterns
   - Smell: faint smell, taste slightly bitter; gritty when chewed, slightly sticky, leaves no residue after long chewing
@@ -177,7 +177,7 @@ Most medicinal "fungi" are not the mushrooms ordinary people imagine: *Fuling*, 
 - **Mabo (Mapibao, Huibao, Niushigu)**: Chinese 马勃; *Lasiosphaera fenzlii* Reich., *Calvatia gigantea* (Batsch ex Pers.) Lloyd, *C. lilacina* (Mont. et Berk.) Lloyd
 - **Source**: the dried fruiting body of the fungus *Lasiosphaera fenzlii* Reich. (peeling puffball), *Calvatia gigantea* (Batsch ex Pers.) Lloyd (giant puffball) or *C. lilacina* (Mont. et Berk.) Lloyd (purple puffball) (Lycoperdaceae, puffball family)
 - **Distribution and habitat**: grows after rain in summer and autumn on grassland, hillsides, forest edges and pasture; found in most of China, mostly wild
-- **Identification**:
+- **Key identification features**:
   - Fresh: spherical or pear-shaped, **no cap, no gills, no stalk** (or only a sterile base); when young, **cut open it is uniformly white throughout**; when mature, the inside turns to brown spore powder, which "puffs out like smoke" from a hole at the top when pressed
   - Crude drug (peeling puffball): flattened-spherical or roughly spherical, 15-20 cm across; outer skin greyish-brown to yellowish-brown, papery, often broken into pieces or entirely gone; spore mass greyish-brown or pale brown, compact and springy, with cotton-wool-like threads inside when torn; **touch it and the spores fly up like dust**; feels fine and smooth when rubbed between the fingers
   - Smell: **smells like dust**, no taste
@@ -219,7 +219,7 @@ For why iodine matters, see [Nutrition and Deficiency Diseases – Iodine](../07
 - **Haizao (Daye Haizao, Xiaoye Haizao, Haihaozi, Yangqicai)**: Chinese 海藻; *Sargassum pallidum* (Turn.) C. Ag., *S. fusiforme* (Harv.) Setch.
 - **Source**: the dried thallus of *Sargassum pallidum* (Turn.) C. Ag. (*haihaozi*) or *S. fusiforme* (Harv.) Setch. (hijiki, *yangqicai*) (Sargassaceae); the former is traditionally called "large-leaf Haizao" and the latter "small-leaf Haizao"
 - **Distribution and habitat**: *S. pallidum* grows on rocks below the low-tide line along the coasts of the Yellow Sea and Bohai Sea; hijiki grows on rocks in the intertidal zone along the south-eastern coast (Zhejiang, Fujian, Guangdong and elsewhere), and is farmed on a large scale in Zhejiang
-- **Identification**:
+- **Key identification features**:
   - Large-leaf Haizao: shrivelled and curled, **blackish-brown**, some with a white bloom, 30-60 cm long; main stem cylindrical with conical bumps, side branches with short spine-like bumps; leaves lanceolate, obovate or strap-shaped; **with blackish-brown spherical or oval "air bladders"** (which keep the seaweed afloat)
   - Small-leaf Haizao: smaller, 15-40 cm long; branches alternate, without spine-like bumps; leaves strap-shaped or narrowly spoon-shaped, tip slightly swollen and hollow; air bladders spindle-shaped or spherical, with fairly long stalks; fairly hard
   - Texture: brittle when dry, **swells when soaked in water, becoming fleshy and slimy**
@@ -236,7 +236,7 @@ For why iodine matters, see [Nutrition and Deficiency Diseases – Iodine](../07
 - **Kunbu (Haidai, E'zhangcai, Heikunbu)**: Chinese 昆布; *Laminaria japonica* Aresch., *Ecklonia kurome* Okam.
 - **Source**: the dried thallus of kelp, *Laminaria japonica* Aresch. (Laminariaceae), or of *Ecklonia kurome* Okam. (Alariaceae)
 - **Distribution and habitat**: kelp is native to the coasts of Japan and Korea and the northern coast of China, and is now farmed on a large scale in Shandong, Liaoning, Fujian and elsewhere; *Ecklonia* (*e'zhangcai*, "goose-foot vegetable") grows on rocks below the low-tide line along the coasts of Zhejiang and Fujian
-- **Identification**:
+- **Key identification features**:
   - Kelp: rolled and folded into a lump or tangled into a bundle; **blackish-brown or greenish-brown, with a white bloom on the surface**; when softened in water it swells into a **flat, long strap**, 50-150 cm long and 10-40 cm wide, **thicker in the middle and thinner and wavy at the edges**; leathery, with the remains of the stalk flattened-cylindrical. It is the ordinary dried kelp people eat
   - *Ecklonia* (*e'zhangcai*): curled and shrivelled into irregular lumps, **black, fairly thin**; when softened in water it becomes a flat leaf, **deeply pinnately divided on both sides**, the lobes long and tongue-shaped (like a goose's foot); smooth and soft
   - Smell: **fishy smell, salty taste**
@@ -273,7 +273,7 @@ There is also a poisonous resin herb, **Tenghuang** (gamboge), which is for exte
 - **Ruxiang (Diruxiang, Ruxiangzhu, Yuanruxiang)**: Chinese 乳香; *Boswellia carterii* Birdw., *B. bhaw-dajiana* Birdw.
 - **Source**: the resin exuded from the bark of the frankincense tree, *Boswellia carterii* Birdw., and the related *B. bhaw-dajiana* Birdw. (Burseraceae, torchwood family); by origin it is divided into Somali and Ethiopian frankincense, and by shape into "frankincense tears" (*ruxiangzhu*) and "raw frankincense" (*yuanruxiang*)
 - **Distribution and habitat**: produced in the dry regions of Somalia and Ethiopia on the Red Sea coast and on the Arabian Peninsula; China imports all of it
-- **Identification**:
+- **Key identification features**:
   - Crude drug: **long oval "drop"-shaped** or roughly round grains, or stuck together into irregular lumps, the larger ones about 2 cm long (tears) or 5 cm (raw frankincense); **surface yellowish-white, translucent, dusted with yellowish-white powder**, darkening with long storage; brittle, softens when heated; the broken surface has a glassy or waxy lustre
   - Smell: **a distinctive fragrance**, taste slightly bitter
   - Chewing test: when chewed it first breaks into small pieces, then **quickly softens into a gummy lump that sticks to the teeth**, and the saliva turns milky white
@@ -290,7 +290,7 @@ There is also a poisonous resin herb, **Tenghuang** (gamboge), which is for exte
 - **Moyao (Moyao, Tianran Moyao, Jiaozhi Moyao)**: Chinese 没药; *Commiphora myrrha* Engl., *C. molmol* Engl.
 - **Source**: the dried resin of *Commiphora myrrha* Engl. or *C. molmol* Engl. (Burseraceae); divided into natural myrrh and gummy myrrh
 - **Distribution and habitat**: produced in dry regions of Somalia, Ethiopia, the southern Arabian Peninsula and elsewhere; all of it is imported
-- **Identification**:
+- **Key identification features**:
   - Natural myrrh: irregular granular lumps, the larger ones over 6 cm across; **surface yellowish-brown or reddish-brown**, the nearly translucent parts brownish-black, dusted with yellow powder; hard and brittle, broken surface uneven and **without lustre** (frankincense is lustrous, myrrh is not: one way to tell them apart)
   - Gummy myrrh: irregular lumps and grains, mostly stuck together into masses; surface brownish-yellow to brown, **opaque**, hard and solid or loose
   - Smell: **a distinctive fragrance, taste bitter and slightly pungent** (gummy myrrh tastes bitter and is sticky)
@@ -306,7 +306,7 @@ There is also a poisonous resin herb, **Tenghuang** (gamboge), which is for exte
 - **Xuejie (Qilinjie, Jinkou Xuejie)**: Chinese 血竭; *Daemonorops draco* Bl.
 - **Source**: processed from the resin exuded by the fruit of the dragon's blood palm, *Daemonorops draco* Bl. (Arecaceae, palm family)
 - **Distribution and habitat**: *Daemonorops draco* is a climbing palm (rattan) from Indonesia, Malaysia and elsewhere; all the Pharmacopoeia's Xuejie is imported
-- **Identification**:
+- **Key identification features**:
   - Crude drug: roughly **rounded-square or brick-shaped**; **surface dark red, glossy**, with red powder from rubbing; hard and brittle, broken surface red, **brick-red when ground to powder**
   - Smell: faint smell, bland taste; does not dissolve in water, softens in hot water
   - **Paper-heating test** (Pharmacopoeia identification test): put some powder on white paper and heat it with a flame from under the paper: **the powder melts, but there is no oily stain spreading out across the paper**, and against the light it is **bright red**
@@ -323,7 +323,7 @@ There is also a poisonous resin herb, **Tenghuang** (gamboge), which is for exte
 - **Hupo (Xuepo, Meipo)**: Chinese 琥珀; fossil resin of ancient pine-family (Pinaceae) plants, mostly *Pinus* species (no single binomial)
 - **Source**: a fossil-like substance formed from the resin of ancient pine-family plants (mostly of the genus *Pinus*) buried underground over long geological ages; what is dug from soil is called *hupo* (amber), and what is dug from coal seams is called *meipo* ("coal amber", black). **It is not included in Volume I of the Chinese Pharmacopoeia (2020 edition)**; it is used under ministry or local standards
 - **Distribution and habitat**: in China produced in Guangxi, Yunnan, Henan, Liaoning (Fushun coal amber) and elsewhere; also imported from Myanmar, the Baltic coast and elsewhere
-- **Identification**:
+- **Key identification features**:
   - Crude drug: irregular lumps, grains or polygonal pieces of varying size; **blood-red, yellowish-brown or dark brown, nearly transparent**; loose and brittle, broken surface smooth, **with a glassy lustre**; crumbles to powder when rubbed between the fingers
   - Smell: no smell, bland taste; **crumbles easily when chewed, not gritty**
   - Static test: after rubbing hard on cloth or a woollen jumper, **it picks up scraps of paper**
@@ -344,7 +344,7 @@ There is also a poisonous resin herb, **Tenghuang** (gamboge), which is for exte
   - **Aipian (l-borneol)**: crystals made by extracting and processing the fresh leaves of *Blumea balsamifera* (L.) DC. (Asteraceae)
   - The "*longnaoxiang*" and "*meipian*" of old books are resin crystals of the Borneo camphor tree (Dipterocarpaceae); imported, and rarely seen today
 - **Distribution and habitat**: the raw material of natural Bingpian, the camphor tree (a particular "borneol camphor" chemotype), comes mainly from Jiangxi, Hunan and elsewhere; *Blumea balsamifera* grows in Guangdong, Guangxi, Guizhou and Hainan
-- **Identification**:
+- **Key identification features**:
   - Synthetic Bingpian: **colourless and transparent or white and translucent, flaky, brittle crystals**; **clear fragrance, taste pungent and cool**; volatile; when lit it gives thick smoke and a bright flame
   - Natural Bingpian: white crystalline powder or flaky crystals, clear fragrance, taste pungent and cool, volatile
   - Natural and synthetic products are **almost impossible to tell apart by eye**; synthetic Bingpian contains a substantial proportion of isoborneol and can only be identified by laboratory testing. The price difference is large: **be suspicious of anything labelled "natural Bingpian" that is very cheap**
@@ -366,7 +366,7 @@ The herbs in this group have very different origins: *Wubeizi* is an "insect gal
 - **Wubeizi (Baichongcang, Dubei, Jiaobei)**: Chinese 五倍子; *Rhus chinensis* Mill., *R. potaninii* Maxim., *R. punjabensis* Stew. var. *sinica* (Diels) Rehd. et Wils.
 - **Source**: the **insect gall** on the leaves of the Chinese sumac, *Rhus chinensis* Mill., or of *R. potaninii* Maxim. or *R. punjabensis* Stew. var. *sinica* (Diels) Rehd. et Wils. (Anacardiaceae, cashew family), formed mainly by the parasitic gall aphid *Melaphis chinensis* (Bell) Baker; by shape it is divided into "belly galls" (*dubei*) and "horned galls" (*jiaobei*)
 - **Distribution and habitat**: Chinese sumac is very common on hillsides, forest edges and waste ground in the Yangtze basin and southwards; Wubeizi is produced mainly in Guizhou, Sichuan, Hubei, Hunan, Yunnan, Shaanxi and elsewhere
-- **Identification**:
+- **Key identification features**:
   - Host, Chinese sumac: deciduous small tree or shrub; **odd-pinnate compound leaves, with clear leaf-like "wings" along the leaf axis** (the most reliable feature for recognising Chinese sumac); leaflets with coarse teeth, hairy underneath; the leaves turn red in autumn; the small drupes in the fruit clusters have a white bloom and **taste salty and sour** when licked (hence the Chinese name, "salt-skin tree")
   - Fresh galls: green to red hollow "fruits" hanging on the leaf axis and leaf stalks in autumn; broken open, they are full of tiny aphids
   - Belly gall: oblong or spindle-shaped sac, 2.5-9 cm long and 1.5-4 cm across; **surface greyish-brown or greyish-tan, slightly downy**; hard and brittle, broken surface horn-like and lustrous, wall 0.2-0.3 cm thick; **inner wall smooth, with dead blackish-brown aphids and grey powdery droppings**
@@ -384,7 +384,7 @@ The herbs in this group have very different origins: *Wubeizi* is an "insect gal
 - **Qingdai (Dianhua, Landianhua)**: Chinese 青黛; *Baphicacanthus cusia* (Nees) Bremek., *Polygonum tinctorium* Ait., *Isatis indigotica* Fort.
 - **Source**: the **dried powder, lumps or granules processed from** the leaves or stems and leaves of *Baphicacanthus cusia* (Nees) Bremek. (Acanthaceae), Chinese indigo, *Polygonum tinctorium* Ait. (Polygonaceae, knotweed family), or woad, *Isatis indigotica* Fort. (Brassicaceae, cabbage family)
 - **Distribution and habitat**: *Baphicacanthus* grows in Fujian, Guangdong, Sichuan, Yunnan and other southern regions (its rhizome and root are "southern Banlangen"); woad is widely grown in the north (its root is [Banlangen](01-roots-and-rhizomes-1.md#33-banlangen-isatis-root) and its leaf is *Daqingye*); Qingdai is produced mainly in Fujian ("Fujian Qingdai", *jianqingdai*)
-- **Identification**:
+- **Key identification features**:
   - Crude drug: **deep blue powder, light, flies about easily**; or irregular porous lumps and granules that crumble to fine powder when rubbed between the fingers
   - Smell: slightly grassy-fishy smell, bland taste
   - Fire test (Pharmacopoeia identification test): heat a little over a low flame: **purplish-red fumes are given off** (indigo subliming)
@@ -401,7 +401,7 @@ The herbs in this group have very different origins: *Wubeizi* is an "insect gal
 - **Luhui (Lao Luhui, Xin Luhui, Xiangdan)**: Chinese 芦荟; *Aloe barbadensis* Miller, *A. ferox* Miller
 - **Source**: the **dried concentrate of the leaf juice** of Curaçao aloe, *Aloe barbadensis* Miller, Cape aloe, *A. ferox* Miller, or other closely related *Aloe* species (Liliaceae, lily family); the former is traditionally called "old aloe" (*lao luhui*) and the latter "new aloe" (*xin luhui*)
 - **Distribution and habitat**: native to Africa; grown in southern China (Guangdong, Guangxi, Fujian, Hainan, Yunnan), and mostly as a pot plant in the north
-- **Identification**:
+- **Key identification features**:
   - Plant: perennial succulent herb; leaves thick and juicy, **lanceolate, with small spiny teeth along the edges**, clustered on a short stem; cut open a leaf and **the middle is clear gel, while the layer right under the skin oozes a bitter yellow juice**: the herb Luhui is this yellow juice concentrated and dried, not the clear gel
   - Old aloe (Curaçao aloe): irregular lumps, often broken into polygonal pieces; **surface dark reddish-brown or deep brown, without lustre**; light, hard, not easily broken, broken surface rough or with hemp-like streaks; strongly absorbs moisture
   - New aloe (Cape aloe): surface dark brown, slightly greenish, **glossy**; light, loose, breaks easily, **broken surface glassy** with layered lines
@@ -421,7 +421,7 @@ The herbs in this group have very different origins: *Wubeizi* is an "insect gal
 - **Ercha (Haiercha, Heiercha)**: Chinese 儿茶; *Acacia catechu* (L. f.) Willd.
 - **Source**: the **dried concentrated decoction of the peeled branches and trunk** of the catechu tree, *Acacia catechu* (L. f.) Willd. (Fabaceae, pea family)
 - **Distribution and habitat**: catechu is a thorny deciduous small tree, produced in southern Yunnan (Xishuangbanna and elsewhere), Guangxi and Hainan, and also imported from India and Myanmar
-- **Identification**:
+- **Key identification features**:
   - Crude drug: **square or irregular lumps** of varying size; **surface brown or blackish-brown, smooth and slightly glossy**; hard, brittle, broken surface uneven and glossy, **with fine pores**, sticky when damp
   - Smell: faint smell, **taste astringent and bitter, with a slightly sweet aftertaste**
 - **Look-alikes**: "square catechu" (pale catechu, gambier) is the concentrated decoction of the young leafy twigs of *Uncaria gambier* (Rubiaceae, coffee family); it is in square blocks with a brown surface and is fairly light. It was used as catechu in the past but is not the Pharmacopoeia's Ercha. Pieces with starch or earth mixed in have an uneven colour on the broken surface and feel gritty (experience)
@@ -435,7 +435,7 @@ The herbs in this group have very different origins: *Wubeizi* is an "insect gal
 
 - **Shenqu (Liushenqu, Liuqu, Jianqu)**: Chinese 神曲; a fermented product (no single source species)
 - **Source**: **not a herb included in Volume I of the Chinese Pharmacopoeia (2020 edition)**; it is produced under local standards such as the provincial and municipal processing standards for Chinese herbs. Traditionally it is a block of leaven made by mixing flour (or bran) with bitter apricot kernel, rice bean and several fresh herbs such as fresh *Qinghao*, fresh cocklebur and fresh water pepper, and **fermenting** the mixture; recipes and methods vary from place to place. "Jianqu" is a Fujian variety with more herbs added
-- **Identification**:
+- **Key identification features**:
   - Crude drug: **square or oblong blocks**; surface **greyish-yellow, rough**; brittle, snaps easily, broken surface uneven, off-white or yellowish-white, with visible brown remains of unground herbs and **small holes produced by fermentation**
   - Smell: **a stale, fermented smell**, bitter taste
   - Stir-fried and scorched Shenqu: surface yellow or scorched brown, with a toasted smell

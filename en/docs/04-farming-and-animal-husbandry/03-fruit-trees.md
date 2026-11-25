@@ -385,7 +385,7 @@ Features:
 - Like moist conditions
 
 Care:
-- Training and pruning (delayed-open central leader form)
+- Training and pruning (tiered central leader form)
 - Plenty of irrigation
 - Thin flowers and fruit (improves quality)
 
@@ -768,7 +768,7 @@ Beginner-friendly!
 - Rootstock: date-plum in the north, wild persimmon in the south
 - Most varieties set fruit without pollination (parthenocarpy); where male flowers are scarce, a nearby
   persimmon or wild persimmon with male flowers helps reduce fruit drop
-- Tree form: delayed-open central leader or natural open centre; mainly thin out, cut back little
+- Tree form: tiered central leader or natural open centre; mainly thin out, cut back little
   (persimmon flower buds are near the shoot tips, so heading back removes them)
 - Little care needed, few pests and diseases; the persimmon fruit moth bores into the fruit and infested
   fruit drops early – pick it up and burn it as you go;
@@ -948,7 +948,7 @@ How much to cut:
 
 **Common tree forms**:
 - Open-centre: hollow centre, good air flow
-- Delayed-open central leader: has a central leader
+- Tiered central leader: has a central leader
 - Spindle: for close-planted orchards
 
 ```
@@ -961,7 +961,7 @@ Natural open-centre (peach, plum, apricot; also usable for apple, pear, persimmo
   in the second and third year cut out the upright central shoot
 - Keep the tree about 2.5-3 m tall for easy picking
 
-Delayed-open central leader (a kind of leader form; vigorous apple trees, pear, persimmon, walnut, chestnut):
+Tiered central leader (a kind of leader form; vigorous apple trees, pear, persimmon, walnut, chestnut):
 - Has a central leader, with main branches in 2-3 tiers, 5-7 in all
   - 3 in the first tier, 2 in the second, 1-2 in the third
   - About 80-100 cm between tiers, so light gets into the inner crown
@@ -979,7 +979,7 @@ Spindle / slender spindle (close-planted dwarf apples and pears):
 
 ![The basic pruning cuts, cut positions and three common tree forms](../../images/fruit-tree-pruning.svg)
 
-*Figure: Heading back, thinning out, cutting back, leaving unpruned; cut about 0.5-1 cm above a bud with the bud facing outwards, thinning cuts flush with the collar, the three-cut method for big branches; natural open-centre, delayed-open central leader and spindle forms*
+*Figure: Heading back, thinning out, cutting back, leaving unpruned; cut about 0.5-1 cm above a bud with the bud facing outwards, thinning cuts flush with the collar, the three-cut method for big branches; natural open-centre, tiered central leader and spindle forms*
 
 ### Fertilising
 

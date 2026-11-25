@@ -297,7 +297,7 @@ For protection from lightning see [Weather disasters – lightning](../02-disast
 - ⏭️ [Physics](02-physics.md) - mechanics, fluids, heat, sound and light, electromagnetism, astronomy
 - ⏭️ [Chemistry](03-chemistry.md) - elements, chemical reactions, acids, bases and salts, solution concentration
 - 🔗 [Metallurgy Basics – judging temperature](../05-metallurgy/00-metallurgy-basics.md) - judging furnace temperature by colour when there is no thermometer
-- 🔗 [Pharmaceutical Basics](../06-pharmaceuticals/00-pharmacy-basics.md) - why doses and concentrations must be exact
+- 🔗 [Pharmacy Basics](../06-pharmaceuticals/00-pharmacy-basics.md) - why doses and concentrations must be exact
 
 ---
 
