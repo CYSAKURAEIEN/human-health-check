@@ -287,7 +287,7 @@ This group is mostly related to menstruation, bleeding and blood stasis. **Blood
   - Raw *Dihuang*: Irregular lumps or oblong; surface **brownish-black or brownish-grey, very shrivelled**; heavy, fairly soft and tough; cross-section **brownish-black or jet black, glossy and sticky**; faint smell, taste slightly sweet
   - Prepared *Dihuang*: Irregular pieces, **glossy jet black and very sticky**, soft and pliable, taste sweet
 - **Look-alikes**: Generally not easily confused; note that "*shengdi*" means dried raw *Dihuang*, not fresh *Dihuang* — their doses differ
-- **Harvesting and processing**: Dig in autumn, remove the reed head, fine roots and soil, and use fresh (fresh *Dihuang*); or bake slowly until about 80% dry (raw *Dihuang*). Steaming to make prepared *Dihuang* is a processing (*paozhi*) step; see [Traditional Chinese medicine preparations](../06-pharmaceuticals/04-herbal-preparations.md)
+- **Harvesting and processing**: Dig in autumn, remove the reed head, fine roots and soil, and use fresh (fresh *Dihuang*); or bake slowly until about 80% dry (raw *Dihuang*). *Steaming* to make prepared *Dihuang* is a processing (*paozhi*) step; see [Traditional Chinese medicine preparations](../06-pharmaceuticals/04-herbal-preparations.md)
 - **Storage**: Keep fresh *Dihuang* buried in sandy soil; raw and prepared *Dihuang* are high in sugar and **easily absorb moisture, mould and turn sticky** — seal and keep somewhere cool and dry
 - **Actions**: Fresh *Dihuang* clears heat and generates fluids, cools blood and stops bleeding; raw *Dihuang* clears heat and cools blood, nourishes yin and generates fluids; prepared *Dihuang* tonifies blood and nourishes yin, benefits essence and fills the marrow
 - **Dose**: Fresh *Dihuang* 12-30 g; raw *Dihuang* 10-15 g; prepared *Dihuang* 9-15 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
@@ -296,7 +296,7 @@ This group is mostly related to menstruation, bleeding and blood stasis. **Blood
 ### 2.6 Heshouwu (fleeceflower root)
 
 - **Heshouwu (Shouwu, Chi Shouwu, Yejiaoteng root)**: Chinese 何首乌; *Polygonum multiflorum* Thunb. After processing it is prepared *Heshouwu* (*zhi heshouwu*)
-- **Source**: The dried root tuber of *Polygonum multiflorum* Thunb. (Polygonaceae, knotweed family). The stem vine is "*Shouwuteng*" (see [Barks and stems – Shouwuteng](06-barks-stems-and-woods.md#36-shouwuteng-fleeceflower-stem)); prepared *Heshouwu* is a processed product (a separate Pharmacopoeia entry)
+- **Source**: The dried root tuber of *Polygonum multiflorum* Thunb. (Polygonaceae, knotweed family). The stem vine is "*Shouwuteng*" (see [Barks and stems – *Shouwuteng*](06-barks-stems-and-woods.md#36-shouwuteng-fleeceflower-stem)); prepared *Heshouwu* is a processed product (a separate Pharmacopoeia entry)
 - **Distribution and habitat**: Widespread in east, central, south and southwest China; very common on hillsides, in scrub, rock crevices, by streams and near villages; also cultivated
 - **Key identification features**:
   - Plant: Perennial **twining vine**, stem reddish-brown and hollow; leaves alternate, **ovate-heart-shaped**, untoothed; at the base of the leaf stalk is a **papery sheath (ocrea)** (a feature of the knotweed family); in autumn it bears small white flowers in large panicles; achenes three-angled
@@ -372,7 +372,7 @@ The market also has fakes made by processing root tubers of Ezhu (zedoary),
 Jianghuang (turmeric) and others — it is best to buy Sanqi powder from a proper pharmacy
 ```
 
-For a detailed comparison see [Gynura (Tusanqi) vs Sanqi](09-toxic-herbs-and-poisonous-look-alikes.md#45-jusanqi-tusanqi-gynura-vs-sanqi-notoginseng).
+For a detailed comparison see [Gynura (Tusanqi) vs *Sanqi*](09-toxic-herbs-and-poisonous-look-alikes.md#45-jusanqi-tusanqi-gynura-vs-sanqi-notoginseng).
 
 - **Harvesting and processing**: Grown for 3 years or more and dug in autumn before flowering; wash, separate main root, branch roots and rhizome, dry
 - **Storage**: Hard, and keeps fairly well; protect from damp and insects. Keep *Sanqi* powder sealed; do not leave it open for long
@@ -424,7 +424,7 @@ All the herbs in this group are very bitter and cold in nature. The common warni
 ### 3.3 Banlangen (isatis root)
 
 - **Banlangen (Bei Banlangen, Songlangen, Dianqinggen)**: Chinese 板蓝根; *Isatis indigotica* Fort.
-- **Source**: The dried root of *Isatis indigotica* Fort. (woad; Brassicaceae, cabbage family). The leaf of the same plant is *Daqingye* (see [Flowers and leaves – Daqingye](05-flowers-and-leaves.md#43-daqingye-isatis-leaf))
+- **Source**: The dried root of *Isatis indigotica* Fort. (woad; Brassicaceae, cabbage family). The leaf of the same plant is *Daqingye* (see [Flowers and leaves – *Daqingye*](05-flowers-and-leaves.md#43-daqingye-isatis-leaf))
 - **Distribution and habitat**: Native to northern China; cultivated on a large scale in Anguo (Hebei), Anhui, Jiangsu, Gansu, Heilongjiang and elsewhere; occasionally found escaped into the wild
 - **Key identification features**:
   - Plant: Biennial herb 40-100 cm tall, the whole plant **bluish-green (glaucous) and smooth**; basal leaves in a rosette, oblong; **stem leaves arrow-shaped at the base and clasping the stem**; **small yellow four-petalled (cross-shaped) flowers** in panicles; the short silicle (pod) is flat, oblong and winged at the margin, purplish-brown and hanging down when ripe
@@ -619,7 +619,7 @@ This group is used for colds with fever, headache and body aches, rheumatic pain
   - Plant: Perennial herb 50-150 cm tall, **with white milky sap**; *A. tetraphylla* has **stem leaves in whorls of 3-6**, *A. stricta* has alternate leaves; **flowers bluish-purple, bell-shaped, nodding, with the style sticking out beyond the corolla**, arranged in long, narrow panicles
   - Crude drug: Conical or cylindrical, slightly curved, 7-27 cm long, 0.8-3 cm across; yellowish-white or pale brownish-yellow, often with remnants of coarse bark in hollows, **deep, broken, ring-like cross-lines on the upper part**, lengthwise lines and grooves on the lower part; 1-2 rhizomes at the top
   - Cross-section: **Light, loose and spongy, breaks easily**; cross-section uneven, yellowish-white, **with many cracks**; faint smell, taste slightly sweet
-- **Look-alikes**: Its name is close to *Beishashen*, but **Nanshashen belongs to the bellflower family and *Beishashen* to the carrot family** — the two cannot be swapped; the genus *Adenophora* has many species, and usage varies from place to place
+- **Look-alikes**: Its name is close to *Beishashen*, but ***Nanshashen* belongs to the bellflower family and *Beishashen* to the carrot family** — the two cannot be swapped; the genus *Adenophora* has many species, and usage varies from place to place
 - **Harvesting and processing**: Dig in spring and autumn, remove fine roots, wash, scrape off the coarse bark while fresh, wash again and dry
 - **Storage**: Loose in texture, so it is **easily attacked by insects and damp**; keep somewhere dry
 - **Actions**: Nourishes yin and clears the lungs, benefits the stomach and generates fluids, resolves phlegm, tonifies *qi*
@@ -707,9 +707,9 @@ Before digging a root medicine, confirm each point:
 
 ## Related chapters
 
-- ⏮️ [General Principles of Identifying and Collecting Chinese Medicinal Herbs](00-general-principles.md) - general methods for identification, harvesting, processing, storage, safety and the law
+- ⏮️ [General Principles of Identifying and Collecting Chinese Medicinal *Herbs*](00-general-principles.md) - general methods for identification, harvesting, processing, storage, safety and the law
 - ⏭️ [Roots and Rhizomes (Part 2)](02-roots-and-rhizomes-2.md) - *Zhimu*, *Maidong*, *Dahuang*, *Beimu*, *Yanhusuo* and the other root and rhizome medicines (Chapter 02)
-- 🔗 [Toxic Herbs and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - identifying pokeweed, *Gynura*, water hemlock, aconite and others, and the signs of poisoning
+- 🔗 [Toxic *Herbs* and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - identifying pokeweed, *Gynura*, water hemlock, aconite and others, and the signs of poisoning
 - 🔗 [Medicinal Plants: Identification and Growing Guide](../04-farming-and-animal-husbandry/04-medicinal-plants.md) - growing *Huangqi*, *Gancao*, *Danshen* and others, and the home herb garden
 - 🔗 [Traditional Chinese Medicine Preparations](../06-pharmaceuticals/04-herbal-preparations.md) - processing (prepared *Dihuang*, prepared *Heshouwu* and others), decoction and safe use
 

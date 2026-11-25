@@ -2,7 +2,7 @@
 
 > **Animal and mineral medicines are the two groups of Chinese medicines most likely to "go wrong": one involves protected animals and illegal trade, the other involves heavy metals such as mercury, arsenic and lead. Before you learn to recognise them, be clear which ones can be used and which ones should never be touched at all**
 
-This chapter covers 18 common animal medicines, 7 protected-animal medicines and 9 mineral medicines. The animal medicines are divided by source into gelatins, horns and shells (*Lurong*, *Ejiao*, *Guijia*, *Biejia*, *Muli*, *Zhenzhu*, *Shijueming*, *Haipiaoxiao*) and insects, worms and others (*Chantui*, *Jiangcan*, *Dilong*, *Quanxie*, *Wugong*, *Tubiechong*, *Shuizhi*, honey, *Fengfang*, *Jineijin*). For the protected animals (pangolin, rhinoceros horn, tiger bone, natural musk, bear bile, saiga antelope horn, hawksbill shell) **only the legal bans and legal substitutes are given**. The mineral medicines are *Shigao*, *Huashi*, *Mangxiao*, *Longgu*, *Cishi*, *Zheshi*, *Luganshi*, *Baifan* and *Pengsha*; toxic mineral medicines such as cinnabar and realgar are only named, see [Toxic Herbs and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md). General methods for identification, harvesting, drying and storage are in the [General Principles](./00-general-principles.md) and are not repeated here.
+This chapter covers 18 common animal medicines, 7 protected-animal medicines and 9 mineral medicines. The animal medicines are divided by source into gelatins, horns and shells (*Lurong*, *Ejiao*, *Guijia*, *Biejia*, *Muli*, *Zhenzhu*, *Shijueming*, *Haipiaoxiao*) and insects, worms and others (*Chantui*, *Jiangcan*, *Dilong*, *Quanxie*, *Wugong*, *Tubiechong*, *Shuizhi*, honey, *Fengfang*, *Jineijin*). For the protected animals (pangolin, rhinoceros horn, tiger bone, natural musk, bear bile, saiga antelope horn, hawksbill shell) **only the legal bans and legal substitutes are given**. The mineral medicines are *Shigao*, *Huashi*, *Mangxiao*, *Longgu*, *Cishi*, *Zheshi*, *Luganshi*, *Baifan* and *Pengsha*; toxic mineral medicines such as cinnabar and realgar are only named, see [Toxic *Herbs* and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md). General methods for identification, harvesting, drying and storage are in the [General Principles](./00-general-principles.md) and are not repeated here.
 
 ## ⚠️ Read these first
 
@@ -110,7 +110,7 @@ Shells are hard, so in a decoction most of them are **decocted first** (boiled f
   - Velvet slices: the "wax slices" cut from the tip are yellowish-white, translucent and waxy; the "powder slices" and "blood slices" from the middle have fine, dense pores; the "bone slices" near the base have large pores and are hard — **the lower down, the closer to bone and the lower the value**
 - **Fakes**: Velvet from other deer passed off as *Lurong*; **fake velvet slices made of animal skin wrapped round pressed bone glue and flour** (they fall apart in water and have no honeycomb pores, experience); ossified antler slices dyed and passed off as velvet slices. *Lujiao* (deer antler), *Lujiaoshuang* (degelatinised antler) and *Lujiaojiao* (antler glue) are different medicines, with different properties and prices
 - **Harvesting and processing**: On the farm, trained staff saw off the velvet in summer and autumn; after processing it is dried in the shade or oven-dried. Sawing velvet requires anaesthesia and restraint, with a risk of bleeding and of injury to people, so it may only be done by trained farm staff
-- **Storage**: Seal and keep in a cool, dry place; **protect from insects** (the General Principles mention storing it with Huajiao (Sichuan pepper), see [Common pests and what to do](./00-general-principles.md#63-common-pests-and-what-to-do))
+- **Storage**: Seal and keep in a cool, dry place; **protect from insects** (the General Principles mention storing it with *Huajiao* (Sichuan pepper), see [Common pests and what to do](./00-general-principles.md#63-common-pests-and-what-to-do))
 - **Actions**: Strengthens kidney yang, replenishes essence and blood, strengthens sinews and bones, regulates the *chong* and *ren* vessels, draws out toxins from sores
 - **Dose**: 1-2 g, ground to powder and taken mixed with water (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: Warm and hot in nature: not suitable for people with fever, yin deficiency with flaring fire (hot palms and soles, dry mouth, night sweats), high blood pressure or bleeding (experience); **start with a small amount** — a sudden large dose can cause dizziness, nosebleeds and so on (experience). Do not drink "deer velvet steeped in liquor" in large amounts over a long time
@@ -141,7 +141,7 @@ Shells are hard, so in a decoction most of them are **decocted first** (boiled f
   - The upper and lower shells are joined by a bridge; **the upper shell is long-elliptical and domed**, 7.5-22 cm long, brown or blackish-brown on the outside, with a lengthwise ridge down the middle
   - **The lower shell is plate-like**, nearly long-rectangular-elliptical, 6.4-21 cm long; the outer surface is pale yellowish-brown to brownish-black, with 12 scutes, each often with purplish-brown radiating lines; the inner surface is yellowish-white to greyish-white
   - Hard; faint fishy smell, taste slightly salty
-- **Look-alikes**: Shells of other turtles (mostly protected animals); **Biejia passed off as Guijia or mixed in** — *Biejia* is only the upper shell, has no horny scutes, and its ribs stick out beyond the edge on both sides (see the next section)
+- **Look-alikes**: Shells of other turtles (mostly protected animals); ***Biejia* passed off as *Guijia* or mixed in** — *Biejia* is only the upper shell, has no horny scutes, and its ribs stick out beyond the edge on both sides (see the next section)
 - **Harvesting and processing**: After a farmed turtle is slaughtered, the shell is removed, the remaining flesh cleaned off, and the shell sun-dried (the Pharmacopoeia also describes scalding in boiling water before removing skin and flesh; not covered here)
 - **Storage**: Keep in a dry place; protect from insects
 - **Actions**: Nourishes yin and subdues yang, benefits the kidneys and strengthens bones, nourishes blood and tonifies the heart, secures menstruation and stops uterine bleeding
@@ -234,7 +234,7 @@ Shells are hard, so in a decoction most of them are **decocted first** (boiled f
 
 Half of the insect and worm medicines are things you can collect yourself: *Chantui* is picked up from tree trunks, *Jineijin* is peeled off when a chicken is killed, and *Dilong* is simply the earthworm. The other half — *Quanxie*, *Wugong*, *Tubiechong* and *Shuizhi* — are blood-breaking and wind-calming medicines marked "toxic" or "slightly toxic" in the Pharmacopoeia, **forbidden in pregnancy**. What is on sale comes mainly from captive breeding and specialist buyers. This book **does not describe catching them or processing to remove their toxicity**; it only says how to recognise them and why they are dangerous.
 
-*Banmao* (blister beetle) and *Chansu* (toad venom) are extremely toxic animal medicines on the state-controlled list of 28 toxic Chinese medicines; see [Toxic herbs – Banmao](09-toxic-herbs-and-poisonous-look-alikes.md#220-banmao-blister-beetle) and [Toxic herbs – Chansu](09-toxic-herbs-and-poisonous-look-alikes.md#221-chansu-toad-venom).
+*Banmao* (blister beetle) and *Chansu* (toad venom) are extremely toxic animal medicines on the state-controlled list of 28 toxic Chinese medicines; see [Toxic herbs – *Banmao*](09-toxic-herbs-and-poisonous-look-alikes.md#220-banmao-blister-beetle) and [Toxic herbs – *Chansu*](09-toxic-herbs-and-poisonous-look-alikes.md#221-chansu-toad-venom).
 
 ```
 Common reminders for insect and worm medicines:
@@ -275,7 +275,7 @@ Common reminders for insect and worm medicines:
   - Hard and brittle, breaks easily; **broken surface flat, the outer layer white, with 4 shiny brown or shiny black silk-gland rings in the middle**
   - Faint fishy smell, taste slightly salty
 - **Fakes**: Silkworms that died of disease, coated in **lime powder, talc powder or alum** to imitate the white fungus and add weight (experience: the powdery frost rubs off at once and smells of lime, and the broken surface has no shiny silk-gland rings); **silkworms that died of other diseases (such as flacherie or rot)** turn black and stink, and must not be used
-- **Harvesting and processing**: Mostly produced in spring and autumn by drying silkworms that died of white muscardine infection. White muscardine spreads through a silkworm house, so **do not deliberately infect your silkworms "to make Jiangcan"** — it will destroy the whole batch
+- **Harvesting and processing**: Mostly produced in spring and autumn by drying silkworms that died of white muscardine infection. White muscardine spreads through a silkworm house, so **do not deliberately infect your silkworms "to make *Jiangcan*"** — it will destroy the whole batch
 - **Storage**: Keep in a dry place; **protect from insects**
 - **Actions**: Calms wind and stops spasms, dispels wind and relieves pain, resolves phlegm and dissipates lumps
 - **Dose**: 5-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
@@ -380,10 +380,10 @@ Common reminders for insect and worm medicines:
   - **When kept for a long time or chilled, white granular crystals gradually form** — crystallisation is normal and is not evidence that sugar has been added
   - Aromatic smell, very sweet taste; honey from different nectar sources (black locust, vitex, jujube, rape) differs in colour and aroma
 - **Fakes**: **Adding syrup (high-fructose corn syrup, rice syrup)** is the most common fake. Folk tests such as "drawing threads", "dripping on paper" or "setting it alight" are not reliable; only a laboratory can test it. Buy from **beekeepers whose source you know, or products that meet a standard**
-- **⚠️ Poisonous honey**: If bees gather nectar from poisonous plants, the honey they make can poison people. Known poisonous nectar sources include **Leigongteng (thunder god vine), Kunming Shanhaitang, Gouwen (gelsemium, "heartbreak grass"), Boluohui (plume poppy), rhododendrons such as Naoyanghua (*Rhododendron molle*), Lilu (Veratrum) and Wutou (aconite)**.
+- **⚠️ Poisonous honey**: If bees gather nectar from poisonous plants, the honey they make can poison people. Known poisonous nectar sources include ***Leigongteng* (thunder god vine), Kunming Shanhaitang, *Gouwen* (gelsemium, "heartbreak grass"), Boluohui (plume poppy), rhododendrons such as *Naoyanghua* (*Rhododendron molle*), *Lilu* (Veratrum) and *Wutou* (aconite)**.
   - The highest risk is from **wild bee nests in the mountains, "local honey" of unknown origin, and apiaries with large stands of poisonous plants nearby in the flowering season**
   - Signs of poisoning: from tens of minutes to a few hours after eating, numbness of the mouth and tongue, dizziness, nausea and vomiting, abdominal pain and diarrhoea, palpitations; in severe cases a fall in blood pressure, heart rhythm problems, shock and even death (honey from thunder god vine can cause kidney failure)
-  - **Do not eat honey that tastes bitter, astringent or numbing**; if the symptoms above appear after eating honey, see a doctor at once and take the remaining honey with you. For identifying these poisonous plants see [Toxic Herbs and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md)
+  - **Do not eat honey that tastes bitter, astringent or numbing**; if the symptoms above appear after eating honey, see a doctor at once and take the remaining honey with you. For identifying these poisonous plants see [Toxic *Herbs* and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md)
 - **⚠️ Babies under one year old must not eat honey**: honey may contain spores of *Clostridium botulinum*. A baby's gut flora is not yet established, so the spores can multiply in the gut and produce toxin, causing **infant botulism** (constipation, weak feeding, a weak cry, a floppy body, difficulty breathing). Boiling does not reliably kill the spores. See [The newborn's first days – feeding](../01-first-aid-and-family-health/11-emergency-childbirth-and-newborn-care.md#feeding) and [Botulism](../07-everyday-living-skills/01-food-processing-and-preservation.md#botulism)
 - **Harvesting and processing**: From spring to autumn the beekeeper extracts the honey from the hives and **filters** it. Do not poke wild bee nests to get honey — besides the danger of stings, the nectar sources of wild nests cannot be controlled
 - **Storage**: **Seal** and keep in a cool place; honey absorbs moisture, and if left open for a long time it absorbs water, ferments, turns sour and bubbles — do not eat fermented honey; do not store it long term in metal containers
@@ -593,7 +593,7 @@ Common reminders for mineral medicines:
 
 - **Longgu (Bai Longgu, Hua Longgu)**: Chinese 龙骨; fossil bones of ancient mammals. The fossil teeth of ancient mammals are called *Longchi* ("dragon teeth")
 - **Source**: Fossil bones of ancient mammals such as three-toed horses (*Hipparion*), rhinoceroses, deer, cattle and elephants, or fossil elephant incisors
-- ⚠️ **Pharmacopoeia**: **Part I of the Chinese Pharmacopoeia (2020 edition) does not include Longgu**; quality standards are in some provincial local standards, which differ from place to place
+- ⚠️ **Pharmacopoeia**: **Part I of the Chinese Pharmacopoeia (2020 edition) does not include *Longgu***; quality standards are in some provincial local standards, which differ from place to place
 - 🛡️ **Law**: Vertebrate fossils are protected under the "Regulations on the Protection of Fossils"; **fossils of important scientific value may not be dug up, bought or sold privately**; if you find a fossil bed, report it to the local authority. In the past, large numbers of precious fossils and oracle bones were ground into medicine powder as "dragon bone"
 - **Key identification features**:
   - Bone-shaped or broken into irregular lumps of varying size
@@ -699,7 +699,7 @@ The mineral medicines below contain heavy metals such as mercury, arsenic and le
 | Cinnabar (*Zhusha*) | Mercuric sulphide | Releases mercury vapour when heated; long-term use builds up mercury and damages the kidneys; "mind-calming" folk remedies, baby ornaments | [Cinnabar](09-toxic-herbs-and-poisonous-look-alikes.md#224-zhusha-cinnabar) |
 | Realgar (*Xionghuang*) | Arsenic sulphide | Turns into white arsenic (arsenic trioxide) when heated; "realgar wine" | [Realgar](09-toxic-herbs-and-poisonous-look-alikes.md#223-xionghuang-realgar) |
 | Arsenolite, white arsenic (*Pishi*, *Pishuang*) | Arsenic trioxide | A tiny amount kills; looks like flour or white sugar | [Arsenolite and white arsenic](09-toxic-herbs-and-poisonous-look-alikes.md#222-pishi-and-pishuang-arsenolite-and-white-arsenic) |
-| Calomel (*Qingfen*), red mercuric oxide (*Hongfen*), *Baijiangdan*, mercury | Mercury compounds, metallic mercury | Corrosive, acute kidney failure; absorbed even when applied to broken skin | [Calomel, Hongfen and mercury](09-toxic-herbs-and-poisonous-look-alikes.md#225-qingfen-hongfen-and-shuiyin-calomel-red-mercuric-oxide-and-mercury) |
+| Calomel (*Qingfen*), red mercuric oxide (*Hongfen*), *Baijiangdan*, mercury | Mercury compounds, metallic mercury | Corrosive, acute kidney failure; absorbed even when applied to broken skin | [Calomel, *Hongfen* and mercury](09-toxic-herbs-and-poisonous-look-alikes.md#225-qingfen-hongfen-and-shuiyin-calomel-red-mercuric-oxide-and-mercury) |
 | Red lead (*Qiandan*), litharge (*Mituoseng*) | Lead oxides | Lead builds up; long-term damage to children's intelligence | [Red lead](09-toxic-herbs-and-poisonous-look-alikes.md#226-qiandan-red-lead) |
 
 ```
@@ -798,8 +798,8 @@ In addition, **Liuhuang** (sulphur; marked "toxic" in the Pharmacopoeia, mainly 
 ## Related chapters
 
 - ⏮️ [Fungi, Algae, Resins and Others](07-fungi-algae-resins-and-others.md) - *Fuling* (poria), *Lingzhi* (reishi), *Dongchongxiacao* (cordyceps), frankincense, borneol and other fungi, algae, resins and processed products
-- ⏭️ [Toxic Herbs and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - cinnabar, realgar, arsenolite, red lead, *Banmao*, *Chansu* and other toxic Chinese medicines, and poisonous nectar plants
-- 🔗 [General Principles of Identifying and Collecting Chinese Medicinal Herbs](00-general-principles.md) - general methods for identification, harvesting, processing and storage
+- ⏭️ [Toxic *Herbs* and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - cinnabar, realgar, arsenolite, red lead, *Banmao*, *Chansu* and other toxic Chinese medicines, and poisonous nectar plants
+- 🔗 [General Principles of Identifying and Collecting Chinese Medicinal *Herbs*](00-general-principles.md) - general methods for identification, harvesting, processing and storage
 - 🔗 [General principles – Wildlife Protection Law](00-general-principles.md#83-wildlife-protection-law) - the law on protected animals and their products
 - 🔗 [General principles – taking herbs with Western medicines](00-general-principles.md#75-taking-herbs-with-western-medicines) - interactions between blood-breaking medicines such as *Shuizhi* and anticoagulants
 - 🔗 [Traditional Chinese Medicine Preparations](../06-pharmaceuticals/04-herbal-preparations.md) - processing methods such as calcining, decoction and safe use
@@ -811,4 +811,4 @@ In addition, **Liuhuang** (sulphur; marked "toxic" in the Pharmacopoeia, mainly 
 
 ---
 
-**The first lesson of animal and mineral medicines is not "how to use them" but "what not to touch": do not touch protected animals, do not touch ores containing mercury, arsenic or lead, and do not give honey to babies. The only things you can collect yourself are Chantui, Jineijin and shells; for everything else, buy proper medicinal materials and use them in doses set under the guidance of a TCM practitioner.**
+**The first lesson of animal and mineral medicines is not "how to use them" but "what not to touch": do not touch protected animals, do not touch ores containing mercury, arsenic or lead, and do not give honey to babies. The only things you can collect yourself are *Chantui*, *Jineijin* and shells; for everything else, buy proper medicinal materials and use them in doses set under the guidance of a TCM practitioner.**

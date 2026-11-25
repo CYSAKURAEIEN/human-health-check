@@ -53,24 +53,24 @@ The "Toxicity / protection" column gives toxicity noted in the Pharmacopoeia, th
 
 | Herb | Part used | Main actions | Toxicity / protection | See |
 |------|---------|---------|----------|-----|
-| Fuling (poria) | Sclerotium | Promotes urination and drains damp, strengthens the spleen, calms the heart | — | [1.1](#11-fuling-poria) |
-| Zhuling (polyporus) | Sclerotium | Promotes urination and drains damp | — | [1.2](#12-zhuling-polyporus) |
-| Lingzhi (reishi) | Fruiting body | Tonifies *qi* and calms the mind, stops cough and relieves wheezing | Beware toxic or unusable bracket fungi passed off as it | [1.3](#13-lingzhi-reishi) |
-| Dongchongxiacao (Chinese caterpillar fungus) | Complex of stroma and dead larva | Tonifies the kidney and benefits the lungs, stops bleeding and resolves phlegm | 🛡️ Class II state protection; many fakes | [1.4](#14-dongchongxiacao-chinese-caterpillar-fungus) |
-| Leiwan (omphalia) | Sclerotium | Kills parasites and relieves food accumulation | Not used in decoctions; traditionally regarded as slightly toxic | [1.5](#15-leiwan-omphalia) |
-| Mabo (puffball) | Fruiting body | Clears the lungs and soothes the throat, stops bleeding | Beware mistaking young death caps for it | [1.6](#16-mabo-puffball) |
-| Haizao (sargassum) | Whole thallus | Resolves phlegm, softens hardness and dissipates lumps, promotes urination | ⚠️ Incompatible with Gancao; high in iodine | [2.1](#21-haizao-sargassum) |
-| Kunbu (kelp) | Thallus | Resolves phlegm, softens hardness and dissipates lumps, promotes urination | High in iodine; caution with thyroid disease | [2.2](#22-kunbu-kelp) |
-| Ruxiang (frankincense) | Resin | Activates blood and relieves pain, reduces swelling and promotes tissue regeneration | Caution in pregnancy and with a weak stomach | [3.1](#31-ruxiang-frankincense) |
-| Moyao (myrrh) | Resin | Disperses stasis and relieves pain, reduces swelling and promotes tissue regeneration | Caution in pregnancy and with a weak stomach | [3.2](#32-moyao-myrrh) |
-| Xuejie (dragon's blood) | Processed resin exuded from the fruit | Activates blood and relieves pain, resolves stasis and stops bleeding, promotes tissue regeneration and heals sores | Many dyed fakes; *Longxuejie* is a different medicine | [3.3](#33-xuejie-dragons-blood) |
-| Hupo (amber) | Fossil resin of ancient pine-family plants | Calms fright and the mind, activates blood and disperses stasis, promotes urination | Not in the 2020 Pharmacopoeia; many plastic and rosin imitations | [3.4](#34-hupo-amber) |
-| Bingpian (borneol) | Borneol crystals, extracted or synthetic | Opens the orifices and restores consciousness, clears heat and relieves pain | Caution in pregnancy; very small dose | [3.5](#35-bingpian-borneol) |
-| Wubeizi (Chinese gall) | Insect gall | Astringes the lungs and lowers fire, binds the intestines and stops diarrhoea, stops bleeding | Contains a lot of tannin | [4.1](#41-wubeizi-chinese-gall) |
-| Qingdai (indigo naturalis) | Powder processed from leaves or stems and leaves | Clears heat and detoxifies, cools the blood and fades rashes | Many fakes padded with lime or dye | [4.2](#42-qingdai-indigo-naturalis) |
-| Luhui (aloe) | Dried concentrate of leaf juice | Purges and relieves constipation, clears the liver and drains fire, kills parasites | ⚠️ Strong laxative; not to be taken by mouth in pregnancy | [4.3](#43-luhui-aloe) |
-| Ercha (catechu) | Concentrated decoction of peeled branches and trunk | Activates blood and relieves pain, stops bleeding and promotes tissue regeneration, dries damp and heals sores | — | [4.4](#44-ercha-catechu) |
-| Shenqu (medicated leaven) | Fermented product | Relieves food stagnation and harmonises the stomach (traditional) | Not in the Pharmacopoeia | [4.5](#45-shenqu-medicated-leaven) |
+| *Fuling* (poria) | Sclerotium | Promotes urination and drains damp, strengthens the spleen, calms the heart | — | [1.1](#11-fuling-poria) |
+| *Zhuling* (polyporus) | Sclerotium | Promotes urination and drains damp | — | [1.2](#12-zhuling-polyporus) |
+| *Lingzhi* (reishi) | Fruiting body | Tonifies *qi* and calms the mind, stops cough and relieves wheezing | Beware toxic or unusable bracket fungi passed off as it | [1.3](#13-lingzhi-reishi) |
+| *Dongchongxiacao* (Chinese caterpillar fungus) | Complex of stroma and dead larva | Tonifies the kidney and benefits the lungs, stops bleeding and resolves phlegm | 🛡️ Class II state protection; many fakes | [1.4](#14-dongchongxiacao-chinese-caterpillar-fungus) |
+| *Leiwan* (omphalia) | Sclerotium | Kills parasites and relieves food accumulation | Not used in decoctions; traditionally regarded as slightly toxic | [1.5](#15-leiwan-omphalia) |
+| *Mabo* (puffball) | Fruiting body | Clears the lungs and soothes the throat, stops bleeding | Beware mistaking young death caps for it | [1.6](#16-mabo-puffball) |
+| *Haizao* (sargassum) | Whole thallus | Resolves phlegm, softens hardness and dissipates lumps, promotes urination | ⚠️ Incompatible with *Gancao*; high in iodine | [2.1](#21-haizao-sargassum) |
+| *Kunbu* (kelp) | Thallus | Resolves phlegm, softens hardness and dissipates lumps, promotes urination | High in iodine; caution with thyroid disease | [2.2](#22-kunbu-kelp) |
+| *Ruxiang* (frankincense) | Resin | Activates blood and relieves pain, reduces swelling and promotes tissue regeneration | Caution in pregnancy and with a weak stomach | [3.1](#31-ruxiang-frankincense) |
+| *Moyao* (myrrh) | Resin | Disperses stasis and relieves pain, reduces swelling and promotes tissue regeneration | Caution in pregnancy and with a weak stomach | [3.2](#32-moyao-myrrh) |
+| *Xuejie* (dragon's blood) | Processed resin exuded from the fruit | Activates blood and relieves pain, resolves stasis and stops bleeding, promotes tissue regeneration and heals sores | Many dyed fakes; *Longxuejie* is a different medicine | [3.3](#33-xuejie-dragons-blood) |
+| *Hupo* (amber) | Fossil resin of ancient pine-family plants | Calms fright and the mind, activates blood and disperses stasis, promotes urination | Not in the 2020 Pharmacopoeia; many plastic and rosin imitations | [3.4](#34-hupo-amber) |
+| *Bingpian* (borneol) | Borneol crystals, extracted or synthetic | Opens the orifices and restores consciousness, clears heat and relieves pain | Caution in pregnancy; very small dose | [3.5](#35-bingpian-borneol) |
+| *Wubeizi* (Chinese gall) | Insect gall | Astringes the lungs and lowers fire, binds the intestines and stops diarrhoea, stops bleeding | Contains a lot of tannin | [4.1](#41-wubeizi-chinese-gall) |
+| *Qingdai* (indigo naturalis) | Powder processed from leaves or stems and leaves | Clears heat and detoxifies, cools the blood and fades rashes | Many fakes padded with lime or dye | [4.2](#42-qingdai-indigo-naturalis) |
+| *Luhui* (aloe) | Dried concentrate of leaf juice | Purges and relieves constipation, clears the liver and drains fire, kills parasites | ⚠️ Strong laxative; not to be taken by mouth in pregnancy | [4.3](#43-luhui-aloe) |
+| *Ercha* (catechu) | Concentrated decoction of peeled branches and trunk | Activates blood and relieves pain, stops bleeding and promotes tissue regeneration, dries damp and heals sores | — | [4.4](#44-ercha-catechu) |
+| *Shenqu* (medicated leaven) | Fermented product | Relieves food stagnation and harmonises the stomach (traditional) | Not in the Pharmacopoeia | [4.5](#45-shenqu-medicated-leaven) |
 
 ---
 
@@ -91,7 +91,7 @@ Most medicinal "fungi" are not the mushrooms ordinary people imagine: *Fuling*, 
   - Poria cubes and slices: white or pale red cubes or thin slices, fine in texture
   - Smell: faint smell, bland taste; **sticks to the teeth when chewed**
 - **Fakes**: "poria cubes" and "poria slices" **pressed from, or mixed with, flour or starch** look whiter and more regular, do not stick to the teeth when chewed and taste of flour. **Put on a drop of iodine tincture**: genuine poria turns reddish-brown; **one that quickly turns blue-black has starch mixed in** (experience; the Pharmacopoeia test uses iodine–potassium iodide test solution, and the genuine herb turns deep red)
-- **Harvesting and processing**: usually dug in July–September; after digging, pile it up to "sweat" (see [General Principles – Sweating](00-general-principles.md#54-sweating)), spread it out until the surface is dry, sweat it again, and repeat several times until wrinkles appear and most of the moisture inside has gone; **dry in the shade**. This is "whole poria" (*fulingge*). It can also be cut fresh into cubes or slices by part and dried in the shade
+- **Harvesting and processing**: usually dug in July–September; after digging, pile it up to "sweat" (see [General Principles – *Sweating*](00-general-principles.md#54-sweating)), spread it out until the surface is dry, sweat it again, and repeat several times until wrinkles appear and most of the moisture inside has gone; **dry in the shade**. This is "whole poria" (*fulingge*). It can also be cut fresh into cubes or slices by part and dried in the shade
 - **Storage**: keep in a dry place, protect from damp; it moulds easily when damp and cracks if over-dried
 - **Actions**: promotes urination and drains damp, strengthens the spleen, calms the heart
 - **Dose**: 10-15 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
@@ -122,12 +122,12 @@ Most medicinal "fungi" are not the mushrooms ordinary people imagine: *Fuling*, 
   - Red reishi: shaped like an umbrella; **cap kidney-shaped, semicircular or nearly round**, 10-18 cm across and 1-2 cm thick; **crust hard, yellowish-brown to reddish-brown, with a lacquer-like sheen**, with concentric ridges and radiating wrinkles, the edge thin and blunt; flesh white to pale brown; **stalk attached at the side** (occasionally off-centre), 7-15 cm long, reddish-brown to purplish-brown, shiny; the underside of the cap is a mass of small pores (not gills); spores tiny, yellowish-brown
   - Purple reishi: crust **purplish-black**, with a lacquer-like sheen; flesh rusty brown
   - Smell: faintly fragrant, **taste bitter and astringent**
-- **Look-alikes ("wild Lingzhi")**: there are many woody, semicircular bracket fungi growing on stumps: **artist's bracket** (*Ganoderma applanatum*, no stalk, cap greyish-brown, no lacquer-like sheen), turkey tail, various hoof fungi, *Trametes* species and others. Most are woody in texture, and the chemistry and toxicity of some have not been worked out; in markets they are often sold at high prices as "wild Lingzhi" or "hundred-year Lingzhi". **Do not use anything without a lacquer-like sheen and a long side stalk as Lingzhi**; and never steep unknown hard fungi collected in the wild in water or liquor
+- **Look-alikes ("wild Lingzhi")**: there are many woody, semicircular bracket fungi growing on stumps: **artist's bracket** (*Ganoderma applanatum*, no stalk, cap greyish-brown, no lacquer-like sheen), turkey tail, various hoof fungi, *Trametes* species and others. Most are woody in texture, and the chemistry and toxicity of some have not been worked out; in markets they are often sold at high prices as "wild *Lingzhi*" or "hundred-year *Lingzhi*". **Do not use anything without a lacquer-like sheen and a long side stalk as *Lingzhi***; and never steep unknown hard fungi collected in the wild in water or liquor
 - **Harvesting and processing**: cultivated reishi can be harvested all year round; remove debris, cut off the lower end of the stalk carrying rotten wood, soil or growing substrate, and **dry in the shade or at 40-50°C**
 - **Storage**: seal, keep in a dry place, protect from mould and insects (reishi is very easily attacked by insects)
 - **Actions**: tonifies *qi* and calms the mind, stops cough and relieves wheezing
 - **Dose**: 6-12 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Cautions**: generally fairly safe; people taking anticoagulants, blood-pressure or diabetes medicines, or preparing for surgery, should ask a doctor before taking it long term (experience). **Neither Lingzhi nor Lingzhi spore powder can replace proper cancer treatment**
+- **Cautions**: generally fairly safe; people taking anticoagulants, blood-pressure or diabetes medicines, or preparing for surgery, should ask a doctor before taking it long term (experience). **Neither *Lingzhi* nor *Lingzhi* spore powder can replace proper cancer treatment**
 
 ### 1.4 Dongchongxiacao (Chinese caterpillar fungus)
 
@@ -217,19 +217,19 @@ For why iodine matters, see [Nutrition and Deficiency Diseases – Iodine](../07
 ### 2.1 Haizao (sargassum)
 
 - **Haizao (Daye Haizao, Xiaoye Haizao, Haihaozi, Yangqicai)**: Chinese 海藻; *Sargassum pallidum* (Turn.) C. Ag., *S. fusiforme* (Harv.) Setch.
-- **Source**: the dried thallus of *Sargassum pallidum* (Turn.) C. Ag. (*haihaozi*) or *S. fusiforme* (Harv.) Setch. (hijiki, *yangqicai*) (Sargassaceae); the former is traditionally called "large-leaf Haizao" and the latter "small-leaf Haizao"
+- **Source**: the dried thallus of *Sargassum pallidum* (Turn.) C. Ag. (*haihaozi*) or *S. fusiforme* (Harv.) Setch. (hijiki, *yangqicai*) (Sargassaceae); the former is traditionally called "large-leaf *Haizao*" and the latter "small-leaf *Haizao*"
 - **Distribution and habitat**: *S. pallidum* grows on rocks below the low-tide line along the coasts of the Yellow Sea and Bohai Sea; hijiki grows on rocks in the intertidal zone along the south-eastern coast (Zhejiang, Fujian, Guangdong and elsewhere), and is farmed on a large scale in Zhejiang
 - **Key identification features**:
-  - Large-leaf Haizao: shrivelled and curled, **blackish-brown**, some with a white bloom, 30-60 cm long; main stem cylindrical with conical bumps, side branches with short spine-like bumps; leaves lanceolate, obovate or strap-shaped; **with blackish-brown spherical or oval "air bladders"** (which keep the seaweed afloat)
-  - Small-leaf Haizao: smaller, 15-40 cm long; branches alternate, without spine-like bumps; leaves strap-shaped or narrowly spoon-shaped, tip slightly swollen and hollow; air bladders spindle-shaped or spherical, with fairly long stalks; fairly hard
+  - Large-leaf *Haizao*: shrivelled and curled, **blackish-brown**, some with a white bloom, 30-60 cm long; main stem cylindrical with conical bumps, side branches with short spine-like bumps; leaves lanceolate, obovate or strap-shaped; **with blackish-brown spherical or oval "air bladders"** (which keep the seaweed afloat)
+  - Small-leaf *Haizao*: smaller, 15-40 cm long; branches alternate, without spine-like bumps; leaves strap-shaped or narrowly spoon-shaped, tip slightly swollen and hollow; air bladders spindle-shaped or spherical, with fairly long stalks; fairly hard
   - Texture: brittle when dry, **swells when soaked in water, becoming fleshy and slimy**
   - Smell: **fishy smell, taste slightly salty**
-- **Look-alikes**: there are many other brown and green seaweeds to be picked up on the shore; they are generally not poisonous, but they are not the Pharmacopoeia's Haizao. **Air bladders and leaf-like differentiation** are features of the *Sargassum* group
+- **Look-alikes**: there are many other brown and green seaweeds to be picked up on the shore; they are generally not poisonous, but they are not the Pharmacopoeia's *Haizao*. **Air bladders and leaf-like differentiation** are features of the *Sargassum* group
 - **Harvesting and processing**: in summer and autumn, scoop or cut from the sea, remove debris, **wash in fresh water**, sun-dry. Do not collect seaweed near sewage outlets, harbours or polluted farming areas (it readily accumulates heavy metals)
 - **Storage**: keep in a dry place, **protect from damp** (it contains salt and absorbs moisture easily); the white bloom on the surface is salt and mannitol coming out, not mould; do not use pieces with green or black fuzzy mould spots
 - **Actions**: resolves phlegm, softens hardness and dissipates lumps, promotes urination and reduces oedema
 - **Dose**: 6-12 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Cautions**: **do not use together with Gancao** (eighteen incompatibilities); people with thyroid disease such as an overactive thyroid must not use it on their own; not advisable for people with a cold, weak spleen and stomach who often have diarrhoea (experience). When hijiki is eaten as food, food-safety agencies in some countries warn that its **inorganic arsenic content is high**, so it should not be eaten in large amounts long term
+- **Cautions**: **do not use together with *Gancao*** (eighteen incompatibilities); people with thyroid disease such as an overactive thyroid must not use it on their own; not advisable for people with a cold, weak spleen and stomach who often have diarrhoea (experience). When hijiki is eaten as food, food-safety agencies in some countries warn that its **inorganic arsenic content is high**, so it should not be eaten in large amounts long term
 
 ### 2.2 Kunbu (kelp)
 
@@ -266,7 +266,7 @@ For why iodine matters, see [Nutrition and Deficiency Diseases – Iodine](../07
    easily: seal and keep in a cool place
 ```
 
-There is also a poisonous resin herb, **Tenghuang** (gamboge), which is for external use only and must never be taken by mouth; see [Toxic Herbs – Tenghuang](09-toxic-herbs-and-poisonous-look-alikes.md#219-tenghuang-gamboge).
+There is also a poisonous resin herb, ***Tenghuang*** (gamboge), which is for external use only and must never be taken by mouth; see [Toxic *Herbs* – *Tenghuang*](09-toxic-herbs-and-poisonous-look-alikes.md#219-tenghuang-gamboge).
 
 ### 3.1 Ruxiang (frankincense)
 
@@ -305,13 +305,13 @@ There is also a poisonous resin herb, **Tenghuang** (gamboge), which is for exte
 
 - **Xuejie (Qilinjie, Jinkou Xuejie)**: Chinese 血竭; *Daemonorops draco* Bl.
 - **Source**: processed from the resin exuded by the fruit of the dragon's blood palm, *Daemonorops draco* Bl. (Arecaceae, palm family)
-- **Distribution and habitat**: *Daemonorops draco* is a climbing palm (rattan) from Indonesia, Malaysia and elsewhere; all the Pharmacopoeia's Xuejie is imported
+- **Distribution and habitat**: *Daemonorops draco* is a climbing palm (rattan) from Indonesia, Malaysia and elsewhere; all the Pharmacopoeia's *Xuejie* is imported
 - **Key identification features**:
   - Crude drug: roughly **rounded-square or brick-shaped**; **surface dark red, glossy**, with red powder from rubbing; hard and brittle, broken surface red, **brick-red when ground to powder**
   - Smell: faint smell, bland taste; does not dissolve in water, softens in hot water
   - **Paper-heating test** (Pharmacopoeia identification test): put some powder on white paper and heat it with a flame from under the paper: **the powder melts, but there is no oily stain spreading out across the paper**, and against the light it is **bright red**
   - Fire test: lit with a flame, it gives off **choking smoke**
-- **"Longxuejie" is not "Xuejie"**: the Chinese-produced **Longxuejie** is resin extracted from the resinous wood of *Dracaena cochinchinensis* and related species (Asparagaceae; formerly placed in the lily family Liliaceae or the agave family Agavaceae), produced in Yunnan and Guangxi and used under ministry or local standards. **It is not the Pharmacopoeia's "Xuejie"**; the two have different sources, and although their actions are similar they must not be freely substituted for each other or called by each other's name
+- **"Longxuejie" is not "Xuejie"**: the Chinese-produced **Longxuejie** is resin extracted from the resinous wood of *Dracaena cochinchinensis* and related species (Asparagaceae; formerly placed in the lily family Liliaceae or the agave family Agavaceae), produced in Yunnan and Guangxi and used under ministry or local standards. **It is not the Pharmacopoeia's "*Xuejie*"**; the two have different sources, and although their actions are similar they must not be freely substituted for each other or called by each other's name
 - **Fakes**: **rosin with red dye** pressed into blocks, or genuine herb mixed with rosin or earth: in the paper-heating test, **an oily stain spreads** or **a large patch of paper is stained red**, or there is a rosin smell: it is a fake; be suspicious of any that **loses colour** when wiped with water or alcohol
 - **Storage**: keep in a cool, dry place, protect from heat (it softens)
 - **Actions**: activates blood and relieves pain, resolves stasis and stops bleeding, promotes tissue regeneration and heals sores
@@ -343,54 +343,54 @@ There is also a poisonous resin herb, **Tenghuang** (gamboge), which is for exte
   - **Natural Bingpian (d-borneol)**: made by **extracting and processing** the fresh branches and leaves of the camphor tree, *Cinnamomum camphora* (L.) Presl (Lauraceae)
   - **Aipian (l-borneol)**: crystals made by extracting and processing the fresh leaves of *Blumea balsamifera* (L.) DC. (Asteraceae)
   - The "*longnaoxiang*" and "*meipian*" of old books are resin crystals of the Borneo camphor tree (Dipterocarpaceae); imported, and rarely seen today
-- **Distribution and habitat**: the raw material of natural Bingpian, the camphor tree (a particular "borneol camphor" chemotype), comes mainly from Jiangxi, Hunan and elsewhere; *Blumea balsamifera* grows in Guangdong, Guangxi, Guizhou and Hainan
+- **Distribution and habitat**: the raw material of natural *Bingpian*, the camphor tree (a particular "borneol camphor" chemotype), comes mainly from Jiangxi, Hunan and elsewhere; *Blumea balsamifera* grows in Guangdong, Guangxi, Guizhou and Hainan
 - **Key identification features**:
-  - Synthetic Bingpian: **colourless and transparent or white and translucent, flaky, brittle crystals**; **clear fragrance, taste pungent and cool**; volatile; when lit it gives thick smoke and a bright flame
-  - Natural Bingpian: white crystalline powder or flaky crystals, clear fragrance, taste pungent and cool, volatile
-  - Natural and synthetic products are **almost impossible to tell apart by eye**; synthetic Bingpian contains a substantial proportion of isoborneol and can only be identified by laboratory testing. The price difference is large: **be suspicious of anything labelled "natural Bingpian" that is very cheap**
-- **Look-alikes**: **camphor** (also white crystals extracted from the camphor tree, with a sharper smell, more like a "camphorwood chest") **is not Bingpian**; taken by mouth it can cause fits, and **a few grams swallowed by a child can kill**; mothballs and camphor balls (mostly naphthalene or p-dichlorobenzene) must never be used as medicine
-- **Storage**: **seal**, keep in a cool place; Bingpian is extremely volatile and left open it "gets less and less"
+  - Synthetic *Bingpian*: **colourless and transparent or white and translucent, flaky, brittle crystals**; **clear fragrance, taste pungent and cool**; volatile; when lit it gives thick smoke and a bright flame
+  - Natural *Bingpian*: white crystalline powder or flaky crystals, clear fragrance, taste pungent and cool, volatile
+  - Natural and synthetic products are **almost impossible to tell apart by eye**; synthetic *Bingpian* contains a substantial proportion of isoborneol and can only be identified by laboratory testing. The price difference is large: **be suspicious of anything labelled "natural *Bingpian*" that is very cheap**
+- **Look-alikes**: **camphor** (also white crystals extracted from the camphor tree, with a sharper smell, more like a "camphorwood chest") **is not *Bingpian***; taken by mouth it can cause fits, and **a few grams swallowed by a child can kill**; mothballs and camphor balls (mostly naphthalene or p-dichlorobenzene) must never be used as medicine
+- **Storage**: **seal**, keep in a cool place; *Bingpian* is extremely volatile and left open it "gets less and less"
 - **Actions**: opens the orifices and restores consciousness, clears heat and relieves pain
 - **Dose** (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner):
-  - Bingpian (synthetic borneol), Aipian: 0.15-0.3 g, in pills and powders; for external use, ground to powder and dabbed on the affected area
-  - Natural Bingpian: 0.3-0.9 g, in pills and powders; for external use, a suitable amount
+  - *Bingpian* (synthetic borneol), Aipian: 0.15-0.3 g, in pills and powders; for external use, ground to powder and dabbed on the affected area
+  - Natural *Bingpian*: 0.3-0.9 g, in pills and powders; for external use, a suitable amount
   - **Not used in decoctions** (it evaporates as soon as it is heated)
-- **Cautions**: **use with caution in pregnancy**; do not use on babies and young children (including not putting ointments containing Bingpian near their mouth or nose); taken by mouth it irritates the stomach and intestines, and an overdose can cause nausea, vomiting and dizziness; coma, stroke and "closed patterns" (*bizheng*) must be seen by a doctor at once; do not rely on Bingpian to "open the orifices"
+- **Cautions**: **use with caution in pregnancy**; do not use on babies and young children (including not putting ointments containing *Bingpian* near their mouth or nose); taken by mouth it irritates the stomach and intestines, and an overdose can cause nausea, vomiting and dizziness; coma, stroke and "closed patterns" (*bizheng*) must be seen by a doctor at once; do not rely on *Bingpian* to "open the orifices"
 
 ## 4. Other processed products
 
-The herbs in this group have very different origins: *Wubeizi* is an "insect gall" formed on leaves when aphids irritate them; *Qingdai*, *Luhui* and *Ercha* are made by processing the leaves, juice or wood of plants into a powder, a concentrate or a concentrated decoction; *Shenqu* is a block of leaven fermented from flour and several herbs. **Apart from Wubeizi, it is very hard for ordinary people to collect suitable raw material themselves or to make an acceptable product**; this section again concentrates on telling genuine from fake and on safe use.
+The herbs in this group have very different origins: *Wubeizi* is an "insect gall" formed on leaves when aphids irritate them; *Qingdai*, *Luhui* and *Ercha* are made by processing the leaves, juice or wood of plants into a powder, a concentrate or a concentrated decoction; *Shenqu* is a block of leaven fermented from flour and several herbs. **Apart from *Wubeizi*, it is very hard for ordinary people to collect suitable raw material themselves or to make an acceptable product**; this section again concentrates on telling genuine from fake and on safe use.
 
 ### 4.1 Wubeizi (Chinese gall)
 
 - **Wubeizi (Baichongcang, Dubei, Jiaobei)**: Chinese 五倍子; *Rhus chinensis* Mill., *R. potaninii* Maxim., *R. punjabensis* Stew. var. *sinica* (Diels) Rehd. et Wils.
 - **Source**: the **insect gall** on the leaves of the Chinese sumac, *Rhus chinensis* Mill., or of *R. potaninii* Maxim. or *R. punjabensis* Stew. var. *sinica* (Diels) Rehd. et Wils. (Anacardiaceae, cashew family), formed mainly by the parasitic gall aphid *Melaphis chinensis* (Bell) Baker; by shape it is divided into "belly galls" (*dubei*) and "horned galls" (*jiaobei*)
-- **Distribution and habitat**: Chinese sumac is very common on hillsides, forest edges and waste ground in the Yangtze basin and southwards; Wubeizi is produced mainly in Guizhou, Sichuan, Hubei, Hunan, Yunnan, Shaanxi and elsewhere
+- **Distribution and habitat**: Chinese sumac is very common on hillsides, forest edges and waste ground in the Yangtze basin and southwards; *Wubeizi* is produced mainly in Guizhou, Sichuan, Hubei, Hunan, Yunnan, Shaanxi and elsewhere
 - **Key identification features**:
   - Host, Chinese sumac: deciduous small tree or shrub; **odd-pinnate compound leaves, with clear leaf-like "wings" along the leaf axis** (the most reliable feature for recognising Chinese sumac); leaflets with coarse teeth, hairy underneath; the leaves turn red in autumn; the small drupes in the fruit clusters have a white bloom and **taste salty and sour** when licked (hence the Chinese name, "salt-skin tree")
   - Fresh galls: green to red hollow "fruits" hanging on the leaf axis and leaf stalks in autumn; broken open, they are full of tiny aphids
   - Belly gall: oblong or spindle-shaped sac, 2.5-9 cm long and 1.5-4 cm across; **surface greyish-brown or greyish-tan, slightly downy**; hard and brittle, broken surface horn-like and lustrous, wall 0.2-0.3 cm thick; **inner wall smooth, with dead blackish-brown aphids and grey powdery droppings**
   - Horned gall: diamond-shaped, with irregular blunt horn-like branches; downier, with a thinner wall
   - Smell: distinctive smell, **extremely astringent taste**
-- **⚠️ Do not confuse it with the lacquer tree or wax tree**: the lacquer tree and wax tree are in the same cashew family, also have pinnate compound leaves and turn red in autumn, but **the leaf axis has no wings**; touching them can cause severe allergic dermatitis ("lacquer sores"); see [Forest Survival – Poisonous plants](../03-wilderness-survival/02-forest-survival.md#plants). **Do not touch trees whose leaf axis has no wings**; people allergic to lacquer should also wear gloves when collecting Wubeizi
+- **⚠️ Do not confuse it with the lacquer tree or wax tree**: the lacquer tree and wax tree are in the same cashew family, also have pinnate compound leaves and turn red in autumn, but **the leaf axis has no wings**; touching them can cause severe allergic dermatitis ("lacquer sores"); see [Forest Survival – Poisonous plants](../03-wilderness-survival/02-forest-survival.md#plants). **Do not touch trees whose leaf axis has no wings**; people allergic to lacquer should also wear gloves when collecting *Wubeizi*
 - **Harvesting and processing**: pick in **autumn** when the galls are mature and before the aphids have come out (once the aphids fly out the gall splits and its quality falls); after picking, **put them in boiling water for a short boil, or steam them until the surface turns grey**, to kill the aphids inside, then take them out and dry them
 - **Storage**: keep in a well-ventilated, dry place, protect from crushing
 - **Actions**: astringes the lungs and lowers fire, binds the intestines and stops diarrhoea, checks sweating, stops bleeding, dries damp and heals sores
 - **Dose**: 3-6 g; for external use, a suitable amount (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Cautions**: not advisable for cough from an external attack or at the start of damp-heat diarrhoea and dysentery (experience); it contains a very large amount of tannin (can be over 50%), so **large internal doses can cause constipation and stomach discomfort** and may affect the absorption of iron supplements and other medicines; take it at a different time from other medicines (experience). The tannin of Wubeizi is also a traditional raw material for tanning hides, making ink and dyeing black; for tanning methods see [Vegetable tanning](../07-everyday-living-skills/07-textiles-sewing-and-tanning.md#method-2-vegetable-tanning-for-leather-with-the-hair-removed)
+- **Cautions**: not advisable for cough from an external attack or at the start of damp-heat diarrhoea and dysentery (experience); it contains a very large amount of tannin (can be over 50%), so **large internal doses can cause constipation and stomach discomfort** and may affect the absorption of iron supplements and other medicines; take it at a different time from other medicines (experience). The tannin of *Wubeizi* is also a traditional raw material for tanning hides, making ink and dyeing black; for tanning methods see [Vegetable tanning](../07-everyday-living-skills/07-textiles-sewing-and-tanning.md#method-2-vegetable-tanning-for-leather-with-the-hair-removed)
 
 ### 4.2 Qingdai (indigo naturalis)
 
 - **Qingdai (Dianhua, Landianhua)**: Chinese 青黛; *Baphicacanthus cusia* (Nees) Bremek., *Polygonum tinctorium* Ait., *Isatis indigotica* Fort.
 - **Source**: the **dried powder, lumps or granules processed from** the leaves or stems and leaves of *Baphicacanthus cusia* (Nees) Bremek. (Acanthaceae), Chinese indigo, *Polygonum tinctorium* Ait. (Polygonaceae, knotweed family), or woad, *Isatis indigotica* Fort. (Brassicaceae, cabbage family)
-- **Distribution and habitat**: *Baphicacanthus* grows in Fujian, Guangdong, Sichuan, Yunnan and other southern regions (its rhizome and root are "southern Banlangen"); woad is widely grown in the north (its root is [Banlangen](01-roots-and-rhizomes-1.md#33-banlangen-isatis-root) and its leaf is *Daqingye*); Qingdai is produced mainly in Fujian ("Fujian Qingdai", *jianqingdai*)
+- **Distribution and habitat**: *Baphicacanthus* grows in Fujian, Guangdong, Sichuan, Yunnan and other southern regions (its rhizome and root are "southern *Banlangen*"); woad is widely grown in the north (its root is [*Banlangen*](01-roots-and-rhizomes-1.md#33-banlangen-isatis-root) and its leaf is *Daqingye*); *Qingdai* is produced mainly in Fujian ("Fujian *Qingdai*", *jianqingdai*)
 - **Key identification features**:
   - Crude drug: **deep blue powder, light, flies about easily**; or irregular porous lumps and granules that crumble to fine powder when rubbed between the fingers
   - Smell: slightly grassy-fishy smell, bland taste
   - Fire test (Pharmacopoeia identification test): heat a little over a low flame: **purplish-red fumes are given off** (indigo subliming)
   - Water test: sprinkled on water, **most of it floats on the surface** and the water does not turn noticeably blue (indigo does not dissolve in water) (experience)
 - **Fakes**: **too much lime, talc or earth mixed in** to add weight: it feels heavy, much of it sinks in water, and with a drop of vinegar or dilute hydrochloric acid it fizzes strongly (lime); powder **coloured with chemical dyes**: in water **the water quickly turns blue**, and heating gives no purplish-red fumes (experience)
-- **Processing at the place of origin** (for information only): traditionally, fresh leaves are soaked and fermented, the branches and leaves are removed, lime water is added and the liquid is beaten repeatedly, and **the blue froth floating on the surface is skimmed off** and sun-dried to give Qingdai; what settles at the bottom is the "indigo paste" (*landian*) used for dyeing cloth. Medicinal Qingdai must have few impurities, and home-made product can hardly meet the standard
+- **Processing at the place of origin** (for information only): traditionally, fresh leaves are soaked and fermented, the branches and leaves are removed, lime water is added and the liquid is beaten repeatedly, and **the blue froth floating on the surface is skimmed off** and sun-dried to give *Qingdai*; what settles at the bottom is the "indigo paste" (*landian*) used for dyeing cloth. Medicinal *Qingdai* must have few impurities, and home-made product can hardly meet the standard
 - **Storage**: keep in a dry place, **protect from damp**; the powder flies about easily, so keep it sealed
 - **Actions**: clears heat and detoxifies, cools the blood and fades rashes, drains fire and calms convulsions
 - **Dose**: 1-3 g, best used in pills and powders; for external use, a suitable amount (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
@@ -402,11 +402,11 @@ The herbs in this group have very different origins: *Wubeizi* is an "insect gal
 - **Source**: the **dried concentrate of the leaf juice** of Curaçao aloe, *Aloe barbadensis* Miller, Cape aloe, *A. ferox* Miller, or other closely related *Aloe* species (Liliaceae, lily family); the former is traditionally called "old aloe" (*lao luhui*) and the latter "new aloe" (*xin luhui*)
 - **Distribution and habitat**: native to Africa; grown in southern China (Guangdong, Guangxi, Fujian, Hainan, Yunnan), and mostly as a pot plant in the north
 - **Key identification features**:
-  - Plant: perennial succulent herb; leaves thick and juicy, **lanceolate, with small spiny teeth along the edges**, clustered on a short stem; cut open a leaf and **the middle is clear gel, while the layer right under the skin oozes a bitter yellow juice**: the herb Luhui is this yellow juice concentrated and dried, not the clear gel
+  - Plant: perennial succulent herb; leaves thick and juicy, **lanceolate, with small spiny teeth along the edges**, clustered on a short stem; cut open a leaf and **the middle is clear gel, while the layer right under the skin oozes a bitter yellow juice**: the herb *Luhui* is this yellow juice concentrated and dried, not the clear gel
   - Old aloe (Curaçao aloe): irregular lumps, often broken into polygonal pieces; **surface dark reddish-brown or deep brown, without lustre**; light, hard, not easily broken, broken surface rough or with hemp-like streaks; strongly absorbs moisture
   - New aloe (Cape aloe): surface dark brown, slightly greenish, **glossy**; light, loose, breaks easily, **broken surface glassy** with layered lines
   - Smell: **a peculiar unpleasant smell, taste extremely bitter**
-- **Look-alikes**: there are many varieties of "aloe" grown as house plants, and some similar-looking ornamentals (such as some agaves and snake plants) are not aloe at all; **do not eat any variety you do not know**. "Aloe gel" on sale is a product for external use made from the clear gel, and has nothing to do with the herb Luhui
+- **Look-alikes**: there are many varieties of "aloe" grown as house plants, and some similar-looking ornamentals (such as some agaves and snake plants) are not aloe at all; **do not eat any variety you do not know**. "Aloe gel" on sale is a product for external use made from the clear gel, and has nothing to do with the herb *Luhui*
 - **Storage**: seal, keep in a cool, dry place, **protect from damp** (it turns sticky and cakes when it absorbs moisture)
 - **Actions**: purges and relieves constipation, clears the liver and drains fire, kills parasites and treats infantile malnutrition (*gan*)
 - **Dose**: 2-5 g, best used in pills and powders; for external use, a suitable amount ground to powder and applied to the affected area (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
@@ -424,7 +424,7 @@ The herbs in this group have very different origins: *Wubeizi* is an "insect gal
 - **Key identification features**:
   - Crude drug: **square or irregular lumps** of varying size; **surface brown or blackish-brown, smooth and slightly glossy**; hard, brittle, broken surface uneven and glossy, **with fine pores**, sticky when damp
   - Smell: faint smell, **taste astringent and bitter, with a slightly sweet aftertaste**
-- **Look-alikes**: "square catechu" (pale catechu, gambier) is the concentrated decoction of the young leafy twigs of *Uncaria gambier* (Rubiaceae, coffee family); it is in square blocks with a brown surface and is fairly light. It was used as catechu in the past but is not the Pharmacopoeia's Ercha. Pieces with starch or earth mixed in have an uneven colour on the broken surface and feel gritty (experience)
+- **Look-alikes**: "square catechu" (pale catechu, gambier) is the concentrated decoction of the young leafy twigs of *Uncaria gambier* (Rubiaceae, coffee family); it is in square blocks with a brown surface and is fairly light. It was used as catechu in the past but is not the Pharmacopoeia's *Ercha*. Pieces with starch or earth mixed in have an uneven colour on the broken surface and feel gritty (experience)
 - **Harvesting and processing**: cut branches and trunks in winter, remove the bark, chop into large pieces, boil in water, concentrate and dry
 - **Storage**: keep in a dry place, **protect from damp** (it turns sticky and clumps together when it absorbs moisture)
 - **Actions**: activates blood and relieves pain, stops bleeding and promotes tissue regeneration, dries damp and heals sores, clears the lungs and resolves phlegm
@@ -438,8 +438,8 @@ The herbs in this group have very different origins: *Wubeizi* is an "insect gal
 - **Key identification features**:
   - Crude drug: **square or oblong blocks**; surface **greyish-yellow, rough**; brittle, snaps easily, broken surface uneven, off-white or yellowish-white, with visible brown remains of unground herbs and **small holes produced by fermentation**
   - Smell: **a stale, fermented smell**, bitter taste
-  - Stir-fried and scorched Shenqu: surface yellow or scorched brown, with a toasted smell
-- **Note**: this book **does not give a fermentation recipe for Shenqu**: cocklebur, one of the raw materials, is poisonous (see [Cocklebur seedlings and Cangerzi](09-toxic-herbs-and-poisonous-look-alikes.md#410-canger-seedlings-and-cangerzi-cocklebur)), contamination by other microbes during fermentation can produce mycotoxins, and the quality of a home-made product cannot be guaranteed. **The leavens used for brewing liquor or making soy sauce are not Shenqu** and cannot replace it
+  - Stir-fried and scorched *Shenqu*: surface yellow or scorched brown, with a toasted smell
+- **Note**: this book **does not give a fermentation recipe for *Shenqu***: cocklebur, one of the raw materials, is poisonous (see [Cocklebur seedlings and Cangerzi](09-toxic-herbs-and-poisonous-look-alikes.md#410-canger-seedlings-and-cangerzi-cocklebur)), contamination by other microbes during fermentation can produce mycotoxins, and the quality of a home-made product cannot be guaranteed. **The leavens used for brewing liquor or making soy sauce are not *Shenqu*** and cannot replace it
 - **Storage**: **very easily attacked by insects and mould**: seal, keep in a cool, dry place and check often; **do not use any with green or black mould spots, or a mouldy, sour or rancid smell**
 - **Actions** (traditional): strengthens the spleen and harmonises the stomach, relieves food stagnation and regulates the middle; used for food stagnation and fullness and distension of the upper abdomen
 - **Dose**: usually 6-15 g (usual textbook dose; not in the Pharmacopoeia; use under the guidance of a TCM practitioner). For common combinations for food stagnation and bloating see [Traditional Chinese Medicine Preparations – Food stagnation and bloating](../06-pharmaceuticals/04-herbal-preparations.md#food-stagnation-and-bloating)
@@ -452,44 +452,44 @@ The herbs in this group have very different origins: *Wubeizi* is an "insect gal
 | Herb in this chapter | Main risk | How to avoid it |
 |---------|---------|---------|
 | All fungi | Eating death caps or other deadly fungi picked in the wild by mistake | Do not pick wild fungi for medicine or food; use only proper herbs |
-| Fuling | Fake poria slices pressed from flour or starch | Sticks to the teeth when chewed; turns blue-black with iodine tincture if starch is mixed in |
-| Lingzhi | Artist's bracket and other bracket fungi passed off as "wild Lingzhi" | Look for the lacquer-like sheen and the long side stalk; do not steep unknown hard fungi in water or liquor |
-| Dongchongxiacao | Illegal digging and buying; Dican, Yaxiangbang Chongcao, moulded fakes, iron wire for weight; high arsenic | Do not dig wild plants; check the legs, rings, stroma and broken surface; do not eat large amounts long term |
-| Mabo | Young death-cap buttons, earthballs | Cut lengthwise: only a puffball is uniform inside with no structure; do not collect any that turn black inside early |
-| Leiwan | Used instead of deworming drugs; destroyed by decoction | See a doctor for parasites; not used in decoctions |
-| Haizao, Kunbu | Too much iodine worsens thyroid disease; Haizao is incompatible with Gancao | People with thyroid disease must not use them on their own; do not use with Gancao |
-| Ruxiang, Moyao | Rosin passed off as them; irritate the stomach; risks in pregnancy | Chewing test, water test; caution in pregnancy and with a weak stomach |
-| Xuejie | Fakes of rosin plus dye; confusion with Longxuejie | No oily stain in the paper-heating test, bright red against the light; check the Pharmacopoeia source |
-| Hupo | Plastic and copal imitations | Picks up paper after rubbing, floats in salt water, smells of rosin with a hot needle |
-| Bingpian | Synthetic passed off as natural; camphor mistaken for Bingpian | Look at the price and the test report; never take camphor by mouth; no Bingpian for babies and young children |
-| Wubeizi | Touching lacquer or wax trees by mistake while collecting | Look for Chinese sumac with winged leaf axes; people prone to allergy wear gloves |
-| Qingdai | Lime mixed in, dyed with dye | Gives purplish-red fumes when heated; water does not turn blue |
-| Luhui | Strong purging; can cause contractions of the womb in pregnancy | No internal use in pregnancy; not for abdominal pain of unknown cause |
-| Shenqu | Mould; contamination of home fermentation; confusion with brewing leaven | Use only proper prepared slices; throw away mouldy pieces |
+| *Fuling* | Fake poria slices pressed from flour or starch | Sticks to the teeth when chewed; turns blue-black with iodine tincture if starch is mixed in |
+| *Lingzhi* | Artist's bracket and other bracket fungi passed off as "wild *Lingzhi*" | Look for the lacquer-like sheen and the long side stalk; do not steep unknown hard fungi in water or liquor |
+| *Dongchongxiacao* | Illegal digging and buying; Dican, Yaxiangbang Chongcao, moulded fakes, iron wire for weight; high arsenic | Do not dig wild plants; check the legs, rings, stroma and broken surface; do not eat large amounts long term |
+| *Mabo* | Young death-cap buttons, earthballs | Cut lengthwise: only a puffball is uniform inside with no structure; do not collect any that turn black inside early |
+| *Leiwan* | Used instead of deworming drugs; destroyed by decoction | See a doctor for parasites; not used in decoctions |
+| *Haizao*, *Kunbu* | Too much iodine worsens thyroid disease; *Haizao* is incompatible with *Gancao* | People with thyroid disease must not use them on their own; do not use with *Gancao* |
+| *Ruxiang*, *Moyao* | Rosin passed off as them; irritate the stomach; risks in pregnancy | Chewing test, water test; caution in pregnancy and with a weak stomach |
+| *Xuejie* | Fakes of rosin plus dye; confusion with Longxuejie | No oily stain in the paper-heating test, bright red against the light; check the Pharmacopoeia source |
+| *Hupo* | Plastic and copal imitations | Picks up paper after rubbing, floats in salt water, smells of rosin with a hot needle |
+| *Bingpian* | Synthetic passed off as natural; camphor mistaken for *Bingpian* | Look at the price and the test report; never take camphor by mouth; no *Bingpian* for babies and young children |
+| *Wubeizi* | Touching lacquer or wax trees by mistake while collecting | Look for Chinese sumac with winged leaf axes; people prone to allergy wear gloves |
+| *Qingdai* | Lime mixed in, dyed with dye | Gives purplish-red fumes when heated; water does not turn blue |
+| *Luhui* | Strong purging; can cause contractions of the womb in pregnancy | No internal use in pregnancy; not for abdominal pain of unknown cause |
+| *Shenqu* | Mould; contamination of home fermentation; confusion with brewing leaven | Use only proper prepared slices; throw away mouldy pieces |
 
 ### 5.2 Self-check
 
 Before using or buying the herbs in this chapter, confirm each point:
 
 - [ ] I have not gone out into the wild to pick unknown mushrooms "looking for medicinal fungi"
-- [ ] I only buy Dongchongxiacao, never dig it, and I check the legs, rings, stroma and broken surface, and break it open to look for iron wire
-- [ ] I have chewed the Fuling slices and tested them with iodine tincture, and confirmed they are not pressed flour
-- [ ] The Lingzhi has a lacquer-like sheen and a long side stalk; anything without these is not used as Lingzhi
-- [ ] People with thyroid disease do not use Haizao or Kunbu; Haizao is not added to a prescription containing Gancao
-- [ ] The resins (Ruxiang, Moyao, Xuejie) have been chewing-tested, water-tested or paper-heated to rule out rosin
-- [ ] Bingpian is kept sealed, apart from camphor and mothballs, and out of reach of children
-- [ ] Pregnant women do not use Luhui, Bingpian, Ruxiang, Moyao or Xuejie
+- [ ] I only buy *Dongchongxiacao*, never dig it, and I check the legs, rings, stroma and broken surface, and break it open to look for iron wire
+- [ ] I have chewed the *Fuling* slices and tested them with iodine tincture, and confirmed they are not pressed flour
+- [ ] The *Lingzhi* has a lacquer-like sheen and a long side stalk; anything without these is not used as *Lingzhi*
+- [ ] People with thyroid disease do not use *Haizao* or *Kunbu*; *Haizao* is not added to a prescription containing *Gancao*
+- [ ] The resins (*Ruxiang*, *Moyao*, *Xuejie*) have been chewing-tested, water-tested or paper-heated to rule out rosin
+- [ ] *Bingpian* is kept sealed, apart from camphor and mothballs, and out of reach of children
+- [ ] Pregnant women do not use *Luhui*, *Bingpian*, *Ruxiang*, *Moyao* or *Xuejie*
 - [ ] I know the Pharmacopoeia doses and cautions; pregnant women, children, people with liver or kidney disease and people taking anticoagulants ask a doctor first
 
 | Step | Difficulty | Risk of error |
 |------|------|----------|
-| Recognising cultivated sclerotia and fruiting bodies (Fuling, Zhuling, Lingzhi) | ⭐⭐ | ☠️ (buying fakes) |
-| Telling genuine from fake Dongchongxiacao | ⭐⭐⭐⭐ | ☠️ (fakes, added weight, arsenic) + illegal digging |
+| Recognising cultivated sclerotia and fruiting bodies (*Fuling*, *Zhuling*, *Lingzhi*) | ⭐⭐ | ☠️ (buying fakes) |
+| Telling genuine from fake *Dongchongxiacao* | ⭐⭐⭐⭐ | ☠️ (fakes, added weight, arsenic) + illegal digging |
 | Picking puffballs and other wild fungi in the wild | ⭐⭐⭐⭐⭐ | ☠️☠️☠️☠️☠️ (picking death-cap buttons by mistake) |
-| Telling genuine from fake resins (Ruxiang, Moyao, Xuejie, Hupo) | ⭐⭐⭐ | ☠️ (rosin and dye fakes) |
-| Telling Bingpian from camphor | ⭐⭐⭐ | ☠️☠️☠️☠️ (camphor swallowed by mistake causes fits) |
-| Collecting Wubeizi | ⭐⭐ | ☠️☠️ (dermatitis from touching lacquer trees by mistake) |
-| Pregnant women taking Luhui, Bingpian and the like by mouth | Not allowed | ☠️☠️☠️☠️ (contractions of the womb, miscarriage) |
+| Telling genuine from fake resins (*Ruxiang*, *Moyao*, *Xuejie*, *Hupo*) | ⭐⭐⭐ | ☠️ (rosin and dye fakes) |
+| Telling *Bingpian* from camphor | ⭐⭐⭐ | ☠️☠️☠️☠️ (camphor swallowed by mistake causes fits) |
+| Collecting *Wubeizi* | ⭐⭐ | ☠️☠️ (dermatitis from touching lacquer trees by mistake) |
+| Pregnant women taking *Luhui*, *Bingpian* and the like by mouth | Not allowed | ☠️☠️☠️☠️ (contractions of the womb, miscarriage) |
 
 ## 📝 Key points of this chapter
 
@@ -522,8 +522,8 @@ Before using or buying the herbs in this chapter, confirm each point:
 
 - ⏮️ [Barks, Stems and Woods](06-barks-stems-and-woods.md) - phellodendron, magnolia bark, eucommia, cinnamon bark, agarwood, uncaria and other bark and stem herbs
 - ⏭️ [Animal and Mineral Medicines](08-animal-and-mineral-medicines.md) - donkey-hide gelatin, oyster shell, cicada slough, gypsum, talc and other animal and mineral medicines, and the ban on protected animals
-- 🔗 [General Principles of Identifying and Collecting Chinese Medicinal Herbs](00-general-principles.md) - general methods for identification, harvesting, processing, storage, safety and the law
-- 🔗 [Toxic Herbs and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - identification and poisoning signs of toxic resins such as gamboge and poisonous plants such as cocklebur
+- 🔗 [General Principles of Identifying and Collecting Chinese Medicinal *Herbs*](00-general-principles.md) - general methods for identification, harvesting, processing, storage, safety and the law
+- 🔗 [Toxic *Herbs* and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - identification and poisoning signs of toxic resins such as gamboge and poisonous plants such as cocklebur
 - 🔗 [Poisonous Mushrooms and Wild Plants](../03-wilderness-survival/09-poisonous-mushrooms-and-wild-plants.md) - why you should not pick wild mushrooms, and what to do after eating the wrong thing
 - 🔗 [Nutrition and Deficiency Diseases](../07-everyday-living-skills/02-nutrition-and-deficiency-diseases.md) - iodine deficiency and iodine-rich foods such as kelp
 - 🔗 [Traditional Chinese Medicine Preparations](../06-pharmaceuticals/04-herbal-preparations.md) - processing, decoction, common formulas and safe use

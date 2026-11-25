@@ -58,29 +58,29 @@ The "Toxicity / protection" column gives toxicity noted in the Pharmacopoeia, th
 
 | Herb | Part used | Main actions | Toxicity / protection | See |
 |------|---------|---------|----------|-----|
-| Jinyinhua (honeysuckle flower) | Flower bud or flower just opening | Clears heat and detoxifies, disperses wind-heat | ⚠️ Beware picking Gouwen (heartbreak grass) by mistake | [1.1](#11-jinyinhua-honeysuckle-flower) |
-| Juhua (chrysanthemum) | Flower head | Disperses wind and clears heat, calms the liver and brightens the eyes | Ornamental chrysanthemums are not medicine | [1.2](#12-juhua-chrysanthemum) |
-| Yejuhua (wild chrysanthemum) | Flower head | Clears heat and detoxifies, drains fire and calms the liver | Bitter; use with caution if the spleen and stomach are cold and weak | [1.3](#13-yejuhua-wild-chrysanthemum) |
-| Huaihua (pagoda tree flower) | Flower and flower bud (Huaimi) | Cools the blood and stops bleeding, clears the liver and drains fire | Do not confuse with black locust flowers | [1.4](#14-huaihua-pagoda-tree-flower) |
-| Honghua (safflower) | Flower | Moves blood and unblocks menstruation, disperses stasis and relieves pain | ⚠️ Not in pregnancy; many dyed and weighted goods | [2.1](#21-honghua-safflower) |
-| Xihonghua (saffron) | Stigma | Moves blood and resolves stasis, cools the blood and detoxifies, relieves constraint and calms the mind | ⚠️ Not in pregnancy; very many fakes | [2.2](#22-xihonghua-saffron) |
-| Yuejihua (Chinese rose flower) | Flower | Moves blood and regulates menstruation, soothes the liver and relieves constraint | Use with caution in pregnancy | [2.3](#23-yuejihua-chinese-rose-flower) |
-| Meiguihua (rugosa rose bud) | Flower bud | Moves *qi* and relieves constraint, harmonises the blood and relieves pain | Florists' cut flowers are not medicine | [2.4](#24-meiguihua-rugosa-rose-bud) |
-| Puhuang (cattail pollen) | Pollen | Stops bleeding, resolves stasis, relieves painful urination | Use with caution in pregnancy | [2.5](#25-puhuang-cattail-pollen) |
-| Xinyi (magnolia flower bud) | Flower bud | Disperses wind-cold, opens the nasal passages | Wrapped in cloth for decoction | [3.1](#31-xinyi-magnolia-flower-bud) |
-| Kuandonghua (coltsfoot flower) | Flower bud | Moistens the lungs and descends *qi*, stops cough and resolves phlegm | Contains pyrrolizidine alkaloids; not for long-term use | [3.2](#32-kuandonghua-coltsfoot-flower) |
-| Xuanfuhua (inula flower) | Flower head | Descends *qi* and dissolves phlegm, moves water and stops vomiting | Wrapped in cloth for decoction | [3.3](#33-xuanfuhua-inula-flower) |
-| Hehuanhua (silk tree flower) | Flower cluster or flower bud | Relieves constraint and calms the mind | — | [3.4](#34-hehuanhua-silk-tree-flower) |
-| Dingxiang (clove) | Flower bud | Warms the middle and descends rebellious *qi*, tonifies the kidney and assists yang | Not to be used with Yujin; not the garden lilac | [3.5](#35-dingxiang-clove) |
-| Sangye (mulberry leaf) | Leaf | Disperses wind-heat, clears the lungs and moistens dryness, clears the liver and brightens the eyes | — | [4.1](#41-sangye-mulberry-leaf) |
-| Zisuye (perilla leaf) | Leaf (or with tender twigs) | Releases the exterior and dispels cold, moves *qi* and harmonises the stomach | — | [4.2](#42-zisuye-perilla-leaf) |
-| Daqingye (isatis leaf) | Leaf | Clears heat and detoxifies, cools the blood and fades rashes | Many different plants under the same name | [4.3](#43-daqingye-isatis-leaf) |
-| Heye (lotus leaf) | Leaf | Clears summer heat and transforms damp, cools the blood and stops bleeding | Do not drink it long term as a slimming tea | [4.4](#44-heye-lotus-leaf) |
-| Pipaye (loquat leaf) | Leaf | Clears the lungs and stops cough, descends rebellious *qi* and stops vomiting | The hairs irritate the throat | [5.1](#51-pipaye-loquat-leaf) |
-| Cebaiye (oriental arborvitae leaf) | Twig tips and leaves | Cools the blood and stops bleeding, resolves phlegm and stops cough | Beware mixing in savin juniper (poisonous) | [5.2](#52-cebaiye-oriental-arborvitae-leaf) |
-| Aiye (mugwort leaf) | Leaf | Warms the channels and stops bleeding, dispels cold and relieves pain | ⚠️ Marked "slightly toxic" in the Pharmacopoeia | [5.3](#53-aiye-mugwort-leaf) |
-| Fanxieye (senna leaf) | Leaflets | Drains heat and moves stagnation, relieves constipation | ⚠️ Stimulant laxative; forbidden in pregnancy, while breastfeeding and during menstruation | [6.1](#61-fanxieye-senna-leaf) |
-| Yinxingye (ginkgo leaf) | Leaf | Moves blood and resolves stasis, unblocks the collaterals and relieves pain, astringes the lungs and calms wheezing | ⚠️ Fresh leaves contain ginkgolic acids; do not pick them yourself for tea | [6.2](#62-yinxingye-ginkgo-leaf) |
+| *Jinyinhua* (honeysuckle flower) | Flower bud or flower just opening | Clears heat and detoxifies, disperses wind-heat | ⚠️ Beware picking *Gouwen* (heartbreak grass) by mistake | [1.1](#11-jinyinhua-honeysuckle-flower) |
+| *Juhua* (chrysanthemum) | Flower head | Disperses wind and clears heat, calms the liver and brightens the eyes | Ornamental chrysanthemums are not medicine | [1.2](#12-juhua-chrysanthemum) |
+| *Yejuhua* (wild chrysanthemum) | Flower head | Clears heat and detoxifies, drains fire and calms the liver | Bitter; use with caution if the spleen and stomach are cold and weak | [1.3](#13-yejuhua-wild-chrysanthemum) |
+| *Huaihua* (pagoda tree flower) | Flower and flower bud (Huaimi) | Cools the blood and stops bleeding, clears the liver and drains fire | Do not confuse with black locust flowers | [1.4](#14-huaihua-pagoda-tree-flower) |
+| *Honghua* (safflower) | Flower | Moves blood and unblocks menstruation, disperses stasis and relieves pain | ⚠️ Not in pregnancy; many dyed and weighted goods | [2.1](#21-honghua-safflower) |
+| *Xihonghua* (saffron) | Stigma | Moves blood and resolves stasis, cools the blood and detoxifies, relieves constraint and calms the mind | ⚠️ Not in pregnancy; very many fakes | [2.2](#22-xihonghua-saffron) |
+| *Yuejihua* (Chinese rose flower) | Flower | Moves blood and regulates menstruation, soothes the liver and relieves constraint | Use with caution in pregnancy | [2.3](#23-yuejihua-chinese-rose-flower) |
+| *Meiguihua* (rugosa rose bud) | Flower bud | Moves *qi* and relieves constraint, harmonises the blood and relieves pain | Florists' cut flowers are not medicine | [2.4](#24-meiguihua-rugosa-rose-bud) |
+| *Puhuang* (cattail pollen) | Pollen | Stops bleeding, resolves stasis, relieves painful urination | Use with caution in pregnancy | [2.5](#25-puhuang-cattail-pollen) |
+| *Xinyi* (magnolia flower bud) | Flower bud | Disperses wind-cold, opens the nasal passages | Wrapped in cloth for decoction | [3.1](#31-xinyi-magnolia-flower-bud) |
+| *Kuandonghua* (coltsfoot flower) | Flower bud | Moistens the lungs and descends *qi*, stops cough and resolves phlegm | Contains pyrrolizidine alkaloids; not for long-term use | [3.2](#32-kuandonghua-coltsfoot-flower) |
+| *Xuanfuhua* (inula flower) | Flower head | Descends *qi* and dissolves phlegm, moves water and stops vomiting | Wrapped in cloth for decoction | [3.3](#33-xuanfuhua-inula-flower) |
+| *Hehuanhua* (silk tree flower) | Flower cluster or flower bud | Relieves constraint and calms the mind | — | [3.4](#34-hehuanhua-silk-tree-flower) |
+| *Dingxiang* (clove) | Flower bud | Warms the middle and descends rebellious *qi*, tonifies the kidney and assists yang | Not to be used with *Yujin*; not the garden lilac | [3.5](#35-dingxiang-clove) |
+| *Sangye* (mulberry leaf) | Leaf | Disperses wind-heat, clears the lungs and moistens dryness, clears the liver and brightens the eyes | — | [4.1](#41-sangye-mulberry-leaf) |
+| *Zisuye* (perilla leaf) | Leaf (or with tender twigs) | Releases the exterior and dispels cold, moves *qi* and harmonises the stomach | — | [4.2](#42-zisuye-perilla-leaf) |
+| *Daqingye* (isatis leaf) | Leaf | Clears heat and detoxifies, cools the blood and fades rashes | Many different plants under the same name | [4.3](#43-daqingye-isatis-leaf) |
+| *Heye* (lotus leaf) | Leaf | Clears summer heat and transforms damp, cools the blood and stops bleeding | Do not drink it long term as a slimming tea | [4.4](#44-heye-lotus-leaf) |
+| *Pipaye* (loquat leaf) | Leaf | Clears the lungs and stops cough, descends rebellious *qi* and stops vomiting | The hairs irritate the throat | [5.1](#51-pipaye-loquat-leaf) |
+| *Cebaiye* (oriental arborvitae leaf) | Twig tips and leaves | Cools the blood and stops bleeding, resolves phlegm and stops cough | Beware mixing in savin juniper (poisonous) | [5.2](#52-cebaiye-oriental-arborvitae-leaf) |
+| *Aiye* (mugwort leaf) | Leaf | Warms the channels and stops bleeding, dispels cold and relieves pain | ⚠️ Marked "slightly toxic" in the Pharmacopoeia | [5.3](#53-aiye-mugwort-leaf) |
+| *Fanxieye* (senna leaf) | Leaflets | Drains heat and moves stagnation, relieves constipation | ⚠️ Stimulant laxative; forbidden in pregnancy, while breastfeeding and during menstruation | [6.1](#61-fanxieye-senna-leaf) |
+| *Yinxingye* (ginkgo leaf) | Leaf | Moves blood and resolves stasis, unblocks the collaterals and relieves pain, astringes the lungs and calms wheezing | ⚠️ Fresh leaves contain ginkgolic acids; do not pick them yourself for tea | [6.2](#62-yinxingye-ginkgo-leaf) |
 
 ---
 
@@ -98,7 +98,7 @@ The flowers in this group are mostly harvested in summer and autumn. The rule is
   - Dried herb: buds **club-shaped, thicker above and thinner below**, slightly curved, 2-3 cm long; surface yellowish-white or greenish-white, **densely covered with short soft hairs**; occasionally open flowers are present, with a tubular corolla that is two-lipped at the tip
   - Smell: clear, fragrant smell; taste bland, slightly bitter
 - **Look-alikes**:
-  - **Gouwen (heartbreak grass, *Gelsemium*)**: also a twining vine with opposite leaves and yellow flowers, and **extremely poisonous**; its leaves are smooth and hairless, its flowers grow several together in a cluster, are **funnel-shaped with 5 even lobes, and only yellow**. For a detailed comparison see [Gouwen vs honeysuckle](09-toxic-herbs-and-poisonous-look-alikes.md#42-gouwen-heartbreak-grass-vs-jinyinhua-honeysuckle)
+  - ***Gouwen* (heartbreak grass, *Gelsemium*)**: also a twining vine with opposite leaves and yellow flowers, and **extremely poisonous**; its leaves are smooth and hairless, its flowers grow several together in a cluster, are **funnel-shaped with 5 even lobes, and only yellow**. For a detailed comparison see [*Gouwen* vs honeysuckle](09-toxic-herbs-and-poisonous-look-alikes.md#42-gouwen-heartbreak-grass-vs-jinyinhua-honeysuckle)
   - **Shanyinhua (mountain honeysuckle)**: the flower buds of *Lonicera macranthoides*, *L. hypoglauca*, *L. confusa* and *L. fulvotomentosa*. The Pharmacopoeia lists it separately as *Shanyinhua*; its actions are similar, but it cannot be used as *Jinyinhua*; most of its buds are longer, less hairy or have glandular hairs
   - In the trade you occasionally find flowers fumigated with sulphur or bulked up with sugar or alum water: do not take any that are unusually bright, smell sour or feel sticky
 - **Harvesting and processing**: in early summer, **before the flowers open** (when the buds turn from green to white and swell at the top), pick in the early morning; spread thinly to dry in the air or dry at a low temperature. **Do not turn them or rub them with your hands before they are dry**, or they turn black
@@ -106,7 +106,7 @@ The flowers in this group are mostly harvested in summer and autumn. The rule is
 - **Actions**: clears heat and detoxifies, disperses wind-heat
 - **Dose**: 6-15 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: use with caution if the spleen and stomach are cold and weak or the stools are loose (experience)
-- For growing, see [Medicinal Plants – Honeysuckle](../04-farming-and-animal-husbandry/04-medicinal-plants.md#jinyinhua-honeysuckle); for the vine stem *Rendongteng* see [Barks, Stems and Woods – Rendongteng](06-barks-stems-and-woods.md#35-rendongteng-honeysuckle-stem)
+- For growing, see [Medicinal Plants – Honeysuckle](../04-farming-and-animal-husbandry/04-medicinal-plants.md#jinyinhua-honeysuckle); for the vine stem *Rendongteng* see [Barks, Stems and Woods – *Rendongteng*](06-barks-stems-and-woods.md#35-rendongteng-honeysuckle-stem)
 
 ### 1.2 Juhua (chrysanthemum)
 
@@ -119,7 +119,7 @@ The flowers in this group are mostly harvested in summer and autumn. The rule is
   - Smell: **clear, fragrant smell**; taste sweet, slightly bitter
 - **Look-alikes**:
   - **Ornamental and potted chrysanthemums**: different varieties, and mostly sprayed with pesticide; do not use them as medicine or tea
-  - **Yejuhua (wild chrysanthemum)** (see 1.3): much smaller flower heads, yellow, and much more bitter
+  - ***Yejuhua* (wild chrysanthemum)** (see 1.3): much smaller flower heads, yellow, and much more bitter
   - **Chrysanthemum fumigated with sulphur**: unusually pure white and bright, with a sharp, sour smell; avoid buying it
 - **Harvesting and processing**: harvest in several rounds from September to November when the flowers are in full bloom; dry in the shade or over gentle heat, or fumigate or steam and then sun-dry (methods differ between producing areas)
 - **Storage**: easily gets damp, loses colour and is attacked by insects; seal, keep cool and out of light
@@ -137,7 +137,7 @@ The flowers in this group are mostly harvested in summer and autumn. The rule is
   - Plant: perennial herb, 25-100 cm tall; alternate leaves, ovate or long-ovate, **half to shallowly pinnately lobed**, stalked; in autumn several **small yellow daisies** open at the top, about 1.5-2.5 cm across, **with yellow ray florets in only 1 layer**
   - Dried herb: flower heads roughly round, about 0.3-1 cm across, brownish-yellow; involucral bracts in 4-5 layers, the outer ones ovate with membranous edges; ray florets in 1 ring, yellow to brownish-yellow, shrivelled and curled; disc florets many
   - Smell: aromatic smell; **taste bitter** (much more bitter than chrysanthemum)
-- **Look-alikes**: **Ganju** (*Yanxiangju*, *Yeganju*, *C. lavandulifolium*), **Xuanfuhua** (inula flower, see 3.3) and various daisy-family weeds with small yellow flowers. *Ganju* has twice pinnately, deeply divided leaves and even smaller flowers; *Xuanfuhua* has long, thin ray florets and strap-shaped bracts. Most are not poisonous, but they are not the Pharmacopoeia's *Yejuhua*
+- **Look-alikes**: **Ganju** (*Yanxiangju*, *Yeganju*, *C. lavandulifolium*), ***Xuanfuhua*** (inula flower, see 3.3) and various daisy-family weeds with small yellow flowers. *Ganju* has twice pinnately, deeply divided leaves and even smaller flowers; *Xuanfuhua* has long, thin ray florets and strap-shaped bracts. Most are not poisonous, but they are not the Pharmacopoeia's *Yejuhua*
 - **Harvesting and processing**: in autumn and winter, pick **when the flowers are just opening**; sun-dry, or steam and then sun-dry
 - **Storage**: protect from damp and insects; seal
 - **Actions**: clears heat and detoxifies, drains fire and calms the liver
@@ -151,7 +151,7 @@ The flowers in this group are mostly harvested in summer and autumn. The rule is
 - **Distribution and habitat**: widely planted throughout China; most common by villages and roads and in courtyards in the north (commonly called *guohuai*, "native pagoda tree")
 - **Key identification features**:
   - Plant: deciduous tree, **no thorns on the branches**, twigs green; odd-pinnate compound leaves with 7-15 ovate-oblong leaflets; **flowers in high summer (July-August)**, in panicles at the branch tips, pale yellowish-white, pea-shaped; pods fleshy, **constricted like a string of beads** (these are *Huaijiao*, pagoda tree pods)
-  - Dried herb: **Huaimi** ovate or elliptic, 2-6 mm long, yellowish-green, with several lengthwise lines on the calyx at the lower end; **Huaihua** shrivelled and curled, the petals mostly fallen; whole flowers have a bell-shaped, yellowish-green calyx and 5 yellow or yellowish-white petals, 1 of them larger (the standard petal)
+  - Dried herb: **Huaimi** ovate or elliptic, 2-6 mm long, yellowish-green, with several lengthwise lines on the calyx at the lower end; ***Huaihua*** shrivelled and curled, the petals mostly fallen; whole flowers have a bell-shaped, yellowish-green calyx and 5 yellow or yellowish-white petals, 1 of them larger (the standard petal)
   - Smell: faint smell; taste slightly bitter
 - **Look-alikes**:
   - **Black locust (*Cihuai*, *Yanghuai*)** *Robinia pseudoacacia*: in many places the "pagoda tree flowers" cooked with rice or steamed and eaten are really black locust flowers. Differences: black locust has **paired stipular thorns on the branches**, **flowers in spring (April-May)**, with white, strongly scented flowers hanging in clusters, and flat pods. The flowers can be eaten as a wild vegetable, but **the bark, leaves and seeds are poisonous**; it is not the Pharmacopoeia's *Huaihua*
@@ -220,7 +220,7 @@ Most of this group are **not to be used, or to be used with caution, in pregnanc
   - Plant: evergreen or semi-evergreen shrub; **prickles fairly sparse, hooked**; pinnate compound leaves with **3-5 leaflets**, **leaf surface smooth and glossy**; **flowers several times a year** (hence *yueyuehong*, "red every month")
   - Dried herb: roughly round, 1.5-2.5 cm across; **receptacle oblong**; 5 sepals, dark green, with tail-like tips; petals overlapping like tiles, purplish-red or pale purplish-red, with clear veins
   - Smell: clear, fragrant smell; taste bland, slightly bitter
-- **Look-alikes**: **Meiguihua (rugosa rose bud)** (see 2.4); the two are often used interchangeably, but the Pharmacopoeia lists them separately and their actions differ. Tell them apart by the receptacle: oblong in Chinese rose, hemispherical in rugosa rose
+- **Look-alikes**: ***Meiguihua* (rugosa rose bud)** (see 2.4); the two are often used interchangeably, but the Pharmacopoeia lists them separately and their actions differ. Tell them apart by the receptacle: oblong in Chinese rose, hemispherical in rugosa rose
 - **Harvesting and processing**: can be harvested all year; pick **when the flowers are slightly open**; dry in the shade or at a low temperature
 - **Storage**: protect from damp and insects, keep out of light
 - **Actions**: moves blood and regulates menstruation, soothes the liver and relieves constraint
@@ -236,7 +236,7 @@ Most of this group are **not to be used, or to be used with caution, in pregnanc
   - Plant: deciduous shrub; **stems densely covered with prickles and bristles**; **5-9 leaflets**, **leaf surface clearly wrinkled** (the species name *rugosa* means "wrinkled"), softly hairy underneath; **flowers only once a year** (late spring to early summer), with purplish-red, strongly fragrant flowers
   - Dried herb: roughly hemispherical or an irregular ball, 0.7-1.5 cm across; **receptacle hemispherical**, joined to the base of the calyx; 5 sepals, lanceolate, yellowish-green or brownish-green, covered with fine soft hairs; petals mostly shrivelled, purplish-red, some yellowish-brown
   - Smell: **strong, rich fragrance**; taste slightly bitter and astringent
-- **Look-alikes**: the "roses" sold as cut flowers by florists are **almost all hybrid varieties of Chinese rose**, with high pesticide residues; do not use them as medicine. For how to tell **Yuejihua (Chinese rose flower)** apart, see 2.3
+- **Look-alikes**: the "roses" sold as cut flowers by florists are **almost all hybrid varieties of Chinese rose**, with high pesticide residues; do not use them as medicine. For how to tell ***Yuejihua* (Chinese rose flower)** apart, see 2.3
 - **Harvesting and processing**: in late spring and early summer, pick in several rounds **when the flowers are about to open**; **dry promptly at a low temperature** (high heat drives off the fragrance and darkens the colour)
 - **Storage**: seal, keep out of light, protect from damp; the fragrance gradually fades, so generally keep no longer than 1 year
 - **Actions**: moves *qi* and relieves constraint, harmonises the blood, relieves pain
@@ -306,7 +306,7 @@ Most of this group are **not to be used, or to be used with caution, in pregnanc
   - Plant: perennial herb, 30-70 cm tall; alternate leaves, oblong or lanceolate, **the base slightly clasping the stem**, sparsely hairy underneath; in summer and autumn **golden-yellow flower heads** open at the top, 2.5-4 cm across, **with one ring of long, thin ray florets**
   - Dried herb: flower heads **flattened-round or roughly round**, 1-2 cm across; **involucral bracts in many layers, overlapping like tiles**, lanceolate or strap-shaped, greyish-yellow; ray florets in 1 row, yellow, mostly curled; disc florets many, brownish-yellow; some small achenes with white pappus may be visible; light, falls apart easily
   - Smell: faint smell; taste slightly bitter
-- **Look-alikes**: **Yejuhua (wild chrysanthemum)** (1.3), the flower heads of **dandelion** and other yellow-flowered daisy-family plants; *Xuanfuhua* has long, thin ray florets in only 1 ring and strap-shaped bracts. Its aerial parts are called *Jinfeicao*, which is a different medicine
+- **Look-alikes**: ***Yejuhua* (wild chrysanthemum)** (1.3), the flower heads of **dandelion** and other yellow-flowered daisy-family plants; *Xuanfuhua* has long, thin ray florets in only 1 ring and strap-shaped bracts. Its aerial parts are called *Jinfeicao*, which is a different medicine
 - **Harvesting and processing**: harvest in summer and autumn **when the flowers are open**, remove impurities, dry in the shade or the sun
 - **Storage**: falls apart easily; protect from damp and insects
 - **Actions**: descends *qi*, dissolves phlegm, moves water, stops vomiting
@@ -322,7 +322,7 @@ Most of this group are **not to be used, or to be used with caution, in pregnanc
   - Plant: deciduous tree; **twice-pinnate compound leaves**, the leaflets tiny and sickle-shaped, **folding together in pairs at night** (hence *yehe*, "closing at night"); in summer it bears **pink pompom-like flowers**; the "fluff" you see is actually the long, thin stamens
   - Dried herb: *Hehuanhua* is a flower head shrivelled into a ball; main flower stalk 3-4 cm long; flowers long, thin and curved, 0.7-1 cm long, pale yellow or yellowish-brown, the corolla tubular with 5 lobes at the tip; **many stamens with long, thin filaments**, yellowish-brown to tawny. *Hehuanmi* is club-shaped, pale yellow to yellowish-brown
   - Smell: faintly fragrant; taste bland
-- **Look-alikes**: other trees of the same family such as **falcata (*Nanyangying*) and *Shanhehuan* (*Albizia kalkora*)** (white flowers, larger leaflets); **the bark, *Hehuanpi*, is a different medicine**, see [Hehuanpi](06-barks-stems-and-woods.md#16-hehuanpi-silk-tree-bark)
+- **Look-alikes**: other trees of the same family such as **falcata (*Nanyangying*) and *Shanhehuan* (*Albizia kalkora*)** (white flowers, larger leaflets); **the bark, *Hehuanpi*, is a different medicine**, see [*Hehuanpi*](06-barks-stems-and-woods.md#16-hehuanpi-silk-tree-bark)
 - **Harvesting and processing**: in summer, harvest on a sunny day **when the flowers are open**, or harvest *Hehuanmi* when the flower buds have formed; dry in the sun promptly
 - **Storage**: protect from damp and insects
 - **Actions**: relieves constraint and calms the mind
@@ -347,7 +347,7 @@ Most of this group are **not to be used, or to be used with caution, in pregnanc
 - **Storage**: seal, keep cool and out of light; the fragrance fades the longer it is kept
 - **Actions**: warms the middle and descends rebellious *qi*, tonifies the kidney and assists yang
 - **Dose**: 1-3 g, taken by mouth or ground to powder and applied externally (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Cautions**: **not to be used together with Yujin** (one of the nineteen antagonisms, see [General Principles – The eighteen incompatibilities and nineteen antagonisms](./00-general-principles.md#73-the-eighteen-incompatibilities-and-nineteen-antagonisms-combinations-to-avoid); for *Yujin* see [Chapter 02](./02-roots-and-rhizomes-2.md#32-yujin-curcuma-root-tuber)); not for febrile illness or internal heat from yin deficiency; **clove oil is very irritant: do not give it to children by mouth**; clove oil applied for toothache is only a short-term emergency measure, see a dentist afterwards
+- **Cautions**: **not to be used together with *Yujin*** (one of the nineteen antagonisms, see [General Principles – The eighteen incompatibilities and nineteen antagonisms](./00-general-principles.md#73-the-eighteen-incompatibilities-and-nineteen-antagonisms-combinations-to-avoid); for *Yujin* see [Chapter 02](./02-roots-and-rhizomes-2.md#32-yujin-curcuma-root-tuber)); not for febrile illness or internal heat from yin deficiency; **clove oil is very irritant: do not give it to children by mouth**; clove oil applied for toothache is only a short-term emergency measure, see a dentist afterwards
 
 ---
 
@@ -370,7 +370,7 @@ Leaf herbs shrivel and break when dried. To identify them, **soak them soft and 
 - **Actions**: disperses wind-heat, clears the lungs and moistens dryness, clears the liver and brightens the eyes
 - **Dose**: 5-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: not suitable for a wind-cold common cold (feeling cold, clear runny nose) (experience); people with diabetes must not use mulberry leaf in place of their diabetes medicines
-- For the root bark "[Sangbaipi](06-barks-stems-and-woods.md#23-sangbaipi-white-mulberry-root-bark)" and the young twigs "[Sangzhi](06-barks-stems-and-woods.md#32-sangzhi-mulberry-twig)" see Barks, Stems and Woods
+- For the root bark "[*Sangbaipi*](06-barks-stems-and-woods.md#23-sangbaipi-white-mulberry-root-bark)" and the young twigs "[*Sangzhi*](06-barks-stems-and-woods.md#32-sangzhi-mulberry-twig)" see Barks, Stems and Woods
 
 ### 4.2 Zisuye (perilla leaf)
 
@@ -391,7 +391,7 @@ Leaf herbs shrivel and break when dried. To identify them, **soak them soft and 
 - **Actions**: releases the exterior and dispels cold, moves *qi* and harmonises the stomach
 - **Dose**: 5-10 g, do not boil for long (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: use with caution in exterior deficiency with heavy sweating (experience). The folk use of perilla to "relieve fish and crab poisoning" refers to mild stomach and bowel upset after eating fish or crab; **if, after eating seafood, someone develops a rash, a tight throat or difficulty breathing (allergy), or violent vomiting and diarrhoea, get medical help at once**
-- For the seed *Zisuzi* see [Chapter 03 – Zisuzi](./03-fruits-and-seeds.md#73-zisuzi-perilla-fruit)
+- For the seed *Zisuzi* see [Chapter 03 – *Zisuzi*](./03-fruits-and-seeds.md#73-zisuzi-perilla-fruit)
 
 ### 4.3 Daqingye (isatis leaf)
 
@@ -412,7 +412,7 @@ Leaf herbs shrivel and break when dried. To identify them, **soak them soft and 
 - **Actions**: clears heat and detoxifies, cools the blood and fades rashes
 - **Dose**: 9-15 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: bitter and cold; use with caution if the spleen and stomach are cold and weak (experience); it cannot replace vaccines or antiviral drugs
-- For the root *Banlangen* see [Chapter 01 – Banlangen](./01-roots-and-rhizomes-1.md#33-banlangen-isatis-root)
+- For the root *Banlangen* see [Chapter 01 – *Banlangen*](./01-roots-and-rhizomes-1.md#33-banlangen-isatis-root)
 
 ### 4.4 Heye (lotus leaf)
 
@@ -450,7 +450,7 @@ Loquat leaf, oriental arborvitae leaf and mugwort leaf come from evergreen trees
 - **Storage**: protect from damp; keep in a ventilated, dry place
 - **Actions**: clears the lungs and stops cough, descends rebellious *qi* and stops vomiting
 - **Dose**: 6-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner); if the hairs have not been brushed off completely, wrap it in cloth for decoction, or the hairs irritate the throat and make the cough worse
-- **Cautions**: not suitable for wind-cold cough (thin, white phlegm, feeling cold) (experience); **loquat seeds (stones) contain amygdalin: do not eat them**, see also [Kuxingren (bitter apricot kernel)](09-toxic-herbs-and-poisonous-look-alikes.md#412-kuxingren-bitter-apricot-kernel)
+- **Cautions**: not suitable for wind-cold cough (thin, white phlegm, feeling cold) (experience); **loquat seeds (stones) contain amygdalin: do not eat them**, see also [*Kuxingren* (bitter apricot kernel)](09-toxic-herbs-and-poisonous-look-alikes.md#412-kuxingren-bitter-apricot-kernel)
 
 ### 5.2 Cebaiye (oriental arborvitae leaf)
 
@@ -484,7 +484,7 @@ Loquat leaf, oriental arborvitae leaf and mugwort leaf come from evergreen trees
   - Plant: perennial herb, 0.5-1.5 m tall, the whole plant **densely covered with greyish-white woolly hairs**; alternate leaves, **deeply pinnately divided**, the lobes elliptic-lanceolate with coarsely toothed edges; **the upper side of the leaf is greyish-green with gland dots, the underside densely covered with greyish-white woolly hairs** (turned over, it looks white); rubbed, it has **a strong mugwort smell**
   - Dried herb: mostly shrivelled and broken, with short stalks; whole leaves flattened out are ovate-elliptic, deeply pinnately divided, the lobes with irregular coarse teeth on the edges; upper surface greyish-green or dark yellowish-green, with sparse soft hairs and gland dots; **lower surface densely covered with greyish-white woolly hairs**; soft
   - Smell: **clear, fragrant smell**; taste bitter
-- **Look-alikes**: **wild mugwort (*Yeaihao*), *Wuyue'ai*, Mongolian wormwood, *Kuihao*** and other *Artemisia* species look similar and also have white hairs on the leaf underside; they are often used as "mugwort" in various places. Most of them can be used for moxibustion, but **they are not the Pharmacopoeia's *Aiye***. **Qinghao and Yinchen** are also *Artemisia* species (see [Whole Herbs](./04-whole-herbs.md)), but their leaves are more finely divided and not white underneath. Take care not to confuse it with **ragweed** (an invasive alien weed whose pollen is strongly allergenic; leaf underside not white, no mugwort smell)
+- **Look-alikes**: **wild mugwort (*Yeaihao*), *Wuyue'ai*, Mongolian wormwood, *Kuihao*** and other *Artemisia* species look similar and also have white hairs on the leaf underside; they are often used as "mugwort" in various places. Most of them can be used for moxibustion, but **they are not the Pharmacopoeia's *Aiye***. ***Qinghao* and *Yinchen*** are also *Artemisia* species (see [Whole *Herbs*](./04-whole-herbs.md)), but their leaves are more finely divided and not white underneath. Take care not to confuse it with **ragweed** (an invasive alien weed whose pollen is strongly allergenic; leaf underside not white, no mugwort smell)
 - **Harvesting and processing**: pick **in summer before the flowers open** (around the Dragon Boat Festival), remove impurities, dry in the sun; moxa wool is made from aged mugwort leaves (stored for over 1 year)
 - **Storage**: protect from damp and mould; keep in a ventilated, dry place
 - **Actions**: warms the channels and stops bleeding, dispels cold and relieves pain; externally, dispels damp and relieves itching
@@ -537,7 +537,7 @@ Senna leaf and ginkgo leaf can both be bought easily on the market and are often
   - The Pharmacopoeia says "not to be used by those with excess pathogens"
   - **Fresh leaves contain ginkgolic acids**, which can cause allergic dermatitis and stomach and bowel reactions and are somewhat toxic to cells; proper ginkgo leaf extracts and preparations have the ginkgolic acids specially removed and strictly limited, so **picking leaves yourself to make "ginkgo leaf tea" is not recommended**
   - Ginkgo leaf has an antiplatelet effect; used together with **warfarin, aspirin, clopidogrel** and similar drugs it can increase the risk of bleeding; **tell your doctor before surgery or a tooth extraction**; not for pregnant women or people with a tendency to bleed (experience)
-  - The Pharmacopoeia marks ginkgo seeds (*Baiguo*) "toxic"; see [Baiguo (ginkgo seed) eaten raw or in excess](09-toxic-herbs-and-poisonous-look-alikes.md#411-baiguo-ginkgo-seed-eaten-raw-or-in-quantity)
+  - The Pharmacopoeia marks ginkgo seeds (*Baiguo*) "toxic"; see [*Baiguo* (ginkgo seed) eaten raw or in excess](09-toxic-herbs-and-poisonous-look-alikes.md#411-baiguo-ginkgo-seed-eaten-raw-or-in-quantity)
 
 ---
 
@@ -547,7 +547,7 @@ Senna leaf and ginkgo leaf can both be bought easily on the market and are often
 
 | Genuine herb | Easily confused with | How to tell them apart | Risk |
 |------|-----------|---------|------|
-| Honeysuckle | Gouwen (heartbreak grass) | Honeysuckle: flowers in pairs, two-lipped, yellow and white together, leaves hairy; Gouwen: several flowers in a cluster, funnel-shaped with 5 even lobes, only yellow, leaves smooth | ☠️☠️☠️☠️☠️ |
+| Honeysuckle | *Gouwen* (heartbreak grass) | Honeysuckle: flowers in pairs, two-lipped, yellow and white together, leaves hairy; *Gouwen*: several flowers in a cluster, funnel-shaped with 5 even lobes, only yellow, leaves smooth | ☠️☠️☠️☠️☠️ |
 | Oriental arborvitae leaf | Savin juniper (Shadibai) | Arborvitae: upright tree, twigs in upright planes; savin juniper: creeping shrub | ☠️☠️☠️ |
 | Saffron | Dyed corn silk, paper threads, lotus stamens, safflower | Water test: genuine saffron sends orange-yellow colour straight down, stigma a three-branched trumpet; fakes release red colour and have no trumpet mouth | Money wasted; dyes are harmful |
 | Safflower | Dyed and weighted goods | Water test: water turns golden yellow, not red; not sticky when squeezed, colour does not rub off | Dyes and alum are harmful |
@@ -565,17 +565,17 @@ Before collecting flower and leaf herbs, confirm each point:
 
 - [ ] Flowers: I looked at the structure of the flower (two-lipped or funnel-shaped, how many together, spiny or not), not just the colour
 - [ ] Leaves: I soaked them soft, flattened them and looked at leaf shape, veins and hairs on both sides, and crushed them to smell
-- [ ] For a twining vine with yellow flowers, I have ruled out Gouwen
+- [ ] For a twining vine with yellow flowers, I have ruled out *Gouwen*
 - [ ] The collecting site is away from roads, factories and polluted water; I do not pick flowers and leaves from parks, florists or green belts that have been sprayed
 - [ ] When buying saffron, safflower or cattail pollen I did a water test, and I do not buy anything ridiculously cheap
-- [ ] After bringing them back I spread them out to dry promptly; flower buds are not rubbed or turned, and those containing volatile oil (perilla leaf, Xinyi, rugosa rose bud) are dried in the shade or at a low temperature
+- [ ] After bringing them back I spread them out to dry promptly; flower buds are not rubbed or turned, and those containing volatile oil (perilla leaf, *Xinyi*, rugosa rose bud) are dried in the shade or at a low temperature
 - [ ] Senna leaf only for short-term use; ginkgo leaves not picked for tea; mugwort leaf not taken by mouth in large amounts
 - [ ] I know the Pharmacopoeia dose and cautions; pregnant women, children, people with liver or kidney disease and people taking anticoagulants ask a doctor first
 
 | Task | Difficulty | Risk of getting it wrong |
 |------|------|----------|
 | Recognising common flowers and leaves (honeysuckle, chrysanthemum, mulberry leaf, lotus leaf, mugwort leaf) | ⭐⭐ | ☠️ (different actions; poisoning very rare) |
-| Telling honeysuckle from Gouwen | ⭐⭐⭐ | ☠️☠️☠️☠️☠️ (picking Gouwen by mistake can kill) |
+| Telling honeysuckle from *Gouwen* | ⭐⭐⭐ | ☠️☠️☠️☠️☠️ (picking *Gouwen* by mistake can kill) |
 | Telling genuine from fake saffron and safflower | ⭐⭐⭐ | ☠️ (money wasted, dyes eaten) |
 | Telling apart different plants under the same name (isatis leaf, clove, rugosa rose and Chinese rose) | ⭐⭐⭐⭐ | ☠️ (wrong herb) |
 | Taking senna leaf yourself long term for constipation or weight loss | Not allowed | ☠️☠️☠️ (dependence, low blood potassium) |
@@ -613,10 +613,10 @@ Before collecting flower and leaf herbs, confirm each point:
 
 ## Related chapters
 
-- ⏮️ [Whole Herbs](04-whole-herbs.md) - mint, dandelion, houttuynia, sweet wormwood, motherwort and other whole-herb medicines
+- ⏮️ [Whole *Herbs*](04-whole-herbs.md) - mint, dandelion, houttuynia, sweet wormwood, motherwort and other whole-herb medicines
 - ⏭️ [Barks, Stems and Woods](06-barks-stems-and-woods.md) - *Huangbo*, *Duzhong*, *Rougui*, *Hehuanpi*, *Sangbaipi*, *Rendongteng* and other bark and vine-stem herbs
-- 🔗 [General Principles of Identifying and Collecting Chinese Medicinal Herbs](00-general-principles.md) - general methods for identification, harvesting, processing, storage, safety and the law
-- 🔗 [Toxic Herbs and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - identification and poisoning signs of *Gouwen*, *Baiguo*, *Naoyanghua*, *Yangjinhua* and others
+- 🔗 [General Principles of Identifying and Collecting Chinese Medicinal *Herbs*](00-general-principles.md) - general methods for identification, harvesting, processing, storage, safety and the law
+- 🔗 [Toxic *Herbs* and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - identification and poisoning signs of *Gouwen*, *Baiguo*, *Naoyanghua*, *Yangjinhua* and others
 - 🔗 [Medicinal Plants: Identification and Growing Guide](../04-farming-and-animal-husbandry/04-medicinal-plants.md) - growing honeysuckle, chrysanthemum and mugwort, and the home herb garden
 - 🔗 [Traditional Chinese Medicine Preparations](../06-pharmaceuticals/04-herbal-preparations.md) - processing, decoction (wrapping in cloth, adding near the end), common formulas and safe use
 - 🔗 [Fruits and Seeds](03-fruits-and-seeds.md) - *Zisuzi*, *Kuxingren* and other fruits and seeds from the same plants

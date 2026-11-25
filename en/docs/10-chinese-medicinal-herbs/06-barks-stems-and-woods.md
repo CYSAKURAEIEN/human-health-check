@@ -115,7 +115,7 @@ Sustainable bark stripping (taking Duzhong, Houpo and Huangbo as examples):
    experience, and never ring-bark a wild tree
 ```
 
-"Sweating" (*fahan*) is a processing step at the place of origin peculiar to *Duzhong* and *Houpo*: freshly stripped bark is piled up and covered tightly so that it heats up and regains moisture by itself; once the inner surface has changed colour it is sun-dried. For the method see [General principles – Sweating](00-general-principles.md#54-sweating).
+"*Sweating*" (*fahan*) is a processing step at the place of origin peculiar to *Duzhong* and *Houpo*: freshly stripped bark is piled up and covered tightly so that it heats up and regains moisture by itself; once the inner surface has changed colour it is sun-dried. For the method see [General principles – *Sweating*](00-general-principles.md#54-sweating).
 
 ### 1.1 Duzhong (eucommia bark)
 
@@ -218,7 +218,7 @@ Sustainable bark stripping (taking Duzhong, Houpo and Huangbo as examples):
 
 ## 2. Root barks
 
-Root-bark medicines are the bark stripped from roots after digging, with the woody core in the middle removed. Digging the root harms the whole plant, so **dig only cultivated plants, or take the bark when plants are being transplanted, thinned or renewed anyway**; every wild shrub dug up is one fewer. The most dangerous confusion among root barks is **Xiangjiapi**: it is often passed off as *Wujiapi*, is also mixed in with *Digupi*, and it contains cardiac glycosides.
+Root-bark medicines are the bark stripped from roots after digging, with the woody core in the middle removed. Digging the root harms the whole plant, so **dig only cultivated plants, or take the bark when plants are being transplanted, thinned or renewed anyway**; every wild shrub dug up is one fewer. The most dangerous confusion among root barks is ***Xiangjiapi***: it is often passed off as *Wujiapi*, is also mixed in with *Digupi*, and it contains cardiac glycosides.
 
 ### 2.1 Mudanpi (tree peony root bark)
 
@@ -228,7 +228,7 @@ Root-bark medicines are the bark stripped from roots after digging, with the woo
 - **Key identification features**:
   - Plant: Small deciduous shrub 1-2 m tall, **with woody stems** (this distinguishes it from the herbaceous Chinese peony); leaves twice ternately compound; large flowers in spring
   - Crude drug: Tubes or half-tubes, split open lengthwise, curled slightly inwards, 0.1-0.4 cm thick; outer surface greyish-brown or yellowish-brown, with many transverse lenticel-like bumps and fine root scars, pink where the cork has fallen off; **inner surface pale greyish-yellow or light brown, with clear fine lengthwise lines, often with shiny crystals** (paeonol coming out, traditionally called "bright silver stars", *liang yinxing*); hard and brittle, snaps easily, broken surface fairly flat, **powdery**, pale pink; **aromatic smell, taste slightly bitter and astringent**
-- **Look-alikes**: The root bark of Chinese peony (the source plant of *Baishao* and *Chishao*) and of wild tree peonies of the same genus is occasionally mixed in; *Baishao* and *Chishao* use the whole root, see [Roots and Rhizomes (1) – Baishao](01-roots-and-rhizomes-1.md#22-baishao-white-peony-root)
+- **Look-alikes**: The root bark of Chinese peony (the source plant of *Baishao* and *Chishao*) and of wild tree peonies of the same genus is occasionally mixed in; *Baishao* and *Chishao* use the whole root, see [Roots and Rhizomes (1) – *Baishao*](01-roots-and-rhizomes-1.md#22-baishao-white-peony-root)
 - **Harvesting and processing**: Dig the roots in autumn, remove the fine roots and soil, strip the root bark and sun-dry ("*Liandanpi*"); or scrape off the coarse outer bark, remove the woody core and sun-dry ("*Guadanpi*")
 - **Storage**: Contains paeonol, which evaporates easily; **seal and keep in a cool, dry place**
 - **Actions**: Clears heat and cools blood, activates blood and resolves stasis
@@ -242,9 +242,9 @@ Root-bark medicines are the bark stripped from roots after digging, with the woo
 - **Source**: The dried root bark of *Lycium chinense* Mill. (Chinese boxthorn) or *L. barbarum* L. (Ningxia goji) (Solanaceae, nightshade family)
 - **Distribution and habitat**: Chinese boxthorn grows wild in most of China, on hillsides, field banks, roadsides and the edges of villages; Ningxia goji is mainly cultivated in Ningxia, Gansu, Qinghai, Xinjiang and elsewhere
 - **Key identification features**:
-  - Plant: Much-branched shrub with long, thin, arching branches **bearing thorns**; leaves alternate or clustered, ovate or lanceolate; flowers pale purple; berries red (these are goji berries, see [Fruits and Seeds – Gouqizi](03-fruits-and-seeds.md#11-gouqizi-goji-berry))
+  - Plant: Much-branched shrub with long, thin, arching branches **bearing thorns**; leaves alternate or clustered, ovate or lanceolate; flowers pale purple; berries red (these are goji berries, see [Fruits and Seeds – *Gouqizi*](03-fruits-and-seeds.md#11-gouqizi-goji-berry))
   - Crude drug: Tubes or troughs, 3-10 cm long, 0.1-0.3 cm thick; **outer surface greyish-yellow to brownish-yellow, rough, with irregular lengthwise cracks, easily flaking off in scales**; inner surface yellowish-white to greyish-yellow, fairly flat, with fine lengthwise lines; light and brittle, snaps easily; broken surface uneven, outer layer yellowish-brown, inner layer greyish-white; faint smell, taste slightly sweet, then bitter. In experience this is summed up as "rotten bark, white inside" (*zaopi baili*)
-- **Look-alikes**: **Xiangjiapi** (root bark of Chinese silk vine, toxic) also has a soft, loose cork that flakes off in scales, and is sometimes mixed in as *Digupi*; the difference is that **Xiangjiapi has a strong, peculiar fragrance**, while *Digupi* has only a faint smell. For details see [Xiangjiapi vs Wujiapi](09-toxic-herbs-and-poisonous-look-alikes.md#46-xiangjiapi-periploca-root-bark-vs-wujiapi-acanthopanax-root-bark)
+- **Look-alikes**: ***Xiangjiapi*** (root bark of Chinese silk vine, toxic) also has a soft, loose cork that flakes off in scales, and is sometimes mixed in as *Digupi*; the difference is that ***Xiangjiapi* has a strong, peculiar fragrance**, while *Digupi* has only a faint smell. For details see [*Xiangjiapi* vs *Wujiapi*](09-toxic-herbs-and-poisonous-look-alikes.md#46-xiangjiapi-periploca-root-bark-vs-wujiapi-acanthopanax-root-bark)
 - **Harvesting and processing**: Dig the roots in early spring or after autumn, wash, strip the root bark and sun-dry; dig only cultivated plants or old plants removed in renewal
 - **Storage**: Keep in a ventilated, dry place, away from damp
 - **Actions**: Cools blood and relieves steaming bone, clears the lungs and lowers fire
@@ -289,18 +289,18 @@ Root-bark medicines are the bark stripped from roots after digging, with the woo
 - **Key identification features**:
   - Plant: Shrub 2-3 m tall; **branches with scattered flattened, hooked prickles**; **palmately compound leaves with 5 leaflets** (occasionally 3-4), alternate on long shoots and clustered on short shoots; umbels of yellowish-green flowers; fruit black when ripe
   - Crude drug: Irregular rolled tubes, 5-15 cm long, 0.4-1.4 cm across, about 0.2 cm thick; outer surface greyish-brown, with slightly twisted lengthwise wrinkles and transverse lenticel-like marks; inner surface pale yellow or greyish-yellow, with fine lengthwise lines; light and brittle, snaps easily; broken surface uneven, greyish-white; **faintly fragrant, taste slightly hot and bitter**
-- **Look-alikes (important)**: **Xiangjiapi** (northern *Wujiapi*) is the root bark of Chinese silk vine, *Periploca sepium*, a climbing plant of the milkweed family (newer classifications place it in the oleander family); it **contains periplocin and other cardiac glycosides and is toxic**, and the Pharmacopoeia lists it as a separate medicine marked "toxic". For identification only:
+- **Look-alikes (important)**: ***Xiangjiapi*** (northern *Wujiapi*) is the root bark of Chinese silk vine, *Periploca sepium*, a climbing plant of the milkweed family (newer classifications place it in the oleander family); it **contains periplocin and other cardiac glycosides and is toxic**, and the Pharmacopoeia lists it as a separate medicine marked "toxic". For identification only:
   - Plant: **A twining vine that gives white milky sap when broken**, with opposite, lanceolate, smooth leaves and no prickles; *Wujia* is **an upright shrub with prickles and palmately compound leaves**
   - Crude drug: *Xiangjiapi* has **a soft, loose cork that often flakes off in scales**, and **a strong, peculiar fragrance** (some describe it as like wintergreen oil); *Wujiapi* is only faintly fragrant
   - Poisoning signs: Nausea and vomiting, seeing things tinged yellow or green, **a very slow heartbeat or heart rhythm problems**, and in severe cases cardiac arrest; the risk is higher in people taking digoxin or other heart-strengthening medicines
-  - For a comparison table see [Xiangjiapi vs Wujiapi](09-toxic-herbs-and-poisonous-look-alikes.md#46-xiangjiapi-periploca-root-bark-vs-wujiapi-acanthopanax-root-bark). **Do not buy "*Wujiapi*" yourself to steep in medicinal liquor**; much of the "*Wujiapi*" in northern markets is in fact *Xiangjiapi*
+  - For a comparison table see [*Xiangjiapi* vs *Wujiapi*](09-toxic-herbs-and-poisonous-look-alikes.md#46-xiangjiapi-periploca-root-bark-vs-wujiapi-acanthopanax-root-bark). **Do not buy "*Wujiapi*" yourself to steep in medicinal liquor**; much of the "*Wujiapi*" in northern markets is in fact *Xiangjiapi*
 - **Harvesting and processing**: Dig the roots in summer and autumn, wash, strip the root bark and sun-dry
 - **Storage**: Keep in a ventilated, dry place, away from damp and insects
 - **Actions**: Dispels wind and damp, tonifies liver and kidney, strengthens sinews and bones, promotes urination and reduces swelling
 - **Dose**: 5-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: Use with caution in yin deficiency with flaring fire (experience); *Ciwujia* (Siberian ginseng, *Eleutherococcus senticosus*) is a separate medicine, using the root and rhizome or the stem
 
-![Wujiapi and Xiangjiapi compared: plant, root bark and smell](../../images/acanthopanax-vs-periploca.svg)
+![*Wujiapi* and *Xiangjiapi* compared: plant, root bark and smell](../../images/acanthopanax-vs-periploca.svg)
 
 *Figure: Wujia is an upright shrub with flattened, hooked prickles and palmately compound leaves; Chinese silk vine is a twining vine with white milky sap and opposite leaves. For the crude drug the key is the smell — the one with a strong, peculiar fragrance is Xiangjiapi: do not use it, and do not steep it in liquor*
 
@@ -308,13 +308,13 @@ Root-bark medicines are the bark stripped from roots after digging, with the woo
 
 ## 3. Twigs and vine stems
 
-This group is young twigs with their bark and woody vine stems, mostly collected in autumn and winter after the leaves fall and sliced while fresh. Once dried, slices of vine stem all look much alike, so **identify a vine when you collect it, by looking at the whole plant: leaves, flowers, fruit, milky sap, smell**. The forest-edge scrub also holds the highly poisonous **Gouwen (heartbreak grass)** and **Leigongteng (thunder god vine)** ("*Huangteng*"), both vines or climbing shrubs; see [Gouwen vs Jinyinhua](09-toxic-herbs-and-poisonous-look-alikes.md#42-gouwen-heartbreak-grass-vs-jinyinhua-honeysuckle) and [Leigongteng](09-toxic-herbs-and-poisonous-look-alikes.md#214-leigongteng-thunder-god-vine). If you do not recognise the whole plant, do not take a single section of the vine.
+This group is young twigs with their bark and woody vine stems, mostly collected in autumn and winter after the leaves fall and sliced while fresh. Once dried, slices of vine stem all look much alike, so **identify a vine when you collect it, by looking at the whole plant: leaves, flowers, fruit, milky sap, smell**. The forest-edge scrub also holds the highly poisonous ***Gouwen* (heartbreak grass)** and ***Leigongteng* (thunder god vine)** ("*Huangteng*"), both vines or climbing shrubs; see [*Gouwen* vs *Jinyinhua*](09-toxic-herbs-and-poisonous-look-alikes.md#42-gouwen-heartbreak-grass-vs-jinyinhua-honeysuckle) and [*Leigongteng*](09-toxic-herbs-and-poisonous-look-alikes.md#214-leigongteng-thunder-god-vine). If you do not recognise the whole plant, do not take a single section of the vine.
 
 ### 3.1 Guizhi (cassia twig)
 
 - **Guizhi (Liugui, Nen Guizhi)**: Chinese 桂枝; *Cinnamomum cassia* Presl
 - **Source**: The dried young twigs of *Cinnamomum cassia* Presl (Lauraceae, laurel family)
-- **Distribution and habitat**: As for [Rougui](#14-rougui-cassia-bark): cultivated in Guangxi, Guangdong and elsewhere
+- **Distribution and habitat**: As for [*Rougui*](#14-rougui-cassia-bark): cultivated in Guangxi, Guangdong and elsewhere
 - **Key identification features**:
   - Crude drug: Long and cylindrical, much branched, 30-75 cm long, 0.3-1 cm across at the thick end; surface reddish-brown to brown, with lengthwise ridges, fine wrinkles and small knob-like leaf, branch and bud scars, lenticels dot-like; hard and brittle, snaps easily; slices 2-4 mm thick, **cut surface with reddish-brown bark, yellowish-white to pale yellowish-brown wood, and a roughly square pith**; **distinctive fragrance, taste sweet and slightly pungent, stronger in the bark**
 - **Look-alikes**: Young twigs of other plants of the laurel family have a weaker smell and no sweetness; look for "red bark, square pith, sweet and pungent"
@@ -328,7 +328,7 @@ This group is young twigs with their bark and woody vine stems, mostly collected
 
 - **Sangzhi (Nen Sangzhi)**: Chinese 桑枝; *Morus alba* L.
 - **Source**: The dried young twigs of *Morus alba* L. (white mulberry; Moraceae, mulberry family)
-- **Distribution and habitat**: As for [Sangbaipi](#23-sangbaipi-white-mulberry-root-bark): all over China
+- **Distribution and habitat**: As for [*Sangbaipi*](#23-sangbaipi-white-mulberry-root-bark): all over China
 - **Key identification features**:
   - Crude drug: Long and cylindrical, rarely branched, of varying length, 0.5-1.5 cm across; surface greyish-yellow or yellowish-brown, with many yellowish-brown dot-like lenticels and fine lengthwise lines, and with greyish-white, roughly half-moon leaf scars and yellowish-brown axillary buds; firm and tough, hard to snap; **cut surface with fairly thin bark, yellowish-white wood with radiating rays, and white or yellowish-white pith**; faint smell, taste bland
 - **Harvesting and processing**: Collect in late spring and early summer, remove the leaves and sun-dry, or slice while fresh and sun-dry; branches pruned from mulberry fields in winter can also be used
@@ -348,7 +348,7 @@ This group is young twigs with their bark and woody vine stems, mostly collected
 - **Look-alikes**:
   - **Daxueteng**: Similar in name and often used in its place, but its cut surface has "reddish-brown bark pushing into the wood, with yellowish-white wood", and **no multiple eccentric rings**; see [3.4](#34-daxueteng-sargentodoxa-stem)
   - **Shanjixueteng** (*Callerya* species such as *C. dielsiana*), **Dianjixueteng** (Kadsura, schisandra family, listed separately in the Pharmacopoeia) and many other vine stems are called "*Jixueteng*" in different places; look for "multiple red-black eccentric rings"
-  - Leigongteng is also called "*Huangteng*"; the cut surface of an old vine does not show red concentric rings; do not collect a vine you do not know
+  - *Leigongteng* is also called "*Huangteng*"; the cut surface of an old vine does not show red concentric rings; do not collect a vine you do not know
 - **Harvesting and processing**: Collect in autumn and winter, remove branches and leaves, slice and sun-dry
 - **Storage**: Keep in a ventilated, dry place
 - **Actions**: Activates and tonifies blood, regulates menstruation and relieves pain, relaxes the sinews and unblocks the collaterals
@@ -363,7 +363,7 @@ This group is young twigs with their bark and woody vine stems, mostly collected
 - **Key identification features**:
   - Plant: Deciduous woody vine; **leaves with three leaflets**, the middle leaflet rhombic-ovate, the two side leaflets obliquely ovate and lopsided; racemes hanging down, flowers yellowish-green and fragrant; aggregate berries, blue-black with a white bloom when ripe, borne on a swollen, red, fleshy receptacle
   - Crude drug: Cylindrical, slightly curved, 1-3 cm across; surface greyish-brown, rough, **outer bark often flaking off in scales**, dark reddish-brown where it has come off; hard; **broken surface with reddish-brown bark that pushes into the wood in several places; wood yellowish-white, with many fine pore-like vessels and radiating rays**; faint smell, taste slightly astringent
-- **Look-alikes**: Confused with *Jixueteng* in both directions; for the difference see [Jixueteng](#33-jixueteng-spatholobus-stem); their actions are different and one cannot replace the other
+- **Look-alikes**: Confused with *Jixueteng* in both directions; for the difference see [*Jixueteng*](#33-jixueteng-spatholobus-stem); their actions are different and one cannot replace the other
 - **Harvesting and processing**: Collect in autumn and winter, remove side branches, cut into sections and dry
 - **Storage**: Keep in a ventilated, dry place
 - **Actions**: Clears heat and removes toxins, activates blood, dispels wind and relieves pain
@@ -378,10 +378,10 @@ This group is young twigs with their bark and woody vine stems, mostly collected
 - **Key identification features**:
   - Plant: Semi-evergreen twining vine; **leaves opposite**, ovate to oblong-ovate, untoothed, hairy on both sides when young; **flowers in pairs in the leaf axils, white when they first open and turning yellow later** ("gold and silver", *jinyin*), sweetly scented, with a two-lipped corolla; berries round, black when ripe
   - Crude drug: Long and cylindrical, much branched, often twisted into bundles, 1.5-6 mm across; surface reddish-brown to dark brown, some greyish-green, smooth or covered in fine hairs; **outer bark peels off easily**; branches with many nodes, internodes 6-9 cm long, with remnants of leaves and leaf scars; brittle, snaps easily; **broken surface yellowish-white, hollow**; faint smell, old branches taste slightly bitter, young branches bland
-- **Look-alikes (deadly)**: **Gouwen** (heartbreak grass, *Gelsemium elegans*, highly poisonous) is also a twining vine with opposite leaves, and often grows on the same hillside as honeysuckle; it is common in Guangdong, Guangxi, Fujian, Yunnan and Guizhou. **Decocting and drinking *Gouwen* vine, leaves or flowers picked by mistake can kill within a short time**:
+- **Look-alikes (deadly)**: ***Gouwen*** (heartbreak grass, *Gelsemium elegans*, highly poisonous) is also a twining vine with opposite leaves, and often grows on the same hillside as honeysuckle; it is common in Guangdong, Guangxi, Fujian, Yunnan and Guizhou. **Decocting and drinking *Gouwen* vine, leaves or flowers picked by mistake can kill within a short time**:
   - *Gouwen* flowers are **yellow, funnel-shaped, with five regular lobes**, several together in terminal or axillary cymes; honeysuckle flowers are white and yellow, two-lipped, and grow in pairs in the leaf axils
   - *Gouwen* leaves are smooth and hairless; honeysuckle's young leaves and twigs are usually hairy
-  - When not in flower they are extremely hard to tell apart — **do not collect a vine whose flowers you have not seen**. For details see [Gouwen vs Jinyinhua](09-toxic-herbs-and-poisonous-look-alikes.md#42-gouwen-heartbreak-grass-vs-jinyinhua-honeysuckle)
+  - When not in flower they are extremely hard to tell apart — **do not collect a vine whose flowers you have not seen**. For details see [*Gouwen* vs *Jinyinhua*](09-toxic-herbs-and-poisonous-look-alikes.md#42-gouwen-heartbreak-grass-vs-jinyinhua-honeysuckle)
 - **Harvesting and processing**: Cut in autumn and winter and sun-dry; branches pruned from cultivated honeysuckle are a good source
 - **Storage**: Keep in a ventilated, dry place
 - **Actions**: Clears heat and removes toxins, disperses wind and unblocks the collaterals
@@ -391,7 +391,7 @@ This group is young twigs with their bark and woody vine stems, mostly collected
 ### 3.6 Shouwuteng (fleeceflower stem)
 
 - **Shouwuteng (Yejiaoteng)**: Chinese 首乌藤; *Polygonum multiflorum* Thunb.
-- **Source**: The dried vine stem of *Polygonum multiflorum* Thunb. (Polygonaceae, knotweed family) (the root tuber is *Heshouwu*, see [Roots and Rhizomes (1) – Heshouwu](01-roots-and-rhizomes-1.md#26-heshouwu-fleeceflower-root))
+- **Source**: The dried vine stem of *Polygonum multiflorum* Thunb. (Polygonaceae, knotweed family) (the root tuber is *Heshouwu*, see [Roots and Rhizomes (1) – *Heshouwu*](01-roots-and-rhizomes-1.md#26-heshouwu-fleeceflower-root))
 - **Distribution and habitat**: East, central, south and southwest China and southern Shaanxi and Gansu; grows in hillside scrub, rock crevices by streams and near villages
 - **Key identification features**:
   - Plant: Perennial twining vine; stems much branched, woody towards the base; **leaves alternate, ovate-heart-shaped, with long stalks**; **a papery sheath (ocrea) clasping the stem** (a feature of the knotweed family); small white or pale green flowers in panicles; a thick root tuber underground
@@ -440,11 +440,11 @@ This group is young twigs with their bark and woody vine stems, mostly collected
 - **Key identification features**:
   - Plant: Woody vine (genus *Clematis*); **leaves opposite**, with three leaflets; Armand's clematis is an evergreen vine with leathery leaflets and white flowers; mountain clematis is a deciduous vine with white or pink-tinged flowers; **the achenes have long feathery tails at the tip**, in clusters like white pompoms
   - Crude drug: Long and cylindrical, slightly twisted, 2-3.5 cm across; surface yellowish-brown or yellowish-tan, with lengthwise grooves and ridges; nodes mostly swollen, with leaf scars and side-branch scars; remaining bark tears easily; very hard, not easy to snap; slices 2-4 mm thick, **with ragged edges; remaining bark yellowish-brown, wood pale yellowish-brown or pale yellow with yellowish-white radiating lines and cracks, packed with vessel pores between them; pith rather small**, off-white or yellowish-brown, occasionally hollow; faint smell, taste bland
-- **Look-alikes (deadly)**: **Guanmutong** — the vine stem of *Aristolochia manshuriensis* (birthwort family), which **contains aristolochic acid**. Before 2003 it was widely used as "*Mutong*" and caused a wave of cases of aristolochic acid nephropathy (kidney failure); **from 2003 the state withdrew its medicinal standard**. Kidney damage from aristolochic acid is irreversible, and it also causes urothelial cancer:
+- **Look-alikes (deadly)**: ***Guanmutong*** — the vine stem of *Aristolochia manshuriensis* (birthwort family), which **contains aristolochic acid**. Before 2003 it was widely used as "*Mutong*" and caused a wave of cases of aristolochic acid nephropathy (kidney failure); **from 2003 the state withdrew its medicinal standard**. Kidney damage from aristolochic acid is irreversible, and it also causes urothelial cancer:
   - The broken surface of *Guanmutong* is **yellow, with many vessel pores arranged in several neat rings and radiating rays, like a spider's web**; rubbing the remaining coarse bark gives a **camphor-like smell**, taste bitter
   - The broken surface of *Chuanmutong* is pale yellowish-brown, with irregular lines and cracks; faint smell, taste bland
   - The Pharmacopoeia also has a "*Mutong*" (the vine stem of *Akebia quinata*, *A. trifoliata* or *A. trifoliata* var. *australis*, akebia family), which is not *Guanmutong* either
-  - For a comparison table see [Guanmutong vs Chuanmutong, Guangfangji vs Fenfangji](09-toxic-herbs-and-poisonous-look-alikes.md#47-guanmutong-vs-chuanmutong-guangfangji-vs-fenfangji); for the dangers of aristolochic acid see [Herbs containing aristolochic acid](09-toxic-herbs-and-poisonous-look-alikes.md#3-herbs-containing-aristolochic-acid). **Never collect any herb with "*Mutong*" in its name yourself, and never buy it loose in a market**
+  - For a comparison table see [*Guanmutong* vs *Chuanmutong*, *Guangfangji* vs *Fenfangji*](09-toxic-herbs-and-poisonous-look-alikes.md#47-guanmutong-vs-chuanmutong-guangfangji-vs-fenfangji); for the dangers of aristolochic acid see [*Herbs* containing aristolochic acid](09-toxic-herbs-and-poisonous-look-alikes.md#3-herbs-containing-aristolochic-acid). **Never collect any herb with "*Mutong*" in its name yourself, and never buy it loose in a market**
 - **Harvesting and processing**: Collect in spring and autumn, remove the coarse bark and sun-dry, or cut into thin slices while fresh and sun-dry
 - **Storage**: Keep in a ventilated, dry place
 - **Actions**: Promotes urination and relieves painful urination, clears the heart and relieves restlessness, unblocks menstruation and promotes milk flow
@@ -467,7 +467,7 @@ These two medicines are neither "bark" nor "wood": *Tongcao* is the pith at the 
   - Crude drug: Cylindrical, 20-40 cm long, 1-2.5 cm across; surface white or pale yellow, with shallow lengthwise grooves; **light, soft and loose, slightly springy**, snaps easily; **broken surface flat, with a silvery-white sheen, a hollow 0.3-1.5 cm across or a translucent thin membrane in the centre, and a ladder-like pattern on a lengthwise cut**; solid pieces are rare; faint smell, taste bland
 - **Look-alikes**:
   - **Xiaotongcao**: The stem pith of *Stachyurus himalaicus* or *S. chinensis* (Stachyuraceae) or of *Helwingia japonica* (Cornaceae, dogwood family), thinner (0.5-1 cm across), listed separately in the Pharmacopoeia
-  - The "*Tongcao*" of ancient medical books mostly means what is now called **Mutong**; when reading old formulas do not swap the two; still less use *Guanmutong* (birthwort family) instead, see [Chuanmutong](#39-chuanmutong-clematis-stem)
+  - The "*Tongcao*" of ancient medical books mostly means what is now called **Mutong**; when reading old formulas do not swap the two; still less use *Guanmutong* (birthwort family) instead, see [*Chuanmutong*](#39-chuanmutong-clematis-stem)
 - **Harvesting and processing**: Cut the stems in autumn, cut into sections, **take out the pith while fresh**, straighten it and sun-dry
 - **Storage**: Light, fragile and easily absorbs moisture; **pack in boxes or cloth bags and keep somewhere dry, protected from crushing and damp**
 - **Actions**: Clears heat and promotes urination, frees the *qi* and promotes milk flow
@@ -588,41 +588,41 @@ The bottom line for this group:
 
 | Herb in this chapter | Main risk | How to avoid it |
 |---------|---------|---------|
-| Duzhong, Houpo, Huangbo, Rougui | Ring-barking kills the tree; stripping protected wild trees | Strip only one side of cultivated trees, or pruned branches; do not strip wild trees |
-| Duzhong | "*Tuduzhong*" from winterberry euonymus, Duzhongteng and others | White threads dense and plentiful, not breaking when pulled out beyond 1 cm |
-| Houpo | Bark of other magnolia-family plants | Inner surface purplish-brown and oily; fragrant smell, pungent taste |
-| Qinpi | Manchurian walnut bark passed off as it | The hot-water liquid shows a sky-blue fluorescence in daylight |
-| Wujiapi, Digupi | **Xiangjiapi** (cardiac glycosides, can cause heart rhythm problems) | Do not use any with a strong, peculiar fragrance; do not buy it yourself to steep in liquor |
-| Baixianpi, Shouwuteng | Liver damage | Do not take yourself long term or in large amounts; not with liver disease |
-| Chuanmutong | **Guanmutong** (aristolochic acid; kidney failure, cancer) | Do not collect, or buy loose, any herb with "*Mutong*" in its name |
-| Rendongteng | **Gouwen** (heartbreak grass, can kill quickly) | Do not collect a vine whose flowers you have not seen |
-| Jixueteng | Daxueteng, Shanjixueteng, Leigongteng ("*Huangteng*") | Multiple red-black eccentric rings on the cut surface; do not collect a vine you do not know |
-| Luoshiteng | Climbing fig, Boston ivy used in its place | Opposite leaves, white pinwheel flowers, long thin paired fruits |
-| Rougui, Guizhi, Sumu, Mudanpi, Daxueteng, Tongcao | May be unsafe in pregnancy; increase bleeding | Use with caution in pregnancy; people taking anticoagulants ask a doctor first |
-| Jiangxiang, Chenxiang, Tanxiang | Protected species, fakes, oil injection and dyeing | Buy only from a proper pharmacy; do not fell wild trees |
+| *Duzhong*, *Houpo*, *Huangbo*, *Rougui* | Ring-barking kills the tree; stripping protected wild trees | Strip only one side of cultivated trees, or pruned branches; do not strip wild trees |
+| *Duzhong* | "*Tuduzhong*" from winterberry euonymus, Duzhongteng and others | White threads dense and plentiful, not breaking when pulled out beyond 1 cm |
+| *Houpo* | Bark of other magnolia-family plants | Inner surface purplish-brown and oily; fragrant smell, pungent taste |
+| *Qinpi* | Manchurian walnut bark passed off as it | The hot-water liquid shows a sky-blue fluorescence in daylight |
+| *Wujiapi*, *Digupi* | ***Xiangjiapi*** (cardiac glycosides, can cause heart rhythm problems) | Do not use any with a strong, peculiar fragrance; do not buy it yourself to steep in liquor |
+| *Baixianpi*, *Shouwuteng* | Liver damage | Do not take yourself long term or in large amounts; not with liver disease |
+| *Chuanmutong* | ***Guanmutong*** (aristolochic acid; kidney failure, cancer) | Do not collect, or buy loose, any herb with "*Mutong*" in its name |
+| *Rendongteng* | ***Gouwen*** (heartbreak grass, can kill quickly) | Do not collect a vine whose flowers you have not seen |
+| *Jixueteng* | *Daxueteng*, Shanjixueteng, *Leigongteng* ("*Huangteng*") | Multiple red-black eccentric rings on the cut surface; do not collect a vine you do not know |
+| *Luoshiteng* | Climbing fig, Boston ivy used in its place | Opposite leaves, white pinwheel flowers, long thin paired fruits |
+| *Rougui*, *Guizhi*, *Sumu*, *Mudanpi*, *Daxueteng*, *Tongcao* | May be unsafe in pregnancy; increase bleeding | Use with caution in pregnancy; people taking anticoagulants ask a doctor first |
+| *Jiangxiang*, *Chenxiang*, *Tanxiang* | Protected species, fakes, oil injection and dyeing | Buy only from a proper pharmacy; do not fell wild trees |
 
 ### 6.2 Self-check
 
 Before collecting bark or stem/wood medicines, confirm each point:
 
-- [ ] What I am collecting comes from cultivated trees, pruned branches or thinned trunks, not from wild Duzhong, Houpo, Huangbo, *Dalbergia odorifera* or *Aquilaria sinensis*
+- [ ] What I am collecting comes from cultivated trees, pruned branches or thinned trunks, not from wild *Duzhong*, *Houpo*, *Huangbo*, *Dalbergia odorifera* or *Aquilaria sinensis*
 - [ ] I stripped only one side (strip peeling or half-ring peeling), not a full ring round the tree; the wound is wrapped
-- [ ] Before collecting vine stems I looked carefully at the leaves, flowers and fruit of the whole plant and ruled out Gouwen, Leigongteng and birthwort-family plants
+- [ ] Before collecting vine stems I looked carefully at the leaves, flowers and fruit of the whole plant and ruled out *Gouwen*, *Leigongteng* and birthwort-family plants
 - [ ] Anything with "Mutong" in its name I get only from a proper pharmacy on prescription
-- [ ] I have smelt the "Wujiapi" and "Digupi": no strong, peculiar fragrance
+- [ ] I have smelt the "*Wujiapi*" and "*Digupi*": no strong, peculiar fragrance
 - [ ] For root barks I dug only cultivated plants or old plants removed in renewal
-- [ ] After processing I spread it out to dry; those containing volatile oil (Houpo, Rougui, Guizhi, Mudanpi, Tanxiang, Chenxiang, Jiangxiang) are stored sealed
+- [ ] After processing I spread it out to dry; those containing volatile oil (*Houpo*, *Rougui*, *Guizhi*, *Mudanpi*, *Tanxiang*, *Chenxiang*, *Jiangxiang*) are stored sealed
 - [ ] I know the Pharmacopoeia dose and contraindications; pregnant women, children, people with liver or kidney disease, and people taking anticoagulants or heart-strengthening medicines ask a doctor first
 
 | Task | Difficulty | Risk of getting it wrong |
 |------|------|----------|
-| Recognising Duzhong, Qinpi, Sumu (simple tests exist) | ⭐⭐ | ☠️ (fakes mixed in) |
-| Recognising Houpo, Huangbo, Rougui, Mudanpi as crude drugs | ⭐⭐⭐ | ☠️ (wrong herb) |
+| Recognising *Duzhong*, *Qinpi*, *Sumu* (simple tests exist) | ⭐⭐ | ☠️ (fakes mixed in) |
+| Recognising *Houpo*, *Huangbo*, *Rougui*, *Mudanpi* as crude drugs | ⭐⭐⭐ | ☠️ (wrong herb) |
 | Stripping bark without harming the tree | ⭐⭐⭐ | Killing the tree; illegally stripping protected plants |
-| Telling Wujiapi from Xiangjiapi | ⭐⭐⭐ | ☠️☠️☠️☠️ (cardiac glycoside poisoning) |
-| Recognising vine stems in the field (Rendongteng, Jixueteng, Luoshiteng) | ⭐⭐⭐⭐ | ☠️☠️☠️☠️☠️ (picking Gouwen or Leigongteng by mistake) |
-| Telling Chuanmutong from Guanmutong | ⭐⭐⭐⭐ | ☠️☠️☠️☠️ (irreversible kidney failure, cancer) |
-| Telling genuine Chenxiang, Jiangxiang and Tanxiang from fakes | ⭐⭐⭐⭐⭐ | Being cheated; buying poached protected plants |
+| Telling *Wujiapi* from *Xiangjiapi* | ⭐⭐⭐ | ☠️☠️☠️☠️ (cardiac glycoside poisoning) |
+| Recognising vine stems in the field (*Rendongteng*, *Jixueteng*, *Luoshiteng*) | ⭐⭐⭐⭐ | ☠️☠️☠️☠️☠️ (picking *Gouwen* or *Leigongteng* by mistake) |
+| Telling *Chuanmutong* from *Guanmutong* | ⭐⭐⭐⭐ | ☠️☠️☠️☠️ (irreversible kidney failure, cancer) |
+| Telling genuine *Chenxiang*, *Jiangxiang* and *Tanxiang* from fakes | ⭐⭐⭐⭐⭐ | Being cheated; buying poached protected plants |
 
 ## 📝 Key points of this chapter
 
@@ -655,8 +655,8 @@ Before collecting bark or stem/wood medicines, confirm each point:
 
 - ⏮️ [Flowers and Leaves](05-flowers-and-leaves.md) - honeysuckle, chrysanthemum, mugwort leaf, mulberry leaf, perilla leaf and other flower and leaf herbs
 - ⏭️ [Fungi, Algae, Resins and Others](07-fungi-algae-resins-and-others.md) - poria, lingzhi, frankincense, myrrh, dragon's blood, borneol and other fungi, algae, resins and other medicines
-- 🔗 [General Principles of Identifying and Collecting Chinese Medicinal Herbs](00-general-principles.md) - general methods for identification, harvesting, processing (including "sweating"), storage, safety and the law
-- 🔗 [Toxic Herbs and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - identification and poisoning signs of *Xiangjiapi*, *Guanmutong*, *Gouwen*, *Leigongteng* and others
+- 🔗 [General Principles of Identifying and Collecting Chinese Medicinal *Herbs*](00-general-principles.md) - general methods for identification, harvesting, processing (including "sweating"), storage, safety and the law
+- 🔗 [Toxic *Herbs* and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - identification and poisoning signs of *Xiangjiapi*, *Guanmutong*, *Gouwen*, *Leigongteng* and others
 - 🔗 [Roots and Rhizomes (1)](01-roots-and-rhizomes-1.md) - *Heshouwu*, *Baishao*, *Chishao* and other root medicines
 - 🔗 [Fruits and Seeds](03-fruits-and-seeds.md) - goji berries and other fruit medicines
 - 🔗 [Medicinal Plants: Identification and Growing Guide](../04-farming-and-animal-husbandry/04-medicinal-plants.md) - growing goji and honeysuckle, and the home herb garden

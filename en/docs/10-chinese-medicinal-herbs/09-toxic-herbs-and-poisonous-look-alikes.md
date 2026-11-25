@@ -499,7 +499,7 @@ Medical students' mnemonic (to help recognise it, not for self-diagnosis):
 - Flowers: A large terminal panicle of small flowers, blackish-purple (*V. nigrum*) or yellowish-green or white (other species of the genus)
 - Root: Rhizome short and thick, with many long, thin roots clustered below it
 
-**Often mistaken for**: Young spring shoots are picked and eaten as the young shoots of **Gecong (*Allium victorialis*, mountain onion, *Hancong*)**, **hosta (*Yuzan*)**, or **Huangjing and Yuzhu (Solomon's seal)**; the root is taken for other herbs.
+**Often mistaken for**: Young spring shoots are picked and eaten as the young shoots of **Gecong (*Allium victorialis*, mountain onion, *Hancong*)**, **hosta (*Yuzan*)**, or ***Huangjing* and *Yuzhu* (Solomon's seal)**; the root is taken for other herbs.
 
 **Toxic parts and constituents**: The whole plant is toxic, the root and rhizome most of all; it contains steroidal alkaloids such as veratrine-type alkaloids and protoveratrine.
 
@@ -705,7 +705,7 @@ Aristolochic acid occurs mainly in plants of the genus *Aristolochia* (birthwort
 
 ### 3.2 Herbs and their current status
 
-| Herb | Source | Current status | Herbs often sharing its name or used in its place |
+| Herb | Source | Current status | *Herbs* often sharing its name or used in its place |
 |------|------|------|----------------------|
 | *Guanmutong* | Climbing stem of *Aristolochia manshuriensis* (Manchurian birthwort, birthwort family) | State withdrew its standard for medicinal use from 2003 | *Mutong* (Lardizabalaceae, akebia family), *Chuanmutong* (buttercup family) |
 | *Guangfangji* | Root of *Aristolochia fangchi* (birthwort family) | Standard for medicinal use withdrawn from 2004 | *Fangji* (*Fenfangji*, Menispermaceae, moonseed family) |
@@ -808,7 +808,7 @@ Each group is explained below.
   a soup or medicinal liquor made from herbs you collected → call 120 at once
 ```
 
-For identifying genuine honeysuckle flower and honeysuckle stem, see [Flowers and Leaves: Jinyinhua](05-flowers-and-leaves.md#11-jinyinhua-honeysuckle-flower) and [Barks, Stems and Woods: Rendongteng](06-barks-stems-and-woods.md#35-rendongteng-honeysuckle-stem).
+For identifying genuine honeysuckle flower and honeysuckle stem, see [Flowers and Leaves: *Jinyinhua*](05-flowers-and-leaves.md#11-jinyinhua-honeysuckle-flower) and [Barks, Stems and Woods: *Rendongteng*](06-barks-stems-and-woods.md#35-rendongteng-honeysuckle-stem).
 
 ### 4.3 Duqin (water hemlock) vs Shuiqin (water dropwort) and Yehuluobo (wild carrot)
 
@@ -856,7 +856,7 @@ For identifying genuine honeysuckle flower and honeysuckle stem, see [Flowers an
   root: do not buy it to steep in liquor
 ```
 
-For identifying genuine ginseng, see [Roots and Rhizomes (1): Renshen](01-roots-and-rhizomes-1.md#11-renshen-ginseng).
+For identifying genuine ginseng, see [Roots and Rhizomes (1): *Renshen*](01-roots-and-rhizomes-1.md#11-renshen-ginseng).
 
 ### 4.5 Jusanqi (Tusanqi, gynura) vs Sanqi (notoginseng)
 
@@ -884,7 +884,7 @@ For identifying genuine ginseng, see [Roots and Rhizomes (1): Renshen](01-roots-
   exactly why common names are unreliable
 ```
 
-For identifying genuine *Sanqi*, see [Roots and Rhizomes (1): Sanqi](01-roots-and-rhizomes-1.md#28-sanqi-notoginseng).
+For identifying genuine *Sanqi*, see [Roots and Rhizomes (1): *Sanqi*](01-roots-and-rhizomes-1.md#28-sanqi-notoginseng).
 
 ### 4.6 Xiangjiapi (periploca root bark) vs Wujiapi (acanthopanax root bark)
 
@@ -908,7 +908,7 @@ For identifying genuine *Sanqi*, see [Roots and Rhizomes (1): Sanqi](01-roots-an
   wintergreen oil) is very likely Xiangjiapi
 ```
 
-For identifying genuine *Wujiapi*, see [Barks, Stems and Woods: Wujiapi](06-barks-stems-and-woods.md#25-wujiapi-acanthopanax-root-bark).
+For identifying genuine *Wujiapi*, see [Barks, Stems and Woods: *Wujiapi*](06-barks-stems-and-woods.md#25-wujiapi-acanthopanax-root-bark).
 
 ### 4.7 Guanmutong vs Chuanmutong, Guangfangji vs Fenfangji
 
@@ -923,7 +923,7 @@ For identifying genuine *Wujiapi*, see [Barks, Stems and Woods: Wujiapi](06-bark
 
 **The *Fangji* group**: *Guangfangji* (birthwort family, contains aristolochic acid) and *Fenfangji* (Menispermaceae, the "*Fangji*" of the Pharmacopoeia) are both cylindrical or lumpy roots, and both have powdery cross-sections with radiating grain: **they are very hard to tell apart by eye**. *Fenfangji* has a greyish-white cross-section with sparse rays ("cartwheel pattern"); *Guangfangji* has a cross-section in which greyish-white, greyish-brown and whitish areas alternate in a radiating pattern. Telling them apart is a job for specialist identification; ordinary people need only remember: **herbs with "*Fangji*" in their name should be used only from a proper pharmacy, on prescription.**
 
-For identifying genuine *Chuanmutong*, see [Barks, Stems and Woods: Chuanmutong](06-barks-stems-and-woods.md#39-chuanmutong-clematis-stem).
+For identifying genuine *Chuanmutong*, see [Barks, Stems and Woods: *Chuanmutong*](06-barks-stems-and-woods.md#39-chuanmutong-clematis-stem).
 
 ### 4.8 Mantuoluo (datura) vs nightshade-family wild greens and root vegetables
 
@@ -986,7 +986,7 @@ The seedlings and young leaves of *Aconitum* species just after they come up in 
   causes red, swollen, itchy skin
 ```
 
-For identifying ginkgo leaf and its cautions, see [Flowers and Leaves: Yinxingye](05-flowers-and-leaves.md#62-yinxingye-ginkgo-leaf).
+For identifying ginkgo leaf and its cautions, see [Flowers and Leaves: *Yinxingye*](05-flowers-and-leaves.md#62-yinxingye-ginkgo-leaf).
 
 ### 4.12 Kuxingren (bitter apricot kernel)
 
@@ -1175,7 +1175,7 @@ For CPR and the recovery position, see [Basic first aid: CPR](../01-first-aid-an
 
 ## Related chapters
 
-- ⏮️ [General Principles of Identifying and Collecting Chinese Medicinal Herbs](00-general-principles.md) - general methods for identification, harvesting, safety and the law
+- ⏮️ [General Principles of Identifying and Collecting Chinese Medicinal *Herbs*](00-general-principles.md) - general methods for identification, harvesting, safety and the law
 - ⏭️ [Herb Name Index](10-herb-name-index.md) - look up every herb by Pinyin and alternative names
 - 🔗 [Poisoning](../01-first-aid-and-family-health/12-poisoning.md) - general principles of handling poisoning
 - 🔗 [Basic First Aid](../01-first-aid-and-family-health/00-basic-first-aid.md) - CPR and the recovery position

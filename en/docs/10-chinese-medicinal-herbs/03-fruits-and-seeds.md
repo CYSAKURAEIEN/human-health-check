@@ -111,7 +111,7 @@ Most herbs in this group are "both food and medicine", and they are the most lik
 - **Actions**: nourishes liver and kidney, benefits essence and brightens the eyes
 - **Dose**: 6-12 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner); eating small amounts as food every day is generally safe
 - **Cautions**: people with a fever from an external illness or with diarrhoea from spleen deficiency should not eat much; **in people taking warfarin**, goji has been reported to raise the risk of bleeding (raised INR) – ask a doctor first; people with diabetes should watch the sugar content
-- For the root bark, *Digupi*, see [Barks, stems and woods – Digupi](06-barks-stems-and-woods.md#22-digupi-goji-root-bark)
+- For the root bark, *Digupi*, see [Barks, stems and woods – *Digupi*](06-barks-stems-and-woods.md#22-digupi-goji-root-bark)
 
 ### 1.2 Nüzhenzi (glossy privet fruit)
 
@@ -284,7 +284,7 @@ Astringent herbs are used for conditions where things "slip out and cannot be he
 - **Key identification features**:
   - Plant: perennial aquatic herb; leaves round and shield-like, held above the water; flowers large, pink or white; the receptacle swells into a **lotus seed head** with one seed in each hole
   - Crude herb: roughly elliptical or nearly spherical, 1.2-1.8 cm long, 0.8-1.4 cm across; surface **reddish-brown**, with fine lengthwise lines and broader vein lines; a nipple-like bump at the centre of one end, often split; hard, seed coat thin and not easily peeled; 2 cotyledons, yellowish-white and thick, with the green **lotus plumule** in the middle (or already removed, leaving a small hole at the bottom); tastes sweet and slightly astringent, the plumule bitter
-- **Look-alikes**: not easily confused. Different parts of the lotus are different herbs: lotus plumule, lotus seed head, lotus stamen, lotus leaf (see [Flowers and leaves – Heye](05-flowers-and-leaves.md#44-heye-lotus-leaf)) and lotus rhizome node; the old ripe fruit with a hard black shell is called "*Shilianzi*"
+- **Look-alikes**: not easily confused. Different parts of the lotus are different herbs: lotus plumule, lotus seed head, lotus stamen, lotus leaf (see [Flowers and leaves – *Heye*](05-flowers-and-leaves.md#44-heye-lotus-leaf)) and lotus rhizome node; the old ripe fruit with a hard black shell is called "*Shilianzi*"
 - **Harvesting and processing**: in autumn when the fruit is ripe, cut the seed heads, take out the fruits, remove the fruit wall and dry; or remove the plumule and then dry
 - **Storage**: prone to insect damage and mould; seal and keep dry
 - **Actions**: tonifies the spleen and stops diarrhoea, stops vaginal discharge, boosts the kidney and secures essence, nourishes the heart and calms the mind
@@ -640,7 +640,7 @@ Most herbs in this group are cool in nature and are used for fever, sore throat,
 - **Storage**: the seeds are tiny and easily mixed with soil and sand; keep dry
 - **Actions**: clears heat, promotes urination and relieves painful urination, drains damp and stops diarrhoea, brightens the eyes, dispels phlegm
 - **Dose**: 9-15 g, **wrapped in cloth for decoction** (put in a gauze bag before boiling; otherwise the mucilage makes the decoction thick and it burns easily) (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Cautions**: use with caution in people with kidney deficiency and seminal emission, or no damp-heat; people taking diuretics should ask a doctor first. With frequent or painful urination or blood in the urine, see a doctor first. For the whole plant, see [Whole herbs – Cheqiancao](04-whole-herbs.md#32-cheqiancao-plantain)
+- **Cautions**: use with caution in people with kidney deficiency and seminal emission, or no damp-heat; people taking diuretics should ask a doctor first. With frequent or painful urination or blood in the urine, see a doctor first. For the whole plant, see [Whole herbs – *Cheqiancao*](04-whole-herbs.md#32-cheqiancao-plantain)
 
 ### 5.6 Mugua (Chinese flowering quince)
 
@@ -769,7 +769,7 @@ All the herbs in this group are oil-rich seeds that moisten the intestines and r
 - **Actions**: descends qi and resolves phlegm, stops cough and calms wheezing, moistens the intestines and relieves constipation
 - **Dose**: 3-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: use with caution in people with spleen deficiency and loose stools. With wheezing or difficulty breathing, see a doctor first
-- For the leaf, *Zisuye*, see [Flowers and leaves – Zisuye](05-flowers-and-leaves.md#42-zisuye-perilla-leaf)
+- For the leaf, *Zisuye*, see [Flowers and leaves – *Zisuye*](05-flowers-and-leaves.md#42-zisuye-perilla-leaf)
 
 ### 7.4 Huomaren (hemp seed)
 
@@ -890,9 +890,9 @@ Before collecting or using a fruit or seed herb, confirm each point:
 ## Related chapters
 
 - ⏮️ [Roots and Rhizomes (Part 2)](02-roots-and-rhizomes-2.md) - *Zhimu*, *Maidong*, *Dahuang*, *Beimu*, *Yanhusuo* and other root and rhizome herbs (Chapter 02)
-- ⏭️ [Whole Herbs](04-whole-herbs.md) - *Bohe*, *Pugongying*, *Yuxingcao*, *Cheqiancao*, *Yimucao* and other whole-herb medicines
-- 🔗 [General Principles of Identifying and Collecting Chinese Medicinal Herbs](00-general-principles.md) - general methods for identification, harvesting, processing, storage (preventing going oily and insect damage), safety and the law
-- 🔗 [Toxic Herbs and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - identification and poisoning signs of bitter apricot kernel, cocklebur fruit, ginkgo seed and others
+- ⏭️ [Whole *Herbs*](04-whole-herbs.md) - *Bohe*, *Pugongying*, *Yuxingcao*, *Cheqiancao*, *Yimucao* and other whole-herb medicines
+- 🔗 [General Principles of Identifying and Collecting Chinese Medicinal *Herbs*](00-general-principles.md) - general methods for identification, harvesting, processing, storage (preventing going oily and insect damage), safety and the law
+- 🔗 [Toxic *Herbs* and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - identification and poisoning signs of bitter apricot kernel, cocklebur fruit, ginkgo seed and others
 - 🔗 [Medicinal Plants: Identification and Growing Guide](../04-farming-and-animal-husbandry/04-medicinal-plants.md) - growing medicinal plants and the family herb garden
 - 🔗 [Traditional Chinese Medicine Preparations](../06-pharmaceuticals/04-herbal-preparations.md) - processing (stir-frying, roasting with liquids), decoction (adding towards the end, decocting wrapped), formulas and safe use
 - 🔗 [Poisoning](../01-first-aid-and-family-health/12-poisoning.md) - what to do after eating a poisonous plant or taking too much medicine

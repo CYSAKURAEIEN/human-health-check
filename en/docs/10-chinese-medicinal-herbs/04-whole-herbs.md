@@ -60,38 +60,38 @@ The "Toxicity / protection" column gives toxicity noted in the Pharmacopoeia, th
 
 | Herb | Part used | Main actions | Toxicity / protection | See |
 |------|---------|---------|----------|-----|
-| Bohe (mint) | Aerial parts | Disperses wind-heat | Beware "false mint" | [1.1](#11-bohe-mint) |
-| Guanghuoxiang (patchouli) | Aerial parts | Aromatically transforms turbidity, stops vomiting | — | [1.2](#12-guanghuoxiang-patchouli) |
-| Jingjie (schizonepeta) | Aerial parts | Releases the exterior, disperses wind | — | [1.3](#13-jingjie-schizonepeta) |
-| Xiangru (mosla) | Aerial parts | Induces sweating to release the exterior, transforms damp | Not for those with exterior deficiency and heavy sweating | [1.4](#14-xiangru-mosla) |
-| Peilan (fortune's boneset) | Aerial parts | Aromatically transforms damp | Contains pyrrolizidine alkaloids; do not take in large amounts for long | [1.5](#15-peilan-fortunes-boneset) |
-| Mahuang (ephedra) | Herbaceous stem | Induces sweating to dispel cold, relieves wheezing | ⚠️ State-controlled; forbidden with high blood pressure or heart disease | [1.6](#16-mahuang-ephedra) |
-| Pugongying (dandelion) | Whole plant | Clears heat and detoxifies, reduces swelling and dissipates lumps | Beware mixing in sow thistle and similar | [2.1](#21-pugongying-dandelion) |
-| Zihuadiding (Yedo violet) | Whole plant | Clears heat and detoxifies, cools the blood and reduces swelling | — | [2.2](#22-zihuadiding-yedo-violet) |
-| Yuxingcao (houttuynia) | Whole plant or aerial parts | Clears heat and detoxifies, reduces abscesses and expels pus | — | [2.3](#23-yuxingcao-houttuynia) |
-| Baijiangcao (patrinia) | Whole plant | Clears heat and detoxifies, reduces abscesses and expels pus | Not in the Pharmacopoeia; different plants under the same name in north and south | [2.4](#24-baijiangcao-patrinia) |
-| Machixian (purslane) | Aerial parts | Clears heat and detoxifies, cools the blood and stops dysentery | ⚠️ Beware mixing in spurges (white milky sap) | [2.5](#25-machixian-purslane) |
-| Chuanxinlian (andrographis) | Aerial parts | Clears heat and detoxifies, cools the blood | Extremely bitter, harms the stomach | [2.6](#26-chuanxinlian-andrographis) |
-| Baihuasheshecao (oldenlandia) | Whole plant | Clears heat and detoxifies, drains damp | Not in the Pharmacopoeia; cannot replace cancer treatment | [2.7](#27-baihuasheshecao-oldenlandia) |
-| Banzhilian (barbed skullcap) | Whole plant | Clears heat and detoxifies, resolves stasis and promotes urination | Not advisable in pregnancy | [2.8](#28-banzhilian-barbed-skullcap) |
-| Xiakucao (self-heal spike) | Fruit spike | Clears the liver and drains fire, dissipates lumps | — | [2.9](#29-xiakucao-self-heal-spike) |
-| Danzhuye (lophatherum) | Stems and leaves | Clears heat and relieves restlessness, promotes urination | Not bamboo leaves | [2.10](#210-danzhuye-lophatherum) |
-| Qinghao (sweet wormwood) | Aerial parts | Clears deficiency heat, checks malaria | ⚠️ Cannot replace antimalarial drugs | [2.11](#211-qinghao-sweet-wormwood) |
-| Yinchen (capillary wormwood) | Aerial parts | Clears damp-heat, relieves jaundice | Jaundice must be seen by a doctor | [3.1](#31-yinchen-capillary-wormwood) |
-| Cheqiancao (plantain) | Whole plant | Clears heat and promotes urination, expels phlegm | — | [3.2](#32-cheqiancao-plantain) |
-| Jinqiancao (lysimachia) | Whole plant | Drains damp and relieves jaundice, relieves painful urination and expels stones | Many different plants under the same name | [3.3](#33-jinqiancao-lysimachia) |
-| Yimucao (motherwort) | Aerial parts | Moves blood and regulates menstruation, promotes urination | ⚠️ Not in pregnancy; not with poor kidney function | [4.1](#41-yimucao-motherwort) |
-| Zelan (bugleweed) | Aerial parts | Moves blood and regulates menstruation, drains water | Not in pregnancy; do not confuse with Peilan | [4.2](#42-zelan-bugleweed) |
-| Xianhecao (hairy agrimony) | Aerial parts | Astringes and stops bleeding | — | [4.3](#43-xianhecao-hairy-agrimony) |
-| Xiaoji (field thistle) | Aerial parts | Cools the blood and stops bleeding | — | [4.4](#44-xiaoji-field-thistle) |
-| Daji (Japanese thistle) | Aerial parts | Cools the blood and stops bleeding | — | [4.5](#45-daji-japanese-thistle) |
-| Mohanlian (eclipta) | Aerial parts | Nourishes liver and kidney, cools the blood and stops bleeding | — | [4.6](#46-mohanlian-eclipta) |
-| Shenjincao (clubmoss) | Whole plant | Dispels wind and damp, relaxes the sinews | Use with caution in pregnancy; beware mixing in toothed clubmoss | [5.1](#51-shenjincao-clubmoss) |
-| Shihu (dendrobium) | Stem | Benefits the stomach and generates fluids, nourishes yin and clears heat | 🛡️ All wild *Dendrobium* species are state-protected | [5.2](#52-shihu-dendrobium) |
-| Yinyanghuo (epimedium) | Leaf | Tonifies kidney yang, strengthens sinews and bones | Liver injury has been reported | [5.3](#53-yinyanghuo-epimedium) |
-| Roucongrong (cistanche) | Fleshy stem with scale leaves | Tonifies kidney yang, moistens the intestines to relieve constipation | 🛡️ Wild cistanche is protected | [5.4](#54-roucongrong-cistanche) |
-| Suoyang (cynomorium) | Fleshy stem | Tonifies kidney yang, moistens the intestines to relieve constipation | Wild resources are scarce | [5.5](#55-suoyang-cynomorium) |
-| Xixin (asarum) | Root and rhizome | Releases the exterior and dispels cold, relieves pain | ⚠️ Slightly toxic; aerial parts contain aristolochic acid | [5.6](#56-xixin-asarum) |
+| *Bohe* (mint) | Aerial parts | Disperses wind-heat | Beware "false mint" | [1.1](#11-bohe-mint) |
+| *Guanghuoxiang* (patchouli) | Aerial parts | Aromatically transforms turbidity, stops vomiting | — | [1.2](#12-guanghuoxiang-patchouli) |
+| *Jingjie* (schizonepeta) | Aerial parts | Releases the exterior, disperses wind | — | [1.3](#13-jingjie-schizonepeta) |
+| *Xiangru* (mosla) | Aerial parts | Induces sweating to release the exterior, transforms damp | Not for those with exterior deficiency and heavy sweating | [1.4](#14-xiangru-mosla) |
+| *Peilan* (fortune's boneset) | Aerial parts | Aromatically transforms damp | Contains pyrrolizidine alkaloids; do not take in large amounts for long | [1.5](#15-peilan-fortunes-boneset) |
+| *Mahuang* (ephedra) | Herbaceous stem | Induces sweating to dispel cold, relieves wheezing | ⚠️ State-controlled; forbidden with high blood pressure or heart disease | [1.6](#16-mahuang-ephedra) |
+| *Pugongying* (dandelion) | Whole plant | Clears heat and detoxifies, reduces swelling and dissipates lumps | Beware mixing in sow thistle and similar | [2.1](#21-pugongying-dandelion) |
+| *Zihuadiding* (Yedo violet) | Whole plant | Clears heat and detoxifies, cools the blood and reduces swelling | — | [2.2](#22-zihuadiding-yedo-violet) |
+| *Yuxingcao* (houttuynia) | Whole plant or aerial parts | Clears heat and detoxifies, reduces abscesses and expels pus | — | [2.3](#23-yuxingcao-houttuynia) |
+| *Baijiangcao* (patrinia) | Whole plant | Clears heat and detoxifies, reduces abscesses and expels pus | Not in the Pharmacopoeia; different plants under the same name in north and south | [2.4](#24-baijiangcao-patrinia) |
+| *Machixian* (purslane) | Aerial parts | Clears heat and detoxifies, cools the blood and stops dysentery | ⚠️ Beware mixing in spurges (white milky sap) | [2.5](#25-machixian-purslane) |
+| *Chuanxinlian* (andrographis) | Aerial parts | Clears heat and detoxifies, cools the blood | Extremely bitter, harms the stomach | [2.6](#26-chuanxinlian-andrographis) |
+| *Baihuasheshecao* (oldenlandia) | Whole plant | Clears heat and detoxifies, drains damp | Not in the Pharmacopoeia; cannot replace cancer treatment | [2.7](#27-baihuasheshecao-oldenlandia) |
+| *Banzhilian* (barbed skullcap) | Whole plant | Clears heat and detoxifies, resolves stasis and promotes urination | Not advisable in pregnancy | [2.8](#28-banzhilian-barbed-skullcap) |
+| *Xiakucao* (self-heal spike) | Fruit spike | Clears the liver and drains fire, dissipates lumps | — | [2.9](#29-xiakucao-self-heal-spike) |
+| *Danzhuye* (lophatherum) | Stems and leaves | Clears heat and relieves restlessness, promotes urination | Not bamboo leaves | [2.10](#210-danzhuye-lophatherum) |
+| *Qinghao* (sweet wormwood) | Aerial parts | Clears deficiency heat, checks malaria | ⚠️ Cannot replace antimalarial drugs | [2.11](#211-qinghao-sweet-wormwood) |
+| *Yinchen* (capillary wormwood) | Aerial parts | Clears damp-heat, relieves jaundice | Jaundice must be seen by a doctor | [3.1](#31-yinchen-capillary-wormwood) |
+| *Cheqiancao* (plantain) | Whole plant | Clears heat and promotes urination, expels phlegm | — | [3.2](#32-cheqiancao-plantain) |
+| *Jinqiancao* (lysimachia) | Whole plant | Drains damp and relieves jaundice, relieves painful urination and expels stones | Many different plants under the same name | [3.3](#33-jinqiancao-lysimachia) |
+| *Yimucao* (motherwort) | Aerial parts | Moves blood and regulates menstruation, promotes urination | ⚠️ Not in pregnancy; not with poor kidney function | [4.1](#41-yimucao-motherwort) |
+| *Zelan* (bugleweed) | Aerial parts | Moves blood and regulates menstruation, drains water | Not in pregnancy; do not confuse with *Peilan* | [4.2](#42-zelan-bugleweed) |
+| *Xianhecao* (hairy agrimony) | Aerial parts | Astringes and stops bleeding | — | [4.3](#43-xianhecao-hairy-agrimony) |
+| *Xiaoji* (field thistle) | Aerial parts | Cools the blood and stops bleeding | — | [4.4](#44-xiaoji-field-thistle) |
+| *Daji* (Japanese thistle) | Aerial parts | Cools the blood and stops bleeding | — | [4.5](#45-daji-japanese-thistle) |
+| *Mohanlian* (eclipta) | Aerial parts | Nourishes liver and kidney, cools the blood and stops bleeding | — | [4.6](#46-mohanlian-eclipta) |
+| *Shenjincao* (clubmoss) | Whole plant | Dispels wind and damp, relaxes the sinews | Use with caution in pregnancy; beware mixing in toothed clubmoss | [5.1](#51-shenjincao-clubmoss) |
+| *Shihu* (dendrobium) | Stem | Benefits the stomach and generates fluids, nourishes yin and clears heat | 🛡️ All wild *Dendrobium* species are state-protected | [5.2](#52-shihu-dendrobium) |
+| *Yinyanghuo* (epimedium) | Leaf | Tonifies kidney yang, strengthens sinews and bones | Liver injury has been reported | [5.3](#53-yinyanghuo-epimedium) |
+| *Roucongrong* (cistanche) | Fleshy stem with scale leaves | Tonifies kidney yang, moistens the intestines to relieve constipation | 🛡️ Wild cistanche is protected | [5.4](#54-roucongrong-cistanche) |
+| *Suoyang* (cynomorium) | Fleshy stem | Tonifies kidney yang, moistens the intestines to relieve constipation | Wild resources are scarce | [5.5](#55-suoyang-cynomorium) |
+| *Xixin* (asarum) | Root and rhizome | Releases the exterior and dispels cold, relieves pain | ⚠️ Slightly toxic; aerial parts contain aristolochic acid | [5.6](#56-xixin-asarum) |
 
 ---
 
@@ -176,7 +176,7 @@ Most herbs in this group are aromatic plants of the mint family (Lamiaceae) and 
   - Plant: perennial herb, 40-100 cm tall; **stem round** (not square), often tinged purplish red; leaves opposite, the middle leaves often **divided right to the base into 3**, the lobes long-elliptic with toothed edges; **small flower heads in flat-topped clusters, flowers white or tinged pale red**
   - Dried herb: stem round, yellowish brown or yellowish green, with clear nodes and lengthwise ridges; pith white or hollow; leaves mostly shrivelled and broken, greenish brown
   - Smell: **aromatic**; taste slightly bitter
-- **Look-alikes**: **Zelan** (see [4.2](#42-zelan-bugleweed)) has a similar name, but *Zelan* is in the mint family, **with a square stem** and flowers in whorls in the leaf axils; the two have different actions. Many wild species in the same genus (*Eupatorium*) look similar
+- **Look-alikes**: ***Zelan*** (see [4.2](#42-zelan-bugleweed)) has a similar name, but *Zelan* is in the mint family, **with a square stem** and flowers in whorls in the leaf axils; the two have different actions. Many wild species in the same genus (*Eupatorium*) look similar
 - **Harvesting and processing**: cut twice in summer and autumn, remove impurities and dry in the sun
 - **Storage**: seal and keep in a cool, dry place to stop the scent escaping
 - **Actions**: aromatically transforms damp, awakens the spleen and opens the appetite, releases the exterior and relieves summer heat
@@ -391,7 +391,7 @@ This group contains the commonest weeds by roads and fields, and many of them ar
 - **Actions**: clears deficiency heat, relieves steaming-bone fever, relieves summer heat, checks malaria, relieves jaundice
 - **Dose**: 6-12 g, **added near the end** (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: use with caution with a weak digestion or diarrhoea
-- ⚠️ **Cannot replace antimalarial drugs**: the antimalarial drug artemisinin is **extracted and purified** from sweet wormwood and then made into artemisinin-class medicines (artesunate, artemether and others), which must be used together with other antimalarial drugs. **A decoction of Qinghao contains extremely little artemisinin, and what it contains is unstable; it cannot treat malaria**. Fever and chills after being in a malaria area must be seen by a doctor as soon as possible for a blood test
+- ⚠️ **Cannot replace antimalarial drugs**: the antimalarial drug artemisinin is **extracted and purified** from sweet wormwood and then made into artemisinin-class medicines (artesunate, artemether and others), which must be used together with other antimalarial drugs. **A decoction of *Qinghao* contains extremely little artemisinin, and what it contains is unstable; it cannot treat malaria**. Fever and chills after being in a malaria area must be seen by a doctor as soon as possible for a blood test
 
 ---
 
@@ -418,7 +418,7 @@ This group is used for jaundice, difficulty passing urine, urinary stones and th
 ### 3.2 Cheqiancao (plantain)
 
 - **Cheqiancao (Chegulucai, Hamacao)**: Chinese 车前草; *Plantago asiatica* L., *P. depressa* Willd.
-- **Source**: the dried whole plant of *Plantago asiatica* L. or *P. depressa* Willd. (Plantaginaceae). The ripe seeds are a separate herb, "*Cheqianzi*"; see [Fruits and seeds – Cheqianzi](03-fruits-and-seeds.md#55-cheqianzi-plantain-seed)
+- **Source**: the dried whole plant of *Plantago asiatica* L. or *P. depressa* Willd. (Plantaginaceae). The ripe seeds are a separate herb, "*Cheqianzi*"; see [Fruits and seeds – *Cheqianzi*](03-fruits-and-seeds.md#55-cheqianzi-plantain-seed)
 - **Distribution and habitat**: roadsides, field banks, grassland, courtyards and ditch sides all over China; extremely common and tolerant of trampling
 - **Key identification features**:
   - Plant: perennial herb (*P. depressa* is annual or biennial) **with no stem above ground**; all leaves grow from the root crown and lie flat in a rosette; leaf blade ovate or elliptic, **with 5-7 thick veins curving from the leaf base to the tip**; **pull the leaf stalk apart and white threads stretch out**
@@ -485,7 +485,7 @@ This group relates to menstruation, bleeding and blood stasis. **Blood-moving he
   - Plant: perennial herb, 0.6-1.7 m tall; **underground it has white, thick, creeping rhizomes ("*Disun*", "ground shoots", edible)**; **stem square**, usually unbranched, often hairy at the nodes; leaves opposite, lanceolate, with sharp teeth, almost stalkless
   - Flower: **small white flowers clustered in the leaf axils, ring after ring**
   - Dried herb: stem square, little branched, with shallow lengthwise grooves on all four sides, yellowish green or tinged purple, the nodes clearly purple, with white hairs; broken surface yellowish white, pith hollow; leaves blackish green above and grey-green below, densely gland-dotted, short-haired on both sides; flowers clustered in rings in the leaf axils, corollas mostly fallen; smell faint, taste bland
-- **Look-alikes**: **Peilan** (daisy family, round stem, flower heads; see [1.5](#15-peilan-fortunes-boneset)) has a similar name, and old texts often confuse the two; check "square stem, flowers in rings in the leaf axils, white *Disun* underground"
+- **Look-alikes**: ***Peilan*** (daisy family, round stem, flower heads; see [1.5](#15-peilan-fortunes-boneset)) has a similar name, and old texts often confuse the two; check "square stem, flowers in rings in the leaf axils, white *Disun* underground"
 - **Harvesting and processing**: cut in summer and autumn when stems and leaves are lush and dry in the sun
 - **Storage**: keep in a ventilated, dry place
 - **Actions**: moves blood and regulates menstruation, dispels stasis and reduces abscesses, drains water and reduces swelling
@@ -517,7 +517,7 @@ This group relates to menstruation, bleeding and blood stasis. **Blood-moving he
   - Plant: perennial herb, 30-80 cm tall; **long creeping roots, so it often grows in patches**; leaves alternate, elliptic or long-elliptic to lanceolate, **smooth-edged or shallowly toothed, with fine, close spines along the edge**, not deeply divided
   - Flower: **flower heads single or several at the stem tips, purplish red, all tubular florets**; involucre bell-shaped, with many layers of bracts; male and female flowers on separate plants
   - Dried herb: stem round, grey-green or tinged purple, with lengthwise ridges and soft white hairs, hollow when broken; leaves shrivelled or broken, long-elliptic or oblong-lanceolate when flattened, spines at the tips of the teeth, soft white hairs on both sides; involucre bell-shaped, bracts in 5-8 layers, yellowish green; flowers purplish red; smell faint, taste slightly bitter
-- **Look-alikes**: *Daji* (see [4.5](#45-daji-japanese-thistle)). The equally prickly **cocklebur** (*Xanthium*) has broad, triangular, heart-shaped leaves and small jujube-stone-shaped fruits covered in hooked spines; its seedlings and fruits are poisonous; see [Cocklebur seedlings and Cang'erzi](09-toxic-herbs-and-poisonous-look-alikes.md#410-canger-seedlings-and-cangerzi-cocklebur)
+- **Look-alikes**: *Daji* (see [4.5](#45-daji-japanese-thistle)). The equally prickly **cocklebur** (*Xanthium*) has broad, triangular, heart-shaped leaves and small jujube-stone-shaped fruits covered in hooked spines; its seedlings and fruits are poisonous; see [Cocklebur seedlings and *Cang'erzi*](09-toxic-herbs-and-poisonous-look-alikes.md#410-canger-seedlings-and-cangerzi-cocklebur)
 - **Harvesting and processing**: cut in summer and autumn when in flower, remove impurities and dry in the sun
 - **Storage**: keep in a ventilated, dry place
 - **Actions**: cools the blood and stops bleeding, disperses stasis, detoxifies and reduces abscesses
@@ -653,7 +653,7 @@ This group comes from mixed sources: *Shenjincao* is a fern ally, *Shihu* is an 
   - Plant: **a small herb growing flat against the ground**; usually 1-2 leaves, **heart- or kidney-shaped, on long stalks**; **flowers single at the base of the leaf stalks, pressed against the ground, purplish brown, pot- or bell-shaped**, often hidden under fallen leaves; the whole plant has a pungent smell
   - Dried herb: often curled into clumps; rhizome horizontal, irregularly cylindrical, with ring-like nodes and bowl-shaped stem scars at the branch tips; roots thin and long, dense on the nodes, 10-20 cm long and about 0.1 cm across, greyish yellow; brittle, broken surface yellowish white or white; **pungent, fragrant smell; taste pungent and numbing on the tongue**
 - **Look-alikes**: related species such as *Duheng* (*A. forbesii*) and *Tuxixin* are often used as *Xixin*; other plants of the birthwort family (climbing *Aristolochia* species) also contain aristolochic acid. **"*Xixin*" collected in the mountains is often the whole plant with leaves, and may be another species**
-- **Why only the root**: aristolochic acid is concentrated in the aerial parts (the leaves), so from the 2005 edition of the Pharmacopoeia the part used for *Xixin* was changed to the root and rhizome only, and the 2020 edition keeps this. Aristolochic acid can cause irreversible kidney damage and cancer; see [Xixin: use only the root and rhizome](09-toxic-herbs-and-poisonous-look-alikes.md#33-xixin-use-only-the-root-and-rhizome) and [Herbs containing aristolochic acid](09-toxic-herbs-and-poisonous-look-alikes.md#3-herbs-containing-aristolochic-acid)
+- **Why only the root**: aristolochic acid is concentrated in the aerial parts (the leaves), so from the 2005 edition of the Pharmacopoeia the part used for *Xixin* was changed to the root and rhizome only, and the 2020 edition keeps this. Aristolochic acid can cause irreversible kidney damage and cancer; see [*Xixin*: use only the root and rhizome](09-toxic-herbs-and-poisonous-look-alikes.md#33-xixin-use-only-the-root-and-rhizome) and [*Herbs* containing aristolochic acid](09-toxic-herbs-and-poisonous-look-alikes.md#3-herbs-containing-aristolochic-acid)
 - **Harvesting and processing**: dig up in summer when the fruits are ripe or in early autumn, **remove all aerial parts** and soil, and dry in the shade
 - **Storage**: contains volatile oil; seal and keep in a cool, dry place
 - **Actions**: releases the exterior and dispels cold, dispels wind and relieves pain, opens the nasal passages, warms the lungs and transforms fluid retention
@@ -672,17 +672,17 @@ This group comes from mixed sources: *Shenjincao* is a fern ally, *Shihu* is an 
 | Mint | "False mints" such as pennyroyal (liver damage); wild plants with no mint smell | Crushed, it must have a cooling mint smell; do not use any "mint" you do not know as medicine or tea |
 | Purslane | Spurges such as spotted spurge and sun spurge (white milky sap) | Snap it and look at the sap: only clear slime means purslane |
 | Dandelion | Sow thistle and Oriental hawksbeard mixed in; buttercup and groundsel picked by mistake | No stem above ground, hollow flower stalk, one flower per stalk, white milky sap |
-| Qinghao | Used as an antimalarial | Malaria must be seen by a doctor; a decoction cannot treat malaria |
-| Xiakucao | Used to "dissipate lumps", delaying a check of the lump | If you feel a lump, go to hospital first |
+| *Qinghao* | Used as an antimalarial | Malaria must be seen by a doctor; a decoction cannot treat malaria |
+| *Xiakucao* | Used to "dissipate lumps", delaying a check of the lump | If you feel a lump, go to hospital first |
 | Plantain | False hellebore, lily of the valley (curving parallel veins) | Flat rosette on the ground, long leaf stalks, thin, long green flower spikes |
-| Jinqiancao, Baijiangcao, Diding | Many different plants under the same name | Get the herb by the name on the prescription and by local custom |
-| Peilan, Yinyanghuo | Large amounts taken for long may damage the liver | Do not take them yourself for long; not with liver disease |
-| Motherwort, Zelan, Banzhilian | Can cause miscarriage in pregnancy; increase bleeding risk | Not in pregnancy; people taking anticoagulants should ask a doctor first |
-| Shenjincao | Toothed clubmoss (*Huperzia serrata*) mixed in | Check for long creeping stems and needle-shaped leaves |
+| *Jinqiancao*, *Baijiangcao*, Diding | Many different plants under the same name | Get the herb by the name on the prescription and by local custom |
+| *Peilan*, *Yinyanghuo* | Large amounts taken for long may damage the liver | Do not take them yourself for long; not with liver disease |
+| Motherwort, *Zelan*, *Banzhilian* | Can cause miscarriage in pregnancy; increase bleeding risk | Not in pregnancy; people taking anticoagulants should ask a doctor first |
+| *Shenjincao* | Toothed clubmoss (*Huperzia serrata*) mixed in | Check for long creeping stems and needle-shaped leaves |
 | Ephedra | Raises blood pressure, heart rhythm problems; state-controlled | Do not collect, buy, transport or use it yourself |
-| Xixin | Kidney damage from aristolochic acid; poisoning from overdose | Use only root and rhizome from a proper pharmacy, as a doctor directs |
-| Shihu, cistanche, Suoyang | Wild resources protected or scarce | Use only cultivated herb |
-| Baihuasheshecao, Banzhilian | Used as "anti-cancer herbs", delaying treatment | Cannot replace surgery, chemotherapy or radiotherapy |
+| *Xixin* | Kidney damage from aristolochic acid; poisoning from overdose | Use only root and rhizome from a proper pharmacy, as a doctor directs |
+| *Shihu*, cistanche, *Suoyang* | Wild resources protected or scarce | Use only cultivated herb |
+| *Baihuasheshecao*, *Banzhilian* | Used as "anti-cancer herbs", delaying treatment | Cannot replace surgery, chemotherapy or radiotherapy |
 
 ### 6.2 Self-check
 
@@ -691,18 +691,18 @@ Before collecting whole herbs, confirm each point:
 - [ ] I checked at least 3 features: round or square stem, opposite or alternate leaves, flower shape and colour, smell, milky sap or not
 - [ ] I have ruled out the poisonous plants most easily confused with this group (spurges, buttercups, the carrot family, false hellebore and others)
 - [ ] The collecting site is away from roads, factories, mines and fields that have just been sprayed with pesticide
-- [ ] It is not a controlled or protected plant such as ephedra, Xixin, Shihu or cistanche
+- [ ] It is not a controlled or protected plant such as ephedra, *Xixin*, *Shihu* or cistanche
 - [ ] I cut only part of the aerial parts and left the roots and seed plants
-- [ ] After bringing it back I spread it out to dry; those with volatile oils (mint, Huoxiang, Jingjie, Xiangru, Qinghao) are dried in the shade, not in strong sun
+- [ ] After bringing it back I spread it out to dry; those with volatile oils (mint, Huoxiang, *Jingjie*, *Xiangru*, *Qinghao*) are dried in the shade, not in strong sun
 - [ ] I know the Pharmacopoeia dose and cautions; pregnant women, children, people with liver or kidney disease and people taking anticoagulants ask a doctor first
 
 | Task | Difficulty | Risk of getting it wrong |
 |------|------|----------|
 | Recognising common whole herbs (dandelion, plantain, purslane, houttuynia) | ⭐⭐ | ☠️☠️ (spurges and others mixed in) |
-| Recognising fragrant mint-family herbs (mint, Jingjie, Huoxiang, Xiangru) | ⭐⭐⭐ | ☠️ (different actions; poisoning very rare) |
-| Telling apart different plants under the same name (Jinqiancao, Baijiangcao, Diding) | ⭐⭐⭐⭐ | ☠️ (wrong herb) |
-| Recognising desert parasites and epiphytic orchids (cistanche, Suoyang, Shihu) | ⭐⭐⭐ | Illegally digging protected wild plants |
-| Using ephedra or Xixin yourself | Not allowed | ☠️☠️☠️☠️ (heart rhythm problems, kidney damage) |
+| Recognising fragrant mint-family herbs (mint, *Jingjie*, Huoxiang, *Xiangru*) | ⭐⭐⭐ | ☠️ (different actions; poisoning very rare) |
+| Telling apart different plants under the same name (*Jinqiancao*, *Baijiangcao*, Diding) | ⭐⭐⭐⭐ | ☠️ (wrong herb) |
+| Recognising desert parasites and epiphytic orchids (cistanche, *Suoyang*, *Shihu*) | ⭐⭐⭐ | Illegally digging protected wild plants |
+| Using ephedra or *Xixin* yourself | Not allowed | ☠️☠️☠️☠️ (heart rhythm problems, kidney damage) |
 | Using whole herbs instead of proper treatment (malaria, cancer, stones, jaundice) | Not allowed | ☠️☠️☠️☠️☠️ (delayed treatment) |
 
 ## 📝 Key points of this chapter
@@ -732,8 +732,8 @@ Before collecting whole herbs, confirm each point:
 
 - ⏮️ [Fruits and Seeds](03-fruits-and-seeds.md) - goji berries, hawthorn, schisandra, aged tangerine peel, plantain seed and other fruit, peel and seed herbs
 - ⏭️ [Flowers and Leaves](05-flowers-and-leaves.md) - honeysuckle, chrysanthemum, mugwort leaf, mulberry leaf, perilla leaf and other flower and leaf herbs
-- 🔗 [General Principles of Identifying and Collecting Chinese Medicinal Herbs](00-general-principles.md) - general methods for identification, harvesting, processing, storage, safety and the law
-- 🔗 [Toxic Herbs and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - identification and poisoning signs of herbs containing aristolochic acid, water hemlock, datura and others
+- 🔗 [General Principles of Identifying and Collecting Chinese Medicinal *Herbs*](00-general-principles.md) - general methods for identification, harvesting, processing, storage, safety and the law
+- 🔗 [Toxic *Herbs* and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - identification and poisoning signs of herbs containing aristolochic acid, water hemlock, datura and others
 - 🔗 [Medicinal Plants: Identification and Growing Guide](../04-farming-and-animal-husbandry/04-medicinal-plants.md) - growing mint, dandelion, houttuynia, plantain, purslane, self-heal and motherwort, and the home herb garden
 - 🔗 [Traditional Chinese Medicine Preparations](../06-pharmaceuticals/04-herbal-preparations.md) - processing, decoction, common formulas and safe use
 - 🔗 [Poisonous Mushrooms and Wild Plants](../03-wilderness-survival/09-poisonous-mushrooms-and-wild-plants.md) - the risks of gathering wild vegetables and weeds, and what to do after eating the wrong thing
