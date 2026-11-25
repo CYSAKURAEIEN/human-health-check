@@ -76,7 +76,7 @@ def rewrite(en_path, zh2en):
         if os.path.isdir(os.path.join(ROOT, full)):
             full = os.path.join(full, 'README.md')
         en = zh2en.get(full)
-        if not en or not os.path.isfile(os.path.join(ROOT, en)):
+        if not en or not os.path.isfile(os.path.join(ROOT, en)) or en == en_path:  # 指向本页中文原文的链接是有意的
             return m.group(0)
         new_frag = ''
         if frag:

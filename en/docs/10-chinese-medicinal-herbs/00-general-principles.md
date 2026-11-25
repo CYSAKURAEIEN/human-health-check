@@ -49,8 +49,8 @@ The Chinese-medicine content of the handbook is in three places, linked to one a
 | Chapter | Focus | What to look up there |
 |------|------|------------|
 | This part (Part X) | **Identifying and collecting herbs** | What a herb looks like, where to find it, when to collect it, which part to collect, how to dry and store it, Pharmacopoeia doses, contraindications, look-alikes |
-| [Medicinal plants: identification and growing guide](../../../docs/04-动植物培育/04-药用植物.md) | **Growing herbs** | Growing and propagating mint, honeysuckle, chrysanthemum, liquorice and others; the home herb garden |
-| [Traditional Chinese medicine preparations](../../../docs/06-制药技术/04-中药制剂.md) | **Making and using medicines** | Processing (stir-frying, frying with liquid adjuvants, steaming, calcining), decocting, making pills, powders, pastes and tinctures, formulas for common symptoms |
+| [Medicinal plants: identification and growing guide](../04-farming-and-animal-husbandry/04-medicinal-plants.md) | **Growing herbs** | Growing and propagating mint, honeysuckle, chrysanthemum, liquorice and others; the home herb garden |
+| [Traditional Chinese medicine preparations](../06-pharmaceuticals/04-herbal-preparations.md) | **Making and using medicines** | Processing (stir-frying, frying with liquid adjuvants, steaming, calcining), decocting, making pills, powders, pastes and tinctures, formulas for common symptoms |
 
 ```
 The complete route of a herb from the hillside to the medicine pot:
@@ -131,7 +131,7 @@ Do not mix them up:
 |------|------|------|
 | By natural attribute | Plant, animal, mineral | The roughest division |
 | By relationship | Plant family and genus (e.g. carrot family, legume family, daisy family) | Recognising plants, finding substitutes, judging the risk of toxicity |
-| By action | Exterior-releasing, heat-clearing, tonifying, blood-activating medicines, etc. | Used by practitioners of Chinese medicine to write prescriptions; see [Traditional Chinese medicine preparations](../../../docs/06-制药技术/04-中药制剂.md) |
+| By action | Exterior-releasing, heat-clearing, tonifying, blood-activating medicines, etc. | Used by practitioners of Chinese medicine to write prescriptions; see [Traditional Chinese medicine preparations](../06-pharmaceuticals/04-herbal-preparations.md) |
 | By the part used | Roots, fruits, herbs, flowers and leaves, barks… | Identifying, collecting, processing and storing herbs — used in this part |
 
 **Why it helps to know the family and genus**: plants of the same family often have similar features and chemical constituents. For example, the carrot family (Apiaceae) mostly has compound umbels and an aromatic smell; it includes *Danggui*, *Chaihu* (bupleurum root) and *Fangfeng* (saposhnikovia root), but also the highly poisonous water hemlock. The buttercup family (Ranunculaceae) has *Huanglian* (coptis rhizome) and *Baishao* (white peony root), but also *Wutou* and *Fuzi*. Once you recognise the family and genus, you know which poisonous "close relatives" to watch out for.
@@ -231,7 +231,7 @@ Identification by appearance means judging herbs that have already been collecte
 
 ![Differences in outer form and cut surface between roots, rhizomes, tubers and bulbs](../../images/root-vs-rhizome.svg)
 
-*Figure: How to tell root and rhizome herbs apart. Roots have lengthwise wrinkles and lenticels on the surface, and the cut surface shows bark, a cambium ring and wood; rhizomes have rings (nodes), with stem scars and buds on the upper side and fibrous roots growing from the lower side and the nodes; tubers (Tianma) have many rings of dotted marks, a parrot's beak and a round navel-like scar; bulbs are made of fleshy scale leaves wrapped round each other. For the features of each species see [Roots and rhizomes (part 1)](../../../docs/10-中药材识别与采集/01-根及根茎类上.md) and [Roots and rhizomes (part 2)](../../../docs/10-中药材识别与采集/02-根及根茎类下.md)*
+*Figure: How to tell root and rhizome herbs apart. Roots have lengthwise wrinkles and lenticels on the surface, and the cut surface shows bark, a cambium ring and wood; rhizomes have rings (nodes), with stem scars and buds on the upper side and fibrous roots growing from the lower side and the nodes; tubers (Tianma) have many rings of dotted marks, a parrot's beak and a round navel-like scar; bulbs are made of fleshy scale leaves wrapped round each other. For the features of each species see [Roots and rhizomes (part 1)](01-roots-and-rhizomes-1.md) and [Roots and rhizomes (part 2)](02-roots-and-rhizomes-2.md)*
 
 ```
 How to look, touch, smell and taste:
@@ -312,7 +312,7 @@ Note:
   do not pick it
 ```
 
-For poisonous look-alikes see [Toxic Chinese herbs and poisonous look-alikes](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md); for eating wild greens and poisonous mushrooms by mistake see [Poisonous mushrooms and wild plants](../../../docs/03-野外生存/09-毒蘑菇与野菜误食.md).
+For poisonous look-alikes see [Toxic Chinese herbs and poisonous look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md); for eating wild greens and poisonous mushrooms by mistake see [Poisonous mushrooms and wild plants](../03-wilderness-survival/09-poisonous-mushrooms-and-wild-plants.md).
 
 ---
 
@@ -435,7 +435,7 @@ Principles of sustainable collection:
 
 Freshly collected herbs hold a lot of water. If not dealt with promptly, they heat up, rot and change colour within a few days. The purpose of processing at the place of origin is to remove impurities and non-medicinal parts, dry the herbs quickly and make them easy to store and transport; some processing also preserves or improves the herb's effect.
 
-**Do not confuse the two**: processing at the place of origin (this section) is the initial treatment done straight after collection; *paozhi* processing (stir-frying, frying with liquid adjuvants, calcining, detoxifying, etc.) is further processing before use, see [TCM preparations – Methods of processing Chinese herbs](../../../docs/06-制药技术/04-中药制剂.md#二中药炮制方法).
+**Do not confuse the two**: processing at the place of origin (this section) is the initial treatment done straight after collection; *paozhi* processing (stir-frying, frying with liquid adjuvants, calcining, detoxifying, etc.) is further processing before use, see [TCM preparations – Methods of processing Chinese herbs](../06-pharmaceuticals/04-herbal-preparations.md#2-processing-chinese-herbs).
 
 ### 5.1 Cleaning and sorting
 
@@ -566,7 +566,7 @@ better to dry for one more day than to pack them before they are thoroughly
 dry — within a few days they will go mouldy.
 ```
 
-For low-temperature drying on rainy days see [Food processing and preservation – sun-drying and air-drying](../../../docs/07-日常生活技能/01-食物加工与保存.md#晒干与风干).
+For low-temperature drying on rainy days see [Food processing and preservation – sun-drying and air-drying](../07-everyday-living-skills/01-food-processing-and-preservation.md#sun-drying-and-air-drying).
 
 ![Sun-drying, shade-drying and heat-drying herbs, drying temperatures and how to tell herbs are thoroughly dry](../../images/herb-drying.svg)
 
@@ -703,7 +703,7 @@ high out of children's reach;
 do not keep them with ordinary herbs or food.
 ```
 
-For more detail on storage see [TCM preparations – Storage and shelf life of herbs](../../../docs/06-制药技术/04-中药制剂.md#83-药材的储存与有效期).
+For more detail on storage see [TCM preparations – Storage and shelf life of herbs](../06-pharmaceuticals/04-herbal-preparations.md#83-storing-herbs-and-how-long-they-keep).
 
 ---
 
@@ -762,7 +762,7 @@ Herbs can harm people too. Common situations:
 
 ### 7.3 The eighteen incompatibilities and nineteen antagonisms (combinations to avoid)
 
-The "eighteen incompatibilities" (*shiba fan*) and "nineteen antagonisms" (*shijiu wei*) are the traditional combination prohibitions of Chinese medicine: certain medicines used together may produce or increase toxicity or reduce effectiveness. For the full lists see [TCM preparations – the eighteen incompatibilities and nineteen antagonisms](../../../docs/06-制药技术/04-中药制剂.md#61-十八反十九畏配伍禁忌); only the general idea is given here:
+The "eighteen incompatibilities" (*shiba fan*) and "nineteen antagonisms" (*shijiu wei*) are the traditional combination prohibitions of Chinese medicine: certain medicines used together may produce or increase toxicity or reduce effectiveness. For the full lists see [TCM preparations – the eighteen incompatibilities and nineteen antagonisms](../06-pharmaceuticals/04-herbal-preparations.md#61-the-eighteen-incompatibilities-and-nineteen-antagonisms-combinations-to-avoid); only the general idea is given here:
 
 ```
 The eighteen incompatibilities (using together may produce or increase toxic
@@ -809,7 +809,7 @@ Principles:
   see a doctor at once; do not delay by relying on herbs to "calm the fetus"
 ```
 
-For more on medicines in pregnancy see [TCM preparations – contraindications in pregnancy](../../../docs/06-制药技术/04-中药制剂.md#62-孕妇禁忌).
+For more on medicines in pregnancy see [TCM preparations – contraindications in pregnancy](../06-pharmaceuticals/04-herbal-preparations.md#62-contraindications-in-pregnancy).
 
 ### 7.5 Taking herbs with Western medicines
 
@@ -828,7 +828,7 @@ For more on medicines in pregnancy see [TCM preparations – contraindications i
   wines and health supplements you are taking
 ```
 
-For details see [Medicinal plants – taking them with Western medicines](../../../docs/04-动植物培育/04-药用植物.md#与西药同用的提醒) and [TCM preparations – taking them with Western medicines](../../../docs/06-制药技术/04-中药制剂.md#65-与西药同用).
+For details see [Medicinal plants – taking them with Western medicines](../04-farming-and-animal-husbandry/04-medicinal-plants.md#taking-herbs-with-western-medicines) and [TCM preparations – taking them with Western medicines](../06-pharmaceuticals/04-herbal-preparations.md#65-taking-them-with-western-medicines).
 
 ### 7.6 Risk of liver and kidney damage
 
@@ -867,7 +867,7 @@ Prevention:
    "detoxify" and then watch at home
 ```
 
-For the principles of treatment see [General principles of treating poisoning](../../../docs/01-日常疾病和伤害/12-中毒.md#中毒的通用处理原则).
+For the principles of treatment see [General principles of treating poisoning](../01-first-aid-and-family-health/12-poisoning.md#general-principles-for-handling-poisoning).
 
 ---
 
@@ -943,7 +943,7 @@ Key points:
   on substitutes, not how to obtain them
 ```
 
-For the bans and legal substitutes for each protected animal medicine see [Animal and mineral medicines – protected animal medicines](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#三保护动物药材-禁令与替代).
+For the bans and legal substitutes for each protected animal medicine see [Animal and mineral medicines – protected animal medicines](08-animal-and-mineral-medicines.md#3-protected-animal-medicines-bans-and-substitutes).
 
 ### 8.4 The collector's bottom lines
 
@@ -1023,12 +1023,12 @@ Before collecting a herb, confirm each point:
 
 ## Related chapters
 
-- ⏭️ [Toxic Chinese herbs and poisonous look-alikes](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md) - first learn what to avoid
-- 🔗 [Medicinal plants: identification and growing guide](../../../docs/04-动植物培育/04-药用植物.md) - growing medicinal plants and the home herb garden
-- 🔗 [Traditional Chinese medicine preparations](../../../docs/06-制药技术/04-中药制剂.md) - processing, decocting, formulas and safe use
-- 🔗 [Poisonous mushrooms and wild plants](../../../docs/03-野外生存/09-毒蘑菇与野菜误食.md) - the risks of foraging in the wild
-- 🔗 [Poisoning](../../../docs/01-日常疾病和伤害/12-中毒.md) - dealing with eating poisonous plants and medicine overdoses
-- 🔗 [Food processing and preservation](../../../docs/07-日常生活技能/01-食物加工与保存.md) - drying and preventing mould
+- ⏭️ [Toxic Chinese herbs and poisonous look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - first learn what to avoid
+- 🔗 [Medicinal plants: identification and growing guide](../04-farming-and-animal-husbandry/04-medicinal-plants.md) - growing medicinal plants and the home herb garden
+- 🔗 [Traditional Chinese medicine preparations](../06-pharmaceuticals/04-herbal-preparations.md) - processing, decocting, formulas and safe use
+- 🔗 [Poisonous mushrooms and wild plants](../03-wilderness-survival/09-poisonous-mushrooms-and-wild-plants.md) - the risks of foraging in the wild
+- 🔗 [Poisoning](../01-first-aid-and-family-health/12-poisoning.md) - dealing with eating poisonous plants and medicine overdoses
+- 🔗 [Food processing and preservation](../07-everyday-living-skills/01-food-processing-and-preservation.md) - drying and preventing mould
 
 ---
 

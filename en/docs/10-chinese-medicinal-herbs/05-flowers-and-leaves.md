@@ -2,7 +2,7 @@
 
 > **Flowers and leaves are the "best-looking" herbs, and precisely because they look good and sell well they have the most fakes and dyed goods. With flowers, look at the shape, smell the scent and soak them in water to see the colour; with leaves, look at the veins, feel the hairs and crush them to smell. A bright colour alone does not prove a good herb**
 
-This chapter covers 23 common flower and leaf herbs (the part used is the flower bud, the open flower, the flower head, the stigma, the pollen, the leaf or the leafy twig tip). They are roughly grouped by action into six groups: heat-clearing and detoxifying flowers; blood-moving and *qi*-regulating flowers; phlegm-resolving, orifice-opening, mind-calming and interior-warming flowers; dispersing and heat-clearing leaves; cough-stopping, bleeding-stopping and channel-warming leaves; and leaves that need special care. General methods for identification, harvesting, drying and storage are in the [General Principles](./00-general-principles.md) and are not repeated here. How to grow honeysuckle, chrysanthemum and mugwort is already covered in [Medicinal Plants: Identification and Growing](../../../docs/04-动植物培育/04-药用植物.md); this chapter covers only identification and collection.
+This chapter covers 23 common flower and leaf herbs (the part used is the flower bud, the open flower, the flower head, the stigma, the pollen, the leaf or the leafy twig tip). They are roughly grouped by action into six groups: heat-clearing and detoxifying flowers; blood-moving and *qi*-regulating flowers; phlegm-resolving, orifice-opening, mind-calming and interior-warming flowers; dispersing and heat-clearing leaves; cough-stopping, bleeding-stopping and channel-warming leaves; and leaves that need special care. General methods for identification, harvesting, drying and storage are in the [General Principles](./00-general-principles.md) and are not repeated here. How to grow honeysuckle, chrysanthemum and mugwort is already covered in [Medicinal Plants: Identification and Growing](../04-farming-and-animal-husbandry/04-medicinal-plants.md); this chapter covers only identification and collection.
 
 ## ⚠️ Read these first
 
@@ -98,7 +98,7 @@ The flowers in this group are mostly harvested in summer and autumn. The rule is
   - Dried herb: buds **club-shaped, thicker above and thinner below**, slightly curved, 2-3 cm long; surface yellowish-white or greenish-white, **densely covered with short soft hairs**; occasionally open flowers are present, with a tubular corolla that is two-lipped at the tip
   - Smell: clear, fragrant smell; taste bland, slightly bitter
 - **Look-alikes**:
-  - **Gouwen (heartbreak grass, *Gelsemium*)**: also a twining vine with opposite leaves and yellow flowers, and **extremely poisonous**; its leaves are smooth and hairless, its flowers grow several together in a cluster, are **funnel-shaped with 5 even lobes, and only yellow**. For a detailed comparison see [Gouwen vs honeysuckle](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#42-钩吻-vs-金银花)
+  - **Gouwen (heartbreak grass, *Gelsemium*)**: also a twining vine with opposite leaves and yellow flowers, and **extremely poisonous**; its leaves are smooth and hairless, its flowers grow several together in a cluster, are **funnel-shaped with 5 even lobes, and only yellow**. For a detailed comparison see [Gouwen vs honeysuckle](09-toxic-herbs-and-poisonous-look-alikes.md#42-gouwen-heartbreak-grass-vs-jinyinhua-honeysuckle)
   - **Shanyinhua (mountain honeysuckle)**: the flower buds of *Lonicera macranthoides*, *L. hypoglauca*, *L. confusa* and *L. fulvotomentosa*. The Pharmacopoeia lists it separately as *Shanyinhua*; its actions are similar, but it cannot be used as *Jinyinhua*; most of its buds are longer, less hairy or have glandular hairs
   - In the trade you occasionally find flowers fumigated with sulphur or bulked up with sugar or alum water: do not take any that are unusually bright, smell sour or feel sticky
 - **Harvesting and processing**: in early summer, **before the flowers open** (when the buds turn from green to white and swell at the top), pick in the early morning; spread thinly to dry in the air or dry at a low temperature. **Do not turn them or rub them with your hands before they are dry**, or they turn black
@@ -106,7 +106,7 @@ The flowers in this group are mostly harvested in summer and autumn. The rule is
 - **Actions**: clears heat and detoxifies, disperses wind-heat
 - **Dose**: 6-15 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: use with caution if the spleen and stomach are cold and weak or the stools are loose (experience)
-- For growing, see [Medicinal Plants – Honeysuckle](../../../docs/04-动植物培育/04-药用植物.md#金银花忍冬); for the vine stem *Rendongteng* see [Barks, Stems and Woods – Rendongteng](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#35-忍冬藤)
+- For growing, see [Medicinal Plants – Honeysuckle](../04-farming-and-animal-husbandry/04-medicinal-plants.md#jinyinhua-honeysuckle); for the vine stem *Rendongteng* see [Barks, Stems and Woods – Rendongteng](06-barks-stems-and-woods.md#35-rendongteng-honeysuckle-stem)
 
 ### 1.2 Juhua (chrysanthemum)
 
@@ -126,7 +126,7 @@ The flowers in this group are mostly harvested in summer and autumn. The rule is
 - **Actions**: disperses wind and clears heat, calms the liver and brightens the eyes, clears heat and detoxifies
 - **Dose**: 5-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: use less if the spleen and stomach are cold and weak (experience); people allergic to the daisy family (for example to mugwort or ragweed) may be allergic to it
-- For growing, see [Medicinal Plants – Chrysanthemum](../../../docs/04-动植物培育/04-药用植物.md#菊花)
+- For growing, see [Medicinal Plants – Chrysanthemum](../04-farming-and-animal-husbandry/04-medicinal-plants.md#juhua-chrysanthemum)
 
 ### 1.3 Yejuhua (wild chrysanthemum)
 
@@ -322,7 +322,7 @@ Most of this group are **not to be used, or to be used with caution, in pregnanc
   - Plant: deciduous tree; **twice-pinnate compound leaves**, the leaflets tiny and sickle-shaped, **folding together in pairs at night** (hence *yehe*, "closing at night"); in summer it bears **pink pompom-like flowers**; the "fluff" you see is actually the long, thin stamens
   - Dried herb: *Hehuanhua* is a flower head shrivelled into a ball; main flower stalk 3-4 cm long; flowers long, thin and curved, 0.7-1 cm long, pale yellow or yellowish-brown, the corolla tubular with 5 lobes at the tip; **many stamens with long, thin filaments**, yellowish-brown to tawny. *Hehuanmi* is club-shaped, pale yellow to yellowish-brown
   - Smell: faintly fragrant; taste bland
-- **Look-alikes**: other trees of the same family such as **falcata (*Nanyangying*) and *Shanhehuan* (*Albizia kalkora*)** (white flowers, larger leaflets); **the bark, *Hehuanpi*, is a different medicine**, see [Hehuanpi](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#16-合欢皮)
+- **Look-alikes**: other trees of the same family such as **falcata (*Nanyangying*) and *Shanhehuan* (*Albizia kalkora*)** (white flowers, larger leaflets); **the bark, *Hehuanpi*, is a different medicine**, see [Hehuanpi](06-barks-stems-and-woods.md#16-hehuanpi-silk-tree-bark)
 - **Harvesting and processing**: in summer, harvest on a sunny day **when the flowers are open**, or harvest *Hehuanmi* when the flower buds have formed; dry in the sun promptly
 - **Storage**: protect from damp and insects
 - **Actions**: relieves constraint and calms the mind
@@ -370,7 +370,7 @@ Leaf herbs shrivel and break when dried. To identify them, **soak them soft and 
 - **Actions**: disperses wind-heat, clears the lungs and moistens dryness, clears the liver and brightens the eyes
 - **Dose**: 5-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: not suitable for a wind-cold common cold (feeling cold, clear runny nose) (experience); people with diabetes must not use mulberry leaf in place of their diabetes medicines
-- For the root bark "[Sangbaipi](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#23-桑白皮)" and the young twigs "[Sangzhi](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#32-桑枝)" see Barks, Stems and Woods
+- For the root bark "[Sangbaipi](06-barks-stems-and-woods.md#23-sangbaipi-white-mulberry-root-bark)" and the young twigs "[Sangzhi](06-barks-stems-and-woods.md#32-sangzhi-mulberry-twig)" see Barks, Stems and Woods
 
 ### 4.2 Zisuye (perilla leaf)
 
@@ -450,7 +450,7 @@ Loquat leaf, oriental arborvitae leaf and mugwort leaf come from evergreen trees
 - **Storage**: protect from damp; keep in a ventilated, dry place
 - **Actions**: clears the lungs and stops cough, descends rebellious *qi* and stops vomiting
 - **Dose**: 6-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner); if the hairs have not been brushed off completely, wrap it in cloth for decoction, or the hairs irritate the throat and make the cough worse
-- **Cautions**: not suitable for wind-cold cough (thin, white phlegm, feeling cold) (experience); **loquat seeds (stones) contain amygdalin: do not eat them**, see also [Kuxingren (bitter apricot kernel)](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#412-苦杏仁)
+- **Cautions**: not suitable for wind-cold cough (thin, white phlegm, feeling cold) (experience); **loquat seeds (stones) contain amygdalin: do not eat them**, see also [Kuxingren (bitter apricot kernel)](09-toxic-herbs-and-poisonous-look-alikes.md#412-kuxingren-bitter-apricot-kernel)
 
 ### 5.2 Cebaiye (oriental arborvitae leaf)
 
@@ -490,7 +490,7 @@ Loquat leaf, oriental arborvitae leaf and mugwort leaf come from evergreen trees
 - **Actions**: warms the channels and stops bleeding, dispels cold and relieves pain; externally, dispels damp and relieves itching
 - **Dose**: 3-9 g; for external use, a suitable amount, for moxibustion or fumigation and washing (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: **the Pharmacopoeia marks it "slightly toxic"**: large amounts of mugwort volatile oil taken by mouth can cause nausea and vomiting, liver damage, nervous excitement and even convulsions; **do not take large amounts by mouth and do not drink mugwort essential oil**; pregnant women must use mugwort only under a doctor's guidance; with **moxibustion**, guard against burns and blisters (especially in people with diabetes or reduced sensation), **open the windows** indoors, and people with asthma or COPD should keep away from moxa smoke
-- For growing, see [Medicinal Plants – Mugwort](../../../docs/04-动植物培育/04-药用植物.md#艾草艾蒿)
+- For growing, see [Medicinal Plants – Mugwort](../04-farming-and-animal-husbandry/04-medicinal-plants.md#aicao-chinese-mugwort)
 
 ---
 
@@ -537,7 +537,7 @@ Senna leaf and ginkgo leaf can both be bought easily on the market and are often
   - The Pharmacopoeia says "not to be used by those with excess pathogens"
   - **Fresh leaves contain ginkgolic acids**, which can cause allergic dermatitis and stomach and bowel reactions and are somewhat toxic to cells; proper ginkgo leaf extracts and preparations have the ginkgolic acids specially removed and strictly limited, so **picking leaves yourself to make "ginkgo leaf tea" is not recommended**
   - Ginkgo leaf has an antiplatelet effect; used together with **warfarin, aspirin, clopidogrel** and similar drugs it can increase the risk of bleeding; **tell your doctor before surgery or a tooth extraction**; not for pregnant women or people with a tendency to bleed (experience)
-  - The Pharmacopoeia marks ginkgo seeds (*Baiguo*) "toxic"; see [Baiguo (ginkgo seed) eaten raw or in excess](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#411-白果银杏种子生食或多食)
+  - The Pharmacopoeia marks ginkgo seeds (*Baiguo*) "toxic"; see [Baiguo (ginkgo seed) eaten raw or in excess](09-toxic-herbs-and-poisonous-look-alikes.md#411-baiguo-ginkgo-seed-eaten-raw-or-in-quantity)
 
 ---
 
@@ -614,11 +614,11 @@ Before collecting flower and leaf herbs, confirm each point:
 ## Related chapters
 
 - ⏮️ [Whole Herbs](./04-whole-herbs.md) - mint, dandelion, houttuynia, sweet wormwood, motherwort and other whole-herb medicines
-- ⏭️ [Barks, Stems and Woods](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md) - Huangbai, Duzhong, cinnamon bark, Hehuanpi, Sangbaipi, Rendongteng and other bark and vine-stem herbs
+- ⏭️ [Barks, Stems and Woods](06-barks-stems-and-woods.md) - Huangbai, Duzhong, cinnamon bark, Hehuanpi, Sangbaipi, Rendongteng and other bark and vine-stem herbs
 - 🔗 [General Principles of Identifying and Collecting Chinese Medicinal Herbs](./00-general-principles.md) - general methods for identification, harvesting, processing, storage, safety and the law
-- 🔗 [Toxic Herbs and Poisonous Look-alikes](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md) - identification and poisoning signs of Gouwen, Baiguo, Naoyanghua, Yangjinhua (datura flower) and others
-- 🔗 [Medicinal Plants: Identification and Growing](../../../docs/04-动植物培育/04-药用植物.md) - growing honeysuckle, chrysanthemum and mugwort, and the home herb garden
-- 🔗 [Traditional Chinese Medicine Preparations](../../../docs/06-制药技术/04-中药制剂.md) - processing, decoction (wrapping in cloth, adding near the end), common formulas and safe use
+- 🔗 [Toxic Herbs and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - identification and poisoning signs of Gouwen, Baiguo, Naoyanghua, Yangjinhua (datura flower) and others
+- 🔗 [Medicinal Plants: Identification and Growing](../04-farming-and-animal-husbandry/04-medicinal-plants.md) - growing honeysuckle, chrysanthemum and mugwort, and the home herb garden
+- 🔗 [Traditional Chinese Medicine Preparations](../06-pharmaceuticals/04-herbal-preparations.md) - processing, decoction (wrapping in cloth, adding near the end), common formulas and safe use
 - 🔗 [Fruits and Seeds](./03-fruits-and-seeds.md) - Zisuzi, Kuxingren and other fruits and seeds from the same plants
 
 ---

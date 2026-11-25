@@ -808,7 +808,7 @@ Each group is explained below.
   a soup or medicinal liquor made from herbs you collected → call 120 at once
 ```
 
-For identifying genuine honeysuckle flower and honeysuckle stem, see [Flowers and Leaves: Jinyinhua](../../../docs/10-中药材识别与采集/05-花叶类.md#11-金银花) and [Barks, Stems and Woods: Rendongteng](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#35-忍冬藤).
+For identifying genuine honeysuckle flower and honeysuckle stem, see [Flowers and Leaves: Jinyinhua](05-flowers-and-leaves.md#11-jinyinhua-honeysuckle-flower) and [Barks, Stems and Woods: Rendongteng](06-barks-stems-and-woods.md#35-rendongteng-honeysuckle-stem).
 
 ### 4.3 Duqin (water hemlock) vs Shuiqin (water dropwort) and Yehuluobo (wild carrot)
 
@@ -908,7 +908,7 @@ For identifying genuine *Sanqi*, see [Roots and Rhizomes (1): Sanqi](01-roots-an
   wintergreen oil) is very likely Xiangjiapi
 ```
 
-For identifying genuine *Wujiapi*, see [Barks, Stems and Woods: Wujiapi](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#25-五加皮).
+For identifying genuine *Wujiapi*, see [Barks, Stems and Woods: Wujiapi](06-barks-stems-and-woods.md#25-wujiapi-acanthopanax-root-bark).
 
 ### 4.7 Guanmutong vs Chuanmutong, Guangfangji vs Fenfangji
 
@@ -923,7 +923,7 @@ For identifying genuine *Wujiapi*, see [Barks, Stems and Woods: Wujiapi](../../.
 
 **The *Fangji* group**: *Guangfangji* (birthwort family, contains aristolochic acid) and *Fenfangji* (Menispermaceae, the "*Fangji*" of the Pharmacopoeia) are both cylindrical or lumpy roots, and both have powdery cross-sections with radiating grain: **they are very hard to tell apart by eye**. *Fenfangji* has a greyish-white cross-section with sparse rays ("cartwheel pattern"); *Guangfangji* has a cross-section in which greyish-white, greyish-brown and whitish areas alternate in a radiating pattern. Telling them apart is a job for specialist identification; ordinary people need only remember: **herbs with "*Fangji*" in their name should be used only from a proper pharmacy, on prescription.**
 
-For identifying genuine *Chuanmutong*, see [Barks, Stems and Woods: Chuanmutong](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#39-川木通).
+For identifying genuine *Chuanmutong*, see [Barks, Stems and Woods: Chuanmutong](06-barks-stems-and-woods.md#39-chuanmutong-clematis-stem).
 
 ### 4.8 Mantuoluo (datura) vs nightshade-family wild greens and root vegetables
 
@@ -986,7 +986,7 @@ The seedlings and young leaves of *Aconitum* species just after they come up in 
   causes red, swollen, itchy skin
 ```
 
-For identifying ginkgo leaf and its cautions, see [Flowers and Leaves: Yinxingye](../../../docs/10-中药材识别与采集/05-花叶类.md#62-银杏叶).
+For identifying ginkgo leaf and its cautions, see [Flowers and Leaves: Yinxingye](05-flowers-and-leaves.md#62-yinxingye-ginkgo-leaf).
 
 ### 4.12 Kuxingren (bitter apricot kernel)
 
@@ -1111,7 +1111,7 @@ The lessons of the groups above, boiled down to a few "don't pick it on sight" r
 
 ## 5. General handling of poisoning
 
-For the full principles of handling poisoning, see [Poisoning: general principles of handling poisoning](../../../docs/01-日常疾病和伤害/12-中毒.md#中毒的通用处理原则). Only the key points for poisoning by plants and Chinese medicines are listed here:
+For the full principles of handling poisoning, see [Poisoning: general principles of handling poisoning](../01-first-aid-and-family-health/12-poisoning.md#general-principles-for-handling-poisoning). Only the key points for poisoning by plants and Chinese medicines are listed here:
 
 ```
 Do at once:
@@ -1144,7 +1144,7 @@ Do not:
    patting them or shine bright light on them
 ```
 
-For CPR and the recovery position, see [Basic first aid: CPR](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#心肺复苏cpr) and [Recovery position](../../../docs/01-日常疾病和伤害/00-基础急救知识.md#复苏体位侧卧位).
+For CPR and the recovery position, see [Basic first aid: CPR](../01-first-aid-and-family-health/00-basic-first-aid.md#cardiopulmonary-resuscitation-cpr) and [Recovery position](../01-first-aid-and-family-health/00-basic-first-aid.md#the-recovery-position-lying-on-the-side).
 
 ---
 
@@ -1176,13 +1176,13 @@ For CPR and the recovery position, see [Basic first aid: CPR](../../../docs/01-�
 ## Related chapters
 
 - ⏮️ [General Principles of Identifying and Collecting Chinese Medicinal Herbs](00-general-principles.md) - general methods for identification, harvesting, safety and the law
-- ⏭️ [Herb Name Index](../../../docs/10-中药材识别与采集/10-药名索引.md) - look up every herb by Pinyin and alternative names
-- 🔗 [Poisoning](../../../docs/01-日常疾病和伤害/12-中毒.md) - general principles of handling poisoning
-- 🔗 [Basic First Aid](../../../docs/01-日常疾病和伤害/00-基础急救知识.md) - CPR and the recovery position
-- 🔗 [Poisonous Mushrooms and Wild Plant Poisoning](../../../docs/03-野外生存/09-毒蘑菇与野菜误食.md) - eating poisonous mushrooms, wild greens and wild fruit by mistake
-- 🔗 [Forest Survival: Plants](../../../docs/03-野外生存/02-森林求生.md#植物) - common poisonous plants in the wild
-- 🔗 [Medicinal Plants](../../../docs/04-动植物培育/04-药用植物.md#有毒植物避免误用) - poisonous look-alikes to watch for when growing medicinal plants
-- 🔗 [Traditional Chinese Medicine Preparations](../../../docs/06-制药技术/04-中药制剂.md) - processing and decocting common Chinese medicines (not including the toxic herbs in this chapter)
+- ⏭️ [Herb Name Index](10-herb-name-index.md) - look up every herb by Pinyin and alternative names
+- 🔗 [Poisoning](../01-first-aid-and-family-health/12-poisoning.md) - general principles of handling poisoning
+- 🔗 [Basic First Aid](../01-first-aid-and-family-health/00-basic-first-aid.md) - CPR and the recovery position
+- 🔗 [Poisonous Mushrooms and Wild Plant Poisoning](../03-wilderness-survival/09-poisonous-mushrooms-and-wild-plants.md) - eating poisonous mushrooms, wild greens and wild fruit by mistake
+- 🔗 [Forest Survival: Plants](../03-wilderness-survival/02-forest-survival.md#plants) - common poisonous plants in the wild
+- 🔗 [Medicinal Plants](../04-farming-and-animal-husbandry/04-medicinal-plants.md#poisonous-plants-do-not-misuse) - poisonous look-alikes to watch for when growing medicinal plants
+- 🔗 [Traditional Chinese Medicine Preparations](../06-pharmaceuticals/04-herbal-preparations.md) - processing and decocting common Chinese medicines (not including the toxic herbs in this chapter)
 
 ---
 

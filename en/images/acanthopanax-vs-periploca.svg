@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 930" width="720" height="930" role="img" aria-label="Wujiapi compared with Xiangjiapi: Xiangjiapi (northern wujiapi) is the root bark of Periploca sepium; it contains cardiac glycosides, is toxic, is often passed off as Wujiapi and is also mixed into Digupi. Acanthopanax is an upright shrub 2-3 m tall, with sparse, flattened hooked spines on the branches and palmately compound leaves of 5 leaflets (rarely 3-4); Wujiapi is in irregular quills, the outer surface greyish-brown with slightly twisted lengthwise wrinkles and transverse lenticel-like scars, the inner surface pale yellow or greyish-yellow with fine lengthwise lines, faintly aromatic, taste slightly pungent and bitter. Periploca is a twining vine that oozes white latex when broken, with opposite, lanceolate, smooth, spineless leaves; Xiangjiapi has a soft, loose cork that often peels off in scales, and a strong, distinctive aroma (some liken it to wintergreen oil). Do not use, or steep in wine, any Wujiapi or Digupi with a strong, peculiar aroma; poisoning can cause nausea and vomiting, yellow or green vision, a slow heartbeat or arrhythmia, and in severe cases cardiac arrest">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 930" width="720" height="930" role="img" aria-label="Wujiapi compared with Xiangjiapi: Xiangjiapi (northern Wujiapi) is the root bark of Chinese silk vine, Periploca sepium; it contains cardiac glycosides, is toxic, is often passed off as Wujiapi and is also mixed into Digupi. Acanthopanax is an upright shrub 2-3 m tall, with scattered, flattened hooked prickles on the branches and palmately compound leaves of 5 leaflets (rarely 3-4); Wujiapi is in irregular rolled tubes, the outer surface greyish-brown with slightly twisted lengthwise wrinkles and transverse lenticel-like marks, the inner surface pale yellow or greyish-yellow with fine lengthwise lines, faintly fragrant, taste slightly hot and bitter. Periploca is a twining vine that gives white milky sap when broken, with opposite, lanceolate, smooth leaves without prickles; Xiangjiapi has a soft, loose cork that often flakes off in scales, and a strong, peculiar fragrance (some describe it as like wintergreen oil). Do not use, or steep in liquor, any Wujiapi or Digupi with a strong, peculiar fragrance; poisoning can cause nausea and vomiting, seeing things tinged yellow or green, a very slow heartbeat or heart rhythm problems, and in severe cases cardiac arrest">
 <rect width="100%" height="100%" fill="#fff"/>
 <title>Wujiapi compared with Xiangjiapi</title>
 <defs>
@@ -8,14 +8,14 @@
 </defs>
 <g font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif" fill="#222">
 <text x="360" y="30" font-size="18" font-weight="bold" text-anchor="middle">Wujiapi vs Xiangjiapi (toxic): how to tell them apart (schematic)</text>
-<text x="360" y="52" font-size="13" fill="#555" text-anchor="middle">Xiangjiapi (northern wujiapi) is often passed off as Wujiapi and also mixed into Digupi;</text>
+<text x="360" y="52" font-size="13" fill="#555" text-anchor="middle">Xiangjiapi (northern Wujiapi) is often passed off as Wujiapi and also mixed into Digupi;</text>
 <text x="360" y="70" font-size="13" fill="#555" text-anchor="middle">it contains cardiac glycosides — look at the whole plant when collecting, smell it first when buying</text>
 <g transform="translate(0 18)">
 <rect x="10" y="64" width="345" height="580" rx="8" fill="none" stroke="#999" stroke-width="1.5"/>
 <rect x="365" y="64" width="345" height="580" rx="8" fill="none" stroke="#c33" stroke-width="2"/>
 
 <!-- 1 Acanthopanax -->
-<text x="26" y="92" font-size="18" font-weight="bold">① Wujiapi <tspan font-size="14" font-weight="normal">(southern wujiapi)</tspan></text>
+<text x="26" y="92" font-size="18" font-weight="bold">① Wujiapi <tspan font-size="14" font-weight="normal">(Nan Wujiapi)</tspan></text>
 <text x="26" y="112" font-size="12" fill="#555">Araliaceae · root bark of <tspan font-style="italic">Acanthopanax gracilistylus</tspan></text>
 <line x1="22" y1="372" x2="343" y2="372" stroke="#999" stroke-width="2"/>
 <text x="341" y="366" font-size="12" fill="#888" text-anchor="end">ground</text>
@@ -41,12 +41,12 @@
 <text x="222" y="225" font-size="14" font-weight="bold">compound leaves</text>
 <text x="222" y="243" font-size="13">5 leaflets</text>
 <text x="222" y="259" font-size="13">(rarely 3-4)</text>
-<text x="230" y="302" font-size="14">Branches bear</text>
-<text x="230" y="319" font-size="14">sparse, flattened</text>
-<text x="230" y="336" font-size="14" font-weight="bold">hooked spines</text>
+<text x="230" y="302" font-size="13">Branches bear</text>
+<text x="230" y="319" font-size="13">scattered, flattened</text>
+<text x="230" y="336" font-size="14" font-weight="bold">hooked prickles</text>
 <!-- 2 Periploca -->
 <text x="381" y="92" font-size="18" font-weight="bold" fill="#c33">② Xiangjiapi</text>
-<text x="381" y="112" font-size="12" fill="#555">Northern wujiapi · root bark of <tspan font-style="italic">Periploca sepium</tspan></text>
+<text x="381" y="112" font-size="12" fill="#555">Root bark of Chinese silk vine · <tspan font-style="italic">Periploca sepium</tspan></text>
 <rect x="612" y="74" width="88" height="28" rx="5" fill="#c33"/>
 <text x="656" y="94" font-size="16" font-weight="bold" fill="#fff" text-anchor="middle">☠️ Toxic</text>
 <text x="381" y="129" font-size="12" fill="#c33">Contains periplocin and other cardiac glycosides</text>
@@ -71,9 +71,9 @@
 <text x="552" y="311" font-size="15" font-weight="bold">Twining vine</text>
 <text x="552" y="240" font-size="14">Leaves <tspan font-weight="bold">opposite</tspan>,</text>
 <text x="552" y="257" font-size="14">lanceolate,</text>
-<text x="552" y="274" font-size="14">smooth, <tspan font-weight="bold">no spines</tspan></text>
-<text x="552" y="182" font-size="14">Oozes when broken:</text>
-<text x="552" y="201" font-size="15" font-weight="bold" fill="#c33">white latex</text>
+<text x="552" y="274" font-size="14">smooth, <tspan font-weight="bold">no prickles</tspan></text>
+<text x="552" y="182" font-size="14">Broken, it gives</text>
+<text x="552" y="201" font-size="15" font-weight="bold" fill="#c33">white milky sap</text>
 
 <!-- crude drug -->
 <line x1="22" y1="392" x2="343" y2="392" stroke="#ccc" stroke-dasharray="4 3"/>
@@ -101,18 +101,18 @@
 <line x1="205" y1="525" x2="232" y2="530"/><circle cx="205" cy="525" r="2.2"/>
 </g>
 </g>
-<text x="196" y="432" font-size="13">Irregular quills</text>
+<text x="196" y="432" font-size="13">Irregular rolled tubes</text>
 <text x="196" y="451" font-size="12">Outer: greyish-brown,</text>
 <text x="196" y="466" font-size="12">slightly twisted</text>
 <text x="196" y="481" font-size="12">lengthwise wrinkles,</text>
 <text x="196" y="497" font-size="12">transverse lenticel-</text>
-<text x="196" y="512" font-size="12">like scars</text>
+<text x="196" y="512" font-size="12">like marks</text>
 <text x="196" y="530" font-size="12">Inner: pale yellow or</text>
 <text x="196" y="545" font-size="12">greyish-yellow,</text>
 <text x="196" y="560" font-size="12">fine lengthwise lines</text>
 <rect x="22" y="570" width="321" height="62" rx="6" fill="#f4f4f4"/>
-<text x="182" y="594" font-size="16" text-anchor="middle">Smell: <tspan font-weight="bold">faintly aromatic</tspan></text>
-<text x="182" y="618" font-size="14" text-anchor="middle">taste slightly pungent and bitter</text>
+<text x="182" y="594" font-size="16" text-anchor="middle">Smell: <tspan font-weight="bold">faintly fragrant</tspan></text>
+<text x="182" y="618" font-size="14" text-anchor="middle">taste slightly hot and bitter</text>
 
 <g transform="translate(55.85 0) scale(0.85 1)">
 <!-- Xiangjiapi quill -->
@@ -141,7 +141,7 @@
 </g>
 </g>
 <text x="566" y="452" font-size="14" font-weight="bold">Soft, loose cork</text>
-<text x="566" y="476" font-size="14">often peels off</text>
+<text x="566" y="476" font-size="14">often flakes off</text>
 <text x="566" y="494" font-size="14" font-weight="bold">in scales</text>
 <!-- aroma -->
 <g stroke="#c33" stroke-width="2" fill="none" stroke-linecap="round">
@@ -150,19 +150,19 @@
 <path d="M480 528 C472 520 488 514 480 506"/>
 </g>
 <rect x="377" y="546" width="321" height="86" rx="6" fill="#fdecec" stroke="#c33" stroke-width="1"/>
-<text x="537" y="580" font-size="16" text-anchor="middle" fill="#c33">Smell: <tspan font-weight="bold">strong, distinctive aroma</tspan></text>
-<text x="537" y="606" font-size="14" text-anchor="middle">(some liken it to wintergreen oil)</text>
+<text x="537" y="580" font-size="16" text-anchor="middle" fill="#c33">Smell: <tspan font-weight="bold">strong, peculiar fragrance</tspan></text>
+<text x="537" y="606" font-size="14" text-anchor="middle">(some describe it as like wintergreen oil)</text>
 
 <!-- bottom -->
 <rect x="10" y="656" width="700" height="246" rx="8" fill="#fdecec" stroke="#c33" stroke-width="2"/>
-<text x="360" y="686" font-size="17" font-weight="bold" fill="#c33" text-anchor="middle">A "Wujiapi" or "Digupi" with a strong, peculiar aroma</text>
+<text x="360" y="686" font-size="17" font-weight="bold" fill="#c33" text-anchor="middle">A "Wujiapi" or "Digupi" with a strong, peculiar fragrance</text>
 <text x="360" y="708" font-size="17" font-weight="bold" fill="#c33" text-anchor="middle">is very likely Xiangjiapi — do not use it</text>
-<text x="360" y="736" font-size="14" text-anchor="middle">Wujiapi is only faintly aromatic and Digupi has little smell;</text>
-<text x="360" y="755" font-size="14" text-anchor="middle">a spiny upright shrub ≠ a twining vine with white latex</text>
+<text x="360" y="736" font-size="14" text-anchor="middle">Wujiapi is only faintly fragrant and Digupi has little smell;</text>
+<text x="360" y="755" font-size="14" text-anchor="middle">an upright shrub with prickles ≠ a twining vine with white milky sap</text>
 <text x="360" y="782" font-size="14" text-anchor="middle">Poisoning: nausea and vomiting, seeing things tinged yellow or green,</text>
-<text x="360" y="801" font-size="14" text-anchor="middle"><tspan font-weight="bold">a slow heartbeat or arrhythmia</tspan>, in severe cases cardiac arrest</text>
-<text x="360" y="822" font-size="13" fill="#555" text-anchor="middle">People taking digoxin or other heart drugs are at greater risk</text>
-<text x="360" y="850" font-size="15" font-weight="bold" fill="#c33" text-anchor="middle">❌ Do not buy "Wujiapi" yourself to steep in medicinal wine;</text>
+<text x="360" y="801" font-size="14" text-anchor="middle"><tspan font-weight="bold">a very slow heartbeat or heart rhythm problems</tspan>, in severe cases cardiac arrest</text>
+<text x="360" y="822" font-size="13" fill="#555" text-anchor="middle">The risk is higher in people taking digoxin or other heart-strengthening medicines</text>
+<text x="360" y="850" font-size="15" font-weight="bold" fill="#c33" text-anchor="middle">❌ Do not buy "Wujiapi" yourself to steep in medicinal liquor;</text>
 <text x="360" y="869" font-size="15" font-weight="bold" fill="#c33" text-anchor="middle">if you cannot identify it for certain, do not pick it or use it</text>
 <text x="360" y="892" font-size="13" fill="#555" text-anchor="middle">Whether to use it, and how much, is for a TCM practitioner to decide</text>
 </g>

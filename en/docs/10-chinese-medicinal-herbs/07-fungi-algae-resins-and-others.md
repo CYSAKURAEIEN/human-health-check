@@ -78,7 +78,7 @@ The "Toxicity / protection" column gives toxicity noted in the Pharmacopoeia, th
 
 Most medicinal "fungi" are not the mushrooms ordinary people imagine: *Fuling*, *Zhuling* and *Leiwan* are **sclerotia** buried in the soil (hard lumps formed by a mass of fungal threads), *Lingzhi* is a woody fruiting body, *Mabo* is a bag of spore powder, and *Dongchongxiacao* is a complex of a fungus and an insect body. What they have in common: **almost everything on sale comes from cultivation or professional dealers; ordinary people do not need to, and should not, go out into the wild "looking for medicinal fungi"**.
 
-**⚠️ Picking mushrooms in the wild carries a risk of fatal poisoning**: every year in China people die from eating death caps and other poisonous mushrooms by mistake, and there is no simple way to tell them apart (colour, silver needles, insect bites and long boiling are all unreliable). See [Poisonous mushrooms: there is no simple test](../../../docs/03-野外生存/09-毒蘑菇与野菜误食.md#毒蘑菇-没有简单的鉴别方法); if you feel unwell after eating wild mushrooms, follow [Feeling unwell after eating wild mushrooms](../../../docs/03-野外生存/09-毒蘑菇与野菜误食.md#吃了野生蘑菇后不舒服) and see a doctor at once. The identification points in this section are only for **telling whether a herb you have bought is genuine**; they are not a basis for picking and eating wild fungi.
+**⚠️ Picking mushrooms in the wild carries a risk of fatal poisoning**: every year in China people die from eating death caps and other poisonous mushrooms by mistake, and there is no simple way to tell them apart (colour, silver needles, insect bites and long boiling are all unreliable). See [Poisonous mushrooms: there is no simple test](../03-wilderness-survival/09-poisonous-mushrooms-and-wild-plants.md#poisonous-mushrooms-there-is-no-simple-test); if you feel unwell after eating wild mushrooms, follow [Feeling unwell after eating wild mushrooms](../03-wilderness-survival/09-poisonous-mushrooms-and-wild-plants.md#feeling-unwell-after-eating-wild-mushrooms) and see a doctor at once. The identification points in this section are only for **telling whether a herb you have bought is genuine**; they are not a basis for picking and eating wild fungi.
 
 ### 1.1 Fuling (poria)
 
@@ -188,7 +188,7 @@ Most medicinal "fungi" are not the mushrooms ordinary people imagine: *Fuling*, 
 - **Storage**: keep in a dry place, protect from dust; the spores scatter easily, so wrap it in a paper or cloth bag before putting it in a jar
 - **Actions**: clears the lungs and soothes the throat, stops bleeding
 - **Dose**: 2-6 g; for external use, a suitable amount applied to the affected area (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner). The powder is light and flies about easily, so it is usually wrapped in gauze for decoction (experience)
-- **Cautions**: not advisable for cough or loss of voice from wind-cold (experience). Folk practice sprinkles puffball powder on wounds to stop bleeding; use it only for oozing from small wounds; **clean the wound thoroughly first**, and for bleeding that will not stop or wounds that are deep or dirty, follow [Wounds and Injuries](../../../docs/01-日常疾病和伤害/02-外伤处理.md) and see a doctor
+- **Cautions**: not advisable for cough or loss of voice from wind-cold (experience). Folk practice sprinkles puffball powder on wounds to stop bleeding; use it only for oozing from small wounds; **clean the wound thoroughly first**, and for bleeding that will not stop or wounds that are deep or dirty, follow [Wounds and Injuries](../01-first-aid-and-family-health/02-wounds-and-injuries.md) and see a doctor
 
 ## 2. Algae
 
@@ -212,7 +212,7 @@ Most medicinal "fungi" are not the mushrooms ordinary people imagine: *Fuling*, 
    an especially easy mistake to make when mixing herbs yourself
 ```
 
-For why iodine matters, see [Nutrition and Deficiency Diseases – Iodine](../../../docs/07-日常生活技能/02-营养与营养缺乏病.md#碘) and [Salt Making – Iodine](../../../docs/07-日常生活技能/15-制盐.md#碘-自制盐最大的缺陷); for the eighteen incompatibilities, see [General Principles – The eighteen incompatibilities and nineteen antagonisms](00-general-principles.md#73-the-eighteen-incompatibilities-and-nineteen-antagonisms-combinations-to-avoid).
+For why iodine matters, see [Nutrition and Deficiency Diseases – Iodine](../07-everyday-living-skills/02-nutrition-and-deficiency-diseases.md#iodine) and [Salt Making – Iodine](../07-everyday-living-skills/15-salt-making.md#iodine-the-biggest-weakness-of-home-made-salt); for the eighteen incompatibilities, see [General Principles – The eighteen incompatibilities and nineteen antagonisms](00-general-principles.md#73-the-eighteen-incompatibilities-and-nineteen-antagonisms-combinations-to-avoid).
 
 ### 2.1 Haizao (sargassum)
 
@@ -266,7 +266,7 @@ For why iodine matters, see [Nutrition and Deficiency Diseases – Iodine](../..
    easily: seal and keep in a cool place
 ```
 
-There is also a poisonous resin herb, **Tenghuang** (gamboge), which is for external use only and must never be taken by mouth; see [Toxic Herbs – Tenghuang](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#219-藤黄).
+There is also a poisonous resin herb, **Tenghuang** (gamboge), which is for external use only and must never be taken by mouth; see [Toxic Herbs – Tenghuang](09-toxic-herbs-and-poisonous-look-alikes.md#219-tenghuang-gamboge).
 
 ### 3.1 Ruxiang (frankincense)
 
@@ -282,7 +282,7 @@ There is also a poisonous resin herb, **Tenghuang** (gamboge), which is for exte
 - **Fakes**: **rosin** passed off as it or mixed in: rosin is more transparent and yellower, does not soften into a gummy lump when chewed and does not form an emulsion, and smells clearly of turpentine when burnt; if sand or grit has been mixed in, impurities show when it is crushed (experience)
 - **Storage**: seal, keep in a cool, dry place; **in summer it easily softens and sticks together**
 - **Actions**: activates blood and relieves pain, reduces swelling and promotes tissue regeneration
-- **Dose**: in decoctions or in pills and powders, 3-5 g; for external use, a suitable amount ground to powder and applied as a paste (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner). The raw herb has a strong smell and irritates the stomach, so processed forms such as vinegar-fried frankincense are mostly used; see [Traditional Chinese Medicine Preparations](../../../docs/06-制药技术/04-中药制剂.md)
+- **Dose**: in decoctions or in pills and powders, 3-5 g; for external use, a suitable amount ground to powder and applied as a paste (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner). The raw herb has a strong smell and irritates the stomach, so processed forms such as vinegar-fried frankincense are mostly used; see [Traditional Chinese Medicine Preparations](../06-pharmaceuticals/04-herbal-preparations.md)
 - **Cautions**: **use with caution in pregnancy and in people with a weak stomach**; people allergic to frankincense can get a rash even from external use
 
 ### 3.2 Moyao (myrrh)
@@ -316,7 +316,7 @@ There is also a poisonous resin herb, **Tenghuang** (gamboge), which is for exte
 - **Storage**: keep in a cool, dry place, protect from heat (it softens)
 - **Actions**: activates blood and relieves pain, resolves stasis and stops bleeding, promotes tissue regeneration and heals sores
 - **Dose**: ground to powder, 1-2 g, or in pills; for external use, ground and sprinkled on or put into medicinal plasters (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Cautions**: use with caution in pregnancy, not advisable during menstruation (experience); not advisable for people without blood stasis. External use to stop bleeding is only for small wounds; for heavy bleeding follow [Wounds and Injuries](../../../docs/01-日常疾病和伤害/02-外伤处理.md), apply pressure and see a doctor
+- **Cautions**: use with caution in pregnancy, not advisable during menstruation (experience); not advisable for people without blood stasis. External use to stop bleeding is only for small wounds; for heavy bleeding follow [Wounds and Injuries](../01-first-aid-and-family-health/02-wounds-and-injuries.md), apply pressure and see a doctor
 
 ### 3.4 Hupo (amber)
 
@@ -372,12 +372,12 @@ The herbs in this group have very different origins: *Wubeizi* is an "insect gal
   - Belly gall: oblong or spindle-shaped sac, 2.5-9 cm long and 1.5-4 cm across; **surface greyish-brown or greyish-tan, slightly downy**; hard and brittle, broken surface horn-like and lustrous, wall 0.2-0.3 cm thick; **inner wall smooth, with dead blackish-brown aphids and grey powdery droppings**
   - Horned gall: diamond-shaped, with irregular blunt horn-like branches; downier, with a thinner wall
   - Smell: distinctive smell, **extremely astringent taste**
-- **⚠️ Do not confuse it with the lacquer tree or wax tree**: the lacquer tree and wax tree are in the same cashew family, also have pinnate compound leaves and turn red in autumn, but **the leaf axis has no wings**; touching them can cause severe allergic dermatitis ("lacquer sores"); see [Forest Survival – Poisonous plants](../../../docs/03-野外生存/02-森林求生.md#植物). **Do not touch trees whose leaf axis has no wings**; people allergic to lacquer should also wear gloves when collecting Wubeizi
+- **⚠️ Do not confuse it with the lacquer tree or wax tree**: the lacquer tree and wax tree are in the same cashew family, also have pinnate compound leaves and turn red in autumn, but **the leaf axis has no wings**; touching them can cause severe allergic dermatitis ("lacquer sores"); see [Forest Survival – Poisonous plants](../03-wilderness-survival/02-forest-survival.md#plants). **Do not touch trees whose leaf axis has no wings**; people allergic to lacquer should also wear gloves when collecting Wubeizi
 - **Harvesting and processing**: pick in **autumn** when the galls are mature and before the aphids have come out (once the aphids fly out the gall splits and its quality falls); after picking, **put them in boiling water for a short boil, or steam them until the surface turns grey**, to kill the aphids inside, then take them out and dry them
 - **Storage**: keep in a well-ventilated, dry place, protect from crushing
 - **Actions**: astringes the lungs and lowers fire, binds the intestines and stops diarrhoea, checks sweating, stops bleeding, dries damp and heals sores
 - **Dose**: 3-6 g; for external use, a suitable amount (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Cautions**: not advisable for cough from an external attack or at the start of damp-heat diarrhoea and dysentery (experience); it contains a very large amount of tannin (can be over 50%), so **large internal doses can cause constipation and stomach discomfort** and may affect the absorption of iron supplements and other medicines; take it at a different time from other medicines (experience). The tannin of Wubeizi is also a traditional raw material for tanning hides, making ink and dyeing black; for tanning methods see [Vegetable tanning](../../../docs/07-日常生活技能/07-纺织缝补与鞣皮.md#方法二-植物鞣适合去毛做皮革)
+- **Cautions**: not advisable for cough from an external attack or at the start of damp-heat diarrhoea and dysentery (experience); it contains a very large amount of tannin (can be over 50%), so **large internal doses can cause constipation and stomach discomfort** and may affect the absorption of iron supplements and other medicines; take it at a different time from other medicines (experience). The tannin of Wubeizi is also a traditional raw material for tanning hides, making ink and dyeing black; for tanning methods see [Vegetable tanning](../07-everyday-living-skills/07-textiles-sewing-and-tanning.md#method-2-vegetable-tanning-for-leather-with-the-hair-removed)
 
 ### 4.2 Qingdai (indigo naturalis)
 
@@ -414,7 +414,7 @@ The herbs in this group have very different origins: *Wubeizi* is an "insect gal
   - The Pharmacopoeia says "use with caution in pregnancy"; **this book advises pregnant women not to take aloe by mouth at all** (an irritant laxative can stimulate contractions of the womb), and not to use it while breastfeeding either
   - It is a powerful **irritant laxative** and can cause abdominal cramps and diarrhoea; do not use it during menstruation, with bleeding piles, or with **abdominal pain of unknown cause** (it may be appendicitis or bowel obstruction); children must not use it on their own
   - Long-term use can cause low potassium, a "lazy" bowel (dependence on laxatives) and melanosis coli; **eating large amounts of raw aloe leaf** can cause diarrhoea, vomiting and even kidney damage
-  - External use: aloe gel is fine for small areas of minor scalds; see [Scalds and burns](../../../docs/01-日常疾病和伤害/02-外伤处理.md#烫伤与烧伤); people allergic to aloe can get a rash
+  - External use: aloe gel is fine for small areas of minor scalds; see [Scalds and burns](../01-first-aid-and-family-health/02-wounds-and-injuries.md#scalds-and-burns); people allergic to aloe can get a rash
 
 ### 4.4 Ercha (catechu)
 
@@ -439,10 +439,10 @@ The herbs in this group have very different origins: *Wubeizi* is an "insect gal
   - Crude drug: **square or oblong blocks**; surface **greyish-yellow, rough**; brittle, snaps easily, broken surface uneven, off-white or yellowish-white, with visible brown remains of unground herbs and **small holes produced by fermentation**
   - Smell: **a stale, fermented smell**, bitter taste
   - Stir-fried and scorched Shenqu: surface yellow or scorched brown, with a toasted smell
-- **Note**: this book **does not give a fermentation recipe for Shenqu**: cocklebur, one of the raw materials, is poisonous (see [Cocklebur seedlings and Cangerzi](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#410-苍耳幼苗和苍耳子)), contamination by other microbes during fermentation can produce mycotoxins, and the quality of a home-made product cannot be guaranteed. **The leavens used for brewing liquor or making soy sauce are not Shenqu** and cannot replace it
+- **Note**: this book **does not give a fermentation recipe for Shenqu**: cocklebur, one of the raw materials, is poisonous (see [Cocklebur seedlings and Cangerzi](09-toxic-herbs-and-poisonous-look-alikes.md#410-canger-seedlings-and-cangerzi-cocklebur)), contamination by other microbes during fermentation can produce mycotoxins, and the quality of a home-made product cannot be guaranteed. **The leavens used for brewing liquor or making soy sauce are not Shenqu** and cannot replace it
 - **Storage**: **very easily attacked by insects and mould**: seal, keep in a cool, dry place and check often; **do not use any with green or black mould spots, or a mouldy, sour or rancid smell**
 - **Actions** (traditional): strengthens the spleen and harmonises the stomach, relieves food stagnation and regulates the middle; used for food stagnation and fullness and distension of the upper abdomen
-- **Dose**: usually 6-15 g (usual textbook dose; not in the Pharmacopoeia; use under the guidance of a TCM practitioner). For common combinations for food stagnation and bloating see [Traditional Chinese Medicine Preparations – Food stagnation and bloating](../../../docs/06-制药技术/04-中药制剂.md#食积腹胀)
+- **Dose**: usually 6-15 g (usual textbook dose; not in the Pharmacopoeia; use under the guidance of a TCM practitioner). For common combinations for food stagnation and bloating see [Traditional Chinese Medicine Preparations – Food stagnation and bloating](../06-pharmaceuticals/04-herbal-preparations.md#food-stagnation-and-bloating)
 - **Cautions**: use with caution in pregnancy (experience); not advisable for people with spleen-yin deficiency or strong stomach fire (experience). **Persistent bloating, loss of appetite, weight loss, vomiting or black stools** are not "indigestion": see a doctor to find the cause
 
 ## 5. Look-alike summary and self-check
@@ -520,14 +520,14 @@ Before using or buying the herbs in this chapter, confirm each point:
 
 ## Related chapters
 
-- ⏮️ [Barks, Stems and Woods](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md) - phellodendron, magnolia bark, eucommia, cinnamon bark, agarwood, uncaria and other bark and stem herbs
-- ⏭️ [Animal and Mineral Medicines](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md) - donkey-hide gelatin, oyster shell, cicada slough, gypsum, talc and other animal and mineral medicines, and the ban on protected animals
+- ⏮️ [Barks, Stems and Woods](06-barks-stems-and-woods.md) - phellodendron, magnolia bark, eucommia, cinnamon bark, agarwood, uncaria and other bark and stem herbs
+- ⏭️ [Animal and Mineral Medicines](08-animal-and-mineral-medicines.md) - donkey-hide gelatin, oyster shell, cicada slough, gypsum, talc and other animal and mineral medicines, and the ban on protected animals
 - 🔗 [General Principles of Identifying and Collecting Chinese Medicinal Herbs](00-general-principles.md) - general methods for identification, harvesting, processing, storage, safety and the law
-- 🔗 [Toxic Herbs and Poisonous Look-alikes](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md) - identification and poisoning signs of toxic resins such as gamboge and poisonous plants such as cocklebur
-- 🔗 [Poisonous Mushrooms and Wild Plant Poisoning](../../../docs/03-野外生存/09-毒蘑菇与野菜误食.md) - why you should not pick wild mushrooms, and what to do after eating the wrong thing
-- 🔗 [Nutrition and Deficiency Diseases](../../../docs/07-日常生活技能/02-营养与营养缺乏病.md) - iodine deficiency and iodine-rich foods such as kelp
-- 🔗 [Traditional Chinese Medicine Preparations](../../../docs/06-制药技术/04-中药制剂.md) - processing, decoction, common formulas and safe use
-- 🔗 [Wounds and Injuries](../../../docs/01-日常疾病和伤害/02-外伤处理.md) - stopping bleeding, treating scalds (external use of aloe gel)
+- 🔗 [Toxic Herbs and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - identification and poisoning signs of toxic resins such as gamboge and poisonous plants such as cocklebur
+- 🔗 [Poisonous Mushrooms and Wild Plant Poisoning](../03-wilderness-survival/09-poisonous-mushrooms-and-wild-plants.md) - why you should not pick wild mushrooms, and what to do after eating the wrong thing
+- 🔗 [Nutrition and Deficiency Diseases](../07-everyday-living-skills/02-nutrition-and-deficiency-diseases.md) - iodine deficiency and iodine-rich foods such as kelp
+- 🔗 [Traditional Chinese Medicine Preparations](../06-pharmaceuticals/04-herbal-preparations.md) - processing, decoction, common formulas and safe use
+- 🔗 [Wounds and Injuries](../01-first-aid-and-family-health/02-wounds-and-injuries.md) - stopping bleeding, treating scalds (external use of aloe gel)
 
 ---
 

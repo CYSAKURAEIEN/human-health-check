@@ -378,7 +378,7 @@ For water treatment see [Water Supply Engineering – Multi-stage treatment](10-
 
 ## Gypsum
 
-Gypsum is another mineral that "sets again after burning". It hardens much faster than lime, setting in a few minutes to half an hour, but it does not stand up to water. For identifying medicinal gypsum and its dose see [Animal and Mineral Medicines – Gypsum](../../../docs/10-中药材识别与采集/08-动物类与矿物类.md#41-石膏).
+Gypsum is another mineral that "sets again after burning". It hardens much faster than lime, setting in a few minutes to half an hour, but it does not stand up to water. For identifying medicinal gypsum and its dose see [Animal and Mineral Medicines – Gypsum](../10-chinese-medicinal-herbs/08-animal-and-mineral-medicines.md#41-shigao-gypsum).
 
 ```
 Raw material: raw gypsum (calcium sulphate dihydrate, CaSO₄·2H₂O), white or off-white,

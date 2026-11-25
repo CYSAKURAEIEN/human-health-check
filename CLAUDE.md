@@ -8,7 +8,7 @@ A Chinese-language Markdown handbook (《人类紧急求生与健康指南》) c
 
 - `tools/check_docs.py` is the checker: broken links and `#anchors` (GitHub slug rules), unbalanced code fences, links inside code fences, Chinese unit names or missing spaces after numbers (see Units), a stale herb index, and a stale figure index. Run `python3 tools/check_docs.py` before every commit; `.github/workflows/check.yml` runs it on every PR and fails on any problem.
 
-- `tools/build_herb_index.py` regenerates `docs/10-中药材识别与采集/10-药名索引.md` from part 10's `### N.N 药名` headings and `- **正名(别名)**:` lines (needs `pypinyin`). Never hand-edit the index; rerun the script after adding, removing or renaming herbs or aliases in part 10.
+- `tools/build_herb_index.py` regenerates `docs/10-中药材识别与采集/10-药名索引.md` from part 10's `### N.N 药名` headings and `- **正名(别名)**:` lines (needs `pypinyin`). Never hand-edit the index; rerun the script after adding, removing or renaming herbs or aliases in part 10, then run `tools/build_herb_index_en.py` to regenerate the English index from it (entry names come from the English `### N.N Pinyin (English)` headings).
 - `tools/build_figure_index.py` regenerates the `🖼️ 示意图目录` section of the root `README.md` (between its two HTML comment markers) from every `![…](../images/x.svg)` embed in the chapters, using each SVG's `<title>` as the name and the nearest preceding heading as the link target. Never hand-edit that section; rerun the script after adding or removing a diagram, or renaming the heading it sits under.
 - `tools/build_offline.py` merges every Markdown file into one offline HTML (needs `pandoc`); `tools/build_pdf.py` prints that HTML to PDF with Playwright. Both stamp a version (`YYYY.MM.DD-<commit>`, plus repo URL, source commit and build time) visibly (a 版本信息 page up front, a footer on every PDF page) and invisibly (white 1px text, HTML meta tags, PDF document properties) so a copy can later be traced to its source. `.github/workflows/offline.yml` runs both on each push to `main` and uploads the results to the `offline-latest` release. Output goes to `dist/` (git-ignored).
 
@@ -64,10 +64,10 @@ The style differs by when a part was written; follow the conventions of the part
 
 ## English edition
 
-`en/` is an English translation that mirrors the Chinese files one to one; `en/paths.tsv` maps every Chinese path to its English path (English diagrams are `en/images/<same name>.svg`). Translation is being done part by part, so some English pages still link to Chinese originals.
+`en/` is an English translation that mirrors the Chinese files one to one; `en/paths.tsv` maps every Chinese path to its English path (English diagrams are `en/images/<same name>.svg`). Every Chinese file and diagram has an English version.
 
 - An English file must have exactly the same headings as its Chinese original (same number, levels and order); `tools/check_docs.py` enforces this so that anchors can be mapped by position.
-- Links to a chapter that has no English version yet point to the Chinese original with its Chinese anchor. After translating a chapter, run `tools/en_links.py`: it rewrites those links (and their anchors) to the English file; `check_docs.py` fails while any such link is left.
+- When adding a new chapter, its English version may at first link to Chinese originals with Chinese anchors; after translating, run `tools/en_links.py`: it rewrites those links (and their anchors) to the English file; `check_docs.py` fails while any such link is left.
 - When changing a Chinese chapter that already has an English version, make the same change in English (and in the English diagram), or note it for the next translation batch. Content, numbers and safety warnings must stay identical; China-specific facts (phone numbers, regulations) are kept as written, with one note in `en/README.md`.
 - Style: plain imperative British English; drug INNs (paracetamol, adrenaline); Chinese herbs as Pinyin + Latin binomial + English common name; same SI unit rules as the Chinese text.
 

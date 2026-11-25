@@ -758,7 +758,7 @@ After touching a poisonous plant:
    call for help at once and keep the leftover plant to show the doctor
 ```
 
-For poisonous plants that are easily mistaken for edible ones and what to do after eating one see [Poisonous Mushrooms and Wild Plant Poisoning – Poisonous plants easily mistaken for edible ones](09-poisonous-mushrooms-and-wild-plants.md#poisonous-plants-that-are-easily-mistaken); for a point-by-point comparison of Gelsemium, water hemlock and others with useful plants see [Comparison of easily confused poisonous plants](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#四易混淆的有毒植物对照); for general treatment of poisoning see [Poisoning](../01-first-aid-and-family-health/12-poisoning.md).
+For poisonous plants that are easily mistaken for edible ones and what to do after eating one see [Poisonous Mushrooms and Wild Plant Poisoning – Poisonous plants easily mistaken for edible ones](09-poisonous-mushrooms-and-wild-plants.md#poisonous-plants-that-are-easily-mistaken); for a point-by-point comparison of Gelsemium, water hemlock and others with useful plants see [Comparison of easily confused poisonous plants](../10-chinese-medicinal-herbs/09-toxic-herbs-and-poisonous-look-alikes.md#4-poisonous-plants-that-are-easily-confused); for general treatment of poisoning see [Poisoning](../01-first-aid-and-family-health/12-poisoning.md).
 
 ### Illness
 

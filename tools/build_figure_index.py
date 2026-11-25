@@ -103,8 +103,7 @@ def build(readme, en=False):
             lines += [f'### {parts[key]}', '', *rows, '']
     if en:
         intro = (f'{len(names)} diagrams in all ({total} placements; a few appear in two related chapters), '
-                 'listed by part and chapter; click a name to jump to the section it is in. '
-                 'Chapters not yet translated are listed in Chinese.')
+                 'listed by part and chapter; click a name to jump to the section it is in.')
     else:
         intro = f'全书共 {len(names)} 张示意图({total} 处,有的图在相关的两章里都出现),按部分和章节排列;点击图名跳到图所在的小节。'
     return [START, '', intro, ''] + lines + [END]

@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 910" width="720" height="910" role="img" aria-label="Yuzhu compared with lily of the valley: identify the whole plant before digging Yuzhu or Huangjing. Yuzhu is 20-50 cm tall, with a single above-ground stem that arches over to one side; leaves alternate, elliptic, arranged in two rows along the stem, greyish-white underneath; 1-4 flowers hang from each leaf axil, drooping, small white tubular bells tinged with green; berries blue-black; the rhizome is long and cylindrical, with slightly raised rings and disc-shaped stem scars. Lily of the valley: the whole plant is poisonous and contains cardiac glycosides, and eating it can cause heart rhythm disturbances; it has no arching above-ground stem, usually only 2 broad leaves grow straight out of the ground, sheathed at the base; the flowering stalk rises from the base of the leaves, with a string of small white bells all on one side, strongly scented; berries red. Rohdea: the whole plant is poisonous; all leaves basal, thick and leathery, strap-shaped; berries red. False hellebore (Lilu) is highly poisonous; leaves broad with many lengthwise pleats, brown fibrous remains around the stem base. Rule of thumb: Yuzhu and Huangjing both have an above-ground stem, upright or arching; the leaves grow on the stem and the flowers hang below the leaf axils; never dig any plant whose leaves grow straight out of the ground and whose fruit is red">
+<rect width="100%" height="100%" fill="#fff"/>
+<title>Yuzhu compared with lily of the valley</title>
+<defs>
+<g id="yleaf"><path d="M0 0 C10 -12 40 -13 56 0 C40 13 10 12 0 0Z" stroke="#333" stroke-width="1.3"/><path d="M2 0 H52 M8 -3 Q30 -9 50 -2 M8 3 Q30 9 50 2" stroke="#6a8a3a" stroke-width="0.8" fill="none"/></g>
+<g id="ybell"><path d="M0 0 V8 M0 8 L-6 14 M0 8 L6 14" stroke="#4d6b2a" stroke-width="1.2" fill="none"/><path d="M-10 14 Q-11 24 -10 30 H-2 Q-1 24 -2 14 Z M2 14 Q1 24 2 30 H10 Q11 24 10 14 Z" fill="#fff" stroke="#333" stroke-width="1.2"/><path d="M-10 30 l2 3 l2 -3 l2 3 l2 -3 M2 30 l2 3 l2 -3 l2 3 l2 -3" stroke="#6a9a3a" stroke-width="1.4" fill="none"/></g>
+<g id="lbell"><path d="M-7 0 Q-8 9 -10 13 Q-7 11 -5 14 Q-2 11 0 14 Q2 11 5 14 Q7 11 10 13 Q8 9 7 0 Q0 -5 -7 0Z" fill="#fff" stroke="#333" stroke-width="1.3"/></g>
+</defs>
+<g font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif" fill="#222">
+<text x="360" y="30" font-size="18" font-weight="bold" text-anchor="middle">Yuzhu vs lily of the valley: how to tell them apart (schematic)</text>
+<text x="360" y="52" font-size="13" fill="#555" text-anchor="middle">Identify the whole plant before digging the root — the underground part alone is easy to mistake</text>
+<rect x="10" y="64" width="345" height="580" rx="8" fill="none" stroke="#999" stroke-width="1.5"/>
+<rect x="365" y="64" width="345" height="580" rx="8" fill="none" stroke="#c33" stroke-width="2"/>
+
+<!-- 1 Yuzhu -->
+<text x="26" y="92" font-size="18" font-weight="bold">① Yuzhu <tspan font-size="14" font-weight="normal">(same genus as Huangjing)</tspan></text>
+<text x="26" y="112" font-size="14" font-style="italic" fill="#555">Polygonatum odoratum</text>
+<text x="26" y="136" font-size="15">20-50 cm tall</text>
+<line x1="20" y1="392" x2="345" y2="392" stroke="#999" stroke-width="2"/>
+<path d="M80 392 C76 300 120 224 200 212 C250 206 292 220 318 246" stroke="#4d6b2a" stroke-width="3" fill="none"/>
+<use href="#yleaf" transform="translate(99.5 286) rotate(-111) scale(0.8)" fill="#b5d08a"/>
+<use href="#yleaf" transform="translate(119 257) rotate(-1) scale(0.8)" fill="#dfe8d2"/>
+<use href="#yleaf" transform="translate(141.5 236) rotate(-84)" fill="#b5d08a"/>
+<use href="#yleaf" transform="translate(168.5 221) rotate(26)" fill="#dfe8d2"/>
+<use href="#yleaf" transform="translate(207 211) rotate(-53)" fill="#b5d08a"/>
+<use href="#yleaf" transform="translate(243 212) rotate(55)" fill="#dfe8d2"/>
+<use href="#yleaf" transform="translate(274 219) rotate(-29)" fill="#b5d08a"/>
+<use href="#yleaf" transform="translate(300.5 232) rotate(81) scale(0.75)" fill="#dfe8d2"/>
+<use href="#ybell" x="158" y="224"/>
+<use href="#ybell" x="222" y="212"/>
+<use href="#ybell" x="262" y="216"/>
+<!-- rhizome -->
+<path d="M30 404 C30 396 36 396 46 396 H196 C206 396 210 400 210 408 C210 416 206 420 196 420 H46 C36 420 30 420 30 412 Z" fill="#f0e3b8" stroke="#333" stroke-width="1.6"/>
+<g stroke="#8a7a4a" stroke-width="1.2" fill="none"><path d="M60 397 Q57 408 60 419 M100 397 Q97 408 100 419 M140 397 Q137 408 140 419 M180 397 Q177 408 180 419"/></g>
+<ellipse cx="160" cy="398" rx="9" ry="3.5" fill="#d8c890" stroke="#333" stroke-width="1.2"/>
+<g fill="#fff" stroke="#8a7a4a" stroke-width="0.8"><circle cx="48" cy="414" r="1.8"/><circle cx="118" cy="413" r="1.8"/><circle cx="196" cy="413" r="1.8"/></g>
+<g stroke="#8a7a5a" stroke-width="1" fill="none"><path d="M50 420 Q46 434 40 446 M86 420 Q88 436 84 450 M126 420 Q124 434 128 448 M170 420 Q174 434 168 446 M204 416 Q214 428 222 436"/></g>
+<!-- berry inset -->
+<g transform="translate(0 112)">
+<circle cx="300" cy="320" r="30" fill="#fff" stroke="#999" stroke-width="1" stroke-dasharray="3 3"/>
+<path d="M300 296 V306 M300 306 L292 314 M300 306 L308 314" stroke="#4d6b2a" stroke-width="1.2" fill="none"/>
+<circle cx="292" cy="321" r="7" fill="#2b3a6a" stroke="#111" stroke-width="1"/><circle cx="308" cy="321" r="7" fill="#2b3a6a" stroke="#111" stroke-width="1"/>
+</g>
+<!-- Yuzhu pointers -->
+<g stroke="#0b5cad" stroke-width="1" fill="none"><path d="M200 212 L200 166"/><path d="M128 210 L104 184"/><path d="M152 262 L72 294"/><path d="M262 252 L246 290"/><path d="M160 398 L190 376"/><path d="M100 412 L88 440"/></g>
+<g fill="#0b5cad"><circle cx="200" cy="212" r="2.5"/><circle cx="128" cy="210" r="2.5"/><circle cx="152" cy="262" r="2.5"/><circle cx="262" cy="252" r="2.5"/><circle cx="160" cy="398" r="2.5"/><circle cx="100" cy="412" r="2.5"/></g>
+<text x="190" y="128" font-size="13">A <tspan font-weight="bold">single</tspan> above-ground</text>
+<text x="190" y="144" font-size="13">stem, <tspan font-weight="bold">arching over</tspan></text>
+<text x="190" y="160" font-size="13" font-weight="bold">to one side</text>
+<text x="22" y="160" font-size="13">Leaves <tspan font-weight="bold">alternate</tspan>,</text>
+<text x="22" y="176" font-size="13">elliptic, in 2 rows</text>
+<text x="22" y="302" font-size="12">Greyish-</text>
+<text x="22" y="316" font-size="12">white</text>
+<text x="22" y="330" font-size="12">beneath</text>
+<text x="160" y="302" font-size="13">1-4 flowers hang from each</text>
+<text x="160" y="318" font-size="13">leaf axil, <tspan font-weight="bold">drooping</tspan>;</text>
+<text x="160" y="334" font-size="13">small white tubular bells</text>
+<text x="160" y="350" font-size="13">tinged with green</text>
+<text x="300" y="480" font-size="13" text-anchor="middle">Berries</text>
+<text x="300" y="495" font-size="13" font-weight="bold" text-anchor="middle">blue-black</text>
+<text x="194" y="374" font-size="13">Disc-shaped stem scar</text>
+<text x="22" y="458" font-size="13">Rhizome <tspan font-weight="bold">long, cylindrical</tspan>,</text>
+<text x="22" y="474" font-size="13">slightly flattened, with</text>
+<text x="22" y="490" font-size="13">slightly raised rings</text>
+<!-- dried herb -->
+<line x1="22" y1="500" x2="343" y2="500" stroke="#ccc" stroke-dasharray="4 3"/>
+<text x="26" y="522" font-size="14" fill="#0b5cad">Dried herb</text>
+<text x="26" y="542" font-size="13">Yellowish-white or pale yellowish-brown,</text>
+<text x="26" y="559" font-size="13">translucent; hard and brittle or slightly</text>
+<text x="26" y="576" font-size="13">soft; cut surface horn-like</text>
+<text x="26" y="593" font-size="13">Taste sweet, <tspan font-weight="bold">sticky when chewed</tspan></text>
+<text x="26" y="615" font-size="12" fill="#555">Huangjing: leaves whorled or alternate;</text>
+<text x="26" y="630" font-size="12" fill="#555">dried herb in knobbly lumps</text>
+
+<!-- 2 lily of the valley -->
+<text x="381" y="92" font-size="18" font-weight="bold" fill="#c33">② Lily of the valley</text>
+<text x="381" y="112" font-size="14" font-style="italic" fill="#555">Convallaria</text>
+<rect x="568" y="74" width="130" height="30" rx="5" fill="#c33"/>
+<text x="633" y="95" font-size="15" font-weight="bold" fill="#fff" text-anchor="middle">☠️ Poisonous</text>
+<text x="381" y="130" font-size="13" fill="#c33">Whole plant poisonous, contains cardiac glycosides</text>
+<text x="381" y="152" font-size="15" fill="#c33"><tspan font-weight="bold">No</tspan> arching above-ground stem</text>
+<line x1="375" y1="392" x2="700" y2="392" stroke="#999" stroke-width="2"/>
+<!-- two basal leaves -->
+<path d="M468 392 C440 340 404 260 424 196 C450 214 474 300 476 392 Z" fill="#a9c77c" stroke="#333" stroke-width="1.5"/>
+<path d="M472 392 C457 320 427 237 424 196 M470 390 C448 330 415 248 424 196 M474 390 C465 310 438 225 424 196" stroke="#5f7f36" stroke-width="0.8" fill="none"/>
+<path d="M482 392 C478 320 494 240 520 190 C536 250 520 340 492 392 Z" fill="#b5d08a" stroke="#333" stroke-width="1.5"/>
+<path d="M487 392 C499 330 515 245 520 190 M484 390 C488 325 504 242 520 190 M490 390 C509 335 525 248 520 190" stroke="#5f7f36" stroke-width="0.8" fill="none"/>
+<path d="M466 392 C466 370 468 352 472 344 L490 344 C494 352 496 370 496 392 Z" fill="#e7dcc2" stroke="#333" stroke-width="1.3"/>
+<!-- flowering stalk -->
+<path d="M494 392 C512 360 548 306 582 262" stroke="#4d6b2a" stroke-width="2" fill="none"/>
+<path d="M516 356 Q527 356 527 362 M527 338 Q538 338 538 344 M540 320 Q551 320 551 326 M552 302 Q563 302 563 308 M566 284 Q575 284 575 290 M577 269 Q585 269 585 275" stroke="#4d6b2a" stroke-width="1" fill="none"/>
+<use href="#lbell" x="527" y="366"/>
+<use href="#lbell" x="538" y="348"/>
+<use href="#lbell" x="551" y="330"/>
+<use href="#lbell" transform="translate(563 312) scale(0.9)"/>
+<use href="#lbell" transform="translate(575 294) scale(0.8)"/>
+<use href="#lbell" transform="translate(585 279) scale(0.65)"/>
+<!-- rhizome -->
+<path d="M410 404 H560 C566 404 568 408 568 411 C568 414 566 418 560 418 H410 C404 418 402 414 402 411 C402 408 404 404 410 404 Z" fill="#e7dcc2" stroke="#333" stroke-width="1.3"/>
+<g stroke="#8a7a5a" stroke-width="1" fill="none"><path d="M420 418 Q418 432 412 440 M460 418 Q462 432 458 442 M500 418 Q498 432 504 442 M540 418 Q544 430 540 440"/></g>
+<!-- red berry inset -->
+<circle cx="440" cy="470" r="30" fill="#fff" stroke="#999" stroke-width="1" stroke-dasharray="3 3"/>
+<path d="M440 446 V456 M440 456 L432 464 M440 456 L448 464" stroke="#4d6b2a" stroke-width="1.2" fill="none"/>
+<circle cx="432" cy="471" r="7" fill="#d62a2a" stroke="#7a1a1a" stroke-width="1"/><circle cx="448" cy="471" r="7" fill="#d62a2a" stroke="#7a1a1a" stroke-width="1"/>
+<text x="480" y="476" font-size="14">Berries <tspan font-weight="bold" fill="#c33">red</tspan></text>
+<!-- pointers -->
+<g stroke="#0b5cad" stroke-width="1" fill="none"><path d="M432 240 L404 180"/><path d="M506 372 L560 362"/><path d="M572 290 L600 276"/><path d="M480 372 L576 410"/></g>
+<g fill="#0b5cad"><circle cx="432" cy="240" r="2.5"/><circle cx="506" cy="372" r="2.5"/><circle cx="572" cy="290" r="2.5"/><circle cx="480" cy="372" r="2.5"/></g>
+<text x="381" y="174" font-size="14">Usually only <tspan font-weight="bold">2</tspan> broad leaves</text>
+<text x="564" y="354" font-size="13">Flowering stalk rises</text>
+<text x="564" y="369" font-size="13">from the leaf base</text>
+<text x="604" y="244" font-size="13">A string of</text>
+<text x="604" y="259" font-size="13">small white</text>
+<text x="604" y="274" font-size="13">bells, <tspan font-weight="bold">all on</tspan></text>
+<text x="604" y="289" font-size="13" font-weight="bold">one side;</text>
+<text x="604" y="304" font-size="13">strongly</text>
+<text x="604" y="319" font-size="13">scented</text>
+<text x="580" y="410" font-size="13" font-weight="bold">Leaves grow</text>
+<text x="580" y="425" font-size="13" font-weight="bold">straight out of</text>
+<text x="580" y="440" font-size="13" font-weight="bold">the ground;</text>
+<text x="580" y="455" font-size="13">sheathed at base</text>
+<!-- other look-alikes -->
+<line x1="377" y1="500" x2="698" y2="500" stroke="#ccc" stroke-dasharray="4 3"/>
+<text x="381" y="522" font-size="14" fill="#0b5cad">Also rule out these two</text>
+<text x="381" y="544" font-size="13"><tspan font-weight="bold" fill="#c33">Rohdea</tspan> (whole plant poisonous, cardiac glycosides)</text>
+<text x="395" y="561" font-size="13">all leaves basal, thick, leathery, strap-</text>
+<text x="395" y="577" font-size="13">shaped; berries red</text>
+<text x="381" y="599" font-size="13"><tspan font-weight="bold" fill="#c33">False hellebore (Lilu)</tspan> (highly poisonous)</text>
+<text x="395" y="616" font-size="13">leaves broad with many lengthwise pleats;</text>
+<text x="395" y="632" font-size="13">brown fibrous remains around stem base</text>
+
+<!-- bottom -->
+<rect x="10" y="656" width="700" height="244" rx="8" fill="#fdecec" stroke="#c33" stroke-width="2"/>
+<text x="360" y="684" font-size="17" font-weight="bold" fill="#c33" text-anchor="middle">Rule of thumb</text>
+<text x="360" y="714" font-size="15" text-anchor="middle">Yuzhu and Huangjing both have an <tspan font-weight="bold">above-ground stem</tspan>, upright or arching;</text>
+<text x="360" y="736" font-size="15" text-anchor="middle">the leaves grow on the stem and the flowers hang below the leaf axils</text>
+<text x="360" y="766" font-size="16" font-weight="bold" fill="#c33" text-anchor="middle">Never dig any plant whose leaves grow straight out of the ground</text>
+<text x="360" y="786" font-size="16" font-weight="bold" fill="#c33" text-anchor="middle">and whose fruit is red</text>
+<text x="360" y="814" font-size="14" fill="#555" text-anchor="middle">Lily of the valley contains cardiac glycosides; eating it can cause heart rhythm disturbances</text>
+<text x="360" y="836" font-size="14" fill="#555" text-anchor="middle">If Huangjing tastes bitter, it is not the genuine herb</text>
+<text x="360" y="854" font-size="14" fill="#555" text-anchor="middle">(Pharmacopoeia: bitter-tasting material must not be used as medicine)</text>
+<text x="360" y="884" font-size="16" font-weight="bold" fill="#c33" text-anchor="middle">Identify the whole plant before digging the root; if unsure, do not dig</text>
+</g>
+</svg>

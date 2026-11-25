@@ -1,15 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1014" width="720" height="1014" role="img" aria-label="Red mineral drugs are not identified by colour (schematic). Zheshi (hematite) is a medicinal mineral: mostly irregular flat lumps, dark brownish-red or greyish-black, some with a metallic lustre; one face often has round bumps called nail heads, and the other face has hollows of the same size opposite them; heavy and hard, the broken surface is layered; streak cherry-red or reddish-brown. Cinnabar (Zhusha, contains mercury) is bright red or dark red with a red streak, heavy, much heavier than a stone of the same size, and releases mercury vapour when heated; red lead (Qiandan, contains lead) is an orange-red or orange-yellow powder, very heavy, and lead builds up in the body and causes long-term damage to children's intelligence; realgar (Xionghuang, contains arsenic) is deep red or orange-red with a pale orange-red streak, and turns into arsenic trioxide when heated. Do not swallow or heat cinnabar, red lead or realgar; red minerals are never substituted for one another by colour; use only certified prepared pieces from a pharmacy">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1014" width="720" height="1014" role="img" aria-label="Red mineral drugs are not identified by colour (schematic). Zheshi (haematite) is a medicinal mineral: mostly irregular flat lumps, dark brownish-red or greyish-black, some with a metallic lustre; one face often has round bumps called nail heads, and the other face has hollows of the same size opposite them; heavy and hard, the broken surface is layered; streak cherry-red or reddish-brown. Cinnabar (Zhusha, contains mercury) is bright red or dark red with a red streak, heavy, much heavier than a stone of the same size, and releases mercury vapour when heated; red lead (Qiandan, contains lead) is an orange-red or orange-yellow powder, very heavy, and lead builds up in the body and causes long-term damage to children's intelligence; realgar (Xionghuang, contains arsenic) is deep red or orange-red with a pale orange-red streak, and turns into white arsenic (arsenic trioxide) when heated. Do not swallow or heat cinnabar, red lead or realgar; do not use one red mineral in place of another on the basis of colour; use only proper prepared slices from a pharmacy">
 <rect width="100%" height="100%" fill="#fff"/>
-<title>Zheshi (hematite) compared with toxic red minerals</title>
+<title>Zheshi (haematite) compared with toxic red minerals</title>
 <g font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif" fill="#222">
-<text x="360" y="30" font-size="18" font-weight="bold" text-anchor="middle">Zheshi (hematite) vs cinnabar, red lead and realgar (schematic)</text>
+<text x="360" y="30" font-size="18" font-weight="bold" text-anchor="middle">Zheshi (haematite) vs cinnabar, red lead and realgar (schematic)</text>
 <text x="360" y="52" font-size="13" fill="#555" text-anchor="middle">Red mineral drugs are not identified by colour. Zheshi is a medicinal mineral; cinnabar, red lead and</text>
 <text x="360" y="68" font-size="13" fill="#555" text-anchor="middle">realgar contain mercury, lead and arsenic — only learn to recognise them; do not touch or use them</text>
 <g transform="translate(0 16)">
 
 <!-- 1 Zheshi -->
 <rect x="10" y="66" width="700" height="374" rx="8" fill="none" stroke="#999" stroke-width="1.5"/>
-<text x="26" y="94" font-size="18" font-weight="bold">① Zheshi <tspan font-size="14" font-weight="normal" fill="#555">(hematite, mainly Fe₂O₃; medicinal)</tspan></text>
+<text x="26" y="94" font-size="18" font-weight="bold">① Zheshi <tspan font-size="14" font-weight="normal" fill="#555">(haematite, mainly Fe₂O₃; medicinal)</tspan></text>
 <text x="26" y="116" font-size="13">Irregular flat lumps; <tspan font-weight="bold">dark brownish-red or greyish-black</tspan>, some with a metallic lustre;</text>
 <text x="26" y="132" font-size="13" font-weight="bold">heavy and hard</text>
 <!-- front: nail heads -->
@@ -130,20 +130,20 @@
 <text x="596" y="596" font-size="12" fill="#555" text-anchor="middle">Looks like cinnabar</text>
 <text x="596" y="610" font-size="12" fill="#555" text-anchor="middle">(cinnabar is redder and heavier)</text>
 <text x="596" y="632" font-size="13" text-anchor="middle" fill="#c33">Heating turns it into</text>
-<text x="596" y="648" font-size="13" text-anchor="middle" fill="#c33">arsenic trioxide (Pishuang)</text>
+<text x="596" y="648" font-size="13" text-anchor="middle" fill="#c33">white arsenic (arsenic trioxide)</text>
 <text x="596" y="678" font-size="14" font-weight="bold" fill="#c33" text-anchor="middle">❌ Never heat; no realgar wine</text>
 <text x="596" y="698" font-size="12" text-anchor="middle">Do not smear realgar on children</text>
 <text x="596" y="713" font-size="12" text-anchor="middle">or give it to them by mouth</text>
 
 <!-- bottom -->
 <rect x="10" y="742" width="700" height="190" rx="8" fill="#fdecec" stroke="#c33" stroke-width="2"/>
-<text x="360" y="770" font-size="17" font-weight="bold" fill="#c33" text-anchor="middle">❌ Red minerals (cinnabar, red lead, Zheshi, realgar) are</text>
-<text x="360" y="791" font-size="17" font-weight="bold" fill="#c33" text-anchor="middle">never substituted for one another by colour</text>
-<text x="360" y="816" font-size="14" text-anchor="middle">Use only certified prepared pieces from a pharmacy; stones you pick up</text>
+<text x="360" y="770" font-size="17" font-weight="bold" fill="#c33" text-anchor="middle">❌ Do not use red minerals (cinnabar, red lead, Zheshi, realgar)</text>
+<text x="360" y="791" font-size="17" font-weight="bold" fill="#c33" text-anchor="middle">in place of one another on the basis of colour</text>
+<text x="360" y="816" font-size="14" text-anchor="middle">Use only proper prepared slices from a pharmacy; stones you pick up</text>
 <text x="360" y="834" font-size="14" text-anchor="middle">yourself are of unknown composition — do not take them by mouth</text>
 <text x="360" y="856" font-size="14" text-anchor="middle">If you cannot identify it for certain: do not use it, put it in your mouth or heat it</text>
-<text x="360" y="880" font-size="13" fill="#555" text-anchor="middle">If you have long taken "secret recipes" or "pills" of unknown origin, tell a doctor</text>
-<text x="360" y="897" font-size="13" fill="#555" text-anchor="middle">and have your blood lead, urine mercury and urine arsenic tested</text>
+<text x="360" y="880" font-size="13" fill="#555" text-anchor="middle">If you have taken "secret formulas" or "pills" of unknown origin for a long time, tell the doctor</text>
+<text x="360" y="897" font-size="13" fill="#555" text-anchor="middle">and get blood lead, urine mercury and urine arsenic tested</text>
 <text x="360" y="919" font-size="13" fill="#555" text-anchor="middle">Whether to use it, and how much, is for a TCM practitioner to decide</text>
 </g>
 </g>

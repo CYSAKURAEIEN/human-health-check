@@ -2,7 +2,7 @@
 
 > **Whole herbs are the herbs you are most likely to collect in the wild. They grow by roads, on field banks and on riverbanks, so they are quick to recognise and just as quick to mistake. Crushing a leaf and smelling it, or snapping a stem to see whether it bleeds white sap, is more useful than remembering the name**
 
-This chapter covers 32 common whole-herb medicines (the part used is the whole plant, the aerial parts, the stems and leaves, or a fleshy stem with scale leaves; *Xiakucao* uses the fruit spike and *Xixin* only the root and rhizome, but by custom both are placed here). They are roughly grouped by action into five groups: exterior-releasing and aromatic; heat-clearing and detoxifying; damp-draining and jaundice-relieving; blood-moving and bleeding-stopping; and wind-dispelling, tonic and others. General methods for identification, harvesting, drying and storage are in the [General Principles](../../../docs/10-中药材识别与采集/00-总论.md) and are not repeated here. How to grow mint, dandelion, houttuynia, plantain, purslane, self-heal and motherwort is already covered in [Medicinal Plants: Identification and Growing](../../../docs/04-动植物培育/04-药用植物.md); this chapter covers only identification and collection.
+This chapter covers 32 common whole-herb medicines (the part used is the whole plant, the aerial parts, the stems and leaves, or a fleshy stem with scale leaves; *Xiakucao* uses the fruit spike and *Xixin* only the root and rhizome, but by custom both are placed here). They are roughly grouped by action into five groups: exterior-releasing and aromatic; heat-clearing and detoxifying; damp-draining and jaundice-relieving; blood-moving and bleeding-stopping; and wind-dispelling, tonic and others. General methods for identification, harvesting, drying and storage are in the [General Principles](00-general-principles.md) and are not repeated here. How to grow mint, dandelion, houttuynia, plantain, purslane, self-heal and motherwort is already covered in [Medicinal Plants: Identification and Growing](../04-farming-and-animal-husbandry/04-medicinal-plants.md); this chapter covers only identification and collection.
 
 ## ⚠️ Read these first
 
@@ -117,7 +117,7 @@ Most herbs in this group are aromatic plants of the mint family (Lamiaceae) and 
 - **Actions**: disperses wind-heat, clears the head and eyes, benefits the throat, vents rashes, soothes the liver and moves *qi*
 - **Dose**: 3-6 g, **added near the end** (put it in when the other herbs are almost done and boil for only a few minutes) (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: not advisable for weak people who sweat a lot; **do not apply peppermint oil or cooling balm near the nostrils of babies and young children** (it can cause laryngeal spasm and difficulty breathing); taking large amounts while breastfeeding may reduce milk (experience)
-- For growing, see [Medicinal Plants – Mint](../../../docs/04-动植物培育/04-药用植物.md#薄荷)
+- For growing, see [Medicinal Plants – Mint](../04-farming-and-animal-husbandry/04-medicinal-plants.md#bohe-mint)
 
 ### 1.2 Guanghuoxiang (patchouli)
 
@@ -133,7 +133,7 @@ Most herbs in this group are aromatic plants of the mint family (Lamiaceae) and 
 - **Storage**: contains volatile oil; seal and keep in a cool, dry place to stop the scent escaping
 - **Actions**: aromatically transforms turbidity, harmonises the middle and stops vomiting, releases the exterior and relieves summer heat
 - **Dose**: 3-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Cautions**: not advisable with yin deficiency and excess fire; for vomiting and diarrhoea with fever and thirst in summer, replace fluids first (see [Diarrhoeal infectious diseases](../../../docs/01-日常疾病和伤害/15-传染病家庭防控.md#腹泻类传染病)); dehydration, high fever or listlessness need a doctor
+- **Cautions**: not advisable with yin deficiency and excess fire; for vomiting and diarrhoea with fever and thirst in summer, replace fluids first (see [Diarrhoeal infectious diseases](../01-first-aid-and-family-health/15-infectious-disease-at-home.md#diarrhoeal-infections)); dehydration, high fever or listlessness need a doctor
 
 ### 1.3 Jingjie (schizonepeta)
 
@@ -223,7 +223,7 @@ This group contains the commonest weeds by roads and fields, and many of them ar
 - **Actions**: clears heat and detoxifies, reduces swelling and dissipates lumps, promotes urination and relieves painful urination
 - **Dose**: 10-15 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: too large a dose can cause diarrhoea; not for people allergic to daisy-family plants; a red, hot, painful, swollen breast with fever (mastitis) or a lump that does not go down needs a doctor
-- For growing, see [Medicinal Plants – Dandelion](../../../docs/04-动植物培育/04-药用植物.md#蒲公英)
+- For growing, see [Medicinal Plants – Dandelion](../04-farming-and-animal-husbandry/04-medicinal-plants.md#pugongying-dandelion)
 
 ### 2.2 Zihuadiding (Yedo violet)
 
@@ -257,7 +257,7 @@ This group contains the commonest weeds by roads and fields, and many of them ar
 - **Actions**: clears heat and detoxifies, reduces abscesses and expels pus, promotes urination and relieves painful urination
 - **Dose**: 15-25 g, **not boiled for long**; double the dose for the fresh herb, decocted or taken as juice; for external use, a suitable amount, pounded and applied, or boiled for steaming and washing (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: people with deficiency-cold should not take much; **severe allergic reactions have been reported with houttuynia injections**, which are different from oral slices; never use any injection yourself; a cough with high fever, shortness of breath, or pus or blood in the sputum needs a doctor
-- For growing, see [Medicinal Plants – Houttuynia](../../../docs/04-动植物培育/04-药用植物.md#鱼腥草折耳根)
+- For growing, see [Medicinal Plants – Houttuynia](../04-farming-and-animal-husbandry/04-medicinal-plants.md#yuxingcao-fish-mint)
 
 ### 2.4 Baijiangcao (patrinia)
 
@@ -290,7 +290,7 @@ This group contains the commonest weeds by roads and fields, and many of them ar
 - **Actions**: clears heat and detoxifies, cools the blood and stops bleeding, stops dysentery
 - **Dose**: 9-15 g; for external use, a suitable amount, pounded and applied to the affected area (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner); eating it as a wild vegetable in everyday amounts is safe
 - **Cautions**: cold in nature; people with a cold, weak digestion or diarrhoea should eat little; pregnant women should not eat large amounts or use it as medicine; it contains a fair amount of oxalic acid, so people with kidney stones should not eat much; diarrhoea with high fever, pus and blood in the stool or severe dehydration needs a doctor
-- For growing and eating, see [Medicinal Plants – Purslane](../../../docs/04-动植物培育/04-药用植物.md#马齿苋)
+- For growing and eating, see [Medicinal Plants – Purslane](../04-farming-and-animal-husbandry/04-medicinal-plants.md#machixian-purslane)
 
 ![Purslane compared with spurges that lie flat on the ground](../../images/purslane-vs-spurge.svg)
 
@@ -358,7 +358,7 @@ This group contains the commonest weeds by roads and fields, and many of them ar
 - **Actions**: clears the liver and drains fire, brightens the eyes, dissipates lumps and reduces swelling
 - **Dose**: 9-15 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: cold in nature; use with caution with a weak digestion; **if you feel a lump in the neck or breast, do not treat it yourself with a "lump-dissipating" herb; go to hospital first to find out what it is**; it has been reported to lower blood pressure, so people taking blood pressure medicines should ask a doctor first
-- For growing and more on identification in the wild, see [Medicinal Plants – Self-heal](../../../docs/04-动植物培育/04-药用植物.md#夏枯草)
+- For growing and more on identification in the wild, see [Medicinal Plants – Self-heal](../04-farming-and-animal-husbandry/04-medicinal-plants.md#xiakucao-self-heal)
 
 ### 2.10 Danzhuye (lophatherum)
 
@@ -385,7 +385,7 @@ This group contains the commonest weeds by roads and fields, and many of them ar
   - Plant: annual herb, 1-2 m tall; stem upright, much branched; **leaves 3 times pinnately divided, the lobes tiny, like carrot leaves**; **flower heads extremely numerous, very small (1.5-2.5 mm across), round and yellow**, arranged in large pyramid-shaped clusters; **crushed, it has a strong, distinctive scent**
   - How *Xianghao* differs: its flower heads are larger (3.5-4 mm across) and hemispherical, and its leaf lobes are broader
   - Dried herb: stem round, much branched above, yellowish green or brownish yellow, with lengthwise ridges; fairly hard, with pith in the middle of the broken surface; leaves dark green or brownish green, curled and crumbly; a distinctive scent; taste slightly bitter
-- **Look-alikes**: there are very many *Artemisia* species (mugwort, *Yinchen*, *Artemisia lavandulifolia* and others), with different leaf shapes and flower clusters, and most are not poisonous. But avoid **carrot-family plants with carrot-like leaves and white umbrella-shaped flower heads** (they may be water hemlocks and their relatives; see [Water hemlock vs water dropwort and wild carrot](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#43-毒芹-vs-水芹野胡萝卜)). *Artemisia* has small yellowish-green ball-shaped flowers, not white umbrellas
+- **Look-alikes**: there are very many *Artemisia* species (mugwort, *Yinchen*, *Artemisia lavandulifolia* and others), with different leaf shapes and flower clusters, and most are not poisonous. But avoid **carrot-family plants with carrot-like leaves and white umbrella-shaped flower heads** (they may be water hemlocks and their relatives; see [Water hemlock vs water dropwort and wild carrot](09-toxic-herbs-and-poisonous-look-alikes.md#43-duqin-water-hemlock-vs-shuiqin-water-dropwort-and-yehuluobo-wild-carrot)). *Artemisia* has small yellowish-green ball-shaped flowers, not white umbrellas
 - **Harvesting and processing**: cut in autumn **in full flower**, remove old stems and **dry in the shade** (artemisinin does not stand high temperatures; do not dry in strong sun or by baking)
 - **Storage**: seal and keep in a cool, dry place
 - **Actions**: clears deficiency heat, relieves steaming-bone fever, relieves summer heat, checks malaria, relieves jaundice
@@ -418,20 +418,20 @@ This group is used for jaundice, difficulty passing urine, urinary stones and th
 ### 3.2 Cheqiancao (plantain)
 
 - **Cheqiancao (Chegulucai, Hamacao)**: Chinese 车前草(车轱辘菜、蛤蟆草); plantain
-- **Source**: the dried whole plant of *Plantago asiatica* L. or *P. depressa* Willd. (Plantaginaceae). The ripe seeds are a separate herb, "*Cheqianzi*"; see [Fruits and seeds – Cheqianzi](../../../docs/10-中药材识别与采集/03-果实种子类.md#55-车前子)
+- **Source**: the dried whole plant of *Plantago asiatica* L. or *P. depressa* Willd. (Plantaginaceae). The ripe seeds are a separate herb, "*Cheqianzi*"; see [Fruits and seeds – Cheqianzi](03-fruits-and-seeds.md#55-cheqianzi-plantain-seed)
 - **Distribution and habitat**: roadsides, field banks, grassland, courtyards and ditch sides all over China; extremely common and tolerant of trampling
 - **Identification**:
   - Plant: perennial herb (*P. depressa* is annual or biennial) **with no stem above ground**; all leaves grow from the root crown and lie flat in a rosette; leaf blade ovate or elliptic, **with 5-7 thick veins curving from the leaf base to the tip**; **pull the leaf stalk apart and white threads stretch out**
   - Flower: several upright, **thin, long flower spikes** rise from the leaves, with tiny pale green flowers; the capsule opens by a lid when ripe; seeds tiny, blackish brown
   - Difference between the two: *P. asiatica* has fibrous roots; *P. depressa* has a clear, cylindrical taproot
   - Dried herb: roots clustered and fibrous (*P. asiatica*) or with a taproot (*P. depressa*); leaves long-stalked, shrivelled, ovate-elliptic or broadly ovate when flattened, grey-green or dull green, with 5-7 clear curving veins; several flower spikes; smell faintly fragrant, taste slightly bitter
-- **Look-alikes**: generally hard to mistake. Watch for two poisonous plants that also have curving parallel veins: **false hellebore** (*Veratrum*, *Lilu*: it has a stem above ground, clearly pleated leaves lengthwise, and brown net-like fibres at the stem base; see [Veratrum](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#218-藜芦)) and **lily of the valley** (northern woodland floors; usually 2 leaves whose bases wrap into a sheath, and a string of white bell-shaped flowers). Neither grows in a flat rosette on the ground, and neither has thin, long green flower spikes
+- **Look-alikes**: generally hard to mistake. Watch for two poisonous plants that also have curving parallel veins: **false hellebore** (*Veratrum*, *Lilu*: it has a stem above ground, clearly pleated leaves lengthwise, and brown net-like fibres at the stem base; see [Veratrum](09-toxic-herbs-and-poisonous-look-alikes.md#218-lilu-false-hellebore)) and **lily of the valley** (northern woodland floors; usually 2 leaves whose bases wrap into a sheath, and a string of white bell-shaped flowers). Neither grows in a flat rosette on the ground, and neither has thin, long green flower spikes
 - **Harvesting and processing**: dig up the whole plant in summer, remove soil and dry in the sun
 - **Storage**: keep in a ventilated, dry place; protect from damp
 - **Actions**: clears heat, promotes urination and relieves painful urination, expels phlegm, cools the blood, detoxifies
 - **Dose**: 9-30 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: it promotes urination, so pregnant women, people with poor kidney function and people taking diuretics should ask a doctor first; frequent, painful urination with fever, back pain or blood in the urine needs a doctor
-- For growing and more on identification in the wild, see [Medicinal Plants – Plantain](../../../docs/04-动植物培育/04-药用植物.md#车前草)
+- For growing and more on identification in the wild, see [Medicinal Plants – Plantain](../04-farming-and-animal-husbandry/04-medicinal-plants.md#cheqiancao-plantain)
 
 ### 3.3 Jinqiancao (lysimachia)
 
@@ -474,7 +474,7 @@ This group relates to menstruation, bleeding and blood stasis. **Blood-moving he
 - **Actions**: moves blood and regulates menstruation, promotes urination and reduces swelling, clears heat and detoxifies
 - **Dose**: 9-30 g; fresh herb 12-40 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: **not in pregnancy** (the Pharmacopoeia says "use with caution in pregnancy"; it stimulates the uterus, so this book is stricter); not for people with heavy periods or a bleeding tendency; **kidney damage has been reported with large or long-term use, so people with poor kidney function must not use it**; not for people taking anticoagulant or antiplatelet drugs; heavy bleeding, fever or abdominal pain after childbirth needs a doctor
-- For growing and more on identification in the wild, see [Medicinal Plants – Motherwort](../../../docs/04-动植物培育/04-药用植物.md#益母草)
+- For growing and more on identification in the wild, see [Medicinal Plants – Motherwort](../04-farming-and-animal-husbandry/04-medicinal-plants.md#yimucao-chinese-motherwort)
 
 ### 4.2 Zelan (bugleweed)
 
@@ -506,7 +506,7 @@ This group relates to menstruation, bleeding and blood stasis. **Blood-moving he
 - **Storage**: keep in a ventilated, dry place
 - **Actions**: astringes and stops bleeding, checks malaria, stops dysentery, detoxifies, tonifies deficiency
 - **Dose**: 6-12 g; for external use, a suitable amount (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Cautions**: heavy bleeding, repeated bleeding and bleeding of unknown cause (such as black stools, coughing up blood or blood in the urine) must be seen by a doctor; "checking malaria" likewise cannot replace antimalarial drugs. For stopping bleeding from injuries, see [Wound and Injury Care](../../../docs/01-日常疾病和伤害/02-外伤处理.md)
+- **Cautions**: heavy bleeding, repeated bleeding and bleeding of unknown cause (such as black stools, coughing up blood or blood in the urine) must be seen by a doctor; "checking malaria" likewise cannot replace antimalarial drugs. For stopping bleeding from injuries, see [Wound and Injury Care](../01-first-aid-and-family-health/02-wounds-and-injuries.md)
 
 ### 4.4 Xiaoji (field thistle)
 
@@ -517,7 +517,7 @@ This group relates to menstruation, bleeding and blood stasis. **Blood-moving he
   - Plant: perennial herb, 30-80 cm tall; **long creeping roots, so it often grows in patches**; leaves alternate, elliptic or long-elliptic to lanceolate, **smooth-edged or shallowly toothed, with fine, close spines along the edge**, not deeply divided
   - Flower: **flower heads single or several at the stem tips, purplish red, all tubular florets**; involucre bell-shaped, with many layers of bracts; male and female flowers on separate plants
   - Dried herb: stem round, grey-green or tinged purple, with lengthwise ridges and soft white hairs, hollow when broken; leaves shrivelled or broken, long-elliptic or oblong-lanceolate when flattened, spines at the tips of the teeth, soft white hairs on both sides; involucre bell-shaped, bracts in 5-8 layers, yellowish green; flowers purplish red; smell faint, taste slightly bitter
-- **Look-alikes**: *Daji* (see [4.5](#45-daji-japanese-thistle)). The equally prickly **cocklebur** (*Xanthium*) has broad, triangular, heart-shaped leaves and small jujube-stone-shaped fruits covered in hooked spines; its seedlings and fruits are poisonous; see [Cocklebur seedlings and Cang'erzi](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#410-苍耳幼苗和苍耳子)
+- **Look-alikes**: *Daji* (see [4.5](#45-daji-japanese-thistle)). The equally prickly **cocklebur** (*Xanthium*) has broad, triangular, heart-shaped leaves and small jujube-stone-shaped fruits covered in hooked spines; its seedlings and fruits are poisonous; see [Cocklebur seedlings and Cang'erzi](09-toxic-herbs-and-poisonous-look-alikes.md#410-canger-seedlings-and-cangerzi-cocklebur)
 - **Harvesting and processing**: cut in summer and autumn when in flower, remove impurities and dry in the sun
 - **Storage**: keep in a ventilated, dry place
 - **Actions**: cools the blood and stops bleeding, disperses stasis, detoxifies and reduces abscesses
@@ -653,7 +653,7 @@ This group comes from mixed sources: *Shenjincao* is a fern ally, *Shihu* is an 
   - Plant: **a small herb growing flat against the ground**; usually 1-2 leaves, **heart- or kidney-shaped, on long stalks**; **flowers single at the base of the leaf stalks, pressed against the ground, purplish brown, pot- or bell-shaped**, often hidden under fallen leaves; the whole plant has a pungent smell
   - Dried herb: often curled into clumps; rhizome horizontal, irregularly cylindrical, with ring-like nodes and bowl-shaped stem scars at the branch tips; roots thin and long, dense on the nodes, 10-20 cm long and about 0.1 cm across, greyish yellow; brittle, broken surface yellowish white or white; **pungent, fragrant smell; taste pungent and numbing on the tongue**
 - **Look-alikes**: related species such as *Duheng* (*A. forbesii*) and *Tuxixin* are often used as *Xixin*; other plants of the birthwort family (climbing *Aristolochia* species) also contain aristolochic acid. **"*Xixin*" collected in the mountains is often the whole plant with leaves, and may be another species**
-- **Why only the root**: aristolochic acid is concentrated in the aerial parts (the leaves), so from the 2005 edition of the Pharmacopoeia the part used for *Xixin* was changed to the root and rhizome only, and the 2020 edition keeps this. Aristolochic acid can cause irreversible kidney damage and cancer; see [Xixin: use only the root and rhizome](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#33-细辛-只用根和根茎) and [Herbs containing aristolochic acid](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#三含马兜铃酸的药材)
+- **Why only the root**: aristolochic acid is concentrated in the aerial parts (the leaves), so from the 2005 edition of the Pharmacopoeia the part used for *Xixin* was changed to the root and rhizome only, and the 2020 edition keeps this. Aristolochic acid can cause irreversible kidney damage and cancer; see [Xixin: use only the root and rhizome](09-toxic-herbs-and-poisonous-look-alikes.md#33-xixin-use-only-the-root-and-rhizome) and [Herbs containing aristolochic acid](09-toxic-herbs-and-poisonous-look-alikes.md#3-herbs-containing-aristolochic-acid)
 - **Harvesting and processing**: dig up in summer when the fruits are ripe or in early autumn, **remove all aerial parts** and soil, and dry in the shade
 - **Storage**: contains volatile oil; seal and keep in a cool, dry place
 - **Actions**: releases the exterior and dispels cold, dispels wind and relieves pain, opens the nasal passages, warms the lungs and transforms fluid retention
@@ -730,13 +730,13 @@ Before collecting whole herbs, confirm each point:
 
 ## Related chapters
 
-- ⏮️ [Fruits and Seeds](../../../docs/10-中药材识别与采集/03-果实种子类.md) - goji berries, hawthorn, schisandra, aged tangerine peel, plantain seed and other fruit, peel and seed herbs
-- ⏭️ [Flowers and Leaves](../../../docs/10-中药材识别与采集/05-花叶类.md) - honeysuckle, chrysanthemum, mugwort leaf, mulberry leaf, perilla leaf and other flower and leaf herbs
-- 🔗 [General Principles of Identifying and Collecting Chinese Medicinal Herbs](../../../docs/10-中药材识别与采集/00-总论.md) - general methods for identification, harvesting, processing, storage, safety and the law
-- 🔗 [Toxic Herbs and Poisonous Look-alikes](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md) - identification and poisoning signs of herbs containing aristolochic acid, water hemlock, datura and others
-- 🔗 [Medicinal Plants: Identification and Growing](../../../docs/04-动植物培育/04-药用植物.md) - growing mint, dandelion, houttuynia, plantain, purslane, self-heal and motherwort, and the home herb garden
-- 🔗 [Traditional Chinese Medicine Preparations](../../../docs/06-制药技术/04-中药制剂.md) - processing, decoction, common formulas and safe use
-- 🔗 [Poisonous Mushrooms and Wild Plant Poisoning](../../../docs/03-野外生存/09-毒蘑菇与野菜误食.md) - the risks of gathering wild vegetables and weeds, and what to do after eating the wrong thing
+- ⏮️ [Fruits and Seeds](03-fruits-and-seeds.md) - goji berries, hawthorn, schisandra, aged tangerine peel, plantain seed and other fruit, peel and seed herbs
+- ⏭️ [Flowers and Leaves](05-flowers-and-leaves.md) - honeysuckle, chrysanthemum, mugwort leaf, mulberry leaf, perilla leaf and other flower and leaf herbs
+- 🔗 [General Principles of Identifying and Collecting Chinese Medicinal Herbs](00-general-principles.md) - general methods for identification, harvesting, processing, storage, safety and the law
+- 🔗 [Toxic Herbs and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - identification and poisoning signs of herbs containing aristolochic acid, water hemlock, datura and others
+- 🔗 [Medicinal Plants: Identification and Growing](../04-farming-and-animal-husbandry/04-medicinal-plants.md) - growing mint, dandelion, houttuynia, plantain, purslane, self-heal and motherwort, and the home herb garden
+- 🔗 [Traditional Chinese Medicine Preparations](../06-pharmaceuticals/04-herbal-preparations.md) - processing, decoction, common formulas and safe use
+- 🔗 [Poisonous Mushrooms and Wild Plant Poisoning](../03-wilderness-survival/09-poisonous-mushrooms-and-wild-plants.md) - the risks of gathering wild vegetables and weeds, and what to do after eating the wrong thing
 
 ---
 

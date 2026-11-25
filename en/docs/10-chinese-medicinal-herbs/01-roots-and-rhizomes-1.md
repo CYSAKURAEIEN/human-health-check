@@ -2,7 +2,7 @@
 
 > **Know the whole plant before you dig the root. The underground part is the hardest to identify: pokeweed passed off as ginseng and *Gynura* passed off as *Sanqi* both start with "just looking at the root"**
 
-This chapter covers the 30 most commonly used root and rhizome medicines, grouped roughly by action into five sets: tonics; blood-tonifying and blood-activating herbs; heat-clearing herbs; exterior-releasing and wind-dispelling herbs; and damp-resolving, wind-calming, phlegm-resolving and yin-nourishing herbs. For each herb it says how to recognise it, where to find it, when to collect it, how to process and store it, the Pharmacopoeia dose and the contraindications. General methods for identification, harvesting, drying and storage are in the [General principles](../../../docs/10-中药材识别与采集/00-总论.md) and are not repeated here. The remaining root and rhizome medicines (*Zhimu*, *Maidong*, *Dahuang*, *Beimu* and others) are in [Roots and Rhizomes (2)](../../../docs/10-中药材识别与采集/02-根及根茎类下.md).
+This chapter covers the 30 most commonly used root and rhizome medicines, grouped roughly by action into five sets: tonics; blood-tonifying and blood-activating herbs; heat-clearing herbs; exterior-releasing and wind-dispelling herbs; and damp-resolving, wind-calming, phlegm-resolving and yin-nourishing herbs. For each herb it says how to recognise it, where to find it, when to collect it, how to process and store it, the Pharmacopoeia dose and the contraindications. General methods for identification, harvesting, drying and storage are in the [General principles](00-general-principles.md) and are not repeated here. The remaining root and rhizome medicines (*Zhimu*, *Maidong*, *Dahuang*, *Beimu* and others) are in [Roots and Rhizomes (2)](02-roots-and-rhizomes-2.md).
 
 ## ⚠️ Read these first
 
@@ -94,7 +94,7 @@ This group contains the most commonly used *qi* tonics. They have very low toxic
   - Plant: Perennial herb about 30-60 cm tall; **palmately compound leaves in a whorl at the top of the stem** (the older the plant, the more compound leaves, usually 3-6), each compound leaf usually with 5 leaflets; a terminal umbel, which in summer produces a cluster of **bright red** flattened-round small berries
   - Crude drug: Main root spindle-shaped or cylindrical, greyish-yellow, with coarse broken cross-wrinkles on the upper part and 2-3 branch roots below; at the top is the **"reed head"** (*lutou*, the rhizome), bearing bowl-shaped stem scars (*luwan*, "reed bowls"); the fine roots carry tiny wart-like bumps ("pearl dots")
   - Cross-section: Pale yellowish-white, powdery, with **a ring of brownish-yellow cambium**; the bark part has scattered yellowish-brown dots and radiating cracks; a distinctive aroma, taste slightly bitter and sweet
-- **Look-alikes**: **Pokeweed root** (*Shanglu*) is the most dangerous: forked, thick roots dug by roadsides, on waste ground or near villages are often taken for "wild mountain ginseng" and steeped in liquor or stewed in soup. Pokeweed is a tall herb with simple leaves and purple-black, grape-like fruit spikes; a cross-section of its root shows many concentric rings, and it has no reed head. For a comparison see [Pokeweed vs ginseng](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#44-商陆-vs-人参). Fakes are also made by processing *Jiegeng* (platycodon), *Huashanshen* (Physochlaina, toxic), *Lulan* (Talinum, "earth ginseng") and others
+- **Look-alikes**: **Pokeweed root** (*Shanglu*) is the most dangerous: forked, thick roots dug by roadsides, on waste ground or near villages are often taken for "wild mountain ginseng" and steeped in liquor or stewed in soup. Pokeweed is a tall herb with simple leaves and purple-black, grape-like fruit spikes; a cross-section of its root shows many concentric rings, and it has no reed head. For a comparison see [Pokeweed vs ginseng](09-toxic-herbs-and-poisonous-look-alikes.md#44-shanglu-pokeweed-vs-renshen-ginseng). Fakes are also made by processing *Jiegeng* (platycodon), *Huashanshen* (Physochlaina, toxic), *Lulan* (Talinum, "earth ginseng") and others
 - **Harvest and processing**: Cultivated garden ginseng is usually dug in autumn after 5-6 years of growth, washed and sun-dried or oven-dried as "sun-dried ginseng" (*shengshaishen*); steamed and then dried it becomes "red ginseng" (*hongshen*, a separate Pharmacopoeia entry)
 - **Storage**: High in sugar and starch, so it easily absorbs moisture, moulds and is attacked by insects; seal it and keep it in a cool, dry place; small amounts can be kept in the fridge
 - **Actions**: Greatly tonifies primal *qi*, restores the pulse and rescues from collapse, tonifies the spleen and benefits the lungs, generates fluids and nourishes blood, calms the mind and benefits intelligence
@@ -138,7 +138,7 @@ This group contains the most commonly used *qi* tonics. They have very low toxic
 - **Actions**: Strengthens the spleen and benefits the lungs, nourishes blood and generates fluids
 - **Dose**: 9-30 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Contraindications**: Do not use together with *Lilu* (Veratrum); not suitable on its own for excess or heat patterns
-- 🛡️ **Protection note**: Wild Sichuan *Dangshen* is on the 2021 "List of Wild Plants under Key State Protection" (the wording of the list prevails); do not dig wild *Dangshen*. For growing it see [Medicinal plants](../../../docs/04-动植物培育/04-药用植物.md)
+- 🛡️ **Protection note**: Wild Sichuan *Dangshen* is on the 2021 "List of Wild Plants under Key State Protection" (the wording of the list prevails); do not dig wild *Dangshen*. For growing it see [Medicinal plants](../04-farming-and-animal-husbandry/04-medicinal-plants.md)
 
 ### 1.4 Huangqi (astragalus root)
 
@@ -220,7 +220,7 @@ This group is mostly related to menstruation, bleeding and blood stasis. **Blood
   - Plant: Perennial herb 40-100 cm tall, stem tinged purple; leaves 2-3 times pinnately compound, the base of the leaf stalk swollen into a sheath; **compound umbels of white flowers**; the whole plant has a strong, distinctive aroma
   - Crude drug: Roughly cylindrical, with 3-5 or more branch roots below, 15-25 cm long; the root head (*guitou*) has rings and the remains of purple or yellowish-green leaf sheaths, the main root (*guishen*) is uneven, and the branch roots (*guiwei*) taper downwards
   - Cross-section: Soft and pliable; yellowish-white or pale yellowish-brown, with a thick bark and many brown dot-like secretory cavities, and a yellowish-brown cambium ring; **strong aroma, taste sweet, pungent and slightly bitter**. The Pharmacopoeia states: roots that are woody, dried out without oil, or greenish-brown in cross-section must not be used as medicine
-- **Look-alikes**: Lovage (*Levisticum officinale*, an introduced Western spice plant), Japanese angelica (*Angelica acutiloba*), *Duhuo* and others have been mixed in; their aroma and taste differ. ***Danggui* belongs to the carrot family — do not dig unfamiliar carrot-family plants in the wild**: highly toxic plants such as water hemlock look similar; see [Water hemlock vs water dropwort and wild carrot](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#43-毒芹-vs-水芹野胡萝卜)
+- **Look-alikes**: Lovage (*Levisticum officinale*, an introduced Western spice plant), Japanese angelica (*Angelica acutiloba*), *Duhuo* and others have been mixed in; their aroma and taste differ. ***Danggui* belongs to the carrot family — do not dig unfamiliar carrot-family plants in the wild**: highly toxic plants such as water hemlock look similar; see [Water hemlock vs water dropwort and wild carrot](09-toxic-herbs-and-poisonous-look-alikes.md#43-duqin-water-hemlock-vs-shuiqin-water-dropwort-and-yehuluobo-wild-carrot)
 - **Harvest and processing**: Dig at the end of autumn, remove fine roots and soil, let some of the moisture evaporate, tie into small bundles, put them on racks and dry them slowly over smoke from a fire
 - **Storage**: **Easily goes oily, is attacked by insects and moulds**; seal and keep somewhere cool and dry, and check often in summer
 - **Actions**: Tonifies and activates blood, regulates menstruation and relieves pain, moistens the intestines and relieves constipation
@@ -252,7 +252,7 @@ This group is mostly related to menstruation, bleeding and blood stasis. **Blood
   - Plant: For *P. lactiflora* see [2.2](#22-baishao-white-peony-root); the leaflets of *P. veitchii* are deeply pinnately divided, and its purplish-red or pink flowers often grow several together at the stem top and in the leaf axils
   - Crude drug: Cylindrical, slightly curved, 5-40 cm long; surface **brown and rough**, with lengthwise grooves, wrinkles and transverse lenticel-like bumps; in some the outer bark flakes off easily
   - Cross-section: Hard and brittle, breaks easily; cross-section **pinkish-white or pink**, with narrow bark and clear radiating lines in the wood; faintly aromatic, taste slightly bitter, sour and astringent. In experience, roots whose bark flakes off easily and whose cross-section is very powdery (*zaopi fenzha*, "rotten bark, powdery dregs") are the best
-- **Look-alikes**: The buttercup family contains many toxic plants (aconite, buttercups and others); **never dig the root of an unfamiliar buttercup-family plant**; see [Toxic herbs – aconites](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#21-川乌草乌附子乌头类)
+- **Look-alikes**: The buttercup family contains many toxic plants (aconite, buttercups and others); **never dig the root of an unfamiliar buttercup-family plant**; see [Toxic herbs – aconites](09-toxic-herbs-and-poisonous-look-alikes.md#21-chuanwu-caowu-fuzi-aconite)
 - **Harvest and processing**: Dig in spring and autumn, remove the rhizome, fine roots and soil, sun-dry (not peeled, not boiled)
 - **Storage**: Protect from damp and insects
 - **Actions**: Clears heat and cools blood, disperses stasis and relieves pain
@@ -287,7 +287,7 @@ This group is mostly related to menstruation, bleeding and blood stasis. **Blood
   - Raw *Dihuang*: Irregular lumps or oblong; surface **brownish-black or brownish-grey, very shrivelled**; heavy, fairly soft and tough; cross-section **brownish-black or jet black, glossy and sticky**; faint smell, taste slightly sweet
   - Prepared *Dihuang*: Irregular pieces, **glossy jet black and very sticky**, soft and pliable, taste sweet
 - **Look-alikes**: Generally not easily confused; note that "*shengdi*" means dried raw *Dihuang*, not fresh *Dihuang* — their doses differ
-- **Harvest and processing**: Dig in autumn, remove the reed head, fine roots and soil, and use fresh (fresh *Dihuang*); or bake slowly until about 80% dry (raw *Dihuang*). Steaming to make prepared *Dihuang* is a processing (*paozhi*) step; see [Traditional Chinese medicine preparations](../../../docs/06-制药技术/04-中药制剂.md)
+- **Harvest and processing**: Dig in autumn, remove the reed head, fine roots and soil, and use fresh (fresh *Dihuang*); or bake slowly until about 80% dry (raw *Dihuang*). Steaming to make prepared *Dihuang* is a processing (*paozhi*) step; see [Traditional Chinese medicine preparations](../06-pharmaceuticals/04-herbal-preparations.md)
 - **Storage**: Keep fresh *Dihuang* buried in sandy soil; raw and prepared *Dihuang* are high in sugar and **easily absorb moisture, mould and turn sticky** — seal and keep somewhere cool and dry
 - **Actions**: Fresh *Dihuang* clears heat and generates fluids, cools blood and stops bleeding; raw *Dihuang* clears heat and cools blood, nourishes yin and generates fluids; prepared *Dihuang* tonifies blood and nourishes yin, benefits essence and fills the marrow
 - **Dose**: Fresh *Dihuang* 12-30 g; raw *Dihuang* 10-15 g; prepared *Dihuang* 9-15 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
@@ -296,7 +296,7 @@ This group is mostly related to menstruation, bleeding and blood stasis. **Blood
 ### 2.6 Heshouwu (fleeceflower root)
 
 - **Heshouwu (Shouwu, Chi Shouwu, Yejiaoteng root)**: Chinese 何首乌; *Polygonum multiflorum* Thunb. After processing it is prepared *Heshouwu* (*zhi heshouwu*)
-- **Source**: The dried root tuber of *Polygonum multiflorum* Thunb. (Polygonaceae, knotweed family). The stem vine is "*Shouwuteng*" (see [Barks and stems – Shouwuteng](../../../docs/10-中药材识别与采集/06-皮类与藤木类.md#36-首乌藤)); prepared *Heshouwu* is a processed product (a separate Pharmacopoeia entry)
+- **Source**: The dried root tuber of *Polygonum multiflorum* Thunb. (Polygonaceae, knotweed family). The stem vine is "*Shouwuteng*" (see [Barks and stems – Shouwuteng](06-barks-stems-and-woods.md#36-shouwuteng-fleeceflower-stem)); prepared *Heshouwu* is a processed product (a separate Pharmacopoeia entry)
 - **Distribution and habitat**: Widespread in east, central, south and southwest China; very common on hillsides, in scrub, rock crevices, by streams and near villages; also cultivated
 - **Key identification features**:
   - Plant: Perennial **twining vine**, stem reddish-brown and hollow; leaves alternate, **ovate-heart-shaped**, untoothed; at the base of the leaf stalk is a **papery sheath (ocrea)** (a feature of the knotweed family); in autumn it bears small white flowers in large panicles; achenes three-angled
@@ -372,7 +372,7 @@ The market also has fakes made by processing root tubers of Ezhu (zedoary),
 Jianghuang (turmeric) and others — it is best to buy Sanqi powder from a proper pharmacy
 ```
 
-For a detailed comparison see [Gynura (Tusanqi) vs Sanqi](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#45-菊三七土三七-vs-三七).
+For a detailed comparison see [Gynura (Tusanqi) vs Sanqi](09-toxic-herbs-and-poisonous-look-alikes.md#45-jusanqi-tusanqi-gynura-vs-sanqi-notoginseng).
 
 - **Harvest and processing**: Grown for 3 years or more and dug in autumn before flowering; wash, separate main root, branch roots and rhizome, dry
 - **Storage**: Hard, and keeps fairly well; protect from damp and insects. Keep *Sanqi* powder sealed; do not leave it open for long
@@ -419,12 +419,12 @@ All the herbs in this group are very bitter and cold in nature. The common warni
 - **Actions**: Clears heat and dries damp, purges fire and removes toxins, stops bleeding, calms the foetus
 - **Dose**: 3-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Contraindications**: Not suitable for a cold, weak spleen and stomach with poor appetite and loose stools; "calming the foetus" must be judged by a doctor — bleeding or abdominal pain in pregnancy needs a doctor first; liver damage and allergy have occasionally been reported — stop if you feel unwell while using it
-- 🛡️ **Protection note**: *Huangqin* is a class III species on the "List of Wild Medicinal Species under Key State Protection"; digging wild plants requires a permit as the rules state; use cultivated plants first. For growing it see [Medicinal plants](../../../docs/04-动植物培育/04-药用植物.md)
+- 🛡️ **Protection note**: *Huangqin* is a class III species on the "List of Wild Medicinal Species under Key State Protection"; digging wild plants requires a permit as the rules state; use cultivated plants first. For growing it see [Medicinal plants](../04-farming-and-animal-husbandry/04-medicinal-plants.md)
 
 ### 3.3 Banlangen (isatis root)
 
 - **Banlangen (Bei Banlangen, Songlangen, Dianqinggen)**: Chinese 板蓝根; *Isatis indigotica* Fort.
-- **Source**: The dried root of *Isatis indigotica* Fort. (woad; Brassicaceae, cabbage family). The leaf of the same plant is *Daqingye* (see [Flowers and leaves – Daqingye](../../../docs/10-中药材识别与采集/05-花叶类.md#43-大青叶))
+- **Source**: The dried root of *Isatis indigotica* Fort. (woad; Brassicaceae, cabbage family). The leaf of the same plant is *Daqingye* (see [Flowers and leaves – Daqingye](05-flowers-and-leaves.md#43-daqingye-isatis-leaf))
 - **Distribution and habitat**: Native to northern China; cultivated on a large scale in Anguo (Hebei), Anhui, Jiangsu, Gansu, Heilongjiang and elsewhere; occasionally found escaped into the wild
 - **Key identification features**:
   - Plant: Biennial herb 40-100 cm tall, the whole plant **bluish-green (glaucous) and smooth**; basal leaves in a rosette, oblong; **stem leaves arrow-shaped at the base and clasping the stem**; **small yellow four-petalled (cross-shaped) flowers** in panicles; the short silicle (pod) is flat, oblong and winged at the margin, purplish-brown and hanging down when ripe
@@ -441,7 +441,7 @@ All the herbs in this group are very bitter and cold in nature. The common warni
 
 ## 4. Exterior-releasing and wind-dispelling herbs
 
-This group is used for colds with fever, headache and body aches, rheumatic pain and the like. **Apart from *Gegen* (pea family) and *Shengma* (buttercup family), all of them are carrot-family plants** — and the carrot family includes the deadly water hemlock and poison hemlock. Before digging any of these herbs in the wild, you must first read [Water hemlock vs water dropwort and wild carrot](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#43-毒芹-vs-水芹野胡萝卜).
+This group is used for colds with fever, headache and body aches, rheumatic pain and the like. **Apart from *Gegen* (pea family) and *Shengma* (buttercup family), all of them are carrot-family plants** — and the carrot family includes the deadly water hemlock and poison hemlock. Before digging any of these herbs in the wild, you must first read [Water hemlock vs water dropwort and wild carrot](09-toxic-herbs-and-poisonous-look-alikes.md#43-duqin-water-hemlock-vs-shuiqin-water-dropwort-and-yehuluobo-wild-carrot).
 
 ### 4.1 Gegen (kudzu root)
 
@@ -452,7 +452,7 @@ This group is used for colds with fever, headache and body aches, rheumatic pain
   - Plant: **A stout twining vine**, reaching 10 m or more, **the whole plant densely covered in long, stiff yellowish-brown hairs**; **leaves with three leaflets (trifoliate)**, the end leaflet broadly ovate or diamond-ovate, sometimes shallowly 3-lobed; racemes of pea-like flowers, **purplish-red** and fragrant; pods flat, densely covered in long stiff yellow hairs
   - Crude drug: Rectangular thick slices cut lengthwise, or small cubes; outer bark pale brown to brown, rough, with lengthwise wrinkles
   - Cross-section: Cut surface yellowish-white to pale yellowish-brown, some with concentric rings; **tough and strongly fibrous**; faint smell, taste slightly sweet
-- **Look-alikes**: The kudzu plant is easy to recognise, but do not confuse it with other toxic pea-family vines — for example rosary pea, whose seeds are deadly (even-pinnate compound leaves, seeds red and black; see [Rosary pea](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#414-相思子)); hold on to "three leaflets + yellow hairs all over + purplish-red flowers"
+- **Look-alikes**: The kudzu plant is easy to recognise, but do not confuse it with other toxic pea-family vines — for example rosary pea, whose seeds are deadly (even-pinnate compound leaves, seeds red and black; see [Rosary pea](09-toxic-herbs-and-poisonous-look-alikes.md#414-xiangsizi-rosary-pea)); hold on to "three leaflets + yellow hairs all over + purplish-red flowers"
 - **Harvest and processing**: Dig in autumn and winter, cut into thick slices or small pieces while fresh, and dry (large roots are extremely hard to cut once dry)
 - **Storage**: Contains starch, so it is **easily attacked by insects and mould**; seal once fully dry
 - **Actions**: Releases the muscles and brings down fever, generates fluids and quenches thirst, vents rashes, raises yang and stops diarrhoea, unblocks the channels and collaterals, relieves alcohol intoxication
@@ -707,11 +707,11 @@ Before digging a root medicine, confirm each point:
 
 ## Related chapters
 
-- ⏮️ [Chinese Medicinal Herbs: General Principles](../../../docs/10-中药材识别与采集/00-总论.md) - general methods for identification, harvesting, processing, storage, safety and the law
-- ⏭️ [Roots and Rhizomes (2)](../../../docs/10-中药材识别与采集/02-根及根茎类下.md) - *Zhimu*, *Maidong*, *Dahuang*, *Beimu*, *Yanhusuo* and the other root and rhizome medicines (Chapter 02)
-- 🔗 [Toxic Herbs and Poisonous Look-alikes](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md) - identifying pokeweed, *Gynura*, water hemlock, aconite and others, and the signs of poisoning
-- 🔗 [Guide to Identifying and Growing Medicinal Plants](../../../docs/04-动植物培育/04-药用植物.md) - growing *Huangqi*, *Gancao*, *Danshen* and others, and the home herb garden
-- 🔗 [Traditional Chinese Medicine Preparations](../../../docs/06-制药技术/04-中药制剂.md) - processing (prepared *Dihuang*, prepared *Heshouwu* and others), decoction and safe use
+- ⏮️ [Chinese Medicinal Herbs: General Principles](00-general-principles.md) - general methods for identification, harvesting, processing, storage, safety and the law
+- ⏭️ [Roots and Rhizomes (2)](02-roots-and-rhizomes-2.md) - *Zhimu*, *Maidong*, *Dahuang*, *Beimu*, *Yanhusuo* and the other root and rhizome medicines (Chapter 02)
+- 🔗 [Toxic Herbs and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - identifying pokeweed, *Gynura*, water hemlock, aconite and others, and the signs of poisoning
+- 🔗 [Guide to Identifying and Growing Medicinal Plants](../04-farming-and-animal-husbandry/04-medicinal-plants.md) - growing *Huangqi*, *Gancao*, *Danshen* and others, and the home herb garden
+- 🔗 [Traditional Chinese Medicine Preparations](../06-pharmaceuticals/04-herbal-preparations.md) - processing (prepared *Dihuang*, prepared *Heshouwu* and others), decoction and safe use
 
 ---
 

@@ -2,7 +2,7 @@
 
 > **Animal and mineral medicines are the two groups of Chinese medicines most likely to "go wrong": one involves protected animals and illegal trade, the other involves heavy metals such as mercury, arsenic and lead. Before you learn to recognise them, be clear which ones can be used and which ones should never be touched at all**
 
-This chapter covers 18 common animal medicines, 7 protected-animal medicines and 9 mineral medicines. The animal medicines are divided by source into gelatins, horns and shells (*Lurong*, *Ejiao*, *Guijia*, *Biejia*, *Muli*, *Zhenzhu*, *Shijueming*, *Haipiaoxiao*) and insects, worms and others (*Chantui*, *Jiangcan*, *Dilong*, *Quanxie*, *Wugong*, *Tubiechong*, *Shuizhi*, honey, *Fengfang*, *Jineijin*). For the protected animals (pangolin, rhinoceros horn, tiger bone, natural musk, bear bile, saiga antelope horn, hawksbill shell) **only the legal bans and legal substitutes are given**. The mineral medicines are *Shigao*, *Huashi*, *Mangxiao*, *Longgu*, *Cishi*, *Zheshi*, *Luganshi*, *Baifan* and *Pengsha*; toxic mineral medicines such as cinnabar and realgar are only named, see [Toxic Herbs and Poisonous Look-alikes](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md). General methods for identification, harvesting, drying and storage are in the [General Principles](./00-general-principles.md) and are not repeated here.
+This chapter covers 18 common animal medicines, 7 protected-animal medicines and 9 mineral medicines. The animal medicines are divided by source into gelatins, horns and shells (*Lurong*, *Ejiao*, *Guijia*, *Biejia*, *Muli*, *Zhenzhu*, *Shijueming*, *Haipiaoxiao*) and insects, worms and others (*Chantui*, *Jiangcan*, *Dilong*, *Quanxie*, *Wugong*, *Tubiechong*, *Shuizhi*, honey, *Fengfang*, *Jineijin*). For the protected animals (pangolin, rhinoceros horn, tiger bone, natural musk, bear bile, saiga antelope horn, hawksbill shell) **only the legal bans and legal substitutes are given**. The mineral medicines are *Shigao*, *Huashi*, *Mangxiao*, *Longgu*, *Cishi*, *Zheshi*, *Luganshi*, *Baifan* and *Pengsha*; toxic mineral medicines such as cinnabar and realgar are only named, see [Toxic Herbs and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md). General methods for identification, harvesting, drying and storage are in the [General Principles](./00-general-principles.md) and are not repeated here.
 
 ## ⚠️ Read these first
 
@@ -96,7 +96,7 @@ The "Toxicity/protection" column gives toxicity noted in the Pharmacopoeia, this
 
 The medicines in this group come from deer antlers, donkey hide, the shells of turtles and softshell turtles, and seashells. What they have in common: **the raw materials come from farming or from fisheries, so ordinary people do not need to, and should not, go "looking" for them in the wild**. What you need to learn is how to tell whether a medicine you have bought is genuine, and which animals are protected.
 
-Shells are hard, so in a decoction most of them are **decocted first** (boiled for about half an hour before the other herbs go in). For calcining, see [TCM preparations – calcining](../../../docs/06-制药技术/04-中药制剂.md#煅制). Their main components are calcium carbonate, keratin and collagen, and they are mild in nature, but they **cannot replace calcium supplements or the treatment of osteoporosis**.
+Shells are hard, so in a decoction most of them are **decocted first** (boiled for about half an hour before the other herbs go in). For calcining, see [TCM preparations – calcining](../06-pharmaceuticals/04-herbal-preparations.md#calcining). Their main components are calcium carbonate, keratin and collagen, and they are mild in nature, but they **cannot replace calcium supplements or the treatment of osteoporosis**.
 
 ### 1.1 Lurong (deer antler velvet)
 
@@ -119,7 +119,7 @@ Shells are hard, so in a decoction most of them are **decocted first** (boiled f
 
 - **Ejiao (Lüpijiao, Fuzhijiao)**: Chinese 阿胶; *Equus asinus* L.
 - **Source**: A solid gelatin made by boiling and concentrating the dried or fresh hide of the donkey *Equus asinus* L. (Equidae, horse family)
-- **Distribution and habitat**: The traditional place of production is Dong'e in Shandong; the donkey is a domestic animal — for keeping donkeys see [Livestock farming – keeping donkeys, horses and mules](../../../docs/04-动植物培育/06-家畜养殖.md#驴马骡的饲养要点)
+- **Distribution and habitat**: The traditional place of production is Dong'e in Shandong; the donkey is a domestic animal — for keeping donkeys see [Livestock farming – keeping donkeys, horses and mules](../04-farming-and-animal-husbandry/06-livestock.md#keeping-donkeys-horses-and-mules-key-points)
 - **Key identification features**:
   - Crude drug: **rectangular blocks, square blocks or small cubes**; brown to blackish-brown, glossy
   - Texture: **hard and brittle**, the broken surface shiny; **a fragment held up to the light is brown and translucent**
@@ -129,7 +129,7 @@ Shells are hard, so in a decoction most of them are **decocted first** (boiled f
 - **Storage**: Keep closed in a cool, dry place; **it does not tolerate damp or heat**: damp makes it soft and mouldy, too dry and it cracks
 - **Actions**: Tonifies blood and nourishes yin, moistens dryness, stops bleeding
 - **Dose**: 3-9 g, **melted and added** (dissolved in boiling water or yellow rice wine and stirred into the decoction, not boiled with the other herbs) (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: It is rich and cloying, and not suitable for people with **indigestion, bloating, loose stools or a thick, greasy tongue coating** (experience). **Anaemia needs its cause found first** — iron-deficiency anaemia needs iron, blood loss needs the bleeding stopped; *Ejiao* cannot replace tests and treatment, see [Nutrition and nutritional deficiency diseases](../../../docs/07-日常生活技能/02-营养与营养缺乏病.md)
+- **Contraindications**: It is rich and cloying, and not suitable for people with **indigestion, bloating, loose stools or a thick, greasy tongue coating** (experience). **Anaemia needs its cause found first** — iron-deficiency anaemia needs iron, blood loss needs the bleeding stopped; *Ejiao* cannot replace tests and treatment, see [Nutrition and nutritional deficiency diseases](../07-everyday-living-skills/02-nutrition-and-deficiency-diseases.md)
 
 ### 1.3 Guijia (tortoise shell)
 
@@ -176,7 +176,7 @@ Shells are hard, so in a decoction most of them are **decocted first** (boiled f
   - Jinjiang oyster: round, ovate or triangular; the outside of the right valve is slightly uneven, grey, purple, brown, yellow and other colours, with rings of concentric scales
   - Hard; broken surface layered and pure white; faint smell, taste slightly salty
 - **Look-alikes**: Other shells mixed in, usually not poisonous; **shells with mud, sand, seaweed or remaining flesh on them must be washed clean**
-- **Harvest and processing**: All year round; **remove the flesh, wash and sun-dry**. Oyster shells left over from your own meals can simply be scrubbed clean and sun-dried for use as raw material; for calcining see [TCM preparations – calcining](../../../docs/06-制药技术/04-中药制剂.md#煅制)
+- **Harvest and processing**: All year round; **remove the flesh, wash and sun-dry**. Oyster shells left over from your own meals can simply be scrubbed clean and sun-dried for use as raw material; for calcining see [TCM preparations – calcining](../06-pharmaceuticals/04-herbal-preparations.md#calcining)
 - **Storage**: Keep in a dry place
 - **Actions**: Heavily settles and calms the mind, subdues yang and tonifies yin, softens hardness and dissipates lumps; calcined *Muli* astringes and secures, controls acid and relieves pain
 - **Dose**: 9-30 g, **decocted first** (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
@@ -228,13 +228,13 @@ Shells are hard, so in a decoction most of them are **decocted first** (boiled f
 - **Storage**: Keep in a dry place; protect from damp
 - **Actions**: Astringes and stops bleeding, secures essence and stops vaginal discharge, controls acid and relieves pain, absorbs damp and heals sores
 - **Dose**: 5-10 g; an appropriate amount for external use, ground to powder and applied to the affected area (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: Astringent in nature; constipated people should not use much (experience). **For stopping bleeding externally it is only suitable for small wounds that are oozing**; for large wounds or heavy bleeding, first apply direct pressure as described in [Wounds and injuries](../../../docs/01-日常疾病和伤害/02-外伤处理.md), and do not sprinkle medicine powder into deep wounds
+- **Contraindications**: Astringent in nature; constipated people should not use much (experience). **For stopping bleeding externally it is only suitable for small wounds that are oozing**; for large wounds or heavy bleeding, first apply direct pressure as described in [Wounds and injuries](../01-first-aid-and-family-health/02-wounds-and-injuries.md), and do not sprinkle medicine powder into deep wounds
 
 ## 2. Insects, worms and others
 
 Half of the insect and worm medicines are things you can collect yourself: *Chantui* is picked up from tree trunks, *Jineijin* is peeled off when a chicken is killed, and *Dilong* is simply the earthworm. The other half — *Quanxie*, *Wugong*, *Tubiechong* and *Shuizhi* — are blood-breaking and wind-calming medicines marked "toxic" or "slightly toxic" in the Pharmacopoeia, **forbidden in pregnancy**. What is on sale comes mainly from captive breeding and specialist buyers. This book **does not describe catching them or processing to remove their toxicity**; it only says how to recognise them and why they are dangerous.
 
-*Banmao* (blister beetle) and *Chansu* (toad venom) are extremely toxic animal medicines on the state-controlled list of 28 toxic Chinese medicines; see [Toxic herbs – Banmao](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#220-斑蝥) and [Toxic herbs – Chansu](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#221-蟾酥).
+*Banmao* (blister beetle) and *Chansu* (toad venom) are extremely toxic animal medicines on the state-controlled list of 28 toxic Chinese medicines; see [Toxic herbs – Banmao](09-toxic-herbs-and-poisonous-look-alikes.md#220-banmao-blister-beetle) and [Toxic herbs – Chansu](09-toxic-herbs-and-poisonous-look-alikes.md#221-chansu-toad-venom).
 
 ```
 Common reminders for insect and worm medicines:
@@ -262,7 +262,7 @@ Common reminders for insect and worm medicines:
 - **Storage**: Keep in a dry place; **do not crush** (very easily crushed)
 - **Actions**: Disperses wind-heat, soothes the throat, vents rashes, brightens the eyes and clears corneal opacity, relieves spasms
 - **Dose**: 3-6 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: Caution in pregnancy (traditional experience). **A child with fever, a rash or convulsions must see a doctor first** — it may be measles, meningitis or the like; see [Common illnesses](../../../docs/01-日常疾病和伤害/01-常见疾病.md)
+- **Contraindications**: Caution in pregnancy (traditional experience). **A child with fever, a rash or convulsions must see a doctor first** — it may be measles, meningitis or the like; see [Common illnesses](../01-first-aid-and-family-health/01-common-illnesses.md)
 
 ### 2.2 Jiangcan (stiff silkworm)
 
@@ -313,7 +313,7 @@ Common reminders for insect and worm medicines:
 - **Toxicity**: Marked "**toxic**" in the Pharmacopoeia. Scorpion venom is mainly a neurotoxin; too large a dose can cause headache, dizziness, raised blood pressure, palpitations and restlessness, and in severe cases difficulty breathing; it can also cause allergic rashes (experience)
 - **Actions**: Calms wind and stops spasms, unblocks the channels and relieves pain, attacks toxins and dissipates lumps
 - **Dose**: 3-6 g (Chinese Pharmacopoeia, 2020 edition); **use only under the guidance of a TCM practitioner**; do not increase the dose yourself, and do not eat "fried scorpions" or drink "scorpion liquor" in large amounts
-- **Contraindications**: **Forbidden in pregnancy**; caution in children, weak people and people with blood deficiency (experience). For stings by live scorpions see [Wounds and injuries – insect bites and stings](../../../docs/01-日常疾病和伤害/02-外伤处理.md#昆虫叮咬)
+- **Contraindications**: **Forbidden in pregnancy**; caution in children, weak people and people with blood deficiency (experience). For stings by live scorpions see [Wounds and injuries – insect bites and stings](../01-first-aid-and-family-health/02-wounds-and-injuries.md#insect-bites-and-stings)
 
 ### 2.5 Wugong (centipede)
 
@@ -349,7 +349,7 @@ Common reminders for insect and worm medicines:
 - **Toxicity**: Marked "**slightly toxic**" in the Pharmacopoeia
 - **Actions**: Breaks up blood and expels stasis, joins sinews and bones
 - **Dose**: 3-10 g (Chinese Pharmacopoeia, 2020 edition; use only under the guidance of a TCM practitioner)
-- **Contraindications**: **Forbidden in pregnancy**; not for people with heavy periods, a bleeding tendency, or who are taking anticoagulant or antiplatelet drugs (experience). **A fracture must first be immobilised and seen by a doctor**, see [Wounds and injuries](../../../docs/01-日常疾病和伤害/02-外伤处理.md); do not rely only on "bone-joining medicines"
+- **Contraindications**: **Forbidden in pregnancy**; not for people with heavy periods, a bleeding tendency, or who are taking anticoagulant or antiplatelet drugs (experience). **A fracture must first be immobilised and seen by a doctor**, see [Wounds and injuries](../01-first-aid-and-family-health/02-wounds-and-injuries.md); do not rely only on "bone-joining medicines"
 
 ### 2.7 Shuizhi (leech)
 
@@ -368,7 +368,7 @@ Common reminders for insect and worm medicines:
 - **Toxicity**: Marked "**slightly toxic**" in the Pharmacopoeia. Hirudin has a very strong **anticoagulant effect**, and an overdose can cause bleeding (from the gums, under the skin, from the digestive tract)
 - **Actions**: Breaks up blood and unblocks menstruation, expels stasis and dissolves masses
 - **Dose**: 1-3 g (Chinese Pharmacopoeia, 2020 edition; use only under the guidance of a TCM practitioner)
-- **Contraindications**: **Forbidden in pregnancy**; not for use during menstruation, or by people with bleeding disorders or recent surgery or injury; **people taking anticoagulant or antiplatelet drugs such as warfarin, aspirin or clopidogrel must not use it at the same time** (the bleeding risks add up, see [General principles – taking herbs with Western medicines](./00-general-principles.md#75-taking-herbs-with-western-medicines)). For bites by live leeches in the wild see [Wasps, ticks and dangerous animals – land leeches](../../../docs/03-野外生存/10-马蜂蜱虫与危险动物.md#旱蚂蟥)
+- **Contraindications**: **Forbidden in pregnancy**; not for use during menstruation, or by people with bleeding disorders or recent surgery or injury; **people taking anticoagulant or antiplatelet drugs such as warfarin, aspirin or clopidogrel must not use it at the same time** (the bleeding risks add up, see [General principles – taking herbs with Western medicines](./00-general-principles.md#75-taking-herbs-with-western-medicines)). For bites by live leeches in the wild see [Wasps, ticks and dangerous animals – land leeches](../03-wilderness-survival/10-wasps-ticks-and-dangerous-animals.md#land-leeches)
 
 ### 2.8 Fengmi (honey)
 
@@ -383,8 +383,8 @@ Common reminders for insect and worm medicines:
 - **⚠️ Poisonous honey**: If bees gather nectar from poisonous plants, the honey they make can poison people. Known poisonous nectar sources include **Leigongteng (thunder god vine), Kunming Shanhaitang, Gouwen (gelsemium, "heartbreak grass"), Boluohui (plume poppy), rhododendrons such as Naoyanghua (*Rhododendron molle*), Lilu (Veratrum) and Wutou (aconite)**.
   - The highest risk is from **wild bee nests in the mountains, "local honey" of unknown origin, and apiaries with large stands of poisonous plants nearby in the flowering season**
   - Signs of poisoning: from tens of minutes to a few hours after eating, numbness of the mouth and tongue, dizziness, nausea and vomiting, abdominal pain and diarrhoea, palpitations; in severe cases a fall in blood pressure, heart rhythm problems, shock and even death (honey from thunder god vine can cause kidney failure)
-  - **Do not eat honey that tastes bitter, astringent or numbing**; if the symptoms above appear after eating honey, see a doctor at once and take the remaining honey with you. For identifying these poisonous plants see [Toxic Herbs and Poisonous Look-alikes](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md)
-- **⚠️ Babies under one year old must not eat honey**: honey may contain spores of *Clostridium botulinum*. A baby's gut flora is not yet established, so the spores can multiply in the gut and produce toxin, causing **infant botulism** (constipation, weak feeding, a weak cry, a floppy body, difficulty breathing). Boiling does not reliably kill the spores. See [The newborn's first days – feeding](../../../docs/01-日常疾病和伤害/11-紧急分娩与新生儿护理.md#喂养) and [Botulism](../../../docs/07-日常生活技能/01-食物加工与保存.md#肉毒中毒)
+  - **Do not eat honey that tastes bitter, astringent or numbing**; if the symptoms above appear after eating honey, see a doctor at once and take the remaining honey with you. For identifying these poisonous plants see [Toxic Herbs and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md)
+- **⚠️ Babies under one year old must not eat honey**: honey may contain spores of *Clostridium botulinum*. A baby's gut flora is not yet established, so the spores can multiply in the gut and produce toxin, causing **infant botulism** (constipation, weak feeding, a weak cry, a floppy body, difficulty breathing). Boiling does not reliably kill the spores. See [The newborn's first days – feeding](../01-first-aid-and-family-health/11-emergency-childbirth-and-newborn-care.md#feeding) and [Botulism](../07-everyday-living-skills/01-food-processing-and-preservation.md#botulism)
 - **Harvest and processing**: From spring to autumn the beekeeper extracts the honey from the hives and **filters** it. Do not poke wild bee nests to get honey — besides the danger of stings, the nectar sources of wild nests cannot be controlled
 - **Storage**: **Seal** and keep in a cool place; honey absorbs moisture, and if left open for a long time it absorbs water, ferments, turns sour and bubbles — do not eat fermented honey; do not store it long term in metal containers
 - **Actions**: Tonifies the middle, moistens dryness, relieves pain, removes toxins; used externally, promotes healing of flesh and sores
@@ -402,7 +402,7 @@ Common reminders for insect and worm medicines:
   - Light, **tough and slightly springy**; faint smell, taste pungent and bland
   - The Pharmacopoeia specifies: **nests that are crumbly or hard must not be used as medicine**
 - **Look-alikes**: The comb of honeybees (made of beeswax, which burns and smells of wax) is not *Fengfang*
-- **⚠️ Harvest**: The Pharmacopoeia specifies collecting in autumn and winter, sun-drying, or steaming briefly, removing dead wasps and pupae, and sun-drying. **Wasp (paper wasp, hornet) stings can kill**: people attacked by a swarm can die of anaphylactic shock or of haemolysis and acute kidney failure caused by the venom. Only collect abandoned nests **in deep winter, when the colony has left the nest and you have made sure there are no live wasps inside**; **do not poke a nest that has wasps in it**. For what to do after a sting see [Wasps, ticks and dangerous animals – wasps (hornets)](../../../docs/03-野外生存/10-马蜂蜱虫与危险动物.md#马蜂胡蜂)
+- **⚠️ Harvest**: The Pharmacopoeia specifies collecting in autumn and winter, sun-drying, or steaming briefly, removing dead wasps and pupae, and sun-drying. **Wasp (paper wasp, hornet) stings can kill**: people attacked by a swarm can die of anaphylactic shock or of haemolysis and acute kidney failure caused by the venom. Only collect abandoned nests **in deep winter, when the colony has left the nest and you have made sure there are no live wasps inside**; **do not poke a nest that has wasps in it**. For what to do after a sting see [Wasps, ticks and dangerous animals – wasps (hornets)](../03-wilderness-survival/10-wasps-ticks-and-dangerous-animals.md#wasps-hornets)
 - **Storage**: Keep in a ventilated, dry place; **do not crush; protect from insects**
 - **Actions**: Attacks toxins and kills parasites, dispels wind and relieves pain
 - **Dose**: 3-5 g; an appropriate amount for external use, ground to powder and mixed with oil to apply to the affected area, or boiled in water as a mouthwash or to wash the affected area (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
@@ -412,7 +412,7 @@ Common reminders for insect and worm medicines:
 
 - **Jineijin (Jizhunpi, Jihuangpi)**: Chinese 鸡内金; *Gallus gallus domesticus* Brisson
 - **Source**: The dried inner lining of the gizzard of the domestic chicken *Gallus gallus domesticus* Brisson (Phasianidae, pheasant family)
-- **Distribution and habitat**: Any household that keeps chickens can get it; for keeping chickens see [Poultry farming – raising chickens](../../../docs/04-动植物培育/05-家禽养殖.md#鸡的养殖)
+- **Distribution and habitat**: Any household that keeps chickens can get it; for keeping chickens see [Poultry farming – raising chickens](../04-farming-and-animal-husbandry/05-poultry.md#chickens)
 - **Key identification features**:
   - **Irregular curled pieces**, about 2 mm thick
   - **Surface yellow, yellowish-green or yellowish-brown, thin and translucent, with clear striped wrinkles**
@@ -543,12 +543,12 @@ Common reminders for mineral medicines:
 - **Look-alikes**:
   - **Calcite** (calcium carbonate): rhombic cleavage, harder, a fingernail cannot scratch it, fizzes with a drop of vinegar or dilute hydrochloric acid; gypsum does not fizz
   - **Anhydrite** (anhydrous calcium sulphate): harder, without the fibrous silky lustre
-  - **Building plaster powder and moulding plaster**: already calcined and often with additives; they cannot replace medicinal raw or calcined gypsum. For gypsum in building see [Lime and building materials – gypsum](../../../docs/07-日常生活技能/16-石灰与建筑材料.md#石膏)
+  - **Building plaster powder and moulding plaster**: already calcined and often with additives; they cannot replace medicinal raw or calcined gypsum. For gypsum in building see [Lime and building materials – gypsum](../07-everyday-living-skills/16-lime-and-building-materials.md#gypsum)
 - **Harvest and processing**: After mining, remove other stones, mud and sand
 - **Storage**: Keep in a dry place
 - **Actions**: Raw *Shigao* clears heat and drains fire, relieves restlessness and thirst; calcined *Shigao*, used externally, absorbs damp, promotes healing of flesh, heals sores and stops bleeding
 - **Dose**: Raw *Shigao* 15-60 g, **decocted first**; calcined *Shigao* an appropriate amount for external use, ground to powder and sprinkled on the affected area (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: A very cold medicine: not suitable for people with **a cold, deficient spleen and stomach, poor appetite and loose stools, or without excess heat** (experience). For a high fever that will not come down, see a doctor first to find the cause, see [Common illnesses](../../../docs/01-日常疾病和伤害/01-常见疾病.md)
+- **Contraindications**: A very cold medicine: not suitable for people with **a cold, deficient spleen and stomach, poor appetite and loose stools, or without excess heat** (experience). For a high fever that will not come down, see a doctor first to find the cause, see [Common illnesses](../01-first-aid-and-family-health/01-common-illnesses.md)
 
 ### 4.2 Huashi (talc)
 
@@ -587,7 +587,7 @@ Common reminders for mineral medicines:
 - **Storage**: **Keep closed, below 30°C**, and protect from weathering (once it has weathered and lost water, the dose is no longer accurate)
 - **Actions**: Purges and relieves constipation, moistens dryness and softens hardness, clears fire and reduces swelling
 - **Dose**: 6-12 g, **generally not decocted**: dissolve it in the finished decoction and take; an appropriate amount for external use (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Contraindications**: **Caution in pregnancy**; **should not be used together with *Liuhuang* (sulphur) or *Sanleng* (bur-reed rhizome)** (Pharmacopoeia); caution in weak people, the elderly and people with a cold, deficient spleen and stomach (experience). **Do not use laxatives for abdominal pain of unknown cause** — in appendicitis or bowel obstruction a laxative can cause perforation, see [Acute symptoms](../../../docs/01-日常疾病和伤害/05-急性症状.md)
+- **Contraindications**: **Caution in pregnancy**; **should not be used together with *Liuhuang* (sulphur) or *Sanleng* (bur-reed rhizome)** (Pharmacopoeia); caution in weak people, the elderly and people with a cold, deficient spleen and stomach (experience). **Do not use laxatives for abdominal pain of unknown cause** — in appendicitis or bowel obstruction a laxative can cause perforation, see [Acute symptoms](../01-first-aid-and-family-health/05-acute-symptoms.md)
 
 ### 4.4 Longgu (dragon bone)
 
@@ -658,7 +658,7 @@ Common reminders for mineral medicines:
 - **Storage**: Keep in a dry place
 - **Actions**: Removes toxins, brightens the eyes and clears corneal opacity, absorbs damp, relieves itching and heals sores
 - **Dose**: **External use only**, an appropriate amount (Chinese Pharmacopoeia, 2020 edition); not taken by mouth
-- **Contraindications**: Not for large areas of broken, weeping skin; **keep out of the eyes** (eye conditions are treated by a doctor). The common **calamine lotion** is a Western topical anti-itch medicine that can be used for insect bites and itchy eczema, see [Wounds and injuries – insect bites and stings](../../../docs/01-日常疾病和伤害/02-外伤处理.md#昆虫叮咬)
+- **Contraindications**: Not for large areas of broken, weeping skin; **keep out of the eyes** (eye conditions are treated by a doctor). The common **calamine lotion** is a Western topical anti-itch medicine that can be used for insect bites and itchy eczema, see [Wounds and injuries – insect bites and stings](../01-first-aid-and-family-health/02-wounds-and-injuries.md#insect-bites-and-stings)
 
 ### 4.8 Baifan (alum)
 
@@ -671,7 +671,7 @@ Common reminders for mineral medicines:
   - Hard and brittle
   - Faint smell, **taste sour, slightly sweet and extremely astringent** (one lick makes the tongue feel tight)
 - **Look-alikes**: *Mangxiao* (tastes salty), borax (tastes sweet then slightly salty, alkaline), table salt; label them all and keep them apart
-- **Harvest and processing**: Processed in factories; this book does not describe the refining method. For using alum to clear water see [Water supply – multi-stage treatment](../../../docs/07-日常生活技能/10-水源工程与供水.md#多级处理)
+- **Harvest and processing**: Processed in factories; this book does not describe the refining method. For using alum to clear water see [Water supply – multi-stage treatment](../07-everyday-living-skills/10-water-supply.md#multi-stage-treatment)
 - **Storage**: Keep in a dry place
 - **Actions**: Used externally, removes toxins and kills parasites, dries damp and relieves itching; taken by mouth, stops bleeding and diarrhoea and expels wind-phlegm; *Kufan* absorbs damp and heals sores, stops bleeding and removes rotten tissue
 - **Dose**: 0.6-1.5 g; an appropriate amount for external use, ground to powder and applied, or dissolved in water to wash the affected area (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
@@ -692,15 +692,15 @@ Common reminders for mineral medicines:
 
 ## 5. Toxic mineral medicines (names only)
 
-The mineral medicines below contain heavy metals such as mercury, arsenic and lead. **This book gives only their names and where the danger lies, not how to use them or doses.** Their identification and signs of poisoning are in Chapter 09. Most of them are on the state-controlled list of 28 toxic Chinese medicines; see [List of the 28 toxic Chinese medicines](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#11-28种毒性中药名单).
+The mineral medicines below contain heavy metals such as mercury, arsenic and lead. **This book gives only their names and where the danger lies, not how to use them or doses.** Their identification and signs of poisoning are in Chapter 09. Most of them are on the state-controlled list of 28 toxic Chinese medicines; see [List of the 28 toxic Chinese medicines](09-toxic-herbs-and-poisonous-look-alikes.md#11-the-list-of-28-toxic-chinese-medicines).
 
 | Medicine | Main toxic component | Greatest danger | Details |
 |------|------------|----------|------|
-| Cinnabar (*Zhusha*) | Mercuric sulphide | Releases mercury vapour when heated; long-term use builds up mercury and damages the kidneys; "mind-calming" folk remedies, baby ornaments | [Cinnabar](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#224-朱砂) |
-| Realgar (*Xionghuang*) | Arsenic sulphide | Turns into white arsenic (arsenic trioxide) when heated; "realgar wine" | [Realgar](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#223-雄黄) |
-| Arsenolite, white arsenic (*Pishi*, *Pishuang*) | Arsenic trioxide | A tiny amount kills; looks like flour or white sugar | [Arsenolite and white arsenic](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#222-砒石与砒霜) |
-| Calomel (*Qingfen*), red mercuric oxide (*Hongfen*), *Baijiangdan*, mercury | Mercury compounds, metallic mercury | Corrosive, acute kidney failure; absorbed even when applied to broken skin | [Calomel, Hongfen and mercury](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#225-轻粉红粉与水银) |
-| Red lead (*Qiandan*), litharge (*Mituoseng*) | Lead oxides | Lead builds up; long-term damage to children's intelligence | [Red lead](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#226-铅丹) |
+| Cinnabar (*Zhusha*) | Mercuric sulphide | Releases mercury vapour when heated; long-term use builds up mercury and damages the kidneys; "mind-calming" folk remedies, baby ornaments | [Cinnabar](09-toxic-herbs-and-poisonous-look-alikes.md#224-zhusha-cinnabar) |
+| Realgar (*Xionghuang*) | Arsenic sulphide | Turns into white arsenic (arsenic trioxide) when heated; "realgar wine" | [Realgar](09-toxic-herbs-and-poisonous-look-alikes.md#223-xionghuang-realgar) |
+| Arsenolite, white arsenic (*Pishi*, *Pishuang*) | Arsenic trioxide | A tiny amount kills; looks like flour or white sugar | [Arsenolite and white arsenic](09-toxic-herbs-and-poisonous-look-alikes.md#222-pishi-and-pishuang-arsenolite-and-white-arsenic) |
+| Calomel (*Qingfen*), red mercuric oxide (*Hongfen*), *Baijiangdan*, mercury | Mercury compounds, metallic mercury | Corrosive, acute kidney failure; absorbed even when applied to broken skin | [Calomel, Hongfen and mercury](09-toxic-herbs-and-poisonous-look-alikes.md#225-qingfen-hongfen-and-shuiyin-calomel-red-mercuric-oxide-and-mercury) |
+| Red lead (*Qiandan*), litharge (*Mituoseng*) | Lead oxides | Lead builds up; long-term damage to children's intelligence | [Red lead](09-toxic-herbs-and-poisonous-look-alikes.md#226-qiandan-red-lead) |
 
 ```
 ❌ Do not take by mouth any mineral medicine or "ancestral elixir pill"
@@ -797,17 +797,17 @@ In addition, **Liuhuang** (sulphur; marked "toxic" in the Pharmacopoeia, mainly 
 
 ## Related chapters
 
-- ⏮️ [Fungi, Algae, Resins and Others](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md) - *Fuling* (poria), *Lingzhi* (reishi), *Dongchongxiacao* (cordyceps), frankincense, borneol and other fungi, algae, resins and processed products
-- ⏭️ [Toxic Herbs and Poisonous Look-alikes](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md) - cinnabar, realgar, arsenolite, red lead, *Banmao*, *Chansu* and other toxic Chinese medicines, and poisonous nectar plants
+- ⏮️ [Fungi, Algae, Resins and Others](07-fungi-algae-resins-and-others.md) - *Fuling* (poria), *Lingzhi* (reishi), *Dongchongxiacao* (cordyceps), frankincense, borneol and other fungi, algae, resins and processed products
+- ⏭️ [Toxic Herbs and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - cinnabar, realgar, arsenolite, red lead, *Banmao*, *Chansu* and other toxic Chinese medicines, and poisonous nectar plants
 - 🔗 [General Principles of Identifying and Collecting Chinese Medicinal Herbs](./00-general-principles.md) - general methods for identification, harvesting, processing and storage
 - 🔗 [General principles – Wildlife Protection Law](./00-general-principles.md#83-wildlife-protection-law) - the law on protected animals and their products
 - 🔗 [General principles – taking herbs with Western medicines](./00-general-principles.md#75-taking-herbs-with-western-medicines) - interactions between blood-breaking medicines such as *Shuizhi* and anticoagulants
-- 🔗 [Traditional Chinese Medicine Preparations](../../../docs/06-制药技术/04-中药制剂.md) - processing methods such as calcining, decoction and safe use
-- 🔗 [Poultry Farming](../../../docs/04-动植物培育/05-家禽养殖.md) - keeping chickens (the source of *Jineijin*)
-- 🔗 [Livestock Farming](../../../docs/04-动植物培育/06-家畜养殖.md) - keeping donkeys (the raw material for *Ejiao*)
-- 🔗 [Wasps, Ticks and Dangerous Animals](../../../docs/03-野外生存/10-马蜂蜱虫与危险动物.md) - preventing and treating wasp stings and land leech bites
-- 🔗 [Food Processing and Preservation](../../../docs/07-日常生活技能/01-食物加工与保存.md#肉毒中毒) - botulism
-- 🔗 [Poisoning](../../../docs/01-日常疾病和伤害/12-中毒.md) - general principles for dealing with poisoning
+- 🔗 [Traditional Chinese Medicine Preparations](../06-pharmaceuticals/04-herbal-preparations.md) - processing methods such as calcining, decoction and safe use
+- 🔗 [Poultry Farming](../04-farming-and-animal-husbandry/05-poultry.md) - keeping chickens (the source of *Jineijin*)
+- 🔗 [Livestock Farming](../04-farming-and-animal-husbandry/06-livestock.md) - keeping donkeys (the raw material for *Ejiao*)
+- 🔗 [Wasps, Ticks and Dangerous Animals](../03-wilderness-survival/10-wasps-ticks-and-dangerous-animals.md) - preventing and treating wasp stings and land leech bites
+- 🔗 [Food Processing and Preservation](../07-everyday-living-skills/01-food-processing-and-preservation.md#botulism) - botulism
+- 🔗 [Poisoning](../01-first-aid-and-family-health/12-poisoning.md) - general principles for dealing with poisoning
 
 ---
 

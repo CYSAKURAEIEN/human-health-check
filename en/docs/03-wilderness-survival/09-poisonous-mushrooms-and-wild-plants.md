@@ -148,7 +148,7 @@ For general management of poisoning, see [Poisoning – General principles of ma
 
 Other poisonous plants that get mistaken include oleander and lacquer trees (wild sumac); see [Forest Survival – Plants](02-forest-survival.md#plants).
 
-For how to tell *Gouwen* from honeysuckle, water hemlock from water dropwort, pokeweed from ginseng and other easily confused poisonous plants, see [Toxic Chinese Medicinals and Easily Confused Poisonous Plants](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#四易混淆的有毒植物对照).
+For how to tell *Gouwen* from honeysuckle, water hemlock from water dropwort, pokeweed from ginseng and other easily confused poisonous plants, see [Toxic Chinese Medicinals and Easily Confused Poisonous Plants](../10-chinese-medicinal-herbs/09-toxic-herbs-and-poisonous-look-alikes.md#4-poisonous-plants-that-are-easily-confused).
 
 ---
 

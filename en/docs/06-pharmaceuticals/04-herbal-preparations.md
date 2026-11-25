@@ -247,7 +247,7 @@ Use:
    see the table of poisonous plants in the medicinal plants chapter
 ```
 
-See [Wound care – stopping bleeding](../01-first-aid-and-family-health/02-wounds-and-injuries.md#1-stop-the-bleeding), [Cleaning the wound](../01-first-aid-and-family-health/02-wounds-and-injuries.md#2-clean-the-wound) and [Poisonous plants (to avoid misuse)](../04-farming-and-animal-husbandry/04-medicinal-plants.md#poisonous-plants-do-not-misuse); for telling *Sanqi* from *Jusanqi* see [Jusanqi ("tusanqi") vs Sanqi](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#45-菊三七土三七-vs-三七).
+See [Wound care – stopping bleeding](../01-first-aid-and-family-health/02-wounds-and-injuries.md#1-stop-the-bleeding), [Cleaning the wound](../01-first-aid-and-family-health/02-wounds-and-injuries.md#2-clean-the-wound) and [Poisonous plants (to avoid misuse)](../04-farming-and-animal-husbandry/04-medicinal-plants.md#poisonous-plants-do-not-misuse); for telling *Sanqi* from *Jusanqi* see [Jusanqi ("tusanqi") vs Sanqi](../10-chinese-medicinal-herbs/09-toxic-herbs-and-poisonous-look-alikes.md#45-jusanqi-tusanqi-gynura-vs-sanqi-notoginseng).
 
 **Emergency use in the wild:**
 - *Aiye* (Artemisia argyi, Chinese mugwort leaf): crush and put on the wound to stop bleeding
@@ -657,7 +657,7 @@ For alcohol and methanol poisoning see [Poisoning – alcohol poisoning](../01-f
 
 Only brief features are listed here. For detailed identification comparisons, growing, harvesting and processing, and **the poisonous plants easily mistaken for them**, see [Medicinal plants: identification and growing guide](../04-farming-and-animal-husbandry/04-medicinal-plants.md) and its section [Poisonous plants (to avoid misuse)](../04-farming-and-animal-husbandry/04-medicinal-plants.md#poisonous-plants-do-not-misuse). **Do not pick or use any plant you cannot identify with 100% certainty.**
 
-For systematic herb identification, look-alikes and fakes, processing at the place of origin and Pharmacopoeia doses, see Part X, [Identifying and collecting Chinese medicinal herbs](../../../docs/10-中药材识别与采集/README.md). The herbs in this section correspond to: [Pugongying](../../../docs/10-中药材识别与采集/04-全草类.md#21-蒲公英), [Aiye](../../../docs/10-中药材识别与采集/05-花叶类.md#53-艾叶), [Cheqiancao](../../../docs/10-中药材识别与采集/04-全草类.md#32-车前草), [Jinyinhua](../../../docs/10-中药材识别与采集/05-花叶类.md#11-金银花), [Sangye](../../../docs/10-中药材识别与采集/05-花叶类.md#41-桑叶), [Juhua](../../../docs/10-中药材识别与采集/05-花叶类.md#12-菊花), [Shanzha](../../../docs/10-中药材识别与采集/03-果实种子类.md#35-山楂), [Shengjiang](../../../docs/10-中药材识别与采集/02-根及根茎类下.md#61-干姜与生姜), [Danggui](../../../docs/10-中药材识别与采集/01-根及根茎类上.md#21-当归).
+For systematic herb identification, look-alikes and fakes, processing at the place of origin and Pharmacopoeia doses, see Part X, [Identifying and collecting Chinese medicinal herbs](../10-chinese-medicinal-herbs/README.md). The herbs in this section correspond to: [Pugongying](../10-chinese-medicinal-herbs/04-whole-herbs.md#21-pugongying-dandelion), [Aiye](../10-chinese-medicinal-herbs/05-flowers-and-leaves.md#53-aiye-mugwort-leaf), [Cheqiancao](../10-chinese-medicinal-herbs/04-whole-herbs.md#32-cheqiancao-plantain), [Jinyinhua](../10-chinese-medicinal-herbs/05-flowers-and-leaves.md#11-jinyinhua-honeysuckle-flower), [Sangye](../10-chinese-medicinal-herbs/05-flowers-and-leaves.md#41-sangye-mulberry-leaf), [Juhua](../10-chinese-medicinal-herbs/05-flowers-and-leaves.md#12-juhua-chrysanthemum), [Shanzha](../10-chinese-medicinal-herbs/03-fruits-and-seeds.md#35-shanzha-hawthorn-fruit), [Shengjiang](../10-chinese-medicinal-herbs/02-roots-and-rhizomes-2.md#61-ganjiang-and-shengjiang-dried-and-fresh-ginger), [Danggui](../10-chinese-medicinal-herbs/01-roots-and-rhizomes-1.md#21-danggui-chinese-angelica-root).
 
 ### 4.1 Collecting in spring and summer
 
@@ -726,7 +726,7 @@ For systematic herb identification, look-alikes and fakes, processing at the pla
 - Sore, swollen throat
 - Boils
 
-**Use:** as a decoction or tea, 6-15 g (according to the Pharmacopoeia / a practitioner of Chinese medicine); take care to tell it apart from the poisonous *Gouwen* (Gelsemium elegans, heartbreak grass); see [Gouwen vs Jinyinhua](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#42-钩吻-vs-金银花)
+**Use:** as a decoction or tea, 6-15 g (according to the Pharmacopoeia / a practitioner of Chinese medicine); take care to tell it apart from the poisonous *Gouwen* (Gelsemium elegans, heartbreak grass); see [Gouwen vs Jinyinhua](../10-chinese-medicinal-herbs/09-toxic-herbs-and-poisonous-look-alikes.md#42-gouwen-heartbreak-grass-vs-jinyinhua-honeysuckle)
 
 ### 4.2 Collecting in autumn
 
@@ -1274,7 +1274,7 @@ For drying and storing food and for aflatoxin see [Food processing and preservat
 - ⏮️ [Basic pharmaceutical knowledge](00-pharmacy-basics.md) - principles of extraction and processing
 - ⏮️ [Making disinfectants](01-disinfectants.md) - use together
 - 🔗 [Farming and animal husbandry – medicinal plants](../04-farming-and-animal-husbandry/04-medicinal-plants.md) - growing medicinal herbs
-- 🔗 [Identifying and collecting Chinese medicinal herbs](../../../docs/10-中药材识别与采集/README.md) - how to recognise herbs, when to collect them, poisonous look-alikes
+- 🔗 [Identifying and collecting Chinese medicinal herbs](../10-chinese-medicinal-herbs/README.md) - how to recognise herbs, when to collect them, poisonous look-alikes
 - 🔗 [First Aid and Family Health](../01-first-aid-and-family-health/README.md) - situations where medicines are used
 - 🔗 [Poisoning](../01-first-aid-and-family-health/12-poisoning.md) - treating drug and plant poisoning
 - 🔗 [Chronic disease medication stockpile](../01-first-aid-and-family-health/08-chronic-medication-stockpile.md) - long-term medicines cannot be replaced by Chinese herbs
