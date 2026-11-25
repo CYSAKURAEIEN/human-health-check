@@ -524,10 +524,10 @@ Before using or buying the herbs in this chapter, confirm each point:
 - ⏭️ [Animal and Mineral Medicines](08-animal-and-mineral-medicines.md) - donkey-hide gelatin, oyster shell, cicada slough, gypsum, talc and other animal and mineral medicines, and the ban on protected animals
 - 🔗 [General Principles of Identifying and Collecting Chinese Medicinal Herbs](00-general-principles.md) - general methods for identification, harvesting, processing, storage, safety and the law
 - 🔗 [Toxic Herbs and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - identification and poisoning signs of toxic resins such as gamboge and poisonous plants such as cocklebur
-- 🔗 [Poisonous Mushrooms and Wild Plant Poisoning](../03-wilderness-survival/09-poisonous-mushrooms-and-wild-plants.md) - why you should not pick wild mushrooms, and what to do after eating the wrong thing
+- 🔗 [Poisonous Mushrooms and Wild Plants](../03-wilderness-survival/09-poisonous-mushrooms-and-wild-plants.md) - why you should not pick wild mushrooms, and what to do after eating the wrong thing
 - 🔗 [Nutrition and Deficiency Diseases](../07-everyday-living-skills/02-nutrition-and-deficiency-diseases.md) - iodine deficiency and iodine-rich foods such as kelp
 - 🔗 [Traditional Chinese Medicine Preparations](../06-pharmaceuticals/04-herbal-preparations.md) - processing, decoction, common formulas and safe use
-- 🔗 [Wounds and Injuries](../01-first-aid-and-family-health/02-wounds-and-injuries.md) - stopping bleeding, treating scalds (external use of aloe gel)
+- 🔗 [Wound and Injury Care](../01-first-aid-and-family-health/02-wounds-and-injuries.md) - stopping bleeding, treating scalds (external use of aloe gel)
 
 ---
 

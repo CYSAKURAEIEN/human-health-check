@@ -734,9 +734,9 @@ Before collecting whole herbs, confirm each point:
 - ⏭️ [Flowers and Leaves](05-flowers-and-leaves.md) - honeysuckle, chrysanthemum, mugwort leaf, mulberry leaf, perilla leaf and other flower and leaf herbs
 - 🔗 [General Principles of Identifying and Collecting Chinese Medicinal Herbs](00-general-principles.md) - general methods for identification, harvesting, processing, storage, safety and the law
 - 🔗 [Toxic Herbs and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - identification and poisoning signs of herbs containing aristolochic acid, water hemlock, datura and others
-- 🔗 [Medicinal Plants: Identification and Growing](../04-farming-and-animal-husbandry/04-medicinal-plants.md) - growing mint, dandelion, houttuynia, plantain, purslane, self-heal and motherwort, and the home herb garden
+- 🔗 [Medicinal Plants: Identification and Growing Guide](../04-farming-and-animal-husbandry/04-medicinal-plants.md) - growing mint, dandelion, houttuynia, plantain, purslane, self-heal and motherwort, and the home herb garden
 - 🔗 [Traditional Chinese Medicine Preparations](../06-pharmaceuticals/04-herbal-preparations.md) - processing, decoction, common formulas and safe use
-- 🔗 [Poisonous Mushrooms and Wild Plant Poisoning](../03-wilderness-survival/09-poisonous-mushrooms-and-wild-plants.md) - the risks of gathering wild vegetables and weeds, and what to do after eating the wrong thing
+- 🔗 [Poisonous Mushrooms and Wild Plants](../03-wilderness-survival/09-poisonous-mushrooms-and-wild-plants.md) - the risks of gathering wild vegetables and weeds, and what to do after eating the wrong thing
 
 ---
 

@@ -1024,12 +1024,12 @@ Before collecting a herb, confirm each point:
 
 ## Related chapters
 
-- ⏭️ [Toxic Chinese herbs and poisonous look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - first learn what to avoid
-- 🔗 [Medicinal plants: identification and growing guide](../04-farming-and-animal-husbandry/04-medicinal-plants.md) - growing medicinal plants and the home herb garden
-- 🔗 [Traditional Chinese medicine preparations](../06-pharmaceuticals/04-herbal-preparations.md) - processing, decocting, formulas and safe use
-- 🔗 [Poisonous mushrooms and wild plants](../03-wilderness-survival/09-poisonous-mushrooms-and-wild-plants.md) - the risks of foraging in the wild
+- ⏭️ [Toxic Herbs and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - first learn what to avoid
+- 🔗 [Medicinal Plants: Identification and Growing Guide](../04-farming-and-animal-husbandry/04-medicinal-plants.md) - growing medicinal plants and the home herb garden
+- 🔗 [Traditional Chinese Medicine Preparations](../06-pharmaceuticals/04-herbal-preparations.md) - processing, decocting, formulas and safe use
+- 🔗 [Poisonous Mushrooms and Wild Plants](../03-wilderness-survival/09-poisonous-mushrooms-and-wild-plants.md) - the risks of foraging in the wild
 - 🔗 [Poisoning](../01-first-aid-and-family-health/12-poisoning.md) - dealing with eating poisonous plants and medicine overdoses
-- 🔗 [Food processing and preservation](../07-everyday-living-skills/01-food-processing-and-preservation.md) - drying and preventing mould
+- 🔗 [Food Processing and Preservation](../07-everyday-living-skills/01-food-processing-and-preservation.md) - drying and preventing mould
 
 ---
 

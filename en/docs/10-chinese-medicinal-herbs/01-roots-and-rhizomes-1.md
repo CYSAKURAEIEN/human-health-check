@@ -707,10 +707,10 @@ Before digging a root medicine, confirm each point:
 
 ## Related chapters
 
-- ⏮️ [Chinese Medicinal Herbs: General Principles](00-general-principles.md) - general methods for identification, harvesting, processing, storage, safety and the law
-- ⏭️ [Roots and Rhizomes (2)](02-roots-and-rhizomes-2.md) - *Zhimu*, *Maidong*, *Dahuang*, *Beimu*, *Yanhusuo* and the other root and rhizome medicines (Chapter 02)
+- ⏮️ [General Principles of Identifying and Collecting Chinese Medicinal Herbs](00-general-principles.md) - general methods for identification, harvesting, processing, storage, safety and the law
+- ⏭️ [Roots and Rhizomes (Part 2)](02-roots-and-rhizomes-2.md) - *Zhimu*, *Maidong*, *Dahuang*, *Beimu*, *Yanhusuo* and the other root and rhizome medicines (Chapter 02)
 - 🔗 [Toxic Herbs and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - identifying pokeweed, *Gynura*, water hemlock, aconite and others, and the signs of poisoning
-- 🔗 [Guide to Identifying and Growing Medicinal Plants](../04-farming-and-animal-husbandry/04-medicinal-plants.md) - growing *Huangqi*, *Gancao*, *Danshen* and others, and the home herb garden
+- 🔗 [Medicinal Plants: Identification and Growing Guide](../04-farming-and-animal-husbandry/04-medicinal-plants.md) - growing *Huangqi*, *Gancao*, *Danshen* and others, and the home herb garden
 - 🔗 [Traditional Chinese Medicine Preparations](../06-pharmaceuticals/04-herbal-preparations.md) - processing (prepared *Dihuang*, prepared *Heshouwu* and others), decoction and safe use
 
 ---

@@ -770,11 +770,11 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 
 ## Related chapters
 
-- ⏮️ [Roots and Rhizomes (Part 1)](01-roots-and-rhizomes-1.md) - Renshen, Huangqi, Gancao, Danggui, Sanqi, Tianma and others (Chapter 01)
-- 🔗 [General principles of identifying and collecting Chinese medicinal herbs](00-general-principles.md) - general methods for identification, harvesting, processing, storage, safety and the law
-- 🔗 [Toxic herbs and poisonous look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - Lilu, herbs containing aristolochic acid, comparisons of easily confused poisonous plants
-- 🔗 [Medicinal plants: identification and growing guide](../04-farming-and-animal-husbandry/04-medicinal-plants.md) - growing ginger and other medicinal plants, the home herb garden
-- 🔗 [Chinese herbal preparations](../06-pharmaceuticals/04-herbal-preparations.md) - processing, decocting, formulas and safe use of medicines
+- ⏮️ [Roots and Rhizomes (1)](01-roots-and-rhizomes-1.md) - Renshen, Huangqi, Gancao, Danggui, Sanqi, Tianma and others (Chapter 01)
+- 🔗 [General Principles of Identifying and Collecting Chinese Medicinal Herbs](00-general-principles.md) - general methods for identification, harvesting, processing, storage, safety and the law
+- 🔗 [Toxic Herbs and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - Lilu, herbs containing aristolochic acid, comparisons of easily confused poisonous plants
+- 🔗 [Medicinal Plants: Identification and Growing Guide](../04-farming-and-animal-husbandry/04-medicinal-plants.md) - growing ginger and other medicinal plants, the home herb garden
+- 🔗 [Traditional Chinese Medicine Preparations](../06-pharmaceuticals/04-herbal-preparations.md) - processing, decocting, formulas and safe use of medicines
 - 🔗 [Poisoning](../01-first-aid-and-family-health/12-poisoning.md) - what to do after eating a poisonous plant or taking too much medicine
 
 ---

@@ -1179,7 +1179,7 @@ For CPR and the recovery position, see [Basic first aid: CPR](../01-first-aid-an
 - ⏭️ [Herb Name Index](10-herb-name-index.md) - look up every herb by Pinyin and alternative names
 - 🔗 [Poisoning](../01-first-aid-and-family-health/12-poisoning.md) - general principles of handling poisoning
 - 🔗 [Basic First Aid](../01-first-aid-and-family-health/00-basic-first-aid.md) - CPR and the recovery position
-- 🔗 [Poisonous Mushrooms and Wild Plant Poisoning](../03-wilderness-survival/09-poisonous-mushrooms-and-wild-plants.md) - eating poisonous mushrooms, wild greens and wild fruit by mistake
+- 🔗 [Poisonous Mushrooms and Wild Plants](../03-wilderness-survival/09-poisonous-mushrooms-and-wild-plants.md) - eating poisonous mushrooms, wild greens and wild fruit by mistake
 - 🔗 [Forest Survival: Plants](../03-wilderness-survival/02-forest-survival.md#plants) - common poisonous plants in the wild
 - 🔗 [Medicinal Plants](../04-farming-and-animal-husbandry/04-medicinal-plants.md#poisonous-plants-do-not-misuse) - poisonous look-alikes to watch for when growing medicinal plants
 - 🔗 [Traditional Chinese Medicine Preparations](../06-pharmaceuticals/04-herbal-preparations.md) - processing and decocting common Chinese medicines (not including the toxic herbs in this chapter)

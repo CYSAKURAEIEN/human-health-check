@@ -799,12 +799,12 @@ In addition, **Liuhuang** (sulphur; marked "toxic" in the Pharmacopoeia, mainly 
 
 - ⏮️ [Fungi, Algae, Resins and Others](07-fungi-algae-resins-and-others.md) - *Fuling* (poria), *Lingzhi* (reishi), *Dongchongxiacao* (cordyceps), frankincense, borneol and other fungi, algae, resins and processed products
 - ⏭️ [Toxic Herbs and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - cinnabar, realgar, arsenolite, red lead, *Banmao*, *Chansu* and other toxic Chinese medicines, and poisonous nectar plants
-- 🔗 [General Principles of Identifying and Collecting Chinese Medicinal Herbs](./00-general-principles.md) - general methods for identification, harvesting, processing and storage
-- 🔗 [General principles – Wildlife Protection Law](./00-general-principles.md#83-wildlife-protection-law) - the law on protected animals and their products
-- 🔗 [General principles – taking herbs with Western medicines](./00-general-principles.md#75-taking-herbs-with-western-medicines) - interactions between blood-breaking medicines such as *Shuizhi* and anticoagulants
+- 🔗 [General Principles of Identifying and Collecting Chinese Medicinal Herbs](00-general-principles.md) - general methods for identification, harvesting, processing and storage
+- 🔗 [General principles – Wildlife Protection Law](00-general-principles.md#83-wildlife-protection-law) - the law on protected animals and their products
+- 🔗 [General principles – taking herbs with Western medicines](00-general-principles.md#75-taking-herbs-with-western-medicines) - interactions between blood-breaking medicines such as *Shuizhi* and anticoagulants
 - 🔗 [Traditional Chinese Medicine Preparations](../06-pharmaceuticals/04-herbal-preparations.md) - processing methods such as calcining, decoction and safe use
-- 🔗 [Poultry Farming](../04-farming-and-animal-husbandry/05-poultry.md) - keeping chickens (the source of *Jineijin*)
-- 🔗 [Livestock Farming](../04-farming-and-animal-husbandry/06-livestock.md) - keeping donkeys (the raw material for *Ejiao*)
+- 🔗 [Poultry Keeping Guide](../04-farming-and-animal-husbandry/05-poultry.md) - keeping chickens (the source of *Jineijin*)
+- 🔗 [Livestock Keeping Guide](../04-farming-and-animal-husbandry/06-livestock.md) - keeping donkeys (the raw material for *Ejiao*)
 - 🔗 [Wasps, Ticks and Dangerous Animals](../03-wilderness-survival/10-wasps-ticks-and-dangerous-animals.md) - preventing and treating wasp stings and land leech bites
 - 🔗 [Food Processing and Preservation](../07-everyday-living-skills/01-food-processing-and-preservation.md#botulism) - botulism
 - 🔗 [Poisoning](../01-first-aid-and-family-health/12-poisoning.md) - general principles for dealing with poisoning

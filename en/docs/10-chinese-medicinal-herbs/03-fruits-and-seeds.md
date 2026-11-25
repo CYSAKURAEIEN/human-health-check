@@ -889,11 +889,11 @@ Before collecting or using a fruit or seed herb, confirm each point:
 
 ## Related chapters
 
-- ⏮️ [Roots and rhizomes (part 2)](02-roots-and-rhizomes-2.md) - *Zhimu*, *Maidong*, *Dahuang*, *Beimu*, *Yanhusuo* and other root and rhizome herbs (chapter 02)
-- ⏭️ [Whole herbs](04-whole-herbs.md) - *Bohe*, *Pugongying*, *Yuxingcao*, *Cheqiancao*, *Yimucao* and other whole-herb medicines
+- ⏮️ [Roots and Rhizomes (Part 2)](02-roots-and-rhizomes-2.md) - *Zhimu*, *Maidong*, *Dahuang*, *Beimu*, *Yanhusuo* and other root and rhizome herbs (Chapter 02)
+- ⏭️ [Whole Herbs](04-whole-herbs.md) - *Bohe*, *Pugongying*, *Yuxingcao*, *Cheqiancao*, *Yimucao* and other whole-herb medicines
 - 🔗 [General Principles of Identifying and Collecting Chinese Medicinal Herbs](00-general-principles.md) - general methods for identification, harvesting, processing, storage (preventing going oily and insect damage), safety and the law
 - 🔗 [Toxic Herbs and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - identification and poisoning signs of bitter apricot kernel, cocklebur fruit, ginkgo seed and others
-- 🔗 [Medicinal Plants: Identification and Growing](../04-farming-and-animal-husbandry/04-medicinal-plants.md) - growing medicinal plants and the family herb garden
+- 🔗 [Medicinal Plants: Identification and Growing Guide](../04-farming-and-animal-husbandry/04-medicinal-plants.md) - growing medicinal plants and the family herb garden
 - 🔗 [Traditional Chinese Medicine Preparations](../06-pharmaceuticals/04-herbal-preparations.md) - processing (stir-frying, roasting with liquids), decoction (adding towards the end, decocting wrapped), formulas and safe use
 - 🔗 [Poisoning](../01-first-aid-and-family-health/12-poisoning.md) - what to do after eating a poisonous plant or taking too much medicine
 

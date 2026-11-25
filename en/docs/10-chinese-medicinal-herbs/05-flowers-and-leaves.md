@@ -613,13 +613,13 @@ Before collecting flower and leaf herbs, confirm each point:
 
 ## Related chapters
 
-- ⏮️ [Whole Herbs](./04-whole-herbs.md) - mint, dandelion, houttuynia, sweet wormwood, motherwort and other whole-herb medicines
+- ⏮️ [Whole Herbs](04-whole-herbs.md) - mint, dandelion, houttuynia, sweet wormwood, motherwort and other whole-herb medicines
 - ⏭️ [Barks, Stems and Woods](06-barks-stems-and-woods.md) - Huangbai, Duzhong, cinnamon bark, Hehuanpi, Sangbaipi, Rendongteng and other bark and vine-stem herbs
-- 🔗 [General Principles of Identifying and Collecting Chinese Medicinal Herbs](./00-general-principles.md) - general methods for identification, harvesting, processing, storage, safety and the law
+- 🔗 [General Principles of Identifying and Collecting Chinese Medicinal Herbs](00-general-principles.md) - general methods for identification, harvesting, processing, storage, safety and the law
 - 🔗 [Toxic Herbs and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - identification and poisoning signs of Gouwen, Baiguo, Naoyanghua, Yangjinhua (datura flower) and others
-- 🔗 [Medicinal Plants: Identification and Growing](../04-farming-and-animal-husbandry/04-medicinal-plants.md) - growing honeysuckle, chrysanthemum and mugwort, and the home herb garden
+- 🔗 [Medicinal Plants: Identification and Growing Guide](../04-farming-and-animal-husbandry/04-medicinal-plants.md) - growing honeysuckle, chrysanthemum and mugwort, and the home herb garden
 - 🔗 [Traditional Chinese Medicine Preparations](../06-pharmaceuticals/04-herbal-preparations.md) - processing, decoction (wrapping in cloth, adding near the end), common formulas and safe use
-- 🔗 [Fruits and Seeds](./03-fruits-and-seeds.md) - Zisuzi, Kuxingren and other fruits and seeds from the same plants
+- 🔗 [Fruits and Seeds](03-fruits-and-seeds.md) - Zisuzi, Kuxingren and other fruits and seeds from the same plants
 
 ---
 

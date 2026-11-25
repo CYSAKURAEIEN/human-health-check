@@ -659,7 +659,7 @@ Before collecting bark or stem/wood medicines, confirm each point:
 - 🔗 [Toxic Herbs and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - identification and poisoning signs of Xiangjiapi, Guanmutong, Gouwen, Leigongteng and others
 - 🔗 [Roots and Rhizomes (1)](01-roots-and-rhizomes-1.md) - Heshouwu, Baishao, Chishao and other root medicines
 - 🔗 [Fruits and Seeds](03-fruits-and-seeds.md) - goji berries and other fruit medicines
-- 🔗 [Medicinal Plants: Identification and Growing](../04-farming-and-animal-husbandry/04-medicinal-plants.md) - growing goji and honeysuckle, and the home herb garden
+- 🔗 [Medicinal Plants: Identification and Growing Guide](../04-farming-and-animal-husbandry/04-medicinal-plants.md) - growing goji and honeysuckle, and the home herb garden
 - 🔗 [Traditional Chinese Medicine Preparations](../06-pharmaceuticals/04-herbal-preparations.md) - processing, decoction (including "adding near the end"), common formulas and safe use
 
 ---
