@@ -424,3 +424,391 @@ Common reminders for insect and worm medicines:
 - **Dose**: 3-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Contraindications**: Mild in nature; it works better ground to powder and swallowed (experience). **When a child has poor appetite, weight loss or abdominal pain for a long time, find the cause** (parasites, malnutrition and so on); do not rely only on digestive medicines. "Dissolving stones" cannot replace investigation and treatment of stones
 
+## 3. Protected-animal medicines: bans and substitutes
+
+This section **covers only the law and the substitutes**. This book does not describe how to identify, obtain, process or use these animal medicines — not because they are "useless", but because **obtaining any of them means killing endangered animals or taking part in illegal trade**, and legal substitutes or artificial products now exist for all of them. For an overview of the law see [General principles – Wildlife Protection Law](./00-general-principles.md#83-wildlife-protection-law).
+
+### 3.1 Overview of the law
+
+```
+1. Wildlife Protection Law of the People's Republic of China (revised 2022):
+   hunting and killing wild animals under state key protection is
+   forbidden;
+   selling, buying and using wild animals under state key protection and
+   their products is forbidden (except where the law provides otherwise);
+   illegally buying wild animals under state key protection and their
+   products for eating is forbidden
+2. Criminal Law: harming precious or endangered wild animals (hunting,
+   killing, buying, transporting, selling) can, in serious cases, be
+   punished with a fixed-term prison sentence
+3. State Council "Notice on Banning the Trade in Rhinoceros Horn and Tiger
+   Bone" (1993):
+   all trade in rhinoceros horn and tiger bone is banned; the medicinal
+   standards for rhinoceros horn and tiger bone are withdrawn,
+   and rhinoceros horn and tiger bone may no longer be used to make
+   medicines
+4. Rhinoceroses, tigers, pangolins, hawksbill turtles and others are also
+   controlled under the Convention on International Trade in Endangered
+   Species of Wild Fauna and Flora (CITES);
+   international trade is equally forbidden
+5. A few medicines (musk, bear bile powder, saiga antelope horn) still have
+   legal sources,
+   but only approved captive breeding or existing stocks, used in
+   designated Chinese patent medicines; individuals may not buy or sell them
+```
+
+| Medicine | Source animal | Protection level | Current status | Legal substitute |
+|------|---------|---------|------|---------|
+| Pangolin scales | Pangolins (genus *Manis*) | State Class I (upgraded in 2020) | No longer in the Pharmacopoeia from the 2020 edition | A TCM practitioner switches to other medicines |
+| Rhinoceros horn | Rhinoceros | CITES Appendix I | Trade and medicinal use banned since 1993 | Water buffalo horn (in the Pharmacopoeia) |
+| Tiger bone | Tiger | State Class I | Trade and medicinal use banned since 1993 | Artificial tiger bone powder and others |
+| Natural musk | Forest musk deer, alpine musk deer, Siberian musk deer | State Class I | Limited to musk taken from live farmed animals, for designated Chinese patent medicines | Artificial musk |
+| Bear bile | Asiatic black bear, brown bear | State Class II | Limited to approved farmed sources | Ursodeoxycholic acid (Western medicine) |
+| Saiga antelope horn | Saiga antelope | State Class I | Limited to existing stocks, for designated Chinese patent medicines | A TCM practitioner switches to other medicines |
+| Hawksbill shell | Hawksbill (sea turtle) | State Class I | Trade and use forbidden | No substitute needed |
+
+For protection levels, the text of the 2021 "List of Wild Animals under State Key Protection" prevails.
+
+### 3.2 Chuanshanjia (pangolin scales)
+
+- 🚫 **Law**: In June 2020 all species of the pangolin genus were moved from state Class II to **Class I wild animals under state key protection**; **the 2020 edition of the Chinese Pharmacopoeia no longer includes pangolin scales**, nor some of the Chinese patent medicines containing them; the 2025 edition further dropped a group of Chinese patent medicines whose formulas contain endangered animal materials, and reportedly the Pharmacopoeia no longer contains any item with pangolin
+- The pangolin is one of the most heavily trafficked mammals in the world; the "pangolin scales" and "*shanjiazhu*" (processed pangolin scales) on the market **all come from illegal sources**, and buying or selling them is a crime
+- **Substitute**: Pangolin scales used to be used to "unblock menstruation and promote lactation" and "reduce swelling and expel pus"; today TCM practitioners switch to other medicines (such as *Wangbuliuxing* (cowherb seed), *Lulutong* (sweetgum fruit), *Zaojiaoci* (Chinese honey locust spine) and others, **decided by the practitioner according to the condition**). For **too little breast milk after childbirth**, first make sure the mother is well nourished, breastfeeds often and the baby latches on properly; a red, swollen, hot, painful breast with fever may be mastitis and needs a doctor
+
+### 3.3 Xijiao (rhinoceros horn)
+
+- 🚫 **Law**: The 1993 State Council notice **banned all trade in rhinoceros horn** and withdrew its medicinal standard; internationally, rhinoceroses are protected under CITES Appendix I
+- **Substitute**: **Water buffalo horn**, the horn of the water buffalo (Bovidae, cattle family), included in the Chinese Pharmacopoeia; its actions are to clear heat and cool blood, remove toxins and settle fright; the dose is large and it must be decocted first. There is also concentrated water buffalo horn powder. Old formulas that contained rhinoceros horn now all use water buffalo horn instead, **with the method of use decided by a TCM practitioner**
+- "Rhinoceros horn cups" and "rhinoceros horn slices" on the market are either illegal goods or fakes made of cattle horn or resin — do not buy either
+
+### 3.4 Hugu (tiger bone)
+
+- 🚫 **Law**: The 1993 State Council notice **banned all trade in tiger bone**, withdrew its medicinal standard and forbade the further use of tiger bone to make medicines; the tiger is a Class I wild animal under state key protection
+- **Substitute**: There are already approved Chinese patent medicines made with **artificial tiger bone powder**; TCM also has many other medicines for rheumatic bone pain. **"Tiger bone liquor" is always illegal or fake**: do not buy it, do not drink it
+- **Long-term pain in joints or bones needs its cause found**: osteoarthritis, rheumatoid arthritis, gout, osteoporosis and cancer that has spread to bone are treated in completely different ways
+
+### 3.5 Shexiang (musk)
+
+- 🚫 **Law**: The forest musk deer, alpine musk deer, Siberian musk deer and other musk deer are all **Class I wild animals under state key protection**; **hunting musk deer for musk is illegal**. Natural musk today comes only from approved farms (taken from live animals) and is used only in a small number of state-designated Chinese patent medicines; individuals may not buy or sell it
+- The 2020 edition of the Chinese Pharmacopoeia still includes musk, but **the great majority of "natural musk" on the market is fake or illegal**
+- **Substitute**: **Artificial musk**, approved for use in Chinese patent medicines since the 1990s; most Chinese patent medicines containing musk now use artificial musk
+- Reminder: musk has a very strong blood-activating effect and is **forbidden in pregnancy**; pregnant women must ask a doctor first before using any Chinese patent medicine containing musk or artificial musk (including plasters stuck on the skin)
+
+### 3.6 Xiongdan (bear bile)
+
+- 🚫 **Law**: The Asiatic black bear and the brown bear are **Class II wild animals under state key protection** (the sun bear is Class I); **hunting bears for their gall bladders is illegal**. Bear bile powder today comes only from approved bear farms; individuals may not buy or sell wild bear bile
+- "Wild bear bile" on the market is mostly pig, cattle or sheep bile passed off, or illegal goods
+- **Substitute**: One of the main components of bear bile, **ursodeoxycholic acid**, has long been made synthetically and is a **Western medicine** for certain gallstones and cholestatic liver diseases (it needs a doctor's prescription). Jaundice, pain in the upper right abdomen and fever need a doctor; do not look for "bear bile folk remedies"
+
+### 3.7 Lingyangjiao (saiga antelope horn)
+
+- 🚫 **Law**: The saiga antelope is a **Class I wild animal under state key protection** and has died out in the wild in China; international trade is controlled under CITES. The 2020 edition of the Chinese Pharmacopoeia still includes saiga antelope horn, but its sources are limited to state stocks and legal imports, and it is **used only in designated Chinese patent medicines**
+- "Saiga antelope horn" on the market is mostly goat horn, Mongolian gazelle horn and the like passed off; the Tibetan antelope, Mongolian gazelle, goitred gazelle and others are also protected animals, so **do not buy the horn of any antelope**
+- **Substitute**: In TCM, goat horn and similar are sometimes used instead, with a weaker effect, **decided by a TCM practitioner**. High fever with convulsions is an emergency: get to a doctor first
+
+### 3.8 Daimao (hawksbill shell)
+
+- 🚫 **Law**: The hawksbill, like all sea turtles, is a **Class I wild animal under state key protection** and is protected under CITES Appendix I; **buying, selling or transporting hawksbill shell plates or hawksbill ornaments is illegal**
+- Hawksbill shell is now hardly used in modern TCM, and no substitute is needed. Do not buy the "tortoiseshell bracelets" or "tortoiseshell combs" sold at tourist spots — they are either illegal or plastic imitations
+
+## 4. Mineral medicines
+
+Mineral medicines are natural ores or processed mineral products. To recognise a mineral, look mainly at **colour, streak (the colour of the powder left when you scrape it across the back of an unglazed white porcelain tile), lustre, hardness (whether a fingernail can scratch it), specific gravity (weigh it in your hand), magnetism and smell**; see [General principles – simple water and fire tests](./00-general-principles.md#33-simple-water-and-fire-tests).
+
+```
+Common reminders for mineral medicines:
+- Use only proper prepared slices from a pharmacy: natural ores often
+  contain harmful impurities such as arsenic, lead, mercury and fluorine;
+  the composition of stones you pick up yourself is unknown, so do not
+  take them by mouth
+- This book does not describe how to calcine, purify or refine minerals
+- Heavy mineral medicines are decocted first in a decoction; most are not
+  suitable for long-term use (hard to digest, harm the stomach)
+- White powders and crystals that look alike (Mangxiao, saltpetre,
+  nitrite, borax, alum, table salt)
+  must be labelled and kept apart; anything of unknown origin does not go
+  in the mouth
+```
+
+### 4.1 Shigao (gypsum)
+
+- **Shigao (Sheng Shigao, Xishi, Baihu)**: Chinese 石膏; gypsum, mainly hydrated calcium sulphate (CaSO₄·2H₂O)
+- **Source**: Gypsum, of the gypsum group of the sulphate minerals, mainly hydrated calcium sulphate (CaSO₄·2H₂O)
+- **Distribution and habitat**: Produced in Yingcheng in Hubei, and in Anhui, Henan, Shandong and elsewhere, in beds within sedimentary rock
+- **Key identification features**:
+  - **A fibrous aggregate**, in long blocks, slabs or irregular lumps
+  - **White, greyish-white or pale yellow**, some translucent
+  - Heavy, **soft (a fingernail leaves a mark)**; **the lengthwise broken surface has a silky lustre**
+  - Faint smell, taste bland
+- **Look-alikes**:
+  - **Calcite** (calcium carbonate): rhombic cleavage, harder, a fingernail cannot scratch it, fizzes with a drop of vinegar or dilute hydrochloric acid; gypsum does not fizz
+  - **Anhydrite** (anhydrous calcium sulphate): harder, without the fibrous silky lustre
+  - **Building plaster powder and moulding plaster**: already calcined and often with additives; they cannot replace medicinal raw or calcined gypsum. For gypsum in building see [Lime and building materials – gypsum](../../../docs/07-日常生活技能/16-石灰与建筑材料.md#石膏)
+- **Harvest and processing**: After mining, remove other stones, mud and sand
+- **Storage**: Keep in a dry place
+- **Actions**: Raw *Shigao* clears heat and drains fire, relieves restlessness and thirst; calcined *Shigao*, used externally, absorbs damp, promotes healing of flesh, heals sores and stops bleeding
+- **Dose**: Raw *Shigao* 15-60 g, **decocted first**; calcined *Shigao* an appropriate amount for external use, ground to powder and sprinkled on the affected area (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
+- **Contraindications**: A very cold medicine: not suitable for people with **a cold, deficient spleen and stomach, poor appetite and loose stools, or without excess heat** (experience). For a high fever that will not come down, see a doctor first to find the cause, see [Common illnesses](../../../docs/01-日常疾病和伤害/01-常见疾病.md)
+
+### 4.2 Huashi (talc)
+
+- **Huashi (Ying Huashi, Huashi written 画石)**: Chinese 滑石; talc, mainly hydrated magnesium silicate [Mg₃(Si₄O₁₀)(OH)₂]
+- **Source**: Talc, of the talc group of the silicate minerals, mainly hydrated magnesium silicate [Mg₃(Si₄O₁₀)(OH)₂]
+- **Distribution and habitat**: Produced in Shandong, Jiangxi, Liaoning, Guangxi and elsewhere
+- **Key identification features**:
+  - Mostly massive aggregates, in irregular lumps
+  - **White, yellowish-white or pale bluish-grey, with a waxy lustre**
+  - **Soft and fine-textured, slippery to the touch**; **does not absorb moisture and does not fall apart in water**
+  - Faint smell, taste bland
+- **Look-alikes**: "Soft talc" of the kaolin and white clay type (absorbs moisture, sticks to the tongue, falls apart in water) is not the Pharmacopoeia's *Huashi*; **some talc deposits contain asbestos**, and industrial talc powder must not be used as medicine
+- **Harvest and processing**: After mining, remove mud, sand and other stones; medicinal talc powder must be extremely fine and is processed by pharmaceutical factories
+- **Storage**: Keep in a dry place
+- **Actions**: Promotes urination and relieves painful urination, clears heat and relieves summer heat; used externally, dispels damp and heals sores
+- **Dose**: 10-20 g, **decocted first** (talc powder in a decoction is decocted wrapped); an appropriate amount for external use (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
+- **Contraindications**: Cold and slippery in nature: **caution in pregnancy**; not suitable for people with spleen deficiency, seminal emissions or frequent urination (experience). **Do not inhale talc powder**, and do not dust large amounts of powder near a baby's mouth and nose; do not dust powder on the female genital area long term (a reminder from experience). Frequent or painful urination, or blood in the urine, needs a doctor to check for urinary tract infection and stones
+
+### 4.3 Mangxiao (mirabilite)
+
+- **Mangxiao (refined Poxiao, Pixiao)**: Chinese 芒硝; mirabilite, mainly hydrated sodium sulphate (Na₂SO₄·10H₂O). The white powder left when *Mangxiao* weathers and loses water is **Xuanmingfen** (a separate medicine)
+- **Source**: Crystals processed and refined from mirabilite, of the mirabilite group of the sulphate minerals, mainly hydrated sodium sulphate (Na₂SO₄·10H₂O)
+- **Distribution and habitat**: Occurs in salt lakes, saline-alkaline land and brines containing sodium sulphate
+- **Key identification features**:
+  - **Prismatic, rectangular or irregular lumps and grains**
+  - **Colourless and transparent, or whitish and translucent**
+  - Brittle, crumbles easily; broken surface with a **glassy lustre**
+  - Faint smell, **taste salty** (with a bitter edge)
+  - **It weathers when left in dry air**, the surface turning into white powder
+- **⚠️ Look-alikes**:
+  - **Sodium nitrite (industrial salt)**: white or slightly yellowish crystals that look like salt and *Mangxiao*; **swallowing 0.2-0.5 g by mistake can cause poisoning, and about 3 g can kill** (purple lips and nails, dizziness, difficulty breathing)
+  - **Saltpetre** (potassium nitrate): colourless or white crystals; thrown into a fire it burns fiercely and crackles, completely different from *Mangxiao*
+  - **Table salt, alum and borax**: all white crystals
+  - **White crystals of unknown origin, without a label, never go in the mouth**; label any *Mangxiao* kept at home
+- **Harvest and processing**: Refined by pharmaceutical factories; this book does not describe the refining method
+- **Storage**: **Keep closed, below 30°C**, and protect from weathering (once it has weathered and lost water, the dose is no longer accurate)
+- **Actions**: Purges and relieves constipation, moistens dryness and softens hardness, clears fire and reduces swelling
+- **Dose**: 6-12 g, **generally not decocted**: dissolve it in the finished decoction and take; an appropriate amount for external use (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
+- **Contraindications**: **Caution in pregnancy**; **should not be used together with *Liuhuang* (sulphur) or *Sanleng* (bur-reed rhizome)** (Pharmacopoeia); caution in weak people, the elderly and people with a cold, deficient spleen and stomach (experience). **Do not use laxatives for abdominal pain of unknown cause** — in appendicitis or bowel obstruction a laxative can cause perforation, see [Acute symptoms](../../../docs/01-日常疾病和伤害/05-急性症状.md)
+
+### 4.4 Longgu (dragon bone)
+
+- **Longgu (Bai Longgu, Hua Longgu)**: Chinese 龙骨; fossil bones of ancient mammals. The fossil teeth of ancient mammals are called *Longchi* ("dragon teeth")
+- **Source**: Fossil bones of ancient mammals such as three-toed horses (*Hipparion*), rhinoceroses, deer, cattle and elephants, or fossil elephant incisors
+- ⚠️ **Pharmacopoeia**: **Part I of the Chinese Pharmacopoeia (2020 edition) does not include Longgu**; quality standards are in some provincial local standards, which differ from place to place
+- 🛡️ **Law**: Vertebrate fossils are protected under the "Regulations on the Protection of Fossils"; **fossils of important scientific value may not be dug up, bought or sold privately**; if you find a fossil bed, report it to the local authority. In the past, large numbers of precious fossils and oracle bones were ground into medicine powder as "dragon bone"
+- **Key identification features**:
+  - Bone-shaped or broken into irregular lumps of varying size
+  - Surface **white, greyish-white or pale brown**, mostly fairly smooth, some with lines and cracks, or with brown streaks and spots (*Hua Longgu*, "patterned dragon bone")
+  - Hard; **the broken surface is uneven, with many small honeycomb pores at the joints**
+  - **Strongly absorbs moisture and sticks to the tongue when licked** (a traditional test from experience); faint smell, taste bland
+- **Fakes**: **Modern animal bones calcined and aged** to look old (they do not stick to the tongue or only weakly, and smell burnt, experience); lumps of limestone passed off
+- **Storage**: Keep in a dry place
+- **Actions (traditional)**: Settles fright and calms the mind, calms the liver and subdues yang; calcined *Longgu* astringes and secures
+- **Dose**: Not in the Pharmacopoeia; traditionally 15-30 g is commonly used, decocted first (experience; the TCM practitioner's judgement prevails)
+- **Contraindications**: Astringent in nature; not suitable for people with damp-heat or excess pathogens (experience)
+
+### 4.5 Cishi (magnetite)
+
+- **Cishi (Ling Cishi, Xitieshi)**: Chinese 磁石; magnetite, mainly ferrosoferric oxide (Fe₃O₄)
+- **Source**: Magnetite, of the spinel group of the oxide minerals, mainly ferrosoferric oxide (Fe₃O₄)
+- **Distribution and habitat**: Produced in iron ore deposits in Hebei, Shandong, Liaoning, Jiangsu and elsewhere
+- **Key identification features**:
+  - Massive aggregates, irregular lumps or roughly square, **mostly with sharp edges**
+  - **Greyish-black or brownish, black streak, metallic lustre**
+  - **Heavy, hard**; broken surface uneven
+  - **Magnetic, attracts iron** (the magnetism weakens when kept for a long time); earthy smell, taste bland
+- **Look-alikes**: *Zheshi* (cherry-red streak, not magnetic); other black iron ores (weakly magnetic or not magnetic)
+- **Harvest and processing**: After mining, remove other stones
+- **Storage**: Keep in a dry place
+- **Actions**: Settles fright and calms the mind, calms the liver and subdues yang, sharpens hearing and brightens the eyes, helps the kidneys grasp *qi* and relieves wheezing
+- **Dose**: 9-30 g, **decocted first** (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
+- **Contraindications**: Heavy and hard to digest, **not suitable for large amounts or long-term use**; caution in people with a weak spleen and stomach (experience). Insomnia, ringing in the ears or dizziness that goes on for a long time needs its cause found
+
+### 4.6 Zheshi (haematite)
+
+- **Zheshi (Daizheshi, Dingtou Zheshi, Tuzhu)**: Chinese 赭石; haematite, mainly ferric oxide (Fe₂O₃)
+- **Source**: Haematite, of the corundum group of the oxide minerals, mainly ferric oxide (Fe₂O₃)
+- **Distribution and habitat**: Produced in Shanxi, Hebei, Henan, Shandong and elsewhere
+- **Key identification features**:
+  - Oolitic, pea-like or kidney-shaped aggregates, mostly as irregular flat lumps
+  - **Dark brownish-red or greyish-black, streak cherry-red or reddish-brown**, some with a metallic lustre
+  - **One face usually has round bumps, traditionally called "nail heads" (*dingtou*); the other face has hollows of the same size opposite the bumps**
+  - Heavy, hard; when smashed **the broken surface shows stacked layers**; faint smell, taste bland
+- **Look-alikes**: **Cinnabar** (bright red, red streak, heavier, contains mercury — extremely toxic) and **red lead** (orange-red powder, very heavy, contains lead) — do not identify red mineral medicines by colour, see [Section 5](#5-toxic-mineral-medicines-names-only)
+- **Harvest and processing**: After mining, remove other stones
+- **Storage**: Keep in a dry place
+- **Actions**: Calms the liver and subdues yang, heavily settles and directs counterflow downwards, cools blood and stops bleeding
+- **Dose**: 9-30 g, **decocted first** (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
+- **Contraindications**: **Caution in pregnancy** (Pharmacopoeia); *Zheshi* from some places contains impurities such as arsenic, so it is **not suitable for long-term use** (experience). Vomiting blood is an emergency: see a doctor at once
+
+![Haematite compared with cinnabar, red lead and realgar: do not identify red minerals by colour](../../images/hematite-vs-red-toxic-minerals.svg)
+
+*Figure: Recognise Zheshi (haematite) by its "nail heads", matching hollows, layered broken surface and cherry-red streak; cinnabar (contains mercury), red lead (contains lead) and realgar (contains arsenic) only need to be recognised — do not take them by mouth, do not heat them, and do not use one red mineral in place of another*
+
+### 4.7 Luganshi (calamine)
+
+- **Luganshi (Ganshi, Luganshi written 卢甘石)**: Chinese 炉甘石; smithsonite, mainly zinc carbonate (ZnCO₃)
+- **Source**: Smithsonite, of the calcite group of the carbonate minerals, mainly zinc carbonate (ZnCO₃)
+- **Distribution and habitat**: Produced in zinc deposits in Guangxi, Sichuan, Yunnan, Hunan and elsewhere
+- **Key identification features**:
+  - Massive aggregates, in irregular lumps
+  - **Greyish-white or pale red, the surface powdery, without lustre, uneven and porous, like a honeycomb**
+  - **Light, crumbles easily**; faint smell, taste slightly astringent
+- **Look-alikes**: Other porous white stones; **it fizzes with a drop of vinegar or dilute hydrochloric acid** (a carbonate)
+- **Harvest and processing**: After mining, wash, sun-dry and remove other stones; the medicinal form is an extremely fine powder ground under water (*shuifei*), or calcined and then ground under water
+- **Storage**: Keep in a dry place
+- **Actions**: Removes toxins, brightens the eyes and clears corneal opacity, absorbs damp, relieves itching and heals sores
+- **Dose**: **External use only**, an appropriate amount (Chinese Pharmacopoeia, 2020 edition); not taken by mouth
+- **Contraindications**: Not for large areas of broken, weeping skin; **keep out of the eyes** (eye conditions are treated by a doctor). The common **calamine lotion** is a Western topical anti-itch medicine that can be used for insect bites and itchy eczema, see [Wounds and injuries – insect bites and stings](../../../docs/01-日常疾病和伤害/02-外伤处理.md#昆虫叮咬)
+
+### 4.8 Baifan (alum)
+
+- **Baifan (Mingfan, Fanshi)**: Chinese 白矾; alum, mainly hydrated potassium aluminium sulphate [KAl(SO₄)₂·12H₂O]. After calcining, when it has lost its water of crystallisation, it is called **Kufan** (dried alum)
+- **Source**: Made by processing and refining alunite, of the sulphate minerals, mainly hydrated potassium aluminium sulphate [KAl(SO₄)₂·12H₂O]
+- **Distribution and habitat**: Produced in Anhui, Zhejiang, Shanxi, Hubei and elsewhere
+- **Key identification features**:
+  - **Irregular lumps or grains**
+  - **Colourless or pale yellowish-white, transparent or translucent**; surface fairly smooth or uneven, with fine, dense lengthwise ridges, **with a glassy lustre**
+  - Hard and brittle
+  - Faint smell, **taste sour, slightly sweet and extremely astringent** (one lick makes the tongue feel tight)
+- **Look-alikes**: *Mangxiao* (tastes salty), borax (tastes sweet then slightly salty, alkaline), table salt; label them all and keep them apart
+- **Harvest and processing**: Processed in factories; this book does not describe the refining method. For using alum to clear water see [Water supply – multi-stage treatment](../../../docs/07-日常生活技能/10-水源工程与供水.md#多级处理)
+- **Storage**: Keep in a dry place
+- **Actions**: Used externally, removes toxins and kills parasites, dries damp and relieves itching; taken by mouth, stops bleeding and diarrhoea and expels wind-phlegm; *Kufan* absorbs damp and heals sores, stops bleeding and removes rotten tissue
+- **Dose**: 0.6-1.5 g; an appropriate amount for external use, ground to powder and applied, or dissolved in water to wash the affected area (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
+- **⚠️ Contraindications**: **Contains aluminium**; aluminium building up in the body may damage the nervous system and bones, so it is **not suitable for long-term use or large amounts**; people with poor kidney function, children and pregnant women should not take it by mouth (experience). Large amounts taken by mouth can cause burning pain in the mouth and throat, vomiting, diarrhoea and even collapse. **Do not eat large amounts of foods made with alum, such as fried dough sticks (*youtiao*) and glass noodles, over a long time either**
+
+### 4.9 Pengsha (borax)
+
+- **Pengsha (Yueshi, Pengsha written 蓬砂)**: Chinese 硼砂; borax, mainly sodium tetraborate (Na₂B₄O₇·10H₂O)
+- **Source**: Crystals refined from borax ore, mainly sodium tetraborate (Na₂B₄O₇·10H₂O)
+- ⚠️ **Pharmacopoeia**: As far as the editors know, **Part I of the Chinese Pharmacopoeia (2020 edition) has no separate entry for borax as a medicinal material**, but it does include external-use formulas containing borax (such as *Bingpengsan*); quality standards are in ministry or local standards (the wording of the Pharmacopoeia prevails)
+- **Key identification features**:
+  - Irregular lumps of varying size; **colourless and transparent or white and translucent**, with a glassy lustre; left in the air for a long time it easily weathers into white powder
+  - Light, brittle, crumbles easily; no smell, taste sweet then slightly salty, its solution in water is alkaline
+- **⚠️ Toxicity**: Borax **is toxic**: an overdose taken by mouth causes nausea and vomiting, diarrhoea, red, peeling skin, and in severe cases kidney damage, convulsions and shock; **children are more sensitive to boron**; small amounts taken over a long time build up in the body and affect reproduction and development
+- **⚠️ Forbidden in food**: Borax is **a non-food substance that the state expressly forbids adding to food** — in the past some people added it to noodles, *zongzi*, cold jelly and meatballs to "make them chewier" or "preserve them"; this is illegal and is also a source of chronic poisoning
+- **Use (traditional)**: Used externally to clear heat and remove toxins, reduce swelling and prevent rot, mostly in powders applied to the mouth and throat; **this book gives no dose for taking it by mouth**
+- **Contraindications**: Not taken by mouth; not for large areas of broken skin; **not for babies and young children** (including painting it inside the mouth); not for pregnant women. Mouth ulcers that keep coming back or have not healed after two weeks need a doctor to rule out other diseases
+
+## 5. Toxic mineral medicines (names only)
+
+The mineral medicines below contain heavy metals such as mercury, arsenic and lead. **This book gives only their names and where the danger lies, not how to use them or doses.** Their identification and signs of poisoning are in Chapter 09. Most of them are on the state-controlled list of 28 toxic Chinese medicines; see [List of the 28 toxic Chinese medicines](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#11-28种毒性中药名单).
+
+| Medicine | Main toxic component | Greatest danger | Details |
+|------|------------|----------|------|
+| Cinnabar (*Zhusha*) | Mercuric sulphide | Releases mercury vapour when heated; long-term use builds up mercury and damages the kidneys; "mind-calming" folk remedies, baby ornaments | [Cinnabar](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#224-朱砂) |
+| Realgar (*Xionghuang*) | Arsenic sulphide | Turns into white arsenic (arsenic trioxide) when heated; "realgar wine" | [Realgar](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#223-雄黄) |
+| Arsenolite, white arsenic (*Pishi*, *Pishuang*) | Arsenic trioxide | A tiny amount kills; looks like flour or white sugar | [Arsenolite and white arsenic](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#222-砒石与砒霜) |
+| Calomel (*Qingfen*), red mercuric oxide (*Hongfen*), *Baijiangdan*, mercury | Mercury compounds, metallic mercury | Corrosive, acute kidney failure; absorbed even when applied to broken skin | [Calomel, Hongfen and mercury](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#225-轻粉红粉与水银) |
+| Red lead (*Qiandan*), litharge (*Mituoseng*) | Lead oxides | Lead builds up; long-term damage to children's intelligence | [Red lead](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md#226-铅丹) |
+
+```
+❌ Do not take by mouth any mineral medicine or "ancestral elixir pill"
+   containing mercury, arsenic or lead
+❌ Do not heat or burn cinnabar or realgar; do not drink realgar wine
+❌ Do not let babies and young children wear cinnabar or realgar, and do
+   not put it on their skin
+❌ Do not use red minerals (cinnabar, red lead, Zheshi, realgar) in place
+   of one another on the basis of colour
+✓ If you have taken "secret formulas" or "pills" of unknown origin for a
+   long time, tell the doctor and get blood lead, urine mercury and urine
+   arsenic tested
+```
+
+In addition, **Liuhuang** (sulphur; marked "toxic" in the Pharmacopoeia, mainly for external use), **Danfan** (chalcanthite, copper sulphate; taken by mouth it can cause severe poisoning) and others are also toxic mineral medicines; likewise, do not take them by mouth yourself.
+
+## 6. Look-alikes summary and self-check
+
+### 6.1 Look-alikes and risks at a glance
+
+| Genuine medicine | Look-alike/fake | How to tell them apart | Consequence of a mix-up |
+|------|-------------|---------|----------|
+| *Ejiao* | Mixed-hide gelatin (pig, cattle, horse hide) | Translucency against the light, whether it goes soft in summer, smell (none of these reliable) | No effect; buy only proper products |
+| *Lurong* slices | Slices pressed from bone glue and flour, dyed antler slices | Whether it falls apart in water, whether it has honeycomb pores | No effect, cheated |
+| *Guijia* | *Biejia*, shells of other turtles | *Guijia* has upper and lower shells with scutes; *Biejia* is the upper shell only, with ribs sticking out beyond the edge | Wrong medicine; involves protected animals |
+| *Quanxie*, *Shuizhi*, *Wugong* | Weighted with salt, alum, mud and sand | Salt frost, crystals in the broken surface, extremely salty or astringent taste, too heavy in the hand | Inaccurate dose; harmful impurities |
+| *Jiangcan* | Diseased dead silkworms coated in lime powder | The powdery frost rubs off at once; no shiny silk-gland rings in the broken surface | No effect; lime irritation |
+| *Jineijin* | Duck gizzard lining | Duck gizzard lining is purplish-black, thicker, with fewer wrinkles | Wrong medicine |
+| Honey | Adulterated with syrup; honey from poisonous nectar sources | Cannot be told apart at home; do not eat honey that tastes bitter or numbing | ☠️ Poisonous honey can kill |
+| *Shigao* | Calcite, building plaster | Gypsum can be scratched with a fingernail, has a silky lustre and does not fizz with acid | Wrong medicine |
+| *Mangxiao* | Sodium nitrite, saltpetre, borax | **White crystals of unknown origin never go in the mouth** | ☠️ Nitrite poisoning |
+| *Zheshi* | Cinnabar, red lead | *Zheshi* has a cherry-red streak and "nail heads"; cinnabar is redder and heavier | ☠️ Mercury or lead poisoning |
+| *Longgu* | Modern bones calcined and aged | How strongly it sticks to the tongue, burnt smell (experience) | No effect |
+| Rhinoceros horn, tiger bone, musk, bear bile, saiga antelope horn | Illegal goods, or fakes made of cattle horn, pig bile and the like | **No need to tell them apart — never buy any of them** | Illegal; cheated |
+
+### 6.2 Self-check
+
+- [ ] I know that pangolin scales, tiger bone, rhinoceros horn, natural musk, bear bile, saiga antelope horn and hawksbill shell must not be bought, sold or used, and I know their legal substitutes
+- [ ] *Lurong* and *Guijia* come from captive breeding and from a proper source
+- [ ] *Quanxie*, *Wugong*, *Tubiechong* and *Shuizhi* are used only under the guidance of a TCM practitioner; not used in a household with a pregnant woman
+- [ ] People taking anticoagulant or antiplatelet drugs do not use blood-breaking medicines such as *Shuizhi* and *Tubiechong*
+- [ ] No honey for babies under 1 year old; no wild honey of unknown origin that tastes bitter or numbing
+- [ ] *Fengfang* is collected only as abandoned nests with no wasps, in deep winter
+- [ ] White crystals (*Mangxiao*, alum, borax, table salt) are all labelled; anything of unknown origin does not go in the mouth
+- [ ] Alum and borax are not taken by mouth long term; borax is not added to food
+- [ ] Mineral medicines containing mercury, arsenic or lead, such as cinnabar and realgar, are not taken by mouth and not heated
+- [ ] I know the Pharmacopoeia doses and contraindications; pregnant women, children and people with liver or kidney disease ask a doctor first
+
+| Task | Difficulty | Risk of getting it wrong |
+|------|------|----------|
+| Collecting *Chantui*, peeling *Jineijin*, keeping oyster shells and cuttlebones | ⭐ | ☠️ (collecting near pollution sources) |
+| Telling genuine from fake *Ejiao*, *Lurong* and pearls | ⭐⭐⭐⭐ | ☠️ (cheated, no effect) |
+| Recognising weighted *Quanxie* and *Shuizhi* | ⭐⭐⭐ | ☠️☠️ (inaccurate dose) |
+| Using *Quanxie*, *Wugong*, *Shuizhi* or *Tubiechong* yourself | Not recommended | ☠️☠️☠️☠️ (poisoning, bleeding, miscarriage) |
+| Collecting *Fengfang* | ⭐⭐ | ☠️☠️☠️☠️ (death from mass wasp stings) |
+| Eating wild honey of unknown origin | — | ☠️☠️☠️☠️ (poisonous nectar sources) |
+| Telling *Mangxiao* apart from nitrite and other white crystals | ⭐⭐⭐⭐ | ☠️☠️☠️☠️☠️ (nitrite poisoning) |
+| Taking toxic mineral medicines such as cinnabar or realgar by mouth | Not allowed | ☠️☠️☠️☠️☠️ (mercury or arsenic poisoning) |
+| Obtaining protected-animal medicines | Illegal | 🚫 Criminal liability |
+
+---
+
+## 📝 Key points of this chapter
+
+```
+□ Never buy or use protected-animal medicines: pangolin scales, tiger bone,
+  rhinoceros horn, natural musk, bear bile, saiga antelope horn,
+  hawksbill shell;
+  substitutes: water buffalo horn for rhinoceros horn, artificial musk for
+  musk, artificial tiger bone powder for tiger bone
+□ Use Lurong and Guijia only from captive-bred sources; Ejiao is often faked
+  with mixed-hide gelatin — buy only proper products
+□ Shells and minerals (Muli, Shijueming, Guijia, Biejia, Cishi, Zheshi,
+  Shigao) are decocted first in a decoction
+□ Quanxie and Wugong are toxic, Tubiechong and Shuizhi slightly toxic;
+  forbidden in pregnancy, use only under the guidance of a TCM
+  practitioner;
+  Shuizhi is not used together with anticoagulants
+□ Babies under 1 year old must not eat honey; honey from poisonous nectar
+  sources can kill
+□ Chantui, Jineijin, oyster shells and cuttlebones can be collected
+  yourself; collect Fengfang only as abandoned nests with no wasps, in
+  deep winter
+□ Mangxiao: caution in pregnancy, not used with sulphur or Sanleng;
+  white crystals of unknown origin do not go in the mouth
+□ Alum contains aluminium and borax is toxic: do not take either by mouth
+  long term; borax must not be added to food
+□ Longgu is not in the Pharmacopoeia, and fossils are protected by law
+□ Cinnabar, realgar, calomel, Hongfen, red lead, arsenolite: do not take
+  by mouth, do not heat
+```
+
+---
+
+## Related chapters
+
+- ⏮️ [Fungi, Algae, Resins and Others](../../../docs/10-中药材识别与采集/07-菌藻树脂及其他.md) - *Fuling* (poria), *Lingzhi* (reishi), *Dongchongxiacao* (cordyceps), frankincense, borneol and other fungi, algae, resins and processed products
+- ⏭️ [Toxic Herbs and Poisonous Look-alikes](../../../docs/10-中药材识别与采集/09-有毒中药与易混淆有毒植物.md) - cinnabar, realgar, arsenolite, red lead, *Banmao*, *Chansu* and other toxic Chinese medicines, and poisonous nectar plants
+- 🔗 [General Principles of Identifying and Collecting Chinese Medicinal Herbs](./00-general-principles.md) - general methods for identification, harvesting, processing and storage
+- 🔗 [General principles – Wildlife Protection Law](./00-general-principles.md#83-wildlife-protection-law) - the law on protected animals and their products
+- 🔗 [General principles – taking herbs with Western medicines](./00-general-principles.md#75-taking-herbs-with-western-medicines) - interactions between blood-breaking medicines such as *Shuizhi* and anticoagulants
+- 🔗 [Traditional Chinese Medicine Preparations](../../../docs/06-制药技术/04-中药制剂.md) - processing methods such as calcining, decoction and safe use
+- 🔗 [Poultry Farming](../../../docs/04-动植物培育/05-家禽养殖.md) - keeping chickens (the source of *Jineijin*)
+- 🔗 [Livestock Farming](../../../docs/04-动植物培育/06-家畜养殖.md) - keeping donkeys (the raw material for *Ejiao*)
+- 🔗 [Wasps, Ticks and Dangerous Animals](../../../docs/03-野外生存/10-马蜂蜱虫与危险动物.md) - preventing and treating wasp stings and land leech bites
+- 🔗 [Food Processing and Preservation](../../../docs/07-日常生活技能/01-食物加工与保存.md#肉毒中毒) - botulism
+- 🔗 [Poisoning](../../../docs/01-日常疾病和伤害/12-中毒.md) - general principles for dealing with poisoning
+
+---
+
+**The first lesson of animal and mineral medicines is not "how to use them" but "what not to touch": do not touch protected animals, do not touch ores containing mercury, arsenic or lead, and do not give honey to babies. The only things you can collect yourself are Chantui, Jineijin and shells; for everything else, buy proper medicinal materials and use them in doses set under the guidance of a TCM practitioner.**
