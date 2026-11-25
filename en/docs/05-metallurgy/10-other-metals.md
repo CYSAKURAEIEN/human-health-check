@@ -48,7 +48,7 @@ Cassiterite + charcoal → tin + carbon dioxide (SnO₂ + 2CO → Sn + 2CO₂)
 
 ⚠️ Metallic tin melts at only 232°C, but reducing cassiterite to tin needs temperatures
    of about 1000°C or more and a strongly reducing atmosphere (plenty of charcoal, forced draught)
-   → you need a blast furnace; an ordinary fire will not do
+   → you need a furnace with a forced-air blast; an ordinary fire will not do
 
 Steps:
 1. Wash and concentrate the cassiterite, and crush it into small grains
@@ -138,7 +138,7 @@ Zinc boils at only about 907°C, but reducing zinc ore to zinc needs about 1000�
   to liquid or solid in a cool part
 
 The Ming-dynasty Chinese book Tiangong Kaiwu (The Exploitation of the Works of Nature)
-by Song Yingxing records "refining *wo qian*" (zinc smelting):
+by Song Yingxing records "refining wo qian" (zinc smelting):
   Calamine (smithsonite) was packed into clay pots and sealed, coal cakes were piled
   between the pots, and on heating the zinc vapour condensed into zinc in the cooler
   upper part of each pot

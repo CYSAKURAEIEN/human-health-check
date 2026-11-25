@@ -973,7 +973,7 @@ How they differ from chickens:
 More:
 - Muscovy duck: quiet, can fly, goes broody and hatches eggs, thrives on rough feed;
   suited to small-scale self-sufficiency; incubation period about 35 days
-- Local breeds of brown "ma" ducks: small, good foragers, suited to free-ranging and to
+- Local breeds of partridge-coloured (*ma*) ducks: small, good foragers, suited to free-ranging and to
   duck-rice farming
 - Drake to duck ratio: laying breeder flocks about 1:15-20, meat breeder flocks about 1:5-8
 ```

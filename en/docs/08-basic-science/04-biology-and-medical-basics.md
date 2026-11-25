@@ -374,7 +374,7 @@ which can kill
   medication information card
 ```
 
-For the medication information card see [Stockpiling medicines for chronic conditions](../01-first-aid-and-family-health/08-chronic-medication-stockpile.md).
+For the medication information card see [Chronic medication stockpile](../01-first-aid-and-family-health/08-chronic-medication-stockpile.md).
 
 ---
 

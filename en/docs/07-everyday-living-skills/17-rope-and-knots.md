@@ -67,7 +67,7 @@ Choosing material:
 ✗ Rotten, blackened bark that snaps when tugged: do not use it
 ```
 
-For retting and combing hemp and bark see [Textiles, Mending and Tanning – Preparing fibre](07-textiles-sewing-and-tanning.md#preparing-the-fibre); for treating hide strips see [Tanning](07-textiles-sewing-and-tanning.md#tanning); paper mulberry bark is also a papermaking material, see [Pottery, Glass and Papermaking – Papermaking](11-pottery-glass-and-papermaking.md#papermaking). ⚠️ Growing hemp is regulated in China; ramie or flax can be used instead.
+For retting and combing hemp and bark see [Textiles, Sewing and Tanning – Preparing fibre](07-textiles-sewing-and-tanning.md#preparing-the-fibre); for treating hide strips see [Tanning](07-textiles-sewing-and-tanning.md#tanning); paper mulberry bark is also a papermaking material, see [Pottery, Glass and Papermaking – Papermaking](11-pottery-glass-and-papermaking.md#papermaking). ⚠️ Growing hemp is regulated in China; ramie or flax can be used instead.
 
 ---
 
@@ -86,7 +86,7 @@ Rule: the twist of the strands is opposite to the twist of the rope
   (the twist of the yarn is also opposite to that of the strand: the layers alternate)
 ```
 
-Spinning thread on a spindle and plying work the same way; see [Textiles, Mending and Tanning – Spinning](07-textiles-sewing-and-tanning.md#spinning).
+Spinning thread on a spindle and plying work the same way; see [Textiles, Sewing and Tanning – Spinning](07-textiles-sewing-and-tanning.md#spinning).
 
 ### Hand-twisting two-strand cord (no tools at all)
 
@@ -574,7 +574,7 @@ Joining two ropes (short splice): unlay both ends, interlock them and tuck each 
   the ground so they cannot slide apart
 ```
 
-For joining timber in construction see [Woodworking and Tool Maintenance](09-woodworking-and-tool-maintenance.md#ways-of-joining-wood); for the overall structure of a dwelling see [Long-term Housing](05-long-term-shelter.md).
+For joining timber in construction see [Woodworking and Tool Maintenance](09-woodworking-and-tool-maintenance.md#ways-of-joining-wood); for the overall structure of a dwelling see [Long-term Shelter](05-long-term-shelter.md).
 
 ### Hoisting
 
@@ -607,7 +607,7 @@ For calculating rope angles and tension see [Engineering Mechanics and Materials
   no dirt is carried into the well
 ```
 
-For building wells and water-lifting tools see [Water Supply Engineering – Lifting water](10-water-supply.md#lifting-water).
+For building wells and water-lifting tools see [Water Supply – Lifting water](10-water-supply.md#lifting-water).
 
 ### Rescue
 
@@ -623,7 +623,7 @@ For building wells and water-lifting tools see [Water Supply Engineering – Lif
   there may be too little oxygen down there
 ```
 
-For water rescue see [Rescuing a companion from the water](../03-wilderness-survival/08-river-crossing-flash-floods-and-hypothermia.md#rescuing-a-companion-from-the-water); for self-rescue with rope when trapped by fire see [Fire](../02-disaster-response/04-fire.md#building-fires); for the dangers of working down wells see [Water Supply Engineering – Digging a well](10-water-supply.md#digging-wells); for moving casualties see [Field Care and Evacuation of the Sick and Injured – Moving casualties](../03-wilderness-survival/11-wilderness-casualty-care-and-evacuation.md#moving-the-casualty).
+For water rescue see [Rescuing a companion from the water](../03-wilderness-survival/08-river-crossing-flash-floods-and-hypothermia.md#rescuing-a-companion-from-the-water); for self-rescue with rope when trapped by fire see [Fire](../02-disaster-response/04-fire.md#building-fires); for the dangers of working down wells see [Water Supply – Digging a well](10-water-supply.md#digging-wells); for moving casualties see [Field Care and Evacuation of the Sick and Injured – Moving casualties](../03-wilderness-survival/11-wilderness-casualty-care-and-evacuation.md#moving-the-casualty).
 
 ---
 

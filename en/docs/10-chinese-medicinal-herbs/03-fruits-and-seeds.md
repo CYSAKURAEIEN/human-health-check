@@ -99,7 +99,7 @@ Most herbs in this group are "both food and medicine", and they are the most lik
 
 ### 1.1 Gouqizi (goji berry)
 
-- **Gouqizi (Gouqi, Ningxia Gouqi, Xigouqi)**: Chinese 枸杞子 (枸杞、宁夏枸杞、西枸杞)
+- **Gouqizi (Gouqi, Ningxia Gouqi, Xigouqi)**: Chinese 枸杞子; *Lycium barbarum* L.
 - **Source**: the dried ripe fruit of *Lycium barbarum* L. (Ningxia wolfberry), Solanaceae
 - **Distribution and habitat**: mainly Ningxia, Gansu, Qinghai, Xinjiang and Inner Mongolia; widely cultivated. The related Chinese wolfberry *L. chinense* is common on field banks, roadsides and around villages throughout China; its fruit, commonly called "local goji", is not the Pharmacopoeia herb
 - **Key identification features**:
@@ -115,7 +115,7 @@ Most herbs in this group are "both food and medicine", and they are the most lik
 
 ### 1.2 Nüzhenzi (glossy privet fruit)
 
-- **Nüzhenzi (Nüzhenshi, Dongqingzi)**: Chinese 女贞子 (女贞实、冬青子)
+- **Nüzhenzi (Nüzhenshi, Dongqingzi)**: Chinese 女贞子; *Ligustrum lucidum* Ait.
 - **Source**: the dried ripe fruit of *Ligustrum lucidum* Ait. (glossy privet), Oleaceae
 - **Distribution and habitat**: the Yangtze basin and southwards; widely planted as a street tree and hedge, very common in cities
 - **Key identification features**:
@@ -130,7 +130,7 @@ Most herbs in this group are "both food and medicine", and they are the most lik
 
 ### 1.3 Tusizi (dodder seed)
 
-- **Tusizi (Tusizi written 吐丝子, Huangsizi)**: Chinese 菟丝子 (吐丝子、黄丝子)
+- **Tusizi (Tusizi written 吐丝子, Huangsizi)**: Chinese 菟丝子; *Cuscuta australis* R. Br., *C. chinensis* Lam.
 - **Source**: the dried ripe seed of *Cuscuta australis* R. Br. (southern dodder) or *C. chinensis* Lam. (Chinese dodder), Convolvulaceae
 - **Distribution and habitat**: throughout China; **parasitic** on soya beans, lucerne, plants of the daisy family and shrubs; a common parasitic weed of farmland
 - **Key identification features**:
@@ -146,7 +146,7 @@ Most herbs in this group are "both food and medicine", and they are the most lik
 
 ### 1.4 Buguzhi (psoralea fruit)
 
-- **Buguzhi (Poguzhi, Heiguzi)**: Chinese 补骨脂 (破故纸、黑故子)
+- **Buguzhi (Poguzhi, Heiguzi)**: Chinese 补骨脂; *Psoralea corylifolia* L.
 - **Source**: the dried ripe fruit of *Psoralea corylifolia* L. (psoralea), Fabaceae
 - **Distribution and habitat**: cultivated in Henan, Sichuan, Anhui, Shaanxi and elsewhere; rare in the wild
 - **Key identification features**:
@@ -164,7 +164,7 @@ Most herbs in this group are "both food and medicine", and they are the most lik
 
 ### 1.5 Dazao (jujube)
 
-- **Dazao (Hongzao, Ganzao)**: Chinese 大枣 (红枣、干枣)
+- **Dazao (Hongzao, Ganzao)**: Chinese 大枣; *Ziziphus jujuba* Mill.
 - **Source**: the dried ripe fruit of *Ziziphus jujuba* Mill. (jujube), Rhamnaceae
 - **Distribution and habitat**: cultivated in most of China; the main producing areas are Xinjiang, Hebei, Shandong, Shanxi, Henan and Shaanxi
 - **Key identification features**:
@@ -179,7 +179,7 @@ Most herbs in this group are "both food and medicine", and they are the most lik
 
 ### 1.6 Baibiandou (white hyacinth bean)
 
-- **Baibiandou (Biandou, Baimeidou)**: Chinese 白扁豆 (扁豆、白眉豆)
+- **Baibiandou (Biandou, Baimeidou)**: Chinese 白扁豆; *Dolichos lablab* L.
 - **Source**: the dried ripe seed of *Dolichos lablab* L. (hyacinth bean), Fabaceae
 - **Distribution and habitat**: cultivated throughout China as a vegetable and medicine; for medicinal use, the variety with white flowers and white seeds is taken
 - **Key identification features**:
@@ -201,7 +201,7 @@ Astringent herbs are used for conditions where things "slip out and cannot be he
 
 ### 2.1 Shanzhuyu (cornus fruit)
 
-- **Shanzhuyu (Shanyurou, Zaopi, Yurou)**: Chinese 山茱萸 (山萸肉、枣皮、萸肉)
+- **Shanzhuyu (Shanyurou, Zaopi, Yurou)**: Chinese 山茱萸; *Cornus officinalis* Sieb. et Zucc.
 - **Source**: the dried ripe **fruit flesh** of *Cornus officinalis* Sieb. et Zucc. (Asiatic cornelian cherry), Cornaceae
 - **Distribution and habitat**: hillsides and forest edges in Zhejiang, Henan, Anhui, Shaanxi and elsewhere; mostly cultivated
 - **Key identification features**:
@@ -216,7 +216,7 @@ Astringent herbs are used for conditions where things "slip out and cannot be he
 
 ### 2.2 Wuweizi (schisandra berry)
 
-- **Wuweizi (Bei Wuweizi, Liao Wuweizi)**: Chinese 五味子 (北五味子、辽五味子)
+- **Wuweizi (Bei Wuweizi, Liao Wuweizi)**: Chinese 五味子; *Schisandra chinensis* (Turcz.) Baill.
 - **Source**: the dried ripe fruit of *Schisandra chinensis* (Turcz.) Baill. (schisandra), Magnoliaceae, traditionally called "northern *Wuweizi*". The fruit of the related *S. sphenanthera* is "southern *Wuweizi*", which has its own entry in the Pharmacopoeia
 - **Distribution and habitat**: forest edges, thickets and valleys in the mountains of north-east and north China; cultivated in the north-east
 - **Key identification features**:
@@ -229,11 +229,11 @@ Astringent herbs are used for conditions where things "slip out and cannot be he
 - **Actions**: astringes and secures, boosts qi and generates fluids, tonifies the kidney and calms the heart
 - **Dose**: 2-6 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: not suitable for people with a fever from an external illness, a cough that has just started, or internal excess heat. **Schisandra affects how the body metabolises tacrolimus and other drugs** (raising blood levels); people taking immunosuppressants after an organ transplant, and anyone on other long-term prescription medicines, must ask a doctor first
-- 🛡️ **Protection reminder**: *Wuweizi* is on the List of Wild Medicinal Species under Key State Protection (grade III; the text of the list is authoritative). Leave seed and vines on wild plants; do not pull up whole vines; use cultivated material first
+- 🛡️ **Protection note**: *Wuweizi* is on the List of Wild Medicinal Species under Key State Protection (grade III; the text of the list is authoritative). Leave seed and vines on wild plants; do not pull up whole vines; use cultivated material first
 
 ### 2.3 Wumei (smoked plum)
 
-- **Wumei (Suanmei, Xunmei)**: Chinese 乌梅 (酸梅、熏梅)
+- **Wumei (Suanmei, Xunmei)**: Chinese 乌梅; *Prunus mume* (Sieb.) Sieb. et Zucc.
 - **Source**: the dried nearly ripe fruit of *Prunus mume* (Sieb.) Sieb. et Zucc. (mume plum), Rosaceae
 - **Distribution and habitat**: cultivated in Sichuan, Zhejiang, Fujian, Hunan, Yunnan and elsewhere
 - **Key identification features**:
@@ -248,7 +248,7 @@ Astringent herbs are used for conditions where things "slip out and cannot be he
 
 ### 2.4 Jinyingzi (Cherokee rose hip)
 
-- **Jinyingzi (Tangguanzi, Cilizi, Shanshiliu)**: Chinese 金樱子 (糖罐子、刺梨子、山石榴)
+- **Jinyingzi (Tangguanzi, Cilizi, Shanshiliu)**: Chinese 金樱子; *Rosa laevigata* Michx.
 - **Source**: the dried ripe fruit of *Rosa laevigata* Michx. (Cherokee rose), Rosaceae
 - **Distribution and habitat**: sunny hillsides, field edges and thickets in east, south and south-west China
 - **Key identification features**:
@@ -263,7 +263,7 @@ Astringent herbs are used for conditions where things "slip out and cannot be he
 
 ### 2.5 Fupenzi (Chinese raspberry)
 
-- **Fupenzi (Huadong Fupenzi, Zhangye Fupenzi)**: Chinese 覆盆子 (华东覆盆子、掌叶覆盆子)
+- **Fupenzi (Huadong Fupenzi, Zhangye Fupenzi)**: Chinese 覆盆子; *Rubus chingii* Hu
 - **Source**: the dried fruit of *Rubus chingii* Hu (palm-leaf raspberry), Rosaceae
 - **Distribution and habitat**: hillsides, forest edges and roadside thickets in Zhejiang, Fujian, Jiangxi, Anhui and elsewhere
 - **Key identification features**:
@@ -278,7 +278,7 @@ Astringent herbs are used for conditions where things "slip out and cannot be he
 
 ### 2.6 Lianzi (lotus seed)
 
-- **Lianzi (Lianrou, Lianmi)**: Chinese 莲子 (莲肉、莲米)
+- **Lianzi (Lianrou, Lianmi)**: Chinese 莲子; *Nelumbo nucifera* Gaertn.
 - **Source**: the dried ripe seed of *Nelumbo nucifera* Gaertn. (sacred lotus), Nymphaeaceae
 - **Distribution and habitat**: ponds and lakes throughout China; widely cultivated in Hunan (Xiang lotus), Fujian (Jian lotus), Jiangxi, Hubei and elsewhere
 - **Key identification features**:
@@ -293,7 +293,7 @@ Astringent herbs are used for conditions where things "slip out and cannot be he
 
 ### 2.7 Qianshi (euryale seed)
 
-- **Qianshi (Jitoumi, Jitoushi)**: Chinese 芡实 (鸡头米、鸡头实)
+- **Qianshi (Jitoumi, Jitoushi)**: Chinese 芡实; *Euryale ferox* Salisb.
 - **Source**: the dried ripe kernel of *Euryale ferox* Salisb. (prickly water lily), Nymphaeaceae
 - **Distribution and habitat**: ponds, lakes and marshes in Jiangsu, Shandong, Hunan, Hubei, Anhui and elsewhere; cultivated as food around Suzhou
 - **Key identification features**:
@@ -308,7 +308,7 @@ Astringent herbs are used for conditions where things "slip out and cannot be he
 
 ### 2.8 Suanzaoren (sour jujube seed)
 
-- **Suanzaoren (Zaoren, Shanzaoren)**: Chinese 酸枣仁 (枣仁、山枣仁)
+- **Suanzaoren (Zaoren, Shanzaoren)**: Chinese 酸枣仁; *Ziziphus jujuba* Mill. var. *spinosa* (Bunge) Hu ex H. F. Chou
 - **Source**: the dried ripe seed of *Ziziphus jujuba* Mill. var. *spinosa* (Bunge) Hu ex H. F. Chou (sour jujube), Rhamnaceae
 - **Distribution and habitat**: sunny, dry hillsides, low hills and roadsides in Hebei, Shaanxi, Liaoning, Henan, Shanxi, Shandong and elsewhere
 - **Key identification features**:
@@ -329,7 +329,7 @@ Qi-regulating herbs are mostly pungent, aromatic and dispersing, and are used fo
 
 ### 3.1 Chenpi (dried tangerine peel)
 
-- **Chenpi (Jupi, Guang Chenpi, Xinhuipi)**: Chinese 陈皮 (橘皮、广陈皮、新会皮)
+- **Chenpi (Jupi, Guang Chenpi, Xinhuipi)**: Chinese 陈皮; *Citrus reticulata* Blanco
 - **Source**: the dried ripe peel of *Citrus reticulata* Blanco (mandarin orange) and its cultivars, Rutaceae. The herb is divided into "*Chenpi*" and "*Guang Chenpi*" (the peel of the Chachi mandarin from the Xinhui area of Guangdong)
 - **Distribution and habitat**: widely cultivated south of the Yangtze
 - **Key identification features**:
@@ -345,7 +345,7 @@ Qi-regulating herbs are mostly pungent, aromatic and dispersing, and are used fo
 
 ### 3.2 Qingpi (green tangerine peel)
 
-- **Qingpi (Ge Qingpi, Sihua Qingpi)**: Chinese 青皮 (个青皮、四花青皮)
+- **Qingpi (Ge Qingpi, Sihua Qingpi)**: Chinese 青皮; *Citrus reticulata* Blanco
 - **Source**: the dried young fruit, or the peel of the unripe fruit, of *Citrus reticulata* Blanco (mandarin orange) and its cultivars, Rutaceae
 - **Distribution and habitat**: as for *Chenpi*
 - **Key identification features**:
@@ -360,7 +360,7 @@ Qi-regulating herbs are mostly pungent, aromatic and dispersing, and are used fo
 
 ### 3.3 Zhishi (immature bitter orange)
 
-- **Zhishi (Jiang Zhishi, E'yan Zhishi)**: Chinese 枳实 (江枳实、鹅眼枳实)
+- **Zhishi (Jiang Zhishi, E'yan Zhishi)**: Chinese 枳实; *Citrus aurantium* L., *C. sinensis* Osbeck
 - **Source**: the dried **young fruit** of *Citrus aurantium* L. (bitter orange) and its cultivars, or of *C. sinensis* Osbeck (sweet orange), Rutaceae
 - **Distribution and habitat**: cultivated in Jiangxi, Sichuan, Hunan, Hubei, Zhejiang and elsewhere
 - **Key identification features**:
@@ -375,7 +375,7 @@ Qi-regulating herbs are mostly pungent, aromatic and dispersing, and are used fo
 
 ### 3.4 Zhiqiao (bitter orange)
 
-- **Zhiqiao (Jiang Zhiqiao, Chuan Zhiqiao)**: Chinese 枳壳 (江枳壳、川枳壳)
+- **Zhiqiao (Jiang Zhiqiao, Chuan Zhiqiao)**: Chinese 枳壳; *Citrus aurantium* L.
 - **Source**: the dried **unripe fruit** of *Citrus aurantium* L. (bitter orange) and its cultivars, Rutaceae
 - **Distribution and habitat**: as for *Zhishi*
 - **Key identification features**:
@@ -389,7 +389,7 @@ Qi-regulating herbs are mostly pungent, aromatic and dispersing, and are used fo
 
 ### 3.5 Shanzha (hawthorn fruit)
 
-- **Shanzha (Bei Shanzha, Shanlihong, Hongguo)**: Chinese 山楂 (北山楂、山里红、红果)
+- **Shanzha (Bei Shanzha, Shanlihong, Hongguo)**: Chinese 山楂; *Crataegus pinnatifida* Bge. var. *major* N. E. Br., *C. pinnatifida* Bge.
 - **Source**: the dried ripe fruit of *Crataegus pinnatifida* Bge. var. *major* N. E. Br. (large-fruited Chinese hawthorn) or *C. pinnatifida* Bge. (Chinese hawthorn), Rosaceae
 - **Distribution and habitat**: Shandong, Hebei, Henan, Liaoning, Shanxi and elsewhere; mostly cultivated; wild on hillsides and forest edges
 - **Key identification features**:
@@ -404,7 +404,7 @@ Qi-regulating herbs are mostly pungent, aromatic and dispersing, and are used fo
 
 ### 3.6 Laifuzi (radish seed)
 
-- **Laifuzi (Luobozi, written 萝卜子 or 萝卜籽)**: Chinese 莱菔子 (萝卜子、萝卜籽)
+- **Laifuzi (Luobozi, written 萝卜子 or 萝卜籽)**: Chinese 莱菔子; *Raphanus sativus* L.
 - **Source**: the dried ripe seed of *Raphanus sativus* L. (radish), Brassicaceae
 - **Distribution and habitat**: cultivated throughout China
 - **Key identification features**:
@@ -419,7 +419,7 @@ Qi-regulating herbs are mostly pungent, aromatic and dispersing, and are used fo
 
 ### 3.7 Chuanlianzi (toosendan fruit)
 
-- **Chuanlianzi (Jinlingzi, Chuanlianshi)**: Chinese 川楝子 (金铃子、川楝实)
+- **Chuanlianzi (Jinlingzi, Chuanlianshi)**: Chinese 川楝子; *Melia toosendan* Sieb. et Zucc.
 - **Source**: the dried ripe fruit of *Melia toosendan* Sieb. et Zucc. (Sichuan chinaberry), Meliaceae
 - **Distribution and habitat**: Sichuan, Yunnan, Guizhou, Hubei, Hunan and elsewhere; plains, low hills and around villages
 - **Key identification features**:
@@ -443,7 +443,7 @@ Most herbs in this group are cool in nature and are used for fever, sore throat,
 
 ### 4.1 Zhizi (gardenia fruit)
 
-- **Zhizi (Shanzhi, Huangzhizi, Shanzhizi)**: Chinese 栀子 (山栀、黄栀子、山栀子)
+- **Zhizi (Shanzhi, Huangzhizi, Shanzhizi)**: Chinese 栀子; *Gardenia jasminoides* Ellis
 - **Source**: the dried ripe fruit of *Gardenia jasminoides* Ellis (gardenia), Rubiaceae
 - **Distribution and habitat**: hillside thickets and forest edges in Jiangxi, Hunan, Hubei, Zhejiang, Fujian, Sichuan and elsewhere; widely cultivated (it is the gardenia flower)
 - **Key identification features**:
@@ -459,7 +459,7 @@ Most herbs in this group are cool in nature and are used for fever, sore throat,
 
 ### 4.2 Lianqiao (forsythia fruit)
 
-- **Lianqiao (Qingqiao, Laoqiao, Huangqiao)**: Chinese 连翘 (青翘、老翘、黄翘)
+- **Lianqiao (Qingqiao, Laoqiao, Huangqiao)**: Chinese 连翘; *Forsythia suspensa* (Thunb.) Vahl
 - **Source**: the dried fruit of *Forsythia suspensa* (Thunb.) Vahl (weeping forsythia), Oleaceae
 - **Distribution and habitat**: hillside thickets and forest edges in Shanxi, Henan, Shaanxi, Hebei, Shandong and elsewhere; often planted in cities as an early-spring ornamental shrub
 - **Key identification features**:
@@ -474,11 +474,11 @@ Most herbs in this group are cool in nature and are used for fever, sore throat,
 - **Actions**: clears heat and removes toxins, reduces swelling and dissipates lumps, disperses wind-heat
 - **Dose**: 6-15 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: use with caution in people with a cold, weak digestion or fever from qi deficiency
-- 🛡️ **Protection reminder**: *Lianqiao* is on the List of Wild Medicinal Species under Key State Protection (grade III; the text of the list is authoritative). *Qingqiao* fetches a high price, and "rushing the green" – picking too early – damages the resource; do not harvest before the proper season, and pick only part of the fruit
+- 🛡️ **Protection note**: *Lianqiao* is on the List of Wild Medicinal Species under Key State Protection (grade III; the text of the list is authoritative). *Qingqiao* fetches a high price, and "rushing the green" – picking too early – damages the resource; do not harvest before the proper season, and pick only part of the fruit
 
 ### 4.3 Juemingzi (cassia seed)
 
-- **Juemingzi (Caojueming, Mati Jueming)**: Chinese 决明子 (草决明、马蹄决明)
+- **Juemingzi (Caojueming, Mati Jueming)**: Chinese 决明子; *Cassia obtusifolia* L., *C. tora* L.
 - **Source**: the dried ripe seed of *Cassia obtusifolia* L. (sicklepod) or *C. tora* L. (sickle senna, "small *Jueming*"), Fabaceae
 - **Distribution and habitat**: wild or cultivated south of the Yangtze; also cultivated in the north
 - **Key identification features**:
@@ -495,7 +495,7 @@ Most herbs in this group are cool in nature and are used for fever, sore throat,
 
 ### 4.4 Niubangzi (burdock fruit)
 
-- **Niubangzi (Dalizi, Shunianzi, Eshi)**: Chinese 牛蒡子 (大力子、鼠粘子、恶实)
+- **Niubangzi (Dalizi, Shunianzi, Eshi)**: Chinese 牛蒡子; *Arctium lappa* L.
 - **Source**: the dried ripe fruit of *Arctium lappa* L. (greater burdock), Asteraceae
 - **Distribution and habitat**: hillsides, roadsides, villages and forest edges throughout China; cultivated in the north-east, Zhejiang and elsewhere (the root is eaten as the vegetable "burdock")
 - **Key identification features**:
@@ -514,7 +514,7 @@ Most herbs in this group are cool in nature and are used for fever, sore throat,
 
 ### 4.5 Manjingzi (vitex fruit)
 
-- **Manjingzi (Jingzi, Wanjingzi)**: Chinese 蔓荆子 (荆子、万荆子)
+- **Manjingzi (Jingzi, Wanjingzi)**: Chinese 蔓荆子; *Vitex trifolia* L. var. *simplicifolia* Cham., *V. trifolia* L.
 - **Source**: the dried ripe fruit of *Vitex trifolia* L. var. *simplicifolia* Cham. (simple-leaf chaste tree) or *V. trifolia* L. (three-leaf chaste tree), Verbenaceae
 - **Distribution and habitat**: simple-leaf chaste tree grows on **sandy beaches by the sea** in Shandong, Jiangsu, Zhejiang, Fujian, Guangdong and elsewhere; three-leaf chaste tree is found in south China
 - **Key identification features**:
@@ -529,7 +529,7 @@ Most herbs in this group are cool in nature and are used for fever, sore throat,
 
 ### 4.6 Luohanguo (monk fruit)
 
-- **Luohanguo (Lahanguo, Jiakugua)**: Chinese 罗汉果 (拉汗果、假苦瓜)
+- **Luohanguo (Lahanguo, Jiakugua)**: Chinese 罗汉果; *Siraitia grosvenorii* (Swingle) C. Jeffrey ex A. M. Lu et Z. Y. Zhang
 - **Source**: the dried fruit of *Siraitia grosvenorii* (Swingle) C. Jeffrey ex A. M. Lu et Z. Y. Zhang (monk fruit), Cucurbitaceae
 - **Distribution and habitat**: the main producing area is around Guilin (Yongfu, Lingui) in Guangxi, almost all cultivated; wild in mountain forests of south China
 - **Key identification features**:
@@ -544,7 +544,7 @@ Most herbs in this group are cool in nature and are used for fever, sore throat,
 
 ### 4.7 Pangdahai (malva nut)
 
-- **Pangdahai (Annanzi, Dahaizi, Tongdahai)**: Chinese 胖大海 (安南子、大海子、通大海)
+- **Pangdahai (Annanzi, Dahaizi, Tongdahai)**: Chinese 胖大海; *Sterculia lychnophora* Hance
 - **Source**: the dried ripe seed of *Sterculia lychnophora* Hance (malva nut tree), Sterculiaceae
 - **Distribution and habitat**: mainly Vietnam, Thailand, Cambodia, Indonesia and other countries of South-East Asia, and most of the herb on the market is imported; small amounts are grown in Hainan and Guangxi
 - **Key identification features**:
@@ -565,7 +565,7 @@ Most herbs in this group are cool in nature and are used for fever, sore throat,
 
 ### 5.1 Sharen (amomum fruit)
 
-- **Sharen (Yangchunsha, Chunsharen, Suosharen)**: Chinese 砂仁 (阳春砂、春砂仁、缩砂仁)
+- **Sharen (Yangchunsha, Chunsharen, Suosharen)**: Chinese 砂仁; *Amomum villosum* Lour., *A. villosum* Lour. var. *xanthioides* T. L. Wu et Senjen, *A. longiligulare* T. L. Wu
 - **Source**: the dried ripe fruit of *Amomum villosum* Lour. (Yangchun amomum), *A. villosum* Lour. var. *xanthioides* T. L. Wu et Senjen (green-shell amomum) or *A. longiligulare* T. L. Wu (Hainan amomum), Zingiberaceae
 - **Distribution and habitat**: Yangchun in Guangdong, Guangxi, Yunnan, Hainan and elsewhere; shady, damp places under forest in valleys; mostly cultivated
 - **Key identification features**:
@@ -581,7 +581,7 @@ Most herbs in this group are cool in nature and are used for fever, sore throat,
 
 ### 5.2 Doukou (round cardamom)
 
-- **Doukou (Baidoukou, Baikou, Zikou)**: Chinese 豆蔻 (白豆蔻、白蔻、紫蔻)
+- **Doukou (Baidoukou, Baikou, Zikou)**: Chinese 豆蔻; *Amomum kravanh* Pierre ex Gagnep., *A. compactum* Soland ex Maton
 - **Source**: the dried ripe fruit of *Amomum kravanh* Pierre ex Gagnep. (Siam cardamom) or *A. compactum* Soland ex Maton (Java cardamom), Zingiberaceae. By origin it is divided into "original *Doukou*" and "Indonesian white *Doukou*"
 - **Distribution and habitat**: mainly Thailand, Cambodia and Indonesia, and most of the herb on the market is imported; introduced to Yunnan and Hainan
 - **Key identification features**:
@@ -598,7 +598,7 @@ Most herbs in this group are cool in nature and are used for fever, sore throat,
 
 ### 5.3 Caoguo (tsaoko fruit)
 
-- **Caoguo (Caoguoren, Laokou)**: Chinese 草果 (草果仁、老蔻)
+- **Caoguo (Caoguoren, Laokou)**: Chinese 草果; *Amomum tsao-ko* Crevost et Lemaire
 - **Source**: the dried ripe fruit of *Amomum tsao-ko* Crevost et Lemaire (tsaoko), Zingiberaceae
 - **Distribution and habitat**: shady, damp places under forest in valleys in Yunnan, Guangxi and Guizhou; mostly cultivated; also a common spice
 - **Key identification features**:
@@ -613,7 +613,7 @@ Most herbs in this group are cool in nature and are used for fever, sore throat,
 
 ### 5.4 Yiyiren (coix seed)
 
-- **Yiyiren (Yimi, Yiren, Liugumi)**: Chinese 薏苡仁 (薏米、苡仁、六谷米)
+- **Yiyiren (Yimi, Yiren, Liugumi)**: Chinese 薏苡仁; *Coix lacryma-jobi* L. var. *ma-yuen* (Roman.) Stapf
 - **Source**: the dried ripe kernel of *Coix lacryma-jobi* L. var. *ma-yuen* (Roman.) Stapf (cultivated Job's tears), Poaceae
 - **Distribution and habitat**: cultivated in Guizhou, Guangxi, Fujian, Zhejiang, Yunnan and elsewhere; wild relatives (wild Job's tears, "grass beads") grow by streams and in wetlands
 - **Key identification features**:
@@ -628,7 +628,7 @@ Most herbs in this group are cool in nature and are used for fever, sore throat,
 
 ### 5.5 Cheqianzi (plantain seed)
 
-- **Cheqianzi (Cheqianshi, Fengyan Qianren)**: Chinese 车前子 (车前实、凤眼前仁)
+- **Cheqianzi (Cheqianshi, Fengyan Qianren)**: Chinese 车前子; *Plantago asiatica* L., *P. depressa* Willd.
 - **Source**: the dried ripe seed of *Plantago asiatica* L. (Asian plantain) or *P. depressa* Willd. (depressed plantain), Plantaginaceae
 - **Distribution and habitat**: roadsides, field banks, grassland and around houses throughout China; extremely common
 - **Key identification features**:
@@ -644,7 +644,7 @@ Most herbs in this group are cool in nature and are used for fever, sore throat,
 
 ### 5.6 Mugua (Chinese flowering quince)
 
-- **Mugua (Zhoupi Mugua, Xuan Mugua, Tiegeng Haitang)**: Chinese 木瓜 (皱皮木瓜、宣木瓜、贴梗海棠)
+- **Mugua (Zhoupi Mugua, Xuan Mugua, Tiegeng Haitang)**: Chinese 木瓜; *Chaenomeles speciosa* (Sweet) Nakai
 - **Source**: the dried nearly ripe fruit of *Chaenomeles speciosa* (Sweet) Nakai (Chinese flowering quince), Rosaceae
 - **Distribution and habitat**: cultivated in Anhui (Xuancheng, "*Xuan Mugua*"), Hubei, Sichuan, Zhejiang and elsewhere; also often grown as an ornamental shrub in gardens
 - **Key identification features**:
@@ -665,7 +665,7 @@ Interior-warming herbs are warm or hot and pungent, and are used for cold pain i
 
 ### 6.1 Wuzhuyu (evodia fruit)
 
-- **Wuzhuyu (Wuyu, Chala, Lazi)**: Chinese 吴茱萸 (吴萸、茶辣、辣子)
+- **Wuzhuyu (Wuyu, Chala, Lazi)**: Chinese 吴茱萸; *Euodia rutaecarpa* (Juss.) Benth., *E. rutaecarpa* (Juss.) Benth. var. *officinalis* (Dode) Huang, *E. rutaecarpa* (Juss.) Benth. var. *bodinieri* (Dode) Huang
 - **Source**: the dried nearly ripe fruit of *Euodia rutaecarpa* (Juss.) Benth. (evodia), *E. rutaecarpa* (Juss.) Benth. var. *officinalis* (Dode) Huang or *E. rutaecarpa* (Juss.) Benth. var. *bodinieri* (Dode) Huang, Rutaceae
 - **Distribution and habitat**: open mountain woods and forest edges in Guizhou, Guangxi, Hunan, Zhejiang, Jiangxi, Sichuan and elsewhere; mostly cultivated
 - **Key identification features**:
@@ -683,7 +683,7 @@ Interior-warming herbs are warm or hot and pungent, and are used for cold pain i
 
 ### 6.2 Xiaohuixiang (fennel fruit)
 
-- **Xiaohuixiang (Huixiang, Guhuixiang, Xiaohui)**: Chinese 小茴香 (茴香、谷茴香、小茴)
+- **Xiaohuixiang (Huixiang, Guhuixiang, Xiaohui)**: Chinese 小茴香; *Foeniculum vulgare* Mill.
 - **Source**: the dried ripe fruit of *Foeniculum vulgare* Mill. (fennel), Apiaceae
 - **Distribution and habitat**: cultivated throughout China; the young stems and leaves are eaten as the vegetable "fennel greens"
 - **Key identification features**:
@@ -701,7 +701,7 @@ Interior-warming herbs are warm or hot and pungent, and are used for cold pain i
 
 ### 6.3 Huajiao (Sichuan pepper)
 
-- **Huajiao (Chuanjiao, Shujiao, Qinghuajiao)**: Chinese 花椒 (川椒、蜀椒、青花椒)
+- **Huajiao (Chuanjiao, Shujiao, Qinghuajiao)**: Chinese 花椒; *Zanthoxylum schinifolium* Sieb. et Zucc., *Z. bungeanum* Maxim.
 - **Source**: the dried ripe **peel** of *Zanthoxylum schinifolium* Sieb. et Zucc. (green Sichuan pepper) or *Z. bungeanum* Maxim. (red Sichuan pepper), Rutaceae
 - **Distribution and habitat**: Sichuan, Shaanxi, Gansu, Hebei, Shandong, Shanxi and elsewhere; mostly cultivated
 - **Key identification features**:
@@ -723,7 +723,7 @@ All the herbs in this group are oil-rich seeds that moisten the intestines and r
 
 ### 7.1 Kuxingren (bitter apricot kernel)
 
-- **Kuxingren (Beixingren, Xingren)**: Chinese 苦杏仁 (北杏仁、杏仁)
+- **Kuxingren (Beixingren, Xingren)**: Chinese 苦杏仁; *Prunus armeniaca* L. var. *ansu* Maxim., *P. sibirica* L., *P. mandshurica* (Maxim.) Koehne, *P. armeniaca* L.
 - **Source**: the dried ripe seed of *Prunus armeniaca* L. var. *ansu* Maxim. (ansu apricot), *P. sibirica* L. (Siberian apricot), *P. mandshurica* (Maxim.) Koehne (Manchurian apricot) or *P. armeniaca* L. (apricot), Rosaceae
 - **Distribution and habitat**: hillsides and low hills in north, north-west and north-east China; wild or cultivated
 - **Key identification features**:
@@ -741,7 +741,7 @@ All the herbs in this group are oil-rich seeds that moisten the intestines and r
 
 ### 7.2 Taoren (peach kernel)
 
-- **Taoren (Maotaoren, Shantaoren)**: Chinese 桃仁 (毛桃仁、山桃仁)
+- **Taoren (Maotaoren, Shantaoren)**: Chinese 桃仁; *Prunus persica* (L.) Batsch, *P. davidiana* (Carr.) Franch.
 - **Source**: the dried ripe seed of *Prunus persica* (L.) Batsch (peach) or *P. davidiana* (Carr.) Franch. (David's peach), Rosaceae
 - **Distribution and habitat**: peach is cultivated throughout China; David's peach grows wild on hillsides and in valleys in north and north-west China
 - **Key identification features**:
@@ -757,7 +757,7 @@ All the herbs in this group are oil-rich seeds that moisten the intestines and r
 
 ### 7.3 Zisuzi (perilla fruit)
 
-- **Zisuzi (Suzi, Heisuzi)**: Chinese 紫苏子 (苏子、黑苏子)
+- **Zisuzi (Suzi, Heisuzi)**: Chinese 紫苏子; *Perilla frutescens* (L.) Britt.
 - **Source**: the dried ripe fruit of *Perilla frutescens* (L.) Britt. (perilla), Lamiaceae
 - **Distribution and habitat**: cultivated throughout China, also escaped into the wild; the leaves are a common flavouring vegetable
 - **Key identification features**:
@@ -773,7 +773,7 @@ All the herbs in this group are oil-rich seeds that moisten the intestines and r
 
 ### 7.4 Huomaren (hemp seed)
 
-- **Huomaren (Maziren, Damaren, Huomazi)**: Chinese 火麻仁 (麻子仁、大麻仁、火麻子)
+- **Huomaren (Maziren, Damaren, Huomazi)**: Chinese 火麻仁; *Cannabis sativa* L.
 - **Source**: the dried ripe fruit of *Cannabis sativa* L. (hemp), Moraceae
 - **Distribution and habitat**: historically grown everywhere for fibre and seed; today **growing cannabis plants is strictly controlled by the state**
 - **Key identification features**:
@@ -794,7 +794,7 @@ All the herbs in this group are oil-rich seeds that moisten the intestines and r
 
 ### 8.1 Shijunzi (rangoon creeper fruit)
 
-- **Shijunzi (Liuqiuzi, Shijunzi written 史君子)**: Chinese 使君子 (留求子、史君子)
+- **Shijunzi (Liuqiuzi, Shijunzi written 史君子)**: Chinese 使君子; *Quisqualis indica* L.
 - **Source**: the dried ripe fruit of *Quisqualis indica* L. (rangoon creeper), Combretaceae
 - **Distribution and habitat**: Sichuan, Fujian, Guangdong, Guangxi, Yunnan and elsewhere; hillside and roadside thickets; also grown as an ornamental climber
 - **Key identification features**:
@@ -809,7 +809,7 @@ All the herbs in this group are oil-rich seeds that moisten the intestines and r
 
 ### 8.2 Binglang (areca nut)
 
-- **Binglang (Dafuzi, Binglangzi, Hainanzi)**: Chinese 槟榔 (大腹子、槟榔子、海南子)
+- **Binglang (Dafuzi, Binglangzi, Hainanzi)**: Chinese 槟榔; *Areca catechu* L.
 - **Source**: the dried ripe seed of *Areca catechu* L. (areca palm, betel palm), Arecaceae
 - **Distribution and habitat**: cultivated in Hainan, Yunnan and Taiwan; widely grown in South-East and South Asia
 - **Key identification features**:

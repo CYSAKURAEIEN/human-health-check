@@ -1016,7 +1016,7 @@ Methods:
 ⚠️ It must be well rotted: raw manure burns roots and attracts soil pests
 ```
 
-For safe treatment of manure and urine and composting times, see [Sanitation - Using faeces and urine](../07-everyday-living-skills/03-sanitation.md#using-faeces-and-urine); for the roles of nitrogen, phosphorus and potassium, see [Farming and animal husbandry - Fertilising](README.md#fertilising).
+For safe treatment of manure and urine and composting times, see [Sanitation - Using faeces and urine](../07-everyday-living-skills/03-sanitation.md#using-faeces-and-urine); for the roles of nitrogen, phosphorus and potassium, see [Growing plants and raising animals - Fertilising](README.md#fertilising).
 
 **Top-dressing** (growing season):
 ```

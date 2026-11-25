@@ -347,7 +347,7 @@ The same ideas work without electricity:
   relay posts passing messages on, numbered letters, asking for receipts and read-backs
 ```
 
-For emergency communication see [Emergency Communication and Family Tracing](../02-disaster-response/06-emergency-communication-and-family-reunification.md).
+For emergency communication see [Emergency Communication and Family Reunification](../02-disaster-response/06-emergency-communication-and-family-reunification.md).
 
 ---
 

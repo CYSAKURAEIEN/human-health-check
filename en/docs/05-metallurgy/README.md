@@ -21,7 +21,7 @@
 Basic concepts of metallurgy and the preparation work.
 
 **Main content:**
-- ⚒️ Building smelting furnaces (clay furnaces, blast furnaces)
+- ⚒️ Building smelting furnaces (clay furnaces, forced-air furnaces)
 - 🔥 Choosing and making fuel (charcoal, coke)
 - 🌡️ Temperature control
 - 🛡️ Safety and protection

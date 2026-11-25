@@ -71,20 +71,21 @@ Every herb in the later chapters is written up in the same order:
 
 ```
 Standard name (alternative names)
-Source:                 family and genus, plant (animal, mineral) name, part used,
-                        according to the 2020 edition of the Chinese Pharmacopoeia
-Distribution, habitat:  in which regions and what surroundings it can be found
-Key identification:     form of the plant + appearance of the dried herb
-                        (shape, colour, cut surface, smell and taste)
-Look-alikes:            especially poisonous look-alikes
-Collection, processing: when to collect, which part, how to dry it
-Storage:                protect against damp, insects, mould and oiling
-Actions:                one sentence
-Dose:                   usual Pharmacopoeia dose; use under the guidance of a
-                        TCM practitioner
-Contraindications:      pregnancy, children, liver and kidney disease,
-                        taking with Western medicines, etc.
-🛡️ Protection reminder: species under state key protection or with restricted digging
+Source:                       family and genus, plant (animal, mineral) name,
+                              part used, according to the 2020 edition of
+                              the Chinese Pharmacopoeia
+Distribution and habitat:     in which regions and what surroundings it can be found
+Key identification features:  form of the plant + appearance of the dried herb
+                              (shape, colour, cut surface, smell and taste)
+Look-alikes:                  especially poisonous look-alikes
+Harvesting and processing:    when to collect, which part, how to dry it
+Storage:                      protect against damp, insects, mould and oiling
+Actions:                      one sentence
+Dose:                         usual Pharmacopoeia dose; use under the guidance
+                              of a TCM practitioner
+Cautions:                     pregnancy, children, liver and kidney disease,
+                              taking with Western medicines, etc.
+🛡️ Protection note:           species under state key protection or with restricted digging
 ```
 
 **How to read the doses**: the doses given in the later chapters are the usual **daily adult** doses of the herb in the Pharmacopoeia of the People's Republic of China (2020 edition) (generally of the dried herb, decocted in water and taken by mouth). They are only there to remind you "do not exceed this"; they are not an invitation to treat yourself (see [7.1](#71-what-the-pharmacopoeia-dose-means) for details). The edition now in force is the 2025 edition; this handbook has not yet been compared item by item with its text, so for actual use the current edition and the advice of a TCM practitioner take precedence.

@@ -264,7 +264,7 @@ the axle or slightly in front of it:
 
 ## Draught animals and harness
 
-One animal working steadily does roughly the work of 5-10 people. But animals need feed, pasture, housing and care, so they pay only once the community is large enough and has enough feed. For keeping cattle, donkeys, horses and mules see [Livestock – Cattle, donkeys and other working animals](../04-farming-and-animal-husbandry/06-livestock.md#cattle-donkeys-and-other-draught-animals); best of all, find someone with experience to learn from.
+One animal working steadily does roughly the work of 5-10 people. But animals need feed, pasture, housing and care, so they pay only once the community is large enough and has enough feed. For keeping cattle, donkeys, horses and mules see [Livestock – Cattle, donkeys and other draught animals](../04-farming-and-animal-husbandry/06-livestock.md#cattle-donkeys-and-other-draught-animals); best of all, find someone with experience to learn from.
 
 | Animal | Sustained pull (as a fraction of body weight) | Speed | Pack load | Characteristics |
 |------|------------------|------|------|------|
@@ -318,7 +318,7 @@ Horses, mules, donkeys:
   runs from the shoulder back and down at a slant
 ```
 
-For making and caring for leather see [Textiles, Mending and Tanning – Making leather softer and waterproof](07-textiles-sewing-and-tanning.md#making-skins-softer-and-waterproof).
+For making and caring for leather see [Textiles, Sewing and Tanning – Making leather softer and waterproof](07-textiles-sewing-and-tanning.md#making-skins-softer-and-waterproof).
 
 ### Caring for working animals
 
@@ -506,7 +506,7 @@ How it is built (in principle):
 
 ⚠️ An arch pushes outwards on both sides: if the abutments are not heavy enough, the springings
    slide outwards and the whole bridge collapses
-⚠️ Without experience, build only small-span (a few m) arch bridges, and do not stand under
+⚠️ Without experience, build only small-span (a few metres) arch bridges, and do not stand under
    the arch while removing the centring
 ```
 

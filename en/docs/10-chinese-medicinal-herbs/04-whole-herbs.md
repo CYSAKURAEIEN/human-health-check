@@ -101,7 +101,7 @@ Most herbs in this group are aromatic plants of the mint family (Lamiaceae) and 
 
 ### 1.1 Bohe (mint)
 
-- **Bohe (Subohe, Nanbohe, Yebohe)**: Chinese 薄荷(苏薄荷、南薄荷、野薄荷); mint
+- **Bohe (Subohe, Nanbohe, Yebohe)**: Chinese 薄荷; *Mentha haplocalyx* Briq.
 - **Source**: the dried aerial parts of mint, *Mentha haplocalyx* Briq. (Lamiaceae)
 - **Distribution and habitat**: grows wild in most of China, by streams and ditches and in damp grassland; grown on a large scale in Jiangsu, Anhui, Jiangxi and elsewhere
 - **Key identification features**:
@@ -121,7 +121,7 @@ Most herbs in this group are aromatic plants of the mint family (Lamiaceae) and 
 
 ### 1.2 Guanghuoxiang (patchouli)
 
-- **Guanghuoxiang (Huoxiang, Zhixiang)**: Chinese 广藿香(藿香、枝香); patchouli
+- **Guanghuoxiang (Huoxiang, Zhixiang)**: Chinese 广藿香; *Pogostemon cablin* (Blanco) Benth.
 - **Source**: the dried aerial parts of patchouli, *Pogostemon cablin* (Blanco) Benth. (Lamiaceae)
 - **Distribution and habitat**: native to South-East Asia, grown in Guangdong, Hainan, Guangxi and elsewhere in China; it seldom flowers in China and is practically never found wild
 - **Key identification features**:
@@ -137,7 +137,7 @@ Most herbs in this group are aromatic plants of the mint family (Lamiaceae) and 
 
 ### 1.3 Jingjie (schizonepeta)
 
-- **Jingjie (Xiangjingjie, Jiasu)**: Chinese 荆芥(香荆芥、假苏); schizonepeta
+- **Jingjie (Xiangjingjie, Jiasu)**: Chinese 荆芥; *Schizonepeta tenuisfolia* Briq.
 - **Source**: the dried aerial parts of schizonepeta, *Schizonepeta tenuisfolia* Briq. (Lamiaceae); the flower spikes used alone are called "*Jingjiesui*"
 - **Distribution and habitat**: mainly from Jiangsu, Zhejiang, Jiangxi, Hebei and elsewhere, mostly cultivated; occasionally wild on hillsides and by roads
 - **Key identification features**:
@@ -153,7 +153,7 @@ Most herbs in this group are aromatic plants of the mint family (Lamiaceae) and 
 
 ### 1.4 Xiangru (mosla)
 
-- **Xiangru (Qingxiangru, Jiangxiangru)**: Chinese 香薷(青香薷、江香薷); Chinese mosla
+- **Xiangru (Qingxiangru, Jiangxiangru)**: Chinese 香薷; *Mosla chinensis* Maxim., *M. chinensis* 'Jiangxiangru'
 - **Source**: the dried aerial parts of *Mosla chinensis* Maxim. or *M. chinensis* 'Jiangxiangru' (Lamiaceae). The first is traditionally called "*Qingxiangru*", the second "*Jiangxiangru*"
 - **Distribution and habitat**: *Mosla chinensis* grows wild on grassy hillsides and in rock crevices in East, South and South-West China; 'Jiangxiangru' is mainly cultivated in Jiangxi
 - **Key identification features**:
@@ -169,7 +169,7 @@ Most herbs in this group are aromatic plants of the mint family (Lamiaceae) and 
 
 ### 1.5 Peilan (fortune's boneset)
 
-- **Peilan (Xingtoucao, Lancao)**: Chinese 佩兰(省头草、醒头草、兰草); fortune's boneset
+- **Peilan (Xingtoucao, Lancao)**: Chinese 佩兰; *Eupatorium fortunei* Turcz.
 - **Source**: the dried aerial parts of *Eupatorium fortunei* Turcz. (Asteraceae)
 - **Distribution and habitat**: roadsides, thickets and streamsides south of the Yangtze; also cultivated
 - **Key identification features**:
@@ -185,7 +185,7 @@ Most herbs in this group are aromatic plants of the mint family (Lamiaceae) and 
 
 ### 1.6 Mahuang (ephedra)
 
-- **Mahuang (Caomahuang, Mahuangcao)**: Chinese 麻黄(草麻黄、麻黄草); ephedra
+- **Mahuang (Caomahuang, Mahuangcao)**: Chinese 麻黄; *Ephedra sinica* Stapf, *E. intermedia* Schrenk et C. A. Mey., *E. equisetina* Bge.
 - **Source**: the dried herbaceous stems of *Ephedra sinica* Stapf, *E. intermedia* Schrenk et C. A. Mey. or *E. equisetina* Bge. (Ephedraceae)
 - **Distribution and habitat**: dry steppe, desert and sand dunes in Inner Mongolia, Shanxi, Hebei, Ningxia, Gansu, Xinjiang and elsewhere
 - **Key identification features** (only so that you can recognise and avoid it):
@@ -206,7 +206,7 @@ This group contains the commonest weeds by roads and fields, and many of them ar
 
 ### 2.1 Pugongying (dandelion)
 
-- **Pugongying (Popoding, Huanghuadiding, Naizhicao)**: Chinese 蒲公英(婆婆丁、黄花地丁、奶汁草); dandelion
+- **Pugongying (Popoding, Huanghuadiding, Naizhicao)**: Chinese 蒲公英; *Taraxacum mongolicum* Hand.-Mazz., *T. borealisinense* Kitam.
 - **Source**: the dried whole plant of *Taraxacum mongolicum* Hand.-Mazz., *T. borealisinense* Kitam. or several other species of the same genus (Asteraceae)
 - **Distribution and habitat**: roadsides, field banks, grassland, riverbanks and courtyards all over China; extremely common
 - **Key identification features**:
@@ -227,7 +227,7 @@ This group contains the commonest weeds by roads and fields, and many of them ar
 
 ### 2.2 Zihuadiding (Yedo violet)
 
-- **Zihuadiding (Diding, Jiantoucao, Litoucao)**: Chinese 紫花地丁(地丁、箭头草、犁头草); Yedo violet
+- **Zihuadiding (Diding, Jiantoucao, Litoucao)**: Chinese 紫花地丁; *Viola yedoensis* Makino
 - **Source**: the dried whole plant of *Viola yedoensis* Makino (Violaceae)
 - **Distribution and habitat**: fields, roadsides, waste ground, grassy slopes and woodland edges in most of China; flowers in early spring
 - **Key identification features**:
@@ -243,7 +243,7 @@ This group contains the commonest weeds by roads and fields, and many of them ar
 
 ### 2.3 Yuxingcao (houttuynia)
 
-- **Yuxingcao (Jicai, Zheergen, Ceergen)**: Chinese 鱼腥草(蕺菜、折耳根、侧耳根); houttuynia, fish mint
+- **Yuxingcao (Jicai, Zheergen, Ceergen)**: Chinese 鱼腥草; *Houttuynia cordata* Thunb.
 - **Source**: the fresh whole plant or dried aerial parts of *Houttuynia cordata* Thunb. (Saururaceae)
 - **Distribution and habitat**: shady, damp ditch sides, field banks, woodland floors and streamsides in the Yangtze basin and southwards; grown on a large scale as a vegetable in South-West China
 - **Key identification features**:
@@ -261,7 +261,7 @@ This group contains the commonest weeds by roads and fields, and many of them ar
 
 ### 2.4 Baijiangcao (patrinia)
 
-- **Baijiangcao (Baijiang, Huanghuabaijiang, Kucai)**: Chinese 败酱草(败酱、黄花败酱、苦菜); patrinia
+- **Baijiangcao (Baijiang, Huanghuabaijiang, Kucai)**: Chinese 败酱草; *Patrinia scabiosifolia* Fisch. ex Trev., *P. villosa* (Thunb.) Juss.
 - **Source**: **not included in Volume I of the 2020 edition of the Chinese Pharmacopoeia**; according to local standards and traditional use: the dried whole plant of **yellow patrinia** *Patrinia scabiosifolia* Fisch. ex Trev. or **white patrinia** *P. villosa* (Thunb.) Juss. (Valerianaceae; merged into Caprifoliaceae in newer classifications). **In many parts of northern China, field sow thistle (*Qumaicai*, Asteraceae) is customarily used as "*Baijiangcao*" (*Beibaijiang*, northern Baijiang)**; the two are completely different plants
 - **Distribution and habitat**: yellow and white patrinia grow on grassy hillsides, woodland edges, roadsides and in thickets in most of China
 - **Key identification features**:
@@ -277,7 +277,7 @@ This group contains the commonest weeds by roads and fields, and many of them ar
 
 ### 2.5 Machixian (purslane)
 
-- **Machixian (Machicai, Changshoucai, Guazicai)**: Chinese 马齿苋(马齿菜、长寿菜、瓜子菜); purslane
+- **Machixian (Machicai, Changshoucai, Guazicai)**: Chinese 马齿苋; *Portulaca oleracea* L.
 - **Source**: the dried aerial parts of purslane, *Portulaca oleracea* L. (Portulacaceae)
 - **Distribution and habitat**: vegetable plots, field edges, roadsides and the foot of walls all over China; extremely common in summer and autumn, and a traditional wild vegetable
 - **Key identification features**:
@@ -298,7 +298,7 @@ This group contains the commonest weeds by roads and fields, and many of them ar
 
 ### 2.6 Chuanxinlian (andrographis)
 
-- **Chuanxinlian (Yijianxi, Lanhelian, Kudancao)**: Chinese 穿心莲(一见喜、榄核莲、苦胆草); andrographis
+- **Chuanxinlian (Yijianxi, Lanhelian, Kudancao)**: Chinese 穿心莲; *Andrographis paniculata* (Burm. f.) Nees
 - **Source**: the dried aerial parts of *Andrographis paniculata* (Burm. f.) Nees (Acanthaceae)
 - **Distribution and habitat**: native to South Asia, grown in Guangdong, Guangxi, Fujian, Hainan and elsewhere in China, rare in the north; plants met in the wild are mostly garden escapes
 - **Key identification features**:
@@ -314,7 +314,7 @@ This group contains the commonest weeds by roads and fields, and many of them ar
 
 ### 2.7 Baihuasheshecao (oldenlandia)
 
-- **Baihuasheshecao (Sheshecao, Eryelü)**: Chinese 白花蛇舌草(蛇舌草、二叶葎); oldenlandia, spreading hedyotis
+- **Baihuasheshecao (Sheshecao, Eryelü)**: Chinese 白花蛇舌草; *Hedyotis diffusa* Willd.
 - **Source**: **not included in Volume I of the 2020 edition of the Chinese Pharmacopoeia**; according to local standards: the dried whole plant of *Hedyotis diffusa* Willd. (Rubiaceae) (some local standards also include *Hedyotis tenelliflora*)
 - **Distribution and habitat**: field banks, paddy edges, damp open ground and roadsides south of the Yangtze
 - **Key identification features**:
@@ -330,7 +330,7 @@ This group contains the commonest weeds by roads and fields, and many of them ar
 
 ### 2.8 Banzhilian (barbed skullcap)
 
-- **Banzhilian (Xiayehanxincao, Bingtoucao)**: Chinese 半枝莲(狭叶韩信草、并头草); barbed skullcap
+- **Banzhilian (Xiayehanxincao, Bingtoucao)**: Chinese 半枝莲; *Scutellaria barbata* D. Don
 - **Source**: the dried whole plant of *Scutellaria barbata* D. Don (Lamiaceae)
 - **Distribution and habitat**: paddy edges, streamsides and damp grassland from North China southwards
 - **Key identification features**:
@@ -346,7 +346,7 @@ This group contains the commonest weeds by roads and fields, and many of them ar
 
 ### 2.9 Xiakucao (self-heal spike)
 
-- **Xiakucao (Xiakuqiu, Bangchuicao, Tiesecao)**: Chinese 夏枯草(夏枯球、棒槌草、铁色草); self-heal
+- **Xiakucao (Xiakuqiu, Bangchuicao, Tiesecao)**: Chinese 夏枯草; *Prunella vulgaris* L.
 - **Source**: the dried **fruit spike** (not the whole plant) of self-heal, *Prunella vulgaris* L. (Lamiaceae)
 - **Distribution and habitat**: roadsides, waste slopes, grassland, woodland edges and field banks in most of China
 - **Key identification features**:
@@ -362,7 +362,7 @@ This group contains the commonest weeds by roads and fields, and many of them ar
 
 ### 2.10 Danzhuye (lophatherum)
 
-- **Danzhuye (Zhuyemaidong, Shanjimi)**: Chinese 淡竹叶(竹叶麦冬、山鸡米); lophatherum
+- **Danzhuye (Zhuyemaidong, Shanjimi)**: Chinese 淡竹叶; *Lophatherum gracile* Brongn.
 - **Source**: the dried stems and leaves of *Lophatherum gracile* Brongn. (Poaceae). **It is a grass, not the leaf of a bamboo**; the leaves of bamboos (such as *Phyllostachys*) are a different herb called "*Zhuye*"
 - **Distribution and habitat**: hillside woodland floors and shady, damp roadsides and ditch sides from the Yangtze basin southwards
 - **Key identification features**:
@@ -378,7 +378,7 @@ This group contains the commonest weeds by roads and fields, and many of them ar
 
 ### 2.11 Qinghao (sweet wormwood)
 
-- **Qinghao (Huanghuahao, Chouhao, Caohao)**: Chinese 青蒿(黄花蒿、臭蒿、草蒿); sweet wormwood
+- **Qinghao (Huanghuahao, Chouhao, Caohao)**: Chinese 青蒿; *Artemisia annua* L.
 - **Source**: the dried aerial parts of **sweet wormwood** (*Huanghuahao*), *Artemisia annua* L. (Asteraceae). Note: the plant source of the Pharmacopoeia's "*Qinghao*" is sweet wormwood; botanically there is another plant called "*Qinghao*" (*Xianghao*, *A. carvifolia*), which **contains almost no artemisinin** and is not the Pharmacopoeia's *Qinghao*
 - **Distribution and habitat**: roadsides, waste ground, hillsides and riverbanks all over China; extremely common
 - **Key identification features**:
@@ -401,7 +401,7 @@ This group is used for jaundice, difficulty passing urine, urinary stones and th
 
 ### 3.1 Yinchen (capillary wormwood)
 
-- **Yinchen (Mianyinchen, Huayinchen, Yinchenhao)**: Chinese 茵陈(绵茵陈、花茵陈、茵陈蒿); capillary wormwood
+- **Yinchen (Mianyinchen, Huayinchen, Yinchenhao)**: Chinese 茵陈; *Artemisia scoparia* Waldst. et Kit., *A. capillaris* Thunb.
 - **Source**: the dried aerial parts of *Artemisia scoparia* Waldst. et Kit. or *A. capillaris* Thunb. (Asteraceae). The herb collected in spring is traditionally called "*Mianyinchen*" (soft *Yinchen*), and that cut in autumn "*Huayinchen*" (flowering *Yinchen*)
 - **Distribution and habitat**: roadsides, riverbanks, sandy ground, hillsides and waste ground in most of China
 - **Key identification features**:
@@ -417,7 +417,7 @@ This group is used for jaundice, difficulty passing urine, urinary stones and th
 
 ### 3.2 Cheqiancao (plantain)
 
-- **Cheqiancao (Chegulucai, Hamacao)**: Chinese 车前草(车轱辘菜、蛤蟆草); plantain
+- **Cheqiancao (Chegulucai, Hamacao)**: Chinese 车前草; *Plantago asiatica* L., *P. depressa* Willd.
 - **Source**: the dried whole plant of *Plantago asiatica* L. or *P. depressa* Willd. (Plantaginaceae). The ripe seeds are a separate herb, "*Cheqianzi*"; see [Fruits and seeds – Cheqianzi](03-fruits-and-seeds.md#55-cheqianzi-plantain-seed)
 - **Distribution and habitat**: roadsides, field banks, grassland, courtyards and ditch sides all over China; extremely common and tolerant of trampling
 - **Key identification features**:
@@ -435,7 +435,7 @@ This group is used for jaundice, difficulty passing urine, urinary stones and th
 
 ### 3.3 Jinqiancao (lysimachia)
 
-- **Jinqiancao (Guoluhuang, Dajinqiancao, Duizuocao)**: Chinese 金钱草(过路黄、大金钱草、对座草); Christina loosestrife
+- **Jinqiancao (Guoluhuang, Dajinqiancao, Duizuocao)**: Chinese 金钱草; *Lysimachia christinae* Hance
 - **Source**: the dried whole plant of *Lysimachia christinae* Hance (Primulaceae)
 - **Distribution and habitat**: hillside roadsides, ditch sides and damp woodland edges in the Yangtze basin and southwards; Sichuan is the main producer
 - **Key identification features**:
@@ -461,7 +461,7 @@ This group relates to menstruation, bleeding and blood stasis. **Blood-moving he
 
 ### 4.1 Yimucao (motherwort)
 
-- **Yimucao (Kuncao, Chongwei, Yimuai)**: Chinese 益母草(坤草、茺蔚、益母艾); motherwort
+- **Yimucao (Kuncao, Chongwei, Yimuai)**: Chinese 益母草; *Leonurus japonicus* Houtt.
 - **Source**: the fresh or dried aerial parts of *Leonurus japonicus* Houtt. (Lamiaceae). The ripe fruits are a separate herb, "*Chongweizi*"
 - **Distribution and habitat**: fields, roadsides, waste ground, grassy hillsides and riversides all over China
 - **Key identification features**:
@@ -478,7 +478,7 @@ This group relates to menstruation, bleeding and blood stasis. **Blood-moving he
 
 ### 4.2 Zelan (bugleweed)
 
-- **Zelan (Diguaermiao, Disun)**: Chinese 泽兰(地瓜儿苗、地笋); shiny bugleweed
+- **Zelan (Diguaermiao, Disun)**: Chinese 泽兰; *Lycopus lucidus* Turcz. var. *hirtus* Regel
 - **Source**: the dried aerial parts of *Lycopus lucidus* Turcz. var. *hirtus* Regel (Lamiaceae)
 - **Distribution and habitat**: marshes, watersides, ditch sides and damp grassland in most of China
 - **Key identification features**:
@@ -494,7 +494,7 @@ This group relates to menstruation, bleeding and blood stasis. **Blood-moving he
 
 ### 4.3 Xianhecao (hairy agrimony)
 
-- **Xianhecao (Longyacao, Tuolicao, Huanglongwei)**: Chinese 仙鹤草(龙芽草、脱力草、黄龙尾); hairy agrimony
+- **Xianhecao (Longyacao, Tuolicao, Huanglongwei)**: Chinese 仙鹤草; *Agrimonia pilosa* Ledeb.
 - **Source**: the dried aerial parts of *Agrimonia pilosa* Ledeb. (Rosaceae)
 - **Distribution and habitat**: hillsides, roadsides, grassland, woodland edges and streamsides all over China
 - **Key identification features**:
@@ -510,7 +510,7 @@ This group relates to menstruation, bleeding and blood stasis. **Blood-moving he
 
 ### 4.4 Xiaoji (field thistle)
 
-- **Xiaoji (Ciercai, Cicai, Qingqingcai)**: Chinese 小蓟(刺儿菜、刺菜、青青菜); field thistle
+- **Xiaoji (Ciercai, Cicai, Qingqingcai)**: Chinese 小蓟; *Cirsium setosum* (Willd.) MB.
 - **Source**: the dried aerial parts of *Cirsium setosum* (Willd.) MB. (Asteraceae)
 - **Distribution and habitat**: fields, roadsides and waste ground all over China; a common farmland weed whose young shoots are also a traditional wild vegetable
 - **Key identification features**:
@@ -526,7 +526,7 @@ This group relates to menstruation, bleeding and blood stasis. **Blood-moving he
 
 ### 4.5 Daji (Japanese thistle)
 
-- **Daji (Ji, Maji, Huji)**: Chinese 大蓟(蓟、马蓟、虎蓟); Japanese thistle
+- **Daji (Ji, Maji, Huji)**: Chinese 大蓟; *Cirsium japonicum* Fisch. ex DC.
 - **Source**: the dried aerial parts of *Cirsium japonicum* Fisch. ex DC. (Asteraceae)
 - **Distribution and habitat**: hillsides, grassland, roadsides and woodland edges in most of China
 - **Key identification features**:
@@ -543,7 +543,7 @@ This group relates to menstruation, bleeding and blood stasis. **Blood-moving he
 
 ### 4.6 Mohanlian (eclipta)
 
-- **Mohanlian (Hanliancao, Lichang, Mozhicao)**: Chinese 墨旱莲(旱莲草、鳢肠、墨汁草); eclipta
+- **Mohanlian (Hanliancao, Lichang, Mozhicao)**: Chinese 墨旱莲; *Eclipta prostrata* L.
 - **Source**: the dried aerial parts of *Eclipta prostrata* L. (Asteraceae)
 - **Distribution and habitat**: field edges, ditch sides, roadsides and wet paddy ground in most of China
 - **Key identification features**:
@@ -565,7 +565,7 @@ This group comes from mixed sources: *Shenjincao* is a fern ally, *Shihu* is an 
 
 ### 5.1 Shenjincao (clubmoss)
 
-- **Shenjincao (Shisong, Guoshanlong, Kuanjinteng)**: Chinese 伸筋草(石松、过山龙、宽筋藤); clubmoss
+- **Shenjincao (Shisong, Guoshanlong, Kuanjinteng)**: Chinese 伸筋草; *Lycopodium japonicum* Thunb.
 - **Source**: the dried whole plant of *Lycopodium japonicum* Thunb. (Lycopodiaceae)
 - **Distribution and habitat**: hillside woodland floors, thickets and woodland edges south of the Yangtze and in North-East China; prefers acid soil
 - **Key identification features**:
@@ -580,7 +580,7 @@ This group comes from mixed sources: *Shenjincao* is a fern ally, *Shihu* is an 
 
 ### 5.2 Shihu (dendrobium)
 
-- **Shihu (Jinchaishihu, Huangcao, Diaolanhua)**: Chinese 石斛(金钗石斛、黄草、吊兰花); dendrobium
+- **Shihu (Jinchaishihu, Huangcao, Diaolanhua)**: Chinese 石斛; *Dendrobium nobile* Lindl., *D. huoshanense* C. Z. Tang et S. J. Cheng, *D. chrysotoxum* Lindl., *D. fimbriatum* Hook.
 - **Source**: the fresh or dried stems of **cultivated** *Dendrobium nobile* Lindl., *D. huoshanense* C. Z. Tang et S. J. Cheng, *D. chrysotoxum* Lindl. or *D. fimbriatum* Hook. (Orchidaceae) and closely related species of the same genus. *Tiepi shihu* (*D. officinale*, processed into the spiral "*Tiepi fengdou*") is a separate entry in the Pharmacopoeia
 - **Distribution and habitat**: grows wild in Yunnan, Guizhou, Guangxi, Sichuan, Anhui and elsewhere, **attached to tree trunks or rocks in shady, damp forest**; the herb now comes mainly from greenhouse cultivation and from semi-wild cultivation on trees and rocks
 - **Key identification features**:
@@ -594,11 +594,11 @@ This group comes from mixed sources: *Shenjincao* is a fern ally, *Shihu* is an 
 - **Actions**: benefits the stomach and generates fluids, nourishes yin and clears heat
 - **Dose**: 6-12 g; fresh herb 15-30 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: not advisable with a thick, greasy tongue coating, abdominal bloating or loose stools; not advisable at the start of a warm-febrile disease before body fluids are damaged
-- 🛡️ **Protection reminder**: the 2021 *List of Wild Plants under Special State Protection* puts **all wild species of the genus *Dendrobium*** under Class II state protection, with *D. flexicaule* and *D. huoshanense* under Class I; all orchids are also listed in CITES Appendix II; and *Shihu* is also on the *List of Wild Medicinal Species under Special State Protection* (grades as given in the text of the lists). **Do not dig up, buy or sell wild *Shihu***, including plants picked "while you happen to be passing" from trees or rock faces
+- 🛡️ **Protection note**: the 2021 *List of Wild Plants under Special State Protection* puts **all wild species of the genus *Dendrobium*** under Class II state protection, with *D. flexicaule* and *D. huoshanense* under Class I; all orchids are also listed in CITES Appendix II; and *Shihu* is also on the *List of Wild Medicinal Species under Special State Protection* (grades as given in the text of the lists). **Do not dig up, buy or sell wild *Shihu***, including plants picked "while you happen to be passing" from trees or rock faces
 
 ### 5.3 Yinyanghuo (epimedium)
 
-- **Yinyanghuo (Xianlingpi, Sanzhijiuyecao)**: Chinese 淫羊藿(仙灵脾、三枝九叶草); epimedium, horny goat weed
+- **Yinyanghuo (Xianlingpi, Sanzhijiuyecao)**: Chinese 淫羊藿; *Epimedium brevicornu* Maxim., *E. sagittatum* (Sieb. et Zucc.) Maxim., *E. pubescens* Maxim., *E. koreanum* Nakai
 - **Source**: the dried leaves of *Epimedium brevicornu* Maxim., *E. sagittatum* (Sieb. et Zucc.) Maxim., *E. pubescens* Maxim. or *E. koreanum* Nakai (Berberidaceae) (the 2020 edition of the Pharmacopoeia uses only the leaves; *Wushan yinyanghuo* is a separate entry)
 - **Distribution and habitat**: hillside woodland floors, thickets and shady, damp places in Shaanxi, Gansu, Shanxi, Sichuan, Hubei, North-East China and elsewhere
 - **Key identification features**:
@@ -613,7 +613,7 @@ This group comes from mixed sources: *Shenjincao* is a fern ally, *Shihu* is an 
 
 ### 5.4 Roucongrong (cistanche)
 
-- **Roucongrong (Dayun, Congrong, Shamorenshen)**: Chinese 肉苁蓉(大芸、苁蓉、沙漠人参); cistanche
+- **Roucongrong (Dayun, Congrong, Shamorenshen)**: Chinese 肉苁蓉; *Cistanche deserticola* Y. C. Ma, *C. tubulosa* (Schenk) Wight
 - **Source**: the dried fleshy stems with scale leaves of *Cistanche deserticola* Y. C. Ma or *C. tubulosa* (Schenk) Wight (Orobanchaceae)
 - **Distribution and habitat**: deserts and sandy land in Inner Mongolia, Ningxia, Gansu and Xinjiang. ***C. deserticola* parasitises the roots of saxaul (*Haloxylon*, *Suosuo*), and *C. tubulosa* parasitises the roots of tamarisk (*Chengliu*, red willow)**; the herb now comes mainly from cultivation by artificial inoculation
 - **Key identification features**:
@@ -626,11 +626,11 @@ This group comes from mixed sources: *Shenjincao* is a fern ally, *Shihu* is an 
 - **Actions**: tonifies kidney yang, benefits essence and blood, moistens the intestines to relieve constipation
 - **Dose**: 6-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: not advisable with yin deficiency and excess fire or diarrhoea; not advisable for constipation from excess heat; do not take it for long periods as a "virility supplement"
-- 🛡️ **Protection reminder**: wild cistanche is on the 2021 *List of Wild Plants under Special State Protection* and on the *List of Wild Medicinal Species under Special State Protection* (grades as given in the text of the lists). **Digging up wild cistanche is illegal and also destroys the saxaul woodland that holds the sand in place**; choose cultivated herb when buying
+- 🛡️ **Protection note**: wild cistanche is on the 2021 *List of Wild Plants under Special State Protection* and on the *List of Wild Medicinal Species under Special State Protection* (grades as given in the text of the lists). **Digging up wild cistanche is illegal and also destroys the saxaul woodland that holds the sand in place**; choose cultivated herb when buying
 
 ### 5.5 Suoyang (cynomorium)
 
-- **Suoyang (Dimaoqiu, Xiutiebang)**: Chinese 锁阳(地毛球、锈铁棒); cynomorium
+- **Suoyang (Dimaoqiu, Xiutiebang)**: Chinese 锁阳; *Cynomorium songaricum* Rupr.
 - **Source**: the dried fleshy stems of *Cynomorium songaricum* Rupr. (Cynomoriaceae)
 - **Distribution and habitat**: deserts and saline-alkaline land in Xinjiang, Gansu, Qinghai, Inner Mongolia and Ningxia; **it parasitises the roots of *Nitraria* (*Baici*) and similar plants**
 - **Key identification features**:
@@ -642,11 +642,11 @@ This group comes from mixed sources: *Shenjincao* is a fern ally, *Shihu* is an 
 - **Actions**: tonifies kidney yang, benefits essence and blood, moistens the intestines to relieve constipation
 - **Dose**: 5-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: not advisable with yin deficiency and excess fire, diarrhoea from spleen deficiency, or constipation from excess heat; do not take it yourself for long periods "for virility"
-- 🛡️ **Resource reminder**: wild *Suoyang* has declined through over-digging, and digging it also destroys desert vegetation; some regions have local protection rules. Digging wild plants is not encouraged; use cultivated herb or herb from proper channels
+- 🛡️ **Resource note**: wild *Suoyang* has declined through over-digging, and digging it also destroys desert vegetation; some regions have local protection rules. Digging wild plants is not encouraged; use cultivated herb or herb from proper channels
 
 ### 5.6 Xixin (asarum)
 
-- **Xixin (Liaoxixin, Beixixin, Huaxixin)**: Chinese 细辛(辽细辛、北细辛、华细辛); asarum, Chinese wild ginger
+- **Xixin (Liaoxixin, Beixixin, Huaxixin)**: Chinese 细辛; *Asarum heterotropoides* Fr. Schmidt var. *mandshuricum* (Maxim.) Kitag., *A. sieboldii* Miq. var. *seoulense* Nakai, *A. sieboldii* Miq.
 - **Source**: the dried **root and rhizome** of *Asarum heterotropoides* Fr. Schmidt var. *mandshuricum* (Maxim.) Kitag., *A. sieboldii* Miq. var. *seoulense* Nakai or *A. sieboldii* Miq. (Aristolochiaceae). The first two are traditionally called "*Liaoxixin*"
 - **Distribution and habitat**: *A. heterotropoides* var. *mandshuricum* and *A. sieboldii* var. *seoulense* grow in North-East China; *A. sieboldii* grows in Shaanxi, Hubei, Sichuan, Zhejiang and elsewhere; they grow in shady, damp places on woodland floors and in mountain gullies with thick leaf mould
 - **Key identification features** (only so that you can recognise it; **do not collect or use it yourself**):
@@ -659,7 +659,7 @@ This group comes from mixed sources: *Shenjincao* is a fern ally, *Shihu* is an 
 - **Actions**: releases the exterior and dispels cold, dispels wind and relieves pain, opens the nasal passages, warms the lungs and transforms fluid retention
 - **Dose**: 1-3 g; as a powder, 0.5-1 g per dose; for external use, a suitable amount (Chinese Pharmacopoeia, 2020 edition). **The dose is very small; it may only be prescribed by a TCM practitioner, never used on your own**. The ancients long warned that *Xixin* must not be used in large amounts; overdose can cause headache, vomiting, restlessness, convulsions and depressed breathing
 - **Cautions**: **the Pharmacopoeia marks it as slightly toxic**; do not use it together with *Lilu* (veratrum); not for pregnant or breastfeeding women, children or people with kidney disease; not for weak people who sweat a lot, headache from yin deficiency, or dry cough without phlegm; do not use the whole *Xixin* plant with leaves; if the poisoning symptoms above appear, call 120 at once
-- 🛡️ **Protection reminder**: *Xixin* is on the *List of Wild Medicinal Species under Special State Protection* (grade as given in the text of the list); do not dig up wild plants
+- 🛡️ **Protection note**: *Xixin* is on the *List of Wild Medicinal Species under Special State Protection* (grade as given in the text of the list); do not dig up wild plants
 
 ---
 

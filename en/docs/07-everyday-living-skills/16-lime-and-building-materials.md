@@ -17,9 +17,9 @@
 
 ## First, what this chapter covers
 
-Cement has to be fired at about 1450°C, which a small community will find hard to do well; **lime needs only about 900°C, and a simple earth kiln can make it**. For thousands of years before cement became common, the mortar for laying walls, the white plaster for rendering them, the three-part earth for floors and the disinfectant wash for animal pens all depended on lime. It can also improve acid soil and help with papermaking and tanning.
+Cement has to be fired at about 1450°C, which a small community will find hard to do well; **lime needs only about 900°C, and a simple earth kiln can make it**. For thousands of years before cement became common, the mortar for laying walls, the white plaster for rendering them, the three-part earth (*sanhetu*, lime-clay-sand tamped earth) for floors and the disinfectant wash for animal pens all depended on lime. It can also improve acid soil and help with papermaking and tanning.
 
-This chapter covers finding raw materials, burning lime and slaking it, and building with lime and other local materials. For how to build the walls themselves (adobe, rammed earth, earthquake resistance) see [Long-term Housing](05-long-term-shelter.md); for firing bricks and tiles see [Pottery, Glass and Papermaking – Bricks and tiles](11-pottery-glass-and-papermaking.md#bricks-and-tiles); for load calculations see [Engineering Mechanics and Materials](../09-advanced-science-and-engineering/01-engineering-mechanics-and-materials.md).
+This chapter covers finding raw materials, burning lime and slaking it, and building with lime and other local materials. For how to build the walls themselves (adobe, rammed earth, earthquake resistance) see [Long-term Shelter](05-long-term-shelter.md); for firing bricks and tiles see [Pottery, Glass and Papermaking – Bricks and tiles](11-pottery-glass-and-papermaking.md#bricks-and-tiles); for load calculations see [Engineering Mechanics and Materials](../09-advanced-science-and-engineering/01-engineering-mechanics-and-materials.md).
 
 ```
 ⚠️ Safety
@@ -289,7 +289,7 @@ Uses: indoor floors, drying yards, the bed under foundations, roads, the bottom 
 ✓ Far more water-resistant than plain rammed earth; does not get dusty or grow weeds easily
 ```
 
-For judging the water content and ramming see [Long-term Housing – Rammed-earth walls](05-long-term-shelter.md#rammed-earth-walls); for foundations and footings see [Engineering Mechanics – Foundations](../09-advanced-science-and-engineering/01-engineering-mechanics-and-materials.md#9-foundations) and [Long-term Housing – Good boots: footings](05-long-term-shelter.md#good-boots-the-wall-footing); for the essentials of masonry see [Engineering Mechanics – Masonry walls](../09-advanced-science-and-engineering/01-engineering-mechanics-and-materials.md#72-masonry-walls).
+For judging the water content and ramming see [Long-term Shelter – Rammed-earth walls](05-long-term-shelter.md#rammed-earth-walls); for foundations and footings see [Engineering Mechanics – Foundations](../09-advanced-science-and-engineering/01-engineering-mechanics-and-materials.md#9-foundations) and [Long-term Shelter – Good boots: footings](05-long-term-shelter.md#good-boots-the-wall-footing); for the essentials of masonry see [Engineering Mechanics – Masonry walls](../09-advanced-science-and-engineering/01-engineering-mechanics-and-materials.md#72-masonry-walls).
 
 ---
 
@@ -317,7 +317,7 @@ Milk of lime: 1 kg slaked lime to 4-9 L water (about 10-20%), stirred well; mix 
 ✓ Brush it on the walls and floors of animal pens and poultry houses; clear out the dung
   and rubbish first, or it will not work well
 ✓ Foot dips and disinfectant mats at the doors of pens
-✓ Dry latrines: after each use, sprinkle a handful of plant ash, dry soil or a little lime
+✓ Pit latrines: after each use, sprinkle a handful of plant ash, dry soil or a little lime
   powder to reduce smell and flies
 ✓ When deeply burying animals that died of disease, scatter quicklime over the carcass
   before covering it with soil
@@ -327,7 +327,7 @@ Milk of lime: 1 kg slaked lime to 4-9 L water (about 10-20%), stirred well; mix 
 ⚠️ Human bodies do not need lime scattered on them; see handling bodies after a disaster
 ```
 
-For dry latrines see [Sanitation – Dry latrines](03-sanitation.md#pit-latrines); for dead animals see [Sanitation – Disposing of dead animals](03-sanitation.md#disposing-of-diseased-animal-carcasses); for human bodies see [Handling Bodies After a Disaster](../02-disaster-response/07-handling-the-dead-after-disasters.md).
+For pit latrines see [Sanitation – Pit latrines](03-sanitation.md#pit-latrines); for dead animals see [Sanitation – Disposing of dead animals](03-sanitation.md#disposing-of-diseased-animal-carcasses); for human bodies see [Handling Bodies After a Disaster](../02-disaster-response/07-handling-the-dead-after-disasters.md).
 
 ---
 
@@ -372,7 +372,7 @@ For testing soil acidity see [Geology, Minerals and Soil – Acidity and alkalin
 | Century eggs (pidan) | Traditionally coated in a paste of quicklime, soda ash, salt and tea | ⚠️ Do not add litharge (contains lead) |
 | Glass | The lime in the batch makes glass insoluble in water | See links below |
 
-For water treatment see [Water Supply Engineering – Multi-stage treatment](10-water-supply.md#multi-stage-treatment); for tanning see [Textiles, Mending and Tanning – Vegetable tanning](07-textiles-sewing-and-tanning.md#method-2-vegetable-tanning-for-leather-with-the-hair-removed); for papermaking see [Pottery, Glass and Papermaking – Papermaking](11-pottery-glass-and-papermaking.md#papermaking); for maize see [Nutrition and Deficiency Diseases – Niacin](02-nutrition-and-deficiency-diseases.md#niacin-treat-maize-with-alkali-before-eating-it); for glass see [Pottery, Glass and Papermaking – Glass](11-pottery-glass-and-papermaking.md#glass).
+For water treatment see [Water Supply – Multi-stage treatment](10-water-supply.md#multi-stage-treatment); for tanning see [Textiles, Sewing and Tanning – Vegetable tanning](07-textiles-sewing-and-tanning.md#method-2-vegetable-tanning-for-leather-with-the-hair-removed); for papermaking see [Pottery, Glass and Papermaking – Papermaking](11-pottery-glass-and-papermaking.md#papermaking); for maize see [Nutrition and Deficiency Diseases – Niacin](02-nutrition-and-deficiency-diseases.md#niacin-treat-maize-with-alkali-before-eating-it); for glass see [Pottery, Glass and Papermaking – Glass](11-pottery-glass-and-papermaking.md#glass).
 
 ---
 
@@ -459,8 +459,8 @@ For concrete mix proportions and curing see [Engineering Mechanics and Materials
 
 | Material | Key points | See |
 |------|------|------|
-| Adobe | Clay mixed with straw, moulded and sun-dried; vulnerable to water, needs footings and eaves | Long-term Housing – Adobe walls |
-| Rammed earth | Rammed in layers inside formwork; monolithic, but labour-intensive | Long-term Housing – Rammed-earth walls |
+| Adobe | Clay mixed with straw, moulded and sun-dried; vulnerable to water, needs footings and eaves | Long-term Shelter – Adobe walls |
+| Rammed earth | Rammed in layers inside formwork; monolithic, but labour-intensive | Long-term Shelter – Rammed-earth walls |
 | Bricks and tiles | Clay fired at about 900-1000°C; underfired bricks are vulnerable to water | Pottery, Glass and Papermaking – Bricks and tiles |
 | Stone | Choose stone without cracks or severe weathering; lay dry or in mortar | Geology, Minerals and Soil |
 | Timber | Use once seasoned; keep off the ground to prevent rot and insects | Woodworking and Tool Maintenance – Timber |
@@ -482,7 +482,7 @@ Wattle and daub: weave bamboo strips into wall panels, plaster both sides with s
   and limewash when dry; light, and relatively safe in earthquakes
 ```
 
-For adobe and rammed earth see [Long-term Housing – Adobe walls](05-long-term-shelter.md#adobe-walls) and [Rammed-earth walls](05-long-term-shelter.md#rammed-earth-walls); for earthquake measures see [Long-term Housing – Earthquake resistance](05-long-term-shelter.md#earthquake-resistance-life-or-death-for-earth-houses); for timber frames see [Long-term Housing – Simple timber frames](05-long-term-shelter.md#simple-timber-framing); for timber see [Woodworking and Tool Maintenance – Timber](09-woodworking-and-tool-maintenance.md#timber); for bricks and tiles see [Pottery, Glass and Papermaking – Bricks and tiles](11-pottery-glass-and-papermaking.md#bricks-and-tiles); for rendering outside walls see [Long-term Housing – Rendering outside walls](05-long-term-shelter.md#rendering-the-outside-walls).
+For adobe and rammed earth see [Long-term Shelter – Adobe walls](05-long-term-shelter.md#adobe-walls) and [Rammed-earth walls](05-long-term-shelter.md#rammed-earth-walls); for earthquake measures see [Long-term Shelter – Earthquake resistance](05-long-term-shelter.md#earthquake-resistance-life-or-death-for-earth-houses); for timber frames see [Long-term Shelter – Simple timber framing](05-long-term-shelter.md#simple-timber-framing); for timber see [Woodworking and Tool Maintenance – Timber](09-woodworking-and-tool-maintenance.md#timber); for bricks and tiles see [Pottery, Glass and Papermaking – Bricks and tiles](11-pottery-glass-and-papermaking.md#bricks-and-tiles); for rendering outside walls see [Long-term Shelter – Rendering outside walls](05-long-term-shelter.md#rendering-the-outside-walls).
 
 ---
 

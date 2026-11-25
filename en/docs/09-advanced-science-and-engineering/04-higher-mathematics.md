@@ -4,7 +4,7 @@
 
 ## ⚠️ What this chapter covers
 
-This chapter carries on from [Basic Science – Mathematics](../08-basic-science/01-mathematics.md) and roughly matches the first-year university mathematics course for science and engineering students. The focus is on **methods and uses**, and every section comes with examples you can work out by hand.
+This chapter carries on from [Basic Science – Mathematics](../08-basic-science/01-mathematics.md) and roughly matches the foundation mathematics courses taken by university science and engineering students. The focus is on **methods and uses**, and every section comes with examples you can work out by hand.
 
 ```
 Quick guide to uses:

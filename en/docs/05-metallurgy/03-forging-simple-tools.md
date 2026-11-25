@@ -805,7 +805,7 @@ A newly made iron pot: wipe on a thin layer of vegetable oil and heat it over a 
 2. Hammer-join or rivet the seam
 3. Weld on the bottom
 
-- The seams and bottom of sheet-iron buckets are most often made with a "lock seam" (both edges folded to hook into each other, then pressed flat), then sealed with soft solder against leaks; see [Welding and Joining - Lock seams in sheet iron](06-welding-and-joining.md#24-seaming-iron-sheet)
+- The seams and bottom of sheet-iron buckets are most often made with a "lock seam" (both edges folded to hook into each other, then pressed flat), then sealed with soft solder against leaks; see [Welding and Joining - Seaming iron sheet](06-welding-and-joining.md#24-seaming-iron-sheet)
 - Roll a wire into the rim so the bucket does not get squashed when carried
 - Forge the handle from iron bar, with hooked ends hung in lugs riveted to the bucket
 
