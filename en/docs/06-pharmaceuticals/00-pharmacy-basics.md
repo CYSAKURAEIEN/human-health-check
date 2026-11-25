@@ -830,7 +830,7 @@ Suggested improvements: ____
 | Datura (thorn apple) | Hyoscyamine | Small amounts (a child eating a few seeds can be severely poisoned) | Hallucinations, coma |
 | Aconite (*wutou*) | Aconitine | 3-5 mg (0.2 mg can cause poisoning) | Cardiac arrest |
 | Oleander | Cardiac glycosides | Small amounts | Abnormal heart rhythm |
-| Poison hemlock | Coniine | Small amounts | Convulsions, respiratory failure |
+| Water hemlock | Cicutoxin | Small amounts | Convulsions, respiratory failure |
 
 **Principle: never use a plant you do not recognise!**
 

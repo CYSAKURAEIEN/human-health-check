@@ -758,4 +758,4 @@ For calculating work and power see [Physics – Work and power](../08-basic-scie
 
 ---
 
-**Back**: [Chapter index](README.md) | [Main contents](../../README.md)
+**Back to**: [Part contents](README.md) | [Main contents](../../README.md)

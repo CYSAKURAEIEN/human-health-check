@@ -298,7 +298,7 @@ knowing how they worked:
      whose seed can be saved
 ```
 
-For how to save seed see [Grain crops – Seed storage](../04-farming-and-animal-husbandry/02-grain-crops.md#seed-saving).
+For how to save seed see [Grain crops – Seed saving](../04-farming-and-animal-husbandry/02-grain-crops.md#seed-saving).
 
 ### 6.3 The harm of inbreeding
 

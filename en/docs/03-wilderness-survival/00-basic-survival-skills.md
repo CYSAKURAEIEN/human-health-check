@@ -288,10 +288,10 @@ Time:
 ✓ Record your route (landmarks, directions, times)
   - Turn on track recording on your phone; if you get lost, you can follow the track back
 ✓ Do not stray too far from water
-✓ Set a turnaround time: if you have not reached your destination by then, turn back anyway
+✓ Set a turn-around time: if you have not reached your destination by then, turn back anyway
 ```
 
-For trip plans, turnaround times and kit, see [Trip Preparation and Calling for Help](07-trip-preparation-and-calling-for-help.md#before-you-set-out).
+For trip plans, turn-around times and kit, see [Trip Preparation and Calling for Help](07-trip-preparation-and-calling-for-help.md#before-you-set-out).
 
 ### If you are lost
 

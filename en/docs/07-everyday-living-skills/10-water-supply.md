@@ -340,4 +340,4 @@ For dealing with faeces see [Sanitation](03-sanitation.md).
 ---
 
 **Next chapter**: [Pottery, Glass and Papermaking](11-pottery-glass-and-papermaking.md)
-**Back**: [Chapter index](README.md) | [Main contents](../../README.md)
+**Back to**: [Part contents](README.md) | [Main contents](../../README.md)

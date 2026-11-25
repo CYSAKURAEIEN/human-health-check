@@ -223,7 +223,7 @@ For what to do when you smell gas, see [Gas leaks](../02-disaster-response/04-fi
 ## Generators
 
 ```
-✓ Use outdoors only, away from doors, windows and vents (at least a few m)
+✓ Use outdoors only, away from doors, windows and vents (at least several metres)
   - Generator exhaust contains large amounts of carbon monoxide; running one in
     a garage, basement, on a balcony or in a doorway can kill
 ✓ Switch off and let the engine cool before refuelling
@@ -401,4 +401,4 @@ For balancing insulation and ventilation, see [Long-term shelter – Insulation]
 ---
 
 **Next chapter**: [Textiles, sewing and tanning](07-textiles-sewing-and-tanning.md)
-**Back**: [Chapter index](README.md) | [Main contents](../../README.md)
+**Back to**: [Part contents](README.md) | [Main contents](../../README.md)

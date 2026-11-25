@@ -245,4 +245,4 @@ Always keep at home:
 ---
 
 **Next chapter**: [Woodworking and tool maintenance](09-woodworking-and-tool-maintenance.md)
-**Back**: [Chapter index](README.md) | [Main contents](../../README.md)
+**Back to**: [Part contents](README.md) | [Main contents](../../README.md)

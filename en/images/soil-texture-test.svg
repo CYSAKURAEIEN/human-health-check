@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 722" width="720" height="722" role="img" aria-label="Simple soil texture tests. Ribbon test: take a handful of moist soil, add water and knead it until it is like modelling clay, and roll it into a thin thread between your palms; if it will not form a thread and falls apart at once, it is sandy soil; if it forms a thread but breaks as soon as you bend it, it is loam; if it forms a long thin thread that can be bent into a ring without breaking, it is clay. The jar test is more accurate: 1 fill a clear jar about one-third with soil, add water almost to the top, and add a pinch of salt or washing powder to help the particles separate; 2 shake hard and leave to stand; 3 what settles after about 1 minute is sand, after a few hours is silt, and only after one or two days is clay; 4 measure the thickness of each layer to find the rough proportions. Loam, a balanced mix of sand, silt and clay, is best for growing crops" font-family="'Noto Sans','Noto Sans CJK SC',Arial,sans-serif">
 <rect width="100%" height="100%" fill="#fff"/>
-<title>Soil texture: the ribbon test and the jar test</title>
+<title>Soil texture: the rolling test and the jar test</title>
 <defs>
 <marker id="arR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c33"/></marker>
 <marker id="arB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#0b5cad"/></marker>
@@ -15,11 +15,11 @@
 <pattern id="sand" width="7" height="7" patternUnits="userSpaceOnUse"><rect width="7" height="7" fill="#e3cc86"/><circle cx="2" cy="2" r="1" fill="#a88c3c"/><circle cx="5.5" cy="5" r="0.9" fill="#a88c3c"/></pattern>
 </defs>
 <g fill="#222">
-<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Simple soil texture tests: the ribbon test and the jar test</text>
+<text x="360" y="28" font-size="18" font-weight="bold" text-anchor="middle">Simple soil texture tests: the rolling test and the jar test</text>
 
 <!-- 1 ribbon test -->
 <rect x="10" y="44" width="700" height="292" rx="8" fill="none" stroke="#bbb" stroke-width="1.5"/>
-<text x="24" y="70" font-size="16" font-weight="bold">① Ribbon test</text>
+<text x="24" y="70" font-size="16" font-weight="bold">① Rolling test</text>
 <text x="152" y="70" font-size="13">Take a handful of moist soil (add water and knead it until it is like modelling clay),</text>
 <text x="152" y="87" font-size="13">then roll it into a thin thread between your palms</text>
 <line x1="243" y1="90" x2="243" y2="320" stroke="#ddd" stroke-width="1.5"/>

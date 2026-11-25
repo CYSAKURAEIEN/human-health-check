@@ -143,7 +143,7 @@ For the various metal ores see [Iron Smelting](../05-metallurgy/01-iron-smelting
 Rain soaks into the ground and is stored in the pores and cracks of rock and soil
 - Aquifer: a layer that can hold and pass water, such as sand, gravel, fractured rock,
   or limestone with caves
-- Aquitard: a layer that does not let water through, such as clay or dense shale
+- Impermeable layer (aquiclude): a layer that does not let water through, such as clay or dense shale
 - Water table: the upper limit of fully waterlogged ground; a well must be dug below it
 
 Places where groundwater is easy to find:
@@ -193,7 +193,7 @@ Loam: a balanced mix of the three, best for growing crops
 ### 5.2 Simple soil texture tests
 
 ```
-Ribbon (rolling) test:
+Rolling test:
 1. Take a handful of moist soil (add water and knead until it is like modelling clay)
 2. Roll it into a thin thread between your palms
 - Will not form a thread, falls apart at once → sandy soil
@@ -209,9 +209,9 @@ Jar (settling) test (more accurate):
 4. Measure the thickness of each layer to find the rough proportions
 ```
 
-![Soil texture tests: the ribbon test (falls apart at once = sandy soil; forms a thread but breaks when bent = loam; forms a long thin thread that bends into a ring without breaking = clay) and the jar test (sand settles in about 1 minute, silt in a few hours, clay in one or two days; measure the thickness of each layer)](../../images/soil-texture-test.svg)
+![Soil texture tests: the rolling test (falls apart at once = sandy soil; forms a thread but breaks when bent = loam; forms a long thin thread that bends into a ring without breaking = clay) and the jar test (sand settles in about 1 minute, silt in a few hours, clay in one or two days; measure the thickness of each layer)](../../images/soil-texture-test.svg)
 
-*Figure: for the ribbon test, first add water and knead the soil until it is like modelling clay; in the jar test the layer thicknesses shown are only illustrative – the actual proportions come from the thicknesses you measure*
+*Figure: for the rolling test, first add water and knead the soil until it is like modelling clay; in the jar test the layer thicknesses shown are only illustrative – the actual proportions come from the thicknesses you measure*
 
 For choosing soil for adobe and rammed earth see [Long-Term Housing – Choosing soil](../07-everyday-living-skills/05-long-term-shelter.md#choosing-the-soil).
 

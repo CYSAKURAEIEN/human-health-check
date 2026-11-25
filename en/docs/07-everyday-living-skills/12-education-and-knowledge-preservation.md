@@ -265,4 +265,4 @@ For making paper and ink see [Pottery, Glass and Papermaking – Papermaking](11
 ---
 
 **Next chapter**: [Record-keeping, Trade and Division of Labour](13-record-keeping-trade-and-division-of-labour.md)
-**Back**: [Chapter index](README.md) | [Main contents](../../README.md)
+**Back to**: [Part contents](README.md) | [Main contents](../../README.md)

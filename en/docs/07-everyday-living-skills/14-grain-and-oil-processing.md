@@ -787,4 +787,4 @@ For the principle see [Advanced Chemistry – Reaction rates and catalysis](../0
 ---
 
 **Next chapter**: [Salt Making](15-salt-making.md)
-**Back**: [Chapter index](README.md) | [Main contents](../../README.md)
+**Back to**: [Part contents](README.md) | [Main contents](../../README.md)

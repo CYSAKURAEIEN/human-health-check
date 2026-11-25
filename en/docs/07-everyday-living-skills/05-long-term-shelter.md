@@ -27,7 +27,7 @@ So the focus of this chapter is not "how to build fast" but "how to build
 so that the house does not kill you":
 1. Choose a site away from natural hazards
 2. In earthquake areas, earthquake-resistant measures are a must
-3. Kang, stoves and chimneys must not leak smoke or start fires
+3. *Kang* (heated brick beds), stoves and chimneys must not leak smoke or start fires
 ```
 
 **Where possible, get guidance from experienced local builders and follow local technical rules for rural house building.** This chapter gives basic principles and general methods; adjust actual dimensions to the local soil, climate and earthquake intensity.
@@ -272,7 +272,7 @@ For recognising and treating carbon monoxide poisoning, see [Carbon monoxide poi
 
 ## Kang and stoves
 
-The *kang* (heated brick bed) is the traditional way of heating in northern China: smoke and heat from the stove's firebox first pass through flues under the kang, warming its surface, and then leave through the chimney.
+The *kang* is the traditional way of heating in northern China: smoke and heat from the stove's firebox first pass through flues under the kang, warming its surface, and then leave through the chimney.
 
 ### Key points of construction
 
@@ -404,4 +404,4 @@ At any time:
 ---
 
 **Next chapter**: [Lighting and energy](06-lighting-and-energy.md)
-**Back**: [Chapter index](README.md) | [Main contents](../../README.md)
+**Back to**: [Part contents](README.md) | [Main contents](../../README.md)

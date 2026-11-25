@@ -7,7 +7,7 @@ This part covers how to grow and raise common edible and useful plants and anima
 ### Chapters
 
 1. [Vegetable growing](01-vegetable-growing.md) - sowing times and germination temperatures, crop rotation and replant problems, preparing the ground, hotbeds and low tunnels, compost, raising and transplanting seedlings, pest and disease control, individual vegetables, the winter vegetable gap
-2. [Staple crops](02-grain-crops.md) - growing rice, wheat, maize, soya beans and sorghum, key points for potatoes and sweet potatoes as field crops, pests and diseases, estimating yields and the area needed for self-sufficiency, rotation
+2. [Grain crops](02-grain-crops.md) - growing rice, wheat, maize, soya beans and sorghum, key points for potatoes and sweet potatoes as field crops, pests and diseases, estimating yields and the area needed for self-sufficiency, rotation
 3. [Fruit trees](03-fruit-trees.md) - choosing varieties and rootstocks, planting out, training and pruning, fertilising, pollination, frost protection, pests and diseases, years to bearing and yields
 4. [Medicinal plants](04-medicinal-plants.md) - identification and poisonous look-alikes, growing, harvesting and drying, normal use and contraindications, warnings about using them alongside Western medicines
 5. [Poultry](05-poultry.md) - keeping chickens, ducks and geese, brooding chicks, home-mixed feed, incubation, disease prevention and zoonoses, hygienic slaughter
@@ -370,7 +370,7 @@ Garlic water:
 
 **Growing area**:
 - Vegetables: 50-100 m² (roughly self-sufficient)
-- Grain: a family of four needs about 3000-5000 m² (0.3-0.5 ha) of grain fields to be self-sufficient; see [Staple crops](02-grain-crops.md#self-sufficiency-plan-family-of-4)
+- Grain: a family of four needs about 3000-5000 m² (0.3-0.5 ha) of grain fields to be self-sufficient; see [Grain crops](02-grain-crops.md#self-sufficiency-plan-family-of-4)
 - Fruit trees: a few
 
 **Animals** (optional):

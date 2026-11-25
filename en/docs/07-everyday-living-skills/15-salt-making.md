@@ -546,4 +546,4 @@ For treating scalds see [Wound and Injury Care – Scalds and burns](../01-first
 ---
 
 **Next chapter**: [Lime and Building Materials](16-lime-and-building-materials.md)
-**Back**: [Chapter index](README.md) | [Main contents](../../README.md)
+**Back to**: [Part contents](README.md) | [Main contents](../../README.md)

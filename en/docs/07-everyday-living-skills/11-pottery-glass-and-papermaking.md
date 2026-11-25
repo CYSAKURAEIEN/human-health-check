@@ -434,4 +434,4 @@ Glue (bone glue, hide glue): wash scraps of hide and bones, simmer in water over
 ---
 
 **Next chapter**: [Education and Knowledge Preservation](12-education-and-knowledge-preservation.md)
-**Back**: [Chapter index](README.md) | [Main contents](../../README.md)
+**Back to**: [Part contents](README.md) | [Main contents](../../README.md)

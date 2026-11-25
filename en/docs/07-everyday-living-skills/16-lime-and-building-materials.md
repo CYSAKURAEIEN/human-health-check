@@ -513,4 +513,4 @@ For adobe and rammed earth see [Long-term Housing – Adobe walls](05-long-term-
 ---
 
 **Next chapter**: [Rope and Knots](17-rope-and-knots.md)
-**Back**: [Chapter index](README.md) | [Main contents](../../README.md)
+**Back to**: [Part contents](README.md) | [Main contents](../../README.md)

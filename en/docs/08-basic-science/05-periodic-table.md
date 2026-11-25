@@ -311,7 +311,7 @@ The other half of the character usually gives the sound:
 | Potassium K | Wood ash | Fertiliser, alkali, soap | Lye is corrosive |
 | Calcium Ca | Limestone, shells, bones | Lime, cement, improving soil | Quicklime heats up with water and burns |
 | Iron Fe | Iron ore, ruins | Tools, machines, building | — |
-| Copper Cu | Copper ore, electric wire | Wire, bronze, brass | Verdigris is toxic (in small amounts) |
+| Copper Cu | Copper ore, electric wire | Wire, bronze, brass | Verdigris is mildly toxic |
 | Zinc Zn | Ruins (coatings, die-castings) | Brass, galvanising, batteries | Zinc fumes (metal fume fever) |
 | Tin Sn | Cassiterite, solder | Bronze, solder, tin plating | — |
 | Lead Pb | Ruins (storage batteries, weights) | Solder, weights, shielding | Chronic poisoning |
