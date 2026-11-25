@@ -564,7 +564,7 @@ Common reminders for mineral medicines:
 - **Harvest and processing**: After mining, remove mud, sand and other stones; medicinal talc powder must be extremely fine and is processed by pharmaceutical factories
 - **Storage**: Keep in a dry place
 - **Actions**: Promotes urination and relieves painful urination, clears heat and relieves summer heat; used externally, dispels damp and heals sores
-- **Dose**: 10-20 g, **decocted first** (talc powder in a decoction is decocted wrapped); an appropriate amount for external use (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
+- **Dose**: 10-20 g, **decocted first** (talc powder in a decoction is wrapped in cloth for decoction); an appropriate amount for external use (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Contraindications**: Cold and slippery in nature: **caution in pregnancy**; not suitable for people with spleen deficiency, seminal emissions or frequent urination (experience). **Do not inhale talc powder**, and do not dust large amounts of powder near a baby's mouth and nose; do not dust powder on the female genital area long term (a reminder from experience). Frequent or painful urination, or blood in the urine, needs a doctor to check for urinary tract infection and stones
 
 ### 4.3 Mangxiao (mirabilite)

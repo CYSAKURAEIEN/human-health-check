@@ -576,7 +576,7 @@ Most herbs in this group are cool in nature and are used for fever, sore throat,
 - **Harvest and processing**: pick in summer and autumn when the fruit is ripe; sun-dry or dry at low heat
 - **Storage**: contains volatile oil; **seal to stop the aroma escaping**; do not store for long
 - **Actions**: resolves damp and opens the appetite, warms the spleen and stops diarrhoea, regulates qi and calms the foetus
-- **Dose**: 3-6 g, **added towards the end of decoction** (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
+- **Dose**: 3-6 g, **added near the end** (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Contraindications**: use with caution in people with yin deficiency with dry blood or strong internal fire-heat; "calming the foetus" must be decided by a doctor
 
 ### 5.2 Doukou (round cardamom)
@@ -593,7 +593,7 @@ Most herbs in this group are cool in nature and are used for fever, sore throat,
 - **Harvest and processing**: pick when the fruit is ripe; sun-dry
 - **Storage**: as for *Sharen*: seal so the aroma does not escape
 - **Actions**: resolves damp and moves qi, warms the middle and stops vomiting, opens the appetite and aids digestion
-- **Dose**: 3-6 g, **added towards the end of decoction** (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
+- **Dose**: 3-6 g, **added near the end** (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Contraindications**: use with caution in people with yin deficiency and dry blood
 
 ### 5.3 Caoguo (tsaoko fruit)
@@ -639,7 +639,7 @@ Most herbs in this group are cool in nature and are used for fever, sore throat,
 - **Harvest and processing**: in summer and autumn when the seeds are ripe, collect the spikes, sun-dry, rub out the seeds and remove impurities. Plantain by the road may be contaminated by exhaust, dust and herbicides; collect in clean places
 - **Storage**: the seeds are tiny and easily mixed with soil and sand; keep dry
 - **Actions**: clears heat, promotes urination and relieves painful urination, drains damp and stops diarrhoea, brightens the eyes, dispels phlegm
-- **Dose**: 9-15 g, **decocted wrapped** (put in a gauze bag before boiling; otherwise the mucilage makes the decoction thick and it burns easily) (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
+- **Dose**: 9-15 g, **wrapped in cloth for decoction** (put in a gauze bag before boiling; otherwise the mucilage makes the decoction thick and it burns easily) (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Contraindications**: use with caution in people with kidney deficiency and seminal emission, or no damp-heat; people taking diuretics should ask a doctor first. With frequent or painful urination or blood in the urine, see a doctor first. For the whole plant, see [Whole herbs – Cheqiancao](04-whole-herbs.md#32-cheqiancao-plantain)
 
 ### 5.6 Mugua (Chinese flowering quince)
