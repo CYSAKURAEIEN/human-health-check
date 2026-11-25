@@ -84,6 +84,10 @@ class Target:
             return f'../../../{c["zh"]}#{anchor}', f'{pinyin(zh_name)}', None
         k = c['zh_slugs'].index(anchor)
         name = re.sub(r'^[\d.]+\s+', '', c['texts'][k]).replace('*', '')
+        if re.search(r' vs | and |, ', name):  # 一个标题讲几味药(如"钩吻与金银花"): 只取这味药
+            py = pinyin(zh_name)
+            m = re.search(rf"(?<![\w']){re.escape(py)} \([^()]*(?:\([^()]*\)[^()]*)*\)", name, re.I)
+            name = m.group(0) if m and not re.search(r' and |, ', m.group(0)) else py
         return f'{os.path.basename(c["en"])}#{c["en_slugs"][k]}', name, c['title']
 
 
