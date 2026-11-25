@@ -29,7 +29,7 @@ This chapter covers 43 commonly used fruit and seed herbs, roughly grouped by ac
 5. Psoralea fruit can cause liver damage and photosensitive dermatitis (red patches
    and blisters when you go into the sun after using it);
    do not drink cassia seed as a tea long-term (long-term laxative effect)
-6. Seeds are rich in oil, and in storage they are the most prone to "going oily"
+6. Seeds are rich in oil, and in storage they are the most prone to "oiling"
    (turning sticky, rancid smell) and insect damage;
    do not use mouldy or rancid seeds – mouldy seeds may contain aflatoxin
 7. Use with caution in pregnancy: immature bitter orange, bitter orange, green
@@ -107,7 +107,7 @@ Most herbs in this group are "both food and medicine", and they are the most lik
   - Crude herb: roughly spindle-shaped or elliptical, 6-20 mm long, 3-10 mm across; surface **red or dark red**, with a small raised style scar at the tip and a white stalk scar at the base; skin tough and wrinkled, flesh soft and moist; 20-50 seeds, kidney-shaped; **tastes sweet**
 - **Look-alikes/fakes**: "local goji" fruits are smaller with thinner flesh, sweet and then slightly bitter. There are also **dyed and sulphur-fumigated** goji berries – do not buy any that are an unnaturally bright, even colour, lose colour when rubbed, turn water red at once when soaked, or have a sharp, sour smell
 - **Harvesting and processing**: pick in summer and autumn when the fruit is red; dry with hot air, then remove the stalks; or air until the skin wrinkles, then sun-dry and remove the stalks
-- **Storage**: high in sugar, **very prone to going oily (sticky and black), insect damage and mould**; seal and keep in a cool place; refrigerate small amounts
+- **Storage**: high in sugar, **very prone to oiling (sticky and black), insect damage and mould**; seal and keep in a cool place; refrigerate small amounts
 - **Actions**: nourishes liver and kidney, benefits essence and brightens the eyes
 - **Dose**: 6-12 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner); eating small amounts as food every day is generally safe
 - **Cautions**: people with a fever from an external illness or with diarrhoea from spleen deficiency should not eat much; **in people taking warfarin**, goji has been reported to raise the risk of bleeding (raised INR) – ask a doctor first; people with diabetes should watch the sugar content
@@ -154,7 +154,7 @@ Most herbs in this group are "both food and medicine", and they are the most lik
   - Crude herb: **kidney-shaped**, slightly flattened, 3-5 mm long, 2-4 mm wide; surface **black, blackish-brown or greyish-brown** with a fine net of wrinkles; hard; skin thin and not easily separated from the seed; 1 seed, cotyledons yellowish-white and oily; **aromatic smell**, pungent and slightly bitter taste
 - **Look-alikes**: small seeds of other legumes have been mixed in; check for the kidney shape, black colour, net of wrinkles and aroma
 - **Harvesting and processing**: in autumn when the fruit is ripe, cut the fruiting heads, sun-dry, rub out the fruit and remove impurities
-- **Storage**: keep dry; protect from going oily and from insects
+- **Storage**: keep dry; protect from oiling and from insects
 - **Actions**: warms the kidney and assists yang, helps the kidney grasp qi and calms wheezing, warms the spleen and stops diarrhoea; externally, dispels wind and removes skin blemishes
 - **Dose**: 6-10 g; externally, a 20%-30% tincture painted on the affected area (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Risks** (important):
@@ -172,7 +172,7 @@ Most herbs in this group are "both food and medicine", and they are the most lik
   - Crude herb: elliptical or spherical, 2-3.5 cm long, 1.5-2.5 cm across; surface **dark red**, slightly glossy, irregularly wrinkled; flesh brownish-yellow or light brown, soft, **sugary and moist**; stone spindle-shaped, sharply pointed at both ends, very hard; tastes sweet
 - **Look-alikes**: not easily confused; watch for mould, insect damage, and fruit soaked in sugar water or dyed
 - **Harvesting and processing**: pick in autumn when the fruit is ripe; sun-dry
-- **Storage**: high in sugar, **prone to mould, insect damage and going oily**; seal once thoroughly dry and keep in a cool, dry place
+- **Storage**: high in sugar, **prone to mould, insect damage and oiling**; seal once thoroughly dry and keep in a cool, dry place
 - **Actions**: tonifies the middle and boosts qi, nourishes blood and calms the mind
 - **Dose**: 6-15 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner); everyday eating as food is safe
 - **Cautions**: people with heavy damp, abdominal bloating or a lot of phlegm should not eat much; people with diabetes should watch the sugar content. **Jujube stones are sharp and hard: remove the stone before giving jujubes to young children**, to prevent choking or injury to the digestive tract
@@ -225,11 +225,11 @@ Astringent herbs are used for conditions where things "slip out and cannot be he
   - Smell and taste: the flesh tastes sour; the crushed seeds are aromatic and taste pungent and slightly bitter – hence the name "five flavours"
 - **Look-alikes**: southern *Wuweizi* is small, brownish-red to dark brown, shrivelled and thin-fleshed; the two have similar actions but must not be passed off as each other
 - **Harvesting and processing**: pick in autumn when the fruit is ripe; sun-dry, or steam then sun-dry; remove stalks and impurities
-- **Storage**: prone to going oily and mould; seal and keep in a cool place
+- **Storage**: prone to oiling and mould; seal and keep in a cool place
 - **Actions**: astringes and secures, boosts qi and generates fluids, tonifies the kidney and calms the heart
 - **Dose**: 2-6 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: not suitable for people with a fever from an external illness, a cough that has just started, or internal excess heat. **Schisandra affects how the body metabolises tacrolimus and other drugs** (raising blood levels); people taking immunosuppressants after an organ transplant, and anyone on other long-term prescription medicines, must ask a doctor first
-- 🛡️ **Protection note**: *Wuweizi* is on the List of Wild Medicinal Species under Key State Protection (grade III; the text of the list is authoritative). Leave seed and vines on wild plants; do not pull up whole vines; use cultivated material first
+- 🛡️ **Protection note**: *Wuweizi* is on the List of Wild Medicinal Species under State Key Protection (Class III; the text of the list is authoritative). Leave seed and vines on wild plants; do not pull up whole vines; use cultivated material first
 
 ### 2.3 Wumei (smoked plum)
 
@@ -316,7 +316,7 @@ Astringent herbs are used for conditions where things "slip out and cannot be he
   - Crude herb: flattened round or flattened elliptical, 5-9 mm long, 5-7 mm wide, about 3 mm thick; surface **purplish-red or purplish-brown, smooth and glossy**; **one side fairly flat with 1 raised line running down the middle**, the other side slightly convex; a linear hilum in a hollow at one end; seed coat fairly brittle, cotyledons pale yellow and oily; faint smell, bland taste
 - **Look-alikes/fakes**: the commonest is ***Lizaoren*** (seed of the Indian jujube, *Ziziphus mauritiana*): larger, yellowish-brown, and the flat side has **no** raised line; there are also dyed seeds of Japanese raisin tree and lentils passed off as the herb
 - **Harvesting and processing**: at the end of autumn or start of winter, collect the ripe fruit, remove the flesh and the stone shell, collect the seeds and sun-dry
-- **Storage**: rich in oil, **prone to going oily and insect damage**; seal, keep in a cool place, do not store for long
+- **Storage**: rich in oil, **prone to oiling and insect damage**; seal, keep in a cool place, do not store for long
 - **Actions**: nourishes the heart and tonifies the liver, calms the mind, stops sweating, generates fluids
 - **Dose**: 10-15 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: use with caution in people with excess pathogens or pent-up fire; **taken with sleeping pills or sedatives it can increase drowsiness** – ask a doctor first. Long-term insomnia needs a doctor to find the cause
@@ -412,7 +412,7 @@ Qi-regulating herbs are mostly pungent, aromatic and dispersing, and are used fo
   - Crude herb: roughly ovoid or elliptical, slightly flattened, 2.5-4 mm long, 2-3 mm wide; surface yellowish-brown, reddish-brown or greyish-brown; a dark brown round hilum at one end and several lengthwise grooves on one side; cotyledons yellowish-white and oily; bland taste, slightly bitter and pungent
 - **Look-alikes**: other cabbage-family seeds (mustard seed, rapeseed) are mostly round and smaller; when buying vegetable seed, watch out for **seed coatings** (seeds dyed red, blue or green have been treated with pesticide or fungicide and must not be used as medicine or eaten)
 - **Harvesting and processing**: in summer when the fruit is ripe, cut the plants, sun-dry, rub out the seeds, remove impurities and sun-dry again
-- **Storage**: prone to going oily and insect damage
+- **Storage**: prone to oiling and insect damage
 - **Actions**: aids digestion and relieves bloating, descends qi and resolves phlegm
 - **Dose**: 5-12 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: use with caution in people with qi deficiency and no food stagnation or phlegm; traditional experience holds that it should not be used together with *Renshen* (ginseng)
@@ -474,7 +474,7 @@ Most herbs in this group are cool in nature and are used for fever, sore throat,
 - **Actions**: clears heat and removes toxins, reduces swelling and dissipates lumps, disperses wind-heat
 - **Dose**: 6-15 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: use with caution in people with a cold, weak digestion or fever from qi deficiency
-- 🛡️ **Protection note**: *Lianqiao* is on the List of Wild Medicinal Species under Key State Protection (grade III; the text of the list is authoritative). *Qingqiao* fetches a high price, and "rushing the green" – picking too early – damages the resource; do not harvest before the proper season, and pick only part of the fruit
+- 🛡️ **Protection note**: *Lianqiao* is on the List of Wild Medicinal Species under State Key Protection (Class III; the text of the list is authoritative). *Qingqiao* fetches a high price, and "rushing the green" – picking too early – damages the resource; do not harvest before the proper season, and pick only part of the fruit
 
 ### 4.3 Juemingzi (cassia seed)
 
@@ -503,7 +503,7 @@ Most herbs in this group are cool in nature and are used for fever, sore throat,
   - Crude herb: the achenes knocked out of the burrs, **long-obovoid**, slightly flattened, slightly curved, 5-7 mm long, 2-3 mm wide; surface **greyish-brown with purplish-black spots**, with several lengthwise ridges; tip bluntly rounded with a ring; cotyledons pale yellowish-white and oily; tastes bitter, then slightly pungent and a little numbing on the tongue
 - **Look-alikes**: ⚠️ **cocklebur fruit** (*Cang'erzi*, toxic, damages the liver) – also in the daisy family, also with hooked prickles, also sticking to clothing, and often found alongside burdock in the wild. The difference: burdock is a tall plant with very large leaves, its burrs are **round** and its flowers purplish-red; cocklebur burrs are **spindle-shaped or elliptical**, about 1-1.5 cm long, and the whole prickly fruit is the herb; its leaves are triangular-ovate and rough. See [Cocklebur seedlings and cocklebur fruit](09-toxic-herbs-and-poisonous-look-alikes.md#410-canger-seedlings-and-cangerzi-cocklebur)
 - **Harvesting and processing**: in autumn when the fruit is ripe, collect the fruiting heads, sun-dry, knock out the fruit, remove impurities and sun-dry again. The hooked bracts and fine bristles irritate the skin: wear gloves
-- **Storage**: prone to going oily and insect damage
+- **Storage**: prone to oiling and insect damage
 - **Actions**: disperses wind-heat, opens the lung and brings out rashes, removes toxins and soothes the throat
 - **Dose**: 6-12 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: cold in nature and loosens the bowels; use with caution in people with spleen deficiency and loose stools
@@ -719,7 +719,7 @@ Interior-warming herbs are warm or hot and pungent, and are used for cold pain i
 
 ## 7. Cough-relieving and laxative herbs
 
-All the herbs in this group are oil-rich seeds that moisten the intestines and relieve constipation; *Kuxingren*, *Taoren* and *Zisuzi* also stop cough and calm wheezing. **Bitter apricot kernel and peach kernel contain amygdalin, and eaten raw in excess they cause cyanide poisoning**; because the seeds are oil-rich, all of them must be protected from going oily in storage.
+All the herbs in this group are oil-rich seeds that moisten the intestines and relieve constipation; *Kuxingren*, *Taoren* and *Zisuzi* also stop cough and calm wheezing. **Bitter apricot kernel and peach kernel contain amygdalin, and eaten raw in excess they cause cyanide poisoning**; because the seeds are oil-rich, all of them must be protected from oiling in storage.
 
 ### 7.1 Kuxingren (bitter apricot kernel)
 
@@ -734,9 +734,9 @@ All the herbs in this group are oil-rich seeds that moisten the intestines and r
   - Signs of poisoning (half an hour to a few hours after eating): bitter, astringent taste in the mouth, drooling, nausea, vomiting, dizziness, headache, palpitations, rapid breathing, and in severe cases loss of consciousness, convulsions and breathing stopping. **A dozen or so raw bitter apricot kernels can severely poison a child**
   - For details see [Bitter apricot kernel](09-toxic-herbs-and-poisonous-look-alikes.md#412-kuxingren-bitter-apricot-kernel)
 - **Harvesting and processing**: in summer, collect ripe fruit, remove the flesh and the stone shell, take out the seeds and sun-dry
-- **Storage**: rich in oil, **very prone to going oily and insect damage**; keep cool, dark and sealed, and do not store for long; store separately, out of reach of children
+- **Storage**: rich in oil, **very prone to oiling and insect damage**; keep cool, dark and sealed, and do not store for long; store separately, out of reach of children
 - **Actions**: descends qi, stops cough and calms wheezing, moistens the intestines and relieves constipation
-- **Dose**: 5-10 g; when the raw herb is used in a decoction, **add it towards the end** (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner). **Do not take too much internally**
+- **Dose**: 5-10 g; when the raw herb is used in a decoction, it is **added near the end** (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner). **Do not take too much internally**
 - **Cautions**: **do not eat it raw**, and do not crack apricot stones yourself to eat the kernels; babies and children must not use it on their own; use with caution in pregnant women and people with loose stools. If the symptoms above appear after eating it by mistake, call 120 at once
 
 ### 7.2 Taoren (peach kernel)
@@ -750,7 +750,7 @@ All the herbs in this group are oil-rich seeds that moisten the intestines and r
 - **Difference from *Kuxingren***: apricot kernel is **heart-shaped, fairly thick and fairly smooth**; peach kernel is **flat and long, fairly thin, with granular bumps on the surface**. Both contain amygdalin, and neither may be eaten raw in excess
 - **⚠️ Risk of cyanogenic glycoside poisoning**: peach kernel also contains amygdalin, and **eaten raw in excess it can cause cyanide poisoning**, with the same signs as bitter apricot kernel (see [7.1](#71-kuxingren-bitter-apricot-kernel) and [Bitter apricot kernel](09-toxic-herbs-and-poisonous-look-alikes.md#412-kuxingren-bitter-apricot-kernel)); children must not crack peach stones to eat the kernels
 - **Harvesting and processing**: after the fruit is ripe, collect it, remove the flesh and the stone shell, take out the seeds and sun-dry
-- **Storage**: as for *Kuxingren*, very prone to going oily; keep cool, dark and sealed
+- **Storage**: as for *Kuxingren*, very prone to oiling; keep cool, dark and sealed
 - **Actions**: activates blood and dispels stasis, moistens the intestines and relieves constipation, stops cough and calms wheezing
 - **Dose**: 5-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: **use with caution in pregnancy** (it activates blood); people with heavy periods, a tendency to bleed, or taking anticoagulants or antiplatelet drugs should ask a doctor first; not suitable for people with loose stools
@@ -765,7 +765,7 @@ All the herbs in this group are oil-rich seeds that moisten the intestines and r
   - Crude herb: **ovoid or roughly spherical**, about 1.5 mm across; surface greyish-brown or dark greyish-brown, with a slightly raised **dark purple net pattern**; base slightly pointed, with a greyish-white dot-like stalk scar; shell thin and brittle, easily crushed; seed yellowish-white, cotyledons whitish and oily; **aromatic when crushed**, slightly pungent taste
 - **Look-alikes**: the seeds of *Baisu* (the green-leaved variety) are larger and greyish-white, traditionally called "*Baisuzi*", and are not used as *Zisuzi*; other mint-family nutlets smell different
 - **Harvesting and processing**: pick in autumn when the fruit is ripe, remove impurities and sun-dry
-- **Storage**: rich in oil, **prone to going oily** and turning rancid; seal, keep cool and dark
+- **Storage**: rich in oil, **prone to oiling** and turning rancid; seal, keep cool and dark
 - **Actions**: descends qi and resolves phlegm, stops cough and calms wheezing, moistens the intestines and relieves constipation
 - **Dose**: 3-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: use with caution in people with spleen deficiency and loose stools. With wheezing or difficulty breathing, see a doctor first
@@ -781,7 +781,7 @@ All the herbs in this group are oil-rich seeds that moisten the intestines and r
 - **Look-alikes**: not easily confused; watch for mould and a rancid smell
 - **Legal reminder**: cannabis is a source plant of illegal drugs. Under the Narcotics Control Law and other regulations, **growing plants of the genus Cannabis without a licence is illegal** (industrial hemp requires a licence); buy medicinal *Huomaren* from a regular pharmacy and **do not grow cannabis yourself**
 - **Harvesting and processing**: pick in autumn when the fruit is ripe, remove impurities and sun-dry
-- **Storage**: rich in oil, **very prone to going oily**; seal, keep cool and dark
+- **Storage**: rich in oil, **very prone to oiling**; seal, keep cool and dark
 - **Actions**: moistens the intestines and relieves constipation
 - **Dose**: 10-15 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: **do not eat large amounts**: eating a large amount of hemp seed at once (especially roasted with the shell on) has been reported to cause poisoning, with nausea, vomiting, diarrhoea, numbness of the limbs, restlessness or drowsiness, and in severe cases coma. Not suitable for people with spleen deficiency and diarrhoea. Long-term constipation needs a doctor to find the cause
@@ -802,7 +802,7 @@ All the herbs in this group are oil-rich seeds that moisten the intestines and r
   - Crude herb: **elliptical or ovoid, with 5 lengthwise ridges**, 2.5-4 cm long, about 2 cm across; surface **blackish-brown to purplish-black**, smooth, slightly glossy; tip narrowly pointed, base bluntly rounded; very hard; **the cross-section is usually a five-pointed star**, with a roughly round hollow in the middle; seed long-elliptical or spindle-shaped, about 2 cm long, surface dark brown with lengthwise wrinkles; cotyledons yellowish-white, oily; faintly fragrant smell, slightly sweet taste
 - **Look-alikes**: its shape is distinctive (five ridges, purplish-black), so it is not easily confused
 - **Harvesting and processing**: pick in autumn when the skin turns purplish-black, remove impurities and dry
-- **Storage**: prone to going oily and insect damage; store separately, out of reach of children (the kernels taste sweet, so children easily eat too many)
+- **Storage**: prone to oiling and insect damage; store separately, out of reach of children (the kernels taste sweet, so children easily eat too many)
 - **Actions**: kills worms and dispels accumulation
 - **Dose**: *Shijunzi* 9-12 g, crushed and decocted; *Shijunzi* kernel 6-9 g, mostly in pills and powders or used alone, taken in 1-2 doses. Children: 1-1.5 kernels per year of age, roasted until fragrant and chewed, **total no more than 20 kernels a day** (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: **do not drink strong tea while taking it** (taken together they easily cause hiccups). **An overdose** can cause hiccups (that will not stop), dizziness, nausea, vomiting and diarrhoea, and in severe cases convulsions; do not eat much, and do not eat large amounts of the raw kernels. Before deworming a child, see a doctor for a diagnosis
@@ -841,7 +841,7 @@ All the herbs in this group are oil-rich seeds that moisten the intestines and r
 | *Binglang* | Chewing causes oral cancer | Do not chew; medicinal use only short-term under a doctor's guidance |
 | *Zhishi*, *Zhiqiao*, *Qingpi*, *Taoren*, *Yiyiren*, *Binglang* | Caution in pregnancy | In pregnancy, always ask a doctor first |
 | *Xiaohuixiang*, star anise | Toxic *Illicium* fruits (Japanese star anise) mixed in | Use only cultivated, smell-confirmed fennel; do not collect wild carrot-family fruits |
-| *Gouqizi*, *Shanzhuyu*, *Wuweizi*, *Huomaren*, *Kuxingren* and other sugary or oily herbs | Going oily, insect damage, mould | Keep cool, dark and sealed; do not use if mouldy or rancid |
+| *Gouqizi*, *Shanzhuyu*, *Wuweizi*, *Huomaren*, *Kuxingren* and other sugary or oily herbs | Oiling, insect damage, mould | Keep cool, dark and sealed; do not use if mouldy or rancid |
 | *Huomaren* | Poisoning in large amounts; growing cannabis is illegal | Buy from a regular pharmacy; do not grow it yourself |
 
 ### 9.2 Self-check
@@ -880,7 +880,7 @@ Before collecting or using a fruit or seed herb, confirm each point:
   or Pangdahai as a tea long-term
 □ Shanzhuyu (tonic) and Wuzhuyu (toxic) differ by one character in Chinese –
   check when buying herbs
-□ Seed herbs are the most prone to going oily, insect damage and mould;
+□ Seed herbs are the most prone to oiling, insect damage and mould;
   never eat anything mouldy
 □ Use Zhishi, Zhiqiao, Qingpi, Taoren, Yiyiren and Binglang with caution in pregnancy
 ```
@@ -890,11 +890,11 @@ Before collecting or using a fruit or seed herb, confirm each point:
 ## Related chapters
 
 - ⏮️ [Roots and Rhizomes (Part 2)](02-roots-and-rhizomes-2.md) - *Zhimu*, *Maidong*, *Dahuang*, *Beimu*, *Yanhusuo* and other root and rhizome herbs (Chapter 02)
-- ⏭️ [Whole *Herbs*](04-whole-herbs.md) - *Bohe*, *Pugongying*, *Yuxingcao*, *Cheqiancao*, *Yimucao* and other whole-herb medicines
-- 🔗 [General Principles of Identifying and Collecting Chinese Medicinal *Herbs*](00-general-principles.md) - general methods for identification, harvesting, processing, storage (preventing going oily and insect damage), safety and the law
-- 🔗 [Toxic *Herbs* and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - identification and poisoning signs of bitter apricot kernel, cocklebur fruit, ginkgo seed and others
+- ⏭️ [Whole Herbs](04-whole-herbs.md) - *Bohe*, *Pugongying*, *Yuxingcao*, *Cheqiancao*, *Yimucao* and other whole-herb medicines
+- 🔗 [General Principles of Identifying and Collecting Chinese Medicinal Herbs](00-general-principles.md) - general methods for identification, harvesting, processing, storage (preventing oiling and insect damage), safety and the law
+- 🔗 [Toxic Herbs and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - identification and poisoning signs of bitter apricot kernel, cocklebur fruit, ginkgo seed and others
 - 🔗 [Medicinal Plants: Identification and Growing Guide](../04-farming-and-animal-husbandry/04-medicinal-plants.md) - growing medicinal plants and the family herb garden
-- 🔗 [Traditional Chinese Medicine Preparations](../06-pharmaceuticals/04-herbal-preparations.md) - processing (stir-frying, roasting with liquids), decoction (adding towards the end, decocting wrapped), formulas and safe use
+- 🔗 [Traditional Chinese Medicine Preparations](../06-pharmaceuticals/04-herbal-preparations.md) - processing (stir-frying, roasting with liquids), decoction (added near the end, wrapped in cloth for decoction), formulas and safe use
 - 🔗 [Poisoning](../01-first-aid-and-family-health/12-poisoning.md) - what to do after eating a poisonous plant or taking too much medicine
 
 ---

@@ -476,7 +476,7 @@ Some herbs are steamed, boiled or scalded in boiling water before drying. The pu
 
 | Method | Suitable for | Examples | How to judge it is done |
 |------|------|------|---------|
-| *Steaming* | Rhizomes rich in starch or mucilage that do not dry easily | *Tianma*, *Huangjing*, *Hongshen* (red ginseng) | Steamed right through, no white core in the cut surface |
+| Steaming | Rhizomes rich in starch or mucilage that do not dry easily | *Tianma*, *Huangjing*, *Hongshen* (red ginseng) | Steamed right through, no white core in the cut surface |
 | Boiling | Roots that need peeling or gelatinising | *Baishao* (peeled after boiling), *Mingdangshen* (changium root) | Boiled right through |
 | Scalding | Fleshy tuberous roots, to stop them spoiling while drying | *Tiandong* (asparagus tuber), *Taizishen* (pseudostellaria root) (briefly scalded in boiling water) | Skin softened, cut surface semi-translucent |
 
@@ -489,7 +489,7 @@ each species in the later chapters.
 
 ### 5.4 Sweating
 
-"*Sweating*" means piling herbs up, or covering them with wet straw or wet sacking and keeping them closed in, so that water inside seeps out to the surface and certain changes take place: the herb darkens in colour, its fragrance increases, its texture softens and it dries faster.
+"Sweating" means piling herbs up, or covering them with wet straw or wet sacking and keeping them closed in, so that water inside seeps out to the surface and certain changes take place: the herb darkens in colour, its fragrance increases, its texture softens and it dries faster.
 
 ```
 Used for:  Houpo, Duzhong, Xuanshen, Xuduan (teasel root), Fuling, etc.
@@ -507,15 +507,15 @@ Note:      sweating is a deliberate process with controlled temperature and
 
 ### 5.5 Drying
 
-*Drying* is the most important step in processing at the place of origin. Only herbs that dry fast and dry thoroughly will not go mouldy or spoil.
+Drying is the most important step in processing at the place of origin. Only herbs that dry fast and dry thoroughly will not go mouldy or spoil.
 
 | Method | Suitable for | Key points |
 |------|---------|------|
 | Sun-drying | Most roots and rhizomes, fruits, seeds, barks, and whole herbs without volatile oils | Spread in a thin layer and turn often; bring in at dusk so the night dew does not make them damp again |
 | Shade-drying | Flowers, leaves and aromatic herbs containing volatile oils (such as *Bohe* and *Zisu*; for each herb, follow the method given in the later chapters) | Put in a cool, well-ventilated place or under the eaves, out of strong sun, so the fragrance is not lost and the colour does not fade |
-| Artificial heat drying | *Herbs* on rainy days, in large amounts, or that need drying quickly | Use a drying room, a heated *kang* (heated brick bed) or a low-temperature oven, and control the temperature |
+| Artificial heat drying | Herbs on rainy days, in large amounts, or that need drying quickly | Use a drying room, a heated *kang* (heated brick bed) or a low-temperature oven, and control the temperature |
 
-***Drying* temperatures** (based on the general principles in textbooks such as *Zhongyao Jiandingxue*):
+**Drying temperatures** (based on the general principles in textbooks such as *Zhongyao Jiandingxue*):
 
 ```
 - Most herbs: about 50-60°C; for a short time this does not destroy most
@@ -583,8 +583,8 @@ Badly stored herbs at best lose their effect; at worst they go mouldy and produc
 
 | Spoilage | Signs | Most likely in | Cause | Prevention |
 |------|------|----------|------|---------|
-| Mould | White, green or black fuzz or spots on the surface, mouldy smell | *Herbs* rich in sugar, starch or mucilage (*Dangshen*, *Tiandong*, *Gouqi*, *Shanyao*, *Danggui*) | Temperature about 20-35°C, damp air, herbs not thoroughly dried | Dry thoroughly, seal against damp, store in a cool place, re-dry in the sun regularly |
-| Insect damage | Bore holes, insect powder (frass), silk threads, even eaten away to powder | *Herbs* rich in starch, sugar or protein (*Dangshen*, *Baizhi*, *Shanyao*, *Yiyiren* (Job's tears seed)) and animal medicines | Insect eggs brought in during collection and processing, damp during storage | Dry and seal; re-dry in the sun or heat at low temperature; store with a protective herb (see below) |
+| Mould | White, green or black fuzz or spots on the surface, mouldy smell | Herbs rich in sugar, starch or mucilage (*Dangshen*, *Tiandong*, *Gouqi*, *Shanyao*, *Danggui*) | Temperature about 20-35°C, damp air, herbs not thoroughly dried | Dry thoroughly, seal against damp, store in a cool place, re-dry in the sun regularly |
+| Insect damage | Bore holes, insect powder (frass), silk threads, even eaten away to powder | Herbs rich in starch, sugar or protein (*Dangshen*, *Baizhi*, *Shanyao*, *Yiyiren* (Job's tears seed)) and animal medicines | Insect eggs brought in during collection and processing, damp during storage | Dry and seal; re-dry in the sun or heat at low temperature; store with a protective herb (see below) |
 | Oiling (*fanyou*) | Surface sticky, darkened, oozing oil, rancid smell | Oily herbs (*Xingren*, *Taoren*, *Baiziren*, *Danggui*) and sugary herbs (*Gouqi*, *Tiandong*, *Dangshen*) | High temperature, long storage, exposure to air and light | Keep cool, dark and sealed, do not squash; do not store too long |
 | Loss of colour and fragrance | Colour dulls and browns, fragrance fades | Flowers, leaves, aromatic herbs (*Jinyinhua*, *Juhua*, *Honghua*, *Bohe*) | Light, oxidation, damp, high temperature | Keep dark, sealed and cool; flowers and leaves generally renewed after about 1 year |
 
@@ -616,7 +616,7 @@ Storage conditions for herbs:
 | Tinplate tins, tinplate boxes | Flowers, aromatic herbs, herbs that take up damp easily | Good against damp and mice; do not use for strongly acidic herbs |
 | Wooden boxes, wooden cabinets (the "hundred-drawer cabinet" of a Chinese pharmacy) | Large amounts of herbs stored in separate compartments | Guard against damp and insects |
 | Cloth bags, paper bags | Short-term turnover, herbs needing good air flow | Not damp-proof or insect-proof, not suitable for long-term storage |
-| Thick plastic bags | A temporary substitute | *Herbs* must be thoroughly dry first; tie tightly and put another bag over the outside |
+| Thick plastic bags | A temporary substitute | Herbs must be thoroughly dry first; tie tightly and put another bag over the outside |
 
 ```
 The traditional way to keep out damp — the "lime jar":
@@ -1024,7 +1024,7 @@ Before collecting a herb, confirm each point:
 
 ## Related chapters
 
-- ⏭️ [Toxic *Herbs* and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - first learn what to avoid
+- ⏭️ [Toxic Herbs and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - first learn what to avoid
 - 🔗 [Medicinal Plants: Identification and Growing Guide](../04-farming-and-animal-husbandry/04-medicinal-plants.md) - growing medicinal plants and the home herb garden
 - 🔗 [Traditional Chinese Medicine Preparations](../06-pharmaceuticals/04-herbal-preparations.md) - processing, decocting, formulas and safe use
 - 🔗 [Poisonous Mushrooms and Wild Plants](../03-wilderness-survival/09-poisonous-mushrooms-and-wild-plants.md) - the risks of foraging in the wild

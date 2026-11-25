@@ -594,7 +594,7 @@ This group comes from mixed sources: *Shenjincao* is a fern ally, *Shihu* is an 
 - **Actions**: benefits the stomach and generates fluids, nourishes yin and clears heat
 - **Dose**: 6-12 g; fresh herb 15-30 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: not advisable with a thick, greasy tongue coating, abdominal bloating or loose stools; not advisable at the start of a warm-febrile disease before body fluids are damaged
-- 🛡️ **Protection note**: the 2021 *List of Wild Plants under Special State Protection* puts **all wild species of the genus *Dendrobium*** under Class II state protection, with *D. flexicaule* and *D. huoshanense* under Class I; all orchids are also listed in CITES Appendix II; and *Shihu* is also on the *List of Wild Medicinal Species under Special State Protection* (grades as given in the text of the lists). **Do not dig up, buy or sell wild *Shihu***, including plants picked "while you happen to be passing" from trees or rock faces
+- 🛡️ **Protection note**: the 2021 *List of Wild Plants under State Key Protection* puts **all wild species of the genus *Dendrobium*** under Class II state protection, with *D. flexicaule* and *D. huoshanense* under Class I; all orchids are also listed in CITES Appendix II; and *Shihu* is also on the *List of Wild Medicinal Species under State Key Protection* (grades as given in the text of the lists). **Do not dig up, buy or sell wild *Shihu***, including plants picked "while you happen to be passing" from trees or rock faces
 
 ### 5.3 Yinyanghuo (epimedium)
 
@@ -626,7 +626,7 @@ This group comes from mixed sources: *Shenjincao* is a fern ally, *Shihu* is an 
 - **Actions**: tonifies kidney yang, benefits essence and blood, moistens the intestines to relieve constipation
 - **Dose**: 6-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: not advisable with yin deficiency and excess fire or diarrhoea; not advisable for constipation from excess heat; do not take it for long periods as a "virility supplement"
-- 🛡️ **Protection note**: wild cistanche is on the 2021 *List of Wild Plants under Special State Protection* and on the *List of Wild Medicinal Species under Special State Protection* (grades as given in the text of the lists). **Digging up wild cistanche is illegal and also destroys the saxaul woodland that holds the sand in place**; choose cultivated herb when buying
+- 🛡️ **Protection note**: wild cistanche is on the 2021 *List of Wild Plants under State Key Protection* and on the *List of Wild Medicinal Species under State Key Protection* (grades as given in the text of the lists). **Digging up wild cistanche is illegal and also destroys the saxaul woodland that holds the sand in place**; choose cultivated herb when buying
 
 ### 5.5 Suoyang (cynomorium)
 
@@ -653,13 +653,13 @@ This group comes from mixed sources: *Shenjincao* is a fern ally, *Shihu* is an 
   - Plant: **a small herb growing flat against the ground**; usually 1-2 leaves, **heart- or kidney-shaped, on long stalks**; **flowers single at the base of the leaf stalks, pressed against the ground, purplish brown, pot- or bell-shaped**, often hidden under fallen leaves; the whole plant has a pungent smell
   - Dried herb: often curled into clumps; rhizome horizontal, irregularly cylindrical, with ring-like nodes and bowl-shaped stem scars at the branch tips; roots thin and long, dense on the nodes, 10-20 cm long and about 0.1 cm across, greyish yellow; brittle, broken surface yellowish white or white; **pungent, fragrant smell; taste pungent and numbing on the tongue**
 - **Look-alikes**: related species such as *Duheng* (*A. forbesii*) and *Tuxixin* are often used as *Xixin*; other plants of the birthwort family (climbing *Aristolochia* species) also contain aristolochic acid. **"*Xixin*" collected in the mountains is often the whole plant with leaves, and may be another species**
-- **Why only the root**: aristolochic acid is concentrated in the aerial parts (the leaves), so from the 2005 edition of the Pharmacopoeia the part used for *Xixin* was changed to the root and rhizome only, and the 2020 edition keeps this. Aristolochic acid can cause irreversible kidney damage and cancer; see [*Xixin*: use only the root and rhizome](09-toxic-herbs-and-poisonous-look-alikes.md#33-xixin-use-only-the-root-and-rhizome) and [*Herbs* containing aristolochic acid](09-toxic-herbs-and-poisonous-look-alikes.md#3-herbs-containing-aristolochic-acid)
+- **Why only the root**: aristolochic acid is concentrated in the aerial parts (the leaves), so from the 2005 edition of the Pharmacopoeia the part used for *Xixin* was changed to the root and rhizome only, and the 2020 edition keeps this. Aristolochic acid can cause irreversible kidney damage and cancer; see [*Xixin*: use only the root and rhizome](09-toxic-herbs-and-poisonous-look-alikes.md#33-xixin-use-only-the-root-and-rhizome) and [Herbs containing aristolochic acid](09-toxic-herbs-and-poisonous-look-alikes.md#3-herbs-containing-aristolochic-acid)
 - **Harvesting and processing**: dig up in summer when the fruits are ripe or in early autumn, **remove all aerial parts** and soil, and dry in the shade
 - **Storage**: contains volatile oil; seal and keep in a cool, dry place
 - **Actions**: releases the exterior and dispels cold, dispels wind and relieves pain, opens the nasal passages, warms the lungs and transforms fluid retention
 - **Dose**: 1-3 g; as a powder, 0.5-1 g per dose; for external use, a suitable amount (Chinese Pharmacopoeia, 2020 edition). **The dose is very small; it may only be prescribed by a TCM practitioner, never used on your own**. The ancients long warned that *Xixin* must not be used in large amounts; overdose can cause headache, vomiting, restlessness, convulsions and depressed breathing
 - **Cautions**: **the Pharmacopoeia marks it as slightly toxic**; do not use it together with *Lilu* (veratrum); not for pregnant or breastfeeding women, children or people with kidney disease; not for weak people who sweat a lot, headache from yin deficiency, or dry cough without phlegm; do not use the whole *Xixin* plant with leaves; if the poisoning symptoms above appear, call 120 at once
-- 🛡️ **Protection note**: *Xixin* is on the *List of Wild Medicinal Species under Special State Protection* (grade as given in the text of the list); do not dig up wild plants
+- 🛡️ **Protection note**: *Xixin* is on the *List of Wild Medicinal Species under State Key Protection* (grade as given in the text of the list); do not dig up wild plants
 
 ---
 
@@ -732,8 +732,8 @@ Before collecting whole herbs, confirm each point:
 
 - ⏮️ [Fruits and Seeds](03-fruits-and-seeds.md) - goji berries, hawthorn, schisandra, aged tangerine peel, plantain seed and other fruit, peel and seed herbs
 - ⏭️ [Flowers and Leaves](05-flowers-and-leaves.md) - honeysuckle, chrysanthemum, mugwort leaf, mulberry leaf, perilla leaf and other flower and leaf herbs
-- 🔗 [General Principles of Identifying and Collecting Chinese Medicinal *Herbs*](00-general-principles.md) - general methods for identification, harvesting, processing, storage, safety and the law
-- 🔗 [Toxic *Herbs* and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - identification and poisoning signs of herbs containing aristolochic acid, water hemlock, datura and others
+- 🔗 [General Principles of Identifying and Collecting Chinese Medicinal Herbs](00-general-principles.md) - general methods for identification, harvesting, processing, storage, safety and the law
+- 🔗 [Toxic Herbs and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - identification and poisoning signs of herbs containing aristolochic acid, water hemlock, datura and others
 - 🔗 [Medicinal Plants: Identification and Growing Guide](../04-farming-and-animal-husbandry/04-medicinal-plants.md) - growing mint, dandelion, houttuynia, plantain, purslane, self-heal and motherwort, and the home herb garden
 - 🔗 [Traditional Chinese Medicine Preparations](../06-pharmaceuticals/04-herbal-preparations.md) - processing, decoction, common formulas and safe use
 - 🔗 [Poisonous Mushrooms and Wild Plants](../03-wilderness-survival/09-poisonous-mushrooms-and-wild-plants.md) - the risks of gathering wild vegetables and weeds, and what to do after eating the wrong thing

@@ -13,7 +13,7 @@ This chapter covers 18 herbs of unusual origin, in four groups: fungi, algae, re
    just because they are "medicinal fungi";
    the deadly death caps (Amanita) look plain, and there is no simple
    way to tell them apart
-2. Dongchongxiacao (Chinese caterpillar fungus) is a class II protected
+2. Dongchongxiacao (Chinese caterpillar fungus) is a Class II protected
    wild plant (2021 list);
    digging and buying it require a permit under the law. This book does
    not describe how to dig it, only how to spot fakes
@@ -91,7 +91,7 @@ Most medicinal "fungi" are not the mushrooms ordinary people imagine: *Fuling*, 
   - Poria cubes and slices: white or pale red cubes or thin slices, fine in texture
   - Smell: faint smell, bland taste; **sticks to the teeth when chewed**
 - **Fakes**: "poria cubes" and "poria slices" **pressed from, or mixed with, flour or starch** look whiter and more regular, do not stick to the teeth when chewed and taste of flour. **Put on a drop of iodine tincture**: genuine poria turns reddish-brown; **one that quickly turns blue-black has starch mixed in** (experience; the Pharmacopoeia test uses iodine–potassium iodide test solution, and the genuine herb turns deep red)
-- **Harvesting and processing**: usually dug in July–September; after digging, pile it up to "sweat" (see [General Principles – *Sweating*](00-general-principles.md#54-sweating)), spread it out until the surface is dry, sweat it again, and repeat several times until wrinkles appear and most of the moisture inside has gone; **dry in the shade**. This is "whole poria" (*fulingge*). It can also be cut fresh into cubes or slices by part and dried in the shade
+- **Harvesting and processing**: usually dug in July–September; after digging, pile it up to "sweat" (see [General Principles – Sweating](00-general-principles.md#54-sweating)), spread it out until the surface is dry, sweat it again, and repeat several times until wrinkles appear and most of the moisture inside has gone; **dry in the shade**. This is "whole poria" (*fulingge*). It can also be cut fresh into cubes or slices by part and dried in the shade
 - **Storage**: keep in a dry place, protect from damp; it moulds easily when damp and cracks if over-dried
 - **Actions**: promotes urination and drains damp, strengthens the spleen, calms the heart
 - **Dose**: 10-15 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
@@ -131,7 +131,7 @@ Most medicinal "fungi" are not the mushrooms ordinary people imagine: *Fuling*, 
 
 ### 1.4 Dongchongxiacao (Chinese caterpillar fungus)
 
-> 🛡️ **Legal note**: Chinese caterpillar fungus is listed as a **class II wild plant under key state protection** (2021 "List of Wild Plants under Key State Protection"). Collecting, selling and buying it require a permit under the law and are subject to the "Regulations on the Protection and Management of Wild Medicinal Resources" and other rules; digging or buying it without a permit is illegal. Digging in the producing areas is managed by the local government. This book **does not describe how to dig it**; it only helps readers tell genuine from fake and avoid being cheated. See [General Principles – List of Wild Plants under State Key Protection](00-general-principles.md#82-list-of-wild-plants-under-state-key-protection).
+> 🛡️ **Legal note**: Chinese caterpillar fungus is listed as a **Class II wild plant under state key protection** (2021 "List of Wild Plants under State Key Protection"). Collecting, selling and buying it require a permit under the law and are subject to the "Regulations on the Protection and Management of Wild Medicinal Resources" and other rules; digging or buying it without a permit is illegal. Digging in the producing areas is managed by the local government. This book **does not describe how to dig it**; it only helps readers tell genuine from fake and avoid being cheated. See [General Principles – List of Wild Plants under State Key Protection](00-general-principles.md#82-list-of-wild-plants-under-state-key-protection).
 
 - **Dongchongxiacao (Chongcao, Zhonghua Chongcao)**: Chinese 冬虫夏草; *Cordyceps sinensis* (Berk.) Sacc.
 - **Source**: the dried complex of the stroma of the fungus *Cordyceps sinensis* (Berk.) Sacc. (Clavicipitaceae, ergot family) and the dead body of the larva of a ghost moth (Hepialidae) on which it is parasitic
@@ -266,7 +266,7 @@ For why iodine matters, see [Nutrition and Deficiency Diseases – Iodine](../07
    easily: seal and keep in a cool place
 ```
 
-There is also a poisonous resin herb, ***Tenghuang*** (gamboge), which is for external use only and must never be taken by mouth; see [Toxic *Herbs* – *Tenghuang*](09-toxic-herbs-and-poisonous-look-alikes.md#219-tenghuang-gamboge).
+There is also a poisonous resin herb, ***Tenghuang*** (gamboge), which is for external use only and must never be taken by mouth; see [Toxic Herbs – *Tenghuang*](09-toxic-herbs-and-poisonous-look-alikes.md#219-tenghuang-gamboge).
 
 ### 3.1 Ruxiang (frankincense)
 
@@ -428,7 +428,7 @@ The herbs in this group have very different origins: *Wubeizi* is an "insect gal
 - **Harvesting and processing**: cut branches and trunks in winter, remove the bark, chop into large pieces, boil in water, concentrate and dry
 - **Storage**: keep in a dry place, **protect from damp** (it turns sticky and clumps together when it absorbs moisture)
 - **Actions**: activates blood and relieves pain, stops bleeding and promotes tissue regeneration, dries damp and heals sores, clears the lungs and resolves phlegm
-- **Dose**: 1-3 g, **wrapped in gauze for decoction**; mostly taken in pills and powders; for external use, a suitable amount (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
+- **Dose**: 1-3 g, **wrapped in cloth for decoction**; mostly taken in pills and powders; for external use, a suitable amount (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: contains a lot of tannin, so taken by mouth it can cause constipation; taken together with iron supplements, some antibiotics and other medicines it may affect their absorption, so take them at different times (experience). It is used externally for sores and eczema; if a wound festers or spreads, see a doctor
 
 ### 4.5 Shenqu (medicated leaven)
@@ -498,7 +498,7 @@ Before using or buying the herbs in this chapter, confirm each point:
   is no simple test for poisonous mushrooms
 □ Fuling sticks to the teeth when chewed and does not turn blue with
   iodine tincture; Lingzhi has a lacquer-like sheen and a side stalk
-□ Dongchongxiacao is a class II protected wild plant: do not dig it;
+□ Dongchongxiacao is a Class II protected wild plant: do not dig it;
   to spot fakes, check for 8 pairs of legs, 20-30 rings, the stroma and
   the gut in the broken surface; high in arsenic, do not eat it long term
 □ Cut a puffball lengthwise: uniform inside with no structure; a "little
@@ -522,8 +522,8 @@ Before using or buying the herbs in this chapter, confirm each point:
 
 - ⏮️ [Barks, Stems and Woods](06-barks-stems-and-woods.md) - phellodendron, magnolia bark, eucommia, cinnamon bark, agarwood, uncaria and other bark and stem herbs
 - ⏭️ [Animal and Mineral Medicines](08-animal-and-mineral-medicines.md) - donkey-hide gelatin, oyster shell, cicada slough, gypsum, talc and other animal and mineral medicines, and the ban on protected animals
-- 🔗 [General Principles of Identifying and Collecting Chinese Medicinal *Herbs*](00-general-principles.md) - general methods for identification, harvesting, processing, storage, safety and the law
-- 🔗 [Toxic *Herbs* and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - identification and poisoning signs of toxic resins such as gamboge and poisonous plants such as cocklebur
+- 🔗 [General Principles of Identifying and Collecting Chinese Medicinal Herbs](00-general-principles.md) - general methods for identification, harvesting, processing, storage, safety and the law
+- 🔗 [Toxic Herbs and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - identification and poisoning signs of toxic resins such as gamboge and poisonous plants such as cocklebur
 - 🔗 [Poisonous Mushrooms and Wild Plants](../03-wilderness-survival/09-poisonous-mushrooms-and-wild-plants.md) - why you should not pick wild mushrooms, and what to do after eating the wrong thing
 - 🔗 [Nutrition and Deficiency Diseases](../07-everyday-living-skills/02-nutrition-and-deficiency-diseases.md) - iodine deficiency and iodine-rich foods such as kelp
 - 🔗 [Traditional Chinese Medicine Preparations](../06-pharmaceuticals/04-herbal-preparations.md) - processing, decoction, common formulas and safe use

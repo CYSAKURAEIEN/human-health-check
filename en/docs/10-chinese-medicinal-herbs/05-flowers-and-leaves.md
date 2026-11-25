@@ -484,7 +484,7 @@ Loquat leaf, oriental arborvitae leaf and mugwort leaf come from evergreen trees
   - Plant: perennial herb, 0.5-1.5 m tall, the whole plant **densely covered with greyish-white woolly hairs**; alternate leaves, **deeply pinnately divided**, the lobes elliptic-lanceolate with coarsely toothed edges; **the upper side of the leaf is greyish-green with gland dots, the underside densely covered with greyish-white woolly hairs** (turned over, it looks white); rubbed, it has **a strong mugwort smell**
   - Dried herb: mostly shrivelled and broken, with short stalks; whole leaves flattened out are ovate-elliptic, deeply pinnately divided, the lobes with irregular coarse teeth on the edges; upper surface greyish-green or dark yellowish-green, with sparse soft hairs and gland dots; **lower surface densely covered with greyish-white woolly hairs**; soft
   - Smell: **clear, fragrant smell**; taste bitter
-- **Look-alikes**: **wild mugwort (*Yeaihao*), *Wuyue'ai*, Mongolian wormwood, *Kuihao*** and other *Artemisia* species look similar and also have white hairs on the leaf underside; they are often used as "mugwort" in various places. Most of them can be used for moxibustion, but **they are not the Pharmacopoeia's *Aiye***. ***Qinghao* and *Yinchen*** are also *Artemisia* species (see [Whole *Herbs*](./04-whole-herbs.md)), but their leaves are more finely divided and not white underneath. Take care not to confuse it with **ragweed** (an invasive alien weed whose pollen is strongly allergenic; leaf underside not white, no mugwort smell)
+- **Look-alikes**: **wild mugwort (*Yeaihao*), *Wuyue'ai*, Mongolian wormwood, *Kuihao*** and other *Artemisia* species look similar and also have white hairs on the leaf underside; they are often used as "mugwort" in various places. Most of them can be used for moxibustion, but **they are not the Pharmacopoeia's *Aiye***. ***Qinghao* and *Yinchen*** are also *Artemisia* species (see [Whole Herbs](./04-whole-herbs.md)), but their leaves are more finely divided and not white underneath. Take care not to confuse it with **ragweed** (an invasive alien weed whose pollen is strongly allergenic; leaf underside not white, no mugwort smell)
 - **Harvesting and processing**: pick **in summer before the flowers open** (around the Dragon Boat Festival), remove impurities, dry in the sun; moxa wool is made from aged mugwort leaves (stored for over 1 year)
 - **Storage**: protect from damp and mould; keep in a ventilated, dry place
 - **Actions**: warms the channels and stops bleeding, dispels cold and relieves pain; externally, dispels damp and relieves itching
@@ -613,12 +613,12 @@ Before collecting flower and leaf herbs, confirm each point:
 
 ## Related chapters
 
-- ⏮️ [Whole *Herbs*](04-whole-herbs.md) - mint, dandelion, houttuynia, sweet wormwood, motherwort and other whole-herb medicines
+- ⏮️ [Whole Herbs](04-whole-herbs.md) - mint, dandelion, houttuynia, sweet wormwood, motherwort and other whole-herb medicines
 - ⏭️ [Barks, Stems and Woods](06-barks-stems-and-woods.md) - *Huangbo*, *Duzhong*, *Rougui*, *Hehuanpi*, *Sangbaipi*, *Rendongteng* and other bark and vine-stem herbs
-- 🔗 [General Principles of Identifying and Collecting Chinese Medicinal *Herbs*](00-general-principles.md) - general methods for identification, harvesting, processing, storage, safety and the law
-- 🔗 [Toxic *Herbs* and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - identification and poisoning signs of *Gouwen*, *Baiguo*, *Naoyanghua*, *Yangjinhua* and others
+- 🔗 [General Principles of Identifying and Collecting Chinese Medicinal Herbs](00-general-principles.md) - general methods for identification, harvesting, processing, storage, safety and the law
+- 🔗 [Toxic Herbs and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - identification and poisoning signs of *Gouwen*, *Baiguo*, *Naoyanghua*, *Yangjinhua* and others
 - 🔗 [Medicinal Plants: Identification and Growing Guide](../04-farming-and-animal-husbandry/04-medicinal-plants.md) - growing honeysuckle, chrysanthemum and mugwort, and the home herb garden
-- 🔗 [Traditional Chinese Medicine Preparations](../06-pharmaceuticals/04-herbal-preparations.md) - processing, decoction (wrapping in cloth, adding near the end), common formulas and safe use
+- 🔗 [Traditional Chinese Medicine Preparations](../06-pharmaceuticals/04-herbal-preparations.md) - processing, decoction (wrapped in cloth for decoction, added near the end), common formulas and safe use
 - 🔗 [Fruits and Seeds](03-fruits-and-seeds.md) - *Zisuzi*, *Kuxingren* and other fruits and seeds from the same plants
 
 ---

@@ -72,8 +72,8 @@
 | *Banmao* (blister beetle) | Whole insect | Cantharidin | Highly toxic | ☠️☠️☠️☠️ | [2.20](#220-banmao-blister-beetle) |
 | *Chansu* (toad venom) | Secretion (whole toad) | Bufadienolides | Toxic | ☠️☠️☠️☠️ | [2.21](#221-chansu-toad-venom) |
 | *Pishi*, *Pishuang* (arsenic) | Mineral | Arsenic trioxide | Not included | ☠️☠️☠️☠️☠️ | [2.22](#222-pishi-and-pishuang-arsenolite-and-white-arsenic) |
-| *Xionghuang* (realgar) | Mineral | Arsenic sulfide | Toxic | ☠️☠️☠️☠️ | [2.23](#223-xionghuang-realgar) |
-| *Zhusha* (cinnabar) | Mineral | Mercury sulfide | Toxic | ☠️☠️☠️ | [2.24](#224-zhusha-cinnabar) |
+| *Xionghuang* (realgar) | Mineral | Arsenic sulphide | Toxic | ☠️☠️☠️☠️ | [2.23](#223-xionghuang-realgar) |
+| *Zhusha* (cinnabar) | Mineral | Mercury sulphide | Toxic | ☠️☠️☠️ | [2.24](#224-zhusha-cinnabar) |
 | *Qingfen*, *Hongfen*, *Shuiyin* (mercury) | Mineral/processed product | Mercury compounds, mercury | *Qingfen* toxic; *Hongfen* highly toxic | ☠️☠️☠️☠️ | [2.25](#225-qingfen-hongfen-and-shuiyin-calomel-red-mercuric-oxide-and-mercury) |
 | *Qiandan* (red lead) | Processed product | Lead tetroxide | Not included | ☠️☠️☠️ | [2.26](#226-qiandan-red-lead) |
 | *Guanmutong*, *Guangfangji*, *Qingmuxiang* and others | Various parts | Aristolochic acid | Approval for medicinal use withdrawn | ☠️☠️☠️☠️ | [3](#3-herbs-containing-aristolochic-acid) |
@@ -593,13 +593,13 @@ Medical students' mnemonic (to help recognise it, not for self-diagnosis):
 
 ### 2.23 Xionghuang (realgar)
 
-**Source**: The mineral realgar (sulfide minerals, realgar group), mainly arsenic disulfide (As₂S₂).
+**Source**: The mineral realgar (sulphide minerals, realgar group), mainly arsenic disulphide (As₂S₂).
 
 **Key identification features**: Lumpy or granular aggregates, **deep red or orange-red**, streak pale orange-red; crystal faces with a diamond-like lustre; brittle and easily crumbled, the broken surface with a resinous lustre; a faint peculiar smell.
 
 **Often mistaken for**: Looks like cinnabar (which is redder and heavier); at the Dragon Boat Festival there is a folk custom of drinking "realgar liquor" and dabbing realgar on children's foreheads.
 
-**Toxic parts and constituents**: Arsenic sulfide itself dissolves poorly, but **when heated (including burning it or drinking it warmed) or left in contact with air for a long time it forms arsenic trioxide (i.e. *Pishuang*)**, and its toxicity rises sharply; the impurities in it also often include soluble arsenic.
+**Toxic parts and constituents**: Arsenic sulphide itself dissolves poorly, but **when heated (including burning it or drinking it warmed) or left in contact with air for a long time it forms arsenic trioxide (i.e. *Pishuang*)**, and its toxicity rises sharply; the impurities in it also often include soluble arsenic.
 
 **Signs of poisoning**: Acute poisoning as for *Pishuang* (vomiting, abdominal pain, diarrhoea, shock); long-term use of small amounts can cause chronic arsenic poisoning (darkening and thickening of the skin, nerve damage).
 
@@ -611,13 +611,13 @@ Medical students' mnemonic (to help recognise it, not for self-diagnosis):
 
 ### 2.24 Zhusha (cinnabar)
 
-**Source**: The mineral cinnabar (sulfide minerals, cinnabar group), mainly mercury sulfide (HgS).
+**Source**: The mineral cinnabar (sulphide minerals, cinnabar group), mainly mercury sulphide (HgS).
 
 **Key identification features**: Granular or lumpy aggregates, **bright red or dark red**, streak red to brownish-red; lustrous; **heavy (much heavier in the hand than a stone of the same size)**, brittle; faint smell, bland taste.
 
 **Often mistaken for**: Taken long term as a "mind-calming" health product, or made into ornaments and "blessed" pendants for babies and young children to wear or hold in the mouth; some low-quality products are faked with red dye or red lead.
 
-**Toxic parts and constituents**: Mercury sulfide; **when heated it breaks down and releases mercury vapour, and its toxicity rises sharply** (the Pharmacopoeia states that cinnabar must not be calcined in fire). When taken long term, mercury builds up in the body.
+**Toxic parts and constituents**: Mercury sulphide; **when heated it breaks down and releases mercury vapour, and its toxicity rises sharply** (the Pharmacopoeia states that cinnabar must not be calcined in fire). When taken long term, mercury builds up in the body.
 
 **Signs of poisoning**:
 - Acute: metallic taste in the mouth, swollen, painful, bleeding gums, nausea and vomiting, abdominal pain and diarrhoea
@@ -705,7 +705,7 @@ Aristolochic acid occurs mainly in plants of the genus *Aristolochia* (birthwort
 
 ### 3.2 Herbs and their current status
 
-| Herb | Source | Current status | *Herbs* often sharing its name or used in its place |
+| Herb | Source | Current status | Herbs often sharing its name or used in its place |
 |------|------|------|----------------------|
 | *Guanmutong* | Climbing stem of *Aristolochia manshuriensis* (Manchurian birthwort, birthwort family) | State withdrew its standard for medicinal use from 2003 | *Mutong* (Lardizabalaceae, akebia family), *Chuanmutong* (buttercup family) |
 | *Guangfangji* | Root of *Aristolochia fangchi* (birthwort family) | Standard for medicinal use withdrawn from 2004 | *Fangji* (*Fenfangji*, Menispermaceae, moonseed family) |
@@ -844,7 +844,7 @@ For identifying genuine honeysuckle flower and honeysuckle stem, see [Flowers an
 | Fruit | Strings of purple-black berries, like grapes | A terminal umbel bearing a cluster of **bright red** small berries |
 | Shape of root | Thick and fleshy, conical, much forked, skin pale yellow or greyish-brown, no reed head | Main root spindle-shaped or cylindrical, **with a "reed head" (*lutou*, the rhizome) and stem scars at the top**, broken coarse cross-wrinkles on the upper part, small wart-like bumps on the fine roots ("pearl dots") |
 | Root cross-section | **Several layers of concentric rings** | A ring of brownish-yellow cambium, small brownish-yellow dots in the bark |
-| Distribution | Extremely common on waste ground and roadsides in town and country | Wild ginseng is extremely rare (deep old-growth forest in the north-east) and is a wild plant under key state protection |
+| Distribution | Extremely common on waste ground and roadsides in town and country | Wild ginseng is extremely rare (deep old-growth forest in the north-east) and is a wild plant under state key protection |
 
 ```
 ✓ "Ginseng" dug by a roadside, on waste ground or near a village is almost
@@ -1175,7 +1175,7 @@ For CPR and the recovery position, see [Basic first aid: CPR](../01-first-aid-an
 
 ## Related chapters
 
-- ⏮️ [General Principles of Identifying and Collecting Chinese Medicinal *Herbs*](00-general-principles.md) - general methods for identification, harvesting, safety and the law
+- ⏮️ [General Principles of Identifying and Collecting Chinese Medicinal Herbs](00-general-principles.md) - general methods for identification, harvesting, safety and the law
 - ⏭️ [Herb Name Index](10-herb-name-index.md) - look up every herb by Pinyin and alternative names
 - 🔗 [Poisoning](../01-first-aid-and-family-health/12-poisoning.md) - general principles of handling poisoning
 - 🔗 [Basic First Aid](../01-first-aid-and-family-health/00-basic-first-aid.md) - CPR and the recovery position

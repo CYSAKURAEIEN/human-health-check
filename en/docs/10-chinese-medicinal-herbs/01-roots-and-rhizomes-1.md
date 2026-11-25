@@ -24,7 +24,7 @@ This chapter covers the 30 most commonly used root and rhizome medicines, groupe
    Renshen, Sanqi (wild), Gancao, Huanglian, Tianma, Qianghuo, Sichuan Dangshen,
    Shanhucai (Beishashen) and others,
    as well as herbs such as Huangqin and Fangfeng that are on the
-   "List of Wild Medicinal Species under Key State Protection".
+   "List of Wild Medicinal Species under State Key Protection".
    Almost everything on sale is cultivated; do not dig wild plants
 5. Doses are the usual adult daily doses in the Chinese Pharmacopoeia
    (2020 edition) (prepared slices, decocted in water; the current edition
@@ -100,7 +100,7 @@ This group contains the most commonly used *qi* tonics. They have very low toxic
 - **Actions**: Greatly tonifies primal *qi*, restores the pulse and rescues from collapse, tonifies the spleen and benefits the lungs, generates fluids and nourishes blood, calms the mind and benefits intelligence
 - **Dose**: 3-9 g, decocted separately and added to the decoction; or ground to powder and swallowed, 2 g a time, twice a day (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: Do not use together with *Lilu* (Veratrum) or *Wulingzhi* (flying squirrel droppings); not suitable for fever, excess patterns, or yin deficiency with flaring fire; people with high blood pressure or insomnia, or who are taking diabetes medicines or anticoagulants such as warfarin, should ask a doctor before use; do not give children tonics on your own initiative
-- 🛡️ **Protection note**: Wild ginseng is a class II species on the "List of Wild Medicinal Species under Key State Protection", and wild species of the genus *Panax* are also on the 2021 "List of Wild Plants under Key State Protection" (the wording of the lists prevails for the class). **Wild ginseng must not be dug or traded**; what proper pharmacies sell is garden ginseng or forest-grown mountain ginseng, and that is enough
+- 🛡️ **Protection note**: Wild ginseng is a Class II species on the "List of Wild Medicinal Species under State Key Protection", and wild species of the genus *Panax* are also on the 2021 "List of Wild Plants under State Key Protection" (the wording of the lists prevails for the class). **Wild ginseng must not be dug or traded**; what proper pharmacies sell is garden ginseng or forest-grown mountain ginseng, and that is enough
 
 ![Ginseng and pokeweed compared](../../images/ginseng-vs-pokeweed.svg)
 
@@ -134,11 +134,11 @@ This group contains the most commonly used *qi* tonics. They have very low toxic
   - Cross-section: Fairly flat, with cracks or radiating lines; bark pale brownish-yellow, wood pale yellow; a distinctive aroma, taste slightly sweet
 - **Look-alikes**: Roots of related plants in the same family, such as *Yangru* (Codonopsis lanceolata, "four-leaf ginseng") and *Codonopsis tubulosa*, have been mixed in. There are many twining vines in the wild; confirm only after seeing the bell-shaped flowers, the milky sap and the "lion's coiled head"
 - **Harvesting and processing**: Dug in autumn after 2-3 years of cultivation, washed and sun-dried; traditionally, when half-dry the roots are rubbed and rolled several times so that the skin sticks tightly to the flesh and does not puff up hollow, then dried completely
-- **Storage**: High in sugar, so it **easily absorbs moisture, moulds, is attacked by insects and "goes oily" (turns soft and sticky)**; seal once fully dry, keep somewhere cool and check often
+- **Storage**: High in sugar, so it is **prone to damp, mould, insect damage and oiling (turning soft and sticky)**; seal once fully dry, keep somewhere cool and check often
 - **Actions**: Strengthens the spleen and benefits the lungs, nourishes blood and generates fluids
 - **Dose**: 9-30 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: Do not use together with *Lilu* (Veratrum); not suitable on its own for excess or heat patterns
-- 🛡️ **Protection note**: Wild Sichuan *Dangshen* is on the 2021 "List of Wild Plants under Key State Protection" (the wording of the list prevails); do not dig wild *Dangshen*. For growing it see [Medicinal plants](../04-farming-and-animal-husbandry/04-medicinal-plants.md)
+- 🛡️ **Protection note**: Wild Sichuan *Dangshen* is on the 2021 "List of Wild Plants under State Key Protection" (the wording of the list prevails); do not dig wild *Dangshen*. For growing it see [Medicinal plants](../04-farming-and-animal-husbandry/04-medicinal-plants.md)
 
 ### 1.4 Huangqi (astragalus root)
 
@@ -171,7 +171,7 @@ This group contains the most commonly used *qi* tonics. They have very low toxic
 - **Actions**: Tonifies the spleen and *qi*, clears heat and removes toxins, expels phlegm and stops cough, relieves spasm and pain, harmonises the other herbs
 - **Dose**: 2-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: Do not use together with *Haizao* (Sargassum), *Jingdaji* (Euphorbia pekinensis), *Hongdaji* (Knoxia), *Gansui* (Euphorbia kansui) or *Yuanhua* (Daphne genkwa). **Long-term or large-dose use can cause oedema, raised blood pressure and low blood potassium** (in severe cases muscle weakness and abnormal heart rhythm); people with high blood pressure, heart disease, kidney disease or low potassium should use it with caution; ask a doctor before using it with diuretics, digoxin or steroids. Pregnant women should not take it long term or in large amounts
-- 🛡️ **Protection note**: *Gancao* is a class II species on the "List of Wild Medicinal Species under Key State Protection", and wild liquorice (*G. uralensis*, *G. inflata*, *G. glabra*) is also on the 2021 "List of Wild Plants under Key State Protection"; in 2000 the State Council issued a specific notice to stop indiscriminate digging of liquorice (which turns grassland into desert). **Do not dig wild liquorice**; most of what is on sale is cultivated
+- 🛡️ **Protection note**: *Gancao* is a Class II species on the "List of Wild Medicinal Species under State Key Protection", and wild liquorice (*G. uralensis*, *G. inflata*, *G. glabra*) is also on the 2021 "List of Wild Plants under State Key Protection"; in 2000 the State Council issued a specific notice to stop indiscriminate digging of liquorice (which turns grassland into desert). **Do not dig wild liquorice**; most of what is on sale is cultivated
 
 ### 1.6 Baizhu (white atractylodes rhizome)
 
@@ -184,7 +184,7 @@ This group contains the most commonly used *qi* tonics. They have very low toxic
   - Cross-section: Hard; yellowish-white to pale brown, **with scattered brownish-yellow dot-like oil cavities**; oven-dried pieces have a horny cross-section; **a fresh, clean aroma, taste sweet and slightly pungent, slightly sticky when chewed**
 - **Look-alikes**: *Cangzhu*, in the same genus (see [5.1](#51-cangzhu-atractylodes-rhizome)). *Baizhu* is in large, fat lumps with fewer oil dots in the cross-section and a light aroma; *Cangzhu* is in knotty long pieces, with many "cinnabar dots" in the cross-section and a strong aroma
 - **Harvesting and processing**: Dig in winter when the lower leaves have turned yellow and withered and the upper leaves have become brittle; remove soil, oven-dry or sun-dry, then remove the fine roots
-- **Storage**: **Easily goes oily and is attacked by insects**; keep somewhere cool and dry, away from heat
+- **Storage**: **Prone to oiling and insect damage**; keep somewhere cool and dry, away from heat
 - **Actions**: Strengthens the spleen and tonifies *qi*, dries damp and promotes urination, stops sweating, calms the foetus
 - **Dose**: 6-12 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: Use with caution in yin deficiency with dryness and thirst, or depleted body fluids; "calming the foetus" must also be judged by a doctor — bleeding or abdominal pain in pregnancy needs a doctor first
@@ -222,7 +222,7 @@ This group is mostly related to menstruation, bleeding and blood stasis. **Blood
   - Cross-section: Soft and pliable; yellowish-white or pale yellowish-brown, with a thick bark and many brown dot-like secretory cavities, and a yellowish-brown cambium ring; **strong aroma, taste sweet, pungent and slightly bitter**. The Pharmacopoeia states: roots that are woody, dried out without oil, or greenish-brown in cross-section must not be used as medicine
 - **Look-alikes**: Lovage (*Levisticum officinale*, an introduced Western spice plant), Japanese angelica (*Angelica acutiloba*), *Duhuo* and others have been mixed in; their aroma and taste differ. ***Danggui* belongs to the carrot family — do not dig unfamiliar carrot-family plants in the wild**: highly toxic plants such as water hemlock look similar; see [Water hemlock vs water dropwort and wild carrot](09-toxic-herbs-and-poisonous-look-alikes.md#43-duqin-water-hemlock-vs-shuiqin-water-dropwort-and-yehuluobo-wild-carrot)
 - **Harvesting and processing**: Dig at the end of autumn, remove fine roots and soil, let some of the moisture evaporate, tie into small bundles, put them on racks and dry them slowly over smoke from a fire
-- **Storage**: **Easily goes oily, is attacked by insects and moulds**; seal and keep somewhere cool and dry, and check often in summer
+- **Storage**: **Prone to oiling, insect damage and mould**; seal and keep somewhere cool and dry, and check often in summer
 - **Actions**: Tonifies and activates blood, regulates menstruation and relieves pain, moistens the intestines and relieves constipation
 - **Dose**: 6-12 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: Not suitable for diarrhoea or excess damp with abdominal fullness; use with caution in heavy periods or a tendency to bleed; pregnant women use only under a doctor's guidance; using it together with anticoagulants such as warfarin may increase the risk of bleeding
@@ -271,7 +271,7 @@ This group is mostly related to menstruation, bleeding and blood stasis. **Blood
   - Cross-section: Firm and solid; yellowish-white or greyish-yellow, with scattered yellowish-brown oil cavities and **a wavy cambium ring**; **strong aroma**, taste bitter and pungent, slightly numbing on the tongue, with a faint sweet aftertaste
 - **Look-alikes**: *Gaoben* (Ligusticum sinense) and *Fuxiong* (*Chaxiong*) in the same genus are sometimes mixed in; their form and aroma are similar, so buying through proper channels is enough. *Chuanxiong* cannot be collected in the wild; do not dig similar carrot-family plants you see in the wild as *Chuanxiong*
 - **Harvesting and processing**: Dig in summer when the node discs on the stems stand out clearly and turn slightly purple; remove soil, sun-dry then oven-dry, and then remove the fine roots
-- **Storage**: Contains volatile oil, so it **easily goes oily and is attacked by insects**, and the aroma fades; seal and keep somewhere cool
+- **Storage**: Contains volatile oil, so it is **prone to oiling and insect damage**, and the aroma fades; seal and keep somewhere cool
 - **Actions**: Activates blood and moves *qi*, dispels wind and relieves pain
 - **Dose**: 3-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: Use with caution in yin deficiency with flaring fire, heavy periods or a tendency to bleed; use with caution in pregnancy, and only if a doctor decides; for recurrent headaches or a sudden severe headache see a doctor first to find the cause — do not rely on *Chuanxiong* for pain relief alone
@@ -287,7 +287,7 @@ This group is mostly related to menstruation, bleeding and blood stasis. **Blood
   - Raw *Dihuang*: Irregular lumps or oblong; surface **brownish-black or brownish-grey, very shrivelled**; heavy, fairly soft and tough; cross-section **brownish-black or jet black, glossy and sticky**; faint smell, taste slightly sweet
   - Prepared *Dihuang*: Irregular pieces, **glossy jet black and very sticky**, soft and pliable, taste sweet
 - **Look-alikes**: Generally not easily confused; note that "*shengdi*" means dried raw *Dihuang*, not fresh *Dihuang* — their doses differ
-- **Harvesting and processing**: Dig in autumn, remove the reed head, fine roots and soil, and use fresh (fresh *Dihuang*); or bake slowly until about 80% dry (raw *Dihuang*). *Steaming* to make prepared *Dihuang* is a processing (*paozhi*) step; see [Traditional Chinese medicine preparations](../06-pharmaceuticals/04-herbal-preparations.md)
+- **Harvesting and processing**: Dig in autumn, remove the reed head, fine roots and soil, and use fresh (fresh *Dihuang*); or bake slowly until about 80% dry (raw *Dihuang*). Steaming to make prepared *Dihuang* is a processing (*paozhi*) step; see [Traditional Chinese medicine preparations](../06-pharmaceuticals/04-herbal-preparations.md)
 - **Storage**: Keep fresh *Dihuang* buried in sandy soil; raw and prepared *Dihuang* are high in sugar and **easily absorb moisture, mould and turn sticky** — seal and keep somewhere cool and dry
 - **Actions**: Fresh *Dihuang* clears heat and generates fluids, cools blood and stops bleeding; raw *Dihuang* clears heat and cools blood, nourishes yin and generates fluids; prepared *Dihuang* tonifies blood and nourishes yin, benefits essence and fills the marrow
 - **Dose**: Fresh *Dihuang* 12-30 g; raw *Dihuang* 10-15 g; prepared *Dihuang* 9-15 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
@@ -379,7 +379,7 @@ For a detailed comparison see [Gynura (Tusanqi) vs *Sanqi*](09-toxic-herbs-and-p
 - **Actions**: Disperses stasis and stops bleeding, reduces swelling and relieves pain
 - **Dose**: 3-9 g; ground to powder and swallowed, 1-3 g a time; an appropriate amount for external use (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: **Use with caution in pregnancy**; using it with anticoagulant or antiplatelet drugs such as warfarin may affect clotting; major bleeding (vomiting blood, blood in the stool, heavy bleeding from an injury) needs a doctor at once — do not rely on *Sanqi* alone to stop it
-- 🛡️ **Protection note**: Wild species of the genus *Panax* are on the 2021 "List of Wild Plants under Key State Protection" (the wording of the list prevails for the class); all *Sanqi* on sale is cultivated
+- 🛡️ **Protection note**: Wild species of the genus *Panax* are on the 2021 "List of Wild Plants under State Key Protection" (the wording of the list prevails for the class); all *Sanqi* on sale is cultivated
 
 ---
 
@@ -402,7 +402,7 @@ All the herbs in this group are very bitter and cold in nature. The common warni
 - **Actions**: Clears heat and dries damp, purges fire and removes toxins
 - **Dose**: 2-5 g; an appropriate amount for external use (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: Very bitter and very cold — must not be used in a cold, weak spleen and stomach; do not take it long term; **newborns and children with glucose-6-phosphate dehydrogenase deficiency (favism) must not be given** *Huanglian* or medicines containing *Huanglian* or berberine (haemolysis has been reported); pregnant women use only under a doctor's guidance
-- 🛡️ **Protection note**: *Huanglian* is a class II species on the "List of Wild Medicinal Species under Key State Protection", and all wild species of the genus *Coptis* are on the 2021 "List of Wild Plants under Key State Protection". **Do not dig wild *Huanglian***; what is on sale is cultivated
+- 🛡️ **Protection note**: *Huanglian* is a Class II species on the "List of Wild Medicinal Species under State Key Protection", and all wild species of the genus *Coptis* are on the 2021 "List of Wild Plants under State Key Protection". **Do not dig wild *Huanglian***; what is on sale is cultivated
 
 ### 3.2 Huangqin (Baikal skullcap root)
 
@@ -419,7 +419,7 @@ All the herbs in this group are very bitter and cold in nature. The common warni
 - **Actions**: Clears heat and dries damp, purges fire and removes toxins, stops bleeding, calms the foetus
 - **Dose**: 3-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: Not suitable for a cold, weak spleen and stomach with poor appetite and loose stools; "calming the foetus" must be judged by a doctor — bleeding or abdominal pain in pregnancy needs a doctor first; liver damage and allergy have occasionally been reported — stop if you feel unwell while using it
-- 🛡️ **Protection note**: *Huangqin* is a class III species on the "List of Wild Medicinal Species under Key State Protection"; digging wild plants requires a permit as the rules state; use cultivated plants first. For growing it see [Medicinal plants](../04-farming-and-animal-husbandry/04-medicinal-plants.md)
+- 🛡️ **Protection note**: *Huangqin* is a Class III species on the "List of Wild Medicinal Species under State Key Protection"; digging wild plants requires a permit as the rules state; use cultivated plants first. For growing it see [Medicinal plants](../04-farming-and-animal-husbandry/04-medicinal-plants.md)
 
 ### 3.3 Banlangen (isatis root)
 
@@ -490,7 +490,7 @@ This group is used for colds with fever, headache and body aches, rheumatic pain
 - **Actions**: Dispels wind and releases the exterior, overcomes damp and relieves pain, stops spasms
 - **Dose**: 5-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: Not suitable for yin and blood deficiency, or stirring of wind in febrile disease; convulsions such as from tetanus need a doctor at once — do not rely on *Fangfeng* to "stop spasms"
-- 🛡️ **Protection note**: *Fangfeng* is a class III species on the "List of Wild Medicinal Species under Key State Protection", and its wild stocks have clearly declined through overharvesting; digging wild plants requires a permit as the rules state; use cultivated plants first
+- 🛡️ **Protection note**: *Fangfeng* is a Class III species on the "List of Wild Medicinal Species under State Key Protection", and its wild stocks have clearly declined through overharvesting; digging wild plants requires a permit as the rules state; use cultivated plants first
 
 ### 4.4 Qianghuo (notopterygium rhizome)
 
@@ -503,11 +503,11 @@ This group is used for colds with fever, headache and body aches, rheumatic pain
   - Cross-section: **Light and brittle**; the cross-section has many cracks, bark yellowish-brown to dark brown, **oily, with brown oil dots**, wood yellowish-white, pith yellow to yellowish-brown; **aromatic**, taste slightly bitter and pungent
 - **Look-alikes**: In producing areas rhizomes of other carrot-family plants are mixed in; there are so many kinds of high-mountain carrot-family plants that a layperson can hardly tell them apart in the field — **do not dig it yourself**
 - **Harvesting and processing**: Dig in spring and autumn, remove fine roots and soil, sun-dry
-- **Storage**: Contains volatile oil, so it **easily goes oily and is attacked by insects**, and the aroma fades; seal and keep somewhere cool
+- **Storage**: Contains volatile oil, so it is **prone to oiling and insect damage**, and the aroma fades; seal and keep somewhere cool
 - **Actions**: Releases the exterior and dispels cold, dispels wind and damp, relieves pain
 - **Dose**: 3-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: Use with caution in yin and blood deficiency, or headache from yin deficiency; large doses easily cause vomiting — people with a weak spleen and stomach should not use much
-- 🛡️ **Protection note**: *Qianghuo* is a class III species on the "List of Wild Medicinal Species under Key State Protection", and wild *Notopterygium incisum* and *N. franchetii* are also on the 2021 "List of Wild Plants under Key State Protection" (the wording of the list prevails). Stocks recover very slowly; **do not dig wild *Qianghuo***
+- 🛡️ **Protection note**: *Qianghuo* is a Class III species on the "List of Wild Medicinal Species under State Key Protection", and wild *Notopterygium incisum* and *N. franchetii* are also on the 2021 "List of Wild Plants under State Key Protection" (the wording of the list prevails). Stocks recover very slowly; **do not dig wild *Qianghuo***
 
 ### 4.5 Duhuo (pubescent angelica root)
 
@@ -520,7 +520,7 @@ This group is used for colds with fever, headache and body aches, rheumatic pain
   - Cross-section: Fairly hard, **turns soft when damp**; bark greyish-white **with many scattered brown oil cavities**, wood greyish-yellow to yellowish-brown, cambium ring brown; **a distinctive aroma, taste bitter and pungent, slightly numbing on the tongue**
 - **Look-alikes**: Many plants are called "*Duhuo*" in different places (such as *Heracleum* species like *Niuwei Duhuo*, and *Angelica* species); in some places *Jiuyan Duhuo* (Aralia, ivy family) is used as *Duhuo*; similar-looking toxic carrot-family plants must also be guarded against
 - **Harvesting and processing**: Dig in early spring when the shoots have just come up, or in late autumn when stems and leaves have withered; remove fine roots and soil, oven-dry until half-dry, pile up for 2-3 days until soft, then oven-dry completely
-- **Storage**: **Easily goes oily, is attacked by insects and turns soft in damp**; seal and keep somewhere cool and dry
+- **Storage**: **Prone to oiling, insect damage and softening in damp**; seal and keep somewhere cool and dry
 - **Actions**: Dispels wind and damp, unblocks painful obstruction and relieves pain
 - **Dose**: 3-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: Use with caution in yin deficiency with dry blood; it contains furanocoumarins, so avoid strong sunlight while using it (photosensitivity reactions are possible); red, swollen, hot, painful joints, fever, or long-lasting joint pain need a doctor first to find the cause
@@ -572,7 +572,7 @@ This group is used for colds with fever, headache and body aches, rheumatic pain
   - *Bei Cangzhu*: Lumpy or knotty cylinders, blackish-brown; looser in texture, oil cavities in the cross-section yellowish-brown; lighter aroma, taste pungent and bitter
 - **Look-alikes**: In the same genus as *Baizhu*; for the difference see [1.6](#16-baizhu-white-atractylodes-rhizome). In the wild it looks like other spiny daisy-family plants (thistles) — check the aroma of the rhizome and the "cinnabar dots"
 - **Harvesting and processing**: Dig in spring and autumn, remove soil, sun-dry, knock off the fine roots
-- **Storage**: Contains volatile oil, so it **easily goes oily** and the aroma fades; seal and keep somewhere cool
+- **Storage**: Contains volatile oil, so it is **prone to oiling** and the aroma fades; seal and keep somewhere cool
 - **Actions**: Dries damp and strengthens the spleen, dispels wind and cold, brightens the eyes
 - **Dose**: 3-9 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: Warm and drying in nature; must not be used in yin deficiency with internal heat, heavy sweating, or a dry mouth and tongue
@@ -592,7 +592,7 @@ This group is used for colds with fever, headache and body aches, rheumatic pain
 - **Actions**: Calms wind and stops spasms, calms liver yang, dispels wind and unblocks the collaterals
 - **Dose**: 3-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: Do not eat it long term in large amounts as a health food; **dizziness, headache, numbness of the limbs and convulsions can be signs of serious emergencies such as high blood pressure, stroke or epilepsy** — see a doctor first, do not rely on *Tianma* alone; for a sudden drooping mouth, weakness on one side of the body or slurred speech, call 120 at once
-- 🛡️ **Protection note**: Wild *Tianma* is on the 2021 "List of Wild Plants under Key State Protection" (class II; the wording of the list prevails). **Do not dig wild *Tianma***; all that is on sale is cultivated
+- 🛡️ **Protection note**: Wild *Tianma* is on the 2021 "List of Wild Plants under State Key Protection" (Class II; the wording of the list prevails). **Do not dig wild *Tianma***; all that is on sale is cultivated
 
 ### 5.3 Jiegeng (platycodon root)
 
@@ -641,7 +641,7 @@ This group is used for colds with fever, headache and body aches, rheumatic pain
 - **Actions**: Nourishes yin and clears the lungs, benefits the stomach and generates fluids
 - **Dose**: 5-12 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: Do not use together with *Lilu* (Veratrum); not suitable for wind-cold cough, a cold, weak spleen and stomach, or heavy phlegm-damp
-- 🛡️ **Protection note**: Wild *Shanhucai* (glehnia) is a wild plant under key state protection (the wording of the 2021 list prevails), and destruction of beach habitat has left very few wild populations. **Do not dig wild *Shanhucai***; what is on sale is cultivated
+- 🛡️ **Protection note**: Wild *Shanhucai* (glehnia) is a wild plant under state key protection (the wording of the 2021 list prevails), and destruction of beach habitat has left very few wild populations. **Do not dig wild *Shanhucai***; what is on sale is cultivated
 
 ---
 
@@ -671,7 +671,7 @@ Before digging a root medicine, confirm each point:
 - [ ] It is not a protected wild species such as *Renshen*, *Sanqi*, *Gancao*, *Huanglian*, *Tianma*, *Qianghuo* or *Shanhucai*
 - [ ] The digging site is not in a nature reserve, and is away from roads, factories and pesticide-sprayed fields
 - [ ] I dug only part of the stand, filled in the holes, and left mother plants and seed
-- [ ] I know how to dry this medicine and whether it easily goes oily or is attacked by insects
+- [ ] I know how to dry this medicine and whether it is prone to oiling or insect damage
 - [ ] I know the Pharmacopoeia dose and the contraindications, and will ask a TCM practitioner before use
 
 | Step | Difficulty | Risk of getting it wrong |
@@ -707,9 +707,9 @@ Before digging a root medicine, confirm each point:
 
 ## Related chapters
 
-- ⏮️ [General Principles of Identifying and Collecting Chinese Medicinal *Herbs*](00-general-principles.md) - general methods for identification, harvesting, processing, storage, safety and the law
+- ⏮️ [General Principles of Identifying and Collecting Chinese Medicinal Herbs](00-general-principles.md) - general methods for identification, harvesting, processing, storage, safety and the law
 - ⏭️ [Roots and Rhizomes (Part 2)](02-roots-and-rhizomes-2.md) - *Zhimu*, *Maidong*, *Dahuang*, *Beimu*, *Yanhusuo* and the other root and rhizome medicines (Chapter 02)
-- 🔗 [Toxic *Herbs* and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - identifying pokeweed, *Gynura*, water hemlock, aconite and others, and the signs of poisoning
+- 🔗 [Toxic Herbs and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - identifying pokeweed, *Gynura*, water hemlock, aconite and others, and the signs of poisoning
 - 🔗 [Medicinal Plants: Identification and Growing Guide](../04-farming-and-animal-husbandry/04-medicinal-plants.md) - growing *Huangqi*, *Gancao*, *Danshen* and others, and the home herb garden
 - 🔗 [Traditional Chinese Medicine Preparations](../06-pharmaceuticals/04-herbal-preparations.md) - processing (prepared *Dihuang*, prepared *Heshouwu* and others), decoction and safe use
 

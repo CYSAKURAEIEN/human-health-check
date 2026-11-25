@@ -33,7 +33,7 @@ This chapter covers 26 commonly used bark and stem/wood medicines, in five group
 5. Chenxiang, Jiangxiang and Tanxiang are expensive and often faked:
    the genus Aquilaria is listed in CITES Appendix II, and Tuchenxiang
    (Aquilaria sinensis) and fragrant rosewood (Dalbergia odorifera) are
-   class II wild plants under state protection; do not fell wild trees.
+   Class II wild plants under state protection; do not fell wild trees.
    Most "old agarwood" and "Hainan huanghuali" you can buy is not genuine
 6. Doses are the usual adult daily doses in the Chinese Pharmacopoeia
    (2020 edition) (prepared slices, decocted in water;
@@ -57,8 +57,8 @@ The "Toxicity/protection" column gives toxicity noted in the Pharmacopoeia, this
 | Herb | Part used | Main action | Toxicity/protection | See |
 |------|---------|---------|----------|-----|
 | *Duzhong* (eucommia bark) | Tree bark | Tonifies liver and kidney, strengthens sinews and bones, calms the foetus | 🛡️ Wild plants protected; do not ring-bark | [1.1](#11-duzhong-eucommia-bark) |
-| *Houpo* (magnolia bark) | Trunk bark, root bark, branch bark | Dries damp and resolves phlegm, sends *qi* down and relieves fullness | 🛡️ Wild *Houpo* is class II under state protection | [1.2](#12-houpo-magnolia-bark) |
-| *Huangbo* (phellodendron bark) | Tree bark | Clears heat and dries damp, purges fire | 🛡️ Wild *Phellodendron* is class II under state protection | [1.3](#13-huangbo-phellodendron-bark) |
+| *Houpo* (magnolia bark) | Trunk bark, root bark, branch bark | Dries damp and resolves phlegm, sends *qi* down and relieves fullness | 🛡️ Wild *Houpo* is Class II under state protection | [1.2](#12-houpo-magnolia-bark) |
+| *Huangbo* (phellodendron bark) | Tree bark | Clears heat and dries damp, purges fire | 🛡️ Wild *Phellodendron* is Class II under state protection | [1.3](#13-huangbo-phellodendron-bark) |
 | *Rougui* (cassia bark) | Tree bark | Replenishes fire and assists yang, dispels cold and relieves pain | Caution in pregnancy and with a tendency to bleed | [1.4](#14-rougui-cassia-bark) |
 | *Qinpi* (ash bark) | Branch bark or trunk bark | Clears heat and dries damp, stops dysentery, brightens the eyes | — | [1.5](#15-qinpi-ash-bark) |
 | *Hehuanpi* (silk tree bark) | Tree bark | Relieves depression and calms the mind, activates blood and reduces swelling | — | [1.6](#16-hehuanpi-silk-tree-bark) |
@@ -79,9 +79,9 @@ The "Toxicity/protection" column gives toxicity noted in the Pharmacopoeia, this
 | *Tongcao* (rice-paper plant pith) | Stem pith | Clears heat and promotes urination, frees the *qi* and promotes milk flow | Caution in pregnancy | [4.1](#41-tongcao-rice-paper-plant-pith) |
 | *Zhuru* (bamboo shavings) | Middle layer of the culm | Clears heat and resolves phlegm, relieves restlessness and stops vomiting | — | [4.2](#42-zhuru-bamboo-shavings) |
 | *Sumu* (sappanwood) | Heartwood | Activates blood and removes stasis, reduces swelling and relieves pain | Caution in pregnancy | [5.1](#51-sumu-sappanwood) |
-| *Jiangxiang* (dalbergia heartwood) | Heartwood | Resolves stasis and stops bleeding, regulates *qi* and relieves pain | 🛡️ *Dalbergia odorifera* is class II under state protection | [5.2](#52-jiangxiang-dalbergia-heartwood) |
+| *Jiangxiang* (dalbergia heartwood) | Heartwood | Resolves stasis and stops bleeding, regulates *qi* and relieves pain | 🛡️ *Dalbergia odorifera* is Class II under state protection | [5.2](#52-jiangxiang-dalbergia-heartwood) |
 | *Tanxiang* (sandalwood) | Heartwood | Moves *qi* and warms the middle, opens the appetite and relieves pain | Many fakes | [5.3](#53-tanxiang-sandalwood) |
-| *Chenxiang* (agarwood) | Wood containing resin | Moves *qi* and relieves pain, warms the middle and stops vomiting, helps the kidneys grasp *qi* and calms wheezing | 🛡️ CITES Appendix II; *Tuchenxiang* class II under state protection | [5.4](#54-chenxiang-agarwood) |
+| *Chenxiang* (agarwood) | Wood containing resin | Moves *qi* and relieves pain, warms the middle and stops vomiting, helps the kidneys grasp *qi* and calms wheezing | 🛡️ CITES Appendix II; *Tuchenxiang* Class II under state protection | [5.4](#54-chenxiang-agarwood) |
 
 ---
 
@@ -115,7 +115,7 @@ Sustainable bark stripping (taking Duzhong, Houpo and Huangbo as examples):
    experience, and never ring-bark a wild tree
 ```
 
-"*Sweating*" (*fahan*) is a processing step at the place of origin peculiar to *Duzhong* and *Houpo*: freshly stripped bark is piled up and covered tightly so that it heats up and regains moisture by itself; once the inner surface has changed colour it is sun-dried. For the method see [General principles – *Sweating*](00-general-principles.md#54-sweating).
+"Sweating" (*fahan*) is a processing step at the place of origin peculiar to *Duzhong* and *Houpo*: freshly stripped bark is piled up and covered tightly so that it heats up and regains moisture by itself; once the inner surface has changed colour it is sun-dried. For the method see [General principles – Sweating](00-general-principles.md#54-sweating).
 
 ### 1.1 Duzhong (eucommia bark)
 
@@ -134,7 +134,7 @@ Sustainable bark stripping (taking Duzhong, Houpo and Huangbo as examples):
 - **Actions**: Tonifies liver and kidney, strengthens sinews and bones, calms the foetus
 - **Dose**: 6-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: Use with caution in yin deficiency with flaring fire (experience); if abdominal pain or vaginal bleeding occurs during pregnancy, you must first go to hospital to find the cause, and not rely only on "foetus-calming herbs"; *Duzhong* lowers blood pressure somewhat, so people taking blood-pressure medicines should ask a doctor first
-- 🛡️ **Protection note**: Wild *Duzhong* is on the "List of Wild Medicinal Species under Key State Protection" (the wording of the list prevails for the class); almost all the medicine now comes from cultivation; do not collect from wild trees
+- 🛡️ **Protection note**: Wild *Duzhong* is on the "List of Wild Medicinal Species under State Key Protection" (the wording of the list prevails for the class); almost all the medicine now comes from cultivation; do not collect from wild trees
 
 ### 1.2 Houpo (magnolia bark)
 
@@ -150,7 +150,7 @@ Sustainable bark stripping (taking Duzhong, Houpo and Huangbo as examples):
 - **Actions**: Dries damp and resolves phlegm, sends *qi* down and relieves fullness
 - **Dose**: 3-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: Use with caution in pregnancy; not suitable for weak people or those short of body fluids (experience); the flower of *Houpo* ("*Houpohua*") is a separate medicine
-- 🛡️ **Protection note**: *Houpo* (including notched-leaf *Houpo*) is class II on the 2021 "List of Wild Plants under Key State Protection", and wild *Houpo* is also on the "List of Wild Medicinal Species under Key State Protection"; **do not strip wild trees**; use only cultivated bark
+- 🛡️ **Protection note**: *Houpo* (including notched-leaf *Houpo*) is Class II on the 2021 "List of Wild Plants under State Key Protection", and wild *Houpo* is also on the "List of Wild Medicinal Species under State Key Protection"; **do not strip wild trees**; use only cultivated bark
 
 ### 1.3 Huangbo (phellodendron bark)
 
@@ -166,7 +166,7 @@ Sustainable bark stripping (taking Duzhong, Houpo and Huangbo as examples):
 - **Actions**: Clears heat and dries damp, purges fire and relieves steaming bone, removes toxins and treats sores
 - **Dose**: 3-12 g; for external use, a suitable amount (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: Cold in nature and bitter in taste, so **not suitable for people with a cold, weak spleen and stomach, poor appetite and diarrhoea**; contains berberine, so use with caution in people with glucose-6-phosphate dehydrogenase deficiency (favism) and in newborns
-- 🛡️ **Protection note**: *Phellodendron amurense* and *P. chinense* are both class II on the 2021 "List of Wild Plants under Key State Protection", and wild *Huangbo* is also on the "List of Wild Medicinal Species under Key State Protection"; **do not strip wild trees**; use only cultivated bark
+- 🛡️ **Protection note**: *Phellodendron amurense* and *P. chinense* are both Class II on the 2021 "List of Wild Plants under State Key Protection", and wild *Huangbo* is also on the "List of Wild Medicinal Species under State Key Protection"; **do not strip wild trees**; use only cultivated bark
 
 ### 1.4 Rougui (cassia bark)
 
@@ -234,7 +234,7 @@ Root-bark medicines are the bark stripped from roots after digging, with the woo
 - **Actions**: Clears heat and cools blood, activates blood and resolves stasis
 - **Dose**: 6-12 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: **Use with caution in pregnancy** (Pharmacopoeia); not suitable for heavy periods (experience); people taking anticoagulants should ask a doctor first
-- 🛡️ **Protection note**: Wild tree peonies of the genus *Paeonia*, such as *P. rockii*, *P. ostii*, *P. qiui* and *P. ludlowii*, are on the 2021 "List of Wild Plants under Key State Protection" (the wording of the list prevails for the class); use only cultivated tree peony for the medicine — **do not dig wild tree peonies in the mountains**
+- 🛡️ **Protection note**: Wild tree peonies of the genus *Paeonia*, such as *P. rockii*, *P. ostii*, *P. qiui* and *P. ludlowii*, are on the 2021 "List of Wild Plants under State Key Protection" (the wording of the list prevails for the class); use only cultivated tree peony for the medicine — **do not dig wild tree peonies in the mountains**
 
 ### 2.2 Digupi (goji root bark)
 
@@ -300,7 +300,7 @@ Root-bark medicines are the bark stripped from roots after digging, with the woo
 - **Dose**: 5-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: Use with caution in yin deficiency with flaring fire (experience); *Ciwujia* (Siberian ginseng, *Eleutherococcus senticosus*) is a separate medicine, using the root and rhizome or the stem
 
-![*Wujiapi* and *Xiangjiapi* compared: plant, root bark and smell](../../images/acanthopanax-vs-periploca.svg)
+![Wujiapi and Xiangjiapi compared: plant, root bark and smell](../../images/acanthopanax-vs-periploca.svg)
 
 *Figure: Wujia is an upright shrub with flattened, hooked prickles and palmately compound leaves; Chinese silk vine is a twining vine with white milky sap and opposite leaves. For the crude drug the key is the smell — the one with a strong, peculiar fragrance is Xiangjiapi: do not use it, and do not steep it in liquor*
 
@@ -444,7 +444,7 @@ This group is young twigs with their bark and woody vine stems, mostly collected
   - The broken surface of *Guanmutong* is **yellow, with many vessel pores arranged in several neat rings and radiating rays, like a spider's web**; rubbing the remaining coarse bark gives a **camphor-like smell**, taste bitter
   - The broken surface of *Chuanmutong* is pale yellowish-brown, with irregular lines and cracks; faint smell, taste bland
   - The Pharmacopoeia also has a "*Mutong*" (the vine stem of *Akebia quinata*, *A. trifoliata* or *A. trifoliata* var. *australis*, akebia family), which is not *Guanmutong* either
-  - For a comparison table see [*Guanmutong* vs *Chuanmutong*, *Guangfangji* vs *Fenfangji*](09-toxic-herbs-and-poisonous-look-alikes.md#47-guanmutong-vs-chuanmutong-guangfangji-vs-fenfangji); for the dangers of aristolochic acid see [*Herbs* containing aristolochic acid](09-toxic-herbs-and-poisonous-look-alikes.md#3-herbs-containing-aristolochic-acid). **Never collect any herb with "*Mutong*" in its name yourself, and never buy it loose in a market**
+  - For a comparison table see [*Guanmutong* vs *Chuanmutong*, *Guangfangji* vs *Fenfangji*](09-toxic-herbs-and-poisonous-look-alikes.md#47-guanmutong-vs-chuanmutong-guangfangji-vs-fenfangji); for the dangers of aristolochic acid see [Herbs containing aristolochic acid](09-toxic-herbs-and-poisonous-look-alikes.md#3-herbs-containing-aristolochic-acid). **Never collect any herb with "*Mutong*" in its name yourself, and never buy it loose in a market**
 - **Harvesting and processing**: Collect in spring and autumn, remove the coarse bark and sun-dry, or cut into thin slices while fresh and sun-dry
 - **Storage**: Keep in a ventilated, dry place
 - **Actions**: Promotes urination and relieves painful urination, clears the heart and relieves restlessness, unblocks menstruation and promotes milk flow
@@ -498,7 +498,7 @@ Heartwood is the dark-coloured part at the centre of a trunk (the pale outer par
 ```
 The bottom line for this group:
 - Do not fell or buy wild Dalbergia odorifera or Tuchenxiang (Aquilaria
-  sinensis) (both are class II wild plants under state protection);
+  sinensis) (both are Class II wild plants under state protection);
   all species of the genus Aquilaria are listed in CITES Appendix II,
   and import and export need a permit
 - For medicine, buy only from a proper pharmacy, never "medicine" from
@@ -540,7 +540,7 @@ The bottom line for this group:
 - **Actions**: Resolves stasis and stops bleeding, regulates *qi* and relieves pain
 - **Dose**: 9-15 g, **added near the end**; for external use, a suitable amount, ground to a fine powder and applied to the affected area (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: Use with caution in pregnancy; not suitable for yin deficiency with flaring fire or a tendency to bleed (experience); chest pain or chest tightness that does not ease (possibly a heart attack): **call 120 at once** — do not delay by relying on "*qi*-regulating, pain-relieving" herbs
-- 🛡️ **Protection note**: *Dalbergia odorifera* is class II on the 2021 "List of Wild Plants under Key State Protection"; wild trees have been poached almost to extinction because of the "*huanghuali*" craze. **Do not fell or buy wild *Dalbergia odorifera***, and do not buy "medicine" from rosewood or collectors' markets
+- 🛡️ **Protection note**: *Dalbergia odorifera* is Class II on the 2021 "List of Wild Plants under State Key Protection"; wild trees have been poached almost to extinction because of the "*huanghuali*" craze. **Do not fell or buy wild *Dalbergia odorifera***, and do not buy "medicine" from rosewood or collectors' markets
 
 ### 5.3 Tanxiang (sandalwood)
 
@@ -578,7 +578,7 @@ The bottom line for this group:
 - **Actions**: Moves *qi* and relieves pain, warms the middle and stops vomiting, helps the kidneys grasp *qi* and calms wheezing
 - **Dose**: 1-5 g, **added near the end** (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: Use with caution in yin deficiency with flaring fire, or *qi* deficiency with sinking (experience); **it is expensive — do not pay high prices for "old agarwood" as a health product**; worsening wheezing and breathlessness or chest pain need a doctor
-- 🛡️ **Protection note**: **All species of the genus *Aquilaria* have been listed in Appendix II of CITES (the Convention on International Trade in Endangered Species of Wild Fauna and Flora) since 2004**, and international trade needs a permit; *Tuchenxiang* (*Aquilaria sinensis*) is class II on the 2021 "List of Wild Plants under Key State Protection". Wild *Aquilaria sinensis* has become very rare because of "cutting for resin" and "felling trees to look for resin"; **do not fell, cut or buy wild *Aquilaria sinensis***
+- 🛡️ **Protection note**: **All species of the genus *Aquilaria* have been listed in Appendix II of CITES (the Convention on International Trade in Endangered Species of Wild Fauna and Flora) since 2004**, and international trade needs a permit; *Tuchenxiang* (*Aquilaria sinensis*) is Class II on the 2021 "List of Wild Plants under State Key Protection". Wild *Aquilaria sinensis* has become very rare because of "cutting for resin" and "felling trees to look for resin"; **do not fell, cut or buy wild *Aquilaria sinensis***
 
 ---
 
@@ -644,7 +644,7 @@ Before collecting bark or stem/wood medicines, confirm each point:
   yourself long term or in large amounts
 □ Gouteng, Jiangxiang and Chenxiang are added near the end in decoctions
 □ Aquilaria is in CITES Appendix II; Tuchenxiang and Dalbergia odorifera
-  are class II under state protection; do not fell wild trees
+  are Class II under state protection; do not fell wild trees
 □ Rougui, Guizhi, Sumu, Mudanpi, Daxueteng, Tongcao: use with caution
   in pregnancy
 ```
@@ -655,12 +655,12 @@ Before collecting bark or stem/wood medicines, confirm each point:
 
 - ⏮️ [Flowers and Leaves](05-flowers-and-leaves.md) - honeysuckle, chrysanthemum, mugwort leaf, mulberry leaf, perilla leaf and other flower and leaf herbs
 - ⏭️ [Fungi, Algae, Resins and Others](07-fungi-algae-resins-and-others.md) - poria, lingzhi, frankincense, myrrh, dragon's blood, borneol and other fungi, algae, resins and other medicines
-- 🔗 [General Principles of Identifying and Collecting Chinese Medicinal *Herbs*](00-general-principles.md) - general methods for identification, harvesting, processing (including "sweating"), storage, safety and the law
-- 🔗 [Toxic *Herbs* and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - identification and poisoning signs of *Xiangjiapi*, *Guanmutong*, *Gouwen*, *Leigongteng* and others
+- 🔗 [General Principles of Identifying and Collecting Chinese Medicinal Herbs](00-general-principles.md) - general methods for identification, harvesting, processing (including "sweating"), storage, safety and the law
+- 🔗 [Toxic Herbs and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - identification and poisoning signs of *Xiangjiapi*, *Guanmutong*, *Gouwen*, *Leigongteng* and others
 - 🔗 [Roots and Rhizomes (1)](01-roots-and-rhizomes-1.md) - *Heshouwu*, *Baishao*, *Chishao* and other root medicines
 - 🔗 [Fruits and Seeds](03-fruits-and-seeds.md) - goji berries and other fruit medicines
 - 🔗 [Medicinal Plants: Identification and Growing Guide](../04-farming-and-animal-husbandry/04-medicinal-plants.md) - growing goji and honeysuckle, and the home herb garden
-- 🔗 [Traditional Chinese Medicine Preparations](../06-pharmaceuticals/04-herbal-preparations.md) - processing, decoction (including "adding near the end"), common formulas and safe use
+- 🔗 [Traditional Chinese Medicine Preparations](../06-pharmaceuticals/04-herbal-preparations.md) - processing, decoction (including "added near the end"), common formulas and safe use
 
 ---
 
