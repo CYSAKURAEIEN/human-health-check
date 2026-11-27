@@ -61,7 +61,7 @@ The "Toxicity/protection" column gives toxicity noted in the Pharmacopoeia, this
 | *Huangbo* (phellodendron bark) | Tree bark | Clears heat and dries damp, purges fire | 🛡️ Wild *Phellodendron* is Class II under state protection | [1.3](#13-huangbo-phellodendron-bark) |
 | *Rougui* (cassia bark) | Tree bark | Replenishes fire and assists yang, dispels cold and relieves pain | Caution in pregnancy and with a tendency to bleed | [1.4](#14-rougui-cassia-bark) |
 | *Qinpi* (ash bark) | Branch bark or trunk bark | Clears heat and dries damp, stops dysentery, brightens the eyes | — | [1.5](#15-qinpi-ash-bark) |
-| *Hehuanpi* (silk tree bark) | Tree bark | Relieves depression and calms the mind, activates blood and reduces swelling | — | [1.6](#16-hehuanpi-silk-tree-bark) |
+| *Hehuanpi* (silk tree bark) | Tree bark | Relieves constraint and calms the mind, activates blood and reduces swelling | — | [1.6](#16-hehuanpi-silk-tree-bark) |
 | *Mudanpi* (tree peony root bark) | Root bark | Clears heat and cools blood, activates blood and resolves stasis | Caution in pregnancy; wild tree peonies protected | [2.1](#21-mudanpi-tree-peony-root-bark) |
 | *Digupi* (goji root bark) | Root bark | Cools blood and relieves steaming bone, clears the lungs and lowers fire | Beware *Xiangjiapi* mixed in | [2.2](#22-digupi-goji-root-bark) |
 | *Sangbaipi* (white mulberry root bark) | Root bark | Drains the lungs and calms wheezing, promotes urination and reduces swelling | — | [2.3](#23-sangbaipi-white-mulberry-root-bark) |
@@ -210,7 +210,7 @@ Sustainable bark stripping (taking Duzhong, Houpo and Huangbo as examples):
 - **Look-alikes**: The bark of the related *Shanhehuan* (*A. kalkora*, flowers white or yellowish-white) is sometimes mixed in; it is not the Pharmacopoeia species
 - **Harvesting and processing**: Strip in summer and autumn and sun-dry; street trees in cities are managed by the parks department — do not strip their bark at will
 - **Storage**: Keep in a ventilated, dry place
-- **Actions**: Relieves depression and calms the mind, activates blood and reduces swelling
+- **Actions**: Relieves constraint and calms the mind, activates blood and reduces swelling
 - **Dose**: 6-12 g; for external use, a suitable amount, ground to powder, mixed and applied (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: Use with caution in pregnancy (experience); insomnia or low mood lasting more than two weeks needs a doctor — "mind-calming herbs" cannot replace treatment for depression or anxiety; *Hehuanhua* (silk tree flower) is a separate medicine
 
@@ -228,7 +228,7 @@ Root-bark medicines are the bark stripped from roots after digging, with the woo
 - **Key identification features**:
   - Plant: Small deciduous shrub 1-2 m tall, **with woody stems** (this distinguishes it from the herbaceous Chinese peony); leaves twice ternately compound; large flowers in spring
   - Crude drug: Tubes or half-tubes, split open lengthwise, curled slightly inwards, 0.1-0.4 cm thick; outer surface greyish-brown or yellowish-brown, with many transverse lenticel-like bumps and fine root scars, pink where the cork has fallen off; **inner surface pale greyish-yellow or light brown, with clear fine lengthwise lines, often with shiny crystals** (paeonol coming out, traditionally called "bright silver stars", *liang yinxing*); hard and brittle, snaps easily, broken surface fairly flat, **powdery**, pale pink; **aromatic smell, taste slightly bitter and astringent**
-- **Look-alikes**: The root bark of Chinese peony (the source plant of *Baishao* and *Chishao*) and of wild tree peonies of the same genus is occasionally mixed in; *Baishao* and *Chishao* use the whole root, see [Roots and Rhizomes (1) – *Baishao*](01-roots-and-rhizomes-1.md#22-baishao-white-peony-root)
+- **Look-alikes**: The root bark of Chinese peony (the source plant of *Baishao* and *Chishao*) and of wild tree peonies of the same genus is occasionally mixed in; *Baishao* and *Chishao* use the whole root, see [Roots and Rhizomes (Part 1) – *Baishao*](01-roots-and-rhizomes-1.md#22-baishao-white-peony-root)
 - **Harvesting and processing**: Dig the roots in autumn, remove the fine roots and soil, strip the root bark and sun-dry ("*Liandanpi*"); or scrape off the coarse outer bark, remove the woody core and sun-dry ("*Guadanpi*")
 - **Storage**: Contains paeonol, which evaporates easily; **seal and keep in a cool, dry place**
 - **Actions**: Clears heat and cools blood, activates blood and resolves stasis
@@ -391,7 +391,7 @@ This group is young twigs with their bark and woody vine stems, mostly collected
 ### 3.6 Shouwuteng (fleeceflower stem)
 
 - **Shouwuteng (Yejiaoteng)**: Chinese 首乌藤; *Polygonum multiflorum* Thunb.
-- **Source**: The dried vine stem of *Polygonum multiflorum* Thunb. (Polygonaceae, knotweed family) (the root tuber is *Heshouwu*, see [Roots and Rhizomes (1) – *Heshouwu*](01-roots-and-rhizomes-1.md#26-heshouwu-fleeceflower-root))
+- **Source**: The dried vine stem of *Polygonum multiflorum* Thunb. (Polygonaceae, knotweed family) (the root tuber is *Heshouwu*, see [Roots and Rhizomes (Part 1) – *Heshouwu*](01-roots-and-rhizomes-1.md#26-heshouwu-fleeceflower-root))
 - **Distribution and habitat**: East, central, south and southwest China and southern Shaanxi and Gansu; grows in hillside scrub, rock crevices by streams and near villages
 - **Key identification features**:
   - Plant: Perennial twining vine; stems much branched, woody towards the base; **leaves alternate, ovate-heart-shaped, with long stalks**; **a papery sheath (ocrea) clasping the stem** (a feature of the knotweed family); small white or pale green flowers in panicles; a thick root tuber underground
@@ -657,7 +657,7 @@ Before collecting bark or stem/wood medicines, confirm each point:
 - ⏭️ [Fungi, Algae, Resins and Others](07-fungi-algae-resins-and-others.md) - poria, lingzhi, frankincense, myrrh, dragon's blood, borneol and other fungi, algae, resins and other medicines
 - 🔗 [General Principles of Identifying and Collecting Chinese Medicinal Herbs](00-general-principles.md) - general methods for identification, harvesting, processing (including "sweating"), storage, safety and the law
 - 🔗 [Toxic Herbs and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - identification and poisoning signs of *Xiangjiapi*, *Guanmutong*, *Gouwen*, *Leigongteng* and others
-- 🔗 [Roots and Rhizomes (1)](01-roots-and-rhizomes-1.md) - *Heshouwu*, *Baishao*, *Chishao* and other root medicines
+- 🔗 [Roots and Rhizomes (Part 1)](01-roots-and-rhizomes-1.md) - *Heshouwu*, *Baishao*, *Chishao* and other root medicines
 - 🔗 [Fruits and Seeds](03-fruits-and-seeds.md) - goji berries and other fruit medicines
 - 🔗 [Medicinal Plants: Identification and Growing Guide](../04-farming-and-animal-husbandry/04-medicinal-plants.md) - growing goji and honeysuckle, and the home herb garden
 - 🔗 [Traditional Chinese Medicine Preparations](../06-pharmaceuticals/04-herbal-preparations.md) - processing, decoction (including "added near the end"), common formulas and safe use

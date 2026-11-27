@@ -2,7 +2,7 @@
 
 > **Flowers and leaves are the "best-looking" herbs, and precisely because they look good and sell well they have the most fakes and dyed goods. With flowers, look at the shape, smell the scent and soak them in water to see the colour; with leaves, look at the veins, feel the hairs and crush them to smell. A bright colour alone does not prove a good herb**
 
-This chapter covers 23 common flower and leaf herbs (the part used is the flower bud, the open flower, the flower head, the stigma, the pollen, the leaf or the leafy twig tip). They are roughly grouped by action into six groups: heat-clearing and detoxifying flowers; blood-moving and *qi*-regulating flowers; phlegm-resolving, orifice-opening, mind-calming and interior-warming flowers; dispersing and heat-clearing leaves; cough-stopping, bleeding-stopping and channel-warming leaves; and leaves that need special care. General methods for identification, harvesting, drying and storage are in the [General Principles](./00-general-principles.md) and are not repeated here. How to grow honeysuckle, chrysanthemum and mugwort is already covered in [Medicinal Plants: Identification and Growing](../04-farming-and-animal-husbandry/04-medicinal-plants.md); this chapter covers only identification and collection.
+This chapter covers 23 common flower and leaf herbs (the part used is the flower bud, the open flower, the flower head, the stigma, the pollen, the leaf or the leafy twig tip). They are roughly grouped by action into six groups: heat-clearing and toxin-removing flowers; blood-moving and *qi*-regulating flowers; phlegm-resolving, orifice-opening, mind-calming and interior-warming flowers; dispersing and heat-clearing leaves; cough-stopping, bleeding-stopping and channel-warming leaves; and leaves that need special care. General methods for identification, harvesting, drying and storage are in the [General Principles](./00-general-principles.md) and are not repeated here. How to grow honeysuckle, chrysanthemum and mugwort is already covered in [Medicinal Plants: Identification and Growing](../04-farming-and-animal-husbandry/04-medicinal-plants.md); this chapter covers only identification and collection.
 
 ## ⚠️ Read these first
 
@@ -58,12 +58,12 @@ The "Toxicity / protection" column gives toxicity noted in the Pharmacopoeia, th
 
 | Herb | Part used | Main actions | Toxicity / protection | See |
 |------|---------|---------|----------|-----|
-| *Jinyinhua* (honeysuckle flower) | Flower bud or flower just opening | Clears heat and detoxifies, disperses wind-heat | ⚠️ Beware picking *Gouwen* (heartbreak grass) by mistake | [1.1](#11-jinyinhua-honeysuckle-flower) |
+| *Jinyinhua* (honeysuckle flower) | Flower bud or flower just opening | Clears heat and removes toxins, disperses wind-heat | ⚠️ Beware picking *Gouwen* (heartbreak grass) by mistake | [1.1](#11-jinyinhua-honeysuckle-flower) |
 | *Juhua* (chrysanthemum) | Flower head | Disperses wind and clears heat, calms the liver and brightens the eyes | Ornamental chrysanthemums are not medicine | [1.2](#12-juhua-chrysanthemum) |
-| *Yejuhua* (wild chrysanthemum) | Flower head | Clears heat and detoxifies, drains fire and calms the liver | Bitter; use with caution if the spleen and stomach are cold and weak | [1.3](#13-yejuhua-wild-chrysanthemum) |
+| *Yejuhua* (wild chrysanthemum) | Flower head | Clears heat and removes toxins, drains fire and calms the liver | Bitter; use with caution if the spleen and stomach are cold and weak | [1.3](#13-yejuhua-wild-chrysanthemum) |
 | *Huaihua* (pagoda tree flower) | Flower and flower bud (*Huaimi*) | Cools the blood and stops bleeding, clears the liver and drains fire | Do not confuse with black locust flowers | [1.4](#14-huaihua-pagoda-tree-flower) |
 | *Honghua* (safflower) | Flower | Moves blood and unblocks menstruation, disperses stasis and relieves pain | ⚠️ Not in pregnancy; many dyed and weighted goods | [2.1](#21-honghua-safflower) |
-| *Xihonghua* (saffron) | Stigma | Moves blood and resolves stasis, cools the blood and detoxifies, relieves constraint and calms the mind | ⚠️ Not in pregnancy; very many fakes | [2.2](#22-xihonghua-saffron) |
+| *Xihonghua* (saffron) | Stigma | Moves blood and resolves stasis, cools the blood and removes toxins, relieves constraint and calms the mind | ⚠️ Not in pregnancy; very many fakes | [2.2](#22-xihonghua-saffron) |
 | *Yuejihua* (Chinese rose flower) | Flower | Moves blood and regulates menstruation, soothes the liver and relieves constraint | Use with caution in pregnancy | [2.3](#23-yuejihua-chinese-rose-flower) |
 | *Meiguihua* (rugosa rose bud) | Flower bud | Moves *qi* and relieves constraint, harmonises the blood and relieves pain | Florists' cut flowers are not medicine | [2.4](#24-meiguihua-rugosa-rose-bud) |
 | *Puhuang* (cattail pollen) | Pollen | Stops bleeding, resolves stasis, relieves painful urination | Use with caution in pregnancy | [2.5](#25-puhuang-cattail-pollen) |
@@ -74,7 +74,7 @@ The "Toxicity / protection" column gives toxicity noted in the Pharmacopoeia, th
 | *Dingxiang* (clove) | Flower bud | Warms the middle and descends rebellious *qi*, tonifies the kidney and assists yang | Not to be used with *Yujin*; not the garden lilac | [3.5](#35-dingxiang-clove) |
 | *Sangye* (mulberry leaf) | Leaf | Disperses wind-heat, clears the lungs and moistens dryness, clears the liver and brightens the eyes | — | [4.1](#41-sangye-mulberry-leaf) |
 | *Zisuye* (perilla leaf) | Leaf (or with tender twigs) | Releases the exterior and dispels cold, moves *qi* and harmonises the stomach | — | [4.2](#42-zisuye-perilla-leaf) |
-| *Daqingye* (isatis leaf) | Leaf | Clears heat and detoxifies, cools the blood and fades rashes | Many different plants under the same name | [4.3](#43-daqingye-isatis-leaf) |
+| *Daqingye* (isatis leaf) | Leaf | Clears heat and removes toxins, cools the blood and fades rashes | Many different plants under the same name | [4.3](#43-daqingye-isatis-leaf) |
 | *Heye* (lotus leaf) | Leaf | Clears summer heat and transforms damp, cools the blood and stops bleeding | Do not drink it long term as a slimming tea | [4.4](#44-heye-lotus-leaf) |
 | *Pipaye* (loquat leaf) | Leaf | Clears the lungs and stops cough, descends rebellious *qi* and stops vomiting | The hairs irritate the throat | [5.1](#51-pipaye-loquat-leaf) |
 | *Cebaiye* (oriental arborvitae leaf) | Twig tips and leaves | Cools the blood and stops bleeding, resolves phlegm and stops cough | Beware mixing in savin juniper (poisonous) | [5.2](#52-cebaiye-oriental-arborvitae-leaf) |
@@ -103,7 +103,7 @@ The flowers in this group are mostly harvested in summer and autumn. The rule is
   - In the trade you occasionally find flowers fumigated with sulphur or bulked up with sugar or alum water: do not take any that are unusually bright, smell sour or feel sticky
 - **Harvesting and processing**: in early summer, **before the flowers open** (when the buds turn from green to white and swell at the top), pick in the early morning; spread thinly to dry in the air or dry at a low temperature. **Do not turn them or rub them with your hands before they are dry**, or they turn black
 - **Storage**: easily absorbs moisture, loses colour and is attacked by insects; seal it and keep it in a cool, dry place
-- **Actions**: clears heat and detoxifies, disperses wind-heat
+- **Actions**: clears heat and removes toxins, disperses wind-heat
 - **Dose**: 6-15 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: use with caution if the spleen and stomach are cold and weak or the stools are loose (experience)
 - For growing, see [Medicinal Plants – Honeysuckle](../04-farming-and-animal-husbandry/04-medicinal-plants.md#jinyinhua-honeysuckle); for the vine stem *Rendongteng* see [Barks, Stems and Woods – *Rendongteng*](06-barks-stems-and-woods.md#35-rendongteng-honeysuckle-stem)
@@ -123,7 +123,7 @@ The flowers in this group are mostly harvested in summer and autumn. The rule is
   - **Chrysanthemum fumigated with sulphur**: unusually pure white and bright, with a sharp, sour smell; avoid buying it
 - **Harvesting and processing**: harvest in several rounds from September to November when the flowers are in full bloom; dry in the shade or over gentle heat, or fumigate or steam and then sun-dry (methods differ between producing areas)
 - **Storage**: easily gets damp, loses colour and is attacked by insects; seal, keep cool and out of light
-- **Actions**: disperses wind and clears heat, calms the liver and brightens the eyes, clears heat and detoxifies
+- **Actions**: disperses wind and clears heat, calms the liver and brightens the eyes, clears heat and removes toxins
 - **Dose**: 5-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: use less if the spleen and stomach are cold and weak (experience); people allergic to the daisy family (for example to mugwort or ragweed) may be allergic to it
 - For growing, see [Medicinal Plants – Chrysanthemum](../04-farming-and-animal-husbandry/04-medicinal-plants.md#juhua-chrysanthemum)
@@ -140,7 +140,7 @@ The flowers in this group are mostly harvested in summer and autumn. The rule is
 - **Look-alikes**: ***Ganju*** (*Yanxiangju*, *Yeganju*, *C. lavandulifolium*), ***Xuanfuhua*** (inula flower, see 3.3) and various daisy-family weeds with small yellow flowers. *Ganju* has twice pinnately, deeply divided leaves and even smaller flowers; *Xuanfuhua* has long, thin ray florets and strap-shaped bracts. Most are not poisonous, but they are not the Pharmacopoeia's *Yejuhua*
 - **Harvesting and processing**: in autumn and winter, pick **when the flowers are just opening**; sun-dry, or steam and then sun-dry
 - **Storage**: protect from damp and insects; seal
-- **Actions**: clears heat and detoxifies, drains fire and calms the liver
+- **Actions**: clears heat and removes toxins, drains fire and calms the liver
 - **Dose**: 9-15 g; for external use, a suitable amount, boiled for washing or made into an ointment and applied (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: bitter and cold; use with caution if the spleen and stomach are cold and weak, and do not drink it as tea for long periods (experience); use with caution if allergic to the daisy family
 
@@ -206,7 +206,7 @@ Most of this group are **not to be used, or to be used with caution, in pregnanc
   - In a word: **"cheap Tibetan saffron" is almost always fake**
 - **Harvesting and processing**: during flowering in autumn, pick the flowers early every morning, remove the stigmas and dry them over low heat or in the shade
 - **Storage**: **keep out of light** (light breaks down both the colour and the active constituents), seal, keep cool and dry
-- **Actions**: moves blood and resolves stasis, cools the blood and detoxifies, relieves constraint and calms the mind
+- **Actions**: moves blood and resolves stasis, cools the blood and removes toxins, relieves constraint and calms the mind
 - **Dose**: 1-3 g, decocted or steeped in boiling water (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: **the Pharmacopoeia says "use with caution in pregnancy"**; it clearly makes the uterus contract, and this book advises pregnant women not to use it; people with a tendency to bleed or taking anticoagulants ask a doctor first; taking a large amount at once (several grams or more) can cause poisoning (experience)
 - **One more danger**: the garden plant "autumn crocus" (*Colchicum*, called *qiushuixian* in Chinese) looks like saffron crocus and **the whole plant is extremely poisonous**; do not steep any crocus-like flower from a garden in water and drink it
@@ -409,7 +409,7 @@ Leaf herbs shrivel and break when dried. To identify them, **soak them soft and 
   - These have similar actions but different constituents; the Pharmacopoeia's *Daqingye* means woad leaf only
 - **Harvesting and processing**: harvest 2-3 times in summer and autumn, remove impurities, dry in the sun
 - **Storage**: protect from damp and mould
-- **Actions**: clears heat and detoxifies, cools the blood and fades rashes
+- **Actions**: clears heat and removes toxins, cools the blood and fades rashes
 - **Dose**: 9-15 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: bitter and cold; use with caution if the spleen and stomach are cold and weak (experience); it cannot replace vaccines or antiviral drugs
 - For the root *Banlangen* see [Chapter 01 – *Banlangen*](./01-roots-and-rhizomes-1.md#33-banlangen-isatis-root)

@@ -60,10 +60,10 @@ This chapter continues Chapter 01, "Roots and Rhizomes (Part 1)". General method
 | *Gouji* | Rhizome | Dispels wind-damp, tonifies the liver and kidneys, strengthens the lower back and knees | 🛡️ Cibotium is Class II protected | [2.4](#24-gouji-cibotium-rhizome) |
 | *Gusuibu* | Rhizome | Heals injuries and relieves pain, tonifies the kidneys and strengthens bones | — | [2.5](#25-gusuibu-drynaria-rhizome) |
 | *Yanhusuo* | Tuber | Invigorates blood, moves qi, relieves pain | — | [3.1](#31-yanhusuo-corydalis-tuber) |
-| *Yujin* | Root tuber | Invigorates blood and relieves pain, moves qi and relieves depression | Antagonised by *Dingxiang* (clove) | [3.2](#32-yujin-curcuma-root-tuber) |
+| *Yujin* | Root tuber | Invigorates blood and relieves pain, moves qi and relieves constraint | Antagonised by *Dingxiang* (clove) | [3.2](#32-yujin-curcuma-root-tuber) |
 | *Jianghuang* | Rhizome | Breaks up blood stasis and moves qi, unblocks menstruation and relieves pain | Pregnant women should not use it on their own | [3.3](#33-jianghuang-turmeric) |
 | *Ezhu* | Rhizome | Moves qi and breaks up blood stasis, disperses accumulations and relieves pain | Forbidden in pregnancy | [3.4](#34-ezhu-zedoary-rhizome) |
-| *Xiangfu* | Rhizome | Soothes the liver and relieves depression, regulates qi and menstruation | — | [3.5](#35-xiangfu-nutgrass-rhizome) |
+| *Xiangfu* | Rhizome | Soothes the liver and relieves constraint, regulates qi and menstruation | — | [3.5](#35-xiangfu-nutgrass-rhizome) |
 | *Muxiang* | Root | Moves qi and relieves pain, strengthens the spleen and aids digestion | 🛡️ Easily confused with Qingmuxiang | [3.6](#36-muxiang-costus-root) |
 | *Wuyao* | Root tuber | Moves qi and relieves pain, warms the kidneys and dispels cold | — | [3.7](#37-wuyao-lindera-root) |
 | *Dahuang* | Root and rhizome | Purges accumulations, clears heat and drains fire, dispels stasis | Use with caution in pregnancy; not for long-term use | [4.1](#41-dahuang-rhubarb-root) |
@@ -330,7 +330,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 - **Same plant, different medicines**: the rhizome of turmeric is "*Jianghuang*", its root tuber is "Huangsiyujin"; the rhizome of *C. wenyujin* is "*Ezhu*" (Wen'ezhu) or "Pianjianghuang", its root tuber is "Wenyujin"
 - **Harvesting and processing**: dig in winter after the stems and leaves have withered, remove the soil and fine roots, steam or boil until cooked through, and dry
 - **Storage**: protect from damp and insects, and from loss of aroma
-- **Actions**: invigorates blood and relieves pain, moves qi and relieves depression, clears the heart and cools blood, benefits the gallbladder and relieves jaundice. Used for stabbing pain in the chest and flanks, absent or painful periods, clouded consciousness in febrile disease, and jaundice with dark urine
+- **Actions**: invigorates blood and relieves pain, moves qi and relieves constraint, clears the heart and cools blood, benefits the gallbladder and relieves jaundice. Used for stabbing pain in the chest and flanks, absent or painful periods, clouded consciousness in febrile disease, and jaundice with dark urine
 - **Dose**: 3-10 g (use under the guidance of a TCM practitioner)
 - **Cautions**: **do not use with *Dingxiang* (clove) or Mudingxiang (mother clove)** (nineteen antagonisms); pregnant women should ask a doctor before use
 - Among the nineteen antagonisms, "*Dingxiang* antagonises *Yujin*"; for *Dingxiang* see [Flowers and leaves – *Dingxiang*](05-flowers-and-leaves.md#35-dingxiang-clove)
@@ -377,7 +377,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
   - Hard; after steaming or boiling the cut surface is yellowish-brown or reddish-brown and horn-like; if simply sun-dried, the cut surface is white and starchy; **fragrant**; taste slightly bitter
 - **Harvesting and processing**: dig in autumn, singe off the hairs, boil briefly in water or steam through and then sun-dry, or sun-dry directly after singeing
 - **Storage**: protect from damp and from loss of aroma
-- **Actions**: soothes the liver and relieves depression, regulates qi and relaxes the middle, regulates menstruation and relieves pain. Used for distending pain in the flanks, fullness and distending pain in the upper abdomen, irregular periods, and absent or painful periods
+- **Actions**: soothes the liver and relieves constraint, regulates qi and relaxes the middle, regulates menstruation and relieves pain. Used for distending pain in the flanks, fullness and distending pain in the upper abdomen, irregular periods, and absent or painful periods
 - **Dose**: 6-10 g (use under the guidance of a TCM practitioner)
 - **Cautions**: not suitable for people with qi deficiency and no stagnation, or with yin deficiency and blood heat (traditional experience)
 - **Collecting note**: *Xiangfu* in fields is often sprayed with herbicide; do not collect it in fields or along roadsides that have just been sprayed
@@ -770,7 +770,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 
 ## Related chapters
 
-- ⏮️ [Roots and Rhizomes (1)](01-roots-and-rhizomes-1.md) - *Renshen*, *Huangqi*, *Gancao*, *Danggui*, *Sanqi*, *Tianma* and others (Chapter 01)
+- ⏮️ [Roots and Rhizomes (Part 1)](01-roots-and-rhizomes-1.md) - *Renshen*, *Huangqi*, *Gancao*, *Danggui*, *Sanqi*, *Tianma* and others (Chapter 01)
 - 🔗 [General Principles of Identifying and Collecting Chinese Medicinal Herbs](00-general-principles.md) - general methods for identification, harvesting, processing, storage, safety and the law
 - 🔗 [Toxic Herbs and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - *Lilu*, herbs containing aristolochic acid, comparisons of easily confused poisonous plants
 - 🔗 [Medicinal Plants: Identification and Growing Guide](../04-farming-and-animal-husbandry/04-medicinal-plants.md) - growing ginger and other medicinal plants, the home herb garden

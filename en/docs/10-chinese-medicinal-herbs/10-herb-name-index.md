@@ -45,19 +45,19 @@
 - Baimeidou (白眉豆) → [Baibiandou (white hyacinth bean)](03-fruits-and-seeds.md#16-baibiandou-white-hyacinth-bean)
 - Baimi (白蜜) → [Fengmi (honey)](08-animal-and-mineral-medicines.md#28-fengmi-honey)
 - Baimuxiang (白木香) → [Chenxiang (agarwood)](06-barks-stems-and-woods.md#54-chenxiang-agarwood)
-- **[Baishao (white peony root)](01-roots-and-rhizomes-1.md#22-baishao-white-peony-root)** (白芍) · Roots and Rhizomes (1)
+- **[Baishao (white peony root)](01-roots-and-rhizomes-1.md#22-baishao-white-peony-root)** (白芍) · Roots and Rhizomes (Part 1)
 - Baitan (白檀) → [Tanxiang (sandalwood)](06-barks-stems-and-woods.md#53-tanxiang-sandalwood)
 - Baitanxiang (白檀香) → [Tanxiang (sandalwood)](06-barks-stems-and-woods.md#53-tanxiang-sandalwood)
 - Baitongcao (白通草) → [Tongcao (rice-paper plant pith)](06-barks-stems-and-woods.md#41-tongcao-rice-paper-plant-pith)
 - **[Baixianpi (dittany root bark)](06-barks-stems-and-woods.md#24-baixianpi-dittany-root-bark)** (白鲜皮) · Barks, Stems and Woods
 - Baixianpi (白藓皮) → [Baixianpi (dittany root bark)](06-barks-stems-and-woods.md#24-baixianpi-dittany-root-bark)
 - Baiye (柏叶) → [Cebaiye (oriental arborvitae leaf)](05-flowers-and-leaves.md#52-cebaiye-oriental-arborvitae-leaf)
-- **[Baizhi (Dahurian angelica root)](01-roots-and-rhizomes-1.md#46-baizhi-dahurian-angelica-root)** (白芷) · Roots and Rhizomes (1)
-- **[Baizhu (white atractylodes rhizome)](01-roots-and-rhizomes-1.md#16-baizhu-white-atractylodes-rhizome)** (白术) · Roots and Rhizomes (1)
+- **[Baizhi (Dahurian angelica root)](01-roots-and-rhizomes-1.md#46-baizhi-dahurian-angelica-root)** (白芷) · Roots and Rhizomes (Part 1)
+- **[Baizhu (white atractylodes rhizome)](01-roots-and-rhizomes-1.md#16-baizhu-white-atractylodes-rhizome)** (白术) · Roots and Rhizomes (Part 1)
 - Baizuchong (百足虫) → [Wugong (centipede)](08-animal-and-mineral-medicines.md#25-wugong-centipede)
 - Bangchui (棒槌) → [Renshen (ginseng)](01-roots-and-rhizomes-1.md#11-renshen-ginseng)
 - Bangchuicao (棒槌草) → [Xiakucao (self-heal spike)](04-whole-herbs.md#29-xiakucao-self-heal-spike)
-- **[Banlangen (isatis root)](01-roots-and-rhizomes-1.md#33-banlangen-isatis-root)** (板蓝根) · Roots and Rhizomes (1)
+- **[Banlangen (isatis root)](01-roots-and-rhizomes-1.md#33-banlangen-isatis-root)** (板蓝根) · Roots and Rhizomes (Part 1)
 - **[Banmao (blister beetle)](09-toxic-herbs-and-poisonous-look-alikes.md#220-banmao-blister-beetle)** (斑蝥) ☠️ · Toxic Herbs and Poisonous Look-alikes
 - **[Banzhilian (barbed skullcap)](04-whole-herbs.md#28-banzhilian-barbed-skullcap)** (半枝莲) · Whole Herbs
 - Baofuhua (包袱花) → [Jiegeng (platycodon root)](01-roots-and-rhizomes-1.md#53-jiegeng-platycodon-root)
@@ -65,7 +65,7 @@
 - Beibanlangen (北板蓝根) → [Banlangen (isatis root)](01-roots-and-rhizomes-1.md#33-banlangen-isatis-root)
 - Beiqi (北芪) → [Huangqi (astragalus root)](01-roots-and-rhizomes-1.md#14-huangqi-astragalus-root)
 - Beishanzha (北山楂) → [Shanzha (hawthorn fruit)](03-fruits-and-seeds.md#35-shanzha-hawthorn-fruit)
-- **[Beishashen (glehnia root)](01-roots-and-rhizomes-1.md#55-beishashen-glehnia-root)** (北沙参) · Roots and Rhizomes (1)
+- **[Beishashen (glehnia root)](01-roots-and-rhizomes-1.md#55-beishashen-glehnia-root)** (北沙参) · Roots and Rhizomes (Part 1)
 - Beiwuweizi (北五味子) → [Wuweizi (schisandra berry)](03-fruits-and-seeds.md#22-wuweizi-schisandra-berry)
 - Beixianpi (北鲜皮) → [Baixianpi (dittany root bark)](06-barks-stems-and-woods.md#24-baixianpi-dittany-root-bark)
 - Beixingren (北杏仁) → [Kuxingren (bitter apricot kernel)](03-fruits-and-seeds.md#71-kuxingren-bitter-apricot-kernel)
@@ -86,7 +86,7 @@
 ## C
 
 - **[Cangerzi](09-toxic-herbs-and-poisonous-look-alikes.md#410-canger-seedlings-and-cangerzi-cocklebur)** (苍耳子) ☠️ · Toxic Herbs and Poisonous Look-alikes
-- **[Cangzhu (atractylodes rhizome)](01-roots-and-rhizomes-1.md#51-cangzhu-atractylodes-rhizome)** (苍术) · Roots and Rhizomes (1)
+- **[Cangzhu (atractylodes rhizome)](01-roots-and-rhizomes-1.md#51-cangzhu-atractylodes-rhizome)** (苍术) · Roots and Rhizomes (Part 1)
 - Canqiang (蚕羌) → [Qianghuo (notopterygium rhizome)](01-roots-and-rhizomes-1.md#44-qianghuo-notopterygium-rhizome)
 - Cansanqi (参三七) → [Sanqi (notoginseng)](01-roots-and-rhizomes-1.md#28-sanqi-notoginseng)
 - **[Caoguo (tsaoko fruit)](03-fruits-and-seeds.md#53-caoguo-tsaoko-fruit)** (草果) · Fruits and Seeds
@@ -101,7 +101,7 @@
 - Ceergen (侧耳根) → [Yuxingcao (houttuynia)](04-whole-herbs.md#23-yuxingcao-houttuynia)
 - Cenpi (梣皮) → [Qinpi (ash bark)](06-barks-stems-and-woods.md#15-qinpi-ash-bark)
 - Chaige (柴葛) → [Gegen (kudzu root)](01-roots-and-rhizomes-1.md#41-gegen-kudzu-root)
-- **[Chaihu (bupleurum root)](01-roots-and-rhizomes-1.md#42-chaihu-bupleurum-root)** (柴胡) · Roots and Rhizomes (1)
+- **[Chaihu (bupleurum root)](01-roots-and-rhizomes-1.md#42-chaihu-bupleurum-root)** (柴胡) · Roots and Rhizomes (Part 1)
 - Chala (茶辣) → [Wuzhuyu (evodia fruit)](03-fruits-and-seeds.md#61-wuzhuyu-evodia-fruit)
 - Changshoucai (长寿菜) → [Machixian (purslane)](04-whole-herbs.md#25-machixian-purslane)
 - **[Chansu (toad venom)](09-toxic-herbs-and-poisonous-look-alikes.md#221-chansu-toad-venom)** (蟾酥) ☠️ · Toxic Herbs and Poisonous Look-alikes
@@ -116,7 +116,7 @@
 - **[Cheqianzi (plantain seed)](03-fruits-and-seeds.md#55-cheqianzi-plantain-seed)** (车前子) · Fruits and Seeds
 - Chesipi (扯丝皮) → [Duzhong (eucommia bark)](06-barks-stems-and-woods.md#11-duzhong-eucommia-bark)
 - Chijian (赤箭) → [Tianma (gastrodia tuber)](01-roots-and-rhizomes-1.md#52-tianma-gastrodia-tuber)
-- **[Chishao (red peony root)](01-roots-and-rhizomes-1.md#23-chishao-red-peony-root)** (赤芍) · Roots and Rhizomes (1)
+- **[Chishao (red peony root)](01-roots-and-rhizomes-1.md#23-chishao-red-peony-root)** (赤芍) · Roots and Rhizomes (Part 1)
 - Chishaoyao (赤芍药) → [Chishao (red peony root)](01-roots-and-rhizomes-1.md#23-chishao-red-peony-root)
 - Chishouwu (赤首乌) → [Heshouwu (fleeceflower root)](01-roots-and-rhizomes-1.md#26-heshouwu-fleeceflower-root)
 - Chisu (赤苏) → [Zisuye (perilla leaf)](05-flowers-and-leaves.md#42-zisuye-perilla-leaf)
@@ -139,7 +139,7 @@
 - **[Chuanmutong (clematis stem)](06-barks-stems-and-woods.md#39-chuanmutong-clematis-stem)** (川木通) · Barks, Stems and Woods
 - **[Chuanniuxi (cyathula root)](02-roots-and-rhizomes-2.md#22-chuanniuxi-cyathula-root)** (川牛膝) · Roots and Rhizomes (Part 2)
 - Chuanpu (川朴) → [Houpo (magnolia bark)](06-barks-stems-and-woods.md#12-houpo-magnolia-bark)
-- **[Chuanxiong (Sichuan lovage rhizome)](01-roots-and-rhizomes-1.md#24-chuanxiong-sichuan-lovage-rhizome)** (川芎) · Roots and Rhizomes (1)
+- **[Chuanxiong (Sichuan lovage rhizome)](01-roots-and-rhizomes-1.md#24-chuanxiong-sichuan-lovage-rhizome)** (川芎) · Roots and Rhizomes (Part 1)
 - **[Chuanshanjia (pangolin scales)](08-animal-and-mineral-medicines.md#32-chuanshanjia-pangolin-scales)** (穿山甲) · Animal and Mineral Medicines
 - Chuanshengma (川升麻) → [Shengma (cimicifuga rhizome)](01-roots-and-rhizomes-1.md#47-shengma-cimicifuga-rhizome)
 - **[Chuanwu](09-toxic-herbs-and-poisonous-look-alikes.md#21-chuanwu-caowu-fuzi-aconite)** (川乌) ☠️ · Toxic Herbs and Poisonous Look-alikes
@@ -170,10 +170,10 @@
 - Dajinqiancao (大金钱草) → [Jinqiancao (lysimachia)](04-whole-herbs.md#33-jinqiancao-lysimachia)
 - Dalizi (大力子) → [Niubangzi (burdock fruit)](03-fruits-and-seeds.md#44-niubangzi-burdock-fruit)
 - Damaren (大麻仁) → [Huomaren (hemp seed)](03-fruits-and-seeds.md#74-huomaren-hemp-seed)
-- **[Danggui (Chinese angelica root)](01-roots-and-rhizomes-1.md#21-danggui-chinese-angelica-root)** (当归) · Roots and Rhizomes (1)
-- **[Dangshen (codonopsis root)](01-roots-and-rhizomes-1.md#13-dangshen-codonopsis-root)** (党参) · Roots and Rhizomes (1)
+- **[Danggui (Chinese angelica root)](01-roots-and-rhizomes-1.md#21-danggui-chinese-angelica-root)** (当归) · Roots and Rhizomes (Part 1)
+- **[Dangshen (codonopsis root)](01-roots-and-rhizomes-1.md#13-dangshen-codonopsis-root)** (党参) · Roots and Rhizomes (Part 1)
 - Danpi (丹皮) → [Mudanpi (tree peony root bark)](06-barks-stems-and-woods.md#21-mudanpi-tree-peony-root-bark)
-- **[Danshen (red sage root)](01-roots-and-rhizomes-1.md#27-danshen-red-sage-root)** (丹参) · Roots and Rhizomes (1)
+- **[Danshen (red sage root)](01-roots-and-rhizomes-1.md#27-danshen-red-sage-root)** (丹参) · Roots and Rhizomes (Part 1)
 - Danzhuru (淡竹茹) → [Zhuru (bamboo shavings)](06-barks-stems-and-woods.md#42-zhuru-bamboo-shavings)
 - **[Danzhuye (lophatherum)](04-whole-herbs.md#210-danzhuye-lophatherum)** (淡竹叶) · Whole Herbs
 - **[Daqingye (isatis leaf)](05-flowers-and-leaves.md#43-daqingye-isatis-leaf)** (大青叶) · Flowers and Leaves
@@ -190,7 +190,7 @@
 - Diding (地丁) → [Zihuadiding (Yedo violet)](04-whole-herbs.md#22-zihuadiding-yedo-violet)
 - Diguaermiao (地瓜儿苗) → [Zelan (bugleweed)](04-whole-herbs.md#42-zelan-bugleweed)
 - **[Digupi (goji root bark)](06-barks-stems-and-woods.md#22-digupi-goji-root-bark)** (地骨皮) · Barks, Stems and Woods
-- **[Dihuang (rehmannia root)](01-roots-and-rhizomes-1.md#25-dihuang-rehmannia-root)** (地黄) · Roots and Rhizomes (1)
+- **[Dihuang (rehmannia root)](01-roots-and-rhizomes-1.md#25-dihuang-rehmannia-root)** (地黄) · Roots and Rhizomes (Part 1)
 - **[Dilong (earthworm)](08-animal-and-mineral-medicines.md#23-dilong-earthworm)** (地龙) · Animal and Mineral Medicines
 - Dimaoqiu (地毛球) → [Suoyang (cynomorium)](04-whole-herbs.md#55-suoyang-cynomorium)
 - Dingfengcao (定风草) → [Tianma (gastrodia tuber)](01-roots-and-rhizomes-1.md#52-tianma-gastrodia-tuber)
@@ -208,7 +208,7 @@
 - Dongshu (冬术) → [Baizhu (white atractylodes rhizome)](01-roots-and-rhizomes-1.md#16-baizhu-white-atractylodes-rhizome)
 - **[Doukou (round cardamom)](03-fruits-and-seeds.md#52-doukou-round-cardamom)** (豆蔻) · Fruits and Seeds
 - Dubei (肚倍) → [Wubeizi (Chinese gall)](07-fungi-algae-resins-and-others.md#41-wubeizi-chinese-gall)
-- **[Duhuo (pubescent angelica root)](01-roots-and-rhizomes-1.md#45-duhuo-pubescent-angelica-root)** (独活) · Roots and Rhizomes (1)
+- **[Duhuo (pubescent angelica root)](01-roots-and-rhizomes-1.md#45-duhuo-pubescent-angelica-root)** (独活) · Roots and Rhizomes (Part 1)
 - Duizuocao (对座草) → [Jinqiancao (lysimachia)](04-whole-herbs.md#33-jinqiancao-lysimachia)
 - Dumao (独茅) → [Xianmao (golden eye-grass rhizome)](02-roots-and-rhizomes-2.md#66-xianmao-golden-eye-grass-rhizome)
 - **[Duqin (water hemlock)](09-toxic-herbs-and-poisonous-look-alikes.md#43-duqin-water-hemlock-vs-shuiqin-water-dropwort-and-yehuluobo-wild-carrot)** (毒芹) ☠️ · Toxic Herbs and Poisonous Look-alikes
@@ -227,7 +227,7 @@
 
 ## F
 
-- **[Fangfeng (saposhnikovia root)](01-roots-and-rhizomes-1.md#43-fangfeng-saposhnikovia-root)** (防风) · Roots and Rhizomes (1)
+- **[Fangfeng (saposhnikovia root)](01-roots-and-rhizomes-1.md#43-fangfeng-saposhnikovia-root)** (防风) · Roots and Rhizomes (Part 1)
 - Fanhonghua (番红花) → [Xihonghua (saffron)](05-flowers-and-leaves.md#22-xihonghua-saffron)
 - Fanshi (矾石) → [Baifan (alum)](08-animal-and-mineral-medicines.md#48-baifan-alum)
 - **[Fanxieye (senna leaf)](05-flowers-and-leaves.md#61-fanxieye-senna-leaf)** (番泻叶) · Flowers and Leaves
@@ -247,13 +247,13 @@
 
 ## G
 
-- **[Gancao (liquorice root)](01-roots-and-rhizomes-1.md#15-gancao-liquorice-root)** (甘草) · Roots and Rhizomes (1)
+- **[Gancao (liquorice root)](01-roots-and-rhizomes-1.md#15-gancao-liquorice-root)** (甘草) · Roots and Rhizomes (Part 1)
 - **[Ganjiang](02-roots-and-rhizomes-2.md#61-ganjiang-and-shengjiang-dried-and-fresh-ginger)** (干姜) · Roots and Rhizomes (Part 2)
 - Ganjiangpian (干姜片) → [Ganjiang](02-roots-and-rhizomes-2.md#61-ganjiang-and-shengjiang-dried-and-fresh-ginger)
 - Ganshi (甘石) → [Luganshi (calamine)](08-animal-and-mineral-medicines.md#47-luganshi-calamine)
 - **[Gansui (kansui root)](09-toxic-herbs-and-poisonous-look-alikes.md#28-gansui-kansui-root)** (甘遂) ☠️ · Toxic Herbs and Poisonous Look-alikes
 - Ganzao (干枣) → [Dazao (jujube)](03-fruits-and-seeds.md#15-dazao-jujube)
-- **[Gegen (kudzu root)](01-roots-and-rhizomes-1.md#41-gegen-kudzu-root)** (葛根) · Roots and Rhizomes (1)
+- **[Gegen (kudzu root)](01-roots-and-rhizomes-1.md#41-gegen-kudzu-root)** (葛根) · Roots and Rhizomes (Part 1)
 - Geqingpi (个青皮) → [Qingpi (green tangerine peel)](03-fruits-and-seeds.md#32-qingpi-green-tangerine-peel)
 - Getenggen (葛藤根) → [Gegen (kudzu root)](01-roots-and-rhizomes-1.md#41-gegen-kudzu-root)
 - Gongdingxiang (公丁香) → [Dingxiang (clove)](05-flowers-and-leaves.md#35-dingxiang-clove)
@@ -313,7 +313,7 @@
 - Heiguzi (黑故子) → [Buguzhi (psoralea fruit)](03-fruits-and-seeds.md#14-buguzhi-psoralea-fruit)
 - Heikunbu (黑昆布) → [Kunbu (kelp)](07-fungi-algae-resins-and-others.md#22-kunbu-kelp)
 - Heisuzi (黑苏子) → [Zisuzi (perilla fruit)](03-fruits-and-seeds.md#73-zisuzi-perilla-fruit)
-- **[Heshouwu (fleeceflower root)](01-roots-and-rhizomes-1.md#26-heshouwu-fleeceflower-root)** (何首乌) · Roots and Rhizomes (1)
+- **[Heshouwu (fleeceflower root)](01-roots-and-rhizomes-1.md#26-heshouwu-fleeceflower-root)** (何首乌) · Roots and Rhizomes (Part 1)
 - **[Heye (lotus leaf)](05-flowers-and-leaves.md#44-heye-lotus-leaf)** (荷叶) · Flowers and Leaves
 - Hongchaihu (红柴胡) → [Chaihu (bupleurum root)](01-roots-and-rhizomes-1.md#42-chaihu-bupleurum-root)
 - **[Hongdaji](09-toxic-herbs-and-poisonous-look-alikes.md#29-jingdaji-and-hongdaji-peking-spurge-root-and-knoxia-root)** (红大戟) ☠️ · Toxic Herbs and Poisonous Look-alikes
@@ -346,12 +346,12 @@
 - Huanghuadiding (黄花地丁) → [Pugongying (dandelion)](04-whole-herbs.md#21-pugongying-dandelion)
 - Huanghuahao (黄花蒿) → [Qinghao (sweet wormwood)](04-whole-herbs.md#211-qinghao-sweet-wormwood)
 - **[Huangjing (polygonatum rhizome)](02-roots-and-rhizomes-2.md#16-huangjing-polygonatum-rhizome)** (黄精) · Roots and Rhizomes (Part 2)
-- **[Huanglian (coptis rhizome)](01-roots-and-rhizomes-1.md#31-huanglian-coptis-rhizome)** (黄连) · Roots and Rhizomes (1)
+- **[Huanglian (coptis rhizome)](01-roots-and-rhizomes-1.md#31-huanglian-coptis-rhizome)** (黄连) · Roots and Rhizomes (Part 1)
 - Huanglongwei (黄龙尾) → [Xianhecao (hairy agrimony)](04-whole-herbs.md#43-xianhecao-hairy-agrimony)
-- **[Huangqi (astragalus root)](01-roots-and-rhizomes-1.md#14-huangqi-astragalus-root)** (黄芪) · Roots and Rhizomes (1)
+- **[Huangqi (astragalus root)](01-roots-and-rhizomes-1.md#14-huangqi-astragalus-root)** (黄芪) · Roots and Rhizomes (Part 1)
 - Huangqi (黄耆) → [Huangqi (astragalus root)](01-roots-and-rhizomes-1.md#14-huangqi-astragalus-root)
 - Huangqiao (黄翘) → [Lianqiao (forsythia fruit)](03-fruits-and-seeds.md#42-lianqiao-forsythia-fruit)
-- **[Huangqin (Baikal skullcap root)](01-roots-and-rhizomes-1.md#32-huangqin-baikal-skullcap-root)** (黄芩) · Roots and Rhizomes (1)
+- **[Huangqin (Baikal skullcap root)](01-roots-and-rhizomes-1.md#32-huangqin-baikal-skullcap-root)** (黄芩) · Roots and Rhizomes (Part 1)
 - Huangsiyujin (黄丝郁金) → [Yujin (curcuma root tuber)](02-roots-and-rhizomes-2.md#32-yujin-curcuma-root-tuber)
 - Huangsizi (黄丝子) → [Tusizi (dodder seed)](03-fruits-and-seeds.md#13-tusizi-dodder-seed)
 - Huangzhizi (黄栀子) → [Zhizi (gardenia fruit)](03-fruits-and-seeds.md#41-zhizi-gardenia-fruit)
@@ -393,7 +393,7 @@
 - Jiayuke (甲鱼壳) → [Biejia (turtle shell)](08-animal-and-mineral-medicines.md#14-biejia-turtle-shell)
 - **[Jiazhutao (oleander)](09-toxic-herbs-and-poisonous-look-alikes.md#415-jiazhutao-oleander)** (夹竹桃) ☠️ · Toxic Herbs and Poisonous Look-alikes
 - Jicai (蕺菜) → [Yuxingcao (houttuynia)](04-whole-herbs.md#23-yuxingcao-houttuynia)
-- **[Jiegeng (platycodon root)](01-roots-and-rhizomes-1.md#53-jiegeng-platycodon-root)** (桔梗) · Roots and Rhizomes (1)
+- **[Jiegeng (platycodon root)](01-roots-and-rhizomes-1.md#53-jiegeng-platycodon-root)** (桔梗) · Roots and Rhizomes (Part 1)
 - Jihuangpi (鸡黄皮) → [Jineijin (chicken gizzard lining)](08-animal-and-mineral-medicines.md#210-jineijin-chicken-gizzard-lining)
 - Jinbuhuan (金不换) → [Sanqi (notoginseng)](01-roots-and-rhizomes-1.md#28-sanqi-notoginseng)
 - Jinchaishihu (金钗石斛) → [Shihu (dendrobium)](04-whole-herbs.md#52-shihu-dendrobium)
@@ -550,7 +550,7 @@
 - Naizhicao (奶汁草) → [Pugongying (dandelion)](04-whole-herbs.md#21-pugongying-dandelion)
 - Nanbohe (南薄荷) → [Bohe (mint)](04-whole-herbs.md#11-bohe-mint)
 - Nancangzhu (南苍术) → [Cangzhu (atractylodes rhizome)](01-roots-and-rhizomes-1.md#51-cangzhu-atractylodes-rhizome)
-- **[Nanshashen (adenophora root)](01-roots-and-rhizomes-1.md#54-nanshashen-adenophora-root)** (南沙参) · Roots and Rhizomes (1)
+- **[Nanshashen (adenophora root)](01-roots-and-rhizomes-1.md#54-nanshashen-adenophora-root)** (南沙参) · Roots and Rhizomes (Part 1)
 - Nanwujiapi (南五加皮) → [Wujiapi (acanthopanax root bark)](06-barks-stems-and-woods.md#25-wujiapi-acanthopanax-root-bark)
 - **[Naoyanghua (yellow azalea flower)](09-toxic-herbs-and-poisonous-look-alikes.md#215-naoyanghua-yellow-azalea-flower)** (闹羊花) ☠️ · Toxic Herbs and Poisonous Look-alikes
 - Nenguizhi (嫩桂枝) → [Guizhi (cassia twig)](06-barks-stems-and-woods.md#31-guizhi-cassia-twig)
@@ -590,7 +590,7 @@
 
 - Qiai (蕲艾) → [Aiye (mugwort leaf)](05-flowers-and-leaves.md#53-aiye-mugwort-leaf)
 - **[Qiandan (red lead)](09-toxic-herbs-and-poisonous-look-alikes.md#226-qiandan-red-lead)** (铅丹) ☠️ · Toxic Herbs and Poisonous Look-alikes
-- **[Qianghuo (notopterygium rhizome)](01-roots-and-rhizomes-1.md#44-qianghuo-notopterygium-rhizome)** (羌活) · Roots and Rhizomes (1)
+- **[Qianghuo (notopterygium rhizome)](01-roots-and-rhizomes-1.md#44-qianghuo-notopterygium-rhizome)** (羌活) · Roots and Rhizomes (Part 1)
 - **[Qianjinzi (caper spurge seed)](09-toxic-herbs-and-poisonous-look-alikes.md#212-qianjinzi-caper-spurge-seed)** (千金子) ☠️ · Toxic Herbs and Poisonous Look-alikes
 - **[Qianshi (euryale seed)](03-fruits-and-seeds.md#27-qianshi-euryale-seed)** (芡实) · Fruits and Seeds
 - Qibaizhi (祁白芷) → [Baizhi (Dahurian angelica root)](01-roots-and-rhizomes-1.md#46-baizhi-dahurian-angelica-root)
@@ -617,7 +617,7 @@
 
 - Rendonghua (忍冬花) → [Jinyinhua (honeysuckle flower)](05-flowers-and-leaves.md#11-jinyinhua-honeysuckle-flower)
 - **[Rendongteng (honeysuckle stem)](06-barks-stems-and-woods.md#35-rendongteng-honeysuckle-stem)** (忍冬藤) · Barks, Stems and Woods
-- **[Renshen (ginseng)](01-roots-and-rhizomes-1.md#11-renshen-ginseng)** (人参) · Roots and Rhizomes (1)
+- **[Renshen (ginseng)](01-roots-and-rhizomes-1.md#11-renshen-ginseng)** (人参) · Roots and Rhizomes (Part 1)
 - Ronghua (绒花) → [Hehuanhua (silk tree flower)](05-flowers-and-leaves.md#34-hehuanhua-silk-tree-flower)
 - Ronghuashupi (绒花树皮) → [Hehuanpi (silk tree bark)](06-barks-stems-and-woods.md#16-hehuanpi-silk-tree-bark)
 - **[Roucongrong (cistanche)](04-whole-herbs.md#54-roucongrong-cistanche)** (肉苁蓉) · Whole Herbs
@@ -633,7 +633,7 @@
 - Sangpi (桑皮) → [Sangbaipi (white mulberry root bark)](06-barks-stems-and-woods.md#23-sangbaipi-white-mulberry-root-bark)
 - **[Sangye (mulberry leaf)](05-flowers-and-leaves.md#41-sangye-mulberry-leaf)** (桑叶) · Flowers and Leaves
 - **[Sangzhi (mulberry twig)](06-barks-stems-and-woods.md#32-sangzhi-mulberry-twig)** (桑枝) · Barks, Stems and Woods
-- **[Sanqi (notoginseng)](01-roots-and-rhizomes-1.md#28-sanqi-notoginseng)** (三七) · Roots and Rhizomes (1)
+- **[Sanqi (notoginseng)](01-roots-and-rhizomes-1.md#28-sanqi-notoginseng)** (三七) · Roots and Rhizomes (Part 1)
 - Sanzhijiuyecao (三枝九叶草) → [Yinyanghuo (epimedium)](04-whole-herbs.md#53-yinyanghuo-epimedium)
 - Shamorenshen (沙漠人参) → [Roucongrong (cistanche)](04-whole-herbs.md#54-roucongrong-cistanche)
 - Shanchagen (山茶根) → [Huangqin (Baikal skullcap root)](01-roots-and-rhizomes-1.md#32-huangqin-baikal-skullcap-root)
@@ -643,7 +643,7 @@
 - Shanlihong (山里红) → [Shanzha (hawthorn fruit)](03-fruits-and-seeds.md#35-shanzha-hawthorn-fruit)
 - Shanshiliu (山石榴) → [Jinyingzi (Cherokee rose hip)](03-fruits-and-seeds.md#24-jinyingzi-cherokee-rose-hip)
 - Shantaoren (山桃仁) → [Taoren (peach kernel)](03-fruits-and-seeds.md#72-taoren-peach-kernel)
-- **[Shanyao (Chinese yam)](01-roots-and-rhizomes-1.md#17-shanyao-chinese-yam)** (山药) · Roots and Rhizomes (1)
+- **[Shanyao (Chinese yam)](01-roots-and-rhizomes-1.md#17-shanyao-chinese-yam)** (山药) · Roots and Rhizomes (Part 1)
 - Shanyurou (山萸肉) → [Shanzhuyu (cornus fruit)](03-fruits-and-seeds.md#21-shanzhuyu-cornus-fruit)
 - Shanzaoren (山枣仁) → [Suanzaoren (sour jujube seed)](03-fruits-and-seeds.md#28-suanzaoren-sour-jujube-seed)
 - **[Shanzha (hawthorn fruit)](03-fruits-and-seeds.md#35-shanzha-hawthorn-fruit)** (山楂) · Fruits and Seeds
@@ -656,7 +656,7 @@
 - **[Shengbanxia (raw pinellia)](09-toxic-herbs-and-poisonous-look-alikes.md#24-shengbanxia-raw-pinellia)** (生半夏) ☠️ · Toxic Herbs and Poisonous Look-alikes
 - Shengdi (生地) → [Dihuang (rehmannia root)](01-roots-and-rhizomes-1.md#25-dihuang-rehmannia-root)
 - **[Shengjiang](02-roots-and-rhizomes-2.md#61-ganjiang-and-shengjiang-dried-and-fresh-ginger)** (生姜) · Roots and Rhizomes (Part 2)
-- **[Shengma (cimicifuga rhizome)](01-roots-and-rhizomes-1.md#47-shengma-cimicifuga-rhizome)** (升麻) · Roots and Rhizomes (1)
+- **[Shengma (cimicifuga rhizome)](01-roots-and-rhizomes-1.md#47-shengma-cimicifuga-rhizome)** (升麻) · Roots and Rhizomes (Part 1)
 - Shengshigao (生石膏) → [Shigao (gypsum)](08-animal-and-mineral-medicines.md#41-shigao-gypsum)
 - **[Shengtiannanxing (raw arisaema)](09-toxic-herbs-and-poisonous-look-alikes.md#25-shengtiannanxing-raw-arisaema)** (生天南星) ☠️ · Toxic Herbs and Poisonous Look-alikes
 - Shengtoucao (省头草) → [Peilan (fortune's boneset)](04-whole-herbs.md#15-peilan-fortunes-boneset)
@@ -718,7 +718,7 @@
 - **[Tiandong (Chinese asparagus tuber)](02-roots-and-rhizomes-2.md#14-tiandong-chinese-asparagus-tuber)** (天冬) · Roots and Rhizomes (Part 2)
 - Tiangenzi (甜根子) → [Gancao (liquorice root)](01-roots-and-rhizomes-1.md#15-gancao-liquorice-root)
 - Tianlong (天龙) → [Wugong (centipede)](08-animal-and-mineral-medicines.md#25-wugong-centipede)
-- **[Tianma (gastrodia tuber)](01-roots-and-rhizomes-1.md#52-tianma-gastrodia-tuber)** (天麻) · Roots and Rhizomes (1)
+- **[Tianma (gastrodia tuber)](01-roots-and-rhizomes-1.md#52-tianma-gastrodia-tuber)** (天麻) · Roots and Rhizomes (Part 1)
 - Tianmendong (天门冬) → [Tiandong (Chinese asparagus tuber)](02-roots-and-rhizomes-2.md#14-tiandong-chinese-asparagus-tuber)
 - Tianniuxi (甜牛膝) → [Chuanniuxi (cyathula root)](02-roots-and-rhizomes-2.md#22-chuanniuxi-cyathula-root)
 - Tianqi (田七) → [Sanqi (notoginseng)](01-roots-and-rhizomes-1.md#28-sanqi-notoginseng)
@@ -808,7 +808,7 @@
 - Xitieshi (吸铁石) → [Cishi (magnetite)](08-animal-and-mineral-medicines.md#45-cishi-magnetite)
 - Xiutiebang (锈铁棒) → [Suoyang (cynomorium)](04-whole-herbs.md#55-suoyang-cynomorium)
 - **[Xixin (asarum)](04-whole-herbs.md#56-xixin-asarum)** (细辛) · Whole Herbs
-- **[Xiyangshen (American ginseng)](01-roots-and-rhizomes-1.md#12-xiyangshen-american-ginseng)** (西洋参) · Roots and Rhizomes (1)
+- **[Xiyangshen (American ginseng)](01-roots-and-rhizomes-1.md#12-xiyangshen-american-ginseng)** (西洋参) · Roots and Rhizomes (Part 1)
 - Xizhuwujiapi (细柱五加皮) → [Wujiapi (acanthopanax root bark)](06-barks-stems-and-woods.md#25-wujiapi-acanthopanax-root-bark)
 - **[Xuanshen (figwort root)](02-roots-and-rhizomes-2.md#12-xuanshen-figwort-root)** (玄参) · Roots and Rhizomes (Part 2)
 - **[Xuanfuhua (inula flower)](05-flowers-and-leaves.md#33-xuanfuhua-inula-flower)** (旋覆花) · Flowers and Leaves

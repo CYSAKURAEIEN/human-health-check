@@ -856,7 +856,7 @@ For identifying genuine honeysuckle flower and honeysuckle stem, see [Flowers an
   root: do not buy it to steep in liquor
 ```
 
-For identifying genuine ginseng, see [Roots and Rhizomes (1): *Renshen*](01-roots-and-rhizomes-1.md#11-renshen-ginseng).
+For identifying genuine ginseng, see [Roots and Rhizomes (Part 1): *Renshen*](01-roots-and-rhizomes-1.md#11-renshen-ginseng).
 
 ### 4.5 Jusanqi (Tusanqi, gynura) vs Sanqi (notoginseng)
 
@@ -884,7 +884,7 @@ For identifying genuine ginseng, see [Roots and Rhizomes (1): *Renshen*](01-root
   exactly why common names are unreliable
 ```
 
-For identifying genuine *Sanqi*, see [Roots and Rhizomes (1): *Sanqi*](01-roots-and-rhizomes-1.md#28-sanqi-notoginseng).
+For identifying genuine *Sanqi*, see [Roots and Rhizomes (Part 1): *Sanqi*](01-roots-and-rhizomes-1.md#28-sanqi-notoginseng).
 
 ### 4.6 Xiangjiapi (periploca root bark) vs Wujiapi (acanthopanax root bark)
 

@@ -2,7 +2,7 @@
 
 > **Whole herbs are the herbs you are most likely to collect in the wild. They grow by roads, on field banks and on riverbanks, so they are quick to recognise and just as quick to mistake. Crushing a leaf and smelling it, or snapping a stem to see whether it bleeds white sap, is more useful than remembering the name**
 
-This chapter covers 32 common whole-herb medicines (the part used is the whole plant, the aerial parts, the stems and leaves, or a fleshy stem with scale leaves; *Xiakucao* uses the fruit spike and *Xixin* only the root and rhizome, but by custom both are placed here). They are roughly grouped by action into five groups: exterior-releasing and aromatic; heat-clearing and detoxifying; damp-draining and jaundice-relieving; blood-moving and bleeding-stopping; and wind-dispelling, tonic and others. General methods for identification, harvesting, drying and storage are in the [General Principles](00-general-principles.md) and are not repeated here. How to grow mint, dandelion, houttuynia, plantain, purslane, self-heal and motherwort is already covered in [Medicinal Plants: Identification and Growing](../04-farming-and-animal-husbandry/04-medicinal-plants.md); this chapter covers only identification and collection.
+This chapter covers 32 common whole-herb medicines (the part used is the whole plant, the aerial parts, the stems and leaves, or a fleshy stem with scale leaves; *Xiakucao* uses the fruit spike and *Xixin* only the root and rhizome, but by custom both are placed here). They are roughly grouped by action into five groups: exterior-releasing and aromatic; heat-clearing and toxin-removing; damp-draining and jaundice-relieving; blood-moving and bleeding-stopping; and wind-dispelling, tonic and others. General methods for identification, harvesting, drying and storage are in the [General Principles](00-general-principles.md) and are not repeated here. How to grow mint, dandelion, houttuynia, plantain, purslane, self-heal and motherwort is already covered in [Medicinal Plants: Identification and Growing](../04-farming-and-animal-husbandry/04-medicinal-plants.md); this chapter covers only identification and collection.
 
 ## ⚠️ Read these first
 
@@ -66,14 +66,14 @@ The "Toxicity / protection" column gives toxicity noted in the Pharmacopoeia, th
 | *Xiangru* (mosla) | Aerial parts | Induces sweating to release the exterior, transforms damp | Not for those with exterior deficiency and heavy sweating | [1.4](#14-xiangru-mosla) |
 | *Peilan* (fortune's boneset) | Aerial parts | Aromatically transforms damp | Contains pyrrolizidine alkaloids; do not take in large amounts for long | [1.5](#15-peilan-fortunes-boneset) |
 | *Mahuang* (ephedra) | Herbaceous stem | Induces sweating to dispel cold, relieves wheezing | ⚠️ State-controlled; forbidden with high blood pressure or heart disease | [1.6](#16-mahuang-ephedra) |
-| *Pugongying* (dandelion) | Whole plant | Clears heat and detoxifies, reduces swelling and dissipates lumps | Beware mixing in sow thistle and similar | [2.1](#21-pugongying-dandelion) |
-| *Zihuadiding* (Yedo violet) | Whole plant | Clears heat and detoxifies, cools the blood and reduces swelling | — | [2.2](#22-zihuadiding-yedo-violet) |
-| *Yuxingcao* (houttuynia) | Whole plant or aerial parts | Clears heat and detoxifies, reduces abscesses and expels pus | — | [2.3](#23-yuxingcao-houttuynia) |
-| *Baijiangcao* (patrinia) | Whole plant | Clears heat and detoxifies, reduces abscesses and expels pus | Not in the Pharmacopoeia; different plants under the same name in north and south | [2.4](#24-baijiangcao-patrinia) |
-| *Machixian* (purslane) | Aerial parts | Clears heat and detoxifies, cools the blood and stops dysentery | ⚠️ Beware mixing in spurges (white milky sap) | [2.5](#25-machixian-purslane) |
-| *Chuanxinlian* (andrographis) | Aerial parts | Clears heat and detoxifies, cools the blood | Extremely bitter, harms the stomach | [2.6](#26-chuanxinlian-andrographis) |
-| *Baihuasheshecao* (oldenlandia) | Whole plant | Clears heat and detoxifies, drains damp | Not in the Pharmacopoeia; cannot replace cancer treatment | [2.7](#27-baihuasheshecao-oldenlandia) |
-| *Banzhilian* (barbed skullcap) | Whole plant | Clears heat and detoxifies, resolves stasis and promotes urination | Not advisable in pregnancy | [2.8](#28-banzhilian-barbed-skullcap) |
+| *Pugongying* (dandelion) | Whole plant | Clears heat and removes toxins, reduces swelling and dissipates lumps | Beware mixing in sow thistle and similar | [2.1](#21-pugongying-dandelion) |
+| *Zihuadiding* (Yedo violet) | Whole plant | Clears heat and removes toxins, cools the blood and reduces swelling | — | [2.2](#22-zihuadiding-yedo-violet) |
+| *Yuxingcao* (houttuynia) | Whole plant or aerial parts | Clears heat and removes toxins, reduces abscesses and expels pus | — | [2.3](#23-yuxingcao-houttuynia) |
+| *Baijiangcao* (patrinia) | Whole plant | Clears heat and removes toxins, reduces abscesses and expels pus | Not in the Pharmacopoeia; different plants under the same name in north and south | [2.4](#24-baijiangcao-patrinia) |
+| *Machixian* (purslane) | Aerial parts | Clears heat and removes toxins, cools the blood and stops dysentery | ⚠️ Beware mixing in spurges (white milky sap) | [2.5](#25-machixian-purslane) |
+| *Chuanxinlian* (andrographis) | Aerial parts | Clears heat and removes toxins, cools the blood | Extremely bitter, harms the stomach | [2.6](#26-chuanxinlian-andrographis) |
+| *Baihuasheshecao* (oldenlandia) | Whole plant | Clears heat and removes toxins, drains damp | Not in the Pharmacopoeia; cannot replace cancer treatment | [2.7](#27-baihuasheshecao-oldenlandia) |
+| *Banzhilian* (barbed skullcap) | Whole plant | Clears heat and removes toxins, resolves stasis and promotes urination | Not advisable in pregnancy | [2.8](#28-banzhilian-barbed-skullcap) |
 | *Xiakucao* (self-heal spike) | Fruit spike | Clears the liver and drains fire, dissipates lumps | — | [2.9](#29-xiakucao-self-heal-spike) |
 | *Danzhuye* (lophatherum) | Stems and leaves | Clears heat and relieves restlessness, promotes urination | Not bamboo leaves | [2.10](#210-danzhuye-lophatherum) |
 | *Qinghao* (sweet wormwood) | Aerial parts | Clears deficiency heat, checks malaria | ⚠️ Cannot replace antimalarial drugs | [2.11](#211-qinghao-sweet-wormwood) |
@@ -202,7 +202,7 @@ Most herbs in this group are aromatic plants of the mint family (Lamiaceae) and 
 
 ## 2. Heat-clearing and detoxifying herbs
 
-This group contains the commonest weeds by roads and fields, and many of them are also wild vegetables. Most are cold in nature and bitter in taste, so **people with a cold, weak digestion who often have diarrhoea should not use them much or for long**. "Clearing heat and detoxifying" is not the same as an anti-inflammatory drug: a wound whose redness and swelling is spreading, red streaks, fever, pus-forming infections, appendicitis and pneumonia must all be seen by a doctor.
+This group contains the commonest weeds by roads and fields, and many of them are also wild vegetables. Most are cold in nature and bitter in taste, so **people with a cold, weak digestion who often have diarrhoea should not use them much or for long**. "Clearing heat and removing toxins" is not the same as an anti-inflammatory drug: a wound whose redness and swelling is spreading, red streaks, fever, pus-forming infections, appendicitis and pneumonia must all be seen by a doctor.
 
 ### 2.1 Pugongying (dandelion)
 
@@ -220,7 +220,7 @@ This group contains the commonest weeds by roads and fields, and many of them ar
   - What you really need to avoid is taking **yellow-flowered buttercups** (leaves palmately divided, petals with a waxy shine, no milky sap; poisonous) or **groundsel** (*Senecio*, *Qianliguang*, which contains pyrrolizidine alkaloids) for dandelion
 - **Harvesting and processing**: from spring to autumn, **when the flowers first open**, dig up the whole plant with its root, remove impurities, wash and dry in the sun; young leaves can be picked at any time as a wild vegetable
 - **Storage**: easily gets damp and mouldy; once thoroughly dry, keep in a ventilated, dry place
-- **Actions**: clears heat and detoxifies, reduces swelling and dissipates lumps, promotes urination and relieves painful urination
+- **Actions**: clears heat and removes toxins, reduces swelling and dissipates lumps, promotes urination and relieves painful urination
 - **Dose**: 10-15 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: too large a dose can cause diarrhoea; not for people allergic to daisy-family plants; a red, hot, painful, swollen breast with fever (mastitis) or a lump that does not go down needs a doctor
 - For growing, see [Medicinal Plants – Dandelion](../04-farming-and-animal-husbandry/04-medicinal-plants.md#pugongying-dandelion)
@@ -237,7 +237,7 @@ This group contains the commonest weeds by roads and fields, and many of them ar
 - **Look-alikes**: several plants are called "*Diding*": related violets such as *Viola prionantha* are often mixed in (not poisonous, but not the Pharmacopoeia herb); **Kudiding** (*Corydalis bungeana*, poppy family) is a different herb that contains alkaloids, with leaves finely divided several times and pale purple, long, narrow, tube-shaped flowers; *Mikoudai* (*Tiandiding*, a legume) has purple pea flowers and pinnate leaves. Check "leaf not divided, flower with a spur, capsule splitting in three"
 - **Harvesting and processing**: collect the whole plant in spring and autumn, remove impurities and dry in the sun
 - **Storage**: keep in a ventilated, dry place; protect from damp
-- **Actions**: clears heat and detoxifies, cools the blood and reduces swelling
+- **Actions**: clears heat and removes toxins, cools the blood and reduces swelling
 - **Dose**: 15-30 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: use with caution in people with a cold, weak constitution; boils and abscesses with spreading redness and swelling, red streaks or fever need a doctor (they may need to be cut and drained and treated with antibiotics)
 
@@ -254,7 +254,7 @@ This group contains the commonest weeds by roads and fields, and many of them ar
 - **Look-alikes**: **Chinese lizard's tail** (*Sanbaicao*), in the same family, also grows by water, but its leaves are long-ovate, the leaves next to the flower spike turn white, and **it has no fishy smell**; do not pick a "*Yuxingcao*" that does not smell fishy
 - **Harvesting and processing**: the fresh herb can be cut all year; for the dried herb, cut in summer when stems and leaves are lush and there are many flower spikes, remove impurities and dry in the sun
 - **Storage**: protect the dried herb from damp and seal it; the fishy smell gradually fades
-- **Actions**: clears heat and detoxifies, reduces abscesses and expels pus, promotes urination and relieves painful urination
+- **Actions**: clears heat and removes toxins, reduces abscesses and expels pus, promotes urination and relieves painful urination
 - **Dose**: 15-25 g, **not boiled for long**; double the dose for the fresh herb, decocted or taken as juice; for external use, a suitable amount, pounded and applied, or boiled for steaming and washing (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: people with deficiency-cold should not take much; **severe allergic reactions have been reported with houttuynia injections**, which are different from oral slices; never use any injection yourself; a cough with high fever, shortness of breath, or pus or blood in the sputum needs a doctor
 - For growing, see [Medicinal Plants – Houttuynia](../04-farming-and-animal-husbandry/04-medicinal-plants.md#yuxingcao-fish-mint)
@@ -271,7 +271,7 @@ This group contains the commonest weeds by roads and fields, and many of them ar
 - **Look-alikes**: northern *Baijiang* (field sow thistle) has yellow strap-shaped flowers, white milky sap and alternate leaves, so it is easy to tell from yellow patrinia, which has the "soy-paste smell", opposite leaves and flat clusters of small yellow flowers. Which one to use follows the custom of local TCM practitioners
 - **Harvesting and processing**: dig up the whole plant in summer and autumn, wash and dry in the sun
 - **Storage**: keep in a ventilated, dry place; protect from damp
-- **Actions**: clears heat and detoxifies, reduces abscesses and expels pus, dispels stasis and relieves pain (according to traditional use)
+- **Actions**: clears heat and removes toxins, reduces abscesses and expels pus, dispels stasis and relieves pain (according to traditional use)
 - **Dose**: usually 6-15 g (not in the Pharmacopoeia; from textbooks and experience; use under the guidance of a TCM practitioner)
 - **Cautions**: use with caution in weak digestion or diarrhoea; **pain in the lower right abdomen with fever (suspected appendicitis) must be seen by a doctor**; do not rely on *Baijiangcao*
 
@@ -287,7 +287,7 @@ This group contains the commonest weeds by roads and fields, and many of them ar
 - **Look-alikes (important)**: **spurges** (Euphorbiaceae) such as spotted spurge, *Euphorbia humifusa*, sun spurge and asthma weed also often lie flat on the ground with reddish stems, sometimes in the same plot. **They bleed white milky sap when broken**, and their leaves are thin, small and not fleshy (sun spurge stands upright, with its leaves in a whorl at the top of the stem, the "five clouds"). Spurge sap irritates the skin and eyes, and eating it causes burning pain in the mouth and violent vomiting and diarrhoea. **Anything with white milky sap is never purslane**
 - **Harvesting and processing**: collect in summer and autumn, remove root remnants and impurities, wash, **then steam briefly or scald in boiling water before drying in the sun** (it is fleshy and juicy, so it is very hard to dry directly and rots easily)
 - **Storage**: the dried herb easily gets damp and mouldy; seal once thoroughly dry
-- **Actions**: clears heat and detoxifies, cools the blood and stops bleeding, stops dysentery
+- **Actions**: clears heat and removes toxins, cools the blood and stops bleeding, stops dysentery
 - **Dose**: 9-15 g; for external use, a suitable amount, pounded and applied to the affected area (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner); eating it as a wild vegetable in everyday amounts is safe
 - **Cautions**: cold in nature; people with a cold, weak digestion or diarrhoea should eat little; pregnant women should not eat large amounts or use it as medicine; it contains a fair amount of oxalic acid, so people with kidney stones should not eat much; diarrhoea with high fever, pus and blood in the stool or severe dehydration needs a doctor
 - For growing and eating, see [Medicinal Plants – Purslane](../04-farming-and-animal-husbandry/04-medicinal-plants.md#machixian-purslane)
@@ -308,7 +308,7 @@ This group contains the commonest weeds by roads and fields, and many of them ar
 - **Look-alikes**: many plants have square stems and opposite leaves, but none is anything like as bitter. If it is not bitter, it is not *Chuanxinlian*
 - **Harvesting and processing**: cut in early autumn when stems and leaves are lush and dry in the sun; the leaves contain more active constituents than the stems, so keep as many leaves as possible when harvesting
 - **Storage**: the leaves crumble easily, so handle gently; keep in a dry place
-- **Actions**: clears heat and detoxifies, cools the blood, reduces swelling
+- **Actions**: clears heat and removes toxins, cools the blood, reduces swelling
 - **Dose**: 6-9 g; for external use, a suitable amount (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: bitter and cold, it harms the stomach, so **do not take much or for long**; not advisable with a cold, weak digestion; it can cause rashes and other allergic reactions, and severe allergic reactions have been reported with andrographis-type injections; use with caution in pregnancy
 
@@ -324,7 +324,7 @@ This group contains the commonest weeds by roads and fields, and many of them ar
 - **Look-alikes**: ***Shuixiancao*** (*H. corymbosa*) looks extremely similar and is the most common substitute. Its flowers are **in groups of 2-5 in a flat-topped cluster, on a clear common stalk**; other *Hedyotis* species are also often mixed in. Mixing them up generally does not poison, but they are not the same herb
 - **Harvesting and processing**: collect the whole plant in summer and autumn, wash and dry in the sun
 - **Storage**: keep in a ventilated, dry place; protect from damp
-- **Actions**: clears heat and detoxifies, drains damp and relieves painful urination, reduces abscesses (according to traditional use)
+- **Actions**: clears heat and removes toxins, drains damp and relieves painful urination, reduces abscesses (according to traditional use)
 - **Dose**: usually 15-30 g (not in the Pharmacopoeia; from local standards and experience; use under the guidance of a TCM practitioner)
 - **Cautions**: use with caution in pregnancy; people with a cold, weak digestion should not take it for long. **It is popularly called an "anti-cancer herb", but it cannot replace surgery, chemotherapy, radiotherapy or other proper treatment**. Do not let it delay seeing a doctor
 
@@ -340,7 +340,7 @@ This group contains the commonest weeds by roads and fields, and many of them ar
 - **Look-alikes**: related species such as ***Hanxincao*** (*Scutellaria indica*) are often mixed in, with broader, heart-shaped to ovate leaves hairy on both sides. **Its Chinese name differs by only one character from "*Banbianlian*" (*Lobelia chinensis*, bellflower family, slightly toxic)**: they are two different herbs; do not substitute one for the other by name
 - **Harvesting and processing**: dig up in summer and autumn when stems and leaves are lush, wash and dry in the sun
 - **Storage**: keep in a ventilated, dry place
-- **Actions**: clears heat and detoxifies, resolves stasis and promotes urination
+- **Actions**: clears heat and removes toxins, resolves stasis and promotes urination
 - **Dose**: 15-30 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: not advisable in pregnancy (it resolves stasis); use with caution in blood deficiency. Like *Baihuasheshecao*, **it cannot replace proper cancer treatment**
 
@@ -449,7 +449,7 @@ This group is used for jaundice, difficulty passing urine, urinary stones and th
   - These generally do not poison, but their actions differ; get the herb by the name on the prescription
 - **Harvesting and processing**: collect in summer and autumn, remove impurities and dry in the sun
 - **Storage**: keep in a ventilated, dry place
-- **Actions**: drains damp and relieves jaundice, promotes urination and relieves painful urination, detoxifies and reduces swelling
+- **Actions**: drains damp and relieves jaundice, promotes urination and relieves painful urination, removes toxins and reduces swelling
 - **Dose**: 15-60 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: use with caution in diarrhoea from spleen deficiency. **Renal colic with fever, little or no urine, a large stone, or only one kidney must be seen by a doctor**; do not rely on drinking *Jinqiancao* to "pass the stone". Obstruction with infection can quickly become life-threatening
 
@@ -471,7 +471,7 @@ This group relates to menstruation, bleeding and blood stasis. **Blood-moving he
 - **Look-alikes**: the related ***Xiyeyimucao*** (*Leonurus sibiricus*, with narrower leaf lobes) is often used in its place; ***Xiazhicao*** (*Lagopsis supina*) and ***Zancai*** (*Leonurus pseudomacranthus*), both in the mint family, look similar but have white flowers or leaves that are not deeply divided. The seedling leaves are nearly round, so take care to tell them from seedlings of poisonous **buttercups**: buttercups have round stems, alternate leaves and yellow flowers with a waxy shine
 - **Harvesting and processing**: for the fresh herb, cut from the seedling stage in spring until early summer before flowering; for the dried herb, cut in summer **when stems and leaves are lush and the flowers are not yet open or just opening**, and dry in the sun, or cut into sections and dry in the sun
 - **Storage**: keep in a ventilated, dry place; protect from damp
-- **Actions**: moves blood and regulates menstruation, promotes urination and reduces swelling, clears heat and detoxifies
+- **Actions**: moves blood and regulates menstruation, promotes urination and reduces swelling, clears heat and removes toxins
 - **Dose**: 9-30 g; fresh herb 12-40 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: **not in pregnancy** (the Pharmacopoeia says "use with caution in pregnancy"; it stimulates the uterus, so this book is stricter); not for people with heavy periods or a bleeding tendency; **kidney damage has been reported with large or long-term use, so people with poor kidney function must not use it**; not for people taking anticoagulant or antiplatelet drugs; heavy bleeding, fever or abdominal pain after childbirth needs a doctor
 - For growing and more on identification in the wild, see [Medicinal Plants – Motherwort](../04-farming-and-animal-husbandry/04-medicinal-plants.md#yimucao-chinese-motherwort)
@@ -504,7 +504,7 @@ This group relates to menstruation, bleeding and blood stasis. **Blood-moving he
 - **Look-alikes**: other rose-family plants such as herb bennet (*Geum*, *Shuiyangmei*) also have pinnate leaves, yellow flowers and hooked fruits, but not "large and small leaflets alternating" or thin, long flower spikes; generally not poisonous
 - **Harvesting and processing**: cut in summer and autumn when stems and leaves are lush, remove impurities and dry
 - **Storage**: keep in a ventilated, dry place
-- **Actions**: astringes and stops bleeding, checks malaria, stops dysentery, detoxifies, tonifies deficiency
+- **Actions**: astringes and stops bleeding, checks malaria, stops dysentery, removes toxins, tonifies deficiency
 - **Dose**: 6-12 g; for external use, a suitable amount (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: heavy bleeding, repeated bleeding and bleeding of unknown cause (such as black stools, coughing up blood or blood in the urine) must be seen by a doctor; "checking malaria" likewise cannot replace antimalarial drugs. For stopping bleeding from injuries, see [Wound and Injury Care](../01-first-aid-and-family-health/02-wounds-and-injuries.md)
 
@@ -520,7 +520,7 @@ This group relates to menstruation, bleeding and blood stasis. **Blood-moving he
 - **Look-alikes**: *Daji* (see [4.5](#45-daji-japanese-thistle)). The equally prickly **cocklebur** (*Xanthium*) has broad, triangular, heart-shaped leaves and small jujube-stone-shaped fruits covered in hooked spines; its seedlings and fruits are poisonous; see [Cocklebur seedlings and *Cang'erzi*](09-toxic-herbs-and-poisonous-look-alikes.md#410-canger-seedlings-and-cangerzi-cocklebur)
 - **Harvesting and processing**: cut in summer and autumn when in flower, remove impurities and dry in the sun
 - **Storage**: keep in a ventilated, dry place
-- **Actions**: cools the blood and stops bleeding, disperses stasis, detoxifies and reduces abscesses
+- **Actions**: cools the blood and stops bleeding, disperses stasis, removes toxins and reduces abscesses
 - **Dose**: 5-12 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: use with caution with a cold, weak digestion or no stasis; **blood in the urine or stool, or repeated nosebleeds, must be seen by a doctor to find the cause**
 
@@ -537,7 +537,7 @@ This group relates to menstruation, bleeding and blood stasis. **Blood-moving he
 - **Look-alikes**: plumeless thistle (*Carduus*, *Feilian*) and other *Cirsium* species are often mixed in; generally not poisonous. The difference from cocklebur is as above
 - **Harvesting and processing**: cut the aerial parts in summer and autumn when in flower, remove impurities and dry in the sun
 - **Storage**: keep in a ventilated, dry place
-- **Actions**: cools the blood and stops bleeding, disperses stasis, detoxifies and reduces abscesses
+- **Actions**: cools the blood and stops bleeding, disperses stasis, removes toxins and reduces abscesses
 - **Dose**: 9-15 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: as for *Xiaoji*
 

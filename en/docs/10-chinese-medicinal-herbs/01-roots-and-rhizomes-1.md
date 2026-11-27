@@ -1,4 +1,4 @@
-# Roots and Rhizomes (1)
+# Roots and Rhizomes (Part 1)
 
 > **Know the whole plant before you dig the root. The underground part is the hardest to identify: pokeweed passed off as ginseng and *Gynura* passed off as *Sanqi* both start with "just looking at the root"**
 
@@ -471,7 +471,7 @@ This group is used for colds with fever, headache and body aches, rheumatic pain
 - **Look-alikes**: The rhizome of ***Bupleurum longiradiatum*** (*Dayechaihu*, "large-leaf *Chaihu*") **is toxic**, and the Pharmacopoeia expressly forbids using it as *Chaihu* — its rhizome is **densely ringed with nodes**, and its leaves are broader, clasping the stem at the base. Other species of the same genus (such as *B. marginatum* and *B. bicaule*) are mixed in in some places. The biggest danger is still digging other toxic carrot-family plants by mistake — *Chaihu*'s "grass-like, untoothed simple leaves + small yellow flowers" is the key
 - **Harvesting and processing**: Dig in spring and autumn, remove stems, leaves and soil, dry
 - **Storage**: Protect from damp and insects
-- **Actions**: Disperses and brings down fever, soothes the liver and relieves depression, raises yang *qi*
+- **Actions**: Disperses and brings down fever, soothes the liver and relieves constraint, raises yang *qi*
 - **Dose**: 3-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: Must not be used, or use with caution, in yin deficiency with yang hyperactivity, internal stirring of liver wind, yin deficiency with flaring fire, or counterflow (rising) *qi*; do not take it long term or in large amounts; allergic reactions have been reported to *Chaihu* injection and other preparations — never use them on your own
 
