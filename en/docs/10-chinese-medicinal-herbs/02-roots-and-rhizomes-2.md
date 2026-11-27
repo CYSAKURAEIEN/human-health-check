@@ -2,7 +2,7 @@
 
 > **Roots and rhizomes grow underground, and once dug up all that is left is a piece of "wood". Half the skill of identifying root medicines lies in recognising the plant above ground before you dig; the other half lies in looking at the cut surface and smelling it afterwards.** This chapter covers 36 root and rhizome medicines that nourish yin, tonify the liver and kidneys, invigorate blood and move qi, clear heat and promote urination, resolve phlegm and soothe the throat, and dispel wind-damp.
 
-This chapter continues Chapter 01, "Roots and Rhizomes (Part 1)". General methods for identification, harvesting, drying and storage are in the [General principles](00-general-principles.md); each entry here describes only what is particular to that herb and does not repeat the general principles.
+This chapter continues Chapter 01, "Roots and Rhizomes (1)". General methods for identification, harvesting, drying and storage are in the [General principles](00-general-principles.md); each entry here describes only what is particular to that herb and does not repeat the general principles.
 
 ## ⚠️ Read these first
 
@@ -391,7 +391,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
   - Plant: 1.5-2 m tall; basal leaves very large, triangular-ovate, with winged leaf stalks; flower heads dark purple
   - Dried herb: cylindrical or half-cylindrical, 5-10 cm long, 0.5-5 cm in diameter; surface yellowish-brown to greyish-brown, with distinct wrinkles, lengthwise furrows and side-root scars
   - Firm, hard to break; cut surface greyish-brown to dark brown, greyish-yellow around the edge, cambium ring brown, with radiating lines and **scattered brown dot-like oil cavities**; **distinctive fragrance**; taste slightly bitter
-- **Look-alikes** (important): **Qingmuxiang** is the root of *Aristolochia* (Dutchman's pipe family); it contains aristolochic acid, damages the kidneys and causes cancer, and its standard as a medicine was withdrawn from 2004. The names differ by one character but they are completely different things; see [Herbs containing aristolochic acid](09-toxic-herbs-and-poisonous-look-alikes.md#3-herbs-containing-aristolochic-acid). Tumuxiang (elecampane, daisy family) and Chuanmuxiang (daisy family) are other medicines listed separately in the Pharmacopoeia and cannot be substituted for one another
+- **Look-alikes** (important): **Qingmuxiang** is the root of *Aristolochia* (birthwort family); it contains aristolochic acid, damages the kidneys and causes cancer, and its standard as a medicine was withdrawn from 2004. The names differ by one character but they are completely different things; see [Herbs containing aristolochic acid](09-toxic-herbs-and-poisonous-look-alikes.md#3-herbs-containing-aristolochic-acid). Tumuxiang (elecampane, daisy family) and Chuanmuxiang (daisy family) are other medicines listed separately in the Pharmacopoeia and cannot be substituted for one another
 - **Harvesting and processing**: dig in autumn and winter, remove the soil and fibrous roots, cut into sections, split large ones lengthwise, dry, and then knock off the rough bark
 - **Storage**: contains volatile oil, **prone to oiling and loss of aroma**; keep sealed in a cool place
 - **Actions**: moves qi and relieves pain, strengthens the spleen and aids digestion. Used for distending pain in the chest, flanks and abdomen, diarrhoea or dysentery with straining, undigested food, and loss of appetite
@@ -447,7 +447,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 - **Key identification features**:
   - Plant: a robust perennial herb, 1-2 m tall; **stems hollow and jointed like bamboo, scattered with red or purplish-red spots** (like tiger-skin markings, hence the name "tiger stick"); leaves alternate, broadly ovate; papery stipule sheaths at the nodes; panicles of small white flowers; fruit three-angled, enclosed in winged tepals
   - The young stems taste sour and in some places are eaten as a wild vegetable (only a small amount of the young stems)
-  - Dried herb: mostly short cylindrical sections or irregular thick slices, 1-7 cm long, 0.5-2.5 cm in diameter; bark brownish-black, with lengthwise wrinkles and root scars; on the cut surface the bark is fairly thin and **the wood broad and brownish-yellow**, with radiating rays, and the bark separates fairly easily from the wood; the pith of the rhizome is partitioned or hollow
+  - Dried herb: mostly short cylindrical sections or irregular thick slices, 1-7 cm long, 0.5-2.5 cm in diameter; bark dark brown, with lengthwise wrinkles and root scars; on the cut surface the bark is fairly thin and **the wood broad and brownish-yellow**, with radiating rays, and the bark separates fairly easily from the wood; the pith of the rhizome is partitioned or hollow
   - Very hard; faint smell; taste slightly bitter and astringent
 - **Harvesting and processing**: dig in spring and autumn, remove the fibrous roots, wash, cut into short sections or thick slices while fresh, and sun-dry
 - **Storage**: protect from damp and mould
@@ -457,7 +457,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 
 ### 4.3 Baimaogen (cogongrass rhizome)
 
-- **Baimaogen (Maogen, Simaogen)**: Chinese 白茅根; *Imperata cylindrica* Beauv. var. major (Nees) C. E. Hubb.
+- **Baimaogen (Maogen, Simaogen)**: Chinese 白茅根; *Imperata cylindrica* Beauv. var. *major* (Nees) C. E. Hubb.
 - **Source**: the dried rhizome of *Imperata cylindrica* Beauv. var. *major* (Nees) C. E. Hubb. (cogongrass), grass family
 - **Distribution and habitat**: throughout China; roadsides, hillsides, waste ground, field banks, riverbanks; extremely common, often in large stands
 - **Key identification features**:
@@ -516,7 +516,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 - **Distribution and habitat**: the Yangtze basin and southwards; **on wet rocks beside mountain streams and in shallow water**, often growing in clumps pressed against the rocks
 - **Key identification features**:
   - Plant: an evergreen herb, 20-40 cm tall; leaves basal, long, narrow and sword-shaped, less than 1 cm wide, **without a distinct midrib**, **strongly fragrant when crushed**; the flower spike is a thin cylinder, jutting out at an angle from among the leaves
-  - Dried herb: flattened cylindrical, often curved and branched, 3-20 cm long, 0.3-1 cm in diameter; surface brownish-black or greyish-brown, rough, with unevenly spaced rings, internodes 0.2-0.8 cm long; **triangular leaf scars alternating left and right**
+  - Dried herb: flattened cylindrical, often curved and branched, 3-20 cm long, 0.3-1 cm in diameter; surface dark brown or greyish-brown, rough, with unevenly spaced rings, internodes 0.2-0.8 cm long; **triangular leaf scars alternating left and right**
   - Hard; cut surface fibrous, whitish or slightly reddish, endodermis ring distinct, with many small dots of vascular bundles and brown oil dots; **aromatic**; taste bitter, slightly pungent
 - **Look-alikes**:
   - Zangchangpu (Shuichangpu, sweet flag): leaves broad, **with a distinct midrib**, rhizome thick; listed separately in the Pharmacopoeia, not interchangeable
@@ -589,7 +589,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 - **Distribution and habitat**: Guangxi, Guangdong, Guizhou, Yunnan; rock crevices and thickets in limestone mountains
 - **Key identification features**:
   - Plant: a small shrub, 1-2 m tall; odd-pinnate compound leaves, leaflets elliptic, with short greyish-brown hairs underneath; terminal racemes of yellowish-white pea flowers; pods constricted like a string of beads
-  - Dried herb: the rhizome is irregular and knobbly, often with remains of the stem base on top and several roots below; roots long cylindrical, often branched, 0.7-1.5 cm in diameter; surface brown to brownish-black, with lengthwise wrinkles and horizontal lenticel-like bumps
+  - Dried herb: the rhizome is irregular and knobbly, often with remains of the stem base on top and several roots below; roots long cylindrical, often branched, 0.7-1.5 cm in diameter; surface brown to dark brown, with lengthwise wrinkles and horizontal lenticel-like bumps
   - Very hard, difficult to break; on the cut surface the bark is pale brown and the wood pale yellow; **a beany smell, extremely bitter taste** (do not taste it to identify it)
 - **Look-alikes**: "Beidougen" is the rhizome of Asian moonseed (*bianfuge*, moonseed family), a different medicine, also slightly toxic; several other plants are also popularly called "*Shandougen*". A matching name does not mean a matching plant
 - **Toxicity** (important):
@@ -615,7 +615,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 - **Storage**: protect from damp and insects
 - **Actions**: calms the mind and sharpens the intellect, restores communication between heart and kidneys, expels phlegm, reduces swelling. Used for insomnia with much dreaming, forgetfulness, palpitations and confused state of mind from disharmony between heart and kidneys, cough with difficult expectoration, sores and swellings, and breast swelling and pain
 - **Dose**: 3-10 g (use under the guidance of a TCM practitioner)
-- **Cautions**: irritates the stomach, **use with caution in people with gastritis or stomach ulcers**; too much can cause nausea and vomiting (traditionally honey-fried *Yuanzhi* is mostly used, see [Chinese herbal preparations](../06-pharmaceuticals/04-herbal-preparations.md)); pregnant women should ask a doctor before use
+- **Cautions**: irritates the stomach, **use with caution in people with gastritis or stomach ulcers**; too much can cause nausea and vomiting (traditionally processed *Yuanzhi* (*zhi yuanzhi*) is mostly used, see [Chinese herbal preparations](../06-pharmaceuticals/04-herbal-preparations.md)); pregnant women should ask a doctor before use
 - 🛡️ **Protection note**: *Yuanzhi* is a Class III protected species in the *List of Wild Medicinal Species under State Key Protection* (the original text of the list takes precedence); wild stocks have clearly declined, and digging wild plants requires a herb-collecting permit; for household use buy cultivated material
 
 ---
@@ -683,10 +683,10 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
   - Plant: a perennial twining vine; leaves alternate, triangular-broadly ovate, with short soft hairs on both sides; **the leaf stalk does not join the leaf at its edge but on the underside near the base** (called "peltate", like an umbrella); flowers very small, yellowish-green, male and female on separate plants; drupes round, red when ripe
   - Dried herb: irregular cylindrical, half-cylindrical or lumpy, often curved, 5-10 cm long, 1-5 cm in diameter; surface pale greyish-yellow; at the bends there are often **deep transverse grooves forming knobbly lumps**
   - Heavy and firm; **cut surface flat, greyish-white, very starchy**, with sparse radiating lines (like a cartwheel); faint smell; taste bitter
-- **Look-alikes** (important): ***Guangfangji*** is the root of a plant of the Dutchman's pipe family; it contains aristolochic acid, can cause irreversible kidney failure and urinary tract cancers, and its standard as a medicine was withdrawn from 2004. The two dried herbs are **very hard to tell apart by eye**; they can only be told apart by the plant:
+- **Look-alikes** (important): ***Guangfangji*** is the root of a plant of the birthwort family; it contains aristolochic acid, can cause irreversible kidney failure and urinary tract cancers, and its standard as a medicine was withdrawn from 2004. The two dried herbs are **very hard to tell apart by eye**; they can only be told apart by the plant:
   - *Fenfangji*: leaves **peltate**; flowers tiny, yellowish-green, inconspicuous; fruits are small red balls
   - *Aristolochia* (*Guangfangji* and others): the leaf stalk joins at the edge of the leaf base, leaves often heart-shaped or oblong; **flowers curved like a tobacco pipe or trumpet**, swollen at the base; fruits are hanging capsules
-  - For details see [*Guanmutong* vs *Chuanmutong*, *Guangfangji* vs *Fenfangji*](09-toxic-herbs-and-poisonous-look-alikes.md#47-guanmutong-vs-chuanmutong-guangfangji-vs-fenfangji), [How to recognise plants of the Dutchman's pipe family](09-toxic-herbs-and-poisonous-look-alikes.md#34-how-to-recognise-plants-of-the-birthwort-family) and [Herbs containing aristolochic acid](09-toxic-herbs-and-poisonous-look-alikes.md#3-herbs-containing-aristolochic-acid)
+  - For details see [*Guanmutong* vs *Chuanmutong*, *Guangfangji* vs *Fenfangji*](09-toxic-herbs-and-poisonous-look-alikes.md#47-guanmutong-vs-chuanmutong-guangfangji-vs-fenfangji), [How to recognise plants of the birthwort family](09-toxic-herbs-and-poisonous-look-alikes.md#34-how-to-recognise-plants-of-the-birthwort-family) and [Herbs containing aristolochic acid](09-toxic-herbs-and-poisonous-look-alikes.md#3-herbs-containing-aristolochic-acid)
   - **Use any herb with "Fangji" in its name only from a regular pharmacy and only on prescription**; Mufangji (*Cocculus*, moonseed family) is yet another plant
 - **Harvesting and processing**: dig in autumn, wash, remove the rough bark, sun-dry until half dry, cut into sections, split large ones lengthwise, and dry
 - **Storage**: protect from damp and insects
@@ -720,7 +720,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 - **Key identification features**:
   - Plant: 10-40 cm tall; rhizome cylindrical, growing straight down; leaves basal, linear or lanceolate, **pleated lengthwise like a folding fan**, like a small palm seedling; flowering stalk very short, hidden in the leaf sheaths; flowers **yellow, star-shaped with 6 lobes**, opening close to the ground
   - Dried herb: cylindrical, slightly curved, 3-10 cm long, 0.4-1.2 cm in diameter; surface brown to dark brown, rough, with small hole-like root scars and transverse wrinkles
-  - Hard and brittle, breaks easily; cut surface uneven, greyish-white to brownish-black, darker near the centre; faintly fragrant; taste slightly bitter and pungent
+  - Hard and brittle, breaks easily; cut surface uneven, greyish-white to dark brown, darker near the centre; faintly fragrant; taste slightly bitter and pungent
 - **Look-alikes**: the bulbs of red spider lily, narcissus and others in the same family (amaryllis family) are poisonous; large-leaved *Xianmao* and other species of the same genus are local medicines and cannot be substituted
 - **Toxicity**: the Pharmacopoeia marks it "**toxic**". Too much, or long-term use, can cause numbness of the mouth and tongue, palpitations, restlessness and sweating; animal experiments and clinical reports suggest that long-term use of large amounts may damage the liver, kidneys and reproductive system
 - **Harvesting and processing**: dig in autumn and winter, remove the root head and fibrous roots, wash and dry
