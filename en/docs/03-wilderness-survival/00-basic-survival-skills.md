@@ -49,7 +49,7 @@ This is an order-of-magnitude rule to help you remember **what to do first**. It
   dehydration, cold and hunger first make people misjudge things, fall and get hurt — a far more common cause of death
 ```
 
-For recognising and treating hypothermia, see [River Crossings, Flash Floods and Hypothermia in the Wild – Not only in winter: hypothermia in the wild](08-river-crossing-flash-floods-and-hypothermia.md#not-only-in-winter-hypothermia-outdoors); for heatstroke, see [Acute Conditions – Heatstroke](../01-first-aid-and-family-health/05-acute-symptoms.md#heatstroke).
+For recognising and treating hypothermia, see [River Crossing, Flash Floods and Hypothermia – Not only in winter: hypothermia outdoors](08-river-crossing-flash-floods-and-hypothermia.md#not-only-in-winter-hypothermia-outdoors); for heatstroke, see [Acute Conditions – Heatstroke](../01-first-aid-and-family-health/05-acute-symptoms.md#heatstroke).
 
 ### Order of survival tasks
 
@@ -73,7 +73,7 @@ For recognising and treating hypothermia, see [River Crossings, Flash Floods and
 
 **Remember**: people can go weeks without food, but only days without water!
 
-Adjust the order to the situation: an hour or two before dark, prepare for the night first (warmth, insulation from the ground); in good weather with energy to spare, set out your distress signals first. For whether to wait where you are or walk out after an injury in the wild, see [Treating and Evacuating the Sick and Injured in the Wild – Stay put or walk out](11-wilderness-casualty-care-and-evacuation.md#waiting-where-you-are-or-getting-yourselves-out).
+Adjust the order to the situation: an hour or two before dark, prepare for the night first (warmth, insulation from the ground); in good weather with energy to spare, set out your distress signals first. For whether to wait where you are or walk out after an injury in the wild, see [Wilderness Casualty Care and Evacuation – Waiting where you are or getting yourselves out](11-wilderness-casualty-care-and-evacuation.md#waiting-where-you-are-or-getting-yourselves-out).
 
 ### Keep calm and save your strength
 
@@ -249,7 +249,7 @@ Northern hemisphere:
 - Moss: more on the north side
 ```
 
-⚠️ These methods are **unreliable**: crowns grow towards gaps and away from slopes, the width of growth rings depends mainly on slope, wind and neighbouring trees, and moss grows wherever it is damp and shaded. In a forest they are almost useless; do not choose your direction from one tree or one patch of moss. For why, see [Forest Survival – Why tree crowns, growth rings and moss cannot be trusted](02-forest-survival.md#why-tree-crowns-growth-rings-and-moss-are-unreliable).
+⚠️ These methods are **unreliable**: crowns grow towards gaps and away from slopes, the width of growth rings depends mainly on slope, wind and neighbouring trees, and moss grows wherever it is damp and shaded. In a forest they are almost useless; do not choose your direction from one tree or one patch of moss. For why, see [Forest Survival – Why tree crowns, growth rings and moss are unreliable](02-forest-survival.md#why-tree-crowns-growth-rings-and-moss-are-unreliable).
 
 More reliable natural clues:
 ```
@@ -288,10 +288,10 @@ Time:
 ✓ Record your route (landmarks, directions, times)
   - Turn on track recording on your phone; if you get lost, you can follow the track back
 ✓ Do not stray too far from water
-✓ Set a turnaround time: if you have not reached your destination by then, turn back anyway
+✓ Set a turn-around time: if you have not reached your destination by then, turn back anyway
 ```
 
-For trip plans, turnaround times and kit, see [Trip Preparation and Calling for Help](07-trip-preparation-and-calling-for-help.md#before-you-set-out).
+For trip plans, turn-around times and kit, see [Trip Preparation and Calling for Help](07-trip-preparation-and-calling-for-help.md#before-you-set-out).
 
 ### If you are lost
 
@@ -651,7 +651,7 @@ For other ways to get fresh water on an island, see [Desert Island Survival – 
 - Alcohol (speeds up dehydration and hypothermia)
 ```
 
-For how to deal with chemically contaminated water, see [Water Sources and Supply – Water that ordinary methods cannot treat](../07-everyday-living-skills/10-water-supply.md#water-ordinary-methods-cannot-treat). For diarrhoea after drinking dirty water, see [Treating and Evacuating the Sick and Injured in the Wild – Diarrhoea and vomiting](11-wilderness-casualty-care-and-evacuation.md#diarrhoea-and-vomiting).
+For how to deal with chemically contaminated water, see [Water Sources and Supply – Water that ordinary methods cannot treat](../07-everyday-living-skills/10-water-supply.md#water-ordinary-methods-cannot-treat). For diarrhoea after drinking dirty water, see [Wilderness Casualty Care and Evacuation – Diarrhoea and vomiting](11-wilderness-casualty-care-and-evacuation.md#diarrhoea-and-vomiting).
 
 ---
 
@@ -999,7 +999,7 @@ Key points:
 
 ## Building shelters
 
-A shelter's job is to **keep your body heat in**: block wind and rain, separate you from cold, wet ground, and give shade in the heat. The body loses heat in four ways; the one most often overlooked in the wild is **conduction** — sitting or lying directly on cold ground, rock or snow loses heat much faster than losing it to the air.
+A shelter's job is to **keep your body heat in**: block wind and rain, separate you from cold, wet ground, and give shade in the heat. The body loses heat in four ways; the one most often overlooked in the wild is **conduction** — sitting or lying directly on cold ground, rock or snow loses heat much faster than air does.
 
 ```
 Priorities:
@@ -1052,7 +1052,7 @@ Checks:
 - Look down: are there signs of water having flowed there (silt, flattened grass, debris caught in branches)
 ```
 
-For camping by rivers and the signs of a flash flood, see [River Crossings, Flash Floods and Hypothermia in the Wild – Choosing a campsite](08-river-crossing-flash-floods-and-hypothermia.md#choosing-a-campsite).
+For camping by rivers and the signs of a flash flood, see [River Crossing, Flash Floods and Hypothermia – Choosing a campsite](08-river-crossing-flash-floods-and-hypothermia.md#choosing-a-campsite).
 
 ### Insulation from the ground matters most
 
@@ -1186,7 +1186,7 @@ Note:
 
 *Figure: Top, a snow cave in cross-section; bottom, a quinzhee — a snow shelter made by piling up snow and hollowing it out when the snow is not deep enough*
 
-For more on snow caves, snow trenches and snow shelters, see [Snow and Polar Survival – Snow caves](04-snow-and-polar-survival.md#snow-cave).
+For more on snow caves, snow trenches and snow shelters, see [Snow and Polar Survival – Snow cave](04-snow-and-polar-survival.md#snow-cave).
 
 #### Sunshades for hot environments
 
@@ -1199,7 +1199,7 @@ For more on snow caves, snow trenches and snow shelters, see [Snow and Polar Sur
 - Deserts and gravel plains can be very cold at night; be ready to keep warm
 ```
 
-For sun shelters in the desert, see [Desert Survival – Sun protection (daytime)](03-desert-survival.md#sun-protection-day).
+For sun shelters in the desert, see [Desert Survival – Sun protection (day)](03-desert-survival.md#sun-protection-day).
 
 ### Improving a shelter
 
@@ -1265,7 +1265,7 @@ How to use:
 
 ```
 Visual signals:
-- A mirror or reflective object (by day; on a sunny day visible from the air at more than ten-odd km)
+- A mirror or reflective object (by day; on a sunny day visible from the air at a dozen km or more)
 - Waving brightly coloured clothing
 - Fires (at night)
 - Smoke (by day): damp grass and green leaves make white smoke
@@ -1340,7 +1340,7 @@ Body signals (to an aeroplane or helicopter):
 - An aircraft rocking its wings or circling low usually means it has seen you
 ```
 
-For what to do when a helicopter approaches, see [Treating and Evacuating the Sick and Injured in the Wild – Helicopter rescue](11-wilderness-casualty-care-and-evacuation.md#helicopter-rescue).
+For what to do when a helicopter approaches, see [Wilderness Casualty Care and Evacuation – Helicopter rescue](11-wilderness-casualty-care-and-evacuation.md#helicopter-rescue).
 
 For how to call for help and how to describe where you are, see [Trip Preparation and Calling for Help](07-trip-preparation-and-calling-for-help.md#calling-for-help-say-clearly-where-you-are).
 
@@ -1409,7 +1409,7 @@ Test only one at a time!
 More:
 - For about 8 hours before the test eat nothing else, drinking only purified water, so you can tell what causes any reaction
 - At any step, if it is bitter, hot, numbing, burning or stinging → spit it out at once, rinse your mouth, and give up on that plant
-- The "small amount" in step 9 means about a small part of a bowl (around 60 mL), then wait 8 hours
+- The "small amount" in step 9 means just under half a small bowl (around 60 mL), then wait 8 hours
 - Test cooked and raw separately, and test different parts of the same plant separately
 - Pregnant women, children and sick people must not do the test
 - The whole test takes at least a day, and is valid only for that one plant and that one part

@@ -218,7 +218,7 @@ For hard earth floors see [Lime and Building Materials – *Sanhetu* and lime-so
 - Thermometer
 
 More:
-- Without electricity: use a kang (heated brick bed) or heated wall, or hot-water bottles
+- Without electricity: use a *kang* (heated brick bed) or heated wall, or hot-water bottles
   (filled with hot water and wrapped in cloth) in one corner of the brooder; refill every few hours
 - Curve cardboard across the corners of the brooder so chicks cannot pile into a dead corner
   and smother
@@ -629,7 +629,7 @@ Only by hatching your own chicks can a flock keep going without outside help. Ha
 
 ```
 1. Box: a polystyrene or wooden box, with a heat source inside (light bulb, hot-water bag/bottles,
-   heat from a kang), a thermometer (at the height of the eggs) and a tray of water (for humidity)
+   heat from a *kang*), a thermometer (at the height of the eggs) and a tray of water (for humidity)
 2. Run the empty box for 1-2 days first, and put the eggs in only once the temperature is steady
 3. Turning: at least 3 times a day (5 is best; an odd number avoids the same side being down
    every night), turning about 180° each time;
@@ -736,7 +736,7 @@ Pullorum disease:
 | Disease | Main signs | Prevention | Once it occurs |
 |------|----------|------|--------|
 | Newcastle disease ("chicken plague") | Birds of any age; dull, difficulty breathing, fluid in the crop, yellow-green loose droppings; later twisted neck, circling, paralysis; high death rate | Vaccination is the only reliable method, repeated according to the schedule | No specific treatment; isolate, report to the veterinary station, give emergency vaccination to birds not yet ill |
-| Bird flu (highly pathogenic) | Sudden mass deaths; swollen head and face, purple comb and wattles, bleeding under the leg scales; laying stops abruptly | China has compulsory vaccination against highly pathogenic bird flu; keep out wild birds, keep chickens and ducks apart | **Do not treat or sell the birds yourself**; report at once to the local animal husbandry and veterinary authority, and cull and dispose of birds safely as required |
+| Bird flu (highly pathogenic) | Sudden mass deaths; swollen head and face, purple comb and wattles, bleeding under the leg scales; laying stops abruptly | China has compulsory vaccination against highly pathogenic bird flu; keep out wild birds, keep chickens and ducks apart | **Do not treat the birds yourself or sell them**; report at once to the local animal husbandry and veterinary authority, and cull and dispose of birds safely as required |
 | Coccidiosis | Mostly at 3-6 weeks old and in damp seasons; bloody droppings, eyes closed, neck drawn in, ruffled feathers, wasting | Dry litter, raise feed and water troughs to keep droppings out; anticoccidial drugs in chick feed or coccidiosis vaccine | Use anticoccidial drugs according to the instructions, and replace all the damp litter |
 | Pullorum disease | Chicks under 2-3 weeks with white pasty droppings, pasted vents, huddling from cold; can pass to the next generation through hatching eggs | Get birds from pullorum-free breeding flocks; keep chicks warm, disinfect often | Warmth; antibacterial drugs under a vet's guidance; survivors may carry the infection, so do not keep them as breeders |
 | Marek's disease | From 2-5 months old: wasting, one leg stretched forward and one back ("doing the splits"), paralysis, grey-white eyes | Vaccinate on the day of hatching (vaccination later does not work) | Not worth treating; cull |
@@ -839,7 +839,7 @@ More:
 
 ```
 Choosing birds to cull (easiest to see around the autumn moult):
-✗ Moult early and drags on, comb pale, dry and shrunken, pubic bones close together,
+✗ Moult starts early and drags on; comb pale, dry and shrunken, pubic bones close together,
   not laying for long periods
 ✗ Chronic illness, long-term thin and weak, often eats eggs or pecks other birds
 ✓ Keep for breeding: hens that lay well, moult quickly, are well-shaped, resist disease and
@@ -973,7 +973,7 @@ How they differ from chickens:
 More:
 - Muscovy duck: quiet, can fly, goes broody and hatches eggs, thrives on rough feed;
   suited to small-scale self-sufficiency; incubation period about 35 days
-- Local breeds of brown "ma" ducks: small, good foragers, suited to free-ranging and to
+- Local breeds of partridge-coloured (*ma*) ducks: small, good foragers, suited to free-ranging and to
   duck-rice farming
 - Drake to duck ratio: laying breeder flocks about 1:15-20, meat breeder flocks about 1:5-8
 ```

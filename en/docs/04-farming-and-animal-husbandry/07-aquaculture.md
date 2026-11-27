@@ -422,8 +422,8 @@ spells of rain run it at midnight"
 - On sunny days run it for 1-2 hours at noon: the surface water is supersaturated with oxygen,
   and stirring sends it down to the lower water, "storing oxygen" for the night. Do not run it
   in the evening (it disperses the oxygen in the surface water and actually brings on gasping)
-- On cloudy days skip the noon run from the afternoon onwards, and run it from the second
-  half of the night to early morning instead
+- On cloudy days skip the noon run (the top layer has no spare oxygen to send down);
+  run it instead from the second half of the night to early morning
 - When there are signs of gasping, run it at once until the sun is up and the fish stop
   gasping
 - Without an aerator: a small solar water pump, a hand-cranked water wheel, or rowing a boat
@@ -441,7 +441,7 @@ See [Household Electrical Safety – Electricity in wet places](../07-everyday-l
 
 **Recognising gasping fish and emergency action**:
 
-Gasping (*fu tou*, "floating heads") is when fish short of oxygen come to the surface to "gulp air". Mild gasping that is not dealt with urgently is not a big problem, but severe gasping can kill every fish in the pond within a few hours. It is the greatest risk in pond fish farming.
+Gasping (*fu tou*, "floating heads") is when fish short of oxygen come to the surface to "gulp air". Mild gasping needs no urgent action, but severe gasping can kill every fish in the pond within a few hours. It is the greatest risk in pond fish farming.
 
 ```
 Weather and signs that make gasping likely:
@@ -738,7 +738,7 @@ Conditions:
   night, supplementary feed)
 
 Breeds:
-- Small, nimble ducks that forage well, of the partridge-coloured (*ma ya*) type (such as
+- Small, nimble ducks that forage well, of the partridge-coloured (*ma*) type (such as
   local partridge ducks, Shaoxing ducks)
 - Do not use large, slow breeds such as Pekin or Cherry Valley ducks (they flatten the rice
   seedlings)

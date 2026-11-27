@@ -342,4 +342,4 @@ Farm tools:
 ---
 
 **Next chapter**: [Water supply](10-water-supply.md)
-**Back**: [Chapter index](README.md) | [Main contents](../../README.md)
+**Back to**: [Part contents](README.md) | [Main contents](../../README.md)

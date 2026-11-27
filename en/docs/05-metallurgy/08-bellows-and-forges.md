@@ -9,7 +9,7 @@
 - 🔥 The end of the blast pipe (tuyere) nearest the fire gets extremely hot and an iron pipe soon burns out; keep your hands away from the blast pipe
 - ⚙️ Water-powered and machine-driven blowers have moving parts that can catch clothing and hands
 
-For carbon monoxide poisoning, see [Home and Road Accidents – Carbon monoxide poisoning](../01-first-aid-and-family-health/07-home-and-traffic-accidents.md#carbon-monoxide-poisoning).
+For carbon monoxide poisoning, see [Home and Traffic Accidents – Carbon monoxide poisoning](../01-first-aid-and-family-health/07-home-and-traffic-accidents.md#carbon-monoxide-poisoning).
 
 ---
 

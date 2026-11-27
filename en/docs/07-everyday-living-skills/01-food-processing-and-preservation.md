@@ -71,7 +71,7 @@ Method:
 4. Dry until completely crisp or leathery (depending on the kind)
 5. Store sealed
 
-In wet weather: put them above the stove, beside the kang (heated brick bed),
+In wet weather: put them above the stove, beside the *kang* (heated brick bed),
 or dry them in a low oven (<60°C)
 ```
 

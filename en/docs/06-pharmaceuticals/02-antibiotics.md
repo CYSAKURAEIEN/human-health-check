@@ -334,7 +334,7 @@ Do a skin test before first use:
 ### 3.5 Herbal formulas (see the herbal preparations chapter)
 
 ***Wuwei Xiaodu Yin* (Five-Ingredient Toxin-Dispelling Decoction):**
-- *Jinyinhua* (Lonicera japonica, honeysuckle flower), *Yejuhua* (Chrysanthemum indicum, wild chrysanthemum flower), *Pugongying* (Taraxacum mongolicum, dandelion), *Zihua diding* (Viola yedoensis, Chinese violet), *Zibei tiankui* (Semiaquilegia adoxoides)
+- *Jinyinhua* (Lonicera japonica, honeysuckle flower), *Yejuhua* (Chrysanthemum indicum, wild chrysanthemum flower), *Pugongying* (Taraxacum mongolicum, dandelion), *Zihuadiding* (Viola yedoensis, Yedo violet), *Zibeitiankui* (Semiaquilegia adoxoides)
 - Boiled into a decoction and taken by mouth; traditionally used for hot, toxic sores and boils
 - The ingredients can be grown or gathered yourself; relatively safe
 
@@ -467,7 +467,7 @@ Putting two drugs together yourself has these problems:
 | Sign | Possible cause | What to do |
 |------|------|------|
 | Mild nausea, stomach discomfort | Stomach and gut irritation | Take with meals as the leaflet says (unless the leaflet says to take it on an empty stomach) |
-| Loose stools 2-3 times a day, no fever, no blood | Gut flora disturbed | Drink plenty, replace fluids, contact a doctor |
+| Loose stools 2-3 times a day, no fever, no blood | Gut flora disturbed | Drink plenty of water, replace fluids, contact a doctor |
 | Frequent diarrhoea (many times a day), with blood or mucus, abdominal pain and fever | Severe antibiotic-associated colitis (*Clostridioides difficile* etc.) | Stop the drug, see a doctor immediately, guard against dehydration |
 | White coating in the mouth, vulval itching with more discharge | Fungal superinfection | See a doctor |
 | Local rash, itching | Allergy | Stop the drug, contact a doctor; write down the drug name |
@@ -738,7 +738,7 @@ Wound care (many infections can be avoided):
 - [ ] Sterile gauze and dressings (several sizes)
 - [ ] Medical tape, bandages
 - [ ] Disposable gloves (several pairs)
-- [ ] Tweezers, scissors (can be boiled to sterilise)
+- [ ] Tweezers, scissors (can be boiled to disinfect)
 - [ ] Thermometer
 - [ ] Honey (see 3.1)
 
@@ -839,8 +839,8 @@ Never use, whatever happens:
 ✓ Propolis tincture: sealed and kept dark, years
 ✓ Tea tree oil: sealed and kept dark, about 1-2 years (once oxidised it is a
   stronger allergen; do not use)
-✓ Chinese herbs: Jinyinhua, Lianqiao (Forsythia suspensa, forsythia fruit),
-  Pugongying, etc.; dried and sealed 1-2 years; can be grown or gathered yourself
+✓ Chinese herbs: *Jinyinhua*, *Lianqiao* (Forsythia suspensa, forsythia fruit),
+  *Pugongying*, etc.; dried and sealed 1-2 years; can be grown or gathered yourself
 ```
 
 **Advantages:** sustainable supply, long shelf life, no dependence on industry

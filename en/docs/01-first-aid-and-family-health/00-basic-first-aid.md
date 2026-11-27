@@ -250,7 +250,7 @@ Do not worry that "their heart may still be beating and compressions will hurt t
 At the same time, send someone for an AED. Lay the casualty on their back on a **firm, flat surface**, ideally the floor. If they are on a soft bed: if there are helpers and you can move them to the floor in a few seconds, do so; if you cannot move them on your own, **do not delay compressions to move them**. Take away the pillow and do compressions on the bed, pressing harder to make up for the mattress sinking (the American Heart Association 2025 guidelines stress a firm, flat surface; the European Resuscitation Council 2025 guidelines advise that it is not necessary to move the person from a bed to the floor for this).
 
 #### 2. Chest Compressions
-- **Where**: the lower half of the breastbone, at the middle of the line between the nipples
+- **Where**: where the middle and lower thirds of the breastbone meet, at the middle of the line between the nipples
 - **Depth**: 5-6 cm
 - **Rate**: 100-120 per minute
 - **How**:
@@ -333,7 +333,7 @@ At the same time, send someone for an AED. Lay the casualty on their back on a *
 |------|------|-------------|------------|
 | Compression depth | 5-6 cm | About 5 cm (1/3 of the depth of the chest) | About 4 cm (1/3 of the depth of the chest) |
 | Compression method | Two hands | One or two hands | Two thumbs with both hands encircling the chest<br>or the heel of one hand |
-| Compression position | Lower half of the breastbone | Lower half of the breastbone | Just below the line between the nipples |
+| Compression position | Junction of the middle and lower thirds of the breastbone | Junction of the middle and lower thirds of the breastbone | Just below the line between the nipples |
 | Compression rate | 100-120/min | 100-120/min | 100-120/min |
 | Compressions to breaths | 30:2 | 30:2 (one rescuer)<br>15:2 (two rescuers) | 30:2 (one rescuer)<br>15:2 (two rescuers) |
 | How to give breaths | Mouth to mouth | Mouth to mouth | Your mouth covers the infant's mouth and nose together |
@@ -650,12 +650,11 @@ More on each type:
 
 ### When Not to Move Someone
 
-⚠️ **Do not move the casualty in these cases**:
+⚠️ **Do not move the casualty in these cases**; keep the head and neck still where they lie and wait for professional rescuers:
 - Suspected neck or spinal injury
 - Unless:
   - The scene is dangerous (fire, explosion and so on)
   - They must be moved before first aid can be given
-  - While waiting for professional rescuers
 
 **How to tell there may be a spinal injury**:
 ```

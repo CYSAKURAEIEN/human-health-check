@@ -241,7 +241,7 @@ Tiles: form a clay slab round a wooden cylinder, cut it into several pieces when
 Unfired mud bricks can also build houses: see Long-term shelter
 ```
 
-For mud bricks and walls see [Long-term Shelter – Mud-brick walls](05-long-term-shelter.md#adobe-walls).
+For mud bricks and walls see [Long-term Shelter – Adobe walls](05-long-term-shelter.md#adobe-walls).
 
 For lime mortar for bricklaying see [Lime and Building Materials](16-lime-and-building-materials.md#lime-mortar-and-three-part-earth).
 
@@ -331,7 +331,7 @@ Cai Lun of the Eastern Han dynasty in China improved papermaking, using tree bar
 ✓ Paper mulberry bark (one of the best materials; paper mulberry is very common in China): strip off the white inner bark
 ✓ Mulberry bark, blue sandalwood (Pteroceltis tatarinowii) bark
 ✓ Hemp, old hemp cloth, old cotton cloth (rag paper; the fibres are already processed, so it is easiest)
-✓ Bamboo (young shoots), rice straw, wheat straw (short fibres, coarser paper)
+✓ Young bamboo culms, rice straw, wheat straw (short fibres, coarser paper)
 ✓ Waste paper (simplest): soak it soft, beat it to pulp, and it can be made into paper again
 ```
 
@@ -434,4 +434,4 @@ Glue (bone glue, hide glue): wash scraps of hide and bones, simmer in water over
 ---
 
 **Next chapter**: [Education and Knowledge Preservation](12-education-and-knowledge-preservation.md)
-**Back**: [Chapter index](README.md) | [Main contents](../../README.md)
+**Back to**: [Part contents](README.md) | [Main contents](../../README.md)

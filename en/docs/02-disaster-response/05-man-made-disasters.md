@@ -320,11 +320,11 @@ If the spill is outside and you are inside:
 - Liquid ammonia splashed on the skin also causes frostbite; likewise rinse first with plenty of clean water, and do not rub
 ```
 
-**Sulfuric acid (mist or liquid)**:
+**Sulphuric acid (mist or liquid)**:
 ```
-- Sulfuric acid mist or dilute acid on the skin: rinse at once with plenty of running water for at least 15 minutes
+- Sulphuric acid mist or dilute acid on the skin: rinse at once with plenty of running water for at least 15 minutes
 - Concentrated liquid acid: first blot it off quickly with a dry cloth (do not wipe or smear), then immediately rinse with plenty of running water
-- A small amount of water on concentrated sulfuric acid gives off heat, so always use a large amount of water
+- A small amount of water on concentrated sulphuric acid gives off heat, so always use a large amount of water
 ```
 
 **Unknown chemicals**:

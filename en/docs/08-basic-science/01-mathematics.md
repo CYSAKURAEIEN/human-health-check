@@ -563,7 +563,7 @@ Importance: a switch or a circuit has only two states, "on" and "off";
 - ⏮️ [Measurement and scientific method](00-measurement-and-scientific-method.md) - units, measuring, controlled experiments
 - ⏭️ [Physics](02-physics.md) - mathematics applied to mechanics, heat and electricity
 - ⏭️ [Chemistry](03-chemistry.md) - chemical calculations, concentration
-- 🔗 [Long-term Housing](../07-everyday-living-skills/05-long-term-shelter.md) - measuring and calculating when building a house
+- 🔗 [Long-term Shelter](../07-everyday-living-skills/05-long-term-shelter.md) - measuring and calculating when building a house
 
 ---
 

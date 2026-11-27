@@ -365,7 +365,7 @@ Potassium iodide (KI): 1.5 g
   affect the thyroid)
 ⚠️ Pregnant women, breastfeeding women, people with thyroid disease: only on
   small areas, for short periods
-⚠️ Children under 2: use povidone-iodine instead
+⚠️ Children under 2: use povidone-iodine in preference
 ```
 
 **Common mistakes:**
@@ -604,7 +604,7 @@ Making it up: mix the bleaching powder to a paste with a little water first, the
    2 drops of "84" bleach per litre
 2. Stir
 3. Leave to stand for 30 minutes
-4. If it smells slightly of chlorine, it is safe to drink (residual chlorine
+4. If it smells of chlorine, it can be drunk (residual chlorine
    protects it)
 ```
 

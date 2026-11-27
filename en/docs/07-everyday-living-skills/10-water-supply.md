@@ -35,7 +35,7 @@ For germ theory and intestinal infections see [Biology and Medicine Basics – G
 Per person per day:
 - Drinking: about 2-3 L (more in hot weather or during hard work)
 - Cooking, hand washing, personal hygiene: at least about 15 L in a post-disaster emergency
-- Normal living (bathing, laundry, cleaning): several tens of L or more
+- Normal living (bathing, laundry, cleaning): several tens of litres or more
 In addition: livestock and vegetable plots need more
 
 Example: a community of 50 people, at 20 L per person per day, needs at least 1000 L (1 m³) a day
@@ -57,7 +57,7 @@ Example: a community of 50 people, at 20 L per person per day, needs at least 10
 ✓ Fence off the area upstream of the collection point at springs and streams
 ```
 
-For siting latrines see [Sanitation – Dry latrines](03-sanitation.md#pit-latrines).
+For siting latrines see [Sanitation – Pit latrines](03-sanitation.md#pit-latrines).
 
 ---
 
@@ -340,4 +340,4 @@ For dealing with faeces see [Sanitation](03-sanitation.md).
 ---
 
 **Next chapter**: [Pottery, Glass and Papermaking](11-pottery-glass-and-papermaking.md)
-**Back**: [Chapter index](README.md) | [Main contents](../../README.md)
+**Back to**: [Part contents](README.md) | [Main contents](../../README.md)

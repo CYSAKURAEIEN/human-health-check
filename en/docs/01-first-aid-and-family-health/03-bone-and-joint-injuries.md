@@ -489,7 +489,7 @@ Key points:
 - When unsure, always treat as a spinal injury
 ```
 
-For moving with several people see [Basic First Aid – Multi-person carry](00-basic-first-aid.md#3-team-lifts-spinal-injury); for traffic accidents see [Home and Traffic Accidents – At the scene of a traffic accident](07-home-and-traffic-accidents.md#at-the-scene-of-a-road-accident).
+For moving with several people see [Basic First Aid – Team lifts](00-basic-first-aid.md#3-team-lifts-spinal-injury); for traffic accidents see [Home and Traffic Accidents – At the scene of a traffic accident](07-home-and-traffic-accidents.md#at-the-scene-of-a-road-accident).
 
 #### Neck (cervical spine) fracture
 

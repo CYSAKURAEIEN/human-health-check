@@ -97,7 +97,7 @@ The key medicines against bacterial infection.
 - 💊 Penicillin
   - Why you cannot make it yourself
   - Emergency treatment of allergy
-- 🧪 Sulphonamides (sulfa drugs)
+- 🧪 Sulfonamides (sulfa drugs)
   - Chemical synthesis (very difficult)
   - Alternatives
 - 🌿 Natural antibacterial substances
@@ -318,9 +318,9 @@ Preparing and using traditional Chinese medicines.
 
 **First aid:**
 1. Stop the medicine at once!
-2. Drink plenty of water to dilute it
-3. If you have an antihistamine (chlorphenamine (chlorpheniramine)), take it at once
-4. Severe cases: CPR, rescue breaths
+2. Mild (only a rash or itching): if you have an antihistamine (chlorphenamine (chlorpheniramine)), take it at once and watch for any worsening
+3. Difficulty breathing, a tight throat, swollen lips or face, dizziness or fainting (anaphylactic shock): **call 120 at once**; if there is an adrenaline (epinephrine) auto-injector, inject it into the outer thigh at once; lie them flat with the legs raised (let them sit up if breathing is difficult)
+4. If breathing and heartbeat stop: start CPR at once; see [Acute Symptoms - Allergic reactions](../01-first-aid-and-family-health/05-acute-symptoms.md#allergic-reactions)
 
 **Prevention:**
 - The first time you use a new medicine, test a small dose
@@ -366,7 +366,7 @@ Preparing and using traditional Chinese medicines.
 - Disinfect wounds promptly
 
 ### Physical treatments
-- Fever: drink plenty, use fewer clothes and covers, sponge with lukewarm water (only as an aid)
+- Fever: drink plenty of water, use fewer clothes and covers, sponge with lukewarm water (only as an aid)
 - Pain: cold packs, warm packs, massage
 - Inflammation: rest, raise the affected part
 

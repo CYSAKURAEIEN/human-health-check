@@ -310,7 +310,7 @@ Against insects:
 - Heat does not destroy aflatoxin, and it passes into people through meat, eggs and milk
 ```
 
-For aflatoxin see [Food Processing and Preservation – Aflatoxin](01-food-processing-and-preservation.md#aflatoxin); for working out how long your stocks will last see [Record-keeping, Trade and Division of Labour – How long will it last?](13-record-keeping-trade-and-division-of-labour.md#working-out-how-long-it-will-last).
+For aflatoxin see [Food Processing and Preservation – Aflatoxin](01-food-processing-and-preservation.md#aflatoxin); for working out how long your stocks will last see [Record-keeping, Trade and Division of Labour – Working out how long it will last](13-record-keeping-trade-and-division-of-labour.md#working-out-how-long-it-will-last).
 
 ---
 
@@ -477,7 +477,7 @@ Watermill: a waterwheel drives the millstone
   mills, and can serve the whole village
 ```
 
-For estimating water power see [Physics – Water power: waterwheels and watermills](../08-basic-science/02-physics.md#33-water-power-waterwheels-and-watermills) and [Thermodynamics and Power Machinery – Water power](../09-advanced-science-and-engineering/03-thermodynamics-and-engines.md#81-water-power); for headrace channels see [Water Supply Engineering – Diverting water](10-water-supply.md#bringing-water-by-gravity).
+For estimating water power see [Physics – Water power: waterwheels and watermills](../08-basic-science/02-physics.md#33-water-power-waterwheels-and-watermills) and [Thermodynamics and Power Machinery – Water power](../09-advanced-science-and-engineering/03-thermodynamics-and-engines.md#81-water-power); for headrace channels see [Water Supply – Bringing water by gravity](10-water-supply.md#bringing-water-by-gravity).
 
 ---
 
@@ -686,7 +686,7 @@ Sesame needs no press; water is used to "swap out" the oil:
    if the fat catches fire, put the lid on; never pour water on it
 ```
 
-For rendering purer fat see [Lighting and Energy – Rendering animal fat](06-lighting-and-energy.md#rendering-animal-fat); for making soap from waste fat see [Soap Making – Step 2: Prepare the fat](04-soap-making.md#step-2-preparing-the-fat).
+For rendering purer fat see [Lighting and Energy – Rendering animal fat](06-lighting-and-energy.md#rendering-animal-fat); for making soap from waste fat see [Soap Making – Step 2: preparing the fat](04-soap-making.md#step-2-preparing-the-fat).
 
 ---
 
@@ -787,4 +787,4 @@ For the principle see [Advanced Chemistry – Reaction rates and catalysis](../0
 ---
 
 **Next chapter**: [Salt Making](15-salt-making.md)
-**Back**: [Chapter index](README.md) | [Main contents](../../README.md)
+**Back to**: [Part contents](README.md) | [Main contents](../../README.md)

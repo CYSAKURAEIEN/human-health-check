@@ -306,4 +306,4 @@ If the attack is caused by an allergy (sudden wheezing and breathlessness after 
 ---
 
 **Next chapter**: [Home and Traffic Accidents](07-home-and-traffic-accidents.md)
-**Back**: [Part contents](README.md) | [Main contents](../../README.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

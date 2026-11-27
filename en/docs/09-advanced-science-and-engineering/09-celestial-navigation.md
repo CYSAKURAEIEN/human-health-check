@@ -286,8 +286,8 @@ For pacing see [Measurement and the Scientific Method – Estimating distance](.
 ### 7.1 Fixing the winter solstice and the tropical year with a gnomon
 
 ```
-The guibiao (gnomon and shadow scale): a vertical pole (the taller, the more accurate)
-and, on the ground, a graduated scale (the gui) running due north–south
+The *guibiao* (gnomon and shadow scale): a vertical pole (the taller, the more accurate)
+and, on the ground, a graduated scale (the *gui*) running due north–south
 - Measure the length of the pole's shadow at noon every day
 - The day of the longest shadow is the winter solstice, the shortest the summer solstice
 - Measure over many years; the average number of days between winter solstices is the
@@ -314,7 +314,7 @@ visible) is the first day of the month; one synodic month is about 29.53 days
    added in those 19 years
    (19 × 12 = 228, 235 - 228 = 7)
 → The 24 solar terms are set by the Sun's position (see Physics – Calendar);
-  a month that contains no zhongqi (major solar term) becomes the leap month, keeping
+  a month that contains no *zhongqi* (major solar term) becomes the leap month, keeping
   the months in step with the seasons
 ```
 
@@ -400,7 +400,7 @@ Saros cycle: about 18 years 11 days; eclipses repeat roughly on this cycle
 - ⏮️ [Higher Mathematics](04-higher-mathematics.md) - trigonometric functions, series
 - ⏮️ [Modern Physics](06-modern-physics.md) - spectra, stars
 - 🔗 [Physics – Astronomy and the Earth](../08-basic-science/02-physics.md#9-astronomy-and-the-earth) - basics of the seasons, the calendar and measuring latitude
-- 🔗 [Trip Preparation and Calling for Rescue – Reading maps and contour lines](../03-wilderness-survival/07-trip-preparation-and-calling-for-help.md#reading-maps-and-contour-lines)
+- 🔗 [Trip Preparation and Calling for Help – Reading maps and contour lines](../03-wilderness-survival/07-trip-preparation-and-calling-for-help.md#reading-maps-and-contour-lines)
 - 🔗 [Technology Rebuilding Roadmap](00-technology-rebuilding-roadmap.md)
 
 ---

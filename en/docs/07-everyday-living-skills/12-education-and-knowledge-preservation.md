@@ -136,7 +136,7 @@ Stages of an apprenticeship:
 ```
 1. Explain: say clearly what is to be done, why it is done this way, and where the dangers are
 2. Demonstrate: do the whole thing once slowly, talking as you go
-3. Let the learner do it: watch, and correct mistakes at once (any mistake involving safety must stop immediately)
+3. Let the learner do it: watch, and correct mistakes at once (for any mistake involving safety, stop the work immediately)
 4. Let the learner explain: have them say each step and the reason while doing it → only if they can explain it clearly do they really understand
 5. Practise repeatedly, with less and less guidance
 6. Check again after a while
@@ -265,4 +265,4 @@ For making paper and ink see [Pottery, Glass and Papermaking – Papermaking](11
 ---
 
 **Next chapter**: [Record-keeping, Trade and Division of Labour](13-record-keeping-trade-and-division-of-labour.md)
-**Back**: [Chapter index](README.md) | [Main contents](../../README.md)
+**Back to**: [Part contents](README.md) | [Main contents](../../README.md)

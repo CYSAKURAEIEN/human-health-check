@@ -44,7 +44,7 @@ Seed packets marked "F1", "first-generation hybrid" or "×× hybrid" are hybrid 
 
 So:
 ✓ Stock and grow open-pollinated varieties (also called "standard varieties",
-  "farmers' varieties", "traditional varieties" or "heirloom varieties")
+  "farmers' varieties" or "traditional varieties")
 ✓ Save seed from open-pollinated varieties every year; as long as they do not
   cross with other varieties, each generation stays much the same as the last
 ✓ If hybrid seed is all you have: grow and harvest it as normal, and save seed too;

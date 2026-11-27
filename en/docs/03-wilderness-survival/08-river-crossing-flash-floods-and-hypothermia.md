@@ -195,7 +195,7 @@ For cold-water survival positions, see [Ocean Disasters – Keeping warm while w
 
 ## Not only in winter: hypothermia outdoors
 
-**Hypothermia does not only happen in snow.** At an air temperature in the teens, **rain soaking your clothes + strong wind + exhaustion** together can cause fatal hypothermia just the same. In the May 2021 mountain ultramarathon in Baiyin, Gansu, runners were hit by hail, freezing rain and strong wind; 21 competitors died, many of them wearing only short sleeves and shorts.
+**Hypothermia does not only happen in snow.** At air temperatures in the teens (°C), **rain soaking your clothes + strong wind + exhaustion** together can cause fatal hypothermia just the same. In the May 2021 mountain ultramarathon in Baiyin, Gansu, runners were hit by hail, freezing rain and strong wind; 21 competitors died, many of them wearing only short sleeves and shorts.
 
 ### When hypothermia is likely
 
@@ -285,7 +285,7 @@ For the stages of hypothermia and more on treatment, see [Acute Symptoms – Hyp
 5. Swept into fast water: on your back, feet downstream; do not stand up in fast water
 6. Fallen into cold water: control your breathing first, use the first 10 minutes to
    save yourself
-7. Rain + wind + fatigue can cause hypothermia even in the teens; no cotton, carry a
+7. Rain + wind + fatigue can cause hypothermia even at temperatures in the teens (°C); no cotton, carry a
    warm layer and a raincoat
 8. Shivering stopped and confusion mean severe hypothermia: move gently, keep warm,
    call for help

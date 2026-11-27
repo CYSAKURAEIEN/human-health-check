@@ -1,4 +1,4 @@
-# Child safety
+# Child Safety
 
 ## Contents
 - [Why prevention gets its own chapter](#why-prevention-gets-its-own-chapter)
@@ -271,5 +271,5 @@ Related chapters: [Electric shock injuries](05-acute-symptoms.md#electric-shock-
 
 ---
 
-**Next chapter**: [Infectious disease at home](15-infectious-disease-at-home.md)
-**Back to**: [Chapter list](README.md) | [Main contents](../../README.md)
+**Next chapter**: [Infectious Disease at Home](15-infectious-disease-at-home.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

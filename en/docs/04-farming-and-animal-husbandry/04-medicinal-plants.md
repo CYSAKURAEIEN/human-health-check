@@ -3,7 +3,7 @@
 ⚠️ **Important notice**:
 - This chapter is for educational reference only
 - It cannot replace professional medical diagnosis and treatment
-- Consult a doctor or a practitioner of Chinese medicine before use
+- Consult a doctor or a TCM practitioner before use
 - Wrong use can cause harm
 - Some plants are poisonous and need professional guidance
 
@@ -22,7 +22,7 @@ What this chapter cannot do:
 
 For prescriptions, decoction methods, processing and incompatibilities see [Chinese Herbal Preparations](../06-pharmaceuticals/04-herbal-preparations.md); they are not repeated here. For eating wild plants or poisonous mushrooms by mistake see [Poisonous Mushrooms and Wild Plant Poisoning](../03-wilderness-survival/09-poisonous-mushrooms-and-wild-plants.md).
 
-**How to read the doses in this chapter**: the "usual dose" given for each plant is the usual adult daily range of the dried herb in the Chinese Pharmacopoeia (checked against the 2020 edition; the current edition is 2025, and its text takes precedence). It is there only to remind you "do not exceed this", not to invite you to treat yourself. **Whether to use a herb, and how much, follows the Pharmacopoeia and the guidance of a practitioner of Chinese medicine**; children, older people and frail people need smaller doses, which a doctor must decide.
+**How to read the doses in this chapter**: the "usual dose" given for each plant is the usual adult daily range of the dried herb in the Chinese Pharmacopoeia (checked against the 2020 edition; the current edition is 2025, and its text takes precedence). It is there only to remind you "do not exceed this", not to invite you to treat yourself. **Whether to use a herb, and how much, follows the Pharmacopoeia and the guidance of a TCM practitioner**; children, older people and frail people need smaller doses, which a doctor must decide.
 
 ---
 
@@ -102,7 +102,7 @@ In detail:
 ```
 - Tea: a small pinch of dried leaves (about 3 g) or a few fresh leaves; pour on boiling water,
   cover and leave for a few minutes
-  Usual dose: 3-6 g (follow the Pharmacopoeia / a practitioner); in decoctions it is "added last"
+  Usual dose: 3-6 g (follow the Pharmacopoeia / a TCM practitioner); in decoctions it is "added near the end"
 - External: crush fresh leaves and rub the juice on insect bites to stop itching
 ```
 
@@ -219,7 +219,7 @@ In detail:
 
 ```
 - Tea: about 3-5 dried flowers up to a small pinch; pour on boiling water
-- Usual dose: 6-15 g (follow the Pharmacopoeia / a practitioner)
+- Usual dose: 6-15 g (follow the Pharmacopoeia / a TCM practitioner)
 - There is no reliable evidence that it "prevents colds"; respiratory infections are
   prevented mainly by ventilation, handwashing, masks and vaccination
 ```
@@ -304,7 +304,7 @@ In detail:
 
 ```
 - Tea: 4-6 dried flowers; pour on boiling water
-- Usual dose: 5-10 g (follow the Pharmacopoeia / a practitioner)
+- Usual dose: 5-10 g (follow the Pharmacopoeia / a TCM practitioner)
 - "Brightening the eyes" is no substitute for an eye examination: sudden loss of vision,
   eye pain, a red eye with headache, or floating dark shapes or flashes of light
   → go to hospital the same day
@@ -389,7 +389,7 @@ For how to build a cellar see [Food Processing and Preservation – Cellar stora
 
 ```
 - Boiled in water: cut 3-5 slices, boil in water for about 10 minutes, drink hot
-- Usual dose: 3-10 g (follow the Pharmacopoeia / a practitioner), about a few slices
+- Usual dose: 3-10 g (follow the Pharmacopoeia / a TCM practitioner), about a few slices
 ```
 
 **Contraindications and warnings**:
@@ -432,7 +432,7 @@ For sowing, care and harvesting in detail see [Vegetable Growing – Garlic](01-
 Correct use: mainly as food
 - Crush it and leave it to stand for about 10 minutes before mixing into food; this keeps more
   of the active substances than cooking whole cloves
-- Usual dose: 9-15 g (follow the Pharmacopoeia / a practitioner), about a few cloves
+- Usual dose: 9-15 g (follow the Pharmacopoeia / a TCM practitioner), about a few cloves
 - Large amounts eaten raw on an empty stomach irritate the stomach; people with gastritis
   or stomach ulcers should eat less
 - Its "antibacterial" and "cold-preventing" effects are limited; it cannot replace antibiotics
@@ -513,7 +513,7 @@ In detail:
 
 ```
 - Young leaves are bitter; blanch, then dress cold or stir-fry
-- Usual dose: 10-15 g (follow the Pharmacopoeia / a practitioner)
+- Usual dose: 10-15 g (follow the Pharmacopoeia / a TCM practitioner)
 - A red, hot, painful, swollen breast with fever (especially when breastfeeding), or a boil
   that is spreading quickly → may be an infection needing antibiotics or incision and
   drainage; see a doctor
@@ -584,7 +584,7 @@ In detail:
 - As a decoction: lung-heat cough, urinary tract infection
 
 ```
-- Usual dose: 15-25 g (follow the Pharmacopoeia / a practitioner); in decoctions do not boil for long
+- Usual dose: 15-25 g (follow the Pharmacopoeia / a TCM practitioner); in decoctions do not boil for long
 - Cough with high fever, chest pain, breathlessness, or coughing up pus or blood,
   and frequent painful urination with fever, back pain or blood in the urine → see a doctor;
   pneumonia and kidney infection (pyelonephritis) need antibiotics
@@ -663,8 +663,8 @@ In detail:
 ```
 - Foot bath: boil a handful of dried mugwort (about 20-30 g) in water for about 10 minutes,
   add cold water to bring it below about 40°C before soaking; test with your elbow first
-- Internal use: usual dose 3-9 g (follow the Pharmacopoeia / a practitioner);
-  internal use must be under a practitioner's guidance; do not boil and drink large amounts
+- Internal use: usual dose 3-9 g (follow the Pharmacopoeia / a TCM practitioner);
+  internal use must be under a TCM practitioner's guidance; do not boil and drink large amounts
   yourself: the volatile oil in mugwort can damage the liver and cause convulsions in large doses
 - Repelling mosquitoes: open the windows when burning mugwort, keep people away from the fire,
   and do not burn it all night in a closed room
@@ -754,7 +754,7 @@ In detail:
 - Nourishes the liver and kidneys, brightens the eyes
 
 ```
-- Usual dose: 6-12 g (follow the Pharmacopoeia / a practitioner), about a small handful
+- Usual dose: 6-12 g (follow the Pharmacopoeia / a TCM practitioner), about a small handful
 - Eaten in moderate amounts as food it is generally safe; do not eat large amounts just
   because it is "nourishing"
 ```
@@ -824,7 +824,7 @@ For how to judge soil texture see [Geology, Minerals and Soil – Simple soil te
 - *Zhigancao* (honey-fried liquorice): stronger actions after frying
 
 ```
-- Usual dose: 2-10 g (follow the Pharmacopoeia / a practitioner)
+- Usual dose: 2-10 g (follow the Pharmacopoeia / a TCM practitioner)
 - In a formula liquorice is mostly a "supporting" herb, and its dose is small anyway;
   do not decoct or chew it alone, for long periods, or in large amounts
 ```
@@ -1038,8 +1038,8 @@ Harvesting:
   sun-dry and rub out the seeds
 
 Use:
-- Usual dose of the plant: 9-30 g; of the seed: 9-15 g, wrapped in cloth when decocted
-  (follow the Pharmacopoeia / a practitioner)
+- Usual dose of the plant: 9-30 g; of the seed: 9-15 g, wrapped in cloth for decoction
+  (follow the Pharmacopoeia / a TCM practitioner)
 
 Contraindications and warnings:
 - It promotes urination: pregnant women, people with poor kidney function and people taking
@@ -1072,7 +1072,7 @@ Use:
 In detail:
 - As a wild vegetable: wash the young stems and leaves, blanch, then dress cold, stir-fry or use
   as a dumpling filling; it can also be blanched and sun-dried to store for winter
-- Usual dose: 9-15 g (follow the Pharmacopoeia / a practitioner)
+- Usual dose: 9-15 g (follow the Pharmacopoeia / a TCM practitioner)
 ```
 
 ```
@@ -1116,7 +1116,7 @@ Harvesting:
 - Cut the spikes when they turn reddish-brown and sun-dry
 
 Use:
-- Usual dose: 9-15 g (follow the Pharmacopoeia / a practitioner)
+- Usual dose: 9-15 g (follow the Pharmacopoeia / a TCM practitioner)
 
 Contraindications and warnings:
 - Cold in nature: use with caution in people with a weak digestion
@@ -1153,7 +1153,7 @@ Harvesting:
   cut and sun-dry
 
 Use:
-- Usual dose: 9-30 g (follow the Pharmacopoeia / a practitioner)
+- Usual dose: 9-30 g (follow the Pharmacopoeia / a TCM practitioner)
 
 Contraindications and warnings:
 - Forbidden in pregnancy; do not use with heavy periods or a tendency to bleed
@@ -1227,7 +1227,7 @@ For identifying the various toxic Chinese medicinals and easily confused poisono
 ### Using herbs safely
 
 ```
-✓ Consult a qualified practitioner of Chinese medicine
+✓ Consult a qualified TCM practitioner
 ✓ Know the contraindications
 ✓ Do not take too much
 ✓ Some herbs must be processed before use

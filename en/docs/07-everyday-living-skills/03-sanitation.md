@@ -269,4 +269,4 @@ Human remains are handled differently from diseased animals; see [Handling remai
 ---
 
 **Next chapter**: [Soap making](04-soap-making.md)
-**Back**: [Chapter index](README.md) | [Main contents](../../README.md)
+**Back to**: [Part contents](README.md) | [Main contents](../../README.md)

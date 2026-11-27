@@ -204,4 +204,4 @@ Dishes:
 ---
 
 **Next chapter**: [Long-term shelter](05-long-term-shelter.md)
-**Back**: [Chapter index](README.md) | [Main contents](../../README.md)
+**Back to**: [Part contents](README.md) | [Main contents](../../README.md)

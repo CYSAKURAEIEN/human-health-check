@@ -138,7 +138,7 @@ More on choosing the site:
 ✓ Put up a tall shelter, open on all sides, to keep off the rain; its roof at
   least 2 m above the furnace mouth, and not made of thatch
 ✓ The water is for putting out fires and rinsing burns: keep buckets in a fixed
-  place a few m away, never in front of the furnace or near the slag hole or the
+  place a few metres away, never in front of the furnace or near the slag hole or the
   pouring area
 ✓ Keep away from haystacks, woodpiles and the edge of woodland; no houses
   downwind of the prevailing wind
@@ -293,7 +293,7 @@ For how to make skin bellows, pot bellows, double-acting piston bellows and wate
 - Preheated blast (using the waste gas to heat the incoming air)
 - Charging in layers
 
-**Furnace shape:** narrow at the top, widest at the middle (the bosh), narrowing gradually down to the tuyere; below the tuyere are the hearth and the tap hole. For dimensions and a cross-section see the links below.
+**Furnace shape:** narrow at the top, widest at the middle (the belly), narrowing gradually down to the tuyere; below the tuyere are the hearth and the tap hole. For dimensions and a cross-section see the links below.
 
 ```
 Why taller and thicker:

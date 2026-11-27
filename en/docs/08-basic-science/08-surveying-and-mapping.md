@@ -248,7 +248,7 @@ Steps for setting the gradient:
 5. Let water in as a test, find where it ponds or scours, and correct those places
 ```
 
-For how to bring water in see [Water Supply Engineering – Conveying and lifting water](../07-everyday-living-skills/10-water-supply.md#carrying-and-lifting-water).
+For how to bring water in see [Water Sources and Water Supply – Conveying and lifting water](../07-everyday-living-skills/10-water-supply.md#carrying-and-lifting-water).
 
 ---
 
@@ -392,7 +392,7 @@ For community records see [Record-Keeping, Trade and Division of Labour – Comm
 | Finding a place again (water source, store, ore site) | Coordinates, bearing and distance |
 | Measuring bridge spans and river widths | Trigonometry |
 
-For terraces and contour planting see [Geology, Minerals and Soil – Protecting the soil](06-geology-minerals-and-soil.md#55-protecting-the-soil); for setting out a house see [Long-Term Housing](../07-everyday-living-skills/05-long-term-shelter.md).
+For terraces and contour planting see [Geology, Minerals and Soil – Protecting the soil](06-geology-minerals-and-soil.md#55-protecting-the-soil); for setting out a house see [Long-term Shelter](../07-everyday-living-skills/05-long-term-shelter.md).
 
 ---
 
@@ -403,7 +403,7 @@ For terraces and contour planting see [Geology, Minerals and Soil – Protecting
 - 🔗 [Measurement and the Scientific Method](00-measurement-and-scientific-method.md) - units, right angles, level, measuring height
 - 🔗 [Mathematics](01-mathematics.md) - trigonometry, coordinates, area
 - 🔗 [Advanced Celestial Navigation](../09-advanced-science-and-engineering/09-celestial-navigation.md) - finding direction, measuring latitude and longitude, angle-measuring instruments
-- 🔗 [Water Supply Engineering](../07-everyday-living-skills/10-water-supply.md) - irrigation channels
+- 🔗 [Water Sources and Water Supply](../07-everyday-living-skills/10-water-supply.md) - irrigation channels
 - 🔗 [Trip Preparation and Calling for Help](../03-wilderness-survival/07-trip-preparation-and-calling-for-help.md) - reading maps, using a compass
 
 ---

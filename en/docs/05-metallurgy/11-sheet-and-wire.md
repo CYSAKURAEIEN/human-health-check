@@ -95,7 +95,7 @@ For the mathematics, see [Mathematics – Geometry](../08-basic-science/01-mathe
 
 ```
 - Folded (grooved) seam: bend the edges of two sheets so they hook into each other,
-  then flatten (see Welding and joining – folded seams in sheet iron)
+  then flatten (see Welding and joining – seaming iron sheet)
 - Riveting: for places that take heavier loads
 - Soft soldering: after folding or lapping, seal the seam with tin so it does not leak
 ```

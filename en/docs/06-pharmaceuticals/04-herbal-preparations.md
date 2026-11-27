@@ -25,11 +25,11 @@ How to read this chapter:
   and see the doctor first; this chapter is for reference when medicines cannot be
   bought and no doctor can be found
 - The amounts given in this chapter are the usual range of dried herb per day for an adult,
-  according to the 2020 edition of the Pharmacopoeia of the People's Republic of China,
+  according to the 2020 edition of the Chinese Pharmacopoeia,
   consistent with the chapter on medicinal plants
   (the current edition is the 2025 edition; the current text takes precedence);
   they are only a reminder "not to exceed the dose"; whether to use a herb and how much
-  should follow the guidance of a practitioner of Chinese medicine
+  should follow the guidance of a TCM practitioner
 - Children, older people, pregnant and breastfeeding women, people with liver or
   kidney disease, and people on long-term Western medicines: ask a doctor first (see 6.2-6.5)
 - No improvement after 2-3 days, or any of the situations listed in 6.7 → see a doctor;
@@ -121,7 +121,7 @@ Action: induces sweating and releases the exterior
 Ingredients:
   - Jinyinhua (Lonicera japonica, honeysuckle flower): 15 g
   - Lianqiao (Forsythia suspensa, forsythia fruit): 15 g
-  - Bohe (Mentha haplocalyx, Chinese field mint): 6 g (added last)
+  - Bohe (Mentha haplocalyx, Chinese field mint): 6 g (added near the end)
   - Niubangzi (Arctium lappa, burdock fruit): 9 g
   - Jiegeng (Platycodon grandiflorus, balloon flower root): 6 g
   - Gancao: 3 g
@@ -148,7 +148,7 @@ Doses follow the usual Pharmacopoeia ranges (*Jinyinhua* 6-15 g, *Juhua* 5-10 g,
 
 #### Food stagnation and bloating
 
-**Formula:** *Baohe Wan* (Preserving Harmony Pill)
+**Formula:** *Baohe Wan* (Harmony-Preserving Pill)
 ```
 Ingredients:
   - Shanzha (Crataegus pinnatifida, Chinese hawthorn fruit): 12 g (relieves food stagnation)
@@ -281,7 +281,7 @@ Ingredients:
   - Jinyinhua: 15 g
   - Yejuhua (Chrysanthemum indicum, wild chrysanthemum flower): 15 g
   - Pugongying: 15 g
-  - Zihuadiding (Viola yedoensis, Chinese violet): 15 g
+  - Zihuadiding (Viola yedoensis, Yedo violet): 15 g
   - Zibeitiankui (Semiaquilegia adoxoides, tiankui): 15 g
 
 Preparation: take as a decoction
@@ -678,7 +678,7 @@ For systematic herb identification, look-alikes and fakes, processing at the pla
 
 **Use:**
 - Fresh: mash and apply to the affected area
-- Dried: as a decoction, 10-15 g (according to the Pharmacopoeia / a practitioner of Chinese medicine)
+- Dried: as a decoction, 10-15 g (according to the Pharmacopoeia / a TCM practitioner)
 
 #### Aiye (Chinese mugwort leaf)
 
@@ -695,7 +695,7 @@ For systematic herb identification, look-alikes and fakes, processing at the pla
 - Stops bleeding when used externally
 
 **Use:**
-- Decoction: 3-9 g (according to the Pharmacopoeia / a practitioner of Chinese medicine; *Aiye* is slightly toxic: do not exceed the dose or take it for a long time)
+- Decoction: 3-9 g (according to the Pharmacopoeia / a TCM practitioner; *Aiye* is slightly toxic: do not exceed the dose or take it for a long time)
 - External: mash and apply, or use as a fumigant
 - Moxibustion: made into moxa sticks
 
@@ -710,7 +710,7 @@ For systematic herb identification, look-alikes and fakes, processing at the pla
 
 **Actions:** promotes urination and relieves painful urination, clears heat and removes toxins
 
-**Use:** decoction, 9-30 g (according to the Pharmacopoeia / a practitioner of Chinese medicine); it promotes urination, so people taking lithium or diuretics should ask a doctor first
+**Use:** decoction, 9-30 g (according to the Pharmacopoeia / a TCM practitioner); it promotes urination, so people taking lithium or diuretics should ask a doctor first
 
 #### Jinyinhua (honeysuckle flower)
 
@@ -726,7 +726,7 @@ For systematic herb identification, look-alikes and fakes, processing at the pla
 - Sore, swollen throat
 - Boils
 
-**Use:** as a decoction or tea, 6-15 g (according to the Pharmacopoeia / a practitioner of Chinese medicine); take care to tell it apart from the poisonous *Gouwen* (Gelsemium elegans, heartbreak grass); see [Gouwen vs Jinyinhua](../10-chinese-medicinal-herbs/09-toxic-herbs-and-poisonous-look-alikes.md#42-gouwen-heartbreak-grass-vs-jinyinhua-honeysuckle)
+**Use:** as a decoction or tea, 6-15 g (according to the Pharmacopoeia / a TCM practitioner); take care to tell it apart from the poisonous *Gouwen* (Gelsemium elegans, heartbreak grass); see [Gouwen vs Jinyinhua](../10-chinese-medicinal-herbs/09-toxic-herbs-and-poisonous-look-alikes.md#42-gouwen-heartbreak-grass-vs-jinyinhua-honeysuckle)
 
 ### 4.2 Collecting in autumn
 
@@ -740,7 +740,7 @@ For systematic herb identification, look-alikes and fakes, processing at the pla
 
 **Actions:** disperses wind-heat, clears the liver and brightens the eyes
 
-**Use:** decoction, 5-10 g (according to the Pharmacopoeia / a practitioner of Chinese medicine)
+**Use:** decoction, 5-10 g (according to the Pharmacopoeia / a TCM practitioner)
 
 #### Juhua (chrysanthemum flower)
 
@@ -752,7 +752,7 @@ For systematic herb identification, look-alikes and fakes, processing at the pla
 
 **Actions:** disperses wind-heat, clears the liver and brightens the eyes
 
-**Use:** as a tea or decoction, 5-10 g (according to the Pharmacopoeia / a practitioner of Chinese medicine); people allergic to plants of the daisy family should not use it
+**Use:** as a tea or decoction, 5-10 g (according to the Pharmacopoeia / a TCM practitioner); people allergic to plants of the daisy family should not use it
 
 #### Shanzha (Chinese hawthorn fruit)
 
@@ -764,7 +764,7 @@ For systematic herb identification, look-alikes and fakes, processing at the pla
 
 **Actions:** relieves food stagnation and clears accumulation, invigorates the blood and disperses stasis
 
-**Use:** decoction, 9-12 g (according to the Pharmacopoeia / a practitioner of Chinese medicine), or eaten raw as fruit in small amounts; people with excess stomach acid or stomach ulcers should use less
+**Use:** decoction, 9-12 g (according to the Pharmacopoeia / a TCM practitioner), or eaten raw as fruit in small amounts; people with excess stomach acid or stomach ulcers should use less
 
 ### 4.3 Roots and rhizomes (collected in autumn and winter)
 
@@ -775,7 +775,7 @@ For systematic herb identification, look-alikes and fakes, processing at the pla
 **Actions:** releases the exterior and dispels cold, warms the middle and stops vomiting
 
 **Use:**
-- Colds: 3-10 g (a few slices) as a decoction (according to the Pharmacopoeia / a practitioner of Chinese medicine)
+- Colds: 3-10 g (a few slices) as a decoction (according to the Pharmacopoeia / a TCM practitioner)
 - Vomiting: use the lower amount; decoct a few slices or hold them in the mouth
 
 #### Danggui (Chinese angelica)
@@ -789,7 +789,7 @@ For systematic herb identification, look-alikes and fakes, processing at the pla
 
 **Actions:** nourishes and invigorates the blood, regulates menstruation and relieves pain
 
-**Use:** decoction, 6-12 g (according to the Pharmacopoeia / a practitioner of Chinese medicine); use with caution in pregnancy, heavy periods or diarrhoea; people taking warfarin or other anticoagulants should not use it
+**Use:** decoction, 6-12 g (according to the Pharmacopoeia / a TCM practitioner); use with caution in pregnancy, heavy periods or diarrhoea; people taking warfarin or other anticoagulants should not use it
 
 ---
 
@@ -858,11 +858,11 @@ Why not iron, aluminium or copper pans:
 - Minerals and shells (*Shigao*, *Longgu*, etc.)
 - Put into the pot 30 minutes ahead of the others
 
-**Added last:**
+**Added near the end:**
 - Aromatic herbs (*Bohe*, *Huoxiang*, etc.)
 - Put into the pot for the last 5-10 minutes
 
-**Wrapped:**
+**Wrapped in cloth for decoction:**
 - Tiny seeds, pollen
 - Wrap in gauze and decoct
 
@@ -988,7 +988,7 @@ One dose of herbs is usually decocted twice and drunk within one day:
 ```
 More on medicines in pregnancy:
 - "Relatively safe" is only by comparison; using any Chinese medicine in pregnancy needs
-  the guidance of a practitioner of Chinese medicine or a doctor;
+  the guidance of a TCM practitioner or a doctor;
   avoid medicines as far as possible in the first 3 months of pregnancy
 - Others in this chapter that pregnant women must avoid: Sanqi (by mouth), Mahuang,
   Shanzha (large amounts), medicinal wines, plasters containing red lead
@@ -1001,7 +1001,7 @@ More on medicines in pregnancy:
 
 ### 6.3 Medicines for children
 
-**Dose:** see [Basic pharmaceutical knowledge – adult vs child doses](00-pharmacy-basics.md#23-adult-vs-child-doses); the formulas there are only rough estimates, and children's doses of Chinese medicine are best set by a doctor
+**Dose:** see [Pharmacy basics – adult vs child doses](00-pharmacy-basics.md#23-adult-vs-child-doses); the formulas there are only rough estimates, and children's doses of Chinese medicine are best set by a doctor
 
 **Do not use:**
 - Medicines containing heavy metals (*Zhusha* (cinnabar, mercury sulphide), *Xionghuang* (realgar, arsenic sulphide))
@@ -1066,7 +1066,7 @@ Key points:
   supplements you are taking, and write them on your medication card
 ```
 
-For which herbs clash with which Western medicines see [Medicinal plants – warnings on use with Western medicines](../04-farming-and-animal-husbandry/04-medicinal-plants.md#taking-herbs-with-western-medicines); for the medication card and medicines that must not be stopped suddenly see [Chronic disease medication stockpile](../01-first-aid-and-family-health/08-chronic-medication-stockpile.md#the-most-dangerous-medicines-to-stop-suddenly).
+For which herbs clash with which Western medicines see [Medicinal plants – warnings on use with Western medicines](../04-farming-and-animal-husbandry/04-medicinal-plants.md#taking-herbs-with-western-medicines); for the medication card and medicines that must not be stopped suddenly see [Chronic medication stockpile](../01-first-aid-and-family-health/08-chronic-medication-stockpile.md#the-most-dangerous-medicines-to-stop-suddenly).
 
 ### 6.6 Toxic Chinese medicines
 
@@ -1082,7 +1082,7 @@ The toxic herbs you will meet in this chapter and in common folk remedies: **do 
 | *Zhusha*, *Xionghuang*, *Huangdan* (contain mercury, arsenic, lead) | Heavy-metal poisoning; the damage is hard to reverse | Do not take by mouth, do not give to children; do not make plasters containing red lead |
 | *Guanmutong* (Aristolochia manshuriensis), *Guangfangji* (Aristolochia fangchi), *Qingmuxiang* (Aristolochia debilis root), *Madouling* (Aristolochia fruit, birthwort) | Aristolochic acid causes kidney failure and cancer | Do not gather plants yourself whose names contain "*mutong*" or "*fangji*" |
 | *Heshouwu* (especially raw) | Liver damage | Do not take it on your own for long periods; people with liver disease should not use it |
-| *Xixin* | Marked slightly toxic in the Pharmacopoeia; too much can cause fits and depressed breathing | Use only the root and rhizome, not the whole plant with leaves (the leaves contain aristolochic acid); the dose is very small; only on the prescription of a practitioner of Chinese medicine |
+| *Xixin* | Marked slightly toxic in the Pharmacopoeia; too much can cause fits and depressed breathing | Use only the root and rhizome, not the whole plant with leaves (the leaves contain aristolochic acid); the dose is very small; only on the prescription of a TCM practitioner |
 | *Shanglu*, *Mantuoluo* (*Yangjinhua*, Datura metel flower), *Gansui*, *Daji*, *Yuanhua*, *Badou*, *Banmao* | Highly toxic or violently purgative | Do not use |
 
 ```
@@ -1235,7 +1235,7 @@ How to store them:
    in lidded clay, glass or tin jars, or thick plastic bags tied tightly shut
 3. Label: name, source (gathered yourself / bought), date gathered or bought
 4. Keep in a cool, dry, dark place, off the floor and away from the walls;
-   in humid seasons (the plum-rain season, the damp "huinantian" spells in southern China)
+   in humid seasons (the plum-rain season, the damp *huinantian* spells in southern China)
    check them once a month
 5. Against insects: you can put a few Sichuan peppercorns in the jar; deal separately with
    anything insect-eaten
@@ -1271,13 +1271,13 @@ For drying and storing food and for aflatoxin see [Food processing and preservat
 
 ## Related chapters
 
-- ⏮️ [Basic pharmaceutical knowledge](00-pharmacy-basics.md) - principles of extraction and processing
+- ⏮️ [Pharmacy basics](00-pharmacy-basics.md) - principles of extraction and processing
 - ⏮️ [Making disinfectants](01-disinfectants.md) - use together
 - 🔗 [Farming and animal husbandry – medicinal plants](../04-farming-and-animal-husbandry/04-medicinal-plants.md) - growing medicinal herbs
 - 🔗 [Identifying and collecting Chinese medicinal herbs](../10-chinese-medicinal-herbs/README.md) - how to recognise herbs, when to collect them, poisonous look-alikes
 - 🔗 [First Aid and Family Health](../01-first-aid-and-family-health/README.md) - situations where medicines are used
 - 🔗 [Poisoning](../01-first-aid-and-family-health/12-poisoning.md) - treating drug and plant poisoning
-- 🔗 [Chronic disease medication stockpile](../01-first-aid-and-family-health/08-chronic-medication-stockpile.md) - long-term medicines cannot be replaced by Chinese herbs
+- 🔗 [Chronic medication stockpile](../01-first-aid-and-family-health/08-chronic-medication-stockpile.md) - long-term medicines cannot be replaced by Chinese herbs
 
 ---
 

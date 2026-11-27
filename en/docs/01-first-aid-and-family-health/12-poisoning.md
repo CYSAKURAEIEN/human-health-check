@@ -292,5 +292,5 @@ Other:
 
 ---
 
-**Next chapter**: [Elder care](13-elder-care.md)
-**Back to**: [Chapter list](README.md) | [Main contents](../../README.md)
+**Next chapter**: [Elder Care](13-elder-care.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

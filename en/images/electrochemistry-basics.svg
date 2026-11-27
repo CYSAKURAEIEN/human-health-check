@@ -19,7 +19,7 @@
 <rect x="40" y="378" width="174" height="22" rx="3" fill="#fbe9e9"/>
 <rect x="40" y="350" width="174" height="22" rx="3" fill="none" stroke="#999" stroke-dasharray="3 3"/>
 <path d="M26,450 V108" stroke="#555" stroke-width="1.8" marker-end="url(#arK)"/>
-<text x="20" y="250" font-size="12" fill="#555" transform="rotate(-90 20 250)" text-anchor="middle">higher = more reactive, loses electrons more easily</text>
+<text x="20" y="250" font-size="12" fill="#555" transform="rotate(-90 20 250)" text-anchor="middle">further up = more reactive, loses electrons more easily</text>
 <g font-size="13">
 <text x="48" y="116">Lithium Li⁺/Li</text><text x="206" y="116" text-anchor="end">-3.04</text>
 <text x="48" y="144">Potassium K⁺/K</text><text x="206" y="144" text-anchor="end">-2.93</text>

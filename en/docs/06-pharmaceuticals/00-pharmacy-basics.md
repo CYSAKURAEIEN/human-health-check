@@ -176,7 +176,7 @@ Example: adult dose 100 mg, child aged 5
 **Special groups:**
 - Older people: reduce the dose by 1/4-1/3
 - Pregnant women: most medicines are forbidden!
-- Kidney / liver failure: reduce the dose
+- Impaired kidney / liver function: reduce the dose
 
 ```
 Notes:
@@ -830,7 +830,7 @@ Suggested improvements: ____
 | Datura (thorn apple) | Hyoscyamine | Small amounts (a child eating a few seeds can be severely poisoned) | Hallucinations, coma |
 | Aconite (*wutou*) | Aconitine | 3-5 mg (0.2 mg can cause poisoning) | Cardiac arrest |
 | Oleander | Cardiac glycosides | Small amounts | Abnormal heart rhythm |
-| Poison hemlock | Coniine | Small amounts | Convulsions, respiratory failure |
+| Water hemlock | Cicutoxin | Small amounts | Convulsions, respiratory failure |
 
 **Principle: never use a plant you do not recognise!**
 
@@ -984,7 +984,7 @@ Skin and mucous membranes
   blisters and peeling skin appear, with ulcers in the mouth, eyes or
   genitals → a severe drug rash; see a doctor at once
   (it often appears days to weeks after starting a medicine, e.g. some
-   anti-epileptic drugs, sulphonamides, allopurinol, some antibiotics and
+   anti-epileptic drugs, sulfonamides, allopurinol, some antibiotics and
    fever and pain medicines)
 
 Liver

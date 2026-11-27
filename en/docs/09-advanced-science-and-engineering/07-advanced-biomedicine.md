@@ -181,7 +181,7 @@ Low blood sugar (hypoglycaemia): most common in people with diabetes taking
   If the person is conscious, give sugar at once
 ```
 
-For handling low blood sugar see [Cardiovascular and Sudden Illness – Low blood sugar](../01-first-aid-and-family-health/06-heart-stroke-and-sudden-illness.md#hypoglycaemia-low-blood-sugar).
+For handling low blood sugar see [Heart, Stroke and Sudden Illness – Low blood sugar](../01-first-aid-and-family-health/06-heart-stroke-and-sudden-illness.md#hypoglycaemia-low-blood-sugar).
 
 ---
 
@@ -256,7 +256,7 @@ body weight
 ✓ Take a list of all the medicines you are on to every medical appointment
 ```
 
-For medication information cards see [Chronic Disease Medication Stockpile](../01-first-aid-and-family-health/08-chronic-medication-stockpile.md).
+For medication information cards see [Chronic Medication Stockpile](../01-first-aid-and-family-health/08-chronic-medication-stockpile.md).
 
 ---
 
@@ -340,7 +340,7 @@ with the symptoms
   difficulty breathing, blood in the stool)
 ```
 
-For danger signs of all kinds see "When to seek medical help immediately" in the [First Aid and Family Health](../01-first-aid-and-family-health/README.md) part.
+For danger signs of all kinds see "When you must get medical help immediately" in the [First Aid and Family Health](../01-first-aid-and-family-health/README.md) part.
 
 ---
 

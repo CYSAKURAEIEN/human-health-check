@@ -10,9 +10,9 @@ These skills are useful in ordinary times, and they become critical when the wat
 
 1. [Food processing and preservation](01-food-processing-and-preservation.md) - sun-drying, salting, fermenting, smoking, cellar storage, canning, tofu; high-risk foods
 2. [Nutrition and deficiency diseases](02-nutrition-and-deficiency-diseases.md) - recognising and preventing scurvy, beriberi, pellagra and others; special groups
-3. [Sanitation](03-sanitation.md) - emergency toilets, dry toilets, handwashing stations, using excreta, waste disposal
+3. [Sanitation](03-sanitation.md) - emergency toilets, pit latrines, handwashing stations, using excreta, waste disposal
 4. [Soap making](04-soap-making.md) - soap pods and soapnuts, making soap with plant-ash lye
-5. [Long-term housing](05-long-term-shelter.md) - choosing a site, keeping out damp, adobe and rammed-earth walls, timber frames, earthquake resistance, insulation, the *kang* (heated brick bed), stoves and chimneys
+5. [Long-term shelter](05-long-term-shelter.md) - choosing a site, keeping out damp, adobe and rammed-earth walls, timber frames, earthquake resistance, insulation, the *kang* (heated brick bed), stoves and chimneys
 6. [Lighting and energy](06-lighting-and-energy.md) - emergency lighting, home-made oil lamps and candles, fuel storage, generators, small-scale solar power, biogas
 7. [Textiles, mending and tanning](07-textiles-sewing-and-tanning.md) - mending stitches, spinning, knitting and weaving, tanning hides and furs
 8. [Household electrical safety](08-household-electrical-safety.md) - residual-current devices, power strips, high-power appliances, charging electric bikes, restoring power after a disaster

@@ -266,7 +266,7 @@ Options:
 3. A thick iron can (makeshift)
    ⚠️ Only as a short-term emergency: at the melting temperature of copper, iron oxidises
       badly and soon burns through, and iron gets into the copper → not recommended;
-      if you have a clay-graphite crucible or a home-made clay crucible, do not use it
+      if you have a clay-graphite or home-made clay crucible, do not use an iron can
 ```
 
 **Home-made clay crucible:**

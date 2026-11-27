@@ -298,7 +298,7 @@ knowing how they worked:
      whose seed can be saved
 ```
 
-For how to save seed see [Grain crops – Seed storage](../04-farming-and-animal-husbandry/02-grain-crops.md#seed-saving).
+For how to save seed see [Grain crops – Seed saving](../04-farming-and-animal-husbandry/02-grain-crops.md#seed-saving).
 
 ### 6.3 The harm of inbreeding
 
@@ -374,7 +374,7 @@ which can kill
   medication information card
 ```
 
-For the medication information card see [Stockpiling medicines for chronic conditions](../01-first-aid-and-family-health/08-chronic-medication-stockpile.md).
+For the medication information card see [Chronic medication stockpile](../01-first-aid-and-family-health/08-chronic-medication-stockpile.md).
 
 ---
 
@@ -485,7 +485,7 @@ Isolation and quarantine:
 - ⏭️ [The periodic table](05-periodic-table.md)
 - 🔗 [Infectious disease at home](../01-first-aid-and-family-health/15-infectious-disease-at-home.md) - germ theory in practice
 - 🔗 [Nutrition and deficiency diseases](../07-everyday-living-skills/02-nutrition-and-deficiency-diseases.md) - preventing deficiency diseases
-- 🔗 [Farming and animal husbandry](../04-farming-and-animal-husbandry/README.md) - selection and breeding, crop rotation, fertilising
+- 🔗 [Growing Plants and Raising Animals](../04-farming-and-animal-husbandry/README.md) - selection and breeding, crop rotation, fertilising
 - 🔗 [Pharmaceuticals](../06-pharmaceuticals/README.md) - disinfection, antibiotics, medicines
 
 ---

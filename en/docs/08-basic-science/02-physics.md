@@ -385,7 +385,7 @@ Heating value of fuels (heat released by burning 1 kg completely, approximate):
   petrol and diesel about 45 MJ; biogas (mainly methane) about 20 MJ/m³
 ```
 
-For practical insulation see [Long-term housing – insulation](../07-everyday-living-skills/05-long-term-shelter.md#insulation).
+For practical insulation see [Long-term Shelter – insulation](../07-everyday-living-skills/05-long-term-shelter.md#insulation).
 
 ### 5.5 Thermal expansion
 
@@ -518,7 +518,7 @@ Ohm's law: U = I × R (voltage = current × resistance)
 
 Electrical power: P = U × I = I² × R = U² ÷ R
 Electrical energy: E = P × t
-  A 1000 W appliance used for 1 hour = 1 kWh = 1 "du" of electricity
+  A 1000 W appliance used for 1 hour = 1 kWh = 1 *du* of electricity
 
 Example: a 220 V, 1100 W electric kettle draws a current of 1100 ÷ 220 = 5 A
 ```

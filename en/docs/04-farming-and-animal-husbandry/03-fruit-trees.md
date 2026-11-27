@@ -210,7 +210,7 @@ Depth:
 
 2. Add base fertiliser and backfill:
    - In each pit put about 20-30 kg of well-rotted farmyard manure (stable manure, compost);
-     you can also add about 0.5-1 kg of bone meal or superphosphate and about 1 kg of plant ash
+     you can also add about 0.5-1 kg of bone meal or superphosphate and about 1 kg of wood ash
    - First lay a layer of straw, weeds or leaves about 20 cm thick at the bottom (especially useful on
      clay, to improve aeration)
    - Mix the fertiliser thoroughly with topsoil and fill the middle and lower part of the pit
@@ -385,7 +385,7 @@ Features:
 - Like moist conditions
 
 Care:
-- Training and pruning (delayed-open central leader form)
+- Training and pruning (tiered central leader form)
 - Plenty of irrigation
 - Thin flowers and fruit (improves quality)
 
@@ -768,7 +768,7 @@ Beginner-friendly!
 - Rootstock: date-plum in the north, wild persimmon in the south
 - Most varieties set fruit without pollination (parthenocarpy); where male flowers are scarce, a nearby
   persimmon or wild persimmon with male flowers helps reduce fruit drop
-- Tree form: delayed-open central leader or natural open centre; mainly thin out, cut back little
+- Tree form: tiered central leader or natural open centre; mainly thin out, cut back little
   (persimmon flower buds are near the shoot tips, so heading back removes them)
 - Little care needed, few pests and diseases; the persimmon fruit moth bores into the fruit and infested
   fruit drops early – pick it up and burn it as you go;
@@ -948,7 +948,7 @@ How much to cut:
 
 **Common tree forms**:
 - Open-centre: hollow centre, good air flow
-- Delayed-open central leader: has a central leader
+- Tiered central leader: has a central leader
 - Spindle: for close-planted orchards
 
 ```
@@ -961,7 +961,7 @@ Natural open-centre (peach, plum, apricot; also usable for apple, pear, persimmo
   in the second and third year cut out the upright central shoot
 - Keep the tree about 2.5-3 m tall for easy picking
 
-Delayed-open central leader (a kind of leader form; vigorous apple trees, pear, persimmon, walnut, chestnut):
+Tiered central leader (a kind of leader form; vigorous apple trees, pear, persimmon, walnut, chestnut):
 - Has a central leader, with main branches in 2-3 tiers, 5-7 in all
   - 3 in the first tier, 2 in the second, 1-2 in the third
   - About 80-100 cm between tiers, so light gets into the inner crown
@@ -979,7 +979,7 @@ Spindle / slender spindle (close-planted dwarf apples and pears):
 
 ![The basic pruning cuts, cut positions and three common tree forms](../../images/fruit-tree-pruning.svg)
 
-*Figure: Heading back, thinning out, cutting back, leaving unpruned; cut about 0.5-1 cm above a bud with the bud facing outwards, thinning cuts flush with the collar, the three-cut method for big branches; natural open-centre, delayed-open central leader and spindle forms*
+*Figure: Heading back, thinning out, cutting back, leaving unpruned; cut about 0.5-1 cm above a bud with the bud facing outwards, thinning cuts flush with the collar, the three-cut method for big branches; natural open-centre, tiered central leader and spindle forms*
 
 ### Fertilising
 
@@ -1002,7 +1002,7 @@ Amount (rule of thumb):
 - Young trees: about 5-10 kg per tree
 - Mature trees: about 20-50 kg per tree;
   the rule of thumb is "1-2 kg of well-rotted organic fertiliser for every 1 kg of fruit produced"
-- You can add bone meal and plant ash at the same time (phosphorus, potassium)
+- You can add bone meal and wood ash at the same time (phosphorus, potassium)
 
 Methods:
 1. Ring trench: dig a trench right round the outer edge of the crown (where roots absorb most actively),
@@ -1016,7 +1016,7 @@ Methods:
 ⚠️ It must be well rotted: raw manure burns roots and attracts soil pests
 ```
 
-For safe treatment of manure and urine and composting times, see [Sanitation - Using faeces and urine](../07-everyday-living-skills/03-sanitation.md#using-faeces-and-urine); for the roles of nitrogen, phosphorus and potassium, see [Farming and animal husbandry - Fertilising](README.md#fertilising).
+For safe treatment of manure and urine and composting times, see [Sanitation - Using faeces and urine](../07-everyday-living-skills/03-sanitation.md#using-faeces-and-urine); for the roles of nitrogen, phosphorus and potassium, see [Growing plants and raising animals - Fertilising](README.md#fertilising).
 
 **Top-dressing** (growing season):
 ```
@@ -1037,9 +1037,9 @@ In practice:
 - Without chemical fertiliser: well-rotted human urine or biogas slurry diluted 5-10 times,
   or well-rotted chicken manure or oilseed cake
   - Mature trees: each time about 20-30 L of diluted urine per tree, or 3-5 kg of well-rotted chicken manure
-- Give extra potassium during fruit swelling: about 1-2 kg of plant ash per tree, spread on the basin
+- Give extra potassium during fruit swelling: about 1-2 kg of wood ash per tree, spread on the basin
   and forked in shallowly
-  (do not store plant ash mixed with human manure and urine or ammonium nitrogen fertiliser – nitrogen is lost)
+  (do not store wood ash mixed with human manure and urine or ammonium nitrogen fertiliser – nitrogen is lost)
 - Foliar feeding: urea about 0.3-0.5%, monopotassium phosphate about 0.2-0.3% (mix as the packet says);
   spray the undersides of the leaves in the evening or on cloudy days. It acts fast but is only a supplement
 - How to judge:

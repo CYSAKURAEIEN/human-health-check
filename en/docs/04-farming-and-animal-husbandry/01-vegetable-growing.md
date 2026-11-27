@@ -148,7 +148,7 @@ Principles for ordering crops:
   flooding kills large numbers of soil-borne pathogens and nematodes
 ```
 
-For the four-year rotation plan see [this part's README – Rotation plan](README.md#rotation-plan-4-years); for rotating grain crops see [Staple crops – Rotation schemes](02-grain-crops.md#crop-rotation).
+For the four-year rotation plan see [this part's README – Rotation plan](README.md#rotation-plan-4-years); for rotating grain crops see [Grain crops – Rotation schemes](02-grain-crops.md#crop-rotation).
 
 ### Intercropping and relay cropping
 
@@ -1846,5 +1846,5 @@ Safety:
 
 ---
 
-**Next chapter**: [Staple crops](02-grain-crops.md)
+**Next chapter**: [Grain crops](02-grain-crops.md)
 **Back to**: [Chapter list](README.md) | [Main contents](../../README.md)

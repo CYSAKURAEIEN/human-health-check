@@ -173,7 +173,7 @@ On a flat coastal plain, if you cannot get 30 m up or 3 km away within a few min
 How to choose a building:
 ✓ First choice: tsunami evacuation buildings or emergency shelters designated by the local government
 ✓ Next: reinforced-concrete schools, hospitals, hotels, shopping centres, multi-storey car parks
-✓ The higher the floor the better, at least the 3rd floor; go up to the roof if you can
+✓ The higher the better, at least 3 storeys up; go up to the roof if you can
 ✓ The further from the sea the better; the side facing away from the sea is safer
 ❌ Avoid: wooden buildings, single-storey brick-and-tile houses, prefabricated huts,
    old or unsafe buildings, basements
@@ -668,7 +668,7 @@ What to do:
 Wearing a life jacket greatly reduces the risk from cold shock — another reason you must wear one
 ```
 
-For what happens over the next 10 minutes and the next hour, see the "1-10-1" rule in [Wading, Flash Floods and Hypothermia in the Wild – Falling into cold water](../03-wilderness-survival/08-river-crossing-flash-floods-and-hypothermia.md#falling-into-cold-water).
+For what happens over the next 10 minutes and the next hour, see the "1-10-1" rule in [River Crossings, Flash Floods and Hypothermia in the Wild – Falling into cold water](../03-wilderness-survival/08-river-crossing-flash-floods-and-hypothermia.md#falling-into-cold-water).
 
 ### Keeping warm while waiting for rescue
 

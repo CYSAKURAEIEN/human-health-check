@@ -1,4 +1,4 @@
-# Skin conditions and parasites
+# Skin Conditions and Parasites
 
 ## Contents
 - [Why they matter](#why-they-matter)
@@ -221,5 +221,5 @@ For general control of infectious diseases, see [Infectious disease at home](15-
 
 ---
 
-**Next chapter**: [Menstrual hygiene and contraception](17-menstrual-hygiene-and-contraception.md)
-**Back to**: [Chapter list](README.md) | [Main contents](../../README.md)
+**Next chapter**: [Menstrual Hygiene and Contraception](17-menstrual-hygiene-and-contraception.md)
+**Back**: [Chapter index](README.md) | [Main contents](../../README.md)

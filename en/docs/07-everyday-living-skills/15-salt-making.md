@@ -100,7 +100,7 @@ Salt fish: as much salt as for meat, or more
 Short-term storage of fresh hides: cover the flesh side with coarse salt, about a third to a half of the fresh hide weight
 ```
 
-For curing methods see [Food Processing and Preservation – Salting](01-food-processing-and-preservation.md#salting); for salting fresh hides see [Textiles, Mending and Tanning – Short-term storage](07-textiles-sewing-and-tanning.md#step-2-temporary-storage-if-you-cannot-tan-straight-away); for adding salt in soap making see [Soap Making – Adding salt to harden](04-soap-making.md#optional-adding-salt-to-harden-it).
+For curing methods see [Food Processing and Preservation – Salting](01-food-processing-and-preservation.md#salting); for salting fresh hides see [Textiles, Sewing and Tanning – Temporary storage](07-textiles-sewing-and-tanning.md#step-2-temporary-storage-if-you-cannot-tan-straight-away); for adding salt in soap making see [Soap Making – Adding salt to harden](04-soap-making.md#optional-adding-salt-to-harden-it).
 
 ### How much salt a community needs in a year (estimate)
 
@@ -415,7 +415,7 @@ For purer salt, repeat once (recrystallisation)
   Glauber's salt (sodium sulphate) and saltpetre become far less soluble in cold water, while table salt hardly changes
   → In winter, leave strong brine outside to cool overnight; the large clear crystals that form at the bottom of the vat are mostly Glauber's salt or saltpetre: lift them out and do not eat them
   → Boil the remaining brine for salt; it will be much less bitter
-  (Glauber's salt can be used in dressing hides; see the chapter on textiles, mending and tanning)
+  (Glauber's salt can be used in dressing hides; see the chapter on textiles, sewing and tanning)
 ```
 
 For the principle of recrystallisation see [Chemistry – Solubility](../08-basic-science/03-chemistry.md#53-solubility).
@@ -546,4 +546,4 @@ For treating scalds see [Wound and Injury Care – Scalds and burns](../01-first
 ---
 
 **Next chapter**: [Lime and Building Materials](16-lime-and-building-materials.md)
-**Back**: [Chapter index](README.md) | [Main contents](../../README.md)
+**Back to**: [Part contents](README.md) | [Main contents](../../README.md)

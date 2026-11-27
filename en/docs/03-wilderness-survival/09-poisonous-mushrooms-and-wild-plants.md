@@ -130,13 +130,13 @@ For general management of poisoning, see [Poisoning – General principles of ma
 
 | Poisonous plant | Often mistaken for | Danger |
 |----------|-----------|------|
-| *Gouwen* (Gelsemium elegans, "heartbreak grass") | Honeysuckle, other herbs | Extremely toxic; a small amount can kill by paralysing breathing |
+| *Gouwen* (Gelsemium elegans, heartbreak grass) | Honeysuckle, other herbs | Extremely toxic; a small amount can kill by paralysing breathing |
 | Water hemlock (Cicuta virosa) | Wild celery, water dropwort (Chinese celery) | Whole plant poisonous; convulsions, paralysed breathing |
 | Pokeweed root (Phytolacca) | Ginseng | Vomiting, diarrhoea, convulsions; paralysed breathing when severe |
 | Seeds, fruit and flowers of thorn apple (Datura) | Gets into food by mistake, mistaken for a herb | Dry mouth, flushed skin, dilated pupils, hallucinations, frenzy |
-| Fruit of *masang* (Coriaria) | Wild berries (children often eat them) | Convulsions, coma |
+| Fruit of *Masang* (Coriaria) | Wild berries (children often eat them) | Convulsions, coma |
 | Castor beans | Nuts | Severe vomiting and diarrhoea, dehydration; can be fatal |
-| Aconite: *wutou*, *caowu*, *fuzi* (Aconitum) | Home-picked, home-made medicinal wine or stews | Heart rhythm disturbance, cardiac arrest; extremely dangerous |
+| Aconite: *Wutou*, *Caowu*, *Fuzi* (Aconitum) | Home-picked, home-made medicinal wine or stews | Heart rhythm disturbance, cardiac arrest; extremely dangerous |
 | Bitter apricot kernels, peach kernels, raw cassava | Nuts, food | Contain cyanide; poisoning when eaten raw or in quantity |
 
 ```
@@ -174,9 +174,9 @@ When eating:
 
 ### About the "edibility test"
 
-Some survival guides describe a step-by-step "universal edibility test". **This test cannot detect slow-acting toxins** (the toxins of poisonous mushrooms and some plants take hours to days to act), **and it does not work at all for mushrooms**. People can go several weeks without food, but eating a highly toxic plant once can kill. See the warning in [Basic Survival Skills – Edible plant test](00-basic-survival-skills.md#edibility-test-for-plants).
+Some survival guides describe a step-by-step "universal edibility test". **This test cannot detect slow-acting toxins** (the toxins of poisonous mushrooms and some plants take hours to days to act), **and it does not work at all for mushrooms**. People can go several weeks without food, but eating a highly toxic plant once can kill. See the warning in [Basic Survival Skills – Edibility test for plants](00-basic-survival-skills.md#edibility-test-for-plants).
 
-More reliable sources of food in the wild are insects, fish and plants you can identify with certainty; see [Basic Survival Skills – Finding food](00-basic-survival-skills.md#getting-food).
+More reliable sources of food in the wild are insects, fish and plants you can identify with certainty; see [Basic Survival Skills – Getting food](00-basic-survival-skills.md#getting-food).
 
 ---
 
@@ -191,7 +191,7 @@ More reliable sources of food in the wild are insects, fish and plants you can i
    or photos
 6. *Gouwen* looks like honeysuckle, water hemlock like water dropwort, pokeweed root
    like ginseng
-7. Do not pick your own herbs to make medicinal wine (aconite, *wutou* and *caowu*, is
+7. Do not pick your own herbs to make medicinal wine (aconite — *Wutou* and *Caowu* — is
    extremely dangerous)
 8. Eat only wild greens you know 100% and that have been prepared by the traditional method
 ```
