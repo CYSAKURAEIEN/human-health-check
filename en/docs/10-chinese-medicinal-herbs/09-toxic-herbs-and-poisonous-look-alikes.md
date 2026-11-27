@@ -371,7 +371,7 @@ For each herb this section gives only: source, key identification features, what
 
 ### 2.12 Qianjinzi (caper spurge seed)
 
-**Source**: The dried ripe seed of *Euphorbia lathyris* (caper spurge, spurge family). Cultivated in many places and escaped into the wild; some people grow it in their yards as a "mole and rat repellent plant".
+**Source**: The dried ripe seed of *Euphorbia lathyris* (caper spurge, spurge family). Cultivated in many places and escaped into the wild; some people grow it in their yards as a "rat-repellent plant".
 
 **Key identification features**:
 - Plant: Biennial herb with an erect, stout stem and white milky sap; **leaves in opposite pairs at right angles to each other, linear-lanceolate, arranged in four neat rows in a "+" pattern**, which is very distinctive
@@ -499,7 +499,7 @@ Medical students' mnemonic (to help recognise it, not for self-diagnosis):
 - Flowers: A large terminal panicle of small flowers, blackish-purple (*V. nigrum*) or yellowish-green or white (other species of the genus)
 - Root: Rhizome short and thick, with many long, thin roots clustered below it
 
-**Often mistaken for**: Young spring shoots are picked and eaten as the young shoots of **Gecong (*Allium victorialis*, mountain onion, *Hancong*)**, **hosta (*Yuzan*)**, or ***Huangjing* and *Yuzhu* (Solomon's seal)**; the root is taken for other herbs.
+**Often mistaken for**: Young spring shoots are picked and eaten as the young shoots of ***Gecong*** (*Allium victorialis*, mountain onion, *Hancong*), **hosta (*Yuzan*)**, or ***Huangjing* and *Yuzhu* (Solomon's seal)**; the root is taken for other herbs.
 
 **Toxic parts and constituents**: The whole plant is toxic, the root and rhizome most of all; it contains steroidal alkaloids such as veratrine-type alkaloids and protoveratrine.
 
@@ -651,8 +651,8 @@ Medical students' mnemonic (to help recognise it, not for self-diagnosis):
 - Mercury vapour breathed in: cough, chest pain, difficulty breathing, fever; long-term breathing in causes tremor and changes in mood and memory
 
 ```
-⚠️ If a thermometer or similar breaks: open the windows, and everyone leaves
-   the room; do not vacuum it up or sweep it about with a broom;
+⚠️ If a thermometer or similar breaks: open the windows and get everyone out
+   of the room; do not vacuum it up or sweep it about with a broom;
    collect the mercury beads with a piece of stiff card into a jar that can
    be sealed; do not pour it down the drain
 ```
@@ -1033,7 +1033,7 @@ For identifying ginkgo leaf and its cautions, see [Flowers and Leaves: *Yinxingy
 **Key identification features**:
 - Plant: Twining vine; even-pinnately compound leaves with many small, oblong leaflets
 - Seed: **Elliptic, about 5-7 mm long, mostly bright red and glossy, black at one end (around the hilum)**
-- Telling it from "red beans": **Haihongdou** (*Adenanthera*, red sandalwood tree) seeds are all red with no black patch, heart-shaped and flattened-round; seeds of **Hongdoushu** (*Ormosia*) are all red and larger; **Chixiaodou** (rice bean) is dark red and oblong, with a white line-shaped hilum
+- Telling it from "red beans": ***Haihongdou*** (*Adenanthera*, red sandalwood tree) seeds are all red with no black patch, heart-shaped and flattened-round; seeds of ***Hongdoushu*** (*Ormosia*) are all red and larger; ***Chixiaodou*** (rice bean) is dark red and oblong, with a white line-shaped hilum
 
 **Often mistaken for**: Given as "red beans" or "love beans" (*xiangsidou*), threaded into ornaments; children put them in their mouths and bite them.
 
@@ -1167,7 +1167,7 @@ For CPR and the recovery position, see [Basic first aid: CPR](../01-first-aid-an
   do not pick
 □ Ginkgo seeds, bitter apricot kernels, castor, rosary-pea ornaments,
   oleander and Dishui Guanyin at home: keep children from eating them
-□ After poisoning: 120, bring samples, do not induce vomiting, no folk
+□ After poisoning: call 120, bring samples, do not induce vomiting, no folk
   remedies, everyone who ate the same goes to hospital
 ```
 

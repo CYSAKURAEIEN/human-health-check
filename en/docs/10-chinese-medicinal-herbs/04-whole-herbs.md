@@ -169,7 +169,7 @@ Most herbs in this group are aromatic plants of the mint family (Lamiaceae) and 
 
 ### 1.5 Peilan (fortune's boneset)
 
-- **Peilan (Xingtoucao, Lancao)**: Chinese 佩兰; *Eupatorium fortunei* Turcz.
+- **Peilan (Shengtoucao, Xingtoucao, Lancao)**: Chinese 佩兰; *Eupatorium fortunei* Turcz.
 - **Source**: the dried aerial parts of *Eupatorium fortunei* Turcz. (Asteraceae)
 - **Distribution and habitat**: roadsides, thickets and streamsides south of the Yangtze; also cultivated
 - **Key identification features**:
@@ -382,7 +382,7 @@ This group contains the commonest weeds by roads and fields, and many of them ar
 - **Source**: the dried aerial parts of **sweet wormwood** (*Huanghuahao*), *Artemisia annua* L. (Asteraceae). Note: the plant source of the Pharmacopoeia's "*Qinghao*" is sweet wormwood; botanically there is another plant called "*Qinghao*" (*Xianghao*, *A. carvifolia*), which **contains almost no artemisinin** and is not the Pharmacopoeia's *Qinghao*
 - **Distribution and habitat**: roadsides, waste ground, hillsides and riverbanks all over China; extremely common
 - **Key identification features**:
-  - Plant: annual herb, 1-2 m tall; stem upright, much branched; **leaves 3 times pinnately divided, the lobes tiny, like carrot leaves**; **flower heads extremely numerous, very small (1.5-2.5 mm across), round and yellow**, arranged in large pyramid-shaped clusters; **crushed, it has a strong, distinctive scent**
+  - Plant: annual herb, 1-2 m tall; stem upright, much branched; **leaves 3 times pinnately and deeply divided, the lobes tiny, like carrot leaves**; **flower heads extremely numerous, very small (1.5-2.5 mm across), round and yellow**, arranged in large pyramid-shaped clusters; **crushed, it has a strong, distinctive scent**
   - How *Xianghao* differs: its flower heads are larger (3.5-4 mm across) and hemispherical, and its leaf lobes are broader
   - Dried herb: stem round, much branched above, yellowish green or brownish yellow, with lengthwise ridges; fairly hard, with pith in the middle of the broken surface; leaves dark green or brownish green, curled and crumbly; a distinctive scent; taste slightly bitter
 - **Look-alikes**: there are very many *Artemisia* species (mugwort, *Yinchen*, *Artemisia lavandulifolia* and others), with different leaf shapes and flower clusters, and most are not poisonous. But avoid **carrot-family plants with carrot-like leaves and white umbrella-shaped flower heads** (they may be water hemlocks and their relatives; see [Water hemlock vs water dropwort and wild carrot](09-toxic-herbs-and-poisonous-look-alikes.md#43-duqin-water-hemlock-vs-shuiqin-water-dropwort-and-yehuluobo-wild-carrot)). *Artemisia* has small yellowish-green ball-shaped flowers, not white umbrellas
@@ -499,7 +499,7 @@ This group relates to menstruation, bleeding and blood stasis. **Blood-moving he
 - **Distribution and habitat**: hillsides, roadsides, grassland, woodland edges and streamsides all over China
 - **Key identification features**:
   - Plant: perennial herb, 30-120 cm tall, covered all over in soft white hairs; **odd-pinnate compound leaves with large and small leaflets alternating** (very small leaflets sit between the pairs of large ones). This is the easiest feature to recognise; stipules sickle-shaped
-  - Flowers and fruit: **thin, long spikes of small yellow flowers with 5 petals**; fruit inverted-conical, **with a ring of hooked bristles at the top**, which often stick to clothes and trouser legs
+  - Flowers and fruit: **thin, long racemes of small yellow flowers with 5 petals**; fruit inverted-conical, **with a ring of hooked bristles at the top**, which often stick to clothes and trouser legs
   - Dried herb: covered all over in soft white hairs; stem round and reddish brown below, square above with all four sides slightly sunken, greenish brown, with lengthwise grooves and ridges, hollow when broken; pinnate leaves dark green, shrivelled and curled, with large and small leaflets alternating along the leaf axis; smell faint, taste slightly bitter
 - **Look-alikes**: other rose-family plants such as herb bennet (*Geum*, *Shuiyangmei*) also have pinnate leaves, yellow flowers and hooked fruits, but not "large and small leaflets alternating" or thin, long flower spikes; generally not poisonous
 - **Harvesting and processing**: cut in summer and autumn when stems and leaves are lush, remove impurities and dry
@@ -658,7 +658,7 @@ This group comes from mixed sources: *Shenjincao* is a fern ally, *Shihu* is an 
 - **Storage**: contains volatile oil; seal and keep in a cool, dry place
 - **Actions**: releases the exterior and dispels cold, dispels wind and relieves pain, opens the nasal passages, warms the lungs and transforms fluid retention
 - **Dose**: 1-3 g; as a powder, 0.5-1 g per dose; for external use, a suitable amount (Chinese Pharmacopoeia, 2020 edition). **The dose is very small; it may only be prescribed by a TCM practitioner, never used on your own**. The ancients long warned that *Xixin* must not be used in large amounts; overdose can cause headache, vomiting, restlessness, convulsions and depressed breathing
-- **Cautions**: **the Pharmacopoeia marks it as slightly toxic**; do not use it together with *Lilu* (false hellebore); not for pregnant or breastfeeding women, children or people with kidney disease; not for weak people who sweat a lot, headache from yin deficiency, or dry cough without phlegm; do not use the whole *Xixin* plant with leaves; if the poisoning symptoms above appear, call 120 at once
+- **Cautions**: **the Pharmacopoeia marks it as slightly toxic**; do not use it together with *Lilu* (false hellebore); not for pregnant or breastfeeding women, children or people with kidney disease; not for *qi* deficiency with heavy sweating, headache from yin deficiency, or dry cough without phlegm; do not use the whole *Xixin* plant with leaves; if the poisoning symptoms above appear, call 120 at once
 - 🛡️ **Protection note**: *Xixin* is on the *List of Wild Medicinal Species under State Key Protection* (grade as given in the text of the list); do not dig up wild plants
 
 ---
@@ -675,7 +675,7 @@ This group comes from mixed sources: *Shenjincao* is a fern ally, *Shihu* is an 
 | *Qinghao* | Used as an antimalarial | Malaria must be seen by a doctor; a decoction cannot treat malaria |
 | *Xiakucao* | Used to "dissipate lumps", delaying a check of the lump | If you feel a lump, go to hospital first |
 | Plantain | False hellebore, lily of the valley (curving parallel veins) | Flat rosette on the ground, long leaf stalks, thin, long green flower spikes |
-| *Jinqiancao*, *Baijiangcao*, Diding | Many different plants under the same name | Get the herb by the name on the prescription and by local custom |
+| *Jinqiancao*, *Baijiangcao*, *Diding* | Many different plants under the same name | Get the herb by the name on the prescription and by local custom |
 | *Peilan*, *Yinyanghuo* | Large amounts taken for long may damage the liver | Do not take them yourself for long; not with liver disease |
 | Motherwort, *Zelan*, *Banzhilian* | Can cause miscarriage in pregnancy; increase bleeding risk | Not in pregnancy; people taking anticoagulants should ask a doctor first |
 | *Shenjincao* | Toothed clubmoss (*Huperzia serrata*) mixed in | Check for long creeping stems and needle-shaped leaves |
@@ -693,14 +693,14 @@ Before collecting whole herbs, confirm each point:
 - [ ] The collecting site is away from roads, factories, mines and fields that have just been sprayed with pesticide
 - [ ] It is not a controlled or protected plant such as ephedra, *Xixin*, *Shihu* or cistanche
 - [ ] I cut only part of the aerial parts and left the roots and seed plants
-- [ ] After bringing it back I spread it out to dry; those with volatile oils (mint, Huoxiang, *Jingjie*, *Xiangru*, *Qinghao*) are dried in the shade, not in strong sun
+- [ ] After bringing it back I spread it out to dry; those with volatile oils (mint, *Huoxiang*, *Jingjie*, *Xiangru*, *Qinghao*) are dried in the shade, not in strong sun
 - [ ] I know the Pharmacopoeia dose and cautions; pregnant women, children, people with liver or kidney disease and people taking anticoagulants ask a doctor first
 
 | Task | Difficulty | Risk of getting it wrong |
 |------|------|----------|
 | Recognising common whole herbs (dandelion, plantain, purslane, houttuynia) | ⭐⭐ | ☠️☠️ (spurges and others mixed in) |
-| Recognising fragrant mint-family herbs (mint, *Jingjie*, Huoxiang, *Xiangru*) | ⭐⭐⭐ | ☠️ (different actions; poisoning very rare) |
-| Telling apart different plants under the same name (*Jinqiancao*, *Baijiangcao*, Diding) | ⭐⭐⭐⭐ | ☠️ (wrong herb) |
+| Recognising fragrant mint-family herbs (mint, *Jingjie*, *Huoxiang*, *Xiangru*) | ⭐⭐⭐ | ☠️ (different actions; poisoning very rare) |
+| Telling apart different plants under the same name (*Jinqiancao*, *Baijiangcao*, *Diding*) | ⭐⭐⭐⭐ | ☠️ (wrong herb) |
 | Recognising desert parasites and epiphytic orchids (cistanche, *Suoyang*, *Shihu*) | ⭐⭐⭐ | Illegally digging protected wild plants |
 | Using ephedra or *Xixin* yourself | Not allowed | ☠️☠️☠️☠️ (heart rhythm problems, kidney damage) |
 | Using whole herbs instead of proper treatment (malaria, cancer, stones, jaundice) | Not allowed | ☠️☠️☠️☠️☠️ (delayed treatment) |

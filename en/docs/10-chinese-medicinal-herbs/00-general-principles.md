@@ -11,8 +11,7 @@ This chapter is the general introduction to Part X, *Identifying and Collecting 
    when you can see a doctor and can buy proper herbal medicines, see the doctor
    first and buy from a pharmacy;
    use herbs you collect yourself only when medicines cannot be bought; whether to
-   use them, and how much, is decided under the guidance of a practitioner of
-   Chinese medicine
+   use them, and how much, is decided under the guidance of a TCM practitioner
 2. If you cannot identify it with certainty, do not pick it or use it:
    "it looks like it" is not identification; many highly poisonous plants look
    very like common medicinal herbs
@@ -272,7 +271,7 @@ Some herbs show special changes when put in water or burnt, which can help ident
 | Method | Herb | What happens |
 |------|------|------|
 | Water test | *Xihonghua* (saffron) | After soaking, the stigmas swell into a trumpet shape and the water is stained yellow, the colour spreading gradually (fakes coloured with dye often turn the water red, or the stigmas do not swell) |
-| Water test | *Qinpi* (ash bark) | A hot-water extract shows a blue-green fluorescence in sunlight |
+| Water test | *Qinpi* (ash bark) | A hot-water extract shows a bright blue fluorescence in sunlight |
 | Water test | *Sumu* (sappanwood) | Put into hot water, it turns the water a vivid peach-red |
 | Water test | *Zhizi* (gardenia fruit) | The water extract is bright yellow |
 | Water test | *Pangdahai* (malva nut) | Swells rapidly into a sponge in water |
@@ -327,7 +326,7 @@ The content of active constituents in a herb varies greatly with its stage of gr
 |---------|-----------|------|------|
 | Roots and rhizomes | In autumn and winter after the aerial parts have withered, or in early spring before sprouting | Nutrients are stored underground, so content is highest | *Huangqi*, *Dangshen*, *Gegen*, *Tianma* (winter-dug *dongma* is of better quality) |
 | Leaves | When the plant is growing vigorously, about to flower or in full flower | Leaves are fully developed, with plenty of products of photosynthesis | *Aiye*, *Daqingye* (isatis leaf), *Zisuye* (perilla leaf); *Sangye* is an exception, collected after frost |
-| Flowers | In bud or just opening | Once fully open, the fragrance is lost and petals fall easily | *Jinyinhua*, *Huaimi* (pagoda tree flower bud) (flower buds); *Juhua*, *Honghua* (just opening or in full bloom) |
+| Flowers | In bud or just opening | Once fully open, the fragrance is lost and petals fall easily | Flower buds: *Jinyinhua*, *Huaimi* (pagoda tree flower bud); just opening or in full bloom: *Juhua*, *Honghua* |
 | Fruits | Ripe or nearly ripe | Active constituents have built up most | *Shanzha*, *Gouqi* (ripe); *Zhishi* (immature bitter orange), *Qingpi* (unripe young fruit) |
 | Seeds | Fully ripe | Seeds are plump, content is highest | *Juemingzi*, *Cheqianzi*, *Suanzaoren* |
 | Whole herbs | Mostly at flowering, or before flowering when stems and leaves are lush | Aerial parts are growing most strongly | *Yimucao*, *Bohe*, *Cheqiancao*; *Yinchen* (capillary wormwood) at the seedling stage |
@@ -513,7 +512,7 @@ Drying is the most important step in processing at the place of origin. Only her
 |------|---------|------|
 | Sun-drying | Most roots and rhizomes, fruits, seeds, barks, and whole herbs without volatile oils | Spread in a thin layer and turn often; bring in at dusk so the night dew does not make them damp again |
 | Shade-drying | Flowers, leaves and aromatic herbs containing volatile oils (such as *Bohe* and *Zisu*; for each herb, follow the method given in the later chapters) | Put in a cool, well-ventilated place or under the eaves, out of strong sun, so the fragrance is not lost and the colour does not fade |
-| Artificial heat drying | Herbs on rainy days, in large amounts, or that need drying quickly | Use a drying room, a heated *kang* (heated brick bed) or a low-temperature oven, and control the temperature |
+| Heat-drying (oven-drying) | Herbs on rainy days, in large amounts, or that need drying quickly | Use a drying room, a heated *kang* (heated brick bed) or a low-temperature oven, and control the temperature |
 
 **Drying temperatures** (based on the general principles in textbooks such as *Zhongyao Jiandingxue*):
 
@@ -646,14 +645,15 @@ Dealing with them:
 2. Lightly damaged: sieve off the insect powder, spread out in strong sun or
    heat at low temperature
    (most herbs can be heated at about 50-60°C for a while;
-   aromatic and oily herbs must not be heated — only spread out in a cool,
+   aromatic and oily herbs must not be heated to high temperatures — only
+   spread out in a cool,
    ventilated place and picked over)
 3. Badly damaged, eaten into powder: throw away
 4. Wash the container and dry it in the sun before using it again
 
 The traditional "storing together for mutual protection" (an empirical
 practice, only an aid):
-- Store Mudanpi with Zexie (water plantain rhizome): Zexie is less likely to
+- Store Mudanpi with Zexie (water plantain tuber): Zexie is less likely to
   get insects, Mudanpi less likely to change colour
 - Store Huajiao (Sichuan pepper) with animal medicines (such as snakes,
   Lurong) to keep insects away

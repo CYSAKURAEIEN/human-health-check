@@ -61,7 +61,7 @@ The "Toxicity / protection" column gives toxicity noted in the Pharmacopoeia, th
 | *Jinyinhua* (honeysuckle flower) | Flower bud or flower just opening | Clears heat and detoxifies, disperses wind-heat | ⚠️ Beware picking *Gouwen* (heartbreak grass) by mistake | [1.1](#11-jinyinhua-honeysuckle-flower) |
 | *Juhua* (chrysanthemum) | Flower head | Disperses wind and clears heat, calms the liver and brightens the eyes | Ornamental chrysanthemums are not medicine | [1.2](#12-juhua-chrysanthemum) |
 | *Yejuhua* (wild chrysanthemum) | Flower head | Clears heat and detoxifies, drains fire and calms the liver | Bitter; use with caution if the spleen and stomach are cold and weak | [1.3](#13-yejuhua-wild-chrysanthemum) |
-| *Huaihua* (pagoda tree flower) | Flower and flower bud (Huaimi) | Cools the blood and stops bleeding, clears the liver and drains fire | Do not confuse with black locust flowers | [1.4](#14-huaihua-pagoda-tree-flower) |
+| *Huaihua* (pagoda tree flower) | Flower and flower bud (*Huaimi*) | Cools the blood and stops bleeding, clears the liver and drains fire | Do not confuse with black locust flowers | [1.4](#14-huaihua-pagoda-tree-flower) |
 | *Honghua* (safflower) | Flower | Moves blood and unblocks menstruation, disperses stasis and relieves pain | ⚠️ Not in pregnancy; many dyed and weighted goods | [2.1](#21-honghua-safflower) |
 | *Xihonghua* (saffron) | Stigma | Moves blood and resolves stasis, cools the blood and detoxifies, relieves constraint and calms the mind | ⚠️ Not in pregnancy; very many fakes | [2.2](#22-xihonghua-saffron) |
 | *Yuejihua* (Chinese rose flower) | Flower | Moves blood and regulates menstruation, soothes the liver and relieves constraint | Use with caution in pregnancy | [2.3](#23-yuejihua-chinese-rose-flower) |
@@ -99,7 +99,7 @@ The flowers in this group are mostly harvested in summer and autumn. The rule is
   - Smell: clear, fragrant smell; taste bland, slightly bitter
 - **Look-alikes**:
   - ***Gouwen* (heartbreak grass, *Gelsemium*)**: also a twining vine with opposite leaves and yellow flowers, and **extremely poisonous**; its leaves are smooth and hairless, its flowers grow several together in a cluster, are **funnel-shaped with 5 even lobes, and only yellow**. For a detailed comparison see [*Gouwen* vs honeysuckle](09-toxic-herbs-and-poisonous-look-alikes.md#42-gouwen-heartbreak-grass-vs-jinyinhua-honeysuckle)
-  - **Shanyinhua (mountain honeysuckle)**: the flower buds of *Lonicera macranthoides*, *L. hypoglauca*, *L. confusa* and *L. fulvotomentosa*. The Pharmacopoeia lists it separately as *Shanyinhua*; its actions are similar, but it cannot be used as *Jinyinhua*; most of its buds are longer, less hairy or have glandular hairs
+  - ***Shanyinhua* (mountain honeysuckle)**: the flower buds of *Lonicera macranthoides*, *L. hypoglauca*, *L. confusa* and *L. fulvotomentosa*. The Pharmacopoeia lists it separately as *Shanyinhua*; its actions are similar, but it cannot be used as *Jinyinhua*; most of its buds are longer, less hairy or have glandular hairs
   - In the trade you occasionally find flowers fumigated with sulphur or bulked up with sugar or alum water: do not take any that are unusually bright, smell sour or feel sticky
 - **Harvesting and processing**: in early summer, **before the flowers open** (when the buds turn from green to white and swell at the top), pick in the early morning; spread thinly to dry in the air or dry at a low temperature. **Do not turn them or rub them with your hands before they are dry**, or they turn black
 - **Storage**: easily absorbs moisture, loses colour and is attacked by insects; seal it and keep it in a cool, dry place
@@ -137,7 +137,7 @@ The flowers in this group are mostly harvested in summer and autumn. The rule is
   - Plant: perennial herb, 25-100 cm tall; alternate leaves, ovate or long-ovate, **half to shallowly pinnately lobed**, stalked; in autumn several **small yellow daisies** open at the top, about 1.5-2.5 cm across, **with yellow ray florets in only 1 layer**
   - Dried herb: flower heads roughly round, about 0.3-1 cm across, brownish-yellow; involucral bracts in 4-5 layers, the outer ones ovate with membranous edges; ray florets in 1 ring, yellow to brownish-yellow, shrivelled and curled; disc florets many
   - Smell: aromatic smell; **taste bitter** (much more bitter than chrysanthemum)
-- **Look-alikes**: **Ganju** (*Yanxiangju*, *Yeganju*, *C. lavandulifolium*), ***Xuanfuhua*** (inula flower, see 3.3) and various daisy-family weeds with small yellow flowers. *Ganju* has twice pinnately, deeply divided leaves and even smaller flowers; *Xuanfuhua* has long, thin ray florets and strap-shaped bracts. Most are not poisonous, but they are not the Pharmacopoeia's *Yejuhua*
+- **Look-alikes**: ***Ganju*** (*Yanxiangju*, *Yeganju*, *C. lavandulifolium*), ***Xuanfuhua*** (inula flower, see 3.3) and various daisy-family weeds with small yellow flowers. *Ganju* has twice pinnately, deeply divided leaves and even smaller flowers; *Xuanfuhua* has long, thin ray florets and strap-shaped bracts. Most are not poisonous, but they are not the Pharmacopoeia's *Yejuhua*
 - **Harvesting and processing**: in autumn and winter, pick **when the flowers are just opening**; sun-dry, or steam and then sun-dry
 - **Storage**: protect from damp and insects; seal
 - **Actions**: clears heat and detoxifies, drains fire and calms the liver
@@ -151,7 +151,7 @@ The flowers in this group are mostly harvested in summer and autumn. The rule is
 - **Distribution and habitat**: widely planted throughout China; most common by villages and roads and in courtyards in the north (commonly called *guohuai*, "native pagoda tree")
 - **Key identification features**:
   - Plant: deciduous tree, **no thorns on the branches**, twigs green; odd-pinnate compound leaves with 7-15 ovate-oblong leaflets; **flowers in high summer (July-August)**, in panicles at the branch tips, pale yellowish-white, pea-shaped; pods fleshy, **constricted like a string of beads** (these are *Huaijiao*, pagoda tree pods)
-  - Dried herb: **Huaimi** ovate or elliptic, 2-6 mm long, yellowish-green, with several lengthwise lines on the calyx at the lower end; ***Huaihua*** shrivelled and curled, the petals mostly fallen; whole flowers have a bell-shaped, yellowish-green calyx and 5 yellow or yellowish-white petals, 1 of them larger (the standard petal)
+  - Dried herb: ***Huaimi*** ovate or elliptic, 2-6 mm long, yellowish-green, with several lengthwise lines on the calyx at the lower end; ***Huaihua*** shrivelled and curled, the petals mostly fallen; whole flowers have a bell-shaped, yellowish-green calyx and 5 yellow or yellowish-white petals, 1 of them larger (the standard petal)
   - Smell: faint smell; taste slightly bitter
 - **Look-alikes**:
   - **Black locust (*Cihuai*, *Yanghuai*)** *Robinia pseudoacacia*: in many places the "pagoda tree flowers" cooked with rice or steamed and eaten are really black locust flowers. Differences: black locust has **paired stipular thorns on the branches**, **flowers in spring (April-May)**, with white, strongly scented flowers hanging in clusters, and flat pods. The flowers can be eaten as a wild vegetable, but **the bark, leaves and seeds are poisonous**; it is not the Pharmacopoeia's *Huaihua*
@@ -198,7 +198,7 @@ Most of this group are **not to be used, or to be used with caution, in pregnanc
   - Dried herb: **thread-like, branching into three**, about 3 cm long, **dark red**; the upper part is wider and slightly flattened, **the tip has an irregular toothed edge and a short slit on the inner side** (opening out like a trumpet), and the lower end sometimes keeps a short piece of yellow style; light, loose and soft, without an oily sheen; brittle and easily broken when dry
   - Smell: distinctive smell, slightly pungent; taste slightly bitter
   - **Water test** (the most useful on-the-spot method): put a little in clean water; you will see **orange-yellow colour spreading downwards in a straight line**, and the water gradually turns **yellow**, with no sediment; after soaking up water the stigma swells into a **long trumpet shape with a short slit on one side**, and does not break easily when poked with a needle
-- **Fakes** (very common on the market):
+- **Fakes** (the most common on the market):
   - **Dyed corn silk, lotus stamens, paper-pulp threads or synthetic fibres**: they lack the "three-branched trumpet mouth"; after soaking they are still single thin threads or fall apart into pulp
   - **Dyed safflower or chrysanthemum ray florets**: after soaking you can see corolla tubes, petals and other structures
   - Fakes and dyed goods usually **quickly release red colour** (not yellow) when soaked, or leave sediment or oil floating on the water
@@ -245,7 +245,7 @@ Most of this group are **not to be used, or to be used with caution, in pregnanc
 
 ### 2.5 Puhuang (cattail pollen)
 
-- **Puhuang (Pubang Huafen, Puhua)**: Chinese 蒲黄; *Typha angustifolia* L., *Typha orientalis* Presl
+- **Puhuang (Pubanghuafen, Puhua)**: Chinese 蒲黄; *Typha angustifolia* L., *Typha orientalis* Presl
 - **Source**: the dried pollen of narrow-leaved cattail, *Typha angustifolia* L., oriental cattail, *Typha orientalis* Presl, or other species of the same genus (Typhaceae)
 - **Distribution and habitat**: ponds, lake shores, marshes and the shallow water of ditches throughout China
 - **Key identification features**:
@@ -341,7 +341,7 @@ Most of this group are **not to be used, or to be used with caution, in pregnanc
   - Water test: good cloves are rich in oil and **sink vertically in water with the calyx tube pointing down**; those that float, or float on their side, are mostly poor goods whose oil has already been extracted
 - **Look-alikes**:
   - **Garden "lilac"** (common lilac, white lilac; *Syringa*, olive family; also called *dingxianghua* in Chinese): the shrub common in the north with small purple or white flowers in spring is **a completely different plant from the clove herb**; it is not used as medicine
-  - **Mudingxiang (mother clove)**: the nearly ripe fruit of the same plant, listed separately in the Pharmacopoeia; elliptic and larger
+  - ***Mudingxiang* (mother clove)**: the nearly ripe fruit of the same plant, listed separately in the Pharmacopoeia; elliptic and larger
   - **Cloves with the oil extracted**: darker colour, weak fragrance, do not sink in water
 - **Harvesting and processing**: pick the flower buds **when they turn from green to red**, dry in the sun
 - **Storage**: seal, keep cool and out of light; the fragrance fades the longer it is kept
@@ -382,9 +382,9 @@ Leaf herbs shrivel and break when dried. To identify them, **soak them soft and 
   - Dried herb: leaves mostly shrivelled, curled and broken; whole leaves flattened out are ovate-round, 4-11 cm long and 2.5-9 cm wide, with a long-pointed or abruptly pointed tip and round-toothed edges; purple on both sides, or green on the upper surface and purple on the lower, sparsely covered with greyish-white hairs, **the lower surface with many sunken, dot-like glandular scales**; leaf stalk 2-7 cm long, purple or purplish-green; brittle
   - Smell: **clear, fragrant smell** (the distinctive perilla scent); taste slightly pungent
 - **Look-alikes**:
-  - **Baisu (green perilla)**: the green-leaved form of the same species, with a weaker scent; used interchangeably in some areas
+  - ***Baisu* (green perilla)**: the green-leaved form of the same species, with a weaker scent; used interchangeably in some areas
   - **Coleus** (*Coleus*): also in the mint family, with purple or variegated leaves, often grown in pots, but **without the perilla scent**
-  - **Mosla scabra (*Shijizhu*), wild *Xiangru* and similar**: much smaller leaves; most are not poisonous
+  - ***Mosla scabra* (*Shijizhu*), wild *Xiangru* and similar**: much smaller leaves; most are not poisonous
   - Remember: **do not pick purple leaves that do not smell of perilla when crushed**
 - **Harvesting and processing**: harvest in summer **when the branches and leaves are lush**, remove impurities, dry in the shade or at a low temperature (strong sun drives off the scent)
 - **Storage**: contains volatile oil; seal, keep cool, and generally keep no longer than 1 year
@@ -403,9 +403,9 @@ Leaf herbs shrivel and break when dried. To identify them, **soak them soft and 
   - Dried herb: mostly shrivelled and curled, some broken; whole leaves flattened out are **long-elliptic to oblong-oblanceolate**, 5-20 cm long and 2-6 cm wide; upper surface dark greyish-green, some with darker, slightly raised small dots; tip blunt, edges entire or slightly wavy, **the base narrowing and running down the leaf stalk as a wing**; leaf stalk 4-10 cm long, light brownish-yellow; brittle
   - Smell: faint smell; taste slightly sour, bitter and astringent
 - **Look-alikes (many different plants under the same name)**:
-  - **Liaodaqingye**: the leaves of Chinese indigo (*Polygonum tinctorium*, knotweed family), listed separately in the Pharmacopoeia; leaves ovate, bluish-green
-  - **Malanye**: the leaves of Assam indigo (*Malan*, acanthus family; its root is "southern *Banlangen*"), with opposite leaves
-  - **Lubianqing**: the leaves of *Daqing* (*Clerodendrum cyrtophyllum*, verbena family, now placed in the mint family), called *Daqingye* in parts of the south
+  - ***Liaodaqingye***: the leaves of Chinese indigo (*Polygonum tinctorium*, knotweed family), listed separately in the Pharmacopoeia; leaves ovate, bluish-green
+  - ***Malanye***: the leaves of Assam indigo (*Malan*, acanthus family; its root is "southern *Banlangen*"), with opposite leaves
+  - ***Lubianqing***: the leaves of *Daqing* (*Clerodendrum cyrtophyllum*, verbena family, now placed in the mint family), called *Daqingye* in parts of the south
   - These have similar actions but different constituents; the Pharmacopoeia's *Daqingye* means woad leaf only
 - **Harvesting and processing**: harvest 2-3 times in summer and autumn, remove impurities, dry in the sun
 - **Storage**: protect from damp and mould

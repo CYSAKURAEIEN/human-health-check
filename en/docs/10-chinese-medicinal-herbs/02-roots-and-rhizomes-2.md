@@ -130,7 +130,7 @@ Most of this group are rhizomes, root tubers and bulbs of plants in the lily fam
   - The middle or tip of the fibrous roots swells into a small spindle-shaped tuber
   - Dried herb: spindle-shaped, both ends slightly pointed, 1.5-3 cm long, 0.3-0.6 cm in diameter; surface pale yellow or greyish-yellow with fine lengthwise lines; supple and tough; cut surface yellowish-white, translucent, **with a thin woody core in the centre**; faintly fragrant; taste sweet, slightly bitter
 - **Look-alikes**: the tubers of *Liriope* species (Hubei maidong, short-stalked liriope) are a different medicine, "Shanmaidong", listed separately in the Pharmacopoeia; their tubers are larger and harder
-- **Harvesting and processing**: dig in summer and wash; sun-dry hard and pile up repeatedly until 70-80% dry, remove the fibrous roots, and dry
+- **Harvesting and processing**: dig in summer and wash; sun-dry in strong sun and pile up, repeatedly, until 70-80% dry, remove the fibrous roots, and dry
 - **Storage**: high in sugar, **very prone to damp, mould, oiling and discolouration**; once fully dry, seal and keep in a cool place
 - **Actions**: nourishes yin and generates fluids, moistens the lungs and clears the heart. Used for dry cough from lung dryness, thirst from damaged fluids, restlessness and insomnia, and constipation from dry intestines
 - **Dose**: 6-12 g (use under the guidance of a TCM practitioner)
@@ -179,7 +179,7 @@ Most of this group are rhizomes, root tubers and bulbs of plants in the lily fam
 
 ### 1.6 Huangjing (polygonatum rhizome)
 
-- **Huangjing (Jitouhuangjing, Jiangxinghuangjing, Dahuangjing)**: Chinese 黄精; *Polygonatum kingianum* Coll. et Hemsl., P. sibiricum Red., P. cyrtonema Hua
+- **Huangjing (Jitouhuangjing, Jiangxinghuangjing, Dahuangjing)**: Chinese 黄精; *Polygonatum kingianum* Coll. et Hemsl., *P. sibiricum* Red., *P. cyrtonema* Hua
 - **Source**: the dried rhizome of *Polygonatum kingianum* Coll. et Hemsl. (Dian huangjing), *P. sibiricum* Red. (huangjing) or *P. cyrtonema* Hua (many-flowered huangjing), lily family. According to shape they are traditionally called "Dahuangjing" ("large *Huangjing*"), "Jitouhuangjing" ("chicken-head *Huangjing*") and "Jiangxinghuangjing" ("ginger-shaped *Huangjing*")
 - **Distribution and habitat**: *P. sibiricum* grows in the North-east, North and North-west; *P. cyrtonema* south of the Yangtze; *P. kingianum* in Yunnan, Guizhou and Sichuan; under woodland, in thickets, on damp shady hillsides
 - **Key identification features**:
@@ -196,7 +196,7 @@ Most of this group are rhizomes, root tubers and bulbs of plants in the lily fam
 
 ### 1.7 Baihe (lily bulb)
 
-- **Baihe**: Chinese 百合; *Lilium lancifolium* Thunb., L. brownii F. E. Brown var. viridulum Baker, L. pumilum DC.
+- **Baihe**: Chinese 百合; *Lilium lancifolium* Thunb., *L. brownii* F. E. Brown var. *viridulum* Baker, *L. pumilum* DC.
 - **Source**: the dried fleshy bulb scales of *Lilium lancifolium* Thunb. (tiger lily), *L. brownii* F. E. Brown var. *viridulum* Baker (baihe) or *L. pumilum* DC. (coral lily), lily family
 - **Distribution and habitat**: cultivated in many parts of China (Longshan in Hunan, Yixing in Jiangsu, Lanzhou in Gansu and elsewhere); wild in grass on hillsides and at woodland edges
 - **Key identification features**:
@@ -278,7 +278,7 @@ Most of this group are rhizomes, root tubers and bulbs of plants in the lily fam
 - **Actions**: dispels wind-damp, tonifies the liver and kidneys, strengthens the lower back and knees. Used for rheumatic pain, sore and weak lower back and knees, and weakness of the legs
 - **Dose**: 6-12 g (use under the guidance of a TCM practitioner)
 - **Cautions**: not suitable for people with heat signs such as difficult urination or a bitter mouth and dry tongue (traditional experience)
-- 🛡️ **Protection note**: *Cibotium barometz* (genus *Cibotium*) is a **Class II nationally protected wild plant** (2021 *List of Wild Plants under State Key Protection*) and is also listed in Appendix II of the Convention on International Trade in Endangered Species (CITES). **Do not dig wild plants**; digging or selling them without a permit is illegal, see [General principles – List of Wild Plants under State Key Protection](00-general-principles.md#82-list-of-wild-plants-under-state-key-protection). For medicine use only legal material from regular channels
+- 🛡️ **Protection note**: *Cibotium barometz* (the whole genus *Cibotium*) is a **Class II nationally protected wild plant** (2021 *List of Wild Plants under State Key Protection*) and is also listed in Appendix II of the Convention on International Trade in Endangered Species (CITES). **Do not dig wild plants**; digging or selling them without a permit is illegal, see [General principles – List of Wild Plants under State Key Protection](00-general-principles.md#82-list-of-wild-plants-under-state-key-protection). For medicine use only legal material from regular channels
 
 ### 2.5 Gusuibu (drynaria rhizome)
 
@@ -320,7 +320,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 
 ### 3.2 Yujin (curcuma root tuber)
 
-- **Yujin (Wenyujin, Huangsiyujin, Guiyujin, Lüsiyujin)**: Chinese 郁金; *Curcuma wenyujin* Y. H. Chen et C. Ling, C. longa L., C. kwangsiensis S. G. Lee et C. F. Liang, C. phaeocaulis Val.
+- **Yujin (Wenyujin, Huangsiyujin, Guiyujin, Lüsiyujin)**: Chinese 郁金; *Curcuma wenyujin* Y. H. Chen et C. Ling, *C. longa* L., *C. kwangsiensis* S. G. Lee et C. F. Liang, *C. phaeocaulis* Val.
 - **Source**: the **dried root tubers** of *Curcuma wenyujin* Y. H. Chen et C. Ling, *C. longa* L. (turmeric), *C. kwangsiensis* S. G. Lee et C. F. Liang (Guangxi zedoary) or *C. phaeocaulis* Val. (zedoary), ginger family. The first two are traditionally called "Wenyujin" and "Huangsiyujin" respectively; the others, according to their appearance, are called "Guiyujin" or "Lüsiyujin"
 - **Distribution and habitat**: Rui'an in Zhejiang (Wenyujin), Sichuan (Huangsiyujin), Guangxi (Guiyujin); all cultivated
 - **Key identification features**:
@@ -352,7 +352,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 
 ### 3.4 Ezhu (zedoary rhizome)
 
-- **Ezhu (Peng'ezhu, Wen'ezhu, Gui'ezhu)**: Chinese 莪术; *Curcuma phaeocaulis* Val., C. kwangsiensis S. G. Lee et C. F. Liang, C. wenyujin Y. H. Chen et C. Ling
+- **Ezhu (Peng'ezhu, Wen'ezhu, Gui'ezhu)**: Chinese 莪术; *Curcuma phaeocaulis* Val., *C. kwangsiensis* S. G. Lee et C. F. Liang, *C. wenyujin* Y. H. Chen et C. Ling
 - **Source**: the dried rhizome of *Curcuma phaeocaulis* Val., *C. kwangsiensis* S. G. Lee et C. F. Liang or *C. wenyujin* Y. H. Chen et C. Ling, ginger family. The last is traditionally called "Wen'ezhu"
 - **Distribution and habitat**: Sichuan, Guangxi, Zhejiang, Fujian, Guangdong; cultivated
 - **Key identification features**:
@@ -373,7 +373,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 - **Key identification features**:
   - Plant: 15-50 cm tall; **stem triangular** (triangular in cross-section; you can feel the edges when you roll it between your fingers); leaves long and narrow, basal; several leaf-like bracts at the top of the stem, with the flower heads spreading out like rays below them; spikelets linear, reddish-brown
   - Underground there are long thin runners whose tips swell into small spindle-shaped tubers; these are *Xiangfu*
-  - Dried herb: spindle-shaped, 2-3.5 cm long, 0.5-1 cm in diameter; surface brownish-black or blackish-brown, with 6-10 slightly raised rings bearing brown hairs
+  - Dried herb: spindle-shaped, 2-3.5 cm long, 0.5-1 cm in diameter; surface dark brown or blackish-brown, with 6-10 slightly raised rings bearing brown hairs
   - Hard; after steaming or boiling the cut surface is yellowish-brown or reddish-brown and horn-like; if simply sun-dried, the cut surface is white and starchy; **fragrant**; taste slightly bitter
 - **Harvesting and processing**: dig in autumn, singe off the hairs, boil briefly in water or steam through and then sun-dry, or sun-dry directly after singeing
 - **Storage**: protect from damp and from loss of aroma
@@ -421,7 +421,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 
 ### 4.1 Dahuang (rhubarb root)
 
-- **Dahuang (Chuanjun, Jiangjun, Jinwen)**: Chinese 大黄; *Rheum palmatum* L., R. tanguticum Maxim. ex Balf., R. officinale Baill.
+- **Dahuang (Chuanjun, Jiangjun, Jinwen)**: Chinese 大黄; *Rheum palmatum* L., *R. tanguticum* Maxim. ex Balf., *R. officinale* Baill.
 - **Source**: the dried root and rhizome of *Rheum palmatum* L. (Chinese rhubarb), *R. tanguticum* Maxim. ex Balf. (Tangut rhubarb) or *R. officinale* Baill. (medicinal rhubarb), knotweed family
 - **Distribution and habitat**: *R. palmatum* and *R. tanguticum* grow in the cold high mountains of Gansu, Qinghai, Tibet and north-western Sichuan ("Xidahuang", western rhubarb); *R. officinale* grows in Sichuan, Hubei and Shaanxi ("Nandahuang", southern rhubarb); mostly cultivated now
 - **Key identification features**:
@@ -491,7 +491,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 
 ### 4.5 Zexie (water plantain tuber)
 
-- **Zexie (Jianzexie, Chuanzexie)**: Chinese 泽泻; *Alisma orientale* (Sam.) Juzep., A. plantago-aquatica Linn.
+- **Zexie (Jianzexie, Chuanzexie)**: Chinese 泽泻; *Alisma orientale* (Sam.) Juzep., *A. plantago-aquatica* Linn.
 - **Source**: the dried tuber of *Alisma orientale* (Sam.) Juzep. (oriental water plantain) or *A. plantago-aquatica* Linn. (water plantain), water plantain family
 - **Distribution and habitat**: Fujian ("Jianzexie"), Sichuan ("Chuanzexie"), Jiangxi; cultivated in paddy fields; wild in marshes, shallow water and by ditches
 - **Key identification features**:
@@ -604,7 +604,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 
 ### 5.6 Yuanzhi (polygala root)
 
-- **Yuanzhi (Yuanzhitong, Yuanzhirou, Xiaocaogen)**: Chinese 远志; *Polygala tenuifolia* Willd., P. sibirica L.
+- **Yuanzhi (Yuanzhitong, Yuanzhirou, Xiaocaogen)**: Chinese 远志; *Polygala tenuifolia* Willd., *P. sibirica* L.
 - **Source**: the dried root of *Polygala tenuifolia* Willd. (thinleaf milkwort) or *P. sibirica* L. (Siberian milkwort), milkwort family
 - **Distribution and habitat**: Shanxi, Shaanxi, Hebei, Henan, Jilin, Inner Mongolia; sunny hillsides, grassland, roadsides
 - **Key identification features**:
@@ -643,7 +643,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 
 ### 6.2 Weilingxian (Chinese clematis root)
 
-- **Weilingxian (Tiejiaoweilingxian, Lingxian)**: Chinese 威灵仙; *Clematis chinensis* Osbeck, C. hexapetala Pall., C. manshurica Rupr.
+- **Weilingxian (Tiejiaoweilingxian, Lingxian)**: Chinese 威灵仙; *Clematis chinensis* Osbeck, *C. hexapetala* Pall., *C. manshurica* Rupr.
 - **Source**: the dried root and rhizome of *Clematis chinensis* Osbeck, *C. hexapetala* Pall. or *C. manshurica* Rupr., buttercup family
 - **Distribution and habitat**: *C. chinensis* grows in the Yangtze basin and southwards; *C. hexapetala* in the North-east and North; *C. manshurica* in the North-east; hillsides, woodland edges, thickets
 - **Key identification features**:
@@ -659,7 +659,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 
 ### 6.3 Qinjiao (large-leaf gentian root)
 
-- **Qinjiao (Mahuajiao, Xiaoqinjiao)**: Chinese 秦艽; *Gentiana macrophylla* Pall., G. straminea Maxim., G. crassicaulis Duthie ex Burk., G. dahurica Fisch.
+- **Qinjiao (Mahuajiao, Xiaoqinjiao)**: Chinese 秦艽; *Gentiana macrophylla* Pall., *G. straminea* Maxim., *G. crassicaulis* Duthie ex Burk., *G. dahurica* Fisch.
 - **Source**: the dried root of *Gentiana macrophylla* Pall. (large-leaf gentian), *G. straminea* Maxim., *G. crassicaulis* Duthie ex Burk. or *G. dahurica* Fisch. (Dahurian gentian), gentian family. According to appearance the first three are traditionally called "*Qinjiao*" and "Mahuajiao", and the last "Xiaoqinjiao"
 - **Distribution and habitat**: North-west, North, North-east and South-west China; alpine grassland, meadows, woodland edges
 - **Key identification features**:
