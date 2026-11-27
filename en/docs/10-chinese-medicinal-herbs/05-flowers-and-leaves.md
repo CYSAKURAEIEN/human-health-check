@@ -458,12 +458,12 @@ Loquat leaf, oriental arborvitae leaf and mugwort leaf come from evergreen trees
 - **Source**: the dried twig tips and leaves of oriental arborvitae, *Platycladus orientalis* (L.) Franco (Cupressaceae)
 - **Distribution and habitat**: most of China, on sunny mountain slopes and limestone hills; planted in large numbers in cemeteries, temples and parks
 - **Key identification features**:
-  - Plant: evergreen tree; **the twigs are flat and arranged in one plane, and this plane stands upright** (like a hand held edgeways, hence *ce*, "sideways", *bai*, "cypress"); all the leaves are **tiny and scale-like, in opposite pairs, pressed close to the twigs**; cones ovoid, with 4 pairs of cone scales, **each with a curved-back point at the top of its back**, splitting open when ripe
+  - Plant: evergreen tree; **the twigs are flat and arranged in one plane, and this plane stands upright** (like a hand held edgeways, hence *ce*, "sideways", *bai*, "cypress"); all the leaves are **tiny and scale-like, in opposite pairs set crosswise (decussate), pressed close to the twigs**; cones ovoid, with 4 pairs of cone scales, **each with a curved-back point at the top of its back**, splitting open when ripe
   - Dried herb: much branched, twigs flat; leaves tiny, scale-like, in opposite pairs, pressed against the twigs, dark green or yellowish-green; brittle, snaps easily
   - Smell: **clear, fragrant smell**; taste bitter, astringent and slightly pungent
 - **Look-alikes**:
   - **Chinese juniper (*Yuanbai*, *Guibai*)**: often has **two kinds of leaf, needle-like and scale-like, on the same plant**; the twigs are not arranged in a plane; the cones are fleshy and do not split open. Not a Pharmacopoeia species
-  - **Savin juniper (*Chazi Yuanbai*, *Shadibai*)** *Juniperus sabina*: a creeping shrub, mostly found on sandy land in the northwest and in landscape planting; **the whole plant is poisonous** (it contains savin oil) and can cause vomiting, liver and kidney damage and miscarriage; **do not pick a "cypress" that creeps along the ground and whose twigs do not form upright planes**
+  - **Savin juniper (*Chaziyuanbai*, *Shadibai*)** *Juniperus sabina*: a creeping shrub, mostly found on sandy land in the northwest and in landscape planting; **the whole plant is poisonous** (it contains savin oil) and can cause vomiting, liver and kidney damage and miscarriage; **do not pick a "cypress" that creeps along the ground and whose twigs do not form upright planes**
   - The seed kernel of oriental arborvitae, *Baiziren*, is a different medicine
 - **Harvesting and processing**: mostly harvested in summer and autumn, **dried in the shade**
 - **Storage**: contains volatile oil; protect from damp, keep cool
@@ -473,7 +473,7 @@ Loquat leaf, oriental arborvitae leaf and mugwort leaf come from evergreen trees
 
 ![Oriental arborvitae, Chinese juniper and savin juniper compared](../../images/platycladus-vs-juniper.svg)
 
-*Figure: Oriental arborvitae is an upright tree whose flat twigs are arranged in upright planes; all its leaves are tiny and scale-like, in opposite pairs; its cones are ovoid, each cone scale with a curved-back point at the top of its back. Chinese juniper often has needle-like and scale-like leaves on the same plant, its twigs are not arranged in planes, and its cones are fleshy. Savin juniper (Shadibai) creeps along the ground and the whole plant is poisonous. Do not pick a "cypress" that creeps along the ground and whose twigs do not form upright planes*
+*Figure: Oriental arborvitae is an upright tree whose flat twigs are arranged in upright planes; all its leaves are tiny and scale-like, in opposite pairs; its cones are ovoid, each cone scale with a curved-back point at the top of its back. Chinese juniper often has needle-like and scale-like leaves on the same plant, its twigs are not arranged in planes, and its cones are fleshy. Savin juniper (*Shadibai*) creeps along the ground and the whole plant is poisonous. Do not pick a "cypress" that creeps along the ground and whose twigs do not form upright planes*
 
 ### 5.3 Aiye (mugwort leaf)
 
@@ -548,13 +548,13 @@ Senna leaf and ginkgo leaf can both be bought easily on the market and are often
 | Genuine herb | Easily confused with | How to tell them apart | Risk |
 |------|-----------|---------|------|
 | Honeysuckle | *Gouwen* (heartbreak grass) | Honeysuckle: flowers in pairs, two-lipped, yellow and white together, leaves hairy; *Gouwen*: several flowers in a cluster, funnel-shaped with 5 even lobes, only yellow, leaves smooth | ☠️☠️☠️☠️☠️ |
-| Oriental arborvitae leaf | Savin juniper (Shadibai) | Arborvitae: upright tree, twigs in upright planes; savin juniper: creeping shrub | ☠️☠️☠️ |
+| Oriental arborvitae leaf | Savin juniper (*Shadibai*) | Arborvitae: upright tree, twigs in upright planes; savin juniper: creeping shrub | ☠️☠️☠️ |
 | Saffron | Dyed corn silk, paper threads, lotus stamens, safflower | Water test: genuine saffron sends orange-yellow colour straight down, stigma a three-branched trumpet; fakes release red colour and have no trumpet mouth | Money wasted; dyes are harmful |
 | Safflower | Dyed and weighted goods | Water test: water turns golden yellow, not red; not sticky when squeezed, colour does not rub off | Dyes and alum are harmful |
 | Pagoda tree flower | Black locust flowers | Pagoda tree: no thorns, flowers in high summer; black locust: stipular thorns, flowers in spring, strongly scented flowers | ☠️ (black locust bark and seeds are poisonous) |
 | Clove | Garden lilac (common lilac) | The clove herb is the pestle-shaped flower bud of a tropical tree, strongly pungent; garden lilac is the small flower of a northern shrub | Wrong herb |
 | Coltsfoot flower | Butterbur | Coltsfoot flowers before the leaves, bracts purplish-red; both contain pyrrolizidine alkaloids | ☠️☠️ (liver damage) |
-| Isatis leaf | Liaodaqingye, Malanye, Lubianqing | Woad leaf long-elliptic, base running down as a wing, leaf stalk long | Wrong herb |
+| Isatis leaf | *Liaodaqingye*, *Malanye*, *Lubianqing* | Woad leaf long-elliptic, base running down as a wing, leaf stalk long | Wrong herb |
 | Senna leaf | Avaram senna leaf | Avaram senna leaf: tip blunt-rounded with a spiny point, densely covered with long hairs | Ineffective |
 | Mugwort leaf | Wild mugwort and other *Artemisia* species | Mugwort leaf: underside densely covered with white woolly hairs, strong mugwort smell | Wrong herb |
 | Rugosa rose bud | Chinese rose flower, florists' cut flowers | Rugosa rose: receptacle hemispherical, leaf surface wrinkled; Chinese rose: receptacle oblong, leaf surface smooth | Pesticide residues |
