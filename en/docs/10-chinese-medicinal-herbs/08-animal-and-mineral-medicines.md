@@ -57,7 +57,7 @@ The "Toxicity/protection" column gives toxicity noted in the Pharmacopoeia, this
 | *Lurong* (deer antler velvet) | Young, unossified antler of a male deer | Strengthens kidney yang, replenishes essence and blood, strengthens sinews and bones | 🛡️ Captive-bred sources only; many fakes | [1.1](#11-lurong-deer-antler-velvet) |
 | *Ejiao* (donkey-hide gelatin) | Gelatin boiled down from donkey hide | Tonifies blood and nourishes yin, moistens dryness, stops bleeding | Often faked with mixed-hide gelatin | [1.2](#12-ejiao-donkey-hide-gelatin) |
 | *Guijia* (tortoise shell) | Upper and lower shell | Nourishes yin and subdues yang, benefits the kidneys and strengthens bones | 🛡️ Wild turtles protected; captive-bred only | [1.3](#13-guijia-tortoise-shell) |
-| *Biejia* (turtle shell) | Upper shell | Nourishes yin and subdues yang, brings down fever and relieves steaming, softens hardness and dissipates lumps | — | [1.4](#14-biejia-turtle-shell) |
+| *Biejia* (turtle shell) | Upper shell | Nourishes yin and subdues yang, brings down fever and relieves steaming-bone fever, softens hardness and dissipates lumps | — | [1.4](#14-biejia-turtle-shell) |
 | *Muli* (oyster shell) | Shell | Heavily settles and calms the mind, subdues yang and tonifies yin, softens hardness and dissipates lumps | — | [1.5](#15-muli-oyster-shell) |
 | *Zhenzhu* (pearl) | Pearl | Calms the mind and settles fright, brightens the eyes and clears corneal opacity, removes toxins and promotes healing of flesh | Imitation pearls and shell powder passed off | [1.6](#16-zhenzhu-pearl) |
 | *Shijueming* (abalone shell) | Abalone shell | Calms the liver and subdues yang, clears the liver and brightens the eyes | — | [1.7](#17-shijueming-abalone-shell) |
@@ -161,7 +161,7 @@ Shells are hard, so in a decoction most of them are **decocted first** (boiled f
 - **Look-alikes**: How it differs from *Guijia* — *Biejia* is the upper shell only, **with no horny scutes and with ribs sticking out beyond the edge**; *Guijia* has both upper and lower shells and scute patterns
 - **Harvesting and processing**: All year round; after slaughter the upper shell is removed, the remaining flesh cleaned off, and the shell sun-dried (the Pharmacopoeia also describes scalding in boiling water before removing skin and flesh)
 - **Storage**: Keep in a dry place; protect from insects
-- **Actions**: Nourishes yin and subdues yang, brings down fever and relieves steaming bone heat, softens hardness and dissipates lumps
+- **Actions**: Nourishes yin and subdues yang, brings down fever and relieves steaming-bone fever, softens hardness and dissipates lumps
 - **Dose**: 9-24 g, **decocted first** (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: Not suitable for people with a cold, deficient spleen and stomach, poor appetite and loose stools; caution in pregnancy (experience)
 
@@ -291,7 +291,7 @@ Common reminders for insect and worm medicines:
   - *Hu Dilong*: 8-15 cm long, 0.5-1.5 cm wide; back brown to yellowish-brown, belly pale yellowish-brown
   - Light, slightly leathery, not easily broken; **fishy smell, taste slightly salty**
 - **Fakes**: Worms that have not been slit open, with **a lot of mud and sand** in the gut (the Pharmacopoeia sets a limit for impurities); usually not poisonous
-- **Harvesting and processing**: *Guang Dilong* is caught from spring to autumn, *Hu Dilong* in summer; **slit the belly open promptly, remove the gut contents and mud, wash, and sun-dry or dry at low temperature**. **Do not dig earthworms from polluted soil (near factories, mining areas, rubbish dumps, main roads)** — earthworms accumulate heavy metals
+- **Harvesting and processing**: *Guang Dilong* is caught from spring to autumn, *Hu Dilong* in summer; **slit the belly open promptly, remove the internal organs and mud, wash, and sun-dry or dry at low temperature**. **Do not dig earthworms from polluted soil (near factories, mining areas, rubbish dumps, main roads)** — earthworms accumulate heavy metals
 - **Storage**: Keep in a ventilated, dry place; **protect from mould and insects**
 - **Actions**: Clears heat and settles fright, unblocks the channels, relieves wheezing, promotes urination
 - **Dose**: 5-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
@@ -380,7 +380,7 @@ Common reminders for insect and worm medicines:
   - **When kept for a long time or chilled, white granular crystals gradually form** — crystallisation is normal and is not evidence that sugar has been added
   - Aromatic smell, very sweet taste; honey from different nectar sources (black locust, vitex, jujube, rape) differs in colour and aroma
 - **Fakes**: **Adding syrup (high-fructose corn syrup, rice syrup)** is the most common fake. Folk tests such as "drawing threads", "dripping on paper" or "setting it alight" are not reliable; only a laboratory can test it. Buy from **beekeepers whose source you know, or products that meet a standard**
-- **⚠️ Poisonous honey**: If bees gather nectar from poisonous plants, the honey they make can poison people. Known poisonous nectar sources include ***Leigongteng* (thunder god vine), Kunming Shanhaitang, *Gouwen* (gelsemium, "heartbreak grass"), Boluohui (plume poppy), rhododendrons such as *Naoyanghua* (*Rhododendron molle*), *Lilu* (false hellebore) and *Wutou* (aconite)**.
+- **⚠️ Poisonous honey**: If bees gather nectar from poisonous plants, the honey they make can poison people. Known poisonous nectar sources include ***Leigongteng* (thunder god vine), *Kunming Shanhaitang*, *Gouwen* (gelsemium, "heartbreak grass"), *Boluohui* (plume poppy), rhododendrons such as *Naoyanghua* (*Rhododendron molle*), *Lilu* (false hellebore) and *Wutou* (aconite)**.
   - The highest risk is from **wild bee nests in the mountains, "local honey" of unknown origin, and apiaries with large stands of poisonous plants nearby in the flowering season**
   - Signs of poisoning: from tens of minutes to a few hours after eating, numbness of the mouth and tongue, dizziness, nausea and vomiting, abdominal pain and diarrhoea, palpitations; in severe cases a fall in blood pressure, heart rhythm problems, shock and even death (honey from thunder god vine can cause kidney failure)
   - **Do not eat honey that tastes bitter, astringent or numbing**; if the symptoms above appear after eating honey, see a doctor at once and take the remaining honey with you. For identifying these poisonous plants see [Toxic Herbs and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md)
@@ -715,7 +715,7 @@ The mineral medicines below contain heavy metals such as mercury, arsenic and le
    arsenic tested
 ```
 
-In addition, **Liuhuang** (sulphur; marked "toxic" in the Pharmacopoeia, mainly for external use), **Danfan** (chalcanthite, copper sulphate; taken by mouth it can cause severe poisoning) and others are also toxic mineral medicines; likewise, do not take them by mouth yourself.
+In addition, ***Liuhuang*** (sulphur; marked "toxic" in the Pharmacopoeia, mainly for external use), ***Danfan*** (chalcanthite, copper sulphate; taken by mouth it can cause severe poisoning) and others are also toxic mineral medicines; likewise, do not take them by mouth yourself.
 
 ## 6. Look-alikes summary and self-check
 

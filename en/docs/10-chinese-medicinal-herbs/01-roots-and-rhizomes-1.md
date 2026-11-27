@@ -1,8 +1,8 @@
-# Roots and Rhizomes (1)
+# Roots and Rhizomes (Part 1)
 
 > **Know the whole plant before you dig the root. The underground part is the hardest to identify: pokeweed passed off as ginseng and *Gynura* passed off as *Sanqi* both start with "just looking at the root"**
 
-This chapter covers the 30 most commonly used root and rhizome medicines, grouped roughly by action into five sets: tonics; blood-tonifying and blood-activating herbs; heat-clearing herbs; exterior-releasing and wind-dispelling herbs; and damp-resolving, wind-calming, phlegm-resolving and yin-nourishing herbs. For each herb it says how to recognise it, where to find it, when to collect it, how to process and store it, the Pharmacopoeia dose and the contraindications. General methods for identification, harvesting, drying and storage are in the [General principles](00-general-principles.md) and are not repeated here. The remaining root and rhizome medicines (*Zhimu*, *Maidong*, *Dahuang*, *Beimu* and others) are in [Roots and Rhizomes (2)](02-roots-and-rhizomes-2.md).
+This chapter covers the 30 most commonly used root and rhizome medicines, grouped roughly by action into five sets: tonics; blood-tonifying and blood-activating herbs; heat-clearing herbs; exterior-releasing and wind-dispelling herbs; and damp-resolving, wind-calming, phlegm-resolving and yin-nourishing herbs. For each herb it says how to recognise it, where to find it, when to collect it, how to process and store it, the Pharmacopoeia dose and the contraindications. General methods for identification, harvesting, drying and storage are in the [General principles](00-general-principles.md) and are not repeated here. The remaining root and rhizome medicines (*Zhimu*, *Maidong*, *Dahuang*, *Beimu* and others) are in [Roots and Rhizomes (Part 2)](02-roots-and-rhizomes-2.md).
 
 ## ⚠️ Read these first
 
@@ -14,7 +14,7 @@ This chapter covers the 30 most commonly used root and rhizome medicines, groupe
 2. The two most dangerous mix-ups:
    - Pokeweed root passed off as ginseng (almost every "wild ginseng" dug
      by a roadside or on waste ground is not ginseng)
-   - Gynura (Juxanqi, "Tusanqi") passed off as Sanqi (long-term use can
+   - Gynura (Jusanqi, "Tusanqi") passed off as Sanqi (long-term use can
      cause severe liver damage)
    See Chapter 09, "Toxic Herbs and Poisonous Look-alikes"
 3. Heshouwu can cause liver damage: do not take it long term or in large
@@ -355,8 +355,8 @@ This group is mostly related to menstruation, bleeding and blood stasis. **Blood
 - **Look-alikes**:
 
 ```
-⚠️ Gynura (Juxanqi, "Tusanqi") is the most dangerous:
-- Gynura japonica (Juxanqi) is a plant of the daisy family; the "Sanqi",
+⚠️ Gynura (Jusanqi, "Tusanqi") is the most dangerous:
+- Gynura japonica (Jusanqi) is a plant of the daisy family; the "Sanqi",
   "Tusanqi" or "Xuesanqi" grown in many people's yards and flowerpots is this plant
 - Leaves alternate, deeply pinnately divided, often tinged purple; small
   yellow or orange-yellow pompom-like flowers
@@ -471,7 +471,7 @@ This group is used for colds with fever, headache and body aches, rheumatic pain
 - **Look-alikes**: The rhizome of ***Bupleurum longiradiatum*** (*Dayechaihu*, "large-leaf *Chaihu*") **is toxic**, and the Pharmacopoeia expressly forbids using it as *Chaihu* — its rhizome is **densely ringed with nodes**, and its leaves are broader, clasping the stem at the base. Other species of the same genus (such as *B. marginatum* and *B. bicaule*) are mixed in in some places. The biggest danger is still digging other toxic carrot-family plants by mistake — *Chaihu*'s "grass-like, untoothed simple leaves + small yellow flowers" is the key
 - **Harvesting and processing**: Dig in spring and autumn, remove stems, leaves and soil, dry
 - **Storage**: Protect from damp and insects
-- **Actions**: Disperses and brings down fever, soothes the liver and relieves depression, raises yang *qi*
+- **Actions**: Disperses and brings down fever, soothes the liver and relieves constraint, raises yang *qi*
 - **Dose**: 3-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: Must not be used, or use with caution, in yin deficiency with yang hyperactivity, internal stirring of liver wind, yin deficiency with flaring fire, or counterflow (rising) *qi*; do not take it long term or in large amounts; allergic reactions have been reported to *Chaihu* injection and other preparations — never use them on your own
 
@@ -654,7 +654,7 @@ This group is used for colds with fever, headache and body aches, rheumatic pain
 | *Renshen* | Pokeweed root passed off as ginseng (toxic) | Look for palmately compound leaves, red fruit, reed head; do not dig or buy roadside "wild ginseng" |
 | *Sanqi* | *Gynura* (*Tusanqi*) passed off as *Sanqi* (liver damage) | Look for palmately compound leaves, red fruit; do not steep home-grown "*Tusanqi*" in liquor or grind it to powder |
 | *Heshouwu* | Can itself cause liver damage | Do not take it long term, do not use raw *Heshouwu* as a health tonic, do not use with liver disease |
-| *Gancao* | Long-term large doses cause low potassium and high blood pressure | Do not drink it alone, steeped in water, long term |
+| *Gancao* | Long-term large doses cause low potassium and high blood pressure | Do not drink it on its own, steeped in water, long term |
 | *Chaihu* | Toxic *Bupleurum longiradiatum* mixed in | Check whether the rhizome has dense rings of nodes; buy through proper channels |
 | *Tianma* | Fakes made from four-o'clock root and others | Look for the rings, parrot beak and navel |
 | *Shanyao* | Confusion with *Huangdu* (*Huangyaozi*, liver damage) | Check the leaf arrangement (*Shanyao* opposite or in whorls of three, occasionally alternate lower down) and the shape of the rhizome |

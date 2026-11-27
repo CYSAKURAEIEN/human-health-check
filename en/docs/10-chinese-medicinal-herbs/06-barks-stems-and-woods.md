@@ -61,7 +61,7 @@ The "Toxicity/protection" column gives toxicity noted in the Pharmacopoeia, this
 | *Huangbo* (phellodendron bark) | Tree bark | Clears heat and dries damp, purges fire | 🛡️ Wild *Phellodendron* is Class II under state protection | [1.3](#13-huangbo-phellodendron-bark) |
 | *Rougui* (cassia bark) | Tree bark | Replenishes fire and assists yang, dispels cold and relieves pain | Caution in pregnancy and with a tendency to bleed | [1.4](#14-rougui-cassia-bark) |
 | *Qinpi* (ash bark) | Branch bark or trunk bark | Clears heat and dries damp, stops dysentery, brightens the eyes | — | [1.5](#15-qinpi-ash-bark) |
-| *Hehuanpi* (silk tree bark) | Tree bark | Relieves depression and calms the mind, activates blood and reduces swelling | — | [1.6](#16-hehuanpi-silk-tree-bark) |
+| *Hehuanpi* (silk tree bark) | Tree bark | Relieves constraint and calms the mind, activates blood and reduces swelling | — | [1.6](#16-hehuanpi-silk-tree-bark) |
 | *Mudanpi* (tree peony root bark) | Root bark | Clears heat and cools blood, activates blood and resolves stasis | Caution in pregnancy; wild tree peonies protected | [2.1](#21-mudanpi-tree-peony-root-bark) |
 | *Digupi* (goji root bark) | Root bark | Cools blood and relieves steaming bone, clears the lungs and lowers fire | Beware *Xiangjiapi* mixed in | [2.2](#22-digupi-goji-root-bark) |
 | *Sangbaipi* (white mulberry root bark) | Root bark | Drains the lungs and calms wheezing, promotes urination and reduces swelling | — | [2.3](#23-sangbaipi-white-mulberry-root-bark) |
@@ -127,7 +127,7 @@ Sustainable bark stripping (taking Duzhong, Houpo and Huangbo as examples):
   - Crude drug: Flat pieces, or with both sides curled slightly inwards, 3-7 mm thick; outer surface pale brown or greyish-brown, with clear wrinkles or lengthwise cracks and grooves, some with the coarse outer bark scraped off; inner surface dark purple and smooth; brittle, snaps easily; **the broken surface is joined by fine, dense, silvery-white, elastic rubber threads**; faint smell, taste slightly bitter
 - **Look-alikes/fakes**:
   - The bark of **winterberry euonymus** (*Euonymus maackii*, spindle-tree family) and similar plants ("*Tuduzhong*", "local *Duzhong*"): also shows a few white threads when snapped, but **the threads are sparse, not very elastic and break as soon as they are pulled**
-  - The bark of **Duzhongteng** (a climbing plant of the oleander family, commonly called "red *Duzhong*"): few white threads on the broken surface, with little elasticity; plants of the oleander family are often toxic, so do not use it in its place
+  - The bark of ***Duzhongteng*** (a climbing plant of the oleander family, commonly called "red *Duzhong*"): few white threads on the broken surface, with little elasticity; plants of the oleander family are often toxic, so do not use it in its place
   - How to tell: genuine *Duzhong* has **dense, plentiful white threads that do not break even when pulled out to more than 1 cm**
 - **Harvesting and processing**: Strip in April-June, scrape off the coarse outer bark, pile up to "sweat" until the inner bark turns purplish-brown, and sun-dry; for the stripping method see the start of this section — **do not ring-bark**
 - **Storage**: Does not spoil easily; keep in a ventilated, dry place, away from damp
@@ -210,7 +210,7 @@ Sustainable bark stripping (taking Duzhong, Houpo and Huangbo as examples):
 - **Look-alikes**: The bark of the related *Shanhehuan* (*A. kalkora*, flowers white or yellowish-white) is sometimes mixed in; it is not the Pharmacopoeia species
 - **Harvesting and processing**: Strip in summer and autumn and sun-dry; street trees in cities are managed by the parks department — do not strip their bark at will
 - **Storage**: Keep in a ventilated, dry place
-- **Actions**: Relieves depression and calms the mind, activates blood and reduces swelling
+- **Actions**: Relieves constraint and calms the mind, activates blood and reduces swelling
 - **Dose**: 6-12 g; for external use, a suitable amount, ground to powder, mixed and applied (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: Use with caution in pregnancy (experience); insomnia or low mood lasting more than two weeks needs a doctor — "mind-calming herbs" cannot replace treatment for depression or anxiety; *Hehuanhua* (silk tree flower) is a separate medicine
 
@@ -228,7 +228,7 @@ Root-bark medicines are the bark stripped from roots after digging, with the woo
 - **Key identification features**:
   - Plant: Small deciduous shrub 1-2 m tall, **with woody stems** (this distinguishes it from the herbaceous Chinese peony); leaves twice ternately compound; large flowers in spring
   - Crude drug: Tubes or half-tubes, split open lengthwise, curled slightly inwards, 0.1-0.4 cm thick; outer surface greyish-brown or yellowish-brown, with many transverse lenticel-like bumps and fine root scars, pink where the cork has fallen off; **inner surface pale greyish-yellow or light brown, with clear fine lengthwise lines, often with shiny crystals** (paeonol coming out, traditionally called "bright silver stars", *liang yinxing*); hard and brittle, snaps easily, broken surface fairly flat, **powdery**, pale pink; **aromatic smell, taste slightly bitter and astringent**
-- **Look-alikes**: The root bark of Chinese peony (the source plant of *Baishao* and *Chishao*) and of wild tree peonies of the same genus is occasionally mixed in; *Baishao* and *Chishao* use the whole root, see [Roots and Rhizomes (1) – *Baishao*](01-roots-and-rhizomes-1.md#22-baishao-white-peony-root)
+- **Look-alikes**: The root bark of Chinese peony (the source plant of *Baishao* and *Chishao*) and of wild tree peonies of the same genus is occasionally mixed in; *Baishao* and *Chishao* use the whole root, see [Roots and Rhizomes (Part 1) – *Baishao*](01-roots-and-rhizomes-1.md#22-baishao-white-peony-root)
 - **Harvesting and processing**: Dig the roots in autumn, remove the fine roots and soil, strip the root bark and sun-dry ("*Liandanpi*"); or scrape off the coarse outer bark, remove the woody core and sun-dry ("*Guadanpi*")
 - **Storage**: Contains paeonol, which evaporates easily; **seal and keep in a cool, dry place**
 - **Actions**: Clears heat and cools blood, activates blood and resolves stasis
@@ -346,8 +346,8 @@ This group is young twigs with their bark and woody vine stems, mostly collected
   - Plant: Large, woody climbing vine; **leaves with three leaflets**, leaflets broadly elliptic; flowers white, in panicles; **cut the vine and a red sap flows out** (like chicken blood, hence the name "chicken-blood vine")
   - Crude drug: Elliptic, oblong or irregular slanting slices, 0.3-1 cm thick; cork greyish-brown, some with greyish-white patches, reddish-brown where the cork has fallen off; very hard; **cut surface with reddish-brown or brown wood and many vessel pores; the phloem has a resin-like secretion, reddish-brown to blackish-brown, alternating with the wood to form 3-8 eccentric half-moon rings; the pith lies off to one side**; faint smell, taste astringent
 - **Look-alikes**:
-  - **Daxueteng**: Similar in name and often used in its place, but its cut surface has "reddish-brown bark pushing into the wood, with yellowish-white wood", and **no multiple eccentric rings**; see [3.4](#34-daxueteng-sargentodoxa-stem)
-  - **Shanjixueteng** (*Callerya* species such as *C. dielsiana*), **Dianjixueteng** (Kadsura, schisandra family, listed separately in the Pharmacopoeia) and many other vine stems are called "*Jixueteng*" in different places; look for "multiple red-black eccentric rings"
+  - ***Daxueteng***: Similar in name and often used in its place, but its cut surface has "reddish-brown bark pushing into the wood, with yellowish-white wood", and **no multiple eccentric rings**; see [3.4](#34-daxueteng-sargentodoxa-stem)
+  - ***Shanjixueteng*** (*Callerya* species such as *C. dielsiana*), ***Dianjixueteng*** (*Kadsura*, schisandra family, listed separately in the Pharmacopoeia) and many other vine stems are called "*Jixueteng*" in different places; look for "multiple red-black eccentric rings"
   - *Leigongteng* is also called "*Huangteng*"; the cut surface of an old vine does not show red concentric rings; do not collect a vine you do not know
 - **Harvesting and processing**: Collect in autumn and winter, remove branches and leaves, slice and sun-dry
 - **Storage**: Keep in a ventilated, dry place
@@ -391,7 +391,7 @@ This group is young twigs with their bark and woody vine stems, mostly collected
 ### 3.6 Shouwuteng (fleeceflower stem)
 
 - **Shouwuteng (Yejiaoteng)**: Chinese 首乌藤; *Polygonum multiflorum* Thunb.
-- **Source**: The dried vine stem of *Polygonum multiflorum* Thunb. (Polygonaceae, knotweed family) (the root tuber is *Heshouwu*, see [Roots and Rhizomes (1) – *Heshouwu*](01-roots-and-rhizomes-1.md#26-heshouwu-fleeceflower-root))
+- **Source**: The dried vine stem of *Polygonum multiflorum* Thunb. (Polygonaceae, knotweed family) (the root tuber is *Heshouwu*, see [Roots and Rhizomes (Part 1) – *Heshouwu*](01-roots-and-rhizomes-1.md#26-heshouwu-fleeceflower-root))
 - **Distribution and habitat**: East, central, south and southwest China and southern Shaanxi and Gansu; grows in hillside scrub, rock crevices by streams and near villages
 - **Key identification features**:
   - Plant: Perennial twining vine; stems much branched, woody towards the base; **leaves alternate, ovate-heart-shaped, with long stalks**; **a papery sheath (ocrea) clasping the stem** (a feature of the knotweed family); small white or pale green flowers in panicles; a thick root tuber underground
@@ -548,7 +548,7 @@ The bottom line for this group:
 - **Source**: The dried heartwood of the trunk of *Santalum album* L. (sandalwood; Santalaceae, sandalwood family)
 - **Distribution and habitat**: Native to India, Indonesia and other tropical regions; introduced and cultivated in Guangdong, Hainan, Yunnan, Taiwan and elsewhere in China. Sandalwood is a **semi-parasitic plant**: seedlings must be planted together with other plants (hosts) and take nutrients from the host through their roots
 - **Key identification features**:
-  - Plant: Small evergreen tree; leaves opposite, elliptic-ovate, thin; flowers pale yellow at first, later turning deep purplish-red; drupes round, deep purplish-red to purplish-black when ripe
+  - Plant: Small evergreen tree; leaves opposite, elliptic-ovate, membranous; flowers pale yellow at first, later turning deep purplish-red; drupes round, deep purplish-red to purplish-black when ripe
   - Crude drug: Cylindrical sections of wood of varying length, some slightly curved, 10-30 cm across; **outer surface greyish-yellow or yellowish-brown, smooth and fine**, some with knots or lengthwise cracks; cross-section brownish-yellow, **with oily marks**; brown growth rings clear or unclear; splits lengthwise with a straight grain; firm and solid, not easy to break; **clean, fragrant smell, stronger when burnt; taste bland, slightly pungent when chewed**
 - **Look-alikes/fakes**: Ordinary wood soaked in sandalwood essential oil or fragrance (the smell is shallow and sharp, fades after a while, and the broken surface has no oily marks); Australian sandalwood and other species of the same genus are not the Pharmacopoeia species; "*zitan*", "*heitan*" and "*lütan*" ("purple", "black" and "green" sandalwood) are entirely different woods, not sandalwood
 - **Harvesting and processing**: After felling, cut the wood into sections and remove the bark and sapwood; from cultivated trees
@@ -565,8 +565,8 @@ The bottom line for this group:
 - **Distribution and habitat**: Hainan, Guangdong, Guangxi, Yunnan, Fujian and Taiwan; grows wild in open woodland in low-altitude mountains and hills; planted in large numbers in Guangdong, Hainan and elsewhere
 - **Key identification features**:
   - Plant: Evergreen tree; leaves alternate, leathery, ovate or elliptic, glossy; yellowish-green, fragrant flowers in umbels; capsule egg-shaped, covered in short greyish-yellow hairs, splitting into 2 when ripe; each seed has a long tail at its base
-  - **How "resin forms" (*jiexiang*)**: Healthy *Aquilaria* wood is white and has no fragrance; **only after the trunk is injured (by lightning, insects, knife cuts or fungal infection) does the wood around the wound secrete resin, which over many years builds up to form the dark brown, fragrant "*Chenxiang*"**. So the medicine is "wood containing resin", not a whole block of wood
-  - Crude drug: Irregular chunks, slices or helmet-shaped pieces, some in small fragments; surface uneven, with knife marks, occasionally with holes; **showing a pattern of dark brown resin alternating with yellowish-white wood**; the surfaces of holes and hollows mostly look like rotten wood; fairly firm, broken surface splintery; **aromatic smell, taste bitter**
+  - **How "resin forms" (*jiexiang*)**: Healthy *Aquilaria* wood is white and has no fragrance; **only after the trunk is injured (by lightning, insects, knife cuts or fungal infection) does the wood around the wound secrete resin, which over many years builds up to form the blackish-brown, fragrant "*Chenxiang*"**. So the medicine is "wood containing resin", not a whole block of wood
+  - Crude drug: Irregular chunks, slices or helmet-shaped pieces, some in small fragments; surface uneven, with knife marks, occasionally with holes; **showing a pattern of blackish-brown resin alternating with yellowish-white wood**; the surfaces of holes and hollows mostly look like rotten wood; fairly firm, broken surface splintery; **aromatic smell, taste bitter**
   - **Fire test**: When lit it **gives thick smoke and a strong fragrance, and black oily matter oozes out**
 - **Artificial resin induction**: Medicinal *Chenxiang* now comes mainly from cultivated *Aquilaria sinensis*, using methods such as drilling holes, inoculating with fungal agents and infusing liquids to promote resin formation (the Chinese Pharmacopoeia, 2020 edition, requires an alcohol-soluble extract content of not less than 10%; artificially induced material may be used as medicine as long as it meets the quality standard). This is the right way to protect wild trees
 - **Fakes (many)**:
@@ -589,14 +589,14 @@ The bottom line for this group:
 | Herb in this chapter | Main risk | How to avoid it |
 |---------|---------|---------|
 | *Duzhong*, *Houpo*, *Huangbo*, *Rougui* | Ring-barking kills the tree; stripping protected wild trees | Strip only one side of cultivated trees, or pruned branches; do not strip wild trees |
-| *Duzhong* | "*Tuduzhong*" from winterberry euonymus, Duzhongteng and others | White threads dense and plentiful, not breaking when pulled out beyond 1 cm |
+| *Duzhong* | "*Tuduzhong*" from winterberry euonymus, *Duzhongteng* and others | White threads dense and plentiful, not breaking when pulled out beyond 1 cm |
 | *Houpo* | Bark of other magnolia-family plants | Inner surface purplish-brown and oily; fragrant smell, pungent taste |
 | *Qinpi* | Manchurian walnut bark passed off as it | The hot-water liquid shows a sky-blue fluorescence in daylight |
 | *Wujiapi*, *Digupi* | ***Xiangjiapi*** (cardiac glycosides, can cause heart rhythm problems) | Do not use any with a strong, peculiar fragrance; do not buy it yourself to steep in liquor |
 | *Baixianpi*, *Shouwuteng* | Liver damage | Do not take yourself long term or in large amounts; not with liver disease |
 | *Chuanmutong* | ***Guanmutong*** (aristolochic acid; kidney failure, cancer) | Do not collect, or buy loose, any herb with "*Mutong*" in its name |
 | *Rendongteng* | ***Gouwen*** (heartbreak grass, can kill quickly) | Do not collect a vine whose flowers you have not seen |
-| *Jixueteng* | *Daxueteng*, Shanjixueteng, *Leigongteng* ("*Huangteng*") | Multiple red-black eccentric rings on the cut surface; do not collect a vine you do not know |
+| *Jixueteng* | *Daxueteng*, *Shanjixueteng*, *Leigongteng* ("*Huangteng*") | Multiple red-black eccentric rings on the cut surface; do not collect a vine you do not know |
 | *Luoshiteng* | Climbing fig, Boston ivy used in its place | Opposite leaves, white pinwheel flowers, long thin paired fruits |
 | *Rougui*, *Guizhi*, *Sumu*, *Mudanpi*, *Daxueteng*, *Tongcao* | May be unsafe in pregnancy; increase bleeding | Use with caution in pregnancy; people taking anticoagulants ask a doctor first |
 | *Jiangxiang*, *Chenxiang*, *Tanxiang* | Protected species, fakes, oil injection and dyeing | Buy only from a proper pharmacy; do not fell wild trees |
@@ -608,7 +608,7 @@ Before collecting bark or stem/wood medicines, confirm each point:
 - [ ] What I am collecting comes from cultivated trees, pruned branches or thinned trunks, not from wild *Duzhong*, *Houpo*, *Huangbo*, *Dalbergia odorifera* or *Aquilaria sinensis*
 - [ ] I stripped only one side (strip peeling or half-ring peeling), not a full ring round the tree; the wound is wrapped
 - [ ] Before collecting vine stems I looked carefully at the leaves, flowers and fruit of the whole plant and ruled out *Gouwen*, *Leigongteng* and birthwort-family plants
-- [ ] Anything with "Mutong" in its name I get only from a proper pharmacy on prescription
+- [ ] Anything with "*Mutong*" in its name I get only from a proper pharmacy on prescription
 - [ ] I have smelt the "*Wujiapi*" and "*Digupi*": no strong, peculiar fragrance
 - [ ] For root barks I dug only cultivated plants or old plants removed in renewal
 - [ ] After processing I spread it out to dry; those containing volatile oil (*Houpo*, *Rougui*, *Guizhi*, *Mudanpi*, *Tanxiang*, *Chenxiang*, *Jiangxiang*) are stored sealed
@@ -657,7 +657,7 @@ Before collecting bark or stem/wood medicines, confirm each point:
 - ⏭️ [Fungi, Algae, Resins and Others](07-fungi-algae-resins-and-others.md) - poria, lingzhi, frankincense, myrrh, dragon's blood, borneol and other fungi, algae, resins and other medicines
 - 🔗 [General Principles of Identifying and Collecting Chinese Medicinal Herbs](00-general-principles.md) - general methods for identification, harvesting, processing (including "sweating"), storage, safety and the law
 - 🔗 [Toxic Herbs and Poisonous Look-alikes](09-toxic-herbs-and-poisonous-look-alikes.md) - identification and poisoning signs of *Xiangjiapi*, *Guanmutong*, *Gouwen*, *Leigongteng* and others
-- 🔗 [Roots and Rhizomes (1)](01-roots-and-rhizomes-1.md) - *Heshouwu*, *Baishao*, *Chishao* and other root medicines
+- 🔗 [Roots and Rhizomes (Part 1)](01-roots-and-rhizomes-1.md) - *Heshouwu*, *Baishao*, *Chishao* and other root medicines
 - 🔗 [Fruits and Seeds](03-fruits-and-seeds.md) - goji berries and other fruit medicines
 - 🔗 [Medicinal Plants: Identification and Growing Guide](../04-farming-and-animal-husbandry/04-medicinal-plants.md) - growing goji and honeysuckle, and the home herb garden
 - 🔗 [Traditional Chinese Medicine Preparations](../06-pharmaceuticals/04-herbal-preparations.md) - processing, decoction (including "added near the end"), common formulas and safe use

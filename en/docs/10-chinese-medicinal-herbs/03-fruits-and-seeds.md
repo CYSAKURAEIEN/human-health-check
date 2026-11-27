@@ -62,7 +62,7 @@ The "Toxicity/protection" column gives the toxicity noted in the Pharmacopoeia, 
 | *Qianshi* (euryale seed) | Ripe kernel | Boosts the kidney and secures essence, tonifies the spleen and stops diarrhoea | Harvested in water; take care | [2.7](#27-qianshi-euryale-seed) |
 | *Suanzaoren* (sour jujube seed) | Ripe seed | Nourishes heart and liver, calms the mind | Beware of fake *Lizaoren*; increases drowsiness with sleeping pills | [2.8](#28-suanzaoren-sour-jujube-seed) |
 | *Chenpi* (dried tangerine peel) | Ripe peel | Regulates qi and strengthens the spleen, dries damp and resolves phlegm | Home-made: watch for pesticide residues and wax | [3.1](#31-chenpi-dried-tangerine-peel) |
-| *Qingpi* (green tangerine peel) | Young fruit or unripe peel | Soothes the liver and breaks up qi, dispels accumulation | Caution in pregnancy | [3.2](#32-qingpi-green-tangerine-peel) |
+| *Qingpi* (green tangerine peel) | Young fruit or unripe peel | Soothes the liver and breaks up qi, dispels accumulation and stagnation | Caution in pregnancy | [3.2](#32-qingpi-green-tangerine-peel) |
 | *Zhishi* (immature bitter orange) | Young fruit | Breaks up qi and dispels accumulation, resolves phlegm and relieves fullness | Caution in pregnancy | [3.3](#33-zhishi-immature-bitter-orange) |
 | *Zhiqiao* (bitter orange) | Unripe fruit | Regulates qi and loosens the middle, moves stagnation and relieves bloating | Caution in pregnancy | [3.4](#34-zhiqiao-bitter-orange) |
 | *Shanzha* (hawthorn fruit) | Ripe fruit | Aids digestion and strengthens the stomach, moves qi and disperses stasis | Caution with excess stomach acid or stomach ulcer | [3.5](#35-shanzha-hawthorn-fruit) |
@@ -109,7 +109,7 @@ Most herbs in this group are "both food and medicine", and they are the most lik
 - **Harvesting and processing**: pick in summer and autumn when the fruit is red; dry with hot air, then remove the stalks; or air until the skin wrinkles, then sun-dry and remove the stalks
 - **Storage**: high in sugar, **very prone to oiling (sticky and black), insect damage and mould**; seal and keep in a cool place; refrigerate small amounts
 - **Actions**: nourishes liver and kidney, benefits essence and brightens the eyes
-- **Dose**: 6-12 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner); eating small amounts as food every day is generally safe
+- **Dose**: 6-12 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner); eating small amounts as ordinary food is generally safe
 - **Cautions**: people with a fever from an external illness or with diarrhoea from spleen deficiency should not eat much; **in people taking warfarin**, goji has been reported to raise the risk of bleeding (raised INR) – ask a doctor first; people with diabetes should watch the sugar content
 - For the root bark, *Digupi*, see [Barks, stems and woods – *Digupi*](06-barks-stems-and-woods.md#22-digupi-goji-root-bark)
 
@@ -269,7 +269,7 @@ Astringent herbs are used for conditions where things "slip out and cannot be he
 - **Key identification features**:
   - Plant: deciduous shrub with prickles on the branches; simple leaves, **deeply palmately 5-lobed**; flowers white, solitary; aggregate fruit nearly round, red and edible when ripe
   - Crude herb: an aggregate of many small drupelets forming a **cone or flattened cone**, 0.6-1.3 cm high, 0.5-1.2 cm across; surface yellowish-green or light brown, tip bluntly rounded, base hollowed in the centre; the drupelets come off easily, each half-moon-shaped, **densely covered on the back with greyish-white down**, with a clear net pattern on both sides; light, hard; tastes slightly sour and astringent
-- **Look-alikes**: there are many *Rubus* species, and most wild "wild berries" are edible but are not the Pharmacopoeia herb; the "raspberry" fruit sold in supermarkets is the European red raspberry, a different species from the herb *Fupenzi*. The herb is collected **unripe**, not as fully ripe red fruit
+- **Look-alikes**: there are many *Rubus* species, and most "wild berries" found outdoors are edible but are not the Pharmacopoeia herb; the "raspberry" fruit sold in supermarkets is the European red raspberry, a different species from the herb *Fupenzi*. The herb is collected **unripe**, not as fully ripe red fruit
 - **Harvesting and processing**: in early summer, when the fruit turns from green to greenish-yellow, pick it, remove stalks and leaves, scald briefly in boiling water or steam briefly, take out and dry
 - **Storage**: keep dry; protect from mould and insects
 - **Actions**: boosts the kidney, secures essence and reduces urination, nourishes the liver and brightens the eyes
@@ -319,7 +319,7 @@ Astringent herbs are used for conditions where things "slip out and cannot be he
 - **Storage**: rich in oil, **prone to oiling and insect damage**; seal, keep in a cool place, do not store for long
 - **Actions**: nourishes the heart and tonifies the liver, calms the mind, stops sweating, generates fluids
 - **Dose**: 10-15 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Cautions**: use with caution in people with excess pathogens or pent-up fire; **taken with sleeping pills or sedatives it can increase drowsiness** – ask a doctor first. Long-term insomnia needs a doctor to find the cause
+- **Cautions**: use with caution in people with excess pathogens or pent-up fire; **taken with sleeping pills or sedatives it can increase drowsiness** – ask a doctor first. With long-term insomnia, see a doctor to find the cause
 
 ---
 
@@ -428,7 +428,7 @@ Qi-regulating herbs are mostly pungent, aromatic and dispersing, and are used fo
 - **Look-alikes**: the related **chinaberry** *Melia azedarach* is extremely common in towns and villages all over China; its fruit, "*Kulianzi*", is **smaller (about 1.5 cm long), elliptical and more toxic**. It must not replace *Chuanlianzi*, let alone be eaten
 - **Toxicity** (important):
   - The Pharmacopoeia marks it "**slightly toxic**". The main toxic constituent is toosendanin and related compounds
-  - Signs of poisoning: nausea, vomiting, abdominal pain, diarrhoea, dizziness, drowsiness, blurred vision, **liver damage**; in severe cases irregular heartbeat and respiratory paralysis. There are reports of children eating chinaberry fruit by mistake, and of adults dying after taking an overdose themselves
+  - Signs of poisoning: nausea, vomiting, abdominal pain, diarrhoea, dizziness, drowsiness, blurred vision, **liver damage**; in severe cases irregular heartbeat and respiratory paralysis. Deaths have been reported in children who ate chinaberry fruit by mistake and in adults who took an overdose themselves
 - **Harvesting and processing**: pick in winter when the fruit is ripe, remove impurities and dry
 - **Storage**: store separately, label it "toxic", and keep it out of reach of children
 - **Actions**: soothes the liver and drains heat, moves qi and relieves pain, kills parasites
@@ -525,7 +525,7 @@ Most herbs in this group are cool in nature and are used for fever, sore throat,
 - **Storage**: keep dry; protect from mould
 - **Actions**: disperses wind-heat, clears the head and eyes
 - **Dose**: 5-10 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Cautions**: use with caution for headache and dizziness caused by blood deficiency; repeated severe headaches need a doctor to find the cause first
+- **Cautions**: use with caution for headache and dizziness caused by blood deficiency; with repeated severe headaches, see a doctor first to find the cause
 
 ### 4.6 Luohanguo (monk fruit)
 
@@ -784,7 +784,7 @@ All the herbs in this group are oil-rich seeds that moisten the intestines and r
 - **Storage**: rich in oil, **very prone to oiling**; seal, keep cool and dark
 - **Actions**: moistens the intestines and relieves constipation
 - **Dose**: 10-15 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Cautions**: **do not eat large amounts**: eating a large amount of hemp seed at once (especially roasted with the shell on) has been reported to cause poisoning, with nausea, vomiting, diarrhoea, numbness of the limbs, restlessness or drowsiness, and in severe cases coma. Not suitable for people with spleen deficiency and diarrhoea. Long-term constipation needs a doctor to find the cause
+- **Cautions**: **do not eat large amounts**: eating a large amount of hemp seed at once (especially roasted with the shell on) has been reported to cause poisoning, with nausea, vomiting, diarrhoea, numbness of the limbs, restlessness or drowsiness, and in severe cases coma. Not suitable for people with spleen deficiency and diarrhoea. With long-term constipation, see a doctor to find the cause
 
 ---
 
@@ -899,4 +899,4 @@ Before collecting or using a fruit or seed herb, confirm each point:
 
 ---
 
-**A single seed can kill – do not eat bitter almonds raw, cook beans through, do not use toxic fruits yourself, and if you are not sure what something is, do not pick it and do not eat it.**
+**A single seed can kill – do not eat bitter apricot kernels raw, cook beans through, do not use toxic fruits yourself, and if you are not sure what something is, do not pick it and do not eat it.**
