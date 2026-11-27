@@ -95,7 +95,7 @@ Most medicinal "fungi" are not the mushrooms ordinary people imagine: *Fuling*, 
 - **Storage**: keep in a dry place, protect from damp; it moulds easily when damp and cracks if over-dried
 - **Actions**: promotes urination and drains damp, strengthens the spleen, calms the heart
 - **Dose**: 10-15 g (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
-- **Cautions**: mild in nature; not for frequent use in people with yin deficiency and no water-damp, or who pass a lot of urine (experience). Poria is often made into foods such as "poria cakes"; eating moderate amounts as food is generally fine, but it cannot replace treatment of oedema: **for oedema, first look for a cause in the heart, kidneys or liver**
+- **Cautions**: mild in nature; people with yin deficiency and no water-damp, or who pass a lot of urine, should not use much of it (experience). Poria is often made into foods such as "poria cakes"; eating moderate amounts as food is generally fine, but it cannot replace treatment of oedema: **for oedema, first look for a cause in the heart, kidneys or liver**
 
 ### 1.2 Zhuling (polyporus)
 
@@ -138,11 +138,11 @@ Most medicinal "fungi" are not the mushrooms ordinary people imagine: *Fuling*, 
 - **Distribution and habitat**: found only in alpine meadows at about 3000-5000 m on the Qinghai–Tibet Plateau and its surroundings (Qinghai, Tibet, Sichuan, Yunnan, Gansu); complete caterpillar fungus cannot yet be cultivated on a large scale
 - **Key identification features** (two parts: the "worm" below and the "grass" above):
   - Larva: **looks like a silkworm**, 3-5 cm long, 0.3-0.8 cm across; surface deep yellow to yellowish-brown, with **20-30 rings**, finer near the head; **head reddish-brown**; **8 pairs of legs, the middle 4 pairs most obvious**; brittle, snaps easily, broken surface fairly flat, pale yellowish-white, **often with a black "V"-shaped or dot-like gut visible in the middle** (experience)
-  - Stroma: grows from the head of the larva; **slender and cylindrical**, 4-7 cm long, about 0.3 cm across; surface dark brown to brownish-brown, with fine lengthwise wrinkles, slightly swollen at the top; tough and flexible, broken surface off-white
+  - Stroma: grows from the head of the larva; **slender and cylindrical**, 4-7 cm long, about 0.3 cm across; surface dark brown to brownish-tan, with fine lengthwise wrinkles, slightly swollen at the top; tough and flexible, broken surface off-white
   - Smell: **slightly fishy**, taste slightly bitter
 - **Common fakes and tricks**:
-  - **Yaxiangbang Chongcao** and other *Cordyceps*: the larva is usually covered in a greyish-white or off-white fungal film, the rings and legs are less distinct than in the genuine herb, and the stroma is often branched or a different colour
-  - **Dican** (the tubers of the mint-family plants *Stachys geobombycis* and Chinese artichoke): spindle-shaped, with 4-15 segments, **no legs, no head, no stroma**, broken surface off-white, taste sweet
+  - ***Yaxiangbang Chongcao*** and other *Cordyceps*: the larva is usually covered in a greyish-white or off-white fungal film, the rings and legs are less distinct than in the genuine herb, and the stroma is often branched or a different colour
+  - ***Dican*** (the tubers of the mint-family plants *Stachys geobombycis* and Chinese artichoke): spindle-shaped, with 4-15 segments, **no legs, no head, no stroma**, broken surface off-white, taste sweet
   - **Moulded from flour, bean flour or gypsum**: every piece has exactly the same shape, rings and legs, too regular; the broken surface is uniform with no black gut dot; it softens and falls apart in water and turns blue with iodine tincture (it contains starch)
   - **Iron wire, bamboo slivers or lead wire inserted to add weight**, broken pieces glued together: test with a magnet, look against the light, break it open and look at the joint; be suspicious of pieces that are **clearly heavier** than others of the same size
   - **"Cordyceps mycelium" or "Cordyceps flower" passed off as it**: Cordyceps flower is the fruiting body of *Cordyceps militaris* (northern cordyceps), orange-yellow, and not the same thing as Chinese caterpillar fungus
@@ -237,7 +237,7 @@ For why iodine matters, see [Nutrition and Deficiency Diseases – Iodine](../07
 - **Source**: the dried thallus of kelp, *Laminaria japonica* Aresch. (Laminariaceae), or of *Ecklonia kurome* Okam. (Alariaceae)
 - **Distribution and habitat**: kelp is native to the coasts of Japan and Korea and the northern coast of China, and is now farmed on a large scale in Shandong, Liaoning, Fujian and elsewhere; *Ecklonia* (*e'zhangcai*, "goose-foot vegetable") grows on rocks below the low-tide line along the coasts of Zhejiang and Fujian
 - **Key identification features**:
-  - Kelp: rolled and folded into a lump or tangled into a bundle; **blackish-brown or greenish-brown, with a white bloom on the surface**; when softened in water it swells into a **flat, long strap**, 50-150 cm long and 10-40 cm wide, **thicker in the middle and thinner and wavy at the edges**; leathery, with the remains of the stalk flattened-cylindrical. It is the ordinary dried kelp people eat
+  - Kelp: rolled and folded into a lump or tangled into a bundle; **blackish-brown or greenish-brown, with a white bloom on the surface**; when softened in water it swells into a **flat, long strap**, 50-150 cm long and 10-40 cm wide, **thicker in the middle and thinner and wavy at the edges**; somewhat leathery, with the remains of the stalk flattened-cylindrical. It is the ordinary dried kelp people eat
   - *Ecklonia* (*e'zhangcai*): curled and shrivelled into irregular lumps, **black, fairly thin**; when softened in water it becomes a flat leaf, **deeply pinnately divided on both sides**, the lobes long and tongue-shaped (like a goose's foot); smooth and soft
   - Smell: **fishy smell, salty taste**
 - **Harvesting and processing**: collected in summer and autumn, sun-dried
@@ -287,7 +287,7 @@ There is also a poisonous resin herb, ***Tenghuang*** (gamboge), which is for ex
 
 ### 3.2 Moyao (myrrh)
 
-- **Moyao (Moyao, Tianran Moyao, Jiaozhi Moyao)**: Chinese 没药; *Commiphora myrrha* Engl., *C. molmol* Engl.
+- **Moyao (Moyao 末药, Tianran Moyao, Jiaozhi Moyao)**: Chinese 没药; *Commiphora myrrha* Engl., *C. molmol* Engl.
 - **Source**: the dried resin of *Commiphora myrrha* Engl. or *C. molmol* Engl. (Burseraceae); divided into natural myrrh and gummy myrrh
 - **Distribution and habitat**: produced in dry regions of Somalia, Ethiopia, the southern Arabian Peninsula and elsewhere; all of it is imported
 - **Key identification features**:
@@ -311,7 +311,7 @@ There is also a poisonous resin herb, ***Tenghuang*** (gamboge), which is for ex
   - Smell: faint smell, bland taste; does not dissolve in water, softens in hot water
   - **Paper-heating test** (Pharmacopoeia identification test): put some powder on white paper and heat it with a flame from under the paper: **the powder melts, but there is no oily stain spreading out across the paper**, and against the light it is **bright red**
   - Fire test: lit with a flame, it gives off **choking smoke**
-- **"Longxuejie" is not "Xuejie"**: the Chinese-produced **Longxuejie** is resin extracted from the resinous wood of *Dracaena cochinchinensis* and related species (Asparagaceae; formerly placed in the lily family Liliaceae or the agave family Agavaceae), produced in Yunnan and Guangxi and used under ministry or local standards. **It is not the Pharmacopoeia's "*Xuejie*"**; the two have different sources, and although their actions are similar they must not be freely substituted for each other or called by each other's name
+- **"*Longxuejie*" is not "*Xuejie*"**: the Chinese-produced ***Longxuejie*** is resin extracted from the resinous wood of *Dracaena cochinchinensis* and related species (Asparagaceae; formerly placed in the lily family Liliaceae or the agave family Agavaceae), produced in Yunnan and Guangxi and used under ministry or local standards. **It is not the Pharmacopoeia's "*Xuejie*"**; the two have different sources, and although their actions are similar they must not be freely substituted for each other or called by each other's name
 - **Fakes**: **rosin with red dye** pressed into blocks, or genuine herb mixed with rosin or earth: in the paper-heating test, **an oily stain spreads** or **a large patch of paper is stained red**, or there is a rosin smell: it is a fake; be suspicious of any that **loses colour** when wiped with water or alcohol
 - **Storage**: keep in a cool, dry place, protect from heat (it softens)
 - **Actions**: activates blood and relieves pain, resolves stasis and stops bleeding, promotes tissue regeneration and heals sores
@@ -341,7 +341,7 @@ There is also a poisonous resin herb, ***Tenghuang*** (gamboge), which is for ex
 - **Source** (the Pharmacopoeia distinguishes three kinds by source, with different doses):
   - **Bingpian (synthetic borneol)**: **chemically synthesised** from turpentine, camphor and other raw materials; the commonest and cheapest on the market
   - **Natural Bingpian (d-borneol)**: made by **extracting and processing** the fresh branches and leaves of the camphor tree, *Cinnamomum camphora* (L.) Presl (Lauraceae)
-  - **Aipian (l-borneol)**: crystals made by extracting and processing the fresh leaves of *Blumea balsamifera* (L.) DC. (Asteraceae)
+  - ***Aipian* (l-borneol)**: crystals made by extracting and processing the fresh leaves of *Blumea balsamifera* (L.) DC. (Asteraceae)
   - The "*longnaoxiang*" and "*meipian*" of old books are resin crystals of the Borneo camphor tree (Dipterocarpaceae); imported, and rarely seen today
 - **Distribution and habitat**: the raw material of natural *Bingpian*, the camphor tree (a particular "borneol camphor" chemotype), comes mainly from Jiangxi, Hunan and elsewhere; *Blumea balsamifera* grows in Guangdong, Guangxi, Guizhou and Hainan
 - **Key identification features**:
@@ -352,7 +352,7 @@ There is also a poisonous resin herb, ***Tenghuang*** (gamboge), which is for ex
 - **Storage**: **seal**, keep in a cool place; *Bingpian* is extremely volatile and left open it "gets less and less"
 - **Actions**: opens the orifices and restores consciousness, clears heat and relieves pain
 - **Dose** (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner):
-  - *Bingpian* (synthetic borneol), Aipian: 0.15-0.3 g, in pills and powders; for external use, ground to powder and dabbed on the affected area
+  - *Bingpian* (synthetic borneol), *Aipian*: 0.15-0.3 g, in pills and powders; for external use, ground to powder and dabbed on the affected area
   - Natural *Bingpian*: 0.3-0.9 g, in pills and powders; for external use, a suitable amount
   - **Not used in decoctions** (it evaporates as soon as it is heated)
 - **Cautions**: **use with caution in pregnancy**; do not use on babies and young children (including not putting ointments containing *Bingpian* near their mouth or nose); taken by mouth it irritates the stomach and intestines, and an overdose can cause nausea, vomiting and dizziness; coma, stroke and "closed patterns" (*bizheng*) must be seen by a doctor at once; do not rely on *Bingpian* to "open the orifices"
@@ -382,7 +382,7 @@ The herbs in this group have very different origins: *Wubeizi* is an "insect gal
 ### 4.2 Qingdai (indigo naturalis)
 
 - **Qingdai (Dianhua, Landianhua)**: Chinese 青黛; *Baphicacanthus cusia* (Nees) Bremek., *Polygonum tinctorium* Ait., *Isatis indigotica* Fort.
-- **Source**: the **dried powder, lumps or granules processed from** the leaves or stems and leaves of *Baphicacanthus cusia* (Nees) Bremek. (Acanthaceae), Chinese indigo, *Polygonum tinctorium* Ait. (Polygonaceae, knotweed family), or woad, *Isatis indigotica* Fort. (Brassicaceae, cabbage family)
+- **Source**: the **dried powder, lumps or granules processed from** the leaves or stems and leaves of *Baphicacanthus cusia* (Nees) Bremek. (Acanthaceae), of Chinese indigo, *Polygonum tinctorium* Ait., (Polygonaceae, knotweed family), or woad, *Isatis indigotica* Fort. (Brassicaceae, cabbage family)
 - **Distribution and habitat**: *Baphicacanthus* grows in Fujian, Guangdong, Sichuan, Yunnan and other southern regions (its rhizome and root are "southern *Banlangen*"); woad is widely grown in the north (its root is [*Banlangen*](01-roots-and-rhizomes-1.md#33-banlangen-isatis-root) and its leaf is *Daqingye*); *Qingdai* is produced mainly in Fujian ("Fujian *Qingdai*", *jianqingdai*)
 - **Key identification features**:
   - Crude drug: **deep blue powder, light, flies about easily**; or irregular porous lumps and granules that crumble to fine powder when rubbed between the fingers
@@ -392,7 +392,7 @@ The herbs in this group have very different origins: *Wubeizi* is an "insect gal
 - **Fakes**: **too much lime, talc or earth mixed in** to add weight: it feels heavy, much of it sinks in water, and with a drop of vinegar or dilute hydrochloric acid it fizzes strongly (lime); powder **coloured with chemical dyes**: in water **the water quickly turns blue**, and heating gives no purplish-red fumes (experience)
 - **Processing at the place of origin** (for information only): traditionally, fresh leaves are soaked and fermented, the branches and leaves are removed, lime water is added and the liquid is beaten repeatedly, and **the blue froth floating on the surface is skimmed off** and sun-dried to give *Qingdai*; what settles at the bottom is the "indigo paste" (*landian*) used for dyeing cloth. Medicinal *Qingdai* must have few impurities, and home-made product can hardly meet the standard
 - **Storage**: keep in a dry place, **protect from damp**; the powder flies about easily, so keep it sealed
-- **Actions**: clears heat and detoxifies, cools the blood and fades rashes, drains fire and calms convulsions
+- **Actions**: clears heat and detoxifies, cools the blood and fades rashes, drains fire and stops convulsions
 - **Dose**: 1-3 g, best used in pills and powders; for external use, a suitable amount (Chinese Pharmacopoeia, 2020 edition; use under the guidance of a TCM practitioner)
 - **Cautions**: use with caution in people with a cold stomach or a weak spleen and stomach; **do not take it by mouth long term**: pulmonary arterial hypertension, ischaemic colitis and other problems have been reported after long-term use; pregnant women must not use it on their own. It is quite commonly used externally for mouth ulcers and eczema; if the skin lesions are extensive or weep a lot, see a doctor
 
@@ -419,7 +419,7 @@ The herbs in this group have very different origins: *Wubeizi* is an "insect gal
 ### 4.4 Ercha (catechu)
 
 - **Ercha (Haiercha, Heiercha)**: Chinese 儿茶; *Acacia catechu* (L. f.) Willd.
-- **Source**: the **dried concentrated decoction of the peeled branches and trunk** of the catechu tree, *Acacia catechu* (L. f.) Willd. (Fabaceae, pea family)
+- **Source**: the **dried concentrated decoction of the peeled branches and trunk** of the catechu tree, *Acacia catechu* (L. f.) Willd. (Fabaceae, legume family)
 - **Distribution and habitat**: catechu is a thorny deciduous small tree, produced in southern Yunnan (Xishuangbanna and elsewhere), Guangxi and Hainan, and also imported from India and Myanmar
 - **Key identification features**:
   - Crude drug: **square or irregular lumps** of varying size; **surface brown or blackish-brown, smooth and slightly glossy**; hard, brittle, broken surface uneven and glossy, **with fine pores**, sticky when damp
@@ -454,12 +454,12 @@ The herbs in this group have very different origins: *Wubeizi* is an "insect gal
 | All fungi | Eating death caps or other deadly fungi picked in the wild by mistake | Do not pick wild fungi for medicine or food; use only proper herbs |
 | *Fuling* | Fake poria slices pressed from flour or starch | Sticks to the teeth when chewed; turns blue-black with iodine tincture if starch is mixed in |
 | *Lingzhi* | Artist's bracket and other bracket fungi passed off as "wild *Lingzhi*" | Look for the lacquer-like sheen and the long side stalk; do not steep unknown hard fungi in water or liquor |
-| *Dongchongxiacao* | Illegal digging and buying; Dican, Yaxiangbang Chongcao, moulded fakes, iron wire for weight; high arsenic | Do not dig wild plants; check the legs, rings, stroma and broken surface; do not eat large amounts long term |
+| *Dongchongxiacao* | Illegal digging and buying; *Dican*, *Yaxiangbang Chongcao*, moulded fakes, iron wire for weight; high arsenic | Do not dig wild plants; check the legs, rings, stroma and broken surface; do not eat large amounts long term |
 | *Mabo* | Young death-cap buttons, earthballs | Cut lengthwise: only a puffball is uniform inside with no structure; do not collect any that turn black inside early |
 | *Leiwan* | Used instead of deworming drugs; destroyed by decoction | See a doctor for parasites; not used in decoctions |
 | *Haizao*, *Kunbu* | Too much iodine worsens thyroid disease; *Haizao* is incompatible with *Gancao* | People with thyroid disease must not use them on their own; do not use with *Gancao* |
 | *Ruxiang*, *Moyao* | Rosin passed off as them; irritate the stomach; risks in pregnancy | Chewing test, water test; caution in pregnancy and with a weak stomach |
-| *Xuejie* | Fakes of rosin plus dye; confusion with Longxuejie | No oily stain in the paper-heating test, bright red against the light; check the Pharmacopoeia source |
+| *Xuejie* | Fakes of rosin plus dye; confusion with *Longxuejie* | No oily stain in the paper-heating test, bright red against the light; check the Pharmacopoeia source |
 | *Hupo* | Plastic and copal imitations | Picks up paper after rubbing, floats in salt water, smells of rosin with a hot needle |
 | *Bingpian* | Synthetic passed off as natural; camphor mistaken for *Bingpian* | Look at the price and the test report; never take camphor by mouth; no *Bingpian* for babies and young children |
 | *Wubeizi* | Touching lacquer or wax trees by mistake while collecting | Look for Chinese sumac with winged leaf axes; people prone to allergy wear gloves |

@@ -2,7 +2,7 @@
 
 > **Roots and rhizomes grow underground, and once dug up all that is left is a piece of "wood". Half the skill of identifying root medicines lies in recognising the plant above ground before you dig; the other half lies in looking at the cut surface and smelling it afterwards.** This chapter covers 36 root and rhizome medicines that nourish yin, tonify the liver and kidneys, invigorate blood and move qi, clear heat and promote urination, resolve phlegm and soothe the throat, and dispel wind-damp.
 
-This chapter continues Chapter 01, "Roots and Rhizomes (1)". General methods for identification, harvesting, drying and storage are in the [General principles](00-general-principles.md); each entry here describes only what is particular to that herb and does not repeat the general principles.
+This chapter continues Chapter 01, "Roots and Rhizomes (Part 1)". General methods for identification, harvesting, drying and storage are in the [General principles](00-general-principles.md); each entry here describes only what is particular to that herb and does not repeat the general principles.
 
 ## ⚠️ Read these first
 
@@ -48,7 +48,7 @@ This chapter continues Chapter 01, "Roots and Rhizomes (1)". General methods for
 | Herb | Part used | Main actions | Toxicity/protection | See |
 |------|---------|---------|----------|-----|
 | *Zhimu* | Rhizome | Clears heat and drains fire, nourishes yin and moistens dryness | — | [1.1](#11-zhimu-anemarrhena-rhizome) |
-| *Xuanshen* | Root | Clears heat and cools blood, nourishes yin and resolves toxicity | Incompatible with *Lilu* | [1.2](#12-xuanshen-figwort-root) |
+| *Xuanshen* | Root | Clears heat and cools blood, nourishes yin and removes toxins | Incompatible with *Lilu* | [1.2](#12-xuanshen-figwort-root) |
 | *Maidong* | Root tuber | Nourishes yin and generates fluids, moistens the lungs and clears heart heat | — | [1.3](#13-maidong-dwarf-lilyturf-tuber) |
 | *Tiandong* | Root tuber | Nourishes yin and moistens dryness, clears the lungs and generates fluids | 🛡️ | [1.4](#14-tiandong-chinese-asparagus-tuber) |
 | *Yuzhu* | Rhizome | Nourishes yin and moistens dryness, generates fluids and relieves thirst | Easily confused with lily of the valley and others | [1.5](#15-yuzhu-fragrant-solomons-seal-rhizome) |
@@ -67,15 +67,15 @@ This chapter continues Chapter 01, "Roots and Rhizomes (1)". General methods for
 | *Muxiang* | Root | Moves qi and relieves pain, strengthens the spleen and aids digestion | 🛡️ Easily confused with Qingmuxiang | [3.6](#36-muxiang-costus-root) |
 | *Wuyao* | Root tuber | Moves qi and relieves pain, warms the kidneys and dispels cold | — | [3.7](#37-wuyao-lindera-root) |
 | *Dahuang* | Root and rhizome | Purges accumulations, clears heat and drains fire, dispels stasis | Use with caution in pregnancy; not for long-term use | [4.1](#41-dahuang-rhubarb-root) |
-| *Huzhang* | Rhizome and root | Drains damp and relieves jaundice, clears heat and resolves toxicity, disperses stasis | Use with caution in pregnancy | [4.2](#42-huzhang-giant-knotweed-rhizome) |
+| *Huzhang* | Rhizome and root | Drains damp and relieves jaundice, clears heat and removes toxins, disperses stasis | Use with caution in pregnancy | [4.2](#42-huzhang-giant-knotweed-rhizome) |
 | *Baimaogen* | Rhizome | Cools blood and stops bleeding, clears heat and promotes urination | — | [4.3](#43-baimaogen-cogongrass-rhizome) |
 | *Lugen* | Rhizome | Clears heat and drains fire, generates fluids and relieves thirst | — | [4.4](#44-lugen-reed-rhizome) |
 | *Zexie* | Tuber | Promotes urination and drains damp, drains heat | — | [4.5](#45-zexie-water-plantain-tuber) |
 | *Shichangpu* | Rhizome | Opens the orifices and clears phlegm, restores consciousness and sharpens the mind | — | [5.1](#51-shichangpu-grass-leaved-sweet-flag-rhizome) |
 | *Chuanbeimu* | Bulb | Clears heat and moistens the lungs, resolves phlegm and stops cough | 🛡️ Incompatible with aconite | [5.2](#52-chuanbeimu-sichuan-fritillary-bulb) |
 | *Zhebeimu* | Bulb | Clears heat and resolves phlegm, dissipates nodules and reduces abscesses | Incompatible with aconite | [5.3](#53-zhebeimu-zhejiang-fritillary-bulb) |
-| *Shegan* | Rhizome | Clears heat and resolves toxicity, resolves phlegm and soothes the throat | — | [5.4](#54-shegan-blackberry-lily-rhizome) |
-| *Shandougen* | Root and rhizome | Clears heat and resolves toxicity, reduces swelling and soothes the throat | **Toxic** | [5.5](#55-shandougen-vietnamese-sophora-root) |
+| *Shegan* | Rhizome | Clears heat and removes toxins, resolves phlegm and soothes the throat | — | [5.4](#54-shegan-blackberry-lily-rhizome) |
+| *Shandougen* | Root and rhizome | Clears heat and removes toxins, reduces swelling and soothes the throat | **Toxic** | [5.5](#55-shandougen-vietnamese-sophora-root) |
 | *Yuanzhi* | Root | Calms the mind and sharpens the intellect, expels phlegm | 🛡️ | [5.6](#56-yuanzhi-polygala-root) |
 | *Ganjiang*, *Shengjiang* | Rhizome | Warms the middle and dispels cold; releases the exterior and dispels cold | — | [6.1](#61-ganjiang-and-shengjiang-dried-and-fresh-ginger) |
 | *Weilingxian* | Root and rhizome | Dispels wind-damp, unblocks the channels | — | [6.2](#62-weilingxian-chinese-clematis-root) |
@@ -116,7 +116,7 @@ Most of this group are rhizomes, root tubers and bulbs of plants in the lily fam
   - Firm, hard to break; **cut surface jet black, faintly glossy**; distinctive smell, like burnt sugar; taste sweet and slightly bitter
 - **Harvesting and processing**: dig in winter when the stems and leaves have withered; remove the rhizome, young buds, fibrous roots and soil; sun-dry or oven-dry until half dry, pile up for 3-6 days to "sweat", and repeat several times until dry; only then does the inside turn black (for sweating see [General principles – Sweating](00-general-principles.md#54-sweating))
 - **Storage**: in a ventilated, dry place; protect from mould and insects
-- **Actions**: clears heat and cools blood, nourishes yin and lowers fire, resolves toxicity and dissipates nodules. Used for yin damaged by febrile disease, sore throat, scrofula, abscesses and sores, and similar
+- **Actions**: clears heat and cools blood, nourishes yin and lowers fire, removes toxins and dissipates nodules. Used for yin damaged by febrile disease, sore throat, scrofula, abscesses and sores, and similar
 - **Dose**: 9-15 g (use under the guidance of a TCM practitioner)
 - **Cautions**: do not use with *Lilu* (eighteen incompatibilities, see [General principles 7.3](00-general-principles.md#73-the-eighteen-incompatibilities-and-nineteen-antagonisms-combinations-to-avoid)); cold in nature, not suitable for people with a weak spleen and loose stools
 
@@ -431,7 +431,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 - **Look-alikes**: the "mountain rhubarb" and "earth rhubarb" (*shan dahuang*, *tu dahuang*), such as North China rhubarb, Tibetan-border rhubarb and Hetao rhubarb, have **no star spots** on the cross-section of the rhizome and contain rhaponticin (bright blue-violet fluorescence under an ultraviolet lamp); the Pharmacopoeia states that it must not be detected in the genuine herb. The roots of docks in the genus *Rumex* (knotweed family), such as Yangti and patience dock, are also called "Tudahuang"; none of these can be used as *Dahuang*
 - **Harvesting and processing**: dig in late autumn when the stems and leaves have withered, or in the following spring before the buds open; remove the fine roots, scrape off the bark, cut into pieces or sections, thread on string and dry, or dry directly (dry large pieces slowly in the shade or over a low fire, to stop the inside from rotting)
 - **Storage**: protect from damp and insects
-- **Actions**: purges accumulations, clears heat and drains fire, cools blood and resolves toxicity, dispels stasis and unblocks menstruation, drains damp and relieves jaundice. Used for constipation from excess heat and accumulation, red eyes and swollen throat, abscesses, boils and sores, absent periods from blood stasis, knocks and falls, and damp-heat jaundice; used externally for burns and scalds
+- **Actions**: purges accumulations, clears heat and drains fire, cools blood and removes toxins, dispels stasis and unblocks menstruation, drains damp and relieves jaundice. Used for constipation from excess heat and accumulation, red eyes and swollen throat, abscesses, boils and sores, absent periods from blood stasis, knocks and falls, and damp-heat jaundice; used externally for burns and scalds
 - **Dose**: 3-15 g; for purging do not boil it for long; an appropriate amount for external use, ground to powder and applied to the affected area (use under the guidance of a TCM practitioner)
 - **Cautions**:
   - The Pharmacopoeia states: **use with caution in pregnancy, during periods and while breastfeeding**. *Dahuang* purges and invigorates blood and can cause uterine contractions and bleeding, so **pregnant women must not use it on their own**; taken while breastfeeding it can give the baby diarrhoea
@@ -451,7 +451,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
   - Very hard; faint smell; taste slightly bitter and astringent
 - **Harvesting and processing**: dig in spring and autumn, remove the fibrous roots, wash, cut into short sections or thick slices while fresh, and sun-dry
 - **Storage**: protect from damp and mould
-- **Actions**: drains damp and relieves jaundice, clears heat and resolves toxicity, disperses stasis and relieves pain, stops cough and resolves phlegm. Used for damp-heat jaundice, cloudy urine and vaginal discharge, rheumatic pain, abscesses and sores, burns and scalds, absent periods, knocks and falls, and cough from lung heat
+- **Actions**: drains damp and relieves jaundice, clears heat and removes toxins, disperses stasis and relieves pain, stops cough and resolves phlegm. Used for damp-heat jaundice, cloudy urine and vaginal discharge, rheumatic pain, abscesses and sores, burns and scalds, absent periods, knocks and falls, and cough from lung heat
 - **Dose**: 9-15 g; an appropriate amount for external use, made into a decoction or ointment and applied (use under the guidance of a TCM practitioner)
 - **Cautions**: **use with caution in pregnancy**; it contains anthraquinones, which are laxative, so it is not suitable for people with a weak spleen and loose stools; for jaundice, see a doctor first to find the cause
 
@@ -561,7 +561,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 - **How it differs from Chuanbeimu**: Zhebei is **large**, single scales or flattened-round bulbs, more bitter, and is used more to clear heat, resolve phlegm and dissipate nodules; Chuanbei is **small** (mostly under 1 cm), two scales clasping, slightly bitter, and is used more to moisten the lungs and stop cough
 - **Harvesting and processing**: dig in early summer when the plants wither, and wash; sort by size: remove the central buds from large ones, traditionally called "Dabei"; leave the buds in small ones, traditionally called "Zhubei"; rub off the outer skin by tumbling, mix with calcined shell powder to absorb the juice, and dry; or remove the central buds, cut into thick slices while fresh and dry, traditionally called "Zhebei slices"
 - **Storage**: easily attacked by insects and damaged by damp; keep sealed
-- **Actions**: clears heat, resolves phlegm and stops cough, resolves toxicity, dissipates nodules and reduces abscesses. Used for wind-heat cough, cough from phlegm-fire, lung abscess, breast abscess, scrofula and toxic sores
+- **Actions**: clears heat, resolves phlegm and stops cough, removes toxins, dissipates nodules and reduces abscesses. Used for wind-heat cough, cough from phlegm-fire, lung abscess, breast abscess, scrofula and toxic sores
 - **Dose**: 5-10 g (use under the guidance of a TCM practitioner)
 - **Cautions**: **do not use with *Chuanwu*, processed *Chuanwu*, *Caowu*, processed *Caowu* or *Fuzi*** (eighteen incompatibilities); not suitable for cold phlegm or damp phlegm
 - 🛡️ **Protection note**: several wild *Fritillaria* species are under state key protection; if you see a fritillary with chequered bell-shaped flowers in the wild, never dig it
@@ -578,7 +578,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
 - **Look-alikes**: the rhizome of iris (blue-violet flowers) is "Chuanshegan", listed separately in the Pharmacopoeia, and must not be mixed up with *Shegan*; there are many wild *Iris* species, some of them poisonous. **If the flower is not orange-red with spots, do not collect it as *Shegan***
 - **Harvesting and processing**: dig in early spring just as the shoots appear, or in late autumn when the stems and leaves wither; remove the fibrous roots and soil, and dry
 - **Storage**: protect from damp and insects
-- **Actions**: clears heat and resolves toxicity, resolves phlegm, soothes the throat. Used for stagnation of toxic heat and phlegm-fire, sore swollen throat, copious phlegm and saliva, and cough and wheezing
+- **Actions**: clears heat and removes toxins, resolves phlegm, soothes the throat. Used for stagnation of toxic heat and phlegm-fire, sore swollen throat, copious phlegm and saliva, and cough and wheezing
 - **Dose**: 3-10 g (use under the guidance of a TCM practitioner)
 - **Cautions**: cold in nature, not suitable for people with a weak spleen and loose stools; pregnant women should ask a doctor before use (traditional experience); a sore swollen throat with difficulty breathing, drooling or inability to swallow is an emergency: see a doctor at once
 
@@ -598,7 +598,7 @@ Most of this group invigorate blood or move qi, and **many are forbidden or to b
   - The therapeutic and toxic doses are close, and people vary widely; there are reports of severe brain damage in children and of mass poisoning after *Shandougen* was steeped as tea to treat sore throats or prevent "internal heat"
 - **Harvesting and processing**: dig in autumn, remove debris, wash and dry
 - **Storage**: store separately with a clear "toxic" label, out of reach of children
-- **Actions**: clears heat and resolves toxicity, reduces swelling and soothes the throat. Used for accumulated fire-toxin, tonsillitis and throat obstruction, sore swollen throat, swollen painful gums, and mouth and tongue sores
+- **Actions**: clears heat and removes toxins, reduces swelling and soothes the throat. Used for accumulated fire-toxin, tonsillitis and throat obstruction, sore swollen throat, swollen painful gums, and mouth and tongue sores
 - **Dose**: the Pharmacopoeia specifies 3-6 g. **Toxic: keep strictly to the Pharmacopoeia amount and do not use it on your own**; it may only be prescribed by a TCM practitioner and obtained from a regular pharmacy
 - **Cautions**: **do not steep it as tea, do not take it long-term, do not give it to children, do not increase the amount yourself**; not suitable for people with a cold, weak spleen and stomach, poor appetite and loose stools; not for pregnant women. If any of the signs of poisoning above appear, call 120 at once and take the herb and the dregs with you, see [General management of poisoning](09-toxic-herbs-and-poisonous-look-alikes.md#5-general-handling-of-poisoning)
 
