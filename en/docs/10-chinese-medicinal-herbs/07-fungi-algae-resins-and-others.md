@@ -339,8 +339,8 @@ There is also a poisonous resin herb, ***Tenghuang*** (gamboge), which is for ex
 
 - **Bingpian (Longnao, Meipian, Pian'nao)**: Chinese 冰片; synthetic borneol; *Cinnamomum camphora* (L.) Presl; *Blumea balsamifera* (L.) DC.
 - **Source** (the Pharmacopoeia distinguishes three kinds by source, with different doses):
-  - **Bingpian (synthetic borneol)**: **chemically synthesised** from turpentine, camphor and other raw materials; the commonest and cheapest on the market
-  - **Natural Bingpian (d-borneol)**: made by **extracting and processing** the fresh branches and leaves of the camphor tree, *Cinnamomum camphora* (L.) Presl (Lauraceae)
+  - ***Bingpian* (synthetic borneol)**: **chemically synthesised** from turpentine, camphor and other raw materials; the commonest and cheapest on the market
+  - **Natural *Bingpian* (d-borneol)**: made by **extracting and processing** the fresh branches and leaves of the camphor tree, *Cinnamomum camphora* (L.) Presl (Lauraceae)
   - ***Aipian* (l-borneol)**: crystals made by extracting and processing the fresh leaves of *Blumea balsamifera* (L.) DC. (Asteraceae)
   - The "*longnaoxiang*" and "*meipian*" of old books are resin crystals of the Borneo camphor tree (Dipterocarpaceae); imported, and rarely seen today
 - **Distribution and habitat**: the raw material of natural *Bingpian*, the camphor tree (a particular "borneol camphor" chemotype), comes mainly from Jiangxi, Hunan and elsewhere; *Blumea balsamifera* grows in Guangdong, Guangxi, Guizhou and Hainan
